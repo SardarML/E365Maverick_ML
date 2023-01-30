@@ -24,7 +24,7 @@ def download_audio(url_list):
 
           # convert to audio-wave
           sound = AudioSegment.from_file(f'data_benchmarks/audios_benchmark/MP4_Data/{video_id}.mp4', format="mp4")
-          sound.export(f'data_benchmarks/audios_benchmark\WAV_Data/{video_id}.wav', format="wav")
+          sound.export(f'data_benchmarks/audios_benchmark/WAV_Data/{video_id}.wav', format="wav")
       except VideoUnavailable:
           print(f"Video {url} is unavailable.\n skip")
 
