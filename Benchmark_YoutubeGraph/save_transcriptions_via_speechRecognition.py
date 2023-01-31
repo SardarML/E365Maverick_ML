@@ -46,7 +46,9 @@ def get_large_audio_transcription(path):
             
             # try converting it to text
             try:
-                text = r.recognize_google(audio_listened, language=get_language_code('https://www.youtube.com/watch?v=' + file_name))
+                text = r.recognize_google(audio_listened, 
+                                          language=get_language_code('https://www.youtube.com/watch?v=' + file_name)
+                                         )
                 time.sleep(5)
             except sr.UnknownValueError as e:
                 print("Error:", str(e))

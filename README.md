@@ -5,7 +5,7 @@
 2. Now we can generate transcriptions of the audio files with pydub SpeechRecognition and save them into a csv 
     - let's integrate a language detection with langdetect
 
-## this transcriptions can be: 
+### this transcriptions can be: 
     - parsed as nodes in rdf 
     - used in recommendation NLU Systems
 

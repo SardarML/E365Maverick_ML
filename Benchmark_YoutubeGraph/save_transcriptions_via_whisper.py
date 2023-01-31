@@ -1,5 +1,4 @@
 import whisper
-import ffmpeg
 
 def get_large_audio_transcription(path):
     model = whisper.load_model("base")
