@@ -13,7 +13,7 @@ we use different natural language processing (NLU) techniques.
  and save them into a csv 
     - let's integrate a language detection with langdetect
 
-## this transcriptions can be: 
+### this transcriptions can be: 
     - parsed as nodes in rdf 
     - used in recommendation NLU Systems
 
