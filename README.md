@@ -8,7 +8,6 @@ we use different natural language processing (NLU) techniques.
 ## Benchmark_YouTubeGraph:
 
 1. We get audio data from a list of Youtube Video URLs (mp4, wav) with pydub AudioSegment
-
 2. Now we can generate transcriptions of the audio files with pydub SpeechRecognition
  and save them into a csv 
     - let's integrate a language detection with langdetect
