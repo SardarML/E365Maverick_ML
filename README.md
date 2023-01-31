@@ -1,8 +1,15 @@
-# Benchmark_YouTubeGraph:
+# Recommendation Graph: 
+The mapping of skills to educational content:
+
+In this project, we want to recommend to users a logical learning path for each targeted skill, 
+consisting of different educational content arranged chronologically. To automate the recommendations, 
+we use different natural language processing (NLU) techniques.
+
+## Benchmark_YouTubeGraph:
 
 1. We get audio data from a list of Youtube Video URLs (mp4, wav) with pydub AudioSegment
-
-2. Now we can generate transcriptions of the audio files with pydub SpeechRecognition and save them into a csv 
+2. Now we can generate transcriptions of the audio files with pydub SpeechRecognition
+ and save them into a csv 
     - let's integrate a language detection with langdetect
 
 ### this transcriptions can be: 
