@@ -28,7 +28,7 @@ for audio_file in audio_files:
 import pandas as pd
 
 def save_DataFrame():
-        transcriptions_frame = pd.DataFrame(results)
+        transcriptions_frame = pd.DataFrame(results, columns=['video_id', 'transcriptions']) # hier noch bechriften
         return transcriptions_frame
 
 transcriptions_frame = save_DataFrame()

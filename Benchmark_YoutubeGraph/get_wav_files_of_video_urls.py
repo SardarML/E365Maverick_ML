@@ -4,14 +4,10 @@ from pytube import YouTube
 from pytube.exceptions import VideoUnavailable
 from pydub import AudioSegment
 
-# videos from crawler
-def get_youtube_video_urls():
-    urls = pd.read_csv(r'data_benchmarks/urls.csv')
-    urls = urls['0']
-    return urls
+from video_urls_from_crawler import get_youtube_video_urls
 
+# videos from crawler
 urls = get_youtube_video_urls()
-print(f'we work with {len(urls)} videos')
 
 def download_audio(url_list):
     # get audio-mp4

@@ -84,7 +84,7 @@ for wav_file in wav_files:
 import pandas as pd
 
 def save_DataFrame():
-        transcriptions_frame = pd.DataFrame(results)
+        transcriptions_frame = pd.DataFrame(results) # hier noch bechriften
         return transcriptions_frame
 
 transcriptions_frame = save_DataFrame()

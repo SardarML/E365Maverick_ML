@@ -7,3 +7,4 @@ SpeechRecognition
 ffmpeg
 langdetect
 openai-whisper
+YoutubeTags
