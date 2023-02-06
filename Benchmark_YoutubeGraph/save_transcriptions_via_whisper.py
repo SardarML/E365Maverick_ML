@@ -8,7 +8,7 @@ def get_large_audio_transcription(path):
 import os
 
 # path to the folder with audio files
-folder_path = 'data_benchmarks/audios_benchmark\WAV_Data'
+folder_path = 'data_benchmarks/audios_benchmark/WAV_Data'
 
 # create a list of all audio files in the folder
 audio_files = [f for f in os.listdir(folder_path) if f.endswith('.wav')]
