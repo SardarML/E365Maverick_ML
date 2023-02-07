@@ -1,11 +1,12 @@
 import whisper
+import os
+import pandas as pd
 
 def get_large_audio_transcription(path):
-    model = whisper.load_model("base")
+    # model: https://huggingface.co/spaces/openai/whisper
+    model = whisper.load_model("base") 
     result = model.transcribe(path)
     return result["text"]
-
-import os
 
 # path to the folder with audio files
 folder_path = 'data_benchmarks/audios_benchmark/WAV_Data'
@@ -25,10 +26,8 @@ for audio_file in audio_files:
     except Exception as e:
         print(f"error in the transcription of {audio_file}, error: {e}")
 
-import pandas as pd
-
 def save_DataFrame():
-        transcriptions_frame = pd.DataFrame(results, columns=['video_id', 'transcriptions']) # hier noch bechriften
+        transcriptions_frame = pd.DataFrame(results, columns=['video_id', 'transcriptions']) 
         return transcriptions_frame
 
 transcriptions_frame = save_DataFrame()

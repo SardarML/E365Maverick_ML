@@ -35,4 +35,4 @@ def get_video_descriptions(url_list):
     return pd.DataFrame(results)
 
 captions = get_video_descriptions(urls_lst)
-captions.to_csv('data_benchmarks\entities_properties_benchmark/video_descriptions_benchmark.csv', index=False)
+captions.to_csv('video_descriptions_benchmark.csv', index=False)

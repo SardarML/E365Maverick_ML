@@ -22,4 +22,4 @@ def get_video_tags(url_list):
 
 # save the tags (of the first 3 videos)
 all_tags = get_video_tags(urls_lst)
-all_tags.to_csv('data_benchmarks\entities_properties_benchmark/video_tags_benchmark.csv', index=False)
+all_tags.to_csv('video_tags_benchmark.csv', index=False)

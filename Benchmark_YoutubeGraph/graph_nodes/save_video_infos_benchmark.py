@@ -42,4 +42,4 @@ for url in urls_lst:
     continue
 
 all_infos = pd.concat(infos, axis=0)
-all_infos.to_csv('data_benchmarks\entities_properties_benchmark/video_infos_entities_benchmark.csv')
+all_infos.to_csv('video_infos_entities_benchmark.csv')

@@ -3,7 +3,6 @@ import pandas as pd
 from pytube import YouTube
 from pytube.exceptions import VideoUnavailable
 from pydub import AudioSegment
-
 from video_urls_from_crawler import get_youtube_video_urls
 
 # videos from crawler

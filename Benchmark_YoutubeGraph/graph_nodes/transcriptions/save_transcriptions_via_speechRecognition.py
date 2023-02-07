@@ -3,7 +3,6 @@ import speech_recognition as sr
 from pydub import AudioSegment
 from pydub.silence import split_on_silence
 import time
-
 from language_code import get_language_code
 
 # create a speech recognition object
@@ -84,7 +83,7 @@ for wav_file in wav_files:
 import pandas as pd
 
 def save_DataFrame():
-        transcriptions_frame = pd.DataFrame(results) # hier noch bechriften
+        transcriptions_frame = pd.DataFrame(results, columns=['video_id', 'transcriptions']) 
         return transcriptions_frame
 
 transcriptions_frame = save_DataFrame()
