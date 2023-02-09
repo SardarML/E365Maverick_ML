@@ -8,3 +8,4 @@ ffmpeg
 langdetect
 openai-whisper
 YoutubeTags
+rdflib
