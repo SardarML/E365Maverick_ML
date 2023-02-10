@@ -8,7 +8,7 @@ embeddings = Embeddings({
     'path':'sentence-transformers/all-MiniLM-L6-v2'
 })
 
-# get all the Textdata and bring it together
+# get all the textdata and bring it together
 titles, tags, captions, transcriptions_whisper =  get_texts_for_ai()
 
 # get your data from the bechmark 
@@ -23,7 +23,7 @@ data = {
 # data = pd.DataFrame(data)
 # data.to_csv("/content/drive/MyDrive/EntityGraph/Benchmarks/data/embedding_data_benchmark.csv", index=False)
 
-# get strings for Textminig
+# get strings for textminig
 strings = []
 for i in range(len(titles)):
     string = titles[i] + " | " + tags[i] + " | " + captions[i] + " | " + transcriptions_whisper[i]
@@ -40,7 +40,7 @@ for text in strings:
     txtai_data.append((i, text, None))
     i+=1
 
-# let's quickly create our index of all the data
+# let's quickly create our index (embeddings-vocab) of all the data
 embeddings.index(txtai_data)
 
 # try out with esco skills
@@ -52,12 +52,12 @@ skills = skills_esco['preferredLabel']
 and pass in how many results we want to see'''
 
 # pick a random skill and compare with entities
-search_word = skills[12000]
+search_word = skills[7]
 
 res = embeddings.search(search_word, 20)
 for r in res:
     '''we'll get a set of tuples that correspond to 2 things:
-      1. index number, that has been retrieved. So in this case the thing that is most similar.
+      1. index number, that has been retrieved. So in this case the thing that is most similar
       2. score of similarity'''
     print(f'Text: {strings[r[0]][:100]}') # take just the first 100 characters of the strings
     print(f'Similarity for the competence *{search_word}*: {r[1]}\n')
@@ -75,7 +75,6 @@ for query in (skills[:5]):
     print("%-20s %s" % (f'skill: {query}',f'\nmost similar entity: {strings[uid][:100]}\n')) # take just the first 100 characters of the strings
 
 
-
-## for aniother script
+## for another script
 # save the embeddings index
 embeddings.save('data_benchmarks\embeddings_benchmark')
