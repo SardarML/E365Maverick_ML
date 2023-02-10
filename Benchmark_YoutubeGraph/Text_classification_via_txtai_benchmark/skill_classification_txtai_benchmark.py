@@ -11,7 +11,7 @@ embeddings = Embeddings({
 # get all the Textdata and bring it together
 titles, tags, captions, transcriptions_whisper =  get_texts_for_ai()
 
-# get your data from the bechmark transcriptions
+# get your data from the bechmark 
 data = {
     "Title": titles,
     "tags": tags,
@@ -23,7 +23,7 @@ data = {
 # data = pd.DataFrame(data)
 # data.to_csv("/content/drive/MyDrive/EntityGraph/Benchmarks/data/embedding_data_benchmark.csv", index=False)
 
-# get strings für Textminig
+# get strings for Textminig
 strings = []
 for i in range(len(titles)):
     string = titles[i] + " | " + tags[i] + " | " + captions[i] + " | " + transcriptions_whisper[i]

@@ -20,3 +20,20 @@ we use different natural language processing (NLU) techniques.
     - compare with the transcriptions we generated via pydub SpeechRecognition
     - parse as nodes in rdf 
     - use in recommendation NLU Systems  
+
+
+- We take the whisper transcriptions:
+    - they are easy and fast to generate
+
+4. Now we can classify the esco skills with all the textdata in the graph (title, tags, captions, transcriptions):
+    1. work with the embeddings class
+    2. get all the Textdata and bring it together
+    3. get strings for Textminig
+    4. use txtai, a huggingface transformer architecture
+        - https://github.com/neuml/txtai/blob/master/examples/  01_Introducing_txtai.ipynb
+    5. indexing the data
+    6. query this data:
+        - pick a random skill and compare with entities
+    7. save the embeddings index for other NLU models
+    8. give attention to the to the transformer architecture:
+        - https://arxiv.org/pdf/1706.03762.pdf
