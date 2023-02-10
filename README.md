@@ -35,5 +35,5 @@ To automate the recommendations, we use different natural language processing (N
     6. query this data:
         - pick a random skill and compare with textdata of entities & properties
     7. save the embeddings index for other NLU models
-    8. give attention to the to the transformer architecture:
+    8. give attention to transformer architectures (state-of-the-art 2023):
         - https://arxiv.org/pdf/1706.03762.pdf
