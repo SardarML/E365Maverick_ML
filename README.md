@@ -37,3 +37,25 @@ To automate the recommendations, we use different natural language processing (N
     7. save the embeddings index for other NLU models
     8. give attention to transformer architectures (state of the art 2023):
         - https://arxiv.org/pdf/1706.03762.pdf
+
+## EntityGraph & Skill classification
+
+1. take current videos and unique identifiers from crawler
+2. generate entities (video info)
+3  generate properties:
+    1. tags, captions
+    2. audiodata (only for transcriptions)
+    3. transcriptions via openai-whisper 
+    https://huggingface.co/spaces/openai/whisper
+4. YouTubeGraph: connect the nodes with schema.org & skos (property, label)
+5. SkillGraph: get esco skills & parse them into another graph
+6. use txtai to classify skills & entities:
+    - a skill-vector (embeddings) should have the highest cosine similarity to the embedded textual data (titles, tags, captions transcriptions) of a video source/entity, that most often contains the word, or contextually fits best
+7. check the embeddings with tsne (t distributed stochastical neighborhood embedding) and try to find out what's inside the blackbox of txtai's training
+8. connect entity nodes (YouTubeGraph) with most similar skill nodes (SkillGraph) with schema.org property (teaches)
+9. generation of fixed learning paths:
+    1. AI index method:
+        - search for appropriate teaching resources on the different skills
+        - find subordinate and superordinate skills by indexing chronological learning requirements
+        - generate learning paths
+10. receive user feedback (& credentials) and feed it into further text classification procedures to adapt the learning paths
