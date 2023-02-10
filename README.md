@@ -42,7 +42,7 @@ To automate the recommendations, we use different natural language processing (N
 
 1. take current videos and unique identifiers from crawler
 2. generate entities (video info)
-3  generate properties:
+3.  generate properties:
     1. tags, captions
     2. audiodata (only for transcriptions)
     3. transcriptions via openai-whisper 
