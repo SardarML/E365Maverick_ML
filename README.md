@@ -27,8 +27,8 @@ To automate the recommendations, we use different natural language processing (N
 
 4. Now we can classify the esco skills with all the textdata in the graph (title, tags, captions, transcriptions):
     1. work with the embeddings class
-    2. get all the Textdata and bring it together
-    3. get strings for Textminig
+    2. get all the textdata and bring it together
+    3. get strings for textminig
     4. use txtai, a huggingface transformer architecture
         - https://github.com/neuml/txtai/blob/master/examples/  01_Introducing_txtai.ipynb
     5. indexing the data
