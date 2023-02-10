@@ -30,7 +30,7 @@ To automate the recommendations, we use different natural language processing (N
     2. get all the textdata and bring it together
     3. get strings for textminig
     4. use txtai, a huggingface transformer architecture
-        - https://github.com/neuml/txtai/blob/master/examples/  01_Introducing_txtai.ipynb
+        - https://github.com/neuml/txtai
     5. indexing the data
     6. query this data:
         - pick a random skill and compare with entities
