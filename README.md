@@ -50,7 +50,7 @@ To automate the recommendations, we use different natural language processing (N
 4. YouTubeGraph: connect the nodes with schema.org & skos (property, label)
 5. SkillGraph: get esco skills & parse them into another graph
 6. use txtai to classify skills & entities:
-    - a skill-vector (embeddings) should have the highest cosine similarity to the embedded textual data (titles, tags, captions transcriptions) of a video source/entity, that most often contains the word, or contextually fits best
+    - a skill-vector (embeddings) should have the highest cosine similarity to the embedded textual data (titles, tags, captions & transcriptions) of a video source/entity, that most often contains the word, or contextually fits best
 7. check the embeddings with tsne (t distributed stochastical neighborhood embedding) and try to find out what's inside the blackbox of txtai's training
 8. connect entity nodes (YouTubeGraph) with most similar skill nodes (SkillGraph) with schema.org property (teaches)
 9. generation of fixed learning paths:
