@@ -2,8 +2,8 @@
 The mapping of skills to educational content:
 
 In this project, we want to recommend to users a logical learning path for each targeted skill, 
-consisting of different educational content arranged chronologically. To automate the recommendations, 
-we use different natural language processing (NLU) techniques.
+consisting of different educational content arranged chronologically. 
+To automate the recommendations, we use different natural language processing (NLU) techniques.
 
 ## Benchmark_YouTubeGraph:
 
