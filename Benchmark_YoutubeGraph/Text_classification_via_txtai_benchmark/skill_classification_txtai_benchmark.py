@@ -30,7 +30,7 @@ for i in range(len(titles)):
     strings.append(string)
 
 ## use txtai, a huggingface transformer architecture
-# https://github.com/neuml/txtai/blob/master/examples/01_Introducing_txtai.ipynb
+# https://github.com/neuml/txtai
 txtai_data = []
 i=0
 for text in strings:
