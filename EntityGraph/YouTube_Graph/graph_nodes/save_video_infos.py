@@ -1,6 +1,7 @@
 import pandas as pd
 import youtube_dl
 from pytube import extract
+import time
 import logging
 from get_video_urls_from_crawler import get_file_urls
 
@@ -25,8 +26,6 @@ def video_info(url):
                                          index=[video_id])
         video_information.index.name = 'video_id'
         return video_information
-
-import time
 
 # save the infos 
 infos = []
