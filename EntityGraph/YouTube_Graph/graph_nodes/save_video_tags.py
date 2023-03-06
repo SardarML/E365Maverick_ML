@@ -22,6 +22,6 @@ def get_video_tags(url_list):
         logging.exception('no tags found', e)
     return pd.DataFrame(results)
 
-# save the tags (of the first 3 videos)
+# save the tags 
 all_tags = get_video_tags(urls_lst)
 all_tags.to_csv('youtube_video_data/nodes/video_tags.csv', index=False)

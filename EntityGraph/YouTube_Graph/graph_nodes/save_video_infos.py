@@ -28,7 +28,7 @@ def video_info(url):
 
 import time
 
-# save the infos (of the first 3 videos)
+# save the infos 
 infos = []
 for url in urls_lst:
   try:
