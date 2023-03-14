@@ -1,0 +1,2 @@
+
+#folder_path = DataPath(datastore='azureml://subscriptions/fd8ab69d-6d9f-4b7a-b36d-ac7fbeb987e1/resourcegroups/E365_Maverick/workspaces/ML_Dev/datastores/workspaceblobstore/paths/UI/2023-03-13_121539_UTC/MP4_Data/', path_on_datastore='azureml://subscriptions/fd8ab69d-6d9f-4b7a-b36d-ac7fbeb987e1/resourcegroups/E365_Maverick/workspaces/ML_Dev/datastores/workspaceblobstore/paths/UI/2023-03-13_121539_UTC/MP4_Data/', name=None)
