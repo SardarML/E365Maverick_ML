@@ -24,7 +24,7 @@ def video_info(url):
                                                 'Duration': [duration],
                                                 'Thumbnail' : [thumb]},
                                          index=[video_id])
-        video_information.index.name = 'video_id'
+        video_information.index.name = 'identifier'
         return video_information
 
 # save the infos 

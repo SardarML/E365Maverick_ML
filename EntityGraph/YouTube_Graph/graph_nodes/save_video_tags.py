@@ -15,7 +15,7 @@ def get_video_tags(url_list):
         video_id = extract.video_id(url) # extract video ID from URL
         tags = videotags(url)
         results.append({
-            "video_id": video_id,
+            "identifier": video_id,
             "tags": tags
         })
       except Exception as e:

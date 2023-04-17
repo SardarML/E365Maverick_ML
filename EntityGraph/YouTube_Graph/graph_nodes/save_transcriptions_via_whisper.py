@@ -28,7 +28,7 @@ for audio_file in audio_files:
         logging.exception(f"error in the transcription of {audio_file}, error: {e}")
 
 def save_DataFrame():
-        transcriptions_frame = pd.DataFrame(results, columns=['video_id', 'transcriptions']) 
+        transcriptions_frame = pd.DataFrame(results, columns=['identifier', 'transcriptions']) 
         return transcriptions_frame
 
 transcriptions_frame = save_DataFrame()
