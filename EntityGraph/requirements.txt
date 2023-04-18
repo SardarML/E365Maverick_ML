@@ -10,3 +10,5 @@ openai-whisper
 YoutubeTags
 rdflib
 txtai
+sentence_transformers
+scikit-learn
