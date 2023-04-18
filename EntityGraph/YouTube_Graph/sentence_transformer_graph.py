@@ -34,7 +34,7 @@ def SentenceTransformer_embeddings():
 
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
-from rdflib import Graph, Literal, RDF, URIRef
+from rdflib import SDO, BNode, Graph, Literal, RDF, URIRef
 from rdflib.namespace import RDF
 
 str_lst, vocab, identifier_vocab = get_data()
@@ -59,13 +59,24 @@ def fill_graph(query):
 
 # parsing output of the sorted list in RDF
     for i in range(len(embeddings)):
+        
+        term = BNode()
+        g.add(term, RDF.type, SDO.DefinedTerm)
+        g.add(term, SDO.termCode, Literal(query))
+
         for item in sorted_list[:5]:
             id = identifier_vocab.get(item[0])  # retrieve identifier for the current element
 
+            node = BNode()
+            g.add(node, RDF.type, SDO.LearningResource)
+            g.add(node, SDO.teaches, term)
+            g.add(node, SDO.identifier, id)
+
+
             # generate triples with cosine similarity
-            learning_resource = URIRef('http://schema.org/LearningResource/' + Literal(id))
-            g.add((learning_resource, RDF.type, Literal(f'Entity: {item[0]} ; Similarity (sentence-transformers/paraphrase-multilingual-mpnet-base-v2):  {item[1]}')))
-            g.add((learning_resource, URIRef('https://schema.org/Property/teaches'), Literal(query)))
+            # learning_resource = URIRef('http://schema.org/LearningResource/' + Literal(id))
+            # g.add((learning_resource, RDF.type, Literal(f'Entity: {item[0]} ; Similarity (sentence-transformers/paraphrase-multilingual-mpnet-base-v2):  {item[1]}')))
+            # g.add((learning_resource, URIRef('https://schema.org/Property/teaches'), Literal(query)))
 
 fill_graph('Polynomdivision')
 
