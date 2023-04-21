@@ -28,45 +28,32 @@ embeddings.index(txtai_data)
 embeddings.save('data/txtai_embeddings_encoded.csv')
 
 import numpy as np
-from rdflib import Graph, Literal, URIRef
+from rdflib import Graph, Literal, URIRef, BNode, SDO
 from rdflib.namespace import RDF
 
-# graph initialization
-g = Graph()
+def fill_graph_txtai(query):
+        # graph initialization
+        h = Graph()
 
-def fill_graph(query):
-    # search for things that have the word __ in it and pass in how many results we want to see
-    res = embeddings.search(query, 10)
+        # search for things that have the word __ in it and pass in how many results we want to see
+        res = embeddings.search(query, 5)
 
-    for r in res:
-        # retrieve the key from the tuple
-        key = txtai_data[r[0]][2]
-        # retrieve the text from the tuple
-        text = txtai_data[r[0]][1]
-        
-        # print the key, first 50 characters of the text and the similarity score
-        learning_resource = URIRef('http://schema.org/LearningResource/' + Literal(key))
-        g.add((learning_resource, RDF.type, Literal(f'Entity: {text[:50]} ; Similarity (txtai!!! sentence-transformers/paraphrase-multilingual-mpnet-base-v2):  {r[1]}')))
-        g.add((learning_resource, URIRef('https://schema.org/Property/teaches'), Literal(query)))
-
-fill_graph('Polynomdivision')
-
-print(f'Graph g has {len(g)} facts')
-for triples in g:
-    print(f'triples{triples}')
-
-g.serialize(destination='data/txtai_example_labeled_graph.ttl')
+        for r in res:
+            # retrieve the key from the tuple
+            key = txtai_data[r[0]][2]
+            # retrieve the text from the tuple
+            text = txtai_data[r[0]][1]
+            
+            # define nodes
+            query_term = BNode()
+            h.add((query_term, RDF.type, SDO.DefinedTerm))
+            h.add((query_term, SDO.termCode, Literal(query)))
 
 
-'''# best matches for our skill graph
-print("%-20s %s" % ("Query/Topic", "Best Match"))
-print("-" * 50)
-
-# for the first 5 skills
-skill_lst = skills[:5]
-
-for query in (skill_lst):
-    # Get index of best section that best matches query
-    uid = embeddings.similarity(query, strings)[0][0]
-
-    print("%-20s %s" % (f'skill: {query}',f'\nmost similar entity: {strings[uid][:50]}\n')) # take just the first 50 characters of the strings'''
+            learning_resource = BNode()
+            h.add((learning_resource, RDF.type, SDO.LearningResource))
+            h.add((learning_resource, SDO.identifier, Literal(key)))
+            # print the key, first 50 characters of the text and the similarity score
+            h.add((learning_resource, SDO.title, Literal(f'Entity: {text[:50]} ; cosine similarity to the refered skill: {query}: {r[1]}')))
+            h.add((learning_resource, SDO.teaches, query_term))    
+        return h
