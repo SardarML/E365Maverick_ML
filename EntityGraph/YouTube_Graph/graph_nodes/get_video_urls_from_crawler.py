@@ -3,7 +3,7 @@ import pandas as pd
 
 def get_file_urls():
         file_ids = []
-        folder_path = "youtube_video_data/videos"
+        folder_path = "youtube_video_data/videos/NEU_videos_04_2023/turtles"
         for filename in os.listdir(folder_path):
             file_id = filename.split(".")[0]
             file_ids.append(file_id)

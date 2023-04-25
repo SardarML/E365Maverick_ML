@@ -39,4 +39,4 @@ for url in urls_lst:
      logging.exception('no infos found', e)
 
 all_infos = pd.concat(infos, axis=0)
-all_infos.to_csv('youtube_video_data/nodes/video_infos_entities.csv')
+all_infos.to_csv('youtube_video_data/nodes/video_infos_entities_NEU_24_04_2023.csv')

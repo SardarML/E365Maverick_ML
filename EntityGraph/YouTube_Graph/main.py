@@ -3,29 +3,24 @@ from txtai_skill_classification_graph import fill_graph_txtai
 
 
 # Model sentence transformer
-# g = fill_graph_sentence_transformer('Polynomdivision')
+ # change QUERY!
+s_g = fill_graph_sentence_transformer('Lineares Gleichungssystem')
+s_h = fill_graph_sentence_transformer('Determinante')
+#s_i = fill_graph_sentence_transformer('Matrizen')
 
-# print(f'Graph g has {len(g)} facts')
-# for triples in g:
-#     print(f'triples{triples}')
-# # change QUERY!
-# g.serialize(destination='data/skill_turtles/sentence_transformer/Polynomdivision_graph.ttl')
+s_g.serialize(destination='data/skill_turtles/sentence_transformer/Mathe_1/Lineare_Algebra/LGS_sentence_transformer.ttl')
+s_h.serialize(destination='data/skill_turtles/sentence_transformer/Mathe_1/Lineare_Algebra/Determinate_sentence_transformer.ttl')
+#s_i.serialize(destination='data/skill_turtles/sentence_transformer/Mathe_1/Vektoren_Matrizen/Matrizen_sentence_transformer.ttl')
 
 
 
 # Model txtai
-h = fill_graph_txtai('Darstellung und Eigenschaften von Funktionen')
-i = fill_graph_txtai('Potenzfunktionen')
-j = fill_graph_txtai('Wurzelfunktionen')
-k = fill_graph_txtai('Ganzrationale Funktionen')
-
-
-print(f'Graph h has {len(h)} facts')
-for triples in h:
-    print(f'triples{triples}')
 # change QUERY!
-h.serialize(destination='data/skill_turtles/txtai/Mathe_1/Funktionen/Funktionen_Darstellung_graph_txtai.ttl')
-i.serialize(destination='data/skill_turtles/txtai/Mathe_1/Funktionen/Potenzfunktionen_graph_txtai.ttl')
-j.serialize(destination='data/skill_turtles/txtai/Mathe_1/Funktionen/Wurzelfunktionen_graph_txtai.ttl')
-k.serialize(destination='data/skill_turtles/txtai/Mathe_1/Funktionen/Ganzrationale_Funktionen_graph_txtai.ttl')
+t_g = fill_graph_txtai('Lineares Gleichungssystem')
+t_h = fill_graph_txtai('Determinante')
+#t_i = fill_graph_txtai('Matrizen')
 
+
+t_g.serialize(destination='data/skill_turtles/txtai/Mathe_1/Lineare_Algebra/LGS_txtai.ttl')
+t_h.serialize(destination='data/skill_turtles/txtai/Mathe_1/Lineare_Algebra/Determinate_txtai.ttl')
+#t_i.serialize(destination='data/skill_turtles/txtai/Mathe_1/Vektoren_Matrizen/Matrizen_txtai.ttl')
