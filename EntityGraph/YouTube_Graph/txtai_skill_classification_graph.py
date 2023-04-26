@@ -4,7 +4,7 @@ from txtai.embeddings import Embeddings
 from sentence_transformer_graph import get_data
 
 str_lst, vocab, identifier_vocab = get_data()
-merged_df = pd.read_csv('data\merged_df.csv')
+merged_df = pd.read_csv('data\merged_df_old_and_new.csv')
 strings = merged_df['String']
 
 # work with the embeddings class

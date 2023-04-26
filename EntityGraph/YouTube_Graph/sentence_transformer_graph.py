@@ -1,7 +1,10 @@
 import pandas as pd
+import numpy as np
+from sentence_transformers import SentenceTransformer
+from sklearn.metrics.pairwise import cosine_similarity
 
 def get_data():
-        merged_df = pd.read_csv('data\merged_df.csv')
+        merged_df = pd.read_csv('data\merged_df_old_and_new.csv')
         strings = merged_df['String']
         str_lst = strings.values
 
@@ -14,9 +17,6 @@ def get_data():
 str_lst, vocab, identifier_vocab = get_data()
 
 # get embeddings like in doc2vec
-from sentence_transformers import SentenceTransformer
-import numpy as np
-
 def SentenceTransformer_embeddings():
         '''https://huggingface.co/sentence-transformers/paraphrase-multilingual-mpnet-base-v2
         This is a sentence-transformers model: 
@@ -33,13 +33,11 @@ def SentenceTransformer_embeddings():
         return model, embeddings
 
 import numpy as np
-from sklearn.metrics.pairwise import cosine_similarity
 from rdflib import Graph, Literal, RDF, URIRef, BNode, SDO
 from rdflib.namespace import RDF
 
 model, embeddings = SentenceTransformer_embeddings()
 
-from sklearn.metrics.pairwise import cosine_similarity
 
 def fill_graph_sentence_transformer(query):
     # graph initialization
