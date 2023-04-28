@@ -42,7 +42,7 @@ for file_path in file_paths:
     transcript = process_file(file_path)
 
     if transcript is not None:
-        transcripts.append({'video_id': video_id, 'transcript': transcript})
+        transcripts.append({'identifier': video_id, 'transcript': transcript})
 
 transcripts = pd.DataFrame(transcripts)
 transcripts.to_csv("youtube_video_data/nodes/transcripts.csv", index=False)
