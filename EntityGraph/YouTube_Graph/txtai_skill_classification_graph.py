@@ -3,7 +3,7 @@ import numpy as np
 from txtai.embeddings import Embeddings
 from get_merged_data import get_data
 
-merged_df, str_lst, vocab, identifier_vocab, identifier = get_data('graph_nodes/youtube_video_data/nodes/merged_data_for_AI.csv')
+merged_df, str_lst, vocab, identifier_vocab, identifier = get_data('data/merged_data_for_AI.csv')
 strings = merged_df['String']
 
 # work with the embeddings class
@@ -24,7 +24,7 @@ print(f'we work with {len(txtai_data)} entitiy-textdata')
 embeddings.index(txtai_data)
 
 # save the embeddings index
-embeddings.save('data/txtai_embeddings_encoded.csv')
+embeddings.save('data/txtai_embeddings_encoded')
 
 import numpy as np
 from rdflib import Graph, Literal, URIRef, BNode, SDO
@@ -48,10 +48,10 @@ def fill_graph_txtai(query):
             h.add((query_term, RDF.type, SDO.DefinedTerm))
             h.add((query_term, SDO.termCode, Literal(query)))
 
-
             learning_resource = BNode()
             h.add((learning_resource, RDF.type, SDO.LearningResource))
             h.add((learning_resource, SDO.identifier, Literal(key)))
+            
             # print the key, first 50 characters of the text and the similarity score
             h.add((learning_resource, SDO.title, Literal(f'Entity: {text[:50]} ; cosine similarity to the refered skill: {query}: {r[1]}')))
             h.add((learning_resource, SDO.teaches, query_term))    
