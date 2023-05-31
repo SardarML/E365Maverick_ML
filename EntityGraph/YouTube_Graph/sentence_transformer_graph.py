@@ -16,6 +16,7 @@ def fill_graph_sentence_transformer(query):
         # encode query
         query_vec = np.array(model.encode([query])[0]).reshape(1,-1)
         print(query_vec.shape)
+
         # loop for calculating similarities and saving them in the list
         similarity_list = []
         for i, sent_vec in enumerate(embeddings):
