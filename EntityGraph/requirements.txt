@@ -13,3 +13,4 @@ txtai
 sentence_transformers
 scikit-learn
 webvtt-py
+py7zr
