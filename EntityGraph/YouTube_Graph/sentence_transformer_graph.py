@@ -111,7 +111,6 @@ def fill_graph_sentence_transformer(query):
 
     infos = infos(file_urls)
 
-
     # loop over the DataFrame
     def find_matches():
         for idx, row in infos.iterrows():
