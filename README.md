@@ -9,6 +9,10 @@ If you want to experiment with the notebooks, you will need to download these fi
 
 from 
 
-https://bechtle365.sharepoint.com/:f:/r/sites/BG365-Artificial-TheIntelligents/Freigegebene%20Dokumente/General/Embeddings?csf=1&web=1&e=dWhgmQ. 
+https://bechtle365.sharepoint.com/:f:/s/BG365-Artificial-TheIntelligents/EkNtlvsuooJHhumJdNCP7WMByCLd3Dbfgmv2wuoVU6OYYQ. 
+
 
 Then place them into notebooks/learning_journeys/data/ . 
+
+If you want to experiment with the corrected punctuations, you'll need also to copy the punctuation_correction from this link into the data directory. 
+
