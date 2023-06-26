@@ -67,7 +67,7 @@ def fill_graph_sentence_transformer(query):
                 # update the title and add the cosine similarity if present
                 if len(parts) == 2:
                     g.set((s, SDO.title, Literal(parts[0])))
-                    g.add((s, SDO.cosineSimilarity, Literal(float(parts[1]), datatype=XSD.float)))
+                    g.add((s, SDO.result, Literal(float(parts[1]), datatype=XSD.float)))
 
     extract_skill()
 

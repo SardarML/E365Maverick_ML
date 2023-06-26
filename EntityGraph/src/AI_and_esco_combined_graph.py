@@ -19,4 +19,4 @@ AI_skill_graph.serialize('big_skill_graph.ttl', format='ttl')
 
 # language graph
 AI_language_graph = fill_all(lang_graph, fill_graph_sentence_transformer)
-AI_language_graph.serialize('big_skill_graph.ttl', format='ttl')
+AI_language_graph.serialize('big_language_graph.ttl', format='ttl')
