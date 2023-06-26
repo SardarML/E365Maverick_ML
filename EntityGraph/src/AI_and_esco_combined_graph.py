@@ -13,5 +13,10 @@ def fill_all(graph, transformer_function):
             combined_graph = combined_graph + sentence_transformer_graph
     return combined_graph
 
-AI_graph = fill_all(skill_graph, fill_graph_sentence_transformer)
-AI_graph.serialize('big_skill_graph.ttl', format='ttl')
+# skill graph
+AI_skill_graph = fill_all(skill_graph, fill_graph_sentence_transformer)
+AI_skill_graph.serialize('big_skill_graph.ttl', format='ttl')
+
+# language graph
+AI_language_graph = fill_all(lang_graph, fill_graph_sentence_transformer)
+AI_language_graph.serialize('big_skill_graph.ttl', format='ttl')
