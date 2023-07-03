@@ -16,3 +16,6 @@ Then place them into notebooks/learning_journeys/data/ .
 
 If you want to experiment with the corrected punctuations, you'll need also to copy the punctuation_correction from this link into the data directory. 
 
+
+Transcripts with corrected punctuation and the sumy summaries created from them can also be found in 
+https://bechtle365.sharepoint.com/:f:/s/BG365-Artificial-TheIntelligents/EkNtlvsuooJHhumJdNCP7WMByCLd3Dbfgmv2wuoVU6OYYQ
