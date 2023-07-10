@@ -142,7 +142,6 @@ cython_debug/
 #be important to different tasks, then we should store them somewhere else in the repo. 
 #Right now you need to download them manually 
 #from https://bechtle365.sharepoint.com/:f:/r/sites/BG365-Artificial-TheIntelligents/Freigegebene%20Dokumente/General/Embeddings?csf=1&web=1&e=dWhgmQ
-notebooks/learning_journeys/data/merged_data_for_AI.csv
-notebooks/learning_journeys/data/sentence_transformer_embedding.csv
+notebooks/learning_journeys/data/*
 
 punctuation_correction*
