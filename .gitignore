@@ -143,5 +143,9 @@ cython_debug/
 #Right now you need to download them manually 
 #from https://bechtle365.sharepoint.com/:f:/r/sites/BG365-Artificial-TheIntelligents/Freigegebene%20Dokumente/General/Embeddings?csf=1&web=1&e=dWhgmQ
 notebooks/learning_journeys/data/*
+notebooks/learning_journeys/data/study_subjects_with_embeddings.pkl
 
 punctuation_correction*
+
+#longformer model
+notebooks/learning_journeys/longformer-base-4096/
