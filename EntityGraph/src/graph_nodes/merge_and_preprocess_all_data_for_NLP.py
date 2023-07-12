@@ -1,8 +1,9 @@
 import pandas as pd
+import nltk
 from langdetect import detect
 from nltk.corpus import stopwords
 from collections import defaultdict
-import nltk
+
 
 nltk.download('stopwords')
 
@@ -24,7 +25,7 @@ from nltk.corpus import stopwords
 
 def remove_stopwords(texts, language):
     if language not in stopwords.fileids():
-        language = 'german'  # Fallback to German if the detected language is not supported
+        language = 'german'  # Fallback to english if the detected language is not supported
     stop_words = set(stopwords.words(language))
     new_texts = []
     for text in texts:
