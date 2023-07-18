@@ -1,0 +1,136 @@
+[00:00:00 -> 00:00:04]  And now we get to what's probably the most difficult part of this lesson, the
+[00:00:04 -> 00:00:09]  plant life cycle, which is called the alternation of generations. Now what do I
+[00:00:09 -> 00:00:14]  mean by an alternation of generations? Well first let me ask you to remember
+[00:00:14 -> 00:00:22]  the animal life cycle. What are we animals? Are we mostly diploid or haploid?
+[00:00:22 -> 00:00:27]  Well hopefully you're thinking diploid. Yes, animals are
+[00:00:27 -> 00:00:33]  multicellular diploid organisms. And I'm using the abbreviation 2M to stand for
+[00:00:33 -> 00:00:39]  diploid. Do we have any haploid cells in our bodies? Yes, we have the gametes. Our
+[00:00:39 -> 00:00:46]  gametes are the only haploid cells. Plants, they alternate. They alternate
+[00:00:46 -> 00:00:51]  between a multicellular diploid stage called the sporophyte and a
+[00:00:51 -> 00:00:56]  multicellular haploid stage called the gametophyte. So let's now look at it in
+[00:00:56 -> 00:01:01]  more detail. First let's take the animal life cycle. So we start out as a
+[00:01:01 -> 00:01:08]  multicellular diploid organism. Special cells within this organism undergo
+[00:01:08 -> 00:01:14]  meiosis. And what does meiosis produce? That's right, gametes, the haploid gametes.
+[00:01:14 -> 00:01:20]  And you have both female and male gametes which will unite in
+[00:01:20 -> 00:01:26]  fertilization to produce the diploid zygote. And then the zygote divides by
+[00:01:26 -> 00:01:33]  mitosis into a baby and eventually the adult. And you make a new multicellular
+[00:01:33 -> 00:01:40]  diploid organism which can begin this life cycle all over again. Now let's look
+[00:01:40 -> 00:01:47]  at plants. So the plant multicellular diploid stage is the sporophyte. Just
+[00:01:47 -> 00:01:54]  like in animals, certain special cells can undergo meiosis. But this time meiosis
+[00:01:54 -> 00:02:02]  produces haploid spores, not gametes. What is the difference? So both gametes and
+[00:02:02 -> 00:02:10]  spores are haploid, but how are they different? Well, once you make gametes, can
+[00:02:10 -> 00:02:16]  they divide again? No. Once gametes are made, they're done. Spores, on the other
+[00:02:16 -> 00:02:28]  hand, they can divide again. So spores will divide by mitosis to produce the
+[00:02:28 -> 00:02:36]  multicellular haploid gametophyte stage. Now special cells within the gametophyte
+[00:02:36 -> 00:02:44]  will become the gametes. And just like in animals, you have female gametes and
+[00:02:44 -> 00:02:50]  male gametes and they will unite through fertilization to produce a diploid
+[00:02:50 -> 00:02:55]  zygote. Then that zygote divides by mitosis to make a new multicellular
+[00:02:55 -> 00:03:03]  diploid sporophyte. So you can see the plant life cycle is a lot longer, has a lot more
+[00:03:03 -> 00:03:06]  steps, but certain things are in common. And hopefully that will help you
+[00:03:06 -> 00:03:11]  remember it. Now, as you're looking at it, you might be thinking, well, but what
+[00:03:11 -> 00:03:16]  exactly is the gametophyte and what is the sporophyte? When I look at a plant,
+[00:03:16 -> 00:03:23]  what am I seeing? Well, it depends on the type of plant. If you're looking at moss,
+[00:03:23 -> 00:03:30]  most of the green moss is actually the gametophyte. But right now, we're focusing
+[00:03:30 -> 00:03:36]  on flowering plants, on the angiosperms. In angiosperms, when you look at them,
+[00:03:36 -> 00:03:42]  when you look at a tulip or a tree or a rose, what you're seeing is the sporophyte,
+[00:03:42 -> 00:03:49]  the multicellular diploid stage. Most of the gametophyte is just not visible to the
+[00:03:49 -> 00:03:56]  human eye. So here's a diagram of the angiosperm life cycle. So this flower that
+[00:03:56 -> 00:04:01]  you're looking at is the sporophyte. The gametophyte, we have one of them is the
+[00:04:01 -> 00:04:07]  pollen grain. So the pollen grain is the male gametophyte. And then something
+[00:04:07 -> 00:04:13]  called the embryo sac in the ovules is the female gametophyte. So the embryo sac
+[00:04:13 -> 00:04:18]  is the female gametophyte. The pollen grain is the male gametophyte. Most of
+[00:04:18 -> 00:04:25]  the plant is the sporophyte. So let's look at the development of the male
+[00:04:25 -> 00:04:30]  and female gametophytes in more detail. So do you remember the name of the male
+[00:04:30 -> 00:04:40]  reproductive organ? It's the stamen. So here's a close-up of a stamen. The top
+[00:04:40 -> 00:04:44]  part of it is called the anther. And inside the anther is where you get the
+[00:04:44 -> 00:04:49]  development of the pollen grains. And here's a microscope image of a pollen
+[00:04:49 -> 00:04:56]  grain. So within the anther are multiple special cells which undergo meiosis.
+[00:04:56 -> 00:05:02]  Don't worry about the name of these cells. Meiosis produces what? That's right,
+[00:05:02 -> 00:05:11]  the spores. So you get the development of the male spores. Then the spores can
+[00:05:11 -> 00:05:20]  undergo mitosis. And mitosis produces the male gametophyte which is the pollen
+[00:05:20 -> 00:05:28]  grain. Pollen grain is composed of just three cells. It's not much but it's still
+[00:05:28 -> 00:05:34]  considered a multicellular gametophyte. So these cells are one tube cell and
+[00:05:35 -> 00:05:45]  two sperm. So this is the male gametophyte, the pollen grain. And what's kind of weird
+[00:05:45 -> 00:05:51]  about it is the two sperm are actually inside the tube cell. So here's the tube
+[00:05:51 -> 00:05:57]  cell that forms the outer part of the pollen. And here's its tube cell nucleus.
+[00:05:57 -> 00:06:03]  And here you can see the two sperm nuclei. Now let's go on to the female
+[00:06:03 -> 00:06:10]  gametophyte. So what is the name of the female reproductive organ? It's the
+[00:06:10 -> 00:06:16]  carpal. So here in the middle of the flower is the carpal. The bottom part of
+[00:06:16 -> 00:06:23]  the carpal is called the ovary. And inside the ovary are one or more ovules.
+[00:06:23 -> 00:06:29]  And in the ovules is where you get the development of the female gametophyte.
+[00:06:29 -> 00:06:36]  So a special cell inside the ovule will undergo meiosis. Meiosis produces the
+[00:06:36 -> 00:06:43]  haploid spores. And this time we're dealing with the female spores. And spores
+[00:06:43 -> 00:06:49]  can undergo mitosis. And there's several mitotic divisions to give you a
+[00:06:49 -> 00:06:58]  multicellular female gametophyte which is called the embryo sac.
+[00:07:00 -> 00:07:05]  And here's a close-up of the embryo sac. So it's found inside the ovule. So here
+[00:07:05 -> 00:07:12]  in the light blue is the outer part of the ovule. And within the ovule is the
+[00:07:12 -> 00:07:16]  female gametophyte, the embryo sac. There's a bunch of cells here. At this
+[00:07:16 -> 00:07:20]  point you don't need to remember all of them. I'd like you to focus on a couple
+[00:07:20 -> 00:07:25]  of them. The egg cell. This is clearly important. Here's the egg. You can see it
+[00:07:25 -> 00:07:32]  right there in yellow. And then here in the middle are two polar nuclei. And
+[00:07:32 -> 00:07:38]  these are part of what's called the central cell. So the central cell is a
+[00:07:38 -> 00:07:43]  little weird. It has two nuclei. And then here on one end is the egg cell. And
+[00:07:43 -> 00:07:49]  here's an opening to the ovule. In this opening, this is where the sperm is
+[00:07:49 -> 00:07:56]  going to enter to be able to fertilize the egg. So now we've made the pollen
+[00:07:56 -> 00:08:01]  grain and the embryo sac. Through some pollination method, the pollen is
+[00:08:01 -> 00:08:06]  delivered to the carpal. And what happens next? So just to remind you, the
+[00:08:06 -> 00:08:13]  carpal is made up of the top stigma, a stalk which can be short or long, called
+[00:08:13 -> 00:08:22]  the stile, an ovary, and inside the ovary are one or more ovules. The pollen
+[00:08:22 -> 00:08:31]  lands on the stigma. The pollen, as a little reminder, is composed of a tube
+[00:08:31 -> 00:08:42]  cell with its own nucleus and two sperm inside. To deliver the sperm to the egg,
+[00:08:42 -> 00:08:49]  the tube cell begins to form a tube. So this nucleus actually directs the
+[00:08:49 -> 00:08:56]  elongation of the cell. So the cell gradually elongates and it begins to grow
+[00:08:56 -> 00:09:03]  as this tube. So here the tube grows through the stigma, through the stile,
+[00:09:03 -> 00:09:09]  through the ovary, and eventually goes towards one of the ovules and delivers
+[00:09:09 -> 00:09:14]  the sperm to the egg. And you can see the pollen tube growing and penetrating
+[00:09:14 -> 00:09:21]  through that little opening in the ovule to deliver the sperm. Now here's just
+[00:09:21 -> 00:09:26]  pictures of it happening with pollen that had been genetically engineered to
+[00:09:26 -> 00:09:31]  be fluorescent. So here hundreds and hundreds of pollen tubes are growing
+[00:09:31 -> 00:09:35]  through the ovary and delivering the sperm to the ovules. So here's a pollen
+[00:09:35 -> 00:09:43]  tube growing along an ovule and delivering the sperm. The pollen tube has
+[00:09:43 -> 00:09:48]  to interact with the maternal tissues for its growth. If you think about it, it's
+[00:09:48 -> 00:09:53]  kind of gross. The pollen tube actually penetrates and grows through the
+[00:09:53 -> 00:09:57]  maternal tissues, but that's what happens. So just a little bit more here is the
+[00:09:57 -> 00:10:02]  stigma and the pollen grain lands on the stigma and then has to grow through it.
+[00:10:02 -> 00:10:08]  And here you can see it in this image. The pollen grows through this tissue that
+[00:10:08 -> 00:10:13]  you can see here in red. And this red tissue is called the transmitting tract.
+[00:10:14 -> 00:10:21]  The transmitting tract allows the pollen to grow through it. Inside it are lots of
+[00:10:21 -> 00:10:27]  nutrients. For a cell to be able to grow, to elongate, it needs energy. So the
+[00:10:27 -> 00:10:33]  transmitting tract provides the energy for the pollen tubes to grow. And it also
+[00:10:33 -> 00:10:39]  provides signaling molecules. Cell signaling needs to occur here for the
+[00:10:39 -> 00:10:44]  pollen to know where the ovules are. The ovules need to be signaling to the
+[00:10:44 -> 00:10:49]  pollen, telling it, come over here. I'm here. Bring the sperm right here. And
+[00:10:49 -> 00:10:54]  here's just a stain that stains specifically for pollen tubes so you can
+[00:10:54 -> 00:10:59]  see them growing through the ovary. So I wanted to talk a little bit about
+[00:10:59 -> 00:11:04]  cell signaling because it's one of your AP Biology enduring understandings. The
+[00:11:04 -> 00:11:09]  idea that cells do communicate with each other. In this case, the ovary
+[00:11:09 -> 00:11:13]  communicates with the pollen tube as well as the embryo sac is sending out a
+[00:11:13 -> 00:11:18]  signal. And here they did a really interesting experiment with cell
+[00:11:18 -> 00:11:23]  signaling. So they isolated an ovule and allowed three pollen tubes to grow
+[00:11:23 -> 00:11:28]  towards the ovule. The asterisk is where that opening in the ovule is where
+[00:11:28 -> 00:11:35]  they need to get to. Now right here, the green pollen tube penetrated first. It
+[00:11:35 -> 00:11:41]  won the race. It got to the ovule first. As soon as it does, the other pollen
+[00:11:41 -> 00:11:46]  tubes change their path. They start growing away from the opening. So here
+[00:11:46 -> 00:11:51]  you see the green one went inside, but the pink and the red are growing now
+[00:11:51 -> 00:11:57]  away. They need to go and find another ovule. So this is really similar to
+[00:11:57 -> 00:12:01]  actually what happens in animals. Even though in animal fertilization there's
+[00:12:01 -> 00:12:07]  no pollen tubes, animals also have a method to make sure that the egg gets
+[00:12:07 -> 00:12:13]  fertilized by only one sperm. As soon as the sperm fuses with the egg, no other
+[00:12:13 -> 00:12:19]  sperm can enter. So this is similar here. As soon as one pollen tube enters the
+[00:12:19 -> 00:12:25]  egg, the embryo sac sends out a signal to tell the other pollen tubes to grow
+[00:12:25 -> 00:12:32]  away from it. And now what happens if something goes wrong with this signal?
+[00:12:33 -> 00:12:39]  So here in this picture, these two are the normal. You have a microscope image.
+[00:12:39 -> 00:12:43]  This is the ovule and here's that little opening. They're marking it with an
+[00:12:43 -> 00:12:47]  arrow and an M. And in yellow, they colored in the pollen tube and it's
+[00:12:47 -> 00:12:51]  growing towards the opening and it goes into the opening. See, it doesn't seem
+[00:12:51 -> 00:12:56]  to be lost or confused at all. It's taking a direct path right to the
+[00:12:56 -> 00:13:01]  opening. That suggests to us that there's a signal telling it where to go.
+[00:13:02 -> 00:13:09]  But things can go wrong. So when this signaling is disrupted, in this case,
+[00:13:09 -> 00:13:15]  here in these pictures, these four, they have a mutant. And in this mutant,
+[00:13:15 -> 00:13:20]  the signaling has been disrupted and the pollen tubes cannot find the signal.
+[00:13:20 -> 00:13:24]  You can see the pollen tube is growing towards the ovule, but doesn't go inside,
+[00:13:24 -> 00:13:29]  keeps growing. And here, same thing, keeps growing. The green one sort of turns
+[00:13:29 -> 00:13:34]  around. They don't know how to find the embryo sac. And this is a very serious
+[00:13:34 -> 00:13:41]  condition because now the plant cannot reproduce. And remember, evolutionary
+[00:13:41 -> 00:13:47]  fitness is measured by your ability to reproduce and pass on your genes,
+[00:13:47 -> 00:13:51]  which would not happen in this particular mutant.

@@ -1,0 +1,232 @@
+[00:00:00 -> 00:00:08]  Are you planning to create a project plan?
+[00:00:08 -> 00:00:11]  What does a good project plan look like?
+[00:00:11 -> 00:00:13]  How could I create one?
+[00:00:13 -> 00:00:16]  Where should I start to create a plan for your project?
+[00:00:16 -> 00:00:21]  For a successful project, a great project plan is essential.
+[00:00:21 -> 00:00:27]  In this video, we will go through the key steps to write a project plan successfully.
+[00:00:27 -> 00:00:32]  Project plans vary in sizes, elements, format, and components.
+[00:00:32 -> 00:00:36]  So there is no single way of creating a project plan.
+[00:00:36 -> 00:00:42]  As a matter of fact, a good project plan contains the project goals it is meant to address.
+[00:00:42 -> 00:00:47]  You may find many project plan templates that vary from extremely complex to extremely simple
+[00:00:47 -> 00:00:49]  across the internet.
+[00:00:49 -> 00:00:52]  But how do you choose the right one?
+[00:00:52 -> 00:00:56]  Check out our PMP-registered online class virtual training that will help you fully
+[00:00:56 -> 00:00:59]  prepare for the PMP certification exam.
+[00:00:59 -> 00:01:05]  You can also check out our self-paced PMP-registered certification training.
+[00:01:05 -> 00:01:09]  Well, before we start, we want to let you know you can download a free project management
+[00:01:09 -> 00:01:15]  plan example along with four other free project management templates by attending our 100%
+[00:01:15 -> 00:01:19]  online and self-paced one-hour free PMP training.
+[00:01:19 -> 00:01:24]  Finding the right project plan if you select any project plan template, you may find yourself
+[00:01:24 -> 00:01:28]  spending precious time filling in lots of details.
+[00:01:28 -> 00:01:33]  Your project may not have these details, or in most cases, it won't need them.
+[00:01:33 -> 00:01:38]  At the same time, if you select a more simplified project plan template, you may find yourself
+[00:01:38 -> 00:01:44]  stuck with a very limited version of the plan that does not include important details.
+[00:01:44 -> 00:01:46]  So what should you do?
+[00:01:46 -> 00:01:51]  We tend to use a more practical approach instead of just handing you a ready-made project plan
+[00:01:51 -> 00:01:53]  example template.
+[00:01:53 -> 00:01:57]  We will show you the right project plan example for your project.
+[00:01:57 -> 00:02:01]  Accordingly, our offering will include steps you should take to create a suitable plan
+[00:02:01 -> 00:02:05]  for your project regardless of its size and components.
+[00:02:05 -> 00:02:08]  How should you start creating a project plan?
+[00:02:08 -> 00:02:10]  So let's start with the obvious questions.
+[00:02:10 -> 00:02:13]  Where should you start and how should you start?
+[00:02:13 -> 00:02:18]  Now many project managers deal with project planning as a solo act.
+[00:02:18 -> 00:02:24]  Thus, they usually tend to neglect team collaboration and depend on their own intellectual skills
+[00:02:24 -> 00:02:27]  to perform the activities all by themselves.
+[00:02:27 -> 00:02:32]  While this may seem an easy approach to creating a solid project plan example, it is an approach
+[00:02:32 -> 00:02:34]  full of flaws.
+[00:02:34 -> 00:02:39]  As a start, consider the fact that teamwork and collaboration bring more value than individual
+[00:02:39 -> 00:02:43]  efforts no matter how brilliant the individual is.
+[00:02:43 -> 00:02:48]  Additionally, the combined backgrounds and experiences of your project team will cover
+[00:02:48 -> 00:02:50]  many project considerations.
+[00:02:50 -> 00:02:55]  One, break down the work the next step is to sit with your team to define the project
+[00:02:55 -> 00:02:59]  work at a high level and then break it down into detailed work packages.
+[00:02:59 -> 00:03:05]  Meanwhile, the team should also work on defining the tasks to carry out in order to complete
+[00:03:05 -> 00:03:07]  the defined work packages.
+[00:03:07 -> 00:03:13]  These tasks should carefully detail every activity the project team will execute.
+[00:03:13 -> 00:03:17]  This way, the team leaves no chance of missing any aspect of the project and it also helps
+[00:03:17 -> 00:03:21]  the team plan and assign proper resources.
+[00:03:21 -> 00:03:26]  As a result, this step is considered one of the most important steps in project planning.
+[00:03:26 -> 00:03:31]  Also, it helps in drawing the line for what should the project team consider as a part
+[00:03:31 -> 00:03:35]  of the project scope of work and what is considered out of scope.
+[00:03:35 -> 00:03:40]  Two, define quality standards quality since you define what work your project team needs
+[00:03:40 -> 00:03:42]  to complete the project.
+[00:03:42 -> 00:03:46]  You need to decide what are the quality standards needed for this work.
+[00:03:46 -> 00:03:51]  Although it might look easy, deciding the quality standards is extremely important.
+[00:03:51 -> 00:03:56]  Accordingly, you and your project team should investigate what are the acceptable quality
+[00:03:56 -> 00:03:59]  standards by both your company and customer.
+[00:03:59 -> 00:04:05]  Also, don't forget to consider any applicable global standards relevant to the project.
+[00:04:05 -> 00:04:10]  Three, assign resources to tasks resources after completing step one and step two.
+[00:04:10 -> 00:04:14]  You can now decide what resources are needed to fulfill the work with the right quality
+[00:04:14 -> 00:04:16]  standards.
+[00:04:16 -> 00:04:21]  This step involves calculating the needed tools and machinery, the material needed,
+[00:04:21 -> 00:04:24]  and the human talents needed to complete the tasks.
+[00:04:24 -> 00:04:29]  Also, it involves deciding the skill level of talents, estimating their efforts, and
+[00:04:29 -> 00:04:32]  deciding who should assign when possible.
+[00:04:32 -> 00:04:37]  Further, a good project team considers all possible scenarios of talent and resource
+[00:04:37 -> 00:04:39]  acquisition.
+[00:04:39 -> 00:04:44]  Lastly, identify the risks related to resources and talents.
+[00:04:44 -> 00:04:48]  This helps you take into account the variables that might lead you to change your earlier
+[00:04:48 -> 00:04:50]  resource decisions.
+[00:04:50 -> 00:04:55]  Four, define the relationship of activities the next step is to understand the relationship
+[00:04:55 -> 00:04:58]  between different tasks and activities.
+[00:04:58 -> 00:05:03]  This step is the heart of project planning since it defines opportunities for project
+[00:05:03 -> 00:05:05]  schedule compression.
+[00:05:05 -> 00:05:09]  In addition to the mentioned, it gives the project team the opportunity to identify schedule
+[00:05:09 -> 00:05:13]  risks and potential conflicts over resources.
+[00:05:13 -> 00:05:18]  Defining the relationship of activities is also known as activity sequencing.
+[00:05:18 -> 00:05:20]  So how do you do it?
+[00:05:20 -> 00:05:25]  It mainly works by defining what are the mandatory relations between different activities.
+[00:05:25 -> 00:05:31]  Also, you should define the logical relations between different activities.
+[00:05:31 -> 00:05:36]  The project team can identify mandatory relations by reviewing any relationship defined by contractual
+[00:05:36 -> 00:05:39]  agreement or obligation.
+[00:05:39 -> 00:05:44]  On the other hand, the team can identify logical relations through what works best.
+[00:05:44 -> 00:05:49]  Activity relations now lets go through each type of relation the project team can identify
+[00:05:49 -> 00:05:51]  and how it works.
+[00:05:51 -> 00:05:54]  There are four types of relationships between different activities.
+[00:05:54 -> 00:05:58]  The first type of activities relationship is start to start.
+[00:05:58 -> 00:06:03]  This type of relationship is used when one activity cannot start unless the other activity
+[00:06:03 -> 00:06:05]  starts.
+[00:06:05 -> 00:06:09]  The second type of activities relationship is finish to start.
+[00:06:09 -> 00:06:14]  The project team uses this type of relationship when one activity cannot start unless the
+[00:06:14 -> 00:06:16]  other activity finishes.
+[00:06:16 -> 00:06:20]  The third type of activities relationship is finish to finish.
+[00:06:20 -> 00:06:25]  The project team uses this type of relationship when one activity cannot finish unless the
+[00:06:25 -> 00:06:27]  other activities finishes.
+[00:06:27 -> 00:06:31]  The fourth type of activities relationship is start to finish.
+[00:06:31 -> 00:06:36]  The project team uses this type of relationship when one activity cannot finish unless the
+[00:06:36 -> 00:06:40]  other activity starts.
+[00:06:40 -> 00:06:44]  Estimate resources and duration of each task the next step in formulating a project plan
+[00:06:44 -> 00:06:50]  example is to set an estimate resource and duration for each task of the project.
+[00:06:50 -> 00:06:56]  Each resource should define the duration and any resources needed to complete the task.
+[00:06:56 -> 00:07:00]  This way we can set duration estimation for each activity in a realistic way and at the
+[00:07:00 -> 00:07:05]  same time confirm the required resources for each activity.
+[00:07:05 -> 00:07:10]  By completing this step formulating a project plan is almost near completion.
+[00:07:10 -> 00:07:15]  On the other hand the project team can use multiple techniques to set activity resources
+[00:07:15 -> 00:07:18]  and duration estimation.
+[00:07:18 -> 00:07:23]  These techniques may include parametric estimation which uses a statistical relationship between
+[00:07:23 -> 00:07:26]  historical data and other variables.
+[00:07:26 -> 00:07:32]  Also the team can use more simplified estimation techniques like analogous estimation, bottom
+[00:07:32 -> 00:07:36]  up estimating or three-point estimation techniques.
+[00:07:36 -> 00:07:41]  The team can use the later technique by calculating the average or the weighted average of optimistic
+[00:07:41 -> 00:07:44]  pessimistic and most likely estimates.
+[00:07:44 -> 00:07:50]  Six estimate each task cost this step is similar to estimating resources and duration for each
+[00:07:50 -> 00:07:53]  task of the project.
+[00:07:53 -> 00:07:58]  Based on task resources required talents and duration the team should decide the cost needed
+[00:07:58 -> 00:08:00]  to complete the task.
+[00:08:00 -> 00:08:05]  As another step for creating a project plan example this step provides a realistic cost
+[00:08:05 -> 00:08:08]  estimate for each activity.
+[00:08:08 -> 00:08:13]  Same as estimating resources and duration the project team can use multiple techniques
+[00:08:13 -> 00:08:16]  to set task cost estimation.
+[00:08:16 -> 00:08:21]  These techniques include parametric estimation where the team uses a statistical relationship
+[00:08:21 -> 00:08:26]  between historical data and other variables to identify cost.
+[00:08:26 -> 00:08:31]  Also the team can use more simplified techniques like analogous estimation, bottom up estimating
+[00:08:31 -> 00:08:34]  and three-point estimation techniques.
+[00:08:34 -> 00:08:39]  Just like estimating resources and duration the team can use the latter technique by calculating
+[00:08:39 -> 00:08:46]  the average or the weighted average of optimistic pessimistic and most likely estimates.
+[00:08:46 -> 00:08:51]  Then generate project plan after completing each task resource and duration estimation.
+[00:08:51 -> 00:08:56]  In addition to completing cost estimates for each task now you can generate the final version
+[00:08:56 -> 00:08:59]  of the project plan example.
+[00:08:59 -> 00:09:03]  You should review the different aspects of the project plan to inspect any potential
+[00:09:03 -> 00:09:05]  conflict between them.
+[00:09:05 -> 00:09:10]  There may be estimated costs for an activity which don't match the resource estimate.
+[00:09:10 -> 00:09:15]  In such a case you need to review your project plan example and find a way to clear that
+[00:09:15 -> 00:09:16]  variance.
+[00:09:16 -> 00:09:21]  We highly recommend that you review the project plan example we provided as an attachment
+[00:09:21 -> 00:09:23]  for your reference.
+[00:09:23 -> 00:09:28]  The final reviewed project plan example is sent for approval and final authorization
+[00:09:28 -> 00:09:29]  for execution.
+[00:09:29 -> 00:09:30]  8.
+[00:09:30 -> 00:09:32]  Finalize and approve by sponsor first.
+[00:09:32 -> 00:09:38]  The project team carefully reviews the final project plan example and rectifies any variances
+[00:09:38 -> 00:09:41]  between different elements.
+[00:09:41 -> 00:09:45]  Then the project manager hands over the final version of the project plan to the project
+[00:09:45 -> 00:09:50]  sponsor for review, recommendations, and final approval.
+[00:09:50 -> 00:09:54]  The project sponsor revises the project plan's final version and investigates it to ensure
+[00:09:54 -> 00:09:57]  it is realistic enough.
+[00:09:57 -> 00:10:03]  Also the sponsor reviews the plan's constraints, assumptions, and project risks.
+[00:10:03 -> 00:10:08]  As a result the project plan might be returned to the project team for revision if the project
+[00:10:08 -> 00:10:11]  sponsor sees it as unrealistic.
+[00:10:11 -> 00:10:15]  On the other hand, if the project sponsor finds the plan realistic, integrated, and
+[00:10:15 -> 00:10:19]  conflict free, he she will approve it directly.
+[00:10:19 -> 00:10:23]  Thus, the project team can have an approved version of the project plan example when the
+[00:10:23 -> 00:10:29]  project sponsor authorizes the team to start executing project work.
+[00:10:29 -> 00:10:34]  Project plan example over project now let's go through a sample project plan example that
+[00:10:34 -> 00:10:39]  we have attached for you as a reference to use for your future project plan.
+[00:10:39 -> 00:10:44]  Sample project plan example section 1 executive summary of project charted the first section
+[00:10:44 -> 00:10:48]  of the sample project plan example covers the executive summary of the project charter
+[00:10:48 -> 00:10:51]  including project constraints and assumptions.
+[00:10:51 -> 00:10:56]  Sample project plan example section 2 scope management this section includes what you
+[00:10:56 -> 00:11:01]  have detailed in the first step in this article breakdown the work.
+[00:11:01 -> 00:11:06]  This includes three subsections work breakdown structure includes defined work package and
+[00:11:06 -> 00:11:11]  sub work packages and their associated breakdown sub levels deployment plan.
+[00:11:11 -> 00:11:16]  Let's say that the project involves deploying an application to state health partners.
+[00:11:16 -> 00:11:20]  This section would discuss the approach for rolling out the application to the end users
+[00:11:20 -> 00:11:25]  including conducting environmental assessments, developing memorandums of understanding, hardware
+[00:11:25 -> 00:11:29]  software installation, and data conversion.
+[00:11:29 -> 00:11:34]  Change management plan let's say that a development server for your project is administered by
+[00:11:34 -> 00:11:38]  another organization that is responsible for installing machine upgrades and there are
+[00:11:38 -> 00:11:42]  scheduled outages that will impact your project schedule.
+[00:11:42 -> 00:11:46]  Changes to the project will need to be made to deal with the potential impact of the scheduled
+[00:11:46 -> 00:11:52]  outage sample project plan example section 3 schedule management this section is about
+[00:11:52 -> 00:11:55]  whether you stay on track with the plan schedule.
+[00:11:55 -> 00:11:59]  It includes the output of sections 4 and 5 of this article.
+[00:11:59 -> 00:12:04]  Let's give an example of a schedule management approach establish a baseline within the first
+[00:12:04 -> 00:12:10]  two weeks of the project and monitor progress against the baseline on a weekly basis.
+[00:12:10 -> 00:12:14]  The project manager will be responsible for ensuring the project schedule is updated with
+[00:12:14 -> 00:12:19]  the latest information and never more than three business days out of date.
+[00:12:19 -> 00:12:25]  For variances on executive milestones greater than 10% the project may choose to use guidance
+[00:12:25 -> 00:12:28]  specified by CPIC.
+[00:12:28 -> 00:12:32]  See the CDC project schedule document for more guidance on project scheduling and for
+[00:12:32 -> 00:12:35]  project schedule templates.
+[00:12:35 -> 00:12:41]  The subsections of this section are milestones includes milestones and their estimated completion
+[00:12:41 -> 00:12:42]  time frames project schedule.
+[00:12:42 -> 00:12:47]  The following diagram provides a sample project schedule dependencies describes the output
+[00:12:47 -> 00:12:54]  of section 4 of this article activity relations sample project plan example section 4.
+[00:12:54 -> 00:12:58]  Cost budget management this section of the sample project plan example describes the
+[00:12:58 -> 00:13:03]  project's cost management plan or provides a reference to where it is stored.
+[00:13:03 -> 00:13:08]  This section should contain step 6 estimate each tasks costs outputs sample project plan
+[00:13:08 -> 00:13:13]  example section 5 quality management this section of the sample project plan example
+[00:13:13 -> 00:13:19]  describes the project's quality management covered in step number 2 in this article example.
+[00:13:19 -> 00:13:24]  An information system that controls the level of consistency for screen layouts would normally
+[00:13:24 -> 00:13:30]  contain a full review for all available screens thus making sure that these screens match
+[00:13:30 -> 00:13:34]  the originally agreed set of quality standards.
+[00:13:34 -> 00:13:39]  In many cases quality measures may include a condition of no defects for certain requirements
+[00:13:39 -> 00:13:44]  the company deems critical while in other cases quality measures may require consistent
+[00:13:44 -> 00:13:49]  screen layouts and or correctly calculated variables.
+[00:13:49 -> 00:13:53]  Generally the project managers can ensure quality through performing inspections and
+[00:13:53 -> 00:13:57]  audits as well as using formal testing.
+[00:13:57 -> 00:14:02]  Then the project management team should document those defects in a tracking system to ensure
+[00:14:02 -> 00:14:06]  fixing defects retest them and eventually close them.
+[00:14:06 -> 00:14:11]  In some projects the project manager may use an artifact like a traceability matrix as
+[00:14:11 -> 00:14:15]  a tool for determining whether critical requirements are met or not.
+[00:14:15 -> 00:14:20]  Sample project plan example section 6 resource management this section contains the description
+[00:14:20 -> 00:14:23]  of the resource part discussed in step 5 in this article.
+[00:14:23 -> 00:14:29]  RACI sample project plan example section 7 communication management it contains communication
+[00:14:29 -> 00:14:35]  planning for different types of communication between different stakeholders and the project
+[00:14:35 -> 00:14:37]  team.
+[00:14:37 -> 00:14:41]  Sample for communication matrix below stakeholder messages vehicles frequency communicators
+[00:14:41 -> 00:14:47]  feedback mechanisms sample project plan example section 8 risk management this section contains
+[00:14:47 -> 00:14:53]  all risks identified in any element of the project it mainly contains the risk log.
+[00:14:53 -> 00:14:58]  The project managers normally maintain a risk log away from the project management plan
+[00:14:58 -> 00:15:00]  in a separate document.
+[00:15:00 -> 00:15:05]  The project manager may merge different logs into a single document that contains all different
+[00:15:05 -> 00:15:11]  logs sample project plan example section 9 issue management this section contains all
+[00:15:11 -> 00:15:17]  issues surfaced or detected in any project element it mainly contains the issue log.
+[00:15:17 -> 00:15:22]  The issue log is normally maintained by project managers in a separate document away from
+[00:15:22 -> 00:15:24]  the project management plan.
+[00:15:24 -> 00:15:29]  The project team may also merge the risk log with the issue log in addition to other logs
+[00:15:29 -> 00:15:34]  like assumptions and constraints log into a single document sample project plan example
+[00:15:34 -> 00:15:39]  section 10 procurement management example normally this section would include information
+[00:15:39 -> 00:15:43]  related to physical and human resources that can be procured.
+[00:15:43 -> 00:15:48]  Thus ensuring that the procurement of hardware including computers development servers and
+[00:15:48 -> 00:15:52]  test servers are planned and managed properly.
+[00:15:52 -> 00:15:58]  Also it describes how to leverage project team staff members from an external vendor.
+[00:15:58 -> 00:16:02]  Additionally it can go into more explicit details to include project staff acquisition
+[00:16:02 -> 00:16:08]  strategies sample project plan example section 11 compliance related planning in this section
+[00:16:08 -> 00:16:13]  you need to insert a list of compliance related processes that the project team must adhere
+[00:16:13 -> 00:16:19]  to in order to meet company compliance policies moreover it may include a description of governance
+[00:16:19 -> 00:16:25]  bodies that oversee the project work or review the product deliverable it also states occasions
+[00:16:25 -> 00:16:32]  of governance related reviews and audits describing the audit standards and their acceptance criteria
+[00:16:32 -> 00:16:36]  additionally it may also include a description of who has the right to perform audits and
+[00:16:36 -> 00:16:37]  how they will be performed.

@@ -1,0 +1,94 @@
+[00:00:00 -> 00:00:06]  A consultation by the House of Lords in 2018 revealed that quote there is a real
+[00:00:06 -> 00:00:11]  confusion in terms of terminology with terms such as modular, off-site,
+[00:00:11 -> 00:00:16]  prefabrication, modern methods of construction, volumetric and panelized
+[00:00:16 -> 00:00:21]  all being used. So this is why we will go through some key terms as they will be
+[00:00:21 -> 00:00:27]  used in the remaining modules and videos. So we will start with modern methods of
+[00:00:27 -> 00:00:33]  construction or MMC for short. MMC includes all the approaches that aim to
+[00:00:33 -> 00:00:38]  optimize the construction process to obtain better products in less time. This
+[00:00:38 -> 00:00:43]  can mean for example any building methods that improves efficiency, quality
+[00:00:43 -> 00:00:50]  or environmental performance. In this way MMC includes but are not limited to
+[00:00:50 -> 00:00:56]  off-site construction. Instead off-site construction is a way to achieve MMC.
+[00:00:56 -> 00:00:59]  Off-site on the other hand is a construction method that adds
+[00:00:59 -> 00:01:04]  substantial value to a product via the manufacture and pre-assembly of
+[00:01:04 -> 00:01:10]  components, elements or modules in a factory before installation in the final
+[00:01:10 -> 00:01:15]  location. So off-site is all about transferring some of the building works
+[00:01:15 -> 00:01:20]  to a factory. There are four main categories of off-site construction.
+[00:01:20 -> 00:01:27]  Sub-assemblies and components, panelized systems, volumetric systems and hybrid
+[00:01:27 -> 00:01:33]  systems. These can be in any material steel, concrete, timber or indeed a hybrid
+[00:01:33 -> 00:01:38]  material. Sub-assemblies and components are pre-manufactured elements you will
+[00:01:38 -> 00:01:45]  be familiar with such as stairs, doors, windows, eye joists or steel elements.
+[00:01:45 -> 00:01:50]  Panelized systems consist of wall panels and floor cassettes which may or
+[00:01:50 -> 00:01:55]  may not have a structural function. Open panels are typically without insulation
+[00:01:55 -> 00:02:00]  and include only the structural elements and if applicable sheeting on one side.
+[00:02:00 -> 00:02:05]  Closed panels include insulation, sheeting on both sides and a service
+[00:02:05 -> 00:02:11]  zone and can also have internal lining, external cladding, windows and doors
+[00:02:11 -> 00:02:17]  fitted in the factory. Whereas SIPs or Structural Insulated Panels are solid
+[00:02:17 -> 00:02:23]  insulation sandwiched with glue between two layers of oriented strand boards or
+[00:02:23 -> 00:02:28]  OSB for short. Volumetric systems represent three-dimensional units that
+[00:02:28 -> 00:02:34]  enclose a usable space often also called modular. They are typically fully
+[00:02:34 -> 00:02:38]  finished internally and can also be finished externally and include several
+[00:02:38 -> 00:02:45]  rooms. Pods are a smaller non-structural type of volumetric system which are often
+[00:02:45 -> 00:02:50]  used for bathrooms or plant rooms especially in hotels and student
+[00:02:50 -> 00:02:55]  accommodation. Hybrid systems cover a wide variety of construction techniques
+[00:02:55 -> 00:03:01]  where different systems or materials are used in combination. Where did off-site
+[00:03:01 -> 00:03:06]  construction originate from? Off-site is not anything new and it can be traced
+[00:03:06 -> 00:03:10]  back to the Middle Ages when carpenters would often assemble the frames of
+[00:03:10 -> 00:03:16]  buildings in the yards to ensure that all elements fitted together. The frames
+[00:03:16 -> 00:03:21]  were then marked and dismantled to be transported to site and reassembled. This
+[00:03:21 -> 00:03:26]  system was known as crook frame. In the 19th century this technique developed
+[00:03:26 -> 00:03:32]  into the familiar timber balloon and platform framing. In the 1830s John
+[00:03:32 -> 00:03:37]  Manning, a London carpenter and builder pioneered the Manning cottage, a timber
+[00:03:37 -> 00:03:42]  house that was standardized and designed to be transported overseas and
+[00:03:42 -> 00:03:47]  assembled by unskilled workers. Then during the Crimean War in the 1850s
+[00:03:47 -> 00:03:53]  British engineer Isambard Kingdom Brunel designed the Rencoe Hospital. The
+[00:03:53 -> 00:03:59]  timber frame structure was manufactured in the UK, flat-packed, shipped and
+[00:03:59 -> 00:04:05]  assembled on-site by unskilled workers in under six months. In the 1970s the
+[00:04:05 -> 00:04:11]  Nakagin Tower capsule hotel, the first of its kind, was constructed in Tokyo, Japan.
+[00:04:11 -> 00:04:16]  It was designed for business people in the city who needed a simple overnight
+[00:04:16 -> 00:04:21]  housing solution. Each of the capsule modules was designed to be disconnected
+[00:04:21 -> 00:04:27]  from the central core for replacement or maintenance. Later on in the 1980s a
+[00:04:27 -> 00:04:32]  German engineer conceived the first forms of mass timber construction by
+[00:04:32 -> 00:04:38]  laminating wooden planks together with nails, screws or dowels to form a mass
+[00:04:38 -> 00:04:43]  timber panel. So we have shown that off-site construction is not new, it has
+[00:04:43 -> 00:04:48]  been around since at least the Middle Ages. Today it is applicable across
+[00:04:48 -> 00:04:54]  sectors including housing, education, hospitals, infrastructure such as bridges
+[00:04:54 -> 00:04:59]  and roads. But why would you build using off-site construction? There are six key
+[00:04:59 -> 00:05:05]  drivers behind the use of off-site construction in the UK. The leading one
+[00:05:05 -> 00:05:09]  is sustainability, where off-site can help with waste materials reduction and
+[00:05:09 -> 00:05:14]  integration into the circular economy. The second is regulatory, such as
+[00:05:14 -> 00:05:20]  international protocols. The third driver is digitization with emphasis on
+[00:05:20 -> 00:05:24]  building information modeling. Productivity is also an important driver
+[00:05:24 -> 00:05:29]  and lean optimization can be used in off-site manufacturing. The fifth driver
+[00:05:29 -> 00:05:35]  is human capital or people with a need for more apprenticeships. The final
+[00:05:35 -> 00:05:40]  driver is culture with the need for more collaborative working practice. Off-site
+[00:05:40 -> 00:05:44]  construction offers many benefits. The factory environment provides a cleaner
+[00:05:44 -> 00:05:49]  and safer place of work. Production is more efficient, therefore performances
+[00:05:49 -> 00:05:52]  are enhanced. The factory environment guarantees higher quality, more
+[00:05:52 -> 00:05:56]  predictable timescales, better performance with fewer defects and
+[00:05:56 -> 00:06:00]  higher customer satisfaction. The optimized use of materials allows for
+[00:06:00 -> 00:06:04]  reduction of waste. The application of building information modeling and
+[00:06:04 -> 00:06:08]  automation allows for quality control through virtual reality and augmented
+[00:06:08 -> 00:06:13]  reality. The design process for off-site construction systems can be described as
+[00:06:13 -> 00:06:17]  front-loaded. With off-site construction we often use an approach known as DFMA.
+[00:06:17 -> 00:06:22]  This is Design for Manufacturing and Assembly. This includes manufacturing
+[00:06:22 -> 00:06:27]  process and standard sizing limitations, dimensional tolerances of the chosen
+[00:06:27 -> 00:06:32]  off-site system, transportation restrictions, supply chain, manufacturing
+[00:06:32 -> 00:06:37]  capacity and site-specific restrictions. We have some examples of off-site
+[00:06:37 -> 00:06:41]  construction from across the UK. Firstly looking at a high-rise building in
+[00:06:41 -> 00:06:46]  London. Known as the Cheese Grater, designed in 2014 by architects Roger
+[00:06:46 -> 00:06:50]  Stark Harbour and Partners, with Arup being the engineers. The building was a
+[00:06:50 -> 00:06:54]  combination of steel and concrete with highly prefabricated components
+[00:06:54 -> 00:06:58]  manufactured in Ireland and Northern England. The superstructure was
+[00:06:58 -> 00:07:03]  constructed in a very short time of approximately seven days per floor, 48
+[00:07:03 -> 00:07:07]  floors in total within 11 months. Moving north to Glasgow, this mid-rise
+[00:07:07 -> 00:07:11]  apartment building in Earlesley Road. It is the tallest timber building in
+[00:07:11 -> 00:07:17]  Scotland and was completed in 2017. The project was led by CCG and designed by
+[00:07:17 -> 00:07:21]  Mast Architects. It was built using cross-laminated timber which was
+[00:07:21 -> 00:07:26]  manufactured in Germany. It took 16 weeks to install the CLT and the project won
+[00:07:26 -> 00:07:31]  the Structural Timber Award 2018. Off-site is not one way of building. Off-site is
+[00:07:31 -> 00:07:36]  not limited to one material. Off-site is not one building type. Off-site combines
+[00:07:36 -> 00:07:40]  a range of materials, products and building types. Off-site is efficient.
+[00:07:41 -> 00:07:45]  Off-site is a safe and clear environment. Off-site uses modern technology. Off-site
+[00:07:45 -> 00:07:49]  is adaptable to clients' needs. Off-site requires collaborative working and
+[00:07:49 -> 00:07:53]  teams. Congratulations, well done on completing the Off-site Fundamentals
+[00:07:53 -> 00:07:56]  video.

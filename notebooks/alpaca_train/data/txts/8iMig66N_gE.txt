@@ -1,0 +1,161 @@
+[00:00:00 -> 00:00:05]  By now, you've probably already heard about the new buzzword thrown around in tech circles,
+[00:00:05 -> 00:00:07]  the Metaverse.
+[00:00:07 -> 00:00:12]  The whole buzz started when Facebook announced a few weeks ago that they'll be changing
+[00:00:12 -> 00:00:13]  their name to Meta.
+[00:00:13 -> 00:00:18]  It sure caught everyone by surprise, but it's worth noting that Facebook was already working
+[00:00:18 -> 00:00:21]  on products and services around this field.
+[00:00:21 -> 00:00:28]  Reality Labs, Facebook's division working on AR and VR projects, already has 10,000
+[00:00:28 -> 00:00:32]  with a plan to hire 10,000 more in the coming months.
+[00:00:32 -> 00:00:41]  So let's see what all the fuss is about.
+[00:00:41 -> 00:00:43]  First off, let's define what the Metaverse actually is.
+[00:00:43 -> 00:00:48]  It's basically a combination of virtual and augmented reality that allows us to work,
+[00:00:48 -> 00:00:51]  play and interact with others, but in a digital space.
+[00:00:51 -> 00:00:55]  With augmented reality, we overlay digital content and information into the physical
+[00:00:55 -> 00:00:56]  world.
+[00:00:56 -> 00:01:01]  And with VR, the physical world completely disappears and everything surrounding us is
+[00:01:01 -> 00:01:03]  completely digital.
+[00:01:03 -> 00:01:08]  There's also mixed reality, which is in a way a more immersive version of AR.
+[00:01:08 -> 00:01:12]  In mixed reality, we're not limited to simple overlays of information.
+[00:01:12 -> 00:01:17]  We can have more elaborate interactions between the virtual and real objects.
+[00:01:17 -> 00:01:19]  That's basically what the Metaverse is.
+[00:01:19 -> 00:01:24]  I'm not a fan of the term, but tech companies always like to use jargony buzzwords.
+[00:01:24 -> 00:01:30]  The term actually comes from Neal Stephenson's 1992 novel, Snow Crash, so it's not something
+[00:01:30 -> 00:01:35]  Facebook invented or something that hasn't been discussed or researched before.
+[00:01:35 -> 00:01:39]  Even though companies have already poured years of research into the field, we're still
+[00:01:39 -> 00:01:42]  very much in the early stages.
+[00:01:42 -> 00:01:47]  The tech responsible for providing these rich experiences is not fully there yet and hasn't
+[00:01:47 -> 00:01:53]  seen the wide adoption required to propel AR and VR development to the next level.
+[00:01:53 -> 00:01:58]  The headsets, which is the main way to experience the Metaverse, can be bulky and uncomfortable
+[00:01:58 -> 00:01:59]  to wear.
+[00:01:59 -> 00:02:05]  But as technology advances and devices shrink in size, AR and VR experiences will enter
+[00:02:05 -> 00:02:07]  our day-to-day lives.
+[00:02:07 -> 00:02:09]  And that's what Facebook is banking on.
+[00:02:09 -> 00:02:10]  But it's not just Facebook.
+[00:02:10 -> 00:02:15]  Pretty much every tech company in the world has skin in the game.
+[00:02:15 -> 00:02:21]  Google, Microsoft, Apple, Magic Leap, they're all working on devices or software implementations
+[00:02:21 -> 00:02:25]  for VR and AR.
+[00:02:25 -> 00:02:29]  Apple uses common everyday devices like the iPad and the iPhone to deliver augmented reality
+[00:02:29 -> 00:02:30]  experiences.
+[00:02:30 -> 00:02:34]  It's a more conservative approach, but the key pieces to expand things even further are
+[00:02:34 -> 00:02:36]  already there.
+[00:02:36 -> 00:02:40]  Apple's AR implementation is deeply integrated into the OS.
+[00:02:40 -> 00:02:45]  Anyone with an iPhone or an iPad can download an application that uses AR.
+[00:02:45 -> 00:02:50]  They've also created the ARKit framework and the USDZ 3D format.
+[00:02:50 -> 00:02:56]  These are the two key ingredients for developers and con-creators to deliver AR experiences.
+[00:02:56 -> 00:03:00]  And of course, for years now, we've been hearing rumors about Apple working on some
+[00:03:00 -> 00:03:03]  sort of headset.
+[00:03:03 -> 00:03:08]  Microsoft is a bit more aggressive in the AR space, and it's already in a second-generation
+[00:03:08 -> 00:03:09]  headset.
+[00:03:09 -> 00:03:13]  HoloLens has managed to showcase what can be done when the screen is not just a secondary
+[00:03:13 -> 00:03:15]  display but a wearable device.
+[00:03:15 -> 00:03:20]  The headset is still expensive and bulky, but all these things can be and will be improved
+[00:03:20 -> 00:03:22]  in the coming years.
+[00:03:22 -> 00:03:27]  Just a couple of months ago, they've announced Mesh, a mixed-reality experience that lets
+[00:03:27 -> 00:03:34]  people with AR and VR headsets and even tablets to work and share moments together.
+[00:03:34 -> 00:03:39]  Google is also actively working on several AR and VR projects, and throughout the years,
+[00:03:39 -> 00:03:41]  they've tried different approaches.
+[00:03:42 -> 00:03:47]  Cardboard, for example, is Google's approach to make VR available to everyone by using
+[00:03:47 -> 00:03:49]  a phone as the delivery tool.
+[00:03:49 -> 00:03:54]  As you can imagine, the experience is not the best, but it shows another valid approach,
+[00:03:54 -> 00:03:57]  one that doesn't require an expensive headset.
+[00:03:57 -> 00:04:02]  So all in all, there's a ton of activity from all major tech companies.
+[00:04:02 -> 00:04:07]  Devices like the HoloLens or the Oculus Rift are way too bulky and expensive for mass adoption.
+[00:04:07 -> 00:04:12]  So for now, metaverse experiences are limited to early adopters or to companies that have
+[00:04:12 -> 00:04:17]  deep pockets and can implement cutting-edge technology into their workflow.
+[00:04:17 -> 00:04:22]  But of course, as is always the case in tech, the size of the devices will shrink.
+[00:04:22 -> 00:04:27]  And the same goes for the cost of producing and purchasing a headset.
+[00:04:27 -> 00:04:32]  So it's not really a matter of if we're going to experience the metaverse, but when.
+[00:04:32 -> 00:04:35]  This doesn't mean that we will live in a virtual world 24x7.
+[00:04:35 -> 00:04:39]  The use cases can be as simple as getting directions to a restaurant with visual cues
+[00:04:39 -> 00:04:42]  right into the physical world.
+[00:04:42 -> 00:04:46]  Of course, we will see more elaborate use cases, and I think AR and VR will have a huge
+[00:04:46 -> 00:04:49]  impact in certain areas of our day-to-day life.
+[00:04:49 -> 00:04:51]  For example, in the way we work.
+[00:04:51 -> 00:04:56]  Imagine collaborating on a project with someone from the other side of the world, but through
+[00:04:56 -> 00:05:02]  the use of mixed reality, it will feel like you're working side-by-side.
+[00:05:02 -> 00:05:07]  We don't even know yet all the different ways we will use AR and VR, or the impact
+[00:05:07 -> 00:05:10]  this technology will have in our day-to-day life.
+[00:05:10 -> 00:05:14]  The more we work with it, the more uses we will find.
+[00:05:14 -> 00:05:18]  For years now, Microsoft has been making these beautiful concept videos outlining our future
+[00:05:18 -> 00:05:20]  with tech.
+[00:05:20 -> 00:05:23]  And AR and VR plays a big role in that.
+[00:05:32 -> 00:05:41]  Facebook's vision of the future overlaps with Microsoft's and most other companies
+[00:05:41 -> 00:05:44]  experimenting in the field.
+[00:05:44 -> 00:05:48]  The problem with Facebook's metaverse doesn't have to do with what's being presented.
+[00:05:48 -> 00:05:53]  The company does showcase some really nice examples, and also seems to get the basics
+[00:05:53 -> 00:05:54]  right.
+[00:05:54 -> 00:06:12]  The problem, in this case, is the company itself.
+[00:06:12 -> 00:06:16]  Just a couple of weeks ago, the Wall Street Journal and a series of reports based on leaked
+[00:06:16 -> 00:06:22]  internal Facebook documents exposed some serious issues with the way Facebook and its products
+[00:06:22 -> 00:06:23]  operate.
+[00:06:24 -> 00:06:27]  Here's a quick rundown.
+[00:06:27 -> 00:06:30]  Facebook has a two-tier justice system, with celebrities and politicians being protected
+[00:06:30 -> 00:06:34]  from the network's enforcement systems.
+[00:06:34 -> 00:06:39]  Facebook knew that Instagram had an impact on body image issues, especially in young
+[00:06:39 -> 00:06:45]  girls, but did nothing to improve the situation, in fear of reduced engagement.
+[00:06:45 -> 00:06:49]  Facebook is also aware that their network is being used for things like human trafficking
+[00:06:49 -> 00:06:54]  and forced labor, but has done little to change the situation.
+[00:06:54 -> 00:06:58]  And last but not least, the adjustments in Facebook's algorithm that were meant to
+[00:06:58 -> 00:07:03]  boost engagement and increase time on the site, ended up promoting divisive and sensational
+[00:07:03 -> 00:07:06]  content and misinformation.
+[00:07:06 -> 00:07:10]  Despite employees ringing the alarm bell, the leadership of the company chose to not
+[00:07:10 -> 00:07:12]  make any changes.
+[00:07:12 -> 00:07:16]  I would definitely encourage you to go through Wall Street Journal's podcasts and articles.
+[00:07:17 -> 00:07:19]  I'll have them in the description below.
+[00:07:19 -> 00:07:24]  Their research highlights everything that is wrong with Facebook, and showcases Facebook's
+[00:07:24 -> 00:07:25]  priorities.
+[00:07:25 -> 00:07:27]  Company over country.
+[00:07:27 -> 00:07:31]  A motto Zuckerberg himself used several times in company meetings.
+[00:07:31 -> 00:07:37]  Something that Facebook denied, but it's been corroborated by many employees.
+[00:07:37 -> 00:07:41]  As you can see, as exciting as the metaverse might be, it can also be an extremely scary
+[00:07:41 -> 00:07:42]  place.
+[00:07:42 -> 00:07:46]  It's important that the companies involved in this space, prioritize their interests
+[00:07:46 -> 00:07:48]  over our own.
+[00:07:48 -> 00:07:53]  I do believe we will see amazing things in AR and VR, and what Facebook calls the metaverse
+[00:07:53 -> 00:07:57]  will be as revolutionary as the internet.
+[00:07:57 -> 00:08:01]  But when it comes to Facebook, I cannot help but be skeptical.
+[00:08:01 -> 00:08:06]  No matter how sleek Zuckerberg's presentation might be, we must not forget that it's coming
+[00:08:06 -> 00:08:12]  from a company that has showcased time and time again, complete disregard in the common
+[00:08:12 -> 00:08:13]  good.
+[00:08:13 -> 00:08:19]  So, if we're not being careful, we could very easily end up in a dystopian future.
+[00:08:19 -> 00:08:23]  And I definitely don't want us to end up like the humans in Wall-E, moving around in
+[00:08:23 -> 00:08:27]  chairs and permanently connected to VR.
+[00:08:27 -> 00:08:31]  Or like in Ready Player One, where VR is just an escape from reality.
+[00:08:31 -> 00:08:34]  The examples are way too many to mention.
+[00:08:34 -> 00:08:35]  But I don't think we'll come to that.
+[00:08:35 -> 00:08:40]  I'm sure there will be bumps along the way, but overall, I remain optimistic.
+[00:08:40 -> 00:08:46]  I think we do understand how bad things can turn out, so I think everyone, companies included,
+[00:08:46 -> 00:08:49]  will exercise some caution.
+[00:08:49 -> 00:08:51]  At least, I hope so.
+[00:08:51 -> 00:08:55]  On the positive side, the metaverse will also bring a whole lot of business opportunities.
+[00:08:55 -> 00:09:00]  If it's going to be as huge as people guess, whole businesses will exist in this digital
+[00:09:00 -> 00:09:01]  space.
+[00:09:01 -> 00:09:06]  And if this virtual world is going to be any interesting, it will need some serious dressing
+[00:09:06 -> 00:09:07]  up.
+[00:09:07 -> 00:09:11]  Every single element will have to be built from scratch, whether that is a table that
+[00:09:11 -> 00:09:17]  will decorate someone's virtual house, or graph elements for a 3D powerpoint presentation.
+[00:09:17 -> 00:09:22]  So if you're a con creator, there's a whole new world of opportunity there.
+[00:09:22 -> 00:09:27]  There will be an immense demand for 3D artists, graphic designers, and artists in general.
+[00:09:27 -> 00:09:31]  People will always want to have a custom object or avatar, something that will make them stand
+[00:09:31 -> 00:09:35]  out and be different than everyone else.
+[00:09:35 -> 00:09:39]  We've already seen a small example of that, with artists offering avatars for the metaverse
+[00:09:39 -> 00:09:41]  when buying their NFTs.
+[00:09:41 -> 00:09:45]  The way I see it, there's going to be a whole new industry based on asset creation for the
+[00:09:45 -> 00:09:52]  metaverse, so if you have the know-how, your abilities will be indispensable.
+[00:09:52 -> 00:09:56]  And going back to NFTs, I think they will play a huge role in the metaverse.
+[00:09:56 -> 00:10:01]  The blockchain is the best way to solve provenance and to safely store digital assets for years
+[00:10:01 -> 00:10:03]  to come.
+[00:10:03 -> 00:10:07]  And if companies are smart enough to enable crosstalk between their metaverse implementations,
+[00:10:07 -> 00:10:12]  the blockchain will be the perfect tool to ensure that the assets you bought can be transferred
+[00:10:12 -> 00:10:13]  through.
+[00:10:13 -> 00:10:15]  So what should we make of the metaverse?
+[00:10:15 -> 00:10:21]  I think we're going to experience some amazing stuff in this new AR and VR world.
+[00:10:21 -> 00:10:25]  But things can also turn sour really fast, so we need to be careful of what we implement
+[00:10:25 -> 00:10:27]  and how we implement it.
+[00:10:27 -> 00:10:28]  But that's just my opinion.
+[00:10:28 -> 00:10:30]  How do you feel?
+[00:10:30 -> 00:10:31]  Are you scared or feeling excited?
+[00:10:32 -> 00:10:33]  Let me know in the comments below.
+[00:10:33 -> 00:10:36]  I'm really curious to see what others think.
+[00:10:36 -> 00:10:37]  And that's it for this video.
+[00:10:37 -> 00:10:39]  Take care, and I'll see you on the next one.

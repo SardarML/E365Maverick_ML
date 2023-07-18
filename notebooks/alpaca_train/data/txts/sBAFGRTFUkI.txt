@@ -1,0 +1,516 @@
+[00:00:00 -> 00:00:06]  Finite Math In this video, we're going to review algebra
+[00:00:06 -> 00:00:09]  by solving algebra equations.
+[00:00:09 -> 00:00:13]  As you go through the video, you're going to see some icons on the left.
+[00:00:13 -> 00:00:19]  This icon talks about the process, the steps that we're going to use to solve an equation.
+[00:00:19 -> 00:00:22]  This icon has a couple examples for you.
+[00:00:22 -> 00:00:25]  And then, of course, you have to practice.
+[00:00:25 -> 00:00:29]  And then finally, a self quiz, just to see how you're doing.
+[00:00:29 -> 00:00:32]  And of course, if you don't practice, you're not going to get good at it.
+[00:00:32 -> 00:00:35]  So there's a video task at the end.
+[00:00:35 -> 00:00:37]  And by the way, it's not magic.
+[00:00:37 -> 00:00:39]  It's math.
+[00:00:39 -> 00:00:41]  Let's get started.
+[00:00:41 -> 00:00:42]  So what's the process?
+[00:00:42 -> 00:00:47]  Well, the first step we want to do is simplify both sides of the equal sign.
+[00:00:47 -> 00:00:51]  That means we're going to use the distributive property and collect like terms.
+[00:00:51 -> 00:00:56]  The second step is to move the variable term to one side of the equation and everything
+[00:00:56 -> 00:00:57]  else on the other side.
+[00:00:57 -> 00:01:01]  And how we do that is by adding and subtracting.
+[00:01:01 -> 00:01:05]  Step three is to isolate the variable by multiply or dividing.
+[00:01:05 -> 00:01:08]  What am I talking about when I say isolate the variable?
+[00:01:08 -> 00:01:12]  That means I want to get x equal to a number or z equal to a number.
+[00:01:12 -> 00:01:14]  I don't want 2x or 5x.
+[00:01:14 -> 00:01:17]  No, I want x by itself.
+[00:01:17 -> 00:01:22]  And then finally, we have to check to make sure we're right.
+[00:01:22 -> 00:01:27]  Now there is one super important thing that we have to remember when we're doing algebra.
+[00:01:28 -> 00:01:29]  And that's balance.
+[00:01:29 -> 00:01:33]  Whatever you do to one side of the equal sign, you have to do to the other side of the equal
+[00:01:33 -> 00:01:34]  sign.
+[00:01:34 -> 00:01:36]  Super, super important.
+[00:01:36 -> 00:01:38]  Balance, balance, balance.
+[00:01:38 -> 00:01:40]  Alright, let's look at one.
+[00:01:40 -> 00:01:44]  4x plus 6 equals 26.
+[00:01:44 -> 00:01:47]  Now remember, we eventually want to get x by itself.
+[00:01:47 -> 00:01:50]  So now I'm looking at the left side of the equal sign.
+[00:01:50 -> 00:01:51]  I have 4x plus 6.
+[00:01:51 -> 00:01:56]  Well, for step one, there aren't like terms and I don't have the distributive property.
+[00:01:56 -> 00:01:58]  So there's nothing to do over there.
+[00:01:58 -> 00:01:59]  Equals 26.
+[00:01:59 -> 00:02:02]  Well, once again, step one, there's nothing to do.
+[00:02:02 -> 00:02:07]  The second step tells us to get 4x by itself and everything else on the other side.
+[00:02:07 -> 00:02:09]  That means I don't want plus 6 over there.
+[00:02:09 -> 00:02:14]  Well, then we ask ourselves, what's the opposite of adding 6?
+[00:02:14 -> 00:02:15]  That's subtracting 6.
+[00:02:15 -> 00:02:20]  And that's what we're going to do, keeping balance to both sides of the equal sign.
+[00:02:20 -> 00:02:22]  So let's see what we have.
+[00:02:22 -> 00:02:26]  When we add straight down, we have 4x plus 0 equals 20.
+[00:02:26 -> 00:02:29]  4x plus 0 is just 4x.
+[00:02:29 -> 00:02:33]  Now I have the 4x by itself, but I need to isolate the x.
+[00:02:33 -> 00:02:36]  That means I want x to equal something.
+[00:02:36 -> 00:02:40]  Anytime we have a number next to a letter, it means to multiply.
+[00:02:40 -> 00:02:41]  What's the opposite of multiplying?
+[00:02:41 -> 00:02:42]  Yeah, dividing.
+[00:02:42 -> 00:02:46]  I'm going to divide by 4 on both sides of the equal sign.
+[00:02:46 -> 00:02:48]  Balance, balance, balance.
+[00:02:48 -> 00:02:49]  Remember?
+[00:02:49 -> 00:02:51]  So that gives me x equals 5.
+[00:02:51 -> 00:02:53]  We think x equals 5.
+[00:02:53 -> 00:02:56]  We really need to check it.
+[00:02:56 -> 00:03:03]  So what I do is I rewrite the original equation, then I put 5 in for my x, and I follow orders
+[00:03:03 -> 00:03:05]  of operations.
+[00:03:05 -> 00:03:07]  Orders of operations say I have to multiply first.
+[00:03:07 -> 00:03:14]  So 4 times 5 is 20, 20 plus 6 is 26, and 26 will always equal 26.
+[00:03:14 -> 00:03:18]  So that means x equals 5 and we did it.
+[00:03:18 -> 00:03:20]  Let's look at this equation.
+[00:03:20 -> 00:03:23]  21 equals negative 3x minus 6.
+[00:03:23 -> 00:03:26]  Step one says, can we simplify anything?
+[00:03:26 -> 00:03:29]  Well, if I look on the left side of the equal sign, it's just a 21.
+[00:03:29 -> 00:03:30]  There's nothing to do.
+[00:03:30 -> 00:03:34]  On the right side of the equal sign, I have negative 3x minus 6.
+[00:03:34 -> 00:03:37]  Those aren't like terms, so I can't put them together.
+[00:03:37 -> 00:03:42]  So the next step is we want to get negative 3x by itself.
+[00:03:42 -> 00:03:45]  Now it really doesn't matter what side the variable is on, okay?
+[00:03:45 -> 00:03:47]  I want negative 3x by itself.
+[00:03:47 -> 00:03:49]  I don't want the minus 6.
+[00:03:49 -> 00:03:53]  The opposite of subtracting 6 or minus 6 is adding 6.
+[00:03:53 -> 00:03:55]  So I'm going to add 6 to both sides.
+[00:03:55 -> 00:03:57]  21 plus 6 is 27.
+[00:03:57 -> 00:04:00]  Negative 3x is just negative 3x.
+[00:04:00 -> 00:04:01]  And negative 6 plus 6 is 0.
+[00:04:01 -> 00:04:05]  Now I'm going to mention here that this is the last time that I'm going to be putting
+[00:04:05 -> 00:04:09]  a 0 when we add numbers straight down and we get a 0, okay?
+[00:04:09 -> 00:04:14]  I just wanted to put it in for the first two just so everyone sees what we're doing.
+[00:04:14 -> 00:04:19]  Because negative 3x plus 0 is just negative 3x.
+[00:04:19 -> 00:04:21]  Now a number next to a letter means to multiply.
+[00:04:21 -> 00:04:24]  And the opposite of multiplying is dividing.
+[00:04:24 -> 00:04:26]  So we're going to divide by negative 3.
+[00:04:26 -> 00:04:30]  The important thing to remember is that we always divide by whatever is hooked to the
+[00:04:30 -> 00:04:31]  variable.
+[00:04:31 -> 00:04:32]  And in this case, it's negative 3.
+[00:04:32 -> 00:04:36]  27 divided by negative 3 is negative 9.
+[00:04:36 -> 00:04:38]  We think negative 9 is x.
+[00:04:38 -> 00:04:41]  But remember, we really need to check it.
+[00:04:41 -> 00:04:43]  So I just rewrite my equation.
+[00:04:43 -> 00:04:46]  I'm going to put negative 9 in for x.
+[00:04:46 -> 00:04:50]  Orders of operations, negative 3 times negative 9 is 27.
+[00:04:50 -> 00:04:53]  27 minus 6 is 21.
+[00:04:53 -> 00:04:56]  And yes, 21 equals 21.
+[00:04:56 -> 00:04:58]  So negative 9 equals x.
+[00:04:58 -> 00:04:59]  Awesome.
+[00:04:59 -> 00:05:01]  Let's look at another one.
+[00:05:01 -> 00:05:05]  7x minus 14 equals 5x.
+[00:05:05 -> 00:05:09]  Step one, can I collect like terms on the left side of the equal sign?
+[00:05:09 -> 00:05:10]  Nope.
+[00:05:10 -> 00:05:13]  7x minus 14 are not like terms.
+[00:05:13 -> 00:05:16]  And then I just have 5x on the right side of the equal sign.
+[00:05:16 -> 00:05:20]  Now what we want to do is we want to get all the x's on one side and everything else
+[00:05:20 -> 00:05:22]  on the other side.
+[00:05:22 -> 00:05:24]  Let's look at the left side for a second.
+[00:05:24 -> 00:05:26]  I have 7x minus 14.
+[00:05:26 -> 00:05:29]  7x is not by itself, is it?
+[00:05:29 -> 00:05:34]  But if I look at the right side of the equal sign, 5x is by itself already.
+[00:05:34 -> 00:05:39]  So what we're going to do is we're actually going to subtract 7x from both sides of the
+[00:05:39 -> 00:05:40]  equal sign.
+[00:05:40 -> 00:05:42]  Because let me show you what happens.
+[00:05:42 -> 00:05:46]  We end up with negative 14 equals negative 2x.
+[00:05:46 -> 00:05:50]  So the x is by itself on one side of the equal sign.
+[00:05:50 -> 00:05:51]  That's what we want.
+[00:05:51 -> 00:05:56]  I need to divide by negative 2 and we end up with 7 equals x.
+[00:05:56 -> 00:05:58]  But let's check it.
+[00:05:58 -> 00:05:59]  I was a little excited for the checking there.
+[00:05:59 -> 00:06:02]  So we're going to rewrite our equation.
+[00:06:02 -> 00:06:05]  Now we have to put 7 in for each variable.
+[00:06:05 -> 00:06:11]  7 times 7 is 49, so we're going to have 49 minus 14 on the left side.
+[00:06:11 -> 00:06:14]  And 5 times 7 is 35.
+[00:06:14 -> 00:06:17]  So 49 minus 14 is 35.
+[00:06:17 -> 00:06:18]  Yay!
+[00:06:18 -> 00:06:19]  We did it.
+[00:06:19 -> 00:06:20]  7 equals x.
+[00:06:20 -> 00:06:25]  You're going to try these three by yourself.
+[00:06:25 -> 00:06:29]  So the idea is you're going to pause the video, do these three by yourself, and then we are
+[00:06:29 -> 00:06:30]  going to work them together.
+[00:06:30 -> 00:06:34]  So pause the video, do them, and check them.
+[00:06:34 -> 00:06:38]  Alright, let's see how you did.
+[00:06:38 -> 00:06:42]  The first one says 37 equals negative 8x minus 3.
+[00:06:42 -> 00:06:46]  When I look at the left side of the equal sign, it's just 37.
+[00:06:46 -> 00:06:48]  I can't collect like terms or anything like that.
+[00:06:48 -> 00:06:52]  On the right side of the equal sign, I have negative 8x minus 3.
+[00:06:52 -> 00:06:55]  Well, those aren't like terms, so I can't do anything for step one.
+[00:06:55 -> 00:06:59]  Step two says get negative 8x by itself.
+[00:06:59 -> 00:07:02]  So I need to get rid of the negative 3 or the subtract 3.
+[00:07:02 -> 00:07:05]  What's the opposite of subtracting 3?
+[00:07:05 -> 00:07:06]  Adding 3.
+[00:07:06 -> 00:07:07]  So that's what we're going to do.
+[00:07:07 -> 00:07:11]  37 plus 3 is 40 equals negative 8x.
+[00:07:11 -> 00:07:17]  Now remember, negative 3 plus 3 is zero, but we're not going to be writing the zero anymore.
+[00:07:17 -> 00:07:19]  Next I have negative 8x.
+[00:07:19 -> 00:07:20]  Well, we don't want that.
+[00:07:20 -> 00:07:21]  We just want x.
+[00:07:21 -> 00:07:23]  We want x to equal something.
+[00:07:23 -> 00:07:27]  So anytime we have a number next to a variable, it means to multiply.
+[00:07:27 -> 00:07:31]  And the opposite of multiplying is dividing.
+[00:07:31 -> 00:07:33]  And we divide by whatever is hooked to the variable.
+[00:07:33 -> 00:07:36]  In this case, it's negative 8.
+[00:07:36 -> 00:07:39]  I'm going to divide by negative 8 on both sides of the equal sign, and I end up with
+[00:07:39 -> 00:07:41]  negative 5.
+[00:07:41 -> 00:07:44]  But let's check it.
+[00:07:44 -> 00:07:50]  I rewrite my equation, then I put negative 5 in for my variable.
+[00:07:50 -> 00:07:52]  Negative 8 times negative 5 is 40.
+[00:07:52 -> 00:07:54]  40 minus 3 is 27.
+[00:07:54 -> 00:07:55]  Woohoo!
+[00:07:55 -> 00:07:56]  We did it.
+[00:07:56 -> 00:07:58]  X equals negative 5.
+[00:07:58 -> 00:08:00]  Let's look at the next one.
+[00:08:00 -> 00:08:03]  11x minus 14 equals 4x.
+[00:08:03 -> 00:08:07]  On the left side of the equal sign, they aren't like terms, so I cannot put them together.
+[00:08:07 -> 00:08:10]  On the right side, we just have 4x.
+[00:08:10 -> 00:08:15]  Now what we want to do next is we want to get all of the x's on the same side.
+[00:08:15 -> 00:08:18]  On the left side, 11x isn't by itself, is it?
+[00:08:18 -> 00:08:22]  But on the right side, 4x is by itself.
+[00:08:22 -> 00:08:26]  So what we're going to do is we're going to subtract 11x from both sides.
+[00:08:26 -> 00:08:30]  This gives us negative 14 equals negative 7x.
+[00:08:30 -> 00:08:33]  Now we have the x's by itself on one side.
+[00:08:33 -> 00:08:35]  But we still have a problem.
+[00:08:35 -> 00:08:36]  We don't want negative 7x.
+[00:08:36 -> 00:08:38]  We want x.
+[00:08:38 -> 00:08:42]  So whenever I have a number next to a letter, it means to multiply, and the opposite of
+[00:08:42 -> 00:08:44]  multiplying is dividing.
+[00:08:44 -> 00:08:49]  So we're going to divide by negative 7, and we get 2.
+[00:08:49 -> 00:08:50]  But let's check it.
+[00:08:50 -> 00:08:52]  So I'm going to rewrite my original equation.
+[00:08:52 -> 00:08:57]  Now remember to put 2 in for all of your variables, for all of the x's.
+[00:08:57 -> 00:08:59]  11 times 2 is 22.
+[00:08:59 -> 00:09:01]  22 minus 14 is 8.
+[00:09:01 -> 00:09:02]  Woohoo!
+[00:09:02 -> 00:09:05]  We did it again.
+[00:09:05 -> 00:09:06]  Let's look at the last one.
+[00:09:06 -> 00:09:10]  5z plus 6 equals negative 29.
+[00:09:10 -> 00:09:14]  On the left side, 5z plus 6, they're not like terms, so I can't do anything.
+[00:09:14 -> 00:09:16]  On the right side of the equal sign, we have negative 29.
+[00:09:16 -> 00:09:17]  There's nothing to do.
+[00:09:17 -> 00:09:20]  I need to get 5z by itself.
+[00:09:20 -> 00:09:25]  The opposite of plus 6, or adding 6, is subtracting 6, or negative 6.
+[00:09:25 -> 00:09:28]  So that's what we're going to do to both sides of the equal sign.
+[00:09:28 -> 00:09:32]  This gives us 5z equals negative 35.
+[00:09:32 -> 00:09:33]  We want z by itself.
+[00:09:33 -> 00:09:36]  So the opposite of multiplying is dividing.
+[00:09:36 -> 00:09:39]  And yeah, we're going to divide by 5 on both sides.
+[00:09:39 -> 00:09:43]  That gives us z equals negative 7, we think.
+[00:09:43 -> 00:09:44]  Let's check it just to make sure.
+[00:09:44 -> 00:09:46]  I rewrite my original equation.
+[00:09:46 -> 00:09:48]  I'm going to put negative 7 in for z.
+[00:09:48 -> 00:09:52]  5 times negative 7 is negative 35.
+[00:09:52 -> 00:09:56]  Negative 35 plus 6 is, yep, negative 29.
+[00:09:56 -> 00:09:58]  So we did that one correctly too.
+[00:09:58 -> 00:10:03]  For the last couple examples, we haven't talked about the distributive property.
+[00:10:03 -> 00:10:04]  Let's look at the distributive property.
+[00:10:04 -> 00:10:09]  So step one, remember, is simplify both sides of the equal sign, either using the distributive
+[00:10:09 -> 00:10:12]  property or collecting like terms, or both.
+[00:10:12 -> 00:10:16]  So I have 5 times b minus 3 equals 20.
+[00:10:16 -> 00:10:18]  This is the distributive property.
+[00:10:18 -> 00:10:19]  And what does that mean?
+[00:10:19 -> 00:10:22]  I'm going to take 5 times everything in the parentheses.
+[00:10:22 -> 00:10:30]  So 5 times b is 5b, 5 times negative 3 is negative 15, and then we just have equals
+[00:10:30 -> 00:10:31]  20 on the other side.
+[00:10:31 -> 00:10:34]  From here, it's exactly like the ones we've been doing.
+[00:10:34 -> 00:10:38]  5b minus 15, they're not like terms, so I cannot collect them.
+[00:10:38 -> 00:10:40]  20 is just by itself.
+[00:10:40 -> 00:10:42]  So we're on to step two.
+[00:10:42 -> 00:10:44]  We need to get 5b by itself.
+[00:10:44 -> 00:10:48]  That means we need to get rid of the subtract 15 or negative 15.
+[00:10:48 -> 00:10:51]  The opposite of subtracting is adding.
+[00:10:51 -> 00:10:54]  Remember to do both sides of the equal sign.
+[00:10:54 -> 00:10:57]  So we end up with 5b equals 35.
+[00:10:57 -> 00:10:59]  Step three, we need b by itself.
+[00:10:59 -> 00:11:00]  We want b to equal something.
+[00:11:00 -> 00:11:06]  So the opposite of multiplying is dividing, and b equals 7.
+[00:11:06 -> 00:11:07]  We think, right?
+[00:11:07 -> 00:11:08]  We always have to check it.
+[00:11:08 -> 00:11:13]  So I write the original equation, and now you're going to notice that I put a parentheses
+[00:11:13 -> 00:11:17]  for my variable because my 7 goes in for b.
+[00:11:17 -> 00:11:20]  Orders of operations, you have to do what's in parentheses first.
+[00:11:20 -> 00:11:24]  7 minus 3 is 4, and 5 times 4 is 20.
+[00:11:24 -> 00:11:25]  Woohoo!
+[00:11:25 -> 00:11:26]  We did it.
+[00:11:26 -> 00:11:27]  Cool.
+[00:11:27 -> 00:11:28]  Let's look at this one.
+[00:11:28 -> 00:11:33]  2 times x minus 5 equals 3 times x plus 2.
+[00:11:33 -> 00:11:35]  It doesn't matter how many times we have the distributive property.
+[00:11:35 -> 00:11:36]  We're going to do the same thing.
+[00:11:36 -> 00:11:40]  I'm going to take 2 times x, which is 2x.
+[00:11:40 -> 00:11:43]  2 times negative 5 is negative 10.
+[00:11:43 -> 00:11:46]  And we're going to do it on the right side of the equal sign also.
+[00:11:46 -> 00:11:51]  3 times x is 3x, and 3 times 2 is 6.
+[00:11:51 -> 00:11:54]  This gives us 2x minus 10 equals 3x plus 6.
+[00:11:54 -> 00:11:59]  For the last couple we've been doing, we've always had the x on one side, or it was easy
+[00:11:59 -> 00:12:01]  to figure out where to put the x.
+[00:12:01 -> 00:12:04]  We have an x on both sides of the equal sign, don't we?
+[00:12:04 -> 00:12:08]  Well traditionally, we like to put the x's on the left side, or the variables on the left
+[00:12:08 -> 00:12:09]  side.
+[00:12:09 -> 00:12:12]  Honestly, it totally doesn't matter.
+[00:12:12 -> 00:12:15]  It's totally legal to put the variables on the right side.
+[00:12:15 -> 00:12:17]  I like to put it on the left side.
+[00:12:17 -> 00:12:20]  I also like to move the variables first.
+[00:12:20 -> 00:12:24]  So that means I need to get rid of the positive 3x.
+[00:12:24 -> 00:12:29]  The opposite of a positive 3x is a negative 3x, so I'm going to subtract 3x from both
+[00:12:29 -> 00:12:31]  sides.
+[00:12:31 -> 00:12:35]  This gives us negative 1x, or negative x, minus 10 equals 6.
+[00:12:35 -> 00:12:36]  Woohoo!
+[00:12:36 -> 00:12:37]  We did it!
+[00:12:37 -> 00:12:40]  But we have negative x minus 10.
+[00:12:40 -> 00:12:42]  We don't want the minus 10 there, do we?
+[00:12:42 -> 00:12:46]  So the opposite of subtracting is adding, so I'm going to add 10.
+[00:12:46 -> 00:12:49]  We end up with negative x equals 16.
+[00:12:49 -> 00:12:52]  Does it matter if you write negative 1x or negative x?
+[00:12:52 -> 00:12:53]  Nope.
+[00:12:53 -> 00:12:54]  It doesn't matter.
+[00:12:54 -> 00:12:57]  Both are totally legal.
+[00:12:57 -> 00:13:01]  In algebra, we like to simplify things, so instead of writing the 1, we just write negative
+[00:13:01 -> 00:13:02]  x.
+[00:13:02 -> 00:13:04]  The problem is, is we want x by itself.
+[00:13:04 -> 00:13:06]  We don't want negative x.
+[00:13:06 -> 00:13:10]  So what we're going to do is we're going to divide by negative 1 on both sides.
+[00:13:10 -> 00:13:12]  Why are we dividing by negative 1?
+[00:13:12 -> 00:13:16]  Because a negative divided by a negative turns out to be a positive.
+[00:13:16 -> 00:13:17]  And that's what we want.
+[00:13:17 -> 00:13:18]  We want a positive x.
+[00:13:18 -> 00:13:22]  16 divided by negative 1 is negative 16.
+[00:13:22 -> 00:13:23]  Let's check it.
+[00:13:23 -> 00:13:27]  So I rewrite the original equation, and now I'm going to put negative 16 in for all of
+[00:13:27 -> 00:13:30]  my x's.
+[00:13:30 -> 00:13:34]  Orders of operations, so you have to do what's in parentheses first.
+[00:13:34 -> 00:13:38]  So negative 16 minus 5, negative 16 plus 2.
+[00:13:38 -> 00:13:42]  We end up with 2 times negative 21 equals 3 times negative 14.
+[00:13:42 -> 00:13:43]  Woohoo!
+[00:13:43 -> 00:13:44]  We did it again!
+[00:13:44 -> 00:13:48]  Negative 42 equals negative 42, so yes.
+[00:13:48 -> 00:13:51]  X equals negative 16 is our answer.
+[00:13:51 -> 00:13:55]  Good job.
+[00:13:55 -> 00:13:56]  Here are three for you to solve.
+[00:13:56 -> 00:14:00]  You're going to pause the video, do these, and then we're going to work them together.
+[00:14:00 -> 00:14:03]  Even though it doesn't say check on the bottom, you still need to check it.
+[00:14:03 -> 00:14:06]  Alright, pause the video and get started.
+[00:14:06 -> 00:14:09]  Okay, let's see how you did.
+[00:14:09 -> 00:14:13]  For the first one, we have 27 equals 9 times x minus 1.
+[00:14:13 -> 00:14:15]  On the left side, it's just 27.
+[00:14:15 -> 00:14:17]  We don't have anything to do.
+[00:14:17 -> 00:14:21]  But on the right side, hopefully you noticed we have the distributive property.
+[00:14:21 -> 00:14:25]  So we're going to have 27 equals 9 times x, which is 9x.
+[00:14:25 -> 00:14:29]  9 times negative 1 is negative 9.
+[00:14:29 -> 00:14:35]  Now we have the 9x by itself on one side, but we need to get rid of the subtract 9.
+[00:14:35 -> 00:14:38]  So the opposite of subtracting 9 or negative 9 is adding 9.
+[00:14:38 -> 00:14:41]  So we're going to add 9 to both sides of the equal sign.
+[00:14:41 -> 00:14:43]  9x equals 36.
+[00:14:43 -> 00:14:45]  We want x by itself.
+[00:14:45 -> 00:14:49]  We're going to divide by whatever's hooked to the variable, which happens to be 9.
+[00:14:49 -> 00:14:51]  And we have x equals 4.
+[00:14:51 -> 00:14:54]  I'm guessing you're getting pretty good at this.
+[00:14:54 -> 00:14:55]  Let's check it.
+[00:14:55 -> 00:14:58]  What I'm going to do is I rewrite the original equation.
+[00:14:58 -> 00:15:00]  I'm going to put 4 in for x.
+[00:15:00 -> 00:15:03]  Orders of operations say I have to do what's in parentheses first.
+[00:15:03 -> 00:15:04]  4 minus 1 is 3.
+[00:15:04 -> 00:15:06]  9 times 3 is 27.
+[00:15:06 -> 00:15:09]  We did it.
+[00:15:09 -> 00:15:13]  Let's look at negative q plus 7 equals 5.
+[00:15:13 -> 00:15:16]  For this one, there's two ways we can think about it.
+[00:15:16 -> 00:15:22]  The negative sign, we could say the opposite of q plus 7, which would be negative q minus
+[00:15:22 -> 00:15:23]  7.
+[00:15:23 -> 00:15:29]  Or, thinking about using the distributive property, I could take negative 1 times q,
+[00:15:29 -> 00:15:35]  which is negative q, and negative 1 times 7, which is negative 7.
+[00:15:35 -> 00:15:36]  Equals 5.
+[00:15:36 -> 00:15:42]  Well, when I look at this, I cannot collect like terms on either side of the equal sign.
+[00:15:42 -> 00:15:43]  Negative q minus 7.
+[00:15:43 -> 00:15:45]  Well, I want negative q by itself.
+[00:15:45 -> 00:15:49]  So the opposite of subtract 7 or negative 7 is adding 7.
+[00:15:49 -> 00:15:52]  So let's do that next.
+[00:15:52 -> 00:15:53]  Negative q equals 12.
+[00:15:53 -> 00:15:55]  Well, we want q.
+[00:15:55 -> 00:15:56]  We don't want negative q.
+[00:15:56 -> 00:15:59]  So we're going to divide by negative 1 on both sides.
+[00:15:59 -> 00:16:02]  So q equals negative 12.
+[00:16:02 -> 00:16:03]  We think.
+[00:16:03 -> 00:16:04]  We've got to check it.
+[00:16:04 -> 00:16:06]  So I rewrite my original equation.
+[00:16:06 -> 00:16:09]  I put negative 12 in for q.
+[00:16:09 -> 00:16:12]  Negative 12 plus 7 is negative 5.
+[00:16:12 -> 00:16:18]  So the opposite of negative 5 or a negative times a negative, well, that gives us a positive.
+[00:16:18 -> 00:16:19]  So we did it right.
+[00:16:19 -> 00:16:21]  Awesome.
+[00:16:21 -> 00:16:23]  Let's look at the last one.
+[00:16:23 -> 00:16:28]  7 minus 3 times x minus 8 minus 3 equals x minus 4.
+[00:16:28 -> 00:16:31]  Hopefully this one didn't confuse you too much.
+[00:16:31 -> 00:16:34]  The 7 we can't do anything with.
+[00:16:34 -> 00:16:37]  But we do have the negative 3 times the x minus 8.
+[00:16:37 -> 00:16:40]  So that is our distributive property.
+[00:16:40 -> 00:16:44]  So we're going to take negative 3 times x, which is negative 3x, and negative 3 times
+[00:16:44 -> 00:16:46]  negative 8, which is 24.
+[00:16:46 -> 00:16:48]  Now the rest of it is just the rest of it.
+[00:16:48 -> 00:16:50]  We're not doing anything.
+[00:16:50 -> 00:16:53]  The next step is to collect like terms.
+[00:16:53 -> 00:16:58]  Now I like to put like terms next to each other just so I don't miss anything.
+[00:16:58 -> 00:17:00]  So we're going to have negative 3x.
+[00:17:00 -> 00:17:03]  There's no other x's on the left side.
+[00:17:03 -> 00:17:09]  Plus 7 plus 24 minus 3 equals x minus 4.
+[00:17:09 -> 00:17:11]  We're going to continue to look at the left side of the equal sign.
+[00:17:11 -> 00:17:13]  We have negative 3x.
+[00:17:13 -> 00:17:19]  But now all of my like terms are together so it's super easy to do 7 plus 24 minus 3,
+[00:17:19 -> 00:17:20]  which is 28.
+[00:17:20 -> 00:17:23]  And that equals x minus 4.
+[00:17:23 -> 00:17:25]  Do you have to put like terms together?
+[00:17:25 -> 00:17:26]  No, you don't.
+[00:17:26 -> 00:17:30]  And some of you might just circle the like terms and add and subtract them.
+[00:17:30 -> 00:17:31]  Totally up to you.
+[00:17:31 -> 00:17:35]  But as you watch through my next videos, you're going to see that I really do like putting
+[00:17:35 -> 00:17:38]  like terms next to each other.
+[00:17:38 -> 00:17:42]  Now we have negative 3x plus 28 equals x minus 4.
+[00:17:42 -> 00:17:46]  We need all the x's on the same side and everything else on the other side.
+[00:17:46 -> 00:17:49]  Traditionally we like to put the x's on the left side.
+[00:17:49 -> 00:17:50]  I like to do that.
+[00:17:50 -> 00:17:51]  Do you have to do that?
+[00:17:51 -> 00:17:52]  No.
+[00:17:52 -> 00:17:53]  Totally up to you.
+[00:17:53 -> 00:17:56]  And I also like to move the x's first.
+[00:17:56 -> 00:17:59]  So the x on the right side of the equal sign I don't want.
+[00:17:59 -> 00:18:01]  So I'm going to subtract x from both sides.
+[00:18:01 -> 00:18:05]  This gives me negative 4x plus 28 equals negative 4.
+[00:18:05 -> 00:18:06]  Cool.
+[00:18:06 -> 00:18:10]  So I have an x by itself on one side, but I have the plus 28.
+[00:18:10 -> 00:18:13]  I need to get rid of the plus 28 or adding 28.
+[00:18:13 -> 00:18:16]  So we're just going to subtract it.
+[00:18:16 -> 00:18:20]  This gives us negative 4x equals negative 32.
+[00:18:20 -> 00:18:22]  Once again, I want x by itself.
+[00:18:22 -> 00:18:23]  I want x to equal something.
+[00:18:23 -> 00:18:24]  I don't want negative 4x.
+[00:18:24 -> 00:18:27]  So I'm going to divide by negative 4 on both sides.
+[00:18:27 -> 00:18:29]  So x is 8.
+[00:18:29 -> 00:18:31]  But let's check it.
+[00:18:31 -> 00:18:33]  So I write my original equation.
+[00:18:33 -> 00:18:40]  Now I'm going to put 8 in for all of my variables, all of my x's.
+[00:18:40 -> 00:18:43]  Orders of operation say I have to do what's in parentheses first.
+[00:18:43 -> 00:18:45]  So I'm going to do 8 minus 8, which is 0.
+[00:18:45 -> 00:18:48]  3 times 0 is 0.
+[00:18:48 -> 00:18:50]  So you have 7 minus 3, which is 4.
+[00:18:50 -> 00:18:51]  And 4 equals 4.
+[00:18:51 -> 00:18:55]  So yep, we did that correctly.
+[00:18:55 -> 00:18:59]  Cool.
+[00:18:59 -> 00:19:02]  Now here's a self quiz for this video.
+[00:19:02 -> 00:19:05]  You're going to pause the video, complete the questions, then press play to check your
+[00:19:05 -> 00:19:06]  answers.
+[00:19:06 -> 00:19:11]  Now the whole point of the self quiz is to do these problems without looking back at
+[00:19:11 -> 00:19:12]  your notes.
+[00:19:12 -> 00:19:16]  Whenever you have to look back at your notes, that is what you have to practice.
+[00:19:16 -> 00:19:21]  And as we check the solutions together, whatever you get incorrect, that's also what you need
+[00:19:21 -> 00:19:22]  to practice.
+[00:19:22 -> 00:19:23]  All right.
+[00:19:23 -> 00:19:24]  Pause it.
+[00:19:24 -> 00:19:25]  And then do it.
+[00:19:25 -> 00:19:26]  And then press play.
+[00:19:26 -> 00:19:27]  And we'll work it together.
+[00:19:27 -> 00:19:29]  All right.
+[00:19:29 -> 00:19:30]  Let's see the first one.
+[00:19:30 -> 00:19:36]  The first one is negative 6x plus 6 equals negative 2 times 2x plus 8.
+[00:19:36 -> 00:19:40]  Well, this one we have the distributive property on both sides of the equal sign.
+[00:19:40 -> 00:19:42]  So we need to do that first.
+[00:19:42 -> 00:19:48]  A negative times 6x or negative 1 times 6x is negative 6x.
+[00:19:48 -> 00:19:51]  Negative 1 times 6 is negative 6.
+[00:19:51 -> 00:19:55]  Then we have negative 2 times 2 is negative 4x.
+[00:19:55 -> 00:19:59]  And negative 2 times 8 is negative 16.
+[00:19:59 -> 00:20:01]  Now we need to get all the x's on one side.
+[00:20:01 -> 00:20:04]  I like to put them on the left side, so let's do that.
+[00:20:04 -> 00:20:06]  I have negative 4x on the right side.
+[00:20:06 -> 00:20:07]  I don't want it there.
+[00:20:07 -> 00:20:10]  The opposite of subtracting is adding.
+[00:20:10 -> 00:20:12]  So we're going to add 4x to both sides.
+[00:20:12 -> 00:20:16]  We end up with negative 2x minus 6 equals negative 16.
+[00:20:16 -> 00:20:21]  I want negative 2x by itself, so I'm going to add 6 to both sides.
+[00:20:21 -> 00:20:24]  We end up with negative 2x equals 10.
+[00:20:24 -> 00:20:27]  I want x, not negative 2x.
+[00:20:27 -> 00:20:31]  So I divide by whatever's hooked to the variable, which happens to be negative 2, and we end
+[00:20:31 -> 00:20:36]  up with 5, because a negative divided by a negative is a positive.
+[00:20:36 -> 00:20:37]  Let's check it.
+[00:20:37 -> 00:20:41]  I'm going to put 5 in for all of my variables.
+[00:20:41 -> 00:20:44]  Orders of operations say I have to do what's in parentheses first.
+[00:20:44 -> 00:20:46]  So 6 times 5 is 30.
+[00:20:46 -> 00:20:48]  2 times 5 is 10.
+[00:20:48 -> 00:20:50]  Well, 30 plus 6 is 36.
+[00:20:50 -> 00:20:54]  10 plus 8 is 18.
+[00:20:54 -> 00:20:59]  Negative 36 is negative 36, and negative 2 times 18 is negative 36.
+[00:20:59 -> 00:21:00]  Woohoo!
+[00:21:00 -> 00:21:01]  We did it!
+[00:21:01 -> 00:21:02]  Awesome.
+[00:21:02 -> 00:21:05]  Let's look at the next one.
+[00:21:05 -> 00:21:08]  4 equals 4 times x minus 8.
+[00:21:08 -> 00:21:11]  On the left side of the equal sign, there's nothing to do, but on the right side, we have
+[00:21:11 -> 00:21:13]  the distributive property.
+[00:21:13 -> 00:21:18]  So we're going to take 4 times x, which is 4x, 4 times negative 8, which is negative
+[00:21:18 -> 00:21:20]  32.
+[00:21:20 -> 00:21:24]  We notice that 4x is by itself on one side of the equal sign, but we need to get rid
+[00:21:24 -> 00:21:30]  of the subtract 32 or negative 32, so we're going to add 32 to both sides.
+[00:21:30 -> 00:21:32]  We have 4x equals 36.
+[00:21:32 -> 00:21:33]  We want x.
+[00:21:33 -> 00:21:37]  The opposite of multiplying is dividing, where you divide by whatever's hooked to the variable,
+[00:21:37 -> 00:21:41]  so we end up with x equals 9, but we've got to check it.
+[00:21:41 -> 00:21:44]  This means we rewrite the original equation.
+[00:21:44 -> 00:21:46]  We put 9 in for my variable.
+[00:21:46 -> 00:21:48]  9 minus 8 is 1.
+[00:21:48 -> 00:21:51]  4 times 1 is 4.
+[00:21:51 -> 00:21:52]  Yeah!
+[00:21:52 -> 00:21:53]  Awesome.
+[00:21:53 -> 00:21:55]  Let's look at the last one.
+[00:21:55 -> 00:21:59]  5 times 3q minus 4 equals 8q plus 15.
+[00:21:59 -> 00:22:03]  On the left side, we have the distributive property, so let's do that first.
+[00:22:03 -> 00:22:06]  5 times 3q is 15q.
+[00:22:06 -> 00:22:09]  5 times negative 4 is negative 20.
+[00:22:09 -> 00:22:11]  On the right side, we just leave it alone.
+[00:22:11 -> 00:22:13]  There's nothing to do.
+[00:22:13 -> 00:22:16]  When I look at the left side, I cannot collect like terms.
+[00:22:16 -> 00:22:20]  On the right side of the equal sign, I cannot collect like terms either.
+[00:22:20 -> 00:22:24]  So what we want to do is we want to get the variable or q on one side.
+[00:22:24 -> 00:22:26]  I like to put my variables on the left side.
+[00:22:26 -> 00:22:29]  That means I need to get rid of the positive 8q.
+[00:22:29 -> 00:22:35]  The opposite of a positive 8q is negative 8q or subtract 8q.
+[00:22:35 -> 00:22:36]  Let's do that.
+[00:22:36 -> 00:22:39]  So we have 7q minus 20 equals 15.
+[00:22:39 -> 00:22:40]  Awesome.
+[00:22:40 -> 00:22:44]  We have 7q over there, but we don't want the minus or subtract 20.
+[00:22:44 -> 00:22:47]  So I'm going to add 20 to both sides.
+[00:22:47 -> 00:22:49]  7q equals 35.
+[00:22:49 -> 00:22:50]  We want q.
+[00:22:50 -> 00:22:52]  The opposite of multiplying is dividing.
+[00:22:52 -> 00:22:56]  We divide by whatever is hooked to the variable, which is 7.
+[00:22:56 -> 00:22:58]  So we get q equals 5.
+[00:22:58 -> 00:23:00]  Let's check it though.
+[00:23:00 -> 00:23:03]  What we do next is we put 5 in for our variable.
+[00:23:03 -> 00:23:06]  On the left side of the equal sign, we need to do what's in parentheses first.
+[00:23:06 -> 00:23:09]  So 3 times 5 is 15.
+[00:23:09 -> 00:23:12]  On the right side of the equal sign, 8 times 5 is 40.
+[00:23:12 -> 00:23:14]  15 minus 4 is 11.
+[00:23:14 -> 00:23:17]  40 plus 15 is 55.
+[00:23:17 -> 00:23:18]  Five times 11.
+[00:23:18 -> 00:23:19]  Woohoo!
+[00:23:19 -> 00:23:20]  We did it!
+[00:23:20 -> 00:23:21]  It's 55.
+[00:23:21 -> 00:23:22]  So yeah.
+[00:23:22 -> 00:23:23]  q equals 5.
+[00:23:23 -> 00:23:25]  Now look back at your work.
+[00:23:25 -> 00:23:29]  Was there anything that you were confused about or you didn't get correct?
+[00:23:29 -> 00:23:31]  That's what you need to practice.
+[00:23:31 -> 00:23:33]  Now what are your video tasks?
+[00:23:33 -> 00:23:35]  You need to practice.
+[00:23:35 -> 00:23:36]  Okay?
+[00:23:36 -> 00:23:37]  Practice, practice, practice.
+[00:23:37 -> 00:23:40]  So if you're watching this for a class, you need to do the homework.
+[00:23:40 -> 00:23:42]  It's really important.
+[00:23:42 -> 00:23:46]  Even if your instructor says the homework doesn't count for your grade, you still have
+[00:23:46 -> 00:23:48]  to do it.
+[00:23:48 -> 00:23:49]  Okay?
+[00:23:49 -> 00:23:51]  Practice, practice, practice.
+[00:23:51 -> 00:23:53]  Did you like the video?
+[00:23:53 -> 00:23:54]  Well then like it.
+[00:23:54 -> 00:23:56]  Did you really like it?
+[00:23:56 -> 00:23:58]  Well then come on and subscribe.
+[00:23:58 -> 00:23:59]  Finally, did it help you?
+[00:23:59 -> 00:24:01]  Well, why don't you share it with your friends?
+[00:24:01 -> 00:24:04]  Remember, it's not magic.
+[00:24:04 -> 00:24:04]  It's math.

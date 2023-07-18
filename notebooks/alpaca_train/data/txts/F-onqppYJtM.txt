@@ -1,0 +1,632 @@
+[00:00:00 -> 00:00:03]  Chào mừng các bạn đã quay trở lại với Speak, mình là Sinh.
+[00:00:03 -> 00:00:06]  Trong video này, mình sẽ cùng các bạn đi làm một bài diagram
+[00:00:06 -> 00:00:08]  như các bạn đang thấy trên mạng hình nhé.
+[00:00:08 -> 00:00:11]  Đây là bài tập diagram của bạn Triển trong khóa Photoshop.
+[00:00:11 -> 00:00:13]  Rất cảm ơn bạn Triển đã cung cấp các dữ liệu
+[00:00:13 -> 00:00:17]  cũng như là chia sẻ các file để mình làm video này nhé.
+[00:00:17 -> 00:00:20]  Đây là bài tập diagram của bạn Triển trong khóa Photoshop.
+[00:00:20 -> 00:00:22]  Các bạn nhớ đăng ký kênh để ủng hộ các bạn
+[00:00:22 -> 00:00:24]  và nhớ đăng ký kênh để ủng hộ các bạn
+[00:00:24 -> 00:00:26]  và nhớ đăng ký kênh để ủng hộ các bạn
+[00:00:26 -> 00:00:28]  và nhớ đăng ký kênh để ủng hộ các bạn
+[00:00:28 -> 00:00:30]  để làm video này nhé.
+[00:00:30 -> 00:00:33]  Đây là hình ảnh mà Triển bắt đầu trước khi sử dụng Photoshop.
+[00:00:33 -> 00:00:35]  Để làm được dạng bài này,
+[00:00:35 -> 00:00:40]  bắt buộc chúng ta phải kết hợp với phần mềm dựng hình khác
+[00:00:40 -> 00:00:43]  ví dụ như SketchUp hoặc Revit.
+[00:00:43 -> 00:00:46]  Trong trường hợp này, Triển sử dụng phần mềm SketchUp.
+[00:00:46 -> 00:00:51]  Đây là phần bốc tách mà bạn đã làm từ trước.
+[00:00:51 -> 00:00:56]  Như mọi người thấy là 3 khối bốc tách này rất rõ ràng rồi.
+[00:00:56 -> 00:00:59]  Và khi mình zoom lên thì mình thấy là bạn dựng rất là kỹ.
+[00:00:59 -> 00:01:01]  Và khi mọi người dựng hình trong SketchUp,
+[00:01:01 -> 00:01:05]  thì mọi người cũng sẽ có một số lưu ý để bài diagram được tốt nhất.
+[00:01:05 -> 00:01:10]  Lưu ý đầu tiên là mọi người sẽ tạo các camera.
+[00:01:10 -> 00:01:13]  Ở đây mình có các scene như bạn đã tạo từ trước.
+[00:01:13 -> 00:01:15]  Tiếp đến là khi mọi người xuất,
+[00:01:15 -> 00:01:18]  thì mọi người sẽ vào phần file này,
+[00:01:18 -> 00:01:21]  chọn export, chọn export HD Graphic.
+[00:01:21 -> 00:01:23]  Và có một lưu ý nữa,
+[00:01:23 -> 00:01:27]  đó là đuôi ảnh thì mọi người có thể chọn đuôi PNG hoặc đuôi JPEG cũng được.
+[00:01:27 -> 00:01:30]  Nhưng có một phần quan trọng trong một option.
+[00:01:30 -> 00:01:34]  Đó là mọi người sẽ cần phải điều chỉnh cho mình kích thước.
+[00:01:34 -> 00:01:36]  Mọi người bỏ phần view size đi.
+[00:01:36 -> 00:01:39]  Nó sẽ vụ thuộc theo kích thước của màn hình.
+[00:01:39 -> 00:01:40]  Mọi người bỏ tích đi.
+[00:01:40 -> 00:01:44]  Sau đó mọi người thay thông số chiều dài và chiều cao.
+[00:01:44 -> 00:01:45]  Mọi người tăng lên cao nhé.
+[00:01:45 -> 00:01:47]  Thì nó sẽ cho chúng ta một kỷ lệ,
+[00:01:47 -> 00:01:49]  một hình ảnh có độ chi tiết tốt.
+[00:01:49 -> 00:01:52]  Chỉ nếu mọi người để mặc định là khoảng 1-2 nghìn gì đó,
+[00:01:52 -> 00:01:53]  thì có thể nó sẽ bị vỡ hình đấy.
+[00:01:53 -> 00:01:57]  Trường hợp này thì bạn xuất ảnh với kích cỡ là 9 nghìn,
+[00:01:57 -> 00:01:58]  với khoảng 5 nghìn.
+[00:01:58 -> 00:02:00]  Cho nên chúng ta sẽ được một kết quả
+[00:02:00 -> 00:02:02]  là một hình ảnh rất nét như thế này.
+[00:02:02 -> 00:02:04]  Khi zoom lên thì nó vẫn đầy đủ chi tiết.
+[00:02:04 -> 00:02:07]  Đây là một phần điểm rất mạnh của SketchUp.
+[00:02:07 -> 00:02:10]  Nếu bạn nào biết SketchUp mà làm bài diagram nữa,
+[00:02:10 -> 00:02:12]  thì mình thấy là sẽ kết hợp rất dễ.
+[00:02:12 -> 00:02:14]  Mở nó với Photoshop.
+[00:02:14 -> 00:02:17]  Thì đây là hình ảnh mình sẽ bắt đầu.
+[00:02:18 -> 00:02:21]  Trong bài này thì mình cũng đã ghi 2 cái mã màu bên dưới.
+[00:02:21 -> 00:02:25]  Là cái mã màu xanh cũng như là cái mã màu nhấn từ đây.
+[00:02:25 -> 00:02:27]  Mọi người thấy ở đây mình có cái màu xanh nềm này
+[00:02:27 -> 00:02:30]  và cái màu nhấn, một số màu vàng này.
+[00:02:30 -> 00:02:33]  Thì mình cũng follow chính xác theo màu của chuyển luôn.
+[00:02:33 -> 00:02:37]  Tiếp đến thì mình sẽ copy các cái phần chi tiết thêm vào nhé.
+[00:02:37 -> 00:02:40]  Trong trường hợp này thì ngoài cái phần diagram chính này,
+[00:02:40 -> 00:02:43]  thì chúng ta sẽ có thêm một số cái phần chú thích ở đây nữa.
+[00:02:43 -> 00:02:46]  Mọi người cũng sẽ xuất cái hình ảnh như bình thường thôi.
+[00:02:46 -> 00:02:50]  Trường hợp này thì bạn cũng đã xuất ra cho mình một số cái hình như thế này.
+[00:02:50 -> 00:02:56]  Nó là các cái chi tiết cửa sổ cũng như là cái chi tiết phần canopy mái phía trên.
+[00:02:56 -> 00:02:58]  Thì mình sẽ mở cái hình này với Photoshop.
+[00:02:58 -> 00:02:59]  Sau đó mọi người copy này.
+[00:02:59 -> 00:03:00]  Ctrl A này.
+[00:03:00 -> 00:03:01]  Ctrl C này.
+[00:03:01 -> 00:03:05]  Và mình sẽ tạo một cái vùng trọn hình tròn.
+[00:03:05 -> 00:03:08]  Bằng công cụ Ellipse này mình giữ ship này.
+[00:03:08 -> 00:03:11]  Sau đó mình sẽ, đây mình cho một cái vị trí ở chỗ này.
+[00:03:11 -> 00:03:13]  Mọi người giữ phim cách để di chuyển nhé.
+[00:03:13 -> 00:03:15]  Giữ phim cách để di chuyển vùng trọn.
+[00:03:15 -> 00:03:17]  Mình sẽ dán cái đối tượng.
+[00:03:17 -> 00:03:22]  Cái phần cỡ chớp này vào bằng phím tắt là Ctrl Shift A V.
+[00:03:22 -> 00:03:24]  Sau khi mọi người đã copy bên kia.
+[00:03:24 -> 00:03:26]  Dùng lệnh Ctrl T này.
+[00:03:26 -> 00:03:29]  Mình điều chỉnh kích cỡ cho nó nhỏ lại.
+[00:03:29 -> 00:03:34]  Vào đúng vị trí khoảng này.
+[00:03:34 -> 00:03:37]  Nhỏ lại một chút nữa.
+[00:03:37 -> 00:03:39]  Khoảng này.
+[00:03:39 -> 00:03:41]  Ok mình có được một đối tượng này.
+[00:03:41 -> 00:03:44]  Sau khi mình dán nó vào trong viền tròn.
+[00:03:44 -> 00:03:47]  Hình tròn thì mọi người thấy là nó hiện tại đang thiếu cái viền.
+[00:03:47 -> 00:03:50]  Thiếu viền thì mọi người có thể chọn chuột phải vào layer này.
+[00:03:50 -> 00:03:53]  Chọn Blending Options.
+[00:03:53 -> 00:03:57]  Và trong này mọi người có thể sử dụng stroke từ đây.
+[00:03:57 -> 00:03:59]  Thực chất nó chỉ có một stroke thôi.
+[00:03:59 -> 00:04:01]  Đây mình bấm nhầm dấu cộng thêm ra 2-3 cái.
+[00:04:01 -> 00:04:05]  Mọi người chọn stroke sau đó có thể điều chỉnh kích cỡ lên cao này.
+[00:04:05 -> 00:04:10]  Rồi cái trường hợp này nó bị vắt ngang là do mình để cái hình ảnh bị thiếu.
+[00:04:10 -> 00:04:13]  Để ngày bị thiếu thì mình cứ điều chỉnh cái phần viền trước này.
+[00:04:13 -> 00:04:16]  Ví dụ mình cho khoảng tầm 8px này.
+[00:04:16 -> 00:04:18]  Màu thì mình cho màu đen này.
+[00:04:18 -> 00:04:20]  Ok này.
+[00:04:20 -> 00:04:23]  Mình sẽ chọn layer và mình sẽ kéo nó xuống thấp một chút đó.
+[00:04:23 -> 00:04:25]  Để nó phủ kiến hình tròn như thế này.
+[00:04:25 -> 00:04:26]  Nó sẽ không bị thừa nữa.
+[00:04:26 -> 00:04:30]  Tương tự như vậy mình cũng sẽ lại tạo vùng chọn hình tròn.
+[00:04:30 -> 00:04:32]  Cho những đối tượng khác này.
+[00:04:32 -> 00:04:33]  Giữ ship này.
+[00:04:33 -> 00:04:35]  Giữ cách để di chuyển này.
+[00:04:35 -> 00:04:37]  Và để copy nhanh cái phần stroke lên nhé.
+[00:04:37 -> 00:04:39]  Stroke viền này. Mọi người có thể giữ phim an.
+[00:04:39 -> 00:04:41]  Kéo stroke này. Thả lên trên này.
+[00:04:41 -> 00:04:44]  Tiếp đến thì mình sẽ làm một cái phần quan trọng nhất ở cái bài này.
+[00:04:44 -> 00:04:46]  Đó là đảo màu.
+[00:04:46 -> 00:04:50]  Nếu để như thế này thì mọi người thấy là cái phần màu nó không giống bài màu là 1.
+[00:04:50 -> 00:04:53]  Thứ 2 là nó sẽ không như chúng ta mong muốn.
+[00:04:53 -> 00:04:55]  Để đảo màu trong trường hợp này
+[00:04:55 -> 00:05:00]  thì mình sẽ dùng đến một cái công cụ trong phần adjustment phía dưới này.
+[00:05:00 -> 00:05:02]  Đó là gradient map.
+[00:05:02 -> 00:05:04]  Nó sẽ giúp mọi người đảo âm bản cái phần màu nhé.
+[00:05:04 -> 00:05:05]  Gradient map này.
+[00:05:05 -> 00:05:09]  Mình kéo cái layer gradient map lên trên những layer mình muốn đảo màu này.
+[00:05:09 -> 00:05:13]  Và trong bài này thì
+[00:05:13 -> 00:05:15]  cái màu phía bên trái
+[00:05:15 -> 00:05:17]  mình sẽ để màu trắng.
+[00:05:17 -> 00:05:19]  Màu trắng này.
+[00:05:19 -> 00:05:21]  Khi mọi người sử dụng gradient map
+[00:05:21 -> 00:05:23]  và mọi người chọn vào một cái ô preset màu đây
+[00:05:23 -> 00:05:25]  thì nó sẽ chia ra 2 nửa
+[00:05:25 -> 00:05:27]  2 điểm màu, trái và phải.
+[00:05:27 -> 00:05:29]  Thì mọi người cứ hình dung đơn giản là cái điểm màu bên trái này
+[00:05:29 -> 00:05:31]  nó sẽ
+[00:05:31 -> 00:05:33]  đại diện cho vùng màu tối.
+[00:05:33 -> 00:05:35]  Cái màu tối trong ảnh này thì nó thành cái màu bên trái.
+[00:05:35 -> 00:05:37]  Mọi người thấy vừa nãy cái viền của mình là màu đen này.
+[00:05:37 -> 00:05:39]  Thì bây giờ nó thành màu trắng rồi.
+[00:05:39 -> 00:05:41]  Và ngược lại những thằng màu sáng này
+[00:05:41 -> 00:05:43]  nó sẽ theo cái thằng màu bên phải.
+[00:05:43 -> 00:05:45]  Cái thằng màu bên phải nó sẽ đại diện cho các vùng màu sáng.
+[00:05:45 -> 00:05:47]  Vùng
+[00:05:47 -> 00:05:49]  nàm vừa nãy màu sáng nó sẽ thành cái màu xanh này.
+[00:05:49 -> 00:05:51]  Thành màu tối này.
+[00:05:51 -> 00:05:53]  Trong này thì mình sẽ dùng
+[00:05:53 -> 00:05:55]  cái mã màu giống như phía dưới này mình để sẵn này.
+[00:05:55 -> 00:05:57]  186370.
+[00:05:57 -> 00:05:59]  Quách đốt vào nhé.
+[00:05:59 -> 00:06:01]  Xong rồi mọi người điền số mã màu vào đây.
+[00:06:01 -> 00:06:03]  186370.
+[00:06:03 -> 00:06:05]  Thì đây chính xác là cái màu mà mình sẽ dùng.
+[00:06:05 -> 00:06:07]  Ok.
+[00:06:07 -> 00:06:09]  Rồi như vậy là khi mình sử dụng Gradient Map xong
+[00:06:09 -> 00:06:11]  mọi người thấy mình sẽ có được
+[00:06:11 -> 00:06:13]  cái ảnh nó âm bản như thế này.
+[00:06:13 -> 00:06:15]  Trên ảnh này thì mình muốn
+[00:06:15 -> 00:06:17]  nó tối hơn một chút.
+[00:06:17 -> 00:06:19]  Cái phần này tối hơn.
+[00:06:19 -> 00:06:21]  Thì mình có thể sử dụng công cụ Magic Wand Tool
+[00:06:21 -> 00:06:23]  từ đây.
+[00:06:23 -> 00:06:25]  Mình bỏ Text Sample Layer này.
+[00:06:25 -> 00:06:27]  Mình tích vào Contiguous.
+[00:06:27 -> 00:06:29]  Mọi người để giống như phía trên này của mình nhé.
+[00:06:29 -> 00:06:31]  Xong rồi mọi người chọn
+[00:06:31 -> 00:06:33]  layer mà chúng ta xuất ra từ SketchUp.
+[00:06:33 -> 00:06:35]  Và
+[00:06:35 -> 00:06:37]  click vào phần này để lấy vùng chọn như thế này.
+[00:06:37 -> 00:06:39]  Mọi người nhớ là phải bỏ text
+[00:06:39 -> 00:06:41]  cái này nhé. Sample Layer
+[00:06:41 -> 00:06:43]  bởi vì nếu dùng Sample Layer
+[00:06:43 -> 00:06:45]  nó nhận toàn bộ thì nó không có chọn chính xác
+[00:06:45 -> 00:06:47]  trong trường hợp này. Từ đây thì mình sẽ dùng
+[00:06:47 -> 00:06:49]  Adjustment này. Mình dùng Curve.
+[00:06:49 -> 00:06:51]  Và mọi người kéo
+[00:06:51 -> 00:06:53]  điểm giữa cho mình.
+[00:06:53 -> 00:06:55]  Nếu muốn tối mọi người kéo lên trên như thế này.
+[00:06:55 -> 00:06:57]  Đó. Kéo điểm giữa.
+[00:06:57 -> 00:06:59]  Hoặc là mọi người kéo cái điểm này.
+[00:06:59 -> 00:07:01]  Trong này thì mình sẽ kéo
+[00:07:01 -> 00:07:03]  điểm giữa. Đây trên thì nó tối xuống.
+[00:07:03 -> 00:07:05]  Khoảng tầm như thế này.
+[00:07:05 -> 00:07:07]  Tiếp đến thì mình sẽ thêm phần viền
+[00:07:07 -> 00:07:09]  cho cái
+[00:07:09 -> 00:07:11]  từng cụ. Phần viền này.
+[00:07:11 -> 00:07:13]  Mọi người thấy phía xung quanh chúng ta có một cái viền trắng này.
+[00:07:13 -> 00:07:15]  Để nó làm rõ từng
+[00:07:15 -> 00:07:17]  khối tầng một
+[00:07:17 -> 00:07:19]  rõ ràng hơn. Để thêm phần viền
+[00:07:19 -> 00:07:21]  thì có một cách
+[00:07:21 -> 00:07:23]  chính xác nhất và cái cách này
+[00:07:23 -> 00:07:25]  nó sẽ giúp mọi người dùng được trong mọi trường hợp.
+[00:07:25 -> 00:07:27]  Đó là sử dụng Pen Tool.
+[00:07:27 -> 00:07:29]  Mọi người dùng Pen Tool này.
+[00:07:29 -> 00:07:31]  Rồi mọi người chuyển sang
+[00:07:31 -> 00:07:33]  thì chọn Shape nhé. Tắt Fill đi.
+[00:07:33 -> 00:07:35]  Cho Stroke, bật Stroke lên.
+[00:07:35 -> 00:07:37]  Và mọi người bắt đầu vẽ theo các cái bo viền
+[00:07:37 -> 00:07:39]  như thế này.
+[00:07:39 -> 00:07:41]  Cái cách này có thể nó sẽ
+[00:07:41 -> 00:07:43]  hơi lâu nhưng mà nó là cách
+[00:07:43 -> 00:07:45]  dùng được trong mọi trường hợp.
+[00:07:45 -> 00:07:47]  Mình làm ví dụ một đoạn như vậy thôi. Mọi người thì điều chuyển Stroke
+[00:07:47 -> 00:07:49]  từ đây thành LED Niền này.
+[00:07:49 -> 00:07:51]  Thì nó sẽ giống hẹt là bài cuộc triển.
+[00:07:51 -> 00:07:53]  Nhưng mà nó bắt chúng ta phải bo theo.
+[00:07:53 -> 00:07:55]  Thì đây là một cách và cách này sẽ
+[00:07:55 -> 00:07:57]  dùng được trong mọi trường hợp.
+[00:07:57 -> 00:07:59]  Tuy nhiên trong trường hợp này thì mình sẽ dùng một cách nhanh hơn.
+[00:07:59 -> 00:08:01]  Cái cách nhanh hơn này thì tùy bài.
+[00:08:01 -> 00:08:03]  Có những bài của mọi người hình dạng nó
+[00:08:03 -> 00:08:05]  phức tạp thì có thể nó sẽ không xài được đâu.
+[00:08:05 -> 00:08:07]  Thì mọi người sẽ xài Pen Tool.
+[00:08:07 -> 00:08:09]  Và cái cách nhanh hơn đó là
+[00:08:09 -> 00:08:11]  mình dùng Magic
+[00:08:11 -> 00:08:13]  mình cũng lại chọn vào Background
+[00:08:13 -> 00:08:15]  là Clayer mình xuất ra từ trong Sketchup ấy.
+[00:08:15 -> 00:08:17]  Xong mình cũng lại Quip vào phần này.
+[00:08:17 -> 00:08:19]  Nhớ các điểm tích phía trên này giống mình nhé.
+[00:08:19 -> 00:08:21]  Rồi mình sẽ đảo ngược vùng chọn.
+[00:08:21 -> 00:08:23]  Select
+[00:08:23 -> 00:08:25]  mình chọn Inverse
+[00:08:25 -> 00:08:27]  từ đây.
+[00:08:27 -> 00:08:29]  Rồi mình tạm một Layer chống.
+[00:08:29 -> 00:08:31]  Tạm Layer chống này.
+[00:08:31 -> 00:08:33]  Phía trên Layer Gradient Map nhé.
+[00:08:33 -> 00:08:35]  Phía trên Layer Gradient Map.
+[00:08:35 -> 00:08:37]  Sau đó mình sẽ cho nó cái viền
+[00:08:37 -> 00:08:39]  bằng cách mọi người vào cái menu Edit
+[00:08:39 -> 00:08:41]  và chọn mục Stroke từ đây.
+[00:08:41 -> 00:08:43]  Stroke.
+[00:08:43 -> 00:08:45]  Mọi người chọn Outside nhé.
+[00:08:45 -> 00:08:47]  Chọn Outside để cái phần viền nó
+[00:08:47 -> 00:08:49]  nó offset ra bên ngoài chứ nó không offset vào bên trong.
+[00:08:49 -> 00:08:51]  Offset vào bên trong thì nó sẽ bị
+[00:08:51 -> 00:08:53]  che đi cái chi tiết của chúng ta.
+[00:08:53 -> 00:08:55]  Mọi người nhớ cho mình
+[00:08:55 -> 00:08:57]  là luôn chọn Outside nhé.
+[00:08:57 -> 00:08:59]  Màu trường này mình sẽ dùng màu trắng này.
+[00:08:59 -> 00:09:01]  Phần độ rộng thì mình sẽ để 10px.
+[00:09:01 -> 00:09:03]  Còn lại để bình thường hết.
+[00:09:03 -> 00:09:05]  Ok thì mình sẽ được cái phần viền như thế này.
+[00:09:05 -> 00:09:07]  Mọi người thấy trước và sau khi có viền này.
+[00:09:07 -> 00:09:09]  Trước này. Sau này.
+[00:09:09 -> 00:09:11]  Sau khi có viền nó sẽ
+[00:09:11 -> 00:09:13]  cho một cái
+[00:09:13 -> 00:09:15]  cái phần chi tiết
+[00:09:15 -> 00:09:17]  tốt hơn ở các góc cạnh khác nhau.
+[00:09:17 -> 00:09:19]  Rồi.
+[00:09:19 -> 00:09:21]  Tiếp đến thì mình thêm một số các cái phần
+[00:09:21 -> 00:09:23]  đường nốt cũng như là đường căn trục.
+[00:09:23 -> 00:09:25]  Đây mọi người thấy là bài mẫu
+[00:09:25 -> 00:09:27]  thì bài ấy có nốt vào các vị trí như thế này.
+[00:09:27 -> 00:09:29]  Đó. Nốt các vị trí như thế này.
+[00:09:29 -> 00:09:31]  Mình sẽ thêm các cái đường nốt
+[00:09:31 -> 00:09:33]  để nó
+[00:09:33 -> 00:09:35]  tạo điểm nhấn chính xác và tốt hơn.
+[00:09:35 -> 00:09:37]  Thì các cái đường nốt này thì mình
+[00:09:37 -> 00:09:39]  có thể dùng Pen Tool.
+[00:09:39 -> 00:09:41]  Mình cho Stroke nhỏ lại thôi.
+[00:09:41 -> 00:09:43]  Tầm
+[00:09:43 -> 00:09:45]  3 như thế này.
+[00:09:45 -> 00:09:47]  Mình nối từ đây.
+[00:09:47 -> 00:09:49]  Click này. Nối về cái điểm này.
+[00:09:49 -> 00:09:51]  Về cửa sổ đây. Nối về đây.
+[00:09:51 -> 00:09:53]  Click này.
+[00:09:53 -> 00:09:55]  Enter. Mình sẽ chuyển nó
+[00:09:55 -> 00:09:57]  sang cái nét liền này. Màu thì
+[00:09:57 -> 00:09:59]  sang màu trắng.
+[00:09:59 -> 00:10:01]  Đó. Tương tự như vậy
+[00:10:01 -> 00:10:03]  mình lại dùng Pen này.
+[00:10:03 -> 00:10:05]  Nếu mà giống bài mẫu thì mọi người thấy mình có một số
+[00:10:05 -> 00:10:07]  các cái nét căn trục đây nữa này.
+[00:10:07 -> 00:10:09]  Cái nét đớt này này.
+[00:10:09 -> 00:10:11]  Nét căn trục. Thì để tạo
+[00:10:11 -> 00:10:13]  cái nét căn trục mọi người cũng sẽ dùng Pen Tool.
+[00:10:13 -> 00:10:15]  Mình dùng Shift.
+[00:10:15 -> 00:10:17]  Mình cho Stroke mỏng lại 2 thôi.
+[00:10:17 -> 00:10:19]  Click này.
+[00:10:19 -> 00:10:21]  Giữ Shift.
+[00:10:21 -> 00:10:23]  Click lên trên đây.
+[00:10:23 -> 00:10:25]  Enter. Sau đó mọi người có thể vào cái mục
+[00:10:25 -> 00:10:27]  điều chỉnh viền và chuyển nét đớt.
+[00:10:27 -> 00:10:29]  Một chấm này. Có thể cho dày hơi một chút.
+[00:10:29 -> 00:10:31]  Khoảng 4. Đó. Như thế này.
+[00:10:31 -> 00:10:33]  Mình được một nét nhé.
+[00:10:33 -> 00:10:35]  Tương tự như vậy thì mình lại dùng
+[00:10:35 -> 00:10:37]  Pen và mình tạo các cái nét còn lại.
+[00:10:37 -> 00:10:39]  Từ đây chẳng hạn này.
+[00:10:39 -> 00:10:41]  Click này. Giữ Shift.
+[00:10:41 -> 00:10:43]  Kéo lên đây. Enter.
+[00:10:43 -> 00:10:45]  Hoặc mọi người có thể dự án, mọi người copy ra một vài đường.
+[00:10:45 -> 00:10:47]  Dự án copy ra như thế này.
+[00:10:47 -> 00:10:49]  Tuy nhiên là có thể
+[00:10:49 -> 00:10:51]  tự vẽ từng đường thì chúng ta sẽ kiểm soát
+[00:10:51 -> 00:10:53]  cái độ dài nó được tốt hơn.
+[00:10:53 -> 00:10:55]  Đây mình làm mẫu 4 đường như vậy thôi nhé.
+[00:10:55 -> 00:10:57]  Cái đường gióng trục này nó sẽ có một cái mục đích.
+[00:10:57 -> 00:10:59]  Đó là nó làm cho cái
+[00:10:59 -> 00:11:01]  cái mặt bằng của chúng ta nó rõ ràng
+[00:11:01 -> 00:11:03]  từ trên xuống dưới. Người xem người ta sẽ dễ dàng hình dung ra là
+[00:11:03 -> 00:11:05]  à cái tọa độ đấy ở vị trí tầng 1
+[00:11:05 -> 00:11:07]  và cái vị trí tầng mái
+[00:11:07 -> 00:11:09]  nó sẽ liên kết như nào với nhau
+[00:11:09 -> 00:11:11]  và cái mặt bằng nó sẽ đỡ bị rối.
+[00:11:11 -> 00:11:13]  Thì cái này cũng là cái mọi người sẽ nên cân nhắc.
+[00:11:13 -> 00:11:15]  Có những bài nó rõ ràng thì chúng ta có thể
+[00:11:15 -> 00:11:17]  không cần cũng được. Tuy nhiên bài này thì mình thấy là
+[00:11:17 -> 00:11:19]  việc mà có nó thì nó cũng hiệu quả
+[00:11:19 -> 00:11:21]  rõ ràng.
+[00:11:21 -> 00:11:23]  Khi mà zoom lên thì mọi người thấy là các cái phần
+[00:11:23 -> 00:11:25]  lắt cắt của mình
+[00:11:25 -> 00:11:27]  nó đang khá là
+[00:11:27 -> 00:11:29]  lẫn so với các cái phần xung quanh.
+[00:11:29 -> 00:11:31]  Đây mọi người thấy các cái phần cắt này. Nó khá lẫn với
+[00:11:31 -> 00:11:33]  phần xung quanh. Thì trầm này bạn cũng đổi sang
+[00:11:33 -> 00:11:35]  cái màu tối hơn. Là cái màu ghi đen
+[00:11:35 -> 00:11:37]  như thế này. Thì mọi người có thể sử dụng
+[00:11:37 -> 00:11:39]  cái công cụ magic này.
+[00:11:39 -> 00:11:41]  Mọi người chọn thì chọn thêm đây.
+[00:11:41 -> 00:11:43]  Sau đó chọn quay trở lại cái layer
+[00:11:43 -> 00:11:45]  xuất ra từ trong SketchUp nhé.
+[00:11:45 -> 00:11:47]  Và mọi người tìm đến các cái phần
+[00:11:47 -> 00:11:49]  mặt cắt tường. Click vào đây. Là mọi người
+[00:11:49 -> 00:11:51]  click như thế này. Chọn các cái mặt
+[00:11:51 -> 00:11:53]  cắt tường. Click. Mọi người cứ click thôi.
+[00:11:53 -> 00:11:55]  Khi nào mọi người chọn hết các cái
+[00:11:55 -> 00:11:57]  diện cắt tường.
+[00:11:57 -> 00:11:59]  Rồi ví dụ một số đường như vậy.
+[00:11:59 -> 00:12:01]  Và phía trên còn gì? Phía trên không có.
+[00:12:01 -> 00:12:03]  Sau khi mọi người tạo vùng chọn xong
+[00:12:03 -> 00:12:05]  thì chúng ta có thể tạo một layer
+[00:12:05 -> 00:12:07]  chống phía trên gradient map nhé.
+[00:12:07 -> 00:12:09]  Đó. Chọn tạo
+[00:12:09 -> 00:12:11]  dùng adjustment này. Mọi người dùng
+[00:12:11 -> 00:12:13]  solid color và có thể đổi cho nó
+[00:12:13 -> 00:12:15]  một cái màu khác. Màu nào bất kỳ để
+[00:12:15 -> 00:12:17]  mọi người thấy nó nổi trong bài thì mọi người chọn nhé.
+[00:12:17 -> 00:12:19]  Trong này mình sẽ dùng cái màu xanh này
+[00:12:19 -> 00:12:21]  và mình sẽ kéo nó tối xuống. Ví dụ như thế này chẳng hạn.
+[00:12:21 -> 00:12:23]  Nó sẽ đồng bộ với tông màu.
+[00:12:23 -> 00:12:25]  Thì khi mình thêm cái phần mặt cắt này
+[00:12:25 -> 00:12:27]  mọi người thấy là cái mặt bằng công năng rõ hơn.
+[00:12:27 -> 00:12:29]  Trước này. Sau này.
+[00:12:29 -> 00:12:31]  Thì nó sẽ rõ cái vết cắt hơn.
+[00:12:31 -> 00:12:33]  Chứ nó không có bị lẫn ra với các cái
+[00:12:33 -> 00:12:35]  màu khác. Tiếp đến thì mình
+[00:12:35 -> 00:12:37]  sẽ thêm
+[00:12:37 -> 00:12:39]  một số cây. Bạn cũng có thêm một số cây.
+[00:12:39 -> 00:12:41]  Ở đây thì mình có này. Cân chừng A, cân chừng C này.
+[00:12:41 -> 00:12:43]  Cân chừng V.
+[00:12:43 -> 00:12:45]  Và mình có thể cho nhỏ lại.
+[00:12:45 -> 00:12:47]  Hình như T giữa ship mình cho bé lại
+[00:12:47 -> 00:12:49]  như thế này. Để đổi màu
+[00:12:49 -> 00:12:51]  cây thì mọi người có thể dùng
+[00:12:51 -> 00:12:53]  đến một cái
+[00:12:53 -> 00:12:55]  phần đó là mọi người có chọn chuột phải và
+[00:12:55 -> 00:12:57]  layer này. Chọn blending
+[00:12:57 -> 00:12:59]  option. Và dùng
+[00:12:59 -> 00:13:01]  color overlay. Mình có thể
+[00:13:01 -> 00:13:03]  đổi cây sang màu xanh, đỏ,
+[00:13:03 -> 00:13:05]  tiếng vàng, trắng. Màu gì tùy mọi người quyết định.
+[00:13:05 -> 00:13:07]  Đây mình sẽ đổi sang màu trắng. Giống trong
+[00:13:07 -> 00:13:09]  bảy mẫu luôn. Ok này.
+[00:13:09 -> 00:13:11]  Rồi mình sẽ giảm opacity xuống
+[00:13:11 -> 00:13:13]  cho nhẹ một chút. Ở đây có một cây
+[00:13:13 -> 00:13:15]  nữa này. Để cho nhỏ lại.
+[00:13:15 -> 00:13:17]  Rồi phía trước này có một cây.
+[00:13:17 -> 00:13:19]  Đó. Vị trí giống
+[00:13:19 -> 00:13:21]  hết trong bảy mẫu luôn.
+[00:13:21 -> 00:13:23]  Tiếp đến thì mình sẽ thêm các cái phần
+[00:13:23 -> 00:13:25]  màu. Ở đây mọi người thấy là
+[00:13:25 -> 00:13:27]  trường này thì bạn nhấn vào
+[00:13:27 -> 00:13:29]  các cái vị trí
+[00:13:29 -> 00:13:31]  cửa sổ, lấy sáng
+[00:13:31 -> 00:13:33]  cũng như là cái phần
+[00:13:33 -> 00:13:35]  lấy gió từ đây. Có nghĩa là cái bài diagram này
+[00:13:35 -> 00:13:37]  thì một phần nó thể hiện công năng
+[00:13:37 -> 00:13:39]  và một phần nó thể hiện
+[00:13:39 -> 00:13:41]  mục đích của bạn là các cái phần
+[00:13:41 -> 00:13:43]  trắng sáng.
+[00:13:43 -> 00:13:45]  Các cái phần vị trí cửa sổ.
+[00:13:45 -> 00:13:47]  Cái màu vàng này nó là cái
+[00:13:47 -> 00:13:49]  hiệu quả trong bài này. Mọi người cũng sẽ
+[00:13:49 -> 00:13:51]  nên chọn một cái màu nhấn. Ví dụ đấy như này thì nó sẽ
+[00:13:51 -> 00:13:53]  chưa có cái sự tập trung.
+[00:13:53 -> 00:13:55]  Nó chưa có cái điểm nhấn chính xác.
+[00:13:55 -> 00:13:57]  Điểm nhấn cụ thể.
+[00:13:57 -> 00:13:59]  Để thêm các cái màu này
+[00:13:59 -> 00:14:01]  mọi người có thể
+[00:14:01 -> 00:14:03]  tạo cái vùng chọn.
+[00:14:03 -> 00:14:05]  Ví dụ trường này
+[00:14:05 -> 00:14:07]  mình dùng Polygon này.
+[00:14:07 -> 00:14:09]  Mình tơ màu các cái vùng cửa sổ trước nhé.
+[00:14:09 -> 00:14:11]  Mình chọn các cái ô cửa sổ như thế này.
+[00:14:13 -> 00:14:15]  Tạo một vùng xong này
+[00:14:15 -> 00:14:17]  mọi người có thể chọn thêm từ đây.
+[00:14:17 -> 00:14:19]  Sau đó tạo tiếp các cái vùng khác. Có nghĩa là mình tạo
+[00:14:19 -> 00:14:21]  một loạt các cái ô cửa sổ luôn như thế này.
+[00:14:21 -> 00:14:23]  Đoạn này thì mình sẽ tool nhanh một chút nhé.
+[00:14:23 -> 00:14:25]  Nó chỉ là tạo vùng chọn từng phần từng phần thôi.
+[00:14:25 -> 00:14:27]  Sau khi có vùng chọn
+[00:14:27 -> 00:14:29]  thì mình cũng lại dùng
+[00:14:29 -> 00:14:31]  X-Jibbon này. Dùng Solid Color.
+[00:14:31 -> 00:14:33]  Mình đổ cho nó một cái màu cam.
+[00:14:33 -> 00:14:35]  Cam vàng như thế này.
+[00:14:35 -> 00:14:37]  Một cái màu cam vàng.
+[00:14:37 -> 00:14:39]  Và từ đây thì mọi người
+[00:14:39 -> 00:14:41]  có thể kết hợp nó với chế độ hòa trội.
+[00:14:41 -> 00:14:43]  Trong này thì mình có thể dùng cái
+[00:14:43 -> 00:14:45]  Multiply.
+[00:14:45 -> 00:14:47]  Để nó chuyển sang một cái màu vàng khác như thế này.
+[00:14:47 -> 00:14:49]  Mọi người thấy là cái ô cửa sổ
+[00:14:49 -> 00:14:51]  mình nó sẽ có màu vàng và nó sẽ có độ
+[00:14:51 -> 00:14:53]  trong suốt khi mình dùng chế độ hòa trội.
+[00:14:53 -> 00:14:55]  Mỗi vị trí nó sẽ có một cái
+[00:14:55 -> 00:14:57]  chế độ hòa trội phù hợp khác nhau nhé.
+[00:14:57 -> 00:14:59]  Ví dụ như vị trí này
+[00:14:59 -> 00:15:01]  thì mọi người sẽ nên
+[00:15:01 -> 00:15:03]  tách ra cho mình các cái vùng này.
+[00:15:03 -> 00:15:05]  Trầm này thì mình làm ví dụ mình không tách ra
+[00:15:05 -> 00:15:07]  thì nó bị
+[00:15:07 -> 00:15:09]  đẻ lên cái màu tối. Nếu mọi người tách ra thì
+[00:15:09 -> 00:15:11]  chúng ta sẽ được một cái kết quả nó đẹp hơn
+[00:15:11 -> 00:15:13]  hoặc là mọi người có thể dùng một cái màu khác sáng hơn.
+[00:15:13 -> 00:15:15]  Trầm này thì bạn dùng một cái màu sáng hoặc là dùng chế độ hòa trội khác.
+[00:15:15 -> 00:15:17]  Khi mọi người chọn màu khác này.
+[00:15:17 -> 00:15:19]  Màu vàng này
+[00:15:19 -> 00:15:21]  thì trên này nó sẽ đẹp hơn, sáng hơn.
+[00:15:21 -> 00:15:23]  Tuy nhiên trầm này thì mình cứ đẻ một màu thôi.
+[00:15:23 -> 00:15:25]  Cái cách làm là như vậy thôi. Mọi người có thể
+[00:15:25 -> 00:15:27]  tùy biến trên bài của mọi người nhé.
+[00:15:27 -> 00:15:29]  Rồi, như vậy là
+[00:15:29 -> 00:15:31]  mình đã có cái mảng màu nhấn cho các cái ô cửa sổ
+[00:15:31 -> 00:15:33]  trong cái phần này.
+[00:15:33 -> 00:15:35]  Tiếp đến thì mình sẽ thêm cái phần
+[00:15:35 -> 00:15:37]  màu nhấn cho những cái vùng còn lại. Đây, bên ngoài này.
+[00:15:37 -> 00:15:39]  Mình sẽ
+[00:15:39 -> 00:15:41]  tô các cái vùng này bằng màu.
+[00:15:41 -> 00:15:43]  Thì để tô
+[00:15:43 -> 00:15:45]  cái vùng này mình cũng sẽ tạo vùng trọn.
+[00:15:45 -> 00:15:47]  Mình sẽ dùng
+[00:15:47 -> 00:15:49]  cái drag tang này hoặc là dùng polygon này.
+[00:15:49 -> 00:15:51]  Mình lấy vùng trọn này
+[00:15:51 -> 00:15:53]  của cái vị trí gạch gió này.
+[00:15:53 -> 00:15:55]  Mình lấy rộng ra như thế này.
+[00:15:55 -> 00:15:57]  Rồi, bây giờ
+[00:15:57 -> 00:15:59]  cái mà mình cần
+[00:15:59 -> 00:16:01]  nó chỉ nằm trong cái vùng tròn thôi.
+[00:16:01 -> 00:16:03]  Chứ mình không có muốn lấy cái diện tích bên ngoài này nữa.
+[00:16:03 -> 00:16:05]  Không muốn lấy diện tích bên ngoài,
+[00:16:05 -> 00:16:07]  chỉ muốn trong vùng tròn thôi.
+[00:16:07 -> 00:16:09]  Thì mọi người sẽ tìm đến layer
+[00:16:09 -> 00:16:11]  của cái
+[00:16:11 -> 00:16:13]  đây, cái cánh cửa này.
+[00:16:13 -> 00:16:15]  Của cái phần này.
+[00:16:15 -> 00:16:17]  Mọi người tạo vùng trọn nhé, sau đó tìm đến
+[00:16:17 -> 00:16:19]  layer của nó nhé. Đây, layer của nó đây.
+[00:16:19 -> 00:16:21]  Mọi người ấn cho mình
+[00:16:21 -> 00:16:23]  cái tổ hợp phím Ctrl-Shift-Alt
+[00:16:23 -> 00:16:25]  Ctrl-Shift-Alt nhé.
+[00:16:25 -> 00:16:27]  3 phím cùng lúc nhé. Sau đó mọi người
+[00:16:27 -> 00:16:29]  chỉ vào layer mask này. Chỉ vào cái layer mask
+[00:16:29 -> 00:16:31]  từ đầu. Cái này khi mọi người đi tuần tự,
+[00:16:31 -> 00:16:33]  từng bước giống mình thì nó sẽ y hệt thôi.
+[00:16:33 -> 00:16:35]  Click vào đây. Thì mình sẽ đổi một cái vùng trọn.
+[00:16:35 -> 00:16:37]  Nó nằm giữa.
+[00:16:37 -> 00:16:39]  Nằm giữa như thế này.
+[00:16:39 -> 00:16:41]  Và từ đây thì mọi người có thể dùng
+[00:16:41 -> 00:16:43]  adjustment này,
+[00:16:43 -> 00:16:45]  select color, mọi người đổ cái màu vàng ra.
+[00:16:45 -> 00:16:47]  Màu vàng này.
+[00:16:47 -> 00:16:49]  Sau đó mọi người sẽ trộn
+[00:16:49 -> 00:16:51]  nó với color.
+[00:16:51 -> 00:16:53]  Thì mình sẽ đổ một cái màu vàng khác. Đây, mình có thể
+[00:16:53 -> 00:16:55]  cho cái màu vàng sáng hơn.
+[00:16:55 -> 00:16:57]  Như thế này. Màu vàng này.
+[00:16:57 -> 00:16:59]  Mọi người sẽ thấy kết quả là mình
+[00:16:59 -> 00:17:01]  có cái màu vàng nhấn từ đây. Nó sẽ có liên kết
+[00:17:01 -> 00:17:03]  từ đây sang bên này. Mọi người có thể cho
+[00:17:03 -> 00:17:05]  2 cái màu nó giống nhau hơn nhé.
+[00:17:05 -> 00:17:07]  Nếu giống nhau hơn thì cái thằng này sẽ vàng hơn 1 xíu.
+[00:17:07 -> 00:17:09]  Như thế này thì nó sẽ
+[00:17:09 -> 00:17:11]  khớp nhau. Đừng để màu nó khác nhau nhé.
+[00:17:11 -> 00:17:13]  2 thằng nó giống nhau. Tương tự như vậy,
+[00:17:13 -> 00:17:15]  mọi người sẽ tạo vùng chọn cho các diện tích khác
+[00:17:15 -> 00:17:17]  nữa. Chỗ này cũng vậy. Mình tạo
+[00:17:17 -> 00:17:19]  vùng chọn cho diện tích cửa chớp này.
+[00:17:19 -> 00:17:21]  Mình tạo rộng ra. Như thế này.
+[00:17:21 -> 00:17:23]  Rộng ra.
+[00:17:23 -> 00:17:25]  Sau đó cũng tìm đến
+[00:17:25 -> 00:17:27]  layer của nó. Đây.
+[00:17:27 -> 00:17:29]  Layer của nó đây.
+[00:17:29 -> 00:17:31]  Cũng lại ấn từ phím
+[00:17:31 -> 00:17:33]  Ctrl-Shift-Alt, click vào layer mask để nó lấy
+[00:17:33 -> 00:17:35]  cái vùng giao nhau. Ctrl-Shift-Alt
+[00:17:35 -> 00:17:37]  click vào đây. Đó, và mình cũng
+[00:17:37 -> 00:17:39]  lại chọn color. Select color
+[00:17:39 -> 00:17:41]  mình lấy cái màu vàng.
+[00:17:41 -> 00:17:43]  Đó, mình lấy màu vàng. Tương tự như vậy,
+[00:17:43 -> 00:17:45]  mọi người có thể dùng cóp mã
+[00:17:45 -> 00:17:47]  và trộn nó với color.
+[00:17:47 -> 00:17:49]  Đó, thì mình được kết quả. Tương tự
+[00:17:49 -> 00:17:51]  như vậy. Phía trên này cũng thế.
+[00:17:51 -> 00:17:53]  Và trộn nó với
+[00:17:53 -> 00:17:55]  chế độ màu trộn color.
+[00:17:55 -> 00:17:57]  Đó, như vậy thì mình sẽ tô được các cái vùng
+[00:17:57 -> 00:17:59]  màu nhấn vào trong bài nhé. Còn một cái phần
+[00:17:59 -> 00:18:01]  nữa, đó là cái phần
+[00:18:01 -> 00:18:03]  khối thang.
+[00:18:03 -> 00:18:05]  Cái phần khối thang. Thì chỗ này bạn
+[00:18:05 -> 00:18:07]  cũng dùng một cái màu để thể hiện phần khối thang
+[00:18:07 -> 00:18:09]  đây. Nó là một cái màu đỏ đỏ như thế này.
+[00:18:09 -> 00:18:11]  Mọi người có thể dùng
+[00:18:11 -> 00:18:13]  cái công cụ. Ta cũng chọn polygon này.
+[00:18:13 -> 00:18:15]  Cái khối thang của chúng ta nó sẽ
+[00:18:15 -> 00:18:17]  ở cái vị trí này.
+[00:18:17 -> 00:18:19]  Từ đây.
+[00:18:19 -> 00:18:21]  Chạy lên này. Dừng ở đây.
+[00:18:21 -> 00:18:23]  Chạy sang như thế này.
+[00:18:23 -> 00:18:25]  Rồi chạy xuống.
+[00:18:25 -> 00:18:27]  Sát về đây.
+[00:18:29 -> 00:18:31]  Bớt đi.
+[00:18:31 -> 00:18:33]  Chọn thì chọn bớt này.
+[00:18:33 -> 00:18:35]  Bớt đi cái diện tích này. Đó, cho nó vừa thôi.
+[00:18:35 -> 00:18:37]  Và ở cái mảng bên cạnh này
+[00:18:37 -> 00:18:39]  thì bạn ấy đổ một cái màu đỏ
+[00:18:39 -> 00:18:41]  trước mình này. Solid color.
+[00:18:41 -> 00:18:43]  Mình có thể đổ một cái màu đỏ.
+[00:18:43 -> 00:18:45]  Hơi cam đỏ như thế này.
+[00:18:45 -> 00:18:47]  Và có thể dùng opacity.
+[00:18:49 -> 00:18:51]  Mọi người có thể giảm opacity xuống như thế này.
+[00:18:51 -> 00:18:53]  Giảm hơn một chút.
+[00:18:55 -> 00:18:57]  Hoặc là trộn nhé.
+[00:18:57 -> 00:18:59]  Mọi người có thể thử hòa trộn nữa nhé.
+[00:18:59 -> 00:19:01]  Chọn chế độ hòa trộn.
+[00:19:01 -> 00:19:03]  Hoặc là như trường này thì mình có thể
+[00:19:03 -> 00:19:05]  dùng opacity được.
+[00:19:05 -> 00:19:07]  Giảm hơn chút opacity này.
+[00:19:07 -> 00:19:09]  Phía bên này thì bạn ấy cũng
+[00:19:09 -> 00:19:11]  đổ một cái mảng khác.
+[00:19:13 -> 00:19:15]  Cũng đổ một cái mảng từ đây.
+[00:19:19 -> 00:19:21]  Anh chân mình này. Solid color này.
+[00:19:21 -> 00:19:23]  Cũng là một cái màu đỏ.
+[00:19:23 -> 00:19:25]  Mọi người có thể copy mãng màu
+[00:19:25 -> 00:19:27]  bằng cách click đốt vào đây này.
+[00:19:27 -> 00:19:29]  Rồi mọi người copy cái mảng màu từ đây.
+[00:19:29 -> 00:19:31]  Cameo C này.
+[00:19:31 -> 00:19:33]  Rồi quay trở lại. Click đốt lại vào đây.
+[00:19:33 -> 00:19:35]  Rán cái mảng màu vào đây.
+[00:19:35 -> 00:19:37]  Enter này.
+[00:19:37 -> 00:19:39]  Phía bên cạnh này mình sẽ để
+[00:19:39 -> 00:19:41]  opacity thấp hơn. Ví dụ khoảng 20 chẳng hạn.
+[00:19:41 -> 00:19:43]  Mọi người sẽ thấy mình có 2 cấp như thế này.
+[00:19:43 -> 00:19:45]  Đó. Một cấp thì nó
+[00:19:45 -> 00:19:47]  đỏ hơn. Một cấp thì nó sẽ
+[00:19:47 -> 00:19:49]  nhạt hơn như thế này và nó tạo hình khối
+[00:19:49 -> 00:19:51]  một chút tương tự như vậy.
+[00:19:51 -> 00:19:53]  Mọi người sẽ làm các cái khối màu phía trên này
+[00:19:53 -> 00:19:55]  nữa.
+[00:19:55 -> 00:19:57]  Phía trên các cái khối thang từ đây.
+[00:19:57 -> 00:19:59]  Thẳng lên ở các cái vị trí này.
+[00:19:59 -> 00:20:01]  Giống như bài phía bên này nhé.
+[00:20:01 -> 00:20:03]  Và cái phần
+[00:20:03 -> 00:20:05]  mũi T này thì các bạn có thể tạo bằng
+[00:20:05 -> 00:20:07]  công cụ Pen Tool.
+[00:20:07 -> 00:20:09]  Pen Tool này.
+[00:20:09 -> 00:20:11]  Dùng shape này.
+[00:20:11 -> 00:20:13]  Cho chốc lên khoảng 5 này.
+[00:20:13 -> 00:20:15]  Màu đỏ này.
+[00:20:15 -> 00:20:17]  Đó. Tạo một lại.
+[00:20:17 -> 00:20:19]  Mọi người sẽ vẽ này.
+[00:20:19 -> 00:20:21]  Từ đây mình đi lên này.
+[00:20:21 -> 00:20:23]  Click này.
+[00:20:23 -> 00:20:25]  Xong xong theo các cạnh cường này.
+[00:20:25 -> 00:20:27]  Đi lên đây.
+[00:20:27 -> 00:20:29]  Đi về đây.
+[00:20:29 -> 00:20:31]  Chạy sang này.
+[00:20:31 -> 00:20:33]  Chạy lên đây.
+[00:20:33 -> 00:20:35]  Chạy sang.
+[00:20:35 -> 00:20:37]  Chạy lên trên. Trong này thì bạn chạy lên trên như thế này.
+[00:20:39 -> 00:20:41]  Enter này.
+[00:20:41 -> 00:20:43]  Và mình sẽ chuyển về nét thường.
+[00:20:43 -> 00:20:45]  Đây khoảng 3 thôi.
+[00:20:45 -> 00:20:47]  Đó. Để vẽ mũi tên
+[00:20:47 -> 00:20:49]  thì mọi người có thể dùng cho mình
+[00:20:49 -> 00:20:51]  cái phần công cụ Custom Shape từ đây.
+[00:20:51 -> 00:20:53]  Mọi người giữ chuột và chọn Custom Shape này.
+[00:20:53 -> 00:20:55]  Và sổ ra.
+[00:20:55 -> 00:20:57]  Trong cái
+[00:20:57 -> 00:20:59]  ở máy của mọi người
+[00:20:59 -> 00:21:01]  thì nó sẽ không biển địa nhiệm như thế này đâu.
+[00:21:01 -> 00:21:03]  Mọi người có thể vào phần bánh răng và chọn All từ đây.
+[00:21:03 -> 00:21:05]  Thì nó sẽ ra toàn bộ nhé.
+[00:21:05 -> 00:21:07]  Trước này thì bạn
+[00:21:07 -> 00:21:09]  sẽ dùng
+[00:21:09 -> 00:21:11]  một cái mũi tên tam giác trong này.
+[00:21:11 -> 00:21:13]  Đây. Mũi tên từ đây.
+[00:21:13 -> 00:21:15]  Mình tam giác này. Sau đó mình có thể giữ Shape mình
+[00:21:15 -> 00:21:17]  vẽ ra như thế này.
+[00:21:17 -> 00:21:19]  Đó.
+[00:21:19 -> 00:21:21]  Dùng lệnh KNT này. Chuột phải.
+[00:21:21 -> 00:21:23]  Xoay 90 độ này.
+[00:21:23 -> 00:21:25]  Lật này.
+[00:21:25 -> 00:21:27]  Đổi màu.
+[00:21:27 -> 00:21:29]  Phi màu đỏ này.
+[00:21:29 -> 00:21:31]  Stroke mình bỏ đi.
+[00:21:31 -> 00:21:33]  Và đặt vào vị trí này.
+[00:21:33 -> 00:21:35]  Có thể dùng lệnh KNT.
+[00:21:35 -> 00:21:37]  Cho nhỏ lại.
+[00:21:37 -> 00:21:39]  Đúng vị trí tâm này.
+[00:21:39 -> 00:21:41]  Rồi. Tương tự như vậy thì mọi người sẽ làm
+[00:21:41 -> 00:21:43]  các cái tầng phía trên.
+[00:21:43 -> 00:21:45]  Đổi màu cũng như là các cái phần mũi tên phía trên.
+[00:21:45 -> 00:21:47]  Đó. Và vừa rồi là cái quá trình
+[00:21:47 -> 00:21:49]  mà mình làm lại bài
+[00:21:49 -> 00:21:51]  background của triển thì mọi người có thể
+[00:21:51 -> 00:21:53]  tham khảo và
+[00:21:53 -> 00:21:55]  áp dụng cho bài của mọi người nhé.
+[00:21:55 -> 00:21:57]  Và ở cái dạng này thì
+[00:21:57 -> 00:21:59]  một cái phần rất là quan trọng như mình đã nói
+[00:21:59 -> 00:22:01]  trong đầu video đó là chúng ta sẽ cần
+[00:22:01 -> 00:22:03]  kết hợp nó với
+[00:22:03 -> 00:22:05]  cái phần dự hình trong SketchUp
+[00:22:05 -> 00:22:07]  là tốt nhất. Mình nghĩ SketchUp là
+[00:22:07 -> 00:22:09]  phần mà mình biết tốt trong việc là chúng ta
+[00:22:09 -> 00:22:11]  xuất ra cái hình ảnh khối.
+[00:22:11 -> 00:22:13]  Đó. Và SketchUp
+[00:22:13 -> 00:22:15]  cũng là một cái phần mà mình nghĩ là có rất nhiều bạn
+[00:22:15 -> 00:22:17]  biết cách dùng.
+[00:22:17 -> 00:22:19]  Thế nên nó cũng rất là tiện trong cái phần
+[00:22:19 -> 00:22:21]  thể hiện.
+[00:22:21 -> 00:22:23]  Đây là toàn bộ các cái nội dung mà mình muốn
+[00:22:23 -> 00:22:25]  tuyên đặt trong video này. Với các bạn
+[00:22:25 -> 00:22:27]  muốn tìm hiểu nhiều hơn quá trình hậu kỳ
+[00:22:27 -> 00:22:29]  Photoshop, kiến trúc cũng như là
+[00:22:29 -> 00:22:31]  nội thất thì có thể tham gia các cái khoa học
+[00:22:31 -> 00:22:33]  online và mình sẽ để link dưới phần mô tả
+[00:22:33 -> 00:22:35]  cho các bạn tìm hiểu nhé. Và cũng
+[00:22:35 -> 00:22:37]  có hình thức video cho các bạn bận
+[00:22:37 -> 00:22:39]  hơn, không tham gia khoa học online được.
+[00:22:39 -> 00:22:41]  Một lần nữa, mình là Sinh
+[00:22:41 -> 00:22:43]  đến từ Sketch. Xin chào
+[00:22:43 -> 00:22:45]  và hẹn gặp lại các bạn trong những video tiếp theo nhé.
+[00:22:51 -> 00:22:53]  Hãy subscribe cho kênh La La School Để không bỏ lỡ những video hấp dẫn

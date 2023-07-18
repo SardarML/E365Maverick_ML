@@ -1,0 +1,125 @@
+[00:00:00 -> 00:00:04]  Logic is at the core of computers and everything they do.
+[00:00:04 -> 00:00:10]  When you get a phone call, you want your ringtone to play, but only if your phone's not set
+[00:00:10 -> 00:00:11]  to silent mode.
+[00:00:11 -> 00:00:17]  The login button on an app shouldn't work until the user types in both a username and
+[00:00:17 -> 00:00:23]  a password, and if one or the other is wrong, then the user should see an error.
+[00:00:23 -> 00:00:31]  This kind of reasoning—if, then, not, and, or—is logic, and it's what ensures computers
+[00:00:31 -> 00:00:36]  know what to do and when, based on whether statements are true or false.
+[00:00:36 -> 00:00:42]  And these ideas are so important that computer scientists use formalogical systems for expressing
+[00:00:42 -> 00:00:47]  ideas about statements and whether or not they're true.
+[00:00:47 -> 00:00:52]  One of the most important logical systems is called propositional logic.
+[00:00:52 -> 00:00:58]  Propositional logic deals with propositions, which are sentences that can be either true
+[00:00:58 -> 00:00:59]  or false.
+[00:00:59 -> 00:01:04]  For example, we might have a proposition like, the robot is blue.
+[00:01:04 -> 00:01:09]  To make it easier to talk about these propositions, we'll often use a variable, like the letter
+[00:01:09 -> 00:01:12]  P, to stand for a proposition.
+[00:01:12 -> 00:01:17]  Depending on the state of the world, the proposition might be true if the robot in question is
+[00:01:17 -> 00:01:22]  blue, or the proposition might be false if the robot is some other color.
+[00:01:22 -> 00:01:27]  Where things start to get more interesting is when we start modifying and combining logical
+[00:01:27 -> 00:01:32]  variables into more complex logical formulas.
+[00:01:32 -> 00:01:37]  One way to modify a logical formula is to take its negation.
+[00:01:37 -> 00:01:44]  If P is a proposition like, the robot is blue, then we can use this negation symbol to represent
+[00:01:44 -> 00:01:52]  the negation of P, which we often call not-P. In this case, not-P is true when the robot
+[00:01:52 -> 00:01:54]  is not blue.
+[00:01:54 -> 00:02:00]  If we have more than one logical formula, we can combine them in other ways.
+[00:02:00 -> 00:02:07]  This symbol, called conjunction, or and, takes two logical formulas and expresses the idea
+[00:02:07 -> 00:02:09]  that both are true.
+[00:02:09 -> 00:02:15]  So if P is the proposition, the robot is blue, and Q is the proposition, the robot has an
+[00:02:15 -> 00:02:22]  antenna, then the conjunction P and Q is a formula that's true when the robot in question
+[00:02:22 -> 00:02:26]  is both blue and has an antenna as well.
+[00:02:26 -> 00:02:33]  Meanwhile, this symbol, called disjunction, or or, takes two logical formulas and expresses
+[00:02:33 -> 00:02:36]  the idea that at least one of them is true.
+[00:02:36 -> 00:02:43]  In this case, the disjunction P or Q is a formula that's true as long as the robot
+[00:02:43 -> 00:02:47]  is blue, or has an antenna, or maybe both.
+[00:02:47 -> 00:02:52]  Especially once we start dealing with multiple logical variables in a formula, it can be
+[00:02:52 -> 00:02:58]  useful to figure out under what circumstances the formula is true, and under what circumstances
+[00:02:58 -> 00:03:00]  the formula is false.
+[00:03:00 -> 00:03:06]  To do that, we can create a truth table, a table that lists all of the possible combinations
+[00:03:06 -> 00:03:11]  of values for the logical variables in a formula, and what that means for whether the
+[00:03:11 -> 00:03:14]  formula is true or false.
+[00:03:14 -> 00:03:21]  In this case, with two variables P and Q, there are four possible combinations of values.
+[00:03:21 -> 00:03:27]  They could both be false, P could be false while Q is true, P could be true while Q is
+[00:03:27 -> 00:03:30]  false, or both could be true.
+[00:03:30 -> 00:03:36]  For the formula P and Q, there's only one setting of these variables where it holds
+[00:03:36 -> 00:03:37]  true.
+[00:03:37 -> 00:03:41]  P needs to be true, and Q needs to be true as well.
+[00:03:41 -> 00:03:47]  In all other cases, the formula P and Q is false.
+[00:03:47 -> 00:03:53]  But for the formula P or Q, three of the four combinations of values allow the formula as
+[00:03:53 -> 00:03:56]  a whole to hold true.
+[00:03:56 -> 00:04:02]  And only in the case where P and Q are both false is the formula false.
+[00:04:02 -> 00:04:10]  Notice that for the formula P or Q, it's true if P is true, or if Q is true, or if
+[00:04:10 -> 00:04:12]  both are true.
+[00:04:12 -> 00:04:18]  Sometimes though, we'll want to express the idea that P is true, or Q is true, but
+[00:04:18 -> 00:04:20]  not both.
+[00:04:20 -> 00:04:25]  For that, we can use this symbol, called exclusive or.
+[00:04:25 -> 00:04:33]  In this case, P exclusive or Q is true when the robot is blue, it's true when the robot
+[00:04:33 -> 00:04:39]  has an antenna, it's false when the robot is not blue and doesn't have an antenna,
+[00:04:39 -> 00:04:45]  and it's also false when the robot is both blue and has an antenna.
+[00:04:45 -> 00:04:52]  In addition to not, and, or, and exclusive or, we also have this symbol, called logical
+[00:04:52 -> 00:04:54]  implication.
+[00:04:54 -> 00:05:02]  If P means the robot is blue, and Q means the robot has an antenna, then this formula,
+[00:05:02 -> 00:05:11]  which we read as P implies Q, or alternatively, if P then Q, tells us that if it's true
+[00:05:11 -> 00:05:17]  that the robot is blue, then it also must be true that the robot has an antenna.
+[00:05:17 -> 00:05:24]  So for this robot, it's blue, and it has an antenna, so P implies Q is true.
+[00:05:24 -> 00:05:32]  But for this robot, it's blue, but it has no antenna, so P implies Q is false here.
+[00:05:32 -> 00:05:37]  For it to be true, the fact that the robot is blue would have to imply that the robot
+[00:05:37 -> 00:05:39]  has an antenna.
+[00:05:39 -> 00:05:47]  Importantly, P implies Q says nothing about what the world must be like if P is false.
+[00:05:47 -> 00:05:52]  If P is false, in other words, if the robot isn't blue, then the formula isn't saying
+[00:05:52 -> 00:05:56]  anything about whether Q is true or not.
+[00:05:56 -> 00:05:59]  Maybe the robot has an antenna, maybe it doesn't.
+[00:05:59 -> 00:06:03]  In either case, P implies Q is true.
+[00:06:03 -> 00:06:09]  It can be a little tricky to wrap your mind around the idea that P implies Q is true in
+[00:06:09 -> 00:06:13]  all cases where P is false.
+[00:06:13 -> 00:06:19]  But this fits logically with how we use the ideas of if and then in everyday life.
+[00:06:19 -> 00:06:25]  For example, imagine you said something like, if it's my birthday, then I will eat cake.
+[00:06:25 -> 00:06:30]  For that to be true, then on your birthday, you need to eat cake, but on days where it's
+[00:06:30 -> 00:06:35]  not your birthday, you might eat cake, or you might not, and you could still be telling
+[00:06:35 -> 00:06:36]  the truth.
+[00:06:36 -> 00:06:41]  The only way you wouldn't be telling the truth is if it's your birthday, but you don't eat
+[00:06:41 -> 00:06:43]  cake.
+[00:06:43 -> 00:06:46]  So let's go back to blue robots and antennas.
+[00:06:46 -> 00:06:53]  The formula P implies Q is true for a blue robot with an antenna, and it's true for any
+[00:06:53 -> 00:06:55]  robot that isn't blue.
+[00:06:55 -> 00:07:00]  So there's another way to express this same idea too.
+[00:07:00 -> 00:07:08]  We could equivalently say, not P or Q, which is true when the robot isn't blue, or when
+[00:07:08 -> 00:07:11]  the robot has an antenna.
+[00:07:11 -> 00:07:16]  In other words, these two formulas are logically equivalent to each other.
+[00:07:16 -> 00:07:21]  And we can prove that by writing out the truth tables for each formula.
+[00:07:21 -> 00:07:28]  We can describe the situations where P implies Q is true, and describe the situations where
+[00:07:28 -> 00:07:31]  not P or Q is true.
+[00:07:31 -> 00:07:34]  And it turns out the truth tables are the same.
+[00:07:34 -> 00:07:41]  No matter what the values are for these variables P and Q, these two logical formulas will always
+[00:07:41 -> 00:07:44]  have the same truth value.
+[00:07:44 -> 00:07:47]  Many logical formulas are equivalent to each other.
+[00:07:47 -> 00:07:54]  For example, you might try on your own proving that P exclusive or Q means the same thing
+[00:07:54 -> 00:08:03]  as P and not Q, or not P and Q. And you can try on your own to find other logical formulas
+[00:08:03 -> 00:08:06]  that are equivalent to both of these too.
+[00:08:06 -> 00:08:08]  Here's an exercise we can try together.
+[00:08:08 -> 00:08:14]  Is P implies Q equivalent to Q implies P?
+[00:08:14 -> 00:08:17]  We can answer that by drawing out the truth tables.
+[00:08:17 -> 00:08:22]  P implies Q means that if P is true, then Q is true.
+[00:08:22 -> 00:08:27]  So if P is true and Q is false, then the whole formula is false.
+[00:08:27 -> 00:08:31]  And if P is false, we know the formula is true no matter what.
+[00:08:31 -> 00:08:38]  Meanwhile, Q implies P means that if Q is true, then P is true.
+[00:08:38 -> 00:08:43]  And when Q is false, the formula, again, is always true.
+[00:08:43 -> 00:08:47]  Notice that these two truth tables are different.
+[00:08:47 -> 00:08:54]  So P implies Q and Q implies P mean two different things.
+[00:08:54 -> 00:08:59]  And that makes sense too, given how we intuitively think about if and then.
+[00:08:59 -> 00:09:04]  When I say, if it's a holiday, then the bank is closed, that doesn't mean the same thing
+[00:09:04 -> 00:09:08]  as, if the bank is closed, then it must be a holiday.
+[00:09:08 -> 00:09:12]  The bank might be closed for some other reason too.
+[00:09:12 -> 00:09:19]  If we want to express the idea that both P implies Q and Q implies P, we can use this
+[00:09:19 -> 00:09:26]  double arrow symbol, the biconditional, which we often read as if and only if.
+[00:09:26 -> 00:09:32]  P if and only if Q means that if P is true, then Q is true.
+[00:09:32 -> 00:09:35]  And if P is false, Q is false.
+[00:09:35 -> 00:09:40]  In other words, P and Q always have the same truth value.
+[00:09:40 -> 00:09:43]  Either they're both true or they're both false.
+[00:09:43 -> 00:09:51]  Here it's true for a blue robot with an antenna, or if the robot is not blue and has no antenna,
+[00:09:51 -> 00:09:56]  but it's false if only one of the two propositions is true.
+[00:09:56 -> 00:10:01]  There's a lot of symbols at play here, but it all comes down to trying to formally describe
+[00:10:01 -> 00:10:07]  logical ideas that are all pretty intuitive to people, but that computers need us to be
+[00:10:07 -> 00:10:09]  completely precise about.
+[00:10:09 -> 00:10:15]  By learning the language of logic, we enable ourselves to communicate with that same precision
+[00:10:15 -> 00:10:21]  and express our ideas using the building blocks that computers use in all of the complex,
+[00:10:21 -> 00:10:24]  sophisticated programs that we use every day.

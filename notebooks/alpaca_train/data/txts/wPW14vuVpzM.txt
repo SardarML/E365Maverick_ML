@@ -1,0 +1,908 @@
+[00:00:00 -> 00:00:13]  Hello and welcome to this course on statistics. In this course, our goal is to make learning
+[00:00:13 -> 00:00:22]  statistics fun and enable you to apply statistical methods for data analysis and data science.
+[00:00:22 -> 00:00:28]  My name is Murtaza Herer. I'm your instructor for this course. I'm also an associate professor
+[00:00:28 -> 00:00:34]  at the Ted Rogers School of Management at Ryerson University in Toronto. I'm the author
+[00:00:34 -> 00:00:40]  of Getting Started with Data Science, Making Sense of Data with Analytics. My research
+[00:00:40 -> 00:00:47]  interests are in urban economics as they relate to housing markets and transportation. I blog
+[00:00:47 -> 00:00:53]  regularly and you can find my blogs on Huffington Post. By way of training, I have a master's
+[00:00:53 -> 00:00:58]  in transportation engineering and planning and a PhD in civil engineering with a focus
+[00:00:58 -> 00:01:07]  on urban systems analysis. And my name is Ije Egwahide. I am the co-instructor for this
+[00:01:07 -> 00:01:16]  course. I am a senior data scientist and statistician with the IBM Developer Skills Network team.
+[00:01:16 -> 00:01:22]  I have field experience working on supervised and unsupervised machine learning algorithms
+[00:01:22 -> 00:01:30]  for oil and gas clients. During my high school in Nigeria, it was easy to put off mathematics
+[00:01:30 -> 00:01:37]  and statistics and focus on the seemingly easier courses. I always love a good challenge.
+[00:01:37 -> 00:01:42]  My interest in statistics and mathematics sparked as a result of people around me saying
+[00:01:42 -> 00:01:50]  it was hard. So I made my parents invest in textbooks and I always made sure to be ahead
+[00:01:50 -> 00:01:58]  of the class. When I got to the University of Manitoba for my undergrad, picking statistics
+[00:01:58 -> 00:02:06]  alongside economics was easy. And when I had to do a post-grad, picking data science and
+[00:02:06 -> 00:02:13]  business analytics was a no-brainer. On my off days, I'm a fashion and career blogger
+[00:02:13 -> 00:02:25]  on Instagram. This course consists of five modules, Introduction and Descriptive Statistics,
+[00:02:25 -> 00:02:34]  Data Visualization, Introduction to Probability Distribution, Hypothesis Testing, and Regression
+[00:02:34 -> 00:02:43]  Analysis. Each module will comprise of four to six videos and will include exercises for
+[00:02:43 -> 00:02:51]  you to practice on. The hands-on lab will utilize Jupyter Notebooks using the Python
+[00:02:51 -> 00:02:58]  programming language, which is one of the easiest programming languages to learn. Let's
+[00:02:58 -> 00:03:06]  get started and happy learning. Welcome. In order to do data analysis in Python, we
+[00:03:06 -> 00:03:12]  should first tell you a little bit about the main packages relevant to analysis in Python.
+[00:03:12 -> 00:03:16]  A Python library is a collection of functions and methods that allows you to perform lots
+[00:03:16 -> 00:03:21]  of actions without writing your code. The libraries usually contain built-in modules
+[00:03:21 -> 00:03:26]  providing different functionalities, which you can use directly. And there are extensive
+[00:03:26 -> 00:03:33]  libraries offering a broad range of facilities. We divided the Python data analysis libraries
+[00:03:33 -> 00:03:39]  into three groups. The first group is called Scientific Computing Libraries. Pandas offers
+[00:03:39 -> 00:03:45]  data structure and tools for effective data manipulation and analysis. It provides fast
+[00:03:45 -> 00:03:52]  access to structured data. The primary instrument of pandas is a two-dimensional table consisting
+[00:03:52 -> 00:03:58]  of columns and rows labels, which is called a data frame. It is designed to provide an
+[00:03:58 -> 00:04:05]  easy indexing function. NumPy library uses arrays as their inputs and outputs. It can
+[00:04:05 -> 00:04:10]  be extended to objects for matrices. And with a little change of coding, developers perform
+[00:04:10 -> 00:04:17]  fast array processing. SciPy includes functions for some advanced math problems as listed
+[00:04:17 -> 00:04:23]  in the slide, as well as data visualization. Using data visualization methods are the best
+[00:04:23 -> 00:04:28]  way to communicate with others and show the meaningful results of analysis. These libraries
+[00:04:28 -> 00:04:34]  enable you to create graphs, charts, and maps. The matplotlib package is the most well-known
+[00:04:34 -> 00:04:41]  library for data visualization. This package is great for making graphs and plots. The
+[00:04:41 -> 00:04:48]  graphs are also highly customizable. Another high-level visualization library is Seaborn.
+[00:04:48 -> 00:04:54]  It is based on matplotlib. It's very easy to generate some sort of plots like heat maps,
+[00:04:54 -> 00:05:00]  time series, and violin plots. With machine learning algorithms, we're able to develop
+[00:05:00 -> 00:05:06]  a model using our data set and obtain predictions. The algorithmic libraries tackle some machine
+[00:05:06 -> 00:05:14]  learning tasks from basic to complex. We introduce two packages. The scikit-learn library
+[00:05:14 -> 00:05:19]  contains tools for statistical modeling, including regression, classification, clustering, and
+[00:05:19 -> 00:05:29]  so on. It is built on NumPy, SciPy, and matplotlib. StatsModels is also a Python module that allows
+[00:05:29 -> 00:05:36]  users to explore data, estimate statistical models, and perform statistical tests. Now
+[00:05:36 -> 00:05:39]  let's get into statistics. Thanks for watching.
+[00:05:39 -> 00:05:54]  Welcome to statistics. In this module, we will explain how statistics surround our daily lives.
+[00:05:54 -> 00:06:03]  All we have to do is to think of the conversations we have on a regular basis. A day start with this
+[00:06:03 -> 00:06:09]  concern about rain or snow. We turn to the weather channel to see whether it will rain or snow today
+[00:06:09 -> 00:06:16]  or tomorrow. When the weather channel informs you that the chance of rain is 35% or 60%,
+[00:06:16 -> 00:06:24]  you are essentially relying on statistical tools and technologies to come up with those forecasts
+[00:06:24 -> 00:06:30]  so that you may be better prepared for either rain or snow. If you happen to live in a large
+[00:06:30 -> 00:06:35]  city in North America or Europe in East Asia, housing affordability is likely to be a concern.
+[00:06:35 -> 00:06:42]  And when you hear in the news media that housing is becoming more expensive over time, this analysis
+[00:06:42 -> 00:06:48]  is coming out of statistical analysis. At the same time, you will hear if the unemployment rate has
+[00:06:48 -> 00:06:55]  fallen or has risen over time, or how millennials are looking for jobs that may not be full-time.
+[00:06:55 -> 00:07:01]  And when we track those numbers over time, we realize we are using statistics. Statistics are
+[00:07:01 -> 00:07:08]  not just confined to economics. We appreciate players based on their performance and we judge
+[00:07:08 -> 00:07:15]  their performance using statistics. Millennials and the sharing economy is perhaps redefining the
+[00:07:15 -> 00:07:20]  way we understand economics and business these days. The way millennials have defined their
+[00:07:20 -> 00:07:24]  preferences different from previous generations is something of interest. Many say that they
+[00:07:24 -> 00:07:30]  would like to rent than to own a house. That didn't used to be the case in the past, but the
+[00:07:30 -> 00:07:37]  norms are changing. Who gets paid, how much, and not just at your work, but in the Hollywood is
+[00:07:37 -> 00:07:44]  again coming out of statistics. Similarly, if you're thinking of pursuing business analytics
+[00:07:44 -> 00:07:49]  as a career, you may be interested in knowing what is the average salary of a starting business
+[00:07:49 -> 00:07:56]  analyst. And again, this comes out of statistics. Any comparison of salary between two professions,
+[00:07:56 -> 00:08:02]  such as an engineer or an economist, would require statistics. And if you happen to be in Chicago,
+[00:08:02 -> 00:08:08]  you probably have not missed that crime has spiked in recent years. Similarly, we compare crime,
+[00:08:08 -> 00:08:15]  especially violent crime over years, and this comparison requires us to use statistics. So,
+[00:08:15 -> 00:08:20]  when we say average income, average age, average height, we're relying on average,
+[00:08:20 -> 00:08:27]  which is a statistical parameter. Highest paid athlete, we're looking at the maximum salary.
+[00:08:27 -> 00:08:34]  Fastest sprinter, we're looking at the maximum speed. Lowest unemployment rate of all the OECD
+[00:08:34 -> 00:08:41]  countries, we're looking at a minimum value. Percentage of females who study engineering
+[00:08:41 -> 00:08:47]  requires us to compute percentages. The chance for rain tomorrow is in fact likelihood. And
+[00:08:47 -> 00:08:53]  how consistent is a stock performance over the past three months, we're concerned about variance,
+[00:08:53 -> 00:08:59]  which again is a statistical parameter. And then the question of on average, do men spend more on
+[00:08:59 -> 00:09:04]  clothes than women? We probably would use a t-test to determine this difference, again,
+[00:09:04 -> 00:09:10]  relying on statistics. If you were to recall your conversations in a given day, you probably
+[00:09:10 -> 00:09:16]  realize now that you have been using the language of statistics on a daily basis. At the same time,
+[00:09:16 -> 00:09:23]  the news media use statistics all the time to demonstrate how trends are changing. 2016 was
+[00:09:23 -> 00:09:29]  the year American presidential elections were held. Big surprises there between what the polls
+[00:09:29 -> 00:09:36]  forecasted and what the outcome was. But again, you see these numbers portrayed in the newspapers.
+[00:09:36 -> 00:09:42]  At the same time, you have other publications that show you how housing prices or other
+[00:09:42 -> 00:09:49]  development-related statistics vary over countries in a nutshell. The information we consume
+[00:09:50 -> 00:09:59]  and the conversations we have every day involve a lot of statistics. So it pays one to learn some
+[00:09:59 -> 00:10:05]  statistics.
+[00:10:12 -> 00:10:18]  The first step in analytics or statistics is to have a good look at your data. And before you
+[00:10:18 -> 00:10:25]  begin, try to understand what kind of variable you're working with. And based on the type of
+[00:10:25 -> 00:10:30]  variable, you will decide what kind of analytics could be performed with it.
+[00:10:33 -> 00:10:40]  Let's have a look at various different types of data that we encounter and is commonly used in
+[00:10:41 -> 00:10:46]  our daily lives. The most common one would be a cross-sectional data, which is basically looking
+[00:10:46 -> 00:10:53]  at a measurement taken at one point in time. Census in a given year is a cross-section of
+[00:10:53 -> 00:11:01]  the society. As students evaluate course, an instructor, that's a cross-section at any given
+[00:11:01 -> 00:11:07]  point. Compared to the cross-sectional data, we can have panel or cross-sectional panel data,
+[00:11:07 -> 00:11:14]  which is essentially asking the same group of individuals the same questions repeatedly over
+[00:11:14 -> 00:11:20]  time. So you may pick a group of people, constitute it as a panel, and then ask the same
+[00:11:20 -> 00:11:26]  questions once every year over a given period of time. The time series data is rather different.
+[00:11:26 -> 00:11:32]  You're looking at a particular phenomenon, such as unemployment rate, and then you measure it
+[00:11:32 -> 00:11:37]  every month and then display that data or analyze that data, which is repeated measurements on the
+[00:11:37 -> 00:11:45]  same phenomena over time. So you may have monthly data going back to 1940s or climate data going
+[00:11:45 -> 00:11:51]  back to hundreds of years. So based on the type of data, cross-sectional, panel, time series,
+[00:11:51 -> 00:11:57]  we will pick appropriate tools, statistical tools, to deal with that. If your data set has only one
+[00:11:57 -> 00:12:02]  variable, it's called a univariate data set, and if you have multiple variables in your data set,
+[00:12:02 -> 00:12:11]  then it's a multivariate data set. Let us now look at variable types and start with categorical or
+[00:12:11 -> 00:12:19]  nominal variables. Let's consider home ownership, for instance. One can either own a home or
+[00:12:19 -> 00:12:25]  rent a home, and knowing that there are only two categories here, owning and renting, that is a
+[00:12:25 -> 00:12:32]  categorical variable. The tenure status of an individual is essentially a categorical variable.
+[00:12:32 -> 00:12:37]  In this particular case, because you only have two choices, own or rent, it's a binomial variable.
+[00:12:37 -> 00:12:44]  Consider travel choices. You can go to work by driving or by someone drives you there, so you're
+[00:12:44 -> 00:12:49]  a passenger, you can take public transit, or you can walk or bike. So in this particular case, you
+[00:12:49 -> 00:12:55]  have four choices, more than two, so we call it multinomial. So both binomial and multinomial
+[00:12:56 -> 00:13:02]  variables are part of categorical variables. You cannot have any quantitative relationships
+[00:13:02 -> 00:13:10]  among categories, and for these types of variables, averages are usually meaningless. So if you have
+[00:13:10 -> 00:13:16]  a mode of travel and you have four categories, an average category would mean absolutely nothing
+[00:13:16 -> 00:13:25]  of use. A particular type of categorical variable is ordinal data, where data are ranked or ordered
+[00:13:25 -> 00:13:31]  in some particular fashion. So, for instance, number of cars owned by a household. A household
+[00:13:31 -> 00:13:37]  may have 0 car, 1 car, 2 car, 3 or more cars, and that essentially is an ordinal data where
+[00:13:38 -> 00:13:45]  0 represents 0, and 0 cannot be coded as 1, and 1 cannot be coded as 0. So the order in which
+[00:13:45 -> 00:13:51]  variable has been recorded matters. Categories can be compared with one another, and you still
+[00:13:51 -> 00:13:57]  cannot use regular statistics. The differences are also meaningless in this particular case.
+[00:13:58 -> 00:14:04]  Another type of data is called ratio data, which is data set that have a natural zero. For example,
+[00:14:04 -> 00:14:13]  sales dollars, length of a distance or weight of an object. These are all examples of ratio data,
+[00:14:13 -> 00:14:19]  and I often would use the term continuous data, or continuous variable. So a variable such as
+[00:14:20 -> 00:14:27]  distance from point A to B could be 8 kilometers, 8.5 kilometers, 6.2 miles, and so on.
+[00:14:27 -> 00:14:35]  The variable is continuous, and 0 makes some logical sense in this particular variable. So,
+[00:14:35 -> 00:14:40]  for instance, you say I have 0 dollars, 0 means something here. It's the strongest form of
+[00:14:40 -> 00:14:47]  measurement, and you can compute ratios and differences. And another type of variable is
+[00:14:48 -> 00:14:53]  interval data, or interval variables, that are ordered and characterized by a specific measure
+[00:14:53 -> 00:14:58]  of distance between observations, and it may not have a natural zero. So, temperature is a good
+[00:14:58 -> 00:15:04]  example, and when you say that it's 0 degrees Celsius, it does not mean that there is no
+[00:15:04 -> 00:15:12]  temperature. It's freezing, but it is measuring something that exists. So, ratios are also
+[00:15:12 -> 00:15:16]  meaningless. So, for example, if someone said, well, you know, the temperature in some African
+[00:15:16 -> 00:15:22]  countries is 50 degrees, compared to somewhere tropical where it was 25 degrees, it doesn't mean
+[00:15:22 -> 00:15:28]  that the temperatures in the African desert is two times or twice as hot as it is in the tropics,
+[00:15:29 -> 00:15:33]  but we can say that there's a difference of 25 degrees between the two places.
+[00:15:45 -> 00:15:49]  The measures of central tendency are the most commonly used in statistical analysis.
+[00:15:50 -> 00:15:56]  We know them as mean, median, and mode, and their use is ubiquitous in statistical analysis.
+[00:15:56 -> 00:16:04]  So, let's see how it works. Before we begin, let's take a quick look at our data set in this course.
+[00:16:04 -> 00:16:09]  We have been using the teaching evaluation data from the University of Texas. The data set
+[00:16:09 -> 00:16:15]  comprises of 463 courses in which we have information about the teaching evaluation
+[00:16:15 -> 00:16:20]  score received by the instructor, and we have information about the attributes of the instructor,
+[00:16:20 -> 00:16:27]  as well as the characteristics of the course. Once you have imported a CSV file with a Pandas
+[00:16:27 -> 00:16:32]  Python library, the first step in getting to know your data is to discover the different data types
+[00:16:32 -> 00:16:40]  it contains. You can display all columns and their data types with DataFrame.info. In this case,
+[00:16:40 -> 00:16:46]  we have named our DataFrame ratings underscore df. It tells you how many rows you have.
+[00:16:47 -> 00:16:54]  For the teaching rating data, we have 463 entries from 0 to 462, because Python starts counting from
+[00:16:54 -> 00:17:02]  0. And then it also gives you information about the data types. Object represents strings, int64
+[00:17:02 -> 00:17:08]  represents integer or whole numbers, and float represents real numbers, which could take on
+[00:17:08 -> 00:17:14]  decimal points. Before we begin, let's have a conversation about population and samples.
+[00:17:15 -> 00:17:19]  Essentially, if you have all the information of interest for a particular decision
+[00:17:19 -> 00:17:24]  about every individual that is supposed to be involved in that decision, that is called a
+[00:17:24 -> 00:17:30]  population. So if you're interested in looking at some attribute of driving, and we have information
+[00:17:30 -> 00:17:37]  about all possible automobile drivers in the US, and then we call this the population. The sample,
+[00:17:37 -> 00:17:44]  on the other hand, is a subset of population. So for example, if we have data on all married
+[00:17:44 -> 00:17:51]  drivers over the age of 25, then that's a subset. And within that subset, if we were to randomly
+[00:17:51 -> 00:17:59]  select 5% of those married drivers over the age of 25, that would be our sample. We use samples,
+[00:17:59 -> 00:18:03]  especially in cases where we do not want to incur the cost of collecting data for the entire
+[00:18:03 -> 00:18:10]  population. Now, let's consider that there are 230 million individuals in the country,
+[00:18:11 -> 00:18:16]  a sample size of say 330 to 500 individuals randomly selected would suffice.
+[00:18:18 -> 00:18:23]  This reduces the cost, especially in cases where you cannot collect information for the entire
+[00:18:23 -> 00:18:28]  population. Therefore, using samples, it's really helpful and cost effective.
+[00:18:29 -> 00:18:36]  Here you see some Greek symbols on the screen. But don't be afraid, they mostly show the formula,
+[00:18:36 -> 00:18:42]  we will then proceed from here. While they may differ in notation, essentially the mean for a
+[00:18:42 -> 00:18:49]  population and sample are the same. It is the sum of all the observations, then divided by the number
+[00:18:49 -> 00:18:55]  of observations to get the mean, which we call averages. There are several properties of the
+[00:18:56 -> 00:19:00]  mean and they're meaningful. But one of the characteristics of a mean is that if you take
+[00:19:00 -> 00:19:06]  the difference between the average value for a variable and subtract from all the observations,
+[00:19:06 -> 00:19:12]  and sum them up, that sum would be equal to zero. The median is different from the mean,
+[00:19:13 -> 00:19:18]  when you order the data from the smallest value to the largest value, the result is in the middle.
+[00:19:19 -> 00:19:24]  That is the value in the middle indicating that there are an equal number of observations that
+[00:19:24 -> 00:19:30]  are above and the equal number of observations are below that family. That value is called the
+[00:19:30 -> 00:19:38]  median. So if the median salary in some city is $45,000, it means that 50% of the people make
+[00:19:38 -> 00:19:47]  more than $45,000 and the other 50% make less than $45,000. Mode is essentially the value that
+[00:19:47 -> 00:19:53]  occurs most frequently. Therefore, if the most common age in a class of students is 16, then
+[00:19:53 -> 00:19:59]  that's the mode. We will now turn to Python for our hands-on training to estimate the summary
+[00:19:59 -> 00:20:05]  statistics values for beauty score, teaching you about evaluation and age. We will use the
+[00:20:05 -> 00:20:12]  data frame dot describe function to find the summary statistics. This prints out the number
+[00:20:12 -> 00:20:21]  of rows, mean, standard deviation, minimum value, 25th, 50th and 75th percentile, and the maximum
+[00:20:21 -> 00:20:26]  value. To find the summary statistics for a subset of the variables, you will have to state
+[00:20:26 -> 00:20:34]  the column names as we can see here. Otherwise, for the full population, we will call the dot
+[00:20:34 -> 00:20:41]  describe function on the data frame.
+[00:20:48 -> 00:20:54]  Dispersion, which is also called variability, scatter or spread, is the extent to which the
+[00:20:54 -> 00:20:59]  data distribution is stretched or squeezed. The common measures of dispersion are standard
+[00:20:59 -> 00:21:04]  deviation and variance. And if you are at a university or college, you may have heard about
+[00:21:04 -> 00:21:10]  the bell curve, which looks like this. And you will often hear this is within one standard deviation
+[00:21:10 -> 00:21:15]  of the mean or within two standard deviations of the mean. So let's see what that means.
+[00:21:16 -> 00:21:22]  Let's look at the age of an instructor. Let's say the average age is 52. This means that the
+[00:21:22 -> 00:21:30]  individual ages may differ. Some may be 48 or maybe 55 or 75. So the average age is an estimate.
+[00:21:30 -> 00:21:35]  But what we also need is an estimate for the dispersion in the data set. The other thing to
+[00:21:35 -> 00:21:41]  note is the range in our data set. For example, the difference of the range is from a minimum of
+[00:21:41 -> 00:21:47]  29 years of age to a maximum of 73 years. And this to you refers to a distance or the difference
+[00:21:47 -> 00:21:54]  between the minimum and the maximum. Unlike the difference between population and sample mean,
+[00:21:54 -> 00:21:59]  the difference between a variance for the population and a sample is that when you compute
+[00:21:59 -> 00:22:05]  the population variance denoted as sigma squared, you divided by the total number of observations.
+[00:22:05 -> 00:22:11]  These are the deviations between observation and the mean squared, then added, and then divided by
+[00:22:11 -> 00:22:18]  the total number of observations. For sample variance, which is denoted as s squared, you
+[00:22:18 -> 00:22:25]  divided by n minus one. The purpose of using n minus one is so that our estimate is unbiased in
+[00:22:25 -> 00:22:32]  the long run. That means that if we take a second sample, we'll get a different value of s squared.
+[00:22:32 -> 00:22:40]  If we take a third sample, we'll get a third value of s squared, and so on. We use n minus one so
+[00:22:40 -> 00:22:47]  that the average of all these values of s squared is equal to sigma squared. We usually talk about
+[00:22:47 -> 00:22:52]  squares called standard deviation rather than the variance. Standard deviation is essentially the
+[00:22:52 -> 00:22:58]  square root of the variance or the variances in square units. So it's good to use the standard
+[00:22:58 -> 00:23:04]  deviation because it's exactly the same units as the variable. The standard deviation of age will
+[00:23:04 -> 00:23:09]  also be measured in years rather than years squared. Here you see that we just took the
+[00:23:09 -> 00:23:15]  square root of variance and this becomes standard deviation. We will return to our data set and
+[00:23:15 -> 00:23:20]  we'll look at the variables that we computed before. You can see that the standard deviation
+[00:23:20 -> 00:23:25]  for beauty, evaluation scores, and age were computed with the descriptive statistics using
+[00:23:25 -> 00:23:31]  the describe function in Python. Let me explain why mean and standard deviation have to go hand
+[00:23:31 -> 00:23:37]  in hand. I will use the example from basketball about the two giants, Michael Jordan and Wilt
+[00:23:37 -> 00:23:43]  Chamberlain, who preceded Michael Jordan. Now if you consider their average score for game, you
+[00:23:43 -> 00:23:49]  would notice they didn't differ much. Their average was around 30 points for both Jordan and Chamberlain.
+[00:23:49 -> 00:23:55]  However, when you look at the standard deviation of their performance, Jordan was around 4.76
+[00:23:55 -> 00:24:01]  compared to Chamberlain who was at around 10.59. If you were to plot this distribution to see
+[00:24:01 -> 00:24:07]  Michael Jordan's scores using the mean and standard deviation, assuming that their scores are
+[00:24:07 -> 00:24:12]  normally distributed, you would notice even though both players had around the same mean, the tighter
+[00:24:12 -> 00:24:18]  distribution for Jordan suggests that he was more consistent in his performance than Chamberlain.
+[00:24:19 -> 00:24:24]  The main takeaway is that average will only paint a partial picture. If you really want to understand
+[00:24:24 -> 00:24:30]  the complete picture about a variable or data set, it is important to compute both the average and
+[00:24:30 -> 00:24:36]  the standard deviation to get insights on what the data is telling us. So a mean with a standard
+[00:24:36 -> 00:24:40]  deviation means something more useful than the mean by itself.
+[00:24:53 -> 00:24:57]  Let us begin with the fundamentals of visualization. What you see on the right
+[00:24:57 -> 00:25:04]  side is a pictograph or a bar chart prepared by students in a kindergarten class, four-year-olds,
+[00:25:04 -> 00:25:11]  at the St. Luke Catholic School in Mississauga. This bar chart presents the frequency for
+[00:25:11 -> 00:25:16]  transportation modes the kids have used to come to school. Some have been dropped to school by car,
+[00:25:16 -> 00:25:24]  others by bus, and two students walk to school. In the brave big world of big data, we can see
+[00:25:24 -> 00:25:28]  that children are being trained at the earliest possible age with data and data science.
+[00:25:29 -> 00:25:36]  The most important thing to realize is that the type of visualization you will use depends upon
+[00:25:36 -> 00:25:42]  the type of variables you're trying to analyze. For instance, if you're working with categorical
+[00:25:42 -> 00:25:49]  variables such as gender, you have to rely on a certain type of charting tools than if you were
+[00:25:49 -> 00:25:56]  to be working with continuous variables such as age and income. In one case, you may be using bar
+[00:25:56 -> 00:26:02]  charts. In another case, you will be required to use scatter plots. I would like to draw your
+[00:26:02 -> 00:26:09]  attention to the extreme presentation method developed by Dr. Andrew Abella. Essentially,
+[00:26:10 -> 00:26:15]  it lays out the possible ways of depicting data based on what kind of variables you have at your
+[00:26:15 -> 00:26:21]  disposal. This visualization, this graphic, is developed by Dr. Abella that shows that if you
+[00:26:21 -> 00:26:27]  are interested in comparing variables or demonstrating their distribution or composition
+[00:26:27 -> 00:26:32]  or the relationship between two variables or more, you have to rely on a specific type of graph.
+[00:26:32 -> 00:26:39]  If you're comparing items with few categories, you can use bar charts or column charts. If you are
+[00:26:39 -> 00:26:47]  comparing behaviors over time and if you have the time periods running into months, several months,
+[00:26:47 -> 00:26:51]  you may have to use a line chart, and if the time periods are not that many, then you can
+[00:26:51 -> 00:26:56]  use columns and other approaches. If you're trying to depict relationships between
+[00:26:57 -> 00:27:03]  two continuous variables, your choice is a scatter plot. The bubble chart will depict two variables
+[00:27:03 -> 00:27:08]  on the x and y-axis, and the third variable will be depicted by the size of the circle,
+[00:27:08 -> 00:27:12]  so you can essentially have three variables. If you're interested in depicting the distribution
+[00:27:12 -> 00:27:19]  of the data set, you can use a histogram, which could be a bar chart type of histogram or a line
+[00:27:19 -> 00:27:23]  histogram, and the distribution could also be shown through scatter plots. If you would like
+[00:27:23 -> 00:27:28]  to show the composition, then if it's a static data, you can use pie charts. If you're showing
+[00:27:28 -> 00:27:35]  the composition that changes over time, for few periods, you can use stacked columns,
+[00:27:35 -> 00:27:39]  and if you have several periods, you can use the stacked area charts.
+[00:27:40 -> 00:27:46]  For hands-on in Python, we will be using the Seabourn library and the matplotlib library
+[00:27:46 -> 00:27:50]  to create visualizations in the labs. We will learn how to use different functions
+[00:27:50 -> 00:27:53]  within the library to create different kinds of charts.
+[00:28:06 -> 00:28:08]  We have learned to compute averages and standard deviations,
+[00:28:09 -> 00:28:14]  but now we will use the same information or same knowledge to make comparisons between groups.
+[00:28:15 -> 00:28:20]  So we will use the same data set that we have used so far, that is the teaching evaluation
+[00:28:20 -> 00:28:26]  data from University of Texas, comprising 463 courses. We are looking at the teaching
+[00:28:26 -> 00:28:31]  evaluation beauty and age, and we're comparing the averages for these three variables for
+[00:28:32 -> 00:28:36]  female instructor variables, so those who are females, their average teaching evaluation was
+[00:28:36 -> 00:28:44]  3.9 compared to those of men, 4.06. Here, we are looking at the average teaching evaluation
+[00:28:44 -> 00:28:51]  for tenured professors, 3.96 versus untenured, 4.13. The average age of untenured professors
+[00:28:51 -> 00:28:59]  was 50.2 years, and that for tenured professors, 47.85 years. One thing that is very important
+[00:28:59 -> 00:29:04]  in statistical analysis is to think about the question and to think about the population
+[00:29:04 -> 00:29:09]  or sample that you are working with. We are computing averages across 463 courses,
+[00:29:10 -> 00:29:14]  and we find the average age or beauty, but these are the attributes of instructors.
+[00:29:15 -> 00:29:21]  We know from our data that there are 94 instructors who have collectively taught 463 courses,
+[00:29:21 -> 00:29:27]  and we know that there are duplicates, that is the same instructor who has taught multiple courses.
+[00:29:28 -> 00:29:33]  So when I compute the average age using 463 courses, it's not necessarily the average age
+[00:29:33 -> 00:29:40]  of the instructors because it could be true that older-aged individuals may have taught more
+[00:29:40 -> 00:29:45]  courses than younger individuals, resulting in a higher average. That is not necessarily
+[00:29:45 -> 00:29:54]  the average age of the instructors. So to avoid this problem, we have to subset the data so that
+[00:29:54 -> 00:30:00]  we remove the duplicates and have only one observation per individual instructor in the
+[00:30:00 -> 00:30:07]  data set. So instead of 463 observations, we should have just 94 observations. Now let's
+[00:30:07 -> 00:30:14]  look at the comparison. When we use 94 observations where no instructor is repeated in the data set,
+[00:30:14 -> 00:30:23]  the average age or average beauty score is 0.25. When we look at the 463 courses,
+[00:30:23 -> 00:30:32]  the average value is 0.11. Or let's compare the age. The average age using 94 observations for
+[00:30:32 -> 00:30:41]  males is 49.4, and for females is 44.9. And you see here that as for age, we don't see much
+[00:30:41 -> 00:30:47]  difference whether we use 463 observations or 94, but we certainly see much difference in the beauty
+[00:30:47 -> 00:30:54]  scores if we were to use the wrong data set, that is the data set where individuals are repeated
+[00:30:54 -> 00:31:01]  multiple times. Data visualization is a critical piece of modern-day statistical analysis.
+[00:31:01 -> 00:31:06]  Their staples are helpful so you don't have to eyeball the output to figure out what the trends
+[00:31:06 -> 00:31:12]  are. The visual displays are much easier to understand. We will use the same data sets of
+[00:31:12 -> 00:31:18]  teaching evaluations and ask this question. Do instructors teaching single credit courses get
+[00:31:18 -> 00:31:26]  higher evaluations? We see that yes, they do. By mean evaluation, when plotted as a chart,
+[00:31:26 -> 00:31:30]  you see that instructors who teach single credit courses have a slightly higher average teaching
+[00:31:30 -> 00:31:37]  evaluation. Let us start by determining how many courses were taught by male instructors
+[00:31:37 -> 00:31:43]  and how many by female instructors. For this, we can use a bar chart. Notice that the information
+[00:31:43 -> 00:31:48]  is complete from a statistical point of view in that we know how many courses were taught by males
+[00:31:48 -> 00:31:53]  versus females, but we do not have some critical information from this chart as it relates to
+[00:31:53 -> 00:31:59]  communication. Therefore, we can say this chart serves a statistical purpose, but it doesn't serve
+[00:31:59 -> 00:32:06]  a communication purpose. Let me illustrate this with an example. Here you are looking at a street
+[00:32:06 -> 00:32:10]  map. You can see the streets and the buildings and the highways, but you don't see the street
+[00:32:10 -> 00:32:15]  names and without street names, it is hard to determine where you are and in which direction
+[00:32:15 -> 00:32:20]  you should be heading. Even though it is according to scale, it may be accurate in its depiction of
+[00:32:20 -> 00:32:26]  the streets in the neighborhood, but it still lacks the ability to communicate information to you.
+[00:32:26 -> 00:32:31]  To add communication value to this map, you can simply add the street names.
+[00:32:31 -> 00:32:37]  Let us apply the same philosophy to our graphic, but once we add information about this infographic,
+[00:32:37 -> 00:32:44]  for example, adding just a title makes this chart more informative. To do this in Python,
+[00:32:44 -> 00:32:49]  we will use the count plot function in the Seaborn library and set the title label.
+[00:32:49 -> 00:32:54]  This helps your graph to be more informative. We can also add more dimensions to the data.
+[00:32:55 -> 00:32:59]  In addition to the gender of the instructors, we could add the tenure status of the instructors
+[00:32:59 -> 00:33:05]  as well to the graphic. To do that in Python, you add the hue argument to the count plot.
+[00:33:05 -> 00:33:09]  We can add another dimension to the data, regenerating the same graphic with the same
+[00:33:09 -> 00:33:15]  information. That is the number of courses taught by gender and tenure, and then adding the dimension
+[00:33:15 -> 00:33:21]  of courses being upper division and lower division and presenting them in two rows or columns.
+[00:33:22 -> 00:33:27]  To do this in Python, we can specify the rows argument using the cat plot function.
+[00:33:28 -> 00:33:33]  Now let's look at the situation where our primary variables of interest are continuous variables.
+[00:33:33 -> 00:33:38]  We would like to explore the relationship between the two while adding further categorical variables
+[00:33:38 -> 00:33:44]  as an additional dimension. Using the teaching evaluation data, we ask this question,
+[00:33:44 -> 00:33:50]  does age affect teaching evaluations? We then add two additional dimensions, which are gender and
+[00:33:50 -> 00:33:56]  tenure. So our data set consists of age and teaching evaluation, which are the two primary
+[00:33:56 -> 00:34:03]  variables of interest and are continuous. And then we add two other dimensions, i.e. gender
+[00:34:03 -> 00:34:10]  and tenure. These are categorical variables. Age is on the X axis and the teaching evaluation score
+[00:34:10 -> 00:34:15]  is on the Y axis. The orange colored circles represent males and the blue colored circles
+[00:34:15 -> 00:34:21]  represent females. The top panel is for tenured professors and the bottom panel is for the
+[00:34:21 -> 00:34:27]  untenured instructors. To do this in Python, we use the facet grid option, which works for
+[00:34:27 -> 00:34:33]  multi-plot gridding and allows tweaking the plot. You create the row and hue for the categorical
+[00:34:33 -> 00:34:39]  variables, in our case, tenure and gender. And then we use the map to apply a plotting function
+[00:34:39 -> 00:34:41]  to each subset of the data.
+[00:34:56 -> 00:35:02]  So far we have displayed data as averages and counts. Now let's look at some other statistical
+[00:35:02 -> 00:35:10]  parameters that we will illustrate as graphics. We have not yet shown anything about variance
+[00:35:10 -> 00:35:15]  and I think the first thing that one should look into beyond averages is to look at variance or
+[00:35:15 -> 00:35:21]  how the data are distributed. And a good way of looking at the distribution of data, especially
+[00:35:21 -> 00:35:26]  if it were to be a continuous variable, is to look at histograms. And if you are interested
+[00:35:26 -> 00:35:33]  in displaying something more than the average, maybe the median and the quartiles, then perhaps
+[00:35:33 -> 00:35:39]  box plots should be our choice. Using the teaching evaluation data, we have plotted a histogram of
+[00:35:39 -> 00:35:46]  teaching evaluation scores. You could see that the mean score is around 4, but then you could see
+[00:35:46 -> 00:35:51]  very low teaching evaluation scores, not many frequently, but most frequently it's around the
+[00:35:51 -> 00:35:57]  average and then you see that some have lower teaching evaluation scores and some have fairly
+[00:35:57 -> 00:36:03]  high teaching evaluation scores. The histogram approximates the normal distribution curve.
+[00:36:03 -> 00:36:11]  Essentially you have 3.9904 as the mean, the standard deviation of 0.55 looking at 463 records.
+[00:36:11 -> 00:36:17]  This gives you a good idea of how your data are distributed. You can in fact plot multiple
+[00:36:17 -> 00:36:22]  histograms such that you can see the difference between the subgroups. So here you have the
+[00:36:22 -> 00:36:30]  histograms overlaid for males and females. These frequent lower teaching evaluations for females
+[00:36:30 -> 00:36:35]  is likely to influence the average teaching evaluation score for females versus the males.
+[00:36:36 -> 00:36:42]  A box plot essentially looks like this. The thick line in the box represents the median.
+[00:36:42 -> 00:36:48]  The top part of the box is the third quartile. The bottom part of the box is the first quartile.
+[00:36:48 -> 00:36:54]  The line at the bottom is the minimum value and the line at the top is the maximum value.
+[00:36:55 -> 00:37:00]  And the range between the first quartile and the third quartile is called the interquartile range.
+[00:37:02 -> 00:37:05]  In this graphic we have created the box plots for the age variable.
+[00:37:06 -> 00:37:10]  We can see that the median age of males is higher than the median age of females.
+[00:37:10 -> 00:37:17]  Also the maximum age of the males is higher than the maximum age of females. To do this in Python
+[00:37:17 -> 00:37:22]  we use the box plot function in the Seaborn library. We will put the gender on the y-axis
+[00:37:22 -> 00:37:28]  and the age of the instructor on the x-axis. You can play around with the x and y-axis.
+[00:37:28 -> 00:37:34]  If you wanted a horizontal style box plot for readability, I like to use vertical box plots.
+[00:37:35 -> 00:37:40]  We can also add another dimension. Here we will add tenure so those who are tenured are plotted
+[00:37:40 -> 00:37:45]  on the right and those who are not tenured are plotted on the left. And the blue color represents
+[00:37:45 -> 00:37:50]  the female instructors and the orange color represents the male instructors. We can see
+[00:37:50 -> 00:37:55]  the differences between male and female. Instructors, male tenured instructors are
+[00:37:55 -> 00:38:01]  older than male untenured instructors, whereas female tenured instructors are younger than
+[00:38:01 -> 00:38:09]  female untenured instructors. To do this in Python add the hue argument to the box plot function.
+[00:38:11 -> 00:38:16]  A pie chart is another way of looking at your data. You can see here in this graphic that the
+[00:38:16 -> 00:38:21]  number of courses taught by male instructors is larger than the number of courses taught by female
+[00:38:21 -> 00:38:28]  instructors. To do this in Python we will use the matplotlib library. First we specify the labels.
+[00:38:29 -> 00:38:35]  Get the number of courses taught both by male and females and assign it to a sizes variable.
+[00:38:35 -> 00:38:42]  Create a subplot, insert the sizes, labels, and percentage to one decimal place in the pie function
+[00:38:42 -> 00:38:46]  and print out the pie chart with the show function.
+[00:38:59 -> 00:39:06]  In this video I will introduce the teaching ratings data. We have been working with the
+[00:39:06 -> 00:39:12]  teaching ratings data from University of Texas and the underlying question is if students'
+[00:39:12 -> 00:39:19]  teaching evaluations are influenced by the looks of individual instructors or you can ask if their
+[00:39:19 -> 00:39:25]  teaching evaluations differ by gender or if good-looking instructors are influenced by
+[00:39:26 -> 00:39:31]  by gender or if good-looking instructors get higher teaching evaluations.
+[00:39:34 -> 00:39:40]  I obtained this data from Professor Daniel Hammermich who has written a paper about
+[00:39:41 -> 00:39:47]  how beauty may impact an instructor's teaching evaluation. In fact he has written an amazing
+[00:39:47 -> 00:39:53]  book called Beauty Pays in which he answers these questions such as do you think good-looking
+[00:39:53 -> 00:39:59]  employees get higher pay or faster promotions? Do you think good-looking instructors get higher
+[00:39:59 -> 00:40:05]  teaching evaluations? And the data comes from University of Texas. It's a survey
+[00:40:05 -> 00:40:08]  data obtained from 463 courses.
+[00:40:12 -> 00:40:18]  So the data is first referenced in the book Getting Started with Data Science,
+[00:40:18 -> 00:40:24]  Making Sense of Data with Analytics in Chapter 4. There are variables that essentially define
+[00:40:24 -> 00:40:29]  the attributes of instructors and characteristics of the courses. Some variables are continuous,
+[00:40:29 -> 00:40:37]  others are dichotomous or categorical variables. So the primary two variables of our interest are
+[00:40:38 -> 00:40:44]  beauty score which is basically the physical appearance of an instructor which was ranked
+[00:40:44 -> 00:40:51]  by a panel of six students and I think that they have normalized the the beauty score such that it
+[00:40:51 -> 00:40:57]  had a mean of zero and variance of one or a standard deviation of one. It's the same as
+[00:40:57 -> 00:41:05]  z transformation. The dependent variable, the variable of interest is evaluation which is
+[00:41:05 -> 00:41:11]  basically the teaching evaluation ranging between a scale of one to five, one being very unsatisfactory
+[00:41:11 -> 00:41:17]  and if the student found the course to be excellent then it's five. And then there are other
+[00:41:18 -> 00:41:24]  dichotomous or binary or categorical variables such as minority and if the instructor was a
+[00:41:24 -> 00:41:31]  non-Caucasian. Age is a continuous variable and it's the professor's age or instructor's age,
+[00:41:31 -> 00:41:37]  gender being male or female. Native stands for native English speaker. If the instructor was a
+[00:41:37 -> 00:41:42]  native speaker of English language, one zero otherwise. If the professor was tenured, one zero
+[00:41:42 -> 00:41:50]  otherwise. I have produced some descriptive statistics for your reference. For instance,
+[00:41:50 -> 00:41:54]  for the continuous variables such as age and beauty and teaching evaluation and the number
+[00:41:54 -> 00:41:59]  of students who were enrolled in the course on the number of students who performed the teaching
+[00:41:59 -> 00:42:04]  evaluations, I produced the descriptive statistics such as the minimum, the maximum, mean and standard
+[00:42:04 -> 00:42:11]  deviation. For categorical variables such as gender, female, yes or no, visible minority,
+[00:42:11 -> 00:42:17]  yes or no, person being a tenured professor or otherwise, I produced the frequency distributions
+[00:42:17 -> 00:42:23]  and percentage of individuals falling in one category or otherwise. Notice that the teaching
+[00:42:23 -> 00:42:32]  evaluation score is 3.99 with a standard deviation of 0.55 and let's see if I were to produce a
+[00:42:32 -> 00:42:39]  histogram of this variable teaching evaluation, how will it look like with raw data and if I were
+[00:42:39 -> 00:42:44]  to use the normal distribution and feed the two parameters that is the mean and the standard
+[00:42:44 -> 00:42:52]  deviation, how will the same distribution look like using a normal distribution? I am presenting here
+[00:42:52 -> 00:42:58]  the distribution of the raw data on left side and the presentation of the same data with the
+[00:42:58 -> 00:43:02]  same parameters, the mean and standard deviation using normal distribution. You could see that the
+[00:43:02 -> 00:43:08]  data not exactly following a bell curve, this is the raw data and it seldom does but then the
+[00:43:08 -> 00:43:14]  theoretical distribution looks like this. Essentially the same data set with a mean of 3.998
+[00:43:14 -> 00:43:18]  and standard deviation is presented here and then a normal distribution drawn from these two
+[00:43:18 -> 00:43:24]  parameters appears here. So it's much smoother, theoretical distributions are much smoother than
+[00:43:24 -> 00:43:25]  the raw data.
+[00:43:39 -> 00:43:47]  Now let us visit some basic definitions about probability as it relates to the most commonly used
+[00:43:48 -> 00:43:56]  concepts in statistics. Essentially probability is a measure between 0 and 1 for the likelihood
+[00:43:56 -> 00:44:02]  that something or some event might occur. For instance you may hear that the stock markets,
+[00:44:02 -> 00:44:09]  the chance of stock markets rising above some point or falling below some point is x percent or
+[00:44:09 -> 00:44:15]  you may hear that the chance for rain is 45 percent tonight. These are all coming from this
+[00:44:15 -> 00:44:21]  very concept of probability. Essentially probability is a measure between 0 and 1 so 45
+[00:44:21 -> 00:44:28]  percent would be 0.45. The discussion about probability is not complete without a discussion
+[00:44:28 -> 00:44:35]  about random variables. Essentially a random variable is a quantity whose possible values
+[00:44:35 -> 00:44:41]  depend in some clearly defined way on a set of some random events. It's a function that maps
+[00:44:41 -> 00:44:47]  out outcomes that is points in a probability space. So probability space essentially is all
+[00:44:47 -> 00:44:54]  possible outcomes. If you roll a die it can have one out of six outcomes so that's the probability
+[00:44:54 -> 00:44:59]  space there. If you roll two dice you can have one out of 36 outcomes where each outcome could
+[00:44:59 -> 00:45:05]  be considered a random outcome. And a probability distribution is a theoretical model that depicts
+[00:45:05 -> 00:45:10]  the possible values any random variable may assume along with the probability of its occurrence.
+[00:45:11 -> 00:45:19]  We'll define this more with examples using two dice. So consider two dice. A die has six faces
+[00:45:19 -> 00:45:27]  if you roll two dice it can assume one out of 36 discrete outcomes. So if you were to roll
+[00:45:28 -> 00:45:34]  two dice the probability that both die would have one as the outcome would be
+[00:45:35 -> 00:45:40]  one plus one two and there's only one possibility of getting that and that's one out of 36.
+[00:45:40 -> 00:45:46]  So here we have two die one black and one white and if you were to look at the possibility of
+[00:45:46 -> 00:45:54]  getting one on black and two on white and that's one outcome and so that's one plus two is three
+[00:45:54 -> 00:45:58]  or you can have two on black and one on white that's two plus one three again so there are two
+[00:45:58 -> 00:46:06]  ways of getting three on by rolling two dice so the outcome or the probability is two out of 36
+[00:46:06 -> 00:46:13]  possible outcomes that are mapped out here. So if you think about the sum of two dice being two
+[00:46:13 -> 00:46:19]  there's only one possibility out of 36. Getting a three you have two possibilities. Getting a four
+[00:46:19 -> 00:46:24]  you have three possibilities. Getting a five you have four possibilities and so on so forth. The
+[00:46:24 -> 00:46:31]  maximum most frequently possible number to have as a sum of two dice is seven and the probability
+[00:46:31 -> 00:46:40]  is six out of 36 which is 0.167 and if you were to sum these probabilities up that is 0.02 plus
+[00:46:40 -> 00:46:48]  0.056 you get 0.083. So if you sum up all these they all sum up to one and the probability of
+[00:46:49 -> 00:46:57]  getting six or less and greater than six is 0.58 or getting less than equal to six is 0.417.
+[00:46:57 -> 00:47:03]  You sum these up it's one 0.028 plus 0.972 is one this plus this is one this plus this is one and
+[00:47:03 -> 00:47:10]  obviously one plus zero is one. The probability of getting 12 that is both dice show six is one
+[00:47:10 -> 00:47:18]  out of 36 possible outcomes which is 0.028 so the probability sums up to one and the probability of
+[00:47:18 -> 00:47:22]  getting more than 12 is obviously zero because the two dice can maximum produce this number.
+[00:47:23 -> 00:47:31]  So nice way of looking at the way a probability distribution space is created by rolling two dice
+[00:47:32 -> 00:47:38]  and if I were to look at the the probability of say getting some number or less than some
+[00:47:38 -> 00:47:44]  number that's called the cumulative distribution function. If you were to simply chart this
+[00:47:44 -> 00:47:49]  probability outcomes in a chart you get this graph here.
+[00:47:51 -> 00:47:57]  So here we have age as our variable and I created a histogram of age and then using the mean value
+[00:47:57 -> 00:48:03]  of 48.37 which is the minimum mean average age and a standard deviation of 9.8 years
+[00:48:04 -> 00:48:11]  I can fit a theoretical normal distribution with these two parameters.
+[00:48:23 -> 00:48:29]  In this video I will illustrate how to state your hypothesis when you're comparing the averages
+[00:48:29 -> 00:48:36]  between two entities. We will use basketball as an example using Michael Jordan and Will Chamberlain
+[00:48:37 -> 00:48:44]  the two highest scorers in the history of basketball as examples. If you were to recall
+[00:48:44 -> 00:48:51]  you would know that Michael Jordan on average scored 30.12 points in each game and Chamberlain
+[00:48:51 -> 00:48:57]  averages around 30.06 points per game and if you were to compare the two averages between
+[00:48:58 -> 00:49:02]  Michael Jordan and Chamberlain and even though they are very similar looking numbers
+[00:49:02 -> 00:49:07]  we need to set up a statistical hypothesis testing. We are interested in comparing the
+[00:49:07 -> 00:49:13]  average points scored by the two basketball players and the comparison of means or averages
+[00:49:14 -> 00:49:20]  is available in three flavors. First we can assume that the average points per game scored by the
+[00:49:21 -> 00:49:27]  two players Jordan and Chamberlain are the same that is the difference between their mean scores
+[00:49:28 -> 00:49:34]  is zero. If the averages are the same so average of one minus average of other should be zero
+[00:49:34 -> 00:49:42]  and this becomes a null hypothesis. Let's say if mu j mu subscript j represents the average points
+[00:49:42 -> 00:49:48]  per game scored by Michael Jordan and mu subscript c represents the average points
+[00:49:48 -> 00:49:57]  per game scored by Will Chamberlain we can state the null hypothesis to be mu j equal mu c that is
+[00:49:57 -> 00:50:04]  the average scored by Jordan and average scored by Chamberlain are the same and the alternative
+[00:50:04 -> 00:50:10]  hypothesis would be that no these averages are not the same they're different so the alternative
+[00:50:10 -> 00:50:18]  hypothesis h subscript a compared to null hypothesis h subscript zero or o the alternative
+[00:50:18 -> 00:50:25]  is that the averages are not the same their average scores are different. Now the other option
+[00:50:25 -> 00:50:32]  the second option is to assume that Jordan scored better or higher and in that case our null
+[00:50:32 -> 00:50:40]  hypothesis is the average score by Michael Jordan is greater than or equal to the average score by
+[00:50:40 -> 00:50:46]  Will Chamberlain and in this particular case the alternative hypothesis would be different it
+[00:50:46 -> 00:50:52]  wouldn't be not equal to but it would be less than so the alternative would be that the average
+[00:50:52 -> 00:50:59]  scored by Jordan is less than that by Will Chamberlain and by the same account our third
+[00:50:59 -> 00:51:05]  option would be that the null hypothesis is that in fact Jordan scored less than Will Chamberlain
+[00:51:05 -> 00:51:12]  and the alternative hypothesis will be the reverse of it saying that no Michael Jordan scored higher
+[00:51:12 -> 00:51:19]  than Will Chamberlain so in a nutshell we have three options we can say the averages are the
+[00:51:19 -> 00:51:25]  same and the null would be no they're not the same not equal we can say the average is less than the
+[00:51:25 -> 00:51:29]  null is that Jordan's average is higher than Chamberlain and the alternative would be the
+[00:51:29 -> 00:51:36]  reverse of it and the third option is to say that the average scored by Jordan is less than average
+[00:51:36 -> 00:51:42]  scored by Chamberlain and the reverse of it will be the alternative hypothesis. So three ways of
+[00:51:42 -> 00:52:02]  defining a hypothesis let me introduce you to normal distribution which is one of the most
+[00:52:02 -> 00:52:08]  commonly used distributions in statistical analysis and even in everyday conversations
+[00:52:08 -> 00:52:14]  a large body of academic scholarly and professional work rests on the assumption
+[00:52:15 -> 00:52:19]  that the underlying data follows a normal distribution the defining characteristics
+[00:52:19 -> 00:52:25]  of normal distribution is this bell-shaped curve which you are familiar with from your textbooks
+[00:52:27 -> 00:52:33]  mathematically normal distribution is presented by this equation we can say that the normal
+[00:52:34 -> 00:52:41]  distribution relies on three inputs and f stands for functions a function of x mu and sigma x is
+[00:52:41 -> 00:52:48]  your data and x is a random variable and it can attain any very reasonable value mu stands for
+[00:52:48 -> 00:52:55]  the mean and sigma is standard deviation and the mathematical formulation is right here which is
+[00:52:55 -> 00:53:04]  1 divided by sigma times and then the square root of 2 times pi pi is the 3.14 22.7 22 divided by
+[00:53:04 -> 00:53:10]  7 and then you have the exponential here do not forget this minus sign so exponential of this
+[00:53:10 -> 00:53:19]  entity which is minus and in the numerator x minus mean or x minus mu the whole square divided by 2
+[00:53:19 -> 00:53:27]  times sigma square so let me explain 1 divided by the standard deviation and then the square root of
+[00:53:27 -> 00:53:35]  2 times pi 2 is known and pi is known so is the value for exponential and what is not known is
+[00:53:35 -> 00:53:41]  the sigma which you obtain from the data that is standard deviation and the mean which is also
+[00:53:41 -> 00:53:47]  coming from data so you have the mean and the standard deviation and x is the random variable
+[00:53:47 -> 00:53:51]  whose mean and standard deviation you're using you put this all together and then you get the
+[00:53:51 -> 00:53:58]  normal distribution the bell-shaped curve that you saw earlier i also introduce you to the standard
+[00:53:58 -> 00:54:05]  normal a standard normal is when we say that there's x is a variable that has a mean 0 and
+[00:54:05 -> 00:54:10]  standard deviation of 1 so what's mean 0 and standard deviation 1 look like if you replace
+[00:54:10 -> 00:54:17]  mu with 0 and standard deviation or sigma with 1 the equation is reduced to this entity which is
+[00:54:17 -> 00:54:23]  1 divided by 2 times pi notice the sigma here which i've grayed out a bit so that it doesn't
+[00:54:23 -> 00:54:30]  interfere sigma is 1 so 1 times anything would be the same so i've removed this and then e to the
+[00:54:30 -> 00:54:37]  power minus x minus mu but because mu is 0 so x minus 0 is x so x squared divided by 2 times sigma
+[00:54:37 -> 00:54:45]  square sigma remember is 1 the square of 1 is 1 so 2 times 1 so removing sigma because it's 1 and
+[00:54:45 -> 00:54:51]  anything multiplied with 1 is is the same entity so how do i generate this this normal or density
+[00:54:51 -> 00:54:57]  or a bell curve let's assume that the underlying variable has a mean 0 and the standard deviation
+[00:54:57 -> 00:55:05]  of 1 and x varies between minus 4 and 4 so the mean is 0 and the minimum value is minus 4 the
+[00:55:05 -> 00:55:12]  maximum value is 4 and i would substitute these minus 4 to 4 values in this equation this is the
+[00:55:12 -> 00:55:17]  only thing that's changing the x here is the only entity that is changing and let's see if this
+[00:55:17 -> 00:55:25]  could generate the standard normal curve let us do this in python we'll use the matplotlib function
+[00:55:25 -> 00:55:32]  which you are already familiar with for the graphics numpy library as well as the norm.pdf
+[00:55:32 -> 00:55:39]  function in the scipy stats library in this example i have used increments of 0.1 this
+[00:55:39 -> 00:55:55]  will generate the standard normal curve that you hear about in statistics
+[00:55:56 -> 00:56:03]  the other commonly used statistical distribution is known as the student's t distribution
+[00:56:04 -> 00:56:12]  william seeley gossett specified the t distribution in fact he published a paper in biometrica in 1908
+[00:56:13 -> 00:56:20]  and he published it under the pseudonym student he worked for the guinness brewery in durban
+[00:56:20 -> 00:56:26]  ireland where he worked with small samples of barley mr gossett is the unsung hero of statistics
+[00:56:26 -> 00:56:32]  he published his work under a pseudonym because of the restrictions from his employer apart from
+[00:56:32 -> 00:56:38]  his published work his other contributions to statistical analysis are equally significant
+[00:56:39 -> 00:56:45]  the cult of statistical significance a must-read book for anyone interested in data science
+[00:56:45 -> 00:56:50]  chronicles mr gossett's work and how other influential statisticians of the time
+[00:56:51 -> 00:56:57]  namely ronald fisher and egon pearson by way of their academic bona fides ended up being
+[00:56:57 -> 00:57:04]  more influential than the equally deserving mr gossett the normal distribution describes the
+[00:57:04 -> 00:57:09]  mean for a population whereas the t distribution describes the mean of samples drawn from a
+[00:57:09 -> 00:57:15]  population the t distribution for each sample could be different and the t distribution resembles
+[00:57:15 -> 00:57:23]  the normal distribution for large sample sizes here i present normal distribution which is
+[00:57:23 -> 00:57:30]  drawn in blue and the t distribution with a degree of freedom of one as the degrees of freedom
+[00:57:30 -> 00:57:37]  increase the t distribution curve becomes more similar to the normal distribution
+[00:57:37 -> 00:57:45]  in statistical analysis several statistical tests rely on t distribution for instance a comparison
+[00:57:45 -> 00:57:52]  of means test used the t distribution and it's also known as the t test we have been working
+[00:57:52 -> 00:57:59]  with a data set comprising teaching evaluations of instructors from university of texas
+[00:58:00 -> 00:58:07]  and i will illustrate the use of t tests or t distribution with the question of does instructor
+[00:58:07 -> 00:58:13]  evaluation score differ by gender do males and females get different teaching evaluations from
+[00:58:13 -> 00:58:21]  students now if i were to take the same data set and compute the means and standard deviations
+[00:58:21 -> 00:58:27]  i can test this statistically i have computed the visual representation of the average teaching
+[00:58:27 -> 00:58:34]  evaluation score for male and female instructors the blue bar represents the average teaching
+[00:58:34 -> 00:58:40]  evaluation value for females the orange bar represents the average teaching evaluation
+[00:58:40 -> 00:58:47]  value for males by eyeballing it it is around four and slightly less for females now it's a
+[00:58:47 -> 00:58:53]  small difference between males and females the question is is this difference statistically
+[00:58:53 -> 00:59:01]  significant to use a t test you have to make sure some assumptions are met the first assumption for
+[00:59:01 -> 00:59:07]  a t test is that the scale of measurement applied to the data collected follows a continuous or
+[00:59:07 -> 00:59:12]  ordinal scale the second assumption is that the data is collected from a representative
+[00:59:13 -> 00:59:20]  randomly selected portion of the total population the third assumption is the data when plotted
+[00:59:20 -> 00:59:28]  will follow a normal distribution and the final assumption is homogeneity of variance to avoid
+[00:59:28 -> 00:59:33]  the test statistics to be biased towards larger sample sizes there is a test for this which will
+[00:59:33 -> 00:59:41]  be discussed later before we go perform the test in python first we will state our hypothesis
+[00:59:41 -> 00:59:47]  the null hypothesis is as follows there is no difference in evaluation scores for males and
+[00:59:47 -> 00:59:53]  females the alternate hypothesis is there is a difference in evaluation scores between males and
+[00:59:53 -> 01:00:02]  females then set alpha level to 0.05 to do this in python we will use the t test independent sample in
+[01:00:02 -> 01:00:09]  the scipy stats function the function takes in the two samples it is trying to test the statistical
+[01:00:09 -> 01:00:15]  difference of means for in our example is the females evaluation scores versus all the males
+[01:00:15 -> 01:00:25]  evaluation scores it will return a t statistic and a p value since the p value is less than 0.05
+[01:00:25 -> 01:00:30]  the alpha level we reject the null hypothesis as there is enough evidence that there is a
+[01:00:30 -> 01:00:34]  statistical difference in teaching evaluations based on gender
+[01:00:46 -> 01:00:51]  let me illustrate how to obtain the probability of getting a high or low teaching evaluation score
+[01:00:51 -> 01:00:58]  from our data set first an important concept is the standardization of a variable such that it
+[01:00:58 -> 01:01:04]  returns a data set with a mean of zero and a standard deviation of one i use the formula in
+[01:01:04 -> 01:01:10]  equations shown here where the standardization is taking a variable x and subtracting from it the
+[01:01:10 -> 01:01:17]  average value mu then dividing it by the standard deviation so that if the teaching evaluation score
+[01:01:17 -> 01:01:25]  of an instructor on a scale of one to five is 4.5 we subtract the average teaching evaluation of 3.998
+[01:01:25 -> 01:01:34]  from it and divide it by the standard deviation which is 0.554 resulting in a z score of 0.906
+[01:01:35 -> 01:01:41]  if we were to just display the data as a histogram you would see that it has a mean around zero and
+[01:01:41 -> 01:01:48]  the spread is shown on a scale where the x-axis varies from minus 3 to 2 in a case where you do
+[01:01:48 -> 01:01:53]  not have access to a computer with statistical software you can still compute probabilities
+[01:01:53 -> 01:01:59]  from a probability table using a simple and standard normal table found in statistics textbooks
+[01:01:59 -> 01:02:06]  or download it online a copy of such a table is on the right notice that the normal distribution
+[01:02:06 -> 01:02:12]  graph to the left is grayed out in some parts that grayed out area represents the probability
+[01:02:12 -> 01:02:19]  of getting some value z in this case z this value of z or less than we will need to first
+[01:02:19 -> 01:02:24]  standardize the variable to determine the probability of a teaching evaluation score
+[01:02:24 -> 01:02:32]  higher than 4.5 or less than 4.5 so let's say we have a data set where the average teaching
+[01:02:32 -> 01:02:40]  evaluation is 3.998 and the standard deviation is 0.554 and we are interested in determining
+[01:02:40 -> 01:02:47]  the probability of getting a teaching evaluation score of 4.5 or less so from the table that I
+[01:02:47 -> 01:02:55]  showed in the last slide we can determine this if we were to standardize the data it becomes 0.906
+[01:02:55 -> 01:03:02]  because the accuracy of this table is only good for two decimal places so 0.906 effectively becomes
+[01:03:02 -> 01:03:10]  0.91 so we get a 0.8186 value here hence the probability of obtaining a teaching evaluation
+[01:03:10 -> 01:03:19]  score of 4.5 or less is 0.8186 if you were to look at this graphic you will see that I have
+[01:03:19 -> 01:03:24]  plotted the area under the curve by shading it gray that's the area that depicts the probability
+[01:03:24 -> 01:03:31]  of an instructor receiving a teaching evaluation of less than or equal to 4.5 and that probability
+[01:03:31 -> 01:03:39]  is 0.8176 or 81.76 percent now what will be the probability of receiving a teaching evaluation
+[01:03:39 -> 01:03:46]  score of greater than 4.5 in fact you can see from the next graphic that the probability is
+[01:03:47 -> 01:03:53]  the reverse of one that we saw earlier and hence the probability of obtaining a teaching evaluation
+[01:03:53 -> 01:04:02]  score of greater than 4.5 is 18.24 percent which is the area shaded in gray the reason for this
+[01:04:02 -> 01:04:09]  is because the area under the normal distribution curve is equal to one so one minus 0.8176
+[01:04:09 -> 01:04:16]  will give you the area for evaluation scores greater than 4.5 let me illustrate the example
+[01:04:16 -> 01:04:22]  of getting a teaching evaluation score of greater than 4.5 in python we will use the norm dot cdf
+[01:04:22 -> 01:04:30]  function in the scipy stats package after finding the mean and standard deviation we plug it into
+[01:04:30 -> 01:04:37]  the function with the x value of 4.5 and we will get the area to the left which is the less than
+[01:04:37 -> 01:04:46]  4.5 area because we want the area to the right of 4.5 that is the probability of greater than 4.5
+[01:04:46 -> 01:04:55]  we will remove the value from one as indicated here
+[01:05:08 -> 01:05:16]  in traditional hypothesis testing one has the option to perform z-test or a t-test and the question is
+[01:05:16 -> 01:05:24]  under what circumstances should one perform a z-test or a t-test well the answer is rather
+[01:05:24 -> 01:05:31]  simple if one is aware of the population's standard deviation or variance we use the z-test
+[01:05:32 -> 01:05:39]  and that is when we are comparing the sample mean to a hypothetical or a population mean
+[01:05:40 -> 01:05:46]  and if the sample the population standard deviation is not known and we are comparing
+[01:05:46 -> 01:05:49]  the sample mean against the population mean with an unknown standard deviation
+[01:05:50 -> 01:05:59]  then we use the t-test now there are four scenarios in which we perform these tests
+[01:06:00 -> 01:06:07]  first scenario is where we are comparing a sample mean to a population mean and the
+[01:06:07 -> 01:06:12]  population standard deviation is known in that particular case we use a z-test
+[01:06:14 -> 01:06:19]  and in cases where we are comparing a sample mean to a population mean with an unknown standard
+[01:06:19 -> 01:06:26]  deviation we use a t-test now this i covered earlier in the last slide the new thing here
+[01:06:26 -> 01:06:31]  is that when we compare the means of two independent samples that is comparing the
+[01:06:31 -> 01:06:38]  means of two independent samples with unequal variances if we are using if we have facing with
+[01:06:38 -> 01:06:45]  this kind of a question we use a t-test again if we are comparing the means of two independent
+[01:06:45 -> 01:06:52]  samples with equal variances we still use a t-test the underlying theory is that when you're using a
+[01:06:52 -> 01:06:57]  z-test you're basing your results on normal distribution and when you are deploying t-test
+[01:06:57 -> 01:07:05]  you're basing your results on t-distribution and this could be made the the process of hypothesis
+[01:07:05 -> 01:07:15]  testing could be made rather simple by looking at these thresholds if you are comparing the means
+[01:07:15 -> 01:07:21]  and in the particular case you are looking at the null being that the two averages are the same
+[01:07:22 -> 01:07:28]  against two averages not being the same then you're using a two-tailed test and in that particular
+[01:07:28 -> 01:07:37]  case you're looking for a t-statistic or a z-statistic of 1.96 the absolute value of 1.96
+[01:07:37 -> 01:07:42]  if that were to be the case you reject the null hypothesis that is you're comparing you're
+[01:07:42 -> 01:07:48]  conducting a two-tailed test you can be using normal distribution or a t-distribution and you
+[01:07:48 -> 01:07:56]  get the calculated z or t statistics of greater than absolute value of 1.96 and the expected p
+[01:07:56 -> 01:08:02]  value the probability of that happening would be less than 0.05 and you reject the null the null
+[01:08:02 -> 01:08:10]  being that the two means are equal in the case of one tail test where you're testing whether the
+[01:08:11 -> 01:08:17]  mean or average of one entity is greater or less than the other here the absolute value for z or
+[01:08:17 -> 01:08:24]  t statistic is 1.64 and the probability would still be less than 0.05 if that were to be the
+[01:08:24 -> 01:08:32]  case you reject the null if the calculated value for z or t statistic is less than 1.96 you fail
+[01:08:32 -> 01:08:38]  to reject the null hypothesis and the null being the two averages are the same in case of a one
+[01:08:38 -> 01:08:46]  tail test and the value calculated value for z or t statistic is less than 1.64 you fail to reject
+[01:08:46 -> 01:08:52]  the null and the null could be that one value one average is less than equal to the other
+[01:08:52 -> 01:09:06]  or is greater than the other
+[01:09:07 -> 01:09:14]  one needs to understand the theory behind the hypothesis testing and how do you reject a null
+[01:09:14 -> 01:09:22]  hypothesis or otherwise there are rules of thumb that is in case of a two tail test one can use
+[01:09:22 -> 01:09:28]  1.96 as the calculated threshold for either z or t statistics to reject a null hypothesis
+[01:09:28 -> 01:09:35]  or for a one tail test the absolute value of 1.64 to reject a null hypothesis but what does it mean
+[01:09:36 -> 01:09:42]  and the the how do you get to these 1.64 and 1.96 there is some some theory to it it involves
+[01:09:42 -> 01:09:49]  statistical distributions and now perhaps is a good time to to learn about those now imagine if
+[01:09:49 -> 01:09:53]  the mean values of two variables is the same that is we are assuming that the difference between the
+[01:09:53 -> 01:10:00]  two means is essentially zero let's say the mean of variable a and the mean of variable b we assume
+[01:10:00 -> 01:10:05]  that they are equal that is mu a equals mu b and if that were to be the case the difference between
+[01:10:05 -> 01:10:11]  the two should be equal to zero so the alternative hypothesis could be that the differences mean is
+[01:10:11 -> 01:10:18]  not equal to zero so you would say that mu a is not equal to mu b or the difference is greater than
+[01:10:18 -> 01:10:25]  zero that is mu a is greater than mu b or the difference is less than zero where mu a is less
+[01:10:25 -> 01:10:32]  than mu b and in these three circumstances the rejection region or the how do you reject the
+[01:10:32 -> 01:10:38]  null hypothesis means three different things and for this we were to revert to the normal
+[01:10:38 -> 01:10:45]  distribution curve imagine that you're conducting a z-test using a normal distribution and the shape
+[01:10:45 -> 01:10:49]  of the curve would be very similar this image would be very similar if we were to do a two-tailed
+[01:10:50 -> 01:10:56]  test for t distribution but let's assume that we are working with normal distribution
+[01:10:56 -> 01:11:04]  and you have a rejection region that is to the left and to the right of the of the curve as you
+[01:11:04 -> 01:11:09]  saw the normal distribution curve let's say our alternative hypothesis is that the mean difference
+[01:11:09 -> 01:11:15]  is not equal to zero it could be greater than or less than zero but it's not equal to zero so we
+[01:11:15 -> 01:11:20]  will call this a two-tailed test because we are not making an assumption of the difference being
+[01:11:20 -> 01:11:25]  greater or less than zero and then we have to define the rejection region in both tails that
+[01:11:25 -> 01:11:30]  is the left tail and the right tail of the normal distribution and remember we only consider five
+[01:11:30 -> 01:11:35]  percent of the area under the normal curve to find to define the rejection region and for a
+[01:11:35 -> 01:11:40]  two-tailed test that five percent gets divided into half of it goes into the left tail and the
+[01:11:40 -> 01:11:46]  other half goes into the right tail so two and a half percent under the curve in each tail and
+[01:11:46 -> 01:11:53]  graphically you could see this again as the same as we saw earlier that this is a normal distribution
+[01:11:53 -> 01:11:57]  curve and two and a half percent is in the left tail and the other two and a half percent is in
+[01:11:57 -> 01:12:05]  the right tail and if the test statistic is 1.96 if the absolute value of the test statistic is
+[01:12:05 -> 01:12:12]  greater than 1.96 or less than 1.96 it falls in the rejection region and you can safely reject the null
+[01:12:12 -> 01:12:17]  and the null would be that the difference of mean equals to zero or in common parlance what we are
+[01:12:17 -> 01:12:24]  saying is that the two means are not the same now let us work with the assumption or the situation
+[01:12:24 -> 01:12:30]  where we we are testing if the difference of means is less than zero we are only interested
+[01:12:30 -> 01:12:37]  in the left tail our alternative hypothesis is that the difference of mean is less than zero
+[01:12:37 -> 01:12:42]  in this case the entire rejection region that is five percent of the rejection region
+[01:12:42 -> 01:12:51]  is to the left and in any situation in for a one tail test if we were to get the t stat of 1.64 or
+[01:12:51 -> 01:13:02]  less we would reject the null that the mean is greater than zero in favor of the alternative
+[01:13:02 -> 01:13:08]  that the difference is less than zero and the exact opposite to this would be the right tail
+[01:13:08 -> 01:13:15]  test where the alternative hypothesis is that the mean is greater than zero and if you get the t
+[01:13:16 -> 01:13:21]  or test statistics of greater than 1.64 for a right tail test you reject the null
+[01:13:22 -> 01:13:28]  in favor of the alternative that the mean difference is greater than zero.
+[01:13:40 -> 01:13:46]  A t-test is the comparison of average values between two groups for example you could be
+[01:13:46 -> 01:13:51]  comparing whether teaching evaluations of male instructors is the same for female instructors.
+[01:13:51 -> 01:13:56]  You can either assume that the variance or standard deviation is equal or unequal.
+[01:13:56 -> 01:14:03]  How do we determine this? We have the teaching evaluation data. We calculated the average
+[01:14:03 -> 01:14:09]  teaching evaluation for female instructors to be 3.9 with a standard deviation of 0.53.
+[01:14:10 -> 01:14:13]  The average teaching evaluations for male instructors on the other hand
+[01:14:13 -> 01:14:22]  was calculated as 4.06 with a standard deviation of 0.55. When we conduct a t-test we are faced
+[01:14:22 -> 01:14:29]  with whether to assume equal or unequal variances. We have a t-test called Levene's test to determine
+[01:14:29 -> 01:14:35]  the equality of variances. The null hypotheses of the Levene's test is that population variances
+[01:14:35 -> 01:14:44]  are equal. If the p-value of the test is less 0.05 reject the null hypothesis of equal variances
+[01:14:44 -> 01:14:49]  and assume that the variances are unequal. Let us look at the example for that of teaching
+[01:14:49 -> 01:14:56]  evaluation scores for male and female instructors. We will use the Levene's function in the scipy.stats
+[01:14:56 -> 01:15:03]  package. We will run it against both samples and we will specify the center argument as mean since
+[01:15:03 -> 01:15:11]  our t-tests we test for mean differences. We will get a p-value of 0.66 which is greater than 0.05.
+[01:15:12 -> 01:15:18]  That means we will fail to reject the null hypothesis and we will assume equal variances
+[01:15:18 -> 01:15:24]  when conducting our t-test. So when you run your t-test you set the equal underscore var
+[01:15:24 -> 01:15:31]  option to true and if you got a p-value less than 0.05 you set that option to false.
+[01:15:32 -> 01:15:37]  If you were to do a t-test by hand the formula would be different for calculating equal versus
+[01:15:37 -> 01:15:44]  unequal variances. You must calculate the pooled variance as shown here then calculate the standard
+[01:15:44 -> 01:15:51]  deviation that you will use in the t-test. If the variances were unequal calculate the t-test
+[01:15:51 -> 01:15:56]  with each of the individual standard deviations and sample size. You will need to find the degree
+[01:15:56 -> 01:16:01]  of freedom to check the t-test table. With this formula the rule of thumb for assuming
+[01:16:01 -> 01:16:05]  equal variance when calculating by hand is defined by the ratio of the larger
+[01:16:05 -> 01:16:09]  group's variance to the smaller group's variance to be less than 1.5.
+[01:16:10 -> 01:16:14]  Most of us are familiar with comparing the average values between two groups.
+[01:16:15 -> 01:16:20]  For example the average teaching evaluation score for male instructors compared with that of female
+[01:16:20 -> 01:16:26]  instructors and the groups are two and we know that such comparisons are made using the t-test.
+[01:16:26 -> 01:16:30]  But what if you're dealing with more than one group and you're comparing the two groups
+[01:16:30 -> 01:16:34]  and you're comparing the two groups and you're comparing the two groups and you're comparing
+[01:16:35 -> 01:16:40]  such comparisons are made using the t-test. But what if you're dealing with more than two groups?
+[01:16:40 -> 01:16:45]  What if there are three four or more groups? In that particular case we would use ANOVA or
+[01:16:45 -> 01:16:51]  analysis of variance where our intent or goal is to compare the means of more than two groups.
+[01:16:51 -> 01:16:57]  So in order for do that in order to accomplish this we return back to our teaching evaluation
+[01:16:57 -> 01:17:04]  data and in that particular case we have a variable called age where the age of the
+[01:17:04 -> 01:17:10]  instructor is is recorded in a number of years but we will discretize this age variable that
+[01:17:10 -> 01:17:16]  is we will create three groups. So instructors who are 40 years and younger we put them in one group
+[01:17:16 -> 01:17:23]  those between 40 and 56.5 years of age they are in another group and those who are 57 years and
+[01:17:23 -> 01:17:28]  older we put them in the third group. So you have sort of younger instructors middle-aged instructors
+[01:17:28 -> 01:17:33]  and rather slightly older instructors and the number of observations or courses taught by each
+[01:17:33 -> 01:17:39]  group is is reported under n and what we also have here is the teaching evaluation score for each
+[01:17:39 -> 01:17:45]  group which is not differing much it's pretty much four for each group and for the older professors
+[01:17:45 -> 01:17:51]  slightly less at 3.9 and the respective standard deviations are there. So we have three groups and
+[01:17:51 -> 01:17:57]  let's say what we are interested in is to determine if the average of these three three averages for
+[01:17:57 -> 01:18:03]  the three respective age categories if these different averages are statistically the same
+[01:18:03 -> 01:18:09]  or they are different. So we use the one-way analysis of variance or ANOVA and using the
+[01:18:09 -> 01:18:14]  ANOVA we use the F-distribution to compare the mean values for more than two groups. Our null
+[01:18:14 -> 01:18:19]  hypothesis is that samples in all groups are drawn from the same populations with the same mean values
+[01:18:20 -> 01:18:26]  and we fail to reject the null hypothesis if the p-value or the significance for the F-test
+[01:18:26 -> 01:18:35]  is greater than 0.05 and we then infer equal means. Let's say we are interested in determining
+[01:18:35 -> 01:18:42]  if the beauty score for instructors differs by age. We have three groups younger middle-aged and older
+[01:18:42 -> 01:18:48]  professors. We have the summary statistics for the standardized beauty scores. We see that there is a
+[01:18:48 -> 01:18:55]  difference as the age goes up the average value for the beauty score goes down. So let's run an
+[01:18:55 -> 01:19:03]  ANOVA to see if the differences are statistically significant. Our null hypothesis will be mean
+[01:19:03 -> 01:19:09]  beauty scores for instructors don't differ with age and the alternative hypothesis will be at least
+[01:19:09 -> 01:19:15]  one of the means is different. First this variable does not exist in our data. We will need to group
+[01:19:15 -> 01:19:22]  or bin the continuous age data using the dot lock function in pandas. Then use the F underscore one
+[01:19:22 -> 01:19:28]  way function in the SciPy stats library to perform the ANOVA test. We will then print out the F
+[01:19:28 -> 01:19:35]  statistics and the p-value. What we can see is that the p-value is 4.32 times 10 raised to the
+[01:19:35 -> 01:19:42]  power of negative 8 and that is less than 0.05. We will reject the null hypothesis as there is
+[01:19:42 -> 01:19:48]  significant evidence that at least one of the means differ. If I do the same test for the teaching
+[01:19:48 -> 01:19:54]  evaluation scores that we observed for the three groups and we run ANOVA on these three mean values
+[01:19:55 -> 01:20:03]  we find out that the p-value is 0.295 which is greater than 0.05. We will fail to reject the
+[01:20:03 -> 01:20:09]  null and infer equal means that is that the three means are not statistically different.
+[01:20:09 -> 01:20:16]  Here we have the analysis of variance performed on two samples. One is the beauty score. We notice
+[01:20:16 -> 01:20:21]  that the difference in means for beauty scores between the three groups is based on the significance
+[01:20:21 -> 01:20:28]  value. This leads us to conclude that at least one mean is different and we reject the null hypothesis
+[01:20:28 -> 01:20:34]  that states equal means. And here because the p-value for teaching evaluation scores between
+[01:20:34 -> 01:20:40]  the three groups is greater than 0.05, we fail to reject the null hypothesis.
+[01:20:41 -> 01:20:44]  We believe that these three means are statistically equal.
+[01:20:57 -> 01:21:02]  Now moving ahead from comparing the average values between two or more groups
+[01:21:02 -> 01:21:08]  we are looking at two variables. We want to know if there is a statistically significant correlation
+[01:21:08 -> 01:21:11]  between these two variables and what is needed for this to happen.
+[01:21:13 -> 01:21:17]  We would need to look back to the earlier definition of types of variables.
+[01:21:17 -> 01:21:23]  We generally define the variables in two groups the categorical variables and continuous variables.
+[01:21:24 -> 01:21:29]  So if we were to go back to our teaching ratings data we have instructors who are male and female.
+[01:21:30 -> 01:21:36]  Some instructors are visible minorities and some are Caucasian. So we have two variables,
+[01:21:36 -> 01:21:43]  male and female, and a visible minority status. These two variables are examples of categorical
+[01:21:43 -> 01:21:48]  variables and if we are comparing or trying to determine the correlation between two categorical
+[01:21:48 -> 01:21:54]  variables we would use the chi-square test. We would begin with a cross-tabulation between the
+[01:21:54 -> 01:22:01]  two values. If we have two continuous variables, for example, the teaching evaluation score and
+[01:22:01 -> 01:22:06]  the beauty score of an instructor, then these are two continuous variables and they can assume
+[01:22:06 -> 01:22:12]  any reasonable value within the range. In this case we use a Pearson correlation test.
+[01:22:13 -> 01:22:17]  We usually begin with a scatter plot to see what's the nature of the relationship between
+[01:22:17 -> 01:22:23]  the two variables. Let us start with categorical variables. We will use the chi-square test for
+[01:22:23 -> 01:22:29]  association. First we state our hypothesis. We will test the null hypothesis that gender and
+[01:22:29 -> 01:22:35]  tenureship are independent against the alternative hypothesis that they are associated. Let's begin
+[01:22:35 -> 01:22:42]  with a cross-tabulation between gender male and female and tenure, that is, tenured profs,
+[01:22:42 -> 01:22:49]  then followed by a chi-square test. So we do the tabulations. In the rows we have tenured no
+[01:22:49 -> 01:22:55]  versus tenured yes and female instructors and males. We would like to eyeball these numbers
+[01:22:55 -> 01:23:02]  before we turn them into percentages. Looking at instructors who are non-tenured, we notice that 50
+[01:23:02 -> 01:23:08]  of the instructors are female versus 52 who are male. But for the instructors who are tenured,
+[01:23:08 -> 01:23:16]  145 of them are female and 216 of them are male. So within the tenured group we see greater
+[01:23:16 -> 01:23:21]  probability for males to be tenured, but in the untenured group the distribution between males
+[01:23:21 -> 01:23:28]  and females looks similar. Before we go to Python, let's do this by hand to understand the concept.
+[01:23:29 -> 01:23:34]  The formula for chi-square is given as follows. The summation of the observed value, i.e. the
+[01:23:34 -> 01:23:39]  counts in each group minus the expected value all squared, divided by the expected value.
+[01:23:40 -> 01:23:45]  Expected values are based on the given totals. What would we say each individual value would be
+[01:23:45 -> 01:23:51]  if we did not know the observed values? So to calculate the expected value of untenured female
+[01:23:51 -> 01:23:58]  instructors, we take the row total, which is 102, multiply by the column total, 195,
+[01:23:58 -> 01:24:05]  divided by the grand total of 463. This will give you 42.96. If we do the same thing for tenured
+[01:24:05 -> 01:24:14]  male instructors, we will take the row total, 361, multiply by the column total, 268 divided by 463.
+[01:24:14 -> 01:24:21]  We get 208.96. If we repeat the same procedure for all of them, we get these values. If we take
+[01:24:21 -> 01:24:27]  the row totals, column totals, and grand total, we will get the same values as the totals as the
+[01:24:27 -> 01:24:34]  observed values. Now going back to this formula, if we take a summation of all the observed minus
+[01:24:34 -> 01:24:40]  the expected values, all squared, divided by the expected value, we will get a chi-square value of
+[01:24:40 -> 01:24:48]  2.557, and the degree of freedom will be one. On the chi-square table, we check the degree of
+[01:24:48 -> 01:24:57]  freedom equals row one and find the value closest to 2.557. Here we can see that 2.557 will most
+[01:24:57 -> 01:25:05]  likely fall in between a p-value of 0.1 and 0.25. Therefore, we can say that the p-value is greater
+[01:25:05 -> 01:25:13]  than 0.1. Since the p-value is greater than 0.05, we fail to reject the null hypothesis that the two
+[01:25:13 -> 01:25:19]  variables are independent, and therefore we will conclude that the alternative hypothesis that
+[01:25:19 -> 01:25:25]  there is an association between gender and tenureship does not exist. To do this in Python,
+[01:25:25 -> 01:25:32]  we will use the chi-square contingency function in the SciPy statistics package. That is a chi-square
+[01:25:32 -> 01:25:40]  test value of 2.557, and the second value is the p-value of about 0.11, and a degree of freedom
+[01:25:40 -> 01:25:46]  of one. If you remember, the chi-square table did not give an exact p-value, but a range in which it
+[01:25:46 -> 01:25:53]  falls. Python will give the exact p-value. We can see the same results as on the previous slides.
+[01:25:54 -> 01:25:58]  It also prints out the expected values, which we also calculated by hand.
+[01:25:59 -> 01:26:06]  Since the p-value is 0.11, which is greater than 0.05, we fail to reject the null hypothesis that
+[01:26:06 -> 01:26:12]  the two variables are independent, and therefore we will conclude the alternative hypothesis
+[01:26:12 -> 01:26:16]  that there is an association between gender and tenureship does not exist.
+[01:26:16 -> 01:26:20]  This was an example of testing independence between two categorical variables.
+[01:26:21 -> 01:26:25]  Now to continuous variables using a Pearson correlation test from the teaching ratings data.
+[01:26:26 -> 01:26:31]  We will test the null hypothesis that there is no correlation between an instructor's beauty score
+[01:26:31 -> 01:26:36]  and their teaching evaluation score against the alternative hypothesis that there is a
+[01:26:36 -> 01:26:43]  correlation between both variables. We had the normalized beauty score on the x-axis and the
+[01:26:43 -> 01:26:49]  teaching evaluation score on the y-axis. You can eyeball a positive upward sloping curve,
+[01:26:50 -> 01:26:53]  but let's run a Pearson correlation test to find out.
+[01:26:54 -> 01:27:00]  We will use the Pearson r package in the scipy.stats package and check for the correlation.
+[01:27:00 -> 01:27:05]  We will get a coefficient value of how strong the relationship is and in what direction.
+[01:27:05 -> 01:27:11]  Correlation coefficient values lie between minus 1 and 1, where minus 1 means a strong negative
+[01:27:11 -> 01:27:17]  correlation and visually represented by a downward sloping curve, and 1 means a strong positive
+[01:27:17 -> 01:27:23]  relationship and visually represented by an upward sloping curve. In our case, we have a
+[01:27:23 -> 01:27:31]  Pearson coefficient of 0.18 and a p-value of 4.25 times 10 raised to power minus 5.
+[01:27:33 -> 01:27:39]  Since the p-value is less than the 0.05, we reject the null hypothesis and conclude that
+[01:27:39 -> 01:27:45]  there exists a relationship between an instructor's beauty score and teaching evaluation score.
+[01:27:51 -> 01:27:55]  In this video, we will introduce the fundamentals of regression analysis,
+[01:27:55 -> 01:27:59]  which we believe is the workhorse of statistical analysis.
+[01:28:00 -> 01:28:05]  Now, in terms of hypothesis testing, these tests measure the strength of relationship between two
+[01:28:05 -> 01:28:11]  or more variables and you have to run them independently, but if you know how to run
+[01:28:11 -> 01:28:15]  regression, we say as a practical data scientist, you can forego these tests and go straight to
+[01:28:15 -> 01:28:20]  regression, which is available in most spreadsheets and also in all statistical software.
+[01:28:22 -> 01:28:26]  So, here are the fundamental, the basics of regression model. First of all, you need a
+[01:28:26 -> 01:28:32]  question to answer using regression model. For instance, do male instructors get higher teaching
+[01:28:32 -> 01:28:36]  evaluations than female instructors, or does the beauty score decrease with the age of the
+[01:28:36 -> 01:28:41]  individual instructor, or is there an association between an instructor's looks and the teaching
+[01:28:41 -> 01:28:46]  evaluation score they receive? Do good-looking professors get higher teaching evaluation scores?
+[01:28:46 -> 01:28:53]  So, with these questions in mind, we focus now on the terminology of regression model. So,
+[01:28:53 -> 01:28:57]  there are two types of regression variables that we use. One is a dependent variable,
+[01:28:57 -> 01:29:02]  that is, the variable that we are really interested in, for example, the teaching
+[01:29:02 -> 01:29:08]  evaluation score of an individual instructor, and the explanatory variables that explain the
+[01:29:08 -> 01:29:13]  variance or differences or values of the dependent variable. So, for example, teaching evaluation
+[01:29:13 -> 01:29:19]  score could be explained by the looks or the gender or the English language proficiency of
+[01:29:19 -> 01:29:24]  an individual instructor. So, you have two types of variables, dependent and explanatory.
+[01:29:25 -> 01:29:31]  Now, let's look at the notation for a regression model. The dependent variable is donated as y,
+[01:29:31 -> 01:29:39]  so this y would be the teaching evaluation score, and the explanatory variables are denoted as x's,
+[01:29:39 -> 01:29:42]  so beauty, the gender, and the English language proficiency would be an x,
+[01:29:43 -> 01:29:48]  and the underlying assumption is that y is explained by x, that is, teaching evaluation
+[01:29:48 -> 01:29:56]  score y is explained by x, that is, the beauty score, or y is a function of x, which we write
+[01:29:56 -> 01:30:01]  as y is equal to function of x, that is, the teaching evaluation score is some function of
+[01:30:01 -> 01:30:09]  beauty. Statistically, if you run an estimate regression model, y is equal to some constant,
+[01:30:10 -> 01:30:17]  and then a weighting factor for the variable x, if it's a beauty score, then the weighting factor
+[01:30:17 -> 01:30:22]  for the beauty score, and the error term. An error term is whatever we cannot explain by the model
+[01:30:22 -> 01:30:29]  that goes into error term, and I will explain this a little more in a minute. So, y is equal to,
+[01:30:29 -> 01:30:35]  let's say the constant is beta naught, plus some factor or weight, which is beta 1 for x,
+[01:30:35 -> 01:30:41]  plus the error term, which we represent as epsilon, and then if you are familiar with your
+[01:30:41 -> 01:30:48]  basic statistics text, if there are more than one variables, then y is equal to beta naught,
+[01:30:48 -> 01:30:54]  that's the constant, plus beta 1, x1, beta 1 is the factor for one variable, that could be beauty,
+[01:30:54 -> 01:31:01]  plus beta 2, the other weight, explaining another x2, another variable such as English language
+[01:31:01 -> 01:31:06]  proficiency, so the weight for English language proficiency would be beta 2, and plus the epsilon,
+[01:31:06 -> 01:31:10]  which is the error term, explaining or capturing whatever the model couldn't capture.
+[01:31:11 -> 01:31:16]  If I had estimated a regression model using the dataset, teaching evaluations dataset,
+[01:31:16 -> 01:31:20]  it would look like the following. It would be the teaching evaluation score of an individual
+[01:31:20 -> 01:31:26]  instructor is equal to some constant, plus the weight for the beauty variable, and then times
+[01:31:26 -> 01:31:32]  the beauty score, plus the error. So here, teaching evaluation score is equal to, according to the
+[01:31:32 -> 01:31:39]  model, 3.998, that's the constant, plus the weight for beauty score, which is 0.133, plus the error,
+[01:31:40 -> 01:31:45]  and the error is epsilon, which is essentially the difference between the actual teaching
+[01:31:45 -> 01:31:51]  evaluation score that we have recorded in the dataset, and the one that we have forecasted
+[01:31:51 -> 01:31:56]  using this model. So the difference between the actual values and the forecasted values
+[01:31:56 -> 01:31:57]  is the error term.
+[01:32:05 -> 01:32:10]  In this video, we will illustrate how to use regression analysis in place of a t-test.
+[01:32:10 -> 01:32:15]  We will begin with a question, and the question is, is there a statistically
+[01:32:15 -> 01:32:19]  significant difference in teaching evaluation scores for men and women?
+[01:32:20 -> 01:32:24]  When we compute the averages while using the teaching evaluation dataset,
+[01:32:24 -> 01:32:30]  we find that the teaching evaluation score for women is around 3.9, and for men it's around 4.06.
+[01:32:31 -> 01:32:37]  The question is, is this difference, even though it's small, statistically significant?
+[01:32:37 -> 01:32:42]  We can run a t-test using Python and compute the statistical significance for the t-test.
+[01:32:43 -> 01:32:48]  Here, our conclusion is that the teaching evaluation score's difference between men and women
+[01:32:48 -> 01:32:50]  is statistically significant.
+[01:32:51 -> 01:32:54]  What if we were to do the same thing with the regression model?
+[01:32:54 -> 01:32:59]  We will do the linear regression in Python. We will be using the stats model library.
+[01:32:59 -> 01:33:04]  We will create a list for the independent variable, that is, the female variable,
+[01:33:04 -> 01:33:10]  which has been turned to a binary variable, where 1 equals female and 0 is male.
+[01:33:10 -> 01:33:15]  We will also create a list for the dependent variable, teaching evaluation score.
+[01:33:15 -> 01:33:18]  We will manually add the constant, beta zero.
+[01:33:19 -> 01:33:23]  Then we will fit and make predictions, and print out the model summary.
+[01:33:24 -> 01:33:26]  The model summary will print out a table like this.
+[01:33:29 -> 01:33:33]  But we are only interested in this part of this table for the t-test.
+[01:33:33 -> 01:33:38]  It prints out the coefficient error, t-statistics, and p-value.
+[01:33:38 -> 01:33:43]  We can see the t-statistics for the female variable is negative 3.25,
+[01:33:43 -> 01:33:46]  and the p-value is less than 0.05.
+[01:33:47 -> 01:33:52]  That means that there is a statistical difference in mean values for male and female instructors.
+[01:33:52 -> 01:33:58]  The coefficient means that you are most likely to lose about 0.17 marks for being a female.
+[01:33:59 -> 01:34:03]  We can see that the results from using a regression model and the conclusion is identical,
+[01:34:03 -> 01:34:05]  if we run a t-test.
+[01:34:14 -> 01:34:24]  When we are comparing the difference in means, or when we are comparing the averages between
+[01:34:24 -> 01:34:29]  groups that are more than two, we will use ANOVA, or analysis of variance.
+[01:34:29 -> 01:34:33]  We know that if there are only two groups, we can use the t-test.
+[01:34:34 -> 01:34:38]  But when we are comparing averages for more than two groups, we use analysis of variance.
+[01:34:39 -> 01:34:44]  Working with our teaching evaluation data set, we took the teaching evaluation scores and then
+[01:34:44 -> 01:34:50]  we wanted to see what would happen if we took the instructors and divided them into three groups,
+[01:34:50 -> 01:34:56]  40 years and younger, those between 40 and 57 years of age, and those that are 57 years or older.
+[01:34:57 -> 01:35:01]  We computed the average value for teaching evaluation score for the three groups.
+[01:35:02 -> 01:35:06]  We wanted to determine if the three mean values were statistically different.
+[01:35:07 -> 01:35:12]  To recap, we ran the analysis of variance test, which uses F-distribution.
+[01:35:13 -> 01:35:20]  The p-value is less than 0.05, so we rejected the null hypothesis that averages of the group are
+[01:35:20 -> 01:35:24]  equal and concluded that the differences are statistically significant.
+[01:35:25 -> 01:35:27]  Now, let us do this with a regression model.
+[01:35:28 -> 01:35:33]  We will use the stats model library and also import the OLS function.
+[01:35:33 -> 01:35:37]  We will create or initiate a linear model of the beauty score, which is our Y variable.
+[01:35:38 -> 01:35:41]  Please note that when dealing with a linear regression model,
+[01:35:41 -> 01:35:46]  the Y variable has to be a continuous variable. Otherwise, results will not be accurate.
+[01:35:47 -> 01:35:51]  Now, create the linear model and fit it using the fit function.
+[01:35:52 -> 01:35:56]  Use the ANOVA underscore IM function to create a table
+[01:35:56 -> 01:35:58]  that prints out the results of the test statistics.
+[01:35:58 -> 01:36:00]  The results will look like this.
+[01:36:00 -> 01:36:05]  It will print out the degree of freedom, the sum of square, F-statistics, and the p-value.
+[01:36:06 -> 01:36:10]  Like ANOVA from the SciPy package, we get the same results,
+[01:36:10 -> 01:36:14]  which is that we will reject the null hypothesis that averages of the group
+[01:36:14 -> 01:36:18]  are equal and conclude that the differences are statistically significant.
+[01:36:19 -> 01:36:23]  You can also turn the age group values into dummy values and run it like you run the regression for
+[01:36:24 -> 01:36:32]  t-test. To do that, you will need to create dummy variables for the age groups using the get
+[01:36:32 -> 01:36:39]  underscore dummies function in pandas. It will look like this, where one means they belong to
+[01:36:39 -> 01:36:46]  that group and zero means otherwise. Just like a binary variable, values can only belong to one
+[01:36:46 -> 01:36:52]  group. Run the same as you did for the t-test by fitting the variables into an OLS function,
+[01:36:52 -> 01:36:57]  predict, and print out the model summary. We will get results like this.
+[01:37:02 -> 01:37:07]  Taking a closer look, we can see the same results for the F-statistics and the p-value.
+[01:37:23 -> 01:37:28]  In this video, we will illustrate how one can use regression models in place of tests
+[01:37:28 -> 01:37:35]  conducted for correlation analysis. We will return to the basics. There are two types or mostly two
+[01:37:35 -> 01:37:41]  types of variables. First are the categorical variables for which we use chi-square tests
+[01:37:41 -> 01:37:47]  to determine if there is an association between the two. And second are the categorical variables,
+[01:37:47 -> 01:37:54]  or we could have continuous variables where we use the Pearson correlation test.
+[01:37:54 -> 01:38:00]  We will focus on just the continuous variables. We can plot two continuous variables in a scatter
+[01:38:00 -> 01:38:06]  plot. The teaching evaluation scores are on the y-axis and the normalized beauty scores are on
+[01:38:06 -> 01:38:12]  the x-axis. You could sort of see a relationship between the two variables. It's an upward sloping
+[01:38:12 -> 01:38:18]  type of a relationship. We see that as the beauty score increases, so does the teaching
+[01:38:18 -> 01:38:24]  evaluation score. Remember, we use the Pearson correlation test to determine the relationship
+[01:38:24 -> 01:38:30]  and its significance level. Now let's do the same in regression. Just like we did with the t-test
+[01:38:30 -> 01:38:35]  and the F-test, we will fit a linear model for both the beauty and evaluation score values,
+[01:38:36 -> 01:38:38]  and print out the model summary.
+[01:38:43 -> 01:38:51]  Taking a closer look, it prints out a p-value of 4.25 times 10 raised to power negative 5,
+[01:38:51 -> 01:38:56]  which is less than 0.05. That is very similar to when we run the Pearson r function.
+[01:38:57 -> 01:39:04]  It will also give us the r-squared value. That is, if we took the square root of 0.036,
+[01:39:04 -> 01:39:09]  it will give us 0.189, which is the same value as the correlation coefficient
+[01:39:09 -> 01:39:17]  from computing the Pearson r.

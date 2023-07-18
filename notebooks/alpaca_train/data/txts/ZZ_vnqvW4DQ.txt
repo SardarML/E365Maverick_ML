@@ -1,0 +1,62 @@
+[00:00:00 -> 00:00:08]  Agile is a set of values and principles, yet people are constantly asking about Agile methodology.
+[00:00:08 -> 00:00:12]  If you want to know more about Agile values and principles, take a look at my video called
+[00:00:12 -> 00:00:13]  What is Agile?
+[00:00:13 -> 00:00:18]  In this video, we're going to try to answer What is Agile methodology?
+[00:00:18 -> 00:00:20]  This is a bit of a trick question.
+[00:00:20 -> 00:00:25]  A methodology is a body of methods, procedures, and rules for a particular discipline, but
+[00:00:25 -> 00:00:31]  Agile values and principles explicitly avoid prescribing any particular methods or procedures.
+[00:00:31 -> 00:00:33]  Agile doesn't specify methods.
+[00:00:33 -> 00:00:36]  Agile is not a methodology.
+[00:00:36 -> 00:00:40]  This is probably a surprise for many people, but if you really take the time to look at
+[00:00:40 -> 00:00:45]  the Agile values and principles, you won't find any methodology there.
+[00:00:45 -> 00:00:49]  Instead, you will find guidance on how to choose methods and procedures that will work
+[00:00:49 -> 00:00:52]  best for your team.
+[00:00:52 -> 00:00:57]  The Agile values and principles don't try to prescribe the way your team should work.
+[00:00:57 -> 00:01:02]  Instead, they focus on helping you and your team think and interact in ways that achieve
+[00:01:02 -> 00:01:04]  agility.
+[00:01:04 -> 00:01:08]  Agility is the ability to continually adapt, the ability to constantly make improvements
+[00:01:08 -> 00:01:11]  to the way you work.
+[00:01:11 -> 00:01:15]  Understanding this is important because it explains why Agile explicitly avoids being
+[00:01:15 -> 00:01:17]  a methodology.
+[00:01:17 -> 00:01:22]  If Agile specified a methodology, it would necessarily be, well, less Agile.
+[00:01:22 -> 00:01:28]  Less able to adapt to the specific circumstances of your team in your organization.
+[00:01:28 -> 00:01:32]  So instead of telling you explicitly what to do, Agile gives you some values and principles
+[00:01:32 -> 00:01:37]  that your team can use to decide what you should do.
+[00:01:37 -> 00:01:42]  So if Agile is not a methodology, what about all the specific things you hear about Agile
+[00:01:42 -> 00:01:43]  teams doing?
+[00:01:43 -> 00:01:49]  What about stand-up meetings, product demos, retrospectives, planning poker, etc.?
+[00:01:49 -> 00:01:54]  While Agile is not a methodology, there are a number of methodologies teams can use to
+[00:01:54 -> 00:01:59]  follow the Agile principles and values.
+[00:01:59 -> 00:02:00]  Take Scrum for instance.
+[00:02:00 -> 00:02:04]  Scrum specifies a number of specific ways for teams to work.
+[00:02:04 -> 00:02:10]  This includes things like having daily stand-ups, fixed-length sprints, product demos, and retrospectives.
+[00:02:10 -> 00:02:15]  Many teams find Scrum to be a very good way of following Agile values and principles.
+[00:02:15 -> 00:02:19]  It provides a powerful methodology that assists in following Agile.
+[00:02:19 -> 00:02:24]  But it is important to note that just following these ceremonies doesn't make a team Agile.
+[00:02:24 -> 00:02:29]  They have to be following these ceremonies because it helps them align with the Agile
+[00:02:29 -> 00:02:31]  values and principles.
+[00:02:31 -> 00:02:34]  As a side note, some people will argue that Scrum is a framework and thus more flexible
+[00:02:34 -> 00:02:35]  than a methodology.
+[00:02:35 -> 00:02:39]  But the line between the two is fairly fuzzy, nuanced, and often depends on whether or not
+[00:02:39 -> 00:02:43]  someone has negative connotations of the word methodology.
+[00:02:43 -> 00:02:47]  For the purposes of this discussion, I'm using methodology but in a positive sense.
+[00:02:47 -> 00:02:53]  Scrum gives you powerful methods and processes for getting work done.
+[00:02:53 -> 00:02:58]  Extreme programming is another methodology that you'll encounter in software development.
+[00:02:58 -> 00:03:02]  It includes a number of practices like test-driven development and pair programming.
+[00:03:02 -> 00:03:06]  The extreme programming methodology gives teams methods and processes that can be used
+[00:03:06 -> 00:03:09]  to follow Agile values and principles.
+[00:03:09 -> 00:03:14]  For example, Agile principles say that teams should leverage change as a competitive advantage.
+[00:03:14 -> 00:03:18]  XP practices give methods for writing software that enables this.
+[00:03:18 -> 00:03:22]  So why do people still refer to Agile as a methodology?
+[00:03:22 -> 00:03:27]  Usually because they are confusing Agile, the values and principles, with the methods
+[00:03:27 -> 00:03:30]  and methodologies people use to follow those principles.
+[00:03:30 -> 00:03:35]  If your team is truly trying to follow Agile principles and values, your methodology will
+[00:03:35 -> 00:03:38]  evolve over time as your team grows and adapts.
+[00:03:38 -> 00:03:41]  After all, that is what it means to be Agile.
+[00:03:43 -> 00:03:47]  It may seem like a small thing, but every like and every subscription is very appreciated.
+[00:03:58 -> 00:04:02]  If you'd like to show your support for the creation of more of these videos, please take
+[00:04:02 -> 00:04:04]  a few seconds to click on the like and subscribe.
+[00:04:05 -> 00:04:10]  If you want to know more about Agile, click here for a cartoon explaining the Agile principles and values.
+[00:04:10 -> 00:04:13]  Also, I have a book on getting started with Agile.
+[00:04:13 -> 00:04:15]  If you'd like a free copy, click over here.
+[00:04:34 -> 00:04:37]  Thanks for watching!

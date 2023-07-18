@@ -1,0 +1,60 @@
+[00:00:00 -> 00:00:05]  Hi everybody and welcome to this short video about Socrative. Now I'm not going
+[00:00:05 -> 00:00:09]  to go into too much depth today because I'm really hoping that you will take the
+[00:00:09 -> 00:00:13]  opportunity to explore at your own pace. But I'm going to give you a bit of an
+[00:00:13 -> 00:00:17]  overview of the teacher view of Socrative so you can see how everything
+[00:00:17 -> 00:00:22]  works. Now when you first log in the most important thing to realize is that there
+[00:00:22 -> 00:00:27]  are two different pages depending on what you want to do. So when you want to
+[00:00:27 -> 00:00:30]  launch an activity, so when you've walked into the classroom and you're ready to
+[00:00:30 -> 00:00:34]  to use Socrative with students, you're going to be using the launch page.
+[00:00:34 -> 00:00:38]  Whereas when you want to build quizzes and you want to create content for
+[00:00:38 -> 00:00:42]  students, you're going to be using the quizzes tab along the top. You'll also
+[00:00:42 -> 00:00:48]  see that there are rooms, reports and results. The room here is customizing
+[00:00:48 -> 00:00:52]  what you want your room to be called. So when students log in, a great thing about
+[00:00:52 -> 00:00:56]  Socrative is they don't need to have lots and lots and lots of information in
+[00:00:56 -> 00:01:01]  order to access a room. It just asks them to type in their teachers room name.
+[00:01:01 -> 00:01:06]  So I made mine shut up to make it nice and easy for my students. The next
+[00:01:06 -> 00:01:11]  page here is reports, so you can always go back and download a spreadsheet of
+[00:01:11 -> 00:01:16]  student reports, which is really powerful. It's great to do before interviews. And
+[00:01:16 -> 00:01:21]  this last one here, it will show you if you have an activity that's currently
+[00:01:21 -> 00:01:26]  running with your students. So if you're still collecting data, you will see this
+[00:01:26 -> 00:01:31]  little icon here tells us that we are live. And to finish something, you just
+[00:01:31 -> 00:01:34]  click that finish button there. Okay, and I'm going to go back to the launch page.
+[00:01:34 -> 00:01:40]  So that gives you an overview of these. Now with your launch page here, there are
+[00:01:40 -> 00:01:44]  a few different activities that you can run. So when you're in class and you want
+[00:01:44 -> 00:01:49]  to ask a quick question, that is this one down the bottom. If you've used Poll
+[00:01:49 -> 00:01:54]  Everywhere before, this is very similar. It's just a matter of clicking it, asking
+[00:01:54 -> 00:01:57]  them a true or false question on the board, and you're then going to get their
+[00:01:57 -> 00:02:01]  responses very quickly. And this is really powerful, instant data from
+[00:02:01 -> 00:02:07]  students. Okay, if you would like to ask them some questions before they leave
+[00:02:07 -> 00:02:10]  the room, you know, but at the end of the lesson you want to see what they've
+[00:02:10 -> 00:02:15]  learned that lesson. Exit tickets are my absolute favorite tool within Socrative.
+[00:02:15 -> 00:02:19]  And you can see that I've had to prepare absolutely nothing for this. I've just
+[00:02:19 -> 00:02:24]  clicked exit ticket. And when students log on and they enter your room code,
+[00:02:24 -> 00:02:28]  they'll see three questions. The first is, how well did you understand today's
+[00:02:28 -> 00:02:34]  material? What did you learn in today's class? And then the last one here is just
+[00:02:34 -> 00:02:38]  the teacher's question. And this is where you would write a question on the board,
+[00:02:38 -> 00:02:42]  something specific to that lesson, and it's really testing their knowledge of
+[00:02:42 -> 00:02:48]  whether they learned what you were teaching them that day. Okay, here we go.
+[00:02:48 -> 00:02:53]  Go back to the launch page. These here, so quiz operates very much like a survey
+[00:02:53 -> 00:02:58]  monkey or a Google Doc, if you've used those before. And to create quizzes, you
+[00:02:58 -> 00:03:04]  need to use the quizzes bar here. So using this one here, clicking add a quiz,
+[00:03:04 -> 00:03:10]  you can either create or import. And if we click create here, you can see that
+[00:03:10 -> 00:03:14]  you get three options of questions. You can ask them multiple choice, true or
+[00:03:14 -> 00:03:20]  false, or short answer. And it's really powerful too, because you can auto mark
+[00:03:20 -> 00:03:24]  these as well. So when typing in a multiple choice question, you can decide
+[00:03:24 -> 00:03:31]  which of those is correct, and Socrative will auto mark that for you. Alright,
+[00:03:31 -> 00:03:40]  let's just go back to launch, if it will let us. Save and exit. Brilliant. So that
+[00:03:40 -> 00:03:44]  is, we've got quick question, exit ticket, and quiz. And this last one here is
+[00:03:44 -> 00:03:49]  space race. This is a lot of fun. Students love this. It's exactly the same
+[00:03:49 -> 00:03:53]  as a quiz, except they're doing it in groups and they're competing against one
+[00:03:53 -> 00:03:57]  another. And what's really great is when you conduct a space race, you pick your
+[00:03:57 -> 00:04:05]  quiz. Here we go. We are going to have two teams. The icon is going to be the
+[00:04:05 -> 00:04:11]  rocket today. No countdown. And we're going to give question feedback. So you
+[00:04:11 -> 00:04:15]  can see here that when we do this, you put students into your teams, and they
+[00:04:15 -> 00:04:19]  then work together to answer the questions in the quiz. And depending on
+[00:04:19 -> 00:04:23]  both the accuracy of their answers, and the speed of their answers, their
+[00:04:23 -> 00:04:26]  rockets will move across the page. And obviously they're competing to get their
+[00:04:26 -> 00:04:31]  rocket across to the other side the fastest. So that is a general explanation
+[00:04:31 -> 00:04:36]  of Socrative. I recommend having a play with all of the different tools, and
+[00:04:36 -> 00:04:40]  really experimenting with your class, and hearing what they say about it as well.
+[00:04:40 -> 00:04:43]  Good luck everybody!

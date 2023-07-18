@@ -1,0 +1,55 @@
+[00:00:00 -> 00:00:04]  Hallo und willkommen zu Projekte leicht gemacht. In dieser Folge geht es um die drei grundlegenden
+[00:00:04 -> 00:00:11]  Begriffe im Risikomanagement. Nämlich Ursachen, Risiken und Auswirkungen. Haben Sie sowas schon
+[00:00:11 -> 00:00:18]  mal gehört? Unser größtes Risiko ist der veraltete Maschinenpark. Oder das Server-Upgrade mitten im
+[00:00:18 -> 00:00:25]  Weihnachtsgeschäft. Das Risiko will ich nicht eingehen. Solche Sätze kennt wohl jeder. Doch
+[00:00:25 -> 00:00:32]  jetzt kommt's. Beide Aussagen sind falsch. Ganz sicher falsch sogar. Und das kann ich sagen ganz
+[00:00:32 -> 00:00:37]  ohne die konkrete Situation überhaupt zu kennen. Wollen Sie wissen, warum? Dann bleiben Sie dran.
+[00:00:37 -> 00:00:56]  Der veraltete Maschinenpark ist ein Risiko. Was ist falsch an diesem Satz? Nun, gleich vorweg. Es
+[00:00:56 -> 00:01:03]  ist das Wort Risiko. Das hat da nichts zu suchen. Im Risikomanagement kommt es sehr genau auf die
+[00:01:03 -> 00:01:09]  Begriffe an. Man unterscheidet streng zwischen den Ursachen des Risikos, dem Risiko selbst und
+[00:01:09 -> 00:01:15]  den Auswirkungen, die das Risiko haben kann. Und diese alten Maschinen, die sind eben kein Risiko,
+[00:01:15 -> 00:01:22]  sondern eine mögliche Ursache für Risiken. Zum Beispiel dafür, dass eine der Produktionsmaschinen
+[00:01:22 -> 00:01:28]  plötzlich ausfällt. Und die Auswirkung? Na, das wäre dann weniger Stückzahlen und damit verdienen
+[00:01:28 -> 00:01:35]  sie weniger Geld. Ich weiß, umgangssprachlich nutzen viele Menschen den Begriff des Risikos
+[00:01:35 -> 00:01:41]  so ungenau wie eingangs im Beispiel. Und das sollen die auch gern weiter so machen. Ist ja okay. Aber
+[00:01:41 -> 00:01:48]  wenn Sie eine Risikoanalyse machen wollen, dann müssen Sie wissen, ob Sie gerade von der Ursache,
+[00:01:48 -> 00:01:56]  einem Risiko oder dessen Auswirkungen reden. Warum ist das so wichtig? Na, wo sollen Ihre
+[00:01:56 -> 00:02:03]  Maßnahmen im Risikomanagement denn ansetzen? Bei den Ursachen? Bei den Auswirkungen? Sie müssen
+[00:02:03 -> 00:02:08]  diese Kette aus Ursache, Risiko und Auswirkungen im Blick haben. Wo in der Kette wollen Sie das
+[00:02:08 -> 00:02:14]  Problem dann angreifen? Wenn Sie da die Begriffe nicht korrekt benutzen, dann wird Sie a. niemand
+[00:02:14 -> 00:02:20]  verstehen und b. wissen Sie schlimmstenfalls selbst nicht, was Sie da gerade meinen. So,
+[00:02:20 -> 00:02:27]  schauen wir also mal genauer auf den Risikobegriff. Ein Risiko ist ein Ereignis und zwar mit negativen
+[00:02:27 -> 00:02:32]  Auswirkungen. Ganz wichtig, ohne negative Auswirkungen sprechen wir nicht von einem
+[00:02:32 -> 00:02:39]  Risiko. Ein Ereignis oder Umstand, der nicht sicher, sondern nur mit einer gewissen Wahrscheinlichkeit
+[00:02:39 -> 00:02:47]  eintritt. Klar, ne? Die Produktionsmaschine, die muss nicht, aber die kann ausfallen. Das ist ein
+[00:02:47 -> 00:02:56]  Risiko. Achtung, ein Ereignis kann ja auch etwas sein, das nicht passiert, was aber eigentlich
+[00:02:56 -> 00:03:05]  passieren sollte. Eine Lieferung trifft zum Beispiel nicht ein oder sowas. Ein paar weitere
+[00:03:05 -> 00:03:11]  Formulierungen dazu. Ein Risiko ist eine potenzielle negative Abweichung im Projektverlauf oder im
+[00:03:11 -> 00:03:19]  Prozess. Ein mögliches Problem, was noch nicht eingetreten ist, aber eintreten könnte. Eine
+[00:03:19 -> 00:03:27]  Unsicherheit, die sich auf die Ziele negativ auswirken kann. Ein Eintreten von ungeplanten
+[00:03:27 -> 00:03:36]  oder auch ein Nicht-Eintreten von geplanten Ereignissen. Achtung, nach den Definitionen,
+[00:03:36 -> 00:03:43]  wenn dann also das Risiko eintritt, ab dem Moment ist es kein Risiko mehr, sondern eine Tatsache.
+[00:03:43 -> 00:03:52]  Und spätestens dann braucht diese Tatsache ihre Aufmerksamkeit. Tja, was aber, wenn wir einen
+[00:03:52 -> 00:04:00]  negativen Umstand haben, der von vornherein besteht? Ganz klar, nach der Definition gerade,
+[00:04:00 -> 00:04:06]  ist das dann eben kein Risiko. Heißt natürlich nicht, dass es deswegen kein Problem für sie ist.
+[00:04:07 -> 00:04:14]  Im Gegenteil. Bereits bestehende Umstände können wunderbar der Quell für Risiken sein. Und das ist
+[00:04:14 -> 00:04:21]  die perfekte Überleitung zum nächsten Thema, nämlich den Risikoursachen. Ursachen sind
+[00:04:21 -> 00:04:30]  bereits existierende Umstände oder definitiv eintretende Ereignisse. Da gibt es also keine
+[00:04:30 -> 00:04:36]  Unsicherheit. Ursachen sind zum aktuellen Zeitpunkt bereits vorhanden. Oder es ist zumindest
+[00:04:36 -> 00:04:44]  absolut klar, dass sie auf jeden Fall eintreten werden. Da gibt es keine Unsicherheit. Eine Ursache
+[00:04:44 -> 00:04:50]  kann dann zum Eintritt von Risiken führen. Muss sie aber nicht. Logisch, oder? Das Risiko selbst,
+[00:04:50 -> 00:04:58]  das ist ja unsicher. Da wissen wir ja gar nicht, ob es wirklich kommt. Also, die Ursachen ganz am
+[00:04:58 -> 00:05:06]  Anfang als Quell des Übels. Daraus folgt das Risiko. Und wenn das Risiko dann tatsächlich
+[00:05:06 -> 00:05:12]  eintritt, dann hat es Auswirkungen, und zwar negative. Diese negativen Auswirkungen, das ist
+[00:05:12 -> 00:05:17]  der Schaden, der dann passiert. In einem Projekt sind es zum Beispiel die Projektziele aus Kosten,
+[00:05:17 -> 00:05:21]  Zeit und Leistung, die dann nicht mehr voll oder auch gar nicht mehr erreicht werden.
+[00:05:21 -> 00:05:27]  So, zum Abschluss noch mal die drei Begriffe, auch wenn sie vielleicht zum Hals raushängen
+[00:05:27 -> 00:05:35]  inzwischen. Ursachen, Risiken und wenn diese eintreffen, dann hat es negative Auswirkungen.
+[00:05:35 -> 00:05:43]  In den Folgevideos geht es dann um die Risikobewertung, Risikostrategien und Maßnahmen,
+[00:05:43 -> 00:05:49]  die sie ergreifen können. Und da tauchen die drei Begriffe Ursache, Risiko und Auswirkung immer wieder
+[00:05:49 -> 00:05:56]  auf. Unterm Video gibt es wie immer einige Links, zum Beispiel zu weiteren Videos und Blogartikeln
+[00:05:56 -> 00:06:02]  zum Thema Risiken und außerdem zu unseren Online-Kursen im Projektmanagement. Da lernen
+[00:06:02 -> 00:06:08]  Sie noch mehr über Risikomanagement und alles, was Sie im Projekt sonst noch so brauchen. Und
+[00:06:08 -> 00:06:12]  ganz zum Schluss wie immer, hat Ihnen das Video gefallen? Dann geben Sie uns einen Daumen hoch,
+[00:06:12 -> 00:06:16]  abonnieren Sie unseren Kanal. Wir sehen uns wieder, bleiben Sie dran!
+[00:06:26 -> 00:06:27]  Untertitel der Amara.org-Community

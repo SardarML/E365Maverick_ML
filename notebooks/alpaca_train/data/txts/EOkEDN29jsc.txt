@@ -1,0 +1,157 @@
+[00:00:00 -> 00:00:06]  If you're brand new to cybersecurity, you need to know how to make a risk-based decision.
+[00:00:12 -> 00:00:18]  Hey, Brandon Spencer here, and what I'd like to share with you today is a short video from one of our free training courses,
+[00:00:18 -> 00:00:20]  Start Security From Scratch.
+[00:00:20 -> 00:00:27]  It's important that you watch this entire video to get the full context of how we make risk decisions when it comes to cybersecurity.
+[00:00:27 -> 00:00:30]  You see, it's not all about tools and techniques.
+[00:00:30 -> 00:00:34]  This video is about understanding the true concept of risk management.
+[00:00:34 -> 00:00:39]  And risk management is a very important topic when it comes to cybersecurity.
+[00:00:39 -> 00:00:41]  That's what we do as cybersecurity professionals.
+[00:00:41 -> 00:00:45]  We manage security risks by doing all kinds of different things.
+[00:00:45 -> 00:00:49]  Performing a risk assessment is the first part of that equation.
+[00:00:49 -> 00:00:53]  And once you've done a risk assessment, now you need to make a decision.
+[00:00:53 -> 00:00:54]  You have all the data in front of you.
+[00:00:54 -> 00:01:02]  Now you need to decide what to do with the risk that you've discovered and then monitor that decision after you make it.
+[00:01:02 -> 00:01:05]  We don't just make a decision and say, yeah, do that.
+[00:01:05 -> 00:01:08]  We want to make sure we made the right decision.
+[00:01:08 -> 00:01:19]  Due care, deciding what to do, due diligence, maintaining that over time, monitoring it over time, making sure that that decision was properly made.
+[00:01:19 -> 00:01:22]  So what kind of risk decisions can we make?
+[00:01:22 -> 00:01:23]  These you're going to see.
+[00:01:23 -> 00:01:26]  You're definitely going to see these in the industry.
+[00:01:26 -> 00:01:30]  With risk, you can know a risk is there and just accept it.
+[00:01:30 -> 00:01:32]  Okay, it's there.
+[00:01:32 -> 00:01:33]  Good.
+[00:01:33 -> 00:01:34]  Whatever.
+[00:01:34 -> 00:01:39]  No matter what happens, you're always accepting the risk at some level.
+[00:01:39 -> 00:01:41]  And I'll explain why on the next chart.
+[00:01:41 -> 00:01:43]  You're always accepting the risk.
+[00:01:43 -> 00:01:46]  At some point, you have to get to the point where you're like, okay, I can accept that.
+[00:01:46 -> 00:01:47]  I can deal with that.
+[00:01:47 -> 00:01:49]  How much of that web server will we lose?
+[00:01:49 -> 00:01:50]  Well, it costs $20,000.
+[00:01:50 -> 00:01:53]  And if this thing gets attacked, it'll probably cost you $5,000 to fix it.
+[00:01:53 -> 00:01:55]  Okay, I can live with that.
+[00:01:55 -> 00:01:57]  You just accepted that.
+[00:01:57 -> 00:01:58]  See what I'm saying?
+[00:01:58 -> 00:02:00]  The other thing you can do is avoid it.
+[00:02:00 -> 00:02:04]  Meaning, hey, we want to add a new web server out to the open Internet.
+[00:02:04 -> 00:02:07]  No protections, no nothing.
+[00:02:07 -> 00:02:11]  That's going to be really, really hard for the company if this server gets attacked.
+[00:02:11 -> 00:02:12]  But I think we're okay.
+[00:02:12 -> 00:02:14]  Yeah, we're going to go ahead and avoid that problem.
+[00:02:14 -> 00:02:16]  And we're not going to do that.
+[00:02:16 -> 00:02:17]  That's avoiding the risk.
+[00:02:17 -> 00:02:22]  You don't introduce new changes that will increase the level of risk you've already accepted.
+[00:02:22 -> 00:02:24]  I know the risk right now.
+[00:02:24 -> 00:02:27]  Okay, imagine it this way.
+[00:02:27 -> 00:02:30]  You're standing on a cliff and you're looking down.
+[00:02:30 -> 00:02:32]  And down below you is like 500 feet.
+[00:02:32 -> 00:02:35]  You know the risk.
+[00:02:35 -> 00:02:40]  If you put a parachute on your back and you jump, you're accepting the risk.
+[00:02:40 -> 00:02:44]  If you say, yeah, I'm good and walk back to your vehicle or leave,
+[00:02:45 -> 00:02:47]  you're avoiding the risk of falling.
+[00:02:47 -> 00:02:48]  See what I'm saying?
+[00:02:48 -> 00:02:50]  That's what that's about.
+[00:02:50 -> 00:02:53]  Then you have mitigation.
+[00:02:53 -> 00:02:56]  This is what we do most of the time in security.
+[00:02:56 -> 00:02:58]  We reduce the risk to an acceptable level.
+[00:02:58 -> 00:03:01]  Again, you're accepting the risk no matter what.
+[00:03:01 -> 00:03:05]  We just reduce it to the point where you can say, okay, I'm not going to lose $20,000.
+[00:03:05 -> 00:03:06]  I'm only going to lose $5,000.
+[00:03:06 -> 00:03:07]  Perfect.
+[00:03:07 -> 00:03:08]  I'll take it.
+[00:03:08 -> 00:03:09]  I'll take it.
+[00:03:09 -> 00:03:11]  You just mitigate it and accept it.
+[00:03:11 -> 00:03:16]  Okay, well, mitigation is about applying countermeasures and controls
+[00:03:16 -> 00:03:19]  to make sure that you can get down to that level.
+[00:03:19 -> 00:03:22]  In other words, if you put a web server out in the open internet
+[00:03:22 -> 00:03:24]  and put no protection on it,
+[00:03:24 -> 00:03:27]  what do you think the risk of that thing getting compromised is?
+[00:03:27 -> 00:03:29]  100% in about 30 seconds.
+[00:03:29 -> 00:03:31]  It's going to be bad.
+[00:03:31 -> 00:03:36]  But what if we decide let's put it behind a firewall, protect it,
+[00:03:36 -> 00:03:38]  let's put endpoint security on it,
+[00:03:38 -> 00:03:43]  anti-virus, anti-malware, host-based intrusion prevention and detection systems on it,
+[00:03:43 -> 00:03:45]  and we protect it.
+[00:03:45 -> 00:03:48]  Okay, well, then we're not going to lose everything because it's pretty well protected.
+[00:03:48 -> 00:03:51]  Maybe somebody can take it down, but we'll be able to recover.
+[00:03:51 -> 00:03:53]  And if we recover, how much will that cost?
+[00:03:53 -> 00:03:54]  A couple hundred bucks.
+[00:03:54 -> 00:03:55]  Yeah.
+[00:03:55 -> 00:04:00]  So the mitigation was behind the firewall, adding anti-malware, anti-virus.
+[00:04:00 -> 00:04:02]  Those are security controls.
+[00:04:02 -> 00:04:06]  Adding security controls to mitigate risk and then accept it.
+[00:04:06 -> 00:04:09]  Then the last one is transferring risk.
+[00:04:09 -> 00:04:12]  That's also called risk assignment.
+[00:04:12 -> 00:04:13]  Insurance.
+[00:04:13 -> 00:04:14]  Think of insurance.
+[00:04:14 -> 00:04:16]  Same thing when you drive your vehicle.
+[00:04:16 -> 00:04:20]  In the United States, we are required to have insurance for our vehicles.
+[00:04:20 -> 00:04:24]  That's so the insurance can assume the risk of me running a red light
+[00:04:24 -> 00:04:26]  while I'm checking my cell phone.
+[00:04:26 -> 00:04:29]  That's what risk assignment is all about.
+[00:04:29 -> 00:04:34]  You can assign this to service providers, managed MSPs,
+[00:04:34 -> 00:04:37]  managed service providers, internet service providers.
+[00:04:37 -> 00:04:39]  They accept some risk for you.
+[00:04:39 -> 00:04:42]  Cloud service providers accept some level of risk for you.
+[00:04:42 -> 00:04:46]  So you transfer that risk to them, and then you accept the risk you want to.
+[00:04:46 -> 00:04:48]  Okay, that's transferring.
+[00:04:48 -> 00:04:53]  Most of the time, it's mitigating and accepting.
+[00:04:53 -> 00:04:55]  Avoiding happens as well.
+[00:04:55 -> 00:04:58]  There's some other terms that you might see in the certifications,
+[00:04:58 -> 00:05:00]  but these are the main four.
+[00:05:00 -> 00:05:01]  Okay.
+[00:05:01 -> 00:05:07]  Now that you've made your decision, how do you monitor that risk?
+[00:05:07 -> 00:05:12]  Well, what you want to do is if you knew that a threat existed
+[00:05:12 -> 00:05:17]  and you knew the attack vector, now you want to monitor the weakness,
+[00:05:17 -> 00:05:21]  and you want to monitor the controls to see if it's actually working.
+[00:05:21 -> 00:05:24]  So in that case, maybe you're looking at your logs.
+[00:05:24 -> 00:05:26]  Maybe you're doing audits,
+[00:05:26 -> 00:05:29]  and you're making sure that you're looking at the function
+[00:05:29 -> 00:05:31]  that it could possibly impact,
+[00:05:31 -> 00:05:35]  and you're just making sure that your security controls
+[00:05:35 -> 00:05:37]  are protecting this vulnerability
+[00:05:37 -> 00:05:40]  and preventing this attack from these threat actors.
+[00:05:40 -> 00:05:42]  Does this make sense?
+[00:05:42 -> 00:05:44]  Again, business-enabled.
+[00:05:44 -> 00:05:47]  This is what we're focused on, keeping the business going.
+[00:05:47 -> 00:05:51]  If the business doesn't go, they have no need for us to do security.
+[00:05:51 -> 00:05:57]  So you want to monitor and make sure that the decisions you've made are effective.
+[00:05:57 -> 00:05:58]  How do you do that?
+[00:05:58 -> 00:06:03]  You use all of the data possible.
+[00:06:03 -> 00:06:06]  Logs, questions, asking system administrators,
+[00:06:06 -> 00:06:08]  maybe network administrators.
+[00:06:08 -> 00:06:10]  Hey, have you seen any issues on the network lately?
+[00:06:10 -> 00:06:11]  No, it's all good.
+[00:06:11 -> 00:06:13]  Matter of fact, after you put that firewall in,
+[00:06:13 -> 00:06:16]  man, all the weird traffic stopped.
+[00:06:16 -> 00:06:17]  Wow, imagine that.
+[00:06:17 -> 00:06:19]  That's pretty awesome.
+[00:06:19 -> 00:06:22]  You could also do something called a cost-benefit analysis
+[00:06:22 -> 00:06:25]  where you actually say it took me this much money
+[00:06:25 -> 00:06:29]  and this much effort to implement this control.
+[00:06:29 -> 00:06:30]  How much did that cost?
+[00:06:30 -> 00:06:32]  Oh, it only cost $10,000.
+[00:06:32 -> 00:06:33]  What does it net us in return?
+[00:06:33 -> 00:06:37]  Well, if this function went down, that would cost us like $500,000.
+[00:06:37 -> 00:06:41]  Okay, well, we probably want to spend a little bit more money, right?
+[00:06:41 -> 00:06:44]  You just did a cost-benefit analysis.
+[00:06:44 -> 00:06:46]  And then you also want to make sure that you're keeping people informed
+[00:06:46 -> 00:06:48]  of the decisions that are being made,
+[00:06:48 -> 00:06:50]  whether you have stakeholders like your presidents,
+[00:06:50 -> 00:06:53]  maybe you have a CIO, chief information officer,
+[00:06:53 -> 00:06:55]  that's responsible for making these decisions,
+[00:06:55 -> 00:06:58]  and you want to make sure that you get buy-in from them,
+[00:06:58 -> 00:07:00]  that these were the right decisions.
+[00:07:00 -> 00:07:03]  Maybe you have to get buy-in from them in order to implement this.
+[00:07:03 -> 00:07:05]  I don't know your company structure.
+[00:07:05 -> 00:07:07]  It really all depends on your information system,
+[00:07:07 -> 00:07:11]  the business, organizational impacts, and a multitude of other things.
+[00:07:11 -> 00:07:14]  But it's important to thoroughly consider all of these things
+[00:07:14 -> 00:07:17]  and consider the things I showed you here in this video
+[00:07:17 -> 00:07:20]  when you make a security risk decision.
+[00:07:20 -> 00:07:22]  Now, if you like this video, please give it a thumbs up.
+[00:07:22 -> 00:07:23]  And if you're new here, welcome.
+[00:07:23 -> 00:07:26]  Please subscribe to the channel and click that notification bell
+[00:07:26 -> 00:07:29]  so that you'll be the first to know when a new video comes out.
+[00:07:29 -> 00:07:32]  Thanks for watching this video. We'll see you in the next one.
+[00:07:32 -> 00:07:33]  Take care.

@@ -1,0 +1,234 @@
+[00:00:00 -> 00:00:01]  Hey guys, Nick here with Techcore Duo.
+[00:00:01 -> 00:00:04]  In this video, we're going to do a really quick install
+[00:00:04 -> 00:00:06]  of an amazing application called Remotely.
+[00:00:06 -> 00:00:10]  This is an open-source project created by a single user,
+[00:00:10 -> 00:00:12]  and it allows you to have remote control access
+[00:00:12 -> 00:00:13]  to other devices.
+[00:00:13 -> 00:00:17]  It's pretty much a team viewer, if you would say,
+[00:00:17 -> 00:00:19]  open-source application that you host yourself.
+[00:00:19 -> 00:00:20]  So let's get started.
+[00:00:26 -> 00:00:28]  So the website is remotely.one.
+[00:00:28 -> 00:00:30]  This kind of tells you it's a powerful tool,
+[00:00:30 -> 00:00:32]  instant support, it's a smooth remote desktop,
+[00:00:32 -> 00:00:34]  remote scripting, and rich autocomplete
+[00:00:34 -> 00:00:37]  to maximize your IT support efficiency.
+[00:00:37 -> 00:00:40]  So what this does is it allows you to install agents
+[00:00:40 -> 00:00:44]  on computers and essentially monitor and manage them.
+[00:00:44 -> 00:00:47]  You can connect to them, you can chat with them,
+[00:00:47 -> 00:00:48]  you can run scripts.
+[00:00:48 -> 00:00:52]  It is an amazing IT tool, and it is completely free.
+[00:00:52 -> 00:00:56]  It is open-source and can't believe that it is,
+[00:00:56 -> 00:00:57]  but it is fantastic, and I've been using it
+[00:00:58 -> 00:00:59]  for the past couple of weeks.
+[00:00:59 -> 00:01:03]  So as you can see, there is the unattended sessions.
+[00:01:03 -> 00:01:04]  They have a session by invite,
+[00:01:04 -> 00:01:07]  where you can download the agent from the website.
+[00:01:07 -> 00:01:10]  You would just then supply the session code.
+[00:01:10 -> 00:01:14]  There's remote scripting and integrated chat,
+[00:01:14 -> 00:01:16]  which is a great feature.
+[00:01:17 -> 00:01:19]  So, and it goes through some other notable features here,
+[00:01:19 -> 00:01:22]  such as drag and drop and remote audio streaming and so on.
+[00:01:24 -> 00:01:26]  And so then we can get started right here.
+[00:01:26 -> 00:01:28]  They do have instant support clients
+[00:01:28 -> 00:01:31]  that you can download from the website,
+[00:01:31 -> 00:01:33]  server packages, and the server files,
+[00:01:33 -> 00:01:34]  if you need that only.
+[00:01:34 -> 00:01:38]  So one thing to note is that this does not work on Mac.
+[00:01:38 -> 00:01:42]  This only works on Linux and on Windows machines.
+[00:01:42 -> 00:01:44]  So what we wanna do in this video
+[00:01:44 -> 00:01:47]  is install our server on Ubuntu.
+[00:01:47 -> 00:01:52]  I have an image of Ubuntu, server 20.04,
+[00:01:52 -> 00:01:54]  and we're going to run this script
+[00:01:54 -> 00:01:56]  and get remotely set up and going.
+[00:01:58 -> 00:02:02]  So the first thing we do want to set up is our DNS.
+[00:02:02 -> 00:02:05]  So from here, I'm already logged into the DNS settings here.
+[00:02:06 -> 00:02:09]  What I wanna do is add a custom record.
+[00:02:09 -> 00:02:10]  It's going to be an A record.
+[00:02:10 -> 00:02:14]  I'm going to name it remotely and leave it at that.
+[00:02:14 -> 00:02:18]  So what that would make it is remotely.techcordoa.com,
+[00:02:18 -> 00:02:20]  and then add in my external IP address,
+[00:02:20 -> 00:02:24]  which is something you can get from whatismyip.com,
+[00:02:24 -> 00:02:26]  add that in here, and press that add button.
+[00:02:26 -> 00:02:28]  So I've already added mine.
+[00:02:28 -> 00:02:29]  Now the next step we wanna do
+[00:02:29 -> 00:02:31]  is make sure that we have our servers
+[00:02:31 -> 00:02:33]  available from the outside.
+[00:02:34 -> 00:02:38]  So I have an HTTPS and HTTP record in here.
+[00:02:38 -> 00:02:40]  I just have to point it to the right server.
+[00:02:40 -> 00:02:42]  So let me find out what that is right now.
+[00:02:42 -> 00:02:44]  Okay, so I am now in my server.
+[00:02:44 -> 00:02:45]  This is my Ubuntu server.
+[00:02:45 -> 00:02:47]  It is a fresh install.
+[00:02:47 -> 00:02:51]  All I wanna do is do an IP address
+[00:02:51 -> 00:02:52]  to get the correct address,
+[00:02:52 -> 00:02:57]  which is 192.168.86.43.
+[00:02:57 -> 00:02:58]  We will minimize that.
+[00:02:59 -> 00:03:02]  And let's edit both of these services.
+[00:03:10 -> 00:03:12]  Okay, now that that is done,
+[00:03:12 -> 00:03:16]  we want this server package install for Ubuntu.
+[00:03:16 -> 00:03:18]  So what you could do is,
+[00:03:18 -> 00:03:19]  if you hover over this,
+[00:03:19 -> 00:03:21]  you can kind of see where it's pointing to.
+[00:03:21 -> 00:03:23]  You can right click on it and copy link address
+[00:03:24 -> 00:03:25]  and paste it into a notepad.
+[00:03:25 -> 00:03:27]  So I just have it here.
+[00:03:27 -> 00:03:28]  Paste it already.
+[00:03:28 -> 00:03:30]  The server install.
+[00:03:31 -> 00:03:33]  So the command is gonna be wget
+[00:03:34 -> 00:03:37]  and then this GitHub link.
+[00:03:37 -> 00:03:38]  So I'll minimize that.
+[00:03:39 -> 00:03:41]  Let me open up the server here
+[00:03:41 -> 00:03:43]  and I'm going to paste that and hit enter.
+[00:03:45 -> 00:03:48]  It downloaded that file real quick.
+[00:03:48 -> 00:03:51]  Let's do an LS here and it is in our folder.
+[00:03:51 -> 00:03:55]  So we can do a chmod 777
+[00:03:55 -> 00:03:57]  and then type in the name of the file
+[00:03:59 -> 00:04:02]  that will let us access that file.
+[00:04:02 -> 00:04:07]  And we could do a sudo period forward slash
+[00:04:10 -> 00:04:11]  and then the name of the file.
+[00:04:11 -> 00:04:14]  All right, so this is the command that will run the script.
+[00:04:14 -> 00:04:15]  And so what this script is gonna do,
+[00:04:15 -> 00:04:18]  this script will set up NGINX on your server.
+[00:04:19 -> 00:04:21]  It will download the server files for remotely
+[00:04:21 -> 00:04:23]  and it's going to set up Let's Encrypt
+[00:04:23 -> 00:04:25]  to ensure that the website is secure.
+[00:04:25 -> 00:04:28]  So, and that was the reason why we opened
+[00:04:28 -> 00:04:29]  the ports on the firewall
+[00:04:29 -> 00:04:33]  and that we set up the DNS to point towards our server.
+[00:04:33 -> 00:04:35]  So I will click enter on this
+[00:04:38 -> 00:04:40]  and then we're gonna type in the password.
+[00:04:43 -> 00:04:44]  And let's try that one more time.
+[00:04:46 -> 00:04:47]  And here we go.
+[00:04:47 -> 00:04:49]  So it's gonna ask you for a path.
+[00:04:49 -> 00:04:53]  We want it to go to the default location.
+[00:04:53 -> 00:04:55]  We type in the domain name now.
+[00:04:55 -> 00:05:00]  So it's gonna be remotely.techcoreduo.com and hit enter.
+[00:05:03 -> 00:05:05]  You can go through a few of these steps here.
+[00:05:05 -> 00:05:06]  It's gonna download some packages.
+[00:05:12 -> 00:05:14]  And let's let this run for a little bit.
+[00:05:14 -> 00:05:17]  Okay, finally stopped here asking for an email address
+[00:05:17 -> 00:05:19]  for the renewal and security notices.
+[00:05:19 -> 00:05:22]  So let us type in an email address here.
+[00:05:22 -> 00:05:27]  I'm just gonna type in techcoreduo.gmail.com and hit enter.
+[00:05:30 -> 00:05:31]  Now it's gonna ask if we agree.
+[00:05:31 -> 00:05:34]  Hit press A and then next.
+[00:05:35 -> 00:05:37]  And then do you wanna share your email?
+[00:05:37 -> 00:05:39]  I believe I already have it set to share.
+[00:05:39 -> 00:05:40]  So I'm gonna hit no for that.
+[00:05:42 -> 00:05:45]  And it's like the appropriate number of comma spaces.
+[00:05:45 -> 00:05:47]  We're just gonna leave it as shown.
+[00:05:47 -> 00:05:50]  So remotely.techcoreduo.com and hit enter.
+[00:05:51 -> 00:05:54]  And now it's going to get the certificate for us.
+[00:05:54 -> 00:05:56]  And we'll let this run quickly.
+[00:05:56 -> 00:06:00]  So the next question is, do we want it to redirect to HTTPS?
+[00:06:00 -> 00:06:01]  And the answer is yes.
+[00:06:01 -> 00:06:03]  We'll hit two on that and click enter.
+[00:06:05 -> 00:06:06]  And that's it.
+[00:06:06 -> 00:06:07]  So it has created the server for us,
+[00:06:07 -> 00:06:10]  installed NGINX, download the files
+[00:06:10 -> 00:06:14]  and set up Let's Encrypt for a secure certificate.
+[00:06:14 -> 00:06:17]  So the only thing we need to do now
+[00:06:17 -> 00:06:19]  is head over to the site.
+[00:06:19 -> 00:06:20]  So you can minimize this.
+[00:06:20 -> 00:06:25]  We can open up remotely.techcoreduo.com and enter.
+[00:06:29 -> 00:06:31]  And here we are.
+[00:06:31 -> 00:06:32]  We are ready to go.
+[00:06:32 -> 00:06:36]  We can click on register, type in an email address.
+[00:06:36 -> 00:06:41]  I will type in techcoreduo.gmail.com and a password.
+[00:06:42 -> 00:06:46]  I'm going to just type in a random password here.
+[00:06:49 -> 00:06:52]  So we just got into our server.
+[00:06:52 -> 00:06:55]  So as you can see here, we have no devices.
+[00:06:55 -> 00:06:57]  We can see that there's a console here
+[00:06:57 -> 00:06:58]  and this is kind of the remotely console
+[00:06:58 -> 00:07:00]  that you can manage some items here.
+[00:07:01 -> 00:07:03]  Go back to the grid here.
+[00:07:03 -> 00:07:05]  We can hit on downloads.
+[00:07:05 -> 00:07:08]  And here are a bunch of downloads for you to use
+[00:07:08 -> 00:07:10]  as well as commands to get this installed.
+[00:07:12 -> 00:07:14]  So there's a 64-bit version here.
+[00:07:14 -> 00:07:16]  We can download that exe file.
+[00:07:17 -> 00:07:20]  That's for instant desktop sharing.
+[00:07:20 -> 00:07:22]  If we want the installable agents,
+[00:07:22 -> 00:07:24]  we can download the files from here.
+[00:07:24 -> 00:07:27]  So Windows Installer right there.
+[00:07:27 -> 00:07:30]  So if we click on this link here,
+[00:07:31 -> 00:07:33]  we'll do a run anyway on that.
+[00:07:36 -> 00:07:38]  And as you can see,
+[00:07:38 -> 00:07:40]  this is going to be the instant support.
+[00:07:42 -> 00:07:43]  Link.
+[00:07:43 -> 00:07:47]  So it's asking for the server name.
+[00:07:47 -> 00:07:52]  You would type in remotely.techcoreduo.com.
+[00:07:52 -> 00:07:53]  Hit okay.
+[00:07:54 -> 00:07:56]  And it's going to give you a session key.
+[00:07:56 -> 00:07:57]  And there's the session key.
+[00:07:57 -> 00:08:00]  So you would then provide this to the person
+[00:08:00 -> 00:08:02]  that on the other end of remotely.
+[00:08:02 -> 00:08:06]  So let's say you send this out to a family member,
+[00:08:06 -> 00:08:08]  a client, anyone that you want,
+[00:08:08 -> 00:08:10]  and they would install this.
+[00:08:10 -> 00:08:11]  It would add the agent,
+[00:08:11 -> 00:08:15]  and you would remote in using this ID.
+[00:08:15 -> 00:08:16]  We'll close that.
+[00:08:17 -> 00:08:19]  And then there's the installer.
+[00:08:19 -> 00:08:21]  So let me click on run anyway,
+[00:08:21 -> 00:08:23]  and open this installer also.
+[00:08:23 -> 00:08:25]  You can type in the server URL here
+[00:08:25 -> 00:08:27]  and get this installed on the machine
+[00:08:27 -> 00:08:28]  for unattended access
+[00:08:28 -> 00:08:31]  so that you can connect to it whenever you want
+[00:08:31 -> 00:08:34]  without having them supply you with an ID
+[00:08:34 -> 00:08:36]  every single time.
+[00:08:36 -> 00:08:40]  So let's head back to the home here,
+[00:08:40 -> 00:08:42]  and let's get this installed on a computer.
+[00:08:42 -> 00:08:44]  So I have a laptop next to me.
+[00:08:44 -> 00:08:47]  I have it set up with Quick Connect right now.
+[00:08:49 -> 00:08:50]  Quick Assist here.
+[00:08:50 -> 00:08:51]  So I'm going to open this up.
+[00:08:53 -> 00:08:55]  And as you can see, I have the remotely installer here.
+[00:08:55 -> 00:08:57]  I will double click on this.
+[00:08:58 -> 00:08:59]  Hit yes.
+[00:08:59 -> 00:09:04]  And let's type in the server name.
+[00:09:05 -> 00:09:09]  Let me make this a little bit bigger, easier to see.
+[00:09:11 -> 00:09:12]  Perfect.
+[00:09:13 -> 00:09:16]  But what we want to do is make sure we type in HTTPS.
+[00:09:18 -> 00:09:20]  Then hit install.
+[00:09:22 -> 00:09:23]  It's installing the agent now.
+[00:09:26 -> 00:09:27]  Should not be too long.
+[00:09:29 -> 00:09:33]  So we'll just minimize this, get that out of the way.
+[00:09:33 -> 00:09:34]  It's extracting files.
+[00:09:37 -> 00:09:39]  And we'll be back in just a minute.
+[00:09:41 -> 00:09:42]  All right, so the computer came online.
+[00:09:42 -> 00:09:44]  As you can see here, it's got the name
+[00:09:44 -> 00:09:48]  and all the information you need about the machine itself.
+[00:09:48 -> 00:09:50]  From the actions side here, you can do a chat with it.
+[00:09:51 -> 00:09:54]  So we can click on that, and let's do a test.
+[00:09:56 -> 00:09:59]  So that's going to come up and send a chat to them.
+[00:10:00 -> 00:10:03]  So let's just move this out of the way,
+[00:10:03 -> 00:10:05]  and let's hit actions, and you can see view only.
+[00:10:05 -> 00:10:08]  You can edit the properties of this device.
+[00:10:08 -> 00:10:10]  But let's try the remote control.
+[00:10:11 -> 00:10:13]  What that's going to do is open up a new tab.
+[00:10:13 -> 00:10:15]  Do we want to allow copy paste?
+[00:10:15 -> 00:10:17]  Yeah, we do.
+[00:10:17 -> 00:10:18]  And look at that.
+[00:10:18 -> 00:10:20]  So look, tech or duo, this is a test.
+[00:10:20 -> 00:10:23]  We can type back test.
+[00:10:24 -> 00:10:26]  Let's minimize that, get this out of the way.
+[00:10:27 -> 00:10:30]  And as you can see here on the left,
+[00:10:30 -> 00:10:33]  there are a ton of options here that are really great.
+[00:10:33 -> 00:10:35]  You can adjust the quality.
+[00:10:35 -> 00:10:39]  You can look at the different monitors,
+[00:10:39 -> 00:10:40]  disconnect to a file, transfer it.
+[00:10:40 -> 00:10:42]  So we can do a download file,
+[00:10:42 -> 00:10:44]  and we can select files from here.
+[00:10:44 -> 00:10:45]  We can drag and drop it.
+[00:10:47 -> 00:10:50]  We can invite others to come in, and so on and so forth.
+[00:10:50 -> 00:10:52]  This is a fantastic tool.
+[00:10:52 -> 00:10:54]  All right, guys, so that's it for today's video.
+[00:10:54 -> 00:10:58]  As you can see, this is a fantastic tool for IT people,
+[00:10:58 -> 00:11:00]  such as myself.
+[00:11:00 -> 00:11:02]  I like to remote into my family's machines,
+[00:11:02 -> 00:11:04]  friends' machines if needed.
+[00:11:04 -> 00:11:07]  And if you want, you could use this as a commercial solution
+[00:11:07 -> 00:11:10]  and remote into your clients' machines.
+[00:11:10 -> 00:11:13]  It is fantastic, and I highly recommend it.

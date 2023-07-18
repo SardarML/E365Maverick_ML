@@ -1,0 +1,70 @@
+[00:00:00 -> 00:00:05]  Hey Leute, heute zeige ich Euch mal wie man schriftliches Wurzelziehen machen kann und
+[00:00:05 -> 00:00:09]  im nächsten Video erkläre ich auch warum das funktioniert, aber jetzt geht's einfach
+[00:00:09 -> 00:00:13]  nur drum welche Schritte man machen muss um aus einer Zahl schriftlich die Wurzel ziehen
+[00:00:13 -> 00:00:14]  zu können.
+[00:00:14 -> 00:00:18]  Und bevor man anfängt muss man sich natürlich auch eine Zahl überlegen aus der man überhaupt
+[00:00:18 -> 00:00:19]  die Wurzel ziehen will.
+[00:00:19 -> 00:00:26]  Dafür nehmen wir uns mal einen Zufallszellengenerator unserer Wahl und generieren uns mal eine Zufallszahl.
+[00:00:26 -> 00:00:30]  Das ist also die 64.022.
+[00:00:30 -> 00:00:38]  Also schauen wir doch mal was die Wurzel aus 64.022 ist.
+[00:00:38 -> 00:00:45]  Der erste Schritt besteht darin von hinten bzw. vom Komma aus die Zahl in 2er Blöcke
+[00:00:45 -> 00:00:52]  einzuteilen, also 6, 40, 22 und jetzt sich den ersten Block zu nehmen, bei uns also hier
+[00:00:52 -> 00:00:57]  nur die 6 einzeln und jetzt die größte Quadratzahl zu suchen die da noch reinpasst.
+[00:00:57 -> 00:01:04]  9 ist schon zu groß, 4 passt noch rein und dann haben wir damit die erste Ziffer als
+[00:01:04 -> 00:01:10]  2 gefunden, weil 2 ins Quadrat als 4 noch in unseren ersten Block reinpasst.
+[00:01:10 -> 00:01:17]  Den subtrahieren wir jetzt, kommt also 2 raus und ziehen uns den nächsten Block mit herunter.
+[00:01:17 -> 00:01:25]  Und jetzt verdoppeln wir das bisherige Ergebnis immer, macht also hier 4 und jetzt müssen
+[00:01:25 -> 00:01:31]  wir an das bisher verdoppelte Ergebnis eine Ziffer anhängen und dann mit dieser Ziffer
+[00:01:31 -> 00:01:32]  multiplizieren.
+[00:01:32 -> 00:01:37]  Also in dem Fall hänge ich hier eine Ziffer dran, dann wird hier eine 45 draus und jetzt
+[00:01:37 -> 00:01:40]  multipliziere ich die 45 nochmal mal 5.
+[00:01:40 -> 00:01:48]  Das macht also 5 mal 5 ist 5 merkt 2 und das sind 225 und ich muss hier nicht irgendeine
+[00:01:48 -> 00:01:52]  Ziffer nehmen, sondern ich muss die größte Ziffer nehmen, so dass wenn ich mit der Ziffer
+[00:01:52 -> 00:01:56]  nochmal multipliziere, ich immer noch kleiner gleich dieser Zahl bin.
+[00:01:56 -> 00:01:59]  Würde ich hier die 6 nehmen, wäre ich schon wieder zu groß und deswegen ist die 5 wirklich
+[00:01:59 -> 00:02:05]  die größte Ziffer, so dass das hier funktioniert und damit auch die nächste Ziffer im Ergebnis
+[00:02:05 -> 00:02:06]  unserer Wurzel.
+[00:02:06 -> 00:02:13]  Jetzt können wir hier wieder subtrahieren, da müsste also 15 rauskommen, wenn ich mich
+[00:02:13 -> 00:02:19]  nicht vertue, können die nächsten Block runterholen, also die 2 und die 2 und ja ich
+[00:02:19 -> 00:02:26]  mache mal hier noch ein Drennzeichen rein, verdoppeln jetzt wieder das bisherige Ergebnis,
+[00:02:26 -> 00:02:32]  wird also 50 und jetzt müssen wir hier wieder eine Ziffer anhängen, das wird also 500 mit
+[00:02:32 -> 00:02:37]  einer Ziffer mal diese Ziffer und da ich ja hier 1500 habe, wird das wohl mit der 3 ziemlich
+[00:02:37 -> 00:02:38]  gut passen.
+[00:02:38 -> 00:02:46]  Das ergibt dann hier also 1509, wenn ich halt 503 mit der 3 multipliziere und damit sind
+[00:02:46 -> 00:02:49]  wir auch gerade so drunter, deswegen wird es auch mit der 4 nicht mehr funktionieren
+[00:02:49 -> 00:02:55]  und die 3 ist wahrscheinlich oder ziemlich sicher die nächste Ziffer im Ergebnis und
+[00:02:55 -> 00:02:58]  jetzt können wir hier wieder subtrahieren um weiterzumachen.
+[00:02:59 -> 00:03:06]  Das müsste also 13 ergeben, wenn ich mich hier auch nicht vertan habe und jetzt holen
+[00:03:06 -> 00:03:12]  wir uns 2 Null hinter dem Komma nach unten als nächsten Block und da wir das Komma überschreiten
+[00:03:12 -> 00:03:17]  kommt jetzt auch ein Komma im Ergebnis, aber der Rest kann eigentlich auch wieder wie gewohnt
+[00:03:17 -> 00:03:18]  weitergehen.
+[00:03:18 -> 00:03:26]  Wir verdoppeln das bisherige Ergebnis, ergibt jetzt also 506 und müssen jetzt eine Ziffer
+[00:03:26 -> 00:03:32]  anhängen, sodass wir immer noch in 1300 reinpassen, aber wenn ich hier sogar eine
+[00:03:32 -> 00:03:38]  1 dran hänge, dann steht ja hier 5061, was schon größer wird als 1300, deswegen kann
+[00:03:38 -> 00:03:45]  hier nur eine 0 dran und dann ergibt die Multiplikation auch 0 und 0 ist auch dann die erste Stelle
+[00:03:45 -> 00:03:47]  hinter dem Komma im Ergebnis.
+[00:03:47 -> 00:03:53]  Liegt wahrscheinlich auch daran, dass wir halt hier mit der 3 wirklich fast an die 1522
+[00:03:53 -> 00:03:54]  rangekommen sind.
+[00:03:54 -> 00:03:57]  Und jetzt könnte man wieder subtrahieren und das ganze weitermachen, allerdings ist
+[00:03:57 -> 00:04:02]  das hier eine irrationale Zahl, deswegen wird es hier noch unendlich lange weitergehen und
+[00:04:02 -> 00:04:03]  dafür haben wir jetzt keine Zeit.
+[00:04:03 -> 00:04:07]  Wir könnten allerdings jetzt nochmal überprüfen ob das ganze auch wirklich stimmt und mal
+[00:04:07 -> 00:04:16]  die Wurzel aus 64022 ausrechnen und das ist in der Tat 253,0 und dann würde es mit 2569
+[00:04:16 -> 00:04:17]  weitergehen.
+[00:04:17 -> 00:04:19]  Wer das weiterrechnen will, kann das ja tun.
+[00:04:19 -> 00:04:23]  Und so funktioniert schriftliches Wurzelziehen.
+[00:04:23 -> 00:04:28]  Übrigens ganz cool, dass mein Tablet irgendwie magnetisch ist und an meinem Whiteboard haftet.
+[00:04:28 -> 00:04:29]  Naja, wer es braucht.
+[00:04:29 -> 00:04:34]  Man könnte sich jetzt fragen, warum das gerade so und nicht anders funktioniert, das versuche
+[00:04:34 -> 00:04:38]  ich mal in meinem nächsten Video etwas zu beleuchten und vielleicht hat der eine oder
+[00:04:38 -> 00:04:42]  andere sogar eine andere Frage noch im Kopf, wahrscheinlich ist es niemandem aufgefallen,
+[00:04:42 -> 00:04:49]  aber als ich die Zufallszahl generiert habe, war ich auf meiner Website und hier unten
+[00:04:49 -> 00:04:54]  war nicht nur Youtube, Facebook und Twitter am Start, sondern auch ein Instagram Logo,
+[00:04:54 -> 00:05:00]  denn ich bin jetzt auch mit dem allerneuesten Trend mitgegangen und habe jetzt Instagram.
+[00:05:00 -> 00:05:02]  Warum nicht.
+[00:05:02 -> 00:05:08]  Hier drüben müsste Youtube jetzt noch ein Video von meinem Kanal für Euch ausgewählt
+[00:05:08 -> 00:05:13]  haben, was zu Euch passen könnte und da könnt ihr draufklicken wenn ihr wollt, müsst aber
+[00:05:13 -> 00:05:14]  natürlich nicht.
+[00:05:14 -> 00:05:18]  Ich wünsche Euch auf alle Fälle noch einen schönen Tag und vielleicht viel Spaß mit
+[00:05:18 -> 00:05:21]  dem schriftlichen Wurzelziehen.
+[00:05:21 -> 00:05:21]  Tschau

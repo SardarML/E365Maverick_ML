@@ -1,0 +1,38 @@
+[00:00:00 -> 00:00:06]  So, you're probably wondering about measurements like volume, area and density.
+[00:00:06 -> 00:00:09]  Where do they fit into the fundamental qualities?
+[00:00:09 -> 00:00:13]  They are what we call derived quantities.
+[00:00:13 -> 00:00:17]  This means that they are made out of other major quantities.
+[00:00:17 -> 00:00:25]  There are a number of other derived quantities like area, volume, density, pressure, velocity,
+[00:00:25 -> 00:00:32]  speed, weight, acceleration, force, energy and power.
+[00:00:32 -> 00:00:38]  But in this lesson, we are going to focus on area, volume and density.
+[00:00:38 -> 00:00:45]  Mass, length and time are what we call the basic physical qualities.
+[00:00:45 -> 00:00:50]  And it's from these qualities that area, volume and density are derived.
+[00:00:50 -> 00:00:54]  Let's look at area first.
+[00:00:54 -> 00:00:57]  Area is the measurement of the size of a surface.
+[00:00:57 -> 00:01:02]  You calculate it by multiplying the length by the width.
+[00:01:02 -> 00:01:09]  It will be the length in meters multiplied by the width in meters.
+[00:01:09 -> 00:01:19]  Meters are SI units as you know, so the derived SI unit for area will be meters squared.
+[00:01:19 -> 00:01:24]  The next derived SI unit we will look at is for volume.
+[00:01:24 -> 00:01:29]  Volume is the measurement of how much space an object occupies.
+[00:01:29 -> 00:01:35]  The volume of a regular cube can be calculated with the following formula.
+[00:01:35 -> 00:01:40]  Length multiplied by width multiplied by height.
+[00:01:40 -> 00:01:46]  The SI units are in meters, so the answer will be in cubic meters.
+[00:01:46 -> 00:01:52]  Depending on the size of the object, you may use millimeters or centimeters.
+[00:01:52 -> 00:01:59]  So these will be cubic millimeters or cubic centimeters.
+[00:01:59 -> 00:02:03]  The next derived SI unit is density.
+[00:02:03 -> 00:02:07]  Density can be defined as the mass per unit volume.
+[00:02:07 -> 00:02:14]  Basically, it tells us how much kilograms are in every cubic meter of the object.
+[00:02:14 -> 00:02:20]  We measure it by dividing the mass in kilograms by the volume in cubic meters.
+[00:02:20 -> 00:02:27]  So the derived SI unit for density is kilograms per cubic meter.
+[00:02:27 -> 00:02:30]  So why is this important to know?
+[00:02:30 -> 00:02:35]  Knowing what quantities to use means that you will be working on the same level as everyone
+[00:02:35 -> 00:02:37]  else.
+[00:02:37 -> 00:02:42]  You can compare your answers because you are using the same formula.
+[00:02:42 -> 00:02:48]  Now you know that derived quantities are quantities that are based on the seven fundamental
+[00:02:48 -> 00:02:52]  quantities of the SI system.
+[00:02:52 -> 00:02:59]  There are meters squared for area, cubic meters for volume, and kilograms per cubic meter
+[00:02:59 -> 00:03:01]  for density.
+[00:03:01 -> 00:03:06]  It's always good to go over these quantities again and get used to using them.
+[00:03:06 -> 00:03:10]  Why not try finding these quantities for an object you have at home?
+[00:03:10 -> 00:03:16]  See what the area, volume, and density is and convert it to SI units.
+[00:03:16 -> 00:03:17]  Happy measuring!

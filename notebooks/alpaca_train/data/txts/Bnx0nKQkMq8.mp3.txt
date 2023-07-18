@@ -1,0 +1,211 @@
+[00:00:00 -> 00:00:03]  Olá, eu sou o André Albuquerque, sou da área de projetores da Epson
+[00:00:03 -> 00:00:08]  e hoje farei a apresentação dos projetores interativos BrightLink para o segmento educacional.
+[00:00:08 -> 00:00:14]  Os projetores BrightLink da Epson já possuem a nossa renomada tecnologia 3LCD,
+[00:00:14 -> 00:00:20]  associada a uma projeção de ultra curta distância, com brilho acima de 3.000 ancillúmens
+[00:00:20 -> 00:00:24]  e atingem telas de 60 até 100 polegadas.
+[00:00:24 -> 00:00:29]  E essa linha possui modelos com interatividade por caneta e também por módulo touch.
+[00:00:30 -> 00:00:31]  Vamos conhecer hoje o produto touch.
+[00:00:35 -> 00:00:38]  Bem, aqui nós temos o painel inicial do projetor,
+[00:00:38 -> 00:00:41]  que será a primeira imagem que surgirá quando o projetor for ligado.
+[00:00:42 -> 00:00:47]  Aqui você possui já um menu de conexões para vários tipos de fontes de vídeos diferentes.
+[00:00:47 -> 00:00:55]  Notem que nós temos três conexões HDMI, USB Display, conexão LAN para dispositivos móveis,
+[00:00:55 -> 00:00:59]  funções úteis que podem ser personalizadas, como consumo de energia,
+[00:00:59 -> 00:01:03]  abertura do recurso de split screen, modo de cor e auto calibragem.
+[00:01:04 -> 00:01:09]  Abaixo nós temos aqui uma legenda, onde nós conseguimos identificar o nome do projetor na rede,
+[00:01:09 -> 00:01:11]  para facilitar a visualização dos participantes.
+[00:01:12 -> 00:01:18]  Rápido acesso a um QR Code para integração de dispositivos móveis pelo aplicativo Epson iProjection.
+[00:01:20 -> 00:01:23]  Configuração para o recurso de multiprojeção, isso será apresentado a seguir.
+[00:01:24 -> 00:01:31]  E aqui, nós já conseguimos acessar o projetor conectado a um computador,
+[00:01:31 -> 00:01:33]  onde eu farei várias demonstrações a seguir.
+[00:01:37 -> 00:01:43]  Este produto, como os demais de sua linha, possui a tecnologia de lentes de projeção de ultracurta distância,
+[00:01:43 -> 00:01:52]  que promovem grandes telas a pequenas distâncias, gerando o mínimo de interferência para o apresentador,
+[00:01:52 -> 00:01:56]  onde ele só vai ter a sombra projetada no momento que ele aproxima da tela,
+[00:01:57 -> 00:02:02]  e ele não terá também a luz de projeção projetada sobre os olhos.
+[00:02:02 -> 00:02:09]  Outro benefício que os projetores BrightLink possuem, é a capacidade de se adaptarem a vários tipos de ambientes.
+[00:02:09 -> 00:02:15]  Ou seja, qualquer sala que possua uma superfície que seja lisa, rígida e plana,
+[00:02:15 -> 00:02:20]  pode se ajustar ao projetor interativo, inclusive superfícies com quadro verde.
+[00:02:23 -> 00:02:28]  Para o slide a seguir, farei uma demonstração utilizando a interatividade deste projetor.
+[00:02:28 -> 00:02:35]  Para isso, vou utilizar as canetas eletrônicas, que já vêm acompanhadas no estojo para sua melhor conservação.
+[00:02:44 -> 00:02:49]  Neste slide, vocês podem ver que o projetor possui múltiplas conexões,
+[00:02:49 -> 00:02:53]  capazes de se integrar a vários dispositivos de imagem e som.
+[00:02:53 -> 00:02:55]  Quero destacar um deles para vocês.
+[00:02:56 -> 00:03:00]  O projetor possui uma entrada para microfones,
+[00:03:00 -> 00:03:06]  pois ele possui um alto-falante integrado potente, capaz de atender uma sala de até 40 alunos.
+[00:03:06 -> 00:03:08]  Vou destacar mais algumas para vocês.
+[00:03:08 -> 00:03:11]  Se o som apresentado não for suficiente,
+[00:03:11 -> 00:03:17]  o projetor possui uma saída de áudio capaz de se integrar a alto-falantes externos.
+[00:03:17 -> 00:03:23]  Dispositivo wireless para integração com dispositivos móveis,
+[00:03:23 -> 00:03:26]  através do aplicativo Epson iProjection.
+[00:03:27 -> 00:03:34]  Entrada LAN, não só para colaboração, mas também para o gerenciamento dos dispositivos móveis.
+[00:03:37 -> 00:03:42]  Videocomponente para dispositivos de imagem e de vídeo,
+[00:03:42 -> 00:03:45]  como câmeras de documentos também.
+[00:03:45 -> 00:03:54]  E entradas HDMI, que permitem a conexão com notebooks, laptops e dispositivos smart.
+[00:03:56 -> 00:04:00]  Além disso, o projetor possui uma saída de vídeo VGA,
+[00:04:00 -> 00:04:05]  capazes de se integrarem a outros projetores ou TVs
+[00:04:06 -> 00:04:09]  para salas de aulas com configurações diferenciadas.
+[00:04:09 -> 00:04:15]  E também, porta USB para conexão direta com o pendrive.
+[00:04:15 -> 00:04:21]  O professor pode iniciar uma aula somente utilizando o pendrive conectado ao BrightLink Educacional.
+[00:04:26 -> 00:04:30]  Os projetores BrightLink possuem o recurso de multiprojeção.
+[00:04:30 -> 00:04:35]  Dessa forma, é possível integrar dois projetores interativos LAN,
+[00:04:35 -> 00:04:38]  formando uma imagem panorâmica de até 200 polegadas.
+[00:04:38 -> 00:04:43]  Imagine uma sala de aula com uma projeção de 4 metros por 1,30m de altura.
+[00:04:50 -> 00:04:53]  Como vocês puderam acompanhar a minha apresentação até agora,
+[00:04:53 -> 00:04:56]  eu utilizei recursos de interatividade desse projetor.
+[00:04:56 -> 00:05:00]  Esse é o painel inicial do Easy Interactive Tools.
+[00:05:00 -> 00:05:04]  Aqui, o usuário já consegue estabelecer algumas operações iniciais,
+[00:05:04 -> 00:05:06]  como anotações na área de trabalho,
+[00:05:06 -> 00:05:09]  abrir um novo arquivo ou apresentação,
+[00:05:09 -> 00:05:11]  buscar arquivos recentes,
+[00:05:11 -> 00:05:15]  atalho para dispositivos de câmeras de documentos,
+[00:05:15 -> 00:05:17]  abertura do navegador da web
+[00:05:17 -> 00:05:22]  e atalho para outros aplicativos relacionados a projetores da Epson.
+[00:05:23 -> 00:05:27]  Agora, vamos iniciar a demonstração do Easy Interactive Tools,
+[00:05:27 -> 00:05:30]  iniciando pelo modo de quadro branco.
+[00:05:32 -> 00:05:39]  Esse quadro branco permitirá ao professor realizar anotações,
+[00:05:40 -> 00:05:42]  ilustrações,
+[00:05:42 -> 00:05:44]  apresentações,
+[00:05:44 -> 00:05:49]  a um professor realizar anotações,
+[00:05:50 -> 00:05:52]  ilustrações,
+[00:05:52 -> 00:05:54]  realização de cálculos
+[00:05:54 -> 00:05:59]  e tudo o que for realizado neste quadro branco no término da aula,
+[00:05:59 -> 00:06:02]  ele poderá salvar em formato de imagem,
+[00:06:02 -> 00:06:03]  formato PDF,
+[00:06:03 -> 00:06:05]  formato PNG
+[00:06:05 -> 00:06:09]  e também no formato próprio da barra de ferramentas.
+[00:06:10 -> 00:06:13]  E se alguma anotação deu errado,
+[00:06:13 -> 00:06:16]  podemos utilizar a borracha para a correção.
+[00:06:19 -> 00:06:24]  Podemos também inserir imagens como um plano de fundo,
+[00:06:24 -> 00:06:30]  onde o próprio programa já nos oferece algumas opções,
+[00:06:32 -> 00:06:34]  além, é claro,
+[00:06:35 -> 00:06:40]  que podemos buscar essas informações na nossa biblioteca de imagens,
+[00:06:43 -> 00:06:50]  permitindo a interação também utilizando a barra de ferramentas de desenhos.
+[00:06:54 -> 00:07:00]  O que é importante também visualizar são as páginas que estão sendo construídas,
+[00:07:00 -> 00:07:06]  porque a qualquer momento o professor pode abrir um número novo de páginas
+[00:07:06 -> 00:07:12]  ou utilizar essas setinhas para retornar a uma página anterior.
+[00:07:13 -> 00:07:18]  Um outro recurso muito interessante é o dispositivo para câmeras.
+[00:07:18 -> 00:07:20]  Quando acionado,
+[00:07:20 -> 00:07:25]  ele irá ativar a câmera que esteja integrada ao computador do professor.
+[00:07:25 -> 00:07:30]  Pode ser uma câmera de documentos ou uma webcam, como nesse caso.
+[00:07:30 -> 00:07:34]  Esse atalho permite que o professor grave um vídeo,
+[00:07:34 -> 00:07:41]  faça anotações sobre a imagem sendo projetada direto da câmera,
+[00:07:41 -> 00:07:46]  salve isso como um recurso de imagem dentro desse quadro branco,
+[00:07:47 -> 00:07:52]  tornando essa imagem capturada, salva com as anotações.
+[00:07:56 -> 00:08:01]  Vamos agora explorar essa barra vertical da barra de ferramentas.
+[00:08:04 -> 00:08:08]  Vejam que aqui nós temos dois tipos de caneta.
+[00:08:08 -> 00:08:13]  Uma caneta comum, com opções de espessuras e cores,
+[00:08:13 -> 00:08:23]  e uma caneta marca-texto, também da mesma forma, porém com uma escrita mais suave,
+[00:08:23 -> 00:08:29]  ideal para marcações de textos, de anotações, etc.
+[00:08:30 -> 00:08:35]  Fora isso, a própria barra de ferramentas disponibiliza
+[00:08:35 -> 00:08:40]  algumas cores mais básicas, com espessuras extremas,
+[00:08:40 -> 00:08:47]  para que o operador tenha o máximo de facilidade possível no momento de acessar alguma cor.
+[00:08:48 -> 00:08:53]  Explorando mais esse software, vou apresentar uma outra função.
+[00:08:56 -> 00:09:00]  É possível utilizar uma ferramenta de texto,
+[00:09:02 -> 00:09:09]  onde é possível editá-lo através do recurso de teclado virtual,
+[00:09:09 -> 00:09:23]  podendo editar esse texto pelo tipo de fonte, tamanho, estilo e até mesmo a cor,
+[00:09:27 -> 00:09:31]  podendo integrá-la à nossa imagem.
+[00:09:32 -> 00:09:36]  Utilizando o recurso de agrupamento.
+[00:09:46 -> 00:09:48]  Vamos a outro exemplo.
+[00:09:48 -> 00:09:53]  Caso eu queira inserir uma legenda nesse mapa, podemos utilizar recursos da barra de desenhos,
+[00:09:53 -> 00:09:56]  selecionando uma linha,
+[00:09:56 -> 00:09:59]  uma espessura e a cor desejada.
+[00:10:03 -> 00:10:07]  E complementar essa informação utilizando as canetas,
+[00:10:09 -> 00:10:12]  corrigindo quando houver necessidade,
+[00:10:18 -> 00:10:21]  enriquecendo mais a nossa apresentação.
+[00:10:22 -> 00:10:26]  E uma vez criado todo esse conteúdo, como compartilhá-lo?
+[00:10:26 -> 00:10:29]  Vou mostrar para vocês duas formas de como se fazer isso.
+[00:10:29 -> 00:10:34]  A primeira delas é imprimir essa apresentação,
+[00:10:37 -> 00:10:43]  permitindo aqui selecionar um arquivo, um modelo de impressora,
+[00:10:43 -> 00:10:50]  e a partir desse instante, todo o conteúdo apresentado na aula passará à impressão.
+[00:10:50 -> 00:10:54]  Enquanto imprime, vamos agora salvar o conteúdo.
+[00:10:57 -> 00:11:00]  Basta selecionar a opção Salvar como,
+[00:11:02 -> 00:11:05]  e agora vamos salvar o conteúdo.
+[00:11:05 -> 00:11:08]  Vamos agora salvar o conteúdo.
+[00:11:10 -> 00:11:13]  Basta selecionar a opção Salvar como,
+[00:11:19 -> 00:11:23]  selecionar o local desejado,
+[00:11:24 -> 00:11:29]  o formato atribuído, podemos salvar no formato de imagem,
+[00:11:29 -> 00:11:32]  formato PDF, agrupando esse arquivo,
+[00:11:32 -> 00:11:35]  ou no formato próprio da barra de ferramentas,
+[00:11:35 -> 00:11:40]  permitindo a utilização e a edição para novas apresentações.
+[00:11:40 -> 00:11:43]  Vamos selecionar aqui o formato PDF,
+[00:11:47 -> 00:11:49]  e salvarmos a nossa apresentação.
+[00:11:51 -> 00:11:55]  Bem, agora temos aqui o conteúdo impresso,
+[00:11:56 -> 00:11:58]  como vocês podem ver,
+[00:11:59 -> 00:12:05]  bem como a apresentação salva em PDF,
+[00:12:09 -> 00:12:13]  podendo aqui compartilhá-la com os alunos por e-mail,
+[00:12:13 -> 00:12:15]  ou postando em um ambiente virtual.
+[00:12:15 -> 00:12:20]  Ainda sobre o Easy Interactive Tools, é importante destacar que,
+[00:12:21 -> 00:12:26]  ela consegue se integrar totalmente com o computador do professor,
+[00:12:26 -> 00:12:30]  apoiando no uso de todos os aplicativos que lá funcionem.
+[00:12:30 -> 00:12:34]  Ou seja, qualquer aplicativo que exista no computador,
+[00:12:34 -> 00:12:37]  funcionará concomitantemente com essa barra de ferramentas.
+[00:12:37 -> 00:12:40]  O Brightlink ainda possui um software integrado,
+[00:12:42 -> 00:12:46]  capaz de ser utilizado sobre qualquer fonte de projeção,
+[00:12:46 -> 00:12:49]  e ainda possuindo recurso de mouse,
+[00:12:49 -> 00:12:52]  capaz de operar qualquer outro computador,
+[00:12:52 -> 00:12:54]  independente do sistema operacional,
+[00:12:54 -> 00:12:58]  mesmo que ele não tenha o Easy Interactive Tools instalado.
+[00:12:59 -> 00:13:03]  Podendo ainda acessar um quadro branco eletrônico,
+[00:13:03 -> 00:13:05]  que funciona como uma espécie de flip chart,
+[00:13:05 -> 00:13:09]  independente de ter ou não um computador integrado.
+[00:13:12 -> 00:13:15]  Permitindo aqui ao professor iniciar uma aula,
+[00:13:15 -> 00:13:17]  fazendo algum tipo de anotação.
+[00:13:18 -> 00:13:23]  Agora eu vou apresentar o recurso do painel de comandos do Brightlink.
+[00:13:24 -> 00:13:29]  Esse painel é importantíssimo porque ele reúne algumas funções de um controle remoto,
+[00:13:29 -> 00:13:32]  evitando o professor de carregar mais um item em mãos,
+[00:13:32 -> 00:13:37]  e ele também é responsável pela conectividade com outros dispositivos,
+[00:13:37 -> 00:13:40]  além da visualização de outras fontes de vídeo.
+[00:13:40 -> 00:13:42]  Vamos a elas.
+[00:13:43 -> 00:13:45]  O botão inicial que eu mostrei anteriormente,
+[00:13:45 -> 00:13:49]  pode ser acessado por aqui, a função de menu inicial do projetor.
+[00:13:49 -> 00:13:54]  Recurso de impressão e de salvar algum documento diretamente pelo projetor,
+[00:13:54 -> 00:13:56]  pela entrada USB.
+[00:14:02 -> 00:14:07]  O soft search do projetor, permitindo acessarmos qualquer documento,
+[00:14:08 -> 00:14:13]  O soft search do projetor, permitindo acessarmos qualquer fonte de vídeo,
+[00:14:13 -> 00:14:16]  através desse recurso.
+[00:14:16 -> 00:14:20]  Inclusive, acesso à entrada LAN.
+[00:14:22 -> 00:14:24]  Recurso de zoom.
+[00:14:25 -> 00:14:29]  Botão multi, bloqueando a imagem e som do projetor temporariamente,
+[00:14:29 -> 00:14:30]  com um único toque.
+[00:14:30 -> 00:14:32]  Retomamos a projeção.
+[00:14:33 -> 00:14:37]  Botão de congelamento, dando uma certa privacidade ao professor,
+[00:14:37 -> 00:14:40]  para ele poder acessar outras fontes de vídeo.
+[00:14:41 -> 00:14:45]  Podemos controlar o volume geral do projetor por aqui.
+[00:14:47 -> 00:14:49]  Recurso de split screen,
+[00:14:49 -> 00:14:54]  permitindo a projeção de duas fontes de vídeos diferentes, em forma simultânea.
+[00:14:55 -> 00:15:00]  Inclusive, podendo selecionar quais delas podemos trabalhar.
+[00:15:02 -> 00:15:06]  Contamos ainda com um timer, para que o professor possa aplicar alguma avaliação,
+[00:15:06 -> 00:15:08]  algum exercício.
+[00:15:08 -> 00:15:12]  Sempre utilizando um contador progressivo ou regressivo.
+[00:15:15 -> 00:15:18]  Desligar o projetor é possível também.
+[00:15:18 -> 00:15:20]  Podemos fazer a partir daqui.
+[00:15:25 -> 00:15:31]  E agora, vou apresentar o recurso de colaboração deste projetor,
+[00:15:31 -> 00:15:33]  através da entrada LAN.
+[00:15:34 -> 00:15:36]  Aqui, como vocês podem observar,
+[00:15:36 -> 00:15:42]  nós temos quatro fontes distintas, partindo de quatro dispositivos.
+[00:15:43 -> 00:15:46]  E o professor, enquanto moderador,
+[00:15:47 -> 00:15:52]  poderá não só visualizar através do seu dispositivo,
+[00:15:54 -> 00:15:56]  estes quatro dispositivos,
+[00:15:56 -> 00:15:58]  e mais quarenta e seis,
+[00:15:58 -> 00:16:01]  totalizando aqui cinquenta dispositivos em rede,
+[00:16:02 -> 00:16:05]  através do próprio aplicativo Epson iProjection.
+[00:16:06 -> 00:16:11]  Em algum momento, se ele preferir exibir um ou mais dispositivos,
+[00:16:11 -> 00:16:16]  ele terá totalmente o controle através dessa ferramenta.
+[00:16:19 -> 00:16:24]  E o aluno poderá realizar algum tipo de anotação do seu próprio dispositivo.
+[00:16:24 -> 00:16:27]  Vejam aqui um outro exemplo,
+[00:16:28 -> 00:16:34]  o moderador selecionando um outro dispositivo para interação.
+[00:16:41 -> 00:16:46]  O recurso de moderador permite ao professor pré-visualizar
+[00:16:46 -> 00:16:49]  o que o aluno pretende enviar para a projeção.
+[00:16:50 -> 00:16:54]  E a partir dali, ele poderá determinar quantos dispositivos
+[00:16:54 -> 00:16:58]  ou quem irá compartilhar a sua imagem no projetor.
+[00:16:58 -> 00:17:01]  Podemos ainda compartilhar qualquer imagem
+[00:17:01 -> 00:17:06]  que esteja sendo projetada no BrightLink com estes cinquenta dispositivos móveis.
+[00:17:06 -> 00:17:07]  Veja como é simples.
+[00:17:09 -> 00:17:11]  Retornando ao painel de comandos,
+[00:17:12 -> 00:17:15]  selecionamos a opção Shared Images,
+[00:17:15 -> 00:17:22]  onde a imagem atual é fornecida para os dispositivos móveis.
+[00:17:23 -> 00:17:26]  E não se esqueça, todos os aplicativos da Epson
+[00:17:26 -> 00:17:31]  utilizados nesta apresentação são de uso gratuito e ilimitado.
+[00:17:31 -> 00:17:36]  E para encerrar, a Epson é referência mundial em videoprojetores
+[00:17:36 -> 00:17:40]  e conta no Brasil com a maior rede de assistências técnicas para o produto.
+[00:17:41 -> 00:17:42]  Muito obrigado!
+[00:17:45 -> 00:17:48]  Legendas pela comunidade Amara.org

@@ -1,0 +1,134 @@
+[00:00:00 -> 00:00:22]  Hallo und herzlich willkommen bei Projekte Leichtgemacht.
+[00:00:22 -> 00:00:28]  Vor kurzem gab es auf der Website projekteleichtgemacht.de eine Artikelserie zum Thema Stakeholder-Management.
+[00:00:29 -> 00:00:33]  Und um das Ganze noch einmal kurz und knackig zusammenzufassen, dafür gibt es jetzt dieses Video.
+[00:00:35 -> 00:00:42]  So, das Video ist in drei Teile aufgeteilt und zwar beschäftigen wir uns zum Ersten mit der Frage, was ist denn eigentlich ein Stakeholder?
+[00:00:43 -> 00:00:48]  Dann geht es darum, warum sollte man Stakeholder-Management betreiben und zu guter Letzt der ganz wichtige Punkt,
+[00:00:48 -> 00:00:53]  ja, wie mache ich das denn tatsächlich, wenn ich davon überzeugt bin, dass ich das in meinem Projekt tun sollte?
+[00:00:55 -> 00:00:57]  Beginnen wir mit dem ersten Punkt.
+[00:00:57 -> 00:01:00]  Was ist denn eigentlich ein Stakeholder?
+[00:01:02 -> 00:01:06]  Und zwar stellen wir uns vor, wir haben ein Projekt und zwar soll es hier um einen Hausbau gehen.
+[00:01:06 -> 00:01:10]  Und da weiß man natürlich, es gibt einen bestimmten Projektgegenstand.
+[00:01:10 -> 00:01:13]  Das ist das Haus. Das Haus soll erstellt werden und am Ende möchte jemand drin wohnen.
+[00:01:13 -> 00:01:21]  Ganz wichtig ist aber an der ganzen Sache natürlich, dass da jede Menge Menschen beteiligt sind und nichts anderes sind Stakeholder.
+[00:01:21 -> 00:01:27]  Stakeholder sind alle Menschen, die in irgendeiner Weise an dem Projekt beteiligt sind oder auch davon betroffen sind,
+[00:01:27 -> 00:01:29]  oder daran interessiert sind auch nur.
+[00:01:30 -> 00:01:37]  So, und das kann zum Beispiel sein die Familie, die natürlich später dann in diesem Haus wohnen möchte, Familie mit zwei Kindern zum Beispiel.
+[00:01:37 -> 00:01:39]  Dann kann es natürlich der
+[00:01:40 -> 00:01:47]  Maurer sein, der die Mauern hochzieht. Es kann der Verantwortliche beim Bauamt sein. Es kann ein Nachbar sein und
+[00:01:47 -> 00:01:49]  insgesamt alle
+[00:01:49 -> 00:01:56]  Beteiligten, die irgendwie ein Interesse daran haben, an dem Projekt betroffen sind oder eben beteiligt sind. Das sind Stakeholder.
+[00:01:56 -> 00:01:58]  Ganz einfach.
+[00:01:59 -> 00:02:02]  Ja, und warum sollte man dieses Stakeholder-Management denn betreiben?
+[00:02:03 -> 00:02:06]  Wir haben also wieder unser Projekt und können uns jetzt sicherlich vorstellen,
+[00:02:07 -> 00:02:11]  dass es Stakeholder gibt, die vielleicht nicht ganz so begeistert von diesem Projekt sind.
+[00:02:12 -> 00:02:18]  Da kann es jemand den Nachbarn geben, der befürchtet, dass er plötzlich eine große Lärmbelastung hat oder dass er
+[00:02:18 -> 00:02:26]  eine weniger gute Aussicht auf den anliegenden Fluss hat. Dann kann es jemanden geben vom Bauamt, der irgendwelche Vorschriften
+[00:02:26 -> 00:02:32]  eingehalten sehen möchte und der, wenn diese Vorschriften nicht eingehalten werden, dem Projekt negativ gegenüberstehen könnte.
+[00:02:33 -> 00:02:40]  Das wären zum Beispiel Stakeholder, die dieses Projekt durchaus zum Scheitern bringen können. Einfach deshalb, weil sie vielleicht einen sehr großen Einfluss haben,
+[00:02:40 -> 00:02:43]  aber auch noch negativ eingestellt sind dem Projekt gegenüber.
+[00:02:46 -> 00:02:52]  Dann kann es natürlich sein, dass wir berücksichtigen müssen, welche Wünsche die Kinder zum Beispiel haben an das neue Haus.
+[00:02:52 -> 00:02:59]  Vielleicht wollen sie eigene Zimmer, vielleicht wollen sie einen ganz besonders großen Garten und je nachdem, was für Wünsche sie haben,
+[00:02:59 -> 00:03:03]  sollten diese berücksichtigt werden, um das Projekt zum Erfolg zu führen.
+[00:03:03 -> 00:03:08]  Stakeholder haben also eine ganz wichtige Funktion, denn sie können so ein Projekt ganz einfach zum Scheitern bringen.
+[00:03:09 -> 00:03:15]  Und um das zu vermeiden, sollte man sich von vornherein mit Stakeholder beschäftigen und analysieren, welche Wünsche sie haben.
+[00:03:16 -> 00:03:23]  Im Gegensatz dazu ist es allerdings auch so, dass es Stakeholder geben kann, die dem Projekt sehr positiv gegenüber eingestellt sind.
+[00:03:23 -> 00:03:28]  Und auch die sollte man kennen, einfach um herauszufinden, ob man vielleicht deren Einstellung so erhalten kann.
+[00:03:29 -> 00:03:34]  Und dann gibt es natürlich noch einfach Projektbeteiligte, die vielleicht dem Projekt ganz neutral gegenüberstehen,
+[00:03:34 -> 00:03:38]  bei denen man aber möchte, dass sie voll mit hinter dem Projekt stehen und weiter mitziehen.
+[00:03:39 -> 00:03:43]  Und auch die Stakeholder sollte man dann einfach kennen und entsprechend behandeln.
+[00:03:43 -> 00:03:48]  Stakeholder-Management hat also insgesamt folgende Funktionen. Wir können zum Ersten Ziele ermitteln.
+[00:03:48 -> 00:03:52]  Denn Stakeholder können einzelne Ziele haben und die können durchaus in die Projektziele mit eingehen.
+[00:03:53 -> 00:03:57]  Eine weitere Funktion ist das Finden von Gegnern.
+[00:03:57 -> 00:04:02]  Diese sollte man ganz besonders betrachten, besonders wenn diese einen sehr hohen Einfluss haben auf das Projekt.
+[00:04:02 -> 00:04:06]  Und dann kann man Maßnahmen definieren, um entsprechend gegenzusteuern.
+[00:04:07 -> 00:04:12]  Dann ist es aber auch sinnvoll, Befürworter zu finden, weil das Leute dann auch sehr gut mit den Stakeholdern umgeht.
+[00:04:12 -> 00:04:17]  Weil das Leute sind, die oft die Möglichkeit haben, so ein Projekt auch wirklich mal voranzutreiben.
+[00:04:18 -> 00:04:21]  Egal in welche Gruppe sie fallen, es ist immer wichtig, seine Stakeholder zu kennen.
+[00:04:21 -> 00:04:25]  Einfach, um zu wissen, wie man dann später im Projektverlauf darauf reagieren kann.
+[00:04:28 -> 00:04:31]  So, jetzt kommt nun die Frage, wie geht denn nun dieses Stakeholder-Management?
+[00:04:31 -> 00:04:34]  Und auch das ist alles andere als kompliziert.
+[00:04:36 -> 00:04:39]  Im ersten Schritt geht es darum, Stakeholder zu sammeln.
+[00:04:40 -> 00:04:46]  Im zweiten Schritt bewertet man die Stakeholder, also man schaut, welche Stakeholder sind überhaupt wichtig,
+[00:04:46 -> 00:04:48]  welche sind wirklich relevant für mein Projekt.
+[00:04:49 -> 00:04:54]  Punkt 3, es wird noch ein bisschen genauer analysiert, welche Ziele könnten denn Stakeholder haben
+[00:04:54 -> 00:04:56]  und mit welchen Maßnahmen kann ich im Projekt darauf reagieren.
+[00:04:57 -> 00:05:00]  Ja, und dann im vierten Schritt, das soll übrigens eine Lupe sein,
+[00:05:00 -> 00:05:07]  da beobachte ich Stakeholder und versuche herauszufinden, ob sich vielleicht bestimmte Rahmenbedingungen geändert haben.
+[00:05:08 -> 00:05:10]  So, gehen wir mal näher auf die einzelnen Punkte ein.
+[00:05:11 -> 00:05:15]  Zuerst geht es darum, Stakeholder zu sammeln oder zu identifizieren.
+[00:05:16 -> 00:05:19]  Das kann man allein machen, indem man sich einfach vor ein leeres Blatt Papier setzt
+[00:05:19 -> 00:05:24]  und einfach eine lange Liste schreibt oder man kann das Ganze im Team erarbeiten
+[00:05:24 -> 00:05:30]  und versucht einfach, so viel wie möglich Stakeholder zu finden, die irgendwie am Projekt interessiert sind,
+[00:05:30 -> 00:05:32]  daran beteiligt sind oder davon betroffen sind.
+[00:05:32 -> 00:05:37]  Im Unterschied zu dieser Listendarstellung kann man auch so eine Art Sonnenmodell malen,
+[00:05:37 -> 00:05:42]  so wie es jetzt hier dargestellt ist, mit dem Projekt in der Mitte und den Stakeholder da umherum angeordnet
+[00:05:42 -> 00:05:44]  oder eben die Listenform.
+[00:05:44 -> 00:05:48]  Wichtig ist einfach nur im ersten Schritt, dass die Stakeholder zunächst einmal gesammelt werden.
+[00:05:50 -> 00:05:53]  Gut, im nächsten Schritt geht es darum, die Stakeholder zu bewerten.
+[00:05:54 -> 00:05:59]  Es kann ja durchaus sein, dass wenn man sehr fleißig war, man sehr, sehr viele Stakeholder identifiziert hat,
+[00:05:59 -> 00:06:04]  50 oder auch 80, und dann würde es natürlich heißen, dass man eine sehr große Arbeit vor sich hätte,
+[00:06:04 -> 00:06:06]  diese Stakeholder näher zu analysieren.
+[00:06:06 -> 00:06:10]  Das heißt, in diesem Schritt geht es jetzt darum, die Stakeholder zu bewerten,
+[00:06:10 -> 00:06:14]  um herauszufinden, welche denn wirklich die wirklich Wichtigen für mein Projekt sind.
+[00:06:15 -> 00:06:17]  Und dafür gibt es mehrere Kriterien.
+[00:06:17 -> 00:06:21]  Man kann zum Beispiel herausfinden, welchen Einfluss haben denn Stakeholder überhaupt auf mein Projekt.
+[00:06:22 -> 00:06:27]  Ein Nachbar, der fünf Häuser weiter wohnt, ist vielleicht weniger von den Stakeholder interessiert,
+[00:06:27 -> 00:06:30]  der fünf Häuser weiter wohnt, ist vielleicht weniger wichtig als der direkte Nachbar.
+[00:06:30 -> 00:06:35]  Oder der Mensch vom Bauamt ist vielleicht deutlich wichtiger als die Oma,
+[00:06:35 -> 00:06:38]  die auch 500 Euro für den Hausbau mit zuschießt.
+[00:06:38 -> 00:06:44]  Ein weiteres Kriterium, was man nutzen kann, das ist die Konfliktwahrscheinlichkeit.
+[00:06:45 -> 00:06:47]  Oder auch die Einstellung.
+[00:06:47 -> 00:06:49]  Es gibt verschiedene Möglichkeiten, das zu bewerten.
+[00:06:49 -> 00:06:53]  Bei der Einstellung kann man sagen, okay, der und der ist meinem Projekt sehr positiv
+[00:06:53 -> 00:06:56]  und der und der mein Projekt sehr negativ gegenüber eingestellt.
+[00:06:57 -> 00:07:00]  Wenn man in dem ersten Schritt die Darstellung des Sonnenmodells gewählt hat,
+[00:07:01 -> 00:07:05]  da kann man diese Einstellung und diese Einflüsse direkt an diesem Sonnenmodell auch kennzeichnen,
+[00:07:05 -> 00:07:08]  indem man zum Beispiel verschiedene Linienstärken verwendet,
+[00:07:08 -> 00:07:11]  dicke Linien für sehr einflussreiche Stakeholder
+[00:07:11 -> 00:07:14]  und gestrichelte Linien für vielleicht weniger wichtige Stakeholder
+[00:07:15 -> 00:07:17]  und auch Plus- und Minus-Kennzeichnungen,
+[00:07:17 -> 00:07:22]  in der man festmachen kann, ob die Stakeholder positiv oder negativ eingestellt sind.
+[00:07:23 -> 00:07:26]  In jedem Fall ist das wichtige Ergebnis hier herauszufinden,
+[00:07:26 -> 00:07:29]  welche Stakeholder sind denn wirklich sehr wichtig für mein Projekt,
+[00:07:30 -> 00:07:32]  auf welche muss ich besonders achten.
+[00:07:32 -> 00:07:35]  Und das kann ich noch sehr schön, nachdem ich die Bewertung vorgenommen habe,
+[00:07:35 -> 00:07:40]  in einem Portfolio darstellen, indem ich zum Beispiel zwei Achsen nutze,
+[00:07:40 -> 00:07:44]  Einfluss- und Konfliktpotenzial, und dann sortiere ich meine Stakeholder hier ein.
+[00:07:44 -> 00:07:48]  Ganz klar, die mit dem sehr hohen Einfluss oben rechts
+[00:07:48 -> 00:07:50]  und die ein sehr hohes Konfliktpotenzial aufweisen,
+[00:07:51 -> 00:07:54]  das sind vermutlich die, auf die ich wirklich ein großes Auge haben sollte.
+[00:07:54 -> 00:07:56]  Und das sind die, die dann auch im nächsten Schritt
+[00:07:57 -> 00:07:59]  wirklich noch näher analysiert werden sollten.
+[00:07:59 -> 00:08:02]  Und damit sind wir schon bei Punkt 3, Stakeholder analysieren.
+[00:08:03 -> 00:08:05]  Was passiert hier?
+[00:08:05 -> 00:08:09]  Ein Stakeholder, der hat in jedem Fall oder in den meisten Fällen
+[00:08:09 -> 00:08:11]  irgendwelche Ziele, der möchte irgendwas erreichen.
+[00:08:12 -> 00:08:14]  Also zum Beispiel ist es vielleicht das eine Kind der Familie,
+[00:08:14 -> 00:08:17]  das möchte ein besonders großes Kinderzimmer haben mit Balkon
+[00:08:17 -> 00:08:21]  oder der eine Nachbar möchte wenig Lernbelastung haben.
+[00:08:22 -> 00:08:26]  Es ist wichtig, diese Ziele zu kennen, um darauf im Projekt reagieren zu können.
+[00:08:26 -> 00:08:30]  Teilweise können diese Ziele dann als Projektziele mit aufgenommen werden
+[00:08:30 -> 00:08:34]  oder es werden einfach bestimmte Maßnahmen definiert im nächsten Schritt,
+[00:08:35 -> 00:08:38]  um diese Ziele in irgendeiner Weise zu befriedigen.
+[00:08:38 -> 00:08:42]  Damit können wir sicherstellen, dass vor allem negative
+[00:08:42 -> 00:08:47]  und sehr einflussreiche Stakeholder später keine großartigen Probleme machen,
+[00:08:47 -> 00:08:50]  denn man hat sich damit auseinandergesetzt und kann versuchen im Projekt
+[00:08:51 -> 00:08:53]  auf diese Punkte einzugehen.
+[00:08:53 -> 00:08:56]  Ja, und dann kommt noch ein letzter wichtiger Punkt.
+[00:08:57 -> 00:08:59]  Wir müssen die Stakeholder beobachten, denn im Projektverlauf
+[00:09:00 -> 00:09:02]  können sich natürlich Rahmenbedingungen ändern.
+[00:09:02 -> 00:09:05]  Und hier geht es einfach darum, über den Zeitverlauf ab und zu
+[00:09:05 -> 00:09:08]  mal noch ein Auge auf diese Stakeholderbewertung zu haben.
+[00:09:08 -> 00:09:11]  Sehr sinnvoll ist es, wenn man sich einfach bestimmte Punkte im Projekt festlegt,
+[00:09:11 -> 00:09:13]  wo man sich wirklich damit beschäftigt, denn das ist ein Punkt,
+[00:09:14 -> 00:09:16]  der doch sehr häufig vergessen wird.
+[00:09:16 -> 00:09:19]  Hier muss man dann nicht noch mal alle Analysen im Detail genau durchführen,
+[00:09:19 -> 00:09:22]  sondern einfach noch mal draufschauen, okay, hat sich die Situation verändert
+[00:09:23 -> 00:09:26]  oder ist es denn noch genauso wie zu Beginn, als die Stakeholderanalyse
+[00:09:26 -> 00:09:28]  am Anfang mal durchgeführt wurde.
+[00:09:31 -> 00:09:35]  Ja, und das war im Grunde genommen auch schon Stakeholdermanagement
+[00:09:36 -> 00:09:39]  in einer sehr knappen und kurzen Übersichtsfassung.
+[00:09:39 -> 00:09:41]  Es gibt da natürlich noch wesentlich mehr Informationen,
+[00:09:41 -> 00:09:43]  die noch auch mehr in die Tiefe gehen.
+[00:09:44 -> 00:09:46]  Eine etwas ausführlichere Artikelserie gibt es wie gesagt
+[00:09:46 -> 00:09:48]  auf www.projekte-leichtgemacht.de

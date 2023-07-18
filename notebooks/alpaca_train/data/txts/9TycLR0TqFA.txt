@@ -1,0 +1,62 @@
+[00:00:00 -> 00:00:07]  Introduction to Scrum, a seven-minute training video with details on what you
+[00:00:07 -> 00:00:11]  need to start using Scrum today.
+[00:00:13 -> 00:00:17]  This video is intended for people who are just getting started with the Scrum
+[00:00:17 -> 00:00:22]  framework and need a quick primer. Hi, my name is Steve Steadman and I am the
+[00:00:22 -> 00:00:26]  founder of Usility Software. In this video we will cover the basics behind
+[00:00:26 -> 00:00:29]  Scrum and we'll take a look at how Scrum compares to waterfall development and
+[00:00:29 -> 00:00:33]  we'll examine the three roles, three artifacts, and three ceremonies that make
+[00:00:33 -> 00:00:40]  up Scrum. First, let's take a look at how Scrum compares to the older alternative
+[00:00:40 -> 00:00:45]  of waterfall development. Waterfall typically goes through a lengthy
+[00:00:45 -> 00:00:50]  planning process, which could take several months, followed by building the
+[00:00:50 -> 00:00:56]  product, which again could take many months, and then testing the product,
+[00:00:56 -> 00:01:02]  reviewing, and eventually deploying the product. At this point you may end up
+[00:01:02 -> 00:01:06]  bringing the wrong product to market if market demand or technology has changed
+[00:01:06 -> 00:01:10]  since the original plan was developed. There are several problems with this
+[00:01:10 -> 00:01:14]  method. First of all, the planning must be completed before any work begins and
+[00:01:14 -> 00:01:18]  in most cases the planning is done without entirely understanding the
+[00:01:18 -> 00:01:23]  project. Once development is being done, oftentimes things get sent back to the
+[00:01:23 -> 00:01:26]  planning phase and the project either needs to start over or the developers
+[00:01:26 -> 00:01:29]  are just criticized for not understanding the plan. This cycle can
+[00:01:29 -> 00:01:33]  happen many times. When development is done building the product it gets thrown
+[00:01:33 -> 00:01:38]  over the fence to test, where when problems are encountered it bounces back
+[00:01:38 -> 00:01:42]  to development and sometimes back to planning. The same issues occur in the
+[00:01:42 -> 00:01:47]  next few steps with lots of backstepping and doing over. This can lead to lag
+[00:01:47 -> 00:01:52]  times and many months to several years in order to get a product out the door.
+[00:01:52 -> 00:01:57]  With Scrum, an implementation of Agile, the process is broken up into smaller
+[00:01:57 -> 00:02:02]  pieces. First we do just enough planning to get started with, building the minimal
+[00:02:02 -> 00:02:08]  feature set. We build what was planned. Next we test and review that small
+[00:02:08 -> 00:02:14]  feature set and get it ready to ship. When that cycle is complete we end up
+[00:02:14 -> 00:02:20]  with a potentially shippable product. This process usually occurs in a time
+[00:02:20 -> 00:02:25]  period of one to three weeks. This is then repeated time and time again
+[00:02:25 -> 00:02:29]  reducing the time from planning to development to testing. Each time through
+[00:02:29 -> 00:02:33]  the planning process we're doing just enough planning to complete the next
+[00:02:33 -> 00:02:37]  incremental release. You end up with several incremental releases called
+[00:02:37 -> 00:02:42]  sprints. A sprint usually takes from one to three weeks and you just keep
+[00:02:42 -> 00:02:48]  repeating these sprints until your product is feature complete. Sometimes
+[00:02:48 -> 00:02:51]  you may end up shipping your product after the second sprint, or the third, or
+[00:02:51 -> 00:02:56]  the fourth, or even further, but you eventually end up with a shipping
+[00:02:56 -> 00:02:58]  product.
+[00:03:02 -> 00:03:06]  In Scrum there are three key roles that are needed for the framework to work
+[00:03:06 -> 00:03:12]  well. First, the product owner. This is the person responsible for defining the
+[00:03:12 -> 00:03:16]  features that are needed in the product. The product owner has the bright ideas
+[00:03:16 -> 00:03:24]  that turn into products. The Scrum Master is a servant leader to the team
+[00:03:24 -> 00:03:29]  responsible for protecting the team and the process, running the meetings, and
+[00:03:29 -> 00:03:34]  keeping things going. The team can be made up of developers, testers, writers,
+[00:03:34 -> 00:03:40]  and anyone else that helps in building the product. Team members often play
+[00:03:40 -> 00:03:45]  multiple roles. Some days developers may end up doing tests, or testers may end up
+[00:03:45 -> 00:03:50]  writing. Either way, the team works to get the product done.
+[00:03:51 -> 00:03:56]  There are three artifacts, or documents, that are used in Scrum. First, the product
+[00:03:56 -> 00:04:01]  backlog. This is where product owners create a prioritized list of features
+[00:04:01 -> 00:04:06]  known as user stories that could go into the product. This list evolves and
+[00:04:06 -> 00:04:11]  changes priority with every sprint. User stories are a way of describing a
+[00:04:11 -> 00:04:19]  feature set that follows the, as a user, I need something, so that, reason, format.
+[00:04:19 -> 00:04:25]  This way of phrasing a user story allows the product owner to specify the right
+[00:04:25 -> 00:04:29]  amount of detail for the team to estimate the size of the task. The highest
+[00:04:29 -> 00:04:35]  priority user stories go into the sprint backlog. These get estimated for size and
+[00:04:35 -> 00:04:39]  are committed to for the next sprint. Burn down charts show the progress during
+[00:04:39 -> 00:04:43]  a sprint on the completion of tasks in the sprint backlog. This chart should
+[00:04:43 -> 00:04:48]  approach zero points as the work is being completed.
+[00:04:48 -> 00:04:52]  There are three ceremonies that make up Scrum. Think of these as meetings or
+[00:04:52 -> 00:04:58]  discussions. Sprint planning is where the product owner, Scrum master, and team meet
+[00:04:58 -> 00:05:04]  to discuss the user stories and estimate their relative sizes. The daily Scrum is
+[00:05:04 -> 00:05:07]  a brief stand-up meeting where the team

@@ -1,0 +1,79 @@
+[00:00:00 -> 00:00:10]  The tensile test. First test, material with yield point phenomenon. In the first tensile
+[00:00:10 -> 00:00:16]  test, a plain carbon steel with yield point phenomenon is to be tested. This is the test
+[00:00:16 -> 00:00:22]  piece. It has a cylindrical test region with an original diameter of 10 millimetres and
+[00:00:22 -> 00:00:29]  an original gauge length of 100 millimetres. Within this test region, distance marks have
+[00:00:29 -> 00:00:34]  been drawn at regular intervals. They help to visualise and measure the plastic behaviour
+[00:00:34 -> 00:00:40]  of the specimen. Using a hand control, the tester moves the upper cross head into its
+[00:00:40 -> 00:00:47]  correct starting position. Now he can place the threaded ends of the test piece in the
+[00:00:47 -> 00:01:01]  lower and upper grips of the testing machine. In the next step, he swings the extensometer
+[00:01:01 -> 00:01:08]  into its working position and checks that everything is correctly prepared. Then he
+[00:01:08 -> 00:01:15]  selects all necessary testing parameters on the control computer. Ready. The test starts
+[00:01:17 -> 00:01:23]  and the extensometer's sensor arms are carefully pressed onto the test piece. This way the
+[00:01:23 -> 00:01:29]  gauge length can be measured throughout the whole tensile test. The gauge length is displayed
+[00:01:29 -> 00:01:36]  at the bottom right hand corner of the screen. At the beginning it amounts to 100 millimetres.
+[00:01:36 -> 00:01:41]  During the tensile test, the test piece is slowly and constantly elongated with a standardised
+[00:01:41 -> 00:01:47]  speed. The force that the test piece opposes to the imposed elongation is recorded and
+[00:01:47 -> 00:01:53]  can be seen at the bottom left hand corner of the computer display. The material behaviour
+[00:01:53 -> 00:01:59]  can best be observed in a force elongation diagram. The force F is being plotted upwards
+[00:01:59 -> 00:02:06]  on the vertical axis, the elongation delta L towards the right on the horizontal axis.
+[00:02:06 -> 00:02:12]  At first the force rises rapidly. Force and elongation are proportional and form a steep
+[00:02:12 -> 00:02:19]  straight line in the diagram. In this area the material behaves elastically. If the test
+[00:02:19 -> 00:02:24]  piece were to be unloaded from this area, it would spring back completely to its original
+[00:02:24 -> 00:02:31]  length. In materials with yield point phenomenon, the end of the elastic area can be seen clearly.
+[00:02:31 -> 00:02:37]  The plastic deformation starts abruptly and is accompanied by a sudden drop of force.
+[00:02:37 -> 00:02:42]  If the test piece were to be unloaded now, it would not spring back to the original length
+[00:02:42 -> 00:02:48]  but instead show a permanent elongation. In the next stage of the tensile test, an almost
+[00:02:48 -> 00:02:55]  constant force level with slight fluctuations occurs. This phenomenon is called the Luder's effect.
+[00:02:59 -> 00:03:05]  After a certain strain, known as the Luder's strain, the force increases again. The material
+[00:03:05 -> 00:03:12]  opposes an increasing force against the imposed elongation. Its strain hardens.
+[00:03:13 -> 00:03:19]  Up to the point of maximum force, the test piece is strained uniformly along its length.
+[00:03:19 -> 00:03:24]  This means that the test piece gets longer and thinner, but keeps a cylindrical shape.
+[00:03:29 -> 00:03:35]  As soon as the maximum force is reached, a neck begins to form at one point of the test piece.
+[00:03:35 -> 00:03:40]  All further plastic deformation now only takes place at the neck and eventually the test
+[00:03:40 -> 00:03:42]  piece fractures there.
+[00:03:42 -> 00:03:49]  In the recorded force elongation diagram, the force F1 is the force at which the test
+[00:04:13 -> 00:04:20]  piece can sustain elastically. The force Fel at the upper yield point can clearly be seen.
+[00:04:20 -> 00:04:27]  This is the highest force the test piece can sustain elastically. Fel is defined as the
+[00:04:27 -> 00:04:32]  force at the lower yield point, Fmax as the maximum force.
+[00:04:32 -> 00:04:38]  Using these forces, the strength properties of materials can be calculated.
+[00:04:39 -> 00:04:47]  The lower yield strength Rel is defined in a similar way.
+[00:04:47 -> 00:04:54]  The maximum force divided by the original cross-sectional area is called tensile strength Rm.
+[00:04:57 -> 00:05:03]  In the last step, the tester swings the extensometer back into its resting position and removes
+[00:05:03 -> 00:05:05]  the broken test piece.
+[00:05:09 -> 00:05:15]  On the work table, he puts the fragments back together again.
+[00:05:15 -> 00:05:21]  With the help of the distance marks, the percentage elongation after fracture can be determined.
+[00:05:21 -> 00:05:27]  This is the permanent strain after fracture and amounts to about 30% in this example.
+[00:05:27 -> 00:05:34]  Please note that the percentage elongation after fracture depends on the length to diameter ratio.
+[00:05:35 -> 00:05:39]  By measuring the smallest diameter at the point of fracture, the percentage reduction
+[00:05:39 -> 00:05:45]  of area can be calculated. It describes the reduction of cross-sectional area at the point
+[00:05:45 -> 00:05:50]  of fracture in relation to the original cross-sectional area.
+[00:05:50 -> 00:05:57]  In the second tensile test, a material without yield point phenomenon is to be tested.
+[00:05:57 -> 00:06:02]  In this case, it is a precipitation-strengthened aluminium alloy.
+[00:06:02 -> 00:06:08]  The test piece has exactly the same shape and dimensions as the specimen in the first test.
+[00:06:08 -> 00:06:16]  It is cylindrical with an original diameter of 10 mm and an original gauge length of 100 mm.
+[00:06:18 -> 00:06:22]  After fitting the test piece into the testing machine and panning the extensometer
+[00:06:22 -> 00:06:26]  into its working position, the test can start.
+[00:06:33 -> 00:06:41]  The initial linear curve in the force elongation diagram again shows the elastic behaviour of the material.
+[00:06:46 -> 00:06:53]  But this time, the end of the elastic area is not revealed by a sudden drop of force or any distinct change.
+[00:06:53 -> 00:06:59]  There is a smooth and gradual transition from linear elastic behaviour to plastic deformation.
+[00:07:00 -> 00:07:04]  In the further course of the tensile test, the force increases
+[00:07:04 -> 00:07:08]  and the test piece again is strained uniformly along its length.
+[00:07:09 -> 00:07:14]  At the point of maximum force, a neck develops and all subsequent plastic deformation
+[00:07:14 -> 00:07:19]  is confined to this neck until fracture finally occurs there.
+[00:07:20 -> 00:07:26]  As a common substitute for the yield strength, the 0.2% proof strength is used.
+[00:07:26 -> 00:07:32]  It is the stress that causes 0.2% of plastic deformation in the material.
+[00:07:32 -> 00:07:38]  The test piece is then placed in the test machine and the test piece is tested.
+[00:07:38 -> 00:07:44]  The test piece is then placed in the test machine and the test piece is tested.
+[00:07:44 -> 00:07:49]  It is the stress that causes 0.2% of plastic deformation in the material.
+[00:07:51 -> 00:07:53]  And this is the way to calculate it.
+[00:07:53 -> 00:08:00]  First of all, the elongation that corresponds to 0.2% of strain has to be computed.
+[00:08:00 -> 00:08:06]  For an initial gauge length of 100 mm, the result is 0.2 mm.
+[00:08:06 -> 00:08:10]  In the force elongation diagram, a straight line parallel to the elastic line
+[00:08:10 -> 00:08:15]  is drawn through the offset point of 0.2 mm of elongation.
+[00:08:15 -> 00:08:20]  The force at the intersection point of the offset line with the force elongation diagram
+[00:08:20 -> 00:08:23]  is designated as Fp0.2.
+[00:08:23 -> 00:08:28]  This is the force that causes a plastic strain of 0.2%.
+[00:08:28 -> 00:08:33]  The 0.2% proof strength Rp0.2 is equal to Fp0.2
+[00:08:33 -> 00:08:37]  divided by the original cross-sectional area S0.
+[00:08:38 -> 00:08:43]  Tensile strength, percentage elongation after fracture and percentage reduction of area
+[00:08:43 -> 00:08:47]  are calculated in the same way as in the first test.

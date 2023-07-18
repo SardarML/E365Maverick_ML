@@ -1,0 +1,406 @@
+[00:00:00 -> 00:00:05]  Hey, welcome back to Azure Administrator Associate Examination course.
+[00:00:05 -> 00:00:07]  My name is Sushant Sathish.
+[00:00:07 -> 00:00:12]  In this lesson, we're going to learn about Azure Active Directory.
+[00:00:12 -> 00:00:18]  Let's have a look at the topics we're going to see on this particular lesson.
+[00:00:18 -> 00:00:23]  We're going to start with high-level overview on Azure Active Directory.
+[00:00:23 -> 00:00:26]  We're going to go through Azure AD concepts.
+[00:00:26 -> 00:00:29]  It's very important for us to know about what are
+[00:00:29 -> 00:00:34]  the main difference between ADDS versus Azure Active Directory.
+[00:00:34 -> 00:00:36]  Then we will go over what
+[00:00:36 -> 00:00:40]  are the different editions of Azure Active Directories are available.
+[00:00:40 -> 00:00:44]  How can you utilize Azure Active Directory join in
+[00:00:44 -> 00:00:47]  terms of hybrid identity and other services?
+[00:00:47 -> 00:00:51]  Few of the other features including self-service password reset.
+[00:00:51 -> 00:00:54]  We'll touch base on multi-factor authentication
+[00:00:54 -> 00:00:57]  and how to configure the MFA.
+[00:00:57 -> 00:01:00]  Without wasting any more time, let's get into it.
+[00:01:00 -> 00:01:09]  Azure Active Directory or Azure AD is
+[00:01:09 -> 00:01:13]  Microsoft multi-tenant Cloud-based
+[00:01:13 -> 00:01:16]  directory and identity management service.
+[00:01:16 -> 00:01:19]  For IT admins, Azure AD provides
+[00:01:19 -> 00:01:22]  an affordable easy-to-use solution to give
+[00:01:22 -> 00:01:27]  employees and business partners single sign-on access.
+[00:01:27 -> 00:01:31]  This single sign-on access can be enabled for thousands of
+[00:01:31 -> 00:01:35]  Cloud applications like Office 365,
+[00:01:35 -> 00:01:38]  Salesforce, Dropbox, and Concur, etc.
+[00:01:38 -> 00:01:42]  For application developers, Azure AD lets you focus on
+[00:01:42 -> 00:01:45]  building your application by making it fast and
+[00:01:45 -> 00:01:50]  simple to integrate with world-class identity management solution,
+[00:01:50 -> 00:01:55]  used by millions of organizations around the world.
+[00:01:55 -> 00:01:59]  Before I explain the benefits and features of Azure AD,
+[00:01:59 -> 00:02:02]  let me quickly show you where you can
+[00:02:02 -> 00:02:05]  find your Azure Active Directory in the Azure portal.
+[00:02:05 -> 00:02:10]  Now I logged into my Azure portal by going into portal.azure.com.
+[00:02:10 -> 00:02:12]  You can see that I used a user called
+[00:02:12 -> 00:02:15]  Rick Sanchez to sign into the Azure portal.
+[00:02:15 -> 00:02:17]  On the left-hand side,
+[00:02:17 -> 00:02:20]  you would be able to find Azure Active Directory.
+[00:02:20 -> 00:02:22]  If you don't see it over here,
+[00:02:22 -> 00:02:26]  you can go to the global search box and type in
+[00:02:26 -> 00:02:29]  Azure Active Directory and click on
+[00:02:29 -> 00:02:32]  select to go inside the Azure Active Directory.
+[00:02:32 -> 00:02:37]  On the left-hand side, you can find all the settings and options
+[00:02:37 -> 00:02:40]  available for Azure AD including single sign-on,
+[00:02:40 -> 00:02:44]  company branding, device management,
+[00:02:44 -> 00:02:48]  user management, group-based management, etc.
+[00:02:48 -> 00:02:49]  Let me quickly go and explain
+[00:02:49 -> 00:02:53]  some of the benefits and features of Azure AD.
+[00:02:53 -> 00:02:55]  One of the cool benefit of
+[00:02:55 -> 00:02:59]  Azure Active Directory is the single sign-on ability
+[00:02:59 -> 00:03:03]  to log into any Cloud or on-premises web application.
+[00:03:03 -> 00:03:08]  This Azure Active Directory provides secure single sign-on to
+[00:03:08 -> 00:03:12]  Cloud and on-premises application including
+[00:03:12 -> 00:03:15]  Microsoft Office 365 and thousands of
+[00:03:15 -> 00:03:19]  SaaS applications such as Salesforce, Workday,
+[00:03:19 -> 00:03:23]  DocuSign, ServiceNow, and Box, etc.
+[00:03:23 -> 00:03:27]  Azure Active Directory works with iOS,
+[00:03:27 -> 00:03:31]  Mac operating system, Android, and Windows devices.
+[00:03:31 -> 00:03:34]  Users can launch application from
+[00:03:34 -> 00:03:38]  any personalized web-based application panel or mobile app,
+[00:03:38 -> 00:03:42]  or Office 365, or any other custom company portal
+[00:03:42 -> 00:03:45]  using their existing work credentials,
+[00:03:45 -> 00:03:49]  and have the same experience whether they are working on iOS,
+[00:03:49 -> 00:03:52]  Mac operating system, Android, and Windows devices.
+[00:03:52 -> 00:03:55]  You can use Azure Active Directory to protect
+[00:03:55 -> 00:04:00]  on-premises web application with secure remote access as well.
+[00:04:00 -> 00:04:03]  You can access your on-premises web application from
+[00:04:03 -> 00:04:05]  anywhere and protect with
+[00:04:05 -> 00:04:09]  multi-factor authentication, conditional access policies,
+[00:04:09 -> 00:04:13]  or group-based management access control.
+[00:04:13 -> 00:04:15]  Users can access SaaS and
+[00:04:15 -> 00:04:18]  on-premises web apps from the same portal.
+[00:04:18 -> 00:04:23]  Another cool thing about Azure AD is
+[00:04:23 -> 00:04:27]  the ability to extend your Active Directory to the Cloud.
+[00:04:27 -> 00:04:30]  You can connect your Azure AD and
+[00:04:30 -> 00:04:32]  other on-premises directory to
+[00:04:32 -> 00:04:35]  your Azure Active Directory in just a few clicks.
+[00:04:35 -> 00:04:39]  Maintain a consistent set of users, groups,
+[00:04:39 -> 00:04:43]  passwords, and devices across this environment.
+[00:04:43 -> 00:04:47]  Another great feature comes with Azure AD is about protection.
+[00:04:47 -> 00:04:52]  You can protect your sensitive data and applications.
+[00:04:52 -> 00:04:55]  You can enhance application access security with
+[00:04:55 -> 00:04:59]  unique identity protection capabilities that provide
+[00:04:59 -> 00:05:01]  a consolidated view into
+[00:05:01 -> 00:05:05]  suspicious sign-in activity and potential vulnerabilities.
+[00:05:05 -> 00:05:07]  If you are an Office 365,
+[00:05:07 -> 00:05:11]  Azure, or Dynamics 365 online customer,
+[00:05:11 -> 00:05:16]  you might not realize that you are already using Azure AD.
+[00:05:16 -> 00:05:19]  Every Office 365, Azure,
+[00:05:19 -> 00:05:25]  and Dynamics 365 CRM tenants is already an Azure AD tenant.
+[00:05:25 -> 00:05:29]  Whenever you want to start using the tenant to manage
+[00:05:29 -> 00:05:32]  access to thousands of other Cloud application,
+[00:05:32 -> 00:05:36]  just log into portal.azure.com and you will be
+[00:05:36 -> 00:05:40]  able to access your tenant's Azure Active Directory from there.
+[00:05:40 -> 00:05:44]  Let's have a look into some of the Azure AD concepts.
+[00:05:44 -> 00:05:48]  Identity is a thing that can get authenticated.
+[00:05:48 -> 00:05:53]  An identity can be a user with a username and password.
+[00:05:53 -> 00:05:58]  Identities also include applications or
+[00:05:58 -> 00:05:59]  other servers that might require
+[00:05:59 -> 00:06:04]  authentication through secret keys or certificates.
+[00:06:04 -> 00:06:07]  What are accounts?
+[00:06:07 -> 00:06:12]  Accounts are an identity that has data associated with it.
+[00:06:12 -> 00:06:16]  You cannot have an account without an identity.
+[00:06:17 -> 00:06:20]  Let's have a look at Azure AD account.
+[00:06:20 -> 00:06:25]  An identity created through Azure AD or
+[00:06:25 -> 00:06:27]  another Microsoft Cloud service such as
+[00:06:27 -> 00:06:32]  Office 365 is called an Azure AD account.
+[00:06:32 -> 00:06:36]  Identities are stored in Azure AD and
+[00:06:36 -> 00:06:41]  accessible to your organization's Cloud service subscriptions.
+[00:06:41 -> 00:06:48]  This account is also sometimes called a work or school account.
+[00:06:48 -> 00:06:51]  What do you mean by an Azure tenant?
+[00:06:51 -> 00:06:57]  Azure tenant is a dedicated and trusted instance of an Azure AD
+[00:06:57 -> 00:07:01]  that's automatically created when your organization signs
+[00:07:01 -> 00:07:04]  up for a Microsoft Cloud service subscription,
+[00:07:04 -> 00:07:06]  such as Microsoft Azure,
+[00:07:06 -> 00:07:10]  Microsoft Intune, or Office 365.
+[00:07:10 -> 00:07:15]  An Azure tenant represents a single organization.
+[00:07:16 -> 00:07:19]  What is an Azure AD directory?
+[00:07:19 -> 00:07:26]  Each Azure tenant has a dedicated and trusted Azure AD directory.
+[00:07:26 -> 00:07:30]  The Azure AD directory includes the tenant users,
+[00:07:30 -> 00:07:33]  groups, and apps, and is used to perform
+[00:07:33 -> 00:07:39]  identity and access manage functions for the tenant resources.
+[00:07:39 -> 00:07:44]  Finally, what is this user subscription or Azure subscription?
+[00:07:44 -> 00:07:49]  Azure subscription is used to pay for your Azure Cloud services.
+[00:07:49 -> 00:07:53]  You can have many subscription and have link to
+[00:07:53 -> 00:07:58]  a credit card or to your organization's accounts as well.
+[00:07:58 -> 00:08:01]  So let's look at how different is
+[00:08:01 -> 00:08:06]  this Azure Active Directory with Active Directory domain services.
+[00:08:06 -> 00:08:10]  It is important to realize that using Azure AD is
+[00:08:10 -> 00:08:14]  different from deploying an Active Directory domain controller.
+[00:08:14 -> 00:08:17]  It is important for us to realize that using
+[00:08:17 -> 00:08:21]  Azure AD is quite different from deploying
+[00:08:21 -> 00:08:23]  an Active Directory domain controller on
+[00:08:23 -> 00:08:26]  an Azure virtual machine and
+[00:08:26 -> 00:08:29]  adding it to your on-premises domain controller.
+[00:08:29 -> 00:08:32]  Let me make it clear that what are some of
+[00:08:32 -> 00:08:34]  the characteristics that is making
+[00:08:34 -> 00:08:37]  this Azure AD different from AD DS.
+[00:08:37 -> 00:08:41]  The first one is identity solution.
+[00:08:41 -> 00:08:45]  Azure AD is primarily an identity solution.
+[00:08:45 -> 00:08:49]  It is designed for Internet-based application by
+[00:08:49 -> 00:08:55]  using HTTP and HTTPS communications.
+[00:08:55 -> 00:09:08]  Because Azure AD is used for HTTP and HTTPS-based communication,
+[00:09:08 -> 00:09:12]  it cannot be used for querying through LDAP.
+[00:09:12 -> 00:09:21]  Instead, Azure AD uses REST APIs over HTTP and HTTPS.
+[00:09:21 -> 00:09:26]  Because Azure AD is HTTP versus HTTPS-based,
+[00:09:26 -> 00:09:30]  it does not use Kerberos authentication.
+[00:09:30 -> 00:09:37]  Instead, it uses HTTP and HTTPS protocols such as SAML,
+[00:09:37 -> 00:09:43]  WS Federation, and OpenID Connect for authentication.
+[00:09:43 -> 00:09:48]  Azure AD includes federation services and many third-party services
+[00:09:48 -> 00:09:54]  such as Facebook, LinkedIn, Twitter, Google, etc.
+[00:09:54 -> 00:09:59]  Azure AD users and groups are created in
+[00:09:59 -> 00:10:03]  a flat structure and there are no organizational units
+[00:10:03 -> 00:10:08]  or group policy objects or GPOs in Azure AD.
+[00:10:08 -> 00:10:10]  Azure AD is a managed service.
+[00:10:10 -> 00:10:12]  You can manage the users,
+[00:10:12 -> 00:10:16]  groups, and policies using Azure AD.
+[00:10:16 -> 00:10:21]  When you deploy AD DS with virtual machine in Azure,
+[00:10:21 -> 00:10:25]  that means that you are going to manage the deployment,
+[00:10:25 -> 00:10:27]  configuration, virtual machine,
+[00:10:27 -> 00:10:30]  patching, and all other back-end tasks.
+[00:10:31 -> 00:10:33]  Now that we have learned about what are
+[00:10:33 -> 00:10:37]  the main difference between AD DS versus Azure AD,
+[00:10:37 -> 00:10:39]  let's have a quick look into what are
+[00:10:39 -> 00:10:43]  the different types of Azure Active Directory editions available.
+[00:10:43 -> 00:10:46]  Azure AD is a managed service.
+[00:10:46 -> 00:10:49]  It is a service that is managed by Azure AD.
+[00:10:49 -> 00:10:52]  It is a service that is managed by Azure AD.
+[00:10:52 -> 00:10:55]  It is a service that is managed by Azure AD.
+[00:10:55 -> 00:10:58]  It is a service that is managed by Azure AD.
+[00:10:58 -> 00:11:02]  Let's have a look at what are the different editions available.
+[00:11:02 -> 00:11:07]  Azure Active Directory comes in four different editions.
+[00:11:07 -> 00:11:10]  Free, Office 365 apps,
+[00:11:10 -> 00:11:14]  Premium P1, and Premium P2.
+[00:11:14 -> 00:11:18]  The free edition is included with an Azure subscription.
+[00:11:18 -> 00:11:21]  The premium editions are available through
+[00:11:21 -> 00:11:24]  a Microsoft Enterprise Agreement,
+[00:11:24 -> 00:11:26]  the volume licensing,
+[00:11:26 -> 00:11:30]  Cloud Solution Providers Program, or CSP.
+[00:11:30 -> 00:11:34]  Azure and Office 365 subscribers can
+[00:11:34 -> 00:11:37]  also buy Azure Active Directory P1 and P2 online.
+[00:11:37 -> 00:11:41]  What comes with Azure Active Directory free option?
+[00:11:41 -> 00:11:47]  Azure AD free provides user and group management.
+[00:11:47 -> 00:11:51]  Then it gives you on-premises directory synchronization,
+[00:11:51 -> 00:11:54]  basic reports, and single sign-on across
+[00:11:54 -> 00:12:00]  Azure Office 365 and many popular SaaS applications.
+[00:12:00 -> 00:12:04]  Azure Active Directory Office 365 apps,
+[00:12:04 -> 00:12:08]  this edition is included with your Office 365.
+[00:12:08 -> 00:12:10]  In addition to the free features,
+[00:12:10 -> 00:12:13]  this edition provides identity and
+[00:12:13 -> 00:12:16]  access management for your Office 365 apps,
+[00:12:16 -> 00:12:21]  including branding, MFA, group access management,
+[00:12:21 -> 00:12:24]  and self-service password reset for Cloud users.
+[00:12:24 -> 00:12:28]  Let's look at Azure AD P1 or Premium 1.
+[00:12:28 -> 00:12:30]  In addition to the free features,
+[00:12:30 -> 00:12:33]  P1 also lets your hybrid users
+[00:12:33 -> 00:12:37]  access both on-premises and Cloud resources.
+[00:12:37 -> 00:12:42]  It also supports advanced administration such as dynamic groups,
+[00:12:42 -> 00:12:46]  self-service group management, Microsoft Identity Manager,
+[00:12:46 -> 00:12:49]  and Cloud write-back capabilities,
+[00:12:49 -> 00:12:51]  which allows self-service password
+[00:12:51 -> 00:12:55]  reset for your on-premises users.
+[00:12:55 -> 00:12:57]  Last but not the least,
+[00:12:57 -> 00:12:59]  Azure Active Directory P2.
+[00:12:59 -> 00:13:02]  In addition to the free and P1 features,
+[00:13:02 -> 00:13:08]  P2 also offers Azure Active Directory identity protection to help
+[00:13:08 -> 00:13:11]  provide risk-based conditional access
+[00:13:11 -> 00:13:14]  to your application and critical company data,
+[00:13:14 -> 00:13:17]  and privileged identity management to help
+[00:13:17 -> 00:13:20]  discover, restrict, and monitor
+[00:13:20 -> 00:13:23]  administrators and their access to
+[00:13:23 -> 00:13:28]  resources and to provide just-in-time access when needed.
+[00:13:28 -> 00:13:34]  Azure Active Directory or Azure AD enables single sign-on to devices,
+[00:13:34 -> 00:13:37]  apps, and services from anywhere.
+[00:13:37 -> 00:13:40]  The proliferation of devices,
+[00:13:40 -> 00:13:42]  including bring your own device,
+[00:13:42 -> 00:13:47]  empowers end-users to be productive wherever and whenever.
+[00:13:47 -> 00:13:52]  But IT administrators must ensure corporate assets are
+[00:13:52 -> 00:13:59]  protected and that devices meet standard for security and compliance.
+[00:13:59 -> 00:14:05]  Azure AD Join is designed to provide access to organizational apps and
+[00:14:05 -> 00:14:12]  resources and to simplify Windows deployments of work-owned devices.
+[00:14:12 -> 00:14:15]  Azure AD has many benefits.
+[00:14:15 -> 00:14:18]  Let me take you through a few of those.
+[00:14:18 -> 00:14:21]  The first benefit is single sign-on.
+[00:14:21 -> 00:14:24]  Your users will not have
+[00:14:24 -> 00:14:29]  additional authentication prompts when accessing work resources.
+[00:14:29 -> 00:14:33]  The single sign-on functionality is available even when
+[00:14:33 -> 00:14:37]  users are not connected to the domain network.
+[00:14:37 -> 00:14:41]  The next one is enterprise-compliant roaming.
+[00:14:41 -> 00:14:47]  This enterprise-compliant roaming of users setting across joint devices.
+[00:14:47 -> 00:14:51]  Users don't need to connect to a Microsoft account,
+[00:14:51 -> 00:14:54]  for example, Hotmail or Outlook,
+[00:14:54 -> 00:14:57]  to observe settings across devices.
+[00:14:57 -> 00:15:02]  The third benefit is access to Microsoft Store for Business.
+[00:15:02 -> 00:15:06]  This is being used by using an Azure Active Directory account.
+[00:15:06 -> 00:15:10]  Your users can choose from an inventory of
+[00:15:10 -> 00:15:14]  applications pre-selected by the organization.
+[00:15:14 -> 00:15:16]  The Windows Hello support for
+[00:15:16 -> 00:15:20]  secure and convenient access to work resources.
+[00:15:20 -> 00:15:26]  Another benefit is restriction of access to apps from only devices,
+[00:15:26 -> 00:15:28]  that means compliance policy.
+[00:15:28 -> 00:15:33]  What about seamless access to your on-premises resources when
+[00:15:33 -> 00:15:38]  the device has the line of sight to the on-premises domain controller?
+[00:15:38 -> 00:15:42]  Another key concept we need to understand are,
+[00:15:42 -> 00:15:44]  what are the connection options?
+[00:15:44 -> 00:15:48]  To get a device under the control of Azure AD,
+[00:15:48 -> 00:15:53]  you have primarily two options, registering and joining.
+[00:15:53 -> 00:15:57]  Let me explain to you what is the main difference between registering
+[00:15:57 -> 00:16:00]  a device and joining a device means for you.
+[00:16:00 -> 00:16:06]  Registering a device to Azure AD enables you to manage a device identity.
+[00:16:06 -> 00:16:09]  When a device is registered,
+[00:16:09 -> 00:16:14]  Azure AD device registration provides the device with an identity,
+[00:16:14 -> 00:16:19]  that is used to authenticate the device when a user sign into Azure AD.
+[00:16:19 -> 00:16:25]  You can use the identity to enable or disable a device.
+[00:16:25 -> 00:16:30]  Joining a device is an extension to registering a device.
+[00:16:30 -> 00:16:35]  This means that it provides you with all the benefits of registering a device,
+[00:16:35 -> 00:16:37]  and in addition to this,
+[00:16:37 -> 00:16:41]  it also changes the local state of the device.
+[00:16:41 -> 00:16:46]  Changing the local state enables your users to sign into device using
+[00:16:46 -> 00:16:52]  an organizational work or school account instead of a personal account.
+[00:16:52 -> 00:16:58]  So the registration combined with the mobile device management or
+[00:16:58 -> 00:17:01]  MDM solutions such as Microsoft Intune provide
+[00:17:01 -> 00:17:04]  additional device attributes to Azure AD.
+[00:17:04 -> 00:17:06]  This allows you to create
+[00:17:06 -> 00:17:09]  conditional access rules that enforces access from
+[00:17:09 -> 00:17:14]  devices to meet your standards for security and compliance.
+[00:17:14 -> 00:17:19]  Although Azure AD join is intended for organization that do not have
+[00:17:19 -> 00:17:23]  on-premises Windows Server Active Directory infrastructure,
+[00:17:23 -> 00:17:28]  it can be used for other scenarios such as branch offices, etc.
+[00:17:28 -> 00:17:33]  Let's learn about what is Azure Multi-Factor Authentication.
+[00:17:33 -> 00:17:36]  Azure Multi-Factor Authentication or MFA,
+[00:17:36 -> 00:17:40]  helps safeguard access to data and
+[00:17:40 -> 00:17:44]  applications while maintaining simplicity for users.
+[00:17:44 -> 00:17:48]  It provides additional security by requiring
+[00:17:48 -> 00:17:51]  a second form of authentication and delivers
+[00:17:51 -> 00:17:56]  strong authentication through a range of easy-to-use authentication methods.
+[00:17:56 -> 00:17:59]  So for organization that need to complement
+[00:17:59 -> 00:18:03]  with industry standards such as PCI DSS,
+[00:18:03 -> 00:18:08]  MFA is a must-have capability to authenticate users.
+[00:18:08 -> 00:18:12]  Beyond being compliant with industry standards,
+[00:18:12 -> 00:18:15]  enforcing MFA to authenticate users can help
+[00:18:15 -> 00:18:20]  organizations to mitigate potential theft attacks.
+[00:18:20 -> 00:18:25]  The security of MFA two-step verification lies in a layered approach.
+[00:18:25 -> 00:18:28]  Compromising multiple authentication factors
+[00:18:28 -> 00:18:31]  presents a significant challenge for attackers.
+[00:18:31 -> 00:18:35]  Even if the attacker managed to learn the user's password,
+[00:18:35 -> 00:18:37]  it is useless without having
+[00:18:37 -> 00:18:40]  the possession of additional authentication methods.
+[00:18:40 -> 00:18:42]  These additional authentication methods
+[00:18:42 -> 00:18:45]  include something you know,
+[00:18:45 -> 00:18:48]  typically a password, something you have,
+[00:18:48 -> 00:18:52]  which is a trusted device that is not easily duplicated like
+[00:18:52 -> 00:18:57]  a phone and something you are, which is biometrics.
+[00:18:57 -> 00:19:01]  There are so many benefits to multi-factor authentication.
+[00:19:01 -> 00:19:06]  Some of the features are get more security with less complexity,
+[00:19:06 -> 00:19:11]  migrating threats with a real-time monitoring and alerts,
+[00:19:11 -> 00:19:14]  use with Office 365, Salesforce,
+[00:19:14 -> 00:19:19]  and more, and protection for Azure administrator accounts.
+[00:19:19 -> 00:19:23]  You can access multi-factor authentication by going into
+[00:19:23 -> 00:19:26]  the Azure AD portal and
+[00:19:26 -> 00:19:29]  click on the hyperlink to come to this particular page.
+[00:19:29 -> 00:19:31]  This is where you would be able to see
+[00:19:31 -> 00:19:34]  all the users who is part of your Azure AD.
+[00:19:34 -> 00:19:38]  You can filter these by who you enabled the MFA,
+[00:19:38 -> 00:19:42]  who you have enforced the MFA,
+[00:19:42 -> 00:19:46]  and you can filter these users by sign-in,
+[00:19:46 -> 00:19:48]  built, sign-in allowed users,
+[00:19:48 -> 00:19:52]  billing administrators, global admin, etc.
+[00:19:52 -> 00:19:54]  On the right-hand side, you can see
+[00:19:54 -> 00:19:56]  the details of which is enabled or disabled.
+[00:19:56 -> 00:20:00]  You can click a user to go to quick steps.
+[00:20:00 -> 00:20:04]  Quick steps allow you to disable an already enabled account,
+[00:20:04 -> 00:20:07]  and you can click on manage user settings.
+[00:20:07 -> 00:20:11]  You would be able to enforce these settings for your users.
+[00:20:11 -> 00:20:14]  The first one lets you force
+[00:20:14 -> 00:20:17]  the users to provide the contact information again.
+[00:20:17 -> 00:20:20]  You can delete all existing app password
+[00:20:20 -> 00:20:22]  generated for a selected user,
+[00:20:22 -> 00:20:24]  and you can restore MFA authentication
+[00:20:24 -> 00:20:28]  on all remembered devices.
+[00:20:28 -> 00:20:33]  You can go to the service settings page over here.
+[00:20:33 -> 00:20:37]  This lets you control additional features for your MFA.
+[00:20:37 -> 00:20:41]  Things like, do you want to enable the app password?
+[00:20:41 -> 00:20:43]  If you would like to whitelist certain IP,
+[00:20:43 -> 00:20:46]  you can provide all the trusted IPs over here,
+[00:20:46 -> 00:20:48]  so the users will not be prompted
+[00:20:48 -> 00:20:54]  for dual-factor authentication if you turn this on.
+[00:20:54 -> 00:20:56]  And there is verification options as well.
+[00:20:56 -> 00:20:58]  There are four methods available,
+[00:20:58 -> 00:21:01]  so you are good to choose any one of these,
+[00:21:01 -> 00:21:04]  or you can choose multiple as well.
+[00:21:04 -> 00:21:07]  So the first option is call to phone.
+[00:21:07 -> 00:21:11]  This option allows you to place an automated voice call.
+[00:21:11 -> 00:21:13]  The user answers the call
+[00:21:13 -> 00:21:17]  and presses hash key to authenticate.
+[00:21:17 -> 00:21:20]  Then we have text message to phone.
+[00:21:20 -> 00:21:21]  This sends a text message
+[00:21:21 -> 00:21:26]  that contains a verification code to the user.
+[00:21:26 -> 00:21:28]  We have notification through mobile app.
+[00:21:28 -> 00:21:30]  This sends a push notification
+[00:21:30 -> 00:21:33]  to your phone or registered device.
+[00:21:33 -> 00:21:36]  And finally, we have a verification code
+[00:21:36 -> 00:21:40]  from the mobile app or hardware token.
+[00:21:40 -> 00:21:43]  This is the way the Microsoft Authenticator app
+[00:21:43 -> 00:21:49]  generates a new OAuth verification code every 30 seconds.
+[00:21:49 -> 00:21:53]  And once you make these changes, you can hit on save.
+[00:21:53 -> 00:21:55]  And this is another option where you can enable
+[00:21:55 -> 00:21:57]  to remember the multi-factor authentication.
+[00:21:57 -> 00:22:01]  So depending on the number of days you're given,
+[00:22:01 -> 00:22:04]  the MFA will remember not to prompt
+[00:22:04 -> 00:22:07]  or re-authenticate those users
+[00:22:07 -> 00:22:10]  who is already signed in with the MFA.
+[00:22:10 -> 00:22:13]  All right, so the last topic on this lesson
+[00:22:13 -> 00:22:16]  is self-service password reset.
+[00:22:16 -> 00:22:20]  The large majority of helpdesk call in most companies
+[00:22:20 -> 00:22:25]  are requested to reset password for users.
+[00:22:25 -> 00:22:28]  Enabling self-service password reset,
+[00:22:28 -> 00:22:30]  or it is known as SSPR,
+[00:22:30 -> 00:22:34]  gives the users the ability to bypass
+[00:22:34 -> 00:22:38]  the helpdesk and reset their own password.
+[00:22:38 -> 00:22:41]  To configure self-service password reset,
+[00:22:41 -> 00:22:45]  you first determine who will be enabled
+[00:22:45 -> 00:22:48]  to use self-service password reset.
+[00:22:48 -> 00:22:51]  On the Azure portal, under Azure Active Directory,
+[00:22:51 -> 00:22:54]  select password reset.
+[00:22:54 -> 00:22:56]  In the password reset properties,
+[00:22:56 -> 00:23:00]  there are three options,
+[00:23:00 -> 00:23:04]  none, selected, and all.
+[00:23:04 -> 00:23:08]  The selected option is useful for creating specific groups
+[00:23:08 -> 00:23:13]  who have self-service password reset enabled.
+[00:23:13 -> 00:23:16]  The Azure documentation recommends
+[00:23:16 -> 00:23:19]  creating a specific group for this purpose
+[00:23:19 -> 00:23:22]  for testing or proof of concept
+[00:23:22 -> 00:23:24]  before deploying it to a larger group
+[00:23:24 -> 00:23:27]  within your Azure AD tenant.
+[00:23:27 -> 00:23:28]  Once you're ready to deploy,
+[00:23:28 -> 00:23:32]  this functionality to all users with accounts
+[00:23:32 -> 00:23:34]  in your Azure AD tenant,
+[00:23:34 -> 00:23:37]  you can change the settings to all.
+[00:23:37 -> 00:23:41]  After enabling password reset for users and groups,
+[00:23:41 -> 00:23:44]  you can pick the number of authentication method
+[00:23:44 -> 00:23:46]  required to reset the password
+[00:23:46 -> 00:23:48]  and the number of authentication methods
+[00:23:48 -> 00:23:51]  available to users.
+[00:23:51 -> 00:23:54]  At least one authentication method
+[00:23:54 -> 00:23:58]  is required to reset a password.
+[00:23:58 -> 00:24:02]  But it is a good idea to have additional methods available.
+[00:24:02 -> 00:24:05]  You can choose from email notification,
+[00:24:05 -> 00:24:10]  text or code sent to your user's mobile or office phone,
+[00:24:10 -> 00:24:14]  or send the security questions as well.
+[00:24:14 -> 00:24:16]  Regarding the security questions,
+[00:24:16 -> 00:24:19]  these can be configured to require
+[00:24:19 -> 00:24:21]  a certain number of questions
+[00:24:21 -> 00:24:25]  to be registered for the users in your Azure AD tenant.
+[00:24:25 -> 00:24:28]  In addition, you must configure the number
+[00:24:28 -> 00:24:31]  of correctly answered security questions
+[00:24:31 -> 00:24:35]  that are required for a successful password reset.
+[00:24:35 -> 00:24:39]  Please note that the Azure administrator account
+[00:24:39 -> 00:24:43]  will always will be able to reset their password
+[00:24:43 -> 00:24:47]  no matter what their option is set to.
+[00:24:47 -> 00:24:51]  Now with that, we have completed the first lesson.
+[00:24:51 -> 00:24:52]  Thank you so much for listening.
+[00:24:52 -> 00:24:55]  I hope the information provided was useful.
+[00:24:56 -> 00:24:57]  In the next lesson,
+[00:24:57 -> 00:25:00]  we're going to learn about users and groups.
+[00:25:00 -> 00:25:01]  So I will see you in the next one.
+[00:25:01 -> 00:25:03]  Till then, take care.

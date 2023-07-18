@@ -1,0 +1,53 @@
+[00:00:00 -> 00:00:14]  In here, we are doing something different.
+[00:00:14 -> 00:00:18]  In a traditional classroom, students are usually the consumers of knowledge.
+[00:00:18 -> 00:00:22]  The teacher gives them the information, they digest it, and then they use it later on.
+[00:00:22 -> 00:00:25]  In my class, it looks a little bit different.
+[00:00:25 -> 00:00:28]  We are makers of knowledge.
+[00:00:28 -> 00:00:30]  This is like your wilderness, like your playroom.
+[00:00:30 -> 00:00:31]  What do you want to do?
+[00:00:31 -> 00:00:32]  What do you want to solve?
+[00:00:32 -> 00:00:36]  What's the next problem you want to attack and make it happen?
+[00:00:36 -> 00:00:40]  As we know, manufacturing is growing really rapidly at this point.
+[00:00:40 -> 00:00:43]  So making sure that these students are prepared for careers that may not exist even today
+[00:00:43 -> 00:00:45]  is what my priority is.
+[00:00:45 -> 00:00:50]  You're starting from something, sketching out an idea on paper, and then we get that
+[00:00:50 -> 00:00:55]  sketch digitally converted and then brought into Easel and Image Trace.
+[00:00:55 -> 00:00:58]  Now you've taken this thing that you did by hand, and now you've got it in some sort
+[00:00:58 -> 00:01:01]  of workspace, and you can do things with it in that workspace that you can't do with it
+[00:01:01 -> 00:01:02]  on paper.
+[00:01:02 -> 00:01:07]  You're able to now manipulate it and get sort of a visual representation of what this thing
+[00:01:07 -> 00:01:09]  might look like, but you're still in this software space.
+[00:01:09 -> 00:01:11]  It's still this virtual world, and it's really cool.
+[00:01:11 -> 00:01:14]  It's not made yet, and you're almost there, but you're not there yet.
+[00:01:14 -> 00:01:18]  The learning curve is very, very short for Easel because it's such a simple app.
+[00:01:18 -> 00:01:22]  As soon as they open it, 5, 10, 15 minutes, they're ready to create stuff on Easel and
+[00:01:22 -> 00:01:25]  then sending it to Carvey, making it awesome.
+[00:01:25 -> 00:01:30]  This is all happens in here, in a class, because of these tools and access to these tools now
+[00:01:30 -> 00:01:31]  being possible.
+[00:01:31 -> 00:01:34]  Before, it would be, hey, can we get a $300,000 machine in here?
+[00:01:34 -> 00:01:38]  The answer is usually no, especially in a school, in a public school, too.
+[00:01:38 -> 00:01:41]  3D carving is also great because of the speed that students can make stuff with.
+[00:01:41 -> 00:01:46]  They jump on a computer, it's very quick to design, it's very quick to send to the Carvey,
+[00:01:46 -> 00:01:50]  and then the process of carving, comparing to 3D printing, compares much, much more last
+[00:01:50 -> 00:01:53]  time than it would take them to build something in a 3D printer.
+[00:01:53 -> 00:01:55]  And I think that's probably the most mesmerizing thing about it.
+[00:01:55 -> 00:01:58]  If it's just going to carve a square, you might think, okay, it carved a square, but
+[00:01:58 -> 00:02:03]  to see this thing with such flow and precision following the design they had, and then they've
+[00:02:03 -> 00:02:09]  got all of a sudden this perfect replication of what their idea was in physical form.
+[00:02:09 -> 00:02:13]  Carvey really enables students to take their ideas to real life.
+[00:02:13 -> 00:02:16]  It's really great because it's very safe for students to use.
+[00:02:16 -> 00:02:19]  It allows them to make a lot of things in a short period of time.
+[00:02:19 -> 00:02:26]  And here we have this beautiful sort of Venn diagram middle of art and engineering and
+[00:02:26 -> 00:02:32]  math and physics and sciences and programming and hardware stuff and manipulating physical
+[00:02:32 -> 00:02:36]  things and turning virtual ideas into reality.
+[00:02:36 -> 00:02:41]  And I think that what tools like Easel and Carvey are doing is showing kids that there's
+[00:02:41 -> 00:02:45]  a creative aspect to technology that they're not used to seeing.
+[00:02:46 -> 00:02:52]  They're proud of it, and they're like, they're re-proud of it when they see it again.
+[00:02:52 -> 00:02:56]  So they see and they know what they went through to make it happen, and they can hold it, and
+[00:02:56 -> 00:03:00]  they can sort of relive the creative experience that they had.
+[00:03:02 -> 00:03:03]  I'm Jeff Solon.
+[00:03:03 -> 00:03:10]  I am a computer science and making teacher and robotics coach and father and musician
+[00:03:10 -> 00:03:15]  and husband and terrible skateboarder and beard griller in the Chicago Public Schools
+[00:03:15 -> 00:03:16]  at Lane Tech High School.
+[00:03:16 -> 00:03:20]  My name is Peter Wichacek, and I am a 6th grade design teacher at Pulaski International
+[00:03:20 -> 00:03:22]  School of Chicago, and we make stuff.

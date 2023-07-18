@@ -1,0 +1,25 @@
+[00:00:00 -> 00:00:13]  More and more organizations are using cloud-managed database services for improved agility and
+[00:00:13 -> 00:00:16]  lower costs.
+[00:00:16 -> 00:00:23]  This is great for everyone, but it means big changes and more work for our security teams.
+[00:00:23 -> 00:00:30]  Improving end-user freedom and flexibility can expose your database to additional vulnerabilities.
+[00:00:30 -> 00:00:35]  Cloud services are not fail-safe and operate on a shared responsibility model.
+[00:00:35 -> 00:00:40]  Ultimately, you are responsible for protecting your data.
+[00:00:40 -> 00:00:46]  It's easy to lose sight of new data repositories spun up in the cloud, and this lack of visibility
+[00:00:46 -> 00:00:52]  makes pinpointing the location of sensitive data a challenge and a security risk.
+[00:00:52 -> 00:00:57]  Manually attempting to gain visibility into data repositories to apply policies for security
+[00:00:57 -> 00:01:03]  and compliance is time-consuming and can be susceptible to errors.
+[00:01:03 -> 00:01:10]  Every moment a database is unprotected, the risk of malicious access and data theft rises.
+[00:01:10 -> 00:01:15]  Imperver Cloud Data Security dramatically simplifies securing your data repositories
+[00:01:15 -> 00:01:21]  in AWS, enabling your security team to keep up with the speed of DevOps.
+[00:01:22 -> 00:01:27]  Within minutes, Imperver Cloud Data Security automatically finds and classifies sensitive
+[00:01:27 -> 00:01:31]  data in managed database services.
+[00:01:31 -> 00:01:36]  We continuously monitor who is accessing your data and will notify your team of policy-violating
+[00:01:36 -> 00:01:40]  behavior that puts your data at risk.
+[00:01:40 -> 00:01:46]  This means that your sensitive data can only be accessed by your approved users.
+[00:01:46 -> 00:01:52]  Because Imperver Cloud Data Security is SaaS, you don't get a project, just a solution.
+[00:01:52 -> 00:01:57]  There's nothing to install and nothing to deploy.
+[00:01:57 -> 00:02:03]  Without the need for AWS expertise, you'll get data discovery, classification, policy
+[00:02:03 -> 00:02:07]  creation and reporting straight out of the box.
+[00:02:07 -> 00:02:13]  Thousands of our customers trust Imperver to protect their data.
+[00:02:13 -> 00:02:15]  We're here to help at imperver.com
+[00:02:16 -> 00:02:26]  www.imperver.com

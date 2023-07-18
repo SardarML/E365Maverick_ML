@@ -1,0 +1,82 @@
+[00:00:00 -> 00:00:02]  A key to our interest in thermodynamics as chemists
+[00:00:02 -> 00:00:05]  is the idea of thermodynamic spontaneity.
+[00:00:05 -> 00:00:08]  And it's unfortunate that we use the term spontaneity
+[00:00:08 -> 00:00:10]  because everyone already has an idea about what that means.
+[00:00:10 -> 00:00:13]  And as chemists, thermodynamic spontaneity does not mean
+[00:00:13 -> 00:00:15]  that we are prone to throwing confetti
+[00:00:15 -> 00:00:18]  or breaking out into dance at any moment.
+[00:00:18 -> 00:00:22]  But thermodynamic spontaneity has a very particular meaning.
+[00:00:22 -> 00:00:23]  So in thermodynamics, we're always thinking about
+[00:00:23 -> 00:00:27]  starting at some initial state and going to some final state.
+[00:00:28 -> 00:00:30]  If we say that process is spontaneous,
+[00:00:30 -> 00:00:34]  all it means is that process can actually happen.
+[00:00:34 -> 00:00:38]  Things that are non-spontaneous are things that can never happen.
+[00:00:38 -> 00:00:41]  And the reason this is is the second law of thermodynamics.
+[00:00:41 -> 00:00:45]  So spontaneous processes, processes that happen,
+[00:00:45 -> 00:00:49]  are things which increase the entropy of the universe.
+[00:00:49 -> 00:00:50]  Now it sounds very complicated,
+[00:00:50 -> 00:00:54]  but it's actually something that you have a lot of intuition for
+[00:00:54 -> 00:00:56]  when you're looking at things that happen in the everyday world.
+[00:00:56 -> 00:01:00]  So let's imagine I had a brick in my hand,
+[00:01:00 -> 00:01:02]  and I was to let go of the brick.
+[00:01:02 -> 00:01:05]  No one would be surprised at all that the brick falls to the floor
+[00:01:05 -> 00:01:08]  because that's a spontaneous process.
+[00:01:08 -> 00:01:10]  So the initial state is the brick in my hand,
+[00:01:10 -> 00:01:12]  the final state is the brick on the floor,
+[00:01:12 -> 00:01:15]  and that happens without any problems.
+[00:01:15 -> 00:01:19]  But I can stand with my hand over the brick for as long as I want,
+[00:01:19 -> 00:01:22]  hoping that it will fly back up into my hand.
+[00:01:22 -> 00:01:25]  But the reverse process will never happen.
+[00:01:25 -> 00:01:30]  And that's because dropping the brick increases the entropy of the universe.
+[00:01:30 -> 00:01:33]  The energy that was stored in the potential energy of the brick
+[00:01:33 -> 00:01:37]  is converted into kinetic energy as the brick falls.
+[00:01:37 -> 00:01:38]  And then as the brick hits the ground,
+[00:01:38 -> 00:01:41]  that energy is dispersed in vibrations in the floor,
+[00:01:41 -> 00:01:44]  and then vibrations out into the building,
+[00:01:44 -> 00:01:45]  and then vibrations into the ground,
+[00:01:45 -> 00:01:48]  and then out to the edges of the universe.
+[00:01:48 -> 00:01:52]  I can wait as long as I want for that energy to come back
+[00:01:52 -> 00:01:56]  and concentrate under the brick and fly up into my hand,
+[00:01:56 -> 00:01:58]  but it will never happen.
+[00:01:58 -> 00:02:02]  And that's because the forward reaction is spontaneous,
+[00:02:02 -> 00:02:04]  but the reverse is not.
+[00:02:04 -> 00:02:07]  Now, it's much more difficult to look at a chemical reaction
+[00:02:07 -> 00:02:08]  and just say,
+[00:02:08 -> 00:02:12]  aha, the forward is spontaneous, but the reverse is not.
+[00:02:12 -> 00:02:14]  But thankfully, we have a way to calculate that.
+[00:02:14 -> 00:02:17]  So we've invented this idea of free energy,
+[00:02:17 -> 00:02:22]  which wraps up all of the entropy changes for the universe
+[00:02:22 -> 00:02:23]  into one term.
+[00:02:23 -> 00:02:26]  And things that are spontaneous lower the free energy,
+[00:02:26 -> 00:02:28]  so they're things that will happen.
+[00:02:28 -> 00:02:31]  And things that are non-spontaneous increase the free energy,
+[00:02:31 -> 00:02:32]  and so they're things that won't.
+[00:02:32 -> 00:02:34]  And you have intuition about this as well.
+[00:02:34 -> 00:02:38]  So if you think about the reaction of hydrogen and oxygen to make water,
+[00:02:38 -> 00:02:41]  at room temperature and atmospheric pressure,
+[00:02:41 -> 00:02:43]  that reaction is spontaneous,
+[00:02:43 -> 00:02:45]  which is why a mixture of hydrogen gas and oxygen gas
+[00:02:45 -> 00:02:47]  is an explosive mixture.
+[00:02:47 -> 00:02:50]  On the other hand, you can wait for a very long time
+[00:02:50 -> 00:02:52]  for the oceans to start bubbling up
+[00:02:52 -> 00:02:55]  in terms of turning into hydrogen and oxygen,
+[00:02:55 -> 00:02:57]  and that will never happen
+[00:02:57 -> 00:03:00]  because the reverse reaction is not spontaneous.
+[00:03:00 -> 00:03:05]  So things that go forward will never go backwards.
+[00:03:05 -> 00:03:08]  Now, I should say that thermodynamics only provides us
+[00:03:08 -> 00:03:11]  the possibilities of what might happen.
+[00:03:11 -> 00:03:13]  If something is spontaneous,
+[00:03:13 -> 00:03:15]  it doesn't mean that it's fast.
+[00:03:15 -> 00:03:16]  You might have a spontaneous reaction
+[00:03:16 -> 00:03:19]  that takes thousands and thousands and thousands of years,
+[00:03:19 -> 00:03:22]  and so that's not particularly spontaneous
+[00:03:22 -> 00:03:25]  in the sort of real-world perspective.
+[00:03:25 -> 00:03:28]  The other thing is, is that just because a reaction is spontaneous
+[00:03:28 -> 00:03:29]  doesn't mean it will happen.
+[00:03:29 -> 00:03:31]  There might be two or three other different reactions
+[00:03:31 -> 00:03:33]  that happen instead.
+[00:03:33 -> 00:03:36]  But thermodynamics will always tell us about the things
+[00:03:36 -> 00:03:38]  that can never happen,
+[00:03:38 -> 00:03:42]  those crazy backwards reactions that don't make any sense at all.
+[00:03:42 -> 00:03:45]  So spontaneous simply means it can happen,
+[00:03:45 -> 00:03:49]  and it allows us to eliminate the things that can never happen.

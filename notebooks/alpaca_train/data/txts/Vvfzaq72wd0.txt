@@ -1,0 +1,79 @@
+[00:00:00 -> 00:00:08]  To explain why countries trade, we must look at a little economic theory.
+[00:00:08 -> 00:00:14]  The first concept we'll consider is called the Theory of Absolute Advantage.
+[00:00:14 -> 00:00:19]  If a country has the absolute advantage in the production of a good or service, it means
+[00:00:19 -> 00:00:23]  it's the most efficient producer of that product.
+[00:00:23 -> 00:00:28]  In other words, if all countries used the same inputs in their production process, this
+[00:00:28 -> 00:00:34]  country would be able to make more, better quality products than all the others.
+[00:00:34 -> 00:00:40]  Let's construct a simplified theoretical example to illustrate the point.
+[00:00:40 -> 00:00:45]  Imagine for a moment that we live in a world where there are only two countries, South
+[00:00:45 -> 00:00:48]  Africa and Japan.
+[00:00:48 -> 00:00:55]  Both countries have differing capabilities to produce two products, wheat and DVDs.
+[00:00:55 -> 00:01:03]  Over a certain time period, South Africa can either produce 55 bags of wheat or 11 DVDs,
+[00:01:03 -> 00:01:05]  using all their resources.
+[00:01:05 -> 00:01:11]  Japan, on the other hand, can either produce 18 bags of wheat or 72 DVDs, using all the
+[00:01:11 -> 00:01:13]  available inputs that they have.
+[00:01:13 -> 00:01:17]  So, knowing that each country must choose how to allocate its resources between the
+[00:01:17 -> 00:01:25]  production of these two goods, does it make sense for South Africa to produce any DVDs?
+[00:01:25 -> 00:01:28]  The answer is no.
+[00:01:28 -> 00:01:34]  Japan is obviously much more efficient in the production of DVDs than South Africa,
+[00:01:34 -> 00:01:39]  while South Africa is much more efficient in the production of wheat than Japan.
+[00:01:39 -> 00:01:45]  But both countries need both products, so it makes sense for South Africa to provide
+[00:01:45 -> 00:01:51]  Japan with South African grown wheat in exchange for DVDs made in Japan.
+[00:01:51 -> 00:01:56]  If each country concentrates on producing what it's naturally good at, if they specialise
+[00:01:56 -> 00:02:02]  in that good, both countries can then trade with each other and end up with more of both
+[00:02:02 -> 00:02:06]  products than if they tried to produce it all themselves.
+[00:02:06 -> 00:02:10]  The consumers in both countries also benefit because they will be buying products made
+[00:02:10 -> 00:02:13]  by the most efficient producer.
+[00:02:13 -> 00:02:18]  And according to the economic theory, it means that the price paid for these products should
+[00:02:18 -> 00:02:20]  be the cheapest.
+[00:02:20 -> 00:02:21]  Why?
+[00:02:22 -> 00:02:26]  Well, because the producers making the two products are the most efficient at it and
+[00:02:26 -> 00:02:30]  can make more of the product for less than their competitors.
+[00:02:30 -> 00:02:35]  Remember that as a consumer, you will not buy the same product from a seller who's more
+[00:02:35 -> 00:02:37]  expensive.
+[00:02:37 -> 00:02:42]  So the economic principle of absolute advantage is that you should specialise in the production
+[00:02:42 -> 00:02:45]  of something that you're good at making.
+[00:02:45 -> 00:02:49]  You will be efficient in the production of that good or service, and the price you sell
+[00:02:49 -> 00:02:51]  after that will be the most competitive.
+[00:02:51 -> 00:02:56]  Now, why is this considered so important in economics?
+[00:02:56 -> 00:03:02]  Well, remember, economics is all about satisfying unlimited wants and needs.
+[00:03:02 -> 00:03:07]  How can we get all of the things we want with such limited resources, resources we really
+[00:03:07 -> 00:03:11]  can't afford to waste through inefficient production?
+[00:03:11 -> 00:03:17]  OK, let's try and take the theory a bit further.
+[00:03:17 -> 00:03:21]  According to this new table, we assume that South Africa has an absolute advantage with
+[00:03:21 -> 00:03:23]  both products.
+[00:03:23 -> 00:03:28]  It can efficiently produce either wheat or DVDs.
+[00:03:28 -> 00:03:32]  Looking at this new data, it would seem that there is no longer any reason for trade between
+[00:03:32 -> 00:03:34]  these two countries.
+[00:03:34 -> 00:03:36]  But this is not quite true.
+[00:03:36 -> 00:03:38]  Let's see why.
+[00:03:38 -> 00:03:42]  Remember that each country must decide how to allocate its resources.
+[00:03:42 -> 00:03:47]  In a simplified example, we'll say that if South Africa concentrates all of its resources
+[00:03:47 -> 00:03:51]  on DVD production, it can make eight DVDs.
+[00:03:51 -> 00:03:54]  But this means losing out on the wheat.
+[00:03:54 -> 00:03:59]  And if they focus all their efforts on wheat production, they can produce 40 bags, while
+[00:03:59 -> 00:04:03]  sacrificing any DVD production.
+[00:04:03 -> 00:04:08]  The best way to help South Africa decide how to allocate resources is to calculate how
+[00:04:08 -> 00:04:11]  much it costs to make one DVD.
+[00:04:11 -> 00:04:17]  Comparatively, how much wheat does South Africa have to give up to make one DVD?
+[00:04:17 -> 00:04:18]  It's not too tricky.
+[00:04:18 -> 00:04:21]  Divide 40 by 8, which gives us 5.
+[00:04:21 -> 00:04:26]  So for each DVD we produce, we could have grown 5 bags of wheat.
+[00:04:26 -> 00:04:32]  In other words, each DVD we make costs South Africa 5 bags of wheat.
+[00:04:32 -> 00:04:39]  Now over in Japan, if they choose to produce 4 DVDs, they can't produce any wheat because
+[00:04:39 -> 00:04:41]  of their limited resources.
+[00:04:41 -> 00:04:45]  And if they focus on just producing the 8 bags of wheat, there's nothing left for DVD
+[00:04:45 -> 00:04:47]  production.
+[00:04:47 -> 00:04:53]  Doing the maths, 8 divided by 4, we can see that it will cost Japan 2 bags of wheat to
+[00:04:53 -> 00:04:55]  make one DVD.
+[00:04:55 -> 00:05:02]  So comparing the cost of production in both countries, South Africa has to give up 5 bags
+[00:05:02 -> 00:05:08]  of wheat for each DVD it makes, while in Japan it only costs 2 bags of wheat to make one
+[00:05:08 -> 00:05:10]  DVD.
+[00:05:10 -> 00:05:16]  So DVDs cost more in terms of bags of wheat given up in South Africa than they do in Japan.
+[00:05:16 -> 00:05:22]  Or in less clumsy language, it's cheaper for Japan to make DVDs, so Japan should make the
+[00:05:22 -> 00:05:23]  DVDs.
+[00:05:23 -> 00:05:28]  And it also makes sense that South Africa should produce the wheat.
+[00:05:28 -> 00:05:32]  And that's the theory of comparative advantage.
+[00:05:32 -> 00:05:36]  Remember, don't let the numbers confuse you.
+[00:05:36 -> 00:05:39]  They're just used to help us understand the theory.
+[00:05:39 -> 00:05:40]  If you need to...

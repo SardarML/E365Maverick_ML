@@ -1,0 +1,63 @@
+[00:00:00 -> 00:00:05]  What's gucci everyone, it's AJ here again. And today I want to talk about another data structure that's similar to a
+[00:00:05 -> 00:00:10]  binary tree, but it has some kind of some different rules and some different quirks. But I really like it because it's
+[00:00:10 -> 00:00:17]  simple. And I feel I can explain it well. So without ado, let's get into the heap data structure. So as you can see
+[00:00:17 -> 00:00:27]  here, a heap looks a lot like a binary tree if you know what that is. But but a heap is classified by its order. And
+[00:00:28 -> 00:00:37]  what a heap does is it retains two rules. One is that the parent is always greater than the child, and that it's
+[00:00:37 -> 00:00:46]  always a complete tree. And so by complete tree means every single row is filled. Every row is filled just like like
+[00:00:46 -> 00:00:51]  the first row is filled, the second row is filled, except for the last row, but the last row must have its nodes
+[00:00:51 -> 00:00:57]  going from left to right. So for instance, all the nodes are filled here, when you start at left, and then the
+[00:00:57 -> 00:01:04]  emptiness starts at the rightmost side. So that's a complete tree. But also what I said, the parent must always be
+[00:01:04 -> 00:01:12]  bigger than the child. In this example, that is not true. But that is what I mean by that is that the parent must be
+[00:01:12 -> 00:01:18]  greater than child relative to the child. So this would be called actually a min heap, because I am saying the
+[00:01:18 -> 00:01:23]  minimum element is the greatest element has the greatest power, you can also have a max heap, which we'll see in a
+[00:01:23 -> 00:01:32]  second, is where the maximum element has the most power. So as you can see, 100 is the root of the node, which is, which
+[00:01:32 -> 00:01:38]  is what I want. And then see, as you can see, 19 is greater than 17, and three, and then the two children of two and
+[00:01:38 -> 00:01:45]  seven are less than 17. And as you can see, this again is a complete tree, well, two and seven all the way to the left,
+[00:01:45 -> 00:01:51]  and then the other children's of these nodes are incomplete. So another thing about heaps is they can be
+[00:01:51 -> 00:01:56]  represented in an array, you know, if you're going to make a heap, you want to just use an array, you don't need you
+[00:01:56 -> 00:02:01]  don't, you can you can use generics, but really, you don't want to use a tree structure, you just want to use an array.
+[00:02:01 -> 00:02:08]  And the reason because it's going to be how you're switching around the tree. So for instance, here, I have five, nine, and
+[00:02:08 -> 00:02:15]  11. And you'll notice I have the zero in the beginning. And that's because in this example, I am not using position zero
+[00:02:15 -> 00:02:20]  position zero is kind of just like a null value. It's a blank value that we're not really using. It's just a holder value. And
+[00:02:20 -> 00:02:30]  we're never going to touch that. But I have 5, 9, 11, 14, 18. And if you can see here, these nodes are going from top to
+[00:02:30 -> 00:02:36]  bottom left to right. So for instance, five is the first element, then nine, then I go right 11. Now I go to the next row,
+[00:02:36 -> 00:02:47]  which is all the way on the left 1418 1921 3317 27. And the thing that's special about this array is that, I mean, yes,
+[00:02:47 -> 00:02:53]  this array is that heap has a special property and how you can find the children. So for instance, let's look at five here,
+[00:02:53 -> 00:03:03]  it's childs are 11, or sorry, it's childs are nine and 11. And the way to find a child is to simply take the position of
+[00:03:03 -> 00:03:09]  what of whatever node you have, and times it by two, and if you times it by two, that will always be the left child. And
+[00:03:09 -> 00:03:18]  then if I did two and plus one, so take the position, times two plus one, that will give me my right child. And you can try
+[00:03:18 -> 00:03:25]  this on anything else, for instance, on nine, that position to two times two is four, which is the left child 14 at
+[00:03:25 -> 00:03:33]  position four, and then two times two plus one is five, which is 18, which is my right child. So that always works. And
+[00:03:33 -> 00:03:42]  then kind of oppositely, let's say I wanted the shot the parent of 27. So 27 doesn't have any children, but it does have a
+[00:03:42 -> 00:03:50]  parent. So the way to do that is simply take the position and do n divided by two. So n divided by 210 divided by two is five,
+[00:03:50 -> 00:03:58]  which is 18, which is my parent. And this works for the left and right child, for instance, 19, right here is not a right
+[00:03:58 -> 00:04:05]  child 21, seven. So if I do seven divided by two, that's 3.5. But I'm going to round it down to three, always round it down, I
+[00:04:05 -> 00:04:12]  round it down to the integer like in computing, and I'm going to get 11, which is my parent. So that so that's a simple way to
+[00:04:12 -> 00:04:18]  kind of that's the way I can exchange or switch elements in the array as we'll show. So now we're going to talk about
+[00:04:18 -> 00:04:27]  insertion. So insertion really is pretty easy. And what we do is simply what you want to do is you want to add it to the slot, you
+[00:04:27 -> 00:04:33]  want to first of all start, you want to insert it at the empty slot, which in the complete tree is the next empty slot going from
+[00:04:33 -> 00:04:38]  left to right. So for instance, right here in the source heap on the left here, we're going to try to we're going to insert
+[00:04:38 -> 00:04:44]  negative two, right here, we're going to insert it to the as the right child of six. And then what I'm going to do is no matter
+[00:04:44 -> 00:04:51]  what element is, I'm going to look at the parent by doing my n divided by two in the array and say, okay, does that child need to
+[00:04:51 -> 00:04:58]  be moved up? In the case of inserting negative two in a min heap, it does need to be moved up. So I'm going to flop six and
+[00:04:58 -> 00:05:05]  negative two, I'm going to flop six and negative two. So now negative two is right here. And six is right here. And so then I'm
+[00:05:05 -> 00:05:12]  going to try I'm going to keep on doing this until I get stopped. So then I'm going to do okay is negative two greater than one. In
+[00:05:12 -> 00:05:18]  this case, it's a min heap. So yes, it is. So then I switch that and you get you get what you get on the right negative two is now the
+[00:05:18 -> 00:05:27]  root. And now I'm done with that. So that's pretty cool. And now we're going to talk about another thing called deletion. And
+[00:05:27 -> 00:05:35]  so deletion is usually kind of the hardest thing with a tree. So really, the thing in deletion, though, is you don't delete any
+[00:05:35 -> 00:05:42]  node, you you just delete the root because in a min and max heap, you really use it only because you want the minimum or
+[00:05:42 -> 00:05:48]  maximum of your data structure. You don't really want care about any other elements, you just care about the minimum or
+[00:05:48 -> 00:05:53]  maximum. So maybe you just care about the high point of a statistical analysis. But that's all you're going to care about in the
+[00:05:53 -> 00:06:00]  heap. So you can you only really have a remove a remove root method, which could be your minimum or maximum position depending on
+[00:06:00 -> 00:06:08]  what type of heat you have. So right there. So right now, what you want to do is you want to remove your root, just like here, I want to
+[00:06:08 -> 00:06:16]  get rid of four. And what I want to do is I want to replace that with my bottom rightmost element. So what is you know, what is the
+[00:06:16 -> 00:06:23]  rightmost bottom list on the complete tree? And the way so in this case, that's eight. So I'm going to push that to eight. And then
+[00:06:23 -> 00:06:32]  what I'm going to do here is I am going to, I'm going to shuffle eight down. And I what I'm going to switch, I'm going to bring eight
+[00:06:32 -> 00:06:38]  down, and I'm going to purposely, you know, make the tree right again, because now that I moved eight down, and this is a min heap, eight is
+[00:06:38 -> 00:06:43]  not the minimum element. So that cannot be the root five is. So what I'm going to do is I'm going to look at my two children, I'm going to
+[00:06:43 -> 00:06:50]  look at my two children, and I'm going to swap with which element is the greatest element. So that way I bring up the greatest element. So
+[00:06:50 -> 00:06:58]  now my greatest element is now the new root node and everything is fine. In this case of a min heap, five, the smallest number has the
+[00:06:58 -> 00:07:04]  most power is the most powerful. So I'm going to swap with five. And then as you can see right here in my bottom in this bottom, in
+[00:07:04 -> 00:07:11]  this bottom picture, that that array is now fine, I have now removed that I have now cut the heap is now following the right order
+[00:07:11 -> 00:07:19]  five is the lowest element has the most power six, and then eight, and then nine. So it still fits the rules that five, five is less
+[00:07:19 -> 00:07:26]  than six and eight, and nine is less than six. Well, guys, I hope you enjoyed this video. And I hope you guys have a great day.

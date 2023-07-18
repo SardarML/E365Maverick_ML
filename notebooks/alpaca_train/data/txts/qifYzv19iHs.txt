@@ -1,0 +1,265 @@
+[00:00:00 -> 00:00:07]  Sieht man nachher, wenn das hier so rot leuchtet, auf dem Material?
+[00:00:07 -> 00:00:11]  Moin! Heute wird mal nix gebaut. Heute wird mal ein bisschen was erklärt und gezeigt.
+[00:00:11 -> 00:00:15]  Neben meinem eigentlichen Job als Programmierer versuche ich auch mindestens einmal die Woche im Kliemannsland vorbeizugucken,
+[00:00:15 -> 00:00:19]  um dort das Netzwerk weiterzubauen und das Internet in alle Winkeln des Landes zu bringen.
+[00:00:19 -> 00:00:23]  Es ist auf so einem großen Hof nämlich gar nicht mal mehr so einfach ein flächendeckendes WLAN hinzukriegen.
+[00:00:23 -> 00:00:28]  Vor allem wenn man bedenkt, wie uralt der Hof ist und dass das Budget, das wir zur Verfügung gestellt bekommen haben,
+[00:00:28 -> 00:00:31]  um das Netzwerk aufzubauen, so mini ist.
+[00:00:31 -> 00:00:37]  Aber weil das Kliemannsland ja nun mal das Kliemannsland ist, erschlägt man die Probleme einfach mit einer gesunden Portion Pragmatismus.
+[00:00:37 -> 00:00:42]  Da werden zwar manche Sachen anders gelöst, als man es gewohnt ist und man muss an mancher Stelle auch mal das Rad neu erfinden,
+[00:00:42 -> 00:00:45]  aber im Endeffekt kommt auch was Brauchbares bei raus.
+[00:00:45 -> 00:00:48]  Oh, ich werde angerufen. Ja, hallo?
+[00:00:48 -> 00:00:49]  Äh, so.
+[00:00:49 -> 00:00:55]  Deswegen hier jetzt mal einen kurzen Einblick, wie wir das, nennen wir es mal liebevoll, Country-DSL, auf dem ganzen Grundstück verteilt haben.
+[00:00:58 -> 00:01:00]  Ah, das ist das falsche Intro.
+[00:01:04 -> 00:01:05]  So, aber jetzt.
+[00:01:20 -> 00:01:25]  Ey, weißt du, immer ist schönes Wetter, wenn die drehen, aber wenn ich mal was machen will, mh, Regen.
+[00:01:25 -> 00:01:28]  Eigentlich wollte ich ja zeigen, wie das ganze Netzwerk hier funktioniert, dazu müsste man aber rausgehen.
+[00:01:28 -> 00:01:29]  Aber es regnet.
+[00:01:29 -> 00:01:33]  Aber wir können zumindest hier drin schon ein paar Sachen angucken, weil auch hier drinnen haben wir ein Netzwerk.
+[00:01:34 -> 00:01:39]  Diese Tür sieht zwar uralt aus, na gut, ist sie auch, hinter dieser Tür ist eigentlich ein alter Räucherraum,
+[00:01:39 -> 00:01:43]  der wird aber schon seit 20, 30, 40 oder 10 Jahren nicht mehr genutzt.
+[00:01:43 -> 00:01:46]  Und wozu eignet sich ein kleiner, feuerfester Raum?
+[00:01:47 -> 00:01:48]  Für einen Serverraum.
+[00:01:49 -> 00:01:53]  Das Schöne war, als ich das erste Mal hier war und Hauke meinte, oh ja, hm, ich hätte da vielleicht was für dich,
+[00:01:53 -> 00:01:57]  guck mal, wir haben hier so einen alten Raum, da war ja nix drin, nix, nicht mal Strom.
+[00:01:57 -> 00:02:01]  Also habe ich mich erstmal eine Woche damit beschäftigt, hier irgendwie Strom reinzulegen, Löcher gebohrt
+[00:02:01 -> 00:02:03]  und vor allem das ganze Ding erstmal sauber machen.
+[00:02:03 -> 00:02:07]  Hier war ganz schön viel Staub drin und Ruß und all der ganze Krempel, der halt entsteht, wenn man räuchert.
+[00:02:07 -> 00:02:09]  Ja gut, so ein bisschen ist hier noch.
+[00:02:10 -> 00:02:12]  Und hier ist das ganze Herz, da läuft alles zusammen.
+[00:02:12 -> 00:02:17]  Das ist eigentlich relativ simpel aufgebaut, hier oben ist das Patchpanel, das geht dann zu den Dosen und zu den ganzen Access Points.
+[00:02:17 -> 00:02:23]  Da drunter ist der PoE-Injektor, den nutzen wir dafür, dass die Access Points einfach auch den Strom über das Netzwerkkabel kriegen.
+[00:02:23 -> 00:02:27]  Hier unten gehen dann die Daten rein und hier oben kommen Daten und Strom raus.
+[00:02:27 -> 00:02:30]  Dann kann man die Access Points einfach so aufhängen, ohne noch extra Strom da hinzulegen.
+[00:02:30 -> 00:02:34]  Und zwischen dem PoE-Injektor und dem Luftnetzgenerator hängt noch einfach ein Switch.
+[00:02:34 -> 00:02:37]  Das ist manageable, das heißt, wir können da verschiedene Netze mit abbilden.
+[00:02:37 -> 00:02:40]  Und hier unten die kleine Kiste, die macht das Freifunknetz.
+[00:02:40 -> 00:02:44]  Freifunk nutzen wir dafür, damit alle Bürger, die hier hinkommen, auch einfach im Internet surfen können, ohne sich anmelden zu müssen.
+[00:02:44 -> 00:02:46]  Liebe, weil wir euch so toll finden.
+[00:02:46 -> 00:02:48]  Das sind übrigens unsere Access Points, die wir benutzen.
+[00:02:48 -> 00:02:50]  Das Coole an den Dingern ist nämlich, dass man die nicht einrichten muss.
+[00:02:50 -> 00:02:53]  Die ziehen sich ihre Konfiguration einfach selbstständig vom WLAN-Controller.
+[00:02:53 -> 00:02:55]  Der ist nämlich hier, äh, da.
+[00:02:55 -> 00:02:57]  Das ist nämlich hier der Luftnetzgenerator.
+[00:02:57 -> 00:02:59]  Die nutzen wir deswegen, weil wir die geschenkt bekommen haben.
+[00:02:59 -> 00:03:01]  Das ist tatsächlich die ganze Begründung.
+[00:03:01 -> 00:03:03]  Genauso wie der Schrank und die Hardware, die man hier drin sieht.
+[00:03:03 -> 00:03:05]  Das ist alles von Leuten, die uns mögen.
+[00:03:05 -> 00:03:07]  Und hier ist noch jede Menge Krempel.
+[00:03:07 -> 00:03:10]  Und kartonweise Netzwerkkabel, die wir auch alle geschenkt bekommen haben.
+[00:03:10 -> 00:03:11]  Und das ist ganz lustig, warum?
+[00:03:11 -> 00:03:15]  Weil der Hersteller diese Nasen hier abgeändert hat und sie deswegen nicht mehr verkauft werden dürfen.
+[00:03:15 -> 00:03:17]  Meiner Meinung nach ein bisschen bescheuert.
+[00:03:17 -> 00:03:19]  Das war zumindest schon mal hier der Serverraum.
+[00:03:19 -> 00:03:21]  Aber wo gehen die ganzen Kabel hin?
+[00:03:21 -> 00:03:23]  Da, da hoch. Die gehen auf den Dachboden.
+[00:03:23 -> 00:03:25]  Und da gehen wir jetzt auch mal hin.
+[00:03:27 -> 00:03:30]  Also in dem Video sieht man Orte, die man in den normalen Kliemannsland-Videos nicht sieht.
+[00:03:30 -> 00:03:35]  Die Kabel kommen jetzt hier so raus und laufen dann hier so und verschwinden dann irgendwo hier hinten im Loch.
+[00:03:35 -> 00:03:37]  Aber es verschwinden nicht alle Kabel.
+[00:03:37 -> 00:03:40]  Weil ein Access Point versorgt unter uns die ganzen Büros und den Meeting-Raum.
+[00:03:40 -> 00:03:43]  Der hat sich mittlerweile hier auch an die Flora und Fauna angepasst.
+[00:03:43 -> 00:03:45]  Und das ist unser Netzwerkkabel-Lager.
+[00:03:45 -> 00:03:48]  Das sind so Reststücke, die Multitool irgendwo rausgekratzt hat und uns die geschenkt hat.
+[00:03:48 -> 00:03:51]  Bin mal gespannt, wie lange das dauert, bis da auch überall Spinnweben drauf sind.
+[00:03:51 -> 00:03:53]  Die haben wir heute erst hier hingepackt.
+[00:03:53 -> 00:03:56]  Das größte Problem ist immer, dass hier die Leute so schnell die Räume wechseln,
+[00:03:56 -> 00:03:59]  dass man nicht hinterherkommt, um neue Dosen anzubringen.
+[00:03:59 -> 00:04:02]  Deswegen passieren so Dinger, dass da oben einfach ein Kabel aus der Decke kommt
+[00:04:02 -> 00:04:06]  und das geht dann hier auf den Switch und wird von hier wieder weiter verteilt zurück
+[00:04:06 -> 00:04:07]  und dann einfach hier ins Nas.
+[00:04:07 -> 00:04:08]  Ich glaub, der geht über WLAN.
+[00:04:08 -> 00:04:09]  Oh, hier sind Luftballons.
+[00:04:09 -> 00:04:11]  Es hat aufgehört zu regnen.
+[00:04:11 -> 00:04:13]  Jetzt können wir auch den anderen Scheiß angucken.
+[00:04:13 -> 00:04:15]  Und jetzt geht's hier oben auf den Dachboden weiter von der Scheune.
+[00:04:15 -> 00:04:18]  Hier kommen die ganzen Kabel an, die da in dem Loch verschwinden.
+[00:04:18 -> 00:04:19]  Hier war Spinnweben.
+[00:04:19 -> 00:04:20]  War eine dumme Idee, das zu machen.
+[00:04:20 -> 00:04:22]  Wir haben uns nämlich Mühe gegeben und haben uns überlegt,
+[00:04:22 -> 00:04:24]  dass die Access Points am besten gar nicht sichtbar sind.
+[00:04:24 -> 00:04:26]  Wir sind nämlich jetzt gerade direkt über der Industrieküche.
+[00:04:26 -> 00:04:28]  Das ist da, wo Finn das Bier gebraut hat.
+[00:04:28 -> 00:04:29]  Hier liegt so viel Schrott rum.
+[00:04:29 -> 00:04:31]  Hier könnte auch irgendwo das Bernsteinzimmer versteckt sein.
+[00:04:31 -> 00:04:33]  Oh, ein alter Nazi-Schatz.
+[00:04:33 -> 00:04:35]  Einfach kurz über eine Tür laufen.
+[00:04:35 -> 00:04:36]  Au.
+[00:04:36 -> 00:04:38]  Es ist so mega anstrengend, hier oben rumzulaufen.
+[00:04:38 -> 00:04:40]  Ey, wie groß waren die Leute früher? 1,40 Meter?
+[00:04:40 -> 00:04:43]  Diese abenteuerliche Konstruktion ist einfach nur die Weiterverteilung nach unten,
+[00:04:43 -> 00:04:46]  um zu den Access Points am Teich zu kommen und auch in den anderen Stall.
+[00:04:46 -> 00:04:49]  Und die hier verteilen nochmal zu den Access Points, die hier noch in der Scheune sind.
+[00:04:49 -> 00:04:50]  Da gehen wir jetzt mal hin.
+[00:04:51 -> 00:04:52]  Einmal geht das hier weiter.
+[00:04:52 -> 00:04:54]  Ey, ich hab echt Angst, hier durch den Boden zu brechen.
+[00:04:54 -> 00:04:55]  Die Bretter sind so morsch.
+[00:04:55 -> 00:04:57]  Und dann ist hier so ein Access Point direkt hinter der Heuluke.
+[00:04:57 -> 00:04:58]  Sneaky, sneaky.
+[00:04:58 -> 00:05:00]  Und der andere ist halt auf der anderen Seite.
+[00:05:00 -> 00:05:01]  Captain Obvious.
+[00:05:01 -> 00:05:03]  Da laufen die Kabel halt einfach hier lang.
+[00:05:03 -> 00:05:05]  Als Allergiker ist das hier überhaupt nicht geil.
+[00:05:05 -> 00:05:06]  Ich hab halt auch einen Gefahrenjob.
+[00:05:06 -> 00:05:07]  Eine Falltür.
+[00:05:07 -> 00:05:09]  Ey, mach mal da zu, nicht dass er da runterfällt.
+[00:05:09 -> 00:05:12]  Ist ja nicht so, als hätten wir noch ein ganz anderes großes Loch.
+[00:05:13 -> 00:05:16]  Vielleicht hat da jemand gesehen, auf dem Dachboden ging auf einmal ein Kabel nach unten weg.
+[00:05:16 -> 00:05:20]  Das läuft hier lang an dem Wasserschlauch, geht dann hier im Rohr nach unten hier ins Loch.
+[00:05:20 -> 00:05:21]  Und kommt dann hier in der Waschküche raus.
+[00:05:21 -> 00:05:23]  Ja, auch in der Waschküche haben wir Fehler.
+[00:05:23 -> 00:05:25]  Wir haben überall Fehler.
+[00:05:25 -> 00:05:28]  Und als wir gerade auf dem Zwischenboden waren, da gingen ja zwei grüne Kabel nach unten.
+[00:05:28 -> 00:05:32]  Die kommen nämlich jetzt hier oben aus dem Loch und sind dann hier auf die Verlegekabel wieder aufgepatcht,
+[00:05:32 -> 00:05:34]  die wiederum in das Rohr hier reingehen.
+[00:05:34 -> 00:05:35]  Und dann in die Erde.
+[00:05:35 -> 00:05:36]  Es ist so simpel.
+[00:05:36 -> 00:05:37]  Dann haben wir uns einen Bagger geliehen und haben hier durchgebaggert.
+[00:05:37 -> 00:05:38]  Hier so lang.
+[00:05:38 -> 00:05:39]  Bis hier hin.
+[00:05:39 -> 00:05:40]  Weil das ist unsere neue Erfindung.
+[00:05:40 -> 00:05:41]  Das ist eine Netzwerkbank.
+[00:05:41 -> 00:05:42]  Netzwerkbank?
+[00:05:42 -> 00:05:43]  Netzwerkbank?
+[00:05:43 -> 00:05:44]  Kein Problem, ich zeige euch das.
+[00:05:44 -> 00:05:46]  Da muss man nur die Sitzfläche wegnehmen.
+[00:05:46 -> 00:05:48]  Dann in die Scheiße hier reintreten.
+[00:05:48 -> 00:05:51]  Ja, und dann kann ich das nicht aufmachen, weil es ist zugeschraubt.
+[00:05:51 -> 00:05:52]  Und wenn ich das jetzt aufmache, dann wird es nass.
+[00:05:52 -> 00:05:54]  Und es ist bestimmt aufgequollen und ich kriege es nie wieder zu.
+[00:05:54 -> 00:05:55]  Glaubt es mir einfach.
+[00:05:55 -> 00:05:56]  Hier ist Netzwerk drin.
+[00:05:56 -> 00:05:57]  Toll, ne?
+[00:05:57 -> 00:06:00]  Das mussten wir übrigens bauen, weil man Netzwerkkabel nicht länger als 100 Meter legen kann.
+[00:06:00 -> 00:06:02]  Und hier haben wir ungefähr 100 Meter schon erreicht.
+[00:06:02 -> 00:06:03]  Das geht schnell auf so einem großen Grundstück.
+[00:06:03 -> 00:06:06]  Deswegen ist ein Switch drin, der das ganze Signal ein bisschen verstärkt.
+[00:06:06 -> 00:06:07]  Wir sind nämlich klug.
+[00:06:08 -> 00:06:11]  Und genau hier, wo das auch runter geht, also da, wo die Pfütze ist,
+[00:06:11 -> 00:06:12]  eigentlich dumm, dass hier eine Pfütze ist, ne?
+[00:06:12 -> 00:06:15]  Aber hier, wo die Pfütze ist, da drunter teilen sich wirklich die Kabel auf
+[00:06:15 -> 00:06:18]  und gehen einmal Richtung Teich und einmal Richtung Marktstall.
+[00:06:19 -> 00:06:22]  Weil hier geschützt von den Brennnesseln gehen die Kabel nämlich wieder in die Wand.
+[00:06:22 -> 00:06:24]  Die Brennnesseln haben wir nämlich extra dahin gepflanzt, damit keiner da dran geht.
+[00:06:24 -> 00:06:25]  Die Natur verteidigt uns.
+[00:06:25 -> 00:06:29]  Als ich den Kasten gebaut habe, habe ich ihn extra so dreckig gelassen, damit der hier nicht so auffällt.
+[00:06:29 -> 00:06:32]  Da kommen die Kabel nämlich hier unten wieder an, werden dann verteilt, gehen hier wieder auf den Switch
+[00:06:32 -> 00:06:35]  und die beiden weißen Kästen hier oben, das sind nämlich PoE-Injektoren.
+[00:06:35 -> 00:06:37]  Die machen nichts anderes, als der PoE-Switch im Serverschrank.
+[00:06:37 -> 00:06:39]  Die machen da auch einfach wieder 48 Volt drauf.
+[00:06:39 -> 00:06:42]  Jetzt erstmal zurück zur Netzwerkpfütze, weil da geht's ja weiter.
+[00:06:44 -> 00:06:46]  Das ist eigentlich die dümmste Einstellung überhaupt.
+[00:06:46 -> 00:06:49]  Als welche so gespawnt wie aus der Zauberkugel von Mareike Amado.
+[00:06:49 -> 00:06:51]  Es ist uns halt nichts Besseres eingefallen.
+[00:06:51 -> 00:06:53]  Und dann haben wir eben im Bagger einfach weiter gegraben.
+[00:06:53 -> 00:06:54]  Hier sieht man auch schön, wo das war.
+[00:06:54 -> 00:06:55]  Da, wo keine Wiese ist.
+[00:06:55 -> 00:06:57]  Am Pedalustigwagen vorbei.
+[00:06:57 -> 00:06:58]  Hallo!
+[00:06:58 -> 00:06:59]  Hallo!
+[00:06:59 -> 00:07:00]  Hallo!
+[00:07:02 -> 00:07:05]  Okay, an den anderen Wohnwägen vorbei, wo anscheinend Leute drin wohnen.
+[00:07:05 -> 00:07:07]  An einem Auto, was hier so rumsteht.
+[00:07:07 -> 00:07:08]  Hallo!
+[00:07:08 -> 00:07:09]  Hallo!
+[00:07:09 -> 00:07:10]  Wollen wir mal ein MTV Cribs machen?
+[00:07:12 -> 00:07:13]  Komm, du machst das.
+[00:07:13 -> 00:07:14]  Wie war das nochmal?
+[00:07:14 -> 00:07:16]  Du klingelst einfach.
+[00:07:16 -> 00:07:17]  Ja.
+[00:07:17 -> 00:07:19]  Und dann macht der auf, ist total überrascht und zeigt dir die Wohnung.
+[00:07:19 -> 00:07:20]  Okay.
+[00:07:20 -> 00:07:21]  Ey, du machst alles kaputt, Alter.
+[00:07:21 -> 00:07:22]  Was ist das?
+[00:07:22 -> 00:07:23]  Das ist das Schlafzimmer?
+[00:07:23 -> 00:07:24]  Ja.
+[00:07:24 -> 00:07:26]  Das ist Schlafzimmer, Wohnzimmer, Küche.
+[00:07:26 -> 00:07:28]  Alter, du machst alles kaputt, meinen ganzen Tag.
+[00:07:28 -> 00:07:29]  Ey, du Arschloch.
+[00:07:29 -> 00:07:30]  Was ist das?
+[00:07:30 -> 00:07:31]  Müllheimer?
+[00:07:31 -> 00:07:32]  Ist das ihr Medienzimmer?
+[00:07:32 -> 00:07:33]  Ja.
+[00:07:33 -> 00:07:34]  Das ist für zwei...
+[00:07:34 -> 00:07:35]  Au.
+[00:07:35 -> 00:07:37]  Alter, das ist für zwei, hab ich gedacht.
+[00:07:37 -> 00:07:38]  Hau ab.
+[00:07:38 -> 00:07:39]  Vielen Dank für die Gastfreundschaft, ne?
+[00:07:39 -> 00:07:40]  Tschö.
+[00:07:40 -> 00:07:41]  Wo fahren wir denn nochmal?
+[00:07:41 -> 00:07:42]  Ach so, ja, Kabel.
+[00:07:42 -> 00:07:45]  Kabel laufen hier so lang, machen hier einen Knick und gehen hier in den Baustromverteiler.
+[00:07:47 -> 00:07:48]  Ah, ich verstehe die Problematik.
+[00:07:50 -> 00:07:51]  Und hier geht alles rein.
+[00:07:51 -> 00:07:53]  Nennen wir es mal liebevoll das Netzwerk Fuckelbord.
+[00:07:53 -> 00:07:55]  Da habe ich alles draufgefuckelt, zusammen mit Joel auch.
+[00:07:55 -> 00:07:58]  Von hier aus geht ein WLAN-Signal hier den Mast hoch an eine Richtfunke.
+[00:07:58 -> 00:08:03]  Da ist noch mittendrin der Kabelbinder ausgegangen, deswegen haben wir hier einfach einen Kaltgerätestecker genommen.
+[00:08:03 -> 00:08:04]  Ist sogar fast fest.
+[00:08:04 -> 00:08:08]  Und das macht, dass Brian in seinem Hotel dahin auch Netflix gucken kann oder andere Dinge.
+[00:08:12 -> 00:08:13]  Hallo?
+[00:08:13 -> 00:08:15]  Haben Sie Lust mit mir über Netzwerk zu sprechen?
+[00:08:15 -> 00:08:17]  Von welcher Firma kommen Sie denn?
+[00:08:17 -> 00:08:19]  Ich komme von Kliemannsland IT Services.
+[00:08:19 -> 00:08:20]  Kommen Sie mal rein, ja.
+[00:08:20 -> 00:08:22]  So, wir brauchen gar nicht reden, weil der spielt online.
+[00:08:22 -> 00:08:23]  Also funktioniert ja alles.
+[00:08:23 -> 00:08:24]  WLAN.
+[00:08:24 -> 00:08:25]  WLAN.
+[00:08:25 -> 00:08:26]  WLAN.
+[00:08:26 -> 00:08:27]  WLAN.
+[00:08:27 -> 00:08:28]  WLAN.
+[00:08:29 -> 00:08:31]  Tja, läuft alles besser als ich gedacht habe.
+[00:08:31 -> 00:08:33]  Ich hätte nicht gedacht, dass man damit sogar online spielen kann.
+[00:08:33 -> 00:08:34]  Aber was soll ich sagen?
+[00:08:34 -> 00:08:37]  Es ist einfach qualitativ hochwertig, was ich mache.
+[00:08:37 -> 00:08:40]  Und damit natürlich auch alle unsere Gäste WLAN haben, gibt es hier sogar noch einen Accesspoint für draußen.
+[00:08:40 -> 00:08:43]  Eigentlich ist er ja nicht für draußen, aber ich habe ihn autorisiert.
+[00:08:43 -> 00:08:45]  Dafür haben wir ein Outdoor-Gehäuse gebaut.
+[00:08:45 -> 00:08:48]  Ich dachte eigentlich nicht, dass das so lange hält, aber irgendwie tut es das.
+[00:08:48 -> 00:08:49]  Schon ein paar Monate.
+[00:08:49 -> 00:08:50]  Guck mal hier.
+[00:08:51 -> 00:08:52]  8Mbit Upload.
+[00:08:52 -> 00:08:54]  Und das mitten hier in der Pampa.
+[00:08:54 -> 00:08:56]  Seht mich an, ich habe Internet gemacht.
+[00:08:58 -> 00:09:01]  Man sagt ja immer, es gibt kein schlechtes Wetter, nur schlechte Kleidung.
+[00:09:01 -> 00:09:04]  Dumm ist, dass ich heute dafür die schlechte Kleidung anhabe.
+[00:09:04 -> 00:09:05]  Ich habe gar keine Schuhe mehr an.
+[00:09:05 -> 00:09:07]  Ich habe einfach nur noch Matschklumpen an den Füßen.
+[00:09:07 -> 00:09:09]  Achso, wir sind übrigens wieder auf dem Hof.
+[00:09:09 -> 00:09:12]  Auf dem Hof haben wir nämlich das Problem, dass wir die ganze Seite verkabeln konnten.
+[00:09:12 -> 00:09:13]  Aber nach da sind wir nicht gekommen.
+[00:09:13 -> 00:09:15]  Aber da haben wir uns auch wieder was überlegt.
+[00:09:15 -> 00:09:17]  Weil wenn man kein Kabel legen kann, dann hilft einem Richtfunk.
+[00:09:17 -> 00:09:19]  Ist zwar nicht so geil wie Kabel, aber es löst das Problem.
+[00:09:19 -> 00:09:21]  Wir haben nämlich da unter dem Klofenster die eine Richtfunke.
+[00:09:21 -> 00:09:24]  Und die ballert das Signal einmal quer über den Hof zum Holzlager.
+[00:09:24 -> 00:09:25]  Das kommt dann hier so an.
+[00:09:25 -> 00:09:28]  Und geht von da aus mit dem Kabel hier einmal an der Rückseite lang.
+[00:09:28 -> 00:09:31]  Und geht dann durch die Luke, die gerade offen steht, einfach wieder hier ins Studio.
+[00:09:31 -> 00:09:32]  Also das wird mal ein Studio.
+[00:09:34 -> 00:09:37]  Kommt dann hier oben aus dem Loch raus und wird hier wieder neu verteilt.
+[00:09:37 -> 00:09:39]  Das ist nämlich so ein PoE-Switch.
+[00:09:39 -> 00:09:41]  Und verteilt unter anderem nach hier.
+[00:09:41 -> 00:09:44]  Das ist auch wieder so eine abenteuerliche Konstruktion, die wir noch schnell von WuWiZaKliLa gemacht haben,
+[00:09:44 -> 00:09:46]  damit wir wenigstens auf dem Hof ein bisschen WLAN haben.
+[00:09:46 -> 00:09:49]  Hätte man nicht gedacht, dass so ein Access Point mit einer Plastiktüte so lange hält.
+[00:09:49 -> 00:09:50]  Tut er aber.
+[00:09:50 -> 00:09:52]  Das ist hier die Schleuse, da kamen die Leute beim Weihnachtsmarkt alle rein.
+[00:09:52 -> 00:09:54]  Und der Access Point da ist nämlich auch nur hingekommen,
+[00:09:54 -> 00:09:58]  weil wir auf dem WuWiZaKliLa irgendwie die Fotos von der Fotobox bei der Anmeldung zeigen konnten.
+[00:09:58 -> 00:10:00]  Naja, warum sollte man ihn abbauen? Er funktioniert.
+[00:10:00 -> 00:10:02]  Man kann auch nie genug WLAN haben.
+[00:10:04 -> 00:10:07]  Aber machen wir uns nichts vor, das Projekt wird nie richtig fertig sein.
+[00:10:07 -> 00:10:10]  Es wird immer Sachen geben, die man noch verbessern kann oder Sachen, die man gerne umbauen möchte.
+[00:10:10 -> 00:10:12]  Zum Beispiel kommen bald die Richtfunken weg.
+[00:10:12 -> 00:10:15]  Weil wir jetzt doch einen Weg gefunden haben, das Kabel ins Studio zu legen.
+[00:10:15 -> 00:10:19]  Und wenn das endlich geschafft ist, müssen wir immer noch einen Weg finden, wie wir den ganzen Saal verkabeln.
+[00:10:19 -> 00:10:20]  Da ist nämlich noch gar nichts.
+[00:10:20 -> 00:10:23]  Das Ganze ist ein riesiger Haufen Arbeit und natürlich habe ich das nicht alleine gemacht,
+[00:10:23 -> 00:10:26]  sondern da haben etliche Leute in ihrer Freizeit mitgeholfen.
+[00:10:26 -> 00:10:29]  Deswegen an dieser Stelle auch mal ein fettes Danke an Jimmy, Hendrik und Felix,
+[00:10:29 -> 00:10:34]  die auch sehr viel mithelfen, allerdings entweder zu weit weg wohnen oder sehr viel zu tun haben.
+[00:10:36 -> 00:10:40]  Achso, und wenn ihr noch coole Hardware überhabt, dann könnt ihr mal gucken, ob die in die Werkzeugklappe passt.
+[00:10:40 -> 00:10:41]  Tschüss!

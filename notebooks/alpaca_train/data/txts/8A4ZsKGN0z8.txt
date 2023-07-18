@@ -1,0 +1,194 @@
+[00:00:00 -> 00:00:04]  Ben Franklin said, when we fail to plan, we plan to fail.
+[00:00:04 -> 00:00:08]  We're going to turn reference photos into detailed plans for structure building
+[00:00:08 -> 00:00:11]  on Ron's Trains and Things, right now!
+[00:00:11 -> 00:00:31]  Hi, I'm Ron of Ron's Trains and Things, and welcome to the show.
+[00:00:31 -> 00:00:35]  Over the past several weeks, we've been working our way up to a scratch building project
+[00:00:35 -> 00:00:37]  that I'm going to share with you.
+[00:00:37 -> 00:00:42]  And in the process, we have talked about finding reference photos and sources for those photos.
+[00:00:42 -> 00:00:46]  We've talked about turning those photos into mockups and placeholders for your layout,
+[00:00:46 -> 00:00:50]  and to help you in your scratch building and kit bashing projects.
+[00:00:50 -> 00:00:54]  Today, we're going to take some of those reference photos and turn them into detailed plans
+[00:00:54 -> 00:00:59]  that will help you as you do your scratch building or kit bashing project.
+[00:00:59 -> 00:01:04]  We're going to start over at the computer and talk about how to turn your photographs into scale photographs.
+[00:01:04 -> 00:01:09]  Then we're going to go over to the workbench and turn those scale photos into detailed plans
+[00:01:09 -> 00:01:12]  that will help us step-by-step along the way as we build.
+[00:01:12 -> 00:01:16]  So, let's get over to the computer and get started.
+[00:01:16 -> 00:01:21]  In a previous video, I showed you some sources both on and off the internet
+[00:01:21 -> 00:01:26]  to find reference photos to help turn into plans for your building projects.
+[00:01:26 -> 00:01:32]  At this point, I'm going to assume that you have reference photos that you can use to build your plans from.
+[00:01:32 -> 00:01:39]  Now, you may have hard copies of photos, and if that's the case, there are a couple of things that you can do.
+[00:01:39 -> 00:01:44]  Ideally, you want to turn those hard copies into digital photos.
+[00:01:44 -> 00:01:50]  You can do that by using your multifunction printer and scanning them into a file in your computer.
+[00:01:50 -> 00:01:59]  Or, you can use your phone to take a photo of your reference photo and then email it to yourself
+[00:01:59 -> 00:02:02]  or transfer it to your computer by Bluetooth.
+[00:02:02 -> 00:02:09]  Once I have my reference photo, I'm going to get it into a photo editor like I have here,
+[00:02:09 -> 00:02:11]  and I want to do a couple of things to it.
+[00:02:11 -> 00:02:15]  I want to make sure that I've got a good, head-on, square picture.
+[00:02:15 -> 00:02:21]  And I want to crop that photo down to where it includes all of the building, but just the building.
+[00:02:21 -> 00:02:26]  Now, at this point, I take my picture into a page editor.
+[00:02:26 -> 00:02:33]  I have Microsoft Office Publisher, and here is that same photo that I had pulled into Publisher.
+[00:02:33 -> 00:02:41]  And in Publisher, I can size the box with that photo in it to exactly the size that I want.
+[00:02:41 -> 00:02:51]  You're going to notice here that I have gone in to edit this photo here in the Format Picture menu,
+[00:02:51 -> 00:02:53]  and I have grayscaled it.
+[00:02:53 -> 00:03:00]  Taking the color out allows me to more easily write distances and sizes right on the photo
+[00:03:00 -> 00:03:02]  and make plans out of the photo itself.
+[00:03:02 -> 00:03:08]  I've also lightened it to the point where it'll be easy to write on and read what I've written,
+[00:03:08 -> 00:03:14]  and yet there's still enough contrast that I can easily see the lines of the items that I need to measure.
+[00:03:14 -> 00:03:19]  Now, I want to talk to you about using known distances to scale your photo.
+[00:03:19 -> 00:03:23]  I like to try to get a photo that is exactly to scale, if possible.
+[00:03:23 -> 00:03:29]  So, if you don't know exact measurements of the building, if you haven't gone and measured parts of the building,
+[00:03:29 -> 00:03:30]  how do you do that?
+[00:03:30 -> 00:03:34]  Well, there are some things that you know typically are a particular size.
+[00:03:34 -> 00:03:39]  For example, on almost any building, whether you're talking about a home or a commercial building,
+[00:03:39 -> 00:03:45]  a standard door, like this door here, like this door inside of this alcove, like this door here,
+[00:03:45 -> 00:03:51]  a standard door is 6 feet 8 inches high from the bottom of the door right to the top of the door.
+[00:03:51 -> 00:03:57]  Not to the doorway, not up here to these fancy frames, but the door itself, 6 feet 8 inches.
+[00:03:57 -> 00:04:04]  It may be all kinds of widths, anywhere from 2 feet to 2 feet 4 inches to 2 feet 6 inches to 3 feet,
+[00:04:04 -> 00:04:08]  but the height is going to be pretty standard, 6 feet 8 inches.
+[00:04:08 -> 00:04:13]  You can also do some pretty good estimating by measuring the height of floors.
+[00:04:14 -> 00:04:19]  On a commercial building like this, the floor height is typically about 12 feet.
+[00:04:19 -> 00:04:20]  Now, that can vary.
+[00:04:20 -> 00:04:25]  Sometimes you'll have, especially older buildings where you have a higher first floor,
+[00:04:25 -> 00:04:30]  but if you measure the higher floors, typically they will be about 12 feet in height.
+[00:04:30 -> 00:04:39]  This building here has this nice little line of brick that demarcates between the first floor and the second floor,
+[00:04:39 -> 00:04:41]  and it is 12 feet off the ground.
+[00:04:41 -> 00:04:46]  I can measure the doorway, knowing that it's going to be 6 feet 8 inches,
+[00:04:46 -> 00:04:51]  compare it to this line and realize that my first floor is going to be 12 feet,
+[00:04:51 -> 00:04:57]  and by using those known distances, I can scale this picture up and down,
+[00:04:57 -> 00:05:03]  use a little trial and error printing it, and get exactly a picture to scale the way that I need it.
+[00:05:03 -> 00:05:07]  And then I've got something that I can work with to make a set of plans
+[00:05:07 -> 00:05:11]  and measure and know the distances that I need.
+[00:05:11 -> 00:05:19]  Once I have my photo to scale, I like to print out several copies in case I make some mistakes along the way,
+[00:05:19 -> 00:05:24]  and also because it's nice to be able to make certain notes on one copy
+[00:05:24 -> 00:05:27]  and then maybe measure other things and note that on a separate copy
+[00:05:27 -> 00:05:32]  so that one copy doesn't get so busy that it makes it impossible to read.
+[00:05:32 -> 00:05:36]  I also sometimes like to print some copies in color.
+[00:05:36 -> 00:05:43]  You'll see here I've got a copy of the end of this building here, also made to scale, but this one is in color.
+[00:05:43 -> 00:05:46]  And color photos can be helpful for a number of reasons.
+[00:05:46 -> 00:05:50]  One of the things I like to do is be able to take a set of color photos
+[00:05:50 -> 00:05:56]  and make a mock-up out of them as a placeholder and to give me a sense of how it's going to look in the space.
+[00:05:56 -> 00:06:01]  I literally take a color photo that has been manipulated to scale.
+[00:06:01 -> 00:06:04]  I carefully cut it out from the paper.
+[00:06:04 -> 00:06:14]  I then use a spray contact adhesive like this Super 77 and spray it on the photo as well as on some foam core.
+[00:06:14 -> 00:06:17]  Glue the piece down to the foam core.
+[00:06:17 -> 00:06:22]  And then when it's dry, take a nice sharp hobby knife and cut it out of the foam core.
+[00:06:22 -> 00:06:26]  Then I can glue the four sides of the building together.
+[00:06:27 -> 00:06:34]  I don't usually put a roof on them because this is literally just made as a placeholder to give me a sense of how it fits in the space.
+[00:06:34 -> 00:06:40]  You can see here that it really gives me a sense of kind of how this is going to work.
+[00:06:40 -> 00:06:46]  If the building is going to be too large or too small, what I might need to manipulate or to compress
+[00:06:46 -> 00:06:51]  in order to be able to make this building work in this space.
+[00:06:51 -> 00:06:56]  So to get to the point of building the structure, we get our scale photo.
+[00:06:56 -> 00:06:59]  And here you see I've used the doors as a reference.
+[00:06:59 -> 00:07:03]  And this is where I really like this clear plastic scale ruler that I have.
+[00:07:03 -> 00:07:06]  Because I like to be able to measure and also see through it.
+[00:07:06 -> 00:07:12]  But you can see here 6 feet 8 inches. That's about as close as I can estimate that in end scale that those doors are right.
+[00:07:12 -> 00:07:19]  One of the things that you want to let yourself understand and kind of let yourself off the hook a little bit on
+[00:07:19 -> 00:07:27]  when you're building scratch-built structures is the fact that really what's most important
+[00:07:27 -> 00:07:34]  is that something is close to scale, very close to scale, but proportionally correct.
+[00:07:34 -> 00:07:40]  If my scale scratch-built structure here is off by 3 or 4 inches to scale,
+[00:07:40 -> 00:07:45]  probably no one is ever going to know as long as it looks proportionally correct.
+[00:07:45 -> 00:07:49]  Now if I'm well off to scale, if I'm off by 5 or 10 feet,
+[00:07:49 -> 00:07:54]  obviously that's going to show up compared to other structures and other models on the layout.
+[00:07:54 -> 00:08:00]  But as long as I am very close to scale and everything is proportionally correct,
+[00:08:00 -> 00:08:05]  it's going to look right and it's going to look natural on the layout.
+[00:08:05 -> 00:08:09]  Another thing that is important to know is that when you're looking at a scale photo,
+[00:08:09 -> 00:08:11]  even one that's head-on of the building,
+[00:08:11 -> 00:08:15]  know that if portions of the building are a little closer than other portions,
+[00:08:15 -> 00:08:17]  if other portions are farther away,
+[00:08:17 -> 00:08:23]  the closer portions are going to be a little bit larger in scale on your photo than those that are farther away.
+[00:08:23 -> 00:08:25]  Naturally something that's farther away looks smaller.
+[00:08:25 -> 00:08:32]  In this building, as you see, you've got this tower that sticks out in front of the front part of the building
+[00:08:32 -> 00:08:36]  and so that's naturally going to be a little larger in scale.
+[00:08:36 -> 00:08:39]  I've got the main front of the building where these doors are.
+[00:08:39 -> 00:08:42]  That's where I've measured and taken my reference measurements.
+[00:08:42 -> 00:08:49]  But you also have these recessed areas that are recessed in by 8 feet back into the building here and here
+[00:08:49 -> 00:08:55]  and those portions of the building are going to look a little smaller on my scale picture here
+[00:08:55 -> 00:08:58]  and so I've got to be able to adjust for those things.
+[00:08:58 -> 00:09:06]  Also, the farther you go out from the center of the photo, the smaller things are going to look.
+[00:09:06 -> 00:09:12]  Things that are off to the side are going to measure smaller, both in height and in width,
+[00:09:12 -> 00:09:14]  than if they were in the center of the photo.
+[00:09:14 -> 00:09:20]  But also it's helpful to know some things, some standards when it comes to construction and building.
+[00:09:20 -> 00:09:26]  One of those things that's very helpful to know is that often buildings are built in multiples of 4 feet.
+[00:09:26 -> 00:09:31]  That's the way materials are sold and so often buildings will be made.
+[00:09:31 -> 00:09:33]  Not always. It's not a hard and fast rule.
+[00:09:33 -> 00:09:40]  But often, especially wall lengths and wall heights, will come in multiples of 4 feet.
+[00:09:40 -> 00:09:44]  Another construction standard that's helpful to know has to do with roof pitches.
+[00:09:44 -> 00:09:51]  Roof pitches are designated in terms of the rise of the roof over the run of the roof.
+[00:09:51 -> 00:10:01]  In other words, how far the roof goes up for every distance that it goes from the outer edge of the roof towards the center of the roof.
+[00:10:01 -> 00:10:06]  Usually those pitches are designated in odd numbers.
+[00:10:06 -> 00:10:13]  Common roof pitches are 9-12, 7-12, and 5-12.
+[00:10:13 -> 00:10:17]  You will see those numbers used a lot in roof construction.
+[00:10:17 -> 00:10:27]  So if you know that, you can play around with a 7-12 pitch, a 5-12 pitch, a 9-12 pitch and see what looks right on your building.
+[00:10:27 -> 00:10:35]  I haven't measured this yet to try to get real specific, but this is a fairly flat roof even though it is a peaked roof.
+[00:10:35 -> 00:10:38]  So I'm going to guess this is probably about a 5-12 pitch.
+[00:10:38 -> 00:10:42]  That is pretty standard in Texas where this building is found.
+[00:10:42 -> 00:10:47]  They don't get a lot of snow down there, so they don't need a lot of pitch on their roofs.
+[00:10:47 -> 00:10:56]  Where I live up in the Midwest where we get more snow, it's more common to have a 7-12 pitch and a 9-12 pitch is not unusual either.
+[00:10:56 -> 00:10:58]  So those are some good things to know as well.
+[00:10:58 -> 00:11:07]  I can start measuring this scale photo and marking those measurements in ways to make plans for my building.
+[00:11:07 -> 00:11:12]  For example, on this building, as you can see, the building is basically a brick building,
+[00:11:12 -> 00:11:19]  but it has these stone portions along the foundation, around all of the doorways and around the windows.
+[00:11:19 -> 00:11:27]  So I'll be cutting those stone portions out of plain styrene and I'll be cutting the brick to fit in along with it.
+[00:11:27 -> 00:11:33]  So I need to measure each of these stone window dressings.
+[00:11:33 -> 00:11:36]  For example here, this one measures to exactly 6 feet.
+[00:11:36 -> 00:11:37]  So I'm going to mark it.
+[00:11:37 -> 00:11:45]  Now I have a natural line on both sides and so I can mark it just by making a little arrow here and a little arrow here.
+[00:11:45 -> 00:11:49]  And then I can write this is 6 feet exactly here.
+[00:11:49 -> 00:11:51]  Now within that I need to measure my window.
+[00:11:51 -> 00:12:00]  And as I measure the window inside of that, I see the window comes out to just a little over 5 feet.
+[00:12:00 -> 00:12:02]  I would say about 5 feet 3 inches.
+[00:12:02 -> 00:12:09]  In my building, I'm probably going to make that window 5 feet, which would give me a 6 inch piece of stone on each side.
+[00:12:09 -> 00:12:18]  So again, I'm going to make an arrow on each side here and write in here that my window height, my window width is going to be 5 feet.
+[00:12:18 -> 00:12:20]  Now you'll notice I'm marking in pen here.
+[00:12:20 -> 00:12:24]  I usually do this in pencil, but the pencil is a little light.
+[00:12:24 -> 00:12:25]  The camera doesn't pick it up well.
+[00:12:25 -> 00:12:30]  So I'm going to do it in pen here today.
+[00:12:30 -> 00:12:32]  Now I want to measure the window height.
+[00:12:32 -> 00:12:39]  I don't want to get too busy here, so I'm going to come over to this matching window and measure the window height.
+[00:12:39 -> 00:12:49]  And when I do, I find that my window height is about 7 feet 6 inches.
+[00:12:49 -> 00:12:54]  And so I'm going to measure that 7 feet 6 inches.
+[00:12:54 -> 00:12:59]  I'm going to mark here from one spot to the next.
+[00:13:00 -> 00:13:07]  Now, sometimes we get lines that we can't write within.
+[00:13:07 -> 00:13:13]  If these windows were a little bit darker or if I was using my pencil, it would be very hard to write within these windows.
+[00:13:13 -> 00:13:21]  So I'm going to make reference lines out from the edges of this window up here onto a lighter portion of the picture.
+[00:13:21 -> 00:13:27]  And then I can measure and realize that this window, which is quite a bit wider, is actually 8 feet wide.
+[00:13:27 -> 00:13:34]  And so I can make the mark up here where I can more easily read it, 8 feet, and mark that.
+[00:13:34 -> 00:13:36]  I'm coming up my tower here.
+[00:13:36 -> 00:13:39]  I'm going to have a lot of things I'm going to have to measure on that tower.
+[00:13:39 -> 00:13:48]  But there's a brick portion of the tower here and then a stone portion that goes around and it steps in and then a brick portion here.
+[00:13:48 -> 00:13:56]  And so I'm just going to measure the height of this first brick portion, realizing that now I've gone up higher from the center of my photograph,
+[00:13:56 -> 00:14:01]  my scale is probably getting a little bit smaller up here, so I'm going to try to compensate for that.
+[00:14:01 -> 00:14:07]  As I measure here, I find this to be almost 15 feet.
+[00:14:07 -> 00:14:17]  But again, by my rule of fours, I realize it's probably more realistic and I think it will look good if I actually make that a 16 feet, a multiple of four.
+[00:14:17 -> 00:14:28]  So again, I'm going to make a reference mark right here on my brick to up here and I'm going to make that portion 16 feet tall.
+[00:14:28 -> 00:14:32]  And we're just going to keep going through the photo.
+[00:14:32 -> 00:14:37]  Every piece that I'll have to cut, I'll need to make a measurement of width and height.
+[00:14:37 -> 00:14:43]  And I have, in essence, a detailed set of plans, almost a blueprint for the front of this building.
+[00:14:43 -> 00:14:50]  And from that, I can build my scratch built structure or if I was kit bashing using a kit,
+[00:14:50 -> 00:14:59]  then I could figure out what portions of the kit I could use to make all of those measured pieces and what I was going to have to fabricate from other bare stock.
+[00:14:59 -> 00:15:07]  I can use those measurements to find out what detail parts, what window castings are out there that will work proportionally for these.
+[00:15:07 -> 00:15:17]  I know now that I can't find exactly that configuration of window in exactly that size and in scale, but I have found some that are close.
+[00:15:17 -> 00:15:26]  And as long as I shrink my window, in my case, proportionally in width and height so that it looks right,
+[00:15:26 -> 00:15:35]  it's going to come out looking like this building, even though the height and the width may not be exactly the same as they are to scale up here.
+[00:15:35 -> 00:15:48]  So that's how you take a photo like this and turn it into a scale photo and a set of plans that you can use to scratch build or to kit bash a great looking model.
+[00:15:48 -> 00:15:53]  And I'm going to be working on this very scratch build over the course of the next several weeks.
+[00:15:53 -> 00:15:57]  And you'll be seeing some videos of that as I make progress.
+[00:15:57 -> 00:15:59]  So I hope you'll join me and watch for that.
+[00:15:59 -> 00:16:02]  And I hope you'll give this method a try.
+[00:16:02 -> 00:16:08]  I think you'll find it a great help, whether it's your first scratch build or whether you've been doing it for years.
+[00:16:08 -> 00:16:14]  I think you'll find this a great help to you as you scratch build in the future.
+[00:16:14 -> 00:16:19]  The more you learn about how actual buildings are constructed and about standard known distances,
+[00:16:19 -> 00:16:32]  the easier you'll find it to turn photographs into scale drawings and those scale pictures into detailed plans that can help guide you throughout your kit bashing and scratch building projects.
+[00:16:32 -> 00:16:36]  I hope you found this video helpful and I hope you'll give these techniques a try.
+[00:16:36 -> 00:16:39]  Thank you for watching Ron's Trains and Things today.
+[00:16:39 -> 00:16:46]  If you found this video helpful, I hope that you'll share it on your social media or model railroad forums that you participate in.
+[00:16:46 -> 00:16:52]  Help other model railroaders find information that can help them as well here on Ron's Trains and Things.
+[00:16:52 -> 00:16:58]  I also hope that you'll give it a thumbs up, like it down below, that you'll subscribe if you haven't already.
+[00:16:58 -> 00:17:02]  And by all means, please leave a comment or a question down at the bottom of the page.
+[00:17:02 -> 00:17:06]  I love to hear from you and I always respond to your comments.
+[00:17:06 -> 00:17:14]  Finally, in that description just below this video, you'll find some more information about my train layout, the Texas, Colorado, and Western.
+[00:17:14 -> 00:17:17]  The Facebook page that I have dedicated to it.
+[00:17:17 -> 00:17:21]  As well as ways that you can help support Ron's Trains and Things if you'd like to.
+[00:17:21 -> 00:17:27]  Well that's all we have for today on Ron's Trains and Things, but be sure and join us again this Friday for another Feature Friday segment.
+[00:17:27 -> 00:17:29]  And I will see you then.
+[00:17:44 -> 00:17:48]  Thanks for watching!

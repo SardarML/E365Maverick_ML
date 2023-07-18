@@ -1,0 +1,1395 @@
+[00:00:00 -> 00:00:09]  And we are live, hello and welcome everybody to the state of React ecosystem.
+[00:00:09 -> 00:00:14]  So excited to have some of our amazing panelists here today and some amazing updates.
+[00:00:14 -> 00:00:21]  We're going to have some really awesome conversations about React, and I'm going to go ahead and
+[00:00:21 -> 00:00:22]  share my slides really quickly.
+[00:00:22 -> 00:00:24]  Oh, it's funny.
+[00:00:24 -> 00:00:25]  Hello.
+[00:00:25 -> 00:00:26]  Okay.
+[00:00:26 -> 00:00:27]  There we go.
+[00:00:27 -> 00:00:30]  I'm looking at my slides on the screen, but like not my actual slides.
+[00:00:30 -> 00:00:31]  I'm confused.
+[00:00:31 -> 00:00:32]  All right.
+[00:00:32 -> 00:00:33]  So state of React ecosystem.
+[00:00:33 -> 00:00:35]  I'm going to be talking about some amazing things.
+[00:00:35 -> 00:00:38]  I want to thank my team over at the thought labs.
+[00:00:38 -> 00:00:40]  We're about a 50% consultancy.
+[00:00:40 -> 00:00:41]  It's pretty exciting.
+[00:00:41 -> 00:00:46]  But, you know, if my team wasn't enabling me to do all the things I love, which is basically
+[00:00:46 -> 00:00:51]  everything related to community, definitely would not be able to do all the great things
+[00:00:51 -> 00:00:52]  we're able to do for the community.
+[00:00:52 -> 00:00:54]  We have a lot of amazing clients.
+[00:00:54 -> 00:00:56]  So that's always exciting.
+[00:00:56 -> 00:00:57]  Everybody's looking for new and interesting work.
+[00:00:57 -> 00:01:00]  So if you're hiring, let us know.
+[00:01:00 -> 00:01:05]  Also we have an amazing team that's growing, so if you want to come hang out, email me.
+[00:01:05 -> 00:01:06]  That's how I make friends.
+[00:01:06 -> 00:01:09]  I do still do all the screenings.
+[00:01:09 -> 00:01:12]  We just released a really cool open source project that you can not only contribute to,
+[00:01:12 -> 00:01:20]  but also something that we wanted to release to help people figure out what technologies
+[00:01:20 -> 00:01:21]  to use.
+[00:01:21 -> 00:01:27]  Because I think everybody's experienced the paralysis of figuring out what on earth to
+[00:01:27 -> 00:01:29]  use, what libraries to compare, et cetera, et cetera.
+[00:01:29 -> 00:01:33]  So reactangularinview.framework.dev.
+[00:01:33 -> 00:01:34]  You can check them out.
+[00:01:34 -> 00:01:37]  Submit a PR if you hate it, issues.
+[00:01:37 -> 00:01:42]  And then, Tom, I don't know if you monitor this, but, you know, yell at Tom.
+[00:01:42 -> 00:01:43]  Just kidding.
+[00:01:44 -> 00:01:46]  I'll probably review your PRs if you contribute.
+[00:01:46 -> 00:01:48]  So go ahead and contribute.
+[00:01:48 -> 00:01:49]  Yes.
+[00:01:49 -> 00:01:52]  We have a lot of really interesting events coming on.
+[00:01:52 -> 00:01:58]  So next week is JavaScript Marathon, where Michael will actually also be presenting.
+[00:01:58 -> 00:02:04]  Kent has presented in the past before as well, where, you know, it's basically a week of
+[00:02:04 -> 00:02:05]  free training.
+[00:02:05 -> 00:02:07]  So check that out.
+[00:02:07 -> 00:02:08]  Starts July 18th.
+[00:02:08 -> 00:02:11]  State of Hello CMS is coming up as well.
+[00:02:11 -> 00:02:13]  State of Vue is happening.
+[00:02:14 -> 00:02:16]  And then we have State of Web Components happening as well.
+[00:02:16 -> 00:02:17]  Woman in Tech Monthly Mentoring.
+[00:02:17 -> 00:02:19]  That's just my favorite.
+[00:02:19 -> 00:02:21]  We had it yesterday as well.
+[00:02:21 -> 00:02:25]  Just like coming and hanging out with a bunch of women for like an hour and talking.
+[00:02:25 -> 00:02:27]  Doesn't matter what level you are.
+[00:02:27 -> 00:02:29]  But, you know, just hanging out.
+[00:02:29 -> 00:02:31]  Hanging out privately in a little Zoom.
+[00:02:31 -> 00:02:34]  State of Web Performance as well happens August 23rd.
+[00:02:34 -> 00:02:35]  So yeah.
+[00:02:35 -> 00:02:36]  Check those things out.
+[00:02:36 -> 00:02:37]  I'm excited about those.
+[00:02:37 -> 00:02:38]  My name's Tracy.
+[00:02:38 -> 00:02:43]  You can follow me on Twitter at Lady Leet.
+[00:02:43 -> 00:02:46]  I'm the CEO of the Sutt Labs.
+[00:02:46 -> 00:02:48]  And then Tom is my co-host.
+[00:02:48 -> 00:02:49]  Hi, Tom.
+[00:02:49 -> 00:02:50]  Hello.
+[00:02:50 -> 00:02:55]  Happy to be here.
+[00:02:55 -> 00:02:57]  And Tom is the master of amazing shirts.
+[00:02:57 -> 00:03:01]  So whenever you see Tom, if you see a person in a Hawaiian shirt, like, it's like, is that
+[00:03:01 -> 00:03:02]  that Tom guy?
+[00:03:02 -> 00:03:03]  Like, it is.
+[00:03:03 -> 00:03:07]  I need to update my little avatar there where I'm in a suit.
+[00:03:07 -> 00:03:08]  Because I'm never in a suit.
+[00:03:08 -> 00:03:09]  It's always Hawaiian shirts.
+[00:03:09 -> 00:03:10]  It's true.
+[00:03:10 -> 00:03:16]  I was about to say, that picture feels very misleading.
+[00:03:16 -> 00:03:22]  I made that illustration before I was in tech, when I had to actually dress a certain way
+[00:03:22 -> 00:03:23]  in an office.
+[00:03:23 -> 00:03:24]  Never again.
+[00:03:24 -> 00:03:25]  That's so funny.
+[00:03:25 -> 00:03:26]  Yeah.
+[00:03:26 -> 00:03:27]  So reason to join tech.
+[00:03:27 -> 00:03:30]  You can wear whatever you want.
+[00:03:30 -> 00:03:33]  I feel that.
+[00:03:33 -> 00:03:34]  Amazing panelists here today.
+[00:03:34 -> 00:03:40]  I'm going to go ahead and just have everybody do a quick, like, 10-second intro.
+[00:03:40 -> 00:03:44]  And then we'll move on to, like, you know, kind of a roundabout of updates.
+[00:03:44 -> 00:03:47]  But Shruti, do you want to go ahead and introduce yourself?
+[00:03:47 -> 00:03:48]  Sure.
+[00:03:48 -> 00:03:49]  Hey, everybody.
+[00:03:49 -> 00:03:50]  My name is Shruti Kapoor.
+[00:03:50 -> 00:03:53]  I am a software engineer at Slack.
+[00:03:53 -> 00:03:57]  And my title is a lead member of technical staff.
+[00:03:57 -> 00:04:00]  So instead of going with that title, I just say software engineer.
+[00:04:00 -> 00:04:01]  Hi, everyone.
+[00:04:01 -> 00:04:02]  Nice to be here.
+[00:04:02 -> 00:04:03]  Excited to talk about React.
+[00:04:03 -> 00:04:07]  You can follow me on Twitter at ShrutiKapoor08.
+[00:04:07 -> 00:04:09]  Thank you.
+[00:04:09 -> 00:04:10]  Hi.
+[00:04:10 -> 00:04:11]  I'm Mark Erickson.
+[00:04:11 -> 00:04:16]  I'm a senior frontend engineer at Replay, where we're building a time-traveling debugger
+[00:04:16 -> 00:04:17]  for JavaScript.
+[00:04:17 -> 00:04:21]  And also I do a few things related to Redux.
+[00:04:21 -> 00:04:24]  Hi.
+[00:04:24 -> 00:04:25]  I am Paige Niedringhaus.
+[00:04:25 -> 00:04:30]  I'm a staff software engineer for an IoT startup called Blues Wireless.
+[00:04:30 -> 00:04:36]  And I am also a co-host of the React Roundup podcast and the author of modernizing enterprise
+[00:04:36 -> 00:04:39]  React apps for Newline.
+[00:04:39 -> 00:04:41]  Hello.
+[00:04:41 -> 00:04:43]  I'm Kent C. Dodds.
+[00:04:43 -> 00:04:45]  And I have a cut on my chin.
+[00:04:45 -> 00:04:48]  So that's what the bandaid is all about.
+[00:04:48 -> 00:04:51]  I'm the co-founder and director of developer experience at Remix.
+[00:04:51 -> 00:04:55]  I created testing JavaScript.com and Epic React.dev.
+[00:04:56 -> 00:05:00]  And I really like JavaScript, React, and Remix.
+[00:05:03 -> 00:05:04]  Hi.
+[00:05:04 -> 00:05:05]  My name is Dominik.
+[00:05:05 -> 00:05:08]  You can find me online as tkdodo almost everywhere.
+[00:05:08 -> 00:05:14]  I work as a frontend tech lead at Adverity, but I guess I'm here because I maintain the
+[00:05:14 -> 00:05:18]  popular open source library React Query, as you can see on my T-shirt.
+[00:05:20 -> 00:05:21]  Hello.
+[00:05:21 -> 00:05:22]  Hello, everyone.
+[00:05:22 -> 00:05:23]  My name is Michael Leando.
+[00:05:23 -> 00:05:27]  I'm a developer advocate over at AWS, specifically on the Amplify team.
+[00:05:27 -> 00:05:29]  You can find me online at MTLeando.
+[00:05:29 -> 00:05:34]  And I typically rant about all things AppSync, GraphQL, frontend, et cetera.
+[00:05:34 -> 00:05:37]  Pretty much putting your frontend application on the cloud.
+[00:05:40 -> 00:05:41]  Cool.
+[00:05:41 -> 00:05:42]  I love it.
+[00:05:42 -> 00:05:46]  Well, thanks so much all for being here again.
+[00:05:46 -> 00:05:48]  And let's go ahead and move on to...
+[00:05:48 -> 00:05:51]  Well, thank you for joining.
+[00:05:52 -> 00:05:55]  Let's go ahead and move on to quick updates.
+[00:05:56 -> 00:06:00]  I'm just going to go like this and say, Dom, do you want to go first?
+[00:06:00 -> 00:06:02]  Give us an update on TanStack.
+[00:06:03 -> 00:06:04]  Yes, definitely.
+[00:06:04 -> 00:06:09]  So I'm very sad that Tanner can't be here today to talk about all the amazing things
+[00:06:09 -> 00:06:15]  that he's done to the TanStack and the various libraries that are in it.
+[00:06:15 -> 00:06:20]  But what I can share with you, if I can share my screen, I hope that works.
+[00:06:21 -> 00:06:22]  Oops.
+[00:06:22 -> 00:06:23]  Okay.
+[00:06:26 -> 00:06:28]  Let's share this one here.
+[00:06:28 -> 00:06:32]  So what we've been working on, and also I've been working on a lot lately,
+[00:06:32 -> 00:06:36]  is the new version of React Query version 4.
+[00:06:36 -> 00:06:42]  For the last, let's say, half year, a bit longer than that,
+[00:06:42 -> 00:06:43]  this has been in the makings.
+[00:06:43 -> 00:06:46]  And as you can see, this is a blog post that's not yet live.
+[00:06:46 -> 00:06:48]  So this is a preview.
+[00:06:49 -> 00:06:52]  It has been renamed to TanStack Query.
+[00:06:52 -> 00:06:56]  Like all the other libraries that Tanner has created, or most of the libraries,
+[00:06:56 -> 00:06:59]  we have TanStack Table now, there's TanStack Virtual,
+[00:06:59 -> 00:07:03]  and there will also be TanStack Query as the next major version.
+[00:07:04 -> 00:07:08]  And first of all, I also want to apologize to people if they try to access
+[00:07:08 -> 00:07:11]  the old docs, because if you go to the old docs,
+[00:07:11 -> 00:07:13]  we have already redirected them to the new docs,
+[00:07:13 -> 00:07:17]  which has caused a bit of confusion because you can't actually install
+[00:07:17 -> 00:07:20]  it the way as it's been described here,
+[00:07:20 -> 00:07:22]  because we're still actively working on that.
+[00:07:22 -> 00:07:25]  Got a bit of a delay because vacations,
+[00:07:25 -> 00:07:27]  I've been on vacation for the last two weeks,
+[00:07:27 -> 00:07:29]  Tanner is on vacation right now,
+[00:07:29 -> 00:07:31]  so we're just trying to find the time to sync up
+[00:07:31 -> 00:07:33]  and then actually roll out the release.
+[00:07:33 -> 00:07:35]  It's going to happen very, very soon.
+[00:07:35 -> 00:07:40]  I know I've said that in the past before, but last minute, we said,
+[00:07:40 -> 00:07:42]  okay, let's add React 18 support.
+[00:07:42 -> 00:07:44]  And then it took some time.
+[00:07:44 -> 00:07:47]  And again, last minute, we also said,
+[00:07:47 -> 00:07:50]  let's make it the agnostic one with the TanStack Query.
+[00:07:50 -> 00:07:52]  We don't want to do this a bit later, but feature-wise,
+[00:07:52 -> 00:07:54]  it's actually been complete for quite some time.
+[00:07:54 -> 00:08:01]  And what we have as new features is a new way to support offline mode.
+[00:08:01 -> 00:08:07]  So that means React Query or TanStack Query doesn't have any implications
+[00:08:07 -> 00:08:10]  or assumptions about the network anymore.
+[00:08:10 -> 00:08:13]  So you can really, it has evolved to an aging state manager.
+[00:08:13 -> 00:08:18]  You can use it to produce a promise however you want.
+[00:08:18 -> 00:08:20]  It doesn't have to be over the wire,
+[00:08:20 -> 00:08:23]  and it will also work if you're offline.
+[00:08:23 -> 00:08:24]  If you don't have a network connection,
+[00:08:24 -> 00:08:27]  it will give you a new paused state that you can then check
+[00:08:27 -> 00:08:31]  and provide a better UX for your users.
+[00:08:31 -> 00:08:33]  The other thing are the stable persisters.
+[00:08:33 -> 00:08:36]  They have been experimental for quite some time.
+[00:08:36 -> 00:08:40]  It's a way to take the query cache and persist it somewhere else.
+[00:08:40 -> 00:08:43]  For example, local storage, or if you're using React Native,
+[00:08:43 -> 00:08:47]  you can use aging storage to give an even faster startup time
+[00:08:47 -> 00:08:50]  by reading if the user has already loaded it there.
+[00:08:50 -> 00:08:53]  We're providing two persisters, a sync storage persister
+[00:08:53 -> 00:08:54]  and an aging storage persister,
+[00:08:54 -> 00:08:57]  but you can also write your own on top of it.
+[00:08:57 -> 00:09:00]  As I already said, we have put support for React 18 in there.
+[00:09:00 -> 00:09:03]  Version 3 just has a support
+[00:09:03 -> 00:09:07]  in a way that it doesn't break with peer dependencies,
+[00:09:07 -> 00:09:09]  but it doesn't really have support
+[00:09:09 -> 00:09:12]  for the new concurrent features of React 18.
+[00:09:12 -> 00:09:16]  We've done that in version 4 by using the using external store hook.
+[00:09:16 -> 00:09:20]  And we have some smaller changes to the APIs
+[00:09:20 -> 00:09:22]  that we try to streamline
+[00:09:22 -> 00:09:26]  because they have accumulated over time with lots of flags.
+[00:09:26 -> 00:09:27]  We try to make that better
+[00:09:27 -> 00:09:29]  and also try to choose better default values
+[00:09:29 -> 00:09:32]  that we think will make the user experience
+[00:09:32 -> 00:09:34]  and developer experience even better.
+[00:09:34 -> 00:09:38]  So yeah, I can't say come check it out right now
+[00:09:38 -> 00:09:39]  because it's not there yet,
+[00:09:39 -> 00:09:43]  but you can check out the beta version if you want of React Query
+[00:09:43 -> 00:09:45]  and then very soon we will launch
+[00:09:45 -> 00:09:47]  the 10-stack branded version of it.
+[00:09:47 -> 00:09:49]  And then obviously, like the other libraries,
+[00:09:49 -> 00:09:50]  we can go agnostic.
+[00:09:50 -> 00:09:54]  So there will be adapters for Vue, Svelte, and likely Solid.
+[00:09:54 -> 00:09:56]  For Vue and Svelte, I know they already exist
+[00:09:56 -> 00:09:59]  as community packages,
+[00:09:59 -> 00:10:02]  and we're going to integrate them into the 10-stack,
+[00:10:02 -> 00:10:06]  into the monorepo.
+[00:10:06 -> 00:10:08]  Yeah, that's all I have.
+[00:10:08 -> 00:10:09]  Thank you. I appreciate it.
+[00:10:09 -> 00:10:13]  Who wants to go next?
+[00:10:13 -> 00:10:14]  I can go next.
+[00:10:14 -> 00:10:17]  Yay.
+[00:10:17 -> 00:10:19]  Yeah, so I don't have any sort of presentation
+[00:10:19 -> 00:10:21]  or anything to share my screen,
+[00:10:21 -> 00:10:25]  but I can say that over here at Remix,
+[00:10:25 -> 00:10:27]  we've been working on a couple of really cool things.
+[00:10:27 -> 00:10:33]  So for one, we had our conference this last May,
+[00:10:33 -> 00:10:36]  and we haven't officially announced this yet,
+[00:10:36 -> 00:10:38]  so this is the first place you're hearing this,
+[00:10:38 -> 00:10:43]  but we are going to be holding RemixConf.
+[00:10:43 -> 00:10:45]  Well, okay, so we did announce
+[00:10:45 -> 00:10:47]  that we're holding RemixConf 2023.
+[00:10:47 -> 00:10:49]  We announced that at the conference.
+[00:10:49 -> 00:10:52]  But as far as like when, we just said sometime in May.
+[00:10:52 -> 00:10:56]  So now you know, I can tell you that RemixConf
+[00:10:56 -> 00:10:58]  is going to be the week of May 7th,
+[00:10:58 -> 00:11:01]  and it's going to be a two-day conference,
+[00:11:01 -> 00:11:03]  one day of workshop.
+[00:11:03 -> 00:11:06]  And so, yeah, block out the week of May 7th
+[00:11:06 -> 00:11:10]  on your calendar to come to RemixConf 2023.
+[00:11:10 -> 00:11:12]  It's going to be bigger, badder, better.
+[00:11:12 -> 00:11:14]  Not badder, it'll be better.
+[00:11:14 -> 00:11:17]  Bigger and better and awesomer than ever.
+[00:11:17 -> 00:11:21]  And then as far as the technology itself,
+[00:11:21 -> 00:11:26]  Remix is very soon going to have,
+[00:11:26 -> 00:11:28]  or we're going to finish the work
+[00:11:28 -> 00:11:30]  on remixing React Router,
+[00:11:30 -> 00:11:32]  so we're bringing a lot of features from Remix
+[00:11:32 -> 00:11:33]  into React Router.
+[00:11:33 -> 00:11:35]  We could also call that unreacting React Router,
+[00:11:35 -> 00:11:37]  because like the TAN stack,
+[00:11:37 -> 00:11:39]  we are taking all of the cool things
+[00:11:39 -> 00:11:41]  from Remix and React Router
+[00:11:41 -> 00:11:45]  and framework agnosticizing it.
+[00:11:45 -> 00:11:49]  And so you will relatively soon
+[00:11:49 -> 00:11:51]  be able to use Remix
+[00:11:51 -> 00:11:54]  with whatever UI library that you want.
+[00:11:54 -> 00:11:57]  We will build official support for Vue and Preact,
+[00:11:57 -> 00:11:59]  and then you could build your own thing
+[00:11:59 -> 00:12:02]  for a solid and a svelte
+[00:12:02 -> 00:12:04]  or whatever else you want to.
+[00:12:04 -> 00:12:07]  So that is exciting work.
+[00:12:07 -> 00:12:12]  And we're also working on the streaming APIs.
+[00:12:12 -> 00:12:14]  So you can currently use React 18 streaming with Remix.
+[00:12:14 -> 00:12:16]  Remix didn't need to change anything
+[00:12:16 -> 00:12:17]  for you to be able to do that.
+[00:12:17 -> 00:12:19]  When React 18 came out,
+[00:12:19 -> 00:12:22]  but we are taking advantage of the streaming APIs
+[00:12:22 -> 00:12:23]  with our deferred API.
+[00:12:23 -> 00:12:26]  And we actually just shipped yesterday
+[00:12:26 -> 00:12:29]  one of the pre-release of React Router
+[00:12:29 -> 00:12:32]  with the deferred API built into the router,
+[00:12:32 -> 00:12:35]  because the new version of React Router
+[00:12:35 -> 00:12:38]  is also a data management library as well.
+[00:12:38 -> 00:12:40]  And so, yeah, we built,
+[00:12:40 -> 00:12:42]  added the deferred API to that,
+[00:12:42 -> 00:12:45]  and then we're going to very soon
+[00:12:45 -> 00:12:48]  ship the deferred API to Remix
+[00:12:48 -> 00:12:49]  so you can stream from the backend.
+[00:12:49 -> 00:12:52]  And it's amazing, but I've been talking too long,
+[00:12:52 -> 00:12:54]  so I'm not going to talk any more about that.
+[00:12:54 -> 00:12:55]  So look forward to that.
+[00:12:55 -> 00:12:56]  It's going to be really cool.
+[00:12:56 -> 00:12:59]  We've got a couple other really cool things coming
+[00:12:59 -> 00:13:02]  and we're experimenting with.
+[00:13:02 -> 00:13:05]  And yeah, we can talk about that more later.
+[00:13:05 -> 00:13:06]  Cool.
+[00:13:06 -> 00:13:09]  Do you guys publish your roadmap
+[00:13:09 -> 00:13:12]  or stuff anywhere?
+[00:13:12 -> 00:13:14]  Yeah, so all of our discussions,
+[00:13:14 -> 00:13:15]  with the community,
+[00:13:15 -> 00:13:19]  happen on the GitHub discussions on our repo.
+[00:13:19 -> 00:13:22]  We don't really have a public roadmap per se,
+[00:13:22 -> 00:13:25]  and maybe eventually we'll put one together.
+[00:13:25 -> 00:13:27]  But yeah, we just haven't done that.
+[00:13:27 -> 00:13:29]  Too stressful anyway.
+[00:13:29 -> 00:13:30]  Yeah.
+[00:13:30 -> 00:13:31]  We talk a lot.
+[00:13:31 -> 00:13:33]  One unique thing about Remix
+[00:13:33 -> 00:13:35]  is we have our early supporters,
+[00:13:35 -> 00:13:37]  the people who paid when Remix was a paid thing.
+[00:13:37 -> 00:13:39]  There are like 500 people there.
+[00:13:39 -> 00:13:41]  And so we talk a lot with them
+[00:13:41 -> 00:13:43]  to kind of flesh out ideas
+[00:13:43 -> 00:13:46]  before we bring it out into the open.
+[00:13:46 -> 00:13:48]  That way we don't have situations
+[00:13:48 -> 00:13:51]  where we make this announcement of this idea
+[00:13:51 -> 00:13:53]  and then everybody comes up in arms
+[00:13:53 -> 00:13:55]  and it's like, well, it was just an idea.
+[00:13:55 -> 00:13:56]  Like, chill, it's fine.
+[00:13:56 -> 00:13:59]  We're not going to do it, I guess.
+[00:13:59 -> 00:14:01]  Is it a Remix working group?
+[00:14:01 -> 00:14:03]  Yeah, it's kind of like a Remix working group.
+[00:14:03 -> 00:14:05]  Yeah.
+[00:14:05 -> 00:14:06]  I love it.
+[00:14:06 -> 00:14:07]  Cool.
+[00:14:07 -> 00:14:09]  Who wants to go next?
+[00:14:09 -> 00:14:11]  Sure.
+[00:14:11 -> 00:14:12]  Let's see.
+[00:14:12 -> 00:14:17]  So things are sort of quiet over in Redux land right now.
+[00:14:17 -> 00:14:20]  We shipped React Redux version 8 a few months ago.
+[00:14:20 -> 00:14:22]  And actually, that's been very quiet,
+[00:14:22 -> 00:14:24]  which is a wonderful thing.
+[00:14:24 -> 00:14:27]  We've had basically no meaningful bug reports.
+[00:14:27 -> 00:14:30]  I actually just upgraded my work app
+[00:14:30 -> 00:14:32]  to that a couple weeks ago.
+[00:14:32 -> 00:14:34]  I think there were a couple of very,
+[00:14:34 -> 00:14:36]  very minor TypeScript issues.
+[00:14:36 -> 00:14:38]  But given that we kind of swapped the guts of it,
+[00:14:38 -> 00:14:42]  we migrated it to TypeScript and everything else,
+[00:14:42 -> 00:14:44]  the fact that there's no news is really good news.
+[00:14:44 -> 00:14:46]  Congratulations.
+[00:14:46 -> 00:14:48]  Congratulations.
+[00:14:48 -> 00:14:49]  For those of you who don't know,
+[00:14:49 -> 00:14:55]  when I was talking to Mark, it was a 2019 PR, right?
+[00:14:55 -> 00:14:58]  No, that would be Redux version 5,
+[00:14:58 -> 00:15:00]  which I'll talk to in a second.
+[00:15:00 -> 00:15:02]  We did the TypeScript migration last summer.
+[00:15:02 -> 00:15:04]  Actually, the community contributed a lot of that.
+[00:15:04 -> 00:15:06]  And then I worked with Andrew Clark
+[00:15:06 -> 00:15:09]  on fleshing out the new use sync external store hook.
+[00:15:09 -> 00:15:11]  And React Redux version 8
+[00:15:11 -> 00:15:13]  was really the testing ground for that.
+[00:15:13 -> 00:15:15]  So exciting.
+[00:15:15 -> 00:15:17]  We also shipped RTK 1.8 a few months ago,
+[00:15:17 -> 00:15:19]  which has the new listener middleware,
+[00:15:19 -> 00:15:22]  which is intended to be a simpler alternative
+[00:15:22 -> 00:15:25]  for side effects instead of sagas and observables.
+[00:15:25 -> 00:15:27]  And frankly, that's gotten a better reception
+[00:15:27 -> 00:15:29]  than I would have actually expected.
+[00:15:29 -> 00:15:31]  A bunch of folks have said they're using it
+[00:15:31 -> 00:15:33]  and they love it.
+[00:15:33 -> 00:15:35]  Things we have coming down the road.
+[00:15:35 -> 00:15:40]  So we are slowly working on an RTK 1.9.
+[00:15:40 -> 00:15:43]  That's going to be mostly some new options
+[00:15:43 -> 00:15:46]  and tweaks for RTK query.
+[00:15:46 -> 00:15:49]  We're hoping to give the ability to customize
+[00:15:49 -> 00:15:53]  how you generate cache keys and serialize them
+[00:15:53 -> 00:15:57]  and the ability to potentially merge data
+[00:15:57 -> 00:15:59]  into incoming cache entries.
+[00:15:59 -> 00:16:02]  Right now, like if you try to pass in,
+[00:16:02 -> 00:16:04]  I don't know, like a session ID or something,
+[00:16:04 -> 00:16:06]  you probably don't want that as part of your cache key.
+[00:16:06 -> 00:16:09]  So the idea was you would have the ability
+[00:16:09 -> 00:16:11]  to strip that out.
+[00:16:11 -> 00:16:15]  And then right now requests always replace existing data.
+[00:16:15 -> 00:16:17]  And depending on the use case,
+[00:16:17 -> 00:16:20]  you might want to merge into an existing cache entry
+[00:16:20 -> 00:16:22]  when you refetch.
+[00:16:22 -> 00:16:24]  A couple of small TS improvements.
+[00:16:24 -> 00:16:27]  We're going to add a deprecation warning
+[00:16:27 -> 00:16:32]  for the object syntax for the extra reducers option
+[00:16:32 -> 00:16:34]  in create slice.
+[00:16:34 -> 00:16:36]  That just really doesn't work well with TypeScript.
+[00:16:36 -> 00:16:39]  It was a great feature when we first shipped the library,
+[00:16:39 -> 00:16:41]  but we really want to encourage people
+[00:16:41 -> 00:16:43]  to use the builder syntax instead
+[00:16:43 -> 00:16:46]  because it works much better with TypeScript.
+[00:16:46 -> 00:16:49]  While they're not necessarily slated for 1.9,
+[00:16:49 -> 00:16:51]  there's a couple open proof of concept PRs
+[00:16:51 -> 00:16:56]  to have suspense support for RTK query
+[00:16:56 -> 00:16:59]  and the ability to have like multiple queries
+[00:16:59 -> 00:17:02]  being suspended at once.
+[00:17:02 -> 00:17:04]  No strict ETA on this.
+[00:17:04 -> 00:17:06]  We're working on this very slowly,
+[00:17:06 -> 00:17:08]  maybe in the next couple months, hopefully.
+[00:17:08 -> 00:17:10]  And then once we do ship that,
+[00:17:10 -> 00:17:13]  we hope to turn around and work on RTK2,
+[00:17:13 -> 00:17:16]  which would have really no new meaningful features,
+[00:17:16 -> 00:17:18]  but instead be a cleanup
+[00:17:18 -> 00:17:22]  and breaking changes kind of a thing,
+[00:17:22 -> 00:17:24]  dropping support for IE11,
+[00:17:24 -> 00:17:28]  rethinking some of our build output file formats
+[00:17:28 -> 00:17:32]  using the export field in package JSON
+[00:17:32 -> 00:17:36]  for ESM compatibility,
+[00:17:36 -> 00:17:40]  dropping the emmer ES5 compat shim,
+[00:17:40 -> 00:17:43]  and then getting to what Tracy said.
+[00:17:43 -> 00:17:45]  If you look at the Redux repo,
+[00:17:45 -> 00:17:47]  we converted it to TypeScript in 2019
+[00:17:47 -> 00:17:48]  and never shipped it.
+[00:17:48 -> 00:17:51]  So eventually that needs to be Redux version five,
+[00:17:51 -> 00:17:54]  and it would make sense to ship a Redux five
+[00:17:54 -> 00:17:56]  that is built in TypeScript
+[00:17:56 -> 00:18:01]  together with RTK 2.0 at the same time.
+[00:18:01 -> 00:18:03]  Hopefully that won't break things too badly,
+[00:18:03 -> 00:18:05]  and we'll find out when we get there.
+[00:18:05 -> 00:18:08]  I'm calling all TypeScript experts.
+[00:18:08 -> 00:18:12]  Go talk to Mark on Twitter.
+[00:18:12 -> 00:18:14]  He could use some help.
+[00:18:14 -> 00:18:17]  Cool. Thank you, Mark. Appreciate it.
+[00:18:17 -> 00:18:20]  Who wants to go next?
+[00:18:20 -> 00:18:21]  I can go.
+[00:18:21 -> 00:18:22]  Sure.
+[00:18:22 -> 00:18:26]  Let me see if I can share my screen.
+[00:18:26 -> 00:18:28]  Maybe.
+[00:18:28 -> 00:18:32]  Possibly.
+[00:18:32 -> 00:18:33]  Maybe not. I'm getting that,
+[00:18:33 -> 00:18:35]  hey, we need permission to share.
+[00:18:35 -> 00:18:36]  That's okay.
+[00:18:36 -> 00:18:38]  We're going to bypass that.
+[00:18:38 -> 00:18:41]  A couple of things on the AWS Amplify side.
+[00:18:41 -> 00:18:43]  So for those of you that are unaware,
+[00:18:43 -> 00:18:46]  AWS Amplify is a way for front-end developers
+[00:18:46 -> 00:18:49]  to get up to speed on AWS.
+[00:18:49 -> 00:18:51]  I think there's no shortage of folks
+[00:18:51 -> 00:18:54]  with the understanding that AWS has traditionally
+[00:18:54 -> 00:18:57]  been super hard for a front-end developer to access
+[00:18:57 -> 00:19:01]  just because of the sheer amount of services that we offer,
+[00:19:01 -> 00:19:04]  back-end tailored infrastructure and other tooling,
+[00:19:04 -> 00:19:08]  but AWS Amplify is kind of here to solve that.
+[00:19:08 -> 00:19:11]  So two new features that we have going on.
+[00:19:11 -> 00:19:14]  The first one is going to be Amplify Studio,
+[00:19:14 -> 00:19:16]  is our graphical user interface
+[00:19:16 -> 00:19:19]  that folks can use to drag and drop their applications
+[00:19:19 -> 00:19:23]  if you use Netlify, Vercel, et cetera, to host your apps.
+[00:19:23 -> 00:19:25]  Very similar in that regard.
+[00:19:25 -> 00:19:26]  The one added benefit, though,
+[00:19:26 -> 00:19:30]  is that you can now design your files in Figma,
+[00:19:30 -> 00:19:32]  take that link that you would typically share
+[00:19:32 -> 00:19:34]  with your other designer friends,
+[00:19:34 -> 00:19:36]  and instead paste that into Amplify,
+[00:19:36 -> 00:19:40]  and we will generate all of the React components for you.
+[00:19:40 -> 00:19:42]  So it's a pixel-perfect one-to-one,
+[00:19:42 -> 00:19:44]  and it stays in sync in the sense that
+[00:19:44 -> 00:19:47]  if your designer were to modify the colors
+[00:19:47 -> 00:19:50]  and the spacing, et cetera, they press sync,
+[00:19:50 -> 00:19:52]  and then the developer can pull those down,
+[00:19:52 -> 00:19:55]  and it's all managed via Amplify Studio.
+[00:19:55 -> 00:19:56]  Pretty cool.
+[00:19:56 -> 00:19:59]  The thing that I think folks really like about that
+[00:19:59 -> 00:20:01]  is the components.
+[00:20:01 -> 00:20:02]  They're modifiable.
+[00:20:02 -> 00:20:03]  They're human-readable.
+[00:20:03 -> 00:20:07]  It's not that sort of long syntax of code
+[00:20:07 -> 00:20:10]  that gets minified and unable to be read,
+[00:20:10 -> 00:20:12]  but we take it a step further,
+[00:20:12 -> 00:20:16]  and we also now have a GA support
+[00:20:16 -> 00:20:18]  for our UI components themselves.
+[00:20:18 -> 00:20:20]  So how we scaffold out those components
+[00:20:20 -> 00:20:22]  ends up getting bundled up and created
+[00:20:22 -> 00:20:24]  inside of a UI library,
+[00:20:24 -> 00:20:27]  and folks can now install that inside of their application.
+[00:20:27 -> 00:20:30]  So if you don't use Figma, all good.
+[00:20:30 -> 00:20:34]  Amplify also has its own Chakra UI,
+[00:20:34 -> 00:20:36]  theme UI-style library
+[00:20:36 -> 00:20:38]  that you can check out over at our docs.
+[00:20:38 -> 00:20:41]  It's great, and it's sort of easy to use
+[00:20:41 -> 00:20:43]  if you're coming from those other realms
+[00:20:43 -> 00:20:45]  of front-end development.
+[00:20:45 -> 00:20:47]  So that's what we got on the front-end side.
+[00:20:47 -> 00:20:49]  I'll pass it off.
+[00:20:49 -> 00:20:50]  That's really exciting.
+[00:20:50 -> 00:20:52]  I'm so glad that I've been seeing
+[00:20:52 -> 00:20:54]  a lot of really great hires
+[00:20:54 -> 00:20:58]  and people focused on AWS education
+[00:20:58 -> 00:21:00]  and documentation for front-end developers
+[00:21:00 -> 00:21:02]  because I feel like most of us have been
+[00:21:02 -> 00:21:04]  screaming for it for a few years now.
+[00:21:04 -> 00:21:07]  So very excited about that.
+[00:21:07 -> 00:21:10]  PagerFace is like, yes, yes.
+[00:21:11 -> 00:21:13]  Yeah, it's such...
+[00:21:13 -> 00:21:16]  AWS is one of the first platforms
+[00:21:16 -> 00:21:17]  that I really got started with,
+[00:21:17 -> 00:21:19]  but it's such an intimidating one
+[00:21:19 -> 00:21:22]  because there are so many potential pitfalls
+[00:21:22 -> 00:21:25]  and bells and whistles to uncover
+[00:21:25 -> 00:21:27]  that any documentation and people
+[00:21:27 -> 00:21:30]  who are helping to spread that knowledge
+[00:21:30 -> 00:21:33]  is, you know, thumbs up in my book all around.
+[00:21:33 -> 00:21:35]  It's like sighs of relief.
+[00:21:35 -> 00:21:38]  Every time I see somebody like joining AWS
+[00:21:38 -> 00:21:39]  to help on developer education,
+[00:21:39 -> 00:21:41]  I'm like, this is the best thing ever.
+[00:21:41 -> 00:21:42]  Thank you.
+[00:21:42 -> 00:21:44]  So no, we're excited, Michael, obviously.
+[00:21:46 -> 00:21:48]  Paige, since you're unmuted,
+[00:21:48 -> 00:21:50]  do you have any updates for us?
+[00:21:51 -> 00:21:52]  Sure.
+[00:21:52 -> 00:21:54]  So for anybody who isn't familiar,
+[00:21:54 -> 00:21:57]  last fall, I wrote and released a course
+[00:21:57 -> 00:21:59]  with a company called NewLine
+[00:21:59 -> 00:22:01]  that is all about modernizing
+[00:22:01 -> 00:22:03]  enterprise React applications
+[00:22:03 -> 00:22:04]  because they're big,
+[00:22:04 -> 00:22:06]  they're long-lived usually,
+[00:22:06 -> 00:22:08]  and they might not be following
+[00:22:08 -> 00:22:09]  all the best practices
+[00:22:09 -> 00:22:11]  that include things like unit testing,
+[00:22:11 -> 00:22:12]  end-to-end testing,
+[00:22:12 -> 00:22:14]  using design libraries,
+[00:22:14 -> 00:22:18]  going from components that are stateful
+[00:22:18 -> 00:22:20]  to functional components and using hooks.
+[00:22:21 -> 00:22:24]  So since the new hooks
+[00:22:24 -> 00:22:26]  and React 18 has come out,
+[00:22:26 -> 00:22:28]  I have not done any updates
+[00:22:28 -> 00:22:30]  that are available for users yet,
+[00:22:30 -> 00:22:31]  but it is something
+[00:22:31 -> 00:22:32]  that I'm definitely working on,
+[00:22:32 -> 00:22:35]  potentially some new modules
+[00:22:35 -> 00:22:38]  and some updates to the existing course.
+[00:22:38 -> 00:22:40]  So just stay tuned
+[00:22:40 -> 00:22:41]  because there will be things coming
+[00:22:41 -> 00:22:43]  in the future for that.
+[00:22:45 -> 00:22:46]  That's definitely exciting.
+[00:22:46 -> 00:22:48]  I feel like we actually just did a podcast
+[00:22:48 -> 00:22:49]  on Modern Web.
+[00:22:50 -> 00:22:51]  For those of you who listen
+[00:22:51 -> 00:22:52]  to Modern Web Podcast,
+[00:22:52 -> 00:22:54]  it will be coming soon with Jay Phelps.
+[00:22:54 -> 00:22:57]  And we were talking about, you know,
+[00:22:57 -> 00:23:00]  the new React, the modern React.
+[00:23:00 -> 00:23:02]  It's funny that we call it modern,
+[00:23:02 -> 00:23:03]  whereas like, you know, five years ago,
+[00:23:03 -> 00:23:05]  it was like, oh, look, it's the modern web.
+[00:23:05 -> 00:23:08]  So it's just been really interesting
+[00:23:08 -> 00:23:09]  from a React perspective
+[00:23:09 -> 00:23:11]  to kind of try and like figure out
+[00:23:11 -> 00:23:13]  what the new best practices are
+[00:23:13 -> 00:23:15]  and how to do it the right way now
+[00:23:15 -> 00:23:17]  with all these new features and everything.
+[00:23:17 -> 00:23:18]  Speaking of which,
+[00:23:18 -> 00:23:20]  Shruti was very involved in that
+[00:23:20 -> 00:23:23]  with the React 18 Working Group.
+[00:23:23 -> 00:23:25]  Shruti, do you have any quick updates for us?
+[00:23:25 -> 00:23:26]  Sure.
+[00:23:26 -> 00:23:27]  Hey, everyone.
+[00:23:27 -> 00:23:29]  So for React 18 Working Group,
+[00:23:29 -> 00:23:30]  those of you who don't know,
+[00:23:31 -> 00:23:34]  React team spun up a working group,
+[00:23:34 -> 00:23:36]  which is a group of people
+[00:23:36 -> 00:23:40]  from the community, educators, library builders,
+[00:23:40 -> 00:23:43]  who got together to understand
+[00:23:43 -> 00:23:44]  the new updates of React
+[00:23:44 -> 00:23:46]  and help other people in the community
+[00:23:46 -> 00:23:47]  kind of also understand it.
+[00:23:48 -> 00:23:52]  While React 18 was in alpha stage and beta stage,
+[00:23:52 -> 00:23:53]  we were going through
+[00:23:53 -> 00:23:54]  what the updates are going to be,
+[00:23:54 -> 00:23:55]  posting questions.
+[00:23:57 -> 00:23:59]  There were some really cool threads
+[00:23:59 -> 00:24:00]  that came out of those discussions.
+[00:24:00 -> 00:24:03]  All of those discussions are available on GitHub.
+[00:24:03 -> 00:24:05]  If you just Google React 18 Working Group,
+[00:24:05 -> 00:24:07]  you'll find them out.
+[00:24:07 -> 00:24:10]  Right now, we're kind of in a sleeping mode.
+[00:24:10 -> 00:24:12]  React 18 has been released,
+[00:24:12 -> 00:24:15]  and so the working group is now just chilling.
+[00:24:19 -> 00:24:20]  That's great.
+[00:24:20 -> 00:24:21]  Chilling is good.
+[00:24:21 -> 00:24:22]  Chilling is good.
+[00:24:22 -> 00:24:24]  You know, go help Mark on the TypeScript.
+[00:24:25 -> 00:24:26]  Cool. Awesome.
+[00:24:26 -> 00:24:27]  Well, I wanted to go ahead
+[00:24:27 -> 00:24:29]  and pass it off to my co-host, Tom,
+[00:24:29 -> 00:24:31]  who will be starting the panel discussions.
+[00:24:31 -> 00:24:33]  Thank you, folks on YouTube
+[00:24:33 -> 00:24:37]  who have been putting in a few different questions.
+[00:24:37 -> 00:24:38]  We'll get to them shortly,
+[00:24:38 -> 00:24:40]  but, Tom, I wanted to let you kick it off.
+[00:24:41 -> 00:24:42]  Thanks, Tracy.
+[00:24:43 -> 00:24:45]  So, the first question I have,
+[00:24:45 -> 00:24:47]  I think it really overlaps well
+[00:24:47 -> 00:24:50]  with one that CBEE in chat asked.
+[00:24:50 -> 00:24:53]  So, what has you really excited?
+[00:24:53 -> 00:24:54]  What are you really loving
+[00:24:54 -> 00:24:56]  in the React ecosystem right now?
+[00:24:56 -> 00:24:59]  What's, you know, other than your old things,
+[00:24:59 -> 00:25:01]  which you've given excellent updates on, of course.
+[00:25:02 -> 00:25:04]  And I'd also ask, on the flip side,
+[00:25:04 -> 00:25:06]  what's kind of driving you nuts?
+[00:25:06 -> 00:25:08]  The things that are like,
+[00:25:08 -> 00:25:10]  I can't believe it's been this many years in React,
+[00:25:10 -> 00:25:13]  and we still haven't figured out a thing.
+[00:25:13 -> 00:25:14]  So.
+[00:25:14 -> 00:25:15]  Yeah.
+[00:25:15 -> 00:25:16]  Yeah.
+[00:25:16 -> 00:25:18]  We still have to figure it out.
+[00:25:18 -> 00:25:19]  Thing.
+[00:25:19 -> 00:25:20]  So.
+[00:25:20 -> 00:25:22]  Open it up to all of you.
+[00:25:30 -> 00:25:31]  Silent.
+[00:25:31 -> 00:25:32]  No one's excited.
+[00:25:33 -> 00:25:34]  No one's dreaming.
+[00:25:34 -> 00:25:36]  Okay, I will go first.
+[00:25:36 -> 00:25:38]  I just, I'm a little troubled.
+[00:25:38 -> 00:25:40]  Like, other than your own library,
+[00:25:40 -> 00:25:44]  it's like literally all I'm doing ever is using this.
+[00:25:44 -> 00:25:49]  So, but I can say that suspense
+[00:25:49 -> 00:25:52]  for data fetching and streaming in React 18
+[00:25:52 -> 00:25:54]  has been really awesome.
+[00:25:55 -> 00:25:58]  You put together a nice API with Remix,
+[00:25:58 -> 00:26:00]  and it makes it easy to use,
+[00:26:00 -> 00:26:02]  but just the concept itself
+[00:26:03 -> 00:26:06]  has proven to be really, really helpful.
+[00:26:07 -> 00:26:11]  In particular, what Remix gives you
+[00:26:11 -> 00:26:13]  is just this really nice API to use it,
+[00:26:13 -> 00:26:15]  and what it allows you to do
+[00:26:15 -> 00:26:20]  is to easily switch between the trade-offs
+[00:26:20 -> 00:26:23]  of time to first byte and content layout shift.
+[00:26:23 -> 00:26:26]  So if you have a really great time to first byte,
+[00:26:26 -> 00:26:29]  but you have like a slow backend or something,
+[00:26:29 -> 00:26:31]  then you're gonna be showing loading spinners, right?
+[00:26:31 -> 00:26:33]  And then you have content layout shift
+[00:26:33 -> 00:26:35]  when that finally comes in.
+[00:26:35 -> 00:26:37]  But if you focus on, you know,
+[00:26:37 -> 00:26:39]  let's get rid of the content layout shift,
+[00:26:39 -> 00:26:41]  then it could be a slow time to first byte
+[00:26:41 -> 00:26:43]  because that's slow backend.
+[00:26:43 -> 00:26:44]  Now, of course, the solution is
+[00:26:44 -> 00:26:46]  make that backend not slow.
+[00:26:46 -> 00:26:48]  And then you can have good on both of these things.
+[00:26:48 -> 00:26:50]  But if for some reason you can't do that
+[00:26:50 -> 00:26:53]  or it's like computationally expensive, whatever,
+[00:26:53 -> 00:26:57]  then what suspense for data fetching and streaming
+[00:26:57 -> 00:27:01]  allow you to do is get the best of both worlds,
+[00:27:01 -> 00:27:06]  or at least like move this lever on those trade-offs
+[00:27:06 -> 00:27:08]  to find the thing that's the best.
+[00:27:08 -> 00:27:10]  And in particular, what streaming allows you to do
+[00:27:10 -> 00:27:14]  is normally if you're just doing client-side stuff,
+[00:27:14 -> 00:27:16]  you have to get all the JavaScript on the page
+[00:27:16 -> 00:27:18]  and everything running and hydrated
+[00:27:18 -> 00:27:21]  before you trigger the requests for the data.
+[00:27:21 -> 00:27:23]  And so you get this waterfall.
+[00:27:23 -> 00:27:26]  But with streaming, you actually trigger the request
+[00:27:26 -> 00:27:28]  to get the data from the server.
+[00:27:28 -> 00:27:30]  And so as soon as the user requests the document
+[00:27:30 -> 00:27:33]  or starts the transition to the next page,
+[00:27:33 -> 00:27:35]  we instantly can start going to get that data.
+[00:27:35 -> 00:27:38]  And we're squishing things over to the left
+[00:27:38 -> 00:27:39]  in the network temp.
+[00:27:39 -> 00:27:44]  And so not only does it give you a better control
+[00:27:44 -> 00:27:47]  over that time to first byte versus content layout shift,
+[00:27:47 -> 00:27:51]  but it also speeds up the entire process of loading that data.
+[00:27:51 -> 00:27:54]  So that is one thing that I am particularly loving
+[00:27:54 -> 00:27:56]  at the moment from React.
+[00:27:58 -> 00:28:00]  I finally have had a chance
+[00:28:00 -> 00:28:03]  to actually at least get my feet wet with suspense
+[00:28:03 -> 00:28:05]  within the last few weeks.
+[00:28:05 -> 00:28:08]  So the app that I work on, Replay,
+[00:28:08 -> 00:28:10]  is like the polar opposite of the kind of the app
+[00:28:10 -> 00:28:12]  that Kent just described.
+[00:28:13 -> 00:28:16]  Our app is basically the Firefox DevTools
+[00:28:16 -> 00:28:17]  as an app in the browser.
+[00:28:17 -> 00:28:20]  So it's a very long-lived single-page application.
+[00:28:20 -> 00:28:23]  But we do a lot of data fetching from the backend
+[00:28:23 -> 00:28:24]  over the course of the app.
+[00:28:24 -> 00:28:27]  And one of my teammates is Brian Vaughn,
+[00:28:27 -> 00:28:29]  who used to be on the React core team
+[00:28:29 -> 00:28:32]  and did a lot of work with the React DevTools.
+[00:28:32 -> 00:28:35]  And over the last couple months,
+[00:28:35 -> 00:28:38]  we've been doing a lot of work to try to figure out
+[00:28:38 -> 00:28:40]  how to throw away a lot of our legacy code
+[00:28:40 -> 00:28:42]  and rebuild it because it's a pain to work with.
+[00:28:42 -> 00:28:45]  And Brian and I have both been going off
+[00:28:45 -> 00:28:47]  and doing some prototyping work.
+[00:28:47 -> 00:28:52]  And Brian is used to working with suspense
+[00:28:52 -> 00:28:55]  and this idea of a suspense cache
+[00:28:55 -> 00:28:57]  for managing data fetching.
+[00:28:57 -> 00:29:00]  And so he started building some prototype,
+[00:29:00 -> 00:29:03]  like miniature versions of pieces of our app
+[00:29:03 -> 00:29:06]  and writing these suspense caches
+[00:29:06 -> 00:29:08]  for managing the data fetching.
+[00:29:08 -> 00:29:12]  If you've seen any of the previous React team demos
+[00:29:12 -> 00:29:15]  of this idea, the idea is that in your component,
+[00:29:15 -> 00:29:21]  you just say like const data equals mySuspenseCache.read
+[00:29:21 -> 00:29:24]  or some similar-looking function call.
+[00:29:24 -> 00:29:27]  And if the data isn't there,
+[00:29:27 -> 00:29:29]  magic happens that I'm going to skip over.
+[00:29:29 -> 00:29:32]  Eventually, React re-renders your component
+[00:29:32 -> 00:29:33]  when the data is there,
+[00:29:33 -> 00:29:35]  and now it looks to your component
+[00:29:35 -> 00:29:37]  like that data always existed.
+[00:29:37 -> 00:29:38]  And in the meantime,
+[00:29:38 -> 00:29:41]  it floats up to the nearest suspense boundary
+[00:29:41 -> 00:29:44]  and you can show a loading spinner or whatever.
+[00:29:44 -> 00:29:47]  So it's been interesting for me watching Brian
+[00:29:47 -> 00:29:49]  try to write some of these suspense caches
+[00:29:49 -> 00:29:54]  because the concept isn't really documented at all yet.
+[00:29:54 -> 00:29:55]  And so a couple weeks ago,
+[00:29:55 -> 00:29:59]  I actually went through and tried to write a suspense cache
+[00:29:59 -> 00:30:03]  that was backed by RTK query
+[00:30:03 -> 00:30:06]  for doing the actual data fetching
+[00:30:06 -> 00:30:09]  and then wrapping a suspense cache around it
+[00:30:09 -> 00:30:11]  for use in a React component.
+[00:30:11 -> 00:30:12]  I actually got it working.
+[00:30:12 -> 00:30:14]  Like I'd always thought it was possible,
+[00:30:14 -> 00:30:17]  but I didn't have proof until I tried.
+[00:30:17 -> 00:30:20]  So I'm still just sort of trying to learn
+[00:30:20 -> 00:30:21]  how this stuff works myself,
+[00:30:21 -> 00:30:23]  but I can definitely see a lot of the potential
+[00:30:23 -> 00:30:26]  involved in it.
+[00:30:26 -> 00:30:30]  I think I should mention that even inside of Remix,
+[00:30:30 -> 00:30:32]  it's not just about that initial page load,
+[00:30:32 -> 00:30:35]  but also about transitions between different routes
+[00:30:35 -> 00:30:36]  on a long-lived app.
+[00:30:36 -> 00:30:41]  So it is exciting just in general, for sure.
+[00:30:48 -> 00:30:49]  I can go next.
+[00:30:49 -> 00:30:52]  I think something that I'm really loving at the moment,
+[00:30:52 -> 00:30:54]  it's not one particular library.
+[00:30:54 -> 00:30:59]  It's this acceptance of, hey, CSS is tricky,
+[00:30:59 -> 00:31:02]  but I'm noticing that there's this larger movement
+[00:31:02 -> 00:31:05]  towards putting out amazing articles
+[00:31:05 -> 00:31:07]  on how to get started with raw CSS.
+[00:31:07 -> 00:31:08]  Libraries have integrations
+[00:31:08 -> 00:31:13]  on how do you put in Tailwind or Chakra or Amplify.
+[00:31:13 -> 00:31:16]  Sorry, I shouldn't have plugged my own stuff there.
+[00:31:16 -> 00:31:18]  And all of this stuff into your applications.
+[00:31:18 -> 00:31:19]  And I love seeing it
+[00:31:19 -> 00:31:22]  because front-end developers were always sort of,
+[00:31:22 -> 00:31:24]  yeah, I work on the front end.
+[00:31:24 -> 00:31:25]  I just don't make it look pretty.
+[00:31:25 -> 00:31:27]  And now it's like, no, no, no.
+[00:31:27 -> 00:31:28]  This is actually a part of our job.
+[00:31:28 -> 00:31:30]  And we have this huge community
+[00:31:30 -> 00:31:32]  that has already been here forever
+[00:31:32 -> 00:31:35]  of people developing great CSS content
+[00:31:35 -> 00:31:37]  that we can now take advantage of.
+[00:31:37 -> 00:31:40]  That part is what I love.
+[00:31:40 -> 00:31:41]  I love seeing it.
+[00:31:41 -> 00:31:44]  I love working with all the different UI libraries
+[00:31:44 -> 00:31:45]  that are out here.
+[00:31:45 -> 00:31:47]  And then on the other side of things,
+[00:31:47 -> 00:31:49]  to answer the question of what is driving me crazy,
+[00:31:49 -> 00:31:54]  it's the whole single page versus multi-page.
+[00:31:54 -> 00:31:57]  I thought multi-page was just what we called things
+[00:31:57 -> 00:31:59]  in the before anyways.
+[00:31:59 -> 00:32:00]  And I keep thinking,
+[00:32:00 -> 00:32:03]  these PHP devs just have to be laughing at us
+[00:32:03 -> 00:32:05]  because one day we're gonna figure it out
+[00:32:05 -> 00:32:06]  and they're gonna be like,
+[00:32:06 -> 00:32:09]  yeah, that was 20 years ago that we had that.
+[00:32:09 -> 00:32:13]  So getting on that page where, no pun intended,
+[00:32:13 -> 00:32:15]  of everybody just saying,
+[00:32:15 -> 00:32:16]  yeah, this is the way
+[00:32:16 -> 00:32:18]  that we are going to make our applications.
+[00:32:18 -> 00:32:20]  I don't care which one it is personally.
+[00:32:20 -> 00:32:21]  I really don't.
+[00:32:21 -> 00:32:24]  And I think our customers don't either.
+[00:32:24 -> 00:32:27]  So once we get to that level of,
+[00:32:27 -> 00:32:28]  okay, this is what it is.
+[00:32:28 -> 00:32:31]  And then we're just going to roll with that
+[00:32:31 -> 00:32:34]  is a day that I'm honestly
+[00:32:34 -> 00:32:37]  and earnestly looking forward to.
+[00:32:37 -> 00:32:39]  Dude, you gotta try Remix.
+[00:32:39 -> 00:32:42]  I've tried Remix and Remix is great,
+[00:32:42 -> 00:32:44]  but it's one of the many options out there.
+[00:32:45 -> 00:32:48]  And sometimes you get into another set of problems.
+[00:32:48 -> 00:32:50]  Everyone's like, I found the perfect solution
+[00:32:50 -> 00:32:52]  and no shame on Remix.
+[00:32:52 -> 00:32:53]  Again, I love it.
+[00:32:53 -> 00:32:55]  But then there's another library
+[00:32:55 -> 00:32:57]  that also does similar things.
+[00:32:57 -> 00:32:59]  And so I'm still trying to like,
+[00:32:59 -> 00:33:00]  well, then which is the library?
+[00:33:00 -> 00:33:01]  Oh my gosh.
+[00:33:01 -> 00:33:03]  But like, which is the library?
+[00:33:03 -> 00:33:08]  React, Angular, Vue, Solid, Svelte?
+[00:33:08 -> 00:33:09]  And then you pick one and you're like,
+[00:33:09 -> 00:33:10]  all right, that's great.
+[00:33:10 -> 00:33:12]  But what is the framework now?
+[00:33:12 -> 00:33:13]  So it's like.
+[00:33:15 -> 00:33:16]  So funny.
+[00:33:16 -> 00:33:17]  Well, I mean, like I said,
+[00:33:17 -> 00:33:19]  we're going to support any of those UI libraries
+[00:33:19 -> 00:33:20]  in the near future.
+[00:33:20 -> 00:33:21]  So the framework is Remix,
+[00:33:21 -> 00:33:23]  the UI library is whatever.
+[00:33:23 -> 00:33:24]  Oh my gosh.
+[00:33:26 -> 00:33:27]  You're going to hear folks,
+[00:33:27 -> 00:33:29]  debate is over, debate is over.
+[00:33:29 -> 00:33:31]  You're giving me these softballs.
+[00:33:31 -> 00:33:32]  Sorry, I got to relay.
+[00:33:34 -> 00:33:36]  But Kent, you also have to be able to support
+[00:33:36 -> 00:33:38]  the non-JS frameworks.
+[00:33:38 -> 00:33:40]  You need to be able to support Hugo.
+[00:33:40 -> 00:33:42]  You need to be able to support Jekyll.
+[00:33:42 -> 00:33:44]  You need to be able to support some of these other ones
+[00:33:44 -> 00:33:46]  that are still there, Eleventy.
+[00:33:46 -> 00:33:47]  Yeah, you know,
+[00:33:47 -> 00:33:50]  actually I'm more interested in supporting use cases
+[00:33:50 -> 00:33:51]  than technologies.
+[00:33:51 -> 00:33:56]  And so I think that as neat as it is
+[00:33:56 -> 00:33:59]  that Remix will support these other frameworks,
+[00:33:59 -> 00:34:03]  it's more like just happening naturally.
+[00:34:03 -> 00:34:06]  And it was never really a huge priority for us,
+[00:34:06 -> 00:34:07]  except that we did hire somebody
+[00:34:07 -> 00:34:09]  who really liked Vue a lot.
+[00:34:09 -> 00:34:11]  And so he pushed us to do this,
+[00:34:11 -> 00:34:13]  but I mean, like, we're glad that we're doing it,
+[00:34:13 -> 00:34:16]  but yeah, I'm much more interested in like,
+[00:34:16 -> 00:34:18]  let's think about the use cases
+[00:34:18 -> 00:34:20]  and a lot of the preexisting solutions
+[00:34:20 -> 00:34:23]  aren't really necessary anymore
+[00:34:23 -> 00:34:25]  because the problem doesn't exist
+[00:34:25 -> 00:34:27]  when you're using the Remix.
+[00:34:28 -> 00:34:31]  Not to call out any particular solution,
+[00:34:32 -> 00:34:34]  but yeah, a lot of problems are just eliminated.
+[00:34:34 -> 00:34:37]  And so when somebody comes to you and says,
+[00:34:37 -> 00:34:39]  well, you know, they've been riding a horse
+[00:34:39 -> 00:34:41]  and you're showing them a car
+[00:34:41 -> 00:34:42]  and they start asking you like,
+[00:34:42 -> 00:34:44]  where's the pooper scooper?
+[00:34:44 -> 00:34:47]  It's like, that problem doesn't exist with this thing.
+[00:34:47 -> 00:34:48]  We've got other problems,
+[00:34:48 -> 00:34:51]  but that problem doesn't exist with this one.
+[00:34:51 -> 00:34:52]  That's a great analogy.
+[00:35:01 -> 00:35:03]  Okay, so what I wanted to say
+[00:35:03 -> 00:35:06]  that kind of relates a bit to this
+[00:35:06 -> 00:35:08]  is a library that I've been,
+[00:35:08 -> 00:35:11]  well, not really using yet,
+[00:35:11 -> 00:35:13]  but I have heard really great things about it.
+[00:35:13 -> 00:35:15]  And yesterday there was a stream from Theo
+[00:35:15 -> 00:35:17]  with the creator, Alex,
+[00:35:17 -> 00:35:19]  and that library is trpc.
+[00:35:19 -> 00:35:21]  In case you haven't heard of it,
+[00:35:21 -> 00:35:24]  it's a library that basically allows you
+[00:35:24 -> 00:35:27]  to write a function on the backend
+[00:35:27 -> 00:35:29]  and then call it on the front end
+[00:35:29 -> 00:35:31]  to give you the data that this function returns.
+[00:35:31 -> 00:35:35]  And all of this gives you end-to-end type safety
+[00:35:35 -> 00:35:38]  without having to write any schemas
+[00:35:38 -> 00:35:40]  or any code generations,
+[00:35:40 -> 00:35:42]  compilation step in between.
+[00:35:42 -> 00:35:43]  The demos that I've seen,
+[00:35:43 -> 00:35:46]  they were really stunning.
+[00:35:46 -> 00:35:49]  And from version 10 that they're going to release
+[00:35:49 -> 00:35:50]  really soon,
+[00:35:50 -> 00:35:51]  they're also going agnostic,
+[00:35:51 -> 00:35:54]  which is also a big move at the moment, I think,
+[00:35:54 -> 00:35:55]  which I also love.
+[00:35:55 -> 00:35:57]  Obviously the 10 stack is doing it,
+[00:35:57 -> 00:35:58]  Remix is doing it,
+[00:35:58 -> 00:36:00]  and TRPC is doing it as well.
+[00:36:00 -> 00:36:02]  So that's something that I'm really looking forward
+[00:36:02 -> 00:36:05]  to trying out and also encouraging everyone else
+[00:36:05 -> 00:36:07]  to try out.
+[00:36:07 -> 00:36:09]  Yes, the React layer is made with React Query,
+[00:36:09 -> 00:36:12]  and that might be why I also like it,
+[00:36:12 -> 00:36:16]  but it's generally a really, really good tool to have.
+[00:36:18 -> 00:36:23]  Yeah, that front or back-to-front type safety is nuts.
+[00:36:23 -> 00:36:28]  And we just added some very similar type of functionality
+[00:36:28 -> 00:36:31]  of type inference across the network layer
+[00:36:32 -> 00:36:34]  to Remix that'll be released next week.
+[00:36:34 -> 00:36:38]  And it is like when you add Prisma to this,
+[00:36:38 -> 00:36:41]  where Prisma gets you type safety from the database,
+[00:36:41 -> 00:36:45]  and then you can go all the way to the front end with that.
+[00:36:45 -> 00:36:49]  This is the stuff that have people salivating over GraphQL
+[00:36:49 -> 00:36:51]  and Apollo and all that stuff.
+[00:36:51 -> 00:36:55]  And now we can have that with a little less complexity,
+[00:36:55 -> 00:36:58]  I think, which is pretty exciting.
+[00:36:59 -> 00:37:01]  I think that's really the key,
+[00:37:01 -> 00:37:05]  is that all of the complexity that used to have to be part
+[00:37:05 -> 00:37:08]  of setting up any project or maintaining projects
+[00:37:08 -> 00:37:10]  is really going away.
+[00:37:10 -> 00:37:13]  You don't have to manage your own Webpack configs anymore.
+[00:37:13 -> 00:37:17]  You don't have to necessarily worry about your TS configs
+[00:37:17 -> 00:37:18]  or your TS lints.
+[00:37:18 -> 00:37:21]  All of that stuff that makes it so hard
+[00:37:21 -> 00:37:24]  and makes it take longer to get to the actual building
+[00:37:24 -> 00:37:26]  of the application that you want to make
+[00:37:26 -> 00:37:29]  is being taken care of for us.
+[00:37:29 -> 00:37:31]  That's probably one of the most exciting things
+[00:37:31 -> 00:37:33]  about all the stuff that's coming out now
+[00:37:33 -> 00:37:36]  is that it works really quickly right out of the box,
+[00:37:36 -> 00:37:39]  and you don't have to do a whole lot of setup
+[00:37:39 -> 00:37:42]  or know all about the intricacies of everything
+[00:37:42 -> 00:37:44]  to get it to that point.
+[00:37:46 -> 00:37:48]  And also that actually...
+[00:37:48 -> 00:37:49]  Oh, sorry.
+[00:37:49 -> 00:37:51]  Go ahead, Ken.
+[00:37:51 -> 00:37:53]  I was just going to say now we have ES build
+[00:37:53 -> 00:37:54]  and it's like crazy fast.
+[00:37:54 -> 00:37:57]  We don't have to use Webpack anymore.
+[00:37:59 -> 00:38:00]  That actually reminds me
+[00:38:00 -> 00:38:02]  that one of the things that I'm loving at the moment
+[00:38:02 -> 00:38:04]  is actually no library at all,
+[00:38:04 -> 00:38:06]  but it's actually the development environment
+[00:38:06 -> 00:38:07]  that we have at Slack.
+[00:38:07 -> 00:38:08]  So this is my first month at Slack,
+[00:38:08 -> 00:38:11]  so I'm still starting to understand how it's working.
+[00:38:11 -> 00:38:13]  But one of the things that I love is
+[00:38:13 -> 00:38:15]  in order to run your development environment
+[00:38:15 -> 00:38:16]  or get anything set up,
+[00:38:16 -> 00:38:19]  there's literally just one line of code you write
+[00:38:19 -> 00:38:20]  in your terminal,
+[00:38:20 -> 00:38:22]  and it starts your VS code.
+[00:38:22 -> 00:38:23]  It pulls down everything.
+[00:38:23 -> 00:38:25]  It sets up a dev environment,
+[00:38:25 -> 00:38:27]  and it opens up your VS code
+[00:38:27 -> 00:38:29]  with all of the settings that you need.
+[00:38:29 -> 00:38:30]  So as soon as you start typing code,
+[00:38:30 -> 00:38:33]  your remote dev environment is updated,
+[00:38:33 -> 00:38:34]  and it's so fast.
+[00:38:34 -> 00:38:36]  You feel like you're working on local,
+[00:38:36 -> 00:38:38]  but it's actually on the dev environment.
+[00:38:38 -> 00:38:41]  And the coolest thing I found yesterday was
+[00:38:41 -> 00:38:42]  if somebody else,
+[00:38:42 -> 00:38:44]  like if your coworker wants to work with you,
+[00:38:44 -> 00:38:45]  they can connect to your environment,
+[00:38:45 -> 00:38:47]  and you can see their changes in real time
+[00:38:47 -> 00:38:49]  in your code environment
+[00:38:49 -> 00:38:51]  without having to do any kind of Git pull or anything.
+[00:38:51 -> 00:38:52]  It's amazing.
+[00:38:54 -> 00:38:56]  Wow, I want that at my work.
+[00:38:56 -> 00:38:57]  I know.
+[00:38:57 -> 00:38:58]  It's so cool.
+[00:39:02 -> 00:39:04]  That's awesome.
+[00:39:04 -> 00:39:07]  Well, yeah, so many exciting things happening.
+[00:39:07 -> 00:39:11]  Tom, I'll let you keep going on with the panel questions.
+[00:39:11 -> 00:39:12]  Sure.
+[00:39:14 -> 00:39:15]  Let's see.
+[00:39:15 -> 00:39:17]  What would be a good...
+[00:39:17 -> 00:39:20]  Well, we talked a little bit about this,
+[00:39:20 -> 00:39:22]  but I'd like to get maybe a broader view of it.
+[00:39:23 -> 00:39:28]  We all complained a bit about having Webpack configs to set up
+[00:39:28 -> 00:39:32]  and figuring out those sorts of build steps.
+[00:39:32 -> 00:39:35]  I remember getting started years ago.
+[00:39:35 -> 00:39:39]  I could not learn React until after Create React came out
+[00:39:39 -> 00:39:40]  because every time I tried,
+[00:39:40 -> 00:39:43]  I would try to set up a Webpack config
+[00:39:43 -> 00:39:45]  from some blog post somewhere,
+[00:39:45 -> 00:39:47]  and it never worked, ever.
+[00:39:49 -> 00:39:51]  So I was very grateful when they came out with that.
+[00:39:51 -> 00:39:55]  But we're also starting to see more tools,
+[00:39:55 -> 00:39:57]  aside from Webpack ES build.
+[00:39:57 -> 00:39:58]  We've got Vite.
+[00:39:58 -> 00:40:00]  We've got all of these other things.
+[00:40:00 -> 00:40:02]  And in the same way,
+[00:40:02 -> 00:40:05]  I think we're starting to see some decoupling,
+[00:40:05 -> 00:40:08]  like with PanStack, like with Remix,
+[00:40:08 -> 00:40:10]  where things are not hooked just into React.
+[00:40:10 -> 00:40:13]  Are we also going to be seeing more of a decoupling
+[00:40:13 -> 00:40:15]  from some of these tools,
+[00:40:15 -> 00:40:18]  where not only does it not matter
+[00:40:18 -> 00:40:21]  whether you're using Webpack or Vite or whatever,
+[00:40:21 -> 00:40:23]  but you don't even need to know?
+[00:40:24 -> 00:40:27]  How do all of you see this unfolding?
+[00:40:31 -> 00:40:34]  To me, that seems like the...
+[00:40:34 -> 00:40:37]  I think that's the way that it's going to go, honestly.
+[00:40:37 -> 00:40:39]  Because like I was saying earlier,
+[00:40:39 -> 00:40:41]  I don't think that there's a whole lot of developers
+[00:40:41 -> 00:40:44]  who really enjoy that part of the process.
+[00:40:44 -> 00:40:47]  So the less that I have to do on my own
+[00:40:47 -> 00:40:50]  the more that I can just depend on another...
+[00:40:50 -> 00:40:52]  a framework, a library, somebody else
+[00:40:52 -> 00:40:55]  to make most of those decisions for me
+[00:40:55 -> 00:40:58]  so that I can actually get to the point of writing code
+[00:40:58 -> 00:41:00]  and seeing things on the screen.
+[00:41:00 -> 00:41:02]  That is totally fine with me.
+[00:41:02 -> 00:41:05]  And I know that there's a lot of cases
+[00:41:05 -> 00:41:08]  where you won't be able to use what's right out of the box.
+[00:41:08 -> 00:41:11]  But I think for the vast majority of developers
+[00:41:11 -> 00:41:13]  and the vast majority of use cases,
+[00:41:13 -> 00:41:15]  that will be something that is possible.
+[00:41:15 -> 00:41:18]  So I'm happy with that kind of magic.
+[00:41:18 -> 00:41:21]  Let me get to building cool components
+[00:41:21 -> 00:41:24]  and writing new pages and doing fun stuff in the browser.
+[00:41:24 -> 00:41:27]  And I'll let somebody else deal with the underlying things
+[00:41:27 -> 00:41:30]  that make it work and make it magic.
+[00:41:30 -> 00:41:33]  But I don't need to know exactly how they're doing it.
+[00:41:35 -> 00:41:37]  Yeah, I 100% agree with Paige.
+[00:41:37 -> 00:41:40]  I was talking about it a little bit earlier
+[00:41:40 -> 00:41:43]  with these UI libraries coming together
+[00:41:43 -> 00:41:45]  to expand on that a little bit.
+[00:41:45 -> 00:41:48]  At AWS, we call it undifferentiated heavy lifting,
+[00:41:48 -> 00:41:52]  which is all of the hard stuff that doesn't matter.
+[00:41:52 -> 00:41:55]  So as long as you can push it off to a framework,
+[00:41:55 -> 00:42:00]  a library, a tooling, a really cool dev environment
+[00:42:00 -> 00:42:02]  like Shruti has set up,
+[00:42:02 -> 00:42:04]  then it makes your life that much easier
+[00:42:04 -> 00:42:06]  and it just accelerates what it is
+[00:42:06 -> 00:42:08]  that you're actually trying to build.
+[00:42:08 -> 00:42:10]  I think back in the day, we spent so much time
+[00:42:10 -> 00:42:12]  trying to get React even set up
+[00:42:12 -> 00:42:14]  that it took away from our experience
+[00:42:14 -> 00:42:16]  of what we were trying to build in the first place.
+[00:42:16 -> 00:42:18]  So I love seeing all the consolidation
+[00:42:18 -> 00:42:20]  in the ecosystem these days,
+[00:42:20 -> 00:42:22]  and it's only going to get better.
+[00:42:30 -> 00:42:33]  So maybe a tangential question,
+[00:42:33 -> 00:42:36]  but maybe a little bit related from chat.
+[00:42:36 -> 00:42:39]  Thoughts on Bunn,
+[00:42:39 -> 00:42:44]  the new runtime package manager, Swiss Army Knife.
+[00:42:44 -> 00:42:46]  Seems like it's blowing a lot of people's minds,
+[00:42:46 -> 00:42:48]  Kents included.
+[00:42:51 -> 00:42:54]  I haven't had a chance to actually try it yet,
+[00:42:54 -> 00:42:58]  but just watching the amount of effort
+[00:42:58 -> 00:43:02]  that the creator, Jared Sumner, is putting into it,
+[00:43:02 -> 00:43:06]  he's put a crazy amount of attention to detail
+[00:43:06 -> 00:43:09]  in identifying things that are slow,
+[00:43:09 -> 00:43:12]  such as copying files
+[00:43:12 -> 00:43:14]  and extracting them during installation
+[00:43:14 -> 00:43:17]  or WebSocket message handling
+[00:43:17 -> 00:43:20]  or HTTP request serving and things like that,
+[00:43:20 -> 00:43:23]  and has done a ton of optimization work
+[00:43:23 -> 00:43:26]  to make that stuff fast.
+[00:43:26 -> 00:43:28]  Does this guarantee that the tool
+[00:43:28 -> 00:43:31]  is going to be a massive success?
+[00:43:31 -> 00:43:34]  No, and the fact that it is a one-person effort so far
+[00:43:34 -> 00:43:36]  is a little bit scary,
+[00:43:36 -> 00:43:40]  but the fact that someone actually has taken the time
+[00:43:40 -> 00:43:42]  to put in that much effort
+[00:43:42 -> 00:43:45]  to try to make a new alternative
+[00:43:45 -> 00:43:50]  JavaScript runner, bundler, transpiler,
+[00:43:50 -> 00:43:53]  package installer, Swiss Army Knife,
+[00:43:53 -> 00:43:55]  is really very impressive,
+[00:43:55 -> 00:43:57]  and it has a lot of potential.
+[00:43:57 -> 00:43:59]  I mean, we've been talking over the last couple minutes
+[00:43:59 -> 00:44:02]  about how ES Build is a lot faster than Webpack,
+[00:44:02 -> 00:44:05]  and I've seen some people like Sunil Pai talk about
+[00:44:05 -> 00:44:07]  when your bundler is that fast,
+[00:44:07 -> 00:44:10]  it changes the way you do development,
+[00:44:10 -> 00:44:13]  and if Bun can potentially make
+[00:44:13 -> 00:44:15]  a lot of other operations faster,
+[00:44:15 -> 00:44:17]  it could also have a similar effect
+[00:44:17 -> 00:44:20]  on development process.
+[00:44:20 -> 00:44:23]  Yeah, so Bun is not so fast,
+[00:44:23 -> 00:44:29]  and what's neat about that is you can compile on request,
+[00:44:29 -> 00:44:31]  and in the future,
+[00:44:31 -> 00:44:33]  I mean, we already have Deno,
+[00:44:33 -> 00:44:35]  and it's much faster than Node,
+[00:44:35 -> 00:44:37]  and it supports TypeScript,
+[00:44:37 -> 00:44:41]  and so you could have
+[00:44:41 -> 00:44:44]  a build-less thing with Deno,
+[00:44:44 -> 00:44:46]  and they released their fresh thing
+[00:44:46 -> 00:44:49]  that is zero build.
+[00:44:49 -> 00:44:51]  Ryan has been experimenting with
+[00:44:51 -> 00:44:54]  what a zero build remix would be like,
+[00:44:54 -> 00:44:55]  and the cool thing about zero build
+[00:44:55 -> 00:44:56]  is you can deploy in 10 seconds.
+[00:44:56 -> 00:44:58]  It's just how long it takes to upload the new files.
+[00:44:58 -> 00:45:00]  It's awesome,
+[00:45:00 -> 00:45:02]  so I'm really excited about the zero build thing,
+[00:45:02 -> 00:45:04]  and with Bun, it's even faster.
+[00:45:04 -> 00:45:07]  One of our engineers, Jacob,
+[00:45:07 -> 00:45:12]  put together Bun deployed in a Docker container on fly
+[00:45:12 -> 00:45:14]  running remix,
+[00:45:14 -> 00:45:17]  and you'd get response times of 20 milliseconds.
+[00:45:17 -> 00:45:20]  That's outrageous.
+[00:45:20 -> 00:45:22]  When it's less than 200 milliseconds,
+[00:45:22 -> 00:45:24]  it actually doesn't matter,
+[00:45:24 -> 00:45:26]  but what's cool about that is it means that
+[00:45:26 -> 00:45:29]  you can handle more traffic with less resources,
+[00:45:29 -> 00:45:33]  and so, yeah, Bun, I am very excited about it.
+[00:45:33 -> 00:45:36]  I love how fast it installs dependencies.
+[00:45:36 -> 00:45:39]  It would be like a marked improvement
+[00:45:39 -> 00:45:41]  on my development life,
+[00:45:41 -> 00:45:43]  so, yeah, super here for Bun.
+[00:45:43 -> 00:45:46]  Also, a little concern that it's only one person,
+[00:45:46 -> 00:45:48]  but I think it's only possible
+[00:45:48 -> 00:45:50]  to accomplish what he has so far
+[00:45:50 -> 00:45:51]  because it was one person.
+[00:45:51 -> 00:45:54]  No meetings, no arguments,
+[00:45:54 -> 00:45:57]  and he just does everything, whatever he wants,
+[00:45:57 -> 00:45:59]  and he can get things done really fast.
+[00:45:59 -> 00:46:03]  Eventually, if we want to build on it into the future,
+[00:46:03 -> 00:46:05]  then we probably are going to need
+[00:46:05 -> 00:46:07]  to have some of those arguments and meetings,
+[00:46:07 -> 00:46:09]  but for right now,
+[00:46:09 -> 00:46:11]  I think having it be just one person
+[00:46:11 -> 00:46:14]  is the reason why it's as great as it is.
+[00:46:16 -> 00:46:19]  Remix really takes the 90s seriously.
+[00:46:21 -> 00:46:23]  You could copy some files on an FTP,
+[00:46:23 -> 00:46:24]  and it would just work.
+[00:46:24 -> 00:46:26]  Yeah.
+[00:46:26 -> 00:46:27]  Not only from the technologies,
+[00:46:27 -> 00:46:29]  but it sounds really amazing,
+[00:46:29 -> 00:46:32]  the zero bundling and deployment.
+[00:46:32 -> 00:46:34]  I was also excited about Bun.
+[00:46:34 -> 00:46:36]  I haven't tried it yet.
+[00:46:36 -> 00:46:37]  I was on vacation for two weeks,
+[00:46:37 -> 00:46:38]  and there's the old joke
+[00:46:38 -> 00:46:40]  when you come back from vacation two weeks later,
+[00:46:40 -> 00:46:41]  nothing is the same
+[00:46:41 -> 00:46:45]  in the JavaScript front-end environment,
+[00:46:45 -> 00:46:48]  but I really love to try it out.
+[00:46:48 -> 00:46:50]  I was also excited about RoamTools
+[00:46:50 -> 00:46:51]  when they said they were going to give you
+[00:46:51 -> 00:46:53]  this one-stop shop of things
+[00:46:53 -> 00:46:56]  that you could use very fast.
+[00:46:56 -> 00:46:57]  I don't know what happened to Roam.
+[00:46:57 -> 00:47:00]  I haven't really heard a lot lately,
+[00:47:00 -> 00:47:02]  but Bun really sounds like
+[00:47:02 -> 00:47:05]  it's also picking up from there a bit
+[00:47:05 -> 00:47:08]  and pushing it over the edge.
+[00:47:09 -> 00:47:10]  The fact that it's just one person,
+[00:47:10 -> 00:47:11]  I think I've read a tweet from him
+[00:47:11 -> 00:47:14]  where he said that he has everything
+[00:47:14 -> 00:47:15]  in his head right now,
+[00:47:15 -> 00:47:17]  which is amazing.
+[00:47:17 -> 00:47:20]  There must be so much code,
+[00:47:20 -> 00:47:22]  but knowing all the dependencies,
+[00:47:22 -> 00:47:23]  the architecture,
+[00:47:23 -> 00:47:24]  and it's getting to a point
+[00:47:24 -> 00:47:26]  where he really also needs to offload
+[00:47:26 -> 00:47:27]  to other people.
+[00:47:27 -> 00:47:29]  Now that there is an initial release,
+[00:47:29 -> 00:47:30]  I think lots of people
+[00:47:30 -> 00:47:33]  will happily contribute to that endeavor.
+[00:47:37 -> 00:47:38]  I had made the mistake
+[00:47:38 -> 00:47:40]  of subscribing to the Bun repo
+[00:47:40 -> 00:47:43]  while all the notifications,
+[00:47:43 -> 00:47:47]  while it was still in early private release.
+[00:47:47 -> 00:47:49]  The day that it went live,
+[00:47:49 -> 00:47:51]  it went from five issues a day
+[00:47:51 -> 00:47:55]  to 75, and I had to unsubscribe.
+[00:47:57 -> 00:47:59]  I love that.
+[00:47:59 -> 00:48:00]  It's just so exciting to me.
+[00:48:00 -> 00:48:03]  I feel like 2020,
+[00:48:03 -> 00:48:04]  I was like, what's new?
+[00:48:04 -> 00:48:05]  What's new?
+[00:48:05 -> 00:48:06]  What's new?
+[00:48:06 -> 00:48:07]  What's new?
+[00:48:08 -> 00:48:09]  In the past year or so,
+[00:48:09 -> 00:48:11]  we're just seeing so much excitement
+[00:48:11 -> 00:48:12]  and so much new innovation
+[00:48:12 -> 00:48:17]  and just fresh love and excitement
+[00:48:17 -> 00:48:18]  and innovation happening
+[00:48:18 -> 00:48:19]  within our community,
+[00:48:19 -> 00:48:22]  which is just very, very, very exciting,
+[00:48:22 -> 00:48:24]  and I'm so happy for it.
+[00:48:26 -> 00:48:29]  Well, we have a few other questions.
+[00:48:29 -> 00:48:31]  Tom, did you want to choose another one?
+[00:48:32 -> 00:48:33]  Me too.
+[00:48:34 -> 00:48:35]  Feel free, Tracy.
+[00:48:35 -> 00:48:36]  I've been given all the questions.
+[00:48:36 -> 00:48:37]  Oh, that's okay.
+[00:48:37 -> 00:48:38]  Go ahead.
+[00:48:40 -> 00:48:41]  I like the hook question.
+[00:48:42 -> 00:48:43]  You can go.
+[00:48:43 -> 00:48:44]  Go ahead.
+[00:48:44 -> 00:48:45]  Choose it.
+[00:48:45 -> 00:48:49]  I've got one for Paige specifically asking
+[00:48:49 -> 00:48:51]  if you've made updates to your course
+[00:48:51 -> 00:48:54]  for React 18 and the changes that that brought.
+[00:48:56 -> 00:48:58]  I mentioned this a little bit earlier,
+[00:48:58 -> 00:48:59]  but not yet.
+[00:49:00 -> 00:49:02]  The course originally came out back in,
+[00:49:02 -> 00:49:05]  I think, October or November of this past year,
+[00:49:05 -> 00:49:08]  so it's six or seven months old at this point,
+[00:49:09 -> 00:49:12]  and then React 18 got finalized in March,
+[00:49:12 -> 00:49:14]  so there are things that I'm working on.
+[00:49:14 -> 00:49:16]  I just haven't gotten anything updated
+[00:49:16 -> 00:49:18]  and finalized and pushed out yet,
+[00:49:18 -> 00:49:20]  but there will probably be some new modules
+[00:49:20 -> 00:49:22]  around some of these new hooks
+[00:49:22 -> 00:49:23]  that have become available,
+[00:49:23 -> 00:49:26]  maybe some of the server-side rendering options
+[00:49:26 -> 00:49:29]  that are now part of components.
+[00:49:30 -> 00:49:32]  Just haven't gotten to it quite yet,
+[00:49:32 -> 00:49:34]  but yeah, it's definitely in the works,
+[00:49:34 -> 00:49:37]  but a lot of what my course teaches
+[00:49:37 -> 00:49:39]  is not necessarily specific
+[00:49:39 -> 00:49:41]  to a particular version of React.
+[00:49:41 -> 00:49:44]  It's also about the larger best practices
+[00:49:44 -> 00:49:48]  for building long-lived, reliable web applications.
+[00:49:49 -> 00:49:51]  It's things like how to add in unit testing
+[00:49:51 -> 00:49:52]  and automation.
+[00:49:52 -> 00:49:54]  It's how to work with component libraries.
+[00:49:54 -> 00:49:57]  It's how to set up your development environment
+[00:49:57 -> 00:49:59]  so that you've got the right tools
+[00:49:59 -> 00:50:02]  like linting and prettier and code formatting
+[00:50:02 -> 00:50:03]  and all the things like that.
+[00:50:03 -> 00:50:07]  While it is tailor-made for React
+[00:50:07 -> 00:50:10]  and going from stateful components
+[00:50:10 -> 00:50:12]  to stateless and using hooks,
+[00:50:12 -> 00:50:13]  there's a lot of other stuff
+[00:50:13 -> 00:50:16]  that is more generically appropriate
+[00:50:16 -> 00:50:19]  and still really relevant to today's software methods.
+[00:50:21 -> 00:50:22]  That's excellent.
+[00:50:22 -> 00:50:25]  I might have to check out that course myself
+[00:50:25 -> 00:50:29]  because it's always good to see a great overview
+[00:50:29 -> 00:50:32]  of the entire app lifecycle
+[00:50:32 -> 00:50:36]  that isn't just narrowed down on one specific,
+[00:50:36 -> 00:50:37]  like here's a Medium article
+[00:50:37 -> 00:50:39]  for that one thing you wanted to do
+[00:50:39 -> 00:50:41]  and the rest, good luck.
+[00:50:41 -> 00:50:42]  Yeah.
+[00:50:44 -> 00:50:49]  So we recently had a debate
+[00:50:49 -> 00:50:51]  in our Slack channel at this dot
+[00:50:51 -> 00:50:54]  that generated 111 replies.
+[00:50:54 -> 00:50:56]  So it got interesting.
+[00:50:56 -> 00:50:58]  But what kicked it off
+[00:50:58 -> 00:51:01]  was a code snippet found in a library
+[00:51:01 -> 00:51:04]  that was a use something.
+[00:51:04 -> 00:51:05]  It doesn't really matter.
+[00:51:05 -> 00:51:06]  It was a hook.
+[00:51:06 -> 00:51:07]  But when you read it,
+[00:51:07 -> 00:51:09]  is it really a hook?
+[00:51:09 -> 00:51:10]  It didn't do hook things.
+[00:51:10 -> 00:51:14]  It was just somebody had been reading React code
+[00:51:14 -> 00:51:17]  and was like, oh, everything starts with the word use.
+[00:51:17 -> 00:51:20]  So I guess my function should start with the word use.
+[00:51:20 -> 00:51:22]  And we got on the topic of,
+[00:51:22 -> 00:51:24]  well, what really makes a hook a hook?
+[00:51:24 -> 00:51:27]  How do you know that your hooks are hooks,
+[00:51:27 -> 00:51:29]  that they're doing hook things?
+[00:51:29 -> 00:51:32]  It seems like something that someone new to React
+[00:51:32 -> 00:51:34]  could easily get confused around.
+[00:51:34 -> 00:51:40]  So how would all of you try and explain something like this
+[00:51:40 -> 00:51:43]  to someone who's less well-versed in React?
+[00:51:43 -> 00:51:44]  Kent, let's raise his hand.
+[00:51:44 -> 00:51:48]  I've got a very simple definition for what a hook is.
+[00:51:48 -> 00:51:52]  A hook is a function that uses other hooks.
+[00:51:52 -> 00:51:53]  That's it.
+[00:51:56 -> 00:51:58]  Somewhere in that call stack,
+[00:51:58 -> 00:52:03]  it needs to call one of the actual hooks built into React.
+[00:52:03 -> 00:52:06]  It might be through some other custom hook.
+[00:52:06 -> 00:52:08]  But if it doesn't ultimately result
+[00:52:08 -> 00:52:12]  in at least one hook from React being called,
+[00:52:12 -> 00:52:14]  it's not actually a hook.
+[00:52:15 -> 00:52:18]  I think it's comparable to how a component
+[00:52:18 -> 00:52:20]  at the end of the day needs to render
+[00:52:20 -> 00:52:22]  one of the primitives of React,
+[00:52:22 -> 00:52:24]  like a div or a button.
+[00:52:24 -> 00:52:25]  On top of that,
+[00:52:25 -> 00:52:27]  that's just components and abstractions
+[00:52:27 -> 00:52:29]  that you make on purpose.
+[00:52:29 -> 00:52:31]  And that's like the custom hooks that you make.
+[00:52:31 -> 00:52:32]  And if you expand it,
+[00:52:32 -> 00:52:33]  at the end of the day,
+[00:52:33 -> 00:52:36]  it's all just divs and buttons and whatnot.
+[00:52:36 -> 00:52:38]  And then the hooks that are built in,
+[00:52:38 -> 00:52:41]  useState, hopefully not useEffect,
+[00:52:41 -> 00:52:44]  but maybe even useEffect, and so on.
+[00:52:44 -> 00:52:46]  Even though I have to admit,
+[00:52:46 -> 00:52:51]  I have also at least once created a function
+[00:52:51 -> 00:52:55]  that started with use and didn't use a hook underneath it
+[00:52:55 -> 00:52:58]  because I think I wanted it to be limited
+[00:52:58 -> 00:53:01]  to be used in functional components
+[00:53:01 -> 00:53:03]  because I anticipated I was going to need
+[00:53:03 -> 00:53:06]  a use memo or something a bit later on.
+[00:53:06 -> 00:53:08]  So I wanted to make that refactoring
+[00:53:08 -> 00:53:11]  that comes later a little bit easier.
+[00:53:11 -> 00:53:12]  But it's definitely not something
+[00:53:12 -> 00:53:15]  that you do on a daily basis, I guess.
+[00:53:16 -> 00:53:18]  Yeah, and to kind of add on to that,
+[00:53:18 -> 00:53:22]  if you find yourself reusing the same set of hooks
+[00:53:22 -> 00:53:26]  or kind of trying to mimic the same functionality
+[00:53:26 -> 00:53:28]  from one component into another in React,
+[00:53:28 -> 00:53:31]  that's probably a good use case for a hook.
+[00:53:31 -> 00:53:33]  You can extract that function out
+[00:53:33 -> 00:53:35]  into its own custom hook
+[00:53:35 -> 00:53:37]  and then be able to just call it wherever you need it,
+[00:53:37 -> 00:53:40]  and it'll do essentially the same things.
+[00:53:40 -> 00:53:42]  But from my experience,
+[00:53:42 -> 00:53:44]  a lot of times when you see people
+[00:53:44 -> 00:53:46]  kind of creating custom hooks before they need to,
+[00:53:46 -> 00:53:50]  a lot of that is business logic or just application logic
+[00:53:50 -> 00:53:53]  that probably doesn't necessarily need to be in a hook.
+[00:53:53 -> 00:53:56]  It just needs to be in a utility function somewhere
+[00:53:56 -> 00:53:58]  that any part of the application could call,
+[00:53:58 -> 00:54:00]  regardless of if it's running React hooks
+[00:54:00 -> 00:54:04]  or if it's maybe on server side or somewhere else.
+[00:54:04 -> 00:54:05]  It's probably worth a second look
+[00:54:05 -> 00:54:09]  if it really needs to be a custom hook or not at that point.
+[00:54:10 -> 00:54:13]  Ah, yes, the ever-popular utils.js.
+[00:54:13 -> 00:54:14]  Yeah.
+[00:54:22 -> 00:54:24]  What about returning something from the hook?
+[00:54:24 -> 00:54:27]  Do you think that's a necessary condition for it to be a hook?
+[00:54:32 -> 00:54:34]  I would say yes.
+[00:54:34 -> 00:54:37]  It doesn't necessarily need to be a lot.
+[00:54:37 -> 00:54:39]  It could just be some Booleans.
+[00:54:39 -> 00:54:42]  It could be some really simple state information.
+[00:54:42 -> 00:54:44]  It could be just an array or an object.
+[00:54:44 -> 00:54:45]  But I would say yeah.
+[00:54:45 -> 00:54:48]  I mean, that's generally what most of the React hooks do
+[00:54:48 -> 00:54:50]  in some way, shape, or form.
+[00:54:51 -> 00:54:53]  No, I disagree.
+[00:54:53 -> 00:54:56]  You could have a hook that updates the document title,
+[00:54:56 -> 00:54:58]  for instance, and you just pass it
+[00:54:58 -> 00:54:59]  what you want the document title to be.
+[00:54:59 -> 00:55:01]  You don't need anything back from that.
+[00:55:02 -> 00:55:05]  Or like a use persist or something like that.
+[00:55:06 -> 00:55:09]  But I think that is one of the difficult parts about hooks
+[00:55:09 -> 00:55:12]  is that you don't actually know what they're going to do
+[00:55:12 -> 00:55:16]  unless they are super well-named or you look into them.
+[00:55:16 -> 00:55:19]  A hook could be just an effect that updates the title
+[00:55:19 -> 00:55:21]  and does nothing else.
+[00:55:21 -> 00:55:24]  Or it could be something that continuously re-renders
+[00:55:24 -> 00:55:25]  your component for some reason
+[00:55:25 -> 00:55:28]  because it's a subscription to something else.
+[00:55:29 -> 00:55:30]  So kind of the difference,
+[00:55:30 -> 00:55:31]  if you know React Query,
+[00:55:31 -> 00:55:33]  there's useQuery and useQueryClient.
+[00:55:33 -> 00:55:35]  useQuery creates a subscription.
+[00:55:35 -> 00:55:37]  useQueryClient just gives you something,
+[00:55:37 -> 00:55:40]  reads from React context, never triggers a re-render.
+[00:55:40 -> 00:55:42]  So you don't really know what a hook does
+[00:55:42 -> 00:55:44]  just by calling the hook.
+[00:55:46 -> 00:55:49]  There's no recipe for what a hook is eventually going to do.
+[00:55:49 -> 00:55:52]  And I think that makes it a bit hard to understand
+[00:55:54 -> 00:55:57]  when is it a hook or what's the hook going to do.
+[00:56:00 -> 00:56:02]  I always find it interesting that
+[00:56:02 -> 00:56:04]  one of the core concepts of hooks
+[00:56:04 -> 00:56:06]  is just understanding functions.
+[00:56:06 -> 00:56:09]  And a lot of the same principles still apply.
+[00:56:09 -> 00:56:11]  Good practices there.
+[00:56:11 -> 00:56:15]  Having the use, whatever it is, be well-named.
+[00:56:15 -> 00:56:19]  Having it encapsulate a core set of logic here.
+[00:56:19 -> 00:56:22]  And like Paige was saying, if it's reusable,
+[00:56:22 -> 00:56:24]  maybe it doesn't even need to be a hook.
+[00:56:24 -> 00:56:25]  Maybe it could be extracted
+[00:56:25 -> 00:56:27]  into a separate function altogether.
+[00:56:27 -> 00:56:30]  But to circle it back to what Kent was saying,
+[00:56:30 -> 00:56:32]  if it has a hook inside of it,
+[00:56:32 -> 00:56:34]  then it's a hook.
+[00:56:34 -> 00:56:36]  It's a custom hook.
+[00:56:36 -> 00:56:39]  But oftentimes when educating folks
+[00:56:39 -> 00:56:42]  on what the principles and the rules are with hooks,
+[00:56:42 -> 00:56:44]  we typically just have a larger conversation
+[00:56:44 -> 00:56:46]  around JavaScript as a whole.
+[00:56:46 -> 00:56:48]  Because that typically brings in
+[00:56:48 -> 00:56:50]  some kind of other conversation
+[00:56:50 -> 00:56:51]  where they can be educated on
+[00:56:51 -> 00:56:53]  just some of the basic principles.
+[00:56:56 -> 00:56:59]  Veering very slightly off this,
+[00:56:59 -> 00:57:01]  I want to put in a plug for two articles
+[00:57:01 -> 00:57:03]  that I find myself very frequently linking to people.
+[00:57:03 -> 00:57:05]  to explain this stuff.
+[00:57:05 -> 00:57:08]  One is Tyler McGinnis wrote a post
+[00:57:08 -> 00:57:10]  that is hosted on UI.dev
+[00:57:10 -> 00:57:13]  called Why React Hooks?
+[00:57:13 -> 00:57:15]  And it talks about the problems that we had
+[00:57:15 -> 00:57:17]  dealing with class components.
+[00:57:17 -> 00:57:20]  Why the React team invented hooks in the first place
+[00:57:20 -> 00:57:22]  and what problems they're meant to solve.
+[00:57:22 -> 00:57:24]  And then Sean Swicks Wong
+[00:57:24 -> 00:57:27]  did a blog post and a talk a while back
+[00:57:27 -> 00:57:31]  called Getting Closure on React Hooks.
+[00:57:31 -> 00:57:35]  And he builds a miniature working version
+[00:57:35 -> 00:57:38]  of React Hooks live in a 30 minute talk.
+[00:57:38 -> 00:57:40]  And if you've ever wondered
+[00:57:40 -> 00:57:41]  what are hooks?
+[00:57:41 -> 00:57:43]  How do they work internally?
+[00:57:43 -> 00:57:44]  Why do they have some of these rules
+[00:57:44 -> 00:57:46]  that I have to follow?
+[00:57:46 -> 00:57:49]  That talk and post are very, very informative.
+[00:57:56 -> 00:57:57]  Awesome.
+[00:57:57 -> 00:57:58]  There's so much to talk about here
+[00:57:58 -> 00:58:01]  and I wish we could keep talking forever.
+[00:58:01 -> 00:58:05]  But unfortunately we are at time.
+[00:58:05 -> 00:58:06]  This has been really amazing.
+[00:58:06 -> 00:58:09]  There's so many questions that haven't been answered.
+[00:58:09 -> 00:58:11]  But everybody, besides Kent.
+[00:58:11 -> 00:58:14]  But Kent, you just know his Twitter handle anyway.
+[00:58:14 -> 00:58:17]  So he doesn't need to put it there.
+[00:58:17 -> 00:58:20]  But no, everybody's Twitter handles is here.
+[00:58:20 -> 00:58:23]  So feel free to continue the conversation on Twitter.
+[00:58:23 -> 00:58:25]  If you're not on Twitter and you're in tech,
+[00:58:26 -> 00:58:28]  highly recommend just joining Twitter.
+[00:58:28 -> 00:58:31]  And you have, what, six, seven, eight friends
+[00:58:31 -> 00:58:33]  that will say hi to you already.
+[00:58:33 -> 00:58:35]  So yeah, I mean, Twitter is a great place
+[00:58:35 -> 00:58:38]  to continue these conversations.
+[00:58:38 -> 00:58:41]  All these folks here also have really amazing projects
+[00:58:41 -> 00:58:42]  that they're working on.
+[00:58:42 -> 00:58:45]  So definitely check out some of the open source projects
+[00:58:45 -> 00:58:47]  or some of the different projects
+[00:58:47 -> 00:58:51]  that these folks are generally involved in.
+[00:58:52 -> 00:58:55]  And come hang out in open source.
+[00:58:55 -> 00:58:56]  Yeah.
+[00:58:56 -> 00:58:58]  And Swix is amazing too.
+[00:58:58 -> 00:58:59]  So people have been saying in chat
+[00:58:59 -> 00:59:03]  how to actually spell Sean's name.
+[00:59:03 -> 00:59:05]  Sean's Twitter handle.
+[00:59:05 -> 00:59:10]  So you can follow him at Swix for some amazing stuff as well.
+[00:59:10 -> 00:59:13]  Thank you again for everyone who's listening.
+[00:59:13 -> 00:59:15]  And if you want to find out more about these events,
+[00:59:15 -> 00:59:20]  you can always sign up to this.co slash newsletter
+[00:59:20 -> 00:59:21]  to find out about our events.
+[00:59:21 -> 00:59:24]  Or this Meetup event is specifically posted
+[00:59:24 -> 00:59:27]  on reactjsmeetup.com.
+[00:59:27 -> 00:59:29]  So you can check that out too.
+[00:59:29 -> 00:59:30]  All right.
+[00:59:30 -> 00:59:31]  See y'all very soon.
+[00:59:31 -> 00:59:32]  Thank you.

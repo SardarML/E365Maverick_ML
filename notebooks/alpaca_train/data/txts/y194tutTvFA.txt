@@ -1,0 +1,385 @@
+[00:00:00 -> 00:00:04]  Ewa, was geht ab, Dradis? Auf jeden Fall, heute, erstes Thema, Mathematik.
+[00:00:04 -> 00:00:05]  Wir reden über Funktionen.
+[00:00:05 -> 00:00:08]  Ja, und ich mach jetzt mal so ganz grob, wozu braucht man Funktionen.
+[00:00:08 -> 00:00:11]  Funktionen braucht man eigentlich in vielen Bereichen des Lebens.
+[00:00:11 -> 00:00:14]  Angenommen, wir haben jetzt eine bestimmte Anzahl an Flüchtlingen
+[00:00:14 -> 00:00:16]  in den letzten drei Jahren in Deutschland dazubekommen.
+[00:00:16 -> 00:00:20]  Jetzt möchten wir so ausrechnen, wie viele Flüchtlinge eventuell so
+[00:00:20 -> 00:00:22]  bis nächstes Jahr zu erwarten sind,
+[00:00:22 -> 00:00:24]  damit sich Helge Merkel auch vorbereiten kann.
+[00:00:24 -> 00:00:25]  Und dann kann man so eine Funktion aufstellen.
+[00:00:25 -> 00:00:29]  Aber um das Ganze jetzt so wirklich mathematisch zu formulieren,
+[00:00:29 -> 00:00:34]  was eine Funktion ist, das ist einfach eine Relation zwischen zwei Mengen.
+[00:00:34 -> 00:00:37]  Als erstes die Menge von Funktionsvariable x
+[00:00:37 -> 00:00:41]  und als zweites die Menge vom Funktionswert f von x.
+[00:00:41 -> 00:00:43]  Und um euch das Ganze jetzt zu veranschaulichen,
+[00:00:43 -> 00:00:45]  zeichne ich euch jetzt mal so ein Beispiel an.
+[00:00:45 -> 00:00:47]  Ihr müsst euch das so vorstellen.
+[00:00:47 -> 00:00:48]  Das hier.
+[00:00:48 -> 00:00:51]  Und wir machen hier noch ein Bild.
+[00:00:51 -> 00:00:52]  Hier haben wir zwei Stück.
+[00:00:52 -> 00:00:54]  Hier haben wir einmal x
+[00:00:54 -> 00:00:58]  und hier haben wir einmal f von x.
+[00:00:58 -> 00:01:01]  Beziehungsweise, wie ihr es auch kennt, y.
+[00:01:01 -> 00:01:05]  Jetzt stellt euch einfach vor, hier sind so verschiedene Variablenwerte.
+[00:01:05 -> 00:01:09]  Und hier auf der Seite sind dann immer deren Funktionswerte.
+[00:01:09 -> 00:01:13]  Und ganz wichtig ist halt, dass jeder Variablenwert immer ein Funktionswert hat.
+[00:01:13 -> 00:01:15]  Das heißt, die gehören immer zusammen.
+[00:01:15 -> 00:01:18]  Und jetzt die Beziehung, die dann dazwischen so entsteht,
+[00:01:18 -> 00:01:20]  sagt euch dann, wie die Funktion definiert ist.
+[00:01:20 -> 00:01:22]  Also können wir das hier drunter schreiben.
+[00:01:22 -> 00:01:29]  Und diese Abbildung hier ist letztendlich dann für die Funktion f von x.
+[00:01:29 -> 00:01:35]  Wir nehmen jetzt mal eine Funktion, wir nennen die f von x gleich x hoch 3.
+[00:01:35 -> 00:01:42]  Und jetzt veranschaulichen wir das hier anhand dieses Beispiels von der Funktion f von x gleich x hoch 3.
+[00:01:42 -> 00:01:45]  Machen wir uns hier wieder unsere zwei Kreise.
+[00:01:45 -> 00:01:48]  Wie ihr gerade ja kennengelernt habt, der hier ist für die x-Werte
+[00:01:48 -> 00:01:54]  und der hier ist für f von x, bzw. was wir ja gerade auch gesehen haben, y.
+[00:01:54 -> 00:01:57]  Jetzt setze ich einfach beliebige Werte für die Variable x ein.
+[00:01:57 -> 00:02:01]  Dann haben wir 1, 2, 3 und dann kommen 4.
+[00:02:01 -> 00:02:03]  Ja, und wir haben ja hier x hoch 3 stehen.
+[00:02:03 -> 00:02:07]  Das heißt, das würde dann folglich in der Funktion so aussehen.
+[00:02:07 -> 00:02:12]  1 hoch 3, 2 hoch 3, 3 hoch 3 und 4 hoch 3.
+[00:02:12 -> 00:02:14]  Wir rechnen das Ganze einfach jetzt aus.
+[00:02:14 -> 00:02:21]  1 hoch 3 ist 1, 2 hoch 3 sind 8, 27 und das sind 64.
+[00:02:21 -> 00:02:27]  Das heißt jetzt einfach, für die Funktion wäre jetzt f von 1 eingesetzt worden.
+[00:02:27 -> 00:02:33]  Hier in dem Fall hatten wir f von 2 und in dem Fall hatten wir f von 3.
+[00:02:33 -> 00:02:38]  In dem letzten Fall hatten wir f von 4 für die Funktion eingesetzt.
+[00:02:38 -> 00:02:40]  Folglich die Werte, die wir ja gerade ausgerechnet haben.
+[00:02:40 -> 00:02:49]  Das war ja in dem Fall 1 hoch 3, das war in dem Fall 2 hoch 3, das war in dem Fall 3 hoch 3 und das war 4 hoch 3.
+[00:02:49 -> 00:02:53]  So, da wir ja jetzt uns so mit den Funktionen befasst haben, kommen wir jetzt zum Wesentlichen.
+[00:02:53 -> 00:02:57]  Und das sind hier allgemeine Polynomfunktionen.
+[00:02:57 -> 00:03:03]  Ich habe euch hier so eine Struktur aufgeschrieben, weil das sind im Grunde genommen Fälle, spezielle Fälle,
+[00:03:03 -> 00:03:07]  die ihr euch eigentlich aus der allgemeinen Polynomfunktion herleiten könnt.
+[00:03:07 -> 00:03:10]  Jetzt fangen wir erstmal an mit der allgemeinen Polynomfunktion.
+[00:03:10 -> 00:03:15]  Danach kommen wir anschließend zum Punkt 1a, das wären dann die konstanten Funktionen.
+[00:03:15 -> 00:03:19]  Anschließend zum Punkt 1b, das werden dann lineare Funktionen sein.
+[00:03:19 -> 00:03:23]  Und folglich dann zum Punkt 1c, quadratische Funktionen.
+[00:03:23 -> 00:03:28]  Und dann letztlich zum Punkt 1d, Ordnung der Polynome dritten, vierten und fünften Grades.
+[00:03:28 -> 00:03:31]  Dann fangen wir an mit der Polynomfunktion, mit der allgemeinen Polynomfunktion.
+[00:03:31 -> 00:03:33]  Wie sieht die überhaupt aus?
+[00:03:33 -> 00:03:34]  Jetzt gibt euch die mal.
+[00:03:34 -> 00:03:37]  Jetzt schreibe ich die allgemeine Polynomfunktion auf.
+[00:03:37 -> 00:03:40]  Also das ist jetzt die allgemeine Polynomfunktion.
+[00:03:40 -> 00:03:43]  Und hier haben wir jetzt so eine kleine Regelung.
+[00:03:43 -> 00:03:44]  Könnt ihr euch allgemein auch so merken.
+[00:03:44 -> 00:03:48]  Immer eine Variable oder eine Zahl hoch 0 ist 1.
+[00:03:48 -> 00:03:49]  Schreiben wir das mal hier drunter.
+[00:03:49 -> 00:03:53]  Und demnach merkt ihr auch schon direkt, dass das hier wegfällt.
+[00:03:53 -> 00:03:56]  Dann sieht die Formel wie folgt aus.
+[00:03:56 -> 00:03:58]  Bisschen weniger schockierend, aber immer noch lang.
+[00:03:58 -> 00:04:00]  Ich erkläre es euch, aber macht euch keine Sorgen.
+[00:04:00 -> 00:04:01]  Wir kriegen das hin.
+[00:04:01 -> 00:04:03]  Hier haben wir jetzt die allgemeine Polynomfunktion.
+[00:04:03 -> 00:04:08]  Und uns fällt gerade hier auch am Ende auf, dass wir hier etwas mit dem Buchstaben N zu tun haben.
+[00:04:08 -> 00:04:13]  Dieses N steht in der Mathematik grundsätzlich immer für natürliche Zahlen.
+[00:04:13 -> 00:04:16]  Jetzt 1, 2, 3, 4, 5, 6, 7.
+[00:04:16 -> 00:04:20]  Das sind alles natürliche Zahlen, die für das N eingesetzt werden können.
+[00:04:20 -> 00:04:23]  Die Schreibweise vom Ganzen sieht wie folgt aus.
+[00:04:23 -> 00:04:27]  Für alle natürlichen Zahlen in der natürlichen Zahlmenge.
+[00:04:27 -> 00:04:31]  Und den Wert, den wir dann für das N auswählen, ist dann die höchste Ordnung.
+[00:04:31 -> 00:04:36]  Angenommen wir wenden jetzt für den Wert N hier bei konstanten Funktionen 0 an.
+[00:04:36 -> 00:04:39]  Bei linearen Funktionen ist es 1.
+[00:04:39 -> 00:04:43]  Bei quadratischen Funktionen eben 2.
+[00:04:43 -> 00:04:47]  Und hier dann halt 3., 4., 5. Ordnung.
+[00:04:47 -> 00:04:51]  Das sind dann halt Werte, die wir auch für das N einsetzen können.
+[00:04:51 -> 00:04:54]  Wenn ihr euch jetzt diese allgemeine Polynomfunktion anguckt,
+[00:04:54 -> 00:04:59]  dann bemerkt ihr, dass ihr ziemlich oft diesen Buchstaben A hier drinnen habt.
+[00:04:59 -> 00:05:03]  Hier A, A, A, A, A, A.
+[00:05:03 -> 00:05:07]  Also die ganzen As hier sind Parameter und X ist immer eine Variante.
+[00:05:07 -> 00:05:09]  Wir haben diese ganzen As jetzt hier drinnen.
+[00:05:09 -> 00:05:16]  Und in Aufgabenstellungen in der Schule, da werden diese As meistens durch reelle Zahlen ersetzt.
+[00:05:16 -> 00:05:23]  Und reelle Zahlen der Mathematik sind wie zum Beispiel jetzt 1, minus 1, 1,3.
+[00:05:23 -> 00:05:27]  Das sind alles reelle Zahlen, die dafür eingesetzt werden können.
+[00:05:27 -> 00:05:33]  Und deswegen also in der Klausur oder generell in der Schule werdet ihr da einfach mal eine Zahl dazwischen finden.
+[00:05:33 -> 00:05:34]  Oder mal ein Gesicht.
+[00:05:34 -> 00:05:36]  Ich schreibe euch jetzt hier das Ganze so richtig lang auf.
+[00:05:36 -> 00:05:38]  Das ist ja die allgemeine Polynomfunktion.
+[00:05:38 -> 00:05:41]  In der Schule, ihr Hunde-Söhne, die zeigen euch gar nicht dieses allgemeine.
+[00:05:41 -> 00:05:44]  Die kommen euch direkt an mit, das ist linear, das ist quadratisch.
+[00:05:44 -> 00:05:45]  Du weißt gar nicht, wo das herkommt.
+[00:05:45 -> 00:05:47]  So wie so ein Bastard, den ihr da habt.
+[00:05:47 -> 00:05:52]  Aber das ist die Mutter von all diesen Unterpunkten, die wir gleich hier durchgehen werden.
+[00:05:52 -> 00:05:56]  Und deswegen, damit ihr wisst, wo man sich das so in etwa herleiten kann.
+[00:05:56 -> 00:05:59]  Das alles kommt von dieser allgemeinen Funktion, der Polynomfunktion.
+[00:05:59 -> 00:06:02]  Jetzt kommen wir hier zu unserem Punkt 1a.
+[00:06:02 -> 00:06:03]  Polynome, Nullterorten.
+[00:06:03 -> 00:06:08]  Wir nehmen unsere Funktion f von x gleich a0.
+[00:06:08 -> 00:06:11]  Und dieses a0 können wir einfach ersetzen.
+[00:06:11 -> 00:06:14]  Wir sagen jetzt in unserem Fall 1.
+[00:06:14 -> 00:06:15]  Nehme ich einfach mal.
+[00:06:15 -> 00:06:21]  Was uns hier jetzt auch als erstes auffällt, ist, dass wir auf der rechten Seite gar keine Variable haben.
+[00:06:21 -> 00:06:22]  Also da steht kein x.
+[00:06:22 -> 00:06:26]  Da das ja jetzt hier eine nackte Zahl ist, eine Zahl, die jetzt keine Variable hat.
+[00:06:26 -> 00:06:30]  Ist es ganz einfach, egal was für einen Wert wir für x einsetzen.
+[00:06:30 -> 00:06:31]  Es bleibt einfach 1.
+[00:06:31 -> 00:06:34]  Da ich ja Marokkaner bin und vielleicht viele von euch mir nicht glauben.
+[00:06:34 -> 00:06:38]  Also es ist wirklich egal, welchen Wert x annimmt.
+[00:06:38 -> 00:06:42]  Sagen wir jetzt mal, wir schreiben hier ein f von 10.
+[00:06:42 -> 00:06:45]  Es ist egal, es bleibt 1.
+[00:06:45 -> 00:06:49]  Schreiben wir f von, von mir aus 1000.
+[00:06:49 -> 00:06:52]  Egal Bruder, ich schwöre auf meine Mutter, es bleibt 1.
+[00:06:52 -> 00:06:56]  Funktionswert bleibt 1 und zu den anderen Ergebnissen demnach konstant.
+[00:06:56 -> 00:07:00]  Deswegen haben wir es auch hier mit einer konstanten Funktion zu tun.
+[00:07:00 -> 00:07:05]  Was wir auch noch festhalten können ist, dass n ja der höchste Index ist und somit auch der höchste Wert von der Variable.
+[00:07:05 -> 00:07:09]  Und ich hatte ja gerade auch aufgeschrieben, n gleich 0.
+[00:07:09 -> 00:07:17]  Wenn ich sage n gleich 0, dann meine ich, dass ich von dieser ganzen allgemeinen Polynomfunktion, die wir haben, nur mit dem Teil hier arbeite.
+[00:07:17 -> 00:07:22]  Und genau das seht ihr ja auch gerade wieder hier, wenn ich sage f von x gleich 1.
+[00:07:22 -> 00:07:30]  Dann seht ihr ja, hier ist kein x, f von 10, alles bleibt gleich, weil ich ja eben keine Variable x neben dieser Zahl habe.
+[00:07:30 -> 00:07:37]  Wenn ich dann jetzt gleich weitergehe in dieser ganzen Sache und dann sage n gleich 1, dann könnt ihr euch denken, aha, lineare Funktion.
+[00:07:37 -> 00:07:43]  Das heißt, der arbeitet jetzt mit diesem Teil hier bis 1.
+[00:07:43 -> 00:07:45]  Und dann geht es so weiter.
+[00:07:45 -> 00:07:50]  Sagen wir, ich gehe jetzt auf quadratische Funktion, dann nehme ich bis hier alles mit.
+[00:07:50 -> 00:07:53]  Und demnach wird dann halt immer der jeweilige Wert eingesetzt.
+[00:07:53 -> 00:07:56]  Jetzt zeichnen wir das Ganze in ein Koordinatensystem ein.
+[00:07:56 -> 00:07:59]  Das ist alles ganz grob gezeichnet.
+[00:07:59 -> 00:08:01]  Ihr seht, ich kann hier nichts messen, sonst was.
+[00:08:01 -> 00:08:04]  Jetzt zeichnen wir das Koordinatensystem auf.
+[00:08:04 -> 00:08:06]  Nein, Ex-Moslem, das ist kein Kreuz.
+[00:08:06 -> 00:08:10]  Aber dann hat sich auch meine Angst wieder gelegt, weil der Heilige Geist mich wieder beruhigt hat.
+[00:08:10 -> 00:08:16]  Also hier auf der x-Achse sehen wir, dass der Wert von links nach rechts ins Positive steigt.
+[00:08:16 -> 00:08:20]  Und der y-Wert von unten nach oben steigt ebenfalls ins Positive.
+[00:08:20 -> 00:08:22]  So, jetzt zeichnen wir mal die Konstante hier ein.
+[00:08:22 -> 00:08:24]  Wir haben ja unsere Werte hier an der Seite.
+[00:08:24 -> 00:08:30]  Müsst ihr einfach dann immer so machen.
+[00:08:30 -> 00:08:38]  Angenommen, die Variable x hat jetzt den Wert 1 angenommen, dann haben wir ja gesagt, bleibt der Funktionswert trotzdem 1.
+[00:08:38 -> 00:08:42]  Das heißt, wir würden hier von 1 zu 1 gehen.
+[00:08:42 -> 00:08:44]  Das wäre ungefähr alles ganz grob.
+[00:08:44 -> 00:08:48]  Hier würden sich also unsere Punkte kreuzen.
+[00:08:48 -> 00:08:52]  Wenn wir jetzt für x2 einsetzen würden, hätten wir ja trotzdem auch 1.
+[00:08:52 -> 00:08:58]  Hier wären jetzt x2 und setzen dann hier den Werteinkommen wieder bei 1 raus.
+[00:08:58 -> 00:09:00]  Bei 3 dann natürlich das Gleiche.
+[00:09:00 -> 00:09:02]  Bei 4 das Gleiche.
+[00:09:02 -> 00:09:08]  Letzten Endes, was kommt raus? Auf jeden Fall einfach eine gerade Linie, eine Konstante.
+[00:09:08 -> 00:09:10]  Ich zeichne die einfach mal ein.
+[00:09:10 -> 00:09:12]  Also gerade ist das jetzt nicht.
+[00:09:12 -> 00:09:16]  Das ist halt wie meine Zähne, aber das wäre eine Konstante, eine gerade Linie.
+[00:09:16 -> 00:09:18]  So, und jetzt denkt mal vielleicht an den Anfang zurück.
+[00:09:18 -> 00:09:20]  Da hatte ich euch das ja so veranschaulicht.
+[00:09:20 -> 00:09:22]  Mit diesen zwei dicken Bibis.
+[00:09:22 -> 00:09:30]  Da hatte ich euch ja gesagt, hier die x-Werte und hier hatten wir die Funktionswerte f von x bzw. y.
+[00:09:30 -> 00:09:34]  Da hatte ich euch ja gesagt, dass jede Variable die hier drin ist.
+[00:09:34 -> 00:09:42]  Sagen wir 1, 2, 3, 4, hat hier immer dann auf der Seite einen Funktionswert.
+[00:09:42 -> 00:09:44]  Demnach hatte ich euch ja gesagt, da gehört immer was zusammen.
+[00:09:44 -> 00:09:46]  Merkt ihr? Immer diese Verbindung.
+[00:09:46 -> 00:09:48]  Genau diese Verbindung ist ja auch eine Konstante.
+[00:09:48 -> 00:09:53]  Was man jetzt hier dran merkt, der Variablenwert ändert sich, aber der Funktionswert nicht.
+[00:09:53 -> 00:09:55]  Deswegen bleibt das Ganze konstant.
+[00:09:55 -> 00:09:59]  Und demnach haben wir hier eine konstante Beziehung bzw. eine konstante Funktion.
+[00:09:59 -> 00:10:02]  Jetzt sind wir mit den konstanten Funktionen ja fertig.
+[00:10:02 -> 00:10:05]  Und somit kommen wir jetzt zum Punkt 1b.
+[00:10:05 -> 00:10:07]  Das sind die linearen Funktionen.
+[00:10:07 -> 00:10:12]  Und hier in dem Fall haben wir für unsere natürliche Zahl jetzt nicht mehr den Wert 0, sondern 1.
+[00:10:12 -> 00:10:15]  Das ist jetzt der Wert für unsere natürliche Zahl.
+[00:10:15 -> 00:10:19]  Und ich hatte euch ja vorhin gesagt, dass wir beim ersten, also bei den konstanten Funktionen,
+[00:10:19 -> 00:10:23]  diesen Teil hier benutzt haben, f von x, a0.
+[00:10:23 -> 00:10:28]  Jetzt bei dem Punkt b, also bei den linearen Funktionen, verwenden wir dieses ganze Ding.
+[00:10:28 -> 00:10:31]  Also hier, ich schreibe euch die Funktion mal einfach auf.
+[00:10:31 -> 00:10:39]  f von x gleich a0 plus a1 mal x hoch 1.
+[00:10:39 -> 00:10:41]  So sieht jetzt eine lineare Funktion aus.
+[00:10:41 -> 00:10:43]  Und wie ihr jetzt sehen könnt, hat sich was geändert.
+[00:10:43 -> 00:10:46]  Weil gerade war ja der Fall, dass wir eine nackte Zahl hatten.
+[00:10:46 -> 00:10:48]  Das heißt, wir hatten also keine Variabel x.
+[00:10:48 -> 00:10:51]  Aber in diesem Fall sieht das Ganze wiederum ganz anders aus.
+[00:10:51 -> 00:10:53]  Jetzt haben wir sehr wohl eine Variabel x.
+[00:10:53 -> 00:10:56]  Nehmen wir mal eine Beispielfunktion, um das zu veranschaulichen.
+[00:10:56 -> 00:11:03]  Einfach f von x gleich 3 plus, nehmen wir 5x.
+[00:11:03 -> 00:11:07]  Das wäre jetzt in unserem Fall eine lineare Funktion.
+[00:11:07 -> 00:11:11]  Was ihr ja seht, was sich jetzt geändert hat, so gerade ist, dass wir jetzt hier die Variabel x haben.
+[00:11:11 -> 00:11:18]  Das heißt, der Wert kann sich sehr wohl ändern im Gegenzug zu der konstanten Funktion, wo das halt nicht der Fall ist.
+[00:11:18 -> 00:11:23]  In der Schule, wenn ihr solchen Aufgaben begegnet, dann könnte es sein, dass sie das ein bisschen anders aufschreiben,
+[00:11:23 -> 00:11:25]  um das vielleicht ein bisschen vereinfachter darzustellen.
+[00:11:25 -> 00:11:27]  So könnt ihr das in der Schule sehen.
+[00:11:27 -> 00:11:30]  Das wird halt letzten Endes geändert wegen dem Index.
+[00:11:30 -> 00:11:33]  So, jetzt werde ich einfach mal hier so ein Beispiel aufschreiben,
+[00:11:33 -> 00:11:37]  um das Ganze in einem Koordinatensystem dann einzeichnen zu können
+[00:11:37 -> 00:11:40]  und euch das auch dann demnach veranschaulichen zu können.
+[00:11:40 -> 00:11:45]  Also, wir sagen jetzt mal, wir setzen für den Wert x die Zahl 0 ein.
+[00:11:45 -> 00:11:50]  Ja, dann würde es ja heißen 3 plus 5 mal 0.
+[00:11:50 -> 00:11:55]  Dann nehmen wir eine andere Koordinate, f1.
+[00:11:55 -> 00:11:58]  Dann haben wir hier mal 1, eine zweite dazu.
+[00:11:58 -> 00:12:02]  Ich habe euch ja vorhin gesagt, dass diese a's reelle Zahlen sind.
+[00:12:02 -> 00:12:04]  Das heißt, es können auch negative Zahlen sein.
+[00:12:04 -> 00:12:08]  Deswegen nehmen wir auch einfach mal für das Beispiel auch hier so eine negative Zahl.
+[00:12:08 -> 00:12:13]  So, und dann nehmen wir auch mal minus 2.
+[00:12:13 -> 00:12:15]  Und jetzt müsste man das Ganze ausrechnen,
+[00:12:15 -> 00:12:18]  um es dann letzten Endes in einem Koordinatensystem einzeichnen zu können.
+[00:12:18 -> 00:12:19]  Jetzt rechnen wir das Ganze aus.
+[00:12:19 -> 00:12:22]  3, hier haben wir 8.
+[00:12:22 -> 00:12:26]  Hier haben wir ganz einfach 13.
+[00:12:26 -> 00:12:29]  Hier haben wir minus 2.
+[00:12:29 -> 00:12:31]  Und hier haben wir minus 7.
+[00:12:31 -> 00:12:32]  Jetzt haben wir das Ganze aufgeschrieben.
+[00:12:32 -> 00:12:34]  Ich habe mal so einen kleinen Sondi-Trick.
+[00:12:34 -> 00:12:36]  Was ich mache in der Schule, bevor ich das aufzeichne,
+[00:12:36 -> 00:12:38]  ich mache mal so eine Tabelle.
+[00:12:38 -> 00:12:41]  Oben haben wir unsere x-Werte.
+[00:12:41 -> 00:12:46]  Und hier unten haben wir immer unser f von x bzw. unseren y-Wert.
+[00:12:46 -> 00:12:47]  Was machen wir hier bei den x-Werten?
+[00:12:47 -> 00:12:51]  Ganz normal hatten wir ja einmal 0 eingesetzt für x.
+[00:12:51 -> 00:12:54]  Hier hatten wir ja einmal die 1 eingesetzt für x.
+[00:12:54 -> 00:12:56]  Hier hatten wir einmal die 2 eingesetzt.
+[00:12:56 -> 00:12:58]  Hier hatten wir einmal die minus 1.
+[00:12:58 -> 00:13:00]  Und hier hatten wir einmal die minus 2.
+[00:13:00 -> 00:13:03]  Und dann schreibe ich halt mal die jeweiligen Funktionswerte dazu rein.
+[00:13:03 -> 00:13:05]  Das heißt, beim ersten hatte ich ja 3.
+[00:13:05 -> 00:13:07]  Beim zweiten hatte ich ja 8.
+[00:13:07 -> 00:13:09]  Beim dritten hatte ich ja 13.
+[00:13:09 -> 00:13:12]  Dann hatte ich minus 2 und minus 7.
+[00:13:12 -> 00:13:15]  So, okay, jetzt tragen wir das ganz einfach ein.
+[00:13:15 -> 00:13:18]  Hier, x hatten wir 0.
+[00:13:18 -> 00:13:21]  Und Funktionswert dazu war 3.
+[00:13:21 -> 00:13:24]  Das heißt, genau hier haben wir den ersten Punkt.
+[00:13:24 -> 00:13:26]  Das gleiche gilt jetzt für das nächste.
+[00:13:26 -> 00:13:28]  Jetzt haben wir hier die 1.
+[00:13:28 -> 00:13:30]  Und der Funktionswert war 8.
+[00:13:30 -> 00:13:34]  Dementsprechend können wir das Ganze mal einfach so hochmarkieren.
+[00:13:34 -> 00:13:35]  Dann geht es weiter.
+[00:13:35 -> 00:13:36]  2 auf der x-Achse.
+[00:13:36 -> 00:13:39]  Dazu hatten wir den Funktionswert 13.
+[00:13:39 -> 00:13:41]  Wenn ihr das in der Schule so macht, ist das haram.
+[00:13:41 -> 00:13:45]  Das ist wirklich gerade sehr, sehr, sehr grob gezeichnet.
+[00:13:45 -> 00:13:47]  Aber vom Prinzip her hoffe ich, dass ihr das versteht.
+[00:13:47 -> 00:13:48]  Wenn nicht, Bruder, lösch dich.
+[00:13:48 -> 00:13:50]  So, dann geht es weiter.
+[00:13:50 -> 00:13:52]  Minus 2 auf der x-Achse.
+[00:13:52 -> 00:13:53]  Da sind wir hier.
+[00:13:53 -> 00:13:56]  Und minus 7.
+[00:13:56 -> 00:13:59]  So, jetzt haben wir das Ganze eingezeichnet.
+[00:13:59 -> 00:14:03]  Aber es gibt bei der ganzen Sache noch so einen gewissen Sonderfall,
+[00:14:03 -> 00:14:05]  den ich euch mal ganz kurz erläutern werde.
+[00:14:05 -> 00:14:08]  Dann haben wir hier die Funktion f von x gleich b plus a mal x.
+[00:14:08 -> 00:14:11]  Wenn b in diesem Fall 0 ist,
+[00:14:11 -> 00:14:13]  ich schreibe mal so drunter 0,
+[00:14:13 -> 00:14:16]  dann haben wir hier nur noch stehen f von x gleich a mal x,
+[00:14:16 -> 00:14:18]  beziehungsweise ax.
+[00:14:18 -> 00:14:20]  So, ich schreibe das Ganze jetzt mal auf, Leute.
+[00:14:20 -> 00:14:21]  Das würde dann so aussehen.
+[00:14:21 -> 00:14:25]  f von x gleich a mal x.
+[00:14:25 -> 00:14:27]  So, und was heißt das jetzt, Leute?
+[00:14:27 -> 00:14:29]  In diesem Fall heißt das einfach, dass es total egal ist,
+[00:14:29 -> 00:14:32]  welchen Wert unser Parameter a annimmt.
+[00:14:32 -> 00:14:35]  Wenn wir dann jetzt hier die Variable gleich 0 setzen,
+[00:14:35 -> 00:14:38]  erhalten wir einen Funktionswert, der dementsprechend dann auch 0 ist.
+[00:14:38 -> 00:14:40]  So, jetzt machen wir mal hier drei Beispiele.
+[00:14:40 -> 00:14:42]  Ich mache hier mal so drei Pfeile,
+[00:14:42 -> 00:14:46]  damit ihr wisst, dass ich jetzt die Beispiele mir aus diesem ganzen Ding hier herleite.
+[00:14:46 -> 00:14:48]  Jetzt setze ich das Ganze einfach mal um
+[00:14:48 -> 00:14:51]  und setze für mein x hier in dem Fall immer 0 ein.
+[00:14:51 -> 00:14:53]  Dann werdet ihr sehen, dann erhaltet ihr folgendes.
+[00:14:53 -> 00:14:57]  f von 0 gleich 5 mal 0.
+[00:14:57 -> 00:15:04]  Hier in dem Fall f von 0 gleich 100 mal 0.
+[00:15:04 -> 00:15:14]  Und hier natürlich auch f von 0 gleich minus 6 mal 0.
+[00:15:14 -> 00:15:17]  So, und das Ganze ausgerechnet ergibt da überall 0.
+[00:15:17 -> 00:15:19]  Und das Ganze heißt dann für uns,
+[00:15:19 -> 00:15:22]  total egal jetzt in der Schule oder sonst was,
+[00:15:22 -> 00:15:24]  welchen Wert wir hier für den Parameter gegeben haben.
+[00:15:24 -> 00:15:28]  Wenn die Variable 0 ist, also in dem Fall unser x gleich 0 ist,
+[00:15:28 -> 00:15:31]  dann heißt es auch, dass das Ganze dementsprechend 0 bleibt
+[00:15:31 -> 00:15:33]  und dann halt durch den Ursprung geht.
+[00:15:33 -> 00:15:35]  Und hier fällt noch eine ganz wichtige Sache ein.
+[00:15:35 -> 00:15:36]  Merkt euch folgendes.
+[00:15:36 -> 00:15:39]  Wenn euer Parameter a größer 0 ist,
+[00:15:39 -> 00:15:41]  dann sieht die Kurve in etwa so aus.
+[00:15:41 -> 00:15:44]  Und ist euer Parameter a kleiner 0,
+[00:15:44 -> 00:15:46]  dann sieht das Ganze so aus.
+[00:15:46 -> 00:15:49]  Und das Ganze könnt ihr auch jetzt hier wieder im Showbild sehen.
+[00:15:49 -> 00:15:52]  Wir hatten ja bei den beiden ersten Funktionen positive Parameter.
+[00:15:52 -> 00:15:55]  Dementsprechend sind auch die Kurven hier so eingezeichnet.
+[00:15:55 -> 00:15:58]  Und beim letzten hatten wir einen negativen Parameter.
+[00:15:58 -> 00:16:02]  Und demnach ist das Ganze auch dann dementsprechend gezeichnet.
+[00:16:02 -> 00:16:05]  So, jetzt befassen wir uns mit dem Punkt c.
+[00:16:05 -> 00:16:07]  Das sind die quadratischen Funktionen.
+[00:16:07 -> 00:16:10]  Wir hatten ja gerade mit quasi diesen Bereichen gearbeitet.
+[00:16:10 -> 00:16:12]  Jetzt arbeiten wir mit dem folgenden Bereich.
+[00:16:12 -> 00:16:15]  Von hier bis hier.
+[00:16:15 -> 00:16:17]  Also bis zu dem Quadrat.
+[00:16:17 -> 00:16:21]  Und demnach ist unser n, also der Wert für die natürlichen Zahlen, 2.
+[00:16:21 -> 00:16:23]  Ja, schreiben wir uns jetzt mal die Funktion erstmal raus.
+[00:16:23 -> 00:16:27]  So, das ist jetzt hier unsere ganz rationale Funktion.
+[00:16:27 -> 00:16:30]  Aber in der Schule könnte es sein, dass man das Ganze so aufschreibt.
+[00:16:30 -> 00:16:33]  Ich schreibe es euch mal kurz auf und dann erkläre ich euch auch, warum die das so machen.
+[00:16:33 -> 00:16:36]  So, das dürfte jetzt die Schreibweise in der Schule sein.
+[00:16:36 -> 00:16:40]  Die 1 können wir hier wegwischen, weil die Variable hoch 1 ist die Variable selbst.
+[00:16:40 -> 00:16:42]  Und hier sollte euch jetzt eigentlich auffallen,
+[00:16:42 -> 00:16:45]  wenn ihr so diese allgemeine Schreibweise mit der Schulschreibweise vergleicht,
+[00:16:45 -> 00:16:49]  dann sollte euch auffallen, dass diese ganzen Parameter hier
+[00:16:49 -> 00:16:51]  durch diese Buchstaben hier ersetzt wurden.
+[00:16:51 -> 00:16:55]  Das ist einfach nur, um das Ganze vielleicht ein bisschen vereinfacht darzustellen,
+[00:16:55 -> 00:16:59]  weil statt, dass wir diese ganzen Zeiten und Index daneben haben, a0, a1, a2,
+[00:16:59 -> 00:17:03]  machen wir das einfach in so einer chilligeren Form mit a, b, c.
+[00:17:03 -> 00:17:07]  Und dann ist es auch für Schüler meistens, ja, veranschaulicher, nachvollziehbar.
+[00:17:07 -> 00:17:10]  Und das Ganze jetzt in einem Koordinatensystem gezeichnet,
+[00:17:10 -> 00:17:12]  wobei ich auch wiederum hier sagen muss,
+[00:17:12 -> 00:17:16]  dass das Ganze ziemlich ungenau bzw. grob gezeichnet ist.
+[00:17:16 -> 00:17:19]  Und ich werde halt jetzt nicht detailliert auf die Krümmung und Sonstiges eingehen,
+[00:17:19 -> 00:17:24]  sondern einfach nur so grundlagenmäßig zeigen, wie ihr das einzeichnet.
+[00:17:24 -> 00:17:28]  Was ihr dann als erstes hier betrachten solltet, ist hier euren Parameter,
+[00:17:28 -> 00:17:33]  ob das halt positiv oder negativ ist, weil sollte das positiv sein,
+[00:17:33 -> 00:17:37]  dann habt ihr immer so eine U-Form, könnt ihr euch merken.
+[00:17:37 -> 00:17:42]  Kann so sein, kann auch ein bisschen anders sein, kann sogar auch durch den Ursprung gehen.
+[00:17:42 -> 00:17:45]  So, und sollte das vielleicht jetzt ein negativer Wert sein,
+[00:17:45 -> 00:17:51]  dann sieht das Ganze so aus, öffnet sich einfach dann so nach unten.
+[00:17:51 -> 00:17:54]  Kann auch wieder durch den Ursprung gehen und auch wieder nicht.
+[00:17:54 -> 00:17:58]  Also könnt ihr euch quasi auch so merken, wie wir das auch bei den linearen Funktionen vorhin hatten.
+[00:17:58 -> 00:18:02]  Gilt in diesem Fall a größer 0, würde das Ganze so aussehen.
+[00:18:02 -> 00:18:06]  Haben wir a kleiner 0, würde das Ganze etwa so aussehen.
+[00:18:06 -> 00:18:09]  Es kann auch sein, dass wenn ihr hier so ein a größer 0 habt,
+[00:18:09 -> 00:18:13]  dass das Ganze dann auch vielleicht mal so unter die x-Achse geht.
+[00:18:13 -> 00:18:17]  Und für a kleiner 0 dann logischerweise natürlich auch der Fall,
+[00:18:17 -> 00:18:19]  dass das Ganze über die x-Achse geht.
+[00:18:19 -> 00:18:22]  Und für diese beiden genannten konkreten Fälle,
+[00:18:22 -> 00:18:25]  werde ich euch jetzt einfach mal zwei Beispiele geben.
+[00:18:25 -> 00:18:29]  Dann haben wir hier als erstes, sagen wir mal für das Beispiel a größer 0,
+[00:18:29 -> 00:18:31]  wo das Ganze ja wie so ein U aussieht,
+[00:18:31 -> 00:18:39]  nehmen wir mal folgende Funktion, f von x gleich 3x² plus 2x plus 1.
+[00:18:39 -> 00:18:43]  Das wäre dann jetzt hier der Fall für das erste Beispiel,
+[00:18:43 -> 00:18:45]  dass das so ein U ergibt, weil a größer 0 ist.
+[00:18:45 -> 00:18:49]  Dann sehen wir hier in diesem Fall unsere 3, das ist ja der Parameter
+[00:18:49 -> 00:18:51]  und der ist in unserem Fall hier positiv.
+[00:18:51 -> 00:18:56]  Deswegen haben wir auch dementsprechend a größer 0 und dann auch diese U-Form der Parameter.
+[00:18:56 -> 00:18:59]  Und das Ganze schreiben wir uns nochmal hier auf, um das so nicht zu vergessen.
+[00:18:59 -> 00:19:04]  Dann haben wir ja hier a war gleich 3 und das war dementsprechend auch größer 0
+[00:19:04 -> 00:19:08]  und demnach sah die Parabel dann auch so aus.
+[00:19:08 -> 00:19:14]  Das im Koordinatensystem müsste dann etwa, wie gesagt, ganz grob gezeichnet so aussehen.
+[00:19:16 -> 00:19:18]  Das gleiche Beispiel für den Wert a kleiner 0.
+[00:19:18 -> 00:19:21]  Lass uns mal gucken, wie sich das Ganze verhält, wenn wir jetzt so einen negativen Wert haben.
+[00:19:21 -> 00:19:26]  In diesem Fall haben wir ja diesmal hier den negativen Parameterwert minus 3
+[00:19:26 -> 00:19:31]  und können uns dementsprechend wieder aufschreiben, a diesmal gleich minus 3,
+[00:19:31 -> 00:19:33]  dementsprechend kleiner 0.
+[00:19:33 -> 00:19:36]  Demnach sollte die Kurve so eine Parabel ergeben.
+[00:19:36 -> 00:19:39]  Und wenn wir das jetzt ins Koordinatensystem einzeichnen wollen,
+[00:19:39 -> 00:19:44]  dann würden wir, wie gesagt, wieder grob, merkt euch das, so in etwa vorgehen.
+[00:19:44 -> 00:19:47]  So und jetzt zeige ich euch mal zwei spezielle Fälle,
+[00:19:47 -> 00:19:49]  denen ihr euch wahrscheinlich in der Schule begegnen werdet.
+[00:19:49 -> 00:19:59]  Es wäre einmal folgender, f von x gleich ax² plus bx und f von e gleich einfach nur ax².
+[00:19:59 -> 00:20:01]  Hierbei könnt ihr euch schon gleich eine Sache merken.
+[00:20:01 -> 00:20:05]  Völlig egal, welchen Wert euer Parameter jetzt hier annimmt,
+[00:20:05 -> 00:20:08]  wenn ihr wisst, dass die x-Variable gleich 0 ist,
+[00:20:08 -> 00:20:11]  dann ist klar, dass auch dementsprechend der Funktionswert gleich 0 sein wird
+[00:20:11 -> 00:20:15]  und demnach könnt ihr euch schon direkt merken, dass die Kurve,
+[00:20:15 -> 00:20:20]  jetzt sei es im Fall a größer 0, hier definitiv durch den Ursprung geht.
+[00:20:20 -> 00:20:23]  Genauso wie wenn jetzt der Wert a kleiner 0 ist und ihr wisst ja,
+[00:20:23 -> 00:20:28]  euer x-Wert war in dem Fall 0, dann geht das Ganze auch wieder durch den Ursprung.
+[00:20:28 -> 00:20:30]  Kommen wir zu dem Polynomen dritter, vierter und fünfter Ordnung
+[00:20:30 -> 00:20:35]  und dafür nehmen wir den Begriff bis zum Wert x³.
+[00:20:35 -> 00:20:38]  Für das erste, für das Polynomen dritter Ordnung.
+[00:20:38 -> 00:20:41]  Und das gleiche als Funktion aufgeschrieben würde dann wie folgt aussehen,
+[00:20:41 -> 00:20:52]  f von x gleich a0 plus a1 mal x hoch 1 und dann plus a2 mal x hoch 2 plus.
+[00:20:52 -> 00:20:57]  Jetzt kommen wir zum dritten Grad und das Ganze ist ja jetzt ein Polynomen dritten Grades,
+[00:20:57 -> 00:21:00]  deswegen ist hier in dem Fall unser n gleich 3
+[00:21:00 -> 00:21:03]  und jetzt machen wir das gleiche für ein Polynomen vierten Grades.
+[00:21:03 -> 00:21:19]  Dann würde das Ganze wie folgt aussehen, f von x gleich a0 plus a1x plus a2x² plus a3x hoch 3 plus a4x hoch 4.
+[00:21:19 -> 00:21:25]  Dementsprechend lautet das ja auch, dass unser n, also unser Polynomen hier vierten Grades ist.
+[00:21:25 -> 00:21:30]  Dann das gleiche für Polynomen fünften Grades, haben wir wieder f von x gleich
+[00:21:30 -> 00:21:35]  und demnach ist hier unser Polynomen fünften Grades, also demnach ist n gleich 5.
+[00:21:35 -> 00:21:39]  An dieser Stelle Leute möchte ich das Ganze aber nicht in ein Koordinatensystem einzeichnen,
+[00:21:39 -> 00:21:43]  da man hier, so wie ich es auch aus dem Abitur kenne, sehr viele Dinge beachten muss.
+[00:21:43 -> 00:21:48]  Es gibt beispielsweise Nullstellen, die an dieser Stelle sehr sehr wichtig sind, um das Ganze überhaupt aufzeichnen zu können,
+[00:21:48 -> 00:21:54]  weil hier ist nämlich auch der Fall, dass man im Gegensatz zu anderen Funktionen eben mehrere Nullstellen haben kann.
+[00:21:54 -> 00:21:57]  Hier gibt es dann halt noch mehrere Punkte, die beachtet werden müssen.
+[00:21:57 -> 00:22:00]  Nullstellen, Extremstellen, da kommen sogar noch Ableitungen mit ins Spiel.
+[00:22:00 -> 00:22:05]  Dann das Monotonieverhalten der Funktion, an manchen Stellen geht die hoch, an manchen Stellen geht die runter
+[00:22:05 -> 00:22:08]  und das möchte ich jetzt in diesem Video jetzt gar nicht mal so einfach in den Raum werfen,
+[00:22:08 -> 00:22:12]  weil das ist ein sehr sehr essentieller Punkt der Oberstufe und auch der ganzen Kurvendiskussion.
+[00:22:12 -> 00:22:15]  Deswegen widmen wir uns dem Ganzen vielleicht in den nächsten Videos,
+[00:22:15 -> 00:22:20]  aber nur damit ihr so einen groben Überblick zum Ganzen habt und das mal so ein bisschen einordnen könnt.

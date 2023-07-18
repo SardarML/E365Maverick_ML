@@ -1,0 +1,1366 @@
+[00:00:00 -> 00:00:01]  Well, welcome everyone.
+[00:00:01 -> 00:00:05]  It's so great to have you all joining us this evening.
+[00:00:05 -> 00:00:08]  And we're so excited for the opportunity
+[00:00:08 -> 00:00:09]  to present to you tonight.
+[00:00:09 -> 00:00:13]  I'm preparing for those pharmacology questions
+[00:00:13 -> 00:00:16]  that are on both your nursing exams and on the NCLEX.
+[00:00:16 -> 00:00:18]  So here we have a little agenda.
+[00:00:18 -> 00:00:20]  And in tonight's session,
+[00:00:20 -> 00:00:24]  we will practice answering pharmacology test questions
+[00:00:24 -> 00:00:28]  and we will review rationales and strategies.
+[00:00:28 -> 00:00:31]  We've selected practice questions
+[00:00:31 -> 00:00:34]  based on common prescribed meds
+[00:00:34 -> 00:00:39]  and what we know you will most likely be asked on NCLEX.
+[00:00:39 -> 00:00:41]  So on this next slide,
+[00:00:41 -> 00:00:45]  let's start by reviewing some general medication guidelines.
+[00:00:45 -> 00:00:48]  So first, medication absorption,
+[00:00:48 -> 00:00:52]  distribution, metabolism, and excretion
+[00:00:52 -> 00:00:56]  are affected by age and physiological processes.
+[00:00:56 -> 00:01:00]  So it's important to remember that the older client
+[00:01:00 -> 00:01:02]  and the neonate and infant
+[00:01:02 -> 00:01:07]  are at greater risk for toxicity than an adult is.
+[00:01:07 -> 00:01:09]  This is an important point.
+[00:01:09 -> 00:01:13]  If there is an age specified in a question,
+[00:01:13 -> 00:01:16]  be sure that you pay attention to the age
+[00:01:16 -> 00:01:18]  and think about physiological processes
+[00:01:18 -> 00:01:22]  related to growth and development and aging.
+[00:01:22 -> 00:01:26]  So next, antacids are not usually administered
+[00:01:26 -> 00:01:29]  with medication because the antacid
+[00:01:29 -> 00:01:32]  will affect the absorption of the med.
+[00:01:32 -> 00:01:35]  So don't select the option that indicates
+[00:01:35 -> 00:01:39]  giving the client an antacid with the medication
+[00:01:39 -> 00:01:43]  or within two hours of medication administration.
+[00:01:43 -> 00:01:47]  Next, grapefruit juice is not usually administered
+[00:01:47 -> 00:01:50]  with medication because it contains a substance
+[00:01:50 -> 00:01:53]  that will impede the absorption of the med.
+[00:01:53 -> 00:01:57]  So don't select grapefruit or grapefruit juice
+[00:01:57 -> 00:01:59]  as an option if the question asks
+[00:01:59 -> 00:02:04]  what you should give when administering a medication.
+[00:02:04 -> 00:02:07]  Enteric-coated and sustained-release tablets
+[00:02:07 -> 00:02:09]  should not be crushed,
+[00:02:09 -> 00:02:12]  and also capsules should not be opened.
+[00:02:12 -> 00:02:15]  So if you have a question about a client
+[00:02:15 -> 00:02:17]  who has difficulty swallowing,
+[00:02:17 -> 00:02:21]  remember your best action is to see
+[00:02:21 -> 00:02:24]  if you can obtain a liquid form of the medication,
+[00:02:24 -> 00:02:27]  and if not, consult with the pharmacy
+[00:02:27 -> 00:02:29]  about an appropriate form of action
+[00:02:29 -> 00:02:34]  as far as crushing tablets or opening capsules.
+[00:02:34 -> 00:02:38]  Okay, so Angie's going to take over on this next slide.
+[00:02:38 -> 00:02:40]  Great, thank you, Linda.
+[00:02:40 -> 00:02:43]  Hi, everybody. You're welcome.
+[00:02:43 -> 00:02:45]  Okay, so just a few more guidelines,
+[00:02:45 -> 00:02:48]  and then we'll show you how to access
+[00:02:48 -> 00:02:52]  pharmacology and practice questions for pharmacology
+[00:02:52 -> 00:02:55]  in the Evolve resources.
+[00:02:55 -> 00:02:58]  So some general guidelines.
+[00:02:58 -> 00:03:01]  Nursing interventions always include
+[00:03:01 -> 00:03:03]  monitoring for intended effects,
+[00:03:03 -> 00:03:07]  side effects, adverse effects,
+[00:03:07 -> 00:03:10]  or toxic effects of the medication.
+[00:03:10 -> 00:03:14]  You want to focus on what the question is asking you.
+[00:03:14 -> 00:03:17]  Is the question asking about an intended effect
+[00:03:17 -> 00:03:21]  a side effect, an adverse effect, or a toxic effect?
+[00:03:21 -> 00:03:23]  Because that will make a difference
+[00:03:23 -> 00:03:26]  in how you're going to answer the question.
+[00:03:26 -> 00:03:29]  So let's break this down a bit further.
+[00:03:29 -> 00:03:32]  An intended effect is the therapeutic effect
+[00:03:32 -> 00:03:34]  that you want to happen.
+[00:03:34 -> 00:03:38]  For example, the intended effect of an antihypertensive
+[00:03:38 -> 00:03:41]  is to lower the blood pressure.
+[00:03:41 -> 00:03:46]  A side effect is one that can occur from a medication.
+[00:03:46 -> 00:03:48]  It's not usually directly harmful
+[00:03:48 -> 00:03:51]  and can often be prevented.
+[00:03:51 -> 00:03:53]  So for example, if you know that
+[00:03:53 -> 00:03:56]  codeine can cause constipation,
+[00:03:56 -> 00:03:59]  then stool softeners would be important
+[00:03:59 -> 00:04:01]  as well as teaching the client
+[00:04:01 -> 00:04:05]  about the importance of fluids and a high-fiber diet.
+[00:04:05 -> 00:04:09]  And so again, a side effect is not directly harmful.
+[00:04:09 -> 00:04:12]  It's more annoying than anything else.
+[00:04:12 -> 00:04:15]  Another example would be with your ACE inhibitors.
+[00:04:15 -> 00:04:19]  Cough is an annoying side effect, but it's not harmful,
+[00:04:19 -> 00:04:22]  but sometimes annoying to the point in which
+[00:04:22 -> 00:04:25]  the physician would need to change the medication
+[00:04:25 -> 00:04:26]  to a different one.
+[00:04:27 -> 00:04:31]  And then talking about adverse and toxic effects,
+[00:04:31 -> 00:04:33]  these are very much unwanted
+[00:04:33 -> 00:04:35]  and they can be life-threatening.
+[00:04:35 -> 00:04:37]  For example, an adverse effect
+[00:04:37 -> 00:04:40]  could be an allergic response to a medication.
+[00:04:40 -> 00:04:44]  And so you'd want to stop or withhold that medication
+[00:04:44 -> 00:04:46]  and report that event.
+[00:04:46 -> 00:04:50]  And then a toxic effect produces signs and symptoms,
+[00:04:50 -> 00:04:52]  but is also monitored potentially
+[00:04:52 -> 00:04:55]  via a laboratory test perhaps.
+[00:04:55 -> 00:04:58]  For example, in digoxin toxicity,
+[00:04:58 -> 00:05:01]  the client may experience GI disturbances
+[00:05:01 -> 00:05:04]  such as anorexia, nausea, or vomiting,
+[00:05:04 -> 00:05:07]  or possibly visual disturbances.
+[00:05:07 -> 00:05:11]  And this would alert you as the nurse of a problem
+[00:05:11 -> 00:05:15]  and it may lead you to suspect toxicity.
+[00:05:15 -> 00:05:19]  Then the digoxin level lab results will show
+[00:05:19 -> 00:05:23]  that the digoxin blood level is greater than two
+[00:05:23 -> 00:05:24]  in conventional units,
+[00:05:24 -> 00:05:27]  thus indicating or confirming the toxicity.
+[00:05:28 -> 00:05:31]  The nurse or client should never adjust
+[00:05:31 -> 00:05:33]  or change a medication dose,
+[00:05:33 -> 00:05:35]  abruptly stop taking a medication
+[00:05:35 -> 00:05:37]  or discontinue a medication.
+[00:05:37 -> 00:05:40]  The nurse may withhold a medication
+[00:05:40 -> 00:05:43]  if they suspect that the client is experiencing
+[00:05:43 -> 00:05:47]  an adverse or a toxic effect of a medication,
+[00:05:47 -> 00:05:51]  but then the nurse should immediately contact the physician
+[00:05:51 -> 00:05:54]  if either of these effects occurs.
+[00:05:54 -> 00:05:54]  So for example,
+[00:05:54 -> 00:05:59]  if you know the signs of digoxin toxicity in your client,
+[00:06:00 -> 00:06:04]  and your client is due for their next dose of digoxin,
+[00:06:04 -> 00:06:05]  you would withhold that medication
+[00:06:05 -> 00:06:08]  until you did a further assessment
+[00:06:08 -> 00:06:11]  and you determine the cause of the client's symptoms.
+[00:06:11 -> 00:06:15]  And then the nurse may also withhold the medication as well
+[00:06:15 -> 00:06:17]  if specific parameters are prescribed
+[00:06:17 -> 00:06:19]  and withholding that medication
+[00:06:19 -> 00:06:22]  is indicated based on those parameters.
+[00:06:22 -> 00:06:24]  An example of this might be
+[00:06:24 -> 00:06:27]  if the physician wrote to hold metoprolol,
+[00:06:27 -> 00:06:29]  which is a beta blocker,
+[00:06:29 -> 00:06:32]  for a systolic blood pressure below 90.
+[00:06:33 -> 00:06:38]  In general, the client needs to avoid consuming alcohol
+[00:06:38 -> 00:06:40]  and avoid smoking.
+[00:06:40 -> 00:06:42]  So no smoking, no use of alcohol
+[00:06:42 -> 00:06:44]  when you're answering test questions.
+[00:06:44 -> 00:06:46]  Don't be tempted to select an option
+[00:06:46 -> 00:06:48]  that reads something like,
+[00:06:48 -> 00:06:51]  the client can have an ounce of alcohol a day
+[00:06:51 -> 00:06:53]  or they can smoke one cigarette a day.
+[00:06:53 -> 00:06:57]  There's no smoking, no alcohol on any exam.
+[00:06:57 -> 00:06:59]  And then learn generic names.
+[00:06:59 -> 00:07:03]  Trade names are generally not going to be seen
+[00:07:03 -> 00:07:04]  on the NCLEX.
+[00:07:04 -> 00:07:07]  And so you'll not see a name like Lasix,
+[00:07:08 -> 00:07:11]  but instead you would see furosemide.
+[00:07:11 -> 00:07:12]  So during nursing school
+[00:07:12 -> 00:07:15]  and in preparation for your NCLEX,
+[00:07:15 -> 00:07:18]  you want to be sure to learn the generic names.
+[00:07:18 -> 00:07:20]  All right, and so then moving forward,
+[00:07:20 -> 00:07:23]  we want to share some smart study approaches.
+[00:07:23 -> 00:07:25]  Our first smart study approach
+[00:07:25 -> 00:07:29]  is that you access the NCSBN website
+[00:07:29 -> 00:07:33]  at www.ncsbn.org
+[00:07:33 -> 00:07:35]  and download your RN or your PN test plan
+[00:07:36 -> 00:07:38]  as a study guide.
+[00:07:38 -> 00:07:40]  It actually lists all of the nursing activities
+[00:07:40 -> 00:07:42]  that you'll be tested on.
+[00:07:42 -> 00:07:45]  And then also this website has many valuable resources
+[00:07:45 -> 00:07:47]  for NCLEX candidates.
+[00:07:47 -> 00:07:50]  And so we highly recommend visiting the site.
+[00:07:50 -> 00:07:52]  If you look at the RN test plan
+[00:07:52 -> 00:07:55]  and the PN test plan side by side,
+[00:07:55 -> 00:07:58]  you really wouldn't know many differences.
+[00:07:58 -> 00:08:00]  Most relate to intravenous therapies
+[00:08:00 -> 00:08:02]  and some management roles.
+[00:08:02 -> 00:08:04]  As far as pharmacology,
+[00:08:04 -> 00:08:09]  the RN NCLEX test plan dedicates 12 to 18% of questions
+[00:08:09 -> 00:08:12]  to pharmacology and intravenous therapies.
+[00:08:12 -> 00:08:13]  And then the PN,
+[00:08:13 -> 00:08:18]  they dedicate 10 to 16% to these areas.
+[00:08:18 -> 00:08:19]  And then next,
+[00:08:19 -> 00:08:22]  practicing test questions is the key to success.
+[00:08:22 -> 00:08:25]  We recommend that you practice as many questions
+[00:08:25 -> 00:08:27]  as you can before a nursing exam.
+[00:08:27 -> 00:08:30]  And then of course, before taking the NCLEX.
+[00:08:30 -> 00:08:33]  And in fact, we recommend that you practice
+[00:08:33 -> 00:08:36]  at least 3,500 to 4,000 questions
+[00:08:36 -> 00:08:38]  before taking the NCLEX.
+[00:08:38 -> 00:08:41]  And we want to stress the importance of reading rationales
+[00:08:41 -> 00:08:44]  and strategies for every question.
+[00:08:44 -> 00:08:47]  This will really help with answering future questions
+[00:08:47 -> 00:08:49]  about similar content.
+[00:08:49 -> 00:08:54]  We also recommend starting with using study mode in Evolve,
+[00:08:54 -> 00:08:56]  which I'll show you shortly,
+[00:08:56 -> 00:09:00]  because this mode will provide you an immediate answer,
+[00:09:00 -> 00:09:02]  rationale and test taking strategy
+[00:09:02 -> 00:09:05]  after you submit your selected answer.
+[00:09:05 -> 00:09:07]  And then once you've mastered the content,
+[00:09:07 -> 00:09:10]  you can then move to the exam modes.
+[00:09:10 -> 00:09:14]  And so how do you locate these questions and resources?
+[00:09:14 -> 00:09:16]  You can use smart and study approaches in Evolve
+[00:09:16 -> 00:09:19]  to really target and review
+[00:09:19 -> 00:09:22]  depending on which medication classifications
+[00:09:22 -> 00:09:23]  you're studying.
+[00:09:23 -> 00:09:26]  The comprehensive review for the NCLEX RN and PN
+[00:09:26 -> 00:09:30]  and the Q&A review for both the NCLEX RN and PN
+[00:09:30 -> 00:09:34]  have the capabilities that I'm going to show you shortly.
+[00:09:34 -> 00:09:37]  But first I'll turn it back over to Linda.
+[00:09:38 -> 00:09:39]  Thank you, Angela.
+[00:09:39 -> 00:09:41]  Okay, on this slide here,
+[00:09:41 -> 00:09:43]  we want to share with you some resources
+[00:09:43 -> 00:09:46]  that will be helpful while you're in nursing school
+[00:09:46 -> 00:09:49]  and preparing for those nursing exams
+[00:09:49 -> 00:09:51]  and in preparation for the NCLEX.
+[00:09:51 -> 00:09:54]  So on the top left, you'll see the strategies book,
+[00:09:54 -> 00:09:59]  and this is a fantastic resource for RN and PN students
+[00:09:59 -> 00:10:02]  that provides you with all of the specific strategies
+[00:10:02 -> 00:10:04]  for answering test questions
+[00:10:04 -> 00:10:07]  from how to avoid reading into questions
+[00:10:07 -> 00:10:10]  all the way to tips for prioritizing
+[00:10:10 -> 00:10:13]  and tips for answering pharmacology questions.
+[00:10:13 -> 00:10:16]  In fact, there's a specific chapter that focuses
+[00:10:16 -> 00:10:20]  just on pharmacology tips and strategies.
+[00:10:20 -> 00:10:23]  There's over 1,200 practice questions
+[00:10:23 -> 00:10:27]  and about 115 of them are farm questions.
+[00:10:27 -> 00:10:30]  So if your weakness is test taking
+[00:10:30 -> 00:10:33]  and how to answer the questions correctly,
+[00:10:33 -> 00:10:36]  this is a definite must book for you.
+[00:10:36 -> 00:10:37]  And then to the right of that,
+[00:10:37 -> 00:10:41]  you can see the comprehensive review book for the RN
+[00:10:41 -> 00:10:43]  with the PN version just below it.
+[00:10:43 -> 00:10:45]  And these books serve a dual purpose
+[00:10:45 -> 00:10:49]  and are great resources while you're in nursing school
+[00:10:49 -> 00:10:52]  and preparing for the NCLEX.
+[00:10:52 -> 00:10:54]  These books contain both content
+[00:10:54 -> 00:10:57]  and thousands of practice questions.
+[00:10:57 -> 00:10:59]  And you can select the practice questions
+[00:10:59 -> 00:11:02]  based on what you're learning in school,
+[00:11:02 -> 00:11:07]  such as maternity, PD, adult health, or your pharmacology.
+[00:11:07 -> 00:11:11]  And the RN book has over 1,000 pharmacology questions
+[00:11:11 -> 00:11:15]  and the PN book over 700 farm questions.
+[00:11:15 -> 00:11:17]  And then to the right of that,
+[00:11:17 -> 00:11:21]  the next resource is the RN and the PN Q&A review.
+[00:11:21 -> 00:11:24]  And these books contain all practice questions
+[00:11:25 -> 00:11:27]  different from the ones in the comp review books
+[00:11:27 -> 00:11:29]  and are higher level questions
+[00:11:29 -> 00:11:34]  that really challenge your clinical judgment abilities.
+[00:11:34 -> 00:11:36]  And as with the comp review book,
+[00:11:36 -> 00:11:40]  you can select farm questions based on body systems
+[00:11:40 -> 00:11:44]  such as cardiac meds, or even more specifically,
+[00:11:44 -> 00:11:47]  you can filter down to a medication classification
+[00:11:47 -> 00:11:49]  such as ACE inhibitors.
+[00:11:49 -> 00:11:52]  And there are well over 700 farm questions
+[00:11:52 -> 00:11:54]  in the RN and the PN Q&A books.
+[00:11:56 -> 00:11:58]  Then there's the online review,
+[00:11:58 -> 00:12:01]  which is designed based on the NCLEX test plan.
+[00:12:01 -> 00:12:04]  There's module content, excuse me,
+[00:12:04 -> 00:12:08]  module content reviews, lots of practice questions,
+[00:12:08 -> 00:12:12]  video lectures, self-check questions, plus much more.
+[00:12:12 -> 00:12:15]  And this is a great NCLEX prep tool.
+[00:12:15 -> 00:12:19]  And again, actually follows the NCLEX test plan.
+[00:12:19 -> 00:12:20]  So on this next slide,
+[00:12:20 -> 00:12:22]  we just wanted to quickly provide you
+[00:12:22 -> 00:12:26]  with a visual of what a farm chapter looks like
+[00:12:26 -> 00:12:27]  in the comprehensive review books
+[00:12:27 -> 00:12:30]  for both the RN and the PN.
+[00:12:30 -> 00:12:33]  So here we actually have an endocrine chapter
+[00:12:33 -> 00:12:37]  showing you some content on insulin, some boxes,
+[00:12:37 -> 00:12:41]  and a figure of insulin injection sites.
+[00:12:41 -> 00:12:43]  And then on this next slide,
+[00:12:43 -> 00:12:46]  we wanna show you a pharmacology chapter
+[00:12:46 -> 00:12:48]  in the strategies book.
+[00:12:48 -> 00:12:51]  And this page presents the differences
+[00:12:51 -> 00:12:55]  that Angela talked about between medications effects
+[00:12:55 -> 00:12:58]  and shows you many study tips
+[00:12:58 -> 00:13:01]  and provide you with a practice question.
+[00:13:01 -> 00:13:03]  So every question in this book
+[00:13:03 -> 00:13:07]  also provides a tip for the nursing student
+[00:13:07 -> 00:13:09]  that provides some key information
+[00:13:09 -> 00:13:11]  about the content of the question.
+[00:13:12 -> 00:13:14]  So now we're gonna move on to the next slide
+[00:13:14 -> 00:13:18]  and Angela is going to show you how to navigate and evolve.
+[00:13:19 -> 00:13:22]  So you can get those pharmacology questions that you need.
+[00:13:25 -> 00:13:28]  All right, so let me show you this here.
+[00:13:28 -> 00:13:33]  So this shows you what the Evolve resource screen looks like
+[00:13:34 -> 00:13:36]  and so once you get in here
+[00:13:36 -> 00:13:40]  and you log in using your Evolve username and password,
+[00:13:40 -> 00:13:41]  if you click study,
+[00:13:41 -> 00:13:45]  this is the study mode that I was referring to earlier,
+[00:13:45 -> 00:13:47]  you go to content area
+[00:13:49 -> 00:13:51]  and then we're talking about pharmacology.
+[00:13:51 -> 00:13:54]  So you hit the pharmacology dropdown
+[00:13:54 -> 00:13:57]  and you can see that it's organized
+[00:13:57 -> 00:14:00]  by body system for pharmacology.
+[00:14:00 -> 00:14:03]  And then we also take it one step further
+[00:14:03 -> 00:14:07]  and let's say you're working on cardiovascular medications
+[00:14:07 -> 00:14:11]  and you're gonna be tested on anticoagulants
+[00:14:11 -> 00:14:14]  and you're gonna be tested on beta blockers.
+[00:14:14 -> 00:14:17]  So then you can see you've got 54 practice questions
+[00:14:17 -> 00:14:21]  on those specific drug classifications
+[00:14:21 -> 00:14:25]  and students have told us that that's quite helpful
+[00:14:25 -> 00:14:28]  to be able to filter all the way down
+[00:14:28 -> 00:14:30]  to the drug classification
+[00:14:30 -> 00:14:34]  in terms of studying throughout their program.
+[00:14:34 -> 00:14:37]  And then just another quick example here,
+[00:14:37 -> 00:14:38]  let's say endocrine
+[00:14:39 -> 00:14:41]  and then you're gonna be doing insulin
+[00:14:41 -> 00:14:45]  and oral hypoglycemics for one of your exams.
+[00:14:45 -> 00:14:47]  So you can just study questions
+[00:14:47 -> 00:14:51]  on those specific medication classifications.
+[00:14:51 -> 00:14:56]  If you have an exam that's just on an entire body system,
+[00:14:56 -> 00:14:58]  then you could just focus on that as well.
+[00:15:00 -> 00:15:05]  All right, so we're gonna jump back into our presentation
+[00:15:06 -> 00:15:11]  and I'm gonna talk about a few very important things
+[00:15:12 -> 00:15:15]  before we start on our practice questions.
+[00:15:16 -> 00:15:20]  And we wanted to just remind you
+[00:15:20 -> 00:15:25]  that we have a list of the top 100 prescribed medications
+[00:15:25 -> 00:15:27]  in the United States.
+[00:15:27 -> 00:15:30]  And this is located on the last page
+[00:15:30 -> 00:15:32]  of the comprehensive review book.
+[00:15:32 -> 00:15:35]  And so be sure to review this
+[00:15:35 -> 00:15:38]  and be familiar with these medications.
+[00:15:38 -> 00:15:40]  And one thing I do wanna mention here
+[00:15:40 -> 00:15:45]  is that currently this list of the top 100 medications
+[00:15:46 -> 00:15:51]  is in the NCLEX-RN comprehensive review book
+[00:15:51 -> 00:15:54]  and it will be coming with the new edition
+[00:15:54 -> 00:15:58]  of the comp review for the NCLEX-PN.
+[00:15:58 -> 00:16:00]  So you'll be able to take advantage of that
+[00:16:00 -> 00:16:02]  when the new edition comes out.
+[00:16:03 -> 00:16:04]  All right, and then Linda,
+[00:16:04 -> 00:16:06]  I think you're gonna pick up from here.
+[00:16:08 -> 00:16:11]  Yes, this slide, we're very excited
+[00:16:11 -> 00:16:15]  to announce the publication of our new app.
+[00:16:15 -> 00:16:17]  So many students have been asking us
+[00:16:17 -> 00:16:20]  for an app for a while now.
+[00:16:20 -> 00:16:23]  And now we have the app to offer to you
+[00:16:23 -> 00:16:27]  as a way to prepare for your exams and the NCLEX.
+[00:16:27 -> 00:16:32]  And there are apps for both the RN and the PN resources.
+[00:16:32 -> 00:16:34]  So we encourage you all to take a moment
+[00:16:34 -> 00:16:38]  to download the Skyscape Saunders Review app
+[00:16:38 -> 00:16:40]  that's best suited for you.
+[00:16:40 -> 00:16:44]  And the QR code is here for you.
+[00:16:44 -> 00:16:46]  So there's practice questions
+[00:16:46 -> 00:16:49]  for all content areas on these apps.
+[00:16:49 -> 00:16:52]  But what we have is a pharmacology example
+[00:16:52 -> 00:16:54]  of what the app has to offer.
+[00:16:54 -> 00:16:56]  So you can see how to navigate
+[00:16:56 -> 00:17:00]  to the essential drugs from a list,
+[00:17:00 -> 00:17:04]  from the Q&A for the RN app home screen,
+[00:17:04 -> 00:17:08]  which will be the same process for any of the apps.
+[00:17:08 -> 00:17:13]  So you can click on each drug to see a broken down summary
+[00:17:13 -> 00:17:17]  of exactly what you will need to know on the NCLEX exam.
+[00:17:17 -> 00:17:20]  And as we've shown here, we have albuterol.
+[00:17:20 -> 00:17:25]  All of this information plus 400 practice questions
+[00:17:25 -> 00:17:29]  are included with the free version of the app.
+[00:17:29 -> 00:17:31]  Then you also have the option
+[00:17:31 -> 00:17:33]  to purchase the full version of the app
+[00:17:33 -> 00:17:36]  with thousands more practice questions
+[00:17:36 -> 00:17:38]  and additional content.
+[00:17:39 -> 00:17:43]  So as you can see, we've got lots of resources for you
+[00:17:43 -> 00:17:48]  to prepare for your nursing exams and the NCLEX.
+[00:17:48 -> 00:17:51]  So now we're gonna move on to some practice questions
+[00:17:51 -> 00:17:53]  and I'm gonna turn this over to Angela.
+[00:17:54 -> 00:17:57]  All right, let's jump right into this first practice question
+[00:17:57 -> 00:18:00]  on atorvastatin.
+[00:18:00 -> 00:18:01]  So I'll read the question first
+[00:18:01 -> 00:18:03]  and then Jenna will open up the polling
+[00:18:03 -> 00:18:06]  for you to practice the question.
+[00:18:06 -> 00:18:08]  Atorvastatin has been prescribed
+[00:18:08 -> 00:18:11]  and the nurse provides instructions to the client
+[00:18:11 -> 00:18:12]  about the medication.
+[00:18:13 -> 00:18:16]  Which statement by the client indicates the need
+[00:18:16 -> 00:18:17]  for further teaching?
+[00:18:17 -> 00:18:19]  So I'm gonna read it out loud for you.
+[00:18:19 -> 00:18:22]  So this is the patient's statement.
+[00:18:22 -> 00:18:24]  So the patient's statement says,
+[00:18:24 -> 00:18:27]  one, this medication will lower my cholesterol level.
+[00:18:27 -> 00:18:29]  Two, I need to have blood tests drawn
+[00:18:29 -> 00:18:32]  while I'm taking this medication.
+[00:18:32 -> 00:18:35]  Three, I won't need to be on a low fat diet
+[00:18:35 -> 00:18:37]  as long as I take this medication faithfully.
+[00:18:37 -> 00:18:40]  Or four, I need to talk to my doctor
+[00:18:40 -> 00:18:43]  before taking any over-the-counter medications.
+[00:18:48 -> 00:18:51]  Chose option three as the answer
+[00:18:51 -> 00:18:53]  and that in fact is the correct answer.
+[00:18:53 -> 00:18:55]  So very nice work on that.
+[00:18:55 -> 00:18:57]  So going over this a little bit,
+[00:18:57 -> 00:19:00]  atorvastatin is a reductase inhibitor
+[00:19:00 -> 00:19:02]  that's used to treat high cholesterol
+[00:19:02 -> 00:19:04]  and high triglyceride levels.
+[00:19:04 -> 00:19:07]  The client's instructed to follow a recommended diet,
+[00:19:07 -> 00:19:08]  usually a low fat diet
+[00:19:08 -> 00:19:12]  as an important component of the therapy.
+[00:19:12 -> 00:19:13]  Liver function tests
+[00:19:13 -> 00:19:17]  and cholesterol and triglyceride level determinations
+[00:19:17 -> 00:19:19]  will be performed periodically
+[00:19:19 -> 00:19:22]  while they're taking this medication.
+[00:19:22 -> 00:19:23]  And the client needs to be instructed
+[00:19:23 -> 00:19:25]  to consult with the physician
+[00:19:25 -> 00:19:28]  before taking any over-the-counter medications
+[00:19:28 -> 00:19:29]  because of that potential
+[00:19:29 -> 00:19:33]  for medication interactive effects to occur.
+[00:19:33 -> 00:19:36]  And so it's really important to note the strategic words
+[00:19:36 -> 00:19:40]  in the question, need for further teaching.
+[00:19:40 -> 00:19:42]  This phrase indicates a negative event query
+[00:19:42 -> 00:19:44]  and it asks you to select an option
+[00:19:44 -> 00:19:47]  that is an incorrect client statement.
+[00:19:47 -> 00:19:50]  So recalling the action of this medication
+[00:19:50 -> 00:19:51]  and using general guidelines
+[00:19:51 -> 00:19:53]  related to medication administration
+[00:19:53 -> 00:19:56]  will help to direct you to option three
+[00:19:56 -> 00:19:57]  as the correct option.
+[00:19:58 -> 00:20:03]  And then we have our next question on nitroglycerin.
+[00:20:04 -> 00:20:08]  This one happens to be a select all that apply question.
+[00:20:08 -> 00:20:09]  And so I don't believe we'll be able
+[00:20:09 -> 00:20:12]  to use the polling feature with this.
+[00:20:12 -> 00:20:14]  Do you have a poll?
+[00:20:14 -> 00:20:15]  Oh, we do have a poll.
+[00:20:15 -> 00:20:16]  Excellent, nevermind.
+[00:20:16 -> 00:20:19]  Disregard that, you can poll with this question.
+[00:20:19 -> 00:20:20]  So I'll go ahead and read it first
+[00:20:20 -> 00:20:21]  and then we'll open the poll.
+[00:20:22 -> 00:20:25]  A hospitalized client with coronary artery disease
+[00:20:25 -> 00:20:28]  complains of substernal chest pain.
+[00:20:28 -> 00:20:31]  After assessing the client's heart rate and blood pressure,
+[00:20:31 -> 00:20:33]  the nurse administers 0.4 milligrams
+[00:20:33 -> 00:20:36]  of nitroglycerin sublingually.
+[00:20:36 -> 00:20:38]  After five minutes, the client states,
+[00:20:38 -> 00:20:40]  my chest still hurts.
+[00:20:40 -> 00:20:42]  Which actions would the nurse take?
+[00:20:42 -> 00:20:44]  Select all that apply.
+[00:20:44 -> 00:20:46]  One, call a code blue.
+[00:20:46 -> 00:20:48]  Two, contact the client's family.
+[00:20:48 -> 00:20:51]  Three, assess the client's pain level.
+[00:20:51 -> 00:20:54]  Four, check the client's blood pressure.
+[00:20:54 -> 00:20:56]  Five, contact the primary healthcare provider.
+[00:20:56 -> 00:20:59]  And six, administer a second nitroglycerin,
+[00:20:59 -> 00:21:02]  0.4 milligrams sublingually.
+[00:21:02 -> 00:21:04]  All right, let's see how you did here.
+[00:21:04 -> 00:21:07]  So I'll start by telling you guys what the answer is.
+[00:21:07 -> 00:21:09]  The answer is gonna be option three,
+[00:21:09 -> 00:21:12]  assess the client's pain level.
+[00:21:12 -> 00:21:15]  Then option four, check the client's blood pressure.
+[00:21:15 -> 00:21:19]  And option six, administer a second nitroglycerin.
+[00:21:19 -> 00:21:22]  So it looks like about 90% went with option three,
+[00:21:22 -> 00:21:24]  89% went with option four.
+[00:21:24 -> 00:21:25]  And then option five,
+[00:21:25 -> 00:21:27]  check the patient's blood pressure.
+[00:21:27 -> 00:21:31]  And option six, administer a second nitroglycerin.
+[00:21:31 -> 00:21:33]  So it looks like 89% with option four
+[00:21:33 -> 00:21:35]  and then 82% with option six.
+[00:21:35 -> 00:21:38]  And then also option five did seem to be
+[00:21:38 -> 00:21:41]  an attractive option as well at 45%.
+[00:21:41 -> 00:21:44]  So let's talk about this a little more.
+[00:21:44 -> 00:21:47]  First, the usual guidelines for administering nitroglycerin
+[00:21:47 -> 00:21:51]  to a hospitalized client includes administering one tablet
+[00:21:51 -> 00:21:54]  every five minutes as needed for chest pain
+[00:21:54 -> 00:21:57]  for a total amount of three tablets.
+[00:21:57 -> 00:22:00]  If the client does not obtain relief
+[00:22:00 -> 00:22:02]  after taking a third dose of nitroglycerin,
+[00:22:02 -> 00:22:07]  that's when the healthcare provider needs to be notified.
+[00:22:07 -> 00:22:09]  Because they're still complaining of chest pain,
+[00:22:09 -> 00:22:12]  the nurse would administer a second tablet
+[00:22:12 -> 00:22:13]  and then would assess their pain level
+[00:22:13 -> 00:22:15]  and check their blood pressure
+[00:22:15 -> 00:22:17]  before administering each dose
+[00:22:17 -> 00:22:21]  because of the fact that it can cause hypotension.
+[00:22:21 -> 00:22:22]  There's no data in the question
+[00:22:22 -> 00:22:25]  that indicates the need to call a code blue.
+[00:22:25 -> 00:22:26]  And then in addition,
+[00:22:26 -> 00:22:29]  it's not necessary to contact the client's family
+[00:22:29 -> 00:22:31]  unless they've requested this.
+[00:22:31 -> 00:22:34]  And so when answering select all that apply questions,
+[00:22:34 -> 00:22:38]  you want to use the yes or no approach for each option,
+[00:22:38 -> 00:22:41]  focusing on the data in the question,
+[00:22:41 -> 00:22:45]  using the yes, no approach as you read each option.
+[00:22:45 -> 00:22:47]  And then for this particular question,
+[00:22:47 -> 00:22:50]  you can also use the steps of the nursing process
+[00:22:50 -> 00:22:53]  to determine that assessing the client's pain level
+[00:22:53 -> 00:22:57]  and checking their blood pressure are appropriate actions.
+[00:22:57 -> 00:23:00]  And then recalling the usual guidelines
+[00:23:00 -> 00:23:02]  for administering nitroglycerin tablets
+[00:23:02 -> 00:23:06]  will also assist you in determining an appropriate action
+[00:23:06 -> 00:23:10]  is to administer a second one in this scenario.
+[00:23:11 -> 00:23:12]  All right, so now we've got a question
+[00:23:12 -> 00:23:15]  that focuses on ferrous sulfate.
+[00:23:16 -> 00:23:19]  A client is diagnosed with iron deficiency anemia
+[00:23:19 -> 00:23:22]  and ferrous sulfate is prescribed.
+[00:23:22 -> 00:23:23]  The nurse would tell the client
+[00:23:23 -> 00:23:27]  that it's best to take the medication with which food?
+[00:23:27 -> 00:23:29]  One, milk, two, tomato juice,
+[00:23:29 -> 00:23:33]  three, seltzer water or four, pineapple juice.
+[00:23:43 -> 00:23:45]  All right, interesting.
+[00:23:45 -> 00:23:48]  So it looks like majority wanted to go with option one,
+[00:23:48 -> 00:23:53]  46% wanted to go with milk while only 18% tomato juice,
+[00:23:53 -> 00:23:57]  10% with seltzer water and then 25% with pineapple juice.
+[00:23:57 -> 00:23:59]  That's interesting.
+[00:23:59 -> 00:24:02]  So the answer here is actually going to be option two.
+[00:24:02 -> 00:24:05]  So ferrous sulfate, it's an iron preparation
+[00:24:05 -> 00:24:09]  and the client is instructed to take this medication
+[00:24:09 -> 00:24:12]  with orange juice or with another type of vitamin C
+[00:24:12 -> 00:24:16]  containing product or a product high in ascorbic acid
+[00:24:16 -> 00:24:18]  such as tomato juice,
+[00:24:18 -> 00:24:20]  because this will help to increase
+[00:24:20 -> 00:24:22]  the absorption of the iron.
+[00:24:23 -> 00:24:26]  You also want to know the strategic word best.
+[00:24:26 -> 00:24:29]  Among the options presented,
+[00:24:29 -> 00:24:31]  the tomato juice is the highest in vitamin C
+[00:24:31 -> 00:24:33]  and ascorbic acid.
+[00:24:33 -> 00:24:37]  There's approximately 25% vitamin C
+[00:24:37 -> 00:24:38]  in a glass of pineapple juice,
+[00:24:38 -> 00:24:43]  whereas there's about 75% in a glass of tomato juice.
+[00:24:43 -> 00:24:47]  And actually milk inhibits the absorption of iron
+[00:24:47 -> 00:24:50]  and seltzer water doesn't contain any vitamin C.
+[00:24:51 -> 00:24:55]  All right, so then next we have a question on phenytoin
+[00:24:55 -> 00:24:58]  and an adverse effect of this medication.
+[00:24:58 -> 00:25:00]  A client diagnosed with a seizure disorder
+[00:25:00 -> 00:25:05]  is receiving phenytoin 100 milligrams three times daily.
+[00:25:05 -> 00:25:07]  Which finding indicates that the client
+[00:25:07 -> 00:25:10]  is experiencing an adverse effect of the medication?
+[00:25:10 -> 00:25:14]  One, fatigue, two, dizziness, three, drowsiness
+[00:25:14 -> 00:25:16]  or four, bleeding gums?
+[00:25:21 -> 00:25:24]  All right, so it looks like 69%
+[00:25:24 -> 00:25:26]  shows the correct answer here,
+[00:25:26 -> 00:25:28]  which is option number four.
+[00:25:28 -> 00:25:31]  So phenytoin, also known as Dilantin,
+[00:25:31 -> 00:25:33]  is an anti-seizure medication.
+[00:25:33 -> 00:25:34]  If you didn't know this,
+[00:25:34 -> 00:25:36]  you can focus on the data in the question
+[00:25:36 -> 00:25:39]  and know that a diagnosis of seizure disorder
+[00:25:39 -> 00:25:42]  is provided there for you.
+[00:25:42 -> 00:25:44]  And so if there's a diagnosis noted
+[00:25:44 -> 00:25:46]  in any pharmacology question,
+[00:25:46 -> 00:25:48]  this can help you to determine
+[00:25:48 -> 00:25:51]  if you didn't know or what it's being used for.
+[00:25:51 -> 00:25:55]  A very important adverse effect specific to phenytoin
+[00:25:55 -> 00:25:57]  that you're likely to be asked about
+[00:25:57 -> 00:26:00]  is that it causes gingival hyperplasia.
+[00:26:00 -> 00:26:03]  Gingival hyperplasia causes bleeding,
+[00:26:03 -> 00:26:05]  tenderness or swelling of the gums.
+[00:26:05 -> 00:26:10]  And so be sure to remember this about this medication.
+[00:26:10 -> 00:26:12]  Fatigue and drowsiness are kind of comparable
+[00:26:12 -> 00:26:16]  or alike to the symptoms of a seizure disorder.
+[00:26:16 -> 00:26:20]  And so you can eliminate these as adverse effects.
+[00:26:20 -> 00:26:21]  Dizziness may occur,
+[00:26:21 -> 00:26:24]  but in this case is not an adverse effect.
+[00:26:24 -> 00:26:26]  So be sure to know what the question
+[00:26:26 -> 00:26:28]  is specifically asking about.
+[00:26:28 -> 00:26:29]  And in this question,
+[00:26:29 -> 00:26:33]  you can see it's asking about an adverse effect.
+[00:26:33 -> 00:26:36]  All right, so next, Linda's going to go over a question
+[00:26:36 -> 00:26:38]  about amoxicillin.
+[00:26:38 -> 00:26:39]  Thank you, Angela.
+[00:26:39 -> 00:26:43]  Okay, on this slide, we have another question
+[00:26:43 -> 00:26:44]  about an adverse effect
+[00:26:44 -> 00:26:48]  and the medication is amoxicillin.
+[00:26:48 -> 00:26:49]  So a client diagnosed
+[00:26:49 -> 00:26:51]  with a genital urinary tract infection
+[00:26:51 -> 00:26:56]  is receiving amoxicillin 500 milligrams every eight hours.
+[00:26:57 -> 00:27:01]  Which sign or symptom would indicate to the nurse
+[00:27:01 -> 00:27:04]  that the client is experiencing an adverse effect
+[00:27:04 -> 00:27:06]  related to the medication?
+[00:27:06 -> 00:27:08]  One, nausea.
+[00:27:08 -> 00:27:09]  Two, headache.
+[00:27:09 -> 00:27:11]  Three, nausea.
+[00:27:11 -> 00:27:12]  One, nausea.
+[00:27:12 -> 00:27:14]  Two, headache.
+[00:27:14 -> 00:27:15]  Three, hypertension.
+[00:27:15 -> 00:27:17]  And four, watery diarrhea.
+[00:27:28 -> 00:27:31]  Okay, well, I think you did great with this question.
+[00:27:31 -> 00:27:35]  61% of you selected option four
+[00:27:35 -> 00:27:38]  and option four is the correct answer.
+[00:27:38 -> 00:27:41]  Now, what you want to remember is that amoxicillin
+[00:27:41 -> 00:27:44]  is an antimicrobial or an antibiotic
+[00:27:44 -> 00:27:49]  and adverse effects of many of the antibiotics
+[00:27:49 -> 00:27:52]  include super infection,
+[00:27:52 -> 00:27:57]  such as potentially fatal antibiotic-associated colitis.
+[00:27:57 -> 00:28:02]  And that results because of the altered bacterial balance
+[00:28:03 -> 00:28:07]  that occurs in the intestines when you take antibiotics.
+[00:28:07 -> 00:28:11]  And some signs and symptoms would be abdominal cramps,
+[00:28:11 -> 00:28:14]  severe watery diarrhea, and fever.
+[00:28:14 -> 00:28:17]  The side effects of this medication
+[00:28:17 -> 00:28:21]  include gastrointestinal disturbances,
+[00:28:21 -> 00:28:24]  such as a mild diarrhea, perhaps,
+[00:28:24 -> 00:28:26]  and nausea and vomiting, headache,
+[00:28:26 -> 00:28:31]  and sometimes oral or vaginal candidiasis.
+[00:28:31 -> 00:28:35]  Hypertension is not associated with the use of this med.
+[00:28:35 -> 00:28:37]  And then now note that the question, again,
+[00:28:37 -> 00:28:40]  is asking for that adverse effect.
+[00:28:40 -> 00:28:43]  And if you can remember that these antibiotics
+[00:28:43 -> 00:28:45]  have a tendency to produce
+[00:28:45 -> 00:28:50]  these severe gastrointestinal disturbances,
+[00:28:50 -> 00:28:53]  and you note the word watery in option four,
+[00:28:53 -> 00:28:55]  that's gonna really help you
+[00:28:55 -> 00:28:57]  answer this question correctly.
+[00:28:58 -> 00:29:01]  Okay, on the next slide, we have a question on levodopa.
+[00:29:02 -> 00:29:05]  And we're gonna look at our strategic word here.
+[00:29:05 -> 00:29:07]  The nurse is caring for a client
+[00:29:07 -> 00:29:10]  diagnosed with Parkinson's disease
+[00:29:10 -> 00:29:13]  who has recently been prescribed levodopa.
+[00:29:13 -> 00:29:18]  What is the most important assessment?
+[00:29:18 -> 00:29:20]  That's probably assessment.
+[00:29:20 -> 00:29:22]  What is most important to monitor, sorry,
+[00:29:22 -> 00:29:25]  before ambulating the client?
+[00:29:25 -> 00:29:27]  One, the client's history of falls.
+[00:29:27 -> 00:29:31]  Two, the client's orthostatic vital signs.
+[00:29:31 -> 00:29:34]  Three, assistive devices used by the client.
+[00:29:34 -> 00:29:37]  And four, the degree of intention tremors
+[00:29:37 -> 00:29:39]  exhibited by the client.
+[00:29:46 -> 00:29:50]  Okay, looks like you did great with this question.
+[00:29:50 -> 00:29:52]  The answer is option two,
+[00:29:52 -> 00:29:56]  and 58% of you did select the correct answer.
+[00:29:56 -> 00:30:00]  So your clients with Parkinson's disease
+[00:30:00 -> 00:30:01]  are at risk for postural,
+[00:30:01 -> 00:30:04]  also known as orthostatic hypotension
+[00:30:04 -> 00:30:07]  from the disease process.
+[00:30:07 -> 00:30:09]  And this problem is exasperated
+[00:30:09 -> 00:30:11]  with the introduction of levodopa
+[00:30:11 -> 00:30:16]  because levodopa can also cause postural hypotension.
+[00:30:17 -> 00:30:20]  So this places the client at risk for falls.
+[00:30:20 -> 00:30:22]  And although history of falls
+[00:30:22 -> 00:30:24]  and knowledge of the client's use
+[00:30:24 -> 00:30:27]  of assistive devices is helpful,
+[00:30:27 -> 00:30:30]  it's not the most important piece of data
+[00:30:30 -> 00:30:33]  on the basis of the information in the question.
+[00:30:33 -> 00:30:35]  And then it's important to remember
+[00:30:35 -> 00:30:37]  that clients with Parkinson's disease
+[00:30:37 -> 00:30:42]  generally have resting tremors, not intentional tremors.
+[00:30:42 -> 00:30:47]  So know those strategic words most important.
+[00:30:47 -> 00:30:49]  Remember that postural hypotension
+[00:30:49 -> 00:30:51]  from the options provided
+[00:30:51 -> 00:30:55]  presents the greatest safety risk to the client.
+[00:30:55 -> 00:30:59]  And also use your ABCs, airway, breathing, and circulation.
+[00:30:59 -> 00:31:02]  And this would also help you answer this question correctly.
+[00:31:03 -> 00:31:04]  Okay, on the next slide,
+[00:31:04 -> 00:31:07]  we have a question on furosemide
+[00:31:07 -> 00:31:09]  and strategic words here again.
+[00:31:09 -> 00:31:12]  A client experiencing difficulty breathing
+[00:31:12 -> 00:31:14]  and increased lung congestion
+[00:31:14 -> 00:31:18]  was prescribed furosemide 40 milligrams
+[00:31:18 -> 00:31:20]  to be given intravenously.
+[00:31:20 -> 00:31:23]  After one hour, which finding indicates
+[00:31:23 -> 00:31:25]  that the therapy has been effective.
+[00:31:25 -> 00:31:29]  One, the lungs are clear upon auscultation.
+[00:31:29 -> 00:31:34]  Two, the urine output has increased by 400 ml.
+[00:31:34 -> 00:31:39]  Three, the serum potassium has decreased from 4.7 to 4.1.
+[00:31:41 -> 00:31:44]  And four, the blood pressure has decreased
+[00:31:44 -> 00:31:49]  from 118 over 64 to 106 over 62.
+[00:31:53 -> 00:31:58]  Okay, you did really great with this one.
+[00:32:03 -> 00:32:08]  Also 66% of you selected option one,
+[00:32:08 -> 00:32:10]  which is the correct option.
+[00:32:10 -> 00:32:12]  So let's take a look at this.
+[00:32:12 -> 00:32:15]  So furosemide is the generic name for Lasix
+[00:32:15 -> 00:32:19]  and it's a potassium wasting diuretic.
+[00:32:19 -> 00:32:22]  And in this situation, furosemide was given
+[00:32:22 -> 00:32:26]  because the client was experiencing difficulty breathing
+[00:32:26 -> 00:32:29]  and had increased pulmonary congestion.
+[00:32:29 -> 00:32:34]  So although all notations in the options may occur,
+[00:32:35 -> 00:32:37]  option one is the reason
+[00:32:37 -> 00:32:40]  that the furosemide was administered.
+[00:32:40 -> 00:32:42]  So remember that when a diuretic is administered,
+[00:32:42 -> 00:32:45]  urine output will increase.
+[00:32:45 -> 00:32:47]  And also remember that the blood pressure will drop
+[00:32:47 -> 00:32:50]  as a result of fluid loss.
+[00:32:50 -> 00:32:54]  And with furosemide, it's very important to remember
+[00:32:54 -> 00:32:55]  that the potassium level can drop
+[00:32:55 -> 00:33:00]  because this medication is a potassium wasting one.
+[00:33:00 -> 00:33:03]  However, even though the potassium level dropped
+[00:33:03 -> 00:33:05]  in this option three,
+[00:33:05 -> 00:33:10]  it is still within the normal range of 3.5 to 5.0.
+[00:33:11 -> 00:33:14]  So these are all important points about the medication,
+[00:33:14 -> 00:33:17]  but again, focus on the data in the question,
+[00:33:17 -> 00:33:19]  note the word effective
+[00:33:19 -> 00:33:22]  and note the relationship between the words
+[00:33:22 -> 00:33:27]  pulmonary congestion in the question and option one.
+[00:33:28 -> 00:33:31]  Okay, on this next slide,
+[00:33:31 -> 00:33:33]  we have a question on metformin
+[00:33:33 -> 00:33:36]  and a strategic word in this question.
+[00:33:36 -> 00:33:40]  The nurse is assessing a client taking metformin.
+[00:33:40 -> 00:33:43]  Which finding requires immediate notification
+[00:33:43 -> 00:33:46]  of the primary healthcare provider?
+[00:33:46 -> 00:33:48]  One, hyperventilation.
+[00:33:48 -> 00:33:50]  Two, abdominal bloating.
+[00:33:50 -> 00:33:53]  Three, complaints of diarrhea.
+[00:33:53 -> 00:33:57]  And four, complaints of unpleasant metallic taste.
+[00:34:06 -> 00:34:07]  Hey, you did great on this one also.
+[00:34:07 -> 00:34:11]  52% of you selected option one,
+[00:34:11 -> 00:34:13]  which is the correct answer.
+[00:34:13 -> 00:34:15]  Let's take a look at this.
+[00:34:15 -> 00:34:18]  Now, metformin, you may also know this as glucophage
+[00:34:18 -> 00:34:23]  and it's classified as an oral hypoglycemic
+[00:34:23 -> 00:34:26]  and it acts by improving glycemic control in diabetics.
+[00:34:26 -> 00:34:29]  But a serious and potentially fatal complication
+[00:34:29 -> 00:34:32]  of the medication is lactic acidosis.
+[00:34:32 -> 00:34:36]  And this is manifested by hyperventilation,
+[00:34:36 -> 00:34:38]  malaise, drowsiness,
+[00:34:38 -> 00:34:43]  and the condition could advance to cardiovascular collapse,
+[00:34:43 -> 00:34:46]  causing some shock if it's not recognized
+[00:34:46 -> 00:34:48]  and treated immediately.
+[00:34:48 -> 00:34:51]  So abdominal bloating, diarrhea,
+[00:34:51 -> 00:34:54]  and an unpleasant metallic taste are side effects
+[00:34:54 -> 00:34:57]  associated with this medication.
+[00:34:57 -> 00:34:59]  But again, look at the question,
+[00:34:59 -> 00:35:03]  note the word immediate notification
+[00:35:03 -> 00:35:05]  of the primary healthcare provider.
+[00:35:05 -> 00:35:06]  So this should be a clue to you
+[00:35:06 -> 00:35:07]  that you're looking for an option
+[00:35:07 -> 00:35:12]  that identifies a serious concern or an adverse effect.
+[00:35:12 -> 00:35:13]  And with this question,
+[00:35:13 -> 00:35:16]  you could also use the ABCs,
+[00:35:16 -> 00:35:20]  airway, breathing, and circulation to answer the question.
+[00:35:21 -> 00:35:22]  Okay, on the next slide,
+[00:35:22 -> 00:35:26]  we have a question on the corticosteroids.
+[00:35:26 -> 00:35:27]  I just wanted to clarify one thing.
+[00:35:27 -> 00:35:31]  There was some confusion that I had in the poll,
+[00:35:31 -> 00:35:35]  mistyped abdominal bloating as abdominal bleeding,
+[00:35:35 -> 00:35:36]  but just wanted to clarify
+[00:35:36 -> 00:35:39]  that should have been abdominal bloating in the poll, so.
+[00:35:40 -> 00:35:42]  Thank you, Jenna.
+[00:35:42 -> 00:35:46]  Yes, abdominal bloating is associated with this medication.
+[00:35:46 -> 00:35:49]  Abdominal bleeding is not at all.
+[00:35:49 -> 00:35:51]  Okay, so it is abdominal bloating
+[00:35:51 -> 00:35:53]  that these patients could have
+[00:35:53 -> 00:35:55]  when they're taking this medication.
+[00:35:56 -> 00:35:57]  But that's a side effect
+[00:35:57 -> 00:36:01]  and wouldn't require immediate notification
+[00:36:01 -> 00:36:05]  of the healthcare provider, primary healthcare provider.
+[00:36:05 -> 00:36:06]  Okay, so on this slide,
+[00:36:06 -> 00:36:10]  we have a question on the corticosteroid prednisone.
+[00:36:10 -> 00:36:12]  The nurse provides instructions to a client
+[00:36:12 -> 00:36:15]  who has a prescription for long-term prednisone.
+[00:36:15 -> 00:36:18]  Which instruction would the nurse include?
+[00:36:18 -> 00:36:20]  One, take the medication at night
+[00:36:20 -> 00:36:23]  in order to enhance sleep.
+[00:36:23 -> 00:36:26]  Two, sometimes a sore throat may be felt,
+[00:36:26 -> 00:36:28]  but this is not a concern.
+[00:36:28 -> 00:36:32]  Three, the medication should not be stopped abruptly
+[00:36:32 -> 00:36:34]  because withdrawal symptoms can occur.
+[00:36:34 -> 00:36:39]  And four, sudden weight gain is normal with this medication
+[00:36:39 -> 00:36:41]  and does not need to be reported
+[00:36:41 -> 00:36:44]  unless it becomes extremely bothersome.
+[00:36:55 -> 00:36:57]  Okay, let's see here.
+[00:36:57 -> 00:36:59]  Let me just scroll down.
+[00:36:59 -> 00:37:00]  You guys did great.
+[00:37:00 -> 00:37:04]  82% of you selected option three
+[00:37:04 -> 00:37:07]  and option three is the correct answer.
+[00:37:07 -> 00:37:08]  Okay, great.
+[00:37:08 -> 00:37:10]  So note what the question says,
+[00:37:10 -> 00:37:14]  long-term prednisone and client instructions.
+[00:37:14 -> 00:37:17]  Now we know that prednisone is a corticosteroid.
+[00:37:17 -> 00:37:20]  It inhibits the body's inflammatory response.
+[00:37:20 -> 00:37:25]  Now a little tip, most of the corticosteroid names
+[00:37:25 -> 00:37:28]  end in the letters S-O-N-E.
+[00:37:28 -> 00:37:32]  So this is one way to recognize your corticosteroids.
+[00:37:32 -> 00:37:34]  Now withdrawal symptoms can occur
+[00:37:34 -> 00:37:38]  if the medication is abruptly discontinued.
+[00:37:38 -> 00:37:42]  So the client needs to be weaned off this medication,
+[00:37:42 -> 00:37:44]  especially if the medication
+[00:37:44 -> 00:37:47]  has been taken on a long-term basis.
+[00:37:47 -> 00:37:49]  So the nurse should teach the client
+[00:37:49 -> 00:37:53]  to take this medication early in the morning
+[00:37:53 -> 00:37:56]  in order to mimic the body's natural burst
+[00:37:56 -> 00:37:58]  of a corticosteroid.
+[00:37:58 -> 00:38:02]  So morning is the best time for taking this med,
+[00:38:02 -> 00:38:04]  not at night.
+[00:38:04 -> 00:38:07]  And additionally, the medication can cause insomnia.
+[00:38:08 -> 00:38:10]  Taking it at night is really not a great thing.
+[00:38:10 -> 00:38:13]  A sore throat and sudden weight gain
+[00:38:13 -> 00:38:16]  are adverse effects associated
+[00:38:16 -> 00:38:18]  with the use of this medication,
+[00:38:18 -> 00:38:21]  and they should be reported to the physician immediately.
+[00:38:22 -> 00:38:26]  And just a few other points to remember about prednisone
+[00:38:26 -> 00:38:31]  is that it can cause elevated glucose levels,
+[00:38:31 -> 00:38:34]  and it can also cause hypokalemia.
+[00:38:34 -> 00:38:38]  So the client with diabetes who's taking prednisone
+[00:38:38 -> 00:38:41]  will need to be closely monitored,
+[00:38:41 -> 00:38:43]  and adjustments in insulin may need to be made
+[00:38:43 -> 00:38:46]  while they're taking the medication.
+[00:38:46 -> 00:38:49]  And the client at risk for hypokalemia,
+[00:38:49 -> 00:38:54]  such as the client taking a potassium-wasting diuretic,
+[00:38:54 -> 00:38:56]  will need to have their potassium levels
+[00:38:56 -> 00:38:58]  monitored very closely.
+[00:38:59 -> 00:39:01]  Okay, so on the next slide,
+[00:39:01 -> 00:39:04]  we have a question on the anticoagulant
+[00:39:05 -> 00:39:08]  and we have a negative event query here.
+[00:39:08 -> 00:39:12]  So a client will be taking warfarin sodium at home
+[00:39:12 -> 00:39:14]  on a daily basis.
+[00:39:14 -> 00:39:17]  The nurse provides instructions about the medication
+[00:39:17 -> 00:39:20]  and determines that further teaching is needed
+[00:39:20 -> 00:39:23]  if the client makes which statement?
+[00:39:23 -> 00:39:27]  One, I need to have blood levels tested frequently.
+[00:39:27 -> 00:39:30]  Two, I need to increase foods in my diet
+[00:39:30 -> 00:39:32]  that are high in vitamin K.
+[00:39:32 -> 00:39:35]  Three, this medication thins my blood
+[00:39:35 -> 00:39:38]  and then it clots more slowly.
+[00:39:38 -> 00:39:41]  And four, if I notice any bleeding or bruising,
+[00:39:41 -> 00:39:43]  I need to call my doctor.
+[00:39:53 -> 00:39:55]  Okay, great work again.
+[00:39:57 -> 00:40:00]  85% of you selected option two,
+[00:40:00 -> 00:40:04]  and option two is the correct answer.
+[00:40:04 -> 00:40:08]  So warfarin is also known as Coumadin
+[00:40:08 -> 00:40:10]  and it's an oral anticoagulant
+[00:40:10 -> 00:40:14]  that is used mainly to prevent any thrombotic events
+[00:40:14 -> 00:40:18]  such as thrombophlebitis or pulmonary emboli
+[00:40:18 -> 00:40:22]  or any embolism formation caused by atrial fibrillation
+[00:40:22 -> 00:40:24]  or even some other disorders.
+[00:40:24 -> 00:40:28]  And oral anticoagulants prolong the clotting time
+[00:40:28 -> 00:40:32]  and they're monitored by the prothrombin time
+[00:40:32 -> 00:40:36]  and the international normalized ratio or the INR.
+[00:40:36 -> 00:40:40]  Client education should include signs and symptoms
+[00:40:40 -> 00:40:44]  of adverse effects primarily bleeding
+[00:40:44 -> 00:40:46]  and dietary limitations
+[00:40:46 -> 00:40:49]  such as limiting foods high in vitamin K
+[00:40:49 -> 00:40:53]  because foods high in vitamin K increase the clotting time.
+[00:40:54 -> 00:40:57]  Some of these foods are leafy green vegetables,
+[00:40:57 -> 00:41:00]  cheese, egg yolks, things like that.
+[00:41:00 -> 00:41:03]  So with this question, you need to be sure
+[00:41:03 -> 00:41:05]  that you know the strategic words,
+[00:41:05 -> 00:41:07]  further teaching is needed,
+[00:41:07 -> 00:41:11]  and these words indicate your negative event query
+[00:41:11 -> 00:41:14]  and ask you again to select the option
+[00:41:14 -> 00:41:17]  that's an incorrect client statement.
+[00:41:17 -> 00:41:21]  So recalling that warfarin is an anticoagulant
+[00:41:21 -> 00:41:23]  will help you answer
+[00:41:23 -> 00:41:26]  and assist in eliminating options one, three, and four.
+[00:41:26 -> 00:41:31]  And also remembering the role that vitamin K plays
+[00:41:31 -> 00:41:35]  in the clotting mechanisms will help direct you
+[00:41:35 -> 00:41:38]  to the option that indicates the need for further teaching.
+[00:41:40 -> 00:41:42]  Okay, on this next slide,
+[00:41:42 -> 00:41:46]  we have a question on morphine sulfate
+[00:41:46 -> 00:41:48]  and we have a strategic word here in the question.
+[00:41:48 -> 00:41:51]  So a client is receiving morphine sulfate
+[00:41:51 -> 00:41:56]  via a patient controlled analgesia pump.
+[00:41:56 -> 00:41:59]  What would the nurse check initially
+[00:41:59 -> 00:42:01]  when assessing the client?
+[00:42:01 -> 00:42:04]  One, a PCA pump, two, temperature,
+[00:42:04 -> 00:42:08]  three, urine output, and four, respiratory status.
+[00:42:17 -> 00:42:20]  Okay, awesome work.
+[00:42:20 -> 00:42:23]  96% of you selected the correct answer,
+[00:42:23 -> 00:42:27]  which is option four, respiratory status.
+[00:42:27 -> 00:42:29]  So what we really wanna remember about morphine
+[00:42:29 -> 00:42:33]  is that it depresses respirations.
+[00:42:33 -> 00:42:35]  That's the key point to remember.
+[00:42:35 -> 00:42:38]  Test questions about morphine
+[00:42:38 -> 00:42:40]  that you're going to see on your nursing exams
+[00:42:40 -> 00:42:44]  or on the NCLEX are gonna focus around that point.
+[00:42:44 -> 00:42:46]  So the nurse monitors the respiratory status
+[00:42:46 -> 00:42:50]  of the client receiving morphine very closely.
+[00:42:50 -> 00:42:53]  And you wanna check the client
+[00:42:53 -> 00:42:56]  before you check a piece of machinery.
+[00:42:56 -> 00:42:59]  So that's another important point to keep in mind.
+[00:42:59 -> 00:43:02]  So note the word initially,
+[00:43:02 -> 00:43:05]  use the ABCs, airway, breathing, and circulation
+[00:43:05 -> 00:43:08]  to help guide you to the correct option.
+[00:43:08 -> 00:43:11]  And although options one, two, and three
+[00:43:11 -> 00:43:14]  may be a part of the assessment,
+[00:43:14 -> 00:43:17]  option four identifies the priority,
+[00:43:17 -> 00:43:20]  so thus is the initial nursing action.
+[00:43:22 -> 00:43:24]  Okay, on this next slide,
+[00:43:24 -> 00:43:26]  we're gonna turn this over to Angela.
+[00:43:27 -> 00:43:31]  And go ahead, you're all set.
+[00:43:31 -> 00:43:32]  Thank you, Linda.
+[00:43:32 -> 00:43:33]  You're welcome.
+[00:43:33 -> 00:43:35]  All right, next question.
+[00:43:35 -> 00:43:39]  A client has a prescription for ketoconazole.
+[00:43:39 -> 00:43:41]  Which instruction would the nurse teach the client
+[00:43:41 -> 00:43:44]  to follow while taking this medication?
+[00:43:44 -> 00:43:47]  One, avoid exposure to sunlight.
+[00:43:47 -> 00:43:50]  Two, limit alcohol to two ounces per day.
+[00:43:50 -> 00:43:53]  Three, take the medication with an antacid.
+[00:43:53 -> 00:43:56]  Or four, take the medication on an empty stomach.
+[00:44:04 -> 00:44:06]  All right, you guys did fantastic with this one.
+[00:44:06 -> 00:44:09]  69% of you chose option one,
+[00:44:09 -> 00:44:12]  which is in fact the correct answer.
+[00:44:12 -> 00:44:15]  So for this question, we want you to focus on the subject,
+[00:44:15 -> 00:44:19]  which is client instructions for this medication.
+[00:44:19 -> 00:44:23]  Ketoconazole is an antimicrobial,
+[00:44:23 -> 00:44:27]  and it's further classified as an antifungal medication.
+[00:44:27 -> 00:44:30]  The client should avoid exposure to sunlight
+[00:44:30 -> 00:44:33]  because the medication increases photosensitivity.
+[00:44:33 -> 00:44:37]  This is an important point to remember about antimicrobials.
+[00:44:37 -> 00:44:41]  And remember, you guys did good, no alcohol on the exam.
+[00:44:41 -> 00:44:44]  In addition, the client needs to be instructed
+[00:44:44 -> 00:44:46]  to avoid the concurrent use of alcohol
+[00:44:46 -> 00:44:50]  because this medication is also hepatotoxic.
+[00:44:50 -> 00:44:53]  Antacids should be avoided for two hours
+[00:44:53 -> 00:44:55]  after the medication is taken
+[00:44:55 -> 00:44:59]  because gastric acid is needed to activate the medication.
+[00:44:59 -> 00:45:01]  This medication should be taken with food
+[00:45:01 -> 00:45:04]  to prevent GI disturbances.
+[00:45:04 -> 00:45:07]  And so just remember to use those general guidelines
+[00:45:07 -> 00:45:10]  related to medication administration
+[00:45:10 -> 00:45:13]  to eliminate taking the medication with some alcohol
+[00:45:13 -> 00:45:16]  and taking the medication with an antacid.
+[00:45:16 -> 00:45:18]  And then from the remaining options,
+[00:45:18 -> 00:45:20]  it's necessary to know that the medication
+[00:45:20 -> 00:45:23]  causes a photosensitivity reaction
+[00:45:23 -> 00:45:26]  and should be taken with food because of the GI disturbances.
+[00:45:26 -> 00:45:28]  Nice work on that.
+[00:45:28 -> 00:45:32]  Next, we have a question on a monoamine oxidase inhibitor.
+[00:45:32 -> 00:45:35]  It's a select-all-that-apply question.
+[00:45:35 -> 00:45:38]  A client's been prescribed a monoamine oxidase inhibitor,
+[00:45:38 -> 00:45:40]  or MAOI.
+[00:45:40 -> 00:45:41]  The nurse would tell the client
+[00:45:41 -> 00:45:44]  that which foods are acceptable to consume?
+[00:45:44 -> 00:45:46]  Select-all-that-apply.
+[00:45:46 -> 00:45:53]  1. Figs, 2. Lemon, 3. Bananas, 4. Oranges, 5. Avocado,
+[00:45:53 -> 00:45:55]  and 6. Summer squash.
+[00:46:05 -> 00:46:07]  All right, so it looks like we've got...
+[00:46:07 -> 00:46:09]  We're kind of across the board here,
+[00:46:09 -> 00:46:12]  so let's just go over the correct answers.
+[00:46:12 -> 00:46:15]  The answer is going to be option 2, lemon,
+[00:46:15 -> 00:46:21]  option 4, oranges, and then option 6, summer squash.
+[00:46:21 -> 00:46:24]  So if you focus on the subject of the question,
+[00:46:24 -> 00:46:30]  which is client instructions about foods to eat with an MAOI,
+[00:46:30 -> 00:46:32]  the client taking an MAOI medication
+[00:46:32 -> 00:46:36]  should be advised to avoid eating foods
+[00:46:36 -> 00:46:38]  that are high in tyramine.
+[00:46:38 -> 00:46:42]  The tyramine in foods reacts with the medication,
+[00:46:42 -> 00:46:44]  which can cause a hypertensive crisis,
+[00:46:44 -> 00:46:47]  and it could prove to be fatal.
+[00:46:47 -> 00:46:50]  Fruits and vegetables are naturally low in tyramine,
+[00:46:50 -> 00:46:52]  with the exception of figs,
+[00:46:52 -> 00:46:55]  and then bananas in large amounts,
+[00:46:55 -> 00:46:58]  and then avocados if they're especially overripe,
+[00:46:58 -> 00:47:00]  soybeans, and sauerkraut.
+[00:47:00 -> 00:47:01]  So you can see 2, 4, and 6
+[00:47:01 -> 00:47:05]  are going to be your correct answers here.
+[00:47:05 -> 00:47:08]  Okay, so next we've got a question on the medication
+[00:47:08 -> 00:47:10]  Isonacid.
+[00:47:10 -> 00:47:12]  A client has been prescribed Isonacid
+[00:47:12 -> 00:47:16]  in the treatment of tuberculosis or TB.
+[00:47:16 -> 00:47:19]  What would the nurse plan to monitor during therapy
+[00:47:19 -> 00:47:21]  with this medication?
+[00:47:21 -> 00:47:25]  1, vision test results, 2, hepatic enzymes,
+[00:47:25 -> 00:47:28]  3, hemoglobin and hematocrit,
+[00:47:28 -> 00:47:32]  or 4, the blood urea nitrogen, or BUN, and creatinine.
+[00:47:39 -> 00:47:42]  All right, so 44% of you chose option 2,
+[00:47:42 -> 00:47:45]  which is the correct answer here.
+[00:47:45 -> 00:47:47]  So this medication, Isonacid,
+[00:47:47 -> 00:47:51]  there's the risk for hepatotoxicity with this medication,
+[00:47:51 -> 00:47:53]  and so for this reason,
+[00:47:53 -> 00:47:56]  the client's hepatic enzymes are measured before
+[00:47:56 -> 00:47:59]  and periodically during therapy.
+[00:47:59 -> 00:48:02]  Vision testing is done during treatment
+[00:48:02 -> 00:48:04]  with the medication ethambutol,
+[00:48:05 -> 00:48:09]  which is another anti-tuberculosis medication.
+[00:48:09 -> 00:48:11]  Hemoglobin and hematocrit values
+[00:48:11 -> 00:48:13]  are unrelated to this question.
+[00:48:13 -> 00:48:16]  And then BUN and creatinine are measured during therapy
+[00:48:16 -> 00:48:19]  with a medication called streptomycin,
+[00:48:19 -> 00:48:22]  which also is a nephrotoxic medication.
+[00:48:22 -> 00:48:25]  And so important to remember is that Isonacid
+[00:48:25 -> 00:48:29]  is contraindicated in clients with hypersensitivity
+[00:48:29 -> 00:48:32]  or with acute liver disease.
+[00:48:32 -> 00:48:36]  Okay, next question is a select-all-that-apply question
+[00:48:36 -> 00:48:38]  on levothyroxine.
+[00:48:39 -> 00:48:42]  Which medication instructions would the nurse provide
+[00:48:42 -> 00:48:45]  to a client who's been prescribed levothyroxine?
+[00:48:45 -> 00:48:47]  Select-all-that-apply.
+[00:48:47 -> 00:48:49]  One, monitor your own pulse rate.
+[00:48:49 -> 00:48:52]  Two, take the medication in the morning.
+[00:48:52 -> 00:48:55]  Three, notify the primary healthcare provider
+[00:48:55 -> 00:48:57]  if chest pain occurs.
+[00:48:57 -> 00:48:59]  Four, it may take one to three weeks
+[00:48:59 -> 00:49:02]  for a full therapeutic effect to occur.
+[00:49:02 -> 00:49:04]  And five, expect the pulse rate
+[00:49:04 -> 00:49:06]  to be greater than 100 beats per minute.
+[00:49:13 -> 00:49:17]  All right, very good, you guys.
+[00:49:17 -> 00:49:20]  Looks like there were a number of you
+[00:49:20 -> 00:49:23]  ranging from 61 to 84% that chose
+[00:49:23 -> 00:49:25]  all of the correct options,
+[00:49:25 -> 00:49:28]  which is option one, the pulse rate.
+[00:49:28 -> 00:49:30]  Two, taking the medication in the morning.
+[00:49:30 -> 00:49:33]  Three, notify the primary healthcare provider
+[00:49:33 -> 00:49:34]  if chest pain occurs.
+[00:49:34 -> 00:49:36]  And four, that it may take one to three weeks
+[00:49:36 -> 00:49:39]  for a full therapeutic effect to occur.
+[00:49:39 -> 00:49:42]  So levothyroxine is a thyroid hormone,
+[00:49:42 -> 00:49:43]  and the client is instructed
+[00:49:43 -> 00:49:46]  to monitor their own pulse rate.
+[00:49:46 -> 00:49:48]  They're also instructed to take the medication
+[00:49:48 -> 00:49:52]  in the morning before breakfast to prevent insomnia
+[00:49:52 -> 00:49:55]  and to take the medication at the same time each day
+[00:49:55 -> 00:49:57]  to maintain those hormone levels.
+[00:49:57 -> 00:50:00]  They're also told that the full therapeutic effect
+[00:50:00 -> 00:50:02]  may take one to three weeks
+[00:50:02 -> 00:50:06]  and that they need to have follow-up thyroid blood studies
+[00:50:06 -> 00:50:08]  to monitor therapy.
+[00:50:08 -> 00:50:12]  And thyroid replacement is often lifelong.
+[00:50:12 -> 00:50:15]  Additional instructions would be including the primary
+[00:50:15 -> 00:50:17]  or contacting the primary healthcare provider
+[00:50:17 -> 00:50:22]  if the heart rate is greater than 100 beats per minute,
+[00:50:22 -> 00:50:25]  and then notifying them if chest pain occurs
+[00:50:25 -> 00:50:27]  or if weight loss, nervousness,
+[00:50:27 -> 00:50:30]  tremors, or insomnia develops.
+[00:50:30 -> 00:50:32]  And so you think about the effects of the medication
+[00:50:32 -> 00:50:35]  as you read each of these options.
+[00:50:35 -> 00:50:38]  Noting the words greater than 100 beats per minute
+[00:50:38 -> 00:50:42]  in option five will assist you in eliminating that option,
+[00:50:42 -> 00:50:44]  and you wouldn't expect that to occur.
+[00:50:45 -> 00:50:48]  Okay, and so with that,
+[00:50:48 -> 00:50:51]  we'd like to open it up for any questions.
+[00:50:51 -> 00:50:54]  And we also want to thank you
+[00:50:54 -> 00:50:56]  for spending time with us this evening,
+[00:50:56 -> 00:50:59]  and we wish you all the very best.
+[00:50:59 -> 00:51:01]  And we wanna just remind you to stay positive
+[00:51:01 -> 00:51:03]  and believe in yourself.
+[00:51:03 -> 00:51:06]  You can do this, and we hope that you stay safe
+[00:51:06 -> 00:51:07]  and have a great night.
+[00:51:07 -> 00:51:10]  But before we let you go, we'll take a few questions.
+[00:51:11 -> 00:51:13]  Thank you, Angela, and thank you, Linda.
+[00:51:13 -> 00:51:15]  That was so great.
+[00:51:15 -> 00:51:18]  And there's been so many questions coming in,
+[00:51:18 -> 00:51:21]  so we can get to a few right now.
+[00:51:22 -> 00:51:26]  The first question I wanted to address was,
+[00:51:26 -> 00:51:28]  do you have any tips on how to recognize
+[00:51:28 -> 00:51:31]  the class a medication belongs to?
+[00:51:33 -> 00:51:35]  Angela, do you wanna answer that?
+[00:51:35 -> 00:51:36]  Do you want me to?
+[00:51:36 -> 00:51:38]  I can take that first question,
+[00:51:38 -> 00:51:41]  and then you can add as you feel that you need to.
+[00:51:41 -> 00:51:45]  So tips to recognize how,
+[00:51:45 -> 00:51:48]  or how to recognize the class a medication belongs to.
+[00:51:48 -> 00:51:50]  The first thing that you wanna do
+[00:51:50 -> 00:51:52]  is read the question,
+[00:51:52 -> 00:51:54]  know if there's a diagnosis in the question.
+[00:51:54 -> 00:51:58]  We practiced that a little bit this evening.
+[00:51:58 -> 00:52:01]  And then that will help to give you an indication
+[00:52:01 -> 00:52:04]  of what class the medication is in.
+[00:52:04 -> 00:52:07]  So for example, if the question read,
+[00:52:07 -> 00:52:11]  a client with heart failure is taking furosemide,
+[00:52:11 -> 00:52:12]  then you wanna think about
+[00:52:12 -> 00:52:14]  the pathophysiology of heart failure.
+[00:52:14 -> 00:52:17]  And probably that furosemide is gonna be something
+[00:52:17 -> 00:52:19]  that treats that fluid volume overload,
+[00:52:19 -> 00:52:21]  and then you can get it into
+[00:52:21 -> 00:52:23]  the classification of a diuretic.
+[00:52:23 -> 00:52:25]  Or another example might be,
+[00:52:25 -> 00:52:30]  a client with breast cancer is receiving cyclophosphamide.
+[00:52:30 -> 00:52:32]  You might then connect, make that connection
+[00:52:32 -> 00:52:34]  and think about cyclophosphamide
+[00:52:34 -> 00:52:38]  as possibly being a chemotherapeutic drug.
+[00:52:38 -> 00:52:42]  And then Linda, do you have any other tips
+[00:52:42 -> 00:52:43]  that you wanna add?
+[00:52:45 -> 00:52:47]  No, you're doing a great job.
+[00:52:47 -> 00:52:49]  Okay, just a couple other things
+[00:52:49 -> 00:52:51]  that I'm thinking about too.
+[00:52:51 -> 00:52:55]  The prefix and the suffix in medication names,
+[00:52:55 -> 00:52:58]  you can try to learn those commonalities
+[00:52:58 -> 00:53:00]  in those medication names.
+[00:53:00 -> 00:53:03]  And that can help you to determine
+[00:53:03 -> 00:53:06]  if a medication belongs to a particular class.
+[00:53:06 -> 00:53:08]  And that can then help you in answering the question.
+[00:53:08 -> 00:53:13]  So if you note that the medication name in a test question,
+[00:53:13 -> 00:53:16]  you see the name, but you're not familiar with the name.
+[00:53:17 -> 00:53:20]  If you can at least associate the medication with a class,
+[00:53:20 -> 00:53:23]  you'll then hopefully be able to determine the action,
+[00:53:23 -> 00:53:26]  side effects and nursing interventions.
+[00:53:26 -> 00:53:28]  So take a look at the letters in the name
+[00:53:28 -> 00:53:30]  and look for those that may identify
+[00:53:30 -> 00:53:32]  a particular med classification.
+[00:53:32 -> 00:53:35]  So for example, ACE inhibitors,
+[00:53:35 -> 00:53:38]  most of those end with the letters P-R-I-L
+[00:53:38 -> 00:53:41]  like lisinopril or enalapril.
+[00:53:41 -> 00:53:45]  Another one that I can think of is antiviral medications.
+[00:53:45 -> 00:53:48]  A lot of those contain the letters V-I-R
+[00:53:48 -> 00:53:51]  such as ritonavir.
+[00:53:51 -> 00:53:55]  And then beta blockers, they end with L-O-L
+[00:53:55 -> 00:53:58]  such as atenolol or metoprolol.
+[00:53:59 -> 00:54:01]  Glucocorticoids and corticosteroids,
+[00:54:01 -> 00:54:02]  Linda mentioned that,
+[00:54:02 -> 00:54:06]  ends with the letters S-O-N-E such as prednisone.
+[00:54:06 -> 00:54:08]  And then with your sulfonamides,
+[00:54:08 -> 00:54:12]  most of those medications include S-U-L-F in their names
+[00:54:12 -> 00:54:15]  such as sulfamethoxazole.
+[00:54:16 -> 00:54:19]  Most thyroid medications contain T-H-Y in the name
+[00:54:19 -> 00:54:21]  like levothyroxine.
+[00:54:21 -> 00:54:24]  And then your xanthine bronchodilators,
+[00:54:24 -> 00:54:27]  most of those end with the letters L-I-N-E
+[00:54:27 -> 00:54:28]  such as theophylline.
+[00:54:28 -> 00:54:31]  So if you can study those and recognize those,
+[00:54:31 -> 00:54:34]  that will really help you to get medications
+[00:54:34 -> 00:54:35]  into the classification
+[00:54:35 -> 00:54:38]  and then hopefully be able to answer
+[00:54:38 -> 00:54:41]  whatever the question may be asking about.
+[00:54:41 -> 00:54:44]  If you are able to remember the therapeutic effect,
+[00:54:44 -> 00:54:47]  common side effects, adverse and toxic effects
+[00:54:47 -> 00:54:50]  associated with medication classifications
+[00:54:50 -> 00:54:53]  rather than individual medications,
+[00:54:53 -> 00:54:56]  that will really help you to scale down
+[00:54:56 -> 00:54:59]  the amount of information that you need to remember.
+[00:55:00 -> 00:55:05]  Thank you, that was awesome information.
+[00:55:05 -> 00:55:07]  Going off of the number of questions
+[00:55:07 -> 00:55:09]  that you had just mentioned,
+[00:55:09 -> 00:55:10]  taking practice questions there,
+[00:55:10 -> 00:55:12]  there was a couple different questions
+[00:55:12 -> 00:55:14]  coming in from students
+[00:55:14 -> 00:55:18]  about the 3,500 to 4,000 practice questions
+[00:55:18 -> 00:55:21]  that you recommend taking before the NCLEX
+[00:55:21 -> 00:55:24]  and whether that is all practice questions,
+[00:55:24 -> 00:55:29]  just pharmacology and how long you recommend it.
+[00:55:29 -> 00:55:32]  Is that your senior year or through all of nursing school?
+[00:55:32 -> 00:55:35]  I know that's multi-layered, but yeah.
+[00:55:36 -> 00:55:38]  Okay, well, the 3,500,
+[00:55:38 -> 00:55:42]  Angela, you jump in after if you have something to add.
+[00:55:42 -> 00:55:46]  The 3,500 to 4,000 practice questions
+[00:55:46 -> 00:55:49]  is not just pharmacology questions.
+[00:55:49 -> 00:55:53]  It is questions in foundations, maternity, PD, adult health,
+[00:55:53 -> 00:55:56]  you really wanna be strong there,
+[00:55:56 -> 00:56:01]  your mental health questions and your pharmacology questions.
+[00:56:01 -> 00:56:06]  Now, many students have the comp review books
+[00:56:06 -> 00:56:11]  when they begin their nursing program, which is ideal
+[00:56:11 -> 00:56:15]  because as you're getting ready for a nursing exam,
+[00:56:15 -> 00:56:17]  let's say it's maternity,
+[00:56:17 -> 00:56:20]  you can practice all of those questions
+[00:56:20 -> 00:56:25]  in that maternity section on Evolve and in the book
+[00:56:25 -> 00:56:28]  to get ready for your nursing exam.
+[00:56:28 -> 00:56:33]  And you're getting ready for NCLEX at the very same time.
+[00:56:33 -> 00:56:38]  Again, we want to emphasize how critically important it is
+[00:56:38 -> 00:56:43]  to read the rationales and the test-taking strategies.
+[00:56:43 -> 00:56:48]  So it's 3,500 to 4,000, more if you can,
+[00:56:48 -> 00:56:50]  but while you're in nursing school
+[00:56:50 -> 00:56:54]  and throughout your senior year.
+[00:56:54 -> 00:56:56]  And then when you get to your senior year,
+[00:56:56 -> 00:56:59]  if you've sort of exhausted that comp review book
+[00:57:00 -> 00:57:02]  with practice questions,
+[00:57:02 -> 00:57:07]  that's when we really recommend the Q&A book
+[00:57:07 -> 00:57:10]  because as we mentioned previously,
+[00:57:10 -> 00:57:12]  they're higher level questions,
+[00:57:12 -> 00:57:16]  they really test your clinical judgment
+[00:57:16 -> 00:57:19]  and the ability to make sound judgments
+[00:57:19 -> 00:57:21]  in the clinical situation.
+[00:57:22 -> 00:57:25]  Anything to add, Angela?
+[00:57:26 -> 00:57:28]  I think the only thing I would reiterate, Linda,
+[00:57:28 -> 00:57:32]  that you already said is that you really shouldn't count
+[00:57:32 -> 00:57:36]  the questions that you're practicing towards that total
+[00:57:36 -> 00:57:40]  unless you really are paying attention
+[00:57:40 -> 00:57:44]  and reading those rationales and reading those strategies
+[00:57:44 -> 00:57:47]  because you would be doing yourself a disservice
+[00:57:47 -> 00:57:49]  to say to yourself, okay,
+[00:57:49 -> 00:57:51]  I know this book has 6,000 questions,
+[00:57:51 -> 00:57:54]  I've gone through the whole book, so I've done 6,000.
+[00:57:56 -> 00:57:58]  But if you weren't really like doing it at your best
+[00:57:58 -> 00:58:00]  and really paying attention,
+[00:58:00 -> 00:58:03]  then I would caution you on counting those
+[00:58:03 -> 00:58:06]  and would tell you to or advise you
+[00:58:06 -> 00:58:08]  to kind of take a step back
+[00:58:08 -> 00:58:12]  and maybe come up with a plan
+[00:58:12 -> 00:58:14]  that would be fair to yourself and true to yourself
+[00:58:14 -> 00:58:19]  that would really truly cover that 3,500 to 4,000.
+[00:58:20 -> 00:58:23]  That's a really great point that you made
+[00:58:23 -> 00:58:28]  and it brings to mind that what is really important
+[00:58:28 -> 00:58:30]  is at the end of your courses,
+[00:58:30 -> 00:58:34]  many of you take standardized examinations
+[00:58:34 -> 00:58:36]  and then you may take an exit exam
+[00:58:36 -> 00:58:40]  or an exam at the end of your program.
+[00:58:40 -> 00:58:42]  With these standardized tests,
+[00:58:42 -> 00:58:45]  you really need to take them seriously
+[00:58:45 -> 00:58:48]  and you can use the results on these tests
+[00:58:48 -> 00:58:51]  to help guide you with where your strengths
+[00:58:51 -> 00:58:53]  and your weaknesses are
+[00:58:53 -> 00:58:56]  because then that is an area where you really wanna focus
+[00:58:56 -> 00:58:59]  when you're doing your practice questions.
+[00:59:00 -> 00:59:01]  Thank you.
+[00:59:02 -> 00:59:05]  Another, a bunch of questions coming in
+[00:59:05 -> 00:59:08]  about how there's just so many medications
+[00:59:08 -> 00:59:10]  to remember in pharmacology
+[00:59:10 -> 00:59:13]  and all the different drug effects
+[00:59:13 -> 00:59:15]  and contradictions and indications.
+[00:59:15 -> 00:59:18]  And when you sit down to study for pharmacology,
+[00:59:18 -> 00:59:20]  how do you recommend approaching
+[00:59:20 -> 00:59:23]  all that there is to know and to learn?
+[00:59:24 -> 00:59:28]  Okay, yeah, and I think Angela might have touched
+[00:59:28 -> 00:59:29]  on this a little bit,
+[00:59:29 -> 00:59:33]  but one of the things is approach your study,
+[00:59:33 -> 00:59:38]  studying and review by medication calculations.
+[00:59:38 -> 00:59:39]  And the reason we recommend this
+[00:59:39 -> 00:59:42]  is because medications that belong
+[00:59:42 -> 00:59:43]  to a particular classification
+[00:59:43 -> 00:59:47]  are going to have similar med actions
+[00:59:47 -> 00:59:49]  and usually have commonalities
+[00:59:49 -> 00:59:52]  in their side effects and nursing interventions
+[00:59:52 -> 00:59:53]  related to administration.
+[00:59:53 -> 00:59:58]  And it's nearly impossible to learn every feature
+[00:59:58 -> 01:00:01]  about every individual med.
+[01:00:01 -> 01:00:05]  So we don't want you to be trying to do that.
+[01:00:05 -> 01:00:08]  Learn the meds by the classification system method
+[01:00:08 -> 01:00:12]  that groups meds with similar properties together.
+[01:00:12 -> 01:00:15]  And that makes the amount of information
+[01:00:15 -> 01:00:20]  that needs to be learned condensed and very manageable.
+[01:00:20 -> 01:00:23]  So for example, group all your beta blockers together.
+[01:00:23 -> 01:00:27]  Remember that most of their names will end in LOL.
+[01:00:27 -> 01:00:29]  Then group their intended effects,
+[01:00:29 -> 01:00:31]  which are all gonna be similar.
+[01:00:31 -> 01:00:33]  Group the side effects and adverse effects
+[01:00:33 -> 01:00:37]  and the nursing interventions, including patient teaching.
+[01:00:37 -> 01:00:39]  And that is all gonna be similar.
+[01:00:39 -> 01:00:44]  So the classification method is really, really important.
+[01:00:45 -> 01:00:47]  Anything to add, Angela?
+[01:00:48 -> 01:00:51]  I think maybe the only thing that I would add to that
+[01:00:51 -> 01:00:56]  is that a lot of the pharmacology textbooks out there
+[01:00:56 -> 01:00:59]  will present information using the classification method
+[01:00:59 -> 01:01:02]  and they will likely identify
+[01:01:02 -> 01:01:06]  a number of prototype medications
+[01:01:06 -> 01:01:10]  or the most common medications that in a way
+[01:01:10 -> 01:01:13]  represent that particular classification.
+[01:01:13 -> 01:01:16]  And so you could really kind of get to know
+[01:01:16 -> 01:01:20]  maybe the top three or four medication names
+[01:01:20 -> 01:01:23]  within a certain classification.
+[01:01:24 -> 01:01:28]  And then from there, as you had just described, Linda,
+[01:01:28 -> 01:01:29]  learning all of those other things
+[01:01:29 -> 01:01:31]  associated with the entire class.
+[01:01:31 -> 01:01:34]  So it really is kind of a method
+[01:01:34 -> 01:01:37]  that you'd have to use to learn
+[01:01:37 -> 01:01:39]  and then to get to know those things.
+[01:01:39 -> 01:01:43]  And then I would also advise you
+[01:01:43 -> 01:01:47]  to make the most of your clinical experiences
+[01:01:47 -> 01:01:51]  when it comes to learning your medications.
+[01:01:51 -> 01:01:53]  That's really an opportune time
+[01:01:53 -> 01:01:57]  to apply this information that you're learning
+[01:01:57 -> 01:02:00]  to a real patient or client care scenario.
+[01:02:00 -> 01:02:04]  And that really, really helps to solidify
+[01:02:04 -> 01:02:07]  and helps you to remember what a medication is used for,
+[01:02:07 -> 01:02:11]  if you can tie it back to some of those clinical experiences.
+[01:02:11 -> 01:02:15]  And then that really helps you to then understand
+[01:02:16 -> 01:02:19]  kind of what a treatment regimen might look like
+[01:02:19 -> 01:02:22]  for a certain condition with medications
+[01:02:22 -> 01:02:25]  coming from multiple different classifications.
+[01:02:25 -> 01:02:28]  And then also interactive effects
+[01:02:28 -> 01:02:30]  is another thing that that would help with.
+[01:02:30 -> 01:02:33]  So clinical experiences and then case studies
+[01:02:33 -> 01:02:37]  also help with kind of tying all of those pieces together.
+[01:02:37 -> 01:02:39]  But if you start with learning
+[01:02:39 -> 01:02:42]  the classifications initially,
+[01:02:42 -> 01:02:46]  and then as you're getting closer to taking your NCLEX,
+[01:02:46 -> 01:02:48]  kind of putting those finishing touches
+[01:02:48 -> 01:02:49]  on the pharmacology content
+[01:02:49 -> 01:02:52]  by reflecting back on those clinical experiences,
+[01:02:52 -> 01:02:56]  and then maybe using some case study resources
+[01:02:56 -> 01:02:57]  is really helpful.
+[01:03:00 -> 01:03:03]  Wow, that answered on most of the questions
+[01:03:04 -> 01:03:07]  and was really awesome.
+[01:03:07 -> 01:03:09]  I think that there was one other question
+[01:03:09 -> 01:03:10]  I wanted to touch on
+[01:03:10 -> 01:03:13]  and I thought it would be a good note to end the night.
+[01:03:13 -> 01:03:18]  So what do you recommend for students with test anxiety
+[01:03:18 -> 01:03:20]  as semesters are gonna be wrapping up
+[01:03:20 -> 01:03:24]  in a few months here and yeah.
+[01:03:27 -> 01:03:31]  Well, there's lots of little tips for test anxiety.
+[01:03:33 -> 01:03:35]  And Angela, I'll turn this over to you
+[01:03:35 -> 01:03:38]  after I just make a few starting points here.
+[01:03:41 -> 01:03:43]  First of all, you need to be prepared for your exam.
+[01:03:43 -> 01:03:45]  If you're going to be prepared for your exam,
+[01:03:45 -> 01:03:48]  that's going to help some.
+[01:03:49 -> 01:03:53]  You need to think about some techniques
+[01:03:53 -> 01:03:58]  that will work for you to keep your mind focused.
+[01:04:00 -> 01:04:04]  So deep breathing always helps.
+[01:04:04 -> 01:04:06]  That helps an awful lot of people
+[01:04:06 -> 01:04:11]  with helping them to focus and direct their attention
+[01:04:11 -> 01:04:14]  to what they're doing and relieve that test anxiety.
+[01:04:14 -> 01:04:16]  So you breathe in through your nose,
+[01:04:16 -> 01:04:18]  hold that for a count of four
+[01:04:18 -> 01:04:20]  and then breathe out through your mouth.
+[01:04:20 -> 01:04:24]  Now, remember when we have post-operative patients
+[01:04:24 -> 01:04:29]  in the clinical area and their pulse ox drops,
+[01:04:29 -> 01:04:31]  what do we tell them to do?
+[01:04:31 -> 01:04:32]  We tell them to deep breathe.
+[01:04:32 -> 01:04:35]  That's the first thing we ask them to do is to deep breathe
+[01:04:35 -> 01:04:39]  and we watch their pulse oxes most of the time
+[01:04:39 -> 01:04:41]  go right back up again.
+[01:04:42 -> 01:04:43]  Well, that's why deep breathing is important
+[01:04:43 -> 01:04:47]  because it's going to help to bring a lot of oxygen
+[01:04:47 -> 01:04:51]  into your body and it's going to bring it to your brain
+[01:04:51 -> 01:04:54]  where you want it the most when you're taking an exam.
+[01:04:55 -> 01:04:59]  The other thing that I have seen happen with students
+[01:04:59 -> 01:05:03]  is when they're coming to class and they're taking an exam,
+[01:05:03 -> 01:05:06]  they'll all congregate outside the classroom
+[01:05:06 -> 01:05:08]  till the classroom is empty
+[01:05:08 -> 01:05:11]  from the previous group of students that were in there
+[01:05:11 -> 01:05:13]  and they all start talking about what they studied,
+[01:05:13 -> 01:05:16]  what's going to be on the exam, what this, what that.
+[01:05:16 -> 01:05:21]  And what I say to you is to move away from those groups
+[01:05:21 -> 01:05:23]  and not listen to that
+[01:05:23 -> 01:05:27]  because that's only going to increase your anxiety.
+[01:05:27 -> 01:05:30]  If you start hearing other people talking about
+[01:05:30 -> 01:05:31]  what they think is going to be on the exam
+[01:05:31 -> 01:05:35]  and perhaps maybe you didn't study that enough
+[01:05:35 -> 01:05:37]  or you feel like you didn't study that enough,
+[01:05:37 -> 01:05:41]  that's only going to increase your anxiety even more.
+[01:05:41 -> 01:05:46]  Healthy wise, stay away from coffee, eat a good breakfast.
+[01:05:46 -> 01:05:48]  Those complex carbs are really good to feed your body
+[01:05:48 -> 01:05:50]  and feed your brain.
+[01:05:51 -> 01:05:53]  And what else to add, Angela?
+[01:05:55 -> 01:05:55]  Yeah, thank you.
+[01:05:55 -> 01:05:57]  Those are all really great tips
+[01:05:57 -> 01:05:59]  and excellent starting points.
+[01:05:59 -> 01:06:02]  And if you are not,
+[01:06:02 -> 01:06:04]  if you're finding that you're still struggling with this
+[01:06:04 -> 01:06:06]  after doing all of those things
+[01:06:06 -> 01:06:09]  and then doing the pampering and the self care
+[01:06:09 -> 01:06:14]  and finding the balance between school, work, personal life
+[01:06:14 -> 01:06:17]  and you're still struggling with this,
+[01:06:18 -> 01:06:21]  universities, colleges, they've got resources
+[01:06:21 -> 01:06:26]  that you can be referred to or seek out on your own.
+[01:06:28 -> 01:06:30]  And I would recommend that you do that.
+[01:06:30 -> 01:06:33]  And it may be pursuant to, for example,
+[01:06:33 -> 01:06:35]  the American Disabilities Act
+[01:06:35 -> 01:06:40]  where there's a resource center that works with students
+[01:06:40 -> 01:06:45]  who may have a documented or undocumented disability.
+[01:06:45 -> 01:06:48]  And there may be some accommodations
+[01:06:48 -> 01:06:51]  that could be put in place that will help
+[01:06:51 -> 01:06:54]  specifically with testing, taking anxiety.
+[01:06:54 -> 01:06:57]  And it may be things like maybe you need an extra time,
+[01:06:57 -> 01:06:59]  like one and a half times on an exam.
+[01:06:59 -> 01:07:02]  And that would be substantial enough
+[01:07:02 -> 01:07:04]  to help then reduce the anxiety.
+[01:07:04 -> 01:07:07]  So that's just one of many examples
+[01:07:07 -> 01:07:11]  that those resources typically can offer to students.
+[01:07:11 -> 01:07:14]  And I always say the sooner you can get something like that
+[01:07:14 -> 01:07:17]  in place, if you need it, the better.
+[01:07:17 -> 01:07:20]  And if you don't need to use the accommodation,
+[01:07:20 -> 01:07:21]  then that's okay.
+[01:07:21 -> 01:07:22]  At least you have it in place
+[01:07:22 -> 01:07:24]  in the event that you do need it.
+[01:07:24 -> 01:07:27]  These accommodations also are applicable
+[01:07:27 -> 01:07:28]  for the NCLEX exam as well.
+[01:07:28 -> 01:07:30]  You just have to follow the processes
+[01:07:30 -> 01:07:34]  to have that set in place for the exam
+[01:07:34 -> 01:07:36]  through your respective state board of nursing
+[01:07:36 -> 01:07:38]  that you're applying for licensure with.
+[01:07:40 -> 01:07:44]  And then certainly working with your healthcare provider
+[01:07:44 -> 01:07:47]  and perhaps working with counseling.
+[01:07:47 -> 01:07:50]  Those things may be tremendously helpful.
+[01:07:50 -> 01:07:51]  And even though it may take time
+[01:07:51 -> 01:07:53]  to seek out those resources,
+[01:07:53 -> 01:07:56]  in the end, they end up being a time gain for you
+[01:07:56 -> 01:08:00]  in that you won't be chasing your tail,
+[01:08:00 -> 01:08:03]  trying to raise a grade on an exam
+[01:08:03 -> 01:08:05]  so that you're successful
+[01:08:05 -> 01:08:08]  and it doesn't inhibit your progression in your program.
+[01:08:08 -> 01:08:09]  And so that you don't have to come back
+[01:08:09 -> 01:08:12]  and repeat a course or something like that.
+[01:08:12 -> 01:08:14]  So just consider those things
+[01:08:14 -> 01:08:17]  and consider the resources that you have.
+[01:08:17 -> 01:08:18]  Talk to your faculty advisors.
+[01:08:18 -> 01:08:21]  They're often an excellent resource
+[01:08:21 -> 01:08:24]  to be able to refer you appropriately.
+[01:08:24 -> 01:08:25]  And then ultimately in the end,
+[01:08:25 -> 01:08:28]  I would probably end on this note.
+[01:08:28 -> 01:08:31]  If you think that there's not an option available for you
+[01:08:31 -> 01:08:34]  to help you to be more successful,
+[01:08:35 -> 01:08:36]  that's probably not the case.
+[01:08:36 -> 01:08:40]  And you need to just ask those questions
+[01:08:40 -> 01:08:43]  and kind of voice what you're experiencing.
+[01:08:43 -> 01:08:46]  And more often than not,
+[01:08:46 -> 01:08:49]  somebody somewhere will be able to help you
+[01:08:49 -> 01:08:52]  to navigate those things.
+[01:08:52 -> 01:08:53]  Right.
+[01:08:53 -> 01:08:56]  And if sometimes it's just a self-assessment
+[01:08:56 -> 01:08:59]  or someone to help you assess
+[01:08:59 -> 01:09:03]  what it is that is causing your anxiety.
+[01:09:03 -> 01:09:07]  And if you can pinpoint that to some degree,
+[01:09:07 -> 01:09:11]  then that's where your focus can be to help relieve it.
+[01:09:13 -> 01:09:14]  Absolutely.
+[01:09:14 -> 01:09:15]  Thank you so much.
+[01:09:17 -> 01:09:19]  It's been such a great evening
+[01:09:19 -> 01:09:21]  and we hope that you all enjoyed the review
+[01:09:21 -> 01:09:23]  as much as we did.
+[01:09:23 -> 01:09:25]  And thank you Linda and Angela
+[01:09:25 -> 01:09:28]  for all of your time tonight with us.
+[01:09:28 -> 01:09:30]  I know it's been appreciated.
+[01:09:30 -> 01:09:34]  And yeah, everyone have a great rest of your evening.
+[01:09:34 -> 01:09:35]  Yes.
+[01:09:35 -> 01:09:35]  Have a great night.
+[01:09:35 -> 01:09:37]  Thank you very much.
+[01:09:37 -> 01:09:38]  Thank you everybody.
+[01:09:38 -> 01:09:39]  Have a great night.
+[01:09:40 -> 01:09:43]  ♪♪

@@ -1,0 +1,814 @@
+[00:00:00 -> 00:00:07]  And we are live. I am Justin, also known as the DIY Audio Guy, and I'm here as always
+[00:00:07 -> 00:00:12]  with my partner-in-crime, the one and only Nick from Toids DIY. Nick, how are you doing
+[00:00:12 -> 00:00:13]  tonight?
+[00:00:13 -> 00:00:17]  I am doing fantastic. And you?
+[00:00:17 -> 00:00:23]  Decent, I guess. It's hard to say some days.
+[00:00:23 -> 00:00:27]  You know, I watch this stupid, I don't know what you call it. It's not a meme, but it's
+[00:00:27 -> 00:00:36]  one of those, I don't know, shorts, I guess, of this girl who does this perfect Dora the
+[00:00:36 -> 00:00:43]  Explorer voice or whatever. And she's talking in Spanish about her mom making her sandwich.
+[00:00:43 -> 00:00:47]  And she's like, that means can I make you, can you make me a sandwich or something? That's
+[00:00:47 -> 00:00:52]  it. And she, the mom gets mad, throws the knife down off camera. You can hear that and
+[00:00:52 -> 00:00:56]  throws the thing right at her face and it hits her on camera.
+[00:00:57 -> 00:01:02]  I love that. That made me have a much better day.
+[00:01:02 -> 00:01:05]  Sometimes that's all it takes. That's all it takes to have a good day is a good joke.
+[00:01:05 -> 00:01:10]  Oh, the thing is me and my wife, my wife's like, you watching that again? I'm like, yeah,
+[00:01:10 -> 00:01:14]  it's hilarious. And then she watched it and she's like, oh gosh, this is hilarious.
+[00:01:14 -> 00:01:20]  Scott Bowie has chimed in and said that he's finally back to watching after months and
+[00:01:20 -> 00:01:22]  he's got a whole new build since he's last watched.
+[00:01:22 -> 00:01:23]  Oh, awesome.
+[00:01:23 -> 00:01:28]  That is awesome. We would love to hear about your, your build. Who else do we have in the
+[00:01:28 -> 00:01:33]  chat? We've got the usual crowd. We've got the deviant for life. David Kaye is here.
+[00:01:33 -> 00:01:36]  Hi, David. We love having you here. We appreciate your support.
+[00:01:36 -> 00:01:37]  Oh, he's awesome.
+[00:01:37 -> 00:01:44]  Blake. Blake is here with us. Get some is here as well. So we've got, who else is in
+[00:01:44 -> 00:01:46]  the chat? If you're in the chat, say hello.
+[00:01:46 -> 00:01:47]  Get some what?
+[00:01:47 -> 00:01:50]  It used to be get some gaming, I think.
+[00:01:50 -> 00:01:51]  Yeah.
+[00:01:51 -> 00:01:53]  Is that the same one? Did it was just a name change?
+[00:01:53 -> 00:01:57]  No, you're right now. It's get some, I guess it could be anything.
+[00:01:57 -> 00:02:01]  Could be anything. Whatever you want to go get.
+[00:02:01 -> 00:02:08]  Hello, Hans. Good to see you. Glad to see a good crowd in the, in the chat as always.
+[00:02:08 -> 00:02:09]  So,
+[00:02:09 -> 00:02:11]  So is it pop or soda where you're at?
+[00:02:11 -> 00:02:13]  Where I'm at, it's Coke.
+[00:02:13 -> 00:02:14]  Yeah.
+[00:02:14 -> 00:02:19]  You know, if someone asks if you want a Coke, you'll say, yeah, I'll have a Coke. What kind
+[00:02:19 -> 00:02:22]  of Coke you got? I got some Pepsi. Well, I've got great.
+[00:02:22 -> 00:02:23]  Yeah.
+[00:02:23 -> 00:02:25]  You got some Pepsi Coke.
+[00:02:25 -> 00:02:31]  Yeah. Now what's funny, if you get down to Atlanta, I've got a cousin of my mother's
+[00:02:31 -> 00:02:38]  who who's in Atlanta and her husband who died a long time ago, worked for Coke in Atlanta.
+[00:02:38 -> 00:02:42]  And if you said Pepsi around her, she would take it as an offense. You know, you've, you've
+[00:02:42 -> 00:02:46]  offended the honor of my, my, you know, my one true love has passed away and she would
+[00:02:46 -> 00:02:47]  get very unpleasant
+[00:02:48 -> 00:02:50]  because she loves Coke so much.
+[00:02:50 -> 00:02:56]  Yeah, exactly. Cause her husband worked for Coke for many years, apparently. And so you,
+[00:02:56 -> 00:02:59]  you mentioned a word that's not a Coke product around her and you're going to, you're going
+[00:02:59 -> 00:03:00]  to have a problem.
+[00:03:00 -> 00:03:01]  So
+[00:03:01 -> 00:03:03]  speaking of that, I know what we're going to be talking about today. And I think that
+[00:03:03 -> 00:03:07]  it might be important to talk about whether or not you should have a refrigerator in your
+[00:03:07 -> 00:03:08]  workshop.
+[00:03:08 -> 00:03:11]  Hmm. That's a good question.
+[00:03:11 -> 00:03:12]  All right.
+[00:03:12 -> 00:03:13]  That's a good question.
+[00:03:13 -> 00:03:16]  I'm just saying, Oh, Hey, look at Scott Bowie bought a JP eight.
+[00:03:17 -> 00:03:21]  Oh yeah. I just reviewed my JP eight on my channel. So I don't know if you saw that or
+[00:03:21 -> 00:03:26]  not. It, um, it did decent power. I didn't have enough juice on my test bench to, uh,
+[00:03:26 -> 00:03:31]  to, to let it do its in entire power amount, but I got 990 Watts out of the thing at like
+[00:03:31 -> 00:03:34]  11 and a half volts. So it still did pretty well.
+[00:03:34 -> 00:03:35]  Nice.
+[00:03:35 -> 00:03:45]  A BDC 412 in a 4.53 cubic foot box, two to 29 Hertz. That is huge. And that is low.
+[00:03:45 -> 00:03:49]  It is. I don't know what the audio pipe BDC 412 is, unfortunately.
+[00:03:49 -> 00:03:54]  Uh, yeah. I'm not that familiar with, uh, um, with all of, uh, all of the audio pipe
+[00:03:54 -> 00:04:00]  products, but, uh, that's, that's a big box. Uh, most car audio boxes aren't that big and
+[00:04:00 -> 00:04:02]  aren't tuned that low.
+[00:04:02 -> 00:04:06]  So that's interesting. It, it, it's a 12, it's a 12 inch box. And I say that's in 12
+[00:04:06 -> 00:04:10]  inch sub, I'm sorry. And the reason why I said it's interesting is typically the four
+[00:04:10 -> 00:04:16]  and I'm assuming four is four Ohm. Yeah. Two by four Ohm. So dual four Ohm. Typically
+[00:04:16 -> 00:04:23]  the 12 is before the impedance with most manufacturers. I was wondering if it was a 12 inch sub, but
+[00:04:23 -> 00:04:26]  I was like, it can't be 12 Ohm. Can it?
+[00:04:26 -> 00:04:29]  It's nice. Yeah. It's 12 inch. So, you know, audio pipes, one of those brands, it's really
+[00:04:29 -> 00:04:35]  interesting. They, um, they've got some stuff that's not that good, but they also sell some
+[00:04:35 -> 00:04:41]  really good stuff from a standpoint of what kind of budget can you get for, um, um, good
+[00:04:41 -> 00:04:43]  budget SPL gear is what I'm trying to say.
+[00:04:43 -> 00:04:45]  It's like a good value type thing.
+[00:04:45 -> 00:04:51]  Yeah. Ow, there's the cat. She's under my feet and she, uh, has decided to attack me.
+[00:04:51 -> 00:04:52]  Okay.
+[00:04:52 -> 00:04:53]  Quad stack.
+[00:04:53 -> 00:04:54]  Ow, good Lord.
+[00:04:54 -> 00:04:57]  Quad stack magnet. That makes sense.
+[00:04:58 -> 00:05:04]  Sorry about that, everybody. I just got attacked by my cat. Hang on.
+[00:05:04 -> 00:05:11]  Okay. Wow. Today we're going to be talking about, uh, workshops and we're gonna talk
+[00:05:11 -> 00:05:14]  about workshop flow and we're gonna be talking about what is important to having your workshop.
+[00:05:14 -> 00:05:17]  What is it part of your workshop? Because I think that's kind of one of the things that
+[00:05:17 -> 00:05:22]  you have issues with when you're looking at your workshop is what should you buy and what
+[00:05:22 -> 00:05:27]  shouldn't you buy, especially with all of the, well, really cool gear that you can get,
+[00:05:27 -> 00:05:30]  especially I'd say for the price that you can get now, there's a lot of good things
+[00:05:30 -> 00:05:33]  that you can buy for relatively inexpensive.
+[00:05:33 -> 00:05:39]  Like for example, when WEN is a manufacturer that you can buy off Amazon, they can get
+[00:05:39 -> 00:05:46]  a lot of decently priced things. They're all made in China, but some of their stuff, like
+[00:05:46 -> 00:05:54]  their dust, um, collector, uh, is actually like the same as jet, just rebranded. So you
+[00:05:54 -> 00:05:58]  save a lot of money by buying one of those. So there are definitely some things that you
+[00:05:58 -> 00:06:07]  can do. Now, Justin is really partial to this topic today because Justin just built a workshop
+[00:06:07 -> 00:06:14]  as you guys know, and now he's going to be talking about the workflow of that.
+[00:06:14 -> 00:06:19]  And I want to say, first of all, before we go too far, I want to say, I agree with David.
+[00:06:19 -> 00:06:24]  You have to have a mini fridge in your workshop. If it's going to be like a workshop that you're
+[00:06:24 -> 00:06:27]  gonna be working in all day, you just have to have a mini fridge. You gotta have some
+[00:06:27 -> 00:06:32]  drinks in there. You gotta have a little bit of a snack in there. I just, I just agree
+[00:06:32 -> 00:06:38]  with that. I think that's a great use of workshop flow. You don't want to be leaving your workshop
+[00:06:38 -> 00:06:42]  to go grab a bottle of water that's sitting in your fridge in your house. You want to
+[00:06:42 -> 00:06:48]  keep dragging the stuff back and forth. So we have decided that a workshop fridge, mini
+[00:06:48 -> 00:06:52]  fridge is a necessity in the workshop while you were gone.
+[00:06:52 -> 00:06:57]  And I have been debating that very same thing myself. Do I want a fridge in the new garage
+[00:06:57 -> 00:07:01]  that, uh, that I'm in the process of moving into and I'm leaning more and more on the
+[00:07:01 -> 00:07:06]  yeah, I need one. Yeah. I think the, like the important thing is you don't want to be
+[00:07:06 -> 00:07:10]  tracking all that stuff. You're going to get hot and sweaty out there while you're working.
+[00:07:10 -> 00:07:13]  You don't want to be tracking that all back to your house just to grab a drink of water
+[00:07:13 -> 00:07:20]  or whatever, bring it back in. Oh, it's a better option. Oh, you need a large fridge.
+[00:07:20 -> 00:07:24]  So if I've heard slightly, I read it wrong. He said, wrong, no mini fridge. You need a
+[00:07:24 -> 00:07:30]  large fridge and make it a man cave. Yeah. Decent sized fridge. I think you can at least
+[00:07:30 -> 00:07:38]  get a 12 pack of beer and two cases of water in at the same time or cold. As David said,
+[00:07:38 -> 00:07:44]  cold water, apples, Corona, and more Corona. And true voice reason. You know, I actually
+[00:07:44 -> 00:07:48]  do that. I do drink from the hose. I just turn on my little, I have a spigot there.
+[00:07:48 -> 00:07:53]  I just lift up, you know, like the old school spigots where you just kind of lift up the
+[00:07:53 -> 00:07:58]  thing and that water comes out. We drink from that. Oh yeah. I, um, I was, I was raised
+[00:07:58 -> 00:08:05]  drinking from the hose. So yeah, just if you have water in the hose, make sure to run it
+[00:08:05 -> 00:08:11]  for a while before you put your lips on it. Oh yeah. Burn it. Well, yeah. And that clears
+[00:08:11 -> 00:08:16]  out whatever trash might be in the hose. You don't want to get it right the first day.
+[00:08:16 -> 00:08:22]  That is another good point too. All right. We we've gone way off topic. So that's okay.
+[00:08:22 -> 00:08:29]  No, no, we're on topic. Sorry. I had to run the, uh, the cat likes to hang out beneath
+[00:08:29 -> 00:08:33]  my feet and sometimes she decides that clawing and biting my feet is the appropriate thing
+[00:08:33 -> 00:08:37]  to do. And so she's now out in the garage. So we'll, we're done with that for the night.
+[00:08:37 -> 00:08:45]  All right. So let's hear your big workflow things. Some of the tools you think you shouldn't
+[00:08:45 -> 00:08:51]  do now. I'm curious too. I know what I think. I know we disagree as well on some things.
+[00:08:51 -> 00:08:55]  So this is the, uh, this is the thing, right? So the question for, for you, the question
+[00:08:55 -> 00:09:01]  for everybody out in the chat, the discussion for tonight is, um, when you're in your, your
+[00:09:01 -> 00:09:07]  DIY workspace, your, whatever it is you happen to have where you can get some work done,
+[00:09:07 -> 00:09:13]  uh, whether that's, you're just out on the patio, whatever the case might be. Um, how
+[00:09:13 -> 00:09:20]  do you set it up to get work done efficiently? And what tools do you actually have to have?
+[00:09:20 -> 00:09:27]  And what tools can you just completely live without? Uh, for example, how important is
+[00:09:27 -> 00:09:35]  a drill press? I don't have one and I don't plan to get one anytime soon, but I do have
+[00:09:35 -> 00:09:41]  a CNC that can work as a drill press. So, but I personally don't think you need a drill
+[00:09:41 -> 00:09:46]  press. Curious about the guys in the chat, what are your thoughts on a drill press? I'd
+[00:09:46 -> 00:09:51]  like to have one, um, simply because you can do things like, um, if you need to make a
+[00:09:51 -> 00:09:57]  lot of precision cuts, uh, holes, you can line those things up and, you know, repeated cuts,
+[00:09:57 -> 00:10:01]  repeated holes, that kind of thing. I watch a lot of woodworking channels on YouTube. It'd be nice
+[00:10:01 -> 00:10:08]  to have one, but my thoughts is that I don't need a small drill press. One of these tiny ones,
+[00:10:08 -> 00:10:13]  it's like 60 bucks from Harbor Freight or the tinier Obi one from, from Home Depot is, is of
+[00:10:13 -> 00:10:17]  no use. I need a big one. If I'm going to have one, it needs to be huge and take up a lot of
+[00:10:17 -> 00:10:22]  full stand one. Exactly. Like a 12 inch drill press, right? Something that's, that's got some
+[00:10:22 -> 00:10:26]  size to it where you can actually get some work done. See, I agree with Blake. He said, Hey,
+[00:10:26 -> 00:10:32]  drill press is really nice when you need it, but it's kind of niche. And I agree with that. I would
+[00:10:32 -> 00:10:39]  say that it's very low priority for me to have the good thing about drill presses. It doesn't
+[00:10:39 -> 00:10:45]  have to take up a lot of room. True. So, I mean, you have that going for you. If you are working
+[00:10:45 -> 00:10:50]  on a workspace workflow and you do have to get one, it's not a machine that's,
+[00:10:51 -> 00:10:55]  that you have to be concerned about in that regards. Brian Steele said on a scale of one
+[00:10:55 -> 00:11:02]  to five, he'd give it a one. I agree. I might even give it below a one. All right. So here's,
+[00:11:02 -> 00:11:06]  here's the way I like to think about these kinds of things. If you had enough space to either put
+[00:11:06 -> 00:11:11]  a decent fridge or a decent drill press in this one spot, instead of going to take up the same
+[00:11:11 -> 00:11:15]  amount of space, right? Which one do you pick? Fridge. The fridge. Yeah. You're going to be
+[00:11:15 -> 00:11:20]  using the fridge like daily in there. And you're going to use the drill press once a year.
+[00:11:22 -> 00:11:27]  The true voice of reason says he has an antique drill press from the fifties with a newer motor
+[00:11:27 -> 00:11:33]  on it. That, that would be cool. If I had an antique one from the fifties, I'd have it.
+[00:11:34 -> 00:11:38]  I actually had one before I left. I didn't bring it with me. I gave it back to the guy who gave it
+[00:11:38 -> 00:11:43]  to me because I didn't have time to, I didn't have the space to bring it. And those are cool
+[00:11:43 -> 00:11:48]  too. Cause they have belts on top and you, you change the belts in order to change, you know,
+[00:11:48 -> 00:11:54]  the, the amount of torque, I guess. I came real close to buying one at an auction. It was a,
+[00:11:54 -> 00:12:00]  a larger, a benchtop drill press that was, you know, old from the sixties or something like
+[00:12:00 -> 00:12:04]  that. I forget, but I think it may have been a craftsman. And I was looking at it thinking,
+[00:12:04 -> 00:12:07]  eh, you know, do I want to haul this thing all the way down to the house?
+[00:12:07 -> 00:12:13]  And I thought, no, not really. And and I'm glad I let it go because what I realized after someone
+[00:12:13 -> 00:12:18]  else outbid me on it was that I didn't have a space to put it. And so I, you know, I think
+[00:12:18 -> 00:12:23]  that I'm only going to buy tools if I have a spot to put the tool. And I think that's probably a
+[00:12:23 -> 00:12:28]  good rule. Brian said, Hey, you know, maybe you can DIY a drill press with a vertical sled mount
+[00:12:28 -> 00:12:34]  for a hand drill. And there are a lot of people that do that. And that's true. That wouldn't fit
+[00:12:34 -> 00:12:39]  your idea most likely because you said you want a really large one, but for most people,
+[00:12:39 -> 00:12:44]  they only need to utilize it every once in a while. The other thing too, is depending on how
+[00:12:44 -> 00:12:49]  accurate you need these things, you can also buy a drill with a, with a level on it now.
+[00:12:50 -> 00:12:55]  And so it tells you if you're drilling straight down, I mean, if you're doing it for like
+[00:12:56 -> 00:13:02]  feet on a speaker or subwoofer or something, you just really want it to be level more than
+[00:13:02 -> 00:13:07]  they make them. They make these, these portable drill press stands where you can take any drill
+[00:13:07 -> 00:13:12]  and put in, it looks kind of like a, like a router bit. Right. So, you know, if you,
+[00:13:12 -> 00:13:16]  if you want to make sure you're drilling perfectly straight holes, when you're drilling your speaker
+[00:13:16 -> 00:13:23]  hole, your bolt holes for your speakers, something like that would be, would be cool. But there you
+[00:13:23 -> 00:13:30]  go. I'm trying to see. So what, what tools are, what tools are on your, you have to have for
+[00:13:30 -> 00:13:36]  workflow or what is at least one of them? Because drill press, I think we all agree is kind of like,
+[00:13:37 -> 00:13:43]  so a drill press is a no. So, so here's the question for you. How important is an air compressor?
+[00:13:45 -> 00:13:51]  So this is where I know you and I disagree. I would say an air compressor is very important.
+[00:13:51 -> 00:13:57]  In fact, I put that near the top and I would not get a pancake air compressor. I would get a bigger
+[00:13:57 -> 00:14:01]  one. You get one from Harbor Freight. You don't have to get like anything crazy expensive. I got
+[00:14:01 -> 00:14:06]  one from Harbor Freight. That's a pretty big one. But here's the reason why. The air compressor can
+[00:14:06 -> 00:14:10]  do everything. It can clean off your tools. It can, like when your dust goes everywhere and you
+[00:14:10 -> 00:14:16]  need to blow something off real quick, it can blow it off. Your air compressor can paint. If you want
+[00:14:16 -> 00:14:20]  to go ahead and get a real nice finish on it, you can go ahead and use a, and you can even get a
+[00:14:20 -> 00:14:28]  cheap paint sprayer from Harbor Freight once again for 20 bucks. You can use air tools on it.
+[00:14:28 -> 00:14:32]  So you can nail things. You can staple things. You want to add insulation later. You want to
+[00:14:32 -> 00:14:37]  staple all of that. Well, that's easy with that. I mean, heck, you can even add air tools to be
+[00:14:37 -> 00:14:44]  able to take apart things like your table saw and stuff when they get damaged. So for me,
+[00:14:44 -> 00:14:52]  an air compressor for me is so multifunctional that I think it's one of the tools that I would say
+[00:14:53 -> 00:14:59]  comes more in handy than you would imagine. And I would absolutely have it.
+[00:14:59 -> 00:15:05]  So 20 years ago, I would have agreed with you wholeheartedly. Maybe 15 years ago,
+[00:15:05 -> 00:15:13]  I would have agreed with you wholeheartedly. But today, the lithium battery technology has
+[00:15:13 -> 00:15:18]  progressed to the point, and there's such a wide variety of power tools available that virtually
+[00:15:18 -> 00:15:21]  everything you mentioned that can be done with an air compressor can be done with something
+[00:15:22 -> 00:15:29]  else, with something else. So you're going to paint with a 20 volt battery. Painting is about
+[00:15:29 -> 00:15:34]  the only thing I think where you would really need an air compressor or if you actually need
+[00:15:34 -> 00:15:39]  air up a tire. Or if you need to take up, or if you need to take apart your table saw, because
+[00:15:39 -> 00:15:43]  here's the deal. They don't, those battery ones don't have the torque that something like that,
+[00:15:43 -> 00:15:48]  that your air gun is going to have. So if you have, you know, if you grab one of those
+[00:15:48 -> 00:15:52]  high end Milwaukee ones, those things got a lot of those things have a lot of torque.
+[00:15:52 -> 00:15:55]  I'll tell you what, you take that battery powered Milwaukee,
+[00:15:55 -> 00:15:58]  and you try to take a tire off your car and you tell me how it works.
+[00:16:00 -> 00:16:04]  Now, if we were talking about a heavy duty truck or a tractor or something,
+[00:16:04 -> 00:16:10]  working on 18 wheelers, I'd be with you on that. But I'm thinking for just a car,
+[00:16:10 -> 00:16:14]  I think if you have an impact wrench, an impact driver, battery powered,
+[00:16:14 -> 00:16:18]  because mechanics use those all the time. You go to any mechanic shop and you'll see them
+[00:16:18 -> 00:16:25]  with their tool truck brand drills going in there. So you can get an impact driver that
+[00:16:25 -> 00:16:30]  can take nuts and bolts off cars just fine. And again, if we were working on 18 wheelers,
+[00:16:30 -> 00:16:35]  I'd be with you. But I think that today, I don't think we need air compressors anymore.
+[00:16:37 -> 00:16:40]  I will say everyone in the chat disagrees with you.
+[00:16:42 -> 00:16:46]  Everyone's allowed to disagree. They don't have to be right. They can be, they can be wrong.
+[00:16:48 -> 00:16:54]  Stu's Custom Shop says that Milwaukee 18 volt half inch will remove any bolts you need in the
+[00:16:54 -> 00:17:00]  vehicle. And I'm not stating the fact that it may not be able to remove a bolt. It's
+[00:17:00 -> 00:17:04]  how long will it last after it removes that bolt? How long do you have that battery power for if it
+[00:17:04 -> 00:17:10]  has to use that much torque? I mean, that's the more of the concern I have. It's not so much that
+[00:17:10 -> 00:17:15]  will it not work? It's how long will it work for and how many batteries do you have to go through
+[00:17:15 -> 00:17:19]  where air is free and the air compressor, air is practically free, I should say. And the air
+[00:17:19 -> 00:17:26]  compressor fills back up relatively quickly if you need to. Brian Townsend is with me. And of course,
+[00:17:26 -> 00:17:29]  I have the ability to pick out chats and you can't. So I'm only going to pick ones who agree
+[00:17:29 -> 00:17:36]  with me. Yeah, you can do that. Yeah, he says I barely use my air compressor anymore. Battery
+[00:17:36 -> 00:17:45]  power tools are the way to go. Robert Clark. Chevy 5500 Kodiak trucks and my half inch Milwaukee
+[00:17:45 -> 00:17:51]  takes off the tires. No problem. So, so I mean, you're not entirely wrong, Nick. There's still a
+[00:17:51 -> 00:17:58]  lot of good uses for an air compressor. An air compressor still has more torque than the battery
+[00:17:58 -> 00:18:06]  power. I mean, that's just the truth. All right. Yeah. You've got space in your shop for a fridge,
+[00:18:07 -> 00:18:14]  an air compressor, or a drill press. You can have one, which one? Air compressor. Air compressor
+[00:18:14 -> 00:18:24]  before a fridge. Yes. Yeah, I would do the fridge. Okay. I would do the fridge. So that's now our
+[00:18:24 -> 00:18:30]  metric. We have enough space for one tool, which would you put this tool in the list? I mean, I
+[00:18:30 -> 00:18:36]  think, I think, I think you're fine to do that. But with DIY, you should be painting a lot more than
+[00:18:38 -> 00:18:40]  than what you're doing, unless you're just rolling everything.
+[00:18:41 -> 00:18:45]  Well, I'll tell you what I'm what I'm going to do. I do have a pancake compressor, I'm not going
+[00:18:45 -> 00:18:49]  to upgrade that compressor, it's going to be it's going to get me by until it dies. And I will run
+[00:18:49 -> 00:18:57]  some air hose, probably some some metal pipe. And I'm going to put them on a put put the air hose
+[00:18:57 -> 00:19:03]  on a reel hanging above me in the garage. Because the thing I like the least about the air compressor
+[00:19:03 -> 00:19:10]  is I'm always dragging that damn hose around everywhere. And oh, excuse me, what I don't like
+[00:19:10 -> 00:19:15]  is I don't like the hose. That's why I don't like air tools. I'm trying to get away from anything
+[00:19:15 -> 00:19:21]  with a cable or a cord or a wire on it. Because that's just something else to trip on. So I'll
+[00:19:21 -> 00:19:28]  install a cord reel a hose reel at some point, but it's not high on the high on the list.
+[00:19:28 -> 00:19:32]  Yeah. And you know, a lot of guys are talking about the half inch ones, which are which are
+[00:19:32 -> 00:19:37]  significantly better than what most people have. When they're talking about battery powered,
+[00:19:37 -> 00:19:41]  when I'm talking about battery powered, once you don't talk about like your normal,
+[00:19:41 -> 00:19:50]  everyday DIY, DeWalt, Ryobi, you know, basic drive, you know, but the half inch nicer ones,
+[00:19:50 -> 00:19:56]  they're nice. I mean, obviously, we all know mechanics use those. Oh, yeah. All right. So
+[00:19:59 -> 00:20:03]  it is nice to have the batteries to in the essence, you don't have to run the wire,
+[00:20:03 -> 00:20:09]  I would still rather have the air compressor overall, it's the tools are cheaper. And
+[00:20:10 -> 00:20:20]  it's more multifunctional still. Fair enough. So here's a question that has been brought up.
+[00:20:21 -> 00:20:27]  We've talked about this before. How important is a table saw? Because one of our viewers had
+[00:20:27 -> 00:20:31]  mentioned that a better option might be to go with a track saw instead of a table saw.
+[00:20:32 -> 00:20:37]  If you had to, if you could only have one a track saw or a table saw, which route would you go?
+[00:20:38 -> 00:20:43]  It depends on what I'm doing. I mean, if I'm having to rip a lot of things,
+[00:20:43 -> 00:20:48]  then I'd probably do the track saw because it's much easier for one person to rip with a track
+[00:20:48 -> 00:20:55]  saw. But if I'm making multiple different types of cuts and things that nature, then you know,
+[00:20:55 -> 00:21:01]  a table saw for me, since I use almost everything, I do almost everything on the CNC. Now, I usually
+[00:21:02 -> 00:21:08]  only have to rip the board in half or something like that. So for me, I would rather have a track
+[00:21:08 -> 00:21:13]  saw. But for most people, I think a table saw is much better. So you're gonna rip a board in half
+[00:21:13 -> 00:21:18]  and put a half sheet on the on the CNC and the CNC is gonna do all the work for you. Yeah,
+[00:21:18 -> 00:21:24]  like a sheet good in half. Correct. Yep. Stu down here is a big fan of the of the track saw.
+[00:21:24 -> 00:21:29]  I noticed that RYOBI has a track saw out now. And I'm kind of curious, since I've got RYOBI battery
+[00:21:29 -> 00:21:34]  power tools, I think it'd be kind of cool to do a track saw to handle the bigger material. But I
+[00:21:34 -> 00:21:43]  still like the idea of a table saw. I'm a table saw fan. Yeah, I mean, a table saw is obvious.
+[00:21:43 -> 00:21:47]  Once again, they're, they're more, they're more versatile, right? Like a table saw is still gonna
+[00:21:47 -> 00:21:53]  be more versatile, it's gonna have more power, assuming that you have a nice table saw, it's
+[00:21:53 -> 00:21:58]  gonna have a lot more power than your track saw or your circular saw. Circular saw is a great idea.
+[00:21:58 -> 00:22:04]  I have one, we both use that Craig jig. Yeah, right. That kind of thing. It's, it's kind of
+[00:22:04 -> 00:22:09]  flimsy, but it works for you know, in a pinch. I like it. I use it all the time to cut my wood
+[00:22:09 -> 00:22:15]  down. I don't have any issue with that. But the table saw is gonna have once again, more power.
+[00:22:16 -> 00:22:22]  Most of the time. Robert Clark says you can put your beer on a table saw.
+[00:22:22 -> 00:22:26]  I don't think I'd recommend mixing beer and power tools together.
+[00:22:28 -> 00:22:34]  Yeah. And I mean, the other issue with the with a track saw, which we haven't brought up,
+[00:22:35 -> 00:22:39]  I'll bring up now is that when you buy a track saw, most of them are proprietary.
+[00:22:41 -> 00:22:45]  So if something ever happens to your track saw, all that tracks off fence and stuff,
+[00:22:45 -> 00:22:51]  you have to buy either that exact track saw again, or Yep. Or you have to buy a whole new system
+[00:22:51 -> 00:22:55]  again, where a table saw if you buy a nice table. So if anything happens to it, you should be able
+[00:22:55 -> 00:23:03]  to at least buy a new motor. All right, a solid comment. Regular Guy Audio said that his least
+[00:23:03 -> 00:23:10]  use saw is his 12 inch compound miter saw. Do you have a miter saw? I do. How often do you use it?
+[00:23:11 -> 00:23:15]  When I'm using when I'm making when I'm doing trim work in my house all the time,
+[00:23:15 -> 00:23:20]  all the time, but not for audio projects? Yeah, not really. No, I don't, you know,
+[00:23:21 -> 00:23:27]  not not as often. I do use it on some things, but not as often as I'd use a table saw or anything.
+[00:23:28 -> 00:23:35]  So I do have a miter saw. And I like my miter saw. I got it cheap. I built a table just for it
+[00:23:35 -> 00:23:39]  made some custom stop blocks and stuff did a video on it. I don't plan on doing any videos
+[00:23:39 -> 00:23:43]  on shop furniture, because when I do videos on shop furniture, they don't they don't they don't
+[00:23:43 -> 00:23:49]  get any views. But I would say that if we're going back to our metric of you've got enough
+[00:23:49 -> 00:23:57]  space for one tool. You've got refrigerator air compressor. What else did we say drill press?
+[00:23:57 -> 00:24:01]  Now let's add the miter saw. So we can throw a drill press off because we don't need it. So the
+[00:24:01 -> 00:24:08]  drill press. Yeah, so you're down to a miter saw or refrigerator if you had to choose between the
+[00:24:08 -> 00:24:14]  two. No, I'm still an air compressor. Oh, you're still an air compressor. So I'm I'm at refrigerator
+[00:24:14 -> 00:24:18]  it's got my spot. So between miter saw and refrigerator, I'm picking the fridge.
+[00:24:20 -> 00:24:23]  Between those two, I would take the fridge too. But if it's between those three,
+[00:24:23 -> 00:24:26]  I'd still take the air compressor. So you're still air compressor?
+[00:24:26 -> 00:24:31]  Well, yeah, you can buy air compressor tools for so inexpensive. And they do so like
+[00:24:32 -> 00:24:36]  David was with me. And he was saying the same thing. Hey, I don't have to buy batteries,
+[00:24:36 -> 00:24:41]  I have to recharge my I have to worry if they go bad, all that stuff. But then I would put
+[00:24:41 -> 00:24:48]  fridge second, and then miter saw third. I tell you what I don't like about miter saws,
+[00:24:48 -> 00:24:55]  when you go for a sliding miter saw, virtually all of them slide to the back. And so now if you had,
+[00:24:55 -> 00:24:59]  you know, a two foot workbench, you need to pull that workbench under a foot away from the wall
+[00:24:59 -> 00:25:04]  in order to get the slide mechanism to have room to work. But there are a couple that don't slide.
+[00:25:05 -> 00:25:10]  And if I were going to get a 12 inch miter saw, I would get some that didn't slide. I think it's
+[00:25:11 -> 00:25:16]  there are two brands, I think Delta is one of them. And the other one I think is a similar
+[00:25:16 -> 00:25:19]  brand of Delta I think same company makes it that has these folding arms.
+[00:25:21 -> 00:25:28]  So I have a 12 inch miter saw that's not a compound miter saw or not a not a slider. Yeah,
+[00:25:28 -> 00:25:33]  and and I like it's fine. There's nothing wrong with it. But even that takes up a lot of room.
+[00:25:33 -> 00:25:40]  It's also very even if you hook up like a hose to it, you're going to get a lot of dust
+[00:25:40 -> 00:25:45]  when you when you use utilize that. So oh, the dust collection on my miter saw is terrible.
+[00:25:45 -> 00:25:51]  It's a 12 inch miter saw and like it. It's just pretending to collect dust. It is.
+[00:25:52 -> 00:25:58]  No, it cuts maybe like a 10%. Maybe if you're lucky, you know, it's yeah.
+[00:26:00 -> 00:26:04]  So I mean, that's the other big thing too, is it's it's, it's a messy.
+[00:26:05 -> 00:26:08]  Whenever I get done with it, I hate you have to clean up the work area when you're done with it,
+[00:26:08 -> 00:26:13]  because it's just dust is everywhere. Right? There's no way or no way around it. So so you're
+[00:26:15 -> 00:26:19]  if you weren't doing trim work around the house, if you were just doing audio,
+[00:26:19 -> 00:26:27]  would you have a miter saw? No, no, no. Well, I mean, yeah, I might but
+[00:26:28 -> 00:26:32]  it wouldn't be on the top of my list. Be lower down the list. Yeah.
+[00:26:33 -> 00:26:38]  When I didn't have as much nice equipment, I did use my miter saw a lot, a lot more than I do now.
+[00:26:39 -> 00:26:44]  Yeah, I'm with Brian on this one really, really low in a DIY audio workshop. If I were going to
+[00:26:44 -> 00:26:50]  have one, I would want one that would be huge. So I can make a good like about a 16 inch cut
+[00:26:50 -> 00:26:53]  on for those times when you're you know, you need to make a wide cut like that.
+[00:26:54 -> 00:26:59]  Well, a miter saw is nice. If you don't have like if you have a table saw,
+[00:26:59 -> 00:27:03]  like if you have a table saw, and you don't have like a sled for your table saw,
+[00:27:03 -> 00:27:08]  miter saw is nice to have. Someone else said, Hey, it's nice. If you need to make a lot of
+[00:27:08 -> 00:27:12]  repetitive cuts, and it's true, you can put a stop, you know, on your miter saw and just keep
+[00:27:12 -> 00:27:17]  blocking it off, which is what I do. I have wood tables on either side of it. And I just
+[00:27:18 -> 00:27:23]  slide it to wood and I screw a piece of wood in, you know, yeah, just right in there. That way,
+[00:27:23 -> 00:27:29]  I can just bump it and cut it bump it and cut it. That's that's I only use my miter saw
+[00:27:29 -> 00:27:33]  when I'm building shop furniture, and I'm cutting like say the legs for the shop furniture.
+[00:27:33 -> 00:27:38]  And I've got stop blocks on either side of it. And I just, you know, set the stop block measure
+[00:27:38 -> 00:27:43]  once and start cutting. So I mean, if I didn't have it, I would do the same thing on a table
+[00:27:43 -> 00:27:47]  on a table saw with a sled, because you can set a stop block on a sled to
+[00:27:48 -> 00:27:51]  Yeah, you can. Well, depending on how long of a cut you need.
+[00:27:53 -> 00:27:57]  Yeah, of course, depends how big your table saw is as well. So I mean, if you've got a big enough
+[00:27:57 -> 00:28:01]  saw, I mean, because you can get saws that are, you know, four or five feet wide.
+[00:28:01 -> 00:28:06]  So for me, like, here's here's the thing I would say, too, because we keep talking about table saw,
+[00:28:06 -> 00:28:12]  and I'm going to say, I love a table saw, but I think a table saw is best if used in a workshop,
+[00:28:12 -> 00:28:20]  if you have a table built around it, where you have an outfeed table and side feed tables,
+[00:28:20 -> 00:28:30]  things that you can utilize to cut large pieces like, like big sheets of MDF, or something of
+[00:28:30 -> 00:28:36]  that nature. I agree, if you don't have the ability to handle a big piece of MDF, then it's
+[00:28:36 -> 00:28:41]  not not that useful, you need a plenty of room for the outfeed, you do need side feed tables.
+[00:28:41 -> 00:28:47]  And the table saw that I've been working off of, it can do a 30 inch wide cut. But that thing,
+[00:28:47 -> 00:28:51]  you don't want to do a 30 inch wide cut on that thing, it's probably not safe.
+[00:28:52 -> 00:28:58]  And I'll tell you the two, I would say if people said, Hey, what are the two, the two things that
+[00:28:58 -> 00:29:05]  you need the most? If you're just getting in this industry, I would say, forgo all saws,
+[00:29:05 -> 00:29:11]  first of all, because you can typically get Home Depot or Lowe's or any big box store to cut it
+[00:29:11 -> 00:29:17]  for you. Alright, so if if you can't afford a circular saw, which my first thought would be
+[00:29:17 -> 00:29:20]  go grab a cheap circular saw, you get one a yard sale for under 20 bucks typically.
+[00:29:21 -> 00:29:27]  But then the two things you absolutely need is a sander. You need a
+[00:29:27 -> 00:29:32]  sander, a handheld palm sander, I don't care which one, you know, whatever. And,
+[00:29:34 -> 00:29:39]  and, and a router, those would be my two favorite things to get you can you can cut wood with a
+[00:29:39 -> 00:29:46]  router if you want to, if you want to set up a saw, I wouldn't, but you could. But you'll you'll
+[00:29:46 -> 00:29:53]  need it to cut circles and other things. So or should have it 25 Hertz to life has has landed
+[00:29:53 -> 00:29:59]  on one of these things that I think is extremely important and nut and bolt organizer. That is a
+[00:29:59 -> 00:30:06]  that is a must have. That's a must have I think I grew up I grew up on a farm. And, and because we
+[00:30:06 -> 00:30:12]  just went through too many nuts and bolts for all kinds of things. We actually had a huge like wall
+[00:30:12 -> 00:30:17]  of a big we call it the bolt bin nuts and bolts and washers of every size and shape imaginable.
+[00:30:17 -> 00:30:21]  And if you needed one, you just ran and got one. And now when I need one,
+[00:30:21 -> 00:30:24]  I got to run to the damn hardware store because I don't have this giant pile
+[00:30:26 -> 00:30:27]  nuts and bolts to work with. So
+[00:30:31 -> 00:30:37]  I saw another comment that I wanted to highlight. All right, El Fuego said that a bench top belt
+[00:30:37 -> 00:30:42]  sanders next on his shopping list. What are your thoughts on a bench top bench top Sanders in
+[00:30:42 -> 00:30:53]  general? I think Nick has frozen. So Nick has been having camera problems before we got started. And
+[00:30:53 -> 00:30:59]  so it appears that he has frozen and he stopped talking to which means his audio may have died
+[00:30:59 -> 00:31:03]  or he may have muted his mic and he's probably trying to get his camera set up. So we'll just
+[00:31:03 -> 00:31:08]  go ahead and keep going. One of the things that I wanted to talk about and El Fuego bring it up
+[00:31:08 -> 00:31:14]  is brought up as the bench top sander. Yeah, we just lost Nick. Oh, well, we'll, we'll catch him
+[00:31:14 -> 00:31:21]  up here in a minute. He can get back in. So have y'all seen these things? There are these kind of
+[00:31:21 -> 00:31:26]  like a bench top sander on its side that you can change the piece out until you can have a whole
+[00:31:26 -> 00:31:32]  sanding bench or turn it into an oscillating spindle sander. And I wonder if one of those
+[00:31:32 -> 00:31:38]  would be worth having. Let me see if I can pull one up and see an example of that. Hang on one
+[00:31:38 -> 00:31:39]  second while I pull one up.
+[00:32:08 -> 00:32:12]  Here we go. This is the Harbor Freight version. Rigid has one. There are several different
+[00:32:12 -> 00:32:16]  versions like this. So y'all in the chat, what do you think about a machine like this? How
+[00:32:16 -> 00:32:22]  useful is something like this where you can basically use it as a belt sander? You wouldn't
+[00:32:22 -> 00:32:26]  even need like a disc sander. If you've got one of these, just, just this alone. And of course,
+[00:32:26 -> 00:32:30]  it has the spindles down below that you can swap out. So tell me in the chat, what do you think?
+[00:32:30 -> 00:32:34]  Thumbs up or thumbs down on one of these right here, the oscillating edge belt and spindle
+[00:32:34 -> 00:32:40]  sander. Is that a good thing? Coop W says it is garbage. Anybody else agree? Is this garbage?
+[00:32:40 -> 00:32:45]  Is it worth buying? 219 for the Harbor Freight version. And of course, there's other versions
+[00:32:45 -> 00:32:51]  of it. Regular Guy Audio says that they love it. I don't know. I don't know. I don't know.
+[00:32:51 -> 00:32:55]  I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know.
+[00:32:56 -> 00:33:00]  Blake says it's good for finishing work. So this might be something that's worth having.
+[00:33:02 -> 00:33:06]  So we might put it on the list of tools you might want to have in order to speed up your workflow.
+[00:33:07 -> 00:33:12]  And I have no idea what happened to Nick. He might send me a Facebook message. Hang on one second.
+[00:33:13 -> 00:33:19]  Ah, he just lost power. So his power went out at his house. So he lives in a little bit of a
+[00:33:19 -> 00:33:22]  rural area. So that happens sometimes when you live in the middle of nowhere.
+[00:33:22 -> 00:33:26]  And now I got to carry the entire show by myself, which is not something I'm used to doing.
+[00:33:27 -> 00:33:33]  2020 was a tough year for me, but I'm still here. I'm still here. I'm still here. I'm still here.
+[00:33:33 -> 00:33:40]  I'm still here. I'm still here. I'm still here. I'm still here. I'm still here. I'm still here.
+[00:33:40 -> 00:33:46]  Which is not something I'm used to doing. 25 Hertz to life says a mini oven to cook a pizza
+[00:33:46 -> 00:33:50]  and leftovers. Now like a microwave or something might be worth having.
+[00:33:51 -> 00:33:57]  So maybe that would be a good one. And while we're waiting on Nick to get power again,
+[00:34:00 -> 00:34:05]  Brian's got a good comment. The main sander is an 18 inch flat ceramic tile with sanding
+[00:34:05 -> 00:34:08]  paper stuck on its surface. That's a really good thing to do. I like that idea.
+[00:34:10 -> 00:34:17]  I've seen a lot of people build sanding blocks and sanding sticks just by taking some super glue
+[00:34:17 -> 00:34:23]  and gluing some sandpaper onto scraps of wood and whatnot. And that's always an efficient way
+[00:34:23 -> 00:34:27]  to get things done. And while I've got the screen share going, let me pull up this right here
+[00:34:29 -> 00:34:34]  to kind of walk y'all through what it is I'm planning on doing with my new garage setup.
+[00:34:35 -> 00:34:41]  So the entire thing is finished as of now. And I'm in the process of moving all the stuff in,
+[00:34:41 -> 00:34:47]  and this is roughly how I'm going to have it laid out. Towards the front of the garage,
+[00:34:47 -> 00:34:55]  I'm going to have an outfeed table. That's the outfeed table right here and the saw right behind
+[00:34:55 -> 00:35:00]  it. And then I'm going to make sure I've got floor space reserved to pull the truck in.
+[00:35:00 -> 00:35:05]  So the idea here is that I can keep my truck inside of the garage along with all this other
+[00:35:05 -> 00:35:10]  stuff. And then I'm going to do the dust collection right here. Now the question is,
+[00:35:10 -> 00:35:14]  should I go for a big dust collector, like say the Harbor Freight dust collector, or should I just
+[00:35:14 -> 00:35:21]  stick to the Shop-Vac dust collector? So let me know what y'all think about the dust collection
+[00:35:21 -> 00:35:25]  situation. Is it worthwhile to go for one of those big, powerful dust collectors, or should
+[00:35:25 -> 00:35:32]  just stick with a Shop-Vac? Rob, Nick has abandoned me. He actually just sent me a Facebook
+[00:35:32 -> 00:35:39]  message. He's lost power in his house, and that is where he is. So that happens from time to time,
+[00:35:39 -> 00:35:44]  I suppose. It's been a while since I've lost any power. So, but it's good to have you here,
+[00:35:44 -> 00:35:53]  Rob. And we're just talking today about shop stuff in general. Then the plan is this back bench back
+[00:35:53 -> 00:35:58]  here is where I'm going to have my main workbench and test bench. This area right here is where I'm
+[00:35:58 -> 00:36:03]  going to go to when I need to wire up a harness or something like that. This is where I'm going
+[00:36:03 -> 00:36:12]  to be plugging in my, it's where it helps have a second person on. So you don't have to talk the
+[00:36:12 -> 00:36:15]  entire time, it's freedom of consciousness. But back here in the back is where I'm going to be
+[00:36:15 -> 00:36:22]  plugging in my amp dyno station, where I'm going to be plugging in my soldering iron. And this is
+[00:36:22 -> 00:36:26]  where I do all my electrical work on vehicles. The miter saw table is going to go here. And I'm
+[00:36:26 -> 00:36:33]  in the process of building a router table with a lift to go right here in this spot. And so looking
+[00:36:33 -> 00:36:39]  at the chat, as far as dust collection go, bigger is better on the dust collection. So David K says,
+[00:36:39 -> 00:36:44]  go for the biggest dust collection I can get. Anyone else have any thoughts on dust collection?
+[00:36:45 -> 00:36:50]  Blake says a true dust collector is unbelievably worth it. So I'm thinking a dust collector might
+[00:36:50 -> 00:36:59]  be the way to go. Any room to hang stuff from the roof? So I've actually got 10 foot high
+[00:36:59 -> 00:37:05]  ceilings in this thing. So I do have room to hang stuff from the, from the roof. I was thinking
+[00:37:05 -> 00:37:09]  about adding a hoist, hanging it from the ceiling joist over here. So I'm going to add a hoist
+[00:37:09 -> 00:37:15]  I was thinking about adding a hoist, hanging it from the ceiling joist over here. So if I
+[00:37:15 -> 00:37:19]  had something heavy in the back of the truck, I could just hoist it right out. So what are
+[00:37:19 -> 00:37:23]  your thoughts on adding something like a hoist or a lift to a workshop? Is that something that's
+[00:37:23 -> 00:37:42]  worth having? Box fan with filters to help with airborne dust. I think that's what I'm going to
+[00:37:42 -> 00:37:47]  do. I think that's a good idea. I think it would be kind of cool to have some just big fans in the
+[00:37:47 -> 00:37:51]  space so we could keep the place cool in the summertime, because it's going to get hot out
+[00:37:51 -> 00:38:05]  there. Get some says you can make a good dust collector with a barrel and a shop vac. Coop says
+[00:38:05 -> 00:38:09]  got to have the dust collector. So I think I probably will go ahead and upgrade to the dust
+[00:38:09 -> 00:38:18]  collector. Go ahead and get a big industrial one if I can. Dehumidifiers. Now I don't know if a
+[00:38:18 -> 00:38:24]  dehumidifier is worth it or not, especially when you've got an open garage door. So
+[00:38:27 -> 00:38:30]  hot in the South? No, no, no, not at all.
+[00:38:33 -> 00:38:38]  It's just humid. That's just part of it. What I think I'll probably do is right here in this
+[00:38:38 -> 00:38:46]  area, I've got two big windows and I think I'll probably end up putting some big fans in those
+[00:38:46 -> 00:38:50]  windows. Like I'll build a shelf right there to put some fans on and I can pull some air through
+[00:38:50 -> 00:39:00]  the garage. Coop says put the noisy stuff outside. Not a bad idea. Brian Townsend says go for the
+[00:39:00 -> 00:39:05]  mini split for HVAC. That's not a bad idea either. Eventually I'm going to insulate this thing and
+[00:39:05 -> 00:39:15]  end up putting some type of system in. It might just be a windy unit. Melton Performance is here.
+[00:39:15 -> 00:39:22]  Good to see you Mullen. And of course they're talking about a UPS, a backup for a computer
+[00:39:22 -> 00:39:27]  would be handy to have. I wouldn't mind having one of those as well. Most of those UPS backup
+[00:39:27 -> 00:39:32]  systems for computers just keep the computer powered up long enough for you to save things
+[00:39:32 -> 00:39:41]  and shut down. So not that powerful. Rob says as long as we have air moving, it'll be all right.
+[00:39:41 -> 00:39:47]  I agree. I said earlier I grew up on a farm. We never had any air conditioning in any of the
+[00:39:47 -> 00:39:52]  stuff we had on the farm. All the buildings were just barns and sheds and we would just
+[00:39:52 -> 00:40:01]  turn on big fans. Dodgy Brothers Engineering on the Dust Collection says big as you can afford
+[00:40:01 -> 00:40:05]  or fit in your space. You are sucking that stuff in and most of it is dangerous and could be
+[00:40:05 -> 00:40:11]  cancer-forming, especially MDF. Yeah, Rob, if you want to come join the party, I will send you a
+[00:40:11 -> 00:40:16]  Facebook message real quick with the StreamYard link because then I won't just be up here by
+[00:40:16 -> 00:40:23]  myself stumbling around trying to talk to the guys in the chat.
+[00:40:35 -> 00:40:38]  All right, Rob, that link should be heading your way.
+[00:40:41 -> 00:40:43]  Just send it via Facebook message.
+[00:40:43 -> 00:40:49]  And while Rob is getting ready to join in, we will just go right ahead. Swamp coolers. Swamp
+[00:40:49 -> 00:40:54]  cooler is more cost-effective than HVAC system. I like the idea of a swamp cooler, but the problem
+[00:40:54 -> 00:41:00]  with a swamp cooler is they add more humidity into the situation and I would like to get some out.
+[00:41:01 -> 00:41:06]  I know that they've created this new thing that I think is kind of cool. It's basically the same
+[00:41:06 -> 00:41:11]  idea as a swamp cooler. Instead of blowing over the cold air over the ice, it actually circulates
+[00:41:11 -> 00:41:18]  over the ice. So it's like a cooler with a heat exchanger on it and you can just, off you go.
+[00:41:19 -> 00:41:21]  So a little bit more of a high-tech swamp cooler.
+[00:41:23 -> 00:41:28]  Mullen Performance says he has a 24 by 24 garage. It's barn style and the walls are packed with
+[00:41:28 -> 00:41:35]  insulation. I've seen yours on your channel and it looks fantastic. Mine's 24 by 30, so it's just
+[00:41:36 -> 00:41:43]  a hair bigger than yours. In the wintertime, it doesn't get that cold. I'll probably get some
+[00:41:43 -> 00:41:47]  type of propane burner or something like that so I can heat it up quickly in the wintertime if I
+[00:41:47 -> 00:41:51]  need to do a glue up or something. But for the most part, I'm just going to tough it out. The
+[00:41:51 -> 00:41:57]  winters here are actually pretty mild, all things considered. The main thing is I can park a vehicle
+[00:41:57 -> 00:42:04]  in the garage in the wintertime and I don't have to worry about having to scrape my windshields in
+[00:42:04 -> 00:42:12]  the morning when I get up. Regular Guy Audio says take those silica gel packs that come in
+[00:42:12 -> 00:42:15]  everything that gets shipped to you and throw them in your speakers in the basement to keep
+[00:42:15 -> 00:42:19]  the moisture out. That's not a bad idea at all. I might start saving those, start using them for
+[00:42:19 -> 00:42:26]  something productive. Radiant barrier insulation is a must if you have an open roof. I think that's
+[00:42:26 -> 00:42:30]  probably a good idea. I wouldn't mind going spray foam. I think it'd be kind of cool to spray foam
+[00:42:30 -> 00:42:36]  everything. So Robert High Five Vega is going to jump on and he's going to add to the conversation.
+[00:42:37 -> 00:42:42]  Robert High Five Vega, thanks for joining me here in a pinch to kind of fill in for Nick while he's
+[00:42:42 -> 00:42:49]  out and off the grid. So what's going on, man? Nothing much, man. Talking about shops. I love
+[00:42:49 -> 00:42:56]  tools, you know. Man, the last time you were on the show with us, you had the same haircut I did
+[00:42:56 -> 00:42:59]  and look at you with all that hair, man. Oh, I know. It's actually,
+[00:43:00 -> 00:43:05]  it needs to be cut right now. I'm willing to grow it out some, but we're not going to go
+[00:43:05 -> 00:43:11]  hippie here. It's going to be a thing. So Rob, you joined us a little bit late and so I'd like
+[00:43:11 -> 00:43:17]  to get your opinion on a couple of things. What are some tools that are must have if you were
+[00:43:17 -> 00:43:22]  going to put together a shop, right? So if you were making the High Five Vega shop, what are
+[00:43:22 -> 00:43:27]  some things that are a must have? For example, do you think a drill press is a must have or is
+[00:43:27 -> 00:43:35]  that leave it off the list? Dude, it's so like if you're only going to be doing box builds,
+[00:43:36 -> 00:43:41]  I would say drill press is not absolutely necessary. But if you want to start doing
+[00:43:41 -> 00:43:45]  any kind of metal fabs like aluminum, if you're wanting to do some custom distribution block,
+[00:43:46 -> 00:43:52]  you need a decent drill press. That's the thing. It's like if it's only a wood shop,
+[00:43:52 -> 00:43:57]  I think you could get away without it. If it is going to be more than a wood shop,
+[00:43:57 -> 00:44:01]  I would consider it. What are your thoughts on a shop press?
+[00:44:02 -> 00:44:07]  Again, for like doing fabrication work, because I know Car Audio Fab, for example,
+[00:44:07 -> 00:44:11]  likes to do those molded metal projects where he has the mesh and he molds it and he has a
+[00:44:11 -> 00:44:18]  shop press for that. Deviant says turn your mic up, Rob. Okay, I can come up here. Let me see.
+[00:44:18 -> 00:44:23]  Sounds fine to me, but I'm just loud. Yeah, but but do you think a shop press is worth having?
+[00:44:24 -> 00:44:29]  Yeah, I mean, I do a lot of mechanic work. So in my experience, a shop press is going to be
+[00:44:29 -> 00:44:34]  handy for ball joints and stuff like that. But besides that, I think like the pressing
+[00:44:34 -> 00:44:39]  of the, you know, mesh, if you need to make some kind of mold for something,
+[00:44:39 -> 00:44:43]  I don't know that I'd get an expensive one, I'd probably get the cheap Harbor Freight one that's
+[00:44:44 -> 00:44:49]  like 125 bucks. But yeah, I think it'd be worth it if you get it cheap enough.
+[00:44:50 -> 00:44:55]  I think that's one of those things that it's like the big dust collector from Harbor Freight. They
+[00:44:55 -> 00:45:00]  were on sale this last week last week, and there were 200 bucks on sale. And so I did pick one up,
+[00:45:00 -> 00:45:05]  actually, I've been talking about on the channel. So I went ahead and ordered a nice air filter for
+[00:45:05 -> 00:45:11]  it. It came in today. I spent almost as much on the air filter as I did on the thing. So
+[00:45:12 -> 00:45:16]  they got a lot of hacks for those. People do a lot of hacks with those, you know.
+[00:45:17 -> 00:45:22]  So I was asking questions. I forget about what I'm trying to figure out how best to wire it. I'm
+[00:45:22 -> 00:45:28]  going to need to add another circuit to the circuit breaker and run the VAC on its own
+[00:45:28 -> 00:45:31]  circuit. And so I popped into the Den of Tools Facebook page.
+[00:45:31 -> 00:45:36]  I've seen it. I've seen the post. We're both, listen, we're both nerds. We're both on the
+[00:45:36 -> 00:45:42]  same page. And people were giving links to like, you can replace the impeller in those things with
+[00:45:42 -> 00:45:46]  an impeller with bigger blades, apparently, and upgrade the impeller. I'm looking at that going,
+[00:45:46 -> 00:45:51]  I don't know if I'm going to fool with that. But this thing after I run it, I've already ordered
+[00:45:51 -> 00:45:56]  one of those things. It fits on the top of a trash can. That's just a tube in, tube out to
+[00:45:56 -> 00:46:00]  separate. It's basically the cheapest separator that's out there. And so today before the live
+[00:46:00 -> 00:46:06]  stream, I went and put the good filter on it and fired it up and threw a handful of sawdust in it.
+[00:46:07 -> 00:46:12]  You know, suck the sawdust up. That's what it does. It's got a lot more suction than a shop vac.
+[00:46:13 -> 00:46:16]  Dude, that's going to be such a nice upgrade. Like you're going to,
+[00:46:17 -> 00:46:21]  what, even if you spent, if you spent a thousand dollars on dust collection,
+[00:46:21 -> 00:46:25]  you would still be happy with the amount of money you spent. So the, you know,
+[00:46:25 -> 00:46:28]  spending three, four, 500 bucks, definitely worth it.
+[00:46:29 -> 00:46:35]  Oh yeah. Oh yeah. I'm looking forward to that. I'm going to run some for now. I'm just going to
+[00:46:35 -> 00:46:41]  use some, some of the four inch tubing to run to things. The first thing that I actually build,
+[00:46:41 -> 00:46:45]  you know, first thing I run on the, on the run through the saw in the new shop is going to be
+[00:46:45 -> 00:46:50]  the stuff I need to build a box to go under the router table. I've, you remember last year we
+[00:46:50 -> 00:46:55]  were talking about this. I, I bought one of those router lifts and I never had the chance to put it
+[00:46:55 -> 00:47:00]  together. And I went ahead and bought some melamine and built a router table. So I've got a router
+[00:47:00 -> 00:47:04]  table with a lift sitting in it and it's, it's looking nice and ready to go. I just need to build
+[00:47:04 -> 00:47:09]  a box underneath it so I can hook the dust collection up to it. So that's been a long,
+[00:47:09 -> 00:47:15]  nice. That's like my dream would be to have a multi router table, just a minimum of two,
+[00:47:15 -> 00:47:21]  just so I can have round over bits on one flush cut, you know, flush trim bits, flush cut grits
+[00:47:21 -> 00:47:27]  on the other. The, the way I've got it built, I can take the top off and cut a second one in.
+[00:47:27 -> 00:47:32]  So if I really wanted to do that, I could, and I've got two routers though. All right. Deviant
+[00:47:32 -> 00:47:37]  for life. Ask a question, a surface planer, yes or no, is a planer important for an audio shop
+[00:47:37 -> 00:47:41]  for a wood shop? I'm going to say a hundred percent. Yeah. I'd love to have a planer.
+[00:47:41 -> 00:47:44]  I'd actually rather have a jointer than a planer. I'd like to have both.
+[00:47:46 -> 00:47:50]  But for what we do, you're not going to be doing a lot of rough cut. I mean, a planer,
+[00:47:50 -> 00:47:56]  if you're going to be using like a lot of solid wood, probably, but a jointer, you're right.
+[00:47:56 -> 00:48:00]  A jointer for us would be more important if you're going to be using. And, and it's still
+[00:48:00 -> 00:48:04]  a wood shop thing. I think for the stuff we use, we don't need either, but if you're going to be
+[00:48:04 -> 00:48:09]  doing, you, you never want a unit tasker. So you want your shop to be kind of a little bit of
+[00:48:09 -> 00:48:15]  everything. Right. So that's something you got to consider. So, okay. As I think about how useful a
+[00:48:15 -> 00:48:21]  planer, jointer, jointer, planer, you know, the two separate tools would be, I would love to try
+[00:48:21 -> 00:48:26]  to make some boxes that look really nice. That's because I, you know, cause I make stuff and I look
+[00:48:26 -> 00:48:30]  at it and I go, ah, it didn't look all that nice. I'm not happy with anything that I make.
+[00:48:30 -> 00:48:34]  And, you know, you see all these woodworking channels on YouTube where the guys are
+[00:48:34 -> 00:48:38]  taking chunks of hardwood, cutting them up, gluing together, running them through jointers
+[00:48:38 -> 00:48:42]  and planers and gluing them back together and rearranging and gluing them back together.
+[00:48:42 -> 00:48:47]  Something like that would make a great speaker baffle. And it would be better than just using
+[00:48:47 -> 00:48:51]  a piece of hardwood because it'd be directionally stable because all those pieces are going a
+[00:48:51 -> 00:48:56]  thousand different directions. Right. And so something like a planer, so you could
+[00:48:56 -> 00:49:01]  joint something together cause you can joint on a table saw. Right. And then, and then maybe put
+[00:49:01 -> 00:49:05]  something together and have some cool patterns and whatnot on the front of your speaker baffle.
+[00:49:05 -> 00:49:10]  That might be kind of cool. That definitely would be cool. It'd be, it'd be a kind of
+[00:49:10 -> 00:49:14]  one-off situation, but it would be, I would say like I've used actually as an experiment,
+[00:49:14 -> 00:49:22]  I've built an enclosure out of pine. So one by four pine and for, and all I've done on a
+[00:49:22 -> 00:49:29]  six and a half enclosure, it's like a 0.5 ported 35 Hertz. It's not bad. I didn't, I don't know
+[00:49:29 -> 00:49:33]  how well it'll translate to like, if you tried it with a 15, you're probably going to have some
+[00:49:33 -> 00:49:40]  issues, but on, on a six inch subwoofer enclosure, it wasn't bad. It sounds okay. And it's,
+[00:49:41 -> 00:49:47]  there's no crazy resonance or. I think it would probably be fine for a set of bookshelf speakers.
+[00:49:47 -> 00:49:51]  And there are things you can do to help lower the resonance. There's all kinds of tricks for,
+[00:49:51 -> 00:49:56]  for the residents and stuff. So, so tell me your opinion on the layout that I've got. And so the
+[00:49:56 -> 00:50:02]  way I've got my plugs arranged, this, this layout is pretty much set in stone at this point. So the
+[00:50:02 -> 00:50:07]  idea here is on the right-hand side, I've got space to pull the truck in. Right. And then on
+[00:50:07 -> 00:50:12]  the left-hand side, there's going to be an outfeed table, the table saw, dust collector in
+[00:50:12 -> 00:50:18]  this area here, I can zoom in and then router table, which is extra tall, by the way, I've
+[00:50:18 -> 00:50:24]  already built it and it's really tall. My miter table. And then after that, it's my main work
+[00:50:24 -> 00:50:30]  bench where I've got all of my soldering iron, my power supply, that kind of stuff. At least one
+[00:50:30 -> 00:50:34]  table on wheels that I can roll around. Then I'm going to make some, buy some toolboxes and put
+[00:50:34 -> 00:50:39]  in this corner over here. And, and so what are your thoughts on the workflow? What could be done
+[00:50:39 -> 00:50:45]  to improve the workflow? I'll tell you right now that the top left corner on your workbench,
+[00:50:45 -> 00:50:53]  that spot that conjoins with this is going to be a collection spot. Since the way it's set up,
+[00:50:53 -> 00:50:59]  it's that's in every shop I've ever been in and worked in. If it's not accessible by walking,
+[00:50:59 -> 00:51:04]  it's a collection spot for stuff, which is fine, but maybe plant some storage in that spot or
+[00:51:04 -> 00:51:12]  gotcha. Gotcha. Right. Right. It's a spot where that stuff's going to pile up. Yeah. Yeah. I'm
+[00:51:12 -> 00:51:16]  not happy with the toolboxes over here. Cause I find I'm always running to get tools. I've already
+[00:51:16 -> 00:51:23]  got a couple that I've got placed over there. Right. So, so, so Nick has, has jumped into the
+[00:51:23 -> 00:51:29]  chat and the power is out. And so he is, he will not be back for the night, but that's okay. Because
+[00:51:30 -> 00:51:35]  Rob saw me struggling and trying to run the show by myself and he jumped in and saved the day. So
+[00:51:35 -> 00:51:41]  I'm not a pure Babylon to myself. Hope you get power Nick soon. Yeah. Yeah. It's the, you know,
+[00:51:41 -> 00:51:45]  what's funny is like, so Nick and I aren't that far from each other. And so if it was a storm
+[00:51:45 -> 00:51:50]  that took his power out, it's going to be here in a couple of hours. Right. And I wasn't aware of
+[00:51:50 -> 00:51:54]  any bad weather moving through the area. So maybe something went wrong, like a car hit a pole or
+[00:51:54 -> 00:51:58]  something like that. When you live, when you live a little bit out in the middle of nowhere, cars
+[00:51:58 -> 00:52:05]  hit poles and you lose power for a day. So, you know, what might be a good addition under that
+[00:52:05 -> 00:52:11]  table, your workbench table, a lazy Susan underneath there for stuff you don't use all the
+[00:52:11 -> 00:52:17]  time. Cause that's just going to be an empty space. Yeah. I like that idea. So this space
+[00:52:17 -> 00:52:22]  over here, it's actually, you know, the way it actually is laid out, everything slid towards
+[00:52:22 -> 00:52:26]  the front a little more and there's room to stand right here because I've got, I've got pulled out
+[00:52:26 -> 00:52:30]  drawers in this workbench here. And so that, you know, those things are, they're on a, they're 24
+[00:52:30 -> 00:52:35]  inch deep and they're on full extension drawer slides. I made those myself. And so I got two
+[00:52:35 -> 00:52:40]  banks of those and they'll slide all the way out this space in between two big windows. I'm going
+[00:52:40 -> 00:52:46]  to put a shelf there and put some fans there. So that'll be nice. Yeah. Yeah. You just got to keep
+[00:52:46 -> 00:52:50]  the air. You know, it's hot in the South. We already know it is. We live in the South, but
+[00:52:50 -> 00:52:57]  if you keep air moving, it's, it's bearable. Right. Right. That is, that is the truth.
+[00:52:57 -> 00:53:03]  You just got to keep the air moving. So what are some things, what are your thoughts on
+[00:53:03 -> 00:53:07]  including like a hoist in the ceiling? Cause you can go to like Harbor Freight and get a
+[00:53:07 -> 00:53:10]  hoist that can lift 600 pounds pretty cheap. Is something like that worth having?
+[00:53:12 -> 00:53:17]  You know what? I mean, we're not getting any younger and some of these big enclosures,
+[00:53:18 -> 00:53:21]  I think it would be, especially if you don't already have like a lift cart,
+[00:53:21 -> 00:53:26]  if you have a lift cart, you know, the, you know, we both watched the tool bear,
+[00:53:26 -> 00:53:30]  he's big on the lift cart. And for good reason, they're, they're, they're useful for heavy stuff.
+[00:53:31 -> 00:53:36]  But I would, I would consider a hoist depending on how it's going to place it. What I was going
+[00:53:36 -> 00:53:41]  to use it. Is it going to be on the track system? Is it going to be stationary? There's a lot of
+[00:53:41 -> 00:53:44]  factors into whether I'd want one or not. Cause you can get them cheap enough.
+[00:53:45 -> 00:53:51]  I, I do have a, I do, I am, I am going to do a hoist just simply because I think it's a good
+[00:53:51 -> 00:53:55]  idea to have one just in case I need it again, you know, not getting any younger. I don't want to,
+[00:53:55 -> 00:53:58]  I don't want to hurt my back again. And I've got one of those lift carts and that thing is,
+[00:53:58 -> 00:54:02]  I couldn't have gotten all the stuff moved in without it because that big workbench with the
+[00:54:02 -> 00:54:07]  pulled out stores, all I did was take the loose stuff off the thing and jack it up with that
+[00:54:07 -> 00:54:12]  sucker. And off we go. Heck yeah. They're expensive, but they're worth it.
+[00:54:15 -> 00:54:20]  El Fuego's got a question. Uh, the shop audio system, what, what kind of audio system do we
+[00:54:20 -> 00:54:27]  need in the shop? Um, I don't have an audio system in the shop at the moment. I've got an old
+[00:54:27 -> 00:54:31]  receiver sitting out there in the way that I need to hook some speakers up to, I guess I just need
+[00:54:31 -> 00:54:35]  to build some speakers. I just need to actually make some shop speakers. What I'd like to do is
+[00:54:35 -> 00:54:41]  use some of those, uh, those, um, uh, those panels like with the, um, the installation phone.
+[00:54:41 -> 00:54:45]  Yeah. Put the little exciters on them and hang about 10 of those from the ceiling.
+[00:54:45 -> 00:54:48]  Oh yeah. That'd be cool. So no matter where you are, you've got a speaker.
+[00:54:49 -> 00:54:53]  You know what I use right now, an old cheap soundbar we used to have,
+[00:54:54 -> 00:55:01]  and I just, I hung it on the wall and I had car stereo in there, right. But people, it carries
+[00:55:01 -> 00:55:05]  so much further with car stereo and people, I was getting some complaints. I was like, you know,
+[00:55:05 -> 00:55:10]  we'll dial this back just enough where I can hear it and, and it'll be good enough.
+[00:55:10 -> 00:55:14]  Brian still says no receiver in the shop, but you're doing a really good job of dust collection.
+[00:55:15 -> 00:55:20]  You know what, if it's an old one. So the, um, I have, um, a Denon receiver, something fancy was
+[00:55:20 -> 00:55:25]  my home theater receiver for the, for the home theater system inside the house. And every time
+[00:55:25 -> 00:55:30]  we get a lightning strike, I would lose an HDMI channel on it. And that thing got to the point
+[00:55:30 -> 00:55:37]  where the only the front panel channel was working and it was like, well, so that one is the one
+[00:55:37 -> 00:55:42]  that's out in the garage. And if it dies, it dies. David, thank you so much for the $10 super chat.
+[00:55:42 -> 00:55:48]  That means the world to me. Um, it's, it's so awesome to get that kind of support from people
+[00:55:48 -> 00:55:51]  and it's not just the money, it's the support and it's just really awesome. Thank you so much,
+[00:55:51 -> 00:55:55]  David. Um, so Rob, let me show you this right here. At least if I can find a picture of this,
+[00:55:55 -> 00:56:01]  give me just a second. Um, so what are some of the things you've been included in a shop? What do
+[00:56:01 -> 00:56:06]  you, what do you think Sanders? What are some things, how important is a refrigerator to you?
+[00:56:07 -> 00:56:12]  Um, a refrigerator is not so important to me because my shop is my garage and it's right
+[00:56:12 -> 00:56:19]  next to the house. But depending on how far your house is away from your shop, you don't want to
+[00:56:19 -> 00:56:23]  be walking in mud possibly. I definitely consider it because you're going to need some kind of
+[00:56:23 -> 00:56:29]  frosty beverage, you know, maybe a hard iced tea or something, you know. And for you, it's more about
+[00:56:29 -> 00:56:35]  the, um, the getting back and forth as opposed to anything else.
+[00:56:36 -> 00:56:41]  What, see, to be honest with you, I drink enough of these Coke Zeros that I don't need to be close
+[00:56:41 -> 00:56:48]  to them. Honestly, I should just keep water in there, like cold waters. That would be my best
+[00:56:48 -> 00:56:52]  bet because you know what, you know how it gets when you get out there and if you're not watching
+[00:56:52 -> 00:56:57]  it, man, you will just start pounding these, these colas down before you go. And it's like,
+[00:56:57 -> 00:57:03]  then you feel worse and yeah, it's a big ordeal. Deviant for life is correct. I need a maker's
+[00:57:03 -> 00:57:10]  mark cabinet. Right. All right. So here's what it looks like on the inside. Um, it is a 24 by 30
+[00:57:10 -> 00:57:16]  and I've got eight 5,000 lumen LED lights. Uh, I was just going to say it, it looks very well lit
+[00:57:16 -> 00:57:20]  because it looks like you shot this at night. Yep. I was standing outside, took a picture at
+[00:57:20 -> 00:57:26]  night. So it's pretty, it's well lit. Uh, let's see here. Oops. That is not what I wanted to show
+[00:57:26 -> 00:57:30]  you. Let's see if I can find another picture here. So yeah, the lighting is, uh, the lighting
+[00:57:30 -> 00:57:36]  is pretty solid. It does the, does the job. So that's, that's some pretty good lights as far
+[00:57:36 -> 00:57:42]  as the size goes. So there is a, there's a shot of it, uh, with my truck in it. Okay. So from the
+[00:57:42 -> 00:57:47]  back corner, so lots of, uh, lots of room, plenty of room to get the vehicle in as well. Uh, here's
+[00:57:47 -> 00:57:54]  a shot with, here we go. Just for kicks and giggles. I got the entire fleet in it. There you go.
+[00:57:55 -> 00:57:59]  Um, if I had been driving the cars and parking them myself, instead of waving me and family
+[00:57:59 -> 00:58:03]  members, I could have probably gotten all three of them in a hundred percent, but the two Kia's
+[00:58:03 -> 00:58:08]  back and forth back in front of each other, just about two inches shy of the garage door closing.
+[00:58:08 -> 00:58:12]  So, so just for kicks and giggles, I want to see if I can get the entire fleet in there. So that's
+[00:58:12 -> 00:58:17]  my, my kid's car and my wife's car, all of them fit in there as well. So that's, that's a load
+[00:58:17 -> 00:58:22]  of fun. Um, I've got, uh, I'm adding some toolboxes guts, got a pair of these from Harbor freight.
+[00:58:22 -> 00:58:26]  I'm going with the blue color. It's kind of a channel. It's a color theme. So, right. Um,
+[00:58:27 -> 00:58:33]  I got the kicker stool. Thanks a lot to the guys. Yeah. So, uh, thanks to kicker for hooking me up
+[00:58:33 -> 00:58:38]  with some stools. That's always nice. And let's see here. Where is the, here we go.
+[00:58:41 -> 00:58:48]  Ooh. Oh, a soft stop, man. I've been saving up four months and I got a soft stop.
+[00:58:49 -> 00:58:54]  And so the better feeling in the word, like you, I don't think people enjoy cause they,
+[00:58:54 -> 00:58:58]  they use the credit cards or whatever, but when you have to save monthly for something
+[00:58:58 -> 00:59:04]  and then you finally get it, dude, it just feels so good. Yeah. I've been saving up for a while
+[00:59:04 -> 00:59:07]  for that. And I've saved up and I got the soft stop. And so it's in there now. I just need to
+[00:59:07 -> 00:59:14]  get the dust collection. Um, just need to get the dust collection up. Yes. They gave me a stool
+[00:59:14 -> 00:59:19]  sample. Uh, just need to get the dust collection up and running. And as soon as the dust collection
+[00:59:19 -> 00:59:24]  is up and running, um, I'm going to start running stuff through the saw. So, but I'm excited about
+[00:59:24 -> 00:59:28]  the saw stop. It was a bit of a pain to put together. Um, I had some problems with the
+[00:59:28 -> 00:59:37]  shipping. Um, yeah, I'm definitely Jeff. I I'm considering going to a track saw simply because
+[00:59:37 -> 00:59:43]  my garage is so small and I need to maximize space. And to be honest with you, I've built so
+[00:59:43 -> 00:59:50]  few enclosures compared to what I normally do that I'm a track saw. Maybe the way to go for me.
+[00:59:51 -> 00:59:57]  I thought long and hard about it. I had a good conversation with Stu from Stu's custom shop there
+[00:59:57 -> 01:00:03]  and he's a big track saw fan. And, um, and a track saw would have, would have been an option,
+[01:00:03 -> 01:00:08]  but I just kinda like years ago decided that one day I want to, I want to save up enough money to
+[01:00:08 -> 01:00:14]  buy a saw stop. And that's what I did. Uh, it's not the top of the line saw stop by any stretch
+[01:00:14 -> 01:00:20]  of the imagination. This is their, um, they have four models. Uh, their beginning model is, Hey,
+[01:00:20 -> 01:00:25]  Baba, thank you so much for the super chat, man. Appreciate that a whole lot. Um, the entry level
+[01:00:25 -> 01:00:32]  model saw stop is, um, is like the saw that I, that I had, it folds up. So I, so it's a
+[01:00:32 -> 01:00:37]  worksite saw. You can roll it to the worksite. Fantastic saw. It's like 1800 bucks, right? It's
+[01:00:37 -> 01:00:44]  like, okay, mine was like less than 300. So, um, uh, Andy, good to see you. I'm glad to see you
+[01:00:44 -> 01:00:51]  pop in. Um, but, um, and so, but that little saw, it did a, it did a good job. It was getting old
+[01:00:51 -> 01:00:56]  as we get into wearing out. I sold it this last weekend to somebody. So, um, you know how things
+[01:00:56 -> 01:01:00]  go. It was kind of getting rid of the old tools, kind of sad to see it go. Cause I've done so much
+[01:01:00 -> 01:01:05]  cool stuff with that thing. But, um, but having a good solid saw is just something I've been
+[01:01:05 -> 01:01:09]  wanting for a long time. Uh, the next one up was the one that I got. That's what they call
+[01:01:09 -> 01:01:16]  the contractor saw. So this is, um, um, you know, cast iron top. Uh, it's, uh, uh, the motor is on
+[01:01:16 -> 01:01:21]  a belt, so it's belt driven. Right. And, uh, you know, it sits on a base, it sits on rollers. I
+[01:01:21 -> 01:01:26]  opted to expand it a little bit. So I got three feet of cut width on it. I can rip three feet
+[01:01:26 -> 01:01:32]  wide. Uh, and the next level up, they call their, um, they call that the cabinet saw, right? Uh,
+[01:01:32 -> 01:01:37]  forget what they call it, but then the next level was the professional saw like that professional
+[01:01:37 -> 01:01:41]  saw. You can get like a 10 horsepower motor on that thing. And it's like, that's, that's brutal,
+[01:01:41 -> 01:01:45]  but the there's two uplevel ones. You got to have two 20 in order to do it. I don't have any two 20
+[01:01:45 -> 01:01:49]  in the garage. It's a 60 amp service. It's got plenty of, plenty of juice for what I'm going to
+[01:01:49 -> 01:01:55]  do. I just don't have any two 20 plugs and that's fine. Yeah. What did this, the soft stop is going
+[01:01:55 -> 01:02:02]  to be super nice. It's even, even their entry level stuff is comparable to some of the nicest
+[01:02:02 -> 01:02:08]  Deltas out there. So at least that you can buy at a regular store. Yeah. I mean, this is, um,
+[01:02:08 -> 01:02:13]  my kind of feeling on the table saw is that, uh, yeah, two 20, two 40, it's, it's, it's double
+[01:02:13 -> 01:02:17]  or whatever. Right. Is it, is it baseline one, one 10 or is it one 20? I mean, it's somewhere
+[01:02:17 -> 01:02:23]  between the two, but it is right. It's always, it's somewhere in between there. It's not always
+[01:02:23 -> 01:02:29]  one 20. Right. Yeah. But, uh, I added some, I had to add a cord reel to the ceiling. I've got plugs
+[01:02:29 -> 01:02:35]  in the ceiling, which is real nice. And so, uh, so I'm not going to be stumbling over extension
+[01:02:35 -> 01:02:37]  cords. And that's probably the one thing I'm looking forward to the most, because I can't
+[01:02:37 -> 01:02:43]  tell you how many times I've knocked over the lights that I'm using in the garage and busted
+[01:02:43 -> 01:02:48]  one of those $20 light bulbs that you got to use for photography. And so there goes a $20 bill.
+[01:02:48 -> 01:02:55]  Great. Yeah. I've considered putting track lighting in here just, you know, so I can spotlight
+[01:02:55 -> 01:03:00]  different areas. I don't know. I I'd like to have a different solution than what I have doing videos.
+[01:03:02 -> 01:03:06]  I've been thinking about that. That'd be kind of cool. Wouldn't mind having a, having some,
+[01:03:06 -> 01:03:10]  some lights hanging off some tracks. So go to Home Depot and get some Unistrut and start
+[01:03:10 -> 01:03:17]  hanging some lights. Right. Well, all right. Well, Rob, what have you been up to on your
+[01:03:17 -> 01:03:21]  channel lately, man? Dude, I didn't have a video this week cause I've been working on stuff,
+[01:03:21 -> 01:03:30]  but I'm, I'm doing a crazy test. Stuff may blow up. The patrons have already seen some of the
+[01:03:30 -> 01:03:35]  what's going on, but it's going to be cool. I don't want to spill the beans just yet on that,
+[01:03:35 -> 01:03:41]  but I'm working. I've got an aerylic streamer, like the one, you got the amp, I got the streamer.
+[01:03:42 -> 01:03:49]  So, so that'll be coming up soon. I have some good ideas for that. I also just got a 1500 watt
+[01:03:49 -> 01:03:55]  pure sine wave inverter. So a company sent me that, or they reached out to me. I was like,
+[01:03:55 -> 01:04:00]  you know what? This is perfect because this is the perfect way to compare lithium to AGM.
+[01:04:01 -> 01:04:07]  I can just, I can do the test with a kilowatt meter and we can see what's what. That sounds
+[01:04:07 -> 01:04:14]  dangerous. Yeah, definitely. That sounds dangerous. All right. So I got a question about, about that
+[01:04:14 -> 01:04:19]  for you right there. So right now for my amp dyno set up, and if you saw the video that I just
+[01:04:19 -> 01:04:27]  dropped, I tested a JP8 and I ran out of juice. So I've got one of those hundred amp power supplies.
+[01:04:27 -> 01:04:34]  It's a power max. Yes. The PM4 100 amp hooked up to a Walmart battery, right? Nothing special.
+[01:04:34 -> 01:04:38]  They're just, just walked in. What's the biggest battery you got? I'll take it. Put it in the cart.
+[01:04:38 -> 01:04:45]  Let's go. So, so basically that thing, you get about 900 watts and it runs out of juice, right?
+[01:04:45 -> 01:04:50]  That's about all I can get out of one of those things. And I happen to have two plugs on separate
+[01:04:50 -> 01:04:55]  circuits, 20 amp circuits, and we're in that far corner, right? One of those plugs is all by itself
+[01:04:55 -> 01:04:58]  and somehow the electricians ran through. I was like, oh yeah, there's only one on that one.
+[01:04:58 -> 01:05:04]  Great. That's actually perfect, right? So now I can hook up two of those. If I had two of those,
+[01:05:04 -> 01:05:10]  what kind of battery system do I need in order to, in order to support a bigger amplifier? Because
+[01:05:10 -> 01:05:14]  I'd love to be able to test the 3000 watt amp. I don't know if I'll ever be able to,
+[01:05:14 -> 01:05:22]  maybe 1500 will be my max. So right now I have four H8 Walmart AGMs.
+[01:05:24 -> 01:05:30]  And I can test 3000 watts with those four and the 100 amp power max. I switched to the power max.
+[01:05:31 -> 01:05:36]  The Cosell, I could do a little more. No, no, no, no. The Cosell, I could do 3000 watts with those
+[01:05:36 -> 01:05:46]  four. The power max I can do like 2500 ish watts with those four. But I mean, I would consider
+[01:05:46 -> 01:05:50]  lithium. Dude, they're so expensive, but it's expensive to get four of those batteries.
+[01:05:50 -> 01:05:56]  Right. Though the power max owner's manual said that they didn't recommend using them
+[01:05:56 -> 01:06:02]  with lithium batteries. Are they wrong? Well, I mean, you can control how far you want to
+[01:06:02 -> 01:06:07]  charge it. So you're choosing your voltage. Right. Right. Because you can adjust the voltage
+[01:06:07 -> 01:06:11]  on the power max. Yeah. Yeah. And that power max also has just a current and then a charge state.
+[01:06:12 -> 01:06:19]  Right. Right. It has, you can set it to like, like say the, the, it's like 14.8. So max charge,
+[01:06:19 -> 01:06:23]  you can set it to 14.8, put it on charging or only charge of 14.8.
+[01:06:24 -> 01:06:29]  So Adir, if I ever find my 10 millimeter, I'll let you know. Oh, hey, I just, I, there was a
+[01:06:29 -> 01:06:32]  question on the screen I wanted to ask you. Let me go to that question real quick before we get
+[01:06:32 -> 01:06:37]  back to the battery. A bandsaw. What are your thoughts on a bandsaw in a DIY audio shop?
+[01:06:38 -> 01:06:43]  I love them. I sold mine because it took up two inch room. I had a really nice 12 inch Craftsman,
+[01:06:43 -> 01:06:49]  an old one, and that I got from a buddy, but man, it just took up some, you got to shop though. So
+[01:06:49 -> 01:06:52]  I'm working out of a garage. You're working out of a shop. If I had a shop,
+[01:06:53 -> 01:07:00]  100%, I'm having a bandsaw in there just for not, not only for cutting like small things,
+[01:07:01 -> 01:07:07]  but cutting curves or curves. Yeah. It's just nice to have them. Yep. Yep. Cause he, you know,
+[01:07:07 -> 01:07:11]  you can make your own, uh, make your own curve templates. Jason, I forgot what size the battery
+[01:07:11 -> 01:07:16]  was. I just, the biggest on the bottom shelf at Walmart, whatever that was, it was a thousand
+[01:07:16 -> 01:07:22]  gazillion cold cranking amp battery. It was a huge one. Um, but, uh, okay. So the way those
+[01:07:22 -> 01:07:26]  power max inverters work for those who don't know, there's two controls on it and there are this,
+[01:07:26 -> 01:07:29]  you know, they're, they're recessed inside the frame. You got to take a little screwdriver
+[01:07:29 -> 01:07:32]  in there. You can hardly see it. You got to get your light out on your phone so you can see what's
+[01:07:32 -> 01:07:37]  going on. And one of them is a switch between the two modes. Uh, one mode is a charging mode,
+[01:07:37 -> 01:07:42]  which is kind of its intended use. And once it's designed to do is to actually take care of the
+[01:07:42 -> 01:07:47]  battery, right? It's a battery maintainer and charger. And the idea here is it's made for
+[01:07:47 -> 01:07:53]  someone who has like a mobile, um, um, um, on a mobile home, uh, an RV, right. Or a boat or
+[01:07:53 -> 01:07:57]  something. So you, you, you pull in, you plug this thing in, you charge your batteries. That's
+[01:07:57 -> 01:08:05]  what it's made for. And, um, and then it has, um, uh, uh, a potentiometer so you can set the voltage
+[01:08:06 -> 01:08:11]  down to 12 up to about like, like 15 or 16. I think you can really crank it up. Um,
+[01:08:12 -> 01:08:17]  and so, and so the other mode, uh, the voltage control does the same thing, but the other mode
+[01:08:17 -> 01:08:22]  is just like full on power. We're going for it. Right. It's not what it's not because the first
+[01:08:22 -> 01:08:27]  mode it'll, it'll actually monitor the batteries. It'll, it'll give them a lot of juice until they
+[01:08:27 -> 01:08:31]  get them topped off and they just kind of maintain them. And so during the test, you put it on the,
+[01:08:31 -> 01:08:35]  let's go mode, right? You put it on go mode. Um, and I'm always a little freaked out by that
+[01:08:35 -> 01:08:41]  because I remember when I was a kid growing up on the farm, I was out in the tobacco patch with a
+[01:08:41 -> 01:08:48]  hoe, the tool, not the, uh, um, uh, hoe and tobacco. I heard this loud explosion come from
+[01:08:48 -> 01:08:52]  the shop right next to the tobacco patch. And I thought to myself, Oh crap, something's happened,
+[01:08:52 -> 01:08:56]  you know? And you know, it sounded like a gun going off and it was a battery that blew up.
+[01:08:56 -> 01:09:00]  Um, and it's like, you know, my dad was in there with it and he didn't seem to rattle about it
+[01:09:00 -> 01:09:05]  cause nothing held old man like that. Nothing rattles him. It scared the hell out of me.
+[01:09:05 -> 01:09:09]  I thought someone had gotten shot and so that's left me scarred. And so I'm scared of blowing
+[01:09:09 -> 01:09:14]  up a battery. Uh, and so I want to not blow up any batteries and I want to be able to test
+[01:09:14 -> 01:09:21]  amplifiers up to about 3000 Watts. Yeah. You just need more. As long as you don't overcharge them,
+[01:09:21 -> 01:09:25]  you're going to be okay. Cause you know, a lead acid is just as volatile if you overcharge it
+[01:09:25 -> 01:09:32]  as a lithium. Gotcha. So no, this was, this was on a, you know, it was on one of those boosters
+[01:09:32 -> 01:09:36]  that you plug into the wall so you can jump a battery off. Uh, you know, I mean, it wasn't,
+[01:09:36 -> 01:09:41]  it wasn't on a, on a, on a battery tender or anything like that. Yeah. And the good thing
+[01:09:41 -> 01:09:47]  about like, if you're doing DIY lithium or you're buying a lithium, a lot of those have battery
+[01:09:47 -> 01:09:56]  management systems, edgy and batteries do not. So you there protection circuits in place to stop
+[01:09:56 -> 01:10:01]  bad things from happening. Now, if you're doing DIY lithium and you don't have any kind of active
+[01:10:01 -> 01:10:08]  balance or any kind of BMS, uh, you're talking something totally different. Right. Oh, well. And
+[01:10:08 -> 01:10:11]  the thing is I noticed, and I've learned this from watching your channel for sure. A lithium
+[01:10:11 -> 01:10:17]  battery is expensive, but that little expensive lithium does what four big AGMs do and they cost
+[01:10:17 -> 01:10:22]  the same and take up less space. And I've, I've got more that I want to play with. It's just
+[01:10:22 -> 01:10:27]  a matter of making the bus bars, which I could use my drill press for if I had bought a good drill
+[01:10:27 -> 01:10:33]  press, uh, about the cheap Harbor freight one, do not recommend 100% do not recommend that's the
+[01:10:33 -> 01:10:37]  bench top one. Right. The little bench top one. Yeah. If I, you know, we earlier you, before you
+[01:10:37 -> 01:10:41]  jumped on, we talked about the drill press and our, our, our kind of our, our metric was you have
+[01:10:41 -> 01:10:46]  enough space for one thing, like a beer fridge or a drill press. What are you going to have?
+[01:10:46 -> 01:10:53]  Right. Yeah. You know, um, that kind of thing. And so I think, okay, really nice drill press
+[01:10:53 -> 01:10:59]  or our bandsaw, which would you pick bandsaw for sure. All right. Yeah. Because you can use
+[01:10:59 -> 01:11:02]  the blocks for, you know, to get a straight drill. If you need to. Yeah.
+[01:11:07 -> 01:11:13]  Our buddy Andy says he likes the life PO four. That's the lithium Ferris phosphate or something
+[01:11:13 -> 01:11:19]  like that. Uh, better power per density, but aren't as safe. Uh, BMS are the key with any
+[01:11:19 -> 01:11:26]  lithium set up. All right. Compressors. What are your thoughts on air compressors?
+[01:11:26 -> 01:11:32]  Have you tried the California? Yeah. When they were building the garage, they used, um, the
+[01:11:32 -> 01:11:37]  quiet one from Harbor freight. Yeah. And it was just like, it was really quiet. I was shocked
+[01:11:37 -> 01:11:43]  and, uh, and it did just fine. So dude, I've had good, I've had very good luck with Harbor freight
+[01:11:43 -> 01:11:48]  compressors. Uh, even the oil is kind of the ones that people hated back in the day. They've been
+[01:11:48 -> 01:11:55]  pretty solid. Although I have went through two pancake ones, but let me tell you, I abused the
+[01:11:55 -> 01:12:00]  crap out of those things. There was no care, no maintenance, no nothing. And, uh, they just
+[01:12:00 -> 01:12:05]  burned a piston. I just ran them till they, till they died. Oh, here we go. Clipped on the wrong
+[01:12:05 -> 01:12:08]  one. I went to that. What do you think about this one? A one, two, three block. You familiar with
+[01:12:08 -> 01:12:14]  a one, two, three block using the machine shops a lot. They're like a one inch by two inch by three
+[01:12:14 -> 01:12:18]  inch and they have holes measured out in them. Yeah. I've seen those and thought I might want
+[01:12:18 -> 01:12:24]  one. So, um, one thing that I did get and I saw it on your channel, the, um, and mine's a Klein
+[01:12:24 -> 01:12:30]  actually the little magnetic, um, level gauge that you put on your table saw. So you can, uh,
+[01:12:30 -> 01:12:35]  make sure your, your angles are perfectly right. So, so I've got one of those as well. So that's
+[01:12:35 -> 01:12:40]  definitely a must have little tiny tool. So, yeah, it's definitely like, you know, plus you've got to
+[01:12:40 -> 01:12:46]  true your saw when you set it up and it's going to be useful for that. So, yep. Well, all right,
+[01:12:46 -> 01:12:51]  Rob, thank you for popping in. We are, we are past an hour and that's usually where that, uh, usually
+[01:12:51 -> 01:12:56]  where I want to stop. So, and I'm looking forward to seeing what you're about to blow up on your
+[01:12:56 -> 01:13:02]  channel. Something, always something. I'm not sure what my next video is going to be. It might be the
+[01:13:02 -> 01:13:08]  actual video where I introduced the shop to the, uh, to the channel. So, um, and Stu is right.
+[01:13:08 -> 01:13:14]  These, uh, woodpecker and Incra make some really nice stuff. Uh, love to add some of those to the,
+[01:13:14 -> 01:13:18]  uh, like to get out of the Harbor freight, freight T squares and go to the woodpecker and the Incra.
+[01:13:18 -> 01:13:24]  So, all right, ladies and gentlemen, we will see you next week over on Nick's channel,
+[01:13:24 -> 01:13:33]  assuming he gets his power back. I'm the DIY audio guy and I am out later.

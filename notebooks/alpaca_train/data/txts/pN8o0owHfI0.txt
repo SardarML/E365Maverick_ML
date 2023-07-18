@@ -1,0 +1,155 @@
+[00:00:00 -> 00:00:08]  What exactly is Azure Active Directory? Azure AD is Microsoft's multi-tenant cloud-based identity
+[00:00:08 -> 00:00:14]  management service. It is highly scalable and distributed across the world through the Azure
+[00:00:14 -> 00:00:20]  cloud. Now that was a big mouthful so let's break that down a little bit. It is a multi-tenant
+[00:00:20 -> 00:00:28]  cloud service. This means that the service itself of Azure AD exists in the cloud and part of that
+[00:00:28 -> 00:00:35]  service there are tenants and each tenant is its own little isolated island within that world of
+[00:00:35 -> 00:00:43]  Azure AD. The other thing that Azure AD does is it creates a single identity solution for all other
+[00:00:43 -> 00:00:50]  Microsoft cloud services such as Office 365, Dynamics, Intune, and of course Azure. But it
+[00:00:50 -> 00:00:56]  does much more than that. It also integrates with other applications by enabling you to federate your
+[00:00:56 -> 00:01:03]  ID which of course enables then hybrid identity options from on-prem to the cloud and beyond with
+[00:01:03 -> 00:01:11]  things like B2B and B2C scenarios. However, Azure Active Directory is not Active Directory like we
+[00:01:11 -> 00:01:19]  have with AD servers on-prem. AD is a system that provides authentication, a directory, policies,
+[00:01:19 -> 00:01:26]  and some other services and it utilizes Kerberos and NTLM for authentication. Azure AD on the other
+[00:01:26 -> 00:01:33]  hand has two major services and that is identity and access management services. These would be
+[00:01:33 -> 00:01:40]  things like single sign-on, password authentication, user self-service, federation services, and uses a
+[00:01:40 -> 00:01:48]  completely different authentication mechanism than Active Directory. Azure AD uses OAuth which is a
+[00:01:48 -> 00:01:55]  more modern authentication protocol than NTLM and Kerberos. So with that said, let's jump over to
+[00:01:55 -> 00:02:01]  the Azure portal and we can get to Azure Active Directory from the Azure portal by going to
+[00:02:01 -> 00:02:06]  all services and then going to the identity section. There's all of our identity related
+[00:02:06 -> 00:02:12]  tools and I'm going to click on Azure Active Directory and here is my directory and if you've
+[00:02:12 -> 00:02:17]  seen any of our videos before we have been in here a few times already but I want to give you a quick
+[00:02:17 -> 00:02:22]  overview and we're not going to get into details about everything in this video. This is just meant
+[00:02:22 -> 00:02:28]  as a kind of level 100 introductory session for Azure AD. So the very first thing as I said in
+[00:02:28 -> 00:02:34]  the beginning is it is a multi-tenant service. That means each directory or each AD tenant
+[00:02:34 -> 00:02:40]  is isolated unto itself so you have to switch between directories if you want to go from one
+[00:02:40 -> 00:02:47]  to the other. So looking here at the basic overview screen we can see the name of our directory and I
+[00:02:47 -> 00:02:51]  am using a custom domain name and we'll show you how to do that as well as we see what our
+[00:02:51 -> 00:02:56]  current role is in the directory. I am a global administrator which is a built-in role and then
+[00:02:56 -> 00:03:02]  we also have a quick search feature over here and that's for users, groups, apps, and directory roles
+[00:03:02 -> 00:03:07]  so you can see all that's in there and there are some create options down the side as well as the
+[00:03:07 -> 00:03:13]  ability to create a new directory and then we have a section in the middle around updates and what's
+[00:03:13 -> 00:03:18]  new around Azure AD. So over here on the left we have some identity related services and
+[00:03:18 -> 00:03:25]  customizations around the directory for users, groups, and roles, applications, identity governance,
+[00:03:25 -> 00:03:31]  the licensing, Azure AD Connect which we'll get into in another video, making a custom domain name,
+[00:03:31 -> 00:03:36]  integrating with MDM solutions, password reset, company branding around the portal itself, and then
+[00:03:36 -> 00:03:42]  some other user settings and notifications. The properties section here is where you can see
+[00:03:42 -> 00:03:48]  your directory ID and that becomes important when you're doing certain kinds of tasks especially
+[00:03:48 -> 00:03:53]  through shell and automation and then we have a security related section and this would be for
+[00:03:53 -> 00:03:59]  your security score, setting up conditional access, multi-factor authentication, and other authentication
+[00:03:59 -> 00:04:05]  methods and then the monitoring of the directory which can be connected to log analytics as you
+[00:04:05 -> 00:04:10]  see here and there are audit logs specifically for Azure Active Directory as well as looking at user
+[00:04:10 -> 00:04:17]  sign-ins and some insights and information. That is the quick hundred thousand foot view of what's
+[00:04:17 -> 00:04:22]  in Azure Active Directory but let's look in some of the details here. Now one of the first things
+[00:04:22 -> 00:04:29]  that we saw up here on the overview is our custom domain name and then we also see this section
+[00:04:29 -> 00:04:38]  around licensing P1 and P2. So what exactly is this? Well let's go over to the Azure documentation page
+[00:04:38 -> 00:04:44]  and from here we can go to pricing at the top and here on the pricing page we'll click on pricing by
+[00:04:44 -> 00:04:49]  product which will take us all the way to the bottom and we'll type in here active directory
+[00:04:49 -> 00:04:55]  and we'll click on Azure Active Directory here and that'll take us over to the documentation pricing
+[00:04:55 -> 00:04:59]  page and then we scroll down a little bit and we can see the four different offerings around
+[00:04:59 -> 00:05:06]  licensing and prices for Azure Active Directory. Down here at the bottom we see that we have a
+[00:05:06 -> 00:05:13]  free version. This version is included with Office 365 and then P1 is six dollars per user per month
+[00:05:13 -> 00:05:19]  and nine dollars per user per month for P2. What will that shake out to in the end? Well over here
+[00:05:19 -> 00:05:24]  in the Azure pricing calculator we'll type in active directory and take a look at that in the
+[00:05:24 -> 00:05:30]  pricing calculator and of course we see here is the free version and then we have options for adding
+[00:05:30 -> 00:05:36]  multi-factor authentication and domain services. Now again we said in the beginning that Azure AD
+[00:05:36 -> 00:05:42]  is not Active Directory as you would think of it on-prem. There is however this middle ground
+[00:05:42 -> 00:05:47]  which if you have watched our Windows Virtual Desktop series you've seen us deploy Azure AD
+[00:05:47 -> 00:05:52]  domain services already but we'll do that in another video and Azure AD domain services will
+[00:05:52 -> 00:05:58]  deploy two domain controllers so it is highly available in that sense but then the domain will
+[00:05:58 -> 00:06:04]  also enable you to do NTLM and Kerberos while maintaining your cloud-centric identity which
+[00:06:04 -> 00:06:10]  would generally more use OAuth. So you can see by the number of directory objects that you
+[00:06:10 -> 00:06:15]  need you would select that and then select how many hours it will be running and then you see
+[00:06:15 -> 00:06:21]  the total cost for running that domain service in the cloud. Now I'm going to set that back to
+[00:06:21 -> 00:06:27]  zero here and then we can look at multi-factor authentication and this is of course for one
+[00:06:27 -> 00:06:33]  user a $1.40 a month so you just multiply this by however many users you have and then you know
+[00:06:33 -> 00:06:39]  what your cost is for enabling MFA in your organization. I will again set this back to zero
+[00:06:39 -> 00:06:48]  and then we'll choose P1 which has that cost of $6 per user per month so if you have 532 users
+[00:06:48 -> 00:06:55]  that's your cost for using P1 licensing versus P2 licensing which is $9 per user per month. So
+[00:06:55 -> 00:07:01]  look at the feature set in the documentation decide which you need and then you will be able
+[00:07:01 -> 00:07:06]  to see basically what your pricing would be and this is of course street pricing it doesn't take
+[00:07:06 -> 00:07:11]  into account any discounts or anything like that that you may have. And we'll go back to our main
+[00:07:11 -> 00:07:17]  documentation page so we'll go to our products and then on the left we'll go down to identity
+[00:07:17 -> 00:07:22]  and there is the documentation for all of our identity solutions and we'll go to Azure Active
+[00:07:22 -> 00:07:28]  Directory. Now you can see this documentation page is quite different than the other doc pages
+[00:07:28 -> 00:07:33]  that we've looked at in the past and that's because as I said in the beginning there is so much here
+[00:07:33 -> 00:07:39]  and they break it down into all of these sections which have subsections of their own and there is
+[00:07:39 -> 00:07:45]  a ton of documentation so we won't be able to certainly cover near half of everything during
+[00:07:45 -> 00:07:50]  this overview but I just wanted to see where it all is. So one of the other tools that we're going
+[00:07:50 -> 00:07:57]  to use a bit as we go through this series is going to be the Graph Explorer and this uses the
+[00:07:57 -> 00:08:02]  Azure Graph API and then the first thing you have to do when you get to this page which is
+[00:08:02 -> 00:08:08]  graphexplorer.azurewebsites.net and I'll have that linked in the description is first you have to log
+[00:08:08 -> 00:08:14]  in. So I'll click that and then I'll be prompted for my login so I'll choose my Windows Virtual
+[00:08:14 -> 00:08:21]  Desktop environment. So once we're logged in we can click here in the top bar and then it'll give
+[00:08:21 -> 00:08:27]  us a few items that it suggests that we look for so I could look for me and push go and then it
+[00:08:27 -> 00:08:33]  does a look up on my directory and we can see all of the stuff here related to my directory and my
+[00:08:33 -> 00:08:39]  users and there is my particular user and there's many different things here like our immutable ids
+[00:08:39 -> 00:08:44]  which are going to become important later as well as the distinguished name for my user where it's
+[00:08:44 -> 00:08:49]  located in my domain structure and many other things here like my SIP proxy address, user
+[00:08:49 -> 00:08:53]  principal name, all that stuff. So you can get a lot of information out of the Graph Explorer which
+[00:08:53 -> 00:08:59]  is also a very good troubleshooting tool as we'll see as we get into this series. So back in the
+[00:08:59 -> 00:09:04]  Azure portal let's take a quick look at what some of our user looks like here. So here I've got all
+[00:09:04 -> 00:09:11]  of my users that are in my environment and users can come in different kinds of sources. First
+[00:09:11 -> 00:09:16]  source that you can see here is Windows Server AD. This means that this user was synchronized
+[00:09:16 -> 00:09:22]  from my on-premise into Azure Active Directory. We also have Microsoft accounts and this account
+[00:09:22 -> 00:09:28]  in particular was one that I opened this directory with so this was an external account and then we
+[00:09:28 -> 00:09:34]  also have some that are native to the cloud directly. They do not exist on-prem at all
+[00:09:34 -> 00:09:39]  and that would be an Azure Active Directory account and there is one fourth one and that
+[00:09:39 -> 00:09:46]  is a invited guest and that would be if one of my accounts here decided to invite a new guest user.
+[00:09:46 -> 00:09:51]  So let's take a look at that experience real quick. So I'll put in here another email address. Okay so
+[00:09:51 -> 00:09:56]  I put in here a fake email address and then I'm going to go ahead and click invite and then you
+[00:09:56 -> 00:10:02]  can see down here at the bottom that we now have an invited user who is a guest in this environment.
+[00:10:02 -> 00:10:07]  Now this is not a valid email address and I'm just going to go ahead and delete this user.
+[00:10:07 -> 00:10:14]  All right so one of the other things that we can see is deleted users and these are the users that
+[00:10:14 -> 00:10:19]  I had from other tests that I had run and you can select them if you are okay with permanently
+[00:10:19 -> 00:10:25]  deleting them and click that or you could decide oh you know what I really need to bring this user
+[00:10:25 -> 00:10:29]  back for some reason and then you can click restore user and that'll bring it back but they
+[00:10:29 -> 00:10:36]  will be permanently deleted after 30 days. Also we can have some password reset functionality
+[00:10:36 -> 00:10:42]  and you can have this as self-service and so that way you can remove that burden from
+[00:10:42 -> 00:10:47]  IT administrators by allowing users to walk through this process themselves and we'll get
+[00:10:47 -> 00:10:52]  into self-service password reset in another video as well as you can set different authentication
+[00:10:52 -> 00:10:59]  methods to guarantee that the person who is going through the password reset process actually is
+[00:10:59 -> 00:11:05]  the correct person so we can secure this by any one of many methods here and then the user process
+[00:11:05 -> 00:11:12]  do we require a user to sign in before they can go through the password reset process and then we
+[00:11:12 -> 00:11:18]  can set customizations if we want to in the environment as well as do some on-prem integration
+[00:11:18 -> 00:11:24]  with password write back and things like that and then back under the users tab here we can see the
+[00:11:24 -> 00:11:30]  audit logs so for example here is an audit log related to a delete that was performed in my
+[00:11:30 -> 00:11:36]  environment that delete was against this particular target id and we can see what modified properties
+[00:11:36 -> 00:11:43]  there were as well as the user sign-ins if you have p1 or p2 so as you're going to see through
+[00:11:43 -> 00:11:49]  our sessions here there are some features that you need p1 or p2 before you can use them this happens
+[00:11:49 -> 00:11:56]  to be one of those the group experience is pretty much the same you can create a cloud-based group
+[00:11:56 -> 00:12:00]  or you can have a group that is from your synchronized environment and you can see down
+[00:12:00 -> 00:12:06]  here i've got these several groups that were in the cloud and so you can build those assign
+[00:12:06 -> 00:12:11]  groups and then also the same delete experience is here as well and then the other big one that
+[00:12:11 -> 00:12:16]  we'll cover for right now is under roles and administrators and these are the built-in
+[00:12:16 -> 00:12:22]  directory roles and that domain admin role function is carried out here by the global
+[00:12:22 -> 00:12:26]  administrators and you can see i've got two in my environment it is a best practice to have a
+[00:12:26 -> 00:12:32]  minimum of two if not three would be highly preferred so that in case one person is out or
+[00:12:32 -> 00:12:39]  unavailable someone still has the quote-unquote keys to the kingdom azure active directory is not
+[00:12:39 -> 00:12:45]  an azure subscription the relationship here which i'll show you on my sidebar the reason i've got
+[00:12:45 -> 00:12:51]  things organized this way is because they kind of nest in this particular manner so azure active
+[00:12:51 -> 00:12:56]  directory is the top level and within the directory we have management groups inside the
+[00:12:56 -> 00:13:01]  management groups we can nest subscriptions and then within subscriptions are resource groups and
+[00:13:01 -> 00:13:08]  then all of the other resources so azure active directory is not a subscription it is a separate
+[00:13:08 -> 00:13:16]  entity from a subscription a subscription must be part of a single azure active directory tenant
+[00:13:16 -> 00:13:22]  but an azure ad tenant may have multiple subscriptions now i say this because the
+[00:13:22 -> 00:13:29]  global admin rights in azure ad do not necessarily indicate that you have global admin type rights in
+[00:13:29 -> 00:13:36]  your azure subscriptions that privilege is based on the subscription access control itself and then
+[00:13:36 -> 00:13:42]  you can see who exactly is the owners of that subscription and there is one special role that
+[00:13:42 -> 00:13:48]  i'll call out as our last thing for this overview and that is the user access administrator this
+[00:13:48 -> 00:13:55]  role is inside azure ad under the properties in the blade and we can see down here the access
+[00:13:55 -> 00:14:01]  administrator role can be granted to perform all identity related functions within an azure
+[00:14:01 -> 00:14:08]  subscription so after i had created my subscription i removed this role from myself inside azure
+[00:14:08 -> 00:14:15]  active directory and granted that role instead to one of my groups that would be my sub user
+[00:14:15 -> 00:14:22]  account admins and the benefit of this is now i can use this as a way for adding some automation
+[00:14:22 -> 00:14:28]  to my user account access and identity control so that i do not have to have a person giving out the
+[00:14:28 -> 00:14:34]  rights i could use automation say for example that you have a domain group on prem you add a member
+[00:14:34 -> 00:14:41]  to a new group that member is then granted access into a cloud group based on active directory
+[00:14:41 -> 00:14:47]  synchronization which then is granted access to your azure subscription through an automation and
+[00:14:47 -> 00:14:53]  i know that sounds like a whole lot and we'll get into that in another video so i hope you've enjoyed
+[00:14:53 -> 00:14:58]  looking at this overview of azure active directory there is a million more things here that we could
+[00:14:58 -> 00:15:03]  talk about and just in an overview each one of these features we could spend a whole day on it
+[00:15:03 -> 00:15:08]  this is just a quick overview and we'll get more into azure ad as we go through this series so if
+[00:15:08 -> 00:15:13]  you haven't done so already please click on that subscribe button and if you like this video give
+[00:15:13 -> 00:15:19]  us a thumbs up as well as please do give us some comments below on if this was a help to you or
+[00:15:19 -> 00:15:24]  what you would be interested in seeing out of this azure active directory series going forward as
+[00:15:24 -> 00:15:30]  always thanks for joining us today and we'll see you in the next video happy learning

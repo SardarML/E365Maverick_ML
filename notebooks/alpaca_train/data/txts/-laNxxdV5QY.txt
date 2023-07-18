@@ -1,0 +1,122 @@
+[00:00:00 -> 00:00:05]  Hallo ihr Lieben, in dem heutigen Video möchte ich euch zeigen, wie man mit den binomischen Formeln rechnen kann.
+[00:00:05 -> 00:00:08]  Es gibt ja drei Stück, die man hier auch sehen kann.
+[00:00:08 -> 00:00:13]  Wir schauen uns die Formeln gleich an und rechnen dann aber auch ein Beispiel zu jeder dieser Formeln.
+[00:00:13 -> 00:00:19]  Die erste binomische Formel erkennt man daran, dass man hier so eine Klammer zum Quadrat hat
+[00:00:19 -> 00:00:24]  und in der Klammer stehen zwei einzelne Teile, die mit einem Plus getrennt sind.
+[00:00:24 -> 00:00:28]  Dann kann man diese Klammer eben auflösen, indem man diese Formel anwendet.
+[00:00:28 -> 00:00:31]  Die schauen wir uns gleich im Detail beim Beispiel dann an.
+[00:00:31 -> 00:00:36]  Die zweite binomische Formel ist sehr ähnlich, man hat auch so eine Klammer zum Quadrat,
+[00:00:36 -> 00:00:41]  aber diesmal steht kein Plus zwischen diesen beiden Teilen, sondern ein Minus.
+[00:00:41 -> 00:00:47]  Das A steht immer für den ersten Teil in dieser Klammer, das B für den zweiten Teil in der Klammer.
+[00:00:47 -> 00:00:52]  Also da können natürlich alle möglichen Sachen stehen, aber die Formel sagt dann immer,
+[00:00:52 -> 00:00:56]  nimm das Erste und quadriere das oder hier hinten nimm das Zweite und quadriere das.
+[00:00:56 -> 00:00:58]  So ist diese Formel zu verstehen.
+[00:00:58 -> 00:01:01]  Und die Dritte, das ist jetzt so eine Mischung aus diesen beiden,
+[00:01:01 -> 00:01:04]  dann hat man nicht mehr dieses Hoch-Zwei, das fällt weg, wie wir hier sehen.
+[00:01:04 -> 00:01:11]  Wir haben zwei einzelne Klammern, die einmal mit einem Plus verbunden sind, hier vorne in der ersten Klammer,
+[00:01:11 -> 00:01:13]  und in der zweiten Klammer haben wir ein Minus.
+[00:01:13 -> 00:01:18]  Das kann auch andersrum sein, also dass das Minus zuerst hier vorne steht und dann das Plus.
+[00:01:18 -> 00:01:24]  Also das ist egal, wie rum die stehen, aber wichtig ist, einmal muss ein Minus drin sein und einmal muss ein Plus dran sein.
+[00:01:24 -> 00:01:27]  Also es muss eine Mischung aus diesen beiden Ersten sein.
+[00:01:27 -> 00:01:31]  Und dann gehen wir jetzt einfach mal an die Beispiele ran.
+[00:01:31 -> 00:01:37]  Die erste binomische Formel, da steht sie wieder und wir sollen diese Klammer hier auflösen.
+[00:01:37 -> 00:01:39]  Wie schaffen wir das?
+[00:01:39 -> 00:01:41]  Naja, schauen wir mal.
+[00:01:41 -> 00:01:48]  Die Formel sagt, hier vorne haben wir ein A, das sollen wir jetzt quadrieren.
+[00:01:48 -> 00:01:50]  Also was ist bei uns der erste Teil?
+[00:01:50 -> 00:01:55]  Das Plus, haben wir gesagt, trennt diese beiden Teile.
+[00:01:55 -> 00:02:01]  Also alles, was vor dem Plus steht, ist mein A sozusagen in der Formel.
+[00:02:01 -> 00:02:05]  Und alles, was hinter dem Plus steht, ist mein B.
+[00:02:05 -> 00:02:08]  Also das Plus trennt A und B sozusagen.
+[00:02:08 -> 00:02:10]  Und jetzt gehen wir mal ran.
+[00:02:10 -> 00:02:13]  Was sagt die Formel? Wir sollen A quadrieren.
+[00:02:13 -> 00:02:17]  Also mein A ist alles, was vorne dran steht, das ist dieses 3x.
+[00:02:17 -> 00:02:21]  Und das sind jetzt zwei einzelne Teile, weil da steht ja 3 mal x.
+[00:02:21 -> 00:02:24]  Das soll insgesamt quadriert werden.
+[00:02:24 -> 00:02:27]  Also setzt da ruhig eine Klammer erstmal drum rum und quadriert es dann.
+[00:02:27 -> 00:02:30]  Das schauen wir dann gleich, wie wir das dann wieder auflösen.
+[00:02:30 -> 00:02:31]  Das war der erste Teil.
+[00:02:31 -> 00:02:33]  Dann kommt laut der Formel ein Plus.
+[00:02:33 -> 00:02:37]  2 mal A mal B.
+[00:02:37 -> 00:02:47]  Also 2 mal der erste Teil, diese 3x, multipliziert mit dem hinteren Teil, mit der 4.
+[00:02:47 -> 00:02:49]  Dann kommt wieder ein Plus.
+[00:02:49 -> 00:02:51]  Bei der ersten kommt überall immer ein Plus.
+[00:02:51 -> 00:02:53]  Dann wird der hintere Teil quadriert.
+[00:02:53 -> 00:02:55]  Also ihr schnappt euch alles, was hinter dem Plus steht.
+[00:02:55 -> 00:02:58]  Das ist jetzt bei uns nur die 4 und quadriert das.
+[00:02:58 -> 00:03:01]  Und das ist schon jetzt die binomische Formel gewesen.
+[00:03:01 -> 00:03:04]  Jetzt geht es nur noch daran, das ein bisschen zu vereinfachen.
+[00:03:04 -> 00:03:05]  Also die Klammer hier aufzulösen.
+[00:03:05 -> 00:03:08]  Da müssen wir alles quadrieren, was in der Klammer ist.
+[00:03:08 -> 00:03:11]  Das heißt 3 zum Quadrat. 3 mal 3 sind 9.
+[00:03:11 -> 00:03:16]  Und x zum Quadrat plus, jetzt wird gerechnet,
+[00:03:16 -> 00:03:21]  2 mal 3 sind 6. Mal 4 sind 24.
+[00:03:21 -> 00:03:22]  Und das x noch hinten dran.
+[00:03:22 -> 00:03:25]  Und da hinten hätten wir 4 zum Quadrat.
+[00:03:25 -> 00:03:27]  4 mal 4 sind 16.
+[00:03:27 -> 00:03:29]  Und schon habt ihr eure Klammer aufgelöst.
+[00:03:29 -> 00:03:31]  Man hat jetzt das Gefühl, das dauert unglaublich lange.
+[00:03:31 -> 00:03:34]  Aber wenn ihr da drin geübt seid, dann geht es ratzfatz.
+[00:03:34 -> 00:03:37]  Dann schreibt man auch nicht mehr alles so hin, sondern rechnet direkt aus.
+[00:03:37 -> 00:03:40]  Und schreibt es in einer Zeile dann hin.
+[00:03:40 -> 00:03:42]  Das ist die erste binomische Formel.
+[00:03:42 -> 00:03:45]  Die zweite ist sehr ähnlich, haben wir eben gesehen.
+[00:03:45 -> 00:03:49]  Das Einzige, was sich ändert, ist, dass hier ein Minus dazwischen ist.
+[00:03:49 -> 00:03:51]  Das sehen wir hier auch in unserem Beispiel.
+[00:03:51 -> 00:03:53]  Wir haben hier eine Klammer, hoch 2.
+[00:03:53 -> 00:03:55]  Und da ist ein Minus zwischen diesen beiden Teilen.
+[00:03:55 -> 00:04:00]  Und da ist die Formel fast identisch zu der ersten binomischen Formel.
+[00:04:00 -> 00:04:02]  Nur hier steht ein Minus.
+[00:04:02 -> 00:04:04]  Ansonsten ist alles andere gleich.
+[00:04:04 -> 00:04:06]  Und deswegen kann man sich die so schön merken.
+[00:04:06 -> 00:04:08]  Und wir gehen das jetzt durch.
+[00:04:08 -> 00:04:10]  A wird quadriert.
+[00:04:10 -> 00:04:13]  Also das, was vor unserem Minus steht, wird quadriert.
+[00:04:13 -> 00:04:14]  Das ist unsere 3.
+[00:04:14 -> 00:04:16]  Einmal quadrieren.
+[00:04:16 -> 00:04:17]  Dann kommt das Minus.
+[00:04:17 -> 00:04:21]  Zweimal das Erste mal das Zweite.
+[00:04:21 -> 00:04:24]  Also bei uns, die 3 war das Erste.
+[00:04:24 -> 00:04:27]  Und der zweite Teil ist dieses 8y.
+[00:04:27 -> 00:04:29]  Also alles, was hinter dem Minus steht.
+[00:04:29 -> 00:04:31]  Das kommt hier rein.
+[00:04:31 -> 00:04:33]  Dann kommt das Plus.
+[00:04:33 -> 00:04:36]  Und jetzt wird der hintere Teil einfach quadriert.
+[00:04:36 -> 00:04:40]  Also alles, was hinten steht, diese 8y, schnappen wir uns.
+[00:04:41 -> 00:04:46]  Weil es jetzt wieder so viele Teile sind, setzen wir schöne Klammer drumherum und quadrieren das.
+[00:04:46 -> 00:04:48]  Jetzt wird nur noch ausgerechnet.
+[00:04:48 -> 00:04:51]  3 zum Quadrat sind 9.
+[00:04:51 -> 00:04:53]  2 mal 3 sind 6.
+[00:04:53 -> 00:04:56]  Mal 8 sind 48y.
+[00:04:56 -> 00:04:59]  Und hier hinten hätten wir 8 zum Quadrat.
+[00:04:59 -> 00:05:01]  8 mal 8 sind 64.
+[00:05:01 -> 00:05:05]  Und das y auch zum Quadrat.
+[00:05:05 -> 00:05:07]  Das ist die zweite binomische Formel.
+[00:05:07 -> 00:05:11]  Und die dritte binomische Formel ist sogar noch angenehmer.
+[00:05:11 -> 00:05:14]  Da schauen wir mal ganz kurz, was wir hier haben.
+[00:05:14 -> 00:05:17]  Einmal zwischen zwei Klammern.
+[00:05:17 -> 00:05:20]  Und in den Klammern steht dasselbe.
+[00:05:20 -> 00:05:22]  Hier steht 4x, hier steht 4x.
+[00:05:22 -> 00:05:25]  Hier steht 5, hier steht 5.
+[00:05:25 -> 00:05:29]  Aber hier haben wir einmal ein Plus und hier haben wir einmal ein Minus.
+[00:05:29 -> 00:05:37]  Bedeutet für uns, es steht in beiden Klammern im Krone dasselbe, aber die rechten Zeichen sind unterschiedlich.
+[00:05:37 -> 00:05:41]  Und das ist perfekt für die dritte binomische Formel.
+[00:05:41 -> 00:05:45]  Die sagt nämlich jetzt, schnappt ihr das erste und quadriere das.
+[00:05:45 -> 00:05:49]  Da könnt ihr euch entweder die Klammer aussuchen oder die Klammer aussuchen.
+[00:05:49 -> 00:05:51]  Wir nehmen jetzt einfach mal das mit dem Plus.
+[00:05:51 -> 00:05:54]  Ist egal, welche ihr nehmt, in beiden steht ja dasselbe.
+[00:05:54 -> 00:05:55]  Also a wird quadriert.
+[00:05:55 -> 00:05:59]  Diese 4x schnappen wir uns und die werden quadriert.
+[00:05:59 -> 00:06:03]  Dann kommt ein Minus und der hintere Teil wird quadriert.
+[00:06:03 -> 00:06:06]  Also die 5 wird quadriert.
+[00:06:06 -> 00:06:07]  Und jetzt wird nur noch ausgerechnet.
+[00:06:07 -> 00:06:08]  Also die ist echt angenehm.
+[00:06:08 -> 00:06:11]  Da einfach nur a²-b².
+[00:06:11 -> 00:06:15]  4 zum Quadrat sind 16 und das x muss auch quadriert werden.
+[00:06:15 -> 00:06:18]  Und hinten 5 zum Quadrat sind 25.
+[00:06:18 -> 00:06:20]  Und schon haben wir die Klammer aufgelöst.
+[00:06:20 -> 00:06:21]  Das sind die binomischen Formeln.
+[00:06:21 -> 00:06:23]  Falls ihr Fragen habt, schreibt sie gerne in die Kommentare.
+[00:06:23 -> 00:06:25]  Falls euch das Video geholfen hat, liked es gerne.
+[00:06:25 -> 00:06:26]  Wir sehen uns bei einem nächsten Video.
+[00:06:26 -> 00:06:27]  Macht's gut.

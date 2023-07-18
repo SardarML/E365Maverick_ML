@@ -1,0 +1,71 @@
+[00:00:00 -> 00:00:05]  Hello, my name is Travis Monk. This is one of a series of videos on chemistry and biochemistry
+[00:00:05 -> 00:00:11]  and how they pertain to a class in biology. In our unit on chemistry and biochemistry,
+[00:00:11 -> 00:00:15]  we have discussed four different types of organic molecules. Proteins, lipids, nucleic
+[00:00:15 -> 00:00:20]  acids and carbohydrates. In addition to knowing some of the important characteristics of these
+[00:00:20 -> 00:00:24]  types of biomolecules, it's also important that you can identify pictures of them based
+[00:00:24 -> 00:00:29]  upon their functional groups and the elements that they contain. This video will help explain
+[00:00:29 -> 00:00:34]  how to do so using examples. The picture on this slide illustrates what some of those
+[00:00:34 -> 00:00:40]  different biomolecules look like. Before we look at any more biomolecules in this video,
+[00:00:40 -> 00:00:44]  there is a way to learn this information that I would suggest, using a dichotomous key.
+[00:00:44 -> 00:00:48]  There's a separate video I created for studying techniques that includes some information
+[00:00:48 -> 00:00:52]  on dichotomous keys, but here's the short of it. Ask a series of questions that can
+[00:00:52 -> 00:00:57]  be answered with a yes or a no, leading towards the correct answer. An example dichotomous
+[00:00:58 -> 00:01:02]  key to identify different invertebrates in a pond is described here. The reason I would
+[00:01:02 -> 00:01:07]  suggest this and provided the example is, number one, you probably know just about nothing
+[00:01:07 -> 00:01:12]  about macroinvertebrate pond life. And two, even you could use this chart to figure out
+[00:01:12 -> 00:01:17]  what you're looking at. Identification of biomolecules can be tricky and you probably
+[00:01:17 -> 00:01:23]  had zero prior knowledge in this area. A dichotomous key could help a lot. Why didn't I just make
+[00:01:23 -> 00:01:28]  you a dichotomous key for the identification of biomolecules? You'll probably learn a lot
+[00:01:28 -> 00:01:33]  by making one yourself. Our first example is provided here. What type of biomolecule
+[00:01:33 -> 00:01:38]  do you think you're looking at? Take about 15 seconds to make an educated guess, thinking
+[00:01:38 -> 00:01:45]  of a reason or two why this is whatever you think it is. Hit pause while you think. This
+[00:01:45 -> 00:01:49]  is an example of a lipid. In particular, it's a triglyceride. A couple of ways that you
+[00:01:49 -> 00:01:56]  could have figured this out. First, highlighted in red, it possesses a long hydrocarbon chain,
+[00:01:56 -> 00:02:02]  carbons bonded to carbons that are flanked by hydrogens. This is a fatty acid chain.
+[00:02:02 -> 00:02:08]  Second, highlighted in blue, it contains a glycerol group. Finally, it's only made up
+[00:02:08 -> 00:02:12]  of the elements carbon, hydrogen, and oxygen, which could rule out proteins and nucleic
+[00:02:12 -> 00:02:18]  acids. What type of biomolecule do you think you're looking at now? Again, take about 15
+[00:02:18 -> 00:02:23]  seconds, pausing the video to make a guess. Again, thinking of a reason or two why this
+[00:02:23 -> 00:02:29]  is whatever you think it is. This is a carbohydrate. In particular, it's a monosaccharide. A few
+[00:02:29 -> 00:02:35]  reasons that you could have come to this conclusion. First, it only contains carbon, hydrogen,
+[00:02:35 -> 00:02:41]  and oxygen. Again, this could rule out proteins and nucleic acids. Second, it has a ratio
+[00:02:41 -> 00:02:47]  of one to two to one in terms of carbon, hydrogen, and oxygen. There are six carbons, 12 hydrogens,
+[00:02:47 -> 00:02:54]  and six oxygens. Finally, third, it's arranged as a ring, which is common for carbohydrates.
+[00:02:54 -> 00:02:59]  What type of biomolecule do you think you're looking at now? Again, take 15 seconds, pausing
+[00:02:59 -> 00:03:06]  the video, and think of a reason or two why. Again, this is an example of a lipid. It contains
+[00:03:06 -> 00:03:10]  the two different groups that I discussed earlier, a hydrocarbon chain, a fatty acid
+[00:03:10 -> 00:03:17]  chain highlighted in red, and a glycerol group highlighted in blue. What type of biomolecule
+[00:03:18 -> 00:03:24]  is this? Take 15 seconds, pausing the video, and think of a reason or two why. This is
+[00:03:24 -> 00:03:29]  an example of the subunit of a protein called an amino acid. How could you have figured
+[00:03:29 -> 00:03:35]  this out? First, it contains the elements C, H, O, and N, carbon, hydrogen, oxygen,
+[00:03:35 -> 00:03:41]  and nitrogen. Since it doesn't have phosphorus, it can't be a nucleic acid. Since it has nitrogen,
+[00:03:41 -> 00:03:46]  it's probably not a carbohydrate or a lipid. Second, it contains two important functional
+[00:03:46 -> 00:03:53]  groups, an amino, or NH2 group that's highlighted in red, and an acid group that's highlighted
+[00:03:53 -> 00:03:58]  in blue. The big ring on the bottom may have thrown you off a little bit, and that's highlighted
+[00:03:58 -> 00:04:04]  in green. That happens to be the variable group of this amino acid. What type of biomolecule
+[00:04:04 -> 00:04:10]  do you think this is? Pause the video, take 15 seconds, and think of a reason or two why.
+[00:04:10 -> 00:04:16]  This biomolecule is, again, a carbohydrate. This time, it's an example of a disaccharide.
+[00:04:16 -> 00:04:21]  How could you have figured this out? First, it contains only the elements C, H, and O,
+[00:04:21 -> 00:04:26]  carbon, hydrogen, and oxygen. Second, there are not any hydrocarbon chains, as you would
+[00:04:26 -> 00:04:31]  expect to find in a lipid. And finally, the ratio of carbon and hydrogen to oxygen is
+[00:04:31 -> 00:04:38]  just about 1 to 2 to 1. There should be 12 carbons, 22 hydrogens, and 11 oxygens. Which
+[00:04:38 -> 00:04:43]  of the four types of biomolecules is this? Take 15 seconds, make a guess, and explain
+[00:04:43 -> 00:04:48]  why. This is an example of a nucleic acid. How in the world could you have come to this
+[00:04:48 -> 00:04:55]  conclusion? First, the elements contained are C, H, O, N, and P, carbon, hydrogen, oxygen,
+[00:04:55 -> 00:05:00]  nitrogen, and phosphorus. That might lead you in this direction. Second, it contains
+[00:05:00 -> 00:05:05]  three different components. In blue is a phosphate group, phosphorus surrounded by
+[00:05:05 -> 00:05:12]  four oxygens. In red is a sugar, which is a ring made up of carbon, hydrogen, and oxygen.
+[00:05:12 -> 00:05:17]  And in green is a nitrogen-containing base, rings made up of carbon and nitrogen. These
+[00:05:17 -> 00:05:24]  are the three components that make up a nucleotide in nucleic acids. Here is our last example
+[00:05:24 -> 00:05:29]  I'd like you to try to identify. What type of biomolecule is this? Take about 15 seconds,
+[00:05:29 -> 00:05:34]  hit pause, and think of a reason why. This is another example of an amino acid, which
+[00:05:34 -> 00:05:39]  is the subunit of a protein. There are a number of ways that you could have figured this out.
+[00:05:39 -> 00:05:43]  First, it contains all three of the functional groups that we discussed earlier. There's
+[00:05:43 -> 00:05:47]  an amino group that's highlighted in red, an acid group that's found in blue, and a
+[00:05:47 -> 00:05:53]  variable group that's outlined in green. Second, the elements that are found in this biomolecule
+[00:05:53 -> 00:05:57]  could have helped you out. It contains carbon, hydrogen, oxygen, and nitrogen, but it doesn't
+[00:05:57 -> 00:06:02]  contain phosphorus, so this could have clued you in. That is the end of this video on how
+[00:06:02 -> 00:06:09]  to identify the four different types of biomolecules, proteins, lipids, nucleic acids, and carbohydrates,
+[00:06:09 -> 00:06:13]  based upon their molecular form. If you are interested in learning about any other chemistry
+[00:06:13 -> 00:06:18]  or biochemistry concepts as they relate to a class in biology, please subscribe to my
+[00:06:18 -> 00:06:19]  channel. Thank you.

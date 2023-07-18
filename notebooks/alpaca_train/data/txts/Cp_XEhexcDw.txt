@@ -1,0 +1,176 @@
+[00:00:00 -> 00:00:06]  Welcome to this course on Introduction to Risk Management.
+[00:00:06 -> 00:00:16]  All types of organizations face with the some form of risks, which may affect their chance of success.
+[00:00:16 -> 00:00:24]  Understanding the risks and effectively managing these will greatly help the organizations in achieving the long-term success.
+[00:00:24 -> 00:00:30]  Risk management can be an important tool to eliminate potential problems in an organization.
+[00:00:30 -> 00:00:37]  Even though the current version of ISO 9001 does not specifically require the use of risk management,
+[00:00:37 -> 00:00:43]  in the Preventive Action Clause, some of the industry-specific standards require it specifically.
+[00:00:43 -> 00:00:49]  For example, the Quality Management Standard for Aviation Industry and Healthcare Industry
+[00:00:49 -> 00:00:58]  have risk management requirement included in the Preventive Action Clause.
+[00:00:58 -> 00:01:01]  These are the topics covered in this course.
+[00:01:01 -> 00:01:05]  First we will understand the definitions of risk and risk management.
+[00:01:05 -> 00:01:12]  Then we will look at five key steps for managing risks.
+[00:01:12 -> 00:01:16]  Companies face a number of internal and external factors,
+[00:01:16 -> 00:01:20]  which make it uncertain whether the company will meet its objectives.
+[00:01:20 -> 00:01:25]  These uncertain events or conditions are called the risks.
+[00:01:25 -> 00:01:30]  So far in this course, we thought that the risks always have a negative impact.
+[00:01:30 -> 00:01:38]  Let's be clear here that the result of a risk is not always negative.
+[00:01:38 -> 00:01:40]  Risks are uncertain events.
+[00:01:40 -> 00:01:44]  These uncertain events could lead to positive or negative results.
+[00:01:44 -> 00:01:47]  Positive risks are known as opportunities.
+[00:01:47 -> 00:01:52]  Organizations attempt to avoid or reduce the impacts of negative risks.
+[00:01:52 -> 00:01:55]  However, when it comes to the positive risks,
+[00:01:55 -> 00:02:04]  organizations would like to take maximum advantage of these opportunities.
+[00:02:04 -> 00:02:08]  This slide explains the difference between a risk and an issue.
+[00:02:09 -> 00:02:11]  While a risk is a future uncertain event,
+[00:02:11 -> 00:02:18]  an issue is an event which has already occurred.
+[00:02:18 -> 00:02:21]  The concepts of risk appetite and risk tolerance
+[00:02:21 -> 00:02:26]  are related to the extent to which an organization is comfortable taking risk.
+[00:02:26 -> 00:02:31]  Taking big risks could be lead to big losses or big rewards.
+[00:02:31 -> 00:02:34]  While risk appetite is about the willingness to take risk,
+[00:02:34 -> 00:02:43]  risk tolerance is about what the organization can bear.
+[00:02:43 -> 00:02:47]  As discussed on the previous slide, risk is associated with reward.
+[00:02:47 -> 00:02:53]  Organizations take risks to gain more rewards.
+[00:02:53 -> 00:02:58]  This is the definition of risk management, taken from Wikipedia.org.
+[00:02:58 -> 00:03:04]  If you find this definition confusing, then please proceed to the next slide.
+[00:03:04 -> 00:03:12]  This same definition is presented there, in form of a diagram.
+[00:03:12 -> 00:03:15]  In risk management, you identify the potential risks,
+[00:03:15 -> 00:03:21]  then you assess them so that you know which of the identified risks are more critical and which are less.
+[00:03:21 -> 00:03:26]  Based on that assessment you give more priority to some risks and less to others.
+[00:03:26 -> 00:03:30]  You cannot cover all risks since you have limited resources.
+[00:03:30 -> 00:03:34]  With this priority you put your resources on high priority risks.
+[00:03:34 -> 00:03:38]  As we talked earlier a risk can be a negative or positive risk.
+[00:03:38 -> 00:03:44]  You attempt to minimize the impact of negative risks, monitor them and keep them under control.
+[00:03:44 -> 00:03:55]  However if it is a positive risk, or an opportunity, you put your resources to maximize the opportunity.
+[00:03:55 -> 00:04:02]  For a risk management process to be effective, these are some of the key principles that should be considered.
+[00:04:02 -> 00:04:08]  Since the organization is spending resources to manage risks, it should create value.
+[00:04:08 -> 00:04:15]  Risk management should be performed systematically and be integral part of the organization's work processes.
+[00:04:15 -> 00:04:20]  As the organization matures, the types of risks or challenges change.
+[00:04:20 -> 00:04:26]  The organization should adopt to these changes and improve the risk management process.
+[00:04:33 -> 00:04:46]  Risk management is applied in variety of fields such as project management, military, space, medical, engineering, plant operation, safety and in financial portfolio management.
+[00:04:46 -> 00:04:59]  Key benefits of implementing risk management includes fewer shocks and unwelcome surprises, effective use of resources, and reassuring stakeholders.
+[00:04:59 -> 00:05:09]  Instead of being unprepared for the threats and opportunities that happen during the course of a project or business, risk management can help plan and prepare for them.
+[00:05:09 -> 00:05:14]  This preparedness helps organizations in saving costs and time.
+[00:05:17 -> 00:05:22]  Risk management process can be divided into these five key steps.
+[00:05:22 -> 00:05:25]  It starts with having a risk management plan.
+[00:05:25 -> 00:05:30]  The next step is to identify the potential risks and prepare a list of all risks.
+[00:05:30 -> 00:05:41]  This list of risks is then analyzed using qualitative and quantitative techniques to identify high priority, medium priority and low priority risks.
+[00:05:41 -> 00:05:45]  Response is planned for these risks depending upon the priority.
+[00:05:45 -> 00:05:48]  Risks are then monitored and controlled.
+[00:05:48 -> 00:05:52]  We will look at each of these steps in the following slides.
+[00:05:56 -> 00:06:03]  Risk management plan specifies the management intent, systems and procedures required for managing risks.
+[00:06:07 -> 00:06:12]  Risk management plan will provide the definitions of various risk-related terms,
+[00:06:12 -> 00:06:18]  roles and responsibilities related to risk, and tools and templates are also included in it.
+[00:06:23 -> 00:06:30]  In a way risk management plan specifies how the next four steps listed on this slide are executed in the organization.
+[00:06:30 -> 00:06:41]  That is, how the organization will identify risks, how these risks will be analyzed, how the risk response will be planned, and how the risks will be monitored and controlled.
+[00:06:42 -> 00:06:53]  Once the plan is in place, identify risks is the first key step in actual management of risks.
+[00:06:53 -> 00:07:00]  This is the process of identifying the potential risks, their root cause, and the risk consequences.
+[00:07:03 -> 00:07:06]  Risk identification is a systematic process.
+[00:07:06 -> 00:07:11]  It is a group effort where subject matter experts from various groups participate.
+[00:07:17 -> 00:07:22]  The most common tool used in risk identification process is brainstorming.
+[00:07:22 -> 00:07:29]  In this, the subject matter experts from various groups meet together and list down all the potential risks.
+[00:07:29 -> 00:07:35]  During brainstorming, no identified risk is evaluated or criticized.
+[00:07:35 -> 00:07:40]  The intent here is to list down as many possible risks in limited time.
+[00:07:40 -> 00:07:47]  Other tools such as Ishikawa diagram, flow diagram, and SWOT analysis may also be used.
+[00:07:47 -> 00:07:53]  Here the term SWOT stands for Strengths, Weaknesses, Opportunities and Threats.
+[00:07:57 -> 00:08:02]  The outcome of risk identification is a list of risks or risk register.
+[00:08:02 -> 00:08:06]  What is done with the list of risks depends on the nature of the risk.
+[00:08:06 -> 00:08:13]  A few low-priority risks may be kept simply as a list of red flag items and periodically monitored.
+[00:08:13 -> 00:08:20]  Some high-priority risks may go through the rigorous process of assessment, analysis, mitigation and planning.
+[00:08:20 -> 00:08:26]  The next risk management process, i.e. analyze risks, helps in deciding that.
+[00:08:27 -> 00:08:31]  Organizations do not have resources to address all risks.
+[00:08:31 -> 00:08:38]  After having the list of all potential risks, the next logical step is to analyze and prioritize risks.
+[00:08:38 -> 00:08:44]  Some risks may need detailed action plan, and some may just need periodic monitoring.
+[00:08:44 -> 00:08:48]  The organization may accept some of the risks without any action.
+[00:08:48 -> 00:08:53]  In this step, i.e. analyze risks, we will look at how the risks are analyzed.
+[00:08:53 -> 00:09:01]  This is the process of quantifying the risk events, documented in the previous step, so that the organization can focus on critical risks.
+[00:09:05 -> 00:09:10]  For risk analysis, qualitative and quantitative analysis are conducted.
+[00:09:10 -> 00:09:16]  Qualitative risk analysis is a subjective analysis and is quick and easy to understand.
+[00:09:17 -> 00:09:22]  One tool to conduct the qualitative analysis is Probability and Impact Matrix.
+[00:09:22 -> 00:09:25]  We will cover this tool in next few slides.
+[00:09:25 -> 00:09:30]  On the other hand, quantitative risk analysis is the detailed analysis of the risk.
+[00:09:30 -> 00:09:39]  It is not required to conduct quantitative analysis for all risks, and is conducted when it is worth the time and effort required.
+[00:09:39 -> 00:09:47]  Tools to conduct quantitative risk analysis include Expected Monetary Value Analysis, Monte Carlo Analysis, and Decision Tree.
+[00:09:47 -> 00:09:50]  These tools are not covered in this training course.
+[00:09:50 -> 00:09:56]  As discussed in the previous slide, quantitative risk analysis is the detailed analysis of the risk.
+[00:09:56 -> 00:10:04]  It is not required to conduct quantitative analysis for all risks, and is conducted when it is worth the time and effort required.
+[00:10:05 -> 00:10:13]  As discussed in the previous slide, the Probability and Impact Matrix is a qualitative risk analysis tool.
+[00:10:13 -> 00:10:21]  This matrix has two aspects, the probability that the risk will actually happen, and the potential impact if the risk happens.
+[00:10:21 -> 00:10:26]  These two are classified from very unlikely to very likely.
+[00:10:26 -> 00:10:38]  In the Probability and Impact Matrix, the risk probability and the risk impact are assigned a score of 1 to 9, where 1 is the least and 9 is the highest.
+[00:10:38 -> 00:10:43]  A risk score is then calculated by multiplying these two numbers.
+[00:10:43 -> 00:10:50]  Instead of assigning a score of 1 to 9, a score of 1 to 3, or a score of 1 to 5 may be used.
+[00:10:50 -> 00:10:53]  These rules are defined in your risk management plan.
+[00:10:53 -> 00:10:57]  In this course we are using a score of 1 to 9.
+[00:11:03 -> 00:11:11]  In this example, the group assigns a score of 1 to the probability of risk, and a score of 9 to the impact value.
+[00:11:11 -> 00:11:17]  This means that the risk being discussed has a very low chance of happening, but if it happens,
+[00:11:17 -> 00:11:20]  the impact will be very high.
+[00:11:24 -> 00:11:29]  Since the score of 1 to 9 assigned to the probability and impact are subjective,
+[00:11:29 -> 00:11:35]  organization managing the risk creates OSOM guidelines to ensure that these are consistent.
+[00:11:35 -> 00:11:40]  This slide shows a sample table for assigning probability number.
+[00:11:40 -> 00:11:44]  The next slide will show a sample impact table.
+[00:11:44 -> 00:11:48]  This is a sample table to assign the risk impact number.
+[00:11:48 -> 00:11:53]  The risk may impact cost, schedule, scope or quality.
+[00:11:59 -> 00:12:03]  Once we have assigned a risk probability number, and an impact number,
+[00:12:03 -> 00:12:07]  these are plotted on the probability and impact matrix.
+[00:12:07 -> 00:12:11]  A simple example of a risk probability matrix is shown here.
+[00:12:12 -> 00:12:15]  A simple example of that is shown here.
+[00:12:15 -> 00:12:18]  Let us look at the four boxes shown here.
+[00:12:18 -> 00:12:22]  Risks towards the top right corner are of critical importance,
+[00:12:22 -> 00:12:26]  since these are high impact and high probability risks.
+[00:12:26 -> 00:12:31]  These are your top priorities risks that you must pay close attention to.
+[00:12:31 -> 00:12:36]  Risks in the bottom left corner are low impact and low probability risks.
+[00:12:36 -> 00:12:38]  You can often ignore them.
+[00:12:38 -> 00:12:42]  Risks in the top left corner are of moderate importance,
+[00:12:42 -> 00:12:46]  since these are low impact and high probability risks.
+[00:12:46 -> 00:12:50]  If these things happen, you can cope with them and move on.
+[00:12:50 -> 00:12:55]  However, you should try to reduce the likelihood that they'll occur.
+[00:12:55 -> 00:13:00]  Risks in the bottom right corner are high impact and low probability risks,
+[00:13:00 -> 00:13:03]  and these are very unlikely to happen.
+[00:13:03 -> 00:13:07]  For these, you should do what you can to reduce the impact,
+[00:13:07 -> 00:13:12]  and you should have contingency plans in place just in case they occur.
+[00:13:15 -> 00:13:20]  This and the next slide show examples of probability and impact matrix.
+[00:13:20 -> 00:13:26]  In this example, a score of 1 to 9 is assigned to the probability and the impact.
+[00:13:29 -> 00:13:33]  This is an example of the probability and impact matrix,
+[00:13:33 -> 00:13:39]  where the probability and the impact are assigned a value between very low to very high.
+[00:13:43 -> 00:13:45]  Once we have analyzed risks,
+[00:13:45 -> 00:13:51]  the next step on risk management is to plan risk response for each identified risk.
+[00:13:55 -> 00:13:57]  When planning a risk response,
+[00:13:57 -> 00:14:01]  we attempt to reduce the impact and chance of negative risks
+[00:14:01 -> 00:14:05]  and enhance the impact and chance of positive risks.
+[00:14:09 -> 00:14:13]  This slide shows the four risk responses for negative risks
+[00:14:13 -> 00:14:17]  and the corresponding responses for positive risks.
+[00:14:17 -> 00:14:21]  In the next eight slides, we will look at each of these responses.
+[00:14:25 -> 00:14:30]  In risk avoidance, we completely eliminate the possibility of the risk,
+[00:14:30 -> 00:14:36]  an example might be to use a old and proven process, instead of new and risky process.
+[00:14:36 -> 00:14:43]  Risk can also be avoided by improved communication, providing information, or acquiring an expert.
+[00:14:46 -> 00:14:50]  If you cannot avoid a risk completely, you attempt to mitigate it.
+[00:14:50 -> 00:14:55]  The purpose of risk mitigation is to reduce the size of the risk exposure.
+[00:14:55 -> 00:15:01]  This is done by either reducing the probability of the risk, or by reducing the impact.
+[00:15:05 -> 00:15:11]  The risk transfer strategy aims to pass ownership for a particular risk to a third party.
+[00:15:11 -> 00:15:17]  It is also important to remember that risk transfer almost always involves payment of a risk premium.
+[00:15:17 -> 00:15:23]  A cost and benefit analysis might be done, to ensure that the cost of transferring risk is justified.
+[00:15:26 -> 00:15:32]  Acceptance of a risk means that the probability, and or the severity, of the risk is low enough,
+[00:15:32 -> 00:15:35]  that we will do nothing about the risk, unless it occurs.
+[00:15:35 -> 00:15:39]  There are two kinds of acceptance, active and passive.
+[00:15:39 -> 00:15:44]  Acceptance is passive, when nothing at all is done to deal with the risk.
+[00:15:44 -> 00:15:51]  Acceptance is active, when we decide to make a contingency plan, for what to do, when the risk occurs.
+[00:15:55 -> 00:16:02]  The next four slides, will deal with the risk responses for positive risks, or opportunities.
+[00:16:02 -> 00:16:06]  The first response to deal with the positive risk is to exploit it.
+[00:16:06 -> 00:16:12]  This response tries to remove any uncertainty, so that the opportunity is certain to happen.
+[00:16:15 -> 00:16:19]  The enhanced response, focuses on the root cause of the opportunity,
+[00:16:19 -> 00:16:25]  and goes on to influence those factors, which will increase the likelihood of the opportunity occurring.
+[00:16:28 -> 00:16:33]  Sometimes exploiting a positive risk is not possible, without collaboration.
+[00:16:33 -> 00:16:40]  A partnership with a different group, department, or company may be required, to exploit a positive risk.
+[00:16:41 -> 00:16:47]  Just like dealing with negative risks, we may actively or passively accept a positive risk.
+[00:16:47 -> 00:16:53]  Acceptance of a risk means that the probability, and or the severity, of the risk is low enough,
+[00:16:53 -> 00:16:57]  that we will do nothing about the risk, unless it occurs.
+[00:17:02 -> 00:17:07]  Once we have identified risks, analyzed them and made a plan to deal with them,
+[00:17:07 -> 00:17:10]  the next step is to monitor and control the risks.
+[00:17:15 -> 00:17:18]  A risk management program is never finished.
+[00:17:18 -> 00:17:22]  Risk monitoring and control, should be ongoing and continual.
+[00:17:22 -> 00:17:26]  New risks will emerge, and existing risks will disappear.
+[00:17:26 -> 00:17:28]  You have to stay on top of it.
+[00:17:28 -> 00:17:32]  While monitoring and controlling risks, unexpected risks occur.
+[00:17:32 -> 00:17:39]  These unexpected risks are the risks, which you did not identify in your risk identification process.
+[00:17:39 -> 00:17:42]  A workaround is created to deal with such risks.
+[00:17:47 -> 00:17:51]  Thank you for attending this course at qualitygurus.com

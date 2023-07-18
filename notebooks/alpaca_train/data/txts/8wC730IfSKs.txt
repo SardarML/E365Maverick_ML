@@ -1,0 +1,986 @@
+[00:00:00 -> 00:00:11]  You're listening to Numerically Speaking, the Anaconda podcast.
+[00:00:11 -> 00:00:16]  On this podcast, we'll dive into a variety of topics around data, quantitative computing,
+[00:00:16 -> 00:00:17]  and business and entrepreneurship.
+[00:00:17 -> 00:00:21]  We'll speak to creators of cutting edge open source tools and look at their impact
+[00:00:21 -> 00:00:23]  on research in every domain.
+[00:00:23 -> 00:00:27]  We're excited to bring you insights about data, science, and the people that make it
+[00:00:27 -> 00:00:28]  all happen.
+[00:00:28 -> 00:00:32]  Whether you want to learn about AI or grow your data science career, or just better understand
+[00:00:32 -> 00:00:36]  the numbers and the computers that shape our world, Numerically Speaking is the podcast
+[00:00:36 -> 00:00:37]  for you.
+[00:00:37 -> 00:00:38]  Make sure to subscribe.
+[00:00:38 -> 00:00:41]  For more resources, please visit anaconda.com.
+[00:00:41 -> 00:00:43]  I'm your host, Peter Wayne.
+[00:00:43 -> 00:00:47]  This episode is brought to you by Anaconda Notebooks.
+[00:00:47 -> 00:00:52]  With nothing to install and nothing to configure, Anaconda Notebooks is a lightweight, ready-to-code,
+[00:00:52 -> 00:00:55]  and fully loaded data science environment entirely in your browser.
+[00:00:55 -> 00:00:59]  Spin up new projects with the click of a button, with all the packages and files you
+[00:00:59 -> 00:01:01]  need in one place.
+[00:01:01 -> 00:01:07]  With fast and persistent cloud storage no matter what, wherever you go, your code goes.
+[00:01:07 -> 00:01:09]  And students, listen up.
+[00:01:09 -> 00:01:13]  You also get on-demand access to Anaconda's data science experts.
+[00:01:13 -> 00:01:18]  No matter your experience level, learn through hands-on experimentation, and you'll be predicting
+[00:01:18 -> 00:01:20]  the future with machine learning models in no time.
+[00:01:20 -> 00:01:22]  So what are you waiting for?
+[00:01:22 -> 00:01:25]  Start coding with Anaconda entirely in the cloud on anaconda.cloud.
+[00:01:25 -> 00:01:29]  All right, welcome, welcome.
+[00:01:29 -> 00:01:35]  And I'm really, really excited to invite Ryan here on Numerically Speaking.
+[00:01:35 -> 00:01:37]  Really excited to have this conversation.
+[00:01:37 -> 00:01:40]  I think we have a lot of really fun things to talk about.
+[00:01:40 -> 00:01:43]  And Ryan, you've done some really exciting work.
+[00:01:43 -> 00:01:44]  We talk about so many different things.
+[00:01:44 -> 00:01:50]  But before we do that, would you like to go ahead and give a bit of an introduction about
+[00:01:50 -> 00:01:55]  kind of your background and what you work on, and kind of what brought you into this
+[00:01:55 -> 00:02:00]  whole PyData and cloud and all these different kinds of things?
+[00:02:00 -> 00:02:02]  Sure, yeah.
+[00:02:02 -> 00:02:03]  Really happy to be here.
+[00:02:03 -> 00:02:04]  Thanks for the invitation, Peter.
+[00:02:04 -> 00:02:10]  In terms of my background, I realized that I'm kind of a lifelong hacker and computer
+[00:02:10 -> 00:02:11]  nerd.
+[00:02:11 -> 00:02:12]  I've kind of embraced this identity.
+[00:02:12 -> 00:02:16]  So my father worked for IBM.
+[00:02:16 -> 00:02:20]  We had PCs since as long as I can remember.
+[00:02:20 -> 00:02:29]  Back in the 80s, when I was a little kid, I started coding basic and got a little bit
+[00:02:29 -> 00:02:34]  away from that as I got older.
+[00:02:34 -> 00:02:41]  But then really rediscovered my sort of passion for computing and technology in college.
+[00:02:41 -> 00:02:47]  I got really into the whole sort of streaming media and video and audio thing.
+[00:02:47 -> 00:02:51]  This was back in like 2002, 2003.
+[00:02:51 -> 00:02:53]  So I was like really into like college radio.
+[00:02:53 -> 00:03:01]  I set up like the streaming system for my college radio station.
+[00:03:01 -> 00:03:06]  After that, I worked for a while like at this radio and TV program called Democracy Now
+[00:03:06 -> 00:03:13]  doing like sort of video, audio production stuff in this like sort of indie media like
+[00:03:13 -> 00:03:14]  world.
+[00:03:14 -> 00:03:15]  It feels like a long time ago now.
+[00:03:15 -> 00:03:21]  And then I took a big pivot and I decided to go back to school to do a PhD in climate
+[00:03:21 -> 00:03:24]  science at MIT.
+[00:03:24 -> 00:03:27]  And then I just became, you know, like a scientist.
+[00:03:27 -> 00:03:34]  And I did research studying the oceans, their role in climate.
+[00:03:34 -> 00:03:40]  I've been working as a professor at Columbia since 2013 and, you know, continuing that
+[00:03:40 -> 00:03:44]  research trajectory and working with some great students and postdocs.
+[00:03:44 -> 00:03:48]  But during this past, you know, nine years, I've slowly that this sort of hacker side
+[00:03:48 -> 00:03:54]  of me has slowly been reemerging and in fact sort of taking back over my life and career.
+[00:03:54 -> 00:04:01]  And now I'm at the point where I'm thinking about data and coding and cloud and all of
+[00:04:01 -> 00:04:04]  this stuff, you know, almost all day.
+[00:04:05 -> 00:04:11]  So it's been a fun journey and I feel like it's actually just getting started.
+[00:04:11 -> 00:04:15]  So that's really, yeah, this is, you know, I actually, I didn't know that part of the
+[00:04:15 -> 00:04:16]  streaming media thing.
+[00:04:16 -> 00:04:20]  Did you pay your annual like whatever, 600 bucks to ASCAP or something to be able to
+[00:04:20 -> 00:04:21]  stream radio back then?
+[00:04:21 -> 00:04:22]  Wasn't there something like that?
+[00:04:22 -> 00:04:25]  Because a buddy of mine ran an internet streaming station back then as well.
+[00:04:25 -> 00:04:28]  And I just remember it was like outrageous, well not outrageous, but like there was all
+[00:04:28 -> 00:04:31]  this stuff you had to go through like it was a real radio station.
+[00:04:31 -> 00:04:36]  It was kind of the Wild West for college radio, you know, like we were paying already
+[00:04:36 -> 00:04:37]  licensing fees.
+[00:04:37 -> 00:04:40]  That's how all radio stations were doing it.
+[00:04:40 -> 00:04:45]  But then we just started doing the streaming without, we didn't ask permission really.
+[00:04:45 -> 00:04:50]  And probably after I left, they had to sort that out and actually do it right.
+[00:04:50 -> 00:04:52]  We were mostly like, you know, what is all this tech?
+[00:04:52 -> 00:04:58]  We're setting up servers under the studio, you know, console and learning all about,
+[00:04:58 -> 00:05:01]  you know, compression and protocols.
+[00:05:01 -> 00:05:05]  And it's really interesting how that's actually helped my science a lot.
+[00:05:05 -> 00:05:10]  Because I felt like I had this really solid foundation in like what is digital data?
+[00:05:10 -> 00:05:12]  Like how do we move it around?
+[00:05:12 -> 00:05:14]  Like what is throughput?
+[00:05:14 -> 00:05:16]  Like what is bandwidth?
+[00:05:16 -> 00:05:20]  Like just concepts I kind of took for granted that have been really helpful in computational
+[00:05:20 -> 00:05:21]  science.
+[00:05:21 -> 00:05:26]  I got my start thinking about audio and video actually.
+[00:05:26 -> 00:05:31]  Well, that's interesting that you started there and you did the computer stuff because
+[00:05:31 -> 00:05:32]  you had to.
+[00:05:32 -> 00:05:34]  It was a means to an end, right?
+[00:05:34 -> 00:05:38]  Then you went to go and study climate science and then you found yourself doing more computer
+[00:05:38 -> 00:05:40]  stuff as a means to an end.
+[00:05:40 -> 00:05:42]  And then getting sucked in more and more into that.
+[00:05:42 -> 00:05:48]  So now we, you know, Anaconda and some of the open source folks here at Anaconda have
+[00:05:48 -> 00:05:52]  been working with you and with the Pangeo project for a number of years now.
+[00:05:52 -> 00:05:55]  And there are a lot of really, really fun things that we've built that we've worked
+[00:05:55 -> 00:05:56]  on.
+[00:05:56 -> 00:06:02]  A lot of the open source tools that we built were, many of them had features and things
+[00:06:02 -> 00:06:06]  that came out of needs that you all had in the climate science arena.
+[00:06:06 -> 00:06:12]  It's just a really, really, I think, productive collaboration between the scientific needs
+[00:06:12 -> 00:06:13]  that you all have.
+[00:06:13 -> 00:06:17]  And then of course, also to be clear, you were trying to do a research collaboration
+[00:06:17 -> 00:06:18]  in the cloud.
+[00:06:18 -> 00:06:20]  It was like cloud native science almost, right?
+[00:06:20 -> 00:06:21]  How do we do that?
+[00:06:21 -> 00:06:25]  And of course there's all sorts of sharp rocks to trip on and fall over in doing all
+[00:06:25 -> 00:06:26]  that stuff.
+[00:06:26 -> 00:06:28]  Not all of which are technical, some are organizational.
+[00:06:28 -> 00:06:30]  We'll talk about that later, right?
+[00:06:30 -> 00:06:35]  But then that definitely helped drive and inspire some of the work that we've done
+[00:06:35 -> 00:06:39]  on like FS spec and intake and desk and all these kinds of things.
+[00:06:39 -> 00:06:44]  So I really appreciate your leaning into that collaboration and people who are using those
+[00:06:44 -> 00:06:49]  tools should know they're benefiting from input of your group and from you personally,
+[00:06:49 -> 00:06:50]  of course.
+[00:06:50 -> 00:06:55]  But as you look out right now as the state of science, like just climate science, right?
+[00:06:55 -> 00:07:00]  Tell me about what's top of mind for you in that area as you're thinking about that.
+[00:07:00 -> 00:07:01]  Absolutely.
+[00:07:01 -> 00:07:05]  Well, let me start with something that's really, I think, exciting and inspirational that's
+[00:07:05 -> 00:07:08]  happening right now in climate science.
+[00:07:08 -> 00:07:16]  And I'm involved in some of this at the periphery, but the only way we have really solid information
+[00:07:16 -> 00:07:21]  about what's going to happen to our future climate is through something we call climate
+[00:07:21 -> 00:07:23]  models.
+[00:07:23 -> 00:07:29]  And these are some of the sort of main workhorse applications of traditional high performance
+[00:07:29 -> 00:07:32]  computing, you know, supercomputers, right?
+[00:07:32 -> 00:07:36]  Like that's one of like them, like going back to von Neumann, like this is like why they
+[00:07:36 -> 00:07:44]  built supercomputers to predict the weather and really to project forward the climate.
+[00:07:44 -> 00:07:50]  And these are like, for the most part, like really heavy duty scientific computing applications,
+[00:07:50 -> 00:07:56]  mostly written in Fortran, maintained by these teams at national labs, places like, you know,
+[00:07:56 -> 00:08:02]  you know, the DOE labs and, you know, GFDL at Geophysical Fluid Dynamics Lab and National
+[00:08:02 -> 00:08:09]  Center for Atmospheric Research, you know, beasts of code with a long legacy, very sophisticated
+[00:08:09 -> 00:08:15]  at what they do, very in a way isolated from the rest of computational science, particularly
+[00:08:15 -> 00:08:17]  like modern data science.
+[00:08:17 -> 00:08:24]  And what we're trying to do now is we're trying to fuse those models and enhance them using
+[00:08:24 -> 00:08:26]  stuff from AI, right?
+[00:08:26 -> 00:08:31]  Like we're trying to, basically, these are big PDE solvers, and they don't really incorporate
+[00:08:31 -> 00:08:33]  data directly.
+[00:08:33 -> 00:08:37]  Yet there is all this data out there about the earth that we can potentially leverage
+[00:08:37 -> 00:08:40]  to make the models better.
+[00:08:40 -> 00:08:48]  And so the scientific challenge is how do we actually plug those things together?
+[00:08:48 -> 00:08:56]  How do we actually make a 40-year-old legacy Fortran code, like have a neural network,
+[00:08:56 -> 00:08:59]  you know, from PyTorch running inside it?
+[00:08:59 -> 00:09:04]  And how do we scientifically, what is the right framework to integrate data into that
+[00:09:04 -> 00:09:05]  type of application?
+[00:09:05 -> 00:09:11]  This is ultimately not just a technical problem, but really a interdisciplinary science problem.
+[00:09:11 -> 00:09:15]  So we have this great new collaboration, a couple of projects I'm involved in, one called
+[00:09:15 -> 00:09:22]  Multiscale Machine Learning for Earth System Modeling, and another called Learning the
+[00:09:22 -> 00:09:25]  Earth with Artificial Intelligence and Physics.
+[00:09:25 -> 00:09:27]  That's a new center here at Columbia.
+[00:09:27 -> 00:09:32]  And really, this is about bringing AI scientists, people who are doing, you know, innovating
+[00:09:32 -> 00:09:38]  on machine learning methods together with domain scientists, and figuring out where's
+[00:09:38 -> 00:09:47]  that point where we can plug AI into the climate model and really enhance its predictive capabilities.
+[00:09:47 -> 00:09:51]  So the challenge, I mean, well, so I don't want to rattle on this part too much right
+[00:09:51 -> 00:09:55]  now, but it does seem to me like, yes, absolutely.
+[00:09:55 -> 00:10:00]  And using AI, you know, we talk about AI as if it's this new thing.
+[00:10:00 -> 00:10:04]  But when you zoom out and you look at the cybernetics, and I sort of talked about this
+[00:10:04 -> 00:10:10]  with Paco Nathan in a previous episode, right, that the origin of computing was in prediction.
+[00:10:10 -> 00:10:12]  The origin of computing was in simulation.
+[00:10:12 -> 00:10:15]  We didn't do it to go and do mass telephony.
+[00:10:15 -> 00:10:18]  We didn't do it to go and do banking system reconciliation.
+[00:10:18 -> 00:10:21]  We didn't do it to make computer games and, you know, World of Warcraft.
+[00:10:21 -> 00:10:22]  We did it to predict.
+[00:10:22 -> 00:10:27]  We started, the whole field started in prediction and trying to make guns hit airplanes or make
+[00:10:27 -> 00:10:32]  guns, you know, lob shells onto target, you know, from the rolling sea.
+[00:10:32 -> 00:10:36]  And then that became more and more about simulating things, simulating things.
+[00:10:36 -> 00:10:37]  And then we got these big computers.
+[00:10:37 -> 00:10:41]  And there's this whole like very big iron serious, let's say a branch of the family
+[00:10:41 -> 00:10:45]  tree of computing that actually stayed in that world a bit.
+[00:10:45 -> 00:10:47]  And then it ended up with things like APL and Fortran.
+[00:10:47 -> 00:10:52]  And then for Fortran, we get the influences on things like MATLAB and NumPy, of course.
+[00:10:52 -> 00:10:56]  But the rest of the personal computing world went down a whole different path.
+[00:10:56 -> 00:11:00]  And now we're faced with, at a civilizational level, needing to really, really, really do
+[00:11:00 -> 00:11:04]  like no kidding simulation that we want to see what's going to happen to like billions
+[00:11:04 -> 00:11:05]  of people.
+[00:11:05 -> 00:11:06]  Right.
+[00:11:06 -> 00:11:09]  And in doing all of that, we sort of rediscover AI, right?
+[00:11:09 -> 00:11:11]  The AI winter's over, it's back again.
+[00:11:11 -> 00:11:17]  But now what we found is not only have people lost, well, there's lack of faith in institutions,
+[00:11:17 -> 00:11:19]  there's a lack of trust in science.
+[00:11:19 -> 00:11:24]  Now we're going to put AI into it to then make even more policy, you know, facing kinds
+[00:11:24 -> 00:11:25]  of predictions.
+[00:11:25 -> 00:11:28]  And this is going to sound like, well, you're just bringing Skynet in to tell me what to
+[00:11:28 -> 00:11:30]  do versus no, this is what we built.
+[00:11:30 -> 00:11:33]  Like it was all about prediction from in the first place.
+[00:11:33 -> 00:11:36]  But anyway, not that you're ever going to make that point to, I think, the layperson,
+[00:11:36 -> 00:11:41]  but I do think it's very interesting in this area in particular, we have to get quite serious.
+[00:11:41 -> 00:11:42]  This is not some dolly art thing.
+[00:11:42 -> 00:11:46]  This is like something very serious about understanding what is the AI or what are the
+[00:11:46 -> 00:11:48]  machine learning models training on?
+[00:11:48 -> 00:11:49]  What is in the models?
+[00:11:49 -> 00:11:51]  What is not in the models?
+[00:11:51 -> 00:11:54]  How much are they, you know, are they doing like a cubic fit?
+[00:11:54 -> 00:11:57]  Are they doing something better to project what goes forward?
+[00:11:57 -> 00:11:59]  So I'd love to talk about that in a little later bit.
+[00:11:59 -> 00:12:04]  But before we even get to the AI part, let's talk about what is your view right now on
+[00:12:04 -> 00:12:07]  how data intensive science is being done?
+[00:12:07 -> 00:12:09]  What is the state of that really in academia?
+[00:12:09 -> 00:12:11]  And if you can talk about other disciplines, that's great.
+[00:12:11 -> 00:12:15]  If you want to keep it scoped to climate science, that's great too.
+[00:12:15 -> 00:12:17]  I think this is something that transcends disciplines.
+[00:12:17 -> 00:12:22]  And so data intensive science is the term that I try to use to describe the problems
+[00:12:22 -> 00:12:28]  that we are kind of obsessed with trying to solve in our research group and in our
+[00:12:28 -> 00:12:29]  open source work.
+[00:12:29 -> 00:12:37]  So in a way, we have this ability to generate data right now in science much faster than
+[00:12:37 -> 00:12:38]  we can understand it.
+[00:12:38 -> 00:12:43]  So whether that's simulated data, like those supercomputers are great at generating data.
+[00:12:43 -> 00:12:49]  Like you can run simulations, you know, all day long, dump petabytes of data onto a disk.
+[00:12:49 -> 00:12:56]  And like, there's interesting science in that data, whether it's turbulence or, you know,
+[00:12:56 -> 00:13:00]  molecular dynamics or, you know, drug discovery or whatever.
+[00:13:00 -> 00:13:05]  And likewise, with sensors, you know, with satellites, drones, new observing platforms.
+[00:13:05 -> 00:13:09]  In the ocean, we use autonomous robots that have sensors.
+[00:13:09 -> 00:13:13]  They're just floating around, diving up and down and sending data back to satellite.
+[00:13:13 -> 00:13:16]  So we have this deluge of data.
+[00:13:16 -> 00:13:21]  And so much of the challenge I see is around how do we interpret and make sense of that data?
+[00:13:21 -> 00:13:27]  In many cases, it involves data fusion, combining data from the robots with satellites or combining
+[00:13:27 -> 00:13:33]  data from the models with in-situ observations.
+[00:13:33 -> 00:13:37]  And particularly, there's huge challenges around the volume of data that we have to
+[00:13:37 -> 00:13:38]  confront now.
+[00:13:38 -> 00:13:41]  And this has just changed in my relatively short scientific career.
+[00:13:41 -> 00:13:44]  It's really just exploded and ballooned.
+[00:13:44 -> 00:13:50]  You know, it is very hard to share and collaborate around large scientific data sets.
+[00:13:50 -> 00:13:56]  Once you're measuring that in petabytes, we have our HPC centers that have a mandate to
+[00:13:56 -> 00:14:00]  provide access to scientists, but they're really fortresses.
+[00:14:00 -> 00:14:03]  I mean, they're designed to keep outsiders away from the data.
+[00:14:03 -> 00:14:09]  Heavy security, strong restrictions on what you can run there.
+[00:14:09 -> 00:14:14]  And what we're really trying to do in science is bring more people into the conversation.
+[00:14:14 -> 00:14:18]  Not just more collaborators from other Ivy League institutions, but we really want to be in
+[00:14:18 -> 00:14:22]  climate science. We want to be involving people from the developing world in that science
+[00:14:22 -> 00:14:25]  because they're the ones who are at the most risk from climate change.
+[00:14:25 -> 00:14:27]  Like we need to be more inclusive.
+[00:14:27 -> 00:14:30]  And the way we're doing infrastructure is not serving that goal.
+[00:14:30 -> 00:14:33]  That's why I and many others are excited about the cloud.
+[00:14:33 -> 00:14:37]  Despite all of the caveats that come with cloud computing, it is a really very much a
+[00:14:37 -> 00:14:40]  democratic space where we can all collaborate together.
+[00:14:40 -> 00:14:46]  And it has the right infrastructure to truly scale to the size and complexity of the data
+[00:14:46 -> 00:14:48]  that we're working.
+[00:14:48 -> 00:14:50]  Yeah, that's really interesting to me.
+[00:14:50 -> 00:14:54]  You know, I have many, many of our podcast listeners are, you know, coming from the private
+[00:14:54 -> 00:14:55]  sector, from industry.
+[00:14:55 -> 00:15:02]  And I think, you know, the general public is probably used to this idea of scientific
+[00:15:02 -> 00:15:05]  data being relatively open and public.
+[00:15:05 -> 00:15:07]  And I mean, obviously, you know, pictures come off a space telescope.
+[00:15:07 -> 00:15:10]  It's published, you know, on all the news sites the next day.
+[00:15:10 -> 00:15:16]  So what is the, so this idea, like if you go to, of course, like, you know, an insurance
+[00:15:16 -> 00:15:20]  company, if you work in IT and insurance company or a bank or something like that, or if you
+[00:15:20 -> 00:15:24]  work for the military and some military data analysis, I think it makes sense to you that
+[00:15:24 -> 00:15:28]  the data infrastructure, the computer infrastructure is a fortress there.
+[00:15:28 -> 00:15:31]  There's personal data, there's like national security data.
+[00:15:31 -> 00:15:35]  But for science, for supercomputers that the public, the public tax dollar is going to
+[00:15:35 -> 00:15:40]  pay for to facilitate science, the idea that those are really locked down environments
+[00:15:40 -> 00:15:42]  is somewhat, that's somewhat surprising, isn't it?
+[00:15:42 -> 00:15:46]  Or I mean, should we be surprised or is like, well, you know, talk to me about that.
+[00:15:46 -> 00:15:49]  So I think those are expensive resources.
+[00:15:49 -> 00:15:54]  But you know, part of the thing that cloud allows you to do is sort of separate the compute
+[00:15:54 -> 00:15:56]  part from the data, right?
+[00:15:56 -> 00:16:04]  So like, traditionally, the way we share data in science is through like the download model,
+[00:16:04 -> 00:16:05]  right?
+[00:16:05 -> 00:16:12]  Like we, like the data provider will make like an FTP server and you can like download
+[00:16:12 -> 00:16:13]  the data, right?
+[00:16:13 -> 00:16:18]  And, and that works kind of, that works fine in the small data regime.
+[00:16:18 -> 00:16:24]  What those HPC centers offer to scientists is a place where their data and their compute
+[00:16:24 -> 00:16:26]  are already together next to each other.
+[00:16:26 -> 00:16:28]  And that's, that's, that's what we want.
+[00:16:28 -> 00:16:33]  But it's a sort of a monolithic service in the sense that like, you know, it's all bundled
+[00:16:33 -> 00:16:40]  together and all paid for and by the same, you know, organization.
+[00:16:40 -> 00:16:46]  And it's really, it's really oriented around the compute, like this, this computing centers,
+[00:16:46 -> 00:16:53]  they exist to like, maximize their CPU utilization, like that's the metric for any HPC center.
+[00:16:53 -> 00:16:59]  Like we were at 99% utilization, like we like we spun the CPUs day and night, like mission
+[00:16:59 -> 00:17:02]  accomplished, right?
+[00:17:02 -> 00:17:06]  And, and, and it, so it's a compute centric vision, right?
+[00:17:06 -> 00:17:12]  But for data intensive science, it's really the data that's, that's at the center of the
+[00:17:12 -> 00:17:18]  workflow and of, and, and that's what cloud is more like, you know, in cloud, really the
+[00:17:18 -> 00:17:20]  compute exists to serve the data.
+[00:17:20 -> 00:17:25]  And cloud has this key differentiation, which is that you have this sort of multi-tenant
+[00:17:25 -> 00:17:26]  architecture, right?
+[00:17:26 -> 00:17:31]  Like we can have one copy of the data and like many people can come and compute on it
+[00:17:31 -> 00:17:34]  under their own, you know, account, under their own bill.
+[00:17:34 -> 00:17:37]  And it doesn't have to be downloaded.
+[00:17:37 -> 00:17:41]  And that's, I mean, that's, we, we take it for granted if you're used to cloud computing,
+[00:17:41 -> 00:17:46]  but so much of science, you know, in so many fields is still about, okay, like go download
+[00:17:46 -> 00:17:49]  like 20 terabytes of this data.
+[00:17:49 -> 00:17:52]  Like that's step one for the project, like put it on hard drives and then we can like
+[00:17:52 -> 00:17:54]  start the project, you know?
+[00:17:54 -> 00:17:55]  And I just think that's incredibly-
+[00:17:55 -> 00:18:02]  I mean, you know, the irony is, so let's see if I figure out how to say this concisely.
+[00:18:02 -> 00:18:06]  When Travis and I were really trying to think about the next step, so 10 years ago, we were
+[00:18:06 -> 00:18:08]  thinking about what is the next step?
+[00:18:08 -> 00:18:12]  What's different about the Pythonic model of computation as we came, as we came from
+[00:18:12 -> 00:18:16]  the SciPy ecosystem and, and how is that different than all the stuff that we're seeing in business
+[00:18:16 -> 00:18:20]  computing when we'd go into our consulting, like a Wall Street or some, you know, whatever
+[00:18:20 -> 00:18:25]  big Fortune 100 company, and they've got some, you know, back-end compute job or some scientific
+[00:18:25 -> 00:18:26]  modeling they need to do.
+[00:18:26 -> 00:18:30]  And what we found was that when we thought about the problem, him and I are both, you
+[00:18:30 -> 00:18:34]  know, I'm, I have a physics background, Travis has an electrical engineering background.
+[00:18:34 -> 00:18:40]  We both came from the SciPy world and thinking about how can I efficiently take this code
+[00:18:40 -> 00:18:42]  and apply it to as much data as possible.
+[00:18:42 -> 00:18:46]  There's very much a SIMD approach, single instruction, multiple dispatch.
+[00:18:46 -> 00:18:51]  And what we found when we started, you know, and I played more, I was more in the kind
+[00:18:51 -> 00:18:54]  of the technical lead architect role in a lot of these conversations.
+[00:18:54 -> 00:19:00]  As you go to Wall Street, as you do kind of traditional, traditional back-end computing,
+[00:19:00 -> 00:19:04]  let's say for business applications, there was not an appreciation for this kind of architecture.
+[00:19:04 -> 00:19:09]  There's much more people would marshal data items, do row at a time stuff, just, it was
+[00:19:09 -> 00:19:13]  completely not a vectorized mindset at all, right?
+[00:19:13 -> 00:19:19]  And so, so we, we were thinking, you know what, really to do the next generation of
+[00:19:19 -> 00:19:24]  problems that are coming, and this is 2009 and 10 that we're having these conversations.
+[00:19:24 -> 00:19:27]  You know, we're talking about, you know, for the next generation of compute problems coming
+[00:19:27 -> 00:19:32]  for the, for the next scale of, of data problems that people have, we cannot do this row at
+[00:19:32 -> 00:19:33]  a time stuff.
+[00:19:33 -> 00:19:36]  You know, like the time you don't do row at a time stuff is when you ship a query off
+[00:19:36 -> 00:19:41]  to the database and you let that be like, you know, some database vendors problem.
+[00:19:41 -> 00:19:46]  But the average Java dev that we've dealt with was like shamelessly going and marshaling
+[00:19:46 -> 00:19:48]  floats and ints and moving them around everywhere.
+[00:19:48 -> 00:19:53]  And it's like, you're spending a million cycles to move one int from A to B, right?
+[00:19:53 -> 00:19:57]  And so we found this like, oh, the best way to talk about this is to use the terms from
+[00:19:57 -> 00:20:02]  supercomputing and scientific computing, HPC, move code to data.
+[00:20:02 -> 00:20:05]  And so you'll find, if you go back and look at some of our presentations, our initial
+[00:20:05 -> 00:20:10]  blaze vision and what some of the thinking that led to things like Dask and Intake and
+[00:20:10 -> 00:20:16]  Numba, it was all about how do you move high level code, the right code to massive amounts
+[00:20:16 -> 00:20:19]  of data, because that's a lot easier than shipping data around and shuffling around
+[00:20:19 -> 00:20:21]  and marshaling ints everywhere.
+[00:20:21 -> 00:20:26]  So then we come around and the whole thing turns around and inverts, right?
+[00:20:26 -> 00:20:30]  Now it turns out that these supercomputing facilities, which is where we would have drawn
+[00:20:30 -> 00:20:35]  these lessons from, the architecture of the facility, right, and the economics of that
+[00:20:35 -> 00:20:41]  facility, their particular metrics and KPIs, if you're a supercomputer manager or owner,
+[00:20:41 -> 00:20:42]  it's utilization.
+[00:20:42 -> 00:20:43]  You're absolutely right.
+[00:20:43 -> 00:20:44]  It's utilization.
+[00:20:44 -> 00:20:47]  You cannot say, I have my computers, you know, here's a, whatever, $100 million supercomputer
+[00:20:47 -> 00:20:49]  and it was 90% idle last year.
+[00:20:49 -> 00:20:51]  Like that does not fly, right?
+[00:20:51 -> 00:20:53]  So they're solving for this utilization thing.
+[00:20:53 -> 00:20:58]  And the way they architected for multi-tenancy was not really around data centrality, data
+[00:20:58 -> 00:21:04]  gravity across multiple different tenants and stakeholders, whereas cloud kind of, kind
+[00:21:04 -> 00:21:08]  of is, you know, like it's closer to it than not.
+[00:21:08 -> 00:21:12]  And so this really, I just, I think it's really interesting, the tension between these things,
+[00:21:12 -> 00:21:17]  but ultimately what you're talking about is that the dynamic in the problem space is there
+[00:21:17 -> 00:21:18]  is data.
+[00:21:18 -> 00:21:19]  There's data gravity.
+[00:21:19 -> 00:21:20]  Absolutely.
+[00:21:20 -> 00:21:21]  There's data gravity.
+[00:21:21 -> 00:21:24]  Because these, these data sets are so large, we cannot be moving them around, we do different
+[00:21:24 -> 00:21:27]  research groups, right?
+[00:21:27 -> 00:21:32]  And now gravity pulls the cloud down, it just pulls up into the cloud, right?
+[00:21:32 -> 00:21:37]  And this is really strong in climate science, exactly as you say, because like in one, on
+[00:21:37 -> 00:21:41]  one hand, like we're really blessed in the environmental sciences in general.
+[00:21:41 -> 00:21:44]  We have great open data values.
+[00:21:44 -> 00:21:50]  Like you mentioned this earlier, like people do not generally hoard data or like, you know,
+[00:21:50 -> 00:21:51]  just sit on data.
+[00:21:51 -> 00:21:53]  Like it's all about sharing data.
+[00:21:53 -> 00:21:58]  We have very strong policies from the top down of, from our scientific agencies, our
+[00:21:58 -> 00:22:01]  data must be made open.
+[00:22:01 -> 00:22:06]  And we have this really strong culture around fair data, findable, accessible, interoperable
+[00:22:06 -> 00:22:08]  and reusable.
+[00:22:08 -> 00:22:10]  And this has pervaded the field.
+[00:22:10 -> 00:22:16]  And yet, on the other hand, like, we don't have an actual platform to enact that, right?
+[00:22:16 -> 00:22:21]  And so there's this big sort of debate going on in science right now, what is our architecture?
+[00:22:21 -> 00:22:29]  Like what is, what is, what is our like, field wide architecture we will use to empower people?
+[00:22:29 -> 00:22:32]  And like, there's a bunch of experimentation going on, right?
+[00:22:32 -> 00:22:37]  You've obviously got like the traditional HPC, you know, camp that they're really good
+[00:22:37 -> 00:22:38]  at what they do.
+[00:22:38 -> 00:22:41]  And they, you know, they want to become the data facilities, right?
+[00:22:41 -> 00:22:42]  For, for the field.
+[00:22:42 -> 00:22:47]  And then you've got, you know, people like me who have been like experimenting with cloud
+[00:22:47 -> 00:22:48]  computing.
+[00:22:48 -> 00:22:52]  And I think, you know, to some I'm perceived as like this big cloud like advocate.
+[00:22:52 -> 00:22:56]  They think I'm on like Amazon's payroll, like trying to like get everyone to move to the
+[00:22:56 -> 00:22:57]  cloud.
+[00:22:57 -> 00:23:01]  You know, it's really just about like, what does this technology enable?
+[00:23:01 -> 00:23:06]  Where I think things are headed that I'm pretty excited about is more cloud like
+[00:23:06 -> 00:23:11]  infrastructure, but not necessarily owned, like all by AWS.
+[00:23:11 -> 00:23:14]  So what to give an example of this one project that I'm super excited about is something
+[00:23:14 -> 00:23:17]  called Open Storage Network.
+[00:23:17 -> 00:23:23]  It is a collaboration funded by the NSF and Schmidt Futures.
+[00:23:23 -> 00:23:27]  It's run out of San Diego Supercomputing Center and National Center for Supercomputing
+[00:23:27 -> 00:23:28]  Applications.
+[00:23:28 -> 00:23:30]  So like pretty much from the HPC world.
+[00:23:30 -> 00:23:33]  But what they're doing is they're building object storage.
+[00:23:33 -> 00:23:37]  They're placing it on the Internet with really high bandwidth configurations.
+[00:23:37 -> 00:23:40]  Like it's S3 compatible.
+[00:23:40 -> 00:23:42]  You can hit it from the cloud.
+[00:23:42 -> 00:23:47]  You can hit it from the HPC set centers.
+[00:23:47 -> 00:23:49]  Everybody can compute on it.
+[00:23:49 -> 00:23:51]  You don't have to download the data.
+[00:23:51 -> 00:23:58]  And it's really enabling this sort of like, you know, data fabric for really much more
+[00:23:58 -> 00:23:59]  flexible workflows.
+[00:23:59 -> 00:24:02]  And I'm really excited about that sort of thing.
+[00:24:02 -> 00:24:04]  And I want to see that grow.
+[00:24:04 -> 00:24:09]  It's a bit of then becomes a bit of a social and political problem of, okay, who should
+[00:24:09 -> 00:24:10]  own that?
+[00:24:10 -> 00:24:13]  Whose job is it to provide that infrastructure?
+[00:24:13 -> 00:24:14]  Is it the university?
+[00:24:14 -> 00:24:15]  Is it the agency?
+[00:24:15 -> 00:24:19]  Is it, you know, each scientist pony up, you know, 20 bucks a month?
+[00:24:19 -> 00:24:22]  Like no one has figured out actually the business model.
+[00:24:22 -> 00:24:23]  Yeah.
+[00:24:23 -> 00:24:26]  And I think there's, well, it's there's so many different laws here, right?
+[00:24:26 -> 00:24:30]  If you think about Alan Kay's statement that people are serious about software, need to
+[00:24:30 -> 00:24:31]  make their own hardware.
+[00:24:31 -> 00:24:35]  And I would append that with a corollary to say in this case, since you're serious about
+[00:24:35 -> 00:24:39]  the software, you need to be, you get serious.
+[00:24:39 -> 00:24:41]  You're making your own hardware choices, right?
+[00:24:41 -> 00:24:44]  You're saying I'm not actually wed to this particular thing.
+[00:24:44 -> 00:24:49]  And there's also this kind of thing where, you know, in technology, we can look at things
+[00:24:49 -> 00:24:50]  in tiers.
+[00:24:50 -> 00:24:55]  Like here's the strata of the software, this is the software layer, or this is the platform
+[00:24:55 -> 00:24:56]  layer.
+[00:24:57 -> 00:25:00]  But at the end of the day, those are all just models.
+[00:25:00 -> 00:25:06]  We layer on top of a pile of silicon energized to go and basically run a finite state machine
+[00:25:06 -> 00:25:07]  really fast.
+[00:25:07 -> 00:25:08]  Right.
+[00:25:08 -> 00:25:13]  And so when you look at it in that perspective, the only reason, isn't the only reason that
+[00:25:13 -> 00:25:17]  we would have these separate supercomputing facilities be that we have some different
+[00:25:17 -> 00:25:18]  kind of exotic hardware.
+[00:25:18 -> 00:25:22]  If they're using vanilla, like for a while it was like they had exotic hardware.
+[00:25:22 -> 00:25:23]  Okay, sure.
+[00:25:23 -> 00:25:26]  And then it was like, well, they've got commodity chips, the same chips that you find in a server
+[00:25:26 -> 00:25:29]  on cloud, but they have exotic interconnects.
+[00:25:29 -> 00:25:32]  So sparse matrix problems or other kinds of things, you know, your NUMA architectures
+[00:25:32 -> 00:25:38]  and RDMA kind of things, let you do problems in a way that you cannot do in a generic kind
+[00:25:38 -> 00:25:39]  of thing over here.
+[00:25:39 -> 00:25:43]  But then you actually, good friends of mine are the ones from cycle computing.
+[00:25:43 -> 00:25:47]  We're doing supercomputing applications in the cloud 10 years ago, either pioneered that
+[00:25:47 -> 00:25:51]  kind of that kind of thing, and they have bought by Microsoft.
+[00:25:51 -> 00:25:56]  And that's, it's like they were showing the feasibility even 10 years ago of doing these
+[00:25:56 -> 00:25:58]  big supercomputing jobs in the cloud.
+[00:25:58 -> 00:26:02]  And so as we move forward, I think there is like, if we, if we zoom out past the budgets,
+[00:26:02 -> 00:26:06]  past the organizational political dynamics and all the things, and just ask the question,
+[00:26:06 -> 00:26:09]  what is in the best service of science?
+[00:26:09 -> 00:26:14]  What is the best service of reproducibility, agility, compute efficacy, and all these kinds
+[00:26:14 -> 00:26:15]  of things?
+[00:26:15 -> 00:26:20]  And it's an open question as to why would someone run their own infrastructure?
+[00:26:20 -> 00:26:23]  And I'm not saying, I'm not asking that in a rhetorical sense, I'm asking that a real
+[00:26:23 -> 00:26:24]  sense.
+[00:26:24 -> 00:26:29]  What are some reasons why one would run their own infrastructure, actually be racking servers?
+[00:26:29 -> 00:26:33]  What's different about the servers you're racking versus the data centers that Amazon
+[00:26:33 -> 00:26:35]  or Azure or Google or whoever is racking, right?
+[00:26:35 -> 00:26:39]  Is that a rhetorical question or do you want to go into that?
+[00:26:39 -> 00:26:40]  Well, I don't know.
+[00:26:40 -> 00:26:44]  I am actually interested in what you think are reasons that would get you off the cloud
+[00:26:44 -> 00:26:47]  to prove to us you're not on the AWS payroll.
+[00:26:47 -> 00:26:52]  Well, I can tell you about some of the things that some of the, that a lot of the scientists
+[00:26:52 -> 00:26:58]  I talk to worry about when we say, let's move our infrastructure to the cloud.
+[00:26:58 -> 00:27:02]  A huge one that comes up is egress.
+[00:27:02 -> 00:27:05]  People are very worried that we've put our data in the cloud.
+[00:27:05 -> 00:27:08]  We won't be able to get it back, right?
+[00:27:08 -> 00:27:12]  I think a lot of that is a little bit unfounded, but like there's definitely like the idea
+[00:27:12 -> 00:27:17]  that that business model is to build a moat around this data that was ultimately collected
+[00:27:17 -> 00:27:21]  through public funding or generated at great effort through the scientists.
+[00:27:22 -> 00:27:23]  It doesn't gel.
+[00:27:23 -> 00:27:29]  Whether or not it's a valid technical argument, it's a very strong sort of psychological barrier
+[00:27:29 -> 00:27:31]  for people putting a lot of data into the cloud.
+[00:27:31 -> 00:27:36]  So whatever we can do to get rid of egress fees, and there's stuff happening around this,
+[00:27:36 -> 00:27:41]  like Internet2 and all the cloud providers have sort of egress waiver agreements, treaties
+[00:27:41 -> 00:27:44]  to not charge egress.
+[00:27:44 -> 00:27:46]  So that's one.
+[00:27:46 -> 00:27:50]  And then, you know, there's a lot of fear about lock-in, you know, up to the cloud,
+[00:27:50 -> 00:27:55]  like the idea that we're going to entrust this really precious scientific enterprise
+[00:27:55 -> 00:27:59]  to this company whose values might not align with ours.
+[00:27:59 -> 00:28:05]  And I think the solution there is to just, I want cloud to be as much of a commodity
+[00:28:05 -> 00:28:06]  as possible.
+[00:28:06 -> 00:28:12]  I really don't want a lot of specialized services that are very bespoke to each cloud provider.
+[00:28:12 -> 00:28:20]  I want compute, storage, a few database, a few basic things, and I want them to run really
+[00:28:20 -> 00:28:21]  well and be cheap.
+[00:28:21 -> 00:28:26]  And I want there to be competition in a marketplace, same way that we do for electricity, right?
+[00:28:26 -> 00:28:27]  Like it's a utility.
+[00:28:27 -> 00:28:29]  So that's how I want cloud to be.
+[00:28:29 -> 00:28:32]  I don't think that's how AWS wants cloud to be.
+[00:28:32 -> 00:28:35]  They want to differentiate and add value and stuff.
+[00:28:35 -> 00:28:38]  But there's always that tension there.
+[00:28:38 -> 00:28:41]  And so, you know, those are some of the issues that I see.
+[00:28:41 -> 00:28:42]  Yeah, yeah.
+[00:28:42 -> 00:28:46]  So around the egress thing, it occurs to me that you could, much more cheaply than keeping
+[00:28:46 -> 00:28:54]  a data center up and maintaining it and all that stuff, you could pay, you could require
+[00:28:54 -> 00:28:59]  the hyperscalers, the cloud hyperscalers to do something like, like AWS has their Snowball
+[00:28:59 -> 00:29:03]  thing and there's also, they actually have Snowmobile, which is literally like a 40 foot
+[00:29:03 -> 00:29:05]  shipping container full of hard drives.
+[00:29:05 -> 00:29:07]  I think it's a hundred petabytes in there.
+[00:29:07 -> 00:29:12]  So you could require that the NSF funds or there's some kind of escrow thing or something
+[00:29:12 -> 00:29:16]  where you have the right, you know, a few research institutions who were the recipients
+[00:29:16 -> 00:29:22]  of the grant, they have the right to require a data, like a, almost like a data escrow,
+[00:29:22 -> 00:29:24]  like an open data escrow thing.
+[00:29:24 -> 00:29:28]  They just need an 18 wheeler full of hard drives to be delivered at the end of the contract
+[00:29:28 -> 00:29:30]  or at some period of time to get updated.
+[00:29:30 -> 00:29:32]  So there's, I think there's ways around this, right?
+[00:29:32 -> 00:29:36]  It's not that we don't have the technology, but I do understand those concerns.
+[00:29:36 -> 00:29:37]  And it's a good concern.
+[00:29:37 -> 00:29:41]  You really, you don't want all of science to be captive or to be contingent on a few,
+[00:29:41 -> 00:29:42]  you know, centralized providers.
+[00:29:42 -> 00:29:44]  So that's, that all makes good sense.
+[00:29:44 -> 00:29:49]  I've just, you know, I guess for me, you know, I always try to boil things down to a moral
+[00:29:49 -> 00:29:55]  point, which is the number of brains that can think about the science and the scientific
+[00:29:55 -> 00:29:58]  computing code and the infrastructure and the all whatever.
+[00:29:58 -> 00:30:03]  And they commit their lives to doing the hard work of, it's sometimes very thankless work
+[00:30:03 -> 00:30:05]  of research science.
+[00:30:05 -> 00:30:08]  Those few precious souls, we need them to be doing non-commodity things.
+[00:30:08 -> 00:30:12]  We need them to be cutting, doing cutting edge things, right?
+[00:30:12 -> 00:30:16]  Not sitting there doing stuff that is absolutely commoditized by the hyperscalers.
+[00:30:16 -> 00:30:21]  Just like we don't have them soldering chips or trying to design their own freaking, you
+[00:30:21 -> 00:30:24]  know, like floating point units.
+[00:30:24 -> 00:30:25]  That just doesn't make any sense anymore.
+[00:30:25 -> 00:30:28]  But I think this level of infrastructure, I think that the commoditization point has
+[00:30:28 -> 00:30:31]  moved beyond this at this point.
+[00:30:31 -> 00:30:32]  Totally.
+[00:30:32 -> 00:30:34]  I really, I really dig what you're saying.
+[00:30:35 -> 00:30:39]  This is also what I like to get back to sort of the pi data ecosystem, right?
+[00:30:39 -> 00:30:47]  I think this is just in terms of now just focusing on software, like I think, you know,
+[00:30:47 -> 00:30:51]  pi data has really started to really penetrate into the mainstream science.
+[00:30:51 -> 00:30:56]  It's probably now the dominant stack for in my field, but Matlab is like a probably a
+[00:30:56 -> 00:30:57]  close second.
+[00:30:57 -> 00:31:02]  And, you know, but still, I think what we see is a lot of people are using the SAC at
+[00:31:02 -> 00:31:03]  a very basic level.
+[00:31:04 -> 00:31:08]  They're using like NumPy and Matplotlib, right?
+[00:31:08 -> 00:31:09]  Right.
+[00:31:09 -> 00:31:15]  Which, you know, at the level of functionality is not really that much different than what
+[00:31:15 -> 00:31:20]  you're getting in like basically any scientific computing environment, you know, language,
+[00:31:20 -> 00:31:27]  Matlab, IDL, R, you know, like you got your arrays of data and you can like plot it and
+[00:31:27 -> 00:31:29]  then the rest is up to you.
+[00:31:29 -> 00:31:37]  Where I'm really excited about our stack is the layers, the different functionality that
+[00:31:37 -> 00:31:45]  can be built, you know, that doesn't then have to be rewritten and repeated and recreated,
+[00:31:45 -> 00:31:48]  you know, by grad students over and over.
+[00:31:48 -> 00:31:51]  You know, I see this as the story of the Pangeo project, right?
+[00:31:51 -> 00:31:58]  So just for like a little history on that, like I'm a core developer on X-Array and back
+[00:31:58 -> 00:32:03]  in I think 2016, like we were having this discussion on the X-Array mailing list, like
+[00:32:03 -> 00:32:10]  hey, like X-Array is really great for climate science, like wouldn't it be great if we could
+[00:32:10 -> 00:32:17]  coordinate our efforts and try to raise awareness about it and also add features, add functionality
+[00:32:17 -> 00:32:22]  and sort of grow this community so that everyone else that we know in this field can have the
+[00:32:22 -> 00:32:26]  same superpowers that we feel like we have when we're using X-Array.
+[00:32:26 -> 00:32:32]  And so that's what led to the Pangeo project, which is like, it differs from something like
+[00:32:32 -> 00:32:37]  Astropy, which where they were writing actual software, like under the name Astropy, like
+[00:32:37 -> 00:32:42]  Pangeo was all about integrating that software and to some degree marketing it to both our
+[00:32:42 -> 00:32:49]  funding agencies and our colleagues as like a solution to some domain specific problems.
+[00:32:49 -> 00:32:55]  Like a typical specific problem that it would address is like, okay, NASA is distributing
+[00:32:55 -> 00:33:03]  like data about like ocean temperature and there's like one file per day and there's
+[00:33:03 -> 00:33:07]  like 20,000 files, right, going back to like the beginning of the record.
+[00:33:07 -> 00:33:11]  And like, we want to like query that as one object, right?
+[00:33:11 -> 00:33:17]  And so when we bring to bear like, and we want to do something like calculate statistics,
+[00:33:17 -> 00:33:18]  like what are the trends?
+[00:33:18 -> 00:33:21]  Like are there more marine heat waves shown in this data?
+[00:33:21 -> 00:33:26]  Like are there, you know, are habitats for fish and other green life gonna change, right?
+[00:33:26 -> 00:33:36]  Like the combination of say like X-Array, Dask, HoloViews, like this whole sort of higher
+[00:33:36 -> 00:33:41]  level stack, and then you can bring in XAR if you want to really optimize your storage,
+[00:33:41 -> 00:33:45]  just makes those calculations turn into like one liners, right?
+[00:33:45 -> 00:33:49]  Like things that before we were writing like hundreds of lines of code, like looping through
+[00:33:50 -> 00:33:55]  the files, writing the aggregations, like figuring out bespoke parallelization strategies,
+[00:33:55 -> 00:34:01]  they become like one liners, like, and that's what we've been really trying to sell.
+[00:34:01 -> 00:34:07]  And I think that's where, you know, there's still a lot of work to do to educate users
+[00:34:07 -> 00:34:15]  and different communities about how powerful like higher layers of the PyData stack.
+[00:34:15 -> 00:34:21]  So that's really interesting because when you think about scientists, right, scientists
+[00:34:21 -> 00:34:25]  are, they're busy, right?
+[00:34:25 -> 00:34:26]  They have lots of things.
+[00:34:26 -> 00:34:27]  They want to work on their research.
+[00:34:27 -> 00:34:29]  They want to work on their science.
+[00:34:29 -> 00:34:35]  But when it comes to the, you know, software, some scientists take it seriously.
+[00:34:35 -> 00:34:38]  Most see it as a means to an end, which it kind of is.
+[00:34:38 -> 00:34:42]  And yet you could say the same about math, right?
+[00:34:43 -> 00:34:46]  But you would find it insane to think of a scientist actually arguing that, oh, well,
+[00:34:46 -> 00:34:48]  I'm okay with arithmetic.
+[00:34:48 -> 00:34:52]  I don't really need algebra, or maybe I know algebra, but I don't need trigonometry, it's
+[00:34:52 -> 00:34:53]  certainly not calculus.
+[00:34:53 -> 00:34:54]  I'll have someone else do that.
+[00:34:54 -> 00:34:58]  Or when I really need it, I'll go read the books or something.
+[00:34:58 -> 00:35:00]  And you know, that seems insane.
+[00:35:00 -> 00:35:04]  But what you're saying is, I think, somewhat in line with this, right?
+[00:35:04 -> 00:35:09]  That there is a computational skill literacy something, almost like any other skill they
+[00:35:09 -> 00:35:12]  would use, but not quite, maybe it's not quite like the other skills.
+[00:35:12 -> 00:35:16]  Like making good slides, being able to, they have to learn the tech, they have to go and
+[00:35:16 -> 00:35:17]  write their papers in it, right?
+[00:35:17 -> 00:35:23]  And so this idea of putting a little bit more effort in to help your own brain being augmented
+[00:35:23 -> 00:35:27]  by the computer, the brain-computer interface really is what the programming language is.
+[00:35:27 -> 00:35:31]  Optimize that interface, go from 4-bit to 8-bit, maybe to 16-bit interface on that bad
+[00:35:31 -> 00:35:32]  boy.
+[00:35:32 -> 00:35:37]  Stop beating your head into four, and in four loops and numpy to load mpz files, and do
+[00:35:37 -> 00:35:40]  something a little better.
+[00:35:40 -> 00:35:42]  And I think some of it is marketing, right?
+[00:35:42 -> 00:35:45]  Your point about Pangeo being somewhat of a marketing effort, somewhat of education,
+[00:35:45 -> 00:35:47]  a community, moving the whole community forward.
+[00:35:47 -> 00:35:53]  That's very, very, it's very sort of forward-looking of you to realize that yes, developer, open
+[00:35:53 -> 00:35:57]  free developer tools actually need to have marketing.
+[00:35:57 -> 00:35:58]  You know, who knew?
+[00:35:58 -> 00:36:01]  But it's a thing.
+[00:36:01 -> 00:36:06]  And one thing we did crack with that effort that I really want people to replicate is
+[00:36:06 -> 00:36:13]  we figured out how to get the NSF to pay for sustainable, truly valuable open source
+[00:36:13 -> 00:36:14]  software development.
+[00:36:14 -> 00:36:21]  And we did that by bundling the software development together with scientific use cases, and then
+[00:36:21 -> 00:36:28]  partnering with Anaconda, you know, at the start of that project, where, you know, we
+[00:36:28 -> 00:36:32]  were outsourcing a lot of the development work.
+[00:36:32 -> 00:36:34]  Not all of it, but there was a real partnership.
+[00:36:34 -> 00:36:38]  You know, if you want to think of it from a traditional product point of view, we as
+[00:36:38 -> 00:36:44]  the scientists were sort of acting as, you know, kind of, to some degree, the users and,
+[00:36:44 -> 00:36:47]  you know, the product owners who had certain requirements.
+[00:36:47 -> 00:36:51]  And we were iterating quite quickly with people, you know, Matt Rockland was very involved
+[00:36:51 -> 00:36:58]  early on, and, you know, Dask, and, you know, Jim Bednar, and the Hall of Use tools.
+[00:36:58 -> 00:37:04]  And you know, this iteration was pretty productive, and it left behind, instead of creating new
+[00:37:05 -> 00:37:07]  software, we augmented what was already there.
+[00:37:07 -> 00:37:12]  And that's a pattern that, in general, NSF funding hadn't been able to unlock.
+[00:37:12 -> 00:37:14]  And I think we've found a way to do it.
+[00:37:14 -> 00:37:16]  And I want people to just repeat it over and over.
+[00:37:16 -> 00:37:20]  So I just, if anyone's listening, you're a scientist, and you want to do this, like,
+[00:37:20 -> 00:37:25]  write a proposal to your agency that focuses on like science outcomes, that has a big chunk
+[00:37:25 -> 00:37:31]  that says, okay, here's software dev we need to do to get those outcomes, and then partner
+[00:37:31 -> 00:37:36]  with one of these great open source, you know, shops, whether Anaconda, or, you know, QuantSite,
+[00:37:36 -> 00:37:37]  QuantStack, MakePath.
+[00:37:37 -> 00:37:41]  I mean, there's a lot of great companies out there that can do really high quality dev
+[00:37:41 -> 00:37:47]  work fast, much faster than you can hire a postdoc to do it, and just iterate.
+[00:37:47 -> 00:37:50]  And you do that for three years, and you can really move the ecosystem forward.
+[00:37:50 -> 00:37:52]  And I think, you know, it's a good model.
+[00:37:52 -> 00:37:55]  Well, I definitely appreciate the kind words.
+[00:37:55 -> 00:37:59]  And I think that the collaboration part of it is actually one of these things where it's
+[00:37:59 -> 00:38:00]  one plus one equals three.
+[00:38:00 -> 00:38:04]  I appreciate we're talking about science, I just gave you invalid arithmetic.
+[00:38:04 -> 00:38:08]  But it really is that partnership of the scientists, actually, in that collaboration, the scientists
+[00:38:08 -> 00:38:13]  don't have to choose to be these hybrids of like, am I a software developer now trying
+[00:38:13 -> 00:38:17]  to do maintainable, good software architecture, or am I a scientist actually thinking about
+[00:38:17 -> 00:38:19]  the science of what I'm doing?
+[00:38:19 -> 00:38:23]  In these kind of partnerships, the folks, you know, again, whether it's Anaconda, whether
+[00:38:23 -> 00:38:28]  it's one of these other companies, we do have an eye, we have an experience, we have an
+[00:38:28 -> 00:38:33]  eye towards thinking about what is sustainable, good architecture, or what we may even push
+[00:38:33 -> 00:38:36]  back and say, you know, this is not actually an appropriate thing to try to build as its
+[00:38:36 -> 00:38:41]  own standalone project, you probably should have this as just either, you know, just a
+[00:38:41 -> 00:38:44]  part of what you're doing for this particular research project, right.
+[00:38:44 -> 00:38:48]  And, and so we can give that kind of feedback as well on things like this.
+[00:38:48 -> 00:38:51]  I think that's, you know, that's the kind of thing that I absolutely agree with you
+[00:38:51 -> 00:38:54]  would be, we love to be part of those kinds of things.
+[00:38:54 -> 00:38:59]  And we're, you know, we do some of that kind of stuff on our services work for big enterprise
+[00:38:59 -> 00:39:02]  companies, you know, we're helping them to build and tweak internal dashboard and kinds
+[00:39:02 -> 00:39:07]  of things, or whatever kinds of stuff doing predictive and data scientific sort of work.
+[00:39:07 -> 00:39:11]  So it's definitely an area that we want to help in.
+[00:39:11 -> 00:39:16]  And, and science, you know, the climate science stuff is like, I guess all science is impactful.
+[00:39:16 -> 00:39:18]  Well, you know, with this medical research, there's all these kinds of amazing things
+[00:39:18 -> 00:39:20]  happening right now.
+[00:39:20 -> 00:39:24]  But climate science is the one that I think so many people understand the importance of
+[00:39:24 -> 00:39:25]  now, right?
+[00:39:25 -> 00:39:30]  Like, every, it's just hard to say after the last several years, I can't imagine anyone
+[00:39:30 -> 00:39:36]  is got their head in the sand, you know, about the fact that it's real, things are changing,
+[00:39:36 -> 00:39:38]  and we have to be able to predict what's going to happen.
+[00:39:38 -> 00:39:43]  Otherwise, we'll be caught very, very unawares when hundreds of millions, I'm talking about,
+[00:39:43 -> 00:39:47]  you know, these are like sovereignty ending kinds of catastrophes that could happen and
+[00:39:47 -> 00:39:50]  impact hundreds of millions of lives.
+[00:39:50 -> 00:39:56]  And so, in this regard, what are the, I mean, is there anything like in the climate science
+[00:39:56 -> 00:39:57]  arena?
+[00:39:57 -> 00:40:01]  I'm glad here, it's all open, there's so much open collaboration and the ethos and all that.
+[00:40:01 -> 00:40:06]  But are there aspects that you think are set to really change our understanding in a dramatic
+[00:40:06 -> 00:40:07]  way?
+[00:40:07 -> 00:40:08]  Are there things that are, you know, going through an inflection point?
+[00:40:08 -> 00:40:12]  Or are there like big things on the horizon, that, you know, if we could do the right kinds
+[00:40:12 -> 00:40:17]  of scientific computing, infrastructure, modeling, all that stuff, that we could dramatically
+[00:40:17 -> 00:40:21]  advance and improve, you know, how we're approaching climate science?
+[00:40:21 -> 00:40:22]  Yeah.
+[00:40:22 -> 00:40:30]  So, I think one trend that we have to definitely pay attention to in climate science is the
+[00:40:30 -> 00:40:34]  emergence of a real private sector, right?
+[00:40:34 -> 00:40:36]  That's something that's super interesting.
+[00:40:36 -> 00:40:39]  Because when I got into oceanography, you know, starting in 2006, I mean, I thought
+[00:40:39 -> 00:40:41]  of it like, think of astronomy, right?
+[00:40:41 -> 00:40:47]  Like astronomy is a beautiful, rich, fascinating subject, like it doesn't have a lot of direct
+[00:40:47 -> 00:40:52]  bearing on like our economy, right?
+[00:40:52 -> 00:40:55]  But it's rich, great scientific problem.
+[00:40:55 -> 00:40:57]  And that was really where I was coming from in oceanography.
+[00:40:57 -> 00:41:03]  I just love to look at the data, try and understand what's going on, turbulence, all this.
+[00:41:03 -> 00:41:09]  But in that period, like the realities of climate change have really emerged from the
+[00:41:09 -> 00:41:10]  noise.
+[00:41:10 -> 00:41:14]  And so, we have the internal variability, which you can think of as the noise.
+[00:41:14 -> 00:41:19]  And then there's a forced signal that's, you know, the response to our greenhouse gas emissions.
+[00:41:19 -> 00:41:24]  And that forced signal is getting more and more clear, and it's only going to accelerate
+[00:41:24 -> 00:41:25]  going forward.
+[00:41:25 -> 00:41:33]  And so, we're seeing society respond, and we're seeing the economy respond, and we are
+[00:41:33 -> 00:41:35]  seeing business respond.
+[00:41:35 -> 00:41:39]  And unfortunately, our government has been pretty much inactive on this.
+[00:41:39 -> 00:41:44]  The big climate bill, the inflation reduction bill, whatever they had to call it to get
+[00:41:44 -> 00:41:49]  it passed, that's going to make a huge difference.
+[00:41:49 -> 00:41:54]  But even before that bill passed, business has been mobilized, because they know the
+[00:41:54 -> 00:41:56]  impacts are going to be felt on their bottom line.
+[00:41:56 -> 00:42:00]  And so, we have this whole climate tech sector with, you know, hundreds of billions of dollars
+[00:42:00 -> 00:42:02]  being invested.
+[00:42:02 -> 00:42:06]  And this is a really interesting time for climate science and climate data, because
+[00:42:06 -> 00:42:09]  all those companies need data.
+[00:42:09 -> 00:42:11]  They're working with the same data sets.
+[00:42:11 -> 00:42:16]  And so, we have this scientific infrastructure that's been oriented towards just academic
+[00:42:16 -> 00:42:19]  research that now also has to serve those business needs.
+[00:42:19 -> 00:42:23]  And that's creating a lot of opportunity, it's creating a lot of tension, it's creating
+[00:42:23 -> 00:42:26]  a lot of interesting times for the field.
+[00:42:26 -> 00:42:32]  Yeah, that is an interesting thing, because I feel like when companies are themselves
+[00:42:32 -> 00:42:38]  looking, using this data to make predictions about, you know, logistics or insurance, reinsurance
+[00:42:38 -> 00:42:42]  and things like that, you can see a lot of that stuff where people are, they're still
+[00:42:42 -> 00:42:45]  sharing of this data commons, right?
+[00:42:45 -> 00:42:50]  But then at some point, I wonder if there's something a little bit darker that could creep
+[00:42:50 -> 00:42:57]  in where data withholding and things like that are part of the model advantage, or some
+[00:42:57 -> 00:43:02]  data quality leading to model quality becomes a part of the competitive advantage, not just
+[00:43:02 -> 00:43:08]  de-risking, but actual competitive advantage for some of these enterprises and whatnot.
+[00:43:08 -> 00:43:09]  It's a little bit of a moral hazard, right?
+[00:43:09 -> 00:43:13]  Because if you know that a certain thing, if you know a particular area is more likely
+[00:43:13 -> 00:43:16]  to go underwater and you don't tell them, you're just going to use it to make a little
+[00:43:16 -> 00:43:20]  bit more money on your premiums or how much you, you know, model certain mortgage portfolios.
+[00:43:20 -> 00:43:25]  Like that seems, this seems like there's a moral hazard there, isn't there?
+[00:43:25 -> 00:43:30]  Yeah, I mean, walk me through that a little bit more.
+[00:43:30 -> 00:43:31]  Where do you see the moral hazard?
+[00:43:32 -> 00:43:37]  Well, I just think the moral hazard is like, if you can do accurate modeling of something
+[00:43:37 -> 00:43:42]  where you know, it's going to have a human impact, there's, it seems like there's some
+[00:43:42 -> 00:43:45]  kind of obligation for you to tell people about that, right?
+[00:43:45 -> 00:43:46]  To say, you know what?
+[00:43:46 -> 00:43:48]  Don't use the NOAA model.
+[00:43:48 -> 00:43:49]  Don't use the NASA model.
+[00:43:49 -> 00:43:53]  We have a much better one, which can predict, let's say the storm track.
+[00:43:53 -> 00:43:56]  And we can give people 12 more hours of warning.
+[00:43:56 -> 00:44:00]  Don't you have a moral obligation to then make that model open?
+[00:44:00 -> 00:44:03]  You're referring to the case when like a company would develop that model?
+[00:44:03 -> 00:44:04]  Yes.
+[00:44:04 -> 00:44:05]  I'm talking about the privatization of research enterprise.
+[00:44:05 -> 00:44:06]  Yes.
+[00:44:06 -> 00:44:07]  Yes.
+[00:44:07 -> 00:44:08]  Yeah.
+[00:44:08 -> 00:44:09]  Exactly.
+[00:44:09 -> 00:44:10]  Excellent.
+[00:44:10 -> 00:44:11]  That's really interesting.
+[00:44:11 -> 00:44:12]  Okay.
+[00:44:12 -> 00:44:13]  I totally get what you're saying.
+[00:44:13 -> 00:44:14]  And absolutely it's true.
+[00:44:14 -> 00:44:23]  And then that idea of IP and proprietary knowledge comes into direct conflict with the open data
+[00:44:23 -> 00:44:28]  ethos of the academic research enterprise.
+[00:44:28 -> 00:44:34]  The truth of the matter is right now, and this could change, but the private sector
+[00:44:34 -> 00:44:43]  is not really capable of making climate projections for the simple reason that, remember those
+[00:44:43 -> 00:44:47]  HPC centers we were talking about 20 minutes ago?
+[00:44:47 -> 00:44:48]  They don't have those, right?
+[00:44:48 -> 00:44:53]  And that's actually where all of the climate projections originate from.
+[00:44:53 -> 00:44:56]  And they can talk all they want about using AI and this and that.
+[00:44:56 -> 00:45:06]  But even the same with weather prediction, no one really is running a real weather model
+[00:45:06 -> 00:45:12]  outside of government labs, like the way the National Weather Service does or the European
+[00:45:12 -> 00:45:13]  Center.
+[00:45:13 -> 00:45:17]  So I mean, we could get there, but we're not there today.
+[00:45:17 -> 00:45:21]  Most of what these companies are doing is taking that data and enriching it somehow
+[00:45:21 -> 00:45:24]  or fusing it with other data.
+[00:45:24 -> 00:45:30]  In terms of the moral hazard, yeah, I mean, I think it's real.
+[00:45:30 -> 00:45:35]  I think it's problematic if companies are using some specialized knowledge about the
+[00:45:35 -> 00:45:45]  climate to, say, help Goldman improve their portfolio, but not help children in Bangladesh
+[00:45:45 -> 00:45:48]  avoid catastrophic heat waves or something.
+[00:45:48 -> 00:45:54]  But the fact is, I believe interests are aligned in almost all cases, right?
+[00:45:55 -> 00:46:01]  So in terms of adaptation to climate change, we've seen what happens to people when supply
+[00:46:01 -> 00:46:12]  chains are disrupted, like empty shelves, like diapers, that's a case where everyday
+[00:46:12 -> 00:46:16]  people's interests and business interests are highly aligned to keep those supply chains
+[00:46:16 -> 00:46:18]  functioning.
+[00:46:18 -> 00:46:23]  And that's why supply chains are a big place where climate change is going to be a very
+[00:46:23 -> 00:46:24]  direct impact.
+[00:46:24 -> 00:46:27]  Well, this is, no, of course, right?
+[00:46:27 -> 00:46:28]  This is an interesting area.
+[00:46:28 -> 00:46:31]  And I think about this now, we're going to go like two levels up on the philosophy of
+[00:46:31 -> 00:46:35]  the economics and the politics of this.
+[00:46:35 -> 00:46:42]  You bring up Goldman, which is, of course, they are very active and they're a very renowned
+[00:46:42 -> 00:46:48]  firm in the space of financial services and investment banking and prediction of sort
+[00:46:48 -> 00:46:49]  of financial things.
+[00:46:49 -> 00:46:53]  And one could argue, of course, that when traders are out there, this is not really
+[00:46:53 -> 00:46:57]  about Goldman, it's just about the way that the financial sector works.
+[00:46:57 -> 00:47:01]  When traders are sitting there, they're shorting this or they're arbitraging that, they're
+[00:47:01 -> 00:47:06]  making predictions and the way they allocate capital affects people's livelihoods and people's
+[00:47:06 -> 00:47:07]  lives.
+[00:47:07 -> 00:47:11]  So there is a human impact to what they do, no doubt about it, right?
+[00:47:11 -> 00:47:15]  But that being said, the data they're trading on, ultimately it's a big casino.
+[00:47:15 -> 00:47:18]  They're still making a bet, they're taking a position.
+[00:47:18 -> 00:47:21]  There's some arbitrage available, various kinds of things.
+[00:47:21 -> 00:47:24]  But at the end of the day, they're having to take a position on what the future may
+[00:47:24 -> 00:47:25]  look like.
+[00:47:25 -> 00:47:29]  And it's through a cloud of, there could be geopolitical risk.
+[00:47:29 -> 00:47:33]  There's all sorts of things, who knows what people are buying or not buying or watching
+[00:47:33 -> 00:47:34]  or not watching.
+[00:47:34 -> 00:47:38]  But when it comes to something like the weather, we now have a prediction environment, a prediction
+[00:47:38 -> 00:47:43]  problem that is just as materially impactful as, I'm sorry, I said weather, I should say
+[00:47:43 -> 00:47:44]  the climate.
+[00:47:44 -> 00:47:45]  When it comes to climate, right?
+[00:47:45 -> 00:47:50]  That's a data centric prediction problem that is just as impactful as anything is trading
+[00:47:50 -> 00:47:52]  signals off of Wall Street.
+[00:47:52 -> 00:47:58]  But there is, to me, it seems like there's a much clearer connection between the value
+[00:47:58 -> 00:48:04]  of this as a commons, good modeling, good prediction as a commons, as opposed to it
+[00:48:04 -> 00:48:09]  being a scarce resource for people to go and try to arbitrage each other on.
+[00:48:09 -> 00:48:11]  And this is the thing that we're going to have to figure out because I think it's not
+[00:48:11 -> 00:48:16]  just climate, so many other things as they come online, as predictions become more and
+[00:48:16 -> 00:48:21]  online part of how businesses are making decisions about logistics, about customers, about all
+[00:48:21 -> 00:48:22]  these things.
+[00:48:22 -> 00:48:25]  Okay, Peter, let me interrupt you for a minute.
+[00:48:25 -> 00:48:31]  I see where you're going about this potential divide that could emerge between the companies
+[00:48:31 -> 00:48:35]  working on this and the rest of the world.
+[00:48:35 -> 00:48:41]  And I really do think it's a problem that can be solved through effective cooperation
+[00:48:41 -> 00:48:48]  around both the data and software commons that all of the stakeholders in this problem
+[00:48:48 -> 00:48:49]  have, right?
+[00:48:49 -> 00:48:56]  So we want to incentivize companies to find solutions to climate change, but we don't
+[00:48:56 -> 00:49:01]  want to do that by having them build a wall around common data or around tools that can
+[00:49:01 -> 00:49:03]  benefit everyone.
+[00:49:03 -> 00:49:08]  And everyone I talk to who's operating in this space feels that way.
+[00:49:08 -> 00:49:14]  It's not that they're in it to get super rich, they're trying to use the market to
+[00:49:14 -> 00:49:17]  drive innovation and find solutions.
+[00:49:17 -> 00:49:23]  The academic climate research enterprise needs to meet them halfway by thinking about things
+[00:49:23 -> 00:49:26]  like data infrastructure.
+[00:49:26 -> 00:49:31]  If we make our data systems so inaccessible and obscure, then there's going to emerge
+[00:49:31 -> 00:49:37]  a whole sector of this industry that's just going to repackage and resell the data to
+[00:49:37 -> 00:49:38]  people.
+[00:49:38 -> 00:49:41]  And you can already see what's happening in the crypto space.
+[00:49:41 -> 00:49:46]  You can go read about all this climate data you can get on Web3.
+[00:49:46 -> 00:49:54]  They say, the NASA data is so obscure and weird, it's not usable by business.
+[00:49:54 -> 00:49:59]  Join our coin and we'll give you clean climate data to integrate into your apps.
+[00:49:59 -> 00:50:02]  Let's not do that.
+[00:50:02 -> 00:50:05]  Let's not do that.
+[00:50:05 -> 00:50:11]  Let's, as a research enterprise, make our data system so great that it's easy to use
+[00:50:11 -> 00:50:13]  for scientists to make discoveries.
+[00:50:13 -> 00:50:18]  It's easy to use for businesses to leverage that data that was collected through taxpayers.
+[00:50:18 -> 00:50:20]  And let's make it easy to give back.
+[00:50:20 -> 00:50:24]  Right now, the data exchange is pretty one way.
+[00:50:24 -> 00:50:30]  Generally NASA and NOAA are collecting a lot of data and generating data and others are
+[00:50:30 -> 00:50:31]  consuming it.
+[00:50:31 -> 00:50:34]  But I'm really inspired by companies like Planet.
+[00:50:34 -> 00:50:38]  They launched their own fleet of satellites and they've been a really good citizen contributing
+[00:50:38 -> 00:50:41]  a lot of open data back to the community.
+[00:50:41 -> 00:50:45]  A lot of great software and infrastructure work has come out of Planet.
+[00:50:45 -> 00:50:49]  So if there are going to be more companies like that operating in this space, I am very
+[00:50:49 -> 00:50:51]  optimistic about the future.
+[00:50:51 -> 00:50:57]  But we on the research and government side have to meet them halfway and modernize our
+[00:50:57 -> 00:50:58]  infrastructure.
+[00:50:58 -> 00:51:01]  Yeah, no, I think you're absolutely right.
+[00:51:02 -> 00:51:06]  We sort of noticed this a little bit in the software side on the open source stuff, too.
+[00:51:06 -> 00:51:10]  We produce a lot of this great scientific software that's fit for purpose, is made by
+[00:51:10 -> 00:51:12]  scientists to solve their own problems.
+[00:51:12 -> 00:51:13]  But if it's hard to use, no one adopts it.
+[00:51:13 -> 00:51:17]  They will go to a cloud vendor that, or I won't say cloud vendor, but they'll go to
+[00:51:17 -> 00:51:23]  any vendor that cheesily repackages it cheesily and says, well, here's an easier thing.
+[00:51:23 -> 00:51:27]  And so I do think actually this way, right, with Anaconda, making some of these easier
+[00:51:27 -> 00:51:31]  to install was a way to kind of prevent that from happening.
+[00:51:31 -> 00:51:34]  And I think with data, with models, the same thing has to happen.
+[00:51:34 -> 00:51:40]  The whole community of maintainers, people believe in the necessity of this being open
+[00:51:40 -> 00:51:42]  and being an open commons.
+[00:51:42 -> 00:51:48]  We have to really respect what the end users needs are and go an extra mile to make it
+[00:51:48 -> 00:51:52]  easy for them to participate in the way that we want them to show up, right, in this kind
+[00:51:52 -> 00:51:53]  of ecosystem.
+[00:51:53 -> 00:51:57]  Otherwise, others will step in and then direct them kind of whatever direction.
+[00:51:57 -> 00:51:58]  So that's a really great comment.
+[00:51:58 -> 00:52:02]  I'm so sure you're giving me some hope in that regard.
+[00:52:02 -> 00:52:08]  Can I tell you about our Pangeo Forge project, which is trying to help solve this?
+[00:52:08 -> 00:52:09]  Okay.
+[00:52:09 -> 00:52:10]  Okay.
+[00:52:10 -> 00:52:12]  So probably most of your listeners know about Conda Forge, right?
+[00:52:12 -> 00:52:18]  So like, Conda Forge, you know, they really democratized the sort of production of Conda
+[00:52:18 -> 00:52:25]  packages by creating a sort of cloud-based environment where you could provide a recipe.
+[00:52:25 -> 00:52:29]  You didn't, you know, before Conda Forge, you could build your own Conda package and
+[00:52:29 -> 00:52:33]  compile everything up and like put it on the website.
+[00:52:33 -> 00:52:40]  But like Conda Forge made it even easier to contribute to like the library of Conda packages.
+[00:52:40 -> 00:52:43]  And that really opened things up.
+[00:52:43 -> 00:52:47]  And I think, you know, it's really cool.
+[00:52:47 -> 00:52:52]  Now, Pangeo Forge is trying to do something similar with analysis-ready data in the cloud,
+[00:52:52 -> 00:52:53]  right?
+[00:52:53 -> 00:52:59]  So a lot of the data engineering work in this space means taking data in some archival format
+[00:52:59 -> 00:53:00]  from some data provider.
+[00:53:00 -> 00:53:03]  Let's just pick NOAA, you know, NOAA is great.
+[00:53:03 -> 00:53:04]  I'm not trying to pick on them.
+[00:53:04 -> 00:53:09]  But they basically have an FTP server full of a bunch of files in some obscure format
+[00:53:09 -> 00:53:14]  like GRIB, you know, that you can, you know, download.
+[00:53:14 -> 00:53:18]  And what we want is essentially we want that in a database or a data lake, right?
+[00:53:18 -> 00:53:21]  Where they're accessible to compute, ready for analysis, where we don't have to do a
+[00:53:21 -> 00:53:27]  bunch of data engineering legwork just to get to our first plot.
+[00:53:27 -> 00:53:31]  So that kind of work happens every day in scientific labs.
+[00:53:31 -> 00:53:37]  That's happening every day in these companies we're talking about in the climate tech space.
+[00:53:37 -> 00:53:39]  And it's really tedious.
+[00:53:39 -> 00:53:40]  It's full of toil.
+[00:53:40 -> 00:53:43]  And it's ultimately, you know, repeatable.
+[00:53:43 -> 00:53:47]  Like many people are doing the same job over and over.
+[00:53:47 -> 00:53:52]  And so the goal of Pangeo Forge is to create a sort of data commons, where we can build
+[00:53:52 -> 00:53:58]  this analysis ready data in the cloud, from all kinds of different sources, in a crowdsource
+[00:53:58 -> 00:53:59]  collaborative way.
+[00:53:59 -> 00:54:00]  Right?
+[00:54:00 -> 00:54:05]  So we directly copy the sort of pattern from Condor Forge, and you have a feedstock that
+[00:54:05 -> 00:54:09]  describes the sort of transformation pipeline, where am I going to ingest the data from?
+[00:54:09 -> 00:54:11]  How am I going to transform it along the way?
+[00:54:11 -> 00:54:13]  What sort of format am I writing it to?
+[00:54:13 -> 00:54:19]  And then the back end of the Pangeo Forge just executes those, you know, interfacing
+[00:54:19 -> 00:54:24]  with Git, you know, triggered on commits to the repos, and it stages the data.
+[00:54:24 -> 00:54:30]  And we're populating this library of open access data that's accessible to everyone
+[00:54:30 -> 00:54:34]  can be used by researchers can be used by businesses.
+[00:54:34 -> 00:54:38]  And it's not like one guy who has to, like, manage all the pipelines.
+[00:54:38 -> 00:54:41]  It's a community framework where we can do this collaboratively.
+[00:54:41 -> 00:54:44]  This is a project I'm super excited about.
+[00:54:44 -> 00:54:50]  It's really hard, like, it's very ambitious, and where it's way beyond our capability as
+[00:54:50 -> 00:54:54]  just our team to, to actually realize the potential.
+[00:54:54 -> 00:54:59]  So I, whenever I get a platform, I like to sort of plug it a little bit encourage people
+[00:54:59 -> 00:55:00]  to get involved.
+[00:55:00 -> 00:55:04]  Because like, we could use way more like hands on deck for this project.
+[00:55:04 -> 00:55:07]  But at the same time, it's up to date, it's functional.
+[00:55:07 -> 00:55:10]  And it's really cool what it can do.
+[00:55:10 -> 00:55:12]  So Ryan, that sounds that sounds great.
+[00:55:12 -> 00:55:15]  I know it's think, I mean, look, data munging is always thankless work, right?
+[00:55:15 -> 00:55:18]  But at least you're doing it once, making sure no one has to do it again.
+[00:55:18 -> 00:55:22]  And furthermore, it seems to me like the data transformation thing you're doing here, and
+[00:55:22 -> 00:55:26]  the way that you, you know, handle data, the scientific data formats, the fact that it's
+[00:55:26 -> 00:55:30]  running kind of in this cloud way, but all the infrastructure is open.
+[00:55:30 -> 00:55:31]  That's reproducible.
+[00:55:31 -> 00:55:36]  You clone stamp that for astronomy, you clone stamp that for, you know, so many different
+[00:55:36 -> 00:55:37]  kinds of things, right?
+[00:55:37 -> 00:55:41]  So, so that sounds so I'm happy you plugged it.
+[00:55:41 -> 00:55:42]  I'm glad you plugged it.
+[00:55:42 -> 00:55:45]  And I encourage our listeners to go and check that out.
+[00:55:45 -> 00:55:49]  And also check out xarray, which you mentioned you are now you know, you went from being
+[00:55:49 -> 00:55:52]  a user to being a maintainer developer of right?
+[00:55:52 -> 00:55:53]  Absolutely.
+[00:55:53 -> 00:55:58]  Yeah, I love xarray and I'll hype it up whenever I get a chance, right?
+[00:55:58 -> 00:56:04]  So basically, you know, what xarray is, if people who don't know it, you know, like,
+[00:56:04 -> 00:56:07]  the way we think about the the pi data stack is usually like kind of have like kind of
+[00:56:07 -> 00:56:10]  NumPy at the base, it's like the foundation of everything.
+[00:56:10 -> 00:56:16]  And then like pandas is this abstraction that sits on on on top of NumPy in many ways, like
+[00:56:16 -> 00:56:20]  it uses NumPy under the hood, and it provides things like indexes and group by and a bunch
+[00:56:20 -> 00:56:22]  of like cool features.
+[00:56:22 -> 00:56:26]  But pandas is really oriented around the tabular data model, right?
+[00:56:26 -> 00:56:29]  So in pandas, really, you've just got, you know, your various rows, and you got your
+[00:56:29 -> 00:56:31]  your columns.
+[00:56:31 -> 00:56:36]  And on whereas NumPy actually has you can have n dimensions to any of your arrays, right?
+[00:56:36 -> 00:56:40]  So what pandas ultimately does under the hood is it just manages a bunch of one dimensional
+[00:56:40 -> 00:56:45]  or NumPy arrays.
+[00:56:45 -> 00:56:54]  xarray aims to provide that higher level API around multi dimensional data, right?
+[00:56:54 -> 00:56:59]  So what we get in xarray is we've got to say we've got a data cube temperature on earth,
+[00:56:59 -> 00:57:03]  you know, rather than just thinking about axis zero axis one and axis two, we can think
+[00:57:03 -> 00:57:09]  about time axis, latitude axis, longitude axis, we can have an index on each of those
+[00:57:09 -> 00:57:10]  axes.
+[00:57:10 -> 00:57:18]  So query it not not not by my by by position, you know, integer offset within a nameless,
+[00:57:18 -> 00:57:25]  you know, array, but by give me Okay, give me 2001, you know, at this latitude and this
+[00:57:25 -> 00:57:27]  longitude, we can query the data.
+[00:57:27 -> 00:57:34]  And we can get things like group by, you know, rolling reductions, all of the awesome, you
+[00:57:34 -> 00:57:39]  know, convenience features and that really help analysts, you know, write better analysis
+[00:57:39 -> 00:57:41]  code, write faster analysis code.
+[00:57:41 -> 00:57:49]  And then xarray also wraps many, many different array like things, not just NumPy arrays.
+[00:57:49 -> 00:57:52]  So you've got, you know, Dask was one of our first integration.
+[00:57:52 -> 00:57:55]  So xarray can hold a Dask array.
+[00:57:55 -> 00:57:59]  And bringing those two together, you have this sort of amazing scale out framework for
+[00:57:59 -> 00:58:05]  array computing that I know of no other thing that does that, like, there's a lot of frameworks
+[00:58:05 -> 00:58:09]  that will allow you to do like, bit large scale analytics on tables.
+[00:58:09 -> 00:58:13]  I mean, there's like, there's probably from traditional databases to, you know, all your
+[00:58:13 -> 00:58:18]  sparks and Presto and Trino and, you know, everything does tables, right?
+[00:58:18 -> 00:58:23]  So pandas and Dask data frame, it's just one of two dozen different solutions to that
+[00:58:23 -> 00:58:29]  I know of no other framework that allows you to do like this scale out analytics on array
+[00:58:29 -> 00:58:32]  is the way xarray and Dask do.
+[00:58:32 -> 00:58:33]  It's really a superpower.
+[00:58:33 -> 00:58:34]  Yeah.
+[00:58:34 -> 00:58:37]  And then of course, it's, it's, yeah, it's, it's not just, it's not just the, the multiple
+[00:58:37 -> 00:58:40]  dimensionality you have, but also the fact that it is labeled, right?
+[00:58:40 -> 00:58:46]  That you're, you're able to do really use meaningful semantic indexing on this stuff.
+[00:58:46 -> 00:58:50]  I do understand that all the cool kids call multidimensional race tensors now.
+[00:58:50 -> 00:58:54]  So if you were to call it like hypertensor or something, maybe you get a little bit more
+[00:58:54 -> 00:58:58]  of a more, more an option uptick and a few more stars on GitHub.
+[00:58:58 -> 00:59:03]  But as a computational physicist, I just cannot get behind the tensor thing.
+[00:59:03 -> 00:59:06]  A tensor is a different thing.
+[00:59:06 -> 00:59:12]  Tensors are about symmetries and, you know, properties under, under transformations.
+[00:59:12 -> 00:59:15]  And arrays are just big multidimensional buckets of numbers.
+[00:59:15 -> 00:59:17]  And that's what these things all are.
+[00:59:17 -> 00:59:20]  But you call it distributed buckets of numbers too.
+[00:59:20 -> 00:59:21]  That would also be kind of hilarious.
+[00:59:21 -> 00:59:26]  I see that trending on, on Hacker News, bucket of numbers.
+[00:59:26 -> 00:59:32]  Our ecosystem has made a lot of advances in terms of array, the array API, right?
+[00:59:32 -> 00:59:34]  So now we've got sparse arrays.
+[00:59:34 -> 00:59:36]  We've got GPU arrays, CoolPy.
+[00:59:36 -> 00:59:41]  We've got, we've got Pyte, unit aware arrays.
+[00:59:41 -> 00:59:49]  So, you know, in X-array now, you can do analytics on, you know, X-array wrapping Dask,
+[00:59:49 -> 00:59:54]  which is then pointing at CoolPy arrays and compute on a GPU cluster.
+[00:59:54 -> 00:59:58]  Or you can have unit aware arrays in there.
+[00:59:58 -> 01:00:03]  And the next step that we're working on is integration with the machine learning tensor
+[01:00:03 -> 01:00:04]  libraries.
+[01:00:04 -> 01:00:09]  So PyTorch tensors, Jax arrays, you know, so that you can hold all of those things within
+[01:00:09 -> 01:00:15]  X-array, compute on them using X-arrays API, which people love, and then get along, get
+[01:00:15 -> 01:00:21]  things like automatic differentiation, you know, all of the machine learning and other
+[01:00:21 -> 01:00:24]  features that those array libraries bring.
+[01:00:24 -> 01:00:29]  So we really think of X-array as kind of this ecosystem glue that brings all these other
+[01:00:29 -> 01:00:30]  things together.
+[01:00:30 -> 01:00:34]  And it's kind of the top layer of the stack that so many of us use.
+[01:00:34 -> 01:00:35]  That's fantastic.
+[01:00:35 -> 01:00:37]  And I'm so glad to see that come around.
+[01:00:37 -> 01:00:41]  If we had more time, I'd love to delve a little bit more into a kind of, you know, these global
+[01:00:41 -> 01:00:45]  array concepts, and maybe talk about chapel and some of these other things.
+[01:00:45 -> 01:00:49]  But we're somewhat out of time, but I've just tremendously enjoyed this conversation with
+[01:00:49 -> 01:00:50]  you, Ryan.
+[01:00:50 -> 01:00:53]  I want to thank you for bringing so much energy into it and all the great things that you've
+[01:00:53 -> 01:00:57]  done for scientific computing and for science.
+[01:00:57 -> 01:01:01]  And I encourage our listeners to check out X-array, to check out PangeoForge and the
+[01:01:01 -> 01:01:04]  Pangeo project in general.
+[01:01:04 -> 01:01:08]  And I look forward to future conversations.
+[01:01:08 -> 01:01:12]  Thank you so much for joining us today on the podcast.
+[01:01:12 -> 01:01:13]  Thanks Peter.
+[01:01:13 -> 01:01:15]  It's been so much fun.
+[01:01:15 -> 01:01:16]  Thank you.
+[01:01:16 -> 01:01:19]  And as a reminder to the listeners, of course, in the show notes, you can find links to all
+[01:01:19 -> 01:01:20]  these projects.
+[01:01:20 -> 01:01:22]  So be sure to check out our show notes.
+[01:01:22 -> 01:01:23]  Thank you.
+[01:01:23 -> 01:01:24]  Thank you for listening.
+[01:01:24 -> 01:01:26]  And we hope you found this episode valuable.
+[01:01:26 -> 01:01:29]  If you enjoyed the show, please leave us a five-star review.
+[01:01:29 -> 01:01:32]  You can find more information and resources at Anaconda.com.

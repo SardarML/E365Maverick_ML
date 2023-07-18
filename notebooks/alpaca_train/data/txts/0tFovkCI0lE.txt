@@ -1,0 +1,191 @@
+[00:00:00 -> 00:00:05]  Hallo Leute, unser heutiges Thema Elektrotechnik Grundlagen. Und da stellt sich zuerst die Frage,
+[00:00:05 -> 00:00:13]  was ist denn überhaupt Strom? Strom ist das Fließen von Elektronen in einem Leiter. Wo
+[00:00:13 -> 00:00:21]  gibt es Elektronen? Klar, in einem Atom. Und zwar sind das die hier in Grau hinterlegten Teilchen,
+[00:00:21 -> 00:00:29]  die um einen Atomkern herum schwirren. Elektronen sind negativ geladen und im Atomkern befinden
+[00:00:29 -> 00:00:36]  sich Protonen, die positiv geladen sind, beziehungsweise Neutronen, die neutral sind. Also
+[00:00:36 -> 00:00:44]  weder positiv noch negativ geladen sind. Positive und negative Ladungsträger ziehen sich an und
+[00:00:44 -> 00:00:53]  gleichnamige, beispielsweise positiv und positiv, stoßen sich ab. Und den Effekt des Anziehens,
+[00:00:53 -> 00:01:00]  den nutzen wir jetzt im elektrischen Stromreis. Und zwar haben wir beispielsweise in einer Batterie
+[00:01:00 -> 00:01:11]  am Minuspol einen Elektronenüberschuss und am Pluspol einen Elektronenmangel. Somit wollen
+[00:01:11 -> 00:01:16]  die Elektronen klarerweise zum Pluspol, denn der ist dann ja positiv geladen. Und sobald wir einen
+[00:01:16 -> 00:01:22]  geschlossenen Stromreis herstellen, hier in Form von Drähten und einer Glühbirne, werden die
+[00:01:22 -> 00:01:29]  Elektronen zum Pluspol wandern. Es entsteht ein Stromfluss und die Lampe wird leuchten.
+[00:01:29 -> 00:01:35]  Das funktioniert übrigens natürlich auch mit vielen anderen Verbrauchern,
+[00:01:35 -> 00:01:44]  beispielsweise mit Motoren und so weiter. Was ist nun notwendig, um einen Stromfluss zu
+[00:01:44 -> 00:01:49]  generieren? Einmal brauchen wir eine Spannungsquelle, Batterien, Generatoren,
+[00:01:50 -> 00:01:59]  Solarzellen und so weiter. Dann benötigen wir einen elektrischen Leiter. Sehr, sehr viele
+[00:01:59 -> 00:02:06]  Metalle, vor allem eignet sich Kupfer, Aluminium sehr gut für den Stromtransport, aber auch Eisen,
+[00:02:06 -> 00:02:14]  Messing und viele weitere Materialien können den elektrischen Strom leiten. Isolatoren leiten den
+[00:02:14 -> 00:02:21]  Strom gar nicht. Das sind meist Kunststoffe, aber auch Keramik, Glas und trockenes Holz.
+[00:02:21 -> 00:02:28]  Dann verbauen wir einen Verbraucher. Eben wie gesagt, das können Lampen sein, Motoren,
+[00:02:28 -> 00:02:35]  irgendwelche elektrische Widerstände und natürlich müssen wir einen geschlossenen
+[00:02:35 -> 00:02:43]  Stromreis herstellen. Das heißt eine durchgehende Verbindung vom Plus bis zum Minuspol. Wird der
+[00:02:43 -> 00:02:48]  Stromreis unterbrochen, können die Elektronen nicht zum Pluspol wandern und somit wird auch
+[00:02:48 -> 00:02:59]  die Lampe nicht mehr leuchten. Die elektrischen Grundgrößen. Vorerst einmal die Stromstärke.
+[00:02:59 -> 00:03:08]  Die Stromstärke wird wie folgt definiert. Und zwar ist das die Anzahl an Elektronen,
+[00:03:08 -> 00:03:16]  die pro Sekunde durch einen Leiter fließen. Jetzt könnt ihr euch vorstellen, Elektronen sind sehr
+[00:03:16 -> 00:03:22]  sehr klein und es fließen sehr sehr viele Elektronen durch einen Stromreis. Und deshalb
+[00:03:22 -> 00:03:29]  hat man sich einmal dafür ein Formelzeichen ausgedacht. Das wäre das Formelzeichen I für
+[00:03:29 -> 00:03:41]  die Stromstärke und einmal die Einheit in Ampere. Und überschlagsmäßig besteht ein Ampere aus
+[00:03:41 -> 00:03:48]  circa 6,25 Trillionen Elektronen. Also relativ viel und dabei kann man sich auch vorstellen,
+[00:03:48 -> 00:03:56]  warum man da ein Ampere definiert hat. Denn kein Mensch schreibt hin, es fließen 6,25 Trillionen
+[00:03:56 -> 00:04:03]  Elektronen in der Sekunde durch einen Leiter. Also wesentlich praktikabler die Einheit.
+[00:04:03 -> 00:04:13]  Beispiele dazu. In der Fachsprache spricht man an, ein Bügeleisen nimmt einen Strom von 4 Ampere auf
+[00:04:13 -> 00:04:24]  oder es fließt ein Strom durch einen Heizradiator mit 9 Ampere. Oder ein LED-Spot hat eine
+[00:04:24 -> 00:04:32]  Bemessungsstromstärke von 40 Milliampere. Wie kann man sich die Stromstärke vorstellen? Wie
+[00:04:32 -> 00:04:45]  gesagt, Elektronen pro Sekunde durch einen Leiter. Um eine elektrische Spannung verstehen zu können,
+[00:04:45 -> 00:04:52]  besprechen wir zuerst einmal den Begriff des elektrischen Potenzials. Und zwar lege ich einen
+[00:04:52 -> 00:04:59]  Apfel auf den Boden, dann wird er klarerweise keine Energie freisetzen können und auch nicht
+[00:04:59 -> 00:05:03]  runterfallen. Er wird auch keinen Schaden anrichten oder eine Beule bekommen, nur wenn ich ihn auf den
+[00:05:03 -> 00:05:10]  Boden lege. Hebe ich den Apfel auf eine bestimmte Höhe und lasse ihn fallen, dann kann es schon sein,
+[00:05:10 -> 00:05:18]  dass der Apfel etwas beschädigt wird. Hebe ich den Apfel, wie hier beim zweiten Apfel zu sehen,
+[00:05:18 -> 00:05:25]  auf eine höhere Ebene und lasse ihn bis zum Erdboden runterfallen, dann wird er höchst
+[00:05:25 -> 00:05:32]  wahrscheinlich schon etwas zerstört werden. Hingegen fliegt er nur von dieser oberen Ebene bis zur
+[00:05:32 -> 00:05:39]  unteren Ebene, dann wird nicht so viel passieren, weil er nicht so viel Geschwindigkeit zusammen
+[00:05:39 -> 00:05:45]  bekommen wird und somit nicht so zerstört wird. Und dasselbe gilt für den dritten Apfel. Hebe ich
+[00:05:45 -> 00:05:50]  den noch weiter rauf und lasse ihn auf den Erdboden runterfallen, dann haben wir maximal noch
+[00:05:50 -> 00:05:57]  Apfelmus. Es wird viel Energie freigesetzt und der Apfel zerstört. Und so ähnlich ist es auch mit dem
+[00:05:57 -> 00:06:07]  elektrischen Strom. Hebe ich mittels Generator ein Elektron auf ein bestimmtes Potenzial, wie hier
+[00:06:07 -> 00:06:16]  beispielsweise, dann entsteht zwischen diesem Potenzial und Erde beispielsweise eine elektrische
+[00:06:16 -> 00:06:26]  Spannung. Vom zweiten Elektron bis zum Erdpotenzial runter eine wesentlich größere Spannung und vom
+[00:06:26 -> 00:06:36]  dritten Potenzial weiter runter eine noch höhere Spannung. Befindet sich der Gegenpol des Elektrons
+[00:06:36 -> 00:06:44]  auf einem gleichen Potenzial, wie hier beispielsweise, dann entsteht keine Spannung. Ein gutes Beispiel
+[00:06:44 -> 00:06:52]  dazu sind Raben auf einer Freileitung. Eine Freileitung kann eine Spannung von 110.000 Volt
+[00:06:52 -> 00:06:59]  oder 220.000 Volt besitzen und dennoch kann ein Vogel sich auf diese Leitung raufsetzen. Warum?
+[00:06:59 -> 00:07:07]  Weil er keinen Gegenpol dazu hat. Er sitzt mit beiden Beinen auf dem gleichen Potenzial und
+[00:07:07 -> 00:07:14]  somit entsteht keine Spannung. Problematisch wird es nur, wenn er mit einem Flügel am Masten anstoßt,
+[00:07:14 -> 00:07:21]  beispielsweise der Masten hat ein Erdpotenzial, weil er mit Erde verbunden ist. Dann greift der
+[00:07:21 -> 00:07:28]  Vogel über seine Flügel die 220.000 Volt zum Beispiel ab und dann wird ein Rauch aufgehen.
+[00:07:28 -> 00:07:39]  Also wir sehen schon, wir können Elektronen und so weiter auf ein höheres Potenzial heben und
+[00:07:39 -> 00:07:46]  je größer der Unterschied der Potenziale ist, desto größer ist die Spannung in Volt. Und da sind wir
+[00:07:46 -> 00:07:56]  jetzt schon bei der nächsten Größe und zwar der elektrischen Spannung. Elektrische Spannung entsteht
+[00:07:56 -> 00:08:08]  einmal durch Elektronenmangel am Pluspol bzw. Elektronenüberschuss am Minuspol. Je größer
+[00:08:08 -> 00:08:15]  dieser Unterschied ist zwischen Elektronenmangel und Elektronenüberschuss, desto größer wird die
+[00:08:15 -> 00:08:25]  elektrische Spannung. Die elektrische Spannung ist somit der Potenzialunterschied oder auch
+[00:08:25 -> 00:08:31]  Elektronendruckunterschied zwischen zwei verschiedenen Punkten oder bei einer Batterie
+[00:08:31 -> 00:08:40]  zum Beispiel zwischen zwei Polen. Das Zeichen der Batterie haben wir hier in der Mitte dargestellt,
+[00:08:40 -> 00:08:49]  wenn man einen Schaltplan zeichnen will. Und die Batterie, die glaube ich, die kennst du ja, die
+[00:08:49 -> 00:08:57]  hätten wir hier im Bild. Das Formelzeichen der elektrischen Spannung ist das große U. Die
+[00:08:57 -> 00:09:10]  Einheit der elektrischen Spannung ist Volt, ein großes V. Einige Beispiele dazu. Eine Steckdose am
+[00:09:10 -> 00:09:17]  öffentlichen Netz hat beispielsweise eine Spannung von 230 Volt. Wir haben also einen Elektronendruckunterschied
+[00:09:17 -> 00:09:24]  zwischen den zwei Polen von 230 Volt. Eine Autobatterie hat einen Potenzialunterschied
+[00:09:24 -> 00:09:31]  von 12 Volt, sprich eine elektrische Spannung von 12 Volt zwischen den Polen. Und die hier
+[00:09:31 -> 00:09:38]  dargestellte AA-Batterie hat eine Spannung von 1,5 Volt. Die dritte elektrische Größe, die wir
+[00:09:38 -> 00:09:46]  kennenlernen werden, ist der elektrische Widerstand. Der elektrische Widerstand ist wie folgt definiert
+[00:09:46 -> 00:09:55]  und zwar beschreibt er die Reibung der Elektronen in einem Leiter. Das heißt, wie stark werden die
+[00:09:55 -> 00:10:04]  Elektronen in einem Leiter abgelenkt bzw. abgebremst. Das Formelzeichen des elektrischen
+[00:10:04 -> 00:10:14]  Widerstands ist R, wie Resistance oder Resistor, also englisches Wort für Widerstand. Und die
+[00:10:14 -> 00:10:25]  Einheit ist das Ohm, mit einem großen Omega dargestellt. Einige Beispiele dazu. Ein Bügleisen
+[00:10:25 -> 00:10:33]  hat beispielsweise einen elektrischen Widerstand von 50 Ohm oder ein 100 Meter Bund mit einem
+[00:10:33 -> 00:10:41]  Querschnitt von 1,5 Quadratmillimeter hat 1,19 Ohm. Das ist schon ein sehr geringer Widerstand,
+[00:10:41 -> 00:10:49]  das sieht man auch. Ein 1,5 Quadrat im Normalfall aus Kupfer hat einen sehr geringen Widerstand, ist
+[00:10:49 -> 00:10:57]  ein guter elektrischer Leiter. Wenn wir in einem Schaltbild den Widerstand darstellen wollen,
+[00:10:57 -> 00:11:07]  dann nutzen wir dieses Schaltzeichen. Die Länge des Rechteckes ist dreimal so lang wie die Breite
+[00:11:08 -> 00:11:14]  und das sollten wir auch einhalten. Zusätzlich kennzeichnen wir den Widerstand mit einem großen
+[00:11:14 -> 00:11:29]  L. Zwei Beispiele dazu. Wir haben einmal hier oben das Beispiel Kupfer, wo wir sehr wenig Reibung im
+[00:11:29 -> 00:11:37]  Leiter haben. Das heißt, den Elektronen geht relativ wenig im Weg, somit können sie beinahe
+[00:11:37 -> 00:11:49]  ungehindert durch den Kupferdraht fließen. Somit wenig Widerstand. Zweites Beispiel Eisen. In Eisen
+[00:11:49 -> 00:11:56]  haben wir wesentlich mehr Material, das den Elektronen im Weg sein kann und somit kommen
+[00:11:56 -> 00:12:03]  sie schon nicht mehr so ungehindert durch wie bei Kupfer. Habe ich einen noch schlechteren Leiter,
+[00:12:03 -> 00:12:11]  dann kommen halt noch weniger Elektronen durch, weil sie immer noch mehr am Leitermaterial reiben.
+[00:12:11 -> 00:12:19]  Wir sind zu den Isolatoren, wo das Leitermaterial so dicht gedrängt ist und so wenig freie Elektronen
+[00:12:19 -> 00:12:28]  vorherrschen, dass kein Stromfluss mehr stattfinden kann. Das wiederum bedeutet, elektrische Leiter
+[00:12:28 -> 00:12:34]  haben sehr viele freie Elektronen im Leiter integriert. Somit kann leichter ein Stromfluss
+[00:12:34 -> 00:12:42]  stattfinden und Nichtleiter, also Isolatoren, haben so gut wie keine freien Elektronen im
+[00:12:42 -> 00:12:54]  Material verfügbar. Somit können die auch den Strom nicht leiten. Kommen wir zum Stromkreis an sich.
+[00:12:54 -> 00:13:00]  Den vergleiche ich immer relativ gern mit einem Wasserkreislauf. Beim Wasserkreislauf
+[00:13:00 -> 00:13:07]  benötigen wir einmal, dass Wasser zu fließen kommen kann, eine Wasserpumpe, die erzeugt Druck.
+[00:13:07 -> 00:13:20]  Dann haben wir eine Hinleitung, hier im Blau dargestellt. Des weiteren Alternativ,
+[00:13:21 -> 00:13:27]  eventuell ein Ventil, das als Schalter dient. Das lässt entweder Wasser durch oder spürt es ab.
+[00:13:27 -> 00:13:37]  Dann einen Verbraucher, beispielsweise ein Wasserrad. Das wird sich dann drehen,
+[00:13:37 -> 00:13:45]  sobald Wasser fließt. Und klarerweise wieder eine Rückleitung zur Wasserpumpe. Somit haben
+[00:13:45 -> 00:13:51]  wir einen geschlossenen Kreislauf. Je größer der Druck der Pumpe, desto mehr Wasser kann
+[00:13:51 -> 00:13:56]  innerhalb einer bestimmten Zeit durch den Kreislauf fließen. Und desto schneller wird
+[00:13:56 -> 00:14:09]  sich die Turbine drehen. Und so ziemlich gleich ist das beim elektrischen Stromkreis. Beim
+[00:14:09 -> 00:14:14]  elektrischen Stromkreis haben wir auch eine bestimmte Pumpe. Und zwar haben wir eine
+[00:14:14 -> 00:14:20]  Spannungsquelle, wo wir einen Elektronen-Druck-Unterschied zwischen zwei Punkten bzw. Polen
+[00:14:20 -> 00:14:30]  haben. Man sagt auch dazu, es herrscht eine Spannung U an der Spannungsquelle. Dann haben
+[00:14:30 -> 00:14:37]  wir eine Hinleitung zu unserem Verbraucher. Alternativ dazu noch einen Schalter, um den
+[00:14:37 -> 00:14:47]  Stromfluss zu unterbrechen bzw. einzuschalten. Einen Verbraucher, in unserem Fall eine Glühbirne,
+[00:14:47 -> 00:14:55]  der einen bestimmten Widerstandswert besitzt. Und zu guter Letzt eine Rückleitung,
+[00:14:55 -> 00:15:08]  dass der Strom dann wieder zum Minuspol kommen kann. Und grundsätzlich zeichnet man dann einen
+[00:15:08 -> 00:15:15]  einfachen Stromkreis wie folgt. Der einfache Stromkreis besteht einmal, wie wir bereits
+[00:15:15 -> 00:15:23]  besprochen haben, aus einer Spannungsquelle. Das hier wäre ein DC-Netzgerät, also ein Netzgerät,
+[00:15:23 -> 00:15:32]  das Gleichspannung von sich gibt. An dem Pluspol wird eine Hinleitung angeschlossen.
+[00:15:32 -> 00:15:43]  Natürlich benötigen wir auch eine Rückleitung, die wir hier unten sehen. Eventuell einen Schalter,
+[00:15:43 -> 00:15:50]  der hier dargestellt wird. Übrigens ein Schalter wird immer in nicht betätigendem Zustand gezeichnet.
+[00:15:50 -> 00:15:57]  Das heißt in unserem Fall einfach als geöffnetes Bauteil. Wir sehen es genau,
+[00:15:57 -> 00:16:03]  gezeichnet wird er so, dass er keine Verbindung hat.
+[00:16:08 -> 00:16:17]  Und zu guter Letzt noch ein Verbraucher, in unserem Fall eine Lampe, die wird mit E1
+[00:16:17 -> 00:16:26]  bezeichnet und ein Kreis mit einem X drin. Somit haben wir Bauteile eines einfachen
+[00:16:26 -> 00:16:33]  Stromkreises bereits kennengelernt. Und da stellt sich nun die Frage, zuerst im ersten
+[00:16:33 -> 00:16:39]  Modell haben wir gesehen, es fließen Elektronen vom Minuspol zum Pluspol. Dann habe ich euch
+[00:16:39 -> 00:16:46]  gesagt, Strom fließt vom Pluspol zum Minuspol. Ja, was stimmt denn nun? Ganz einfach, es gibt zwei
+[00:16:46 -> 00:16:53]  verschiedene Stromrichtungen. Die eigentliche Stromrichtung, wie sie physikalisch richtig wäre,
+[00:16:53 -> 00:17:01]  auch Elektronenstromrichtung genannt, fließt von Minuspol zum Pluspol, weil wir gelernt haben,
+[00:17:01 -> 00:17:06]  es fließen die Elektronen, die sind negativ geladen. Negative Ladungsträger fließen zum
+[00:17:06 -> 00:17:15]  Pluspol und somit haben wir einen Stromfluss von Minuspol zu Pluspol. Im Gegensatz dazu gibt es
+[00:17:15 -> 00:17:22]  aber auch die technische Stromrichtung, die besagt, dass Strom vom Pluspol zum Minuspol fließt.
+[00:17:22 -> 00:17:32]  Gut, was stimmt denn nun? Naja, das Ganze ist historisch so gewachsen. Und zwar ist man früher
+[00:17:32 -> 00:17:38]  davon ausgegangen, dass positive Ladungsträger in einem Stromkreis fließen, also vom Pluspol
+[00:17:38 -> 00:17:44]  zum Minuspol. Die ganze Literatur wurde darauf aufgebaut, die ganzen elektrotechnischen Gesetze
+[00:17:44 -> 00:17:50]  wurden darauf aufgebaut, bis man darauf gekommen ist, dass eigentlich die Elektronen, also die negativen
+[00:17:50 -> 00:17:56]  Ladungsträger fließen. Da wurden schon so viele Bücher und so weiter geschrieben, dass man das bei
+[00:17:56 -> 00:18:03]  der Stromrichtung von Plus nach Minus beibehalten hat. Also in weiterer Folge in unserem Unterricht
+[00:18:03 -> 00:18:14]  werden wir immer von der technischen Stromrichtung sprechen. Es fließt Strom vom Plus zum Minuspol.
+[00:18:14 -> 00:18:19]  Dargestellt mit roten Pfeilen und einem großen I für die Stromstärke.
+[00:18:26 -> 00:18:34]  Die Funktion des einfachen Stromkreises sieht wie folgt aus. Momentan ist der Schalter, wie wir sehen,
+[00:18:34 -> 00:18:43]  ausgeschalten. Er hat keine Verbindung. Es kann also kein Strom fließen. Es liegt zwar an der
+[00:18:43 -> 00:18:50]  Spannungsquelle eine Spannung zwischen Plus und Minuspol an. Wir haben einen Elektronendruckunterschied
+[00:18:50 -> 00:18:57]  an der Spannungsquelle, aber diese Elektronen bzw. der Strom kann nicht zum anderen Pol gelangen,
+[00:18:57 -> 00:19:06]  weil er keine leitfähige Verbindung hat. Also kein geschlossener Stromkreis, kein Stromfluss und somit
+[00:19:06 -> 00:19:16]  auch keine Spannung an der Lampe, nur am Netzgerät. Schließen wir nun den Schalter, haben wir einen
+[00:19:16 -> 00:19:23]  geschlossenen Stromkreis. Es kann Strom vom Plus zum Minuspol fließen. Also technische
+[00:19:23 -> 00:19:29]  Stromrichtung ist die, die wir verwenden, haben wir gesagt. Es liegt eine Spannung an der Lampe
+[00:19:29 -> 00:19:39]  an, weil wir ganz klar erkennen können, dass der Pluspol mit dem oberen Anschluss der Lampe verbunden
+[00:19:39 -> 00:19:51]  ist und der Minuspol mit dem unteren Anschluss der Lampe verbunden ist. Somit haben wir in der Lampe
+[00:19:51 -> 00:19:59]  Plus und Minus anliegen. Das bedeutet, die Spannung U liegt direkt auch an der Lampe an und sie wird
+[00:19:59 -> 00:20:08]  leuchten. Es fließt Strom durch und somit wäre das einmal geklärt. Öffnen wir den Schalter wieder,
+[00:20:08 -> 00:20:13]  wird kein Strom mehr zum fließen kommen. Das heißt, wir haben keinen geschlossenen Stromkreis mehr,
+[00:20:13 -> 00:20:21]  keinen Stromfluss mehr und keine Spannung mehr an der Lampe. Und auch hier noch einmal der Hinweis,
+[00:20:21 -> 00:20:27]  Schalter usw. wird immer in unbetätigtem Zustand eingezeichnet, wenn man ein Schaltbild
+[00:20:27 -> 00:20:28]  zeichnen will.
+[00:20:33 -> 00:20:40]  Kommen wir noch zur Messung der elektrischen Größen und zwar zur Messung der Stromstärke.
+[00:20:40 -> 00:20:47]  Zur Messung der Stromstärke müssen wir quasi die Elektronen zählen, die durch einen Leiter
+[00:20:47 -> 00:20:54]  durchfließen. Wir müssen also zuerst hergehen, den Stromkreis auftrennen, dann ein Messgerät
+[00:20:54 -> 00:21:02]  da hineinsetzen in Form eines Kreises und hineinschreiben, welches Messgerät denn das sein
+[00:21:02 -> 00:21:08]  soll. Für die Strommessung, die in Amperen gegeben wird, schreiben wir ein großes A in diesen Kreis rein.
+[00:21:08 -> 00:21:17]  Ampermeter haben einen sehr, sehr geringen, also kleinen Widerstand, damit die den Stromfluss
+[00:21:17 -> 00:21:26]  nicht bremsen und somit nicht die Schaltung bzw. die Messung verfälschen. Sie werden also in Reihe
+[00:21:26 -> 00:21:34]  bzw. in Serie zum Verbraucher in einen Stromkreis geschalten und dabei ist es unerheblich, ob ich
+[00:21:34 -> 00:21:44]  das Ampermeter wie hier dargestellt einzeichne oder ob ich es beispielsweise hier einzeichne oder hier
+[00:21:44 -> 00:21:54]  oder hier. Wichtig ist nur, dass der Strom durch dieses Amperemeter durchfließt, der auch durch
+[00:21:54 -> 00:22:05]  den Verbraucher fließen soll. Zu guter Letzt für die Strommessung noch einen Strompfeil hinzufügen.
+[00:22:05 -> 00:22:12]  Wie gesagt, ein roter Pfeil über eine Linie mit einem großen I dazu, der die Stromstärke I
+[00:22:12 -> 00:22:24]  symbolisieren soll. Kommen wir zur Spannungsmessung. Bei der Spannungsmessung müssen wir einen
+[00:22:24 -> 00:22:32]  Potenzialunterschied zwischen zwei Punkten oder Polen messen. Das bedeutet, wir hängen uns mit
+[00:22:32 -> 00:22:42]  einem Anschluss einmal an die Oberseite des Verbrauchers. Das heißt, man kann klar erkennen,
+[00:22:42 -> 00:22:46]  hier haben wir eigentlich den Pluspol, also die Oberseite am Verbraucher. Hier haben wir den
+[00:22:46 -> 00:22:53]  oberen Anschluss des Messgerätes und mit dem unteren Anschluss fahren wir auf den unteren
+[00:22:53 -> 00:23:01]  Anschluss des Verbrauchers, also diese Lampe bzw. mit dem Minus verbinden wir das. Damit der
+[00:23:01 -> 00:23:09]  Potenzialunterschied zwischen diesen zwei Punkten erfasst werden kann. Dann wird noch ein Spannungspfeil
+[00:23:09 -> 00:23:16]  hinzugefügt. Ein großes V wird ins Messgerät hinein gezeichnet, das für Volt steht und so eine
+[00:23:16 -> 00:23:21]  Schaltung nennt man eine Parallelschaltung zu einem Widerstand bzw. zu unserem Verbraucher.
+[00:23:21 -> 00:23:29]  Ein Voltmeter hat einen sehr sehr hohen Widerstand, sodass so gut wie kaum ein Strom durch das
+[00:23:29 -> 00:23:36]  Voltmeter zum fließen kommt. Alternativ kann das Voltmeter auch direkt vorne bei der Spannungsquelle
+[00:23:36 -> 00:23:44]  angeschlossen werden bzw. eingezeichnet werden. Wichtig, Spannungspfeil nicht vergessen und das
+[00:23:44 -> 00:23:48]  Voltmeter muss den Plus- und den Minuspol jeweils an einem Anschluss anliegen haben.
+[00:23:48 -> 00:23:58]  Was passiert, wenn man diese Messgeräte verwechselt? Ich habe hier fälschlicherweise
+[00:23:58 -> 00:24:04]  einen Amperemeter parallel zur Spannungsquelle eingezeichnet und ein Voltmeter fälschlicherweise
+[00:24:04 -> 00:24:11]  in Reihe zur Lampe. Ein Amperemeter hat wie wir gesagt haben einen sehr sehr geringen Widerstand.
+[00:24:11 -> 00:24:19]  Das bedeutet, schalte ich dieses hier parallel zur Spannungsquelle, dann wird ein sehr sehr großer
+[00:24:19 -> 00:24:27]  Strom zum fließen kommen, der kurzschlussähnlich verlaufen wird. Das bedeutet sehr große
+[00:24:27 -> 00:24:33]  Stromstärke und das führt zum Auslösen der Sicherung des Messgerätes. Natürlich ist auch
+[00:24:33 -> 00:24:39]  ein Defekt des Messgerätes möglich, also auf keinen Fall ein Amperemeter parallel zu einer
+[00:24:39 -> 00:24:49]  Spannungsquelle hängen. Ein Voltmeter in Reihe zu einem Verbraucher bewirkt folgendes. Wir haben
+[00:24:49 -> 00:24:55]  gesagt, ein Voltmeter hat einen sehr sehr großen Widerstand, der ist im Megaohm-Bereich. Somit wird
+[00:24:55 -> 00:25:02]  kaum ein Strom durch das Voltmeter durchfließen können. Das sind wirklich nur einzelne Elektronen,
+[00:25:02 -> 00:25:09]  die für die Messung notwendig sind. Das bedeutet aber gleichzeitig kein Stromfluss durch den
+[00:25:09 -> 00:25:19]  Verbraucher. Die Lampe bleibt dunkel. Und somit wäre es das für heute gewesen. Das nächste Mal
+[00:25:19 -> 00:25:26]  schauen wir uns dann den Zusammenhang zwischen Widerstand, Stromstärke und elektrischer Spannung
+[00:25:26 -> 00:25:34]  an, genannt das Ohmsche Gesetz. Vielen Dank für die Aufmerksamkeit und viel Spaß bei der Elektrotechnik.

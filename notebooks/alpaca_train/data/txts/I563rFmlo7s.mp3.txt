@@ -1,0 +1,101 @@
+[00:00:00 -> 00:00:08]  Acumatica offers basic warehouse management functionality with barcode scanning.
+[00:00:08 -> 00:00:13]  Mobile devices interact with ERP data in real-time, without intermediate servers.
+[00:00:13 -> 00:00:17]  In this video, we review automated receiving and shipping processes.
+[00:00:17 -> 00:00:22]  To minimize the video runtime, we will not cover some of the operations, such as physical
+[00:00:22 -> 00:00:26]  inventory counts and automated creation of issues and receipts.
+[00:00:26 -> 00:00:31]  During this demonstration, I will use a Zebra TC20 device to scan barcodes I created for
+[00:00:31 -> 00:00:34]  sales demonstration items.
+[00:00:34 -> 00:00:40]  To get started, install Acumatica 2019 R1 and enable automated warehouse operations
+[00:00:40 -> 00:00:43]  on the Enable Disables Features screen.
+[00:00:43 -> 00:00:48]  Preferences for each WMS process are managed in the corresponding preferences screens.
+[00:00:48 -> 00:00:53]  Within Inventory, you can set preferences related to transfers and physical inventory
+[00:00:53 -> 00:00:54]  counts.
+[00:00:54 -> 00:00:58]  In Purchasing, you can control the way purchase receipts are handled.
+[00:00:58 -> 00:01:03]  Single and default receiving location options allow you to minimize scans with certain workflows.
+[00:01:03 -> 00:01:08]  With Sales Orders, you control the way picking, packing, and shipping processes are managed
+[00:01:08 -> 00:01:09]  and displayed.
+[00:01:09 -> 00:01:15]  In my user profile, I can define a default warehouse so I don't have to frequently scan it.
+[00:01:15 -> 00:01:21]  In this video, I review operations associated with this sample warehouse layout.
+[00:01:21 -> 00:01:26]  Acumatica can accommodate different processes, but I'll use this for illustrative purposes.
+[00:01:26 -> 00:01:30]  Acumatica supports multiple receive and put-away scenarios.
+[00:01:30 -> 00:01:33]  In this demonstration, I'll receive two purchase orders.
+[00:01:33 -> 00:01:38]  The first will follow Process 1, where I receive the goods and immediately place them into
+[00:01:38 -> 00:01:39]  storage.
+[00:01:39 -> 00:01:42]  The second purchase order will show Process 2.
+[00:01:42 -> 00:01:46]  I will do an inspection and then transfer items to storage.
+[00:01:46 -> 00:01:50]  Workflow 3 involves processing multiple receipts using a cart.
+[00:01:50 -> 00:01:53]  This process is not available in this video.
+[00:01:53 -> 00:01:57]  To begin receiving, I navigate to the Receiving Clerk dashboard.
+[00:01:57 -> 00:02:01]  In this demo, I will receive the two purchase orders at the bottom.
+[00:02:01 -> 00:02:05]  On the loading dock, boxes arrive with purchase order information.
+[00:02:05 -> 00:02:11]  On my mobile device, I use the Acumatica app and select the Receive and Put-Away applet.
+[00:02:11 -> 00:02:16]  I scan the PO number to begin, and Acumatica automatically creates the purchase receipt.
+[00:02:16 -> 00:02:19]  Next, I scan the item that I'm receiving.
+[00:02:19 -> 00:02:23]  In this example, I'm receiving a pallet of goods, so I scan the barcode associated with
+[00:02:23 -> 00:02:25]  this unit of measure.
+[00:02:25 -> 00:02:31]  On each inventory item, you can specify barcodes that are specific to a unit of measure.
+[00:02:31 -> 00:02:34]  Since this item requires a lot number, I scan one.
+[00:02:34 -> 00:02:39]  To minimize scanning, I could have set a preference to use a default auto-generated lot number.
+[00:02:39 -> 00:02:43]  Next, I scan the warehouse location where I will store the pallet.
+[00:02:43 -> 00:02:46]  This allows me to receive and put away in one step.
+[00:02:46 -> 00:02:49]  Now I begin working on the second line of the purchase order.
+[00:02:49 -> 00:02:53]  I receive the item by scanning the barcode and entering a location.
+[00:02:53 -> 00:02:59]  In this example, I don't have a complete box, so I push the Quantity button to set the received quantity.
+[00:02:59 -> 00:03:04]  If I receive more items than expected on the purchase order, the system will warn me and
+[00:03:04 -> 00:03:06]  create an additional line on the purchase receipt.
+[00:03:06 -> 00:03:09]  My purchase order is now received.
+[00:03:09 -> 00:03:13]  To confirm the receipt, I click on the three dots in the top right and select the option
+[00:03:13 -> 00:03:15]  to release the receipt.
+[00:03:15 -> 00:03:20]  When I return to my ERP application, I find my purchase receipt that was created by my
+[00:03:20 -> 00:03:21]  mobile device.
+[00:03:21 -> 00:03:25]  For the second purchase order, I receive an item, do an inspection, and then place the
+[00:03:25 -> 00:03:27]  item into storage.
+[00:03:27 -> 00:03:32]  In the Purchase Order Preferences area, I change my receiving workflow.
+[00:03:32 -> 00:03:36]  By checking the default receiving location, I will minimize my scanning.
+[00:03:36 -> 00:03:40]  As before, I scan the purchase order number to get started.
+[00:03:40 -> 00:03:44]  I scan two items, and the purchase order is marked as received.
+[00:03:44 -> 00:03:49]  After inspecting the items, I enter Put Away mode to initiate a transfer.
+[00:03:49 -> 00:03:54]  I can do this by changing the mode or by scanning a special barcode.
+[00:03:54 -> 00:03:58]  First, I scan the released purchase receipt.
+[00:03:58 -> 00:04:01]  Now I scan the receiving location.
+[00:04:01 -> 00:04:07]  Next, I scan the item, scan the destination location, and enter the quantity of the items
+[00:04:07 -> 00:04:09]  being moved.
+[00:04:09 -> 00:04:12]  After releasing this transfer, I can view the document that was created with my mobile
+[00:04:12 -> 00:04:16]  device, and my put away is complete.
+[00:04:24 -> 00:04:29]  Acumatica WMS supports multiple types of shipping flows.
+[00:04:29 -> 00:04:35]  In this video, we shipped two orders and demonstrated two options with the single order process.
+[00:04:35 -> 00:04:41]  Flow 2 involves multiple shipments in carts, and will be demonstrated in a future video.
+[00:04:41 -> 00:04:46]  Flow 3 has a process to replenish the picking area handled outside of Acumatica WMS, and
+[00:04:46 -> 00:04:52]  a process of picking, packing, and shipping, much like what we will cover next.
+[00:04:52 -> 00:04:55]  In this example, we ship two sales orders.
+[00:04:55 -> 00:04:58]  To start, an automated process creates today's shipments.
+[00:04:58 -> 00:05:01]  I'll run this manually.
+[00:05:01 -> 00:05:05]  From the dashboard, I see shipments that I need to pick and pack.
+[00:05:05 -> 00:05:12]  The side panel allows me to see the details of the shipment and create a pick list.
+[00:05:12 -> 00:05:16]  I can also bulk print pick lists if required.
+[00:05:16 -> 00:05:22]  On my mobile phone, I can complete the process by selecting the Pick, Pack, and Ship applet.
+[00:05:22 -> 00:05:26]  Following the prompts, I scan the shipment number, scan the location where I'm picking
+[00:05:26 -> 00:05:29]  from, and set the quantity picked.
+[00:05:29 -> 00:05:33]  If needed, I can click the Review button to see the status of items on my shipment.
+[00:05:33 -> 00:05:37]  In the background, Acumatica adds the items to the shipment.
+[00:05:37 -> 00:05:44]  When ready, I click the three dots in the upper right corner and confirm it.
+[00:05:44 -> 00:05:48]  The shipment confirmation and shipment labels can print automatically, or I can print them
+[00:05:48 -> 00:05:57]  manually depending on settings in Sales Order Preferences.
+[00:05:57 -> 00:06:02]  In the next sample, I will specify packing and box contents.
+[00:06:02 -> 00:06:08]  The process begins as it did in the first example, scan the ship number, scan the location,
+[00:06:08 -> 00:06:09]  and scan items.
+[00:06:09 -> 00:06:14]  But when I'm finished picking, I can enter the packing mode by scanning a special barcode
+[00:06:14 -> 00:06:16]  or by changing the mode.
+[00:06:16 -> 00:06:20]  Once in packing mode, I can scan a box and begin scanning the items as I place them into
+[00:06:20 -> 00:06:21]  the box.
+[00:06:21 -> 00:06:26]  When the box is full, click OK and enter the weight of the box.
+[00:06:26 -> 00:06:30]  I can now scan my next box or confirm the entire shipment.
+[00:06:30 -> 00:06:35]  Once confirmed, I return to my ERP system and review the shipment that was created behind
+[00:06:35 -> 00:06:36]  the scenes.
+[00:06:36 -> 00:06:40]  The Packages tab has the box information, and I can review the labels that were retrieved
+[00:06:40 -> 00:06:45]  from my carrier.
+[00:06:45 -> 00:06:49]  Acumatica Warehouse Management is completely integrated with all ERP data.
+[00:06:49 -> 00:06:54]  This allows me to use the Acumatica app with any Android or iOS scanner to communicate
+[00:06:54 -> 00:06:56]  warehouse changes in real time.
+[00:06:56 -> 00:07:02]  In 2019 R1, we provide a full feature set for most small and medium-sized business applications.
+[00:07:02 -> 00:07:06]  Future releases will continue to add additional time-saving features.

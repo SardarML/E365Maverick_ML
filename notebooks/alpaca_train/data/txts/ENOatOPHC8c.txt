@@ -1,0 +1,60 @@
+[00:00:00 -> 00:00:08]  We now continue our journey in learning the terms and definitions that will be used in the introduction to statistics.
+[00:00:08 -> 00:00:16]  The first thing that we need to do is begin to comprehend the difference between quantitative and qualitative statistics.
+[00:00:16 -> 00:00:20]  Now, the course that you're involved in is a quantitative statistics course.
+[00:00:20 -> 00:00:24]  Qualitative statistics is something altogether different.
+[00:00:24 -> 00:00:29]  Quantitative deals with quantity, which deals with numbers.
+[00:00:29 -> 00:00:35]  Quantitative statistics, information that can be measured using numbers.
+[00:00:35 -> 00:00:44]  It may be things like length, height, area, volume, weight, speed, time, temperature, so on and so on and so on.
+[00:00:44 -> 00:00:51]  Those are things that can be measured using numbers, and those constitute quantitative statistics.
+[00:00:51 -> 00:00:56]  Quantitative, think quantity. Quantity means numbers.
+[00:00:56 -> 00:00:59]  We can quantify something with a number.
+[00:00:59 -> 00:01:02]  Qualitative statistics are altogether different.
+[00:01:02 -> 00:01:07]  They deal with descriptions, information that can be observed but not measured.
+[00:01:07 -> 00:01:12]  For example, how do you feel about the opera?
+[00:01:12 -> 00:01:15]  Well, that's hard to put a number on, isn't it?
+[00:01:15 -> 00:01:17]  Maybe it depends on the opera.
+[00:01:17 -> 00:01:20]  I enjoyed going to see The Nutcracker this Christmas.
+[00:01:20 -> 00:01:25]  Maybe I might enjoy going to see Shrek the Musical and those type of things.
+[00:01:25 -> 00:01:34]  Colors, textures, smells, taste, appearances, beauty, those things are not things that can be easily quantified,
+[00:01:34 -> 00:01:38]  and qualitative statistics deal with quality.
+[00:01:38 -> 00:01:41]  Quantitative statistics deal with quantity.
+[00:01:41 -> 00:01:43]  Qualitative deal with quality.
+[00:01:43 -> 00:01:48]  You're in a quantitative statistics class where we will establish numbers,
+[00:01:49 -> 00:01:51]  and we will do operations on numbers,
+[00:01:51 -> 00:01:58]  and we will learn how to do all sorts of statistical processes on quantitative numbers.
+[00:01:58 -> 00:02:00]  Now, quantitative versus qualitative.
+[00:02:00 -> 00:02:02]  Look at this picture just a minute.
+[00:02:02 -> 00:02:07]  Quantitative might be how many colors are there in this canvas?
+[00:02:07 -> 00:02:11]  Qualitative might be what is your impression of this art?
+[00:02:11 -> 00:02:16]  We might look at quantitative versus qualitative with a group of penguins.
+[00:02:16 -> 00:02:19]  What are the penguins thinking?
+[00:02:19 -> 00:02:25]  Do they enjoy there, or are they afraid of the polar bears that are out in the water?
+[00:02:25 -> 00:02:33]  Quantitative would be things like how tall are they, what do they weigh, those type things that can be quantified.
+[00:02:33 -> 00:02:36]  Qualitative are things that deal with quality.
+[00:02:36 -> 00:02:43]  Quantitative deals with quantities, things that can be quantified using numbers.
+[00:02:43 -> 00:02:45]  Now, quantitative versus qualitative.
+[00:02:45 -> 00:02:52]  This picture includes many quantitative things like how many packages are there,
+[00:02:52 -> 00:02:56]  how many items on the truck, how much does the average truck weigh?
+[00:02:56 -> 00:02:58]  Those type things are quantitative.
+[00:02:58 -> 00:03:04]  Qualitative might be, well, what does the customer think about the item that we just sent them?
+[00:03:04 -> 00:03:05]  Do they like it?
+[00:03:05 -> 00:03:06]  Those type things.
+[00:03:06 -> 00:03:11]  Those tend to be more qualitative rather than quantitative.
+[00:03:11 -> 00:03:20]  Quantitative deals with numbers, information which can be measured, such as length, height, so on, sound levels, cost, members, ages.
+[00:03:20 -> 00:03:27]  You will notice that in life they attempt to quantify things that are really qualitative.
+[00:03:27 -> 00:03:36]  Like you go to a doctor and they may ask you to rate their services on a scale from 1 to 10.
+[00:03:36 -> 00:03:41]  That is actually called a Likert scale, or many call it Likert.
+[00:03:41 -> 00:03:45]  His name was Likert, and they get mad if we call it Likert.
+[00:03:45 -> 00:03:52]  But then again with Halley's Comet, they call it Halley's Comet, but his name was actually Edmund Halley.
+[00:03:52 -> 00:03:56]  So, you know, a scale, things that can be scaled.
+[00:03:56 -> 00:03:58]  We can use them to numbers.
+[00:03:58 -> 00:04:04]  Qualitative deal with descriptions and information that can be observed but is difficult to measure.
+[00:04:04 -> 00:04:09]  And maybe in discovering attitudes or opinions, you would use qualitative.
+[00:04:09 -> 00:04:15]  Colors, textures, smells, taste, appearances, beauty, et cetera, would tend to be qualitative.
+[00:04:15 -> 00:04:18]  Now, you can keep climbing the ladder.
+[00:04:18 -> 00:04:19]  You've got this.
+[00:04:19 -> 00:04:27]  So the very first thing that we've done is establish that you're in a quantitative statistics course rather than a qualitative class.
+[00:04:27 -> 00:04:31]  Quantitative statistics course operates on things that can be measured.
+[00:04:31 -> 00:04:40]  And we will be looking at items that have been measured so that we can use those measurements to establish certain facts
+[00:04:40 -> 00:04:47]  or certain concepts that will help us better understand a data set.
+[00:04:47 -> 00:04:51]  And we will come to that more in just a moment.

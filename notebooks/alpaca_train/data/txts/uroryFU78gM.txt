@@ -1,0 +1,72 @@
+[00:00:00 -> 00:00:13]  Let's talk today about the fundamentals of cloud computing.
+[00:00:13 -> 00:00:15]  What exactly is it?
+[00:00:15 -> 00:00:21]  Cloud computing is a model for allowing convenient, on-demand access from anywhere to a shared
+[00:00:21 -> 00:00:24]  pool of computing resources.
+[00:00:24 -> 00:00:31]  These can include servers, storage, networking, applications, and services that can be rapidly
+[00:00:31 -> 00:00:35]  and easily provisioned and released.
+[00:00:35 -> 00:00:39]  The cloud model includes five essential characteristics.
+[00:00:39 -> 00:00:42]  First, on-demand self-service.
+[00:00:42 -> 00:00:48]  This allows users to quickly and automatically get access to the IT resources that they want
+[00:00:48 -> 00:00:52]  without requiring any additional human interaction.
+[00:00:52 -> 00:00:55]  Second, broad network access.
+[00:00:55 -> 00:01:01]  This is the ability to access a service from any standard device that's connected to the
+[00:01:01 -> 00:01:06]  network, including PCs, laptops, mobile phones, or tablets.
+[00:01:06 -> 00:01:09]  Third, resource pooling.
+[00:01:09 -> 00:01:15]  Compute, networking, and storage are pooled and shared across multiple customers.
+[00:01:15 -> 00:01:18]  Fourth, rapid elasticity.
+[00:01:18 -> 00:01:23]  This allows you to quickly scale or shrink the capabilities of your cloud to match the
+[00:01:23 -> 00:01:26]  level of user demand.
+[00:01:26 -> 00:01:28]  And fifth, metering.
+[00:01:28 -> 00:01:35]  This tracks and controls the level of resource usage or the cost of that usage.
+[00:01:35 -> 00:01:41]  Customers generally choose one of three options for their cloud deployments, either public,
+[00:01:41 -> 00:01:44]  private, or hybrid cloud.
+[00:01:44 -> 00:01:49]  A private cloud is provisioned for the exclusive use of a single organization.
+[00:01:49 -> 00:01:55]  The infrastructure is usually owned, managed, and operated by the organization within its
+[00:01:55 -> 00:01:57]  own firewall.
+[00:01:57 -> 00:02:02]  A public cloud infrastructure is open for use by the general public.
+[00:02:02 -> 00:02:08]  This type of cloud is owned, managed, and operated by a cloud service provider and runs
+[00:02:08 -> 00:02:11]  on the provider's premises.
+[00:02:11 -> 00:02:17]  A hybrid cloud allows a user to access both private and public cloud resources from a
+[00:02:17 -> 00:02:20]  single management environment.
+[00:02:20 -> 00:02:26]  In addition, there are three distinct types of IT services available today through public,
+[00:02:26 -> 00:02:29]  private, and hybrid clouds.
+[00:02:29 -> 00:02:33]  The first is software-as-a-service, or SaaS.
+[00:02:33 -> 00:02:38]  SaaS allows users to access an application without having to manage or control the underlying
+[00:02:38 -> 00:02:40]  cloud infrastructure.
+[00:02:40 -> 00:02:45]  Examples of SaaS are Gmail or Salesforce.com.
+[00:02:45 -> 00:02:48]  The second is platform-as-a-service, or PaaS.
+[00:02:48 -> 00:02:53]  Platform-as-a-service gives users access to a software development environment to allow
+[00:02:53 -> 00:03:01]  them to create their own cloud applications using programming languages, libraries, services,
+[00:03:01 -> 00:03:02]  and tools.
+[00:03:02 -> 00:03:08]  The user has control over these applications without having to manage or control the underlying
+[00:03:08 -> 00:03:10]  cloud infrastructure.
+[00:03:10 -> 00:03:14]  An example of PaaS is Cloud Foundry.
+[00:03:14 -> 00:03:20]  The third cloud service, and the one that's most widely viewed as a cloud, is infrastructure-as-a-service,
+[00:03:20 -> 00:03:23]  or IaaS.
+[00:03:23 -> 00:03:28]  An infrastructure-as-a-service cloud allows a user to quickly and easily provision full
+[00:03:28 -> 00:03:35]  computing resources, including processing, storage, and networks, without the user having
+[00:03:35 -> 00:03:40]  to manage or control the underlying cloud infrastructure.
+[00:03:40 -> 00:03:47]  An example of a private cloud infrastructure-as-a-service is SUSE OpenStack Cloud.
+[00:03:47 -> 00:03:52]  Most data centers today are highly virtualized, but it can still take one or two days, maybe
+[00:03:52 -> 00:04:00]  even a week, to provision a virtual machine, and even longer to get the necessary authorization.
+[00:04:00 -> 00:04:05]  Public infrastructure-as-a-service cloud offerings, like Amazon and others, grew rapidly because
+[00:04:05 -> 00:04:11]  of this need for on-demand computing resources that internal IT departments weren't capable
+[00:04:11 -> 00:04:14]  of providing quickly enough.
+[00:04:14 -> 00:04:20]  The cloud service provider offered a solution where any individual or company could provision
+[00:04:20 -> 00:04:25]  a server themselves when they needed it, run it for as long as they needed it, and then
+[00:04:25 -> 00:04:27]  shut it down.
+[00:04:27 -> 00:04:33]  They pay the cloud service provider an ongoing operational cost for only the computing resources
+[00:04:33 -> 00:04:35]  that they need.
+[00:04:35 -> 00:04:40]  Using a public cloud is often seen as a good way to get access to these resources for a
+[00:04:40 -> 00:04:42]  short period of time.
+[00:04:42 -> 00:04:47]  A private cloud infrastructure-as-a-service extends the benefits of the public cloud to
+[00:04:47 -> 00:04:50]  your company's own data center.
+[00:04:50 -> 00:04:56]  It can help you to respond faster to changing business and customer demands and lower costs
+[00:04:56 -> 00:05:03]  by introducing more automation and by improving the efficiency of your IT environment.
+[00:05:03 -> 00:05:09]  Because a private cloud is inside your organization's firewall, it also gives you better control
+[00:05:09 -> 00:05:15]  of data security and helps ensure compliance with regulations.
+[00:05:15 -> 00:05:24]  Whether deploying workloads in a public infrastructure-as-a-service environment, in a private one, or in both,
+[00:05:24 -> 00:05:29]  businesses have the ability to develop a more flexible and agile infrastructure that
+[00:05:29 -> 00:05:34]  better aligns with the needs of the business while reducing costs.
+[00:05:34 -> 00:05:39]  Contact SUSE to understand how we can help an organization enjoy the benefits of cloud
+[00:05:39 -> 00:05:40]  computing.

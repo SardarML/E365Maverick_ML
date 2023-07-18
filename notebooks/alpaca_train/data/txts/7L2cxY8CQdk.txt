@@ -1,0 +1,455 @@
+[00:00:00 -> 00:00:27]  Okay guys, so let's maybe start warming up, getting a few more ideas together. So, if
+[00:00:27 -> 00:00:32]  you think about what we were trying to do, we wanted to calculate the force that a charged
+[00:00:32 -> 00:00:40]  particle would feel. We said that calculating the force that a charged particle would feel
+[00:00:40 -> 00:00:46]  amounted to calculating the electric field that would be set up by the source. And in
+[00:00:46 -> 00:00:52]  actual fact, we've already done that. There is the electric field set up by the source,
+[00:00:52 -> 00:00:56]  and there is the electric field set up by the source. So that original, very general
+[00:00:56 -> 00:01:02]  question that we wanted to ask, we have already answered. You tell me some distribution of
+[00:01:02 -> 00:01:08]  charges, and I will simply add up the electric field due to each charge. That gives me the
+[00:01:08 -> 00:01:13]  total electric field, and I know exactly what force is acting on my probe. I just multiply
+[00:01:13 -> 00:01:18]  by the charge of the probe. You give me a continuous charge distribution, and I'll
+[00:01:18 -> 00:01:22]  do this integral. And then I know exactly what the electric field is. Again, I'll just
+[00:01:22 -> 00:01:26]  multiply by the charge of the probe. I know exactly what force is acting on my probe.
+[00:01:26 -> 00:01:34]  So I have answered the question that I initially wanted to answer. However, we can ask ourselves,
+[00:01:34 -> 00:01:42]  how good is this answer? And to be honest, this answer is not very good. So, as you were
+[00:01:42 -> 00:01:48]  mentioning, you know, can we always calculate this integral? No. Many times we cannot, and
+[00:01:48 -> 00:01:53]  we have to do it numerically. And if you are considering a very complicated charge
+[00:01:53 -> 00:02:00]  distribution, or very, very many charges, in fact it can be numerically very expensive
+[00:02:00 -> 00:02:11]  to calculate either that sum or that integral. I had one PhD student in electrical engineering,
+[00:02:11 -> 00:02:16]  and what he was doing is he was calculating the electric and magnetic fields around a
+[00:02:16 -> 00:02:22]  plane. And they were doing it so that they could model very accurately the communication
+[00:02:22 -> 00:02:27]  system of the plane. So there was some company that built planes, and they asked our university,
+[00:02:27 -> 00:02:31]  can you model the electric and magnetic fields around a plane? And what you had to do,
+[00:02:32 -> 00:02:38]  you had to evaluate these kinds of integrals, and things similar to that. I can tell you that
+[00:02:38 -> 00:02:44]  he would start a program running on a supercomputer, and two months later we would get an answer.
+[00:02:46 -> 00:02:52]  So, actually when you have this answer written in terms of an integral and a sum,
+[00:02:53 -> 00:02:59]  sometimes that's not the most useful way of expressing the answer. So what we would like
+[00:02:59 -> 00:03:04]  to do now, even though we've answered our original question, we want to try to develop
+[00:03:04 -> 00:03:10]  some better ways of thinking about the electric field. And in fact we're going to write down
+[00:03:10 -> 00:03:16]  some equations, and what those equations will describe is the geometry of the field lines.
+[00:03:16 -> 00:03:20]  Of the electric field. So we're now going to, you know, think about the electric field,
+[00:03:20 -> 00:03:25]  develop another description that's got a bit more physics in it, and a bit more insight into it.
+[00:03:25 -> 00:03:29]  So to do that, we're going to need a little bit of mathematics.
+[00:03:31 -> 00:03:37]  So the math that we will need, we're going to start studying this operator.
+[00:03:37 -> 00:03:45]  So it's called nabla. It is x hat, and a partial derivative with respect to x,
+[00:03:46 -> 00:03:55]  plus y hat, a partial derivative with respect to y, plus z hat, and a partial derivative with
+[00:03:55 -> 00:04:02]  respect to z. It is a vector, it's got an x hat, a y hat, and a z hat component, but at the same
+[00:04:02 -> 00:04:09]  time it's also an operator. It acts by differentiating functions. So it's both a vector and an operator.
+[00:04:14 -> 00:04:16]  What kinds of things can you do with a vector?
+[00:04:18 -> 00:04:23]  I can multiply a vector with a scalar, right? So one of the things I should expect I can do,
+[00:04:24 -> 00:04:29]  I can take my nabla, and I can act on
+[00:04:33 -> 00:04:35]  a scalar field. That's one of the things I should be able to do.
+[00:04:36 -> 00:04:44]  If I've got two vectors, what can I do with them? Take a dot product or cross product. So
+[00:04:45 -> 00:04:50]  I should be able to take a vector field, and take a dot product with a vector field,
+[00:04:50 -> 00:04:57]  I should be able to take a cross product with a vector field. So these are natural things,
+[00:04:57 -> 00:05:03]  knowing that it's a vector, these are natural things that I should try to do with my
+[00:05:04 -> 00:05:08]  new object nabla. So this is what we're going to explore today.
+[00:05:09 -> 00:05:14]  And we're going to specifically explore this one, which is called the divergence
+[00:05:14 -> 00:05:30]  of V, and I think today we'll also start to explore this one, which is called the curl of V.
+[00:05:36 -> 00:05:39]  Okay, now I would like to draw some pictures.
+[00:05:40 -> 00:05:49]  So first of all, let's take V1, and let's imagine that it's the following vector field.
+[00:05:49 -> 00:06:00]  So V1 is equal to x, x hat, plus y, y hat. So I'm imagining it doesn't point in the z direction,
+[00:06:00 -> 00:06:05]  and it doesn't depend on the z direction, okay? And this is just for simplicity, it's going to
+[00:06:05 -> 00:06:08]  mean that we land up working in two dimensions where we can really visualise things.
+[00:06:09 -> 00:06:12]  So I'm just going to pick some value for z, it doesn't matter what value.
+[00:06:16 -> 00:06:21]  So this picture that I'm drawing has all the same value for z. You might say z is not,
+[00:06:21 -> 00:06:29]  so this is a picture of z is not. What does vary on this plane is x and y. So points on this plane
+[00:06:30 -> 00:06:37]  are given by an x, y value, they all have z is not. We have x hat pointing that way,
+[00:06:37 -> 00:06:44]  and y hat pointing that way. Now what I would like to do, I want to draw V1.
+[00:06:44 -> 00:06:48]  Now what I would like to do, I want to draw V1.
+[00:06:55 -> 00:06:57]  So I'll go to this point here.
+[00:06:58 -> 00:07:14]  So at this point here, x is 1. If x is 1 and y is 0, if I plug in x as 1 and y as 0, what is V1?
+[00:07:14 -> 00:07:24]  x hat. So I will just get a vector here, pointing in the x hat direction with a length of 1.
+[00:07:25 -> 00:07:36]  If I go to this point, here x is 2 and y is 0. So what is V1? 2x hat.
+[00:07:37 -> 00:07:40]  Here I have y as 1. What does the vector field look like?
+[00:07:42 -> 00:07:46]  y is 1, x is? V1 is?
+[00:07:50 -> 00:07:54]  Over here, 2y hat. What about over here?
+[00:07:54 -> 00:07:56]  What will the field look like here?
+[00:07:58 -> 00:08:00]  Here?
+[00:08:04 -> 00:08:10]  Good, so that's what it looks like. Here it would point out like that, here it would point out like that.
+[00:08:12 -> 00:08:14]  Here it would point out like that, here it would point out like that.
+[00:08:14 -> 00:08:18]  Good, so that's what it looks like. Here it would point out like that, here it would point out like that, here it would point out like that.
+[00:08:20 -> 00:08:22]  So that's the picture of V1.
+[00:08:24 -> 00:08:26]  I want you guys now to draw the picture for V2.
+[00:08:28 -> 00:08:30]  And let's take V2 to be
+[00:08:30 -> 00:08:32]  I want you guys now to draw the picture for V2.
+[00:08:34 -> 00:08:36]  And let's take V2 to be
+[00:08:44 -> 00:08:54]  y times x hat minus x times y hat.
+[00:08:54 -> 00:08:58]  So I want you guys to plot that vector field on your page.
+[00:09:00 -> 00:09:02]  So I want you guys to plot that vector field on your page.
+[00:09:30 -> 00:09:32]  Good.
+[00:10:00 -> 00:10:02]  Good.
+[00:10:16 -> 00:10:18]  Okay, can anyone tell me what the field looks like at this point, x is 1?
+[00:10:22 -> 00:10:24]  Which way does it point?
+[00:10:24 -> 00:10:26]  Up?
+[00:10:26 -> 00:10:28]  Down.
+[00:10:28 -> 00:10:30]  At x is 1 it points?
+[00:10:30 -> 00:10:32]  Down.
+[00:10:32 -> 00:10:34]  Because y is 0, x is 1, so it's minus y hat.
+[00:10:34 -> 00:10:36]  Because y is 0, x is 1, so it's minus y hat.
+[00:10:36 -> 00:10:38]  Good.
+[00:10:38 -> 00:10:40]  Down.
+[00:10:40 -> 00:10:42]  What about here?
+[00:10:48 -> 00:10:50]  y is?
+[00:10:50 -> 00:10:52]  No, y is?
+[00:10:52 -> 00:10:54]  Minus 1.
+[00:10:54 -> 00:10:56]  What is x?
+[00:10:56 -> 00:10:58]  x is 0.
+[00:10:58 -> 00:11:00]  x is 0, y is?
+[00:11:00 -> 00:11:02]  Minus 1.
+[00:11:02 -> 00:11:04]  It's minus x hat.
+[00:11:04 -> 00:11:06]  It's minus x hat.
+[00:11:08 -> 00:11:10]  Yeah?
+[00:11:10 -> 00:11:12]  x is up.
+[00:11:16 -> 00:11:18]  And if you go here, they get bigger.
+[00:11:18 -> 00:11:20]  And if you go here, they get bigger.
+[00:11:20 -> 00:11:22]  But the direction is the same.
+[00:11:22 -> 00:11:24]  But the direction is the same.
+[00:11:24 -> 00:11:26]  Even bigger.
+[00:11:30 -> 00:11:32]  But the direction is the same.
+[00:11:32 -> 00:11:34]  Yeah, that's circling around.
+[00:11:34 -> 00:11:36]  And that's exactly the right
+[00:11:36 -> 00:11:38]  intuition to take.
+[00:11:38 -> 00:11:40]  You might think of each of these arrows
+[00:11:40 -> 00:11:42]  as the velocities of some particles
+[00:11:42 -> 00:11:44]  that are moving.
+[00:11:44 -> 00:11:46]  And here, what are the particles doing?
+[00:11:46 -> 00:11:48]  They're spinning around, right?
+[00:11:48 -> 00:11:50]  Here, what are the particles doing?
+[00:11:50 -> 00:11:52]  They're spreading out.
+[00:11:52 -> 00:11:54]  Good.
+[00:11:54 -> 00:11:56]  Very good.
+[00:11:56 -> 00:11:58]  So here the particles are spreading,
+[00:11:58 -> 00:12:00]  there they are circling.
+[00:12:00 -> 00:12:02]  Diverge
+[00:12:02 -> 00:12:04]  is an English word.
+[00:12:04 -> 00:12:06]  Can someone tell me
+[00:12:06 -> 00:12:08]  what does diverge mean?
+[00:12:10 -> 00:12:12]  Me and my friend,
+[00:12:12 -> 00:12:14]  we took paths that diverged.
+[00:12:14 -> 00:12:16]  What does that mean?
+[00:12:16 -> 00:12:18]  My path went this way
+[00:12:19 -> 00:12:21]  and his path went
+[00:12:21 -> 00:12:23]  that way.
+[00:12:23 -> 00:12:25]  That's what it means to diverge.
+[00:12:25 -> 00:12:27]  Good.
+[00:12:27 -> 00:12:29]  Now, let's calculate
+[00:12:29 -> 00:12:31]  the divergence of
+[00:12:31 -> 00:12:33]  V1.
+[00:12:39 -> 00:12:41]  So let's do this first one
+[00:12:41 -> 00:12:43]  in detail, and you'll see
+[00:12:43 -> 00:12:45]  it's just the usual rules of using vectors.
+[00:12:45 -> 00:12:47]  So for now that we know
+[00:12:47 -> 00:12:49]  it's
+[00:12:49 -> 00:12:51]  x hat d by dx
+[00:12:51 -> 00:12:53]  plus y hat d
+[00:12:53 -> 00:12:55]  by dy plus
+[00:12:55 -> 00:12:57]  z hat d by dz
+[00:12:57 -> 00:12:59]  dotted into
+[00:13:03 -> 00:13:05]  x x hat plus
+[00:13:05 -> 00:13:07]  y y hat.
+[00:13:07 -> 00:13:09]  Good.
+[00:13:17 -> 00:13:19]  Now, when I do this multiplication
+[00:13:19 -> 00:13:21]  I multiply as usual, so I need to say
+[00:13:21 -> 00:13:23]  this into that plus this
+[00:13:23 -> 00:13:25]  into that, then the next term.
+[00:13:25 -> 00:13:27]  This into that, that into that.
+[00:13:27 -> 00:13:29]  The usual distributive property.
+[00:13:29 -> 00:13:31]  When I multiply
+[00:13:31 -> 00:13:33]  there's two things going on.
+[00:13:33 -> 00:13:35]  There's one piece which is the vectors
+[00:13:35 -> 00:13:37]  I should take the dot product
+[00:13:37 -> 00:13:39]  and then I have the derivative acting.
+[00:13:39 -> 00:13:41]  So the first thing that I'm going to do
+[00:13:41 -> 00:13:43]  is multiply the vectors with the dot product.
+[00:13:43 -> 00:13:45]  So I have
+[00:13:45 -> 00:13:47]  x hat dotted
+[00:13:47 -> 00:13:49]  into x hat. What does that give me?
+[00:13:49 -> 00:13:51]  One.
+[00:13:51 -> 00:13:53]  Then I have d by dx acting
+[00:13:53 -> 00:13:55]  on x. What does that give me?
+[00:13:55 -> 00:13:57]  One. One times one is?
+[00:13:57 -> 00:13:59]  You guys are great.
+[00:14:01 -> 00:14:03]  So that's the first term. One.
+[00:14:05 -> 00:14:07]  Plus
+[00:14:07 -> 00:14:09]  x hat dot y hat
+[00:14:11 -> 00:14:13]  plus
+[00:14:13 -> 00:14:15]  y hat dot x hat
+[00:14:17 -> 00:14:19]  plus y hat
+[00:14:19 -> 00:14:21]  dot y hat
+[00:14:21 -> 00:14:23]  d by dy times y
+[00:14:27 -> 00:14:29]  Don't be too eager.
+[00:14:29 -> 00:14:31]  One. One times one
+[00:14:33 -> 00:14:35]  plus
+[00:14:35 -> 00:14:37]  z hat dot x hat
+[00:14:39 -> 00:14:41]  z hat dot y hat
+[00:14:43 -> 00:14:45]  One plus naught plus naught
+[00:14:45 -> 00:14:47]  plus one plus naught plus naught
+[00:14:47 -> 00:14:49]  Great.
+[00:14:49 -> 00:14:51]  Two.
+[00:14:51 -> 00:14:53]  So that's what we got.
+[00:14:53 -> 00:14:55]  The divergence of this field is two.
+[00:14:55 -> 00:14:57]  I want you guys
+[00:14:57 -> 00:14:59]  I want you guys to work out now
+[00:14:59 -> 00:15:01]  on your page
+[00:15:03 -> 00:15:05]  What is the divergence of V2?
+[00:15:07 -> 00:15:09]  Do it!
+[00:15:27 -> 00:15:29]  Do it!
+[00:15:57 -> 00:15:59]  Do it!
+[00:16:27 -> 00:16:29]  Do it!
+[00:16:51 -> 00:16:53]  Okay guys, what did you get for the divergence of V2?
+[00:16:53 -> 00:16:55]  Zero. Good.
+[00:16:55 -> 00:16:57]  Divergence of V2 is zero.
+[00:16:57 -> 00:16:59]  That's perfect.
+[00:16:59 -> 00:17:01]  Now, look at this.
+[00:17:01 -> 00:17:03]  In this situation
+[00:17:03 -> 00:17:05]  the particles really are moving away
+[00:17:05 -> 00:17:07]  from each other.
+[00:17:07 -> 00:17:09]  The divergence is positive.
+[00:17:09 -> 00:17:11]  In this situation the particles are not moving
+[00:17:11 -> 00:17:13]  away from each other. They're just circulating
+[00:17:13 -> 00:17:15]  around. The divergence is
+[00:17:15 -> 00:17:17]  zero.
+[00:17:17 -> 00:17:19]  What would happen if the divergence is negative?
+[00:17:21 -> 00:17:23]  The particles are moving towards each other.
+[00:17:23 -> 00:17:25]  So when you calculate the divergence
+[00:17:25 -> 00:17:27]  you learn
+[00:17:27 -> 00:17:29]  about
+[00:17:29 -> 00:17:31]  the particles, or you can think about the electric field
+[00:17:31 -> 00:17:33]  lines. This will hold for the electric field lines too.
+[00:17:33 -> 00:17:35]  You learn are the electric
+[00:17:35 -> 00:17:37]  field lines moving away
+[00:17:37 -> 00:17:39]  from each other? Are they coming
+[00:17:39 -> 00:17:41]  towards each other? Or are they
+[00:17:41 -> 00:17:43]  just circulating around?
+[00:17:43 -> 00:17:45]  So by calculating the divergence
+[00:17:45 -> 00:17:47]  of the electric field, we're able
+[00:17:47 -> 00:17:49]  to now start making statements about the
+[00:17:49 -> 00:17:51]  geometry of the electric field lines.
+[00:17:51 -> 00:17:53]  And we want to write down a set of equations
+[00:17:53 -> 00:17:55]  for the geometry of the field lines
+[00:17:55 -> 00:17:57]  that will determine the field lines completely.
+[00:17:57 -> 00:17:59]  One of the things that we
+[00:17:59 -> 00:18:01]  will use is the divergence of the
+[00:18:01 -> 00:18:03]  electric field.
+[00:18:03 -> 00:18:05]  Good. Now,
+[00:18:05 -> 00:18:07]  in fact, you've got a nice
+[00:18:07 -> 00:18:09]  intuitive picture of the divergence
+[00:18:09 -> 00:18:11]  and the picture that you've got is
+[00:18:11 -> 00:18:13]  the correct one. But it's a little
+[00:18:13 -> 00:18:15]  bit more subtle than
+[00:18:15 -> 00:18:17]  what I've said here. So let's
+[00:18:17 -> 00:18:19]  now take a look at divergence
+[00:18:19 -> 00:18:21]  and develop it so that you've really
+[00:18:21 -> 00:18:23]  got the full story.
+[00:18:23 -> 00:18:25]  This picture, keep in
+[00:18:25 -> 00:18:27]  your minds. This is the right picture to have.
+[00:18:27 -> 00:18:29]  But it's a little bit more subtle and let me
+[00:18:29 -> 00:18:31]  explain why.
+[00:18:43 -> 00:18:45]  I again want to consider two
+[00:18:45 -> 00:18:47]  electric fields
+[00:18:47 -> 00:18:49]  or two vector fields
+[00:18:49 -> 00:18:51]  and I again want you to calculate the divergence.
+[00:18:51 -> 00:18:53]  But the vector fields that I want to consider now
+[00:18:53 -> 00:18:55]  are the following.
+[00:19:07 -> 00:19:09]  Let's maybe call one of them
+[00:19:09 -> 00:19:11]  u1.
+[00:19:11 -> 00:19:13]  And let's say
+[00:19:13 -> 00:19:15]  it is equal to
+[00:19:15 -> 00:19:17]  x times
+[00:19:17 -> 00:19:19]  pi x hat.
+[00:19:19 -> 00:19:21]  No y hat component,
+[00:19:21 -> 00:19:23]  just an x component.
+[00:19:27 -> 00:19:29]  So if we want to draw
+[00:19:29 -> 00:19:31]  u
+[00:19:31 -> 00:19:33]  on this line
+[00:19:33 -> 00:19:35]  over here, what does u look like?
+[00:19:35 -> 00:19:37]  It's just
+[00:19:37 -> 00:19:39]  the zero vector. Everyone agree?
+[00:19:40 -> 00:19:42]  Because on this line over here
+[00:19:42 -> 00:19:44]  x is 0.
+[00:19:44 -> 00:19:46]  On this line over here where x is 1,
+[00:19:46 -> 00:19:48]  what does the vector field look like?
+[00:19:50 -> 00:19:52]  Length 1.
+[00:19:56 -> 00:19:58]  On this line over here
+[00:19:58 -> 00:20:00]  where the vector field is 2, what does the
+[00:20:00 -> 00:20:02]  vector field look like?
+[00:20:02 -> 00:20:04]  Length 2.
+[00:20:10 -> 00:20:12]  And now I want you to think
+[00:20:14 -> 00:20:16]  about the following.
+[00:20:18 -> 00:20:20]  Imagine that these lines
+[00:20:20 -> 00:20:22]  tell us the speed
+[00:20:22 -> 00:20:24]  of some water particles.
+[00:20:24 -> 00:20:26]  So those are the
+[00:20:26 -> 00:20:28]  velocities of water, so there's some water
+[00:20:28 -> 00:20:30]  going past.
+[00:20:30 -> 00:20:32]  And I'm going to put a screen here.
+[00:20:36 -> 00:20:38]  So here is a screen and I want you to measure
+[00:20:38 -> 00:20:40]  how much water goes past this screen.
+[00:20:40 -> 00:20:42]  Think about how much
+[00:20:42 -> 00:20:44]  water goes past. You've got the velocity
+[00:20:44 -> 00:20:46]  of all of these water particles.
+[00:20:46 -> 00:20:48]  They're not moving that fast at each
+[00:20:48 -> 00:20:50]  point past the screen. That's how
+[00:20:50 -> 00:20:52]  fast the water is moving.
+[00:20:52 -> 00:20:54]  Now look at this point.
+[00:20:56 -> 00:20:58]  The water is moving much faster
+[00:20:58 -> 00:21:00]  past this screen. Do you agree?
+[00:21:02 -> 00:21:04]  So between this screen and this screen
+[00:21:04 -> 00:21:06]  there must be some water that's
+[00:21:06 -> 00:21:08]  being added to the system.
+[00:21:10 -> 00:21:12]  If you measure the amount of water going past
+[00:21:12 -> 00:21:14]  this screen, the particles are moving
+[00:21:14 -> 00:21:16]  with a speed of 1
+[00:21:16 -> 00:21:18]  meter per second.
+[00:21:18 -> 00:21:20]  If you measure the amount of water passing
+[00:21:20 -> 00:21:22]  through past this screen, the particles
+[00:21:22 -> 00:21:24]  are moving with a speed of 2
+[00:21:24 -> 00:21:26]  meters per second. So over here
+[00:21:26 -> 00:21:28]  you know the river is flowing quite
+[00:21:28 -> 00:21:30]  slowly. Over here
+[00:21:30 -> 00:21:32]  the river is flowing twice as fast.
+[00:21:32 -> 00:21:34]  In between
+[00:21:34 -> 00:21:36]  these two points there must be some
+[00:21:36 -> 00:21:38]  water that you're putting into the system.
+[00:21:38 -> 00:21:40]  Because there's more water flowing
+[00:21:40 -> 00:21:42]  past this point where the water is
+[00:21:42 -> 00:21:44]  flowing twice as fast as
+[00:21:44 -> 00:21:46]  it is past this point
+[00:21:46 -> 00:21:48]  where the water is flowing more slowly.
+[00:21:48 -> 00:21:50]  Is everybody happy with that?
+[00:21:50 -> 00:21:52]  Anyone who's not
+[00:21:52 -> 00:21:54]  happy would like me to say it again.
+[00:21:54 -> 00:21:56]  Now happily say it again if you want.
+[00:21:56 -> 00:21:58]  Good.
+[00:21:58 -> 00:22:00]  No.
+[00:22:00 -> 00:22:02]  Like what?
+[00:22:02 -> 00:22:04]  Okay, so
+[00:22:04 -> 00:22:06]  if there was slope
+[00:22:06 -> 00:22:08]  then when the water ran faster
+[00:22:08 -> 00:22:10]  you would see that the river
+[00:22:10 -> 00:22:12]  has to get thinner.
+[00:22:12 -> 00:22:14]  Because if you are
+[00:22:14 -> 00:22:16]  if there's the same amount of water
+[00:22:16 -> 00:22:18]  flowing but each particle is moving
+[00:22:18 -> 00:22:20]  faster, it means the area
+[00:22:20 -> 00:22:22]  that the water's flowing through
+[00:22:22 -> 00:22:24]  must have decreased.
+[00:22:24 -> 00:22:26]  In this situation
+[00:22:26 -> 00:22:28]  in this situation
+[00:22:28 -> 00:22:30]  in the z direction
+[00:22:30 -> 00:22:32]  nothing changes because nothing depends
+[00:22:32 -> 00:22:34]  on z. So imagine here
+[00:22:34 -> 00:22:36]  in this wall, everywhere on that wall
+[00:22:36 -> 00:22:38]  there's water flowing with
+[00:22:38 -> 00:22:40]  velocity v.
+[00:22:40 -> 00:22:42]  And then everywhere on this wall
+[00:22:42 -> 00:22:44]  there is water flowing with velocity 2v
+[00:22:44 -> 00:22:46]  at every point.
+[00:22:46 -> 00:22:48]  Past this wall
+[00:22:48 -> 00:22:50]  if you want to get the amount of water that's flowing
+[00:22:50 -> 00:22:52]  you need to take that area
+[00:22:52 -> 00:22:54]  and multiply it by the volume.
+[00:22:54 -> 00:22:56]  For that wall you need to take
+[00:22:56 -> 00:22:58]  that area, sorry
+[00:22:58 -> 00:23:00]  you need to take this area and multiply
+[00:23:00 -> 00:23:02]  it by the velocity that the water's flowing at.
+[00:23:02 -> 00:23:04]  For that wall you take that
+[00:23:04 -> 00:23:06]  area and multiply it by the velocity.
+[00:23:06 -> 00:23:08]  And because the water's passing
+[00:23:08 -> 00:23:10]  that wall slower than
+[00:23:10 -> 00:23:12]  it is passing this wall
+[00:23:12 -> 00:23:14]  there must be more water flowing here than there is
+[00:23:14 -> 00:23:16]  flowing past there. Happy with that?
+[00:23:16 -> 00:23:18]  Good.
+[00:23:18 -> 00:23:20]  Happy? Good.
+[00:23:20 -> 00:23:22]  I feel slightly unhappy
+[00:23:22 -> 00:23:24]  Just think of the dimensions
+[00:23:24 -> 00:23:26]  Area times velocity
+[00:23:26 -> 00:23:28]  times volume per second
+[00:23:28 -> 00:23:30]  So the volume here
+[00:23:30 -> 00:23:32]  the volume there
+[00:23:32 -> 00:23:34]  the volume per second here
+[00:23:34 -> 00:23:36]  is more than
+[00:23:36 -> 00:23:38]  Exactly. Yep.
+[00:23:38 -> 00:23:40]  Now
+[00:23:40 -> 00:23:42]  what that means is in the middle here
+[00:23:42 -> 00:23:44]  there must be more water particles
+[00:23:44 -> 00:23:46]  being injected into the system.
+[00:23:46 -> 00:23:48]  Does everyone agree? So there's more water
+[00:23:48 -> 00:23:50]  being put in.
+[00:23:50 -> 00:23:52]  Now I want you guys to calculate
+[00:23:52 -> 00:23:54]  I want to know
+[00:23:54 -> 00:23:56]  what is the divergence
+[00:23:56 -> 00:23:58]  of U1?
+[00:24:00 -> 00:24:02]  One?
+[00:24:02 -> 00:24:04]  Good.
+[00:24:04 -> 00:24:06]  The divergence of U1 is one.
+[00:24:06 -> 00:24:08]  See you guys only started doing
+[00:24:08 -> 00:24:10]  divergences ten minutes
+[00:24:10 -> 00:24:12]  ago. And now
+[00:24:12 -> 00:24:14]  you're already doing them in your heads.
+[00:24:14 -> 00:24:16]  That's great.
+[00:24:16 -> 00:24:18]  The divergence is one and yet
+[00:24:18 -> 00:24:20]  it doesn't look like the particles are moving away
+[00:24:20 -> 00:24:22]  from each other, right? They're all moving next
+[00:24:22 -> 00:24:24]  to each other. What this divergence
+[00:24:24 -> 00:24:26]  is actually measuring is
+[00:24:26 -> 00:24:28]  how much extra
+[00:24:28 -> 00:24:30]  particles are being put
+[00:24:30 -> 00:24:32]  into the system.
+[00:24:32 -> 00:24:34]  And here at each
+[00:24:34 -> 00:24:36]  point we're putting in the same
+[00:24:36 -> 00:24:38]  number of particles. So it's telling
+[00:24:38 -> 00:24:40]  us about the source.
+[00:24:42 -> 00:24:44]  Where the particles are coming
+[00:24:44 -> 00:24:46]  from. The source of
+[00:24:46 -> 00:24:48]  the field.
+[00:24:48 -> 00:24:50]  So it could be the source
+[00:24:50 -> 00:24:52]  of the water particles. There's a tap
+[00:24:52 -> 00:24:54]  that's putting water into the system.
+[00:24:54 -> 00:24:56]  Let's do another one.
+[00:24:58 -> 00:25:00]  Let's now say that
+[00:25:00 -> 00:25:02]  U2
+[00:25:02 -> 00:25:04]  is equal to
+[00:25:04 -> 00:25:06]  x hat. In this case
+[00:25:06 -> 00:25:08]  the field
+[00:25:08 -> 00:25:10]  looks the same everywhere.
+[00:25:16 -> 00:25:18]  So
+[00:25:32 -> 00:25:34]  if we look at any particular screen
+[00:25:34 -> 00:25:36]  here, the amount of
+[00:25:36 -> 00:25:38]  water passing each screen is exactly
+[00:25:38 -> 00:25:40]  the same. Does everyone agree?
+[00:25:40 -> 00:25:42]  Because the speed is the same.
+[00:25:42 -> 00:25:44]  How many particles are being added to
+[00:25:44 -> 00:25:46]  this system? None.
+[00:25:50 -> 00:25:52]  What's the divergence of
+[00:25:52 -> 00:25:54]  U2? Zero.
+[00:25:54 -> 00:25:56]  Absolutely. Good.
+[00:25:56 -> 00:25:58]  That's it. That's the complete story of the divergence.
+[00:25:58 -> 00:26:00]  So the right
+[00:26:00 -> 00:26:02]  intuitive picture is that the field
+[00:26:02 -> 00:26:04]  lines move away from each other, but
+[00:26:04 -> 00:26:06]  what it's actually telling you is
+[00:26:06 -> 00:26:08]  what is the source of that field.
+[00:26:08 -> 00:26:10]  Can you guys tell me
+[00:26:10 -> 00:26:12]  what is the source of the electric field?
+[00:26:12 -> 00:26:14]  Charge.
+[00:26:14 -> 00:26:16]  It's charge that sets up the
+[00:26:16 -> 00:26:18]  electric field. Everyone agree?
+[00:26:18 -> 00:26:20]  What we're going to learn is that one of
+[00:26:20 -> 00:26:22]  Maxwell's equations says
+[00:26:24 -> 00:26:26]  the divergence of the electric field
+[00:26:26 -> 00:26:28]  on this side you would expect
+[00:26:28 -> 00:26:30]  charge. It actually turns out
+[00:26:30 -> 00:26:32]  to be charge density
+[00:26:32 -> 00:26:34]  over epsilon naught.
+[00:26:34 -> 00:26:36]  Constant. So that's
+[00:26:36 -> 00:26:38]  one of the equations that we're going to get. And you can see
+[00:26:38 -> 00:26:40]  this looks very natural because
+[00:26:41 -> 00:26:43]  the charge is the source
+[00:26:43 -> 00:26:45]  for the electric field.
+[00:26:45 -> 00:26:47]  Okay? Good.
+[00:26:47 -> 00:26:49]  So that's divergence.
+[00:26:49 -> 00:26:51]  Any questions on divergence?
+[00:26:51 -> 00:26:53]  Good.

@@ -1,0 +1,598 @@
+[00:00:00 -> 00:00:14]  Welcome to New Planet School. We're going to do a little more trigonometry. In this video what we're going to do is focus on a very central concept in trigonometry which is called the unit circle.
+[00:00:14 -> 00:00:26]  This is a key concept that helps us define a lot of the trigonometric functions and make lots of interesting connections to the different parts of trigonometry.
+[00:00:26 -> 00:00:34]  I would consider this to be one of the more important concepts so take your time. We'll go through this slowly and make sure that you understand it.
+[00:00:34 -> 00:00:45]  So let's get started. So who cares about the unit circle? Trust me that if you understand this video you will definitely understand trigonometry better.
+[00:00:45 -> 00:00:53]  You will not have to memorize things as much. You will see the connections between different concepts in trigonometry and so forth.
+[00:00:53 -> 00:01:02]  Often people want you to look at a unit circle and memorize certain facts about it. That's great if that helps you.
+[00:01:02 -> 00:01:09]  Here we'll try to understand how the unit circle helps you understand trigonometry. It's better to understand it.
+[00:01:09 -> 00:01:16]  It will obviously then make it much easier to memorize anything that you want to memorize about the unit circle.
+[00:01:16 -> 00:01:27]  It will also help you remember useful trigonometric relationships because if you can write down the unit circle and quickly label a bunch of points and angles
+[00:01:27 -> 00:01:31]  you can therefore remember a whole bunch of different relationships.
+[00:01:31 -> 00:01:37]  And finally it will help you graph the basic trigonometric functions sine and cosine and tangent.
+[00:01:37 -> 00:01:43]  It's very easy if you can just draw the unit circle you can figure out the basic trigonometric functions
+[00:01:43 -> 00:01:47]  and you can figure out how to graph them and how they are related and so forth.
+[00:01:47 -> 00:01:52]  So it's basically a tool that will help you connect all of these concepts.
+[00:01:52 -> 00:01:57]  So let's get started. So obviously we are starting off with the unit circle.
+[00:01:57 -> 00:02:02]  What you see here in yellow is obviously a circle. That's pretty simple.
+[00:02:02 -> 00:02:07]  And the points as you go around the circle have a value here.
+[00:02:07 -> 00:02:14]  This point is 1, 0. This point up here is 0, 1. This point here is minus 1, 0.
+[00:02:14 -> 00:02:17]  And this point here is 0, minus 1.
+[00:02:17 -> 00:02:27]  And what you notice is that the length from this origin to any point on this circle has a length of 1.
+[00:02:27 -> 00:02:33]  Obviously this has a length of 1. This has a length of 1. This has a length of 1 and so forth.
+[00:02:33 -> 00:02:35]  And of course that's why it's called the unit circle.
+[00:02:35 -> 00:02:41]  Lots of other circles but this is the one that we are going to be talking about today is the unit circle.
+[00:02:41 -> 00:02:47]  Okay, so let's talk about the definition of a circle before we even get to trigonometry.
+[00:02:47 -> 00:02:50]  What do we know about circles in general?
+[00:02:50 -> 00:02:53]  So what we can do, what do we know?
+[00:02:53 -> 00:02:58]  What we know is this is a circle and so therefore we can write certain things.
+[00:02:58 -> 00:03:04]  If this is a point x, y on the circle, some arbitrary point,
+[00:03:04 -> 00:03:12]  one of the things that we know right away is that x squared plus y squared equals the radius squared.
+[00:03:12 -> 00:03:20]  That's the general formula that describes a circle that's centered at the origin.
+[00:03:20 -> 00:03:23]  In our case we have a unit circle.
+[00:03:23 -> 00:03:30]  So for us one of the things we know is x squared plus y squared equals 1 because that's our radius.
+[00:03:30 -> 00:03:37]  So for our particular circle we have this very simple relationship and this describes all of the points here.
+[00:03:37 -> 00:03:41]  So you can check it here. Let's just check this point.
+[00:03:41 -> 00:03:48]  x squared is 1 squared plus y is 0. 0 squared and of course that equals 1.
+[00:03:48 -> 00:03:55]  Same thing here. 0 squared plus minus 1 squared equals 1.
+[00:03:55 -> 00:04:01]  And you can check all the points and of course all of the points in between also satisfy this relationship.
+[00:04:01 -> 00:04:05]  So if you're ever confused about how to find a point on this circle,
+[00:04:05 -> 00:04:10]  one of the things you know is it will satisfy this particular relationship.
+[00:04:10 -> 00:04:15]  And that of course is the definition of a unit circle.
+[00:04:15 -> 00:04:23]  So one way to check yourself if you think you want to know what this point is right here on the circle
+[00:04:23 -> 00:04:26]  and you want to check it to make sure that it makes sense,
+[00:04:26 -> 00:04:31]  make sure it satisfies this because that's the definition of a unit circle.
+[00:04:31 -> 00:04:34]  So it's not something that we'll use over and over.
+[00:04:34 -> 00:04:42]  And it's a good way to check your work and to check the angles and points on the circle that we'll be coming up with shortly.
+[00:04:42 -> 00:04:45]  Okay. That's a unit circle. Let's talk about angles.
+[00:04:45 -> 00:04:49]  Angles are really important. So let's talk about that.
+[00:04:49 -> 00:04:54]  We could use degrees and of course you remember degrees.
+[00:04:54 -> 00:04:59]  You usually measure things in terms of like here I have a protractor.
+[00:04:59 -> 00:05:08]  This is 0 degrees. Here's 45 degrees. Here's 90 degrees and so forth.
+[00:05:08 -> 00:05:11]  This is obviously 180. It got kind of cut off.
+[00:05:11 -> 00:05:16]  And if you kept on going you would get to 270 degrees down here.
+[00:05:16 -> 00:05:20]  And if you go all the way around a circle you get to 360 degrees.
+[00:05:20 -> 00:05:28]  Now you probably know all of this because we use things like a 180 or he did a 360.
+[00:05:28 -> 00:05:33]  And you understand these concepts of degrees because we use this in everyday life.
+[00:05:33 -> 00:05:36]  And so you're probably pretty familiar with this.
+[00:05:36 -> 00:05:40]  But in trigonometry we also use something called radians
+[00:05:40 -> 00:05:43]  which is probably something you're not as familiar with.
+[00:05:43 -> 00:05:47]  It's probably a new concept to you. It's a new way of measuring angle.
+[00:05:47 -> 00:05:49]  So what does it do?
+[00:05:49 -> 00:05:51]  Okay. What it does is the following.
+[00:05:51 -> 00:05:54]  Suppose we have here our unit circle.
+[00:05:54 -> 00:05:59]  And what we do is we vary this angle right here.
+[00:05:59 -> 00:06:06]  And as we vary this angle what we do is we measure the length of this arc.
+[00:06:06 -> 00:06:15]  And what we do is we stop when the length of this arc equals the radius.
+[00:06:15 -> 00:06:24]  And when this arc length equals this radius then that angle is by definition 1 radian.
+[00:06:24 -> 00:06:30]  And this is sort of a new concept but it's extremely useful in trigonometry.
+[00:06:30 -> 00:06:36]  And even though you might think in terms of degrees in everyday life,
+[00:06:36 -> 00:06:40]  trust me you're going to want to understand radians and use them.
+[00:06:40 -> 00:06:46]  Go back and think about this and draw it for yourself and try to understand what radians mean.
+[00:06:46 -> 00:06:50]  Let me give you an interesting example.
+[00:06:50 -> 00:06:59]  Suppose this has a radius of 1 and we go all the way around this.
+[00:06:59 -> 00:07:02]  How many radians would that be?
+[00:07:02 -> 00:07:07]  So if this is 0 radians and I go all the way around, how many radians is this?
+[00:07:07 -> 00:07:10]  And we're going to talk about this here shortly.
+[00:07:10 -> 00:07:12]  But that's something to keep in mind.
+[00:07:12 -> 00:07:17]  How many radians as you go all the way around would be equivalent to 360 degrees.
+[00:07:17 -> 00:07:19]  And so let's figure that out.
+[00:07:19 -> 00:07:24]  Okay. So degrees, just to review that again.
+[00:07:24 -> 00:07:27]  Okay. 0 degrees, pretty obvious.
+[00:07:27 -> 00:07:32]  Typically we will measure things from this line right here.
+[00:07:32 -> 00:07:36]  And we'll be going up this way so that would be 0.
+[00:07:36 -> 00:07:40]  Obviously 90 is the perpendicular.
+[00:07:40 -> 00:07:43]  180, I do a 180, I go all the way around.
+[00:07:43 -> 00:07:46]  270, 3 quarters of the way around.
+[00:07:46 -> 00:07:52]  And of course if I go all the way around, I reach 360 degrees and I'm back where I am.
+[00:07:52 -> 00:07:54]  And so then I just start over.
+[00:07:55 -> 00:08:02]  0 again, 90 again, 180 again, 270 again, 360, start over, 90 and so forth.
+[00:08:02 -> 00:08:05]  And so it repeats itself over and over and over again.
+[00:08:05 -> 00:08:07]  So those are the main angles I need to know.
+[00:08:07 -> 00:08:14]  Obviously, it should be obvious that if this is 90, you know, half way should be 45.
+[00:08:14 -> 00:08:20]  And then I can go around, instead of going around by 90s, I can go around by 45s.
+[00:08:20 -> 00:08:22]  And so let me show you what that looks like.
+[00:08:22 -> 00:08:24]  That looks like I have these other degrees.
+[00:08:24 -> 00:08:31]  And so I can draw a unit circle and then in degrees I can quickly fill out all of these angles.
+[00:08:31 -> 00:08:38]  0, 45, 90, 135, 180, 225 and so forth as you go all the way around.
+[00:08:38 -> 00:08:44]  So that's how we can label some of the most important angles on the unit circle in degrees.
+[00:08:44 -> 00:08:46]  Because we're using degrees here.
+[00:08:46 -> 00:08:48]  Now, let's go now to radians.
+[00:08:48 -> 00:08:50]  Now this is a little bit more complicated.
+[00:08:50 -> 00:08:54]  And so let me give you a little trick that will help you always remember how to do radians.
+[00:08:54 -> 00:08:58]  How many radians are there around a circle?
+[00:08:58 -> 00:09:07]  Well, if you happen to remember that the circumference of a circle is 2 pi times the radius.
+[00:09:07 -> 00:09:09]  If you don't know that, now you do.
+[00:09:09 -> 00:09:21]  Therefore, for the circle that we're going to do, we have that the circumference equals 2 pi times the radius, which this is a unit circle.
+[00:09:21 -> 00:09:23]  So that's 1.
+[00:09:23 -> 00:09:25]  So the circumference is 2 pi.
+[00:09:25 -> 00:09:34]  In other words, the distance all the way around this circle has a distance, a circumference of 2 pi.
+[00:09:34 -> 00:09:44]  Now if you remember what the definition of the radian is, it's when the arc length equals the length here.
+[00:09:44 -> 00:09:47]  And that would be that many radians.
+[00:09:47 -> 00:09:56]  So if the arc length is 2 pi as you go all the way around, then the angle as you go around is the same thing.
+[00:09:56 -> 00:09:59]  And therefore, that angle is 2 pi.
+[00:10:00 -> 00:10:08]  And so we automatically know this is 2 pi by using this fact that the circumference of a circle is 2 pi r.
+[00:10:08 -> 00:10:16]  We have a unit circle and a radian has the same number of angles as it has an arc length.
+[00:10:16 -> 00:10:17]  So we just use those facts.
+[00:10:17 -> 00:10:19]  Easy way to remember.
+[00:10:19 -> 00:10:20]  So now I know this is 2 pi.
+[00:10:20 -> 00:10:23]  Therefore, half of it is pi.
+[00:10:23 -> 00:10:26]  Half of that is pi over 2.
+[00:10:26 -> 00:10:32]  And then using that, I can figure out that 3 quarters of the way around is 3 pi over 2.
+[00:10:32 -> 00:10:38]  And so I can instantly figure out using this relationship as a trick.
+[00:10:38 -> 00:10:45]  Not really a trick, but it's really telling us how angles are related to arc length, which is what radians do.
+[00:10:45 -> 00:10:53]  And then of course from there, I can go a quarter of the way around each of these and I get these other angles here.
+[00:10:53 -> 00:10:56]  Pi over 4 is halfway.
+[00:10:56 -> 00:11:01]  If I go halfway between these two angles, I get 3 pi over 4 and so forth.
+[00:11:01 -> 00:11:05]  And so you can then very quickly draw the unit circle.
+[00:11:05 -> 00:11:12]  Remember that 2 pi is all the way around and then you can just figure out what all of the other angles are in radians.
+[00:11:12 -> 00:11:19]  And then of course, it would be useful for you to get a piece of paper and a pen or pencil and draw the unit circle.
+[00:11:19 -> 00:11:23]  And next to all these, write down how many degrees it is.
+[00:11:23 -> 00:11:30]  And that would be a really useful way for you to remember how degrees and radians are connected.
+[00:11:30 -> 00:11:32]  Because the units are really important.
+[00:11:32 -> 00:11:39]  When you're doing trigonometry and you're using a calculator, don't forget to select the right units or you will get the wrong answer.
+[00:11:39 -> 00:11:42]  So keep that in mind. It's a handy little tip.
+[00:11:42 -> 00:11:43]  Okay, so let's move on.
+[00:11:43 -> 00:11:45]  Trigonometric functions.
+[00:11:45 -> 00:11:49]  Now, we have a unit circle. We've been talking about this unit circle here.
+[00:11:49 -> 00:12:01]  And so what we're going to do is we're going to say, we're going to notice that I have this line going up here to this point at some angle theta.
+[00:12:01 -> 00:12:08]  And what I'm going to do is I'm going to ask myself, if this has a point, if the point is at x, y,
+[00:12:08 -> 00:12:15]  in other words, this length is x and this height is y,
+[00:12:15 -> 00:12:25]  if I happen to know what this angle is, could I figure out what x is and could I figure out what y is?
+[00:12:25 -> 00:12:30]  That is really the question of trigonometry and the question of the trigonometric functions.
+[00:12:30 -> 00:12:37]  So let's see if we can figure out at least how to relate x and y to this angle.
+[00:12:37 -> 00:12:43]  So you can imagine that the ultimate goal, what we might want to do is we might want to have a table.
+[00:12:43 -> 00:12:46]  Angle x and y.
+[00:12:46 -> 00:12:56]  And we want to be able to say theta is 0, pi over 4, pi over 2, and so forth.
+[00:12:56 -> 00:12:59]  And we want to know, we want to be able to fill in these particular values.
+[00:12:59 -> 00:13:02]  That would be a very useful thing to be able to do.
+[00:13:02 -> 00:13:06]  And that basically relates this angle to this point.
+[00:13:06 -> 00:13:10]  That is the question we want to answer with trigonometric functions.
+[00:13:10 -> 00:13:16]  Given a theta, how do I get that point, or vice versa, if I have this point, how do I get the angle?
+[00:13:16 -> 00:13:18]  So let's try to figure out how to do that.
+[00:13:18 -> 00:13:27]  So the way we're going to do this is we're going to just define a function called the sine function.
+[00:13:27 -> 00:13:33]  And the sine function is written this way.
+[00:13:33 -> 00:13:38]  This is the sine function, which we abbreviate as sin.
+[00:13:38 -> 00:13:40]  And we don't know what this is yet.
+[00:13:40 -> 00:13:41]  We have no idea what it is.
+[00:13:41 -> 00:13:43]  We're trying to figure that out.
+[00:13:43 -> 00:13:49]  But what we're going to do is we're going to define it to be what's called the opposite over the hypotenuse.
+[00:13:49 -> 00:13:50]  So let's take a look at this.
+[00:13:50 -> 00:13:56]  I'm going to clear this up, and I'm going to explain very precisely what this means.
+[00:13:56 -> 00:14:06]  Remember that the way I've drawn this, this is a right angle.
+[00:14:06 -> 00:14:15]  And therefore, this whole thing is a right triangle.
+[00:14:15 -> 00:14:23]  And because this is a right triangle, this thing over here is the hypotenuse.
+[00:14:23 -> 00:14:26]  So that is a way of just labeling this triangle.
+[00:14:26 -> 00:14:27]  It's a right triangle.
+[00:14:27 -> 00:14:28]  It's one of the simplest triangles.
+[00:14:28 -> 00:14:29]  We know a lot about it.
+[00:14:29 -> 00:14:31]  And in this case, we know the hypotenuse equals 1.
+[00:14:31 -> 00:14:33]  So that's very nice.
+[00:14:33 -> 00:14:36]  That's one of the nice things about using a unit circle.
+[00:14:36 -> 00:14:41]  And now what we're going to do is what we're going to say is this function, whatever it is, we don't know what it is.
+[00:14:41 -> 00:14:42]  We have to figure it out.
+[00:14:42 -> 00:14:55]  But what we will say it is is that the sine of this angle equals the opposite, which notice that equals y, over, divided by the hypotenuse.
+[00:14:55 -> 00:15:04]  So I went from opposite over hypotenuse to the height, which is y, divided by the hypotenuse, which is 1 because it's a unit circle.
+[00:15:04 -> 00:15:06]  Anything divided by 1 is y.
+[00:15:07 -> 00:15:15]  And so what we see is that basically the height here, y, is given by sine of theta.
+[00:15:15 -> 00:15:19]  So let me clear this up and let me try to write this out.
+[00:15:19 -> 00:15:30]  So if we wanted to do theta, x, and y, what we know is whatever y is, is by definition the sine of theta.
+[00:15:30 -> 00:15:41]  Now we don't know what this is yet, but whatever it is, it's the function that if we give it, if we know what the angle is, think about it this way.
+[00:15:41 -> 00:15:44]  We have theta and we stick it into a box.
+[00:15:44 -> 00:15:53]  It does something called the sine function on it, and that will return y in the unit circle, this value.
+[00:15:53 -> 00:16:04]  Similarly, if I do the same thing, I can do the cosine, and I go through the same argument, and the cosine is adjacent divided by the hypotenuse.
+[00:16:04 -> 00:16:13]  So if this is my angle, this is adjacent, which is equal to obviously x, divided by the hypotenuse, which is equal to 1.
+[00:16:13 -> 00:16:19]  And so if you do that, you end up with this relationship, cosine of theta equals x.
+[00:16:19 -> 00:16:29]  So same thing, I have theta, I stick it into some machine that takes the cosine of that, and that cosine function will always give me x.
+[00:16:29 -> 00:16:37]  Again, I still don't know how to do this, I probably have to use a calculator or something to do this, but this is what these functions do.
+[00:16:37 -> 00:16:42]  You give it an angle, and they will give you y, you give it an angle, and it will give you x.
+[00:16:42 -> 00:16:49]  And so from this, through the sine function, you get y, from this, through the cosine function, you get x.
+[00:16:49 -> 00:16:58]  And that is how we're able to connect the angle to this angle right here, to this point.
+[00:16:58 -> 00:17:00]  It's just a definition at this point.
+[00:17:00 -> 00:17:12]  Okay, now, the tangent, which is down here, right down here, is simply defined as the sine over the cosine, which is y over x.
+[00:17:12 -> 00:17:20]  And if you work that out, that is also the opposite over the adjacent.
+[00:17:20 -> 00:17:24]  So let me clean this up a little bit.
+[00:17:24 -> 00:17:35]  So the tangent function, the tangent of theta is the opposite, which is equal to y, divided by the adjacent, which is equal to x.
+[00:17:35 -> 00:17:38]  It's this length divided by this length.
+[00:17:38 -> 00:17:41]  And you can just see that that is the same thing as sine divided by cosine.
+[00:17:41 -> 00:17:48]  So if we happen to want this quantity, we would use our calculator and look up the tangent function.
+[00:17:48 -> 00:17:53]  We would give it an angle, we would do the tangent function.
+[00:17:53 -> 00:18:00]  And the tangent function on the calculator would be called tan, and it will return this particular value.
+[00:18:00 -> 00:18:12]  And so that is how we can relate, again, this is the main point, how to go from this angle to this point using a right triangle.
+[00:18:12 -> 00:18:17]  Okay, so let's just label those.
+[00:18:17 -> 00:18:22]  This is then cosine and tangent, just so you can see it written out.
+[00:18:22 -> 00:18:27]  If this is theta, this is sine theta, and this is cosine theta.
+[00:18:27 -> 00:18:30]  Okay, now, how can you remember this?
+[00:18:30 -> 00:18:37]  Once you've drawn this unit circle out, drawn the right triangle, and remembered all of this, how are you going to be able to remember this?
+[00:18:37 -> 00:18:42]  A simple mnemonic is called SOHCAHTOA, which is something you can just remember.
+[00:18:42 -> 00:18:44]  It has kind of a funny name.
+[00:18:44 -> 00:18:46]  Maybe it sounds like somebody's name.
+[00:18:46 -> 00:18:48]  SOHCAHTOA, easy to remember.
+[00:18:48 -> 00:18:58]  And what it refers to is that sine is opposite over hypotenuse.
+[00:18:58 -> 00:19:01]  That's this, okay.
+[00:19:01 -> 00:19:05]  Cosine is adjacent over hypotenuse.
+[00:19:05 -> 00:19:07]  So let's write that out.
+[00:19:07 -> 00:19:09]  I didn't actually write it out over here.
+[00:19:09 -> 00:19:16]  And tangent is opposite over adjacent, opposite over adjacent.
+[00:19:16 -> 00:19:26]  So if you remember SOHCAHTOA, you can remember this relationship, this relationship for cosine, and this relationship for tangent.
+[00:19:26 -> 00:19:29]  And so that's a nice little trick to figure that out.
+[00:19:29 -> 00:19:51]  But the main point here is simply to remember that what the trigonometric functions are related to the unit circle is how to get from this angle to this value requires these functions that typically you'll use your calculator to figure out.
+[00:19:51 -> 00:19:53]  And so that's the whole idea.
+[00:19:53 -> 00:19:56]  Okay, so let's move on.
+[00:19:56 -> 00:19:57]  Let's take a little break.
+[00:19:57 -> 00:20:02]  That was a lot to learn, and so it's probably good to take a little break.
+[00:20:02 -> 00:20:08]  I don't usually have a break in these videos, but I think this time there's a lot to learn, so let's take a break.
+[00:20:08 -> 00:20:12]  What we're going to do is we're going to do something really easy, because that was kind of complicated.
+[00:20:12 -> 00:20:14]  You probably want to watch that several times.
+[00:20:14 -> 00:20:15]  We're going to do something really easy.
+[00:20:15 -> 00:20:22]  We're going to do 1 plus 1 equals 2, just to clear our heads and do something easy.
+[00:20:22 -> 00:20:31]  What I'm going to show you in this little break is how to write 1 plus 1 equals 2 in probably the most complicated way you can imagine, given things that you already know.
+[00:20:31 -> 00:20:34]  Okay, so what I'm going to do is I'm going to write down these relationships.
+[00:20:34 -> 00:20:41]  So actually what I'm going to do is I'm going to do 1 plus 1 equals 2, but I'm also going to do 1 plus 3 equals 4.
+[00:20:41 -> 00:20:44]  And if 1 plus 3 equals 4, 3 plus 1 equals 4 too.
+[00:20:44 -> 00:20:49]  I might as well go ahead and do these while I'm doing 1 plus 1 equals 2.
+[00:20:49 -> 00:20:52]  Very simple, just arithmetic.
+[00:20:52 -> 00:20:54]  I'm going to try to write this in a complicated way.
+[00:20:54 -> 00:21:07]  What I'm going to do is I'm going to note that any number x, when I take the square root of it and then square it, I just get x back.
+[00:21:07 -> 00:21:14]  So I can actually take these numbers and just put a square root over them and square them.
+[00:21:14 -> 00:21:18]  And I haven't done anything.
+[00:21:18 -> 00:21:23]  And I can write it in this way over here that looks very complicated, but I've done absolutely nothing.
+[00:21:23 -> 00:21:25]  It just looks messy.
+[00:21:25 -> 00:21:31]  Okay, and the next thing I can do is I can say, you know, why don't I clean up the right-hand side?
+[00:21:31 -> 00:21:33]  I'm just going to clean this up.
+[00:21:33 -> 00:21:36]  What I'm going to do is I'm going to take this number, I'm going to divide it through.
+[00:21:36 -> 00:21:41]  This number I'm going to divide it through and this number I'm going to divide it through just to clean it up a little bit.
+[00:21:41 -> 00:21:47]  And I'll write it over here in the lower left corner so that I have this nice set of ones right here.
+[00:21:47 -> 00:21:52]  And then I have on the left-hand side something that's very messy.
+[00:21:52 -> 00:21:55]  Messy, that's what I wanted.
+[00:21:55 -> 00:21:59]  I wanted to figure out a messy way to write this relationship.
+[00:21:59 -> 00:22:01]  And I think I did it.
+[00:22:01 -> 00:22:03]  Now I'm going to even make this a little bit simpler.
+[00:22:03 -> 00:22:10]  Typically, when we write these types of relationships, people tend to not like to have square roots in the denominator.
+[00:22:10 -> 00:22:16]  So they move it up by multiplying the top and bottom by square root of y.
+[00:22:16 -> 00:22:18]  You get this relationship.
+[00:22:18 -> 00:22:24]  So that allows me to remove some of these radicals that are down here.
+[00:22:24 -> 00:22:27]  And these guys I'll just combine.
+[00:22:27 -> 00:22:29]  Okay, so let's see what that looks like.
+[00:22:29 -> 00:22:31]  So what I have is this final relationship.
+[00:22:31 -> 00:22:33]  Very, very beautiful.
+[00:22:33 -> 00:22:36]  It's just 1 plus 1 equals 2.
+[00:22:36 -> 00:22:38]  1 plus 3 equals 4.
+[00:22:38 -> 00:22:40]  3 plus 1 equals 4, rewritten.
+[00:22:40 -> 00:22:41]  Why is it beautiful?
+[00:22:41 -> 00:22:44]  I have all these ones over here.
+[00:22:44 -> 00:22:50]  Notice that they all have 2, 2, 2, 2, 2, and 2.
+[00:22:50 -> 00:22:54]  And then this one has two numbers that are equal to each other.
+[00:22:54 -> 00:22:58]  And then this has a symmetry, 1, 1, and square root of 3, square root of 3.
+[00:22:58 -> 00:23:10]  Now the important thing to note here that's kind of interesting is notice that all of the forms in here take the form of some number squared plus some other number squared equals 1.
+[00:23:10 -> 00:23:12]  So that's kind of an interesting thing.
+[00:23:12 -> 00:23:18]  And so this is something that's fun to do for a little break.
+[00:23:18 -> 00:23:20]  Okay, so back to trigonometry.
+[00:23:20 -> 00:23:24]  That was some arithmetic, sort of an interesting way to write things more complicated.
+[00:23:24 -> 00:23:27]  But let's get back to what we're here for, which is trigonometry.
+[00:23:27 -> 00:23:29]  Okay, so Pythagoras.
+[00:23:29 -> 00:23:40]  Pythagoras, one of the main figures in trigonometry, told us a bunch of really interesting things about triangles, very important things.
+[00:23:40 -> 00:23:44]  And the unit circle is a great way to understand Pythagoras.
+[00:23:44 -> 00:23:49]  So let me show you how Pythagoras and the unit circle are connected.
+[00:23:49 -> 00:23:53]  And this is going to help you really know everything you need to know about the unit circle.
+[00:23:53 -> 00:23:57]  Okay, so let's try to connect several ideas.
+[00:23:57 -> 00:23:59]  First thing is Pythagorean theorem.
+[00:23:59 -> 00:24:03]  And if you haven't seen it yet, I'm just going to tell you what it is.
+[00:24:03 -> 00:24:09]  Later we'll actually do a video on the Pythagorean theorem and prove it and so forth.
+[00:24:09 -> 00:24:12]  But just for today, you don't really care where it came from.
+[00:24:12 -> 00:24:27]  But what it says is, if you have a right triangle, then what you have is one of the sides squared.
+[00:24:27 -> 00:24:29]  So let's suppose I draw a triangle here.
+[00:24:29 -> 00:24:34]  And say this is A, B, and just say C for the moment in general.
+[00:24:34 -> 00:24:36]  Plus B squared equals C squared.
+[00:24:36 -> 00:24:39]  And that's always true for a right triangle.
+[00:24:39 -> 00:24:41]  That's what Pythagoras taught us.
+[00:24:41 -> 00:24:43]  And so that is a very interesting thing.
+[00:24:43 -> 00:24:47]  Now, that's a very general thing.
+[00:24:47 -> 00:24:51]  Now let's talk about the unit circle, which is right here.
+[00:24:51 -> 00:24:53]  Let's talk about the unit circle, which is what we're here to learn about.
+[00:24:53 -> 00:25:00]  Now the unit circle, you remember, as I said earlier, that all the points on this circle,
+[00:25:00 -> 00:25:06]  because it's a circle, all circles obey this relationship.
+[00:25:06 -> 00:25:11]  Because we have a unit circle, we have the special case where this is just equal to 1.
+[00:25:11 -> 00:25:13]  This describes a unit circle.
+[00:25:13 -> 00:25:19]  So all the points, x and y, on this yellow circle all obey this.
+[00:25:19 -> 00:25:25]  Well, this equation looks a heck of a lot like this equation.
+[00:25:25 -> 00:25:33]  And the reason for that is that this point is part of this triangle.
+[00:25:33 -> 00:25:40]  So what it tells us is, suppose we want to generate values along this circle.
+[00:25:40 -> 00:25:46]  Like what is, for example, what is this point right here?
+[00:25:46 -> 00:25:47]  What is this point?
+[00:25:47 -> 00:25:49]  What is this point?
+[00:25:49 -> 00:25:51]  How would you figure that out?
+[00:25:51 -> 00:25:55]  Well, one way to figure it out is you know it's on the unit circle, so it obeys this.
+[00:25:55 -> 00:26:00]  And it is also, I can always go in and I can draw right triangles.
+[00:26:00 -> 00:26:05]  I can always make these right triangles anywhere I want.
+[00:26:05 -> 00:26:10]  And therefore, I can always use the Pythagorean Theorem when I'm using this.
+[00:26:10 -> 00:26:15]  And in fact, the Pythagorean Theorem, which you normally think about as being associated with right triangles,
+[00:26:15 -> 00:26:20]  and if you didn't know that, you will by the time you see the Pythagorean Theorem video.
+[00:26:20 -> 00:26:25]  But now you know that it is the same thing as the unit circle,
+[00:26:25 -> 00:26:28]  because it's a triangle embedded in a circle.
+[00:26:28 -> 00:26:33]  And therefore, circles and triangles are intimately related.
+[00:26:33 -> 00:26:37]  Now, that should allow us to generate useful points on the circle.
+[00:26:37 -> 00:26:44]  Why? Because we know that all the points on this circle satisfy x squared plus y squared equals 1.
+[00:26:44 -> 00:26:48]  So let's clean this up and let's look at some of that.
+[00:26:49 -> 00:26:55]  Alright, so here's Pythagoras.
+[00:26:55 -> 00:27:03]  Here is the general equation for a circle, and here is the unit circle.
+[00:27:03 -> 00:27:06]  Now we're in a position to relate that.
+[00:27:06 -> 00:27:17]  During our arithmetic break, notice that we generated through that little break a bunch of equations exactly of this form.
+[00:27:17 -> 00:27:20]  These are exactly of this form.
+[00:27:20 -> 00:27:29]  And if these have this form, then this must be a legitimate x and this must be a legitimate y on this circle.
+[00:27:29 -> 00:27:37]  And therefore, this is an x, this is an x, this is an x, this is a y, this is a y, and this is a y,
+[00:27:37 -> 00:27:41]  because they all satisfy the unit circle relationship.
+[00:27:41 -> 00:27:49]  And we figured out what these points were simply by doing some arithmetic during our little 1 plus 1 equals 2 break.
+[00:27:49 -> 00:27:53]  So that is a way to generate points on the circle.
+[00:27:53 -> 00:27:55]  So let's see what that looks like.
+[00:27:55 -> 00:27:58]  Okay, so I'm just repeating over here what we had.
+[00:27:58 -> 00:28:02]  These are some of our points that we generated in our arithmetic break.
+[00:28:02 -> 00:28:08]  They have to lie on the unit circle because they follow the form x squared plus y squared equals 1.
+[00:28:08 -> 00:28:10]  We just need to figure out how to plot them.
+[00:28:10 -> 00:28:19]  Okay, so let's take this point right here, which is halfway between 0 and pi over 2, or 0 and 90.
+[00:28:19 -> 00:28:28]  And because it's halfway, one of the things that we automatically know is the x and the y value must have the same value.
+[00:28:28 -> 00:28:35]  And notice that this point, therefore, at pi over 4, which is half of pi over 2,
+[00:28:35 -> 00:28:41]  must be this value because it's the only one that's halfway.
+[00:28:41 -> 00:28:47]  Pi over 4 is halfway, therefore, this has to equal this, which has to equal this, which has to equal this.
+[00:28:47 -> 00:28:54]  Okay, and notice that this one came from this relationship.
+[00:28:54 -> 00:28:57]  Okay, so let's clean that up and go.
+[00:28:57 -> 00:29:02]  Here's the other one, and here's the other one.
+[00:29:02 -> 00:29:09]  And so we can see, again, this value right here came from here.
+[00:29:09 -> 00:29:16]  This is x, this is y, and this one right here came from this equation.
+[00:29:16 -> 00:29:23]  So now we know how to generate, very simply, we know how to generate points on this circle.
+[00:29:23 -> 00:29:29]  In addition, you know, before we started off with this, this, these just 1's and 0's, wasn't very interesting.
+[00:29:29 -> 00:29:33]  Now we can start to fill in a lot of points on this circle.
+[00:29:33 -> 00:29:34]  Now here's the amazing thing.
+[00:29:34 -> 00:29:37]  We clean that up and go down here.
+[00:29:37 -> 00:29:38]  Look at this.
+[00:29:38 -> 00:29:46]  Notice, you will recall, that any number, if it's plus or minus squared, doesn't do anything.
+[00:29:46 -> 00:29:50]  So I can put a minus x in here, and it wouldn't do anything.
+[00:29:50 -> 00:29:53]  Similarly, I could put a minus y here, and it wouldn't do anything.
+[00:29:53 -> 00:29:58]  I could have a minus x here and a plus y there, and it wouldn't change anything.
+[00:29:58 -> 00:30:02]  And that generates all of these other points that are along the circle.
+[00:30:02 -> 00:30:10]  So, for example, a perfectly legitimate point right here is minus square root of 2 over 2, square root of 2 over 2,
+[00:30:10 -> 00:30:13]  which is essentially the mirror image of this point.
+[00:30:13 -> 00:30:18]  I just put a minus sign in, and it still satisfies the equation of circles, so it must be there somewhere.
+[00:30:18 -> 00:30:26]  Similarly, I can pick this point, which is when I put two minus signs in front of this value.
+[00:30:26 -> 00:30:31]  And so this is sort of the mirror point for that one.
+[00:30:31 -> 00:30:40]  And I won't draw all of them, but each of these has a mirror here, has a mirror here, has a mirror here, and so forth.
+[00:30:40 -> 00:30:48]  So what it means is, if you understand and remember these points right here,
+[00:30:48 -> 00:30:52]  and just remember that I can put a plus or minus, or a minus and a plus, or a plus and a minus,
+[00:30:52 -> 00:30:54]  or a minus and a minus, or a plus and a plus,
+[00:30:54 -> 00:31:02]  you can generate these three, these three, these three, just knowing the values up here.
+[00:31:02 -> 00:31:07]  And remember, the values we came up with up here was simply by, through our little arithmetic break,
+[00:31:07 -> 00:31:12]  figuring out what are some numbers that, when we square them, give us 1.
+[00:31:12 -> 00:31:16]  And that would tell us some of the points that lie on this unit circle.
+[00:31:16 -> 00:31:21]  So, very useful way to remember how to get these values.
+[00:31:21 -> 00:31:24]  Now, here's the other interesting thing. Let me clean this up.
+[00:31:24 -> 00:31:27]  To remember here is this.
+[00:31:27 -> 00:31:39]  Notice that, when I draw it this way, notice that this triangle right here,
+[00:31:39 -> 00:31:44]  the x value is square root of 3 over 2.
+[00:31:44 -> 00:31:48]  The y value is 1 half.
+[00:31:49 -> 00:31:51]  Look at this triangle.
+[00:31:51 -> 00:31:54]  This triangle has exactly the opposite.
+[00:31:54 -> 00:32:01]  The x value is 1 half, and the y value is square root of 3 over 2.
+[00:32:01 -> 00:32:05]  These two triangles, this triangle and this triangle, are the same.
+[00:32:05 -> 00:32:10]  And therefore, this triangle here and this triangle here are the same.
+[00:32:10 -> 00:32:13]  You can also prove, which I won't prove it here right now,
+[00:32:13 -> 00:32:24]  but trust me, you can prove it, that this triangle in between is related to these two triangles
+[00:32:24 -> 00:32:35]  in such a way that you can prove that this angle and this angle divide this into thirds.
+[00:32:35 -> 00:32:40]  And if this is, let's use, what do you want to use? Let's use degrees.
+[00:32:40 -> 00:32:41]  We use degrees right now.
+[00:32:41 -> 00:32:48]  So if this is 90, and this is divided by 3, then this must be 30 degrees, and this must be 60 degrees.
+[00:32:48 -> 00:32:53]  Just because we can see, and you can actually prove, I'm not proving it here,
+[00:32:53 -> 00:32:57]  but you can see that this is breaking this angle into three pieces.
+[00:32:57 -> 00:33:07]  So therefore, this point must lie at 30, and this point, which is halfway, must lie at 45 degrees,
+[00:33:07 -> 00:33:10]  and this point right here must lie at 60 degrees.
+[00:33:10 -> 00:33:13]  And you can see how that argument comes about.
+[00:33:13 -> 00:33:16]  So this is all due to Pythagoras.
+[00:33:16 -> 00:33:22]  If you understand Pythagoras, which is the description of triangles and how they're embedded in the unit circle,
+[00:33:22 -> 00:33:29]  you should be able to sit down with a piece of paper and a pencil and kind of come up with all of this on your own.
+[00:33:29 -> 00:33:35]  And that's when you really understand the unit circle and nothing to memorize.
+[00:33:35 -> 00:33:39]  Of course, once you've gone through this by yourself and really understand it yourself,
+[00:33:39 -> 00:33:41]  you'll probably end up having it memorized.
+[00:33:41 -> 00:33:45]  So try to sit down and do this for yourself, and I bet you'll have it memorized.
+[00:33:45 -> 00:33:49]  And if you don't, you'll at least know how to reconstruct it yourself.
+[00:33:49 -> 00:33:52]  So let's look at the angles.
+[00:33:52 -> 00:33:55]  So what we know is we have this point.
+[00:33:55 -> 00:33:58]  We have this point.
+[00:33:58 -> 00:33:59]  We have this point.
+[00:33:59 -> 00:34:02]  And again, we had these other mirror points.
+[00:34:02 -> 00:34:04]  Again, I'm not going to draw them all.
+[00:34:04 -> 00:34:06]  They're all the same ones that I drew.
+[00:34:06 -> 00:34:19]  And now we know what these angles must be because they divide either the angle in half or into thirds of 90.
+[00:34:19 -> 00:34:24]  And of course, if we know what's going on over here and what's called quadrant one,
+[00:34:24 -> 00:34:31]  we can then continue around figuring out what the angles are over here.
+[00:34:31 -> 00:34:35]  Now, why is this really important and really amazing?
+[00:34:35 -> 00:34:39]  It may not be obvious why this is really amazing, but guess what we just figured out?
+[00:34:39 -> 00:34:42]  We just figured out something really amazing.
+[00:34:42 -> 00:34:43]  Watch this.
+[00:34:43 -> 00:34:45]  What we figured out, remember, what is sine?
+[00:34:45 -> 00:34:52]  Sine of theta equals the opposite over the hypotenuse.
+[00:34:52 -> 00:34:57]  And because it's a unit circle, that's the opposite over one.
+[00:34:57 -> 00:35:04]  And if this is our angle here, the opposite of that angle is the y value.
+[00:35:04 -> 00:35:06]  So that equals y.
+[00:35:06 -> 00:35:10]  So what did I just figure out by this very simple argument?
+[00:35:10 -> 00:35:23]  What I figured out is that sine, for example, of pi over 6, let's do this lower one, equals one half.
+[00:35:23 -> 00:35:25]  That is amazing.
+[00:35:25 -> 00:35:28]  I just figured that out.
+[00:35:28 -> 00:35:33]  And so now I'm actually starting to be able to imagine doing what my goal was,
+[00:35:33 -> 00:35:38]  which was if I have theta and I want to figure out x and y,
+[00:35:38 -> 00:35:43]  I need to have a function that takes me from the angle to the x and to the y.
+[00:35:43 -> 00:35:48]  And those functions are the trigonometric functions, sine, cosine, and tangent.
+[00:35:48 -> 00:35:50]  And I just figured out one of those values.
+[00:35:50 -> 00:35:55]  I figured out something about what this sine function actually does.
+[00:35:55 -> 00:35:59]  And that's pretty amazing.
+[00:36:00 -> 00:36:09]  So let's continue doing this.
+[00:36:09 -> 00:36:12]  So here we have, I moved it over here a little bit.
+[00:36:12 -> 00:36:16]  If you continue with this argument, you can go all the way around the circle.
+[00:36:16 -> 00:36:17]  You should do this.
+[00:36:17 -> 00:36:23]  And you can figure out all of the rules from all the values of the points on the circle.
+[00:36:23 -> 00:36:26]  Now you know what angles those points occur at.
+[00:36:26 -> 00:36:31]  And you can start imagining knowing a lot about the sines and cosines.
+[00:36:31 -> 00:36:40]  And here is a whole bunch of different relationships that are associated with that.
+[00:36:40 -> 00:36:47]  So let's move on and look at how to graph these functions.
+[00:36:47 -> 00:36:48]  So let's look at this.
+[00:36:48 -> 00:36:51]  Let's just go around this very carefully.
+[00:36:51 -> 00:36:54]  Imagine where we have an angle that's zero.
+[00:36:54 -> 00:36:56]  Because we want to know how to graph these functions.
+[00:36:56 -> 00:36:58]  Because now we know what some of the points are.
+[00:36:58 -> 00:37:01]  So let's see if we can figure out what the graph of it would look like.
+[00:37:01 -> 00:37:05]  Now remember that sine theta equals the y value.
+[00:37:05 -> 00:37:08]  It's this height right here for this right triangle.
+[00:37:08 -> 00:37:13]  So if theta is zero, clearly I don't really have a triangle.
+[00:37:13 -> 00:37:17]  Sine theta would be zero because the y value would be zero.
+[00:37:17 -> 00:37:22]  So that would be this point right here.
+[00:37:22 -> 00:37:24]  Oh sorry, it would be this point right here.
+[00:37:24 -> 00:37:25]  Sorry about that.
+[00:37:25 -> 00:37:26]  Kind of confused.
+[00:37:26 -> 00:37:27]  This point right here.
+[00:37:27 -> 00:37:32]  And as I go around, clearly the y value gets larger and larger and larger.
+[00:37:32 -> 00:37:36]  As I go around until finally the y value equals one.
+[00:37:36 -> 00:37:38]  So this would be at 30 degrees.
+[00:37:38 -> 00:37:39]  This would be at 60 degrees.
+[00:37:39 -> 00:37:41]  This would be at 90 degrees.
+[00:37:41 -> 00:37:48]  And as I go around past 90 degrees, the y value is now less than one.
+[00:37:48 -> 00:37:49]  Which is this height.
+[00:37:49 -> 00:37:52]  And it will go back down again.
+[00:37:52 -> 00:37:53]  Like this.
+[00:37:53 -> 00:38:00]  And as I go around the circle, it will eventually come right back to where I started as I go all the way around.
+[00:38:00 -> 00:38:04]  And then it will, from there, it will repeat.
+[00:38:04 -> 00:38:12]  Because the sine function is periodic.
+[00:38:12 -> 00:38:14]  Very important.
+[00:38:14 -> 00:38:16]  These functions are not just any function.
+[00:38:16 -> 00:38:18]  They are periodic functions.
+[00:38:18 -> 00:38:20]  Let's do the cosine.
+[00:38:20 -> 00:38:22]  Cosine is the same thing.
+[00:38:22 -> 00:38:25]  Actually let me clear this up to do that.
+[00:38:25 -> 00:38:28]  And so if I do the cosine, same thing.
+[00:38:28 -> 00:38:32]  When theta is zero, I don't really have a triangle.
+[00:38:32 -> 00:38:33]  It looks like this.
+[00:38:33 -> 00:38:36]  Obviously cosine is equal to the x value, which is one.
+[00:38:36 -> 00:38:38]  And so here's one.
+[00:38:38 -> 00:38:46]  And as I go around, the x value, let me draw a tall one here, is shrinking.
+[00:38:46 -> 00:38:50]  And eventually, as I go towards 90 degrees, the x value is zero.
+[00:38:50 -> 00:38:55]  And so 30 degrees, 60 degrees, at 90 degrees it's zero.
+[00:38:55 -> 00:38:56]  And it keeps going.
+[00:38:56 -> 00:39:00]  It is also, cosine is also a periodic function.
+[00:39:00 -> 00:39:03]  I go all the way around the circle to 360 degrees.
+[00:39:03 -> 00:39:10]  Cosine is also periodic.
+[00:39:10 -> 00:39:12]  It's also a periodic function.
+[00:39:12 -> 00:39:17]  And so what you can see that's sort of amazing is if you just draw a unit circle,
+[00:39:17 -> 00:39:25]  remember that cosine is defined as this, which is, if you want, adjacent over hypotenuse.
+[00:39:25 -> 00:39:32]  Sine is defined as the y value, which for a unit circle is the opposite over the hypotenuse.
+[00:39:32 -> 00:39:35]  And you simply just draw different points.
+[00:39:35 -> 00:39:42]  Think about what the x and y values are doing as you go from this point to this point and on around.
+[00:39:42 -> 00:39:47]  You'll end up being able to generate all of these points along the circle.
+[00:39:47 -> 00:39:53]  And on one of the previous slides, we actually had, we also knew what was going on at 45 degrees,
+[00:39:53 -> 00:39:57]  so we would actually have some of these points filled in too.
+[00:39:57 -> 00:40:03]  If we continued doing that sort of thing, what we would get are functions that look like this.
+[00:40:03 -> 00:40:08]  And so this is what the famous sine function and cosine function look like.
+[00:40:08 -> 00:40:15]  If we could go through and do every single little point as we run around the circle,
+[00:40:15 -> 00:40:18]  we would end up with graphs that look like this.
+[00:40:18 -> 00:40:21]  So if you ever want to memorize what these graphs look like,
+[00:40:21 -> 00:40:26]  or maybe you want to remember which one starts at 0, which one starts at 1,
+[00:40:26 -> 00:40:30]  when does this hit 0, when does this hit 1 over here?
+[00:40:30 -> 00:40:34]  It's all really simple as long as you remember this picture.
+[00:40:34 -> 00:40:40]  You can simply draw this picture and generate all of this very easily.
+[00:40:40 -> 00:40:43]  So tangent is the same way.
+[00:40:43 -> 00:40:50]  I don't show it on here, but just remember that the tangent function is sine theta over cosine theta.
+[00:40:50 -> 00:40:53]  And it will have a similar property, and you can plot it as well.
+[00:40:53 -> 00:40:56]  So let me actually show you what that looks like.
+[00:40:56 -> 00:40:57]  Here is what happens.
+[00:40:57 -> 00:41:05]  Here's an animation of the sine, cosine, and tangent functions being generated and plotted for you.
+[00:41:05 -> 00:41:08]  And you can see I go around here twice.
+[00:41:08 -> 00:41:14]  I go around 2 pi, and so 2 pi is this point over here.
+[00:41:14 -> 00:41:19]  This final point right here is 2 pi, and I go all the way around, and you can see how it's generated.
+[00:41:19 -> 00:41:25]  Now keep in mind these lines right here aren't really part of the tangent function.
+[00:41:25 -> 00:41:29]  They're just part of the way the graphing program is graphing this as it goes from up here,
+[00:41:29 -> 00:41:32]  and then it discontinuously goes down here.
+[00:41:32 -> 00:41:40]  And the reason for that is we have sine theta over cosine theta,
+[00:41:40 -> 00:41:46]  and obviously if you look at this point, when cosine is theta, which is 0,
+[00:41:46 -> 00:41:50]  this is sine theta over 0, which is a really large number,
+[00:41:50 -> 00:41:54]  and then it switches sine, it's negative here and it goes to positive here,
+[00:41:54 -> 00:41:56]  and so it returns from this side.
+[00:41:56 -> 00:42:00]  And that's why the tangent function has this particular shape.
+[00:42:00 -> 00:42:08]  So in summary, the unit circle is a great way to understand how triangles are connected to circles.
+[00:42:08 -> 00:42:12]  It's a great way to motivate the sine and cosine functions,
+[00:42:12 -> 00:42:17]  and so we've kind of used it here to actually define the trigonometric functions.
+[00:42:17 -> 00:42:22]  And it comes about in a very natural way, an easy way to understand, an easy way to remember.
+[00:42:22 -> 00:42:25]  Now if you forget the trigonometric relationships,
+[00:42:25 -> 00:42:28]  you can use the mnemonic SOH CAH TOA.
+[00:42:28 -> 00:42:33]  Sine is opposite over hypotenuse, cosine is adjacent over hypotenuse,
+[00:42:33 -> 00:42:37]  and tangent is opposite over adjacent.
+[00:42:37 -> 00:42:39]  And of course, this is very general.
+[00:42:39 -> 00:42:41]  Let me just tell you this is very general.
+[00:42:41 -> 00:42:45]  Whereas for the unit circle, it's a little bit simpler,
+[00:42:45 -> 00:42:49]  and we'll get to this later because we have the hypotenuse equals 1.
+[00:42:49 -> 00:42:52]  Just keep in mind that this is a very general relationship.
+[00:42:52 -> 00:42:56]  So when you define sine and cosine and tangent not in terms of the unit circle,
+[00:42:56 -> 00:43:00]  it's worth still remembering this because it's always going to be true.
+[00:43:00 -> 00:43:03]  We also connected this with the Pythagorean theorem
+[00:43:03 -> 00:43:10]  and basically made a connection between something that we normally associate with a triangle with a circle.
+[00:43:10 -> 00:43:16]  Because basically the unit circle is we embed a triangle in there and we can make a connection.
+[00:43:16 -> 00:43:19]  And that allows us to generate points on the unit circle
+[00:43:19 -> 00:43:24]  because they have to obey a squared plus b squared equals c squared,
+[00:43:24 -> 00:43:28]  which we will talk a lot about later by wanting to make that connection now,
+[00:43:28 -> 00:43:30]  even if you haven't seen it.
+[00:43:30 -> 00:43:35]  Okay, the unit circle allows us to display the points on the circle with the angle of that point.
+[00:43:35 -> 00:43:38]  So we generated, we drew the unit circle,
+[00:43:38 -> 00:43:41]  and we figured out what a lot of the points were as we went around there.
+[00:43:41 -> 00:43:44]  Square root of 2 over 2 comma square root of 2 over 2.
+[00:43:44 -> 00:43:47]  And we can generate all those values.
+[00:43:47 -> 00:43:54]  And we can check, by the way, that they obey, for example, x squared plus y squared equals 1.
+[00:43:54 -> 00:43:59]  So we had like square root of 2 over 2.
+[00:43:59 -> 00:44:01]  Square root of 2 over 2 was one of the points.
+[00:44:01 -> 00:44:03]  Let's square that.
+[00:44:03 -> 00:44:08]  Square of this is 2 divided by the square of this, which is 4,
+[00:44:08 -> 00:44:12]  plus this squared, which is 2 divided by 4.
+[00:44:12 -> 00:44:15]  This is a half, this is a half, and that adds up to 1.
+[00:44:15 -> 00:44:18]  So this is a legitimate point on that circle.
+[00:44:18 -> 00:44:22]  So that was an interesting way to generate those points.
+[00:44:22 -> 00:44:25]  Now, once we draw the unit circle, which you should be able to do,
+[00:44:25 -> 00:44:30]  it's easy then to plot all of the trigonometric functions.
+[00:44:30 -> 00:44:33]  And so what we do is there we just draw the circle.
+[00:44:33 -> 00:44:34]  We go around.
+[00:44:34 -> 00:44:37]  And as we go around, we know what the values of these points were
+[00:44:37 -> 00:44:41]  because we know now how to generate them from this.
+[00:44:41 -> 00:44:46]  And we get sine and cosine and so forth.
+[00:44:46 -> 00:44:55]  And really important for many applications in math, engineering, physics, chemistry, all over,
+[00:44:55 -> 00:45:01]  is the fact, the very important fact, that the trigonometric functions are periodic functions.
+[00:45:01 -> 00:45:06]  And in fact, in terms of their use, the trigonometric functions are often used
+[00:45:06 -> 00:45:10]  without reference to a triangle or without reference to a circle even,
+[00:45:10 -> 00:45:13]  but they're used to understand periodic functions
+[00:45:13 -> 00:45:17]  and things that are periodic like light waves and sound waves.
+[00:45:17 -> 00:45:20]  And so that's a very important thing to remember.
+[00:45:20 -> 00:45:21]  Not all functions are periodic.
+[00:45:21 -> 00:45:25]  Very few of them are, but sine and cosine definitely are.
+[00:45:25 -> 00:45:32]  What you should do next is you should watch the What Is It? New Planet School video.
+[00:45:32 -> 00:45:35]  So you can just, now that we're getting into some of these gory details
+[00:45:35 -> 00:45:37]  of what the trigonometric function is,
+[00:45:37 -> 00:45:40]  go back and watch this and remember why we're doing this.
+[00:45:40 -> 00:45:45]  It's worth remembering why trigonometry is so interesting and so important.
+[00:45:45 -> 00:45:50]  Secondly, watch this video again and draw your own unit circle.
+[00:45:50 -> 00:45:55]  If you go out on the web, you can find empty unit circles
+[00:45:55 -> 00:45:59]  that look like a unit circle and they have blanks.
+[00:45:59 -> 00:46:04]  And you can print these out and you can go in and you can fill them in yourself.
+[00:46:04 -> 00:46:07]  And you definitely should be able to do that.
+[00:46:07 -> 00:46:10]  If you just memorize the unit circle, you should be able to print one of those out
+[00:46:10 -> 00:46:13]  and simply just know how to fill it out.
+[00:46:13 -> 00:46:16]  But better would be to really watch this video again
+[00:46:16 -> 00:46:21]  and remember how to generate these points to put around there.
+[00:46:21 -> 00:46:24]  So go out on the web and see if you can find a blank unit circle,
+[00:46:24 -> 00:46:27]  an empty unit circle, and try to fill it in.
+[00:46:27 -> 00:46:32]  Now, the other thing you might want to watch is the New Planet School triangles video again
+[00:46:32 -> 00:46:37]  just so you can remember that the triangles we've been doing in this video are all right triangles.
+[00:46:37 -> 00:46:42]  But there's a lot of different types of obtuse triangles and acute triangles, isosceles triangles.
+[00:46:42 -> 00:46:47]  And just keep in mind that there's a lot more different types of triangles out there
+[00:46:47 -> 00:46:49]  that have a lot of different properties.
+[00:46:49 -> 00:46:52]  And we really haven't relied on all of them here.
+[00:46:52 -> 00:46:57]  The next obvious one is now that we know what the sine and cosine and tangent are,
+[00:46:57 -> 00:47:00]  the next thing you should do is go watch this New Planet School video,
+[00:47:00 -> 00:47:04]  sine, cosine, and tangent, where instead of defining these in terms of the unit circle,
+[00:47:04 -> 00:47:10]  we really dig in and think about in a lot more detail what these three functions are,
+[00:47:10 -> 00:47:14]  what they mean, what the rules are, and how to solve the triangles with them,
+[00:47:14 -> 00:47:17]  which is sort of the core of what you do in, for example,
+[00:47:17 -> 00:47:21]  your homework problems in your trigonometry class.
+[00:47:21 -> 00:47:25]  And that will be a very useful, obvious video to do next.
+[00:47:25 -> 00:47:30]  Okay, so with that, thank you for being here at New Planet School,
+[00:47:30 -> 00:47:34]  and I hope to see you back here for another video very soon.

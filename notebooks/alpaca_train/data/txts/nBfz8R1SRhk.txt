@@ -1,0 +1,818 @@
+[00:00:00 -> 00:00:03]  Der Ausstieg aus der Kohle ist beschlossene Sache.
+[00:00:03 -> 00:00:04]  Die großen Kraftwerke
+[00:00:04 -> 00:00:08]  gehen in den kommenden Jahrzehnten Schritt für Schritt vom Netz.
+[00:00:08 -> 00:00:11]  Wie hier in der Lausitz das Kraftwerk Schwarze Pumpe.
+[00:00:11 -> 00:00:16]  Nicht nur Strom, auch Wärme und Verkehr sollen CO2-neutral werden.
+[00:00:16 -> 00:00:19]  So der Plan. Doch was bedeutet das konkret?
+[00:00:19 -> 00:00:23]  Damit wir Deutschland aus eigener Kraft klimaneutral machen können,
+[00:00:23 -> 00:00:27]  müssen wir den Anteil erneuerbarer Energien verfünffachen.
+[00:00:27 -> 00:00:30]  Wir brauchen mehr Windkraftanlagen, mehr Solaranlagen.
+[00:00:30 -> 00:00:34]  Erst mal muss Energie produziert werden, auf grüner Basis.
+[00:00:34 -> 00:00:36]  Wir werden in den kommenden Jahren
+[00:00:36 -> 00:00:39]  ein Vielfaches an Solar- und Windparks benötigen,
+[00:00:40 -> 00:00:43]  um unsere Energieversorgung dauerhaft zu sichern.
+[00:00:43 -> 00:00:47]  Aber machen wir uns damit nicht abhängig von Wind und Sonne?
+[00:00:47 -> 00:00:50]  Wir können nicht bestimmen, wie der Wind weht,
+[00:00:50 -> 00:00:53]  wie man hier auch sieht, wann die Sonne scheint.
+[00:00:53 -> 00:00:56]  Aber wir müssen den Strom kontinuierlich liefern.
+[00:00:56 -> 00:00:59]  Es muss immer genau so viel Strom produziert werden,
+[00:01:00 -> 00:01:02]  wie die Endverbraucher auch verbrauchen.
+[00:01:02 -> 00:01:04]  Und was, wenn es mal nicht reicht?
+[00:01:04 -> 00:01:08]  Weil die Sonne nicht scheint und der Wind nicht weht.
+[00:01:08 -> 00:01:10]  Drohkulisse, Dunkelflaute.
+[00:01:10 -> 00:01:14]  Die Herausforderung bei der elektrischen Energie besteht darin,
+[00:01:14 -> 00:01:17]  dass die elektrische Energie in dem Augenblick,
+[00:01:17 -> 00:01:20]  in dem sie verbraucht wird, auch erzeugt werden muss.
+[00:01:20 -> 00:01:24]  Es ist immer dieses Gleichgewicht zwischen Erzeugung und Verbrauch,
+[00:01:24 -> 00:01:27]  praktisch in jedem Augenblick, in jeder Sekunde,
+[00:01:27 -> 00:01:30]  in jeder Millisekunde zu gewährleisten.
+[00:01:30 -> 00:01:33]  Genau das sicherzustellen, ist bisher Aufgabe
+[00:01:33 -> 00:01:36]  der großen Kraftwerke und der Netzbetreiber.
+[00:01:36 -> 00:01:39]  Ob in der Lausitz oder im rheinischen Braunkohlerevier.
+[00:01:39 -> 00:01:42]  Die hier produzierte elektrische Energie
+[00:01:42 -> 00:01:44]  speist ein Netz aus Übertragungsleitungen,
+[00:01:44 -> 00:01:46]  die ganz Europa umspannen.
+[00:01:47 -> 00:01:51]  Auf dem ganzen Kontinent schwingen alle Turbinen im gleichen Takt
+[00:01:51 -> 00:01:54]  und produzieren stabile 50-Hertz-Wechselspannung.
+[00:01:54 -> 00:01:56]  Ein sensibles Gleichgewicht.
+[00:01:56 -> 00:01:59]  Wenn wir jetzt mehr einspeisen, als Last da ist,
+[00:01:59 -> 00:02:01]  z.B. es weht der Wind sehr stark,
+[00:02:01 -> 00:02:04]  und bringen das nicht ins Gleichgewicht,
+[00:02:04 -> 00:02:06]  dann geht die Frequenz hoch.
+[00:02:06 -> 00:02:09]  Wenn es umgekehrt ist, wir haben nicht genügend Einspeisung
+[00:02:09 -> 00:02:13]  und die Last ist höher, dann geht die Frequenz runter.
+[00:02:13 -> 00:02:15]  Und diese Einspeisung, die wir hier haben,
+[00:02:16 -> 00:02:18]  die sehen wir im gesamten Verbundnetz.
+[00:02:18 -> 00:02:21]  Von Spanien bis auch nach Hamburg merken wir,
+[00:02:22 -> 00:02:24]  wenn da etwas im Ungleichgewicht ist.
+[00:02:30 -> 00:02:33]  Ein Ungleichgewicht, das im schlimmsten Falle
+[00:02:33 -> 00:02:36]  zu einem europaweiten Blackout führen könnte.
+[00:02:46 -> 00:02:48]  Die Lausitz.
+[00:02:48 -> 00:02:50]  Nirgendwo sonst kann man besser verstehen,
+[00:02:51 -> 00:02:54]  was der Umbau des Energiesystems für uns alle bedeutet
+[00:02:54 -> 00:02:57]  und welche tiefgreifenden Veränderungen uns bevorstehen.
+[00:02:57 -> 00:03:01]  Es ist die radikalste Transformation eines Energiesystems,
+[00:03:01 -> 00:03:04]  das die Basis der Industriegesellschaft war.
+[00:03:04 -> 00:03:07]  Die Energieversorgung, die Energieversorgung,
+[00:03:07 -> 00:03:10]  die Energieversorgung, die Energieversorgung,
+[00:03:10 -> 00:03:13]  die Energieversorgung, die Energieversorgung,
+[00:03:13 -> 00:03:16]  das die Basis der Industriegesellschaft war,
+[00:03:16 -> 00:03:18]  die Basis unseres Wohlstands.
+[00:03:18 -> 00:03:20]  Das Ende einer Ära.
+[00:03:21 -> 00:03:26]  Der Bezirk Cottbus sitzt auf den größten Braunkohlevorräten der DDR.
+[00:03:36 -> 00:03:38]  Kohle muss immer vorhanden sein.
+[00:03:44 -> 00:03:49]  Die Braunkohle wird zermahlen, getrocknet und schließlich verbrannt.
+[00:03:50 -> 00:03:53]  Durch die gewaltige Hitze wird Wasser zu Dampf.
+[00:03:55 -> 00:03:58]  Er treibt die Maschinen an, die den Strom erzeugen.
+[00:04:03 -> 00:04:05]  Bis heute.
+[00:04:05 -> 00:04:08]  Und so blasen Deutschlands Kohlekraftwerke
+[00:04:08 -> 00:04:11]  im Jahr rund 200 Mio. Tonnen CO2 in die Luft.
+[00:04:12 -> 00:04:16]  Etwa 10 Mio. Tonnen entfallen auf das Kraftwerk Schwarze Pumpe.
+[00:04:16 -> 00:04:20]  Eines der größten und modernsten Kraftwerke Deutschlands.
+[00:04:20 -> 00:04:24]  Bis zu 36.000 Tonnen Braunkohle täglich werden hier verbrannt.
+[00:04:29 -> 00:04:33]  Das sind mehrere hundert MW, zweimal 800 MW hier am Standort.
+[00:04:33 -> 00:04:36]  Das ist dann schon ein gewaltiger Stromverbrauch.
+[00:04:36 -> 00:04:40]  Das sind mehrere hundert MW, zweimal 800 MW hier am Standort.
+[00:04:40 -> 00:04:44]  Das ist schon ein Großstandort im bundesweiten europäischen Durchschnitt.
+[00:04:44 -> 00:04:48]  Zusammen mit drei weiteren Braunkohle-Kraftwerken
+[00:04:48 -> 00:04:52]  produziert die LEAG Strom für mehr als 14 Mio. Haushalte.
+[00:04:52 -> 00:04:54]  Spätestens 2038 ist damit Schluss.
+[00:04:56 -> 00:05:00]  Die größte Baustelle, die wir in Zukunft haben werden,
+[00:05:00 -> 00:05:02]  ist das Thema Versorgungssicherheit.
+[00:05:02 -> 00:05:06]  Wir müssen einen Weg finden, gesicherte und ständig verfügbare Leistung
+[00:05:06 -> 00:05:09]  vorzuhalten, auch im Lichte eines sich verändernden
+[00:05:09 -> 00:05:12]  Technologiemixes, im Lichte des Herausgehens
+[00:05:12 -> 00:05:15]  von konventionellen Technologien, sagen wir es mal so,
+[00:05:16 -> 00:05:17]  Braunkohle, Steinkohle.
+[00:05:17 -> 00:05:19]  Der Anspruch muss der gleiche bleiben.
+[00:05:19 -> 00:05:23]  Die Netze müssen die Aufgabe erfüllt bekommen können,
+[00:05:23 -> 00:05:25]  um Systemstabilität dort sicherzustellen
+[00:05:25 -> 00:05:27]  und zu jeder Tages- und Nachtzeit
+[00:05:27 -> 00:05:31]  die Versorgungssicherheit aufrechterhalten zu können.
+[00:05:31 -> 00:05:34]  Die gewaltigen Turbinen mit ihren rotierenden Massen
+[00:05:34 -> 00:05:36]  waren bisher ein Garant dafür,
+[00:05:36 -> 00:05:38]  dass bei uns der Strom ohne Unterbrechung,
+[00:05:39 -> 00:05:41]  ohne Schwanken aus der Steckdose kommt.
+[00:05:41 -> 00:05:44]  Die Übertragungsnetze und die großen Kraftwerke
+[00:05:44 -> 00:05:49]  speisen bei 380.000, bei 220.000 Volt ein.
+[00:05:49 -> 00:05:54]  Transformatoren wandeln die Spannung nach unten in 110.000 Volt,
+[00:05:54 -> 00:05:57]  dann sind wir in den Mittelspannungsnetzen.
+[00:05:57 -> 00:06:01]  Und weiter runter nach 10.000 Volt,
+[00:06:01 -> 00:06:05]  bis wir dann zu diesen Ortsnetztransformatoren kommen,
+[00:06:05 -> 00:06:08]  die bei jedem irgendwo in der Nachbarschaft stehen.
+[00:06:08 -> 00:06:11]  Dort wird es noch mal runter transformiert
+[00:06:11 -> 00:06:14]  auf die 400 Volt oder die 230 Volt,
+[00:06:14 -> 00:06:16]  die wir dann in der Steckdose finden.
+[00:06:16 -> 00:06:19]  Das ist der ganze Weg, den heute immer von oben,
+[00:06:19 -> 00:06:24]  von der höchsten Spannungsebene, wo die Energie eingespeist wird,
+[00:06:24 -> 00:06:28]  runter bis in unser Ortsnetz, in unserer Steckdose zu Hause,
+[00:06:28 -> 00:06:31]  wie diese Energie dort fließt.
+[00:06:32 -> 00:06:38]  530 Mio. Menschen in über 30 Ländern werden so mit Strom versorgt.
+[00:06:38 -> 00:06:41]  Bisher ein hierarchisches System.
+[00:06:41 -> 00:06:45]  Elektrische Energie fließt dabei immer in eine Richtung.
+[00:06:45 -> 00:06:49]  Von den großen Erzeugern zu den einzelnen Verbrauchern.
+[00:06:49 -> 00:06:54]  In Europa seit 100 Jahren als Wechselstrom mit konstanten 50 Hertz.
+[00:06:56 -> 00:06:59]  Europas Turbinen schwingen synchron,
+[00:06:59 -> 00:07:02]  wie an einer unsichtbaren Fahrradkette.
+[00:07:02 -> 00:07:06]  Dieses Verbundnetz ist die größte Maschine Europas,
+[00:07:06 -> 00:07:08]  wenn nicht sogar der Welt.
+[00:07:10 -> 00:07:14]  Das Europäische Verbundnetz sind die Übertragungsnetzbetreiber.
+[00:07:14 -> 00:07:18]  Das ist die Höchstspannungsebene, die wir dort haben,
+[00:07:18 -> 00:07:21]  wo wir die Energie von den großen Kraftwerken verteilen
+[00:07:21 -> 00:07:26]  über lange Strecken, wo die großen Kraftwerke dranhängen,
+[00:07:26 -> 00:07:29]  von denen es in Zukunft immer weniger gibt.
+[00:07:29 -> 00:07:33]  Gerade der Erfolg der Energiewende wird dabei zunehmend zum Problem
+[00:07:33 -> 00:07:35]  für die Netzstabilität.
+[00:07:35 -> 00:07:38]  Das sonnenreiche 1. Halbjahr 2020
+[00:07:38 -> 00:07:42]  bescherte der Solarenergie über 11% im deutschen Strommix.
+[00:07:42 -> 00:07:47]  Wind hatte mit 30,6% den größten Anteil insgesamt.
+[00:07:47 -> 00:07:51]  Alle Erneuerbaren zusammen kamen auf fast 56%.
+[00:07:51 -> 00:07:54]  Eine gute Nachricht fürs Klima.
+[00:07:54 -> 00:07:57]  Doch wie steht es um die Versorgungssicherheit?
+[00:07:57 -> 00:08:00]  Energiewende heißt, dass wir von wenigen Hundert
+[00:08:00 -> 00:08:04]  heute auf schon knapp 2 Mio. dezentraler Anlagen,
+[00:08:05 -> 00:08:07]  die in den anderen Spannungsebenen sind.
+[00:08:07 -> 00:08:11]  Im Ausblick mit der Energiewende
+[00:08:11 -> 00:08:15]  werden wir etwa 6 Mio. dezentraler Anlagen bekommen.
+[00:08:15 -> 00:08:20]  Die müssen dann genau dasselbe auch erzielen,
+[00:08:20 -> 00:08:25]  nämlich Energieverbrauch und Einspeisung im Gleichgewicht zu halten.
+[00:08:25 -> 00:08:29]  Da müssen wir Mechanismen finden, wie so was funktioniert.
+[00:08:29 -> 00:08:34]  Im Juni 2019 kam es im deutschen Stromnetz zum Beinahe-Blackout.
+[00:08:34 -> 00:08:38]  Und im Januar 2020 auch in Südosteuropa.
+[00:08:38 -> 00:08:43]  Auf 49,8 Hertz fiel die Netzfrequenz zeitweise.
+[00:08:43 -> 00:08:47]  Nur der Strom der europäischen Nachbarn im Verbundnetz
+[00:08:47 -> 00:08:52]  hat dafür gesorgt, dass es in Deutschland keinen Blackout gab.
+[00:08:52 -> 00:08:56]  Es gibt die Sorge, dass solche kritischen Zustände zunehmen könnten.
+[00:08:56 -> 00:08:59]  Weil Solar und Wind so wechselhaft sind.
+[00:08:59 -> 00:09:03]  Aber auch, weil mit dem Abschied von den großen Generatoren
+[00:09:03 -> 00:09:05]  die großen Schwungmassen fehlen.
+[00:09:05 -> 00:09:10]  Die sog. Momentanreserve der konventionellen Kraftwerke.
+[00:09:13 -> 00:09:17]  Strom ist jedoch bei Weitem nicht das einzige Problem.
+[00:09:17 -> 00:09:20]  Der Kohleausstieg stellt uns vor weitere große Herausforderungen,
+[00:09:20 -> 00:09:25]  die für Erfolg oder Scheitern der Energiewende entscheidend sind.
+[00:09:28 -> 00:09:31]  Im Schatten der Kühltürme des Kraftwerks Schwarze Pumpe
+[00:09:31 -> 00:09:35]  verlaufen kilometerlange Leitungen quer durch die Landschaft.
+[00:09:36 -> 00:09:41]  Sie führen auch nach Heuerswerda und versorgen die Stadt mit Wärme.
+[00:09:42 -> 00:09:45]  60% der Einwohner werden mit Fernwärme versorgt.
+[00:09:45 -> 00:09:49]  Das sind die Versorgungsstrukturen, die wir heute kennen.
+[00:09:49 -> 00:09:51]  Wenn wir in die Zukunft gucken,
+[00:09:51 -> 00:09:54]  müssen wir vielleicht auch in die Historie schauen.
+[00:09:58 -> 00:10:00]  Heuerswerda ist eine Stadt,
+[00:10:00 -> 00:10:04]  die mit der Energiewirtschaft in der DDR gewachsen ist.
+[00:10:04 -> 00:10:06]  Wo die Versorgungsstrukturen
+[00:10:06 -> 00:10:10]  Ende der 50er, Anfang der 60er Jahre aufgebaut wurden.
+[00:10:10 -> 00:10:16]  Die Energiewende, der Kohleausstieg, wird spätestens in 2038 dazu führen,
+[00:10:16 -> 00:10:20]  dass wir nicht mehr diese Wärmequelle nutzen können
+[00:10:20 -> 00:10:23]  und uns quasi dann neu aufstellen müssen.
+[00:10:23 -> 00:10:25]  Wenn wir über 60% der Einwohner,
+[00:10:25 -> 00:10:28]  die heute mit Fernwärme versorgt werden,
+[00:10:28 -> 00:10:31]  dann reden wir über 22.000 Einwohner.
+[00:10:31 -> 00:10:34]  Die Frage, wie wir in Zukunft klimaneutral heizen,
+[00:10:34 -> 00:10:38]  gehört zu einer der offenen Fragen der Zukunft.
+[00:10:38 -> 00:10:43]  Heizen gehört zu einer der offenen und drängendsten Fragen der Energiewende.
+[00:10:43 -> 00:10:45]  Nicht nur in Heuerswerda.
+[00:10:45 -> 00:10:48]  Denn der Wärmesektor trägt fast zur Hälfte
+[00:10:48 -> 00:10:51]  zu den energiebedingten Kohlendioxid-Emissionen bei.
+[00:10:51 -> 00:10:53]  Gefolgt vom Verkehr.
+[00:10:54 -> 00:10:58]  Der Strom macht im deutschen Energie-Mix den kleinsten Anteil aus.
+[00:10:58 -> 00:11:02]  Das erklärt auch, warum Solar- und Windenergie
+[00:11:02 -> 00:11:06]  für die Stromerzeugung im Gesamtmix bisher kaum ins Gewicht fallen.
+[00:11:09 -> 00:11:14]  Die 55,7% Erneuerbare im Strommix schrumpfen auf 17% zusammen,
+[00:11:14 -> 00:11:18]  wenn wir uns den Gesamtenergie-Mix für 2020 anschauen.
+[00:11:18 -> 00:11:21]  Hier fehlen also noch über 80%.
+[00:11:21 -> 00:11:23]  Woran liegt das?
+[00:11:28 -> 00:11:31]  Viele schauen bei der Energiewende nur auf den Strom.
+[00:11:32 -> 00:11:34]  Aber wir haben noch andere Sektoren.
+[00:11:34 -> 00:11:36]  Da ist die Wärme und der Verkehr,
+[00:11:36 -> 00:11:38]  wo wir Heizöl und Erdgas hantieren.
+[00:11:38 -> 00:11:40]  Da ist der Weg noch weit.
+[00:11:40 -> 00:11:44]  Wir müssen klimaneutral werden, nicht nur im Strombereich.
+[00:11:44 -> 00:11:46]  Wir dürfen nichts mehr verbrennen.
+[00:11:46 -> 00:11:50]  Wenn wir die Sektoren Verkehr und Wärme nicht im Blick haben,
+[00:11:50 -> 00:11:52]  wird es am Ende auch nicht klappen.
+[00:11:52 -> 00:11:54]  Solarkraft und Windenergie
+[00:11:54 -> 00:11:57]  sollen schon bald unseren Strombedarf decken.
+[00:11:57 -> 00:11:59]  Um keinen Blackout zu riskieren,
+[00:11:59 -> 00:12:01]  brauchen wir zuverlässige Speichermedien,
+[00:12:01 -> 00:12:05]  die kurzfristige und saisonale Schwankungen ausgleichen.
+[00:12:05 -> 00:12:08]  Wenn wir in Zukunft auch Wärme klimaneutral erzeugen
+[00:12:08 -> 00:12:12]  und wir uns vom Verbrennungsmotor verabschieden wollen,
+[00:12:12 -> 00:12:14]  werden das die bestehenden elektrischen Netze
+[00:12:14 -> 00:12:16]  nicht leisten können.
+[00:12:18 -> 00:12:21]  Gesucht wird also eine Lösung für beide Probleme.
+[00:12:21 -> 00:12:25]  Die Speicherung der schwankenden Wind- und Solarenergie
+[00:12:25 -> 00:12:29]  und ein klimafreundlicher Treibstoff für Mobilität und Wärme.
+[00:12:30 -> 00:12:34]  Die Suche führt uns zu einem der größten Gasspeicher Deutschlands.
+[00:12:35 -> 00:12:37]  Bad Laustedt ist eins dieser großen Reallabs,
+[00:12:37 -> 00:12:40]  die über das Bundeswirtschaftsministerium
+[00:12:40 -> 00:12:44]  im Prinzip schon während der Kohlekommission begonnen wurden.
+[00:12:44 -> 00:12:46]  Weil allen war völlig klar,
+[00:12:46 -> 00:12:49]  Thema Versorgungssicherheit muss abgesichert werden.
+[00:12:49 -> 00:12:52]  Und Wasserstoff ist die veritable Antwort darauf,
+[00:12:52 -> 00:12:54]  mit der wir das wahrscheinlich werden buchen können.
+[00:12:55 -> 00:12:57]  Von daher war es dem Wirtschaftsminister
+[00:12:57 -> 00:12:59]  ein wichtiges Anliegen, hier sehr schnell
+[00:12:59 -> 00:13:02]  in großtechnischen Versuchsanlagen zu untersuchen,
+[00:13:02 -> 00:13:04]  wie funktioniert das.
+[00:13:04 -> 00:13:08]  Wie kann man mit hohem Druck riesige Mengen von Wasserstoff speichern?
+[00:13:08 -> 00:13:12]  Genau das könnten gigantische, natürliche Hohlräume leisten,
+[00:13:12 -> 00:13:17]  in denen bisher unsere Erdgasvorräte lagern, sog. Kavernen.
+[00:13:17 -> 00:13:19]  Die Technologie ist vorhanden.
+[00:13:19 -> 00:13:22]  Erste Erfahrungen mit Wasserstoff hat man bereits.
+[00:13:22 -> 00:13:24]  Wasserstoff aus Windkraft
+[00:13:24 -> 00:13:27]  könnte durch das gut ausgebaute Gasnetz Deutschlands
+[00:13:27 -> 00:13:29]  transportiert werden.
+[00:13:29 -> 00:13:33]  Wir befinden uns hier im Herzstück des Projektes,
+[00:13:33 -> 00:13:36]  auf dem Speicherstandort Bad Lauchstedt.
+[00:13:36 -> 00:13:38]  Hier ist unsere Vision,
+[00:13:38 -> 00:13:41]  einen Windpark bauen zu lassen durch Partner.
+[00:13:41 -> 00:13:43]  Direkt angeschlossen,
+[00:13:43 -> 00:13:47]  wird ein Elektrolyseur 30 MW eine ordentliche Menge Wasserstoff
+[00:13:47 -> 00:13:49]  produzieren.
+[00:13:49 -> 00:13:51]  Unser Ziel ist es, die fertig gesohlte Kaverne
+[00:13:52 -> 00:13:54]  zu einem Wasserstoffspeicher umzurüsten.
+[00:13:54 -> 00:13:58]  Nämlich, dass wir in der Lage sind, wenn mal ganz viel Wind ist,
+[00:13:58 -> 00:14:01]  bevor man einen Windpark abstellt, auch Wasserstoff herzustellen.
+[00:14:01 -> 00:14:05]  Und den dann quasi in der Kaverne einlagern als Puffer,
+[00:14:05 -> 00:14:08]  in Zeiten von wenig Wind und wenig Sonne.
+[00:14:08 -> 00:14:11]  Da hat die Kaverne einen wesentlichen Vorteil,
+[00:14:11 -> 00:14:15]  dass wir große Mengen erneuerbare Energie einlagern können.
+[00:14:15 -> 00:14:19]  Weltweit ist das Pilotprojekt der VNG der erste Versuch,
+[00:14:19 -> 00:14:24]  Wasserstoff in dieser Größenordnung aus Windstrom herzustellen,
+[00:14:24 -> 00:14:28]  diesen zu speichern und dann weiterzuverarbeiten.
+[00:14:28 -> 00:14:30]  Abnehmer gibt es bereits.
+[00:14:30 -> 00:14:34]  Die Chemieparks in der Region und die Schwerindustrie.
+[00:14:36 -> 00:14:38]  Nehmen wir mal die Stahlindustrie.
+[00:14:38 -> 00:14:42]  Die hat kaum eine andere Chance, sich zu dekarbonisieren,
+[00:14:42 -> 00:14:45]  die Stahlproduktion zu dekarbonisieren,
+[00:14:45 -> 00:14:47]  als Wasserstoff zu verwenden.
+[00:14:47 -> 00:14:50]  Da reicht eben nicht nur erneuerbarer Strom.
+[00:14:50 -> 00:14:53]  Die brauchen ein CO2-armes Gas.
+[00:14:53 -> 00:14:57]  Da müssen demnächst Investitionsentscheidungen getroffen werden,
+[00:14:57 -> 00:15:00]  daraus ergibt sich, dass große Mengen,
+[00:15:00 -> 00:15:02]  wenn wir sie denn haben und transportieren,
+[00:15:02 -> 00:15:04]  erst mal in die Industrie gehen.
+[00:15:04 -> 00:15:08]  Das kann Stahl sein, das kann die Zementindustrie sein,
+[00:15:08 -> 00:15:10]  das wird auch Chemie sein.
+[00:15:10 -> 00:15:14]  Die Bundesregierung hat sich in der nationalen Wasserstoffstrategie
+[00:15:14 -> 00:15:16]  zum Ziel gesetzt, bis zum Jahr 2030
+[00:15:17 -> 00:15:20]  rund 20% des in Deutschland verbrauchten Wasserstoffs
+[00:15:20 -> 00:15:23]  über CO2-freien Wasserstoff zu decken.
+[00:15:23 -> 00:15:27]  Bis 2050 könnte der Champagner unter den Energieträgern
+[00:15:27 -> 00:15:31]  laut Studien 7-16% zum Gesamtenergie-Mix beitragen.
+[00:15:31 -> 00:15:36]  Die großen Energiemengen, die wir für Mobilität und Wärme brauchen,
+[00:15:36 -> 00:15:40]  werden wir damit in absehbarer Zeit also nicht decken können.
+[00:15:40 -> 00:15:44]  Der Wasserstoff ist in der Herstellung sehr ineffizient.
+[00:15:44 -> 00:15:47]  Wir brauchen gigantische Mengen an Solar- und Windstrom,
+[00:15:47 -> 00:15:50]  wollen wir das komplette Erdgas durchgießen,
+[00:15:50 -> 00:15:52]  werden wir die Mengen an Solar- und Windstrom
+[00:15:52 -> 00:15:55]  in Deutschland gar nicht erzeugen können.
+[00:15:55 -> 00:15:59]  Der Wasserstoff muss anders in einem anderen Land generiert werden.
+[00:15:59 -> 00:16:03]  Wenn wir das ausbauen und als Lösung für den Klimaschutz sehen,
+[00:16:03 -> 00:16:06]  müssen wir in den anderen Ländern Strategien entwickeln,
+[00:16:06 -> 00:16:10]  wo wir den Wasserstoff aufbauen, wie wir ihn nach Deutschland
+[00:16:10 -> 00:16:12]  transportieren und das Ganze bezahlt.
+[00:16:12 -> 00:16:15]  Dadurch, dass der Wasserstoff so ineffizient ist,
+[00:16:15 -> 00:16:17]  wird er am Ende sehr teuer sein.
+[00:16:17 -> 00:16:19]  Vermutlich ist es die preiswertere Art,
+[00:16:19 -> 00:16:22]  in Deutschland auf effizientere Systeme zu setzen,
+[00:16:22 -> 00:16:24]  die auf Direktstrombasis arbeiten,
+[00:16:24 -> 00:16:27]  Wärmepumpe, Stromheizungen und Elektroautos,
+[00:16:27 -> 00:16:30]  weil wir hier eine viel effizientere und preiswertere Art
+[00:16:30 -> 00:16:32]  der Versorgung bekommen.
+[00:16:32 -> 00:16:34]  Perspektivwechsel.
+[00:16:37 -> 00:16:41]  Ein Forschungslabor an der Technischen Universität Dresden.
+[00:16:48 -> 00:16:52]  Eine viel effizientere, preiswertere Art der Versorgung.
+[00:16:52 -> 00:16:55]  Genau daran forscht das Team von Prof. Seifert
+[00:16:55 -> 00:16:58]  und verfolgt dafür einen völlig neuen Ansatz.
+[00:16:58 -> 00:17:00]  Im Zentrum steht der Mensch.
+[00:17:05 -> 00:17:09]  Es geht um den Energieverbrauch in der kleinsten Zelle.
+[00:17:11 -> 00:17:15]  Grundlagenforschung für Wärmepumpen, Baustoffe, Architektur.
+[00:17:15 -> 00:17:18]  Das sind Basisuntersuchungen, die wir hier leisten.
+[00:17:18 -> 00:17:20]  Die sind sehr aufwendig,
+[00:17:20 -> 00:17:23]  aber die uns zum Schluss eine Indikationsgröße geben.
+[00:17:23 -> 00:17:25]  Wie kann ich Anlagentechnik steuern?
+[00:17:25 -> 00:17:28]  Wenn ich das weiß, wie ich Anlagentechnik steuern kann,
+[00:17:28 -> 00:17:31]  kann ich das im Sinne der Energiewende positiv steuern.
+[00:17:31 -> 00:17:33]  Im Zentrum der Forschungen
+[00:17:34 -> 00:17:37]  steht die Idee einer kleinen autonomen Energiezelle.
+[00:17:37 -> 00:17:39]  Die intelligente Zelle
+[00:17:39 -> 00:17:43]  erzeugt möglichst den gesamten Energiebetrieb der Zelle.
+[00:17:43 -> 00:17:45]  Sie steuert den Verbrauch,
+[00:17:45 -> 00:17:49]  wie Waschen, Kühlen oder Laden von Batterien, so flexibel,
+[00:17:49 -> 00:17:53]  dass sich Erzeugung und Verbrauch möglichst die Waage halten.
+[00:17:53 -> 00:17:56]  Überschüssige Energie wird zusätzlich gespeichert.
+[00:17:56 -> 00:18:00]  Die Abgabe und Aufnahme von Energie außerhalb der Zelle
+[00:18:00 -> 00:18:02]  wird durch den Preis gesteuert.
+[00:18:02 -> 00:18:04]  Der Einsignal dafür ist,
+[00:18:04 -> 00:18:07]  ob es gerade viel oder wenig Strom gibt.
+[00:18:07 -> 00:18:10]  Die Energiezelle ist ein Teil der Zelle.
+[00:18:11 -> 00:18:14]  Ein neuer Ansatz in der elektrischen Energieversorgung
+[00:18:14 -> 00:18:16]  ist der sogenannte zellulare Ansatz.
+[00:18:16 -> 00:18:20]  Der Begriff der Zelle kommt eher aus dem biologischen Bereich.
+[00:18:20 -> 00:18:23]  Unser Körper ist aus vielen kleinen Zellen aufgebaut.
+[00:18:23 -> 00:18:26]  Jede Zelle für sich ist zum bestimmten Bereich
+[00:18:26 -> 00:18:28]  auch für sich lebensfähig,
+[00:18:28 -> 00:18:32]  zumindest wenn sie sich in einer bestimmten Umgebung befindet.
+[00:18:32 -> 00:18:35]  Die neue Sicht, die man auf die Energieversorgung hat,
+[00:18:35 -> 00:18:37]  ist auch dieser zellulare Ansatz.
+[00:18:37 -> 00:18:41]  Ich habe eine große Anzahl von dezentralen Erzeugungsanlagen,
+[00:18:41 -> 00:18:43]  aber auch Verbrauchsanlagen.
+[00:18:43 -> 00:18:47]  Deshalb passt dieser Begriff der Zelle aus meiner Sicht sehr gut
+[00:18:47 -> 00:18:52]  auf die neue Organisationsstruktur in der elektrischen Energieversorgung.
+[00:18:52 -> 00:18:56]  Die Zelle verbindet dabei die unterschiedlichsten Energieträger.
+[00:18:57 -> 00:19:00]  Das nennt man auch Sektoren-Kopplung.
+[00:19:00 -> 00:19:03]  Für die Forscher der TU Dresden-Neuland.
+[00:19:03 -> 00:19:05]  Denn hier müssen die Zellen
+[00:19:05 -> 00:19:08]  unterschiedlichste Disziplinen eng zusammenarbeiten,
+[00:19:08 -> 00:19:10]  die vorher getrennt geforscht haben.
+[00:19:10 -> 00:19:13]  Elektrische Energieversorgung, Wärmeversorgung, Gasversorgung.
+[00:19:13 -> 00:19:16]  Alle drei Energieträger wurden getrennt betrachtet,
+[00:19:16 -> 00:19:18]  getrennt geplant, getrennt betrieben.
+[00:19:19 -> 00:19:22]  Durch diesen zellularen Ansatz und die neuen Technologien,
+[00:19:22 -> 00:19:24]  die es gibt, wie z.B. Brennstoffzellen,
+[00:19:24 -> 00:19:27]  wird es möglich, oder ist es auch die Herausforderung
+[00:19:27 -> 00:19:29]  dieser verschiedenen Energieträger,
+[00:19:29 -> 00:19:32]  gemeinsam mit den anderen Energieträgern zu arbeiten?
+[00:19:32 -> 00:19:34]  Es ist eine Herausforderung,
+[00:19:34 -> 00:19:37]  diese verschiedenen Energieträger gemeinsam zu betrachten,
+[00:19:37 -> 00:19:39]  schon auf der zellularen Ebene.
+[00:19:40 -> 00:19:43]  In der Energiewirtschaft ist es eine kleine Revolution.
+[00:19:43 -> 00:19:45]  Nicht mehr die großen Kraftwerke,
+[00:19:45 -> 00:19:48]  sondern die kleinsten autonomen Einheiten
+[00:19:48 -> 00:19:50]  stehen im Fokus der Forscher.
+[00:19:50 -> 00:19:54]  So eine Zelle kann so ein Haus sein, mit einer PV-Anlage auf dem Dach.
+[00:19:54 -> 00:19:57]  Ziel ist es, die Energie, die hier eintrifft,
+[00:19:57 -> 00:20:00]  mithilfe einer intelligenten Steuerung zu verwalten.
+[00:20:00 -> 00:20:03]  An sonnigen Tagen soll der überschüssige Strom
+[00:20:03 -> 00:20:07]  nicht ins Netz geleitet, sondern möglichst im Haus genutzt werden.
+[00:20:07 -> 00:20:09]  Z.B. mithilfe einer Wärmepumpe.
+[00:20:09 -> 00:20:11]  Die in Wärme gewandelte Energie
+[00:20:11 -> 00:20:15]  kann dann in einem Pufferspeicher mit Wasser gespeichert werden.
+[00:20:16 -> 00:20:18]  Um diese Temperatur bereitzustellen,
+[00:20:18 -> 00:20:20]  ist eine Heizleistung erforderlich.
+[00:20:20 -> 00:20:23]  Das sehen Sie hier in der rot dargestellten Kurve.
+[00:20:23 -> 00:20:27]  Dieses warme Wasser wird von der Heizleistung ausgetauscht.
+[00:20:28 -> 00:20:31]  Dieses warme Wasser wird dann weitergeleitet
+[00:20:31 -> 00:20:34]  in den 2. Kreislauf zu einem Raumheizkörper,
+[00:20:34 -> 00:20:37]  der sich hier in dem unteren Bereich befindet.
+[00:20:37 -> 00:20:41]  Wo liegt da für Sie die Chance für die Energiewende in Zukunft?
+[00:20:41 -> 00:20:44]  Die Chance für die Energiewende liegt darin,
+[00:20:44 -> 00:20:47]  dass durch diese interdisziplinäre Zusammenarbeit
+[00:20:47 -> 00:20:51]  eine Komplexität des Energiesystems erst mal abbildbar wird.
+[00:20:51 -> 00:20:54]  Wir müssen das im Gesamten betrachten.
+[00:20:55 -> 00:21:00]  Wenn man eine Photovoltaikanlage auf dem Dach seines Einfamilienhauses hat
+[00:21:00 -> 00:21:03]  und kann bestimmte Energie dazwischen speichern,
+[00:21:03 -> 00:21:06]  also nicht mehr an das elektrische Netz einspeisen,
+[00:21:06 -> 00:21:09]  dann ist dort eine gewisse Kapazität frei.
+[00:21:09 -> 00:21:12]  Ich schaffe Transportkapazitäten, lenke frei an dieser Stelle
+[00:21:12 -> 00:21:16]  und könnte z.B. E-Mobilität aufladen bzw. dort integrieren.
+[00:21:16 -> 00:21:18]  Oder andere speisen ihren Strom ein.
+[00:21:18 -> 00:21:20]  Wir haben dort die Möglichkeit,
+[00:21:20 -> 00:21:23]  wo wir Energie erzeugen, Energie zu verbrauchen.
+[00:21:23 -> 00:21:27]  Neun Jahre lang hat das Team der TU Dresden daran geforscht,
+[00:21:28 -> 00:21:32]  wie sich das Verhalten der Zelle auf das Energiesystem auswirkt.
+[00:21:32 -> 00:21:34]  Und umgekehrt.
+[00:21:34 -> 00:21:37]  Alles, was eine intelligente Zelle wissen muss,
+[00:21:37 -> 00:21:39]  steckt in dieser kleinen Box.
+[00:21:39 -> 00:21:42]  Und darin Algorithmen, die selber lernen können
+[00:21:42 -> 00:21:45]  anhand von Wetterdaten und Benutzerverhalten.
+[00:21:45 -> 00:21:49]  Nun sollen die Erkenntnisse aus dem Labor draußen im echten Raum
+[00:21:49 -> 00:21:51]  erprobt werden.
+[00:21:51 -> 00:21:55]  Dieser Hausbesitzer will seinen Solarstrom selbst verbrauchen,
+[00:21:55 -> 00:21:57]  statt ins Netz zu leiten.
+[00:21:57 -> 00:22:01]  Ich habe Ende 2019 die PV-Platten installieren lassen.
+[00:22:01 -> 00:22:03]  Es sind 20 Platten.
+[00:22:03 -> 00:22:05]  Mein Anliegen wäre jetzt noch,
+[00:22:05 -> 00:22:08]  da ich mir ein Marine-Hybrid-Auto zugelegt habe,
+[00:22:09 -> 00:22:12]  dieses Auto über die Solarenergie zu laden.
+[00:22:12 -> 00:22:14]  Und das ist gar nicht so einfach.
+[00:22:14 -> 00:22:18]  Denn das Auto zieht sich den Strom lieber schnell aus dem Netz,
+[00:22:18 -> 00:22:20]  als auf die Sonne zu warten.
+[00:22:20 -> 00:22:23]  Auch dann, wenn es ungenutzt in der Garage steht.
+[00:22:23 -> 00:22:25]  So, hier sind die Stecker.
+[00:22:25 -> 00:22:27]  Hier ist eine Klappe, die kann man öffnen.
+[00:22:28 -> 00:22:31]  Die Schutzklappe entfernen, und dann wird er angesteckt.
+[00:22:31 -> 00:22:33]  Das Auto erkennt selbstständig,
+[00:22:33 -> 00:22:37]  dass das Volk dran ist und fängt automatisch an zu laden.
+[00:22:37 -> 00:22:40]  Und dann kann man den Strom aus dem Netz ziehen.
+[00:22:40 -> 00:22:43]  Die neu installierte Box optimiert zunächst die Kommunikation
+[00:22:43 -> 00:22:46]  zwischen den verschiedenen Anlagen im Haus.
+[00:22:46 -> 00:22:48]  Der PV-Anlage und der Autobatterie.
+[00:22:48 -> 00:22:50]  Aber in Zukunft auch den Wärmespeicher,
+[00:22:50 -> 00:22:53]  den Kühlschrank oder die Waschmaschine.
+[00:22:53 -> 00:22:55]  Überall dort, wo der Verbrauch flexibel ist
+[00:22:55 -> 00:22:57]  oder Speicherpotenzial vorhanden,
+[00:22:57 -> 00:23:00]  kann überschüssige Energie genutzt werden.
+[00:23:00 -> 00:23:02]  Das ist eine sehr wichtige Sache,
+[00:23:02 -> 00:23:05]  weil man nicht weiß, wie viel Energie da drin ist.
+[00:23:05 -> 00:23:07]  Das ist eine sehr wichtige Sache.
+[00:23:07 -> 00:23:09]  Hier sieht man den aktuellen Stand.
+[00:23:09 -> 00:23:12]  Wir speisen aktuell 2,6 kW Leistung ein.
+[00:23:12 -> 00:23:14]  2,2 kW fließen davon ins Netz.
+[00:23:14 -> 00:23:17]  Und 300 Watt von der Solareinspeisung von 2,6 kW
+[00:23:17 -> 00:23:19]  verbrauchen wir aktuell zu Hause.
+[00:23:19 -> 00:23:22]  Was wir perspektivisch mit unserer Swarmbox besser machen,
+[00:23:22 -> 00:23:26]  ist, dass wir z.B. einen Heizstab zusätzlich mit integrieren,
+[00:23:26 -> 00:23:29]  mit dem wir dann Wärme aus der Solarenergie generieren können.
+[00:23:29 -> 00:23:32]  Oder zukünftig in solchen Zeiten wie jetzt,
+[00:23:32 -> 00:23:36]  dass wir z.B. einen Heizstab zusätzlich mit integrieren können,
+[00:23:36 -> 00:23:39]  dass wir z.B. einen Heizstab zusätzlich mit integrieren können,
+[00:23:39 -> 00:23:43]  damit diese Energie nicht aus dem Netz bereitgestellt wird,
+[00:23:43 -> 00:23:45]  sondern über die Solarenergie.
+[00:23:45 -> 00:23:48]  Wenn in Zukunft jedes Haus eine PV-Anlage auf dem Dach hat,
+[00:23:48 -> 00:23:52]  kann schnell zu viel Energie auf einmal ins Netz gespeist werden.
+[00:23:52 -> 00:23:56]  Genau hier soll die Box in Zukunft Einspeisung und Verbrauch so steuern,
+[00:23:56 -> 00:23:59]  dass auch das umliegende Niederspannungsnetz
+[00:23:59 -> 00:24:01]  keinen Schaden nimmt.
+[00:24:01 -> 00:24:05]  Die einzelne Zelle wird dann Teil eines zellularen Systems.
+[00:24:06 -> 00:24:09]  Wenn ich in Deutschland heute ein Haus baue,
+[00:24:09 -> 00:24:11]  dann kriege ich einen Netzanschluss.
+[00:24:11 -> 00:24:13]  Und ich bezahle für diesen Netzanschluss.
+[00:24:13 -> 00:24:17]  Der Netzanschluss hat in den meisten Fällen 30 Kilowatt.
+[00:24:17 -> 00:24:19]  Wenn alle diese Häuser an dem Netz
+[00:24:19 -> 00:24:22]  diese 30 Kilowatt zur gleichen Zeit nutzen würden,
+[00:24:22 -> 00:24:24]  würde das Netz zusammenbrechen.
+[00:24:24 -> 00:24:27]  Seit 13 Jahren erforscht Prof. Heilscher
+[00:24:27 -> 00:24:29]  an der Technischen Hochschule Ulm,
+[00:24:29 -> 00:24:33]  das Verhalten von dezentralen, regenerativen Energiesystemen
+[00:24:33 -> 00:24:36]  in lokalen und regionalen Netzen vor Ort.
+[00:24:38 -> 00:24:41]  Kurz gesagt, wie kriegen wir all diesen Solarstrom
+[00:24:41 -> 00:24:43]  in die Stromnetze rein?
+[00:24:45 -> 00:24:47]  Die Leute, die einspeisen wollen,
+[00:24:47 -> 00:24:50]  wenn die begrenzen, welche Leistung sie einspeisen,
+[00:24:50 -> 00:24:54]  weil sie eben selbst optimieren, erst mal in ihrem Haushalt selbst
+[00:24:54 -> 00:24:57]  und dann auch eine Optimierung in diesem Ortsnetz.
+[00:24:57 -> 00:25:00]  Das ist Kern dieses zellulären Ansatzes.
+[00:25:00 -> 00:25:02]  Dann können wir einen stärkeren Ausbau
+[00:25:02 -> 00:25:06]  und höhere Anteile regenerativer Energien vor Ort nutzen.
+[00:25:06 -> 00:25:08]  Und diese Zellen weiten sich dann auch aus.
+[00:25:08 -> 00:25:11]  Ich habe die einzelnen Gebäude oder Quartiere.
+[00:25:11 -> 00:25:13]  Ich habe so ein Ortsnetz.
+[00:25:13 -> 00:25:16]  Ich habe dann mehrere Siedlungen zusammen,
+[00:25:16 -> 00:25:18]  die an einem Mittelspannungsnetz hängen.
+[00:25:18 -> 00:25:20]  Das geht fort.
+[00:25:20 -> 00:25:23]  Und das ist die Grundlage dieser Veränderung,
+[00:25:23 -> 00:25:25]  dieses zellulären Ansatzes.
+[00:25:25 -> 00:25:29]  Auf dem wir arbeiten und dem mittlerweile an sehr vielen Stellen
+[00:25:29 -> 00:25:32]  für eine dezentrale Energieversorgung verfolgt wird.
+[00:25:32 -> 00:25:34]  Z.B. in Berlin.
+[00:25:34 -> 00:25:37]  Auf dem Gelände des früheren Anhalter Güterbahnhofs
+[00:25:38 -> 00:25:40]  in Berlin-Kreuzberg
+[00:25:40 -> 00:25:43]  entstand ein ganzes Wohnviertel mit eigener Energieversorgung.
+[00:25:44 -> 00:25:46]  Der Möckern-Kiez.
+[00:25:46 -> 00:25:49]  Selbstverwaltungs- und Energieversorgungs-Kiez.
+[00:25:49 -> 00:25:51]  Das ist ein Wohnzimmer,
+[00:25:51 -> 00:25:53]  das eine eigene Energieversorgung hat.
+[00:25:53 -> 00:25:55]  Der Möckern-Kiez.
+[00:25:55 -> 00:25:59]  Selbstverwaltet von einer Genossenschaft mit 2.500 Mitgliedern.
+[00:25:59 -> 00:26:02]  Durch die gewaltige Hitze wird Wasser zu Dampf.
+[00:26:02 -> 00:26:04]  Angefangen hat alles damit,
+[00:26:05 -> 00:26:08]  dass wir hier als Familie angezogen sind in den Möckern-Kiez.
+[00:26:08 -> 00:26:11]  Ich habe Nachhaltigkeitsmanagement studiert.
+[00:26:11 -> 00:26:14]  Mir ist die Art und Weise, wie wir wohnen, total wichtig.
+[00:26:14 -> 00:26:17]  Ich finde auch toll, dass das hier ein Pionierprojekt ist.
+[00:26:18 -> 00:26:20]  Das hat mich schon ziemlich angezogen.
+[00:26:20 -> 00:26:24]  Wir sind hier so, wie ich mir die Zukunft von Wohnen vorstelle.
+[00:26:24 -> 00:26:26]  Das finde ich gut.
+[00:26:26 -> 00:26:28]  Doch der Idee,
+[00:26:28 -> 00:26:31]  einfach den selbst produzierten Strom an die Mieter zu verteilen,
+[00:26:32 -> 00:26:35]  standen viele gesetzliche und steuerliche Hürden im Weg.
+[00:26:35 -> 00:26:37]  Viele Kompromisse mussten gemacht werden.
+[00:26:37 -> 00:26:39]  Auch darum erreichte das Projekt
+[00:26:39 -> 00:26:42]  bisher noch nicht ganz die verfolgten Ziele.
+[00:26:42 -> 00:26:45]  Das Thema Ökologie ist unseren Bewohnern sehr wichtig
+[00:26:45 -> 00:26:47]  und unseren Mitgliedern.
+[00:26:47 -> 00:26:50]  Wir sind der Grundpfeiler des Gesamtkonzeptes.
+[00:26:50 -> 00:26:54]  Ziel war es, selbst alles, was man verbraucht, selber zu erzeugen.
+[00:26:54 -> 00:26:56]  Das ist beim Strom nicht ganz gelungen.
+[00:26:56 -> 00:27:00]  Wir produzieren etwa nur die Hälfte von dem, was wir verbrauchen.
+[00:27:00 -> 00:27:04]  Aber es gibt durchaus Möglichkeiten, das noch weiterzuentwickeln.
+[00:27:04 -> 00:27:08]  Wir sind mit Sicherheit noch nicht am Ende unserer Bergstrecke.
+[00:27:08 -> 00:27:10]  Es gilt also, noch eine Menge zu verbessern
+[00:27:10 -> 00:27:15]  auf dem Weg zu CO2-neutraler Strom- und Wärmeversorgung in der Stadt.
+[00:27:16 -> 00:27:18]  Dann zeige ich euch mal das Biomethan-BHKW.
+[00:27:18 -> 00:27:22]  Wir können das heute mal aufmachen, es wird etwas lauter werden.
+[00:27:27 -> 00:27:30]  Wir befinden uns jetzt im Herzstück des Ganzen.
+[00:27:30 -> 00:27:32]  Hier werden 16 Gebäude insgesamt versorgt,
+[00:27:32 -> 00:27:34]  über 100% Biomethan-BHKW.
+[00:27:34 -> 00:27:37]  Und für die Spitzenzeiten, insbesondere im Winter,
+[00:27:37 -> 00:27:39]  mit einem Gaskessel.
+[00:27:39 -> 00:27:42]  In der Energiezentrale geht es primär um Wärme.
+[00:27:42 -> 00:27:46]  Dadurch, dass wir aber das Biomethan-BHKW eingebaut haben,
+[00:27:46 -> 00:27:48]  kriegen wir im Prinzip als Nebenprodukt den Strom,
+[00:27:49 -> 00:27:52]  den wir hier im Kiez einsetzen, in einem sog. Mieterstrom-Produkt.
+[00:27:52 -> 00:27:56]  Das Ganze wird gekoppelt mit PV-Anlagen auf den Dächern selbst,
+[00:27:56 -> 00:27:58]  mit 135 kW Peak.
+[00:27:58 -> 00:28:01]  735 t CO2 werden so jährlich eingespart,
+[00:28:02 -> 00:28:05]  unterstützt durch eine intelligente Steuerung.
+[00:28:05 -> 00:28:09]  Wir sehen hier die Primär-Technik mit den Kesseln und dem BHKW.
+[00:28:09 -> 00:28:12]  Die Puffer und die beiden Netze selbst.
+[00:28:12 -> 00:28:14]  Und aktuelle Verbräuche sehen,
+[00:28:14 -> 00:28:17]  so wie die letzte Woche sich darstellen lassen,
+[00:28:17 -> 00:28:21]  Tagesverbräuche darstellen und somit Betriebsdaten aufnehmen.
+[00:28:21 -> 00:28:24]  Die einerseits zum Monitoring interessant sind,
+[00:28:24 -> 00:28:26]  andererseits aber auch zur Betriebsoptimierung.
+[00:28:30 -> 00:28:33]  Die Bewohnerinnen und Bewohner im Möckern-Kiez
+[00:28:33 -> 00:28:36]  wollen aber nicht nur technische Lösungen
+[00:28:36 -> 00:28:38]  für eine erfolgreiche Energiewende.
+[00:28:38 -> 00:28:41]  In dieser WG wohnen ein Paar und zwei Schwestern.
+[00:28:41 -> 00:28:44]  Und sie sparen bereits durch das Zusammenlegen im Alltag
+[00:28:44 -> 00:28:46]  Ressourcen und Energie ein.
+[00:28:49 -> 00:28:52]  Was ich schön finde hier, dass wir Energie,
+[00:28:52 -> 00:28:55]  jedenfalls einen Großteil von der Energie, die wir verbrauchen,
+[00:28:56 -> 00:28:58]  auch hier produzieren.
+[00:28:58 -> 00:29:02]  Mit diesem Blockheizkraftwerk und mit diesen Photovoltaikanlagen.
+[00:29:02 -> 00:29:06]  Ich habe vorher in so einen typischen Berliner Kiez
+[00:29:06 -> 00:29:10]  im Wohnhaus gewohnt mit vielen Parteien, die sich kaum kannten.
+[00:29:10 -> 00:29:15]  Wo man keinen Einfluss nehmen konnte auf energetische Bedingungen.
+[00:29:17 -> 00:29:20]  Wir kochen in der Regel für uns alle zusammen.
+[00:29:20 -> 00:29:22]  Jeden Tag in der Woche.
+[00:29:23 -> 00:29:26]  Und wir nutzen den Kühlschrank gemeinsam.
+[00:29:26 -> 00:29:29]  Gemeinschaftliches Leben ist viel nachhaltiger.
+[00:29:29 -> 00:29:31]  Und das wird oft nicht berücksichtigt.
+[00:29:37 -> 00:29:39]  Dass es anders geht,
+[00:29:39 -> 00:29:43]  wollen die Bewohnerinnen und Bewohner im Möckern-Kiez vorlegen.
+[00:29:43 -> 00:29:46]  Zum Thema Energiewende kann man hier ganz viel lernen.
+[00:29:46 -> 00:29:49]  Wir haben hier gezeigt, dass es im urbanen Raum geht,
+[00:29:49 -> 00:29:52]  sich da ein Stückchen weit unabhängig zu machen.
+[00:29:52 -> 00:29:54]  Das ist eine schöne Message,
+[00:29:54 -> 00:29:57]  zu zeigen, so kann die Stadt der Zukunft aussehen.
+[00:29:57 -> 00:30:00]  Aber taugt die Quartierslösung aus Berlin
+[00:30:00 -> 00:30:05]  auch für die Lösung der Probleme einer ganzen Stadt wie Heuerswerda?
+[00:30:05 -> 00:30:07]  Wärme für 22.000 Menschen,
+[00:30:07 -> 00:30:10]  Gewerbebetriebe, Schulen, soziale Einrichtungen.
+[00:30:13 -> 00:30:16]  Einzelne Versuche gibt es bereits.
+[00:30:16 -> 00:30:18]  Z.B. die Lausitzer Werkstätten,
+[00:30:18 -> 00:30:22]  Wohnstätte und Berufsbildung für Menschen mit Behinderung in Heuerswerda.
+[00:30:22 -> 00:30:24]  Der Strom und die Wärme
+[00:30:24 -> 00:30:28]  kommen heute schon von einem ganz ähnlichen Blockheizkraftwerk.
+[00:30:28 -> 00:30:30]  Und genauso wie die Anlage,
+[00:30:30 -> 00:30:33]  die den Möckern-Kiez mit Energie versorgt,
+[00:30:33 -> 00:30:37]  wird sie hier vor Ort produziert, bei einem Hersteller aus Heuerswerda.
+[00:30:38 -> 00:30:42]  Dezentrale Energieversorgung schafft neue Arbeitsplätze in der Region.
+[00:30:42 -> 00:30:46]  Sie ist damit auch ein zentrales Element des Strukturwandels.
+[00:30:46 -> 00:30:49]  Das Möckern-Kiez kann ein Vorbild sein.
+[00:30:49 -> 00:30:52]  Es ist ein Ansatz, wo Projekte realisiert werden können
+[00:30:52 -> 00:30:55]  mit regionaler Wärme- und Stromerzeugung.
+[00:30:58 -> 00:31:01]  Damit es nicht bei Insellösungen bleibt,
+[00:31:01 -> 00:31:06]  hat der BHKW-Hersteller Prof. Seifert von der TU Dresden mit an Bord genommen.
+[00:31:09 -> 00:31:14]  Wir haben eine Erdwärmepumpe, die das ganze Haus heizt und kühlt.
+[00:31:15 -> 00:31:19]  Und wir haben 85 kW Photovoltaikanlage auf dem Dach,
+[00:31:19 -> 00:31:23]  sodass wir auch so ziemlich unseren eigenen Strom nutzen können.
+[00:31:23 -> 00:31:25]  Wir freuen uns sehr,
+[00:31:25 -> 00:31:29]  dass wir heute unser Tech-EKG-System bei Ihnen installieren dürfen.
+[00:31:29 -> 00:31:33]  Das ist ein sehr großes Forschungsprojekt an der TU Dresden.
+[00:31:33 -> 00:31:37]  Wir wollen Ihre Liegenschaft in einen zellularen Ansatz integrieren.
+[00:31:37 -> 00:31:41]  Wir versuchen, aus der Region für die Region Energie zu erzeugen.
+[00:31:41 -> 00:31:45]  Meine Kollegen sind gerade dabei, das im System zu installieren.
+[00:31:45 -> 00:31:48]  Damit der zellulare Ansatz den Sprung aus der Forschung
+[00:31:48 -> 00:31:51]  in die reale Energieversorgung macht,
+[00:31:51 -> 00:31:54]  sind umfangreiche Untersuchungen notwendig.
+[00:31:54 -> 00:31:57]  Vorbereitungen für einen Feldtest des Projektteams
+[00:31:57 -> 00:31:59]  für thermisch-technische Anlagen.
+[00:31:59 -> 00:32:03]  Die Daten werden einerseits lokal in unseren Messkoffern aufgezeichnet
+[00:32:03 -> 00:32:06]  für 3-4 Wochen, wenn keine Internetverbindung da sein sollte.
+[00:32:06 -> 00:32:10]  Wenn wir Internet haben, werden die Daten gleich an eine Zentrale,
+[00:32:10 -> 00:32:13]  an unseren Cloud von der TU Dresden weitergeleitet,
+[00:32:13 -> 00:32:16]  wo wir uns die Daten online direkt ansehen können.
+[00:32:16 -> 00:32:18]  Am Anfang stand ein Computerspiel.
+[00:32:18 -> 00:32:21]  Prof. Seifert ließ die jungen Wissenschaftler
+[00:32:21 -> 00:32:25]  bei dem Versuch, die regionale Energieversorgung selber zu steuern,
+[00:32:25 -> 00:32:27]  gegeneinander antreten.
+[00:32:27 -> 00:32:30]  Schnell wurde klar, die Aufgabe ist sehr komplex.
+[00:32:30 -> 00:32:33]  Das Energiesystem in Deutschland verändert sich.
+[00:32:33 -> 00:32:36]  Vorher erfolgte die Stromversorgung durch ein großes Kraftwerk.
+[00:32:36 -> 00:32:39]  Jetzt wandelt sich das hin zu einem dezentralen System.
+[00:32:40 -> 00:32:43]  Viele kleine Anlagen versorgen sich untereinander selbst,
+[00:32:43 -> 00:32:45]  bzw. das gesamte System.
+[00:32:45 -> 00:32:49]  Deine Aufgabe ist in dem Spiel, die einzelnen Anlagen zu steuern.
+[00:32:49 -> 00:32:51]  Hier, über die einzelnen Schalter,
+[00:32:51 -> 00:32:54]  kann sie die einzelnen Anlagen an- und ausschalten.
+[00:32:54 -> 00:32:56]  Du siehst immer dargestellt,
+[00:32:56 -> 00:32:59]  wie das System funktioniert mit einem thermischen Kofferspeicher.
+[00:32:59 -> 00:33:02]  Wir wollen bezahlbare Energietechnik machen.
+[00:33:02 -> 00:33:05]  Wir wollen einen möglichst hohen regenerativen Anteil haben.
+[00:33:05 -> 00:33:07]  Treibhausgasminimierung war dabei.
+[00:33:07 -> 00:33:11]  Und wir wollen eine Stabilität der Energieversorgung haben.
+[00:33:11 -> 00:33:13]  Es muss warm und Strom zur Verfügung sein.
+[00:33:13 -> 00:33:16]  In der Simulation funktioniert die Steuerung
+[00:33:16 -> 00:33:18]  Tausender dezentraler Zellen am besten,
+[00:33:18 -> 00:33:21]  wenn sich das System über intelligente Algorithmen
+[00:33:21 -> 00:33:23]  selber koordiniert.
+[00:33:24 -> 00:33:27]  Es könnte ein Modell für das Energiesystem der Zukunft sein.
+[00:33:27 -> 00:33:30]  Die Energiewende von unten mit Millionen Kleinanlagen
+[00:33:30 -> 00:33:32]  überzeugt aber nicht alle.
+[00:33:32 -> 00:33:35]  Gerade bei den großen Versorgern gibt es Bedenken.
+[00:33:35 -> 00:33:38]  Die frühere Bundesvorsitzende der Grünen, Gunda Röstl,
+[00:33:39 -> 00:33:42]  war in der Kohlekommission, ist Mitglied im Wasserstoffrat
+[00:33:42 -> 00:33:44]  und sitzt im Aufsichtsrat von EnBW.
+[00:33:44 -> 00:33:47]  Als Geschäftsführerin der Stadtentwässerung Dresden
+[00:33:47 -> 00:33:49]  betreibt sie ihre eigene Energiewende.
+[00:33:49 -> 00:33:51]  Im Moment ist es so,
+[00:33:51 -> 00:33:55]  dass wir 80-85% der Erneuerbaren auf der Basis decken.
+[00:33:55 -> 00:33:57]  Das ist eine große Faulungsanlage,
+[00:33:57 -> 00:34:00]  wo wir aus dem Klärschlamm selber Methan herstellen,
+[00:34:00 -> 00:34:04]  dieses dann verstromen und uns damit auch selber versorgen.
+[00:34:04 -> 00:34:06]  Obwohl die Stadtentwässerung Dresden
+[00:34:06 -> 00:34:08]  damit selber zu einer Energiezelle wird,
+[00:34:08 -> 00:34:12]  sieht die Geschäftsführerin das Konzept als eine gute Idee.
+[00:34:12 -> 00:34:14]  Die Stadtentwässerung Dresden
+[00:34:14 -> 00:34:17]  ist eine gute Idee für die Energieversorgung Dresden.
+[00:34:17 -> 00:34:19]  Die Stadtentwässerung Dresden
+[00:34:19 -> 00:34:22]  sieht die Geschäftsführerin das Konzept als Lösung
+[00:34:22 -> 00:34:24]  für die Energiewende kritisch.
+[00:34:24 -> 00:34:26]  Dezentralität ist kein Wert an sich,
+[00:34:26 -> 00:34:29]  sondern was wir brauchen, ist Klimafreundlichkeit,
+[00:34:29 -> 00:34:32]  was wir brauchen, ist Versorgungssicherheit
+[00:34:32 -> 00:34:36]  und was wir brauchen, ist Wirtschaftlichkeit, also Effizienz.
+[00:34:36 -> 00:34:38]  Sonst wird es zu teuer.
+[00:34:38 -> 00:34:40]  Mehr Großanlagen in der Fläche,
+[00:34:40 -> 00:34:43]  v.a. auch große Solarparks, müssten in Zukunft
+[00:34:43 -> 00:34:46]  die große Menge an bezahlbarem Strom bereitstellen,
+[00:34:46 -> 00:34:49]  der durch den Atom- und Kohleausstieg wegfällt.
+[00:34:49 -> 00:34:52]  So wie hier der Solarpark Wesowilmersdorf,
+[00:34:52 -> 00:34:54]  den EnBW gerade in Betrieb genommen hat.
+[00:34:57 -> 00:35:00]  Das ist der erste Solarpark, der förderfrei,
+[00:35:00 -> 00:35:03]  faktisch über marktliche Instrumente sich selber finanziert.
+[00:35:03 -> 00:35:06]  Und er ist auch einer der größten mit 187 Megawatt.
+[00:35:07 -> 00:35:10]  Also das ist dann schon so ein halbes Kernkraftwerk,
+[00:35:10 -> 00:35:12]  wenn man mal so will.
+[00:35:12 -> 00:35:14]  Das ist schon sehr ordentlich,
+[00:35:14 -> 00:35:16]  was dort mit über 18.000 Solarmodulen
+[00:35:16 -> 00:35:18]  funktionabel aufgebaut wird.
+[00:35:18 -> 00:35:21]  Große Energieparks für große Versorger.
+[00:35:21 -> 00:35:24]  Die Energiewirtschaft tut sich bisher noch schwer
+[00:35:24 -> 00:35:26]  mit dezentralen Ansätzen.
+[00:35:26 -> 00:35:30]  Doch in der Lausitz hat ein Umdenken stattgefunden, Ortstermin.
+[00:35:30 -> 00:35:32]  Die große LEAG will in Zukunft
+[00:35:32 -> 00:35:36]  eine neue Energieversorgung für die gesamte Welt eröffnen.
+[00:35:36 -> 00:35:39]  Die Energieversorgung ist eine große Herausforderung.
+[00:35:40 -> 00:35:43]  Die große LEAG will in Zukunft mit dem Start-up kooperieren,
+[00:35:43 -> 00:35:47]  das aus der Forschung an der TU Dresden entstanden ist.
+[00:35:47 -> 00:35:50]  Wir sind auf dem Dach der LEAG-Verwaltung,
+[00:35:50 -> 00:35:55]  haben eine PV-Anlage installiert mit den Summen 143 kW Peak.
+[00:35:55 -> 00:35:57]  Wir versuchen zum einen,
+[00:35:57 -> 00:36:00]  die Erzeugung der PV-Anlage maximal zu nutzen,
+[00:36:01 -> 00:36:03]  um den Eigenverbrauch des Gebäudes zu decken.
+[00:36:03 -> 00:36:05]  Und was darüber hinaus ist,
+[00:36:05 -> 00:36:09]  das werden wir an dem Strommarkt entsprechend optimiert
+[00:36:09 -> 00:36:11]  und die Werkstattwerke vermarkten.
+[00:36:11 -> 00:36:14]  Das erste Ergebnis der Kooperation ist diese Steuerbox.
+[00:36:14 -> 00:36:18]  Wenn man einen Blick reinwirft, sieht man ein All-in-one-Konzept.
+[00:36:18 -> 00:36:21]  Wir haben integriert schon einen Netzteil, einen Switch,
+[00:36:21 -> 00:36:24]  um verschiedenste Geräte anzuschließen.
+[00:36:24 -> 00:36:27]  Hier auf dieser Rechereinheit würde die Prognose stattfinden.
+[00:36:27 -> 00:36:30]  Wir haben hier über die Erweiterungsmodule
+[00:36:30 -> 00:36:33]  die Möglichkeit, z.B. ein LTE-Modul einzustecken,
+[00:36:33 -> 00:36:35]  sodass keine weiteren Komponenten ringsrum
+[00:36:35 -> 00:36:38]  um den LEAG-Link installiert werden müssen.
+[00:36:38 -> 00:36:40]  Wir haben auf der einen Seite
+[00:36:40 -> 00:36:44]  konventionelle, herkömmliche Energieerzeugung.
+[00:36:44 -> 00:36:47]  Auf der anderen Seite haben wir euch als Start-ups,
+[00:36:47 -> 00:36:50]  die erneuerbare Energien flexibel gestalten wollen.
+[00:36:50 -> 00:36:52]  Wir haben die Energy-Cubes,
+[00:36:53 -> 00:36:55]  die das Ganze unter einem Dach zusammenfassen.
+[00:36:55 -> 00:36:57]  Der Zauberwürfel als Symbol
+[00:36:57 -> 00:37:01]  für einen radikalen Wandel in der Energiewirtschaft.
+[00:37:01 -> 00:37:05]  Dezentrale Energieversorgung vom großen Versorger.
+[00:37:06 -> 00:37:10]  Die Ideen und Erfahrungen aus dem Computerspiel der TU Dresden
+[00:37:10 -> 00:37:15]  sind in der Realwirtschaft angekommen, als virtuelles Kraftwerk.
+[00:37:15 -> 00:37:17]  Wir sind als Kraftwerkstandort
+[00:37:17 -> 00:37:19]  in den dezentralen Ansätzen neu unterwegs.
+[00:37:19 -> 00:37:23]  Wir sind ein klassischer zentraler Versorger, den wir haben.
+[00:37:23 -> 00:37:27]  Der Aspekt der Kombination von zentralen und dezentralen Aspekten,
+[00:37:27 -> 00:37:30]  das ist das, was wir unter virtuellen Kraftwerken verstehen,
+[00:37:30 -> 00:37:34]  was wir unter innovativen Kraftwerkseinsatzmanagement verstehen
+[00:37:34 -> 00:37:36]  und innovativen Vermarktungskonzepten.
+[00:37:37 -> 00:37:40]  Das virtuelle Kraftwerk könnte die Brücke bauen
+[00:37:40 -> 00:37:43]  zwischen dem dezentralen, zellularen Ansatz
+[00:37:43 -> 00:37:45]  und dem europäischen Verbundnetz.
+[00:37:46 -> 00:37:48]  Mit gebündelter Energie kann es auf dem Strommarkt
+[00:37:49 -> 00:37:52]  sowohl als Erzeuger als auch Verbraucher auftreten.
+[00:37:52 -> 00:37:55]  Wie eine Batterie kann das virtuelle Kraftwerk
+[00:37:55 -> 00:37:57]  Strom aufnehmen oder abgeben?
+[00:37:59 -> 00:38:03]  Den Preis bestimmen Angebot und Nachfrage.
+[00:38:03 -> 00:38:05]  Experten hoffen, dass so der Markt
+[00:38:05 -> 00:38:07]  die Schwankungen im Netz reduzieren kann
+[00:38:08 -> 00:38:11]  und ein Blackout in Zukunft verhindert wird.
+[00:38:14 -> 00:38:18]  Der größte europäische Erzeuger von erneuerbarer Energie
+[00:38:18 -> 00:38:20]  macht das heute schon.
+[00:38:20 -> 00:38:23]  Auf einer Testanlage sind große Batteriespeicher
+[00:38:23 -> 00:38:26]  und verschiedene erneuerbare Anlagen aufgebaut.
+[00:38:26 -> 00:38:29]  Die Energiewende in Miniatur.
+[00:38:29 -> 00:38:31]  Zuständig für den algorithmischen Stromhandel
+[00:38:31 -> 00:38:34]  ist der promovierte Physiker Konstantin Wiegandt.
+[00:38:37 -> 00:38:41]  Stadtkraft hat in Deutschland unterschiedliche Erzeugungstechnologien,
+[00:38:41 -> 00:38:43]  von denen viele dezentral organisiert sind,
+[00:38:43 -> 00:38:45]  z.B. Wind- und Solarenergie.
+[00:38:45 -> 00:38:48]  Die fassen wir zusammen im virtuellen Kraftwerk.
+[00:38:48 -> 00:38:50]  Das umfasst etwa 10.000 Megawatt.
+[00:38:50 -> 00:38:54]  Damit das größte virtuelle Kraftwerk in Deutschland und auch Europa.
+[00:38:54 -> 00:38:59]  Das norwegische Unternehmen erzeugt v.a. Strom mit Wasserkraft.
+[00:38:59 -> 00:39:04]  Auch hier am Standort ist ein kleines historisches Werk in Betrieb.
+[00:39:04 -> 00:39:06]  Wegen Niedrigwasser steht es gerade still.
+[00:39:06 -> 00:39:10]  Dafür produzieren die Solaranlagen 100%.
+[00:39:10 -> 00:39:13]  Wir schauen, wie ist die Vorhersage für die Solaranlagen?
+[00:39:13 -> 00:39:14]  Wie viel werden die einspeisen?
+[00:39:14 -> 00:39:15]  Jetzt speisen die sehr viel ein,
+[00:39:15 -> 00:39:17]  es wird aber nicht viel benötigt im Netz.
+[00:39:17 -> 00:39:19]  Der Preis ist niedrig.
+[00:39:19 -> 00:39:21]  In so einem Moment würde man auch in die Batterie
+[00:39:21 -> 00:39:23]  den Strom wieder einspeisen.
+[00:39:23 -> 00:39:25]  Und zu dem Zeitpunkt, wo dann keine Sonne da ist
+[00:39:25 -> 00:39:26]  und wir vielleicht so einen Abendpeak haben,
+[00:39:26 -> 00:39:29]  wo viele Leute Strom verbrauchen, wo es dunkel wird usw.,
+[00:39:29 -> 00:39:33]  können wir das auch wieder ausspeisen aus dieser Batterie.
+[00:39:34 -> 00:39:36]  Die Batteriespeicher können kurzfristig
+[00:39:36 -> 00:39:39]  die starke Volatilität der Erneuerbaren abfedern.
+[00:39:39 -> 00:39:45]  Und sie ähneln in ihrer Logik dem zellularen Ansatz.
+[00:39:45 -> 00:39:49]  Spannend, vielen Dank. Ich war noch nie in einer Batterie.
+[00:39:49 -> 00:39:51]  Da sind diverse, also Tausende von Anlagen
+[00:39:51 -> 00:39:53]  angeschlossen an dieses virtuelle Kraftwerk.
+[00:39:53 -> 00:39:57]  Und die müssen natürlich alle eben entsprechend der Wettersituation,
+[00:39:57 -> 00:40:00]  dem Strompreissignal gesteuert werden.
+[00:40:00 -> 00:40:02]  Da ist eine ganze Menge Digitalisierung
+[00:40:02 -> 00:40:03]  und Koordinationsarbeit hinter,
+[00:40:03 -> 00:40:05]  die man auch wieder brauchen würde im zellularen Ansatz.
+[00:40:06 -> 00:40:09]  Insofern kann man das auch als eine Vorstufe davon sehen.
+[00:40:09 -> 00:40:11]  Zu den Anlagen, die Wigand betreut,
+[00:40:11 -> 00:40:14]  gehört auch ein großes Pumpspeicherkraftwerk in der Nähe.
+[00:40:15 -> 00:40:17]  Es wurde in den 60er-Jahren gebaut,
+[00:40:17 -> 00:40:22]  um in der Nacht Strom zu speichern und an den Tagesspitzen abzugeben.
+[00:40:22 -> 00:40:23]  Im Rahmen der Energiewende
+[00:40:23 -> 00:40:27]  haben die Wasserreserven wieder an Bedeutung gewonnen.
+[00:40:27 -> 00:40:29]  Das hat natürlich ein massives Speicherbecken.
+[00:40:29 -> 00:40:31]  Und da können wir eben wie bei einer Batterie,
+[00:40:31 -> 00:40:33]  also ich sage mal, es ist dann eigentlich
+[00:40:33 -> 00:40:37]  auch nur eine Gravitationsbatterie, so ein Pumpspeicherkraftwerk,
+[00:40:37 -> 00:40:40]  genau wie diese Batterie Strom eben verbrauchen
+[00:40:40 -> 00:40:44]  oder eben auch wieder produzieren, wenn es nötig ist.
+[00:40:44 -> 00:40:47]  Das Pumpspeicherkraftwerk kann aber noch etwas,
+[00:40:47 -> 00:40:50]  was die großen Atom- und Kohlekraftwerke,
+[00:40:50 -> 00:40:54]  aber auch die BHKW nicht leisten können.
+[00:40:54 -> 00:40:56]  Es braucht keinen Strom, um anzufahren.
+[00:40:56 -> 00:41:01]  Es ist schwarzstartfähig und hat damit eine ganz besondere Bedeutung
+[00:41:01 -> 00:41:05]  für die Versorgungssicherheit im Fall eines Blackouts.
+[00:41:05 -> 00:41:08]  Wenn die Wassermassen sich durch die Rohre
+[00:41:08 -> 00:41:10]  300 Höhenmeter in die Tiefe schieben
+[00:41:10 -> 00:41:15]  und im Turbinenhaus die vier großen Maschinensätze antreiben,
+[00:41:15 -> 00:41:19]  dann gehen überall die Lichter wieder an.
+[00:41:19 -> 00:41:22]  Sollte es denn wirklich zum Blackout des Netzes kommen,
+[00:41:22 -> 00:41:25]  wäre ein Pumpspeicherkraftwerk durchaus in der Lage,
+[00:41:25 -> 00:41:28]  das Netz wieder zügig aufzubauen.
+[00:41:28 -> 00:41:31]  Also beispielsweise können wir mit dem vorhandenen Wasser
+[00:41:31 -> 00:41:35]  fünf Stunden lang diese 220 Megawatt zur Verfügung stellen,
+[00:41:35 -> 00:41:40]  was in Batteriespeicher schon deutliche Dimensionen annehmen würde
+[00:41:41 -> 00:41:43]  für diese Leistungsklasse.
+[00:41:43 -> 00:41:46]  Das Risiko für einen Blackout wird durch den Ausstieg
+[00:41:46 -> 00:41:49]  aus der konventionellen Energieversorgung,
+[00:41:49 -> 00:41:53]  der Mobilitäts- und Wärmewende und einen ungesteuerten Zubau
+[00:41:53 -> 00:41:57]  von Erneuerbaren zunehmen, glauben Kritiker.
+[00:41:57 -> 00:42:00]  Große Wind- und Solarparks können nicht verhindern,
+[00:42:00 -> 00:42:04]  dass das Gleichgewicht zwischen Erzeugung und Verbrauch
+[00:42:04 -> 00:42:07]  im europäischen Stromnetz ins Wanken kommt.
+[00:42:08 -> 00:42:10]  Wasserstoff könnte die Lösung sein.
+[00:42:10 -> 00:42:13]  Doch bis eine funktionierende Infrastruktur steht,
+[00:42:13 -> 00:42:16]  werden Jahrzehnte vergehen.
+[00:42:16 -> 00:42:19]  Die Herausforderung bei der Energiewende ist das Tempo.
+[00:42:19 -> 00:42:22]  Deswegen wird die Bedeutung der dezentralen Erzeugung,
+[00:42:22 -> 00:42:24]  also Solar- und Windenergie, direkt vor Ort
+[00:42:24 -> 00:42:28]  und auch die Speicherung möglichst verbrauchsnah sinnvoll sein.
+[00:42:28 -> 00:42:30]  Das können wir relativ schnell aufbauen.
+[00:42:30 -> 00:42:32]  Da können auch alle Akteure mitspielen.
+[00:42:32 -> 00:42:35]  Deswegen glaube ich, dass die Lösung schon sehr dezentral sein wird,
+[00:42:36 -> 00:42:38]  also dann wirklich auch sehr zellulär am Ende.
+[00:42:38 -> 00:42:40]  Der zellulare Ansatz kommt langsam
+[00:42:40 -> 00:42:45]  auch bei den großen Playern der Energiewirtschaft an.
+[00:42:45 -> 00:42:48]  Die großen Energieversorger überdenken ihr Geschäftsmodell
+[00:42:48 -> 00:42:51]  und sind offen für neue Ideen.
+[00:42:51 -> 00:42:53]  Da gibt es ganz viele Aspekte,
+[00:42:53 -> 00:42:55]  die kann man ummünzen auf dezentrale Ansätze.
+[00:42:55 -> 00:42:58]  Das möchten wir einfach nutzen und Technologien erweitern,
+[00:42:59 -> 00:43:00]  in Partnerschaften unterwegs sein
+[00:43:00 -> 00:43:03]  und dadurch auch einen neuen Horizont schaffen.
+[00:43:03 -> 00:43:06]  In der Praxis stehen allerdings komplizierte steuerliche
+[00:43:06 -> 00:43:11]  und gesetzliche Regelungen dezentralen Projekten im Weg.
+[00:43:11 -> 00:43:13]  Wo sich die Politik noch ganz schwer tut,
+[00:43:13 -> 00:43:18]  ist, Energie lokal zu verteilen, also lokale Märkte.
+[00:43:18 -> 00:43:21]  Dass ich meine Macht an Strom verkaufe.
+[00:43:21 -> 00:43:25]  Da fehlt noch wirklich der Durchbruch, dass das möglich wird.
+[00:43:25 -> 00:43:29]  Aber ich bin fest davon überzeugt, dass so etwas in Zukunft möglich ist.
+[00:43:29 -> 00:43:31]  Technisch ist es möglich.
+[00:43:33 -> 00:43:37]  Es bleibt die Sorge einer Zweiklassen-Energiewende.
+[00:43:37 -> 00:43:40]  Ein zellulärer Ansatz für die, die es sich leisten können
+[00:43:41 -> 00:43:45]  und ein Auseinanderfallen des gemeinsamen europäischen Stromsystems
+[00:43:45 -> 00:43:49]  in viele kleine Zellen, in Gewinner und Verlierer.
+[00:43:49 -> 00:43:53]  Ich bin zutiefst überzeugt davon, dass wir auch große Anlagen brauchen.
+[00:43:53 -> 00:43:57]  Wir werden nicht alles im dezentralen Klein-Klein lösen können.
+[00:43:57 -> 00:44:01]  Ich denke aber, am Ende entscheiden doch irgendwie die Kosten,
+[00:44:01 -> 00:44:02]  was sich dann durchsetzt.
+[00:44:03 -> 00:44:04]  Und ich denke, diese Frage ist nicht entschieden.
+[00:44:05 -> 00:44:10]  Die Energiewende wird unser Energiesystem tiefgreifend verändern.
+[00:44:11 -> 00:44:13]  Der zellulare Ansatz kann dabei helfen,
+[00:44:13 -> 00:44:18]  Klimaziele zu erreichen, ohne die Versorgungssicherheit zu gefährden.
+[00:44:18 -> 00:44:21]  Virtuelle Kraftwerke und der Strommarkt
+[00:44:21 -> 00:44:25]  können die zellularen Systeme in das europäische Verbundsystem integrieren.
+[00:44:26 -> 00:44:30]  Die Weichen dafür müssen jetzt gestellt werden.
+[00:44:34 -> 00:44:38]  Untertitel im Auftrag des ZDF für funk, 2017

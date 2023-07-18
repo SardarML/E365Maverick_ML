@@ -1,0 +1,99 @@
+[00:00:00 -> 00:00:10]  Management solutions are one of the best friends of ICT professionals if you talk about Microsoft Deployment Toolkit and Windows Deployment Services.
+[00:00:10 -> 00:00:24]  These have some limitations, however, SCCM, which is an abbreviation of System Center Configuration Manager, offers you a lot, where you can manage devices and, in addition to that, users as well.
+[00:00:24 -> 00:00:34]  Hi everyone, this is Jay Singh and welcome to my channel TechNext Solutions and I decided to start a new YouTube video series on SCCM.
+[00:00:34 -> 00:00:53]  So I would like to share my experience with SCCM. I have been working with SCCM for more than 4 years and I have done SCCM deployments and on daily basis I work with SCCM and where we support primarily Windows 10 and user devices.
+[00:00:53 -> 00:01:03]  So we will start this series with fundamentals of SCCM. I know fundamentals are a bit boring but they are very important.
+[00:01:03 -> 00:01:14]  And then we will discuss about how we can implement our SCCM in Test Lab and then we will check out SCCM's functionality and how it can be used.
+[00:01:15 -> 00:01:25]  So throughout this video series I will be referring to Microsoft documentation and where you can actually go and read this documentation in your own time.
+[00:01:25 -> 00:01:30]  So let's just talk about fundamentals of SCCM, what SCCM is.
+[00:01:30 -> 00:01:38]  SCCM is a suite of management solutions. It manages both users and devices as well.
+[00:01:39 -> 00:01:43]  So now let's have a look at why we use Configuration Manager.
+[00:01:43 -> 00:01:53]  So one of the main thing is it minimizes manual tasks and maximizes software investments because you can monitor which software you use a lot.
+[00:01:53 -> 00:01:57]  If some software you use less you can minimize the license.
+[00:01:58 -> 00:02:06]  And on-demand software available for users where users they go online and they browse software center.
+[00:02:06 -> 00:02:13]  And software center we will discuss in the forthcoming videos and from there they can click and install required software.
+[00:02:13 -> 00:02:22]  And compliance setting management with the help of SCCM where we actually check the compliance settings on the configured devices.
+[00:02:23 -> 00:02:28]  And of course asset management like servers, desktops and mobile devices.
+[00:02:28 -> 00:02:32]  So now let's talk about Configuration Manager deployment.
+[00:02:32 -> 00:02:38]  So when we deploy Configuration Manager we deploy it as one or more sites.
+[00:02:38 -> 00:02:43]  So when we deploy as one more sites we talk about hierarchies.
+[00:02:43 -> 00:02:48]  Either it's a one or more it's just a hierarchy.
+[00:02:49 -> 00:02:54]  And when we deploy as sites there are different types of sites we have.
+[00:02:54 -> 00:02:59]  The first one is CAS. Central Administrative Site.
+[00:02:59 -> 00:03:05]  And it can support up to 25 child primary sites.
+[00:03:05 -> 00:03:09]  So now the next one is child primary site.
+[00:03:09 -> 00:03:13]  And something similar stand-alone primary site.
+[00:03:13 -> 00:03:19]  We will look at the difference between child primary site and stand-alone primary site.
+[00:03:19 -> 00:03:23]  And the last one is secondary site.
+[00:03:23 -> 00:03:31]  Anything which comes under child primary site or stand-alone primary site it is called as secondary site.
+[00:03:31 -> 00:03:37]  And secondary site it does not support further child sites.
+[00:03:38 -> 00:03:43]  So CAS which is Central Administrative Site.
+[00:03:43 -> 00:03:48]  It is for large scale deployments and it will manage other sites.
+[00:03:48 -> 00:03:52]  And it requires additional site for managing devices.
+[00:03:52 -> 00:03:56]  And this additional site is child primary site.
+[00:03:56 -> 00:04:00]  And you cannot change actually CAS to a primary site.
+[00:04:00 -> 00:04:04]  Second one is stand-alone primary site.
+[00:04:04 -> 00:04:10]  So it is for small scale deployments and you can manage devices directly from this site.
+[00:04:10 -> 00:04:16]  However CAS requires child primary site to manage devices.
+[00:04:16 -> 00:04:21]  So stand-alone primary site it does not require additional sites.
+[00:04:21 -> 00:04:30]  And as we discussed already that CAS it requires additional site to manage other devices.
+[00:04:31 -> 00:04:35]  And there is always option for expansion to a CAS.
+[00:04:35 -> 00:04:40]  And you can add more child primary sites as well.
+[00:04:40 -> 00:04:46]  Ok so what is the difference between stand-alone primary site and child primary site.
+[00:04:46 -> 00:04:53]  So most of the things are same only stand-alone primary site it comes at top of the hierarchy.
+[00:04:53 -> 00:04:57]  And child primary site it comes under CAS.
+[00:04:58 -> 00:05:04]  And also with stand-alone primary site you can install all the available roles.
+[00:05:04 -> 00:05:09]  However in child primary site some of the roles you cannot install.
+[00:05:09 -> 00:05:14]  Because they are already installed on CAS on Central Administrative Site.
+[00:05:14 -> 00:05:18]  Ok so and the last one is secondary site.
+[00:05:18 -> 00:05:26]  And secondary site it always comes under could be stand-alone primary site or child primary site.
+[00:05:26 -> 00:05:33]  Ok and all clients managed by primary site however secondary site it just helps primary site.
+[00:05:33 -> 00:05:36]  It could be stand-alone or child primary site.
+[00:05:36 -> 00:05:39]  So now let's talk about how many clients can be managed.
+[00:05:39 -> 00:05:45]  So one CAS can manage about 1 million clients.
+[00:05:45 -> 00:05:52]  And child primary site one child primary site can manage maximum 150,000.
+[00:05:52 -> 00:05:58]  And on the other hand stand-alone primary site can manage maximum 175,000.
+[00:05:58 -> 00:06:04]  Whereas secondary site can actually manage maximum 15,000 clients.
+[00:06:04 -> 00:06:09]  Ok for further reference links are given in the description which can be checked.
+[00:06:09 -> 00:06:11]  Site system roles.
+[00:06:11 -> 00:06:14]  So we can actually install roles.
+[00:06:14 -> 00:06:20]  So where we install SCCM this server becomes site system server.
+[00:06:20 -> 00:06:22]  And further we can install roles.
+[00:06:22 -> 00:06:24]  So there are a lot of roles available.
+[00:06:24 -> 00:06:26]  Let's have a look what are these roles.
+[00:06:26 -> 00:06:31]  And we'll have a quick look and in your own time you can read about these roles.
+[00:06:31 -> 00:06:36]  And some of these roles we will be actually using quite often.
+[00:06:36 -> 00:06:39]  And let's have a look on these ones first.
+[00:06:39 -> 00:06:43]  So one of the role can be application catalog website point.
+[00:06:43 -> 00:06:48]  And if you talk about further we have certificate registration point.
+[00:06:49 -> 00:06:52]  And database warehouse service point.
+[00:06:52 -> 00:06:53]  Distribution point.
+[00:06:53 -> 00:06:55]  That's gonna be the main one.
+[00:06:55 -> 00:06:58]  And endpoint protection point.
+[00:06:58 -> 00:06:59]  Enrollment point.
+[00:06:59 -> 00:07:01]  And there are more.
+[00:07:01 -> 00:07:03]  So read in your own time.
+[00:07:03 -> 00:07:08]  And in the forthcoming videos we will talk about all these roles in more detail when we install them.
+[00:07:08 -> 00:07:15]  Also some of the features and roles they are actually removed and depreciated.
+[00:07:15 -> 00:07:23]  So in the documentation if you go on this documentation you can have a look at what other features which are removed and depreciated.
+[00:07:23 -> 00:07:28]  And some of the site servers as well and some of the clients as well.
+[00:07:28 -> 00:07:31]  So licensing is another thing.
+[00:07:31 -> 00:07:36]  With the licensing there is LTSB which is long term servicing branch.
+[00:07:36 -> 00:07:39]  At the moment 1606 is supported.
+[00:07:39 -> 00:07:43]  And customers with active software assurance can use that.
+[00:07:44 -> 00:07:46]  And there is another one called current branch.
+[00:07:46 -> 00:07:49]  So current branch is up to date.
+[00:07:49 -> 00:07:58]  Wherever any feature update or any in console update these updates are delivered for current branch.
+[00:07:58 -> 00:08:01]  And there is another thing is technical preview.
+[00:08:01 -> 00:08:06]  So basically name tells all for testing and pre-release software.
+[00:08:06 -> 00:08:09]  So if you would like to test and you can use technical preview for that.
+[00:08:09 -> 00:08:12]  So a link is given in the description as well.
+[00:08:12 -> 00:08:15]  You can go on to that link and read more about this.
+[00:08:15 -> 00:08:20]  So now let's have a look at hardware requirements which are recommended by Microsoft.
+[00:08:20 -> 00:08:30]  If it's a standalone primary site with a database site role on the same server and CPU is 16 cores it's 96 GB memory.
+[00:08:30 -> 00:08:36]  And 80% of this memory has to be provided for SQL server.
+[00:08:37 -> 00:08:47]  And with standalone primary site server with a remote site database CPU can 8 cores and memory can be 16 GB.
+[00:08:47 -> 00:08:53]  And you can have a look at this table and this is the recommended hardware requirements by Microsoft.
+[00:08:53 -> 00:08:58]  That's all for this video and please give a thumbs up to this video and show your support.
+[00:08:58 -> 00:09:02]  And do not forget to subscribe to my channel if you have not done yet.
+[00:09:02 -> 00:09:04]  See you in the next video.

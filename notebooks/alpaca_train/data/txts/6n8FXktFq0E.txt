@@ -1,0 +1,267 @@
+[00:00:00 -> 00:00:07]  Hey there guys, most judicial review questions are problem type scenarios, so that'll be the main focus of this lecture
+[00:00:07 -> 00:00:11]  But hopefully we'll cover enough stuff so that if you do get an essay question
+[00:00:11 -> 00:00:17]  You'll also be able to answer that and I think judicial review is sort of split into two main sections
+[00:00:17 -> 00:00:23]  Firstly bringing case for judicial review and then secondly the actual grounds for judicial review
+[00:00:23 -> 00:00:25]  So we'll cover both in this lecture
+[00:00:26 -> 00:00:27]  Right, let's get started
+[00:00:27 -> 00:00:35]  So a question on judicial review normally centers around a person who has had a decision go against them in some way and they'll
+[00:00:35 -> 00:00:39]  Be looking to challenge that decision through the courts by way of judicial review
+[00:00:40 -> 00:00:45]  Now before we even get to that stage we have to make sure that the person is able to bring a case and there are
+[00:00:45 -> 00:00:47]  Four things that we have to look at
+[00:00:47 -> 00:00:54]  In this in this first main section that I talked about in the introduction, so we'll go through each of these in turn
+[00:00:55 -> 00:01:01]  So the first point is that has to be brought in relation to secondary legislation and the important thing is here that
+[00:01:01 -> 00:01:08]  primary legislation or acts of Parliament cannot be challenged and this comes back to the constitutional idea of
+[00:01:08 -> 00:01:10]  parliamentary sovereignty
+[00:01:12 -> 00:01:18]  Parliament should be able to make any laws that it wants to and those acts of Parliament cannot be challenged in the courts
+[00:01:18 -> 00:01:23]  Instead we're going to be looking at the challenging of secondary legislation
+[00:01:23 -> 00:01:30]  So statutory instruments in particular regulations, orders and most commonly in scenario type questions
+[00:01:30 -> 00:01:32]  decisions of public bodies
+[00:01:33 -> 00:01:36]  So that brings us on to our next point. What is a public body?
+[00:01:37 -> 00:01:40]  Well, there's a couple of key cases here in Ex parte Aga Khan
+[00:01:40 -> 00:01:45]  Aga Khan tried to bring a case against the Jockey Club and the courts turned around and said well
+[00:01:45 -> 00:01:49]  Actually, the Jockey Club is a relationship between private individuals
+[00:01:50 -> 00:01:56]  Operating out of the public sphere and so Aga Khan was not able to bring a case for judicial review
+[00:01:56 -> 00:02:03]  The court said that instead those types of decisions should be challenged through private law rather than public law
+[00:02:04 -> 00:02:08]  It doesn't necessarily bring us closer to a definition for a public body though
+[00:02:08 -> 00:02:14]  But Datafin is a really good case and definitely one to use in any question on judicial review
+[00:02:15 -> 00:02:20]  Because it provides us with a broad definition for what a public body is. Now in a lot of cases
+[00:02:21 -> 00:02:27]  This might be obvious because it'll be a council or a school or some obvious part of the public sector
+[00:02:28 -> 00:02:35]  But Datafin looks more closely at the functions that a body is performing
+[00:02:35 -> 00:02:39]  So if the functions of a body are mainly public in nature
+[00:02:39 -> 00:02:43]  Then it can be considered a public body. If they're mainly private in nature
+[00:02:43 -> 00:02:49]  Then it isn't and those decisions by that body as in Aga Khan cannot be challenged
+[00:02:49 -> 00:02:54]  So when you're analysing this in a problem question or within an essay
+[00:02:54 -> 00:03:01]  Do make sure that you sort of consider those types of factors. What function is the body actually performing?
+[00:03:03 -> 00:03:06]  Locustandai comes down to the idea of standing
+[00:03:06 -> 00:03:08]  Do you have the standing to bring a case?
+[00:03:09 -> 00:03:14]  And the main question here that the court asks is does the person have a sufficient interest in the case?
+[00:03:14 -> 00:03:18]  And there's a really good quote there from Lord Scarman in the Fleet Street Casuals case
+[00:03:18 -> 00:03:24]  And they said that it's important that we don't have a judicial review system
+[00:03:24 -> 00:03:32]  That basically allows any random person off the street to challenge any decision that they just don't really like for whatever reason
+[00:03:32 -> 00:03:37]  So the person has to have an actual interest in the case the decision or the regulation
+[00:03:38 -> 00:03:40]  Has to affect them in some way
+[00:03:40 -> 00:03:46]  And the courts have expanded this out a little bit and we see that with the Greenpeace case at the bottom of the screen
+[00:03:47 -> 00:03:48]  in this case
+[00:03:48 -> 00:03:51]  Greenpeace who are obviously a widely respected
+[00:03:52 -> 00:03:54]  environmental pressure group
+[00:03:54 -> 00:03:57]  Tried to bring a case and the inspectorate of pollution said well
+[00:03:58 -> 00:04:01]  They shouldn't be allowed to because they're not local residents. They're not actually
+[00:04:02 -> 00:04:09]  Directly affected by the pollution in a particular area because they're a global pressure group. So they're not
+[00:04:09 -> 00:04:12]  directly affected and the court said well
+[00:04:12 -> 00:04:14]  actually Greenpeace because of their
+[00:04:15 -> 00:04:20]  Availability of funds because of the research that they've carried out in this area
+[00:04:21 -> 00:04:25]  They're in a much better position than the local residents to bring a case
+[00:04:25 -> 00:04:30]  And so the courts in this case did allow Greenpeace to bring a case for judicial review. So that
+[00:04:30 -> 00:04:34]  Slightly expanded definition is definitely one to bear in mind
+[00:04:35 -> 00:04:39]  When considering locus standi and the sufficient interest test
+[00:04:41 -> 00:04:46]  Now the time limit is very simple it's taken from the civil procedure rules in particular rule 54.5
+[00:04:47 -> 00:04:52]  Says that a case must not be brought later than three months after the grounds to make the claim first arose
+[00:04:52 -> 00:04:59]  So as we said it normally involves a decision going against a person and that decision being made
+[00:05:00 -> 00:05:06]  Starts the clock and therefore a case has to be brought within three months of that decision being made
+[00:05:07 -> 00:05:11]  Now there's a few minor exceptions that you could look into if you wanted to
+[00:05:11 -> 00:05:16]  But to be honest the courts do tend to strictly apply this rule
+[00:05:16 -> 00:05:22]  And just to prevent any sort of miscarriages of justice or a case being delayed for such a long period of time
+[00:05:23 -> 00:05:30]  So generally in a problem question do apply that as a three-month strict rule that is applied by the courts
+[00:05:31 -> 00:05:34]  Now before we move on to the grounds of judicial review
+[00:05:34 -> 00:05:39]  Do you want to talk quickly about ousted clauses and these are basically attempts to exclude judicial review
+[00:05:40 -> 00:05:43]  so in the most famous case of Anisminich and FCC
+[00:05:44 -> 00:05:50]  The law in question said that decisions shall not be called into question in any court of law
+[00:05:51 -> 00:05:53]  And the important thing here was that the court said well
+[00:05:53 -> 00:06:00]  We're not really challenging the final decision as such what the point of judicial review is is to look at the grounds for that
+[00:06:00 -> 00:06:07]  Decision in the first place and the way that decision came about not really looking at the final decision as such
+[00:06:08 -> 00:06:11]  And so they got round the ouster clause in that particular case
+[00:06:12 -> 00:06:14]  In theory an ouster clause could work
+[00:06:15 -> 00:06:19]  But it would have to be worded very specifically to get rid of judicial review
+[00:06:20 -> 00:06:27]  Basically, the courts don't like ouster clauses because judicial review is a really important part of public law. It allows
+[00:06:28 -> 00:06:32]  members of the public to challenge decisions that
+[00:06:33 -> 00:06:36]  Do fall under one of the three grounds that we'll look at next
+[00:06:39 -> 00:06:41]  So the three grounds for review are irrationality
+[00:06:42 -> 00:06:44]  illegality and procedural impropriety
+[00:06:44 -> 00:06:46]  So we'll go through each of those in turn
+[00:06:47 -> 00:06:53]  The first of them is irrationality and law students tend to fall into a bit of a trap here because they think oh
+[00:06:53 -> 00:07:00]  Well, that decision doesn't seem very sensible. Therefore. I think it can be challenged on grounds for of irrationality
+[00:07:01 -> 00:07:05]  But irrationality actually is a much more stricter test than
+[00:07:05 -> 00:07:11]  rather not a decision not being very sensible and we can see that through Lord Green's quote in the
+[00:07:11 -> 00:07:14]  famous Wensbury case from 1948
+[00:07:15 -> 00:07:20]  A decision has to be so unreasonable that no reasonable authority could ever have come to it
+[00:07:21 -> 00:07:29]  And we move on in the GCHEQ case. Lord Diplock says that it has to basically be completely outrageous in its defiance of logic
+[00:07:30 -> 00:07:34]  So you can see here that irrationality rather than it being a sort of
+[00:07:34 -> 00:07:38]  casual test that will take out any decision that
+[00:07:38 -> 00:07:45]  Is a little bit kooky or a little bit strange it has to be basically completely off the walls
+[00:07:45 -> 00:07:51]  and so in the Wensbury case and the council famously was a given the power to
+[00:07:51 -> 00:07:53]  restrict cinema access on
+[00:07:54 -> 00:07:55]  a sunday
+[00:07:55 -> 00:08:01]  And the council said oh that means that we can prevent 15 year olds going to the cinema
+[00:08:01 -> 00:08:05]  and the courts turned around and said what the hell are you talking about the
+[00:08:06 -> 00:08:10]  Rule had absolutely nothing to do with age limits or 15 year olds
+[00:08:10 -> 00:08:16]  It was to do with sunday opening times and so you can see there that the decision was just so completely
+[00:08:17 -> 00:08:22]  batshit crazy for want of a better word and that the courts were able to challenge it on grounds of irrationality
+[00:08:25 -> 00:08:28]  So i've split these main cases up into
+[00:08:29 -> 00:08:36]  Levels of reviewability if you like, so at the top we have non-justiciable issues such as the GCHQ case
+[00:08:36 -> 00:08:43]  And this involved the government secret services and the courts didn't really want to get involved in security matters
+[00:08:44 -> 00:08:46]  And so that wasn't reviewable
+[00:08:46 -> 00:08:49]  In a sort of similar way policy areas are also non-reviewable
+[00:08:51 -> 00:08:57]  Even though a government minister's decision might seem not very sensible to some
+[00:08:57 -> 00:09:05]  People on the political spectrum. It's not an area for the courts to get involved with they're not involved with politics
+[00:09:05 -> 00:09:07]  They should be removed from that discussion
+[00:09:07 -> 00:09:14]  So you could maybe think of something like the recent decision by Jeremy Hunt involving contracts for junior doctors
+[00:09:15 -> 00:09:18]  And some people would say that that is an irrational decision
+[00:09:19 -> 00:09:23]  But really it comes down to politics. So it's the policy of the conservative government to
+[00:09:24 -> 00:09:31]  Enforce that contract on junior doctors and so the courts would not get involved with challenging that decision generally
+[00:09:32 -> 00:09:36]  In the middle we have the reasonable test that we've already talked about from Wensbury
+[00:09:36 -> 00:09:38]  and moving towards
+[00:09:38 -> 00:09:44]  More reviewable cases or areas where a judicial review is more likely to succeed
+[00:09:44 -> 00:09:48]  We have areas of human rights. So ex parte smith from 1995
+[00:09:49 -> 00:09:51]  Involved homosexuals in the army
+[00:09:52 -> 00:09:57]  And that case actually wasn't successful. You'll notice it was before the human rights act came in
+[00:09:58 -> 00:10:01]  But then in Daly, which is the 2001 case
+[00:10:02 -> 00:10:05]  And they went to the european court of human rights
+[00:10:05 -> 00:10:10]  Challenged the decision against homosexuals in the army was successful in europe
+[00:10:10 -> 00:10:16]  And therefore were able to bring a case for judicial review and we'll look at human rights a little bit later on
+[00:10:16 -> 00:10:18]  And we'll see how
+[00:10:18 -> 00:10:24]  That offers a more generous way to approach judicial review and makes reviews more likely to succeed
+[00:10:25 -> 00:10:31]  That idea of proportionality as well is something that's also taken from european union case law
+[00:10:31 -> 00:10:34]  And it's a bit more of a fair way of
+[00:10:35 -> 00:10:36]  Taking a balance
+[00:10:36 -> 00:10:42]  When you're looking at a decision so looking at the rational aspects and the irrational aspects of it
+[00:10:42 -> 00:10:44]  And weighing the decision up overall
+[00:10:46 -> 00:10:52]  Illegality is a possibly also another misnomer and another area where law students tend to fall down
+[00:10:53 -> 00:10:55]  Because the decision isn't really illegal
+[00:10:56 -> 00:11:01]  It's more ultra vires, which literally translates as outside of the power
+[00:11:01 -> 00:11:09]  So it involves a a minister or a public body of some sort acting outside of their power
+[00:11:09 -> 00:11:17]  Of some sort acting outside of their allocated powers and we see that in the early case of attorney general and fulham corporation from
+[00:11:18 -> 00:11:19]  1921
+[00:11:19 -> 00:11:22]  And the rule in this case allowed local bodies to set up
+[00:11:23 -> 00:11:26]  Laundrettes for the poor so that they could do their washing for free
+[00:11:27 -> 00:11:34]  And instead the fulham corporation in this case set up a commercial laundry where they charged members of the public
+[00:11:34 -> 00:11:36]  And they said well, this isn't really the point of the law
+[00:11:37 -> 00:11:40]  You weren't given the power to open a commercial laundry
+[00:11:41 -> 00:11:45]  And so you have acted outside of your powers in this particular case
+[00:11:45 -> 00:11:47]  And illegality can also
+[00:11:47 -> 00:11:49]  Take into account irrelevant considerations
+[00:11:50 -> 00:11:56]  So in Port Talbot borough council ex parte jones and the local council
+[00:11:57 -> 00:12:04]  prioritized giving a council house to a local councillor on the basis that she needed it because
+[00:12:04 -> 00:12:08]  She was the councillor for that area and therefore she ought to live in that area
+[00:12:08 -> 00:12:10]  but this didn't really take into account the
+[00:12:11 -> 00:12:18]  Considerations that the council would normally apply such as the need for a council house. Are there children involved things like that?
+[00:12:18 -> 00:12:20]  so the fact that
+[00:12:21 -> 00:12:23]  Jones or whoever it was the local councillor
+[00:12:25 -> 00:12:27]  Was a member of the local council
+[00:12:28 -> 00:12:35]  Was completely irrelevant when coming to the decision and so irrelevant considerations do also play a part in whether a decision is
+[00:12:36 -> 00:12:38]  ultra-virus
+[00:12:38 -> 00:12:42]  Unauthorized delegation of powers as well is relevant. So national dock labour board
+[00:12:42 -> 00:12:48]  What happened was that the national dock labour board were given the power to set up a disciplinary committee
+[00:12:49 -> 00:12:53]  And they delegated that power to each individual local dock
+[00:12:53 -> 00:13:00]  And they basically said well you were given the power to set up a disciplinary board you weren't given the power to delegate
+[00:13:01 -> 00:13:04]  That particular power even further down the chain
+[00:13:05 -> 00:13:08]  And so unauthorized delegation of powers can also
+[00:13:09 -> 00:13:11]  Come under ultra-virus illegality
+[00:13:14 -> 00:13:16]  Finally we have procedural impropriety
+[00:13:17 -> 00:13:21]  This is a lot more simple and just means that the correct procedure wasn't followed
+[00:13:21 -> 00:13:28]  So in Aylesbury mushrooms case the relevant department failed to consult the mushroom growers association
+[00:13:29 -> 00:13:32]  And so they said that you haven't actually fulfilled
+[00:13:33 -> 00:13:36]  the correct procedure for taking a decision and therefore
+[00:13:37 -> 00:13:38]  the
+[00:13:38 -> 00:13:42]  Decision doesn't affect the Aylesbury mushrooms growers association
+[00:13:43 -> 00:13:46]  And that can be challenged on judicial review grounds
+[00:13:46 -> 00:13:50]  Procedural impropriety is also sort of broadened out a little bit
+[00:13:50 -> 00:13:56]  So it includes bias as well and we have the test there from Lord Lane
+[00:13:57 -> 00:14:03]  Would a person conclude that there was a real possibility that the tribunal was biased?
+[00:14:03 -> 00:14:09]  So again, we don't have to prove that there was actually bias in the case. We just have to
+[00:14:10 -> 00:14:13]  Deal with the suggestion that there might have been bias
+[00:14:14 -> 00:14:20]  And it comes back to the famous quote from the Sussex justices case that justice must not only be done
+[00:14:20 -> 00:14:22]  It must also be seen to be done as well
+[00:14:23 -> 00:14:26]  And so that's important to remember
+[00:14:27 -> 00:14:29]  Fair hearing, another old case for this
+[00:14:30 -> 00:14:35]  Cooper and Wandsworth board of works and this sets up that there should be a fair hearing
+[00:14:36 -> 00:14:42]  Whenever any sort of decision is made and this might include things like the right to an appeal
+[00:14:43 -> 00:14:48]  And the right for both sides to be heard the right for someone to present their own arguments
+[00:14:48 -> 00:14:54]  And this might not apply in all of the cases, but generally speaking a person should be allowed to make representations
+[00:14:55 -> 00:14:58]  When a decision is actually affecting them
+[00:15:01 -> 00:15:09]  Moving on in procedural impropriety, we also have legitimate expectations as well. So in the Liverpool taxi case the Liverpool taxi
+[00:15:10 -> 00:15:14]  Association were given assurances by Liverpool corporation
+[00:15:15 -> 00:15:16]  that
+[00:15:16 -> 00:15:24]  A decision would not be taken without consulting the taxi drivers first and then Liverpool corporation made the decision anyway
+[00:15:25 -> 00:15:27]  And they said well, this wasn't really fair
+[00:15:28 -> 00:15:30]  because the Liverpool taxi drivers
+[00:15:31 -> 00:15:36]  Should have been consulted because they had been given assurances and it had raised a legitimate expectation
+[00:15:37 -> 00:15:41]  That the drivers would be consulted before a decision was actually made
+[00:15:42 -> 00:15:48]  And generally also a reason should be given for a decision. So we have ex parte duty for that
+[00:15:49 -> 00:15:55]  Particular ground so generally speaking reasons should be given for any particular decision
+[00:15:56 -> 00:16:04]  The institute of dental surgery are put in there because if the decision is very straightforward and really just academic in nature
+[00:16:04 -> 00:16:06]  So a foregone conclusion
+[00:16:06 -> 00:16:11]  Then in that particular case, it might not always be necessary for reasons to be given
+[00:16:11 -> 00:16:13]  but
+[00:16:13 -> 00:16:18]  I definitely think that this is something worth considering in a problem question if reasons aren't given for a decision
+[00:16:19 -> 00:16:22]  That's not really very fair and to go back a slide
+[00:16:22 -> 00:16:26]  It comes back to that idea for a fair hearing as well when you have a fair hearing
+[00:16:27 -> 00:16:32]  You should also have reasons given for a particular decision at the end of that fair hearing
+[00:16:32 -> 00:16:34]  So
+[00:16:35 -> 00:16:37]  Before we come to the end of this and move on to
+[00:16:38 -> 00:16:41]  remedies, I want to talk a little bit about human rights because
+[00:16:41 -> 00:16:47]  I think this is maybe an area that you could gain some extra marks on in an exam question or in a coursework
+[00:16:47 -> 00:16:49]  It's something that students tend to forget about
+[00:16:50 -> 00:16:55]  Because it is still a relatively new phenomenon within the area of judicial review
+[00:16:56 -> 00:17:01]  And a key section of the human rights like 1998 here is section 6.1
+[00:17:01 -> 00:17:08]  That says it's unlawful for a public authority to act in a way, which is incompatible with a convention right?
+[00:17:08 -> 00:17:12]  And so it's something to bear in mind, especially thinking back to procedural impropriety
+[00:17:13 -> 00:17:20]  We can think about the right to a fair hearing and that links very closely to article 6 of the european convention on human rights
+[00:17:20 -> 00:17:23]  and so if you don't think that there's been a fair hearing or
+[00:17:23 -> 00:17:25]  Reasons haven't been given for a decision
+[00:17:26 -> 00:17:29]  Then definitely mention article 6 because it is an important consideration
+[00:17:30 -> 00:17:32]  And as we can see from section 6.1
+[00:17:33 -> 00:17:38]  It's something that the courts ought to take into consideration that public bodies
+[00:17:38 -> 00:17:42]  Should be taking into account people's convention rights
+[00:17:43 -> 00:17:44]  Obviously, it can also
+[00:17:44 -> 00:17:50]  Extend beyond article 6 so we can maybe think about article 10 as well
+[00:17:50 -> 00:17:56]  So when you present you should be given freedom of expression your right to present a case before a decision is made
+[00:17:57 -> 00:18:00]  Also things like article 8 might even come up as well
+[00:18:00 -> 00:18:03]  So if a decision is made to kick someone out of their home
+[00:18:04 -> 00:18:10]  That comes back to the right to family life and private life and the right to you know, have a
+[00:18:11 -> 00:18:13]  some sort of secure private
+[00:18:13 -> 00:18:17]  Individual space that can't be invaded by a local council, for example
+[00:18:17 -> 00:18:23]  So lots of things that you might want to consider and definitely keep that human rights knowledge
+[00:18:23 -> 00:18:27]  At the back of your brain when answering any question on judicial review
+[00:18:29 -> 00:18:36]  So very finally we'll look at remedies and i've listed all of the remedies there most of them are relatively straightforward
+[00:18:37 -> 00:18:41]  Students often forget to put this in at the end of a judicial review question
+[00:18:41 -> 00:18:45]  But if you think that a person is likely to succeed for judicial review
+[00:18:45 -> 00:18:51]  You've got to think about well, what does that person want? Do they want the decision to be quashed?
+[00:18:51 -> 00:18:54]  So it's um completely sort of taken out now
+[00:18:54 -> 00:19:00]  That's it is probably an obvious one, but other orders might be appropriate in different circumstances
+[00:19:01 -> 00:19:06]  So a prohibiting order prohibiting a public authority from doing something say
+[00:19:06 -> 00:19:09]  Cutting down a section of forest or wildlife
+[00:19:09 -> 00:19:13]  A mandatory order so making a public body do something
+[00:19:14 -> 00:19:20]  A declaration as to the situation that the legal parties are in just to avoid any future confusion
+[00:19:21 -> 00:19:24]  Injunctions are also important when going through a case
+[00:19:25 -> 00:19:30]  So before a final decision is made that can sometimes take years
+[00:19:30 -> 00:19:36]  Should an injunction be granted to prevent the public authority doing something within that time?
+[00:19:36 -> 00:19:38]  So an interim injunction, so
+[00:19:39 -> 00:19:46]  an injunction against a public body until the final decision is actually taken or a permanent injunction to
+[00:19:47 -> 00:19:49]  Permanently stop a public body from doing something
+[00:19:50 -> 00:19:56]  And they can be both positive and negative. So forcing a public body to do something for a positive injunction
+[00:19:57 -> 00:20:01]  Or stopping a public body from doing something for a negative injunction
+[00:20:02 -> 00:20:06]  And every law student's favorite remedy that they always put into questions
+[00:20:07 -> 00:20:09]  And answers is damages
+[00:20:09 -> 00:20:14]  So if a person's been negatively affected by a decision in an economic fashion
+[00:20:14 -> 00:20:18]  Is there an argument that they should possibly also receive damages?
+[00:20:18 -> 00:20:24]  Now don't focus too much on damages because obviously the point of judicial review is to get a decision
+[00:20:24 -> 00:20:30]  Overturned in some sort of way with one of the remedies above but if that if there has been an economic consequence
+[00:20:31 -> 00:20:35]  Then definitely also consider damages as part of your answer
+[00:20:36 -> 00:20:39]  When structuring your answer in a judicial review question
+[00:20:39 -> 00:20:42]  Do you make sure in the first section to cover all four of the reasons?
+[00:20:43 -> 00:20:48]  On the basis that a person can bring a case. So does it concern secondary legislation?
+[00:20:49 -> 00:20:51]  Is it against a public body?
+[00:20:51 -> 00:20:57]  Does the applicant have locus standi and are they bringing the case within the three month time limit?
+[00:20:57 -> 00:21:00]  When you move on to the second section
+[00:21:00 -> 00:21:06]  Do have a careful think about it. Not all questions will involve all three grounds for judicial review
+[00:21:07 -> 00:21:09]  So some might only concern procedural impropriety
+[00:21:11 -> 00:21:13]  Some might concern illegality and irrationality
+[00:21:14 -> 00:21:21]  So it's really important that you do have a careful think and don't just go for a blanket response that covers all three grounds
+[00:21:21 -> 00:21:23]  Thank you very much for watching
+[00:21:23 -> 00:21:28]  If you enjoyed the video then do leave a like subscribe for more videos
+[00:21:28 -> 00:21:32]  And if you do have any questions or comments then leave them below
+[00:21:32 -> 00:21:37]  A lot of people have got in touch requesting other videos on a number of topics
+[00:21:37 -> 00:21:39]  So i'll try and get around to those when I can
+[00:21:39 -> 00:21:44]  If you have suggestions for other videos that you'd like me to cover in a lecture
+[00:21:44 -> 00:21:48]  Then do comment below and i'll try and get to them whenever I can
+[00:21:49 -> 00:21:51]  Thanks very much for watching. Bye

@@ -1,0 +1,98 @@
+[00:00:00 -> 00:00:03]  Hello, I'm Justin from Embedded Micro, and welcome to another Chalk Talk.
+[00:00:03 -> 00:00:14]  In this video, I'm going to be talking about the fundamentals of digital logic circuits.
+[00:00:14 -> 00:00:18]  Digital logic circuits are mainly composed of two categories, combinational logic and
+[00:00:18 -> 00:00:19]  synchronous logic.
+[00:00:19 -> 00:00:23]  I'm going to be talking about combinational logic first, and this is actually probably
+[00:00:23 -> 00:00:26]  what you think mostly of when you think of digital logic circuits.
+[00:00:27 -> 00:00:34]  A combinational logic circuit consists of a series of inputs and a series of outputs.
+[00:00:34 -> 00:00:38]  What makes a circuit combinational, as opposed to something else, is that when you apply
+[00:00:38 -> 00:00:43]  a set of inputs, you will get a set output, no matter when you apply those inputs.
+[00:00:43 -> 00:00:48]  For example, if you apply inputs A and you observe output B, then no matter what time
+[00:00:48 -> 00:00:53]  you apply input A, the circuit will produce output B. So if you apply A in a minute, two
+[00:00:53 -> 00:00:59]  minutes, a day, a year from now, the circuit will produce output B. That effectively means
+[00:00:59 -> 00:01:02]  that the circuit is memoryless.
+[00:01:02 -> 00:01:07]  Now you can imagine that a combinational logic circuit could look something like this, where
+[00:01:07 -> 00:01:15]  you have maybe four inputs and one output, and maybe you have a couple AND gates in here,
+[00:01:15 -> 00:01:21]  and the AND gates feed forward into an OR gate, and then that's your output.
+[00:01:21 -> 00:01:23]  So the key word there was feed forward.
+[00:01:23 -> 00:01:26]  Everything in this circuit is going from the inputs to the outputs.
+[00:01:26 -> 00:01:29]  There's no feedback loops or anything like that, because that could create a state and
+[00:01:29 -> 00:01:31]  it could have memory.
+[00:01:31 -> 00:01:34]  Now what if you wanted to design a circuit that has feedback and state, such as something
+[00:01:34 -> 00:01:35]  like a counter?
+[00:01:35 -> 00:01:42]  So to design a counter, we're going to need a circuit that can add one to a number.
+[00:01:42 -> 00:01:46]  And now this is an actual combinational logic circuit, because no matter when you apply
+[00:01:46 -> 00:01:51]  the input number, the output number is always just going to be the input plus one.
+[00:01:51 -> 00:01:54]  So the naive approach to make this into a counter may just be to take the output and
+[00:01:54 -> 00:01:56]  connect to the input.
+[00:01:56 -> 00:02:00]  That way, when the output is one, the input will be one, then that'll add one to it, so
+[00:02:00 -> 00:02:06]  the output will be two, and then three, four, five, and it counts accordingly.
+[00:02:06 -> 00:02:10]  But the first thing you have to realize is that to represent a number, we actually have
+[00:02:10 -> 00:02:13]  to use multiple outputs as multiple bits.
+[00:02:13 -> 00:02:17]  So if we want to have a number that's eight bits wide, say a byte, then we actually have
+[00:02:17 -> 00:02:22]  eight outputs and eight inputs.
+[00:02:22 -> 00:02:26]  And now what'll happen is when you apply a set of inputs, the outputs won't actually
+[00:02:26 -> 00:02:30]  all change at the same time, and depending on how the circuit is actually laid out, they
+[00:02:30 -> 00:02:33]  may toggle multiple times before settling on the correct value.
+[00:02:33 -> 00:02:38]  The only thing you're completely guaranteed with a combinational logic circuit is that
+[00:02:38 -> 00:02:41]  the outputs will eventually settle to their correct value.
+[00:02:41 -> 00:02:44]  But in the meantime, there will be some invalid values.
+[00:02:44 -> 00:02:48]  What that means in this case is that the invalid value at the output is going to propagate
+[00:02:48 -> 00:02:52]  back to the input, so you then have an invalid input, and then that's going to generate more
+[00:02:52 -> 00:02:56]  invalid outputs, which will generate more invalid inputs, and you'll have a cycle until
+[00:02:56 -> 00:02:59]  your circuit's just spitting out garbage.
+[00:02:59 -> 00:03:02]  Now it's actually possible to design circuits with feedback like this, and they're called
+[00:03:02 -> 00:03:04]  asynchronous logic circuits.
+[00:03:04 -> 00:03:08]  However, they get very complicated for small designs, because you have to worry about exactly
+[00:03:08 -> 00:03:10]  when these signals are going to be propagating around.
+[00:03:10 -> 00:03:15]  Fortunately for us, we only have to design synchronous logic circuits.
+[00:03:15 -> 00:03:19]  A synchronous logic circuit relies on a memory element known as the flip-flop.
+[00:03:19 -> 00:03:23]  Some circuits rely on other memory elements, such as latches, but they aren't as common,
+[00:03:23 -> 00:03:26]  and they're actually discouraged for FPGA designs.
+[00:03:26 -> 00:03:32]  So a flip-flop consists of two inputs and one output.
+[00:03:32 -> 00:03:38]  Now one of these inputs is a special input, and it is known as a clock.
+[00:03:38 -> 00:03:42]  A clock, if you're not familiar, is just a signal that goes from low to high, to low
+[00:03:42 -> 00:03:48]  to high, to low to high, over and over again at a set frequency.
+[00:03:48 -> 00:03:53]  And there's actually a special event on this clock, which is known as the rising edge,
+[00:03:53 -> 00:03:56]  and that's when the clock goes from low to high.
+[00:03:56 -> 00:03:59]  The other input on the flip-flop is known as the D input, and the output is known as
+[00:03:59 -> 00:04:02]  Q.
+[00:04:02 -> 00:04:06]  And when the clock transitions from low to high, so on the rising edge, the flip-flop
+[00:04:06 -> 00:04:09]  copies the value from D to the value of Q.
+[00:04:09 -> 00:04:16]  So for example, if Q is 0 and D is 1, so we're inputting 1 and the output is 0 right now,
+[00:04:16 -> 00:04:20]  Q will stay 0 as long as the clock doesn't change.
+[00:04:20 -> 00:04:25]  But the moment the clock goes from low to high, the value of D gets copied to the value
+[00:04:25 -> 00:04:28]  of Q, and Q will transition from 0 to 1.
+[00:04:28 -> 00:04:32]  Now what's great about this then, is Q will stay 1 until the next rising edge of the clock.
+[00:04:32 -> 00:04:36]  So D is free to change and become invalid values.
+[00:04:36 -> 00:04:44]  So we take that back to our counterexample, and we take the plus 1 circuit and feed its
+[00:04:44 -> 00:04:54]  output into the flip-flop, and then put the flip-flop in the feedback loop, then this
+[00:04:54 -> 00:04:56]  circle will actually be well behaved.
+[00:04:56 -> 00:05:00]  So just for a second, assume that the output of the flip-flop is 0.
+[00:05:00 -> 00:05:04]  That means that the input of the addition circuit will be 0, which means the output
+[00:05:04 -> 00:05:07]  will be 1, which means the input of the flip-flop will be 1.
+[00:05:07 -> 00:05:13]  Now on the next clock cycle, on the next rising edge, the output of the flip-flop will then
+[00:05:13 -> 00:05:15]  become the input, so this will be 1.
+[00:05:15 -> 00:05:18]  The 1 will propagate around, and then the input will become 2.
+[00:05:18 -> 00:05:22]  So each rising edge of the clock will cause the output of the flip-flop to increase by
+[00:05:22 -> 00:05:23]  1.
+[00:05:23 -> 00:05:25]  So we have effectively made our counter.
+[00:05:25 -> 00:05:29]  Now this is great, but you may be thinking, well what's the initial value of the flip-flop?
+[00:05:29 -> 00:05:32]  In many circuits, you don't really care what the initial value is, because it somehow gets
+[00:05:32 -> 00:05:35]  initialized just through normal operation.
+[00:05:35 -> 00:05:40]  But in a case like this, where it highly depends on the initial value, there's actually another
+[00:05:40 -> 00:05:44]  input to the flip-flop called reset.
+[00:05:44 -> 00:05:49]  A reset signal is used simply to set the flip-flop to a known value.
+[00:05:49 -> 00:05:54]  Typically all the flip-flops in your design will be connected at the same reset line,
+[00:05:54 -> 00:06:00]  so that when it is reset, your entire design will enter a known state.
+[00:06:00 -> 00:06:07]  Now this is a good example of just a digital circuit in general, but a more general description
+[00:06:07 -> 00:06:21]  is a series of combinational logic blocks separated by flip-flops.
+[00:06:21 -> 00:06:27]  Now you can have more complicated structures where you have the branching and different
+[00:06:27 -> 00:06:31]  things like that, and you can even have feedback from one stage back into the combinational
+[00:06:31 -> 00:06:35]  logic and all kinds of things like that, but the key takeaway point here is that digital
+[00:06:35 -> 00:06:39]  circuits fundamentally are blocks of combinational logic separated by flip-flops or some other
+[00:06:39 -> 00:06:40]  memory element.
+[00:06:40 -> 00:06:45]  I hope this video has given you a basic understanding of digital logic circuits.
+[00:06:45 -> 00:06:48]  Make sure to head over to EmbeddedMicro.com for lots of tutorials.
+[00:06:48 -> 00:06:50]  I'll put links in the description.
+[00:06:50 -> 00:06:52]  Thanks for watching, and I'll see you next time.

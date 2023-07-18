@@ -1,0 +1,110 @@
+[00:00:00 -> 00:00:13]  Hallo zusammen, heute möchte ich Euch einmal zeigen, wie Ihr Metallobjekte wie Schrauben
+[00:00:13 -> 00:00:20]  oder Magnete in Eure Druckobjekte integrieren könnt und wenn Euch das Video gefällt, lasst
+[00:00:20 -> 00:00:25]  mir einen Daumen oben und über ein Abo von Euch würde ich mich riesig freuen.
+[00:00:25 -> 00:00:26]  Auf geht's!
+[00:00:26 -> 00:00:35]  Ich habe hier einmal 6 Standard-Kühlschrankmagnete bestellt.
+[00:00:35 -> 00:00:43]  Diese möchte ich gerne nahtlos in meinen 3D-Objekten versenken und spurlos eindrucken.
+[00:00:43 -> 00:00:47]  Damit das auch richtig gelingt, müssen wir diese einmal bemaßen.
+[00:00:47 -> 00:00:51]  Hierfür habe ich so ein Schiebemesssystem, also ein Schiebemesser.
+[00:00:51 -> 00:00:58]  In dem Kreisumfang, den wir hier haben, liegen wir ungefähr bei 26-27 Millimetern, das notieren
+[00:00:58 -> 00:01:09]  wir uns und in der Tiefe liegt dieser Magnet bei knapp 8 Millimetern.
+[00:01:09 -> 00:01:14]  27 zu 8, das merken wir uns einmal und suchen uns nun das passende Objekt aus.
+[00:01:14 -> 00:01:23]  Zur Veranschaulichung der Herangehensweise habe ich hier jetzt einmal diese berühmten
+[00:01:23 -> 00:01:29]  Bilderlogos herausgesucht und dort werden wir uns jetzt einmal die STL-Sammlung herunterladen
+[00:01:29 -> 00:01:33]  und diese anschließend im 3D-Bilder weiter bearbeiten.
+[00:01:33 -> 00:01:42]  Hier starten wir jetzt eine neue Szene und importieren uns unsere heruntergeladenen STL-Dateien.
+[00:01:43 -> 00:01:49]  Ich entscheide mich im ersten Step für das Atari-Logo.
+[00:01:49 -> 00:01:56]  Da ich privat auch ein leidenschaftlicher Sammler von alten Retro-Konsolen und Retro-Spielen bin,
+[00:01:56 -> 00:01:59]  hat Atari immer einen besonderen Platz in meinem Herzen.
+[00:01:59 -> 00:02:04]  Das war meine allererste Spielkonsole, die ich von meinen Eltern damals zu Weihnachten bekommen habe
+[00:02:04 -> 00:02:10]  und entsprechend freue ich mich jetzt auch hier mit diesem Logo weiterarbeiten zu dürfen.
+[00:02:11 -> 00:02:17]  Da wir den Magneten ja vollständig in dem Objekt verschwinden lassen wollen,
+[00:02:17 -> 00:02:22]  brauchen wir jetzt zunächst einmal eine höhere Tiefe als 8 mm.
+[00:02:22 -> 00:02:29]  Deswegen skalieren wir jetzt das Objekt erstmal einfach so, dass wir genügend Volumen zum Weiterarbeiten bekommen.
+[00:02:29 -> 00:02:38]  Da wir das gesamte Objekt in allen Dimensionen skaliert haben, ist natürlich auch das Logo nach oben gewachsen.
+[00:02:38 -> 00:02:40]  Das brauchen wir in der Höhe nicht.
+[00:02:40 -> 00:02:46]  Deswegen schneiden wir jetzt einmal ein gutes Stück vom Atari-Logo wieder ab,
+[00:02:46 -> 00:02:53]  da wir nur die Base, also quasi die Plattform, die wir erhöht haben, in der jetzigen Dimension benötigen.
+[00:02:55 -> 00:02:57]  Jetzt bauen wir uns unseren Magneten ein.
+[00:02:57 -> 00:03:04]  Dafür importieren wir einen Zylinder, den wir von der Skalierung her auf die Maße bringen,
+[00:03:04 -> 00:03:06]  die wir vorab bemessen haben.
+[00:03:06 -> 00:03:14]  Also in der Höhe knapp 8 mm und im Durchmesser knapp 27,5 mm.
+[00:03:14 -> 00:03:20]  Jetzt erkennen wir schon, dass sich die Form unseres Magneten hier auf dem Bildschirm wiederfindet.
+[00:03:20 -> 00:03:25]  Das Ganze positionieren wir in die Mitte des Objekts
+[00:03:25 -> 00:03:31]  und sorgen jetzt noch dafür, dass wir genügend Abstand auf der Unter- und auf der Oberseite haben,
+[00:03:31 -> 00:03:37]  damit künftig dieser Magnet auch vollständig von dem Filament eingeschlossen wird.
+[00:03:44 -> 00:03:54]  Sobald wir das Ganze richtig positioniert haben, subtrahieren wir die Fläche unseres virtuellen Magneten.
+[00:03:54 -> 00:03:59]  Das bedeutet, sie wird von dem Hauptobjekt herausgeschnitten
+[00:03:59 -> 00:04:04]  und wir haben dann den perfekten Hohlraum für unseren Magneten.
+[00:04:13 -> 00:04:20]  Wir speichern unser Logo jetzt als STL-Datei ab und importieren es anschließend in den Pruser Slicer.
+[00:04:30 -> 00:04:35]  Im Pruser Slicer angekommen, wechseln wir jetzt auf die Layer-Ansicht
+[00:04:35 -> 00:04:41]  und hier können wir die einzelnen Schichten Schicht für Schicht durchgehen.
+[00:04:41 -> 00:04:49]  Und ihr seht hier, dass wir jetzt an unsere Aushöhlung kommen, die wir für unseren Magneten vorgesehen haben.
+[00:04:49 -> 00:04:53]  Und jetzt ist es wichtig, dass wir die richtige Höhe finden,
+[00:04:53 -> 00:04:59]  ab der sozusagen die Deckschicht für unsere Aussparung gedruckt wird.
+[00:04:59 -> 00:05:02]  Und jetzt gibt es ein richtig tolles Feature.
+[00:05:02 -> 00:05:08]  Und zwar drücken wir hier mit der rechten Maustaste drauf, nicht mit der linken.
+[00:05:08 -> 00:05:13]  Und dann öffnet sich ein kleines Menü und wir haben drei Möglichkeiten,
+[00:05:13 -> 00:05:18]  wie wir an dieser Layer-Stelle mit dem Drucker weitermachen möchten.
+[00:05:18 -> 00:05:23]  Wir können einen Farbwechsel hinzufügen, das brauchen wir nachher für unseren Atari-Schriftzug.
+[00:05:23 -> 00:05:26]  Dann können wir eine Druckpause hinzufügen.
+[00:05:26 -> 00:05:30]  Das ist wichtig, um an dieser Stelle nachher unseren Magneten einzulegen.
+[00:05:30 -> 00:05:36]  Und die dritte Möglichkeit, ihr könnt einen benutzerdefinierten G-Code hinzufügen,
+[00:05:36 -> 00:05:43]  um irgendeine Aktion eurer Wahl an genau dieser Layer-Höhe auszuführen.
+[00:05:43 -> 00:05:46]  Wir entscheiden uns hier für die Druckpause
+[00:05:46 -> 00:05:52]  und es gibt dann noch die Möglichkeit, für den G-Code diese Stelle individuell zu beschriften.
+[00:05:52 -> 00:05:56]  Ich schreibe jetzt den Hinweis rein, Magnet einsetzen.
+[00:06:03 -> 00:06:10]  Dann bestätige ich das Ganze mit OK und suche mir nun die nächste Layer-Höhe für den Farbwechsel,
+[00:06:10 -> 00:06:16]  da ich gerne eine andere Filamentfarbe für den Atari-Schriftzug nutzen möchte.
+[00:06:23 -> 00:06:28]  Dann slicen wir die ganze Datei und legen sie einmal in den 3D-Drucker.
+[00:06:28 -> 00:06:31]  In meinem Fall ist es hier der Prusa Mini.
+[00:06:31 -> 00:06:38]  Und jetzt bin ich mal gespannt, wie dieser Drucker reagiert mit diesen individuellen Pausen-Steps
+[00:06:38 -> 00:06:45]  und ob wir es schaffen, den Magneten auch zur richtigen Zeit am richtigen Ort einzusetzen.
+[00:06:52 -> 00:06:56]  Die Größe der Aussparung scheint wirklich korrekt zu sein.
+[00:06:56 -> 00:06:59]  Er ist jetzt automatisch in den Pausenbetrieb gewechselt.
+[00:06:59 -> 00:07:04]  Ich habe jetzt genügend Zeit, den Magneten hineinzulegen
+[00:07:04 -> 00:07:08]  und er müsste jetzt, sobald wir den Druck wieder fortsetzen,
+[00:07:08 -> 00:07:12]  mit der ersten Deckschicht über dem Magneten starten
+[00:07:12 -> 00:07:21]  und ihn somit komplett in das PLA-Objekt einbinden und vollständig vom Filament umschlossen wird.
+[00:07:35 -> 00:07:40]  Wir sehen jetzt hier, dass er die erste Deckschicht sauber drüber druckt
+[00:07:40 -> 00:07:45]  und der Magnet langsam unter dem Filament verschwindet.
+[00:07:45 -> 00:08:05]  Das hat auch super geklappt.
+[00:08:05 -> 00:08:10]  Und der Kleine wird jetzt so lange drucken, bis er den nächsten Impuls bekommt.
+[00:08:10 -> 00:08:15]  Wir haben ja noch eine Pause eingebaut für den Filamentwechsel.
+[00:08:15 -> 00:08:19]  Dann fährt er den Druckkopf zur Seite,
+[00:08:19 -> 00:08:23]  extrudiert sozusagen das restliche Filament,
+[00:08:23 -> 00:08:27]  bis die neue Farbe durch die Nozzle dringt.
+[00:08:27 -> 00:08:31]  Jetzt sehen wir hier das graue Filament.
+[00:08:31 -> 00:08:33]  Anschließend geht der Druckjob weiter
+[00:08:33 -> 00:08:39]  und jetzt wird der Rest vom Atari-Schriftzug in einer anderen Farbe gedruckt.
+[00:09:04 -> 00:09:09]  Jetzt möchte ich euch noch zeigen, wie ihr Standard-Metallformen
+[00:09:09 -> 00:09:16]  wie zum Beispiel hier dieses Kugellager oder auch Muttern und Schrauben
+[00:09:16 -> 00:09:23]  ohne CAD-Kenntnisse super entspannt in eure 3D-Objekte integrieren könnt
+[00:09:23 -> 00:09:29]  und dort vor allem für Funktionsteile hervorragende Mashups mit erstellen könnt.
+[00:09:30 -> 00:09:36]  Auf der Website Traceparts.com findet ihr Millionen von technischen Modellen.
+[00:09:36 -> 00:09:44]  Jede Schraube, jedes Kugellager, wirklich alle technischen Verbindungsteile
+[00:09:44 -> 00:09:47]  in ihrer DIN-Norm sind hier verfügbar.
+[00:09:47 -> 00:09:51]  Wenn ihr wie hier dargestellt die passende Sechskantschraube gefunden habt,
+[00:09:51 -> 00:09:58]  wählt ihr euch die entsprechende Größe und könnt sie anschließend als STL-Datei herunterladen.
+[00:09:59 -> 00:10:07]  Wenn ihr diesen Schraubendownload in eurem 3D-Bilder wieder als neues 3D-Objekt integriert,
+[00:10:07 -> 00:10:13]  seid ihr in der Lage durch die Subtraktionsfunktion, die wir uns vorhin schon angeschaut haben,
+[00:10:13 -> 00:10:18]  wirklich jedes eurer Druckobjekte mit der passenden Aussparung
+[00:10:18 -> 00:10:22]  für die jeweilige Schraube oder Mutter zu versehen
+[00:10:23 -> 00:10:30]  und eure 3D-Objekte werden mit den passenden Öffnungen und Kanten direkt ausgedruckt.
+[00:10:34 -> 00:10:39]  Und die Auswahl, die ihr hier auf Traceparts habt, ist schier unmöglich.
+[00:10:39 -> 00:10:44]  Ihr habt Flanschmuttern, Sechskantmuttern, ihr habt alles, was das Herz begehrt
+[00:10:44 -> 00:10:49]  und ihr könnt es kostenfrei als STL-Datei herunterladen.
+[00:10:49 -> 00:10:51]  Das ist echt großartig.
+[00:10:57 -> 00:11:02]  Ihr seid dadurch in der Lage, euren Funktionsteilen einen professionellen Touch zu geben,
+[00:11:02 -> 00:11:08]  mehr Halt, mehr Stabilität und das Ganze komplett ohne CAD-Kenntnisse.
+[00:11:08 -> 00:11:13]  Ich habe hier jetzt einmal einen Block ausgedruckt, nur zur Veranschaulichung,
+[00:11:14 -> 00:11:23]  indem ich entsprechende Formen einer Sechskantschraube extrudiert habe oder eingefräst habe.
+[00:11:23 -> 00:11:28]  Und ihr seht, dass das Ganze super akkurat herausgekommen ist
+[00:11:28 -> 00:11:31]  und man kann eine ganze Menge damit machen.
+[00:11:31 -> 00:11:37]  Und ich glaube, zusammen mit dieser Online-Datenbank ist man gewappnet
+[00:11:37 -> 00:11:40]  für eine ganze Menge toller neuer Projekte.
+[00:11:41 -> 00:11:43]  Ich hoffe, euch hat das Video gefallen.
+[00:11:43 -> 00:11:46]  Ich freue mich, dass ihr so lange zugeschaut habt.
+[00:11:46 -> 00:11:49]  Abonniert meinen Kanal, wenn ihr das noch nicht gemacht habt.
+[00:11:49 -> 00:11:51]  Ich freue mich mit euch auf das nächste Mal.
+[00:11:51 -> 00:11:54]  Bleibt gesund. Happy Printing!

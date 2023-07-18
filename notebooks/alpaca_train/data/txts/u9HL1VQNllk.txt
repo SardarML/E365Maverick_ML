@@ -1,0 +1,157 @@
+[00:00:00 -> 00:00:06]  Was hat dieser Gasbrenner eigentlich mit Elektronik zu tun? Warum ist diese kleine
+[00:00:06 -> 00:00:10]  Schaltung so nützlich? Und warum kann man mit einem Stück Draht besser und genauer
+[00:00:10 -> 00:00:14]  Strom messen als mit einem Amperemesser? Die Antworten auf diese Fragen gibt es
+[00:00:14 -> 00:00:17]  heute in diesem Video. Bis gleich!
+[00:00:31 -> 00:00:36]  Um SMD-Bauteile aus- und wieder einzulöten, dafür benutzt man normalerweise eine
+[00:00:36 -> 00:00:41]  Heißluftlötstation. Die paar mal, die ich bisher eine gebraucht habe, habe ich mir
+[00:00:41 -> 00:00:45]  die ausgeliehen. Das ist immer viel zu kompliziert, das abholen und das wieder
+[00:00:45 -> 00:00:50]  zurückbringen. Und der, von dem man das auslöst, der will das ja auch nicht
+[00:00:50 -> 00:00:55]  unbedingt so gerne haben. Und deswegen habe ich da nach einer Alternative gesucht.
+[00:00:55 -> 00:01:01]  So ein einfacher Lötbrenner eignet sich dafür eigentlich ganz gut.
+[00:01:01 -> 00:01:10]  Die Teile gibt es im Baumarkt oder bei so Billigläden. Kostet so 3,50 Euro oder so.
+[00:01:10 -> 00:01:15]  Dann versuchen wir mal, ob wir da mal ein paar Bauteile rauskriegen.
+[00:01:17 -> 00:01:25]  Das hier, keine Ahnung, wo ich die Platine her habe. Aber da schauen wir mal, ob man diese ICs
+[00:01:25 -> 00:01:29]  da rauskriegen. Naja, ob das Sinn macht, das ist jetzt wieder eine andere Frage.
+[00:01:29 -> 00:01:37]  Aber schauen wir mal, ob der IC abgeht.
+[00:01:38 -> 00:01:43]  Also, wie man sieht, geht das ziemlich einfach und ziemlich schnell.
+[00:01:45 -> 00:01:50]  Also in der Zeit glaube ich nicht, dass da irgendwas kaputt geht. Nehmen wir mal den
+[00:01:50 -> 00:01:55]  ganz kleinen Kondensator hier. Ich glaube, ihr seht da gar nichts.
+[00:01:58 -> 00:02:03]  Nehmen wir mal hier den kleinen Kondensator.
+[00:02:06 -> 00:02:11]  Okay, mit einer Heißluftlötstation könnte es auch nicht besser gehen.
+[00:02:11 -> 00:02:16]  Also bisher haben die Bauteile das alle überlebt. Man kann ja da nachher die
+[00:02:16 -> 00:02:21]  Kapazität messen. Das geht doch wunderbar.
+[00:02:23 -> 00:02:30]  Okay, versuchen wir mal den ganz großen Chip da. Also man sieht an den Lötstöllen,
+[00:02:30 -> 00:02:35]  wenn die anfangen zu glänzen, dass das jetzt langsam locker wird, das Teil.
+[00:02:35 -> 00:02:41]  Und dann kann man das einfach nur abnehmen.
+[00:02:41 -> 00:02:47]  Dieser kleine Kondensator, der fällt fast schon selber ab.
+[00:02:47 -> 00:02:51]  Dieses große IC.
+[00:02:51 -> 00:02:53]  Da müssen wir schon richtig rumhalten.
+[00:02:53 -> 00:02:56]  Der kokelt schon der Karton an.
+[00:02:56 -> 00:03:00]  Okay, die Bude sollte man natürlich nicht abbrennen.
+[00:03:00 -> 00:03:07]  Also es wäre schon ganz gut, wenn man da eine Feuerfestelunterlage nimmt und nicht einfach einen Karton wie ich hier.
+[00:03:08 -> 00:03:11]  Also, das funktioniert schon mal ganz gut.
+[00:03:11 -> 00:03:14]  Versuchen wir mal was anderes.
+[00:03:14 -> 00:03:17]  Ah, der ist jetzt heiß.
+[00:03:17 -> 00:03:21]  Versuchen wir mal hier diese Quarzgeneratoren.
+[00:03:21 -> 00:03:25]  Also auch sowas habe ich schon mal ausgelötet. Das hat also auch ganz gut funktioniert.
+[00:03:25 -> 00:03:27]  Und die Dinger gingen danach noch.
+[00:03:27 -> 00:03:33]  Was hat der? Der hat 25 Mhz.
+[00:03:33 -> 00:03:40]  25 Mhz, da kann man vielleicht was mit anfangen.
+[00:03:40 -> 00:03:44]  Ja, da wird natürlich der ganze Chip heiß.
+[00:03:44 -> 00:03:48]  Die ganzen Bauteile da drin. Aber wie gesagt, bisher haben die das überlebt.
+[00:03:48 -> 00:03:57]  Was mich eigentlich schon etwas verblüfft.
+[00:03:57 -> 00:04:02]  Naja, ob der das überlebt, ist natürlich schon etwas fraglich.
+[00:04:02 -> 00:04:09]  Klar, Bauteile die auf einer Massenfläche gelötet sind, kommen natürlich schwerer raus.
+[00:04:09 -> 00:04:15]  Naja, okay, geht.
+[00:04:15 -> 00:04:26]  Das war der eine. Probieren wir es mal mit dem Kondensator hier.
+[00:04:26 -> 00:04:33]  Okay, da glüht schon jedes Teil hier.
+[00:04:33 -> 00:04:36]  Okay, also soweit so gut.
+[00:04:36 -> 00:04:50]  Ja, ist nicht die perfekte Lösung, aber das funktioniert einigermaßen.
+[00:04:50 -> 00:04:55]  Das Gas für den Brenner kann man natürlich in so kleinen 100ml Flaschen als Feuerzeuggas kaufen.
+[00:04:55 -> 00:04:57]  Aber das ist relativ teuer.
+[00:04:57 -> 00:05:01]  In den Billigläden gibt es auch diese 300ml Flaschen.
+[00:05:01 -> 00:05:05]  Für ungefähr 2,30€ habe ich dafür bezahlt.
+[00:05:05 -> 00:05:08]  Und wenn man Glück hat, kann man auch noch die ganz großen Flaschen kriegen.
+[00:05:08 -> 00:05:12]  400ml für gerade mal 1€.
+[00:05:20 -> 00:05:26]  Den Strom zu messen, der durch eine Schaltung oder ein Bauteil fließt, ist ja normalerweise ziemlich einfach.
+[00:05:26 -> 00:05:35]  Durch diesen 1,5kOhm Widerstand fließt natürlich an 1,5V ein Strom von ungefähr 1mA.
+[00:05:35 -> 00:05:37]  Klar, wir haben auch nichts anderes erwartet.
+[00:05:37 -> 00:05:45]  Aber, wenn wir jetzt da so eine Uhr zum Beispiel nehmen, die hat einen kleinen Magneten drin und der bewegt dann den Zeiger,
+[00:05:45 -> 00:05:48]  dann sieht das schon wieder ganz anders aus.
+[00:05:48 -> 00:05:51]  Wo ist der Plus, wo ist der Minus?
+[00:05:51 -> 00:05:54]  Da steht Plus drauf.
+[00:05:54 -> 00:06:00]  Und das ist der Minuspol.
+[00:06:00 -> 00:06:05]  Okay, sie läuft.
+[00:06:05 -> 00:06:09]  Ja, man hört es ticken.
+[00:06:09 -> 00:06:13]  So, und das sieht jetzt ja wirklich ganz salzig aus.
+[00:06:13 -> 00:06:22]  Ja klar, 90% der Zeit oder 95% der Zeit fließt ein ganz kleiner Ruhestrom, der durch die Schaltung wieder drin ist.
+[00:06:22 -> 00:06:24]  Da muss ja ein Quarzgenerator oder irgendwas drin sein.
+[00:06:24 -> 00:06:29]  Und dann wird eben dieser kleine Motor mehr oder weniger angesteuert.
+[00:06:29 -> 00:06:31]  Und es gibt einen kurzen Impuls.
+[00:06:31 -> 00:06:35]  Und den kann man natürlich mit einem normalen Multimeter nicht fünftig messen.
+[00:06:35 -> 00:06:39]  Den Impuls, den schauen wir uns doch gleich mal mit dem Oszilloskop an.
+[00:06:39 -> 00:06:42]  Dazu mache ich einen Widerstand in die Plusleitung.
+[00:06:42 -> 00:06:48]  Ja, das würde in die Minusleitung natürlich auch gehen, aber ich mache es mal in die Plusleitung rein.
+[00:06:48 -> 00:06:51]  Das sind 10 Ohm.
+[00:06:51 -> 00:06:55]  Und da kommt ja jetzt der Taschentopf dran.
+[00:06:55 -> 00:07:01]  Das Minus muss dann unten, oben dran.
+[00:07:01 -> 00:07:06]  Okay, das Plus in die Nähe vom Plus.
+[00:07:06 -> 00:07:10]  Und dann sehen wir schon mal den Impuls.
+[00:07:10 -> 00:07:18]  Ich stelle mal Einzelwert ein, dann wird die Linie etwas dicker.
+[00:07:18 -> 00:07:25]  Tja, also das ist ein Impuls, der ist ziemlich instabil.
+[00:07:25 -> 00:07:27]  Wir müssen mal die Triggerung umstellen.
+[00:07:27 -> 00:07:30]  Okay, das ist schon besser.
+[00:07:30 -> 00:07:39]  Der Impuls hat eine Länge von ungefähr, also ein Kästchen sind hier 5 Millisekunden, 10, 20, ja gut 30 Millisekunden.
+[00:07:39 -> 00:07:47]  Und hat eine Höhe von, VPP sagt da unten, 45 Millivolt.
+[00:07:47 -> 00:07:58]  Das sind also dann 4,5 Milliampere an 10 Ohm.
+[00:07:58 -> 00:08:05]  Und das Oszilloskop kann auch den Mittelwert dann rechnen.
+[00:08:05 -> 00:08:09]  Die Impulse sind natürlich eine Sekunde auseinander.
+[00:08:09 -> 00:08:16]  Und der Mittelwert ist dann 1,1 Millivolt.
+[00:08:16 -> 00:08:29]  Sodass die Uhr einen Stromverbrauch von 115 Mikrovolt, ne Moment, 115 Mikroampere haben muss.
+[00:08:29 -> 00:08:33]  Okay, 115 Mikroampere, das ist schon mal was.
+[00:08:33 -> 00:08:38]  Das ist natürlich eine Methode, die man nur machen kann, wenn man ein Oszilloskop hat, ein Speicheroszilloskop.
+[00:08:38 -> 00:08:41]  Da gibt es aber noch eine viel einfachere Lösung.
+[00:08:41 -> 00:08:45]  Dazu ersetze ich jetzt diesen 10 Ohm Widerstand mal durch einen anderen 10 Ohm Widerstand.
+[00:08:45 -> 00:08:55]  Der hat aber noch eine Reihenschaltung aus einem 10k und einem 100uV Kondensator parallel geschaltet.
+[00:08:55 -> 00:09:04]  Das sollte sich dann erstmal genau dasselbe ergeben.
+[00:09:04 -> 00:09:08]  Jetzt müsste die Uhr dann gleich wieder laufen.
+[00:09:08 -> 00:09:19]  Okay, und am Oszilloskop sehen wir hoffentlich gleich genau dasselbe.
+[00:09:19 -> 00:09:24]  Okay, das ist dasselbe, war auch nicht anders zu erwarten.
+[00:09:24 -> 00:09:38]  Wenn wir jetzt aber die Spannung über dem Elko messen, dann sieht man hier eine Mittelwertbildung aus dem Impuls und aus den Pausen.
+[00:09:38 -> 00:09:45]  Also immer wenn der Impuls kommt, dann steigt die Spannung kurz an und bis zum nächsten Impuls fällt die wieder etwas runter.
+[00:09:45 -> 00:09:54]  Und das ist jetzt schon eine deutlich stabilere Spannung als wir vorher ohne den Kondensator hatten.
+[00:09:54 -> 00:10:03]  Diese Zeitkonstante des RC-Glieds können wir jetzt noch erhöhen, indem wir da noch einen dickeren Kondensator da rein schalten.
+[00:10:03 -> 00:10:09]  Das ist ein 470uV-Teil.
+[00:10:10 -> 00:10:18]  Hier oben muss das dran und dann haben wir da noch die Minusleitung.
+[00:10:18 -> 00:10:24]  Und wenn wir das dann da dran schalten, dann ergibt es fast eine perfekte Gleichspannung.
+[00:10:24 -> 00:10:28]  So und diese Gleichspannung können wir mit einem normalen Multimeter messen.
+[00:10:28 -> 00:10:39]  Ich nehme also jetzt mal das Multimeter aus dem Stromkreis raus und schalte das in den Spannungsmessbereich.
+[00:10:47 -> 00:10:52]  Und da müssten wir jetzt ungefähr 1mV etwa messen.
+[00:10:53 -> 00:10:57]  Okay, Spannungsmessbereich geht hier.
+[00:10:57 -> 00:11:05]  Und wir haben jetzt einen gemittelten Spannungswert von 1,4mV.
+[00:11:05 -> 00:11:08]  Okay, das ist etwas mehr als wir vorher gemessen haben.
+[00:11:08 -> 00:11:13]  Da hatten wir ja 1,15 und das ergab 115µA.
+[00:11:13 -> 00:11:16]  Das ergibt jetzt 150µA.
+[00:11:16 -> 00:11:20]  Das kommt daher, wenn wir jetzt den Innenwiderstand dieses Messgeräts nicht mehr drin haben.
+[00:11:20 -> 00:11:22]  Das heißt, der Pulsstrom ist etwas höher.
+[00:11:22 -> 00:11:27]  Der Wert vorher war also nicht ganz korrekt und der sollte jetzt stimmen.
+[00:11:27 -> 00:11:31]  Wenn wir jetzt also die Batteriekapazität...
+[00:11:31 -> 00:11:33]  Man könnte auch einen Akku einsetzen.
+[00:11:33 -> 00:11:38]  Die Akkukapazität von 2000mAh
+[00:11:38 -> 00:11:48]  Durch den Strom von 0,15mAh gibt es eine Laufzeit von 13.000 Stunden.
+[00:11:48 -> 00:11:54]  Ein Jahr hat 8760 Stunden.
+[00:11:54 -> 00:12:03]  Das heißt, mit dieser kleinen Batterie läuft diese kleine Uhr etwa 1,5 Jahre lang.
+[00:12:09 -> 00:12:14]  Gepulste Ströme zu messen ist also ganz einfach, wenn man weiß, wie es geht.
+[00:12:14 -> 00:12:16]  Aber auch mit normalem Gleichstrom kann es Probleme geben.
+[00:12:16 -> 00:12:20]  Ich habe hier mal eine Halogenlampe angeschlossen.
+[00:12:20 -> 00:12:22]  Also 12 Volt, 60 Watt.
+[00:12:22 -> 00:12:28]  Und wenn ich jetzt das Labornetzteil einschalte, dann fließt dann Strom von ungefähr 5A durch.
+[00:12:28 -> 00:12:33]  Und über der Lampe liegt eine Spannung von, ja, ziemlich genau 12 Volt.
+[00:12:33 -> 00:12:37]  So, ich versuche jetzt mal, den Strom durch die Lampe genau zu messen.
+[00:12:37 -> 00:12:40]  Dazu schalte ich einen Ampere-Meter in Reihe.
+[00:12:43 -> 00:12:45]  Tja, einschalten müssen wir das auch noch.
+[00:12:48 -> 00:12:54]  Und wenn wir dann die Spannung wieder einschalten, dann sollte jetzt das Ampere-Meter etwas anzeigen.
+[00:12:54 -> 00:12:59]  Ja, wir haben einen Strom von knapp 4,9A, aber wir haben bloß noch 11,5 Volt.
+[00:12:59 -> 00:13:07]  Tja, diese 500 mV Verlust, die werden durch die Messkabel und durch das Messgerät selber verursacht.
+[00:13:07 -> 00:13:14]  Das können wir auch direkt messen, indem wir den Spannungsabfall über dem Messgerät ermitteln.
+[00:13:14 -> 00:13:17]  Also an den Messkabeln direkt messen.
+[00:13:17 -> 00:13:23]  Und dann haben wir einen Verlust von, ja, so etwa ein halbes Volt.
+[00:13:24 -> 00:13:29]  Tja, dieses halbe Volt verursacht natürlich dann auch einen kleineren Strom durch die Lampe.
+[00:13:29 -> 00:13:31]  Und wir haben jetzt einen Messfehler.
+[00:13:31 -> 00:13:39]  Diesen Messfehler könnte man vermeiden, wenn man diesen zusätzlichen eingeschleiften Widerstand verkleinern könnte.
+[00:13:41 -> 00:13:48]  Das geht eigentlich nicht so direkt, aber man könnte eine Messleitung dazwischen schalten.
+[00:13:48 -> 00:13:54]  Ich habe also hier jetzt ein Draht aus einem Installationskabel genommen.
+[00:13:55 -> 00:14:04]  Dieser Draht hat eine Länge von ziemlich genau 9 cm und einen Widerstand von einem Milliohm.
+[00:14:05 -> 00:14:11]  Und den schalte ich jetzt mal in Reihe zu der Lampe, also zu dem Verbraucher.
+[00:14:12 -> 00:14:22]  Und wir messen die Spannung über diesem Messwiderstand, nenne ich es jetzt mal.
+[00:14:23 -> 00:14:32]  Und wenn wir jetzt die Spannung zuschalten, dann fällt dort eine Spannung von 5,2 Volt ab.
+[00:14:33 -> 00:14:41]  Wir haben also einen Strom von 5,2 Ampere und einen Verlust von etwa 5 Millivolt.
+[00:14:41 -> 00:14:45]  Also etwa 100 mal weniger als mit einem normalen Messgerät.
+[00:14:46 -> 00:14:50]  Das gleiche Prinzip wird auch bei den Flachsicherungen im Auto angewendet.
+[00:14:50 -> 00:14:56]  Die Sicherungen für die verschiedenen Stromstärken haben unterschiedliche Farben und jeweils einen eigenen, immer gleichen Innenwiderstand.
+[00:14:56 -> 00:15:02]  An der Oberseite sind zwei Kontakte herausgeführt, an denen man den Spannungsabfall über den Anschlüssen messen kann.
+[00:15:02 -> 00:15:07]  So hat zum Beispiel eine 10 Ampere Sicherung einen Innenwiderstand von 7,7 Milliohm.
+[00:15:07 -> 00:15:12]  Mit einem üblichen Multimeter kann man da also den Strom mit einer Auflösung von 13 Milliampere messen.
+[00:15:12 -> 00:15:15]  Ganz ohne zusätzlichen Spannungsdurchschnitt.
+[00:15:17 -> 00:15:22]  Okay, das war es mal wieder. Lasst es euch gut gehen und bis zum nächsten Video.
+[00:15:26 -> 00:15:30]  Untertitel im Auftrag des ZDF für funk, 2017

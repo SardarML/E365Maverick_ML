@@ -1,0 +1,80 @@
+[00:00:00 -> 00:00:06]  Baiklah, kerana banyak pelajar sangat keliru mengenai formula median dalam
+[00:00:06 -> 00:00:15]  kapital statistik, jadi hari ini saya akan menjelaskan apa adalah formula median ini.
+[00:00:16 -> 00:00:23]  Baiklah, saya akan menjelaskan apa adalah L, apa adalah M, apa adalah F atau apa adalah SM dan C.
+[00:00:24 -> 00:00:29]  Baiklah, sebelum itu, biar saya ceritakan kepada anda briefly apa maksud median.
+[00:00:30 -> 00:00:40]  Baiklah, sebenarnya, maksud median sebenarnya sama dengan peringkat tengah.
+[00:00:42 -> 00:00:50]  Baiklah, biasanya, median, dia menggunakan kata-kata ini dalam kapital statistik akan bermaksud
+[00:00:51 -> 00:00:58]  nilai tengah. Jadi anda mahu mencari nilai tengah. Contohnya, saya memberikan data yang tidak berkumpulan.
+[00:01:00 -> 00:01:07]  Maksudnya, sebenarnya, data tidak berkumpulan dalam kelas. Baiklah, jadi data yang tidak berkumpulan, katakanlah saya mempunyai 3, 5,
+[00:01:09 -> 00:01:19]  6, 7 dan 11. Baiklah, saya mempunyai nilai 5 di sini. Jadi apa nilai median saya?
+[00:01:19 -> 00:01:25]  Jadi, sangat mudah, anda akan mengira nilai tengah. Jadi, katakanlah ini adalah nilai pertama,
+[00:01:25 -> 00:01:35]  nilai kedua, nilai ketiga, nilai keempat dan nilai kelima. Jadi, jelasnya, nilai median adalah 6.
+[00:01:35 -> 00:01:45]  Oleh itu, nilai median saya di sini adalah 6. Baiklah, tapi kemudian dalam data berkumpulan,
+[00:01:46 -> 00:01:49]  ini bukan data berkumpulan. Baiklah, untuk data berkumpulan,
+[00:01:52 -> 00:01:57]  bagaimana anda akan mencari median jika data telah dikategorikasi oleh kelas yang berbeza?
+[00:01:59 -> 00:02:09]  Katakanlah 0 ke 9, 10 ke 19, 20 ke 29 dan katakanlah 30 ke 39.
+[00:02:10 -> 00:02:14]  Baiklah, katakanlah ini adalah kelas dan ini adalah frekuensi.
+[00:02:16 -> 00:02:25]  Baiklah, mungkin ia memberikan anda 5, 7, 9 dan 6. Baiklah, ia memberikan anda frekuensi, ia memberikan anda kelas.
+[00:02:25 -> 00:02:31]  Jadi, bagaimana caranya mencari median? Baiklah, jadi sebelum anda mencari median, anda perlu mencari
+[00:02:31 -> 00:02:35]  frekuensi keseluruhan terlebih dahulu. Kemudian anda memisahkan separuh sahaja, anda dapat mencari
+[00:02:36 -> 00:02:44]  bagaimana median akan berada di kelas yang berbeza di sini. Jadi, mari kita tambah ke sini, kita mempunyai
+[00:02:44 -> 00:02:49]  5, 8, 9, 8, 6, kita mempunyai 20, jadi keseluruhan akan menjadi 27.
+[00:02:51 -> 00:03:00]  Jadi, frekuensi keseluruhan akan menjadi 27. Jadi, katakanlah anda membagi 27. Baiklah, apabila anda mempunyai
+[00:03:00 -> 00:03:06]  nombor yang aneh, baiklah, ini adalah nombor yang aneh, anda mahu mencari median, anda perlu
+[00:03:07 -> 00:03:16]  tambah, anda perlu tambah 1, dibagi dengan 2. Baiklah, jadi anda akan mendapat apa? Anda akan mendapat tambahan 128,
+[00:03:16 -> 00:03:26]  dibagi dengan 2, anda mempunyai nilai median sebenarnya pada nilai 14, jadi anda perlu mencari.
+[00:03:27 -> 00:03:36]  Baiklah, bermakna nilai 14, di mana nilai 14 akan berada, jadi anda perlu mengira di sini 5,
+[00:03:37 -> 00:03:48]  12, jadi sebenarnya nilai 14 akan berada di kelas ini, jadi ini dipanggil kelas median.
+[00:03:48 -> 00:03:57]  Baiklah, jadi sangat mudah, jika anda mempunyai, ini adalah nombor yang aneh, jika anda mempunyai nombor yang sama, anda hanya
+[00:03:57 -> 00:04:03]  dibagi dengan 2, maka anda dapat nilai median, tetapi kemudian anda mempunyai nombor yang aneh, anda tambah 1, dibagi dengan 2.
+[00:04:03 -> 00:04:14]  Baiklah, jadi katakanlah anda tahu, sekarang anda tahu, ini adalah kelas median. Baiklah, jadi formula ini sebenarnya
+[00:04:14 -> 00:04:19]  membantu anda mencari lebih banyak perincian mengenai kelas median, bermakna sebenarnya dalam kelas median,
+[00:04:20 -> 00:04:28]  dalam kelas median, apa nilai yang tepat untuknya, kerana di sini, dia hanya menyebut, dia akan jatuh
+[00:04:28 -> 00:04:35]  dalam 20 hingga 29 di sini, tetapi kemudian formula ini sebenarnya dapat membantu anda mencari 20 hingga 29,
+[00:04:36 -> 00:04:47]  berapa nilai yang akan ada dalam 20 hingga 29. Baiklah, jadi mari kita pergi ke formula ini.
+[00:04:48 -> 00:05:00]  Baiklah, katakanlah kita mempunyai kelas ini sekarang, ini adalah mark 1 hingga 10, 11 hingga 20, 20 hingga 30,
+[00:05:00 -> 00:05:05]  31 hingga 40, dan kemudian kita mempunyai frekuensi yang berbeza, dan kemudian mengumumkan frekuensi, anda mempunyai 40.
+[00:05:06 -> 00:05:15]  Baiklah, jadi apabila kita melihat jenis meja ini, perkara pertama, jika anda mahu mencari median, anda perlu
+[00:05:16 -> 00:05:24]  mencari median yang terletak dalam kelas ris. Jadi apa yang perlu dilakukan, kita hanya membagi dengan 2, bermakna
+[00:05:25 -> 00:05:41]  median akan berada di ke-20, bermakna median akan terletak dalam nilai ke-20, jadi ke-20 hampir terletak di sini.
+[00:05:41 -> 00:05:46]  Jadi sekarang ini adalah kelas median.
+[00:05:46 -> 00:05:55]  Baiklah, kerana kita mempunyai, ini adalah kelas median. Baiklah, kemudian kita boleh mula menggunakan formula ini.
+[00:05:56 -> 00:06:04]  Baiklah, L, apa makna L di sini? L akan menjadi bahagian bawah kelas median, jadi
+[00:06:05 -> 00:06:12]  L akan menjadi bahagian bawah kelas median, jadi bagaimana kita mendapat bahagian bawah? Sangat mudah,
+[00:06:12 -> 00:06:19]  anda menggunakan bahagian bawah dan bahagian atas bahagian kelas sebelumnya dibagi dengan 2, jadi hanya 31
+[00:06:19 -> 00:06:28]  tambah 30 dibagi dengan 2, anda akan mendapat 30.5. Jadi ini adalah bahagian bawah kelas median.
+[00:06:28 -> 00:06:37]  Jadi L akan menjadi 30.5. Baiklah, apa N? N akan menjadi frekuensi keseluruhan. Frekuensi keseluruhan di sini adalah 40,
+[00:06:37 -> 00:06:47]  jadi saya hanya menulis 40. Baiklah, jadi apa adalah F? Baiklah, kapital F akan bermaksud frekuensi keseluruhan
+[00:06:47 -> 00:06:54]  sebelum kelas median. Anda melihat frekuensi keseluruhan? Baiklah, dia mahu sebelum, ini adalah kelas median, sebelum
+[00:06:54 -> 00:07:03]  kelas median adalah 17. Baiklah, ia adalah frekuensi keseluruhan sebelum kelas median.
+[00:07:03 -> 00:07:13]  Jadi ini adalah 17. Baiklah, kemudian apa adalah F M? Baiklah, sebenarnya M di sini bermaksud
+[00:07:13 -> 00:07:20]  median, jadi dia mahu frekuensi untuk kelas median. Frekuensi untuk kelas median adalah 13.
+[00:07:21 -> 00:07:26]  Baiklah, berhati-hati kerana beberapa pelajar akan mengambil 30. 30 adalah frekuensi keseluruhan.
+[00:07:27 -> 00:07:33]  Yang ini hanya satu frekuensi untuk kelas median, mungkin 13. Baiklah, apa adalah C?
+[00:07:34 -> 00:07:44]  C sebenarnya adalah ukuran kelas, bermaksud betapa besar kelas anda di sini. Baiklah, bagaimana caranya mencari ukuran kelas?
+[00:07:44 -> 00:07:54]  Anda hanya menggunakan bahagian bawah kurang bahagian bawah. Jadi, baiklah, katakanlah kita boleh mengambil satu kelas,
+[00:07:54 -> 00:08:00]  baiklah, kita hanya mengambil kelas kelas median. Bahagian bawah akan menjadi 40.5
+[00:08:02 -> 00:08:12]  kurang bawah bahagian bawah akan menjadi 30.5. Oleh itu, kita akan mendapat 10. Bermaksud sebenarnya, ukuran kelas sekarang
+[00:08:12 -> 00:08:19]  akan menjadi 10. Baiklah, kerana beberapa pelajar secara langsung menggunakan 40 kurang 31, kemudian anda akan mendapat 9.
+[00:08:19 -> 00:08:25]  Kemudian anda akan tersilap. Baiklah, jadi ukuran kelas di sini, ingat gunakan bahagian bawah kurang bahagian bawah,
+[00:08:25 -> 00:08:31]  kemudian anda akan mendapat ukuran kelas adalah 10. Oleh itu, setelah anda mendapat semua ini,
+[00:08:31 -> 00:08:35]  anda hanya menggantikan, anda boleh mendapatkan bahagian median. Oleh itu, katakanlah saya menulis bahagian median.
+[00:08:37 -> 00:08:45]  Baiklah, bahagian median. Baiklah, gunakan simbol M. Ia akan menjadi bahagian bawah.
+[00:08:45 -> 00:08:51]  Baiklah, ini adalah bahagian bawah bahagian kelas median 30.5. Jadi 30.5
+[00:08:52 -> 00:09:03]  tambahkan N akan menjadi frekuensi keseluruhannya. Jadi ia adalah 40 dibagi 2 kurang 13. Frekuensi kumulatif
+[00:09:03 -> 00:09:10]  sebelum kelas median kurang 17. Saya letak rangka. Ingat untuk letak rangka.
+[00:09:10 -> 00:09:17]  Dibagi oleh frekuensi untuk kelas median. Frekuensi untuk kelas median adalah dibagi oleh 13
+[00:09:18 -> 00:09:25]  dan bergantian dengan 10. Baiklah, kemudian anda hanya menyelesaikan yang ini, anda dapat jawapan yang betul.
+[00:09:25 -> 00:09:36]  Jadi, baiklah, mungkin saya hanya menggunakan kalkulator untuk menyelesaikan. Baiklah, jadi katakanlah, baiklah, yang ini saya tulis 30.5 di sini
+[00:09:36 -> 00:09:48]  tambah. Baiklah, yang ini 40 dibagi 2. Kami mempunyai 20, 20 kurang 17. Kami mempunyai, kami mempunyai 3. Oleh itu, katakanlah 3 dibagi 13
+[00:09:49 -> 00:09:56]  dan kemudian bergantian dan kemudian bergantian 10. Oleh itu, kami mempunyai
+[00:09:57 -> 00:10:16]  tambah 2.307. Baiklah, jadi selepas itu, setelah kita tambah, sebenarnya kita mempunyai nilai yang akan menjadi 32.807
+[00:10:17 -> 00:10:29]  untuk kelas median. Okey, bermakna sebenarnya nilai kelas median akan jatuh pada 32. sesuatu. Okey, kerana sebenarnya
+[00:10:29 -> 00:10:36]  kami tahu nilai kelas median adalah 31 hingga 40 tetapi kemudian nilai ini akan memberitahu anda betul-betul kelas median sebenarnya jatuh
+[00:10:36 -> 00:10:48]  di 32.807. Ini adalah cara menggunakan formula kelas median. Oleh itu, saya hanya menjelaskan sekali lagi, L akan bermakna
+[00:10:49 -> 00:10:56]  bahagian bawah bahagian kelas median. Oleh itu, yang ini akan menjadi 30.5 dan ia adalah frekuensi total.
+[00:10:57 -> 00:11:06]  F akan menjadi frekuensi kumulasi sebelum kelas median. Oleh itu, ia akan menjadi 17. Hanya yang ini
+[00:11:06 -> 00:11:12]  tambah yang ini tambah yang ini. Okey, kemudian f kecil dengan M hanyalah frekuensi untuk kelas
+[00:11:12 -> 00:11:21]  median. Frekuensi untuk kelas median adalah 13 dan C di sini akan bermakna nilai kelas. Ingat, nilai kelas
+[00:11:21 -> 00:11:28]  harus menggunakan bahagian bawah bahagian bawah. Itu sahaja, kemudian anda hanya memasukkan formula ini dan jika tidak
+[00:11:28 -> 00:11:37]  salah, formula ini diberikan apabila anda mempunyai peperiksaan SPM. Terima kasih atas video ini.

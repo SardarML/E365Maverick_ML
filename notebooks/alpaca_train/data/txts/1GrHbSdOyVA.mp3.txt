@@ -1,0 +1,1046 @@
+[00:00:00 -> 00:00:02]  Ich weiß, ich hab noch nie in meinem Leben so ein langes YouTube-Video hochgeladen.
+[00:00:02 -> 00:00:03]  Was, Bruder?
+[00:00:03 -> 00:00:04]  Nein, Schaluhkan, das wird kein Bollywood-Film.
+[00:00:04 -> 00:00:09]  Auf jeden Fall wollte ich erst mal sagen, vielen Dank an 100.000 Abonnenten in nur 24 Stunden.
+[00:00:09 -> 00:00:10]  Das zeigt mir, dass ihr Bock habt zu lernen.
+[00:00:10 -> 00:00:11]  Motto.
+[00:00:11 -> 00:00:12]  Danke an jeden Einzelnen von euch.
+[00:00:12 -> 00:00:15]  Und ab sofort hat der Herr Halim auch einen Instagram-Account.
+[00:00:15 -> 00:00:16]  Erster Link in der Beschreibung.
+[00:00:16 -> 00:00:17]  Folgt ihm.
+[00:00:17 -> 00:00:19]  Die Schuljahre gemeinsam überstehen.
+[00:00:19 -> 00:00:22]  Jetzt erst mal viel Spaß mit dem Video.
+[00:00:22 -> 00:00:22]  Bis dann.
+[00:00:22 -> 00:00:23]  Ciao.
+[00:00:23 -> 00:00:23]  Jo, Leute, was geht ab?
+[00:00:23 -> 00:00:24]  Nächstes Thema.
+[00:00:24 -> 00:00:26]  Heute geht's um Exponentialfunktion.
+[00:00:26 -> 00:00:29]  Oder besser gesagt Exponentialfunktion mit der Basis A.
+[00:00:30 -> 00:00:32]  Ganz einfach, wie ich bei Polynomfunktion gesagt habe.
+[00:00:32 -> 00:00:34]  Ihr kennt die Exponentialfunktion sicherlich aus der Schule.
+[00:00:34 -> 00:00:37]  Aber in der Grundform sieht die eigentlich ganz anders aus.
+[00:00:37 -> 00:00:39]  Wie ihr das in der Schule kennt, ist da normalerweise immer E hoch irgendwas.
+[00:00:39 -> 00:00:40]  Aber in diesem Fall ist das so.
+[00:00:40 -> 00:00:44]  Ich will euch auch natürlich die Grundform zeigen der Exponentialfunktion.
+[00:00:44 -> 00:00:45]  Wie ich bei Polynomfunktion auch gemacht habe.
+[00:00:45 -> 00:00:46]  Woher kommt die eigentlich, Bruder?
+[00:00:46 -> 00:00:49]  Auf jeden Fall wird das ein Thema in der Schule sein, wo ihr nicht drumherum kommt.
+[00:00:49 -> 00:00:50]  Ihr müsst das machen.
+[00:00:51 -> 00:00:52]  Ich bin hier, ich werde euch helfen.
+[00:00:52 -> 00:00:57]  Ich habe wieder meine Standard-Gliederung aufgeschrieben, wie wir das bei Polynomfunktion auch gemacht haben.
+[00:00:57 -> 00:01:00]  In der allgemeinen Form hat die Exponentialfunktion die Basis A.
+[00:01:00 -> 00:01:02]  In der Mathematik schreibt man das dann wie folgt auf.
+[00:01:02 -> 00:01:04]  F von X gleich A hoch X.
+[00:01:04 -> 00:01:08]  Dabei solltet ihr den Hinterkopf behalten, dass dann für A immer eine positive, reelle Zahl eingesetzt wird.
+[00:01:08 -> 00:01:13]  So, und in der Schule kennt ihr das Ganze dann unter dem Namen hier E-Funktion.
+[00:01:13 -> 00:01:18]  Also das heißt, die Basis, die ich euch gerade gezeigt habe, dieses A, ist in der Schule dann ein E.
+[00:01:18 -> 00:01:22]  Das ist die sogenannte Exponentialfunktion, wie die auch die meisten von euch kennenlernen werden.
+[00:01:22 -> 00:01:25]  Aber mir war es wieder sehr wichtig, euch zu zeigen, wie seine Mutter heißt.
+[00:01:25 -> 00:01:29]  Und so wie das die meisten von euch aus der Schule kennen, ist die Basis A nicht da, sondern E.
+[00:01:29 -> 00:01:31]  Und deswegen sieht dann die Funktion in der Schule auch meistens so aus.
+[00:01:31 -> 00:01:33]  Man nennt sie ja Exponential, also E-Funktion.
+[00:01:33 -> 00:01:34]  Das sieht dann wie folgt aus.
+[00:01:34 -> 00:01:38]  Dann habt ihr F von X gleich E hoch X.
+[00:01:38 -> 00:01:42]  Ich habe euch ja gerade gesagt, dass dann für die Basis A irgendeine Zahl festgelegt wird.
+[00:01:42 -> 00:01:45]  Und so ist es auch in dem Fall natürlich bei der E-Funktion.
+[00:01:45 -> 00:01:46]  E ist eine Eulerische Zahl.
+[00:01:46 -> 00:01:50]  Ist dann gerundet 2,72.
+[00:01:50 -> 00:01:56]  Ist der festgesetzte Wert für die Eulerische Zahl, also für unser E.
+[00:01:56 -> 00:01:58]  Hier habt ihr ja noch einige Dinge, die ihr vielleicht gar nicht kennt.
+[00:01:58 -> 00:02:02]  Also E-Funktion, da sagt ihr alle, boah, kenne ich, kenne ich, ja man, kenne ich.
+[00:02:02 -> 00:02:07]  Aber die wenigsten, ich glaube außer Leistungskurssteller, wissen, dass man das Ganze Exponentialfunktion mit der Basis E nennt.
+[00:02:07 -> 00:02:11]  Oder auch halt, wie gesagt, die ganz unten, natürliche Exponentialfunktion.
+[00:02:11 -> 00:02:12]  Habt ihr das jetzt bis hierhin gecheckt?
+[00:02:12 -> 00:02:13]  Korrekt, Bruder.
+[00:02:13 -> 00:02:18]  Aber jetzt werden wir detaillierter darauf eingehen, einmal auf Exponentialfunktion mit der Basis A.
+[00:02:18 -> 00:02:21]  Und einmal auf Exponentialfunktion mit der Basis E.
+[00:02:21 -> 00:02:26]  Also ich hab euch ja gerade gesagt, dass A ein Element aller positiven, reellen Zahlen ist, außer 0.
+[00:02:26 -> 00:02:30]  Und wenn man das Ganze mathematisch aufschreibt, das sieht wie folgt aus.
+[00:02:30 -> 00:02:35]  AA, einfach Stimmbruch gehabt, ich hab diese A richtig tief genommen.
+[00:02:35 -> 00:02:41]  A ist Element aller positiven, reellen Zahlen, außer 0.
+[00:02:41 -> 00:02:46]  Und auf Billo gesagt, heißt das einfach, dass für A alle positiven, reellen Zahlen zunächstig sind.
+[00:02:46 -> 00:02:53]  Also jetzt in dem Fall 3, 4, 2,5, 1,3, all diese Zahlen sind zulässig.
+[00:02:53 -> 00:02:56]  Was aber nicht zulässig ist, also diese Zahlen, die ich euch jetzt nenne, sind haram.
+[00:02:56 -> 00:02:57]  Du bettest doch gar nicht für ein Fahramtag.
+[00:02:57 -> 00:03:03]  Sagen wir 0, minus 1, minus 1,3, das sind Zahlen, die nicht zulässig sind.
+[00:03:03 -> 00:03:06]  Und Leute, damit ihr das jetzt auch noch ein bisschen besser checkt,
+[00:03:06 -> 00:03:10]  stellt euch das Ganze so vor, wie so eine Art Vertrag, sagen wir, okay?
+[00:03:10 -> 00:03:14]  Das hier, was ich euch jetzt gerade erklärt habe, ist die erste Bedingung, okay?
+[00:03:14 -> 00:03:15]  Merkt euch das.
+[00:03:15 -> 00:03:20]  Und die zweite Bedingung, schreiben wir auf, zweite Bedingung, lautet wie folgt.
+[00:03:20 -> 00:03:23]  A ist ungleich 1.
+[00:03:23 -> 00:03:28]  Das heißt ganz einfach, A kann alle positiven, reellen Werte annehmen, außer 1 und 0.
+[00:03:28 -> 00:03:32]  Also merkt euch in diesem Fall, haram, 1 und 0, bei der zweiten Bedingung.
+[00:03:32 -> 00:03:35]  Jetzt habe ich hier was aufgezeichnet, das ist so ein Zahlenstrahl.
+[00:03:35 -> 00:03:40]  Einfach nur, damit ihr das noch vielleicht so ein bisschen visuell einfach vor Augen euch vorstellen könnt.
+[00:03:40 -> 00:03:44]  Und zwar habe ich hier aufgeschrieben, ihr seht ja einfach Element aller reellen Zahlen.
+[00:03:44 -> 00:03:48]  Hier habe ich positiv und negativ, beides habe ich hier aufgezeichnet.
+[00:03:48 -> 00:03:51]  Hier habe ich einmal bis Plus die Unendlichkeit und hier habe ich einmal bis Minus die Unendlichkeit.
+[00:03:51 -> 00:03:54]  Und jetzt versuche ich mal, diese erste Bedingung, die wir hatten,
+[00:03:54 -> 00:04:00]  A ist Element aller reellen positiven Zahlen, außer 0, zeichne ich euch jetzt mal hier ein.
+[00:04:00 -> 00:04:04]  Das heißt ja für uns, wie ich gerade gesagt habe, das Negative ist haram,
+[00:04:04 -> 00:04:07]  weil wir haben hier nur das Element aller reellen positiven Zahlen.
+[00:04:07 -> 00:04:11]  Sprich, das hier fällt für uns schon mal ganz weg.
+[00:04:11 -> 00:04:14]  Also keine negativen Zahlen kommen für uns in Betracht.
+[00:04:14 -> 00:04:19]  Jetzt arbeiten wir ja nur mit dieser Seite, weil wir gesagt haben, Element aller reellen positiven Zahlen.
+[00:04:19 -> 00:04:23]  Okay, das ist jetzt das Element der reellen positiven Zahlen.
+[00:04:23 -> 00:04:29]  Und ich habe ja hier stehen, außer 0 ebenfalls, das heißt die 0 fällt weg.
+[00:04:29 -> 00:04:32]  Jetzt seht ihr das Ganze, 0 fällt weg, negativen Zahlen, alles weg.
+[00:04:32 -> 00:04:36]  Wir arbeiten nur noch hier mit dem Element aller reellen positiven Zahlen.
+[00:04:36 -> 00:04:38]  Das ist die erste Bedingung.
+[00:04:38 -> 00:04:40]  Jetzt kommen wir zu unserer zweiten Bedingung.
+[00:04:40 -> 00:04:44]  Und hier haben wir ja gesagt, dass A ungleich 1 ist.
+[00:04:44 -> 00:04:46]  Jetzt fällt auch die 1 weg.
+[00:04:46 -> 00:04:53]  Das heißt jetzt ganz einfach, dass alle Elemente, die zwischen 0 und 1 liegen und auch was danach kommt, sind zulässig.
+[00:04:53 -> 00:04:55]  Aber 0 und 1 eben nicht.
+[00:04:55 -> 00:05:00]  Darum habe ich euch hier alles so schwarz markiert, damit ihr wisst, jeder kleine Furz ist zulässig, außer 0 und 1.
+[00:05:00 -> 00:05:06]  Und jetzt schreiben wir uns einfach mal die erste und zweite Bedingung mathematisch zusammengefasst auf.
+[00:05:06 -> 00:05:08]  Okay, das würde dann wie folgt aussehen.
+[00:05:08 -> 00:05:12]  Ich habe ja gesagt, A ist ein Element aller positiven reellen Zahlen.
+[00:05:12 -> 00:05:17]  So, und jetzt haben wir ja noch hier dazubekommen, die Information, dass 0 und 1 nicht dazugehören.
+[00:05:17 -> 00:05:18]  Eben aufgrund der zweiten Bedingung.
+[00:05:18 -> 00:05:21]  Und das Ganze schreibt man mathematisch dann wie folgt aus.
+[00:05:21 -> 00:05:31]  A ist Element aller positiven reellen Zahlen, außer die Elemente, die wir jetzt aufgrund der zweiten Bedingung noch dazubekommen haben, 0 und 1.
+[00:05:31 -> 00:05:37]  Ey, warum passt in diesem Fall jetzt bei der ersten Bedingung zum Beispiel die 0 nicht rein?
+[00:05:37 -> 00:05:38]  Wie sieht das aus?
+[00:05:38 -> 00:05:39]  Also, komm, wir machen mal folgendes Beispiel.
+[00:05:39 -> 00:05:42]  Wir haben jetzt hier die Funktion f von x.
+[00:05:42 -> 00:05:46]  Wir setzen jetzt mal 0 ein für unsere Basis A.
+[00:05:46 -> 00:05:49]  Dann hätten wir ja hier stehen, 0 hoch x.
+[00:05:49 -> 00:05:53]  Jetzt sagen wir mal, wir setzen für x irgendein Wert ein.
+[00:05:53 -> 00:05:54]  Denkt euch irgendein Wert aus?
+[00:05:54 -> 00:05:55]  Was soll ich sagen, Bruder?
+[00:05:55 -> 00:05:56]  Korrekt, Bruder.
+[00:05:56 -> 00:05:58]  So, was heißt das Ganze jetzt für uns?
+[00:05:58 -> 00:06:01]  Wie gesagt, egal was ich jetzt für x einsetze, es bleibt immer 0.
+[00:06:01 -> 00:06:08]  Das heißt, unsere Funktion hier, dieses f von x, ist 0 und somit eine konstante Funktion.
+[00:06:08 -> 00:06:11]  Und deswegen ist auch dieser 0-Wert nicht zulässig.
+[00:06:11 -> 00:06:13]  Ich zeichne das Ganze mal im Koordinatensystem ein.
+[00:06:13 -> 00:06:17]  So, hier haben wir wieder unser f von x, beziehungsweise unser y.
+[00:06:17 -> 00:06:18]  Und hier haben wir ja unsere x-Achse.
+[00:06:18 -> 00:06:23]  Jetzt müsst ihr euch einfach vorstellen, wir haben ja hier unsere ganzen Werte, und wir haben hier unsere ganzen Werte.
+[00:06:23 -> 00:06:26]  Und wir haben ja gerade folgendes herausgefunden.
+[00:06:26 -> 00:06:29]  Es ist ja völlig egal, was wir jetzt für x einsetzen, es bleibt 0.
+[00:06:29 -> 00:06:36]  Sprich, sage ich jetzt mal, ich setze für x 1 ein, dann wird ja mein Wert auch dementsprechend hier auf der x-Achse liegen.
+[00:06:36 -> 00:06:40]  Wir haben ja gerade herausgefunden, es ist egal, was wir für x einsetzen, wir erhalten immer 0.
+[00:06:40 -> 00:06:44]  Sprich, wenn wir das dann alles hier einsetzen würden und versuchen würden, einzuzeichnen,
+[00:06:44 -> 00:06:48]  würden wir einfach hier so eine gerade Linie bekommen, eine Konstante.
+[00:06:48 -> 00:06:51]  Und somit haben wir es hiermit mit einer konstanten Funktion zu tun.
+[00:06:51 -> 00:06:54]  Und das Gleiche machen wir jetzt mal für die zweite Bedingung, die wir hier stehen haben.
+[00:06:54 -> 00:06:56]  Wir machen jetzt mal hier folgendes Beispiel.
+[00:06:56 -> 00:07:00]  Die Basis ist hier in unserem Fall die Zahl 1 und dann halt hoch x.
+[00:07:00 -> 00:07:03]  Und nochmal so kurz, damit ihr so ein bisschen checkt.
+[00:07:03 -> 00:07:08]  Ich habe ja jetzt wirklich genau die Werte genommen, die ich eigentlich eben nicht verwenden soll.
+[00:07:08 -> 00:07:10]  Einfach nur, um euch zu zeigen, warum man das eben nicht macht.
+[00:07:10 -> 00:07:15]  Und das Ganze mache ich jetzt mal hier mit Hilfe der Wertetabelle, die ihr auch aus den anderen Videos von mir schon kennt.
+[00:07:15 -> 00:07:18]  Hier haben wir die x-Werte, hier unten haben wir f von x bzw. y.
+[00:07:18 -> 00:07:29]  Wir setzen für x, sagen wir mal, 13 ein, sagen wir mal 9 setzen wir ein, minus 2, nehmen wir mal 6, nehmen wir mal 8 und nehmen wir mal 7.
+[00:07:29 -> 00:07:32]  Das Ganze dürft ihr an der Schule auch in den Taschenrechner eingeben.
+[00:07:32 -> 00:07:36]  Aber in einem anderen Video werde ich mal genau darauf eingehen, wie ihr sowas auch im Kopf rechnen könnt.
+[00:07:36 -> 00:07:39]  Und gerade so bei so negativen Zahlen, das wird manchmal so ein bisschen tricky.
+[00:07:39 -> 00:07:42]  Das werde ich euch in einem anderen Video auch immer so genauer erklären, damit ihr da so keine Fehler macht.
+[00:07:42 -> 00:07:46]  Falls ihr mal keinen Taschenrechner da habt, Batterie leer ist oder so, weil ihr auf Geier-Modus Mr. Krabs seid und so.
+[00:07:46 -> 00:07:50]  So und wenn wir jetzt unsere Wertetabelle betrachten, erhalten wir, dass der Funktionswert immer 1 ist.
+[00:07:50 -> 00:07:52]  Und das Ganze markieren wir uns einfach mal.
+[00:07:52 -> 00:07:58]  f von x ist 1, egal welchen x-Wert wir hier an dieser Stelle einsetzen.
+[00:07:58 -> 00:08:03]  Und daraus folgt letzten Endes, dass f von x gleich 1 ist.
+[00:08:03 -> 00:08:09]  Und auch hier haben wir wie im Beispiel davor, beziehungsweise wie bei der ersten Bedingung, eine konstante Funktion.
+[00:08:09 -> 00:08:14]  Und weil wir das schon vorhin gemacht haben, nochmal ganz kurz erklärt, wie gesagt, hier nochmal ein Koordinatensystem veranschaulicht.
+[00:08:14 -> 00:08:19]  Es ist egal, welchen Wert wir einsetzen für x, wir erhalten letzten Endes immer 1 und demnach haben wir wieder hier eine konstante Funktionswerte.
+[00:08:19 -> 00:08:27]  So und mittlerweile haben wir ja Folgendes gelernt, dass die Bedingung gilt, a ist Element aller positiven reellen Zahlen außer 0 und 1.
+[00:08:27 -> 00:08:33]  Und jetzt möchte ich euch aber zeigen, wie diese Funktion im Groben natürlich in einem Koordinatensystem aussieht.
+[00:08:33 -> 00:08:40]  Dafür werde ich euch jetzt zwei Fälle zeigen, weil im Gegensatz zu den linearen Funktionen gibt es hier zwei unterschiedliche Fälle.
+[00:08:40 -> 00:08:44]  Jetzt betrachten wir hier den ersten Fall, wo a zwischen 0 und 1 liegt.
+[00:08:44 -> 00:08:49]  Das aufgeschrieben heißt, dass a größer 0 ist, aber kleiner 1.
+[00:08:49 -> 00:08:51]  So, was heißt das Ganze jetzt für euch?
+[00:08:51 -> 00:08:58]  Also das heißt, dass vielleicht jetzt in der Schule oder so, der Lehrer einfach für die Basis a einen bestimmten Wert festsetzen könnte.
+[00:08:58 -> 00:09:09]  Sagen wir mal 0,3, 0,4, irgendeinen Wert und wir nehmen jetzt mal als Beispiel für unsere Funktion einfach f von x gleich 0,5 hoch x.
+[00:09:09 -> 00:09:11]  Und hier haben wir jetzt schon mal eine Regel für den ersten Fall.
+[00:09:11 -> 00:09:15]  Je größer der x-Wert wird, desto kleiner wird der Funktionswert.
+[00:09:15 -> 00:09:20]  Und bevor ich jetzt hier irgendwas aufzeichne, nochmal so mein Tipp an euch, einfach nur um die Korrektheit eurer Lösung zu prüfen.
+[00:09:20 -> 00:09:29]  Merkt euch einfach, in diesem Fall gilt, wenn a innerhalb dieses Intervalls liegt, dann sieht die Funktion in einem Koordinatensystem immer wie folgt aus.
+[00:09:29 -> 00:09:31]  Jetzt ganz grob skizziert.
+[00:09:31 -> 00:09:35]  Wichtig dabei ist einfach sich zu merken, dass die keinesfalls die x-Achse schneidet.
+[00:09:35 -> 00:09:41]  Die könnte jetzt auch, sag ich mal, hier drunter sein, die könnte jetzt hier gehen, aber die schneidet jedenfalls nicht die x-Achse.
+[00:09:41 -> 00:09:41]  Merkt euch das.
+[00:09:41 -> 00:09:48]  So, bevor ich das Ganze jetzt etwas genauer versuche in ein Koordinatensystem einzuzeichnen, habe ich wie immer erst mal hier unsere Wertetabelle aufgezeichnet,
+[00:09:48 -> 00:09:52]  um euch dann halt zu zeigen, welche Werte ich jetzt für x in meinem Fall einsetzen möchte.
+[00:09:52 -> 00:09:56]  Hier haben wir einmal 0,5 hoch x, wenn ich jetzt Minus 4 nach 4 einsetze.
+[00:09:56 -> 00:10:10]  16, hier erhalten wir 4, etwas hoch 0 ist immer 1, hier erhalten wir in dem Fall natürlich 0,5 und hier müssten das 0,125 sein.
+[00:10:10 -> 00:10:16]  So, wir haben jetzt hier unsere Wertetabelle und möchten diese Werte auch jetzt natürlich in das Koordinatensystem übertragen.
+[00:10:16 -> 00:10:23]  Ich habe das Ganze wieder ganz, ganz grob aufgezeichnet, weil, ey, hier oben 16, wohin, mein Zimmer ist nicht mal zu groß, soll ich an die Decke malen oder was?
+[00:10:23 -> 00:10:25]  Aber ich zeichne jetzt einmal hier durch, damit ihr das seht.
+[00:10:25 -> 00:10:32]  Ihr müsst euch vorstellen, das geht jetzt die ganze Zeit hier durch, aber wird niemals die x-Achse berühren, weil das ist haram.
+[00:10:32 -> 00:10:33]  Und guckt mal, wie real ich bin.
+[00:10:33 -> 00:10:39]  Ich habe euch gerade schon gesagt, in meiner Skizze, wetten, dass die Funktion so aussehen wird und jetzt kann ich meine Lösung prüfen.
+[00:10:39 -> 00:10:42]  Guckt mal, das ähnelt dem.
+[00:10:42 -> 00:10:46]  Ich habe gar nicht so gemacht von der anderen Seite oder so, weil, wohin, dann wüsste ich direkt, es ist falsch.
+[00:10:46 -> 00:10:49]  Aber jetzt hieran kann ich wirklich prüfen, okay, kann das stimmen?
+[00:10:49 -> 00:10:51]  Und das Ganze, seht ihr ja, in unserem Fall stimmt das.
+[00:10:51 -> 00:10:57]  Warum? Weil wir haben ja auch hier wirklich einen Wert angenommen für unsere Basis, der in diesem Intervall des ersten Falles liegt.
+[00:10:57 -> 00:11:06]  Und deswegen stimmt auch folglich meine Prognose quasi mit dem Koordinatensystem, was ich dann letztendlich mithilfe der Wertetabelle aufgezeichnet habe.
+[00:11:06 -> 00:11:11]  So, jetzt befassen wir uns mit unserem zweiten Fall und machen im Grunde genommen das Gleiche, was wir jetzt hier gemacht haben.
+[00:11:11 -> 00:11:15]  Auch halt für den zweiten Fall, sprich, befassen wir uns jetzt mit diesem Teil hier auf unserem Zahlenstrahl.
+[00:11:15 -> 00:11:21]  Aber als erstes fangen wir natürlich an und schreiben unsere Regelung hier auf, was hier gilt.
+[00:11:21 -> 00:11:23]  Hier gilt, a ist größer 1.
+[00:11:28 -> 00:11:35]  Und auch hier heißt es wieder, dass der Lehrer in unserem Fall für die Basis dann irgendeine Zahl nehmen kann, die halt größer 1 ist.
+[00:11:35 -> 00:11:40]  1,1, 2, 3,3, irgendwas in dem Bereich.
+[00:11:40 -> 00:11:43]  Machen wir uns mal hier so eine Beispielfunktion.
+[00:11:43 -> 00:11:48]  So, das ist jetzt unsere Beispielfunktion und ohne jetzt erstmal hier was zu rechnen, werde ich wieder eine Prognose aufstellen, wie gerade.
+[00:11:48 -> 00:11:54]  Ich werde euch schwören, dass das Ganze ungefähr so aussehen wird, von mir aus auch so.
+[00:11:54 -> 00:11:57]  Fakt ist, es wird auch in diesem Fall nicht die x-Achse schneiden.
+[00:11:57 -> 00:12:03]  Und jetzt zeichne ich mal unsere Wertetabelle auf und dann versuchen wir das für dieses Beispiel in einem Koordinatensystem genauer zu veranschaulichen.
+[00:12:03 -> 00:12:07]  So, wir haben jetzt hier wieder unsere Wertetabelle aufgezeichnet und wie gesagt, das Ganze werde ich jetzt wieder versuchen,
+[00:12:07 -> 00:12:08]  als Koordinatensystem zu übertragen.
+[00:12:08 -> 00:12:14]  Ich habe jetzt auch schon für jeden x-Wert seinen dazugehörigen Funktionswert hier eingezeichnet und das Ganze verbinde ich jetzt mal wieder ganz grob,
+[00:12:14 -> 00:12:16]  damit ihr das mal so sehen könnt.
+[00:12:16 -> 00:12:21]  Und was wir jetzt anhand dieses Schaubilds erkennen können, ist, dass der Funktionsgraf ja hier steil nach oben geht
+[00:12:21 -> 00:12:26]  und dementsprechend heißt das auch für uns zusammengefasst, je größer der x-Wert, desto größer auch der Funktionswert.
+[00:12:26 -> 00:12:34]  So Leute, jetzt haben sich bestimmt einige von euch gefragt, ey, du meinst zu uns vorhin, dass die Basis a keine negative Zahl annehmen darf.
+[00:12:34 -> 00:12:36]  So, und jetzt wollt ihr bestimmt wissen, warum das der Fall ist.
+[00:12:36 -> 00:12:39]  Also es ist ganz einfach, da gibt es so eine kleine Rechenregel, die dahinter steckt
+[00:12:39 -> 00:12:44]  und wir haben ja gesagt, dass unsere Basis a keine negative Zahl annehmen darf und auch nicht 0 und 1,
+[00:12:44 -> 00:12:46]  denn ansonsten ist es ja keine Exponentialfunktion.
+[00:12:46 -> 00:12:50]  Und auf Grundlage dieses Wissens machen wir jetzt mal hier so eine Beispielfunktion.
+[00:12:50 -> 00:12:58]  Nehmen wir einfach mal für a jetzt so einen negativen Wert, damit jetzt etwas passieren würde, wenn ich mal dem Ganzen einfach widersprechen würde.
+[00:12:58 -> 00:13:00]  Nehmen wir einfach mal minus 3, okay?
+[00:13:00 -> 00:13:06]  Und jetzt sagen wir minus 3 hoch x haben wir hier stehen und wir wissen ja, dass unser x hier nur bestimmte Werte annehmen darf,
+[00:13:06 -> 00:13:11]  was ja eigentlich nicht der Fall sein darf, weil ja eben x alle reellen Werte annehmen können sollte.
+[00:13:11 -> 00:13:12]  Wir widersprechen einfach allem.
+[00:13:12 -> 00:13:16]  Jetzt nehme ich einfach mal für unser x hier den Wert 0,5.
+[00:13:16 -> 00:13:17]  Ich schreibe euch die Funktion jetzt nochmal hier auf.
+[00:13:17 -> 00:13:21]  Und jetzt kommen wir zu so einer kleinen Matheregel und jetzt haben wir hier im Exponenten hier die 0, Zahl
+[00:13:21 -> 00:13:26]  und wenn wir das jetzt mathematisch umformulieren möchten, dann würde das wie folgt aussehen.
+[00:13:26 -> 00:13:31]  So, ich würde das jetzt alles in ein Buch schreiben und folglich würde sich, jetzt kommt nämlich halt die Regel,
+[00:13:31 -> 00:13:36]  folgendes dann ergeben, 2 und dann hätte man die Wurzel aus einer negativen Zahl.
+[00:13:36 -> 00:13:39]  Das nennt man halt die zweite Wurzel und jetzt in dem Fall von einer negativen Zahl,
+[00:13:39 -> 00:13:43]  was aber in der Menge der reellen Zahlen nicht möglich ist.
+[00:13:43 -> 00:13:45]  Manche wundern sich jetzt vielleicht, warum hier jetzt der 2 steht.
+[00:13:45 -> 00:13:50]  In der Schule meistens habt ihr die gar nicht da stehen und habt da einfach nur so Wurzel aus minus 3,
+[00:13:50 -> 00:13:54]  aber das funktioniert ja mathematisch nicht, weil wie ihr es auch in der Schule kennt, aus Summen ziehen nur die Dummen.
+[00:13:54 -> 00:13:57]  Ich hab's geschafft, Punkt, ihr könnt nichts sagen.
+[00:13:57 -> 00:14:00]  Und was wir jetzt halt hieraus wissen, wie gesagt, ihr könnt hieraus keine Wurzel ziehen.
+[00:14:00 -> 00:14:02]  In der Menge der reellen Zahlen zumindest nicht.
+[00:14:02 -> 00:14:07]  Das heißt auch, dass wir dazu gar keine Funktionsweite bekommen und demnach handelt es sich auch hierbei gar nicht um eine Exponentialfunktion.
+[00:14:07 -> 00:14:11]  Darum sage ich ja, die Basis darf nicht negativ sein.
+[00:14:11 -> 00:14:16]  Und falls ich jetzt von einigen von euch den Kopf gefickt habe, macht euch keine Sorgen, euer Habibi ist da.
+[00:14:16 -> 00:14:20]  Ich werde demnächst ein Mathe-Video machen, wo ich euch richtig viele Rechenregeln zeige
+[00:14:20 -> 00:14:25]  und dann auch noch so marokkanische Tricks dazwischen, damit ihr so dribbeln könnt und besser durchkommt.
+[00:14:25 -> 00:14:33]  So, jetzt kommen wir zum nächsten Punkt und jetzt haben wir hier die Exponentialfunktion mit der Basis E oder auch anders genannt die E-Funktion.
+[00:14:33 -> 00:14:35]  So, jetzt schreiben wir mal eine Beispielfunktion auf.
+[00:14:35 -> 00:14:39]  F von X gleich E hoch.
+[00:14:39 -> 00:14:41]  Ich beschreibe jetzt einfach mal in Klammern hier Zahlen, okay?
+[00:14:41 -> 00:14:45]  Stellt euch das einfach vor, diese Zahl hier im Exponenten ist irgendeine reelle Zahl vor dem X.
+[00:14:45 -> 00:14:48]  Und auch hier in diesem Fall haben wir wieder zwei Fälle.
+[00:14:49 -> 00:14:57]  Okay, ich weiß, eigentlich gibt es drei, aber den dritten Fall, den werdet ihr in der Schule eigentlich so gut wie nie oder gar nicht werdet ihr den bekommen.
+[00:14:57 -> 00:15:02]  Wenn ihr den dritten Fall in der Schule doch bekommen solltet, dann ist euer Lehrer wirklich ein Hund, sage ich ganz ehrlich.
+[00:15:02 -> 00:15:08]  So, wir nehmen jetzt mal hier unseren ersten Fall und stellen uns einfach vor, wir haben eine Zahl, die kleiner Null ist.
+[00:15:08 -> 00:15:16]  Dann nehmen wir hier ein Beispiel, F von X gleich E hoch minus 3,4X.
+[00:15:16 -> 00:15:22]  Das erste, was ihr machen solltet, wenn ihr das so vor euch habt in der Schule, sagen wir jetzt mal hier so eine E-Funktion mit irgendwas oben beim Exponenten,
+[00:15:22 -> 00:15:27]  kreist euch am besten einfach dann die Zahl, die vor dem X steht, so ein,
+[00:15:27 -> 00:15:33]  damit ihr halt eben nochmal für euch klar gemacht habt, dass ihr jetzt wirklich in dem Fall seid, wo die Zahl halt kleiner Null ist.
+[00:15:33 -> 00:15:34]  Jetzt gehen wir mal zu unserem zweiten Fall.
+[00:15:34 -> 00:15:38]  Hier haben wir nämlich folgendes, Zahl größer Null.
+[00:15:38 -> 00:15:43]  Und jetzt nehmen wir mal auch wieder ein Beispiel, E hoch 2,7X.
+[00:15:43 -> 00:15:44]  Was macht ihr hier wieder?
+[00:15:44 -> 00:15:49]  Ihr kreist euch die Zahl vor dem X am besten ein, um zu wissen, in welchem Fall ihr euch gerade befindet.
+[00:15:49 -> 00:15:56]  So, und am besten macht ihr das nochmal auf dem Schulblatt so, dass ihr euch genau aufschreibt, wie gesagt, was jetzt die Zahl da ist, die ihr vor euch habt.
+[00:15:56 -> 00:16:00]  Hier haben wir halt den Fall, dass es kleiner Null ist, hier haben wir halt den Fall, dass es größer Null ist.
+[00:16:00 -> 00:16:02]  Einfach so könnt ihr das dann besser einordnen.
+[00:16:02 -> 00:16:08]  Ich habe auf jeden Fall als erstes wieder unsere Wertetabelle hier aufgezeichnet und habe beliebige Werte eingesetzt, auf die ich auch Bock hatte gerade.
+[00:16:08 -> 00:16:16]  So, ich habe jetzt zum Beispiel für das erste einfach mal den Wert Minus 2 eingesetzt für X und habe dann folgendes erhalten, 897,85.
+[00:16:16 -> 00:16:20]  So, und das habe ich dann versucht, hier in einem Koordinatensystem zu veranschaulichen.
+[00:16:20 -> 00:16:27]  Sieht dann halt wie folgt aus, man sieht, das ist ganz weit oben und es fällt, aber berührt natürlich auf keinen Fall die X-Achse.
+[00:16:27 -> 00:16:30]  Und das gleiche habe ich natürlich auch für unseren zweiten Fallbeispiel gemacht.
+[00:16:30 -> 00:16:34]  Habe ich auch wieder Werte eingesetzt für die Funktion f von X gleich E hoch 2,7 mal X.
+[00:16:34 -> 00:16:40]  Ich habe dann für X Minus 3 eingesetzt, also E hoch 2,7 mal Minus 3 und habe dann den folgenden Wert erhalten.
+[00:16:40 -> 00:16:45]  0,0003 war dann halt das erste Ergebnis und das immer so weiter auch für die anderen Zahlen.
+[00:16:45 -> 00:16:47]  Und wisst ihr, was ich auch hier so krass finde?
+[00:16:47 -> 00:16:54]  Ich habe einfach mal so aus Langeweile auf Lachkick 8 eingesetzt für X und guckt mal, was ich für eine heftige Zahl erhalten habe, seht ihr das?
+[00:16:54 -> 00:16:58]  Und jetzt mache ich das auch mal so wie im letzten Video, ich nenne euch mal so ein Beispiel, so aus dem echten Leben.
+[00:16:58 -> 00:17:04]  Und zwar stellt euch einfach mal vor, dieser Graph zeigt jetzt, wie viel Geld ich quasi mit YouTube mache.
+[00:17:04 -> 00:17:12]  Wir sagen, die X-Achse sind jetzt die Jahre, in denen ich so YouTube gemacht habe und die Y-Achse zeigt halt, wie viel Geld ich so verdiene.
+[00:17:12 -> 00:17:19]  Und dann seht ihr, bei fast 900 Euro habe ich angefangen und bin mit den ganzen Jahren immer weiter nach unten gefallen, immer mehr Minus gemacht.
+[00:17:19 -> 00:17:23]  LBK ist Umsatz auf YouTube und hier nehmen wir jetzt Umsatz von Simon Unger.
+[00:17:23 -> 00:17:25]  Das hier sind 5.000, komm vorbei, das Geld liegt hier bei mir zu Hause rum.
+[00:17:25 -> 00:17:33]  Ihr könnt hier so sehen, in den acht letzten Jahren von Simon Unger auf YouTube hat er einfach so die 2,4 Milliarden, sage ich mal, Euro gemacht.
+[00:17:33 -> 00:17:39]  Krass, ne? Versteht ihr jetzt, warum ich mich mal nach Madeira fliege und den ganzen Zelt umarme und anfasse, wenn ihr das da seht?
+[00:17:39 -> 00:17:43]  Wann habt ihr jemals diese Zahl gesehen? Höchstens ein Mathebuch bei euch, Wallah, und du wirst es doch lernen.
+[00:17:43 -> 00:17:45]  Ist Milliardär.
+[00:17:45 -> 00:17:50]  So, jetzt kommen wir zum nächsten Thema und zwar Logarithmusfunktion.
+[00:17:50 -> 00:17:53]  Das ist so, äh, warte, voll Sodbrennen gerade bekommen.
+[00:17:53 -> 00:18:02]  Als Logarithmus einer Zahl bezeichnet man den Exponenten, mit dem die Basis, also eine festgelegte Zahl potenziert werden muss, um die gegebene Zahl des Nummers zu erhalten.
+[00:18:02 -> 00:18:04]  Bruder, was laber ich hier?
+[00:18:04 -> 00:18:07]  Logarithmusfunktion, damit veranschaulicht man zum Beispiel so Sachen, wie kennt ihr das?
+[00:18:07 -> 00:18:11]  Wenn Erdbeben ist manchmal im Fernsehen, dann zeigen die, wie weit das so ausschlägt und so dies, das.
+[00:18:11 -> 00:18:15]  Für sowas benutzt man auch Logarithmusfunktion, um das so ein bisschen genauer so zu veranschaulichen.
+[00:18:15 -> 00:18:19]  Wisst ihr so, wie weit gehen diese Erdbeben, das, was, was? Ich zeig euch einfach.
+[00:18:19 -> 00:18:25]  Machen wir ein bisschen zur Einführung erst mal Folgendes. Wir schreiben mal b hoch n gleich x.
+[00:18:25 -> 00:18:31]  Als erstes solltet ihr hier im Hinterkopf schon mal behalten haben, dass b eine streng positive reelle Zahl ist, die ungleich 1 ist.
+[00:18:31 -> 00:18:34]  Und n ist eine reelle Zahl, die hier im Exponenten steht.
+[00:18:34 -> 00:18:42]  Und jetzt ist es wichtig, dass unsere Exponenten hier in unserem Fall das n auf unsere Basis b anwenden, um dann folglich auch das x zu erhalten.
+[00:18:42 -> 00:18:45]  Und dabei ist x halt eine Variable, beziehungsweise ein gegebener Wert.
+[00:18:45 -> 00:18:54]  So und jetzt solltet ihr wissen, dass der Logarithmus so in der Regel einfach nur angibt, wie oft du eine Zahl mit dem selben Faktor multiplizierst.
+[00:18:54 -> 00:18:56]  Und das Ganze machen wir jetzt anhand dieses Beispiels.
+[00:18:56 -> 00:19:03]  Sagen wir mal, wir haben für die Basis einen Wert gegeben. Nehmen wir mal hier b gleich 6.
+[00:19:03 -> 00:19:08]  Und hier würden wir jetzt auch noch absichtlich für unsere x Variable einen festen Wert aussuchen.
+[00:19:08 -> 00:19:14]  Nehmen wir mal einfach hier x gleich 1296.
+[00:19:14 -> 00:19:23]  Und jetzt ist es unsere Aufgabe zu bestimmen, welcher Wert sich hinter diesem n, beziehungsweise hinter dieser reellen Zahl verbirgt.
+[00:19:23 -> 00:19:25]  Was steckt da jetzt im Exponenten?
+[00:19:25 -> 00:19:28]  Jetzt wissen wir ja, dass unsere Basis 6 ist.
+[00:19:28 -> 00:19:37]  Und jetzt möchten wir wissen, wie oft müsste man den Faktor 6 multiplizieren, um letzten Endes auf dieses Ergebnis zu kommen, auf die 1296.
+[00:19:37 -> 00:19:41]  Und wenn wir jetzt mal gucken, kann man auch im Taschenrechner rechnen, also macht euch da keine Sorgen.
+[00:19:41 -> 00:19:46]  6 mal 6 mal 6 mal 6.
+[00:19:46 -> 00:19:50]  Jetzt könnt ihr ganz einfach zählen, wie oft wurde hier die 6 verwendet?
+[00:19:51 -> 00:19:56]  Die 6 wurde also 4 mal verwendet, um letztlich auf 1296 zu kommen.
+[00:19:56 -> 00:19:59]  So und jetzt wollen wir wissen, wie können wir das Ganze zusammenfassen.
+[00:19:59 -> 00:20:01]  Da haben wir ja folgende Informationen mittlerweile.
+[00:20:01 -> 00:20:05]  Wir haben die Basis 6 und wissen jetzt, dass das 4 mal verwendet wurde.
+[00:20:05 -> 00:20:09]  Und dann machen wir ganz einfach folgendes. 6 hoch 4.
+[00:20:09 -> 00:20:14]  Und somit haben wir dann heraus, dass die Basis jetzt 6 ist, wie wir auch schon vorhin wussten.
+[00:20:14 -> 00:20:16]  Aber jetzt haben wir auch noch den Exponenten herausgefunden.
+[00:20:16 -> 00:20:19]  Und das ist in diesem Fall die Zahl 4.
+[00:20:19 -> 00:20:22]  So und jetzt tragen wir einfach mal unsere ganzen Informationen hier zusammen.
+[00:20:22 -> 00:20:25]  Da haben wir jetzt herausbekommen, dass das Ganze so aussieht.
+[00:20:25 -> 00:20:32]  Was wir jetzt wissen, ist ja, dass das hier unsere Basis ist, die ja am Anfang jetzt schon festgelegt wurde in unserem Fall.
+[00:20:32 -> 00:20:35]  Das hier ist unser Exponent.
+[00:20:35 -> 00:20:41]  Und das hier ist jetzt die Variable x gewesen, also den Wert, den wir jetzt für die Variable gewählt haben.
+[00:20:41 -> 00:20:47]  Und jetzt solltet ihr noch folgende Dinge euch einfach mal grundsätzlich so merken.
+[00:20:47 -> 00:20:49]  Wenn wir über eine Basis sprechen.
+[00:20:49 -> 00:20:56]  Und zwar gilt immer zuerst folgendes, was ich ja auch schon gerade gesagt hatte, dass die Basis Element aller positiv reellen Zahlen ist.
+[00:20:56 -> 00:20:59]  Außer 0 und 1.
+[00:20:59 -> 00:21:06]  Und wenn wir jetzt zurückdenken, fällt uns auf, dass das Gleiche im Grunde genommen auch für die Exponentialfunktion galt mit der Basis a.
+[00:21:06 -> 00:21:12]  Da hatten wir ja auch gesagt, dass alle positiven reellen Zahlen zulässig sind, außer 0 und 1.
+[00:21:12 -> 00:21:17]  So und jetzt die mathematische Schreibweise vom Logarithmus sieht dann jetzt in unserem Fall wie folgt aus.
+[00:21:17 -> 00:21:23]  Logarithmus zu der Basis 6 von der Zahl 1296, das war ja hier unser x-Wert, den wir hatten.
+[00:21:23 -> 00:21:27]  Gleich Logarithmus zur Basis 6 von der Zahl 6 hoch 4.
+[00:21:27 -> 00:21:31]  Das Ergebnis ist im Grunde genommen das, was hier dann im Exponenten steht.
+[00:21:31 -> 00:21:32]  Also die 4.
+[00:21:32 -> 00:21:37]  Und jetzt die allgemeine Schreibweise zu der Logarithmusfunktion zur Basis b sieht wie folgt aus.
+[00:21:37 -> 00:21:39]  Ich mache euch hier so ein Pfeil hin.
+[00:21:39 -> 00:21:44]  f von x ist gleich Logarithmus zur Basis b von einer Variable x.
+[00:21:44 -> 00:21:47]  So und jetzt haben wir uns mal hier unser Wissen aufgeschrieben.
+[00:21:47 -> 00:21:53]  Wir haben ja hier stehen, f von x gleich Logarithmus zur Basis b von x.
+[00:21:53 -> 00:22:00]  Und dabei gilt folgende Bedingung, dass nämlich b Element aller positiven reellen Zahlen ist, außer 0 und 1.
+[00:22:00 -> 00:22:05]  So und dann habe ich jetzt hier, wie ich es auch bei der Exponentialfunktion gemacht habe, wieder so zwei Fälle aufgeschrieben.
+[00:22:05 -> 00:22:07]  Einfach damit das vielleicht so überschaubarer für euch ist.
+[00:22:07 -> 00:22:09]  Wir machen jetzt erstmal hier diese Seite.
+[00:22:09 -> 00:22:11]  Das ist der erste Fall, den ich aufgeschrieben habe.
+[00:22:11 -> 00:22:14]  Da haben wir gesagt, dass b größer 0 ist und kleiner 1.
+[00:22:14 -> 00:22:18]  Sprich, alles was b annehmen darf, liegt zwischen 0 und 1.
+[00:22:18 -> 00:22:21]  Beziehungsweise das b sieht dann halt so aus, 0, irgendeine Zahl.
+[00:22:21 -> 00:22:23]  Und hier habe ich dann so ein paar Beispiele aufgeschrieben.
+[00:22:23 -> 00:22:26]  Logarithmus zur Basis 1,5 von x.
+[00:22:26 -> 00:22:29]  Einmal dann Logarithmus zur Basis 1,6 von x.
+[00:22:29 -> 00:22:32]  Und einmal Logarithmus zur Basis 2,3 von x.
+[00:22:32 -> 00:22:36]  Und dann solltet ihr eigentlich folgendes schon direkt bemerken, wenn ihr das Koordinatensystem jetzt betrachtet.
+[00:22:36 -> 00:22:39]  Die Funktion verläuft von oben nach unten.
+[00:22:39 -> 00:22:44]  Und dabei seht ihr, dass alle Funktionen hier immer die x-Achse beim Wert 1 schneiden.
+[00:22:44 -> 00:22:48]  Völlig egal, ob ich jetzt die Basis 1,5 habe, 1,6 oder 2,3.
+[00:22:48 -> 00:22:51]  So und jetzt sind wir hier bei unserem zweiten Fall.
+[00:22:51 -> 00:22:54]  Hier habe ich aufgeschrieben, dass b größer 1 ist.
+[00:22:54 -> 00:22:58]  Und wir betrachten jetzt einfach hier die drei bekanntesten Logarithmusfunktionen,
+[00:22:58 -> 00:23:03]  die auch so am häufigsten in verschiedenen Bereichen des Lebens angewendet werden.
+[00:23:03 -> 00:23:06]  Da habe ich hier als erstes einmal für die Basis den Wert e.
+[00:23:06 -> 00:23:08]  Dann haben wir hier folgendes stehen.
+[00:23:08 -> 00:23:10]  Logarithmus zur Basis e von x.
+[00:23:10 -> 00:23:12]  Das wäre dann halt der natürliche Logarithmus.
+[00:23:12 -> 00:23:15]  Dann haben wir noch hier einmal Basis 10.
+[00:23:15 -> 00:23:17]  Das wäre dann Logarithmus zur Basis 10 von x.
+[00:23:17 -> 00:23:19]  Das wäre der sogenannte 10er Logarithmus.
+[00:23:19 -> 00:23:21]  Und dann haben wir noch hier die Basis 2.
+[00:23:21 -> 00:23:24]  Beziehungsweise Logarithmus zur Basis 2 von x.
+[00:23:24 -> 00:23:28]  Und das wäre der sogenannte 2er Logarithmus oder auch bekannt als Binärer Logarithmus.
+[00:23:28 -> 00:23:33]  Und wenn wir das Ganze jetzt hier in unserem Koordinatensystem wieder versuchen zu veranschaulichen.
+[00:23:33 -> 00:23:35]  Ich habe es hier als skizziert ganz grob.
+[00:23:35 -> 00:23:39]  Dann fällt uns jetzt diesmal auf, dass im Gegensatz zu dem was wir zuvor hatten,
+[00:23:39 -> 00:23:42]  dass der Graph hier von unten nach oben verläuft.
+[00:23:42 -> 00:23:46]  Und dass es völlig egal ist wieder welche Basis wir jetzt hier verwenden.
+[00:23:46 -> 00:23:50]  Wir sehen aber, dass die Funktionen die x-Achse beim Wert 1 schneiden.
+[00:23:50 -> 00:23:52]  Wir haben ja gesagt, dass wir drei Varianten betrachten.
+[00:23:52 -> 00:23:55]  Und hier sind wir jetzt bei dem ersten von denen.
+[00:23:55 -> 00:23:57]  Und das ist halt der natürliche Logarithmus.
+[00:23:57 -> 00:23:59]  Hier wird die Basis gleich dem Wert e.
+[00:23:59 -> 00:24:01]  So jetzt schreibe ich das Ganze mal auf.
+[00:24:01 -> 00:24:06]  f von x gleich Logarithmus zur Basis e von x.
+[00:24:06 -> 00:24:11]  Und eine andere Schreibweise dafür ist noch ln von x.
+[00:24:11 -> 00:24:16]  So und Wissenschaftler haben das Ganze halt einfach so entwickelt, dass man das mit ln von x quasi abkürzt.
+[00:24:16 -> 00:24:20]  Weil damit man nicht halt immer schreiben muss, Logarithmus zur Basis e von x.
+[00:24:20 -> 00:24:22]  Dann hat man das hier einfach in der kürzeren Version aufgeschrieben.
+[00:24:22 -> 00:24:26]  Ich habe euch ja vorhin gesagt, dass die Graphen die x-Achse beim Wert 1 schneiden.
+[00:24:26 -> 00:24:30]  Und jetzt denkt man sich bestimmt so, ja hast du uns gesagt, aber warum ist das eigentlich so?
+[00:24:30 -> 00:24:34]  Guck mal, ich habe ja gerade gesagt, dass unsere Basis, die wir jetzt hier haben, e ist.
+[00:24:34 -> 00:24:37]  Wir haben jetzt hier zum Beispiel Logarithmus zur Basis e von 1.
+[00:24:37 -> 00:24:42]  Und da haben wir schon direkt so eine Regel, die wir kennengelernt haben, die uns auch jetzt in den Sinn kommen sollte.
+[00:24:42 -> 00:24:47]  Wir wissen jetzt direkt, dass immer etwas hoch 0 letzten Endes 1 ergibt.
+[00:24:47 -> 00:24:49]  Deswegen habe ich schon auch wie folgt hingeschrieben.
+[00:24:49 -> 00:24:54]  Logarithmus zur Basis e, e ist ja die eulerische Zahl 2,72, den Wert, den wir ja schon mittlerweile kennen.
+[00:24:54 -> 00:25:01]  Jetzt haben wir dann hier Logarithmus zur Basis e von und die 1 haben wir dann letzten Endes ersetzt durch e hoch 0.
+[00:25:01 -> 00:25:06]  Und folglich das, was halt hier im Exponenten steht, ist dann das Ergebnis, also 0.
+[00:25:06 -> 00:25:10]  So Leute, ich habe jetzt mal versucht, das Ganze in einem Koordinatensystem zu veranschaulichen.
+[00:25:10 -> 00:25:13]  Aber dazu habe ich natürlich wie immer meine Wertetabelle aufgeschrieben.
+[00:25:13 -> 00:25:19]  Und wie ihr direkt schon mit ablesen könnt, seht ihr, wenn ich für den x-Wert 1 eingesetzt habe,
+[00:25:19 -> 00:25:22]  habe ich da den dazugehörigen Funktionswert 0 erhalten.
+[00:25:22 -> 00:25:24]  Das kann man auch dann hier ran sehen.
+[00:25:24 -> 00:25:26]  x wird eingesetzt, 0 als Funktionswert erhalten.
+[00:25:26 -> 00:25:29]  Gleiches dann auch wieder gemacht, dann habe ich mal für x e eingesetzt.
+[00:25:29 -> 00:25:32]  Und wie ihr wisst, e ist ja die eulerische Zahl 2,72.
+[00:25:32 -> 00:25:34]  Auf jeden Fall habe ich ja dann für den x-Wert einmal e eingesetzt.
+[00:25:34 -> 00:25:38]  Und dafür habe ich dann halt den Funktionswert 1 erhalten, wie ihr hier sehen könnt.
+[00:25:38 -> 00:25:41]  Dann habe ich hier einmal für den x-Wert e hoch 2 angewendet.
+[00:25:41 -> 00:25:48]  Also ihr wisst ja, eulerische Zahl 2,72 und das zum Quadrat wären dann 7,37, habe ich auch da aufgeschrieben.
+[00:25:48 -> 00:25:51]  Und da habe ich dann den dazugehörigen Funktionswert erhalten.
+[00:25:51 -> 00:25:53]  Und das war in meinem Fall 2.
+[00:25:53 -> 00:25:55]  Demnach könnt ihr auch sehen, wie der Graph verläuft.
+[00:25:55 -> 00:26:01]  Er verläuft von unten, schneidet hier mal die x-Achse und verläuft weiter immer wieder nach oben ins Positiv.
+[00:26:01 -> 00:26:04]  Darum schneidet die Funktion die x-Achse beim Wert 1.
+[00:26:04 -> 00:26:06]  Man sieht es halt einfach hier in der Wertetabelle.
+[00:26:06 -> 00:26:09]  Wenn man für x 1 einsetzt, erhält man den Funktionswert 0.
+[00:26:09 -> 00:26:14]  Oah, vom Himmel zurück, es geht weiter.
+[00:26:14 -> 00:26:20]  So Leute, jetzt kommen wir nämlich zum nächsten Step, bzw. zum zweiten Typ, mit dem wir uns befassen.
+[00:26:20 -> 00:26:25]  Das ist der Zehner-Logarithmus und in diesem Fall ist unsere Basis gleich 10.
+[00:26:25 -> 00:26:29]  Und das Ganze mathematisch aufgeschrieben sieht wieder mal wie folgt aus.
+[00:26:29 -> 00:26:34]  Logarithmus zur Basis 10 von x.
+[00:26:34 -> 00:26:37]  Jetzt schreiben wir eine sehr wichtige Regel auf, die man sich merken sollte.
+[00:26:37 -> 00:26:46]  Logarithmus zur Basis 10 von 1 gleich Logarithmus zur Basis 10 von 10 hoch 0.
+[00:26:46 -> 00:26:49]  Und letzten Endes erhalten wir dann das Ergebnis 0.
+[00:26:49 -> 00:26:53]  Die Potenz ist ja hier in unserem Fall 0 und demnach auch ist das dann letztendlich unser Ergebnis.
+[00:26:53 -> 00:26:56]  Wir hatten ja jetzt hier das Beispiel mit dem Logarithmus zur Basis 10.
+[00:26:56 -> 00:27:02]  Aber merkt euch einfach so allgemein, der Logarithmus zu egal welcher Basis von 1 ergibt immer 0.
+[00:27:02 -> 00:27:04]  Das könnt ihr euch grundsätzlich einfach so merken.
+[00:27:04 -> 00:27:07]  Also auf jeden Fall habe ich jetzt mal wieder hier das gängige gemacht, was ihr immer von mir kennt.
+[00:27:07 -> 00:27:12]  Ich habe erstmal alles in die Wertetabelle eingetragen und habe dann daraufhin hier ein Koordinatensystem aufgezeichnet.
+[00:27:12 -> 00:27:18]  Wie ihr sehen könnt, habe ich hier für den Wert x 1 eingesetzt und habe dann den Funktionswert 0 erhalten.
+[00:27:18 -> 00:27:23]  Sprich der Logarithmus zur Basis 10 von 1 wäre in dem Fall 0.
+[00:27:23 -> 00:27:25]  Und das Ganze habe ich natürlich auch hier eingetragen, wie ihr sehen könnt.
+[00:27:25 -> 00:27:29]  Den x-Wert eingesetzt und hier dann den dazugehörigen Funktionswert 0 erhalten.
+[00:27:29 -> 00:27:32]  Und das gleiche habe ich natürlich auch für 5 gemacht, habe den x-Wert 5 eingesetzt.
+[00:27:32 -> 00:27:38]  Also sprich Logarithmus zur Basis 10 von 5 und habe dann den Funktionswert 0,69 erhalten.
+[00:27:38 -> 00:27:44]  Wie ihr sehen könnt, 5 eingesetzt, 0,69 erhalten und dann letzten Endes noch den Wert 10 für x eingesetzt.
+[00:27:44 -> 00:27:49]  Also Logarithmus zur Basis 10 von 10 und habe dann den Wert 1 erhalten.
+[00:27:49 -> 00:27:53]  Und wie wir sehen können, verläuft der Graph einfach von unten nach oben.
+[00:27:53 -> 00:27:58]  Und was wir auch noch anmerken müssen, wir sehen, dass hier der Graph keinesfalls die y-Achse schneidet.
+[00:27:58 -> 00:28:01]  Er nähert sich ihr wirklich immer nur an.
+[00:28:01 -> 00:28:05]  Also ich würde so weit gehen, dass er sich nur so ein bisschen an der Reibe würde, wie ich an meinen Matratzen immer nachts.
+[00:28:05 -> 00:28:10]  Jetzt kommen wir zum letzten Typen, das ist der sogenannte binäre Logarithmus oder auch bekannt als der Zweierlogarithmus.
+[00:28:11 -> 00:28:19]  Sprich wir haben hier Basis gleich 2 und so einen binären Logarithmus verwendet man in der Realität zur Analyse von Zeitkomplexität von Algorithmen.
+[00:28:19 -> 00:28:23]  Und die Funktion lautet wie folgt, f von x gleich Logarithmus zur Basis 2 von x.
+[00:28:23 -> 00:28:27]  Die andere Schreibweise dafür ist noch die folgende lb von x.
+[00:28:27 -> 00:28:32]  Das ist halt so eine selten verwendete Schreibweise in der Schule, aber einfach kann ja nicht schaden das zu wissen.
+[00:28:32 -> 00:28:34]  Und jetzt schreibe ich mal hier so eine Regel auf.
+[00:28:34 -> 00:28:41]  Logarithmus zur Basis 2 von 1 ist gleich Logarithmus zur Basis 2 von 2 hoch 0.
+[00:28:41 -> 00:28:47]  Und wie wir hier sehen ist der Logarithmus zur Basis 2 von 1 0 und das könnt ihr hier daran sehen, dass der Wert aus der Potenz kommt.
+[00:28:47 -> 00:28:53]  Jetzt habe ich auf jeden Fall wieder hier versucht das Ganze in ein Koordinatensystem einzuzeichnen mit Hilfe meiner Wertetabelle.
+[00:28:53 -> 00:28:57]  Und wie ihr direkt sehen könnt, wenn x den Wert 1 annimmt, dann ist der Funktionswert 0.
+[00:28:57 -> 00:29:02]  Dann habe ich das gleiche natürlich auch für Logarithmus zur Basis 2 von 2 gemacht.
+[00:29:02 -> 00:29:05]  Und in dem Fall habe ich dann halt den Funktionswert 1 erhalten.
+[00:29:05 -> 00:29:08]  Wie ihr auch hier erkennen könnt, 2 eingesetzt 1 erhalten.
+[00:29:08 -> 00:29:10]  Das könnt ihr euch auch noch hier herleiten.
+[00:29:10 -> 00:29:13]  Ihr seht ja eigentlich Logarithmus zur Basis 2 von 2 hoch 1.
+[00:29:13 -> 00:29:16]  Deswegen erhält man auch hier den Funktionswert 1.
+[00:29:16 -> 00:29:20]  Und dann habe ich letzten Endes nochmal 4 Logarithmus zur Basis 2 von 4.
+[00:29:20 -> 00:29:21]  Das könnt ihr ja hier sehen.
+[00:29:21 -> 00:29:25]  Hier hatten wir für x den Wert 4 und demnach kam der Funktionswert 2 raus.
+[00:29:25 -> 00:29:31]  Und was wir hier sehen, der Graph der Funktion verläuft von unten nach oben und schneidet wieder hier die x-Achse beim Wert 1.
+[00:29:31 -> 00:29:33]  Wie wir es jetzt auch bei den ganzen anderen Funktionen hatten.
+[00:29:33 -> 00:29:35]  Und dann sehen wir halt auch, er verläuft weiter nach oben.
+[00:29:35 -> 00:29:40]  Und wieder hier ist auch anzumerken, dass er keinesfalls die x-Achse schneidet.
+[00:29:40 -> 00:29:42]  So jetzt kommen wir schon zum Ende dieses Videos.
+[00:29:42 -> 00:29:46]  Und der letzte Fall mit dem wir uns jetzt befassen bzw. der letzten Funktionstypen mit dem wir uns jetzt hier auseinandersetzen.
+[00:29:46 -> 00:29:52]  Das sind die trigonometrischen Funktionen bzw. auch Kreisfunktionen oder Winkelfunktionen genannt.
+[00:29:52 -> 00:29:57]  Das sind einfach Funktionen bei denen eine Variable bzw. x einfach das Maß für den Winkel ist.
+[00:29:57 -> 00:30:07]  Diese Funktionstypen ermöglichen uns das Verhältnis von der Länge der Seiten von Dreiecken in Abhängigkeit der Messung von Winkelwerten an den Eckpunkten zu verbinden.
+[00:30:07 -> 00:30:14]  Und das heißt so im Allgemeinen sind trigonometrische Funktionen einfach wichtig für die Untersuchung von so Dreiecken oder Polygonen.
+[00:30:14 -> 00:30:18]  Und allgemein auch so für so periodische Phänomene was man so aus der Realität kennt.
+[00:30:18 -> 00:30:21]  Zum Beispiel jetzt so Schallwellen, elektromagnetische Wellen und sowas.
+[00:30:21 -> 00:30:26]  Natürlich gibt es auch noch so weitere wie zum Beispiel Cotangents, Sekants und Kosekants.
+[00:30:26 -> 00:30:29]  Aber die werden wir jetzt hier nicht besprechen weil wohin das macht man glaube ich nichtmals im Bachelorstudium richtig.
+[00:30:29 -> 00:30:32]  Wir beschränken uns jetzt einfach nur auf Kosinus, Sinus und Tangents.
+[00:30:32 -> 00:30:34]  Fangen wir an mit der Kosinusfunktion.
+[00:30:34 -> 00:30:37]  Die Kosinusfunktion ist eine gerade mathematische Funktion eines Winkels.
+[00:30:37 -> 00:30:40]  Jetzt fragt ihr euch bestimmt hä was ist eine gerade Funktion?
+[00:30:40 -> 00:30:44]  Es ist einfach wenn f von x gleich f von minus x ist.
+[00:30:44 -> 00:30:50]  Beispiel Kosinus von Pi gleich Kosinus von minus Pi gleich minus 1.
+[00:30:50 -> 00:30:54]  Beide zusammen haben den selben Funktionswert in diesem Fall gleich minus 1.
+[00:30:54 -> 00:31:00]  Aber auf diese Eigenschaften von Funktionen werden wir genauer eingehen sobald wir dann über so Themen wie Kurvendiskussion sprechen.
+[00:31:00 -> 00:31:06]  Weil da wird das dann wichtig sein dass sie so zum Beispiel die Spiegelung des Graphen, dieses Symmetrieverhalten und so bestimmt.
+[00:31:06 -> 00:31:08]  Aber das machen wir dann wie gesagt erst im nächsten Video.
+[00:31:08 -> 00:31:11]  Jetzt fokussieren wir uns einfach auf Kosinus an sich.
+[00:31:11 -> 00:31:14]  Und was ihr jetzt über den Kosinus wissen solltet ist folgendes.
+[00:31:14 -> 00:31:21]  Und zwar in einem rechtwinkligen Dreieck ist der Kosinus von einem Winkel das Verhältnis der Länge der benachbarten Kante zur Länge der Hypotenuse.
+[00:31:21 -> 00:31:24]  Vielleicht hat das gerade so ein bisschen euren Kopf gebärbelt aber ich erkläre euch das ein bisschen besser.
+[00:31:24 -> 00:31:25]  Ich versuche das zu veranschaulichen.
+[00:31:25 -> 00:31:27]  Guck mal stellt euch vor rechtwinkliges Dreieck.
+[00:31:27 -> 00:31:29]  Da meine ich jetzt zum Beispiel den hier.
+[00:31:29 -> 00:31:30]  Kennt ihr den?
+[00:31:30 -> 00:31:31]  Losers.
+[00:31:31 -> 00:31:33]  Guck mal jetzt hier ist das aufgezeichnet.
+[00:31:33 -> 00:31:36]  Und zwar seht ihr das ist jetzt ein rechtwinkliges Dreieck.
+[00:31:36 -> 00:31:38]  Ganz einfach ein Tipp den ihr euch grundsätzlich merken könnt.
+[00:31:38 -> 00:31:41]  Ihr seht hier den 90 Grad Winkel.
+[00:31:41 -> 00:31:45]  Und das was gegenüber von dem 90 Grad Winkel ist, ist immer die Hypotenuse.
+[00:31:45 -> 00:31:48]  Sprich die längste Seite des Dreiecks.
+[00:31:48 -> 00:31:51]  Und jetzt habe ich mal hier aufgeschrieben wie man den Kosinus von einem Winkel bestimmt.
+[00:31:51 -> 00:31:52]  Und das sieht wie folgt aus.
+[00:31:52 -> 00:31:54]  Wir wollen den Kosinus von einem bestimmten Winkel haben.
+[00:31:54 -> 00:32:00]  Und das ist gleich benachbarte Kante durch Hypotenuse gleich Ankathete des Winkels durch die Hypotenuse.
+[00:32:00 -> 00:32:06]  Und damit ihr auch das versteht muss ich euch das jetzt mal hier erklären anhand dieses Dreiecks.
+[00:32:06 -> 00:32:09]  Weil es ist ganz wichtig das ihr das Dreieck an sich auch versteht.
+[00:32:09 -> 00:32:10]  So hier haben wir ja ein Dreieck.
+[00:32:10 -> 00:32:14]  Das heißt wir haben ja drei Winkel und demnach auch drei Kanten.
+[00:32:14 -> 00:32:15]  Das ist Kante 1.
+[00:32:15 -> 00:32:16]  Das ist Kante 2.
+[00:32:16 -> 00:32:17]  Und das ist Kante 3.
+[00:32:17 -> 00:32:21]  Jetzt möchten wir ja den Kosinus von dem Winkel A bestimmen.
+[00:32:21 -> 00:32:23]  Da machen wir folgendes.
+[00:32:23 -> 00:32:25]  Wir schreiben das erstmal auf was wir überhaupt machen möchten.
+[00:32:25 -> 00:32:29]  Wir möchten den Kosinus vom Winkel A bestimmen.
+[00:32:29 -> 00:32:33]  Ich mache hier so dieses Zeichen damit ihr wisst das ist das Zeichen für Winkel.
+[00:32:33 -> 00:32:34]  Gleich.
+[00:32:34 -> 00:32:36]  Jetzt stellt sich die erste Frage.
+[00:32:36 -> 00:32:38]  Was ist denn überhaupt was?
+[00:32:38 -> 00:32:40]  Also was ist denn jetzt die benachbarte Kante?
+[00:32:40 -> 00:32:42]  Wir haben jetzt hier den Winkel A.
+[00:32:42 -> 00:32:44]  Wir möchten wissen wie ist dieser Winkel A zustande gekommen?
+[00:32:44 -> 00:32:48]  Wenn wir das genauer betrachten dann sehen wir hier und hier.
+[00:32:48 -> 00:32:52]  Das heißt diese beiden Kanten bilden diesen Winkel A.
+[00:32:52 -> 00:32:55]  Der Winkel A wird aus Kante 1 und Kante 2 gebildet.
+[00:32:55 -> 00:32:57]  Jetzt gibt es aber so eine kleine Regelung.
+[00:32:57 -> 00:33:01]  Eine Hypotenuse dürfen wir grundsätzlich nicht dazu zählen.
+[00:33:01 -> 00:33:04]  Weil eine Hypotenuse grundsätzlich keine benachbarte Kante sein kann.
+[00:33:04 -> 00:33:07]  Und gerade das seht ihr auch hier wie ich das aufgeschrieben habe.
+[00:33:07 -> 00:33:10]  Ich habe ja geschrieben benachbarte Kante durch Hypotenuse.
+[00:33:10 -> 00:33:13]  Das heißt ja schon dass die Hypotenuse unter dem Bruchstrich steht.
+[00:33:13 -> 00:33:16]  Und ich muss ja etwas haben wodurch ich das ja quasi rechne.
+[00:33:16 -> 00:33:17]  Wisst ihr?
+[00:33:17 -> 00:33:19]  Deswegen ist es wichtig die benachbarte Kante eben zu finden.
+[00:33:19 -> 00:33:21]  Und Hypotenuse fällt ja weg.
+[00:33:21 -> 00:33:23]  Da wir ja auch hier ein Verhältnis betrachten.
+[00:33:23 -> 00:33:25]  Und jetzt haben wir uns ja die Frage gestellt.
+[00:33:25 -> 00:33:27]  Okay was ist denn jetzt aber die benachbarte Kante?
+[00:33:27 -> 00:33:29]  Und wir sehen Hypotenuse kann es ja nicht mehr sein.
+[00:33:29 -> 00:33:31]  Steht er da.
+[00:33:31 -> 00:33:33]  Also kann es ja nur noch K1 sein.
+[00:33:33 -> 00:33:35]  Das heißt unsere Kante 1.
+[00:33:35 -> 00:33:37]  Diese Länge hier ist die Ankathete.
+[00:33:37 -> 00:33:39]  Das heißt wir nennen die einfach jetzt K1.
+[00:33:39 -> 00:33:40]  Wir schreiben so wie folgt auf.
+[00:33:40 -> 00:33:42]  So jetzt habe ich da K1 aufgeschrieben.
+[00:33:42 -> 00:33:45]  Und jetzt wie ich ja schon meine Formel quasi aufgeschrieben habe.
+[00:33:45 -> 00:33:48]  Ist es ja wichtig diese K1 durch die Hypotenuse zu teilen.
+[00:33:48 -> 00:33:50]  Und meine Hypotenuse ist ja das hier.
+[00:33:50 -> 00:33:52]  Das heißt K2.
+[00:33:52 -> 00:33:55]  Das heißt K1 werde ich durch K2 dividieren.
+[00:33:55 -> 00:33:57]  Jetzt stellen wir uns einfach mal vor.
+[00:33:57 -> 00:33:59]  So wie es auch in der Schule natürlich sein wird.
+[00:33:59 -> 00:34:02]  Wir haben hier Werte gegeben für Kante 1, Kante 2.
+[00:34:02 -> 00:34:04]  Einfach wir haben auf jeden Fall Zahlen da stehen.
+[00:34:04 -> 00:34:06]  Jetzt habe ich ja hier mein K1 und K2.
+[00:34:06 -> 00:34:07]  Ich habe mir jetzt einfach gedacht.
+[00:34:07 -> 00:34:10]  Okay Kante 1 habe ich mir 3 als Zahl ausgedacht.
+[00:34:10 -> 00:34:13]  Und für Kante 2 habe ich mir 6 als Zahl ausgedacht.
+[00:34:13 -> 00:34:15]  Sprich jetzt ersetze ich mal diese Dinger hier.
+[00:34:15 -> 00:34:16]  K1 durch K2.
+[00:34:16 -> 00:34:18]  Einfach mit meinen Zahlen die ich hier stehen habe.
+[00:34:18 -> 00:34:19]  Falls ihr euch jetzt fragt.
+[00:34:19 -> 00:34:20]  Ey was sind das aber für Zahlen?
+[00:34:20 -> 00:34:22]  Stellt euch vor das ist einfach eine Länge.
+[00:34:22 -> 00:34:23]  Sagen wir mal 3 Meter und 6 Meter.
+[00:34:23 -> 00:34:25]  So lange wie mein Yaraka Manakoe.
+[00:34:25 -> 00:34:26]  Jetzt machen wir folgendes.
+[00:34:26 -> 00:34:28]  Wir teilen K1.
+[00:34:28 -> 00:34:29]  Das heißt Kante 1.
+[00:34:29 -> 00:34:30]  Also die 3 Meter.
+[00:34:30 -> 00:34:32]  Immer schön die Maßanheiten daneben schreiben.
+[00:34:32 -> 00:34:33]  Damit der Lehrer euch nicht abfuckt.
+[00:34:33 -> 00:34:35]  Wir nehmen die natürlich die K2.
+[00:34:35 -> 00:34:36]  Also die Hypotenuse.
+[00:34:36 -> 00:34:37]  Die 6 Meter.
+[00:34:37 -> 00:34:38]  Dividieren das.
+[00:34:38 -> 00:34:40]  Und erhalten dann 1,5.
+[00:34:40 -> 00:34:41]  Aber nicht Meter.
+[00:34:41 -> 00:34:42]  Weil ihr wisst ja.
+[00:34:42 -> 00:34:44]  Wenn ich eine Einheit durch eine Einheit dividiere.
+[00:34:44 -> 00:34:45]  Dann fällt die Einheit weg.
+[00:34:45 -> 00:34:47]  Also haben wir einfach hier 1,5 stehen.
+[00:34:47 -> 00:34:49]  Weil ich ja eben nur ein Verhältnis betrachte.
+[00:34:49 -> 00:34:51]  So jetzt machen wir mal ein anderes Beispiel.
+[00:34:51 -> 00:34:52]  Wir stellen uns jetzt mal vor.
+[00:34:52 -> 00:34:56]  Man möchte jetzt den Kosinus vom Winkel B bestimmen.
+[00:34:56 -> 00:34:57]  Und jetzt stellen wir uns da wieder die Frage.
+[00:34:57 -> 00:35:01]  Welche Kanten bilden denn diesen Winkel B?
+[00:35:01 -> 00:35:02]  Wenn wir uns das mal genauer betrachten.
+[00:35:02 -> 00:35:03]  Sehen wir.
+[00:35:03 -> 00:35:04]  Aha ok.
+[00:35:04 -> 00:35:05]  Kante 3.
+[00:35:05 -> 00:35:06]  Und Kante 2.
+[00:35:06 -> 00:35:07]  Aber Kante 2 ist ja die Hypotenuse.
+[00:35:07 -> 00:35:08]  Und ich habe euch ja vorhin gesagt.
+[00:35:08 -> 00:35:09]  Hypotenuse.
+[00:35:09 -> 00:35:10]  Das zählt nicht.
+[00:35:10 -> 00:35:12]  Und notiert auch schon mal jeden Schritt am besten.
+[00:35:12 -> 00:35:13]  Damit ihr nichts vergesst.
+[00:35:13 -> 00:35:14]  So wisst ihr.
+[00:35:14 -> 00:35:15]  Kosinus von B.
+[00:35:15 -> 00:35:17]  Machen wir hier dieses Hütchen rüber.
+[00:35:17 -> 00:35:18]  Damit wir wissen.
+[00:35:18 -> 00:35:19]  Winkel.
+[00:35:19 -> 00:35:20]  Gleich.
+[00:35:20 -> 00:35:21]  So.
+[00:35:21 -> 00:35:22]  Schreiben wir das schon mal direkt drunter.
+[00:35:22 -> 00:35:23]  Was war die Hypotenuse?
+[00:35:23 -> 00:35:24]  Das war K2.
+[00:35:24 -> 00:35:25]  Und wir hatten ja gesagt.
+[00:35:25 -> 00:35:29]  Dass K3 unter anderem ja auch diesen Winkel bildet.
+[00:35:29 -> 00:35:30]  Also schreiben wir drüber.
+[00:35:30 -> 00:35:31]  K3.
+[00:35:31 -> 00:35:34]  Das ist also quasi die benachbarte Kante.
+[00:35:34 -> 00:35:35]  Oder auch anders gesagt.
+[00:35:35 -> 00:35:37]  Die Ankathete des Winkels B.
+[00:35:37 -> 00:35:39]  Jetzt stellt euch einfach mal vor.
+[00:35:39 -> 00:35:42]  K3 würde hier einen Wert haben in der Aufgabe.
+[00:35:42 -> 00:35:43]  Sagen wir.
+[00:35:43 -> 00:35:44]  5,196.
+[00:35:44 -> 00:35:45]  Aufgerundet 5,2.
+[00:35:45 -> 00:35:48]  Ihr braucht euch jetzt auch keine Panik zu schieben.
+[00:35:48 -> 00:35:49]  Über die Länge der Kante.
+[00:35:49 -> 00:35:51]  Weil ihr bekommt den Aufgaben sowieso vorgegeben.
+[00:35:51 -> 00:35:52]  Also chillt ein bisschen.
+[00:35:52 -> 00:35:53]  Das werdet ihr schon hinbekommen.
+[00:35:53 -> 00:35:56]  Auf jeden Fall haben wir ja jetzt hier unsere Werte.
+[00:35:56 -> 00:35:59]  Hier unsere K2 waren 6 Meter.
+[00:35:59 -> 00:36:02]  Und wir hatten ja hier für unser K3 5,2 Meter.
+[00:36:02 -> 00:36:03]  Das Ganze dividieren wir.
+[00:36:03 -> 00:36:07]  Und das sind im Kopf natürlich ausgerechnet 0,87.
+[00:36:07 -> 00:36:09]  Was ihr jetzt auch noch wissen solltet ist.
+[00:36:09 -> 00:36:14]  Dass bei trigonometrischen Funktionen der Winkel auch andere Einheiten haben kann.
+[00:36:14 -> 00:36:15]  Sprich.
+[00:36:15 -> 00:36:17]  Wir reden nicht immer nur von Grad.
+[00:36:17 -> 00:36:21]  Sondern gibt es auch beispielsweise etwas wie den Radienten.
+[00:36:21 -> 00:36:22]  Das ist der sogenannte Bogenmaß.
+[00:36:22 -> 00:36:25]  Auf dem Taschenrechner findet ihr dann die Taste DEG.
+[00:36:25 -> 00:36:27]  Damit könnt ihr halt den Grad des Winkels bestimmen.
+[00:36:27 -> 00:36:29]  Und ihr findet auch die Taste RAD.
+[00:36:29 -> 00:36:31]  Damit könnt ihr dann auch den Radianten bestimmen.
+[00:36:31 -> 00:36:33]  So und jetzt kann es natürlich sein.
+[00:36:33 -> 00:36:36]  Dass ihr in den Aufgaben, wenn ihr euch mit diesem Thema befasst.
+[00:36:36 -> 00:36:37]  Folgendes gestellt bekommt.
+[00:36:37 -> 00:36:38]  Die sagen euch vielleicht.
+[00:36:38 -> 00:36:42]  Dass die möchten, dass ihr von Grad in Radiant umrechnet.
+[00:36:42 -> 00:36:43]  Und wie macht man das Ganze?
+[00:36:43 -> 00:36:44]  Ganz einfach.
+[00:36:44 -> 00:36:45]  Das macht man mit dem sogenannten Dreisatz.
+[00:36:45 -> 00:36:47]  Aber noch viel, viel einfacher.
+[00:36:47 -> 00:36:48]  Viel, viel kürzer.
+[00:36:48 -> 00:36:49]  Es gibt dazu eine Formel.
+[00:36:49 -> 00:36:50]  Wenn die euch in der Schule sagen.
+[00:36:50 -> 00:36:52]  Ey rechnet mal von Grad in Radiant um.
+[00:36:52 -> 00:36:54]  Dann macht man das hier folgt.
+[00:36:54 -> 00:36:55]  Man sucht einen X-Winkel.
+[00:36:55 -> 00:36:57]  Man wird sowieso einen Winkel vorgegeben haben.
+[00:36:57 -> 00:36:59]  Diesen Winkel nehmt ihr dann mal Pi.
+[00:36:59 -> 00:37:01]  Und teilt das durch 180 Grad.
+[00:37:01 -> 00:37:03]  Dann erhaltet ihr den gesuchten Winkel.
+[00:37:03 -> 00:37:04]  Und in welcher Einheit?
+[00:37:04 -> 00:37:05]  Ganz wichtig.
+[00:37:05 -> 00:37:06]  In Radiant.
+[00:37:06 -> 00:37:07]  Weil das ist ja auch das.
+[00:37:07 -> 00:37:08]  Warum ihr überhaupt umgerechnet habt.
+[00:37:08 -> 00:37:09]  Sollten die jetzt aber in der Schule vielleicht sagen.
+[00:37:09 -> 00:37:13]  Ey wir möchten jetzt, dass ihr vom Radianten in Grad umrechnet.
+[00:37:13 -> 00:37:15]  Wir sagen die suchen wieder einen bestimmten Winkel.
+[00:37:15 -> 00:37:17]  Ihr habt aber einen anderen Winkel vorgegeben.
+[00:37:17 -> 00:37:19]  Den nehmt ihr dann einfach mal 180 Grad.
+[00:37:19 -> 00:37:20]  Und teilt den diesmal durch Pi.
+[00:37:20 -> 00:37:22]  Dann erhaltet ihr den Winkel in der Einheit Grad.
+[00:37:22 -> 00:37:24]  Wenn ihr wisst die Taste D auf eurem Taschenrechner.
+[00:37:24 -> 00:37:25]  Woher kommt das?
+[00:37:25 -> 00:37:26]  Das kommt vom englischen degree.
+[00:37:26 -> 00:37:27]  Also Grad.
+[00:37:27 -> 00:37:29]  Und das ist dann meistens so aufgeschrieben.
+[00:37:29 -> 00:37:30]  Da steht irgendein Winkel.
+[00:37:30 -> 00:37:31]  Also irgendeine Zahl.
+[00:37:31 -> 00:37:32]  Und dann darüber so ein Kreis.
+[00:37:32 -> 00:37:34]  Habt ihr da jetzt den Fall Rad.
+[00:37:34 -> 00:37:35]  Also Radiant.
+[00:37:35 -> 00:37:37]  Dann wird das ganze wie folgt aufgeschrieben.
+[00:37:37 -> 00:37:38]  Ihr habt dann einen Winkel.
+[00:37:38 -> 00:37:39]  Also sprich irgendeine Zahl.
+[00:37:39 -> 00:37:42]  Und direkt daneben habt ihr dann die Einheit Rad.
+[00:37:42 -> 00:37:43]  Also Radiant.
+[00:37:43 -> 00:37:44]  Rad.
+[00:37:44 -> 00:37:47]  Zum Beispiel 90 Grad ist gleich Pi halbe Rad.
+[00:37:47 -> 00:37:50]  Und das würden wir jetzt in den beiden Varianten selbst berechnen.
+[00:37:50 -> 00:37:53]  So machen wir jetzt mal das folgende anhand dieses Beispiels.
+[00:37:53 -> 00:37:56]  Sagen wir jetzt mal wir haben den Winkel 90 Grad gegeben.
+[00:37:56 -> 00:37:58]  Und wir sollen jetzt von Grad in Radiant umrechnen.
+[00:37:58 -> 00:38:01]  Dann habe ich ja gesagt verwenden wir hier unsere erste Formel.
+[00:38:01 -> 00:38:02]  Die wir hier stehen haben.
+[00:38:02 -> 00:38:03]  Und machen das einfach wie folgt.
+[00:38:03 -> 00:38:06]  Wir haben den Winkel 90 Grad für den gegebenen Winkel eingesetzt.
+[00:38:06 -> 00:38:07]  Mal Pi.
+[00:38:07 -> 00:38:10]  Und teilen das ganze durch 180 Grad.
+[00:38:10 -> 00:38:13]  Und erhalten dann demnach Einheit Pi Rad.
+[00:38:13 -> 00:38:16]  Jetzt sagen wir mal wir haben Pi halbe Rad gegeben.
+[00:38:16 -> 00:38:18]  Dann sagen wir jetzt wir wollen den Radianten in Grad umrechnen.
+[00:38:18 -> 00:38:19]  Okay das ist jetzt unsere Aufgabe.
+[00:38:19 -> 00:38:20]  Wie machen wir das?
+[00:38:20 -> 00:38:24]  Machen wir Pi halbe mal 180 geteilt durch Pi.
+[00:38:24 -> 00:38:26]  So und was wir dann halt sehen wenn wir das aufschreiben.
+[00:38:26 -> 00:38:28]  Wenn wir die Zahl Pi halbe einsetzen.
+[00:38:28 -> 00:38:30]  Dann sehen wir ja schon mal direkt Pi und Pi.
+[00:38:30 -> 00:38:31]  Das wird gekürzt.
+[00:38:31 -> 00:38:33]  Dann haben wir hier nur noch stehen 180 Grad durch 2.
+[00:38:33 -> 00:38:36]  Und erhalten demnach das Ergebnis 90 Grad.
+[00:38:36 -> 00:38:39]  So wir hatten ja gerade die Cosinus Funktion verwendet.
+[00:38:39 -> 00:38:41]  Um bestimmte Winkel zu berechnen.
+[00:38:41 -> 00:38:44]  Jetzt möchten wir aber etwas allgemeingültiges haben.
+[00:38:44 -> 00:38:45]  Wir möchten irgendwie wissen.
+[00:38:45 -> 00:38:48]  Wie kann man das für jeden beliebigen Winkel machen.
+[00:38:48 -> 00:38:51]  Dann solltet ihr erstmal so die allgemeine Funktion wissen.
+[00:38:51 -> 00:38:53]  f von x gleich Cosinus von x.
+[00:38:53 -> 00:38:54]  Und jetzt müsst ihr euch hier vorstellen.
+[00:38:54 -> 00:38:58]  Ich habe aufgeschrieben dass der Winkel zwischen 0 und 2 Pi liegt.
+[00:38:58 -> 00:39:00]  Und das Ganze ist periodisch.
+[00:39:00 -> 00:39:02]  Also stellt euch das Ganze am besten einfach mal so vor.
+[00:39:02 -> 00:39:03]  Wenn ihr einen Salto macht.
+[00:39:03 -> 00:39:05]  Macht den Salto nach vorne.
+[00:39:05 -> 00:39:07]  Dreht ihr euch ja 360 Grad nach vorne.
+[00:39:07 -> 00:39:08]  Sagen wir ins positive.
+[00:39:08 -> 00:39:09]  Macht dann rückwärts Salto.
+[00:39:09 -> 00:39:12]  Dreht ihr euch 360 Grad nach hinten.
+[00:39:12 -> 00:39:13]  Sagen wir ins negative.
+[00:39:13 -> 00:39:15]  Dieses Beispiel mal so ein bisschen genauer.
+[00:39:15 -> 00:39:16]  Einer von euch macht einen Salto.
+[00:39:16 -> 00:39:17]  Nicht ich weil ich bin zu fett.
+[00:39:17 -> 00:39:18]  Stellt euch vor einer macht einen Salto.
+[00:39:18 -> 00:39:20]  Und ihr nehmt das Ganze auf.
+[00:39:20 -> 00:39:22]  Und guckt euch das nachher in Zeitlupe an.
+[00:39:22 -> 00:39:23]  Und dann würdet ihr sehen.
+[00:39:23 -> 00:39:25]  Dass in jeder Bewegung.
+[00:39:25 -> 00:39:26]  Wo sich der Typ so dreht.
+[00:39:26 -> 00:39:27]  Dann würdet ihr merken.
+[00:39:27 -> 00:39:28]  Dass der Körper zum Boden.
+[00:39:28 -> 00:39:30]  Immer so einen bestimmten Winkel bildet.
+[00:39:30 -> 00:39:32]  Und das für jede einzelne Bewegung.
+[00:39:32 -> 00:39:33]  Die während des Saltos passiert.
+[00:39:33 -> 00:39:35]  So und jetzt solltet ihr euch natürlich merken.
+[00:39:35 -> 00:39:38]  Dass wenn ihr jetzt zum Beispiel einen Winkel bekommen solltet.
+[00:39:38 -> 00:39:39]  Der außerhalb dieses Intervalls.
+[00:39:39 -> 00:39:41]  Minus 1 und 1 liegt.
+[00:39:41 -> 00:39:42]  Dass das gar nicht stimmen kann.
+[00:39:42 -> 00:39:43]  Dann wisst ihr schon direkt.
+[00:39:43 -> 00:39:44]  Das ist falsch.
+[00:39:44 -> 00:39:45]  Weil es ist nämlich wichtig.
+[00:39:45 -> 00:39:47]  Dass sich der Kosinus von diesem bestimmten Winkel.
+[00:39:47 -> 00:39:49]  Eben genau innerhalb dieses Intervalls befindet.
+[00:39:49 -> 00:39:50]  Kann aber auch in diesem Fall.
+[00:39:50 -> 00:39:51]  Natürlich die Werte.
+[00:39:51 -> 00:39:52]  Minus 1 und 1 annehmen.
+[00:39:52 -> 00:39:53]  Das seht ihr auch gerade.
+[00:39:53 -> 00:39:54]  Weil ich ja hingeschrieben habe.
+[00:39:54 -> 00:39:55]  Größer gleich und kleiner gleich.
+[00:39:55 -> 00:39:57]  Und aufgrund dieser Bedingungen.
+[00:39:57 -> 00:39:58]  Die ich euch ja gerade hier genannt hatte.
+[00:39:58 -> 00:39:59]  Haben sich Wissenschaftler.
+[00:39:59 -> 00:40:01]  So einen Einheitskreis ausgedacht.
+[00:40:01 -> 00:40:03]  Indem die das Ganze dann veranschaulichen können.
+[00:40:03 -> 00:40:04]  Wie gesagt.
+[00:40:04 -> 00:40:05]  Damit man halt eben alle Winkel betrachten kann.
+[00:40:05 -> 00:40:07]  Dieser Einheitskreis hat auch die Eigenschaft.
+[00:40:07 -> 00:40:08]  Wie man das auch hier sehen kann.
+[00:40:08 -> 00:40:10]  Dass er überall den Radius 1 hat.
+[00:40:10 -> 00:40:12]  Jeder Punkt vom Ursprung bis zum Umfang.
+[00:40:12 -> 00:40:13]  Bildet immer die Länge 1.
+[00:40:13 -> 00:40:15]  Und das ist der sogenannte Radius.
+[00:40:15 -> 00:40:17]  So und wie wir jetzt hier sehen können.
+[00:40:17 -> 00:40:19]  Haben wir ja hier die Hypotenuse.
+[00:40:19 -> 00:40:20]  Das ist die 1.
+[00:40:20 -> 00:40:22]  Und wir haben hier die Ankathete x1.
+[00:40:22 -> 00:40:24]  Ihr habt euch ja vorhin schon gemerkt.
+[00:40:24 -> 00:40:26]  Dass die Hypotenuse immer direkt gegenüber.
+[00:40:26 -> 00:40:27]  Vom rechten Winkel ist.
+[00:40:27 -> 00:40:29]  Und anhand dieses rechtwinkligen Dreiecks.
+[00:40:29 -> 00:40:31]  Gilt dann um den Kosinus von A zu bestimmen.
+[00:40:31 -> 00:40:33]  Eben folgende Rechnung.
+[00:40:33 -> 00:40:35]  x1 dividieren wir durch 1.
+[00:40:35 -> 00:40:37]  Und für x1 müsst ihr euch jetzt einfach.
+[00:40:37 -> 00:40:39]  Irgendeine beliebige Länge vorstellen.
+[00:40:39 -> 00:40:41]  Und hier müsst ihr euch vorstellen.
+[00:40:42 -> 00:40:44]  x1 durch 1 ist gleich x1.
+[00:40:44 -> 00:40:46]  Und diese Schreibweise ist äquivalent.
+[00:40:46 -> 00:40:47]  Zu der folgenden hier.
+[00:40:47 -> 00:40:49]  Die ich euch eingerahmt habe.
+[00:40:49 -> 00:40:51]  Kosinus von A ist gleich x1.
+[00:40:51 -> 00:40:52]  Weil es ist ja völlig egal.
+[00:40:52 -> 00:40:54]  Ob ihr jetzt da 3 durch 1 habt.
+[00:40:54 -> 00:40:55]  Oder 4 durch 1.
+[00:40:55 -> 00:40:56]  Oder sonst was.
+[00:40:56 -> 00:40:58]  Und letztendlich bleibt dann der Wert x1.
+[00:40:58 -> 00:40:59]  Genauso wie wir es auch da stehen haben.
+[00:40:59 -> 00:41:01]  Deswegen haben wir das Ganze vereinfacht.
+[00:41:01 -> 00:41:02]  Und weil ich euch ja gerade gesagt habe.
+[00:41:02 -> 00:41:04]  Dass jetzt folgendes gilt.
+[00:41:04 -> 00:41:06]  Dass Kosinus von A eben x1 ist.
+[00:41:06 -> 00:41:08]  Ersetze ich jetzt einfach hier.
+[00:41:08 -> 00:41:09]  In meinem Schaubild.
+[00:41:09 -> 00:41:13]  Das x1 durch Kosinus von A.
+[00:41:13 -> 00:41:14]  Immer wenn wir jetzt hier.
+[00:41:14 -> 00:41:16]  Einen neuen Punkt im Umfang des Kreises nehmen.
+[00:41:16 -> 00:41:17]  Sollten wir folgendes beachten.
+[00:41:17 -> 00:41:18]  Wir machen jetzt mal hier so ein Beispiel.
+[00:41:18 -> 00:41:20]  Ich nehme jetzt einfach mal hier so einen Punkt.
+[00:41:20 -> 00:41:22]  Zeichne mal hier so die Hypotenuse.
+[00:41:22 -> 00:41:24]  Und zeichne jetzt nochmal einfach hier runter.
+[00:41:24 -> 00:41:25]  Jetzt sehen wir.
+[00:41:25 -> 00:41:27]  Ich habe hier wieder ein neues Dreieck gebildet.
+[00:41:27 -> 00:41:29]  Jetzt ist wichtig zu beachten.
+[00:41:29 -> 00:41:31]  Dass dieses Dreieck natürlich auch andere Winkel hat.
+[00:41:31 -> 00:41:33]  Und demnach hat dieses Dreieck natürlich auch.
+[00:41:33 -> 00:41:35]  Einen ganz anderen Kosinus Wert.
+[00:41:35 -> 00:41:37]  Ich habe hier einen anderen Punkt auf dem Umfang gewählt.
+[00:41:37 -> 00:41:39]  Und habe jetzt auch einen ganz anderen Kosinus von A.
+[00:41:39 -> 00:41:41]  Der bekannt ist.
+[00:41:41 -> 00:41:42]  Wie seht ihr zum Beispiel hier.
+[00:41:42 -> 00:41:43]  Wir haben hier diese blaue Linie.
+[00:41:43 -> 00:41:44]  Da kann man schon direkt erkennen.
+[00:41:44 -> 00:41:46]  Dass das der größte Kosinus ist.
+[00:41:46 -> 00:41:48]  Weil wir sehen das das am nächsten zu der 1 ist.
+[00:41:48 -> 00:41:50]  Und dann sehen wir hier die rote Linie.
+[00:41:50 -> 00:41:52]  Die ist weiter weg vom 1 Wert.
+[00:41:52 -> 00:41:54]  Und letzten Endes haben wir dann noch unsere schwarze Linie.
+[00:41:54 -> 00:41:57]  Die ja ganz am weitesten weg ist vom 1 Wert.
+[00:41:57 -> 00:41:59]  Deswegen wäre das auch innerhalb dieser Beispiele von uns.
+[00:41:59 -> 00:42:01]  Der kleinste Kosinus Wert von A.
+[00:42:01 -> 00:42:03]  So und wenn man das Ganze jetzt aufzeichnen möchte.
+[00:42:03 -> 00:42:05]  Dann würde das jetzt wie folgt aussehen.
+[00:42:05 -> 00:42:07]  Wir hatten ja gerade hier unseren Einheitskreis.
+[00:42:07 -> 00:42:09]  Und dann hatten wir ja hier die X-Achse.
+[00:42:09 -> 00:42:10]  Diese X-Achse die ich jetzt hier hatte.
+[00:42:10 -> 00:42:12]  Habe ich hier übertragen.
+[00:42:12 -> 00:42:14]  Und das ist jetzt die Achse Kosinus von X.
+[00:42:14 -> 00:42:16]  Ich habe euch ja vorhin gezeigt in diesem Einheitskreis.
+[00:42:16 -> 00:42:18]  Da habe ich euch ja diese Veränderungen gezeigt.
+[00:42:18 -> 00:42:20]  Die wir von diesem Kosinus A Wert hatten.
+[00:42:20 -> 00:42:26]  Und diese Veränderungen habe ich jetzt einfach hier eben auf diese Kosinus von X Achse übertragen.
+[00:42:26 -> 00:42:29]  Und demnach werden mir hier diese Veränderungen eben nochmal aufgezeigt.
+[00:42:29 -> 00:42:31]  Und wenn wir das jetzt mal hier so betrachten wollen.
+[00:42:31 -> 00:42:33]  Dann sehen wir ja hier Kosinus von A.
+[00:42:33 -> 00:42:36]  Wir haben ja vom Ursprung bis hier zum Punkt auf dem Umfang.
+[00:42:36 -> 00:42:37]  Den roten hier den ihr sehen könnt.
+[00:42:37 -> 00:42:40]  Haben wir dann auf der blauen Achse den Punkt 1.
+[00:42:40 -> 00:42:42]  Und wenn der Winkel jetzt in diesem Fall 0 wäre.
+[00:42:42 -> 00:42:45]  Dann hätten wir die Halbgerade von 0 bis 1.
+[00:42:45 -> 00:42:48]  Und das würde ja heißen dass der Kosinus von 0 den Wert 1 hat.
+[00:42:48 -> 00:42:51]  Und den haben wir hier auch auf dieser blauen Achse dann übertragen.
+[00:42:51 -> 00:42:52]  Nehmen wir jetzt mal hier so ein anderes Beispiel.
+[00:42:52 -> 00:42:54]  Wir haben jetzt hier den Wert Pi Drittel.
+[00:42:54 -> 00:42:55]  Das ist jetzt nichts anderes als 60 Grad.
+[00:42:55 -> 00:42:57]  Wenn wir jetzt innerhalb unseres Einheitskreises hier genauer schauen.
+[00:42:57 -> 00:42:58]  Sehen wir direkt folgendes.
+[00:42:58 -> 00:43:01]  Und zwar ist jetzt der Kosinus von A in diesem Fall.
+[00:43:01 -> 00:43:03]  Nur die Hälfte von der Halbgerade.
+[00:43:03 -> 00:43:05]  Das heißt der Kosinus in diesem Fall von Pi Drittel.
+[00:43:05 -> 00:43:07]  Ist genau 0,5.
+[00:43:07 -> 00:43:09]  Und das haben wir auch hier genau auf dieser blauen Achse hier übertragen.
+[00:43:09 -> 00:43:10]  Wie ihr sehen könnt.
+[00:43:10 -> 00:43:11]  Nehmen wir mal einen anderen Wert.
+[00:43:11 -> 00:43:13]  Wir haben hier den Wert Pi Halbe.
+[00:43:13 -> 00:43:14]  Das sind 90 Grad.
+[00:43:14 -> 00:43:17]  Pi Halbe der zugehörige Funktionswert dazu ist 0.
+[00:43:17 -> 00:43:19]  Wir haben jetzt den Winkel Pi Drittel.
+[00:43:19 -> 00:43:23]  Nicht als Pi Drittel sondern einfach hier als Pi.
+[00:43:23 -> 00:43:26]  Was wir schon direkt sehen ist dass der Kosinus von Pi bei Minus 1 liegt.
+[00:43:26 -> 00:43:30]  Und wir sehen dann direkt der Wert wurde auch hier wieder auf unserer Achse übertragen.
+[00:43:30 -> 00:43:33]  Und demnach ist der Kosinus von Pi Minus 1.
+[00:43:33 -> 00:43:34]  Und das Ganze sehen wir auch hier.
+[00:43:34 -> 00:43:38]  Wir haben den Kosinus von Pi und den dazugehörigen Funktionswert Minus 1.
+[00:43:38 -> 00:43:41]  Und deswegen bilden die auch genau hier einen Punkt im Graphen.
+[00:43:41 -> 00:43:47]  So und jetzt habe ich einfach mal dieses ganze Koordinatensystem was ich hier aufgezeichnet habe umgedreht.
+[00:43:47 -> 00:43:50]  Einfach nur damit das für euch ein bisschen vertrauter vorkommt.
+[00:43:50 -> 00:43:52]  Weil ihr kennt das ja wie das normalerweise ist.
+[00:43:52 -> 00:43:54]  Die x-Achse haben wir mal hier und die y-Achse haben wir mal hier.
+[00:43:54 -> 00:43:56]  Das könnte ja sein dass einige von euch jetzt gedacht haben.
+[00:43:56 -> 00:44:00]  Wow was ist das denn? Warum auf einmal Achse so? Was hat der da für ein Mix gemacht?
+[00:44:00 -> 00:44:05]  Ich habe euch ja am Anfang gesagt dass trigonometrische Funktionen im Allgemeinen periodische Funktionen sind.
+[00:44:05 -> 00:44:08]  Und warum das der Fall ist das könnt ihr ideal an diesem Schaubild einfach sehen.
+[00:44:08 -> 00:44:09]  Das ist nämlich folgendes.
+[00:44:09 -> 00:44:13]  Stellt euch mal vor ihr steht jetzt hier oben und wollt ein Salto machen.
+[00:44:13 -> 00:44:14]  Warum auch immer.
+[00:44:14 -> 00:44:17]  Okay dann macht ihr diesen Salto und dreht euch ein Schal um 360 Grad.
+[00:44:17 -> 00:44:19]  Und dann kommt ihr halt hoffentlich hier an.
+[00:44:19 -> 00:44:23]  Und dann macht ihr von hier aus sagen wir mal bei 2 Pi wieder dieselbe Drehung.
+[00:44:23 -> 00:44:24]  Und seht ihr kommt an bei 4 Pi.
+[00:44:24 -> 00:44:27]  Das heißt ihr habt einfach von 0 bis 4 Pi 2 Saltos gemacht.
+[00:44:27 -> 00:44:31]  Ihr seht ja wenn ihr den Vorwärtssalto macht kommt ihr an bei Pi Halbe und immer so weiter.
+[00:44:31 -> 00:44:34]  Wenn ihr einen Rückwärtssalto macht dann kommt ihr natürlich erstmal an bei Minus Pi Halbe.
+[00:44:34 -> 00:44:37]  Wenn ihr jetzt dann nochmal einen Rückwärtssalto machen würdet.
+[00:44:37 -> 00:44:38]  Dann wärt ihr jetzt bei Minus 2 Pi Inschallah.
+[00:44:38 -> 00:44:39]  Dann macht ihr noch einen.
+[00:44:39 -> 00:44:40]  Dann wärt ihr bei Minus 4 Pi.
+[00:44:40 -> 00:44:44]  Also nach vorne kommt ihr ins Positive und nach hinten kommt ihr halt ins Negative.
+[00:44:44 -> 00:44:45]  So jetzt kommen wir zur Sinusfunktion.
+[00:44:45 -> 00:44:48]  Und was jetzt hier auch unter anderem schon anders ist direkt.
+[00:44:48 -> 00:44:52]  Ich habe euch ja gerade gesagt dass die Cosinusfunktion eine gerade mathematische Funktion eines Winkels ist.
+[00:44:52 -> 00:44:56]  Jetzt ist die Sinusfunktion aber eine ungerade mathematische Funktion eines Winkels.
+[00:44:56 -> 00:44:59]  Was heißt das jetzt wieder ungerade hä was ist das?
+[00:44:59 -> 00:45:05]  Ganz einfach das heißt wie eben auch schon gesagt wenn f von x gleich Minus f von Minus x ist.
+[00:45:05 -> 00:45:07]  Das haben wir jetzt hier mit einem Beispiel von Zahlen stehen.
+[00:45:07 -> 00:45:09]  Wir haben jetzt einfach Pi Halbe genommen.
+[00:45:09 -> 00:45:11]  Sinus Pi Halbe ist 1.
+[00:45:11 -> 00:45:13]  So und das ganze haben wir jetzt mit einem Beispiel gemacht.
+[00:45:13 -> 00:45:16]  Wir haben hier Sinus Pi Halbe ist gleich 1.
+[00:45:16 -> 00:45:23]  Andererseits Minus Sinus von Minus Pi Halbe ist gleich Minus Klammer auf Minus 1 Klammer zu.
+[00:45:23 -> 00:45:28]  Und ihr wisst ja weil hier Minus und Minus steht wird ja mal gerechnet und letztendlich wird das Ergebnis ja dann positiv.
+[00:45:28 -> 00:45:30]  Also 1 und das ist im Grunde genommen das gleiche wie hier.
+[00:45:30 -> 00:45:34]  Minus Sinus von Minus Pi Halbe ist das gleiche wie Sinus Pi Halbe.
+[00:45:34 -> 00:45:36]  Und jetzt versuche ich das ganze mal wieder so in die Tat umzusetzen.
+[00:45:36 -> 00:45:39]  Und habe mir wieder hier dieses Dreieck aufgezeichnet.
+[00:45:39 -> 00:45:41]  Und ihr könnt ihr euch diesmal als Grundregel merken.
+[00:45:41 -> 00:45:47]  In so einem rechtwinkligen Dreieck ist der Sinus von einem Winkel immer das Verhältnis der gegenüberliegenden Kante zu der Länge der Hypotenuse.
+[00:45:47 -> 00:45:55]  Und im Allgemeinen gilt erstmal zu wissen, dass der Sinus eines Winkels einfach dadurch gebildet wird, indem man die Gegenkathete des Winkels durch die Hypotenuse teilt.
+[00:45:55 -> 00:45:57]  Wir betrachten jetzt als erstes hier den Winkel A.
+[00:45:57 -> 00:45:58]  Und das ist ja wie folgt.
+[00:45:58 -> 00:46:01]  Der hier setzt sich ja aus diesen beiden Kanten zusammen.
+[00:46:01 -> 00:46:06]  Und was wir dann direkt hier sehen ist, dass die Kante 1 und die Kante 2 diesen Winkel A bilden.
+[00:46:06 -> 00:46:10]  Wir hatten ja bei der Kosinusfunktion vorhin stehen Ankathete des Winkels durch die Hypotenuse.
+[00:46:10 -> 00:46:12]  Jetzt suchen wir aber die Gegenkathete.
+[00:46:12 -> 00:46:14]  Wo haben wir die Gegenkathete?
+[00:46:14 -> 00:46:16]  Das ist die hier unten.
+[00:46:16 -> 00:46:19]  Weil wie wir sehen liegt die ja genau gegenüber von dem Winkel A.
+[00:46:19 -> 00:46:20]  Und jetzt fehlt uns ja noch eine Sache.
+[00:46:20 -> 00:46:21]  Wir brauchen ja die Hypotenuse.
+[00:46:21 -> 00:46:23]  Und wo finden wir die Hypotenuse?
+[00:46:23 -> 00:46:27]  Wie ich euch ja gerade gesagt habe, das ist immer direkt gegenüber vom rechten Winkel.
+[00:46:27 -> 00:46:30]  Dann sehen wir ja in diesem Fall, unsere Gegenkathete ist die K3 gleich 4.
+[00:46:30 -> 00:46:34]  Und unsere Hypotenuse ist die K2 gleich 5.
+[00:46:34 -> 00:46:38]  Hier, Gegenkathete des Winkels geteilt durch die Hypotenuse, habe ich ja hier aufgeschrieben.
+[00:46:38 -> 00:46:39]  K3 durch K2.
+[00:46:39 -> 00:46:41]  Und dafür dann dementsprechend auch die Werte eingesetzt.
+[00:46:41 -> 00:46:43]  Wie wir sehen, K3 hatte den Wert 4.
+[00:46:43 -> 00:46:45]  Das ganze dividiert ist 4 fünfte.
+[00:46:45 -> 00:46:49]  Jetzt sehen wir ja hier, wir wollen den Sinus vom Winkel B bestimmen.
+[00:46:49 -> 00:46:51]  Und das machen wir einfach wie folgt.
+[00:46:51 -> 00:46:54]  Ihr müsst euch vorstellen, das hier ist ja der Winkel B, wie ihr sehen könnt.
+[00:46:54 -> 00:46:55]  Stellt euch das so vor.
+[00:46:55 -> 00:46:59]  Ihr seid jetzt hier, ihr macht dicke Auge.
+[00:46:59 -> 00:47:00]  Ihr guckt.
+[00:47:00 -> 00:47:02]  Wo guckt ihr hin, wenn jetzt hier euer Auge wäre?
+[00:47:02 -> 00:47:03]  Wo guckt ihr hin?
+[00:47:03 -> 00:47:04]  Was ist gegenüber von euch?
+[00:47:05 -> 00:47:06]  Steff.
+[00:47:06 -> 00:47:07]  Guck, Steff, Steff.
+[00:47:07 -> 00:47:08]  Steff, Steff.
+[00:47:08 -> 00:47:09]  Genau.
+[00:47:09 -> 00:47:11]  Diese K1 ist direkt gegenüber von euch.
+[00:47:11 -> 00:47:13]  Und das ist dann demnach auch die Gegenkathete.
+[00:47:13 -> 00:47:15]  In dem Fall für Winkel B.
+[00:47:15 -> 00:47:16]  K1 haben wir hier.
+[00:47:16 -> 00:47:18]  Wert 3, habe ich hingeschrieben.
+[00:47:18 -> 00:47:19]  K1 Wert 3.
+[00:47:19 -> 00:47:23]  Geteilt durch die Hypotenuse, wissen wir ja schon mittlerweile, ist K2 gleich 5.
+[00:47:23 -> 00:47:28]  Das heißt demnach K1 durch K2, also in Zahlen aufgeschrieben, 3 durch 5.
+[00:47:28 -> 00:47:31]  Und somit haben wir dann, Alhamdulillah, den Sinus von B bestimmt.
+[00:47:31 -> 00:47:33]  Und jetzt seht ihr gerade wieder dieses Schaubild.
+[00:47:33 -> 00:47:37]  In dem Fall, das kommt euch ja bekannt vor, das haben wir gerade bei der Cosinusfunktion ja auch aufgezeichnet.
+[00:47:37 -> 00:47:42]  Nur da war es halt so, dass wir eine bestimmte Länge bestimmen wollten.
+[00:47:42 -> 00:47:46]  Jetzt in diesem Fall ist es aber so, dass wir hier unseren Winkel A haben.
+[00:47:46 -> 00:47:52]  Aber wir jetzt nur die Gegenkathete betrachten, da wir jetzt hier den Sinus von dem Winkel A suchen.
+[00:47:52 -> 00:47:57]  Ich habe euch jetzt hier nochmal das Dreieck aufgezeichnet, damit ich euch genau sagen kann, woher jetzt der Sinus von A kommt.
+[00:47:57 -> 00:48:00]  Wir haben hier den Winkel A und wir möchten ja den Sinus von A bestimmen.
+[00:48:00 -> 00:48:03]  Und da müssen wir erstmal betrachten, was hier direkt gegenüber liegt.
+[00:48:03 -> 00:48:05]  Das ist ja hier die Gegenkathete.
+[00:48:05 -> 00:48:08]  Um den Sinus von A zu bestimmen, gilt ja die folgende Formel.
+[00:48:08 -> 00:48:14]  Man muss in diesem Fall bei uns Y1, das ist ja eben die Gegenkathete, durch die Hypotenuse teilen.
+[00:48:14 -> 00:48:17]  Und das ist bei uns in dem Fall die Hypotenuse.
+[00:48:17 -> 00:48:20]  Und demnach einfach den Wert von Y1 geteilt durch 1.
+[00:48:20 -> 00:48:26]  Sinus vom Winkel A wäre gleich Y1, weil wie ihr hier sehen könnt, wir haben ja Y1 durch 1 geteilt.
+[00:48:26 -> 00:48:29]  Und etwas durch 1 geteilt ist ja grundsätzlich immer 1.
+[00:48:29 -> 00:48:31]  Jetzt haben wir ja hier folgende Erkenntnis.
+[00:48:31 -> 00:48:34]  Wir wissen ja jetzt, was der Sinus von A mittlerweile ist.
+[00:48:34 -> 00:48:39]  Und wie ihr hier sehen könnt, könnten wir jetzt im Grunde genommen hier Y1 wegwischen, weil wir wissen ja jetzt, was der Sinus von A ist.
+[00:48:39 -> 00:48:43]  Aber anstatt das jetzt hier wegzuwischen und mir die Finger schmutzig zu machen, finde ich mir zu schade, Girl.
+[00:48:43 -> 00:48:50]  Weil ich ja jetzt weiß, dass Y1 dem Sinus A entspricht, kann ich ja schon direkt das Y1 durch das Sinus von A ersetzen.
+[00:48:50 -> 00:48:54]  Stellt euch jetzt einfach vor, ich würde das Ganze hier so rüber verschieben.
+[00:48:54 -> 00:48:56]  Damit ihr seht, das ist die gleiche Länge.
+[00:48:56 -> 00:49:02]  Ich würde jetzt einfach hier dieses, ich mache mir doch die Finger schmutzig, Länge Sinus von A.
+[00:49:02 -> 00:49:05]  Die habe ich jetzt einfach hier projiziert, damit man das besser sieht.
+[00:49:05 -> 00:49:09]  Also das hier habe ich einfach hier rüber auf die Y-Achse projiziert.
+[00:49:09 -> 00:49:15]  Und wie bei der Kosinusfunktion ja auch schon gemacht, haben wir das Ganze jetzt hier in einem euch vertrauten Koordinatensystem übertragen.
+[00:49:15 -> 00:49:18]  Und wie ihr hier sehen könnt, wieder ganz normal X- und Y-Achse.
+[00:49:18 -> 00:49:22]  Uns sollte jetzt direkt was auffallen, was anders ist als bei der Kosinusfunktion.
+[00:49:22 -> 00:49:26]  Und wir wissen ja nämlich noch, dass die Kosinusfunktion bei 1 angefangen hat.
+[00:49:26 -> 00:49:32]  Hier bei der Sinusfunktion sehen wir aber, die fängt hier im Umsprung an und verläuft dann aber auch ganz normal periodisch.
+[00:49:32 -> 00:49:36]  Wie wir sehen von hier, hier von 0 und dann geht es hier mal weiter bis zu 2 Pi.
+[00:49:36 -> 00:49:38]  Und ab hier wiederholt sich das einfach die ganze Zeit.
+[00:49:38 -> 00:49:43]  Jetzt kommen wir zur letzten Funktion, die sogenannte Tangentfunktion, nein Spaß, die Tangentsfunktion.
+[00:49:43 -> 00:49:50]  Das ist auch wie die Sinusfunktion eine ungerade mathematische Funktion eines Winkels.
+[00:49:50 -> 00:49:55]  Ganz einfach, auch in diesem Fall gilt F von X gleich Minus F von Minus X.
+[00:49:55 -> 00:49:57]  Was heißt das Ganze?
+[00:49:57 -> 00:50:00]  Da stellen wir uns jetzt zum tausendsten Mal die Frage, aber egal, wir sind Zombies.
+[00:50:00 -> 00:50:02]  Okay, das Ganze mit dem Tangents aufgeschrieben.
+[00:50:02 -> 00:50:06]  Tangents von Pi Sechstel ist gleich Minus Tangents von Minus Pi Sechstel.
+[00:50:06 -> 00:50:09]  Und das ist gleich Minus Minus 1 durch Wurzel 3.
+[00:50:09 -> 00:50:12]  Und das ist dann letzten Endes gleich 1 durch Wurzel 3.
+[00:50:12 -> 00:50:18]  Und wir merken auch wieder hier, das ist der gleiche Funktionswert wie in diesem Fall bei Tangents von Pi Sechstel.
+[00:50:18 -> 00:50:22]  Und jetzt müsst ihr beachten, dass bei den trigonometrischen Funktionen, wenn wir vom Tangent sprechen,
+[00:50:22 -> 00:50:27]  dass der Tangents in einem rechtwinkligen Dreieck einfach das Verhältnis von Gegenkatheter zu Ankatheter ist.
+[00:50:27 -> 00:50:29]  Das Ganze habe ich jetzt wieder hier mit dem Dreieck aufgeschrieben.
+[00:50:29 -> 00:50:32]  Wie ihr wisst, Hypotenuse ist ja die längste Seite.
+[00:50:32 -> 00:50:36]  Aber diesmal ist es ganz wichtig, wenn ihr den Tangents bestimmen wollt von einem Winkel,
+[00:50:36 -> 00:50:39]  dann seht ihr, hier kommt nirgendwo die Hypotenuse vor.
+[00:50:39 -> 00:50:44]  Demnach habe ich die jetzt hier rot markiert, damit ihr wisst, es ist haram, die sprechen wir gar nicht mehr an.
+[00:50:44 -> 00:50:48]  Was wir machen, wenn wir den Tangents vom Winkel A jetzt bestimmen wollen,
+[00:50:48 -> 00:50:50]  dann müssen wir ganz einfach folgendes machen.
+[00:50:50 -> 00:50:53]  Gegenkatheter des Winkels A durch Ankatheter des Winkels A.
+[00:50:53 -> 00:50:55]  Okay, dann fangen wir mal an.
+[00:50:55 -> 00:50:58]  Wir haben hier den Winkel A und möchten jetzt die Gegenkatheter finden.
+[00:50:58 -> 00:50:59]  Wie machen wir das?
+[00:50:59 -> 00:51:03]  Stellt euch wieder vor, hier wäre das Auge und ihr guckt gegenüber.
+[00:51:03 -> 00:51:05]  Was ist hier? Aha, das ist K3.
+[00:51:05 -> 00:51:07]  Hier, das ist eure Gegenkatheter.
+[00:51:07 -> 00:51:09]  Jetzt fehlt euch ja noch die Ankatheter.
+[00:51:09 -> 00:51:11]  Okay, was bleibt da übrig?
+[00:51:11 -> 00:51:13]  Das ist dann natürlich das, was direkt da dran klebt.
+[00:51:13 -> 00:51:15]  Und das ist in diesem Fall K1.
+[00:51:15 -> 00:51:17]  Und demnach haben wir folgende Werte eingetragen.
+[00:51:17 -> 00:51:19]  K3 durch K1.
+[00:51:19 -> 00:51:22]  Dafür dann natürlich die Zahlen eingesetzt, die wir hier auch haben.
+[00:51:22 -> 00:51:26]  Hier K3, 4 und K1, 3 sind also 4 Drittel einfach.
+[00:51:26 -> 00:51:30]  Und demnach haben wir das Ergebnis, Tangents vom Winkel A ist 4 Drittel.
+[00:51:30 -> 00:51:32]  So, jetzt möchten wir den Tangents vom B bestimmen.
+[00:51:32 -> 00:51:34]  Stellen uns wieder das gleiche vor.
+[00:51:34 -> 00:51:35]  Hier ist das Auge.
+[00:51:35 -> 00:51:38]  Das Auge guckt, was ist jetzt in dem Fall eure Gegenkatheter?
+[00:51:38 -> 00:51:40]  Genau das, was direkt von euch gegenüber ist.
+[00:51:40 -> 00:51:42]  Und das ist in dem Fall K1.
+[00:51:42 -> 00:51:44]  Und was bleibt dann natürlich übrig?
+[00:51:44 -> 00:51:46]  Das ist die Ankatheter, das ist in dem Fall K3.
+[00:51:46 -> 00:51:50]  Also teilen wir einfach K1 geteilt durch K3 und erhalten den Wert 3 Viertel.
+[00:51:50 -> 00:51:53]  Und dann heißt es auch, der Tangents vom Winkel B ist 3 Viertel.
+[00:51:53 -> 00:51:55]  Hier habe ich erstmal die allgemeine Form aufgeschrieben.
+[00:51:55 -> 00:51:57]  f von x ist gleich Tangents von x.
+[00:51:57 -> 00:51:59]  Um halt den Tangents von einem Winkel zu bestimmen,
+[00:51:59 -> 00:52:05]  müsst ihr prinzipiell immer den Sinus von einem Winkel geteilt durch den Cosinus von einem Winkel rechnen.
+[00:52:05 -> 00:52:10]  Und das sagt uns ja schon, dass ihr bereits diese beiden Werte in einer Aufgabe ermittelt haben müsst
+[00:52:10 -> 00:52:15]  oder vorgegeben haben müsst, um halt dann eben den Tangents eines Winkels bestimmen zu können.
+[00:52:15 -> 00:52:17]  Und das dazugehörige Schaubild sieht einfach wie folgt aus.
+[00:52:17 -> 00:52:20]  Und das wurde jetzt sehr grob von mir skizziert.
+[00:52:20 -> 00:52:23]  Aber auf sowas werden wir halt in weiteren Videos genauer eingehen.
+[00:52:23 -> 00:52:26]  Anzumerken an dieser Stelle, ihr habt ja mitbekommen,
+[00:52:26 -> 00:52:30]  dass die Tangentsfunktion eine ungerade mathematische Funktion ist.
+[00:52:30 -> 00:52:32]  Und das auch genauso wie die Sinusfunktion.
+[00:52:32 -> 00:52:35]  Und jetzt könnt ihr euch das eigentlich alles hier herleiten,
+[00:52:35 -> 00:52:38]  weil ihr schon seht, um den Tangents eines Winkels zu bestimmen,
+[00:52:38 -> 00:52:40]  muss ich ja Sinus durch Cosinus teilen.
+[00:52:40 -> 00:52:43]  Und ihr wisst ja, Sinus ist eine ungerade mathematische Funktion
+[00:52:43 -> 00:52:46]  und Cosinus ist eine gerade mathematische Funktion.
+[00:52:46 -> 00:52:48]  Und gerade weil ich Ungerade durch Gerade dividiere,
+[00:52:48 -> 00:52:50]  bleibe ich da dann bei Ungerade letzten Endes.
+[00:52:50 -> 00:52:53]  Und deswegen ist die Tangentsfunktion eine ungerade Funktion.
+[00:52:53 -> 00:52:57]  Und diese Formel, die wir hier oben aufgeschrieben haben, lässt sich auch hiervon herleiten.
+[00:52:57 -> 00:52:59]  So, auf jeden Fall...
+[00:53:00 -> 00:53:02]  Hattet ihr schon mal einen Lehrer, der so gezeigt hat,
+[00:53:02 -> 00:53:04]  dass er keinen Bock auf euch hat? Geil, ne?
+[00:53:04 -> 00:53:06]  Korrekt, realer Lehrer, erster realer Lehrer auf YouTube.
+[00:53:06 -> 00:53:07]  Ey, what? Ciao!

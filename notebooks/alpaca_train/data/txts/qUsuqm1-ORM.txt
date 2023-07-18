@@ -1,0 +1,62 @@
+[00:00:00 -> 00:00:15]  In this lesson we're going to look at causation which is one of the most
+[00:00:15 -> 00:00:20]  important aspects of criminal law and something that will come up in subjects
+[00:00:20 -> 00:00:26]  in years to come in your LLB program. Causation considers who was at fault for
+[00:00:26 -> 00:00:30]  whatever the crime that has been committed. Now there are two main types
+[00:00:30 -> 00:00:35]  of causation that we must consider. Firstly you have factual causation which
+[00:00:35 -> 00:00:41]  is the less problematic one where A shoots B, B dies. There is no intervening
+[00:00:41 -> 00:00:46]  events, there's no other person involved. The cause of B's death is A's shooting
+[00:00:46 -> 00:00:53]  him. So B would not have died but for A's actions. Now causation in this form is
+[00:00:53 -> 00:00:57]  considered the but-for test. You normally consider it as a sine qua non
+[00:00:57 -> 00:01:02]  of a particular act. In this case it's quite straightforward. One person has
+[00:01:02 -> 00:01:06]  killed another. The more problematic is the second form of causation which is
+[00:01:06 -> 00:01:11]  legal causation. So what exactly must we consider in relation to legal causation?
+[00:01:11 -> 00:01:16]  On the one hand this all deals with the conduct of the person. So the conduct
+[00:01:16 -> 00:01:22]  itself need not be the main cause as in it need not be the immediate cause of
+[00:01:22 -> 00:01:27]  the death or the final act itself of killing the victim. And it also does not
+[00:01:27 -> 00:01:31]  need to be the only cause because of course in relation to this factor of the
+[00:01:31 -> 00:01:35]  main cause as well as the only cause we can consider that as being factual
+[00:01:35 -> 00:01:39]  causation itself. There is no intervening events, there is no other parties
+[00:01:39 -> 00:01:44]  involved. It's a quite straightforward aspect of one person committing a crime
+[00:01:44 -> 00:01:49]  against another. But what it must be in relation to conduct is either the
+[00:01:49 -> 00:01:54]  operative cause or the substantial cause. And once the defendant has started
+[00:01:54 -> 00:01:58]  these chain of events he is legally responsible in some way shape or form.
+[00:01:58 -> 00:02:04]  However having said that there are instances where intervening events or
+[00:02:04 -> 00:02:10]  novus actus intervenience takes place and the responsibility or the liability
+[00:02:10 -> 00:02:15]  imposed on the defendant might be mitigated or completely removed. When do
+[00:02:15 -> 00:02:20]  these events occur? On the one hand you might have situations where a third
+[00:02:20 -> 00:02:26]  party intervenes in such a substantial manner that the defendant cannot now be
+[00:02:26 -> 00:02:30]  possibly considered as the operative or the substantial cause of the death of
+[00:02:30 -> 00:02:35]  the crime. There might be an act of the victim himself. We will have a look at
+[00:02:35 -> 00:02:41]  certain escape cases where people have jumped off of certain places or certain
+[00:02:41 -> 00:02:46]  vehicles in an unforeseen manner. It might also be acts of God or nature
+[00:02:46 -> 00:02:51]  things which are unpredictable and were outside the control of the defendant, the
+[00:02:51 -> 00:02:56]  victim or any other party for that matter. However it must be noted that in
+[00:02:56 -> 00:03:01]  order to break the chain of causation it must be free, deliberate and informed. And
+[00:03:01 -> 00:03:07]  another component of it is it must be so unforeseeable by any party including the
+[00:03:07 -> 00:03:12]  defendant that there is no means or there is no justification in imposing
+[00:03:12 -> 00:03:17]  liability on the defendant himself. Now if we consider a few examples in
+[00:03:17 -> 00:03:22]  relation to the acts of the victim itself where there are escape cases or
+[00:03:22 -> 00:03:27]  instances of escape where the victim injures himself trying to escape from
+[00:03:27 -> 00:03:31]  the defendant. There might be instances where this is so unforeseeable, the
+[00:03:31 -> 00:03:35]  mechanism by which the victim has tried to escape is so unforeseeable that you
+[00:03:35 -> 00:03:39]  cannot hold the defendant liable or responsible for the injuries or death
+[00:03:39 -> 00:03:45]  that occurs. Conversely you can also consider medical interventions. Now in
+[00:03:45 -> 00:03:50]  relation to medical intervention we must also keep in mind that the negligence
+[00:03:50 -> 00:03:56]  purported can only break the chain of causation if it is so independent of the
+[00:03:56 -> 00:04:00]  defendant's acts and maybe even so independent of what is required and
+[00:04:00 -> 00:04:05]  completely outside the realms of what is necessary that it was potent enough of
+[00:04:05 -> 00:04:09]  causing the death. Now there are a string of cases in relation to this which are
+[00:04:09 -> 00:04:13]  available in your case summaries. I urge you to have a look at them and peruse
+[00:04:13 -> 00:04:17]  them in great detail. So we had a brief look at causation and the various
+[00:04:17 -> 00:04:22]  elements of it what factual causation means and what legal causation means as
+[00:04:22 -> 00:04:28]  well as where both of those types of causation affect the defendant in
+[00:04:28 -> 00:04:32]  relation to his liability towards the victim. We also had a brief look at
+[00:04:32 -> 00:04:37]  intervening events and their effects on the crime itself and where the defendant
+[00:04:37 -> 00:04:42]  stands in relation to acts by a third party, a victim or nature itself. Now the
+[00:04:42 -> 00:04:48]  next lesson we are going to move on to is the secondary component of a crime
+[00:04:48 -> 00:04:53]  itself, the secondary element of a crime itself which is the mens rea.
+[00:04:53 -> 00:05:03]  Hi, my name is Shaveen Bhandar Nayak. Thanks a lot for watching this video on
+[00:05:03 -> 00:05:09]  YouTube. For the complete course make sure you click the link on the left. Also
+[00:05:09 -> 00:05:14]  for an exclusive discount to YouTube viewers enter the coupon code YouTube at
+[00:05:14 -> 00:05:18]  the course page. All the very best with your studies and good luck with your
+[00:05:18 -> 00:05:22]  exams. See you in the next lesson.

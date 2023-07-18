@@ -1,0 +1,200 @@
+[00:00:00 -> 00:00:05]  All right, we're going to talk about the Hadoop ecosystem at a very high level now, and it's going to be a little bit overwhelming.
+[00:00:05 -> 00:00:08]  I got to warn you, there's a lot of technologies here, but bear with me.
+[00:00:08 -> 00:00:16]  You know, all I really want you to do is to get some exposure to these terms and these technologies so that they don't seem as foreign when we dive into them in more depth.
+[00:00:16 -> 00:00:19]  And, you know, this can be a very valuable lecture in and of itself.
+[00:00:19 -> 00:00:29]  So if you watch this a couple of times, it might be a good idea because this is all you really need to really understand what all these cryptic names in the Hadoop ecosystem really mean and what everything is for at a very high level.
+[00:00:29 -> 00:00:34]  So let's dive in and actually uncover the secrets of Hadoop.
+[00:00:34 -> 00:00:38]  All right, so let's go into some detail about the major components in Hadoop.
+[00:00:38 -> 00:00:44]  I just want to kind of briefly touch on all these different technologies, and we're going to go into a lot more depth.
+[00:00:44 -> 00:00:49]  That's what the rest of this course is all about, just deep diving into each one of these and giving you some examples of using them.
+[00:00:49 -> 00:00:53]  So I've split things up here into three general areas here.
+[00:00:53 -> 00:00:58]  We have what I call the core Hadoop ecosystem, which is just things built on the Hadoop platform directly.
+[00:00:58 -> 00:01:01]  And then we have some ancillary systems that we'll talk about as well.
+[00:01:01 -> 00:01:04]  There's a lot of different ways of organizing these systems.
+[00:01:04 -> 00:01:06]  And this is just what makes sense to me.
+[00:01:06 -> 00:01:09]  There are a lot of complex interdependencies between these systems.
+[00:01:09 -> 00:01:12]  So it's there's really no right way to represent these relationships.
+[00:01:12 -> 00:01:18]  But what I'm trying to do here is show you graphically the things that build on top of each other within Hadoop.
+[00:01:18 -> 00:01:21]  Now, the pink things here are the things that are part of Hadoop itself.
+[00:01:21 -> 00:01:27]  Everything else is sort of add-on projects that have come out over time that integrate with Hadoop and solve specific problems.
+[00:01:27 -> 00:01:30]  So let's start at the base of it all, which is HDFS.
+[00:01:30 -> 00:01:33]  That stands for the Hadoop Distributed File System.
+[00:01:33 -> 00:01:35]  So remember, we talked about GFS.
+[00:01:35 -> 00:01:43]  HDFS is the Hadoop version of that, and that is the system that allows us to distribute the storage of big data across our cluster of computers.
+[00:01:43 -> 00:01:49]  So it makes all of the hard drives on our cluster look like one giant file system.
+[00:01:49 -> 00:01:52]  And not only that, it actually maintains redundant copies of that data.
+[00:01:52 -> 00:01:59]  So if one of your computers happens to randomly burst into flames and melts into a puddle of silicon, hey, it happens.
+[00:01:59 -> 00:02:05]  It can actually recover from that and will back itself up to a backup copy that it had of that data automatically.
+[00:02:05 -> 00:02:07]  It's like you'll never even know anything happened.
+[00:02:07 -> 00:02:09]  So that's the power of HDFS.
+[00:02:09 -> 00:02:14]  That is the data storage, the distributed data storage piece of Hadoop.
+[00:02:14 -> 00:02:20]  Now, sitting on top of HDFS, we have YARN, and that stands for Yet Another Resource Negotiator.
+[00:02:20 -> 00:02:25]  So we talked about the data storage part of Hadoop, and there's also the data processing part of Hadoop.
+[00:02:25 -> 00:02:28]  YARN is where the data processing starts to come into play.
+[00:02:28 -> 00:02:34]  So YARN is basically the system that manages the resources on your computing cluster.
+[00:02:34 -> 00:02:43]  It's what decides what gets to run tasks when, what nodes are available for extra work, which nodes are not, which ones are available, which ones are not available.
+[00:02:43 -> 00:02:48]  So it's kind of the heartbeat that keeps your cluster going.
+[00:02:48 -> 00:02:53]  Now, given that we have this resource negotiator, we can build interesting applications on top of that.
+[00:02:53 -> 00:02:58]  And one of them is MapReduce, which, again, is a piece of Hadoop proper.
+[00:02:58 -> 00:03:09]  And MapReduce, at a very high level, is just a programming metaphor or programming model that allows you to process your data across an entire cluster.
+[00:03:09 -> 00:03:10]  And let's break that down.
+[00:03:10 -> 00:03:13]  It consists of mappers and reducers.
+[00:03:13 -> 00:03:19]  These are both different scripts that you might write, or different functions, if you will, when you're writing a MapReduce program.
+[00:03:19 -> 00:03:25]  Mappers have the ability to transform your data in parallel across your entire computing cluster in a very efficient manner.
+[00:03:25 -> 00:03:28]  And reducers are what aggregate that data together.
+[00:03:28 -> 00:03:32]  And it may sound like a very simple model, and it is, but it's actually very versatile.
+[00:03:32 -> 00:03:39]  And we'll see later on that there are some very creative ways you can put mappers and reducers together to solve very complex problems.
+[00:03:39 -> 00:03:42]  Now, originally, MapReduce and Yarn were kind of the same thing in Hadoop.
+[00:03:42 -> 00:03:50]  They got split out recently, and that's enabled other applications to be built on top of Yarn that solve the same problem as MapReduce, but in a more efficient manner.
+[00:03:50 -> 00:03:52]  We'll talk about that in a bit.
+[00:03:52 -> 00:03:56]  And then sitting on top of MapReduce, we have technology such as Pig.
+[00:03:56 -> 00:04:05]  So if you don't want to write Java or Python MapReduce code, and you're more familiar with a scripting language that has sort of a SQL-style syntax, Pig is for you.
+[00:04:05 -> 00:04:20]  Pig is a very high-level programming API that allows you to write simple scripts that look a lot like SQL in some cases, that allow you to chain together queries and get complex answers, but without actually writing Python or Java code in the process.
+[00:04:20 -> 00:04:32]  So Pig will actually transform that script into something that will run on MapReduce, which in turn goes through Yarn and HDFS to actually process and get the data that it needs to get the answer you want.
+[00:04:32 -> 00:04:37]  That's Pig, just a high-level scripting language that sits on top of MapReduce.
+[00:04:37 -> 00:04:40]  Let's zoom out a little bit here and remind ourselves where everything fits together.
+[00:04:40 -> 00:04:51]  We'll talk about Hive next, which also sits on top of MapReduce, and it solves a similar problem to Pig, but it's really more directly looks like a SQL database.
+[00:04:51 -> 00:05:00]  So Hive is a way of actually taking SQL queries and making this distributed data that's just really sitting on your file system somewhere look like a SQL database.
+[00:05:00 -> 00:05:03]  So for all intents and purposes, it's just like a database.
+[00:05:03 -> 00:05:15]  You can even connect to it through a shell client and ODBC or what have you, and actually execute SQL queries on the data that's stored on your Hadoop cluster, even though it's not really a relational database under the hood.
+[00:05:15 -> 00:05:22]  So if you're familiar with SQL, Hive might be a very useful interface for you to use.
+[00:05:22 -> 00:05:25]  Zoom out a little bit here and again, get our bearings here.
+[00:05:25 -> 00:05:28]  We'll talk next about Ambari.
+[00:05:28 -> 00:05:39]  And Apache Ambari is basically this thing that sits on top of everything, and it just gives you a view of your cluster and lets you visualize what's running on your cluster, what systems are using how much resources.
+[00:05:39 -> 00:05:48]  And it also has some views in it that allow you to actually do things like execute Hive queries or import databases into Hive or execute Pig queries and things like that.
+[00:05:48 -> 00:05:56]  So Ambari is what sits on top of all of this and lets you have a view into the actual state of your cluster and the applications that are running on it.
+[00:05:56 -> 00:06:01]  Now, there are other technologies that do this for you. Ambari is what Hortonworks uses.
+[00:06:01 -> 00:06:06]  There are competing distributions of Hadoop stacks out there, Hortonworks being one of them.
+[00:06:06 -> 00:06:08]  Other ones include Cloudera and MapR.
+[00:06:08 -> 00:06:11]  But for Hortonworks, they use Ambari.
+[00:06:11 -> 00:06:15]  All right, so let's go over here.
+[00:06:15 -> 00:06:22]  Mesos. So Mesos isn't really part of Hadoop proper, but I'm including it here because it's basically an alternative to Yarn.
+[00:06:22 -> 00:06:25]  So it too is a resource negotiator.
+[00:06:25 -> 00:06:27]  Remember, Yarn is yet another resource negotiator.
+[00:06:27 -> 00:06:31]  Mesos is another one. They basically solve the same problems in different ways.
+[00:06:31 -> 00:06:35]  There are, of course, pros and cons to using each one that we'll talk about later on.
+[00:06:35 -> 00:06:39]  But Mesos is another potential way of managing the resources on your cluster.
+[00:06:39 -> 00:06:43]  And there are ways of getting Mesos and Yarn to work together if you need to as well.
+[00:06:43 -> 00:06:50]  And we bring up Mesos because we're going to talk about Spark, which I think is one of the most exciting technologies in the Hadoop ecosystem.
+[00:06:50 -> 00:06:55]  This is sitting at the same level of MapReduce in that it sits on top of Yarn or Mesos.
+[00:06:55 -> 00:06:59]  It can go either way to actually run queries on your data.
+[00:06:59 -> 00:07:01]  And like MapReduce, it requires some programming.
+[00:07:01 -> 00:07:08]  You need to actually write your Spark scripts using either Python or Java or the Scala programming language, Scala being preferred.
+[00:07:08 -> 00:07:12]  But Spark is kind of where it's at right now. It is extremely fast.
+[00:07:12 -> 00:07:14]  It's under a lot of active development right now.
+[00:07:14 -> 00:07:19]  So Spark's a very exciting technology right now and a very powerful technology.
+[00:07:19 -> 00:07:27]  So if you need to very quickly and efficiently and reliably process data on your Hadoop cluster, Spark is a really good choice for that.
+[00:07:27 -> 00:07:31]  And it's also very versatile. It can do things like handle SQL queries.
+[00:07:31 -> 00:07:35]  It can do machine learning across an entire cluster of information.
+[00:07:35 -> 00:07:40]  It can actually handle streaming data in real time and all sorts of other cool stuff.
+[00:07:40 -> 00:07:43]  So I'm very excited to teach you more about Spark later in this course.
+[00:07:44 -> 00:07:50]  Moving on, Tez, similar to Spark in that it also uses some of the same techniques as Spark.
+[00:07:50 -> 00:07:53]  Notably, with something that's called a directed acyclic graph.
+[00:07:53 -> 00:08:01]  And this gives us a legs up on what MapReduce does because it can produce more optimal plans for actually executing your queries.
+[00:08:01 -> 00:08:05]  Tez is usually used in conjunction with Hive to accelerate it.
+[00:08:05 -> 00:08:08]  So we remember we looked at Hive earlier.
+[00:08:08 -> 00:08:12]  That kind of sat on top of MapReduce, but it can also sit on top of Tez.
+[00:08:12 -> 00:08:17]  So you have an option there. Hive through Tez can often be faster than Hive through MapReduce.
+[00:08:17 -> 00:08:24]  They're both different means of optimizing queries to get an efficient answer from your cluster.
+[00:08:24 -> 00:08:27]  Weehee! Let's talk about HBase.
+[00:08:27 -> 00:08:33]  So HBase kind of sits off to the side and it's a way of exposing the data on your cluster to transactional platforms.
+[00:08:33 -> 00:08:36]  So HBase is what we call a NoSQL database.
+[00:08:36 -> 00:08:38]  It is a columnar data store.
+[00:08:38 -> 00:08:40]  And you might have heard that term before.
+[00:08:40 -> 00:08:45]  It's basically a really, really fast database meant for very large transaction rates.
+[00:08:45 -> 00:08:52]  So it's appropriate, for example, for hitting from a web application, hitting from a website, doing OLTP types of transactions.
+[00:08:52 -> 00:08:56]  So HBase can actually expose the data that's stored on your cluster.
+[00:08:56 -> 00:09:00]  And maybe that data was transformed in some way by Spark or MapReduce or something else.
+[00:09:00 -> 00:09:05]  And it provides a very fast way of exposing those results to other systems.
+[00:09:06 -> 00:09:08]  And what else can we talk about?
+[00:09:08 -> 00:09:11]  Let's go over here and talk about Apache Storm.
+[00:09:11 -> 00:09:15]  Storm is basically a way of processing streaming data.
+[00:09:15 -> 00:09:22]  So if you have streaming data from, say, sensors or web logs, you can actually process that in real time using Storm.
+[00:09:22 -> 00:09:25]  And Spark Streaming solves the same problem.
+[00:09:25 -> 00:09:28]  Storm just does it in a slightly different way.
+[00:09:28 -> 00:09:33]  So Apache Storm made for processing streaming data quickly in real time.
+[00:09:33 -> 00:09:35]  So it doesn't have to be a batch thing anymore.
+[00:09:35 -> 00:09:42]  You can actually update your machine learning models or transform data into a database all in real time as it comes in.
+[00:09:42 -> 00:09:44]  Pretty cool stuff.
+[00:09:44 -> 00:09:47]  Let's go over here and talk about Uzi.
+[00:09:47 -> 00:09:51]  Uzi is just a way of scheduling jobs on your cluster.
+[00:09:51 -> 00:09:58]  So if you have a task that needs to happen on your Hadoop cluster that involves many different steps and maybe many different systems,
+[00:09:58 -> 00:10:04]  Uzi is a way of scheduling all of these things together into jobs that can be run on some sort of schedule.
+[00:10:04 -> 00:10:15]  So when you have more complicated operations that require loading data into Hive and then integrating that with Pig and maybe querying it with Spark and then transforming the results into HBase,
+[00:10:15 -> 00:10:21]  Uzi can manage that all for you and make sure that it runs reliably on a consistent basis.
+[00:10:21 -> 00:10:26]  Moving over here a bit, Zookeeper also sits alongside all these technologies.
+[00:10:26 -> 00:10:30]  It's basically a technology for coordinating everything on your cluster.
+[00:10:30 -> 00:10:36]  So it's the technology that can be used for keeping track of which nodes are up, which nodes are down.
+[00:10:36 -> 00:10:43]  It's a very reliable way of just kind of keeping track of shared states across your cluster that different applications can use.
+[00:10:43 -> 00:10:54]  And many, many of these applications we've talked about rely on Zookeeper to actually maintain reliable and consistent performance across a cluster, even when a node randomly goes down.
+[00:10:54 -> 00:11:01]  So Zookeeper can be used, for example, for keeping track of who the current master node is or keeping track of who's up, who's down, what have you.
+[00:11:01 -> 00:11:07]  And it's really more extensible than that even, but we'll talk about that later.
+[00:11:07 -> 00:11:11]  Over here, there's also systems that are just focused on the problem of data ingestion.
+[00:11:11 -> 00:11:16]  So how do you actually get data into your cluster and onto HDFS from external sources?
+[00:11:16 -> 00:11:22]  Scoop, for example, is a way of actually tying your Hadoop database into a relational database.
+[00:11:22 -> 00:11:31]  Anything that can talk to OLTP or, I'm sorry, ODBC or JDBC can be transformed by Scoop into your HDFS file system.
+[00:11:31 -> 00:11:36]  So Scoop is basically a connector between Hadoop and your legacy databases.
+[00:11:36 -> 00:11:44]  Flume is a way of actually transporting web logs at a very large scale and very reliably to your cluster.
+[00:11:44 -> 00:11:46]  So let's say you have a fleet of web servers.
+[00:11:46 -> 00:11:57]  Flume can actually listen to the web logs coming in from those web servers in real time and publish them into your cluster in real time for processing by something like Storm or Spark Streaming.
+[00:11:57 -> 00:12:01]  Kafka solves a similar problem, although it's a little bit more general purpose.
+[00:12:01 -> 00:12:10]  It can basically collect data of any sort from a cluster of PCs, from a cluster of web servers or whatever it is, and broadcast that into your Hadoop cluster as well.
+[00:12:10 -> 00:12:15]  So those are all three technologies that solve the problem of data ingestion.
+[00:12:15 -> 00:12:18]  All right, moving on.
+[00:12:18 -> 00:12:22]  Now, your data might be exposed or stored in other places, too.
+[00:12:22 -> 00:12:24]  So let's talk about those as well.
+[00:12:24 -> 00:12:26]  HBase would also fit into this category.
+[00:12:26 -> 00:12:32]  But since HBase is really part of the Hadoop stack itself, I left it off of this little collection here.
+[00:12:32 -> 00:12:36]  MySQL, of course, or any SQL database is something you might be integrating with your Hadoop cluster.
+[00:12:36 -> 00:12:39]  You can not only import data from Scoop into your cluster.
+[00:12:39 -> 00:12:41]  You can also export it to MySQL as well.
+[00:12:41 -> 00:12:48]  So a lot of these technologies like Spark have the ability to write to any JDBC or ODBC database.
+[00:12:48 -> 00:12:54]  And you can store and retrieve your results from a SQL database if you're so inclined.
+[00:12:54 -> 00:12:58]  Cassandra, like HBase, and also MongoDB are both also columnar data stores.
+[00:12:58 -> 00:13:05]  And they're also good choices for exposing your data for real time usage to, say, a web application.
+[00:13:05 -> 00:13:12]  So you definitely want some sort of layer like this, like Cassandra or MongoDB, sitting between real time applications and your cluster.
+[00:13:12 -> 00:13:14]  We'll talk about those in a lot more depth.
+[00:13:14 -> 00:13:22]  Both are very popular choices for vending simple key value data stores at very large transaction rates.
+[00:13:22 -> 00:13:30]  MySQL, Cassandra, MongoDB, all external databases that might integrate with your cluster.
+[00:13:30 -> 00:13:34]  And there are also several query engines that sit on top of your Hadoop cluster.
+[00:13:34 -> 00:13:40]  So if you want to actually interactively enter SQL queries or whatever, you can do that using these technologies.
+[00:13:40 -> 00:13:44]  Again, things don't always fit neatly into different circles here.
+[00:13:44 -> 00:13:47]  If you remember Hive, that actually is a similar thing as well.
+[00:13:47 -> 00:13:52]  But again, since Hive is more tightly integrated into Hadoop, I chose to leave it out of this particular circle.
+[00:13:52 -> 00:13:55]  But it too is a way of querying your data.
+[00:13:55 -> 00:13:57]  Apache Drill, pretty cool stuff.
+[00:13:57 -> 00:14:03]  It actually allows you to write SQL queries that will work across a wide range of NoSQL databases, potentially.
+[00:14:03 -> 00:14:10]  So it can actually talk to your HBase database and maybe your Cassandra and your MongoDB database as well,
+[00:14:10 -> 00:14:18]  and tie those results all together and allow you to write queries across all those disparate data stores and bring them all back together when you're done.
+[00:14:18 -> 00:14:22]  Hue, also a way of interactively creating queries.
+[00:14:22 -> 00:14:24]  It works well with Hive and HBase.
+[00:14:24 -> 00:14:30]  And actually for Cloudera, it kind of takes the role of Ambari for sort of the thing that sits on top of everything
+[00:14:30 -> 00:14:37]  and lets you visualize and execute queries on the Hadoop cluster as a whole.
+[00:14:37 -> 00:14:39]  Apache Phoenix, kind of similar to Drill.
+[00:14:39 -> 00:14:45]  It lets you do SQL-style queries across the entire range of data storage technologies you might have.
+[00:14:45 -> 00:14:46]  But it takes it one step further.
+[00:14:46 -> 00:14:50]  It actually gives you ACID guarantees and OLTP.
+[00:14:50 -> 00:15:03]  So it can actually make your NotSQL Hadoop data store look a lot like a relational data store and a relational database with all the guarantees that come with that.
+[00:15:03 -> 00:15:08]  And finally, Presto, yet another way to execute queries across your entire cluster.
+[00:15:08 -> 00:15:11]  These all solve, you know, kind of the same problem.
+[00:15:11 -> 00:15:19]  Zeppelin is just another angle on it that takes more of a notebook type approach to the UI and how you actually interact with the cluster.
+[00:15:19 -> 00:15:28]  But at the end of the day, those are all ways of actually executing queries and extracting meaning from your cluster without necessarily writing programs to do it.
+[00:15:28 -> 00:15:31]  So that's the world of Hadoop in a nutshell.
+[00:15:31 -> 00:15:34]  A lot of stuff there, but hey, that's all there is to it.
+[00:15:34 -> 00:15:41]  We're going to spend the rest of this course diving into each one of these one at a time and doing some actual exercises and activities with them.
+[00:15:41 -> 00:15:43]  So you get to understand them more in more depth.
+[00:15:43 -> 00:15:45]  But for now, those are the buzzwords.
+[00:15:45 -> 00:15:50]  And hopefully when you hear these terms and these technologies, they won't seem quite so foreign to you anymore.
+[00:15:50 -> 00:15:52]  So welcome to the world of Hadoop.
+[00:15:52 -> 00:15:56]  Let's move on and dive into some more detail.
+[00:15:56 -> 00:15:58]  All right, that was a lot of stuff right there.
+[00:15:58 -> 00:16:02]  And, you know, I understand if you need to go back and watch it again, there's a lot of information there.
+[00:16:02 -> 00:16:07]  But don't worry, we're going to dive into each and every one of these technologies in a lot more depth later on in the course.
+[00:16:07 -> 00:16:17]  I just wanted to kind of hit you with all this right up front so you could know just enough to be dangerous and know enough about these technologies to actually know what people are talking about when they're talking about Hadoop.
+[00:16:17 -> 00:16:19]  I mean, that really that's half of the battle here.
+[00:16:19 -> 00:16:22]  None of these things are really that complicated, to be honest.
+[00:16:22 -> 00:16:25]  You know, all of these things are actually fairly easy to use and understand.
+[00:16:25 -> 00:16:31]  Hadoop is only really hard to grasp because there are so many different technologies and a lot of them do the same thing.
+[00:16:32 -> 00:16:40]  But if you can understand what they're all for and how to choose between them and how to put them together to actually solve real business problems, well, that's what they pay people the big bucks for.
+[00:16:40 -> 00:16:43]  So let's move on and actually start to dive into some more depth.
+[00:16:43 -> 00:16:45]  Start with HDFS and see how that works.

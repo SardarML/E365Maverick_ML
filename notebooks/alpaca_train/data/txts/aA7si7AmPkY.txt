@@ -1,0 +1,111 @@
+[00:00:00 -> 00:00:04]  Hello! Wishing you a warm welcome to Notion.
+[00:00:04 -> 00:00:08]  I'm here to give you an overview of how to use our tools to solve your problems,
+[00:00:08 -> 00:00:12]  whether you want to manage projects, create shared knowledge, take notes,
+[00:00:12 -> 00:00:15]  or whatever else you have in mind.
+[00:00:15 -> 00:00:18]  There are so many things you can achieve with Notion,
+[00:00:18 -> 00:00:21]  but we decided to stick to three things in this video.
+[00:00:21 -> 00:00:23]  First, how to write and edit content.
+[00:00:23 -> 00:00:25]  Second, how to set up your workspace.
+[00:00:25 -> 00:00:29]  And third, how to collaborate on that content with others.
+[00:00:29 -> 00:00:33]  By the end of this video, you'll feel ready to go with these actions,
+[00:00:33 -> 00:00:38]  so you can use Notion on your own or with your team to get more done.
+[00:00:38 -> 00:00:42]  First, I'll show you how to add and edit content in Notion.
+[00:00:42 -> 00:00:47]  Here's a page showing a hypothetical company's mission, vision, and value statement.
+[00:00:47 -> 00:00:53]  Adding text in Notion is as easy as placing your cursor wherever you want and start typing.
+[00:00:53 -> 00:00:55]  It works just like any other document editor,
+[00:00:55 -> 00:00:59]  only features don't get in your way until you need them.
+[00:00:59 -> 00:01:05]  For instance, when you highlight text, this formatting menu pops up so you can style it.
+[00:01:05 -> 00:01:09]  Every piece of content you add to Notion is called a block.
+[00:01:09 -> 00:01:11]  The sentence you just typed is a text block.
+[00:01:11 -> 00:01:14]  There are many types of blocks you can add to Notion pages.
+[00:01:14 -> 00:01:20]  Checkboxes, headings, images, videos, databases, embeds like Google Maps or PDFs.
+[00:01:20 -> 00:01:22]  It's a long list.
+[00:01:22 -> 00:01:24]  There are two ways to add a block.
+[00:01:24 -> 00:01:28]  First, when you hover, you'll see a plus sign in your margin.
+[00:01:28 -> 00:01:32]  Click it to see the full menu of content you can add.
+[00:01:32 -> 00:01:36]  Second, you can use what we call a slash command.
+[00:01:36 -> 00:01:42]  Hit forward slash to bring up the same menu and start typing what you want, like to do or bullet.
+[00:01:42 -> 00:01:47]  You'll be able to call it up instantly and add it by pressing enter.
+[00:01:47 -> 00:01:53]  With slash commands, Notion makes it easy to structure your text with headings, bullets, and more
+[00:01:53 -> 00:01:57]  without ever taking your fingers off the keyboard.
+[00:01:57 -> 00:02:01]  We also offer all the standard keyboard shortcuts to take this to the next level,
+[00:02:01 -> 00:02:04]  like command B for bold if you're on Mac.
+[00:02:04 -> 00:02:09]  We also added advanced ones for good measure, like command E for code notation,
+[00:02:09 -> 00:02:11]  powerful once you get the hang of it.
+[00:02:11 -> 00:02:18]  You can also hyperlink any text by highlighting it and pasting the URL you'd like to link to over it.
+[00:02:18 -> 00:02:22]  All of these options also live in this formatting menu for easy access,
+[00:02:22 -> 00:02:28]  including the option to change text color or add highlights.
+[00:02:28 -> 00:02:34]  You can turn a whole text block a color in one go with the slash command red, for instance.
+[00:02:34 -> 00:02:40]  Also fundamental to editing in Notion is the ability to drag and drop blocks anywhere on your page.
+[00:02:40 -> 00:02:44]  Just click and hold the six dot icon and use it as a handle to drag.
+[00:02:44 -> 00:02:49]  This makes it easy to arrange and rearrange your thoughts and content however you want.
+[00:02:49 -> 00:02:55]  You can also use it to create columns and structure your page another way.
+[00:02:55 -> 00:02:58]  That six dot icon is useful for more, too.
+[00:02:58 -> 00:03:08]  Click it next to any block to bring up a menu that lets you delete, duplicate, move, comment on, color,
+[00:03:08 -> 00:03:11]  or copy an anchor link to that block.
+[00:03:11 -> 00:03:14]  You'll also notice an option called turn into.
+[00:03:14 -> 00:03:18]  Use that to transform the block into any other type of block,
+[00:03:18 -> 00:03:21]  like turning this text into a header.
+[00:03:21 -> 00:03:24]  Last point on editing and formatting text.
+[00:03:24 -> 00:03:30]  This three dot menu at the very top right of your page contains options for changing the typography of your page,
+[00:03:30 -> 00:03:32]  text size, and page width.
+[00:03:32 -> 00:03:38]  All of these features are designed so you can create pages that look and feel the way you want.
+[00:03:38 -> 00:03:44]  Now that you know how to create content, let's talk about how to use Notion to organize it.
+[00:03:44 -> 00:03:47]  Your sidebar is home to all of the pages in your workspace.
+[00:03:47 -> 00:03:50]  If you're using it on your own, you may only see one section,
+[00:03:50 -> 00:03:55]  but if you're using it with others, you'll see two, workspace and private.
+[00:03:55 -> 00:03:59]  Any pages in workspace are shared with all members of your workspace.
+[00:03:59 -> 00:04:03]  Instead of organizing pages into folders like in most apps,
+[00:04:03 -> 00:04:06]  Notion lets you nest pages inside pages.
+[00:04:06 -> 00:04:08]  This has a few advantages.
+[00:04:08 -> 00:04:12]  It ensures everything has its place and is easy to find.
+[00:04:12 -> 00:04:17]  You can also use your sidebar to get a bird's eye view of everything in your workspace,
+[00:04:17 -> 00:04:21]  or close these toggles to only focus on what's important.
+[00:04:21 -> 00:04:28]  Pages can be dragged and dropped between sections, reordered, or put one inside the other.
+[00:04:28 -> 00:04:33]  It's helpful to only have a small number of top-level pages in your sidebar to keep things tidy,
+[00:04:33 -> 00:04:37]  and then add additional layers of context nested inside.
+[00:04:37 -> 00:04:42]  For instance, you could have top-level pages for your company wiki, your roadmap,
+[00:04:42 -> 00:04:46]  and for each team, like engineering, sales, and marketing.
+[00:04:46 -> 00:04:50]  Each can contain many pages, organized however you want to work.
+[00:04:50 -> 00:04:54]  Now, let's say you're currently working on pages several layers deep in your workspace,
+[00:04:54 -> 00:04:57]  but you want to be able to open them with one click.
+[00:04:57 -> 00:05:00]  Just flag these pages as Favorite here,
+[00:05:00 -> 00:05:05]  and this will automatically create another section in your sidebar called Favorites.
+[00:05:05 -> 00:05:10]  When these pages are no longer relevant or urgent, you can simply remove them the same way.
+[00:05:10 -> 00:05:15]  To find any page instantly, we have a powerful search tool.
+[00:05:15 -> 00:05:20]  Just click Quick Find at the top left here, and type whatever you're looking for.
+[00:05:20 -> 00:05:26]  Once you have results, you can filter them by date created, the person who created it, and more.
+[00:05:26 -> 00:05:29]  Just click to jump right there.
+[00:05:29 -> 00:05:34]  Your sidebar also gives you options to find and use templates for a variety of purposes,
+[00:05:34 -> 00:05:37]  and to import content from other apps.
+[00:05:41 -> 00:05:47]  Lastly, you can close your sidebar if you want to focus on the task at hand, or resize it.
+[00:05:47 -> 00:05:51]  Our goal with this feature is to give you an index to all your information,
+[00:05:51 -> 00:05:55]  an index you can rearrange to match your work whenever you need.
+[00:05:55 -> 00:06:00]  Once your content is added and organized, you can start collaborating with other people.
+[00:06:00 -> 00:06:02]  There are several tools for this built into the product.
+[00:06:02 -> 00:06:05]  First, you'll want to share your information.
+[00:06:05 -> 00:06:10]  You can do this by inviting other members who will share all the content in your workspace with you.
+[00:06:10 -> 00:06:13]  That's our team plan.
+[00:06:13 -> 00:06:19]  Or you can invite Notion users who are outside your workspace to individual pages as guests on any plan.
+[00:06:19 -> 00:06:23]  This is what they'll see when you share a page with them.
+[00:06:25 -> 00:06:30]  Once content is shared, you can add comments to blocks and even specific words.
+[00:06:30 -> 00:06:34]  Either use the six dot icon or highlight the text and choose comment.
+[00:06:34 -> 00:06:36]  Type whatever you want to say.
+[00:06:36 -> 00:06:42]  And if you want to get other people's attention, mention them by typing at followed by their name.
+[00:06:44 -> 00:06:50]  You can also start discussions at the page level by hovering over the top of any page and clicking add discussion.
+[00:06:50 -> 00:06:55]  Mentioning people is possible there too, or anywhere inside a page.
+[00:06:55 -> 00:07:01]  This is a good way to ask someone a question, get someone to review something, or assign them a task.
+[00:07:01 -> 00:07:06]  As soon as they're mentioned, they'll receive a notification and all updates in their workspace.
+[00:07:08 -> 00:07:14]  You can even set a reminder for someone by typing at the word remind, the time of the reminder,
+[00:07:14 -> 00:07:18]  followed by at and their name in the same line.
+[00:07:18 -> 00:07:24]  The all updates menu in your sidebar collects all the times you've been mentioned or added to pages.
+[00:07:24 -> 00:07:30]  You can even use it to see all changes made to pages relevant to you, when they were made and by who.
+[00:07:30 -> 00:07:34]  When you have new mentions, a red badge will appear.
+[00:07:34 -> 00:07:39]  When you view them, you can reply right from this menu, resolve comments, or archive them.
+[00:07:39 -> 00:07:45]  Combined, these features should make it easy for you and your team to start, continue, and pick up conversations
+[00:07:45 -> 00:07:48]  no matter where you're located or when you're working.
+[00:07:48 -> 00:07:53]  This type of asynchronous communication can keep you moving forward without missing a thing.
+[00:07:53 -> 00:07:55]  That's it for now.
+[00:07:55 -> 00:08:01]  We hope this video helps you feel confident creating content, organizing your workspace, and working together.
+[00:08:01 -> 00:08:08]  With time, Notion can become a powerful tool for managing workflows perfectly tailored to your team's needs.
+[00:08:08 -> 00:08:12]  And remember, you can always start with a template and go from there.

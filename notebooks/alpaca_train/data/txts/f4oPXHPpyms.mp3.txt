@@ -1,0 +1,136 @@
+[00:00:00 -> 00:00:05]  Hallo, mein Name ist Daniel Hanke und ich zeige dir in diesem Video die fünf wichtigsten Tools im Projektmanagement.
+[00:00:05 -> 00:00:10]  Ich zeige dir, wie sie aufgebaut werden, sodass du am Ende ein gutes Verständnis von allen fünf Tools hast.
+[00:00:10 -> 00:00:12]  Also, schau dir das Video an, wenn es dich interessiert.
+[00:00:17 -> 00:00:21]  Das erste Projektmanagement-Tool ist der Projektstrukturplan.
+[00:00:21 -> 00:00:27]  Obwohl ich jetzt hier kein Ranking machen würde, kann man trotzdem sagen, dass der Projektstrukturplan wahrscheinlich das Wichtigste von allen ist.
+[00:00:27 -> 00:00:32]  Einfach weil er, wie kein anderes Tool, eine Aussage über den Inhalt eines Projektes trägt.
+[00:00:32 -> 00:00:39]  Der Projektstrukturplan wird so aufgebaut, dass in einem Feld ganz oben der Projektname geschrieben wird.
+[00:00:39 -> 00:00:47]  Dann wird das Projekt unterteilt in verschiedene Teilprojekte oder auch Projektphasen genannt, die dann eben unten drunter geschrieben werden.
+[00:00:47 -> 00:00:52]  Typischerweise hat ein Projekt so zwischen fünf bis neun Teilprojekte.
+[00:00:53 -> 00:01:00]  Dann wird jedes Teilprojekt wiederum unterteilt in verschiedene Arbeitspakete, die dann eben unten drunter geschrieben werden.
+[00:01:00 -> 00:01:03]  Ein Arbeitspaket ist quasi ein Miniprojekt.
+[00:01:03 -> 00:01:10]  Das hat eine ganz klar definierte Zielsetzung, einen verantwortlichen und eben Start- und Enddatum und auch andere Sachen.
+[00:01:12 -> 00:01:14]  Jetzt kann man noch zwei Sachen machen.
+[00:01:14 -> 00:01:18]  Zum einen den PSP-Code eintragen. Links unten in jedes Feld kommt er rein.
+[00:01:18 -> 00:01:22]  PSP-Code ist eine ganz wichtige Abkürzung im Projektmanagement.
+[00:01:22 -> 00:01:31]  Einfach weil er eben ermöglicht, dass jedes Projekt, jedes Teilprojekt und jedes Arbeitspaket innerhalb des Unternehmens eindeutig zugeordnet werden kann.
+[00:01:31 -> 00:01:40]  PSP steht für Projektstrukturplan und der PSP-Code wird so aufgebaut, dass erstmal jedes Projekt durchnummeriert wird.
+[00:01:40 -> 00:01:42]  Hier als Beispiel Projekt Nummer 1.
+[00:01:42 -> 00:01:46]  Also kommt in das Projektfeld ganz oben die 1 rein.
+[00:01:46 -> 00:01:50]  Die 1 bleibt jetzt für jedes weitere Feld von dem Projekt bestehen.
+[00:01:50 -> 00:01:57]  Getrennt durch einen Punkt werden dann aber die Teilprojekte durchnummeriert, also 1.1, 1.2 und so weiter.
+[00:01:57 -> 00:02:03]  Dann wieder getrennt durch einen Punkt werden die Arbeitspakete je Teilprojekt durchnummeriert.
+[00:02:03 -> 00:02:09]  Das sieht dann so aus, zum Beispiel 1.3.1, 1.3.2 und so weiter.
+[00:02:09 -> 00:02:13]  Jetzt kann man noch weitergehen und die Verantwortlichen eintragen.
+[00:02:13 -> 00:02:23]  Da wäre natürlich der Projektleiter, der rechts unten in das Projektfeld reinkommt und eben die Arbeitspaketverantwortlichen, die in jedes Arbeitspaket reingeschrieben werden.
+[00:02:23 -> 00:02:27]  Das war auch schon das Allerwichtigste zum Projektstrukturplan.
+[00:02:27 -> 00:02:32]  Wenn du dich noch tiefer mit dem Projektstrukturplan befassen möchtest, dann empfehle ich dir mein Video zum Projektstrukturplan.
+[00:02:32 -> 00:02:38]  Jetzt geht es weiter mit dem zweiten Projektmanagement-Tool und das ist die Arbeitspaketbeschreibung.
+[00:02:38 -> 00:02:47]  Die ist im Grunde die logische Fortsetzung vom Projektstrukturplan, weil jetzt eben jedes Arbeitspaket nochmal genauer beschrieben wird.
+[00:02:47 -> 00:02:53]  Wenn ich jetzt ein Arbeitspaketverantwortlicher wäre, reicht es mir natürlich nicht, wenn ich einfach nur den Titel aus dem Projektstrukturplan lese.
+[00:02:53 -> 00:03:01]  Ich muss natürlich genau wissen, was von mir verlangt wird und deswegen gibt es die Arbeitspaketbeschreibung, wo das Ganze genauer definiert wird.
+[00:03:01 -> 00:03:04]  Was kommt also rein in die Arbeitspaketbeschreibung?
+[00:03:04 -> 00:03:11]  Natürlich PSP-Code, Verantwortlicher und Titel, weil die Informationen stehen ja schließlich schon im Projektstrukturplan.
+[00:03:11 -> 00:03:17]  Dann wird aber auch der Inhalt genauer beschrieben und die Ergebnisse werden aufgelistet.
+[00:03:17 -> 00:03:22]  Also quasi die Schritte, die erbracht werden müssen, bis das Arbeitspaket abgeschlossen ist.
+[00:03:22 -> 00:03:26]  Dann kann man oder sollte man auch noch Nichtinhalte eintragen.
+[00:03:27 -> 00:03:36]  Das sind alles die Inhalte, wo man denken könnte, dass sie zum Arbeitspaket dazugehören, aber dann doch nicht dazugehören, um eben Missverständnisse auszuschließen.
+[00:03:36 -> 00:03:46]  Dann kommen Ressourcen rein, also welche Materialien, welche Mitarbeiter und welches Budget stehen uns eben zur Verfügung für das Arbeitspaket.
+[00:03:46 -> 00:03:52]  Und dann kann eine Leistungsfortschrittsmessung gemacht werden vom Arbeitspaketverantwortlichen während der Durchführung.
+[00:03:52 -> 00:03:59]  Das heißt auch nur, dass er eben eine Prozentangabe macht, zu wie viel Prozent das Arbeitspaket abgeschlossen ist.
+[00:03:59 -> 00:04:09]  Und zusammen mit dem letzten Punkt, dem Start- und Enddatum, ergibt sich daraus aus der Arbeitspaketbeschreibung ein valides Tool zum Projektcontrolling.
+[00:04:09 -> 00:04:15]  Weil wir jetzt eben sagen können, zu wie viel Prozent das Arbeitspaket abgeschlossen ist.
+[00:04:15 -> 00:04:21]  Also ob wir uns jetzt beeilen müssen mit dem Arbeitspaket oder ob alles im grünen Bereich ist.
+[00:04:22 -> 00:04:29]  Jetzt geht es auch schon weiter zum dritten Projektmanagementinstrument und das ist der Meilensteinplan.
+[00:04:29 -> 00:04:36]  Wir verlassen jetzt das Gebiet der Projektstrukturierung, wo es eben um die inhaltlichen Aspekte eines Projektes geht.
+[00:04:36 -> 00:04:42]  Und wir betreten jetzt das Feld der Projektterminierung, wo eben die zeitlichen Dimensionen gemanagt werden.
+[00:04:42 -> 00:04:49]  Der Meilensteinplan ist ein ganz einfaches Tool der Projektterminierung und eignet sich daher wunderbar zur Projektkommunikation.
+[00:04:49 -> 00:04:58]  Wenn zum Beispiel der Projektleiter seinem Auftraggeber, also dem Steering-Komitee, Bericht erstattet, dann sollte er auf jeden Fall immer den Meilensteinplan beilegen,
+[00:04:58 -> 00:05:04]  weil er einfach so einfach zu verstehen ist und man sich nicht sehr tief mit dem Projekt befassen muss.
+[00:05:04 -> 00:05:11]  Man weiß aber trotzdem, was erreicht wurde und was wir voraussichtlich wann erreichen werden.
+[00:05:11 -> 00:05:18]  Wichtig ist auch zu wissen, dass ein Meilenstein oder das universelle Symbol eines Meilensteins die rote Raute ist.
+[00:05:19 -> 00:05:23]  Ein Meilenstein hat keine Dauer, sondern ist einfach etwas, das eintrifft.
+[00:05:23 -> 00:05:30]  Und quasi die Definition eines Meilensteins ist schlicht ein Ergebnis von besonderer Bedeutung.
+[00:05:30 -> 00:05:39]  Was das jetzt genau bedeutet, also ein Ergebnis von besonderer Bedeutung, das liegt letztlich im Ermessensspielraum des Projektleiters.
+[00:05:40 -> 00:05:47]  Was jedoch eigentlich immer gemacht wird, ist, dass am Ende von einem Teilprojekt, also wenn ein Teilprojekt abgeschlossen ist, dass dann ein Meilenstein gesetzt wird.
+[00:05:49 -> 00:05:51]  Der Meilensteinplan wird jetzt tabellarisch aufgebaut.
+[00:05:51 -> 00:05:58]  Zunächst wird erstmal der PSP-Code aufgeschrieben von dem Arbeitspaket, mit dem der Meilenstein erreicht ist.
+[00:05:58 -> 00:06:08]  Dann wird der Meilenstein benannt, ganz einfach mit der Formel Substantiv Verb, zum Beispiel Marketing-Slogan entworfen oder so.
+[00:06:09 -> 00:06:11]  Und dann wird ein Plantermin eingetragen.
+[00:06:11 -> 00:06:15]  Das ist der Termin, den der Projektleiter in der Planungsphase festlegt.
+[00:06:15 -> 00:06:21]  Also bevor überhaupt mit der Umsetzung des Projektes begonnen wurde, steht der Plantermin.
+[00:06:22 -> 00:06:27]  Dann, wie das eben so oft ist, haut es eben manchmal nicht so ganz hin mit dem Plantermin.
+[00:06:27 -> 00:06:29]  Entweder sind wir früher oder später fertig.
+[00:06:30 -> 00:06:34]  Dann kann man einen adaptierten Termin machen, den man während der Durchführung setzt.
+[00:06:35 -> 00:06:37]  Und man sagt, ja, da bin ich voraussichtlich fertig.
+[00:06:37 -> 00:06:39]  Da erreichen wir den Meilenstein.
+[00:06:40 -> 00:06:46]  Und am Ende, wenn dann tatsächlich der Meilenstein erreicht wurde, dann wird der Ist-Termin eingetragen.
+[00:06:48 -> 00:06:53]  Also du siehst, es ist ein ganz einfaches Tool, eignet sich daher wunderbar zur Kommunikation,
+[00:06:53 -> 00:07:00]  eignet sich nicht so sehr zum Projekt-Controlling, einfach weil er nicht genug in die Tiefe geht, nicht genug Informationen beinhaltet.
+[00:07:00 -> 00:07:03]  Anders sieht es da jetzt aus mit dem vierten Projektmanagement-Tool.
+[00:07:03 -> 00:07:05]  Und das ist das Gantt-Diagramm.
+[00:07:06 -> 00:07:08]  Oder auch Gantt-Chart wird es häufig bezeichnet.
+[00:07:09 -> 00:07:14]  Und ja, es zeigt sehr gut die zeitlichen Dimensionen.
+[00:07:14 -> 00:07:22]  Also was, wann begonnen wird, welches Arbeitspaket, wie lange das dauert, welche Parallel ablaufen, das wird alles visuell dargestellt.
+[00:07:23 -> 00:07:27]  Zeigen möchte ich das Gantt-Diagramm an einem ganz einfachen, simplen Beispiel.
+[00:07:27 -> 00:07:32]  Es geht um eine Skifreizeit, die eben von Studenten für Studenten geplant wird.
+[00:07:33 -> 00:07:35]  Das ist der Projektstrukturplan.
+[00:07:36 -> 00:07:42]  Und du siehst, es besteht, also dieses Miniprojekt quasi besteht aus sieben Arbeitspaketen.
+[00:07:43 -> 00:07:46]  Und die werden jetzt alle tabellarisch übertragen für das Gantt-Diagramm.
+[00:07:47 -> 00:07:51]  Es wird durchnummeriert, PSP-Code beigefügt und das der Titel des Arbeitspaketes.
+[00:07:52 -> 00:08:01]  Dann schauen wir in der Arbeitspaketbeschreibung nach und schreiben die Dauer sowie Start- und Enddatum der Arbeitspakete dazu.
+[00:08:02 -> 00:08:07]  Als nächstes fügen wir in die Tabelle zeitliche Koordinaten ein.
+[00:08:08 -> 00:08:10]  Hier bei dem kleinen Projekt reichen zwei Kalenderwochen.
+[00:08:11 -> 00:08:15]  Und alles, was wir jetzt noch machen müssen, ist eigentlich total einfach.
+[00:08:15 -> 00:08:22]  Malen nach Zahlen nämlich. Wir tragen Start- und Enddaten ein, verbinden das Ganze und erhalten dann so ein Balkendiagramm.
+[00:08:24 -> 00:08:27]  Wir können jetzt noch weitergehen, weitere Informationen eintragen.
+[00:08:28 -> 00:08:32]  Zum Beispiel Meilensteine, die eben wann erreicht werden und Abhängigkeitslinien.
+[00:08:33 -> 00:08:35]  Also welche Arbeitspakete voneinander abhängig sind.
+[00:08:36 -> 00:08:41]  Zum Beispiel, wenn eben ein Arbeitspaket beendet sein muss, damit mit dem anderen erst begonnen werden kann.
+[00:08:42 -> 00:08:45]  Du siehst, das erste Arbeitspaket lief fünf Tage lang.
+[00:08:46 -> 00:08:52]  Dann liefen vier Arbeitspakete parallel und dann wird eben eine Präsentation erstellt, wenn das abgeschlossen ist und gehalten.
+[00:08:53 -> 00:08:59]  Bei diesem kleinen Projekt, das ja eh nur der Veranschaulichung dient, hat das Gant-Diagramm natürlich nicht so einen großen Mehrwert.
+[00:09:00 -> 00:09:07]  Aber bei richtig professionellen Projekten mit 30, 40 oder noch mehr Arbeitspaketen und die über Monate hinweg gehen,
+[00:09:07 -> 00:09:10]  hat das natürlich einen enormen Mehrwert, das Gant-Diagramm.
+[00:09:11 -> 00:09:16]  Weil es ermöglicht, dass man eben Missverständnisse oder Unübersichtlichkeiten ausschließt.
+[00:09:18 -> 00:09:24]  Und jetzt geht es auch schon weiter zum fünften und letzten Projektmanagement-Tool und das ist der Ressourcenplan.
+[00:09:25 -> 00:09:31]  Ressourcenplan, der listet natürlich erstmal alle Ressourcen auf, die wir brauchen, hat aber auch noch andere Vorteile.
+[00:09:32 -> 00:09:36]  Zum Beispiel können wir, wenn wir ihn aufstellen, ganz gut die Verfügbarkeit der einzelnen Ressourcen checken.
+[00:09:37 -> 00:09:41]  Dann können wir feststellen, okay, wir haben jetzt hier diesen Mitarbeiter und den brauchen wir unbedingt für das Arbeitspaket.
+[00:09:42 -> 00:09:45]  Und dann können wir eben eine Erfahrung bringen, ob der dann auch verfügbar ist.
+[00:09:46 -> 00:09:49]  Und falls der nicht verfügbar ist, müssen wir möglicherweise die ganze Planung nochmal umschmeißen.
+[00:09:50 -> 00:09:53]  Zweiter Punkt ist, dass wo immer Ressourcen sind, sind auch Kosten mit verbunden.
+[00:09:54 -> 00:10:00]  Und wenn wir jetzt alle Ressourcen aufschreiben, können wir wirklich nachrechnen, wie teuer uns das Projekt wird.
+[00:10:01 -> 00:10:05]  Und dann können wir noch eine genauere Aussage darüber treffen, ob sich das Projekt wirklich lohnt.
+[00:10:05 -> 00:10:09]  Also ob die Nutzen des Projektes die Kosten übersteigt.
+[00:10:10 -> 00:10:18]  Aufgebaut wird der Ressourcenplan so, dass erstmal jedes einzelne Arbeitspaket aufgeschrieben wird, tabellarisch.
+[00:10:19 -> 00:10:22]  Und mit den jeweiligen Ressourcen dazu geschrieben wird.
+[00:10:23 -> 00:10:31]  Dann wird der Aufwand erhoben, den wir brauchen, also wie lange oder in welchem Maß brauchen wir die Ressourcen.
+[00:10:31 -> 00:10:36]  Und den Satz, also die Kosten je Einheit des Aufwands.
+[00:10:37 -> 00:10:41]  Dann schreiben wir die tatsächlichen Kosten auf, wie teuer uns die Ressourcen werden.
+[00:10:42 -> 00:10:44]  Also quasi Satz mal Aufwand in dem Fall.
+[00:10:45 -> 00:10:48]  Und dann können wir noch die Kostenarten dazu schreiben.
+[00:10:49 -> 00:10:52]  Natürlich rechnet man alle Kosten eines Arbeitspakets zusammen.
+[00:10:53 -> 00:10:56]  Haben wir die Arbeitspaketkosten, alle Arbeitspaketkosten zusammengerechnet,
+[00:10:57 -> 00:11:01]  sondern eben die Kosten des Projektes oder die Kosten der Ressourcen des Projektes.
+[00:11:02 -> 00:11:06]  Ich möchte jetzt noch zum Abschluss auf eine Debatte eingehen, auf eine kleine.
+[00:11:07 -> 00:11:11]  Und zwar ist das die Frage, gehören Mitarbeiterkosten in den Ressourcenplan?
+[00:11:12 -> 00:11:20]  Oder anders gefragt, muss ich jetzt als Projektleiter das Gehalt meiner Kollegen mit einberechnen zu den Projektkosten?
+[00:11:21 -> 00:11:27]  Das Argument, was da häufig gebracht wird, ist, die werden ja eh vom Unternehmen bezahlt, egal ob das Projekt jetzt stattfindet oder nicht.
+[00:11:28 -> 00:11:29]  Und deswegen kann man die auch weglassen.
+[00:11:30 -> 00:11:36]  Aber das ist eigentlich kein wirklich gutes Argument, weil diese Mitarbeiter könnten ja auch woanders im Unternehmen arbeiten.
+[00:11:37 -> 00:11:42]  Und allein um transparent festzustellen, wie teuer das Projekt wirklich ist,
+[00:11:42 -> 00:11:51]  ist es eben notwendig, alle Beteiligten und denen ihre Kosten quasi, die sie verursachen, mit einzubeziehen.
+[00:11:52 -> 00:11:58]  Natürlich wollen das viele nicht, weil dann so manches Projekt deutlich teurer werden würde oder eigentlich teurer ist,
+[00:11:59 -> 00:12:00]  aber man das sich falsch vorstellt.
+[00:12:01 -> 00:12:02]  Deswegen ist es wichtig, das mit einzubeziehen.
+[00:12:03 -> 00:12:08]  Als Projektleiter hat man vielleicht nicht immer die Möglichkeit, die Gehälter seiner Kollegen in Erfahrung zu bringen.
+[00:12:08 -> 00:12:14]  Aber meistens kann dann eben ein Controller einen Stundensatz einem vorgeben, mit dem man dann eben rechnen kann.
+[00:12:15 -> 00:12:16]  So wie auch hier.
+[00:12:17 -> 00:12:20]  Und ja, das war auch das Video zu den fünf wichtigsten Projektmanagement-Tools.
+[00:12:21 -> 00:12:22]  Ich hoffe, es hat dir gefallen.
+[00:12:23 -> 00:12:25]  Und ja, falls ja, dann würde ich mich über einen Daumen nach oben freuen.
+[00:12:26 -> 00:12:29]  Und ja, wie gesagt, abonniere den Kanal und schau dir auch meine anderen Videos an.
+[00:12:30 -> 00:12:34]  Nicht nur zum Projektmanagement, aber ich habe zum Beispiel auch im Projektmanagement-Video die Grundlagen des Projektmanagements
+[00:12:35 -> 00:12:41]  oder eben den Projektstrukturplan nochmal tiefer und genauer beschrieben.
+[00:12:42 -> 00:12:43]  Also bis zum nächsten Video und bis dann.

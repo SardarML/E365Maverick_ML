@@ -1,0 +1,39 @@
+[00:00:00 -> 00:00:12]  Two variables results in four possible combinations. Let's have a look at A and B below and here
+[00:00:12 -> 00:00:17]  are all the possible combinations here. If we look at these two we can see that they
+[00:00:17 -> 00:00:24]  represent not A, these two represent A, these two will obviously represent not B and these
+[00:00:24 -> 00:00:35]  two here represent B. These combinations can be represented on a map. There are four combinations
+[00:00:35 -> 00:00:44]  so the map will need four areas. So we need to draw four areas as you can see here. Two
+[00:00:44 -> 00:00:52]  of the squares will be for not A, two of the squares will be for A, we'll have two squares
+[00:00:52 -> 00:01:04]  for the not B and we will also have two squares for the B. This square is in the not A as
+[00:01:04 -> 00:01:11]  well as being in the not B so this square is known as not A and not B. This square here,
+[00:01:11 -> 00:01:15]  well that one is also in the not A but this time it's in the B so that's known as not
+[00:01:15 -> 00:01:25]  A and B. This square here is in the A and the not B so that's known as A and not B.
+[00:01:25 -> 00:01:29]  And the final square which is this one here, well that one is in the A as well as being
+[00:01:29 -> 00:01:39]  in the B so that's A and B. Each area of the map, or squares if you prefer, is used to
+[00:01:39 -> 00:01:48]  represent each of the minterms as you can see here. We will now plot the following on
+[00:01:48 -> 00:01:53]  a two variable Karnaugh map, i.e. this expression here. And this is the Karnaugh map already
+[00:01:53 -> 00:02:01]  pre-drawn. We'll start by plotting this minterm. Here we can see we've got not A which corresponds
+[00:02:01 -> 00:02:05]  to this which is those two squares I've drawn a line through. Then we look at the B which
+[00:02:05 -> 00:02:10]  is here and I'll draw a line through there and we can see that's where they intersect
+[00:02:10 -> 00:02:16]  so that's where we place a 1. We will now move on to this minterm here and we can see
+[00:02:16 -> 00:02:21]  that we have an A and I'll select that on the map and this time I'm just going to put
+[00:02:21 -> 00:02:25]  a couple of ticks in the A squares. Here we can see we have the not B which is this one
+[00:02:25 -> 00:02:30]  here and I'll put a couple of ticks in those. Now we can see quite clearly there's two ticks
+[00:02:30 -> 00:02:35]  here so that's where they obviously must intersect and that's where we place a 1. We now have
+[00:02:35 -> 00:02:41]  a look at this minterm A and B which is the A and the B and that's obviously this shaded
+[00:02:41 -> 00:02:48]  area here. Consequently it's in that shaded area where we place the 1. If we now look
+[00:02:48 -> 00:02:55]  closely we can see we had three minterms here. Therefore we're going to have three plots
+[00:02:55 -> 00:03:01]  and that's quite clearly shown we have the three plots as you can see there. Once plotted
+[00:03:01 -> 00:03:08]  we then start to minimize by looping ones as you can see here with both the red and
+[00:03:08 -> 00:03:14]  the blue loops. Let's look at a loop in isolation and if we have a look at this little bit we
+[00:03:14 -> 00:03:19]  can see that's in not B and this little bit of the loop is in B. That means we can discount
+[00:03:19 -> 00:03:25]  them. If I have a look at the not A we can see none of the loop is in not A so we discount
+[00:03:25 -> 00:03:34]  not A. Now all of the loop we can see clearly is in A. Therefore this loop represents A.
+[00:03:34 -> 00:03:38]  Let's look at the other loop in isolation. Let's have a look at this bit of the loop
+[00:03:38 -> 00:03:44]  and we can see that's in the not A and the other bit of the loop here is in the A. Now
+[00:03:44 -> 00:03:49]  when it overlaps the same variable like this we discount it. Have a look at the not B and
+[00:03:49 -> 00:03:55]  we can see none of the loop is in not B so we discount that one. Now if we look very
+[00:03:55 -> 00:04:01]  carefully we can see all of the loop is quite clearly in the area of B. Consequently this
+[00:04:01 -> 00:04:17]  loop is therefore B. So we can see therefore that the red loop is A and the blue loop is
+[00:04:17 -> 00:04:25]  B. Therefore we can conclude that F is loop A or loop B. Consequently we can come up here
+[00:04:25 -> 00:04:29]  and see that this minimizes to A or B.

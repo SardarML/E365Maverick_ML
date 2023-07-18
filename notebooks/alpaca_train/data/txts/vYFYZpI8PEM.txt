@@ -1,0 +1,166 @@
+[00:00:00 -> 00:00:16]  What up? That's a peace sign. What up? That's what's up. My name's Tyler, and we're gonna
+[00:00:16 -> 00:00:21]  learn some math, boy. Okay. Or girl. I don't know why I said it weird. Okay, so what I'll
+[00:00:21 -> 00:00:26]  look at today is something from algebra. It's called using formulas, okay? So what we're
+[00:00:26 -> 00:00:31]  gonna work on is just how to use a basic formula, okay? I think a good one to use is
+[00:00:31 -> 00:00:37]  one that we use with rectangles, all right? Main thing about rectangles, four sides, all
+[00:00:37 -> 00:00:41]  90 degree angles, opposite sides of equal length. You've got yourself a rectangle, and
+[00:00:41 -> 00:00:45]  everything's 90 degrees inside there. I think I already said that. If I said it again, I'd
+[00:00:45 -> 00:00:49]  get a double up. Sometimes you got a double up, back to back homers. I don't know what
+[00:00:49 -> 00:00:54]  I'm saying. Okay, so let's say we got a rectangle right here, all right? A formula that you'll
+[00:00:54 -> 00:01:00]  use with rectangles is called perimeter, okay? Let's say you've got the perimeter of
+[00:01:00 -> 00:01:05]  your rectangle. You've got your length, you've got your width. Your perimeter is the distance
+[00:01:05 -> 00:01:10]  around it. A common problem you'll see whenever you work on rectangles and they do perimeter
+[00:01:10 -> 00:01:17]  is a fence, okay? If you've got a fenced in backyard that's in just a rectangle, the perimeter
+[00:01:17 -> 00:01:21]  is the fence, okay? That's the distance of that line, okay? You're not finding all this
+[00:01:21 -> 00:01:26]  in here. You're finding just the length of this as if you, like we're a giant, like the
+[00:01:26 -> 00:01:32]  Hulk, topical. You've got it, you broke it, stretched it out, and then you found the length
+[00:01:32 -> 00:01:39]  of it, okay? Now, to find the perimeter, you could add up this width plus this length plus
+[00:01:39 -> 00:01:45]  this width plus this length, okay? But we could also use something called a formula.
+[00:01:45 -> 00:01:50]  Now, we are having two lengths, so what's a shortcut for saying you're going to add
+[00:01:50 -> 00:01:58]  up two lengths together? Lengths together. Two times the length. That would find the
+[00:01:58 -> 00:02:05]  measure of this and this, right? Now, what would I do to find my two widths? We know
+[00:02:05 -> 00:02:09]  these are going to be the same length, so I could just do two times the width. Now,
+[00:02:09 -> 00:02:16]  what am I going to do with those numbers and those numbers to find the total number? I'm
+[00:02:16 -> 00:02:22]  going to add those two together, and that's going to equal my perimeter, okay? So, right
+[00:02:22 -> 00:02:29]  here, we've got the formula for the perimeter of a rectangle, okay? This is a formula. As
+[00:02:29 -> 00:02:32]  you go through all your secondary math classes and probably some of your math classes you've
+[00:02:32 -> 00:02:38]  already had, you're going to see a lot of formulas, okay? Some will be attached to shapes,
+[00:02:38 -> 00:02:41]  like when you do a lot of geometry stuff. Some are just going to be formulas. Two x
+[00:02:41 -> 00:02:47]  plus three equals 12. It's a formula, okay? Formulas are things you use to find an answer.
+[00:02:47 -> 00:02:51]  Most often, you'll use formulas with relation to something real, okay? Something that's
+[00:02:51 -> 00:02:56]  like doing a word problem or something that's working something out for you, okay? So, that's
+[00:02:56 -> 00:03:00]  a formula. Okay, so you know what a formula is. Let's use our example formula, which is
+[00:03:00 -> 00:03:04]  the perimeter of a rectangle, and let's solve a couple easy ones, okay? Let's say we've
+[00:03:04 -> 00:03:11]  got, let's say we want to find the perimeter and area of each rectangle, okay? We'll start
+[00:03:12 -> 00:03:16]  with the perimeter because that's the formula I've given you. All right, let's say this
+[00:03:16 -> 00:03:23]  is seven inches, and this is 15 inches, okay? Not too bad. All right, let's say I want to
+[00:03:26 -> 00:03:32]  find the perimeter, okay? We use our formula to find the perimeter. I know this measure
+[00:03:32 -> 00:03:39]  right here is my width. I know this measure right here is my length. So, what I do in
+[00:03:39 -> 00:03:45]  a formula is I take those numbers, and I replace them with wherever that letter is. So, for
+[00:03:45 -> 00:03:50]  instance, in this formula, because I know I'm finding the perimeter, I use this formula.
+[00:03:50 -> 00:03:56]  For length, I'll use the 15 because what this is saying is essentially that 15 is the exact
+[00:03:56 -> 00:04:00]  same as the length. It's like when you go to the store, and they've got something, like
+[00:04:00 -> 00:04:04]  say there's no tax, and say they've got a really sweet hat, okay? And you're like, I
+[00:04:04 -> 00:04:11]  love that hat, okay? Say it's 20 bucks. The $20 bill is equal to the hat. You can substitute
+[00:04:13 -> 00:04:20]  them $20 for that hat because that's what it's equal to. In this formula, that length
+[00:04:20 -> 00:04:24]  is equal to 15. So, therefore, in my formula, I'm going to bring it all down here. We've
+[00:04:24 -> 00:04:31]  got 2, it still stays the same, times our length, which is 15, plus sine 2, times our
+[00:04:34 -> 00:04:41]  width, which we said is 7, equals my perimeter. Now, I just step-by-step solve my equation.
+[00:04:44 -> 00:04:51]  2 times 15 is 30, plus 2 times 7 is 14, equals P. Add those two together, 44 equals my perimeter.
+[00:04:52 -> 00:04:58]  Now, if they're a stickler for the rules, they'll say, what's the measurement? That's
+[00:04:58 -> 00:05:02]  how all people who are sticklers sound, okay? What's the measurement? Are you measuring
+[00:05:02 -> 00:05:09]  in feet, or miles, or universes? Tell me that. Well, first off, you talk like a weirdo. Second
+[00:05:09 -> 00:05:16]  off, we know it's inches. We know that whenever we multiply it, it's going to be still inches,
+[00:05:16 -> 00:05:23]  okay? 44 inches, that's the measure of that. So, we found the perimeter using the formula.
+[00:05:24 -> 00:05:29]  Using that formula, we found the perimeter, okay? Found what the distance is all the way
+[00:05:29 -> 00:05:36]  around it. Let's say we want to find the area. Area is all the stuff inside there, okay?
+[00:05:36 -> 00:05:40]  You're going to see area whenever you talk about, when you buy a house. They're going
+[00:05:40 -> 00:05:45]  to say, well, how many square feet is the house, lovey? First off, you sound pretty
+[00:05:45 -> 00:05:50]  cool, like Mr. Howell, Gilligan's Island. You have no idea what I'm talking about, okay?
+[00:05:50 -> 00:05:55]  So, when you find the area, the square foot of your house, that's how wide it is. Not
+[00:05:55 -> 00:06:01]  wide, but length and width. It's the total measurement of the inside of the house, okay?
+[00:06:01 -> 00:06:07]  So you're finding how big it is, not the measurement around it, because you could have a, oh, it's
+[00:06:07 -> 00:06:11]  the perimeter of our house is 200 feet. Well, it could be a straight line. You could just
+[00:06:11 -> 00:06:15]  be walking through a hallway, okay? With area, you can see all that. Well, I guess
+[00:06:15 -> 00:06:20]  it could still be the same thing, but area's better for square footage, okay? If you don't
+[00:06:20 -> 00:06:24]  understand what I'm talking about, talk to your mom, okay, or your dad. I have no idea
+[00:06:24 -> 00:06:29]  what they're talking about. All right, so the formula for area, as we're using formulas,
+[00:06:29 -> 00:06:35]  it is length times width equals your area, okay? All I do is plug in what I have for
+[00:06:35 -> 00:06:42]  length, which is 15 inches, times my width, which is 7 inches. All right, now we just
+[00:06:44 -> 00:06:51]  multiply. 7 times 15, which is 70, times 5, which is 105, and then when you do inches
+[00:06:51 -> 00:06:56]  times inches, you do the little thing called inches squared, because we don't know, we
+[00:06:56 -> 00:07:00]  don't want to put in what inches it is. We want to put inch squared, because it gives
+[00:07:00 -> 00:07:06]  us our form of measurement. Equals area. First off, it's probably a pretty small backyard
+[00:07:06 -> 00:07:10]  if that's what we're talking about. I like to think we're talking about a gold bar. It's
+[00:07:10 -> 00:07:17]  a flat gold bar, but that's it. So, you found the area using formulas. Now, what I want
+[00:07:17 -> 00:07:21]  to talk to you about is a little bit more advanced version of using formulas, okay?
+[00:07:21 -> 00:07:27]  Before when we did the perimeter of a rectangle, or the area of a rectangle, they gave us the
+[00:07:27 -> 00:07:30]  length, they gave us the width, we plugged them in, we found our answer, okay? It's a
+[00:07:30 -> 00:07:34]  standard math problem. Put in the numbers, find your answer. Now, what I want to look
+[00:07:34 -> 00:07:41]  at is how to break down a formula when you're not given the perfect cookie cutter numbers
+[00:07:41 -> 00:07:48]  and things and such of that. So, let's say we've got a formula that is 4x equals, ah,
+[00:07:49 -> 00:07:56]  this is worse. Let's say we're doing a formula for area. Scratch what you just saw. I did
+[00:08:00 -> 00:08:04]  not mess up. Call your mom, tell her, hey, he didn't mess up. She's going to be like,
+[00:08:04 -> 00:08:11]  who's he? I'm going to be like, not me. Okay, so, looking at this, let's do area equals
+[00:08:12 -> 00:08:19]  length times width, okay? Now, let's say we want to find the missing measure of this,
+[00:08:19 -> 00:08:24]  okay? All right? On the ones we did earlier, the easier ones, they gave us the length,
+[00:08:24 -> 00:08:29]  they gave us the width, we found the answer, okay? We found A given L and W. Now, let's
+[00:08:29 -> 00:08:33]  try it where we don't have something that sweet and nice. Let's say we know the area
+[00:08:33 -> 00:08:40]  is 16, we know the length is 2, what's the width? I don't know. What's the width?
+[00:08:42 -> 00:08:47]  Fun fact, that's also what your face looks like if you don't pick a picture on Facebook.
+[00:08:47 -> 00:08:54]  So, that's on you. Okay, so, here's my phrase, and if anyone tries to tell you this phrase
+[00:08:54 -> 00:09:00]  and they use a certain tone of voice, well, they're stealing. That's copyright infringement,
+[00:09:00 -> 00:09:07]  and identity theft is not a joke. I'm talking to you, mom. My mom. She stole my name and
+[00:09:07 -> 00:09:14]  gave it to me when I was born. Cool story. Okay, here's my phrase. Plug in what you know
+[00:09:14 -> 00:09:18]  to find what you don't know, okay? You got to get sassy at the end. Let's try it again.
+[00:09:18 -> 00:09:25]  Everybody together. You ready? Plug in what you know to find what you don't know. Don't
+[00:09:25 -> 00:09:32]  know. What you don't know. Plug in what you know to find what you don't know. Keep everything
+[00:09:32 -> 00:09:37]  in order. We're going down. Here we go. Plug in what we know. We know A is 16. Instead
+[00:09:37 -> 00:09:44]  of A, I'm putting 16. What else do I know? L. Instead of L, I'm putting the number 2.
+[00:09:44 -> 00:09:51]  Not a Z. It's 2, okay? Ms. McDonald, don't you correct how I write my 2, okay? W, do
+[00:09:52 -> 00:09:59]  we know it? No. That's our formula, okay? Now, let's say a lot of times when they do
+[00:09:59 -> 00:10:04]  this, they're not just going to want you to do this. No. They're pretty high maintenance.
+[00:10:04 -> 00:10:07]  They make you go a little further. What they want you to do is they want you to get that
+[00:10:07 -> 00:10:13]  W by itself, okay? All we do to do that is we do our simple math. What's the opposite
+[00:10:13 -> 00:10:19]  of 2 times W? We use division, so we divide our 2 to get rid of it. That cancels out.
+[00:10:19 -> 00:10:22]  That's 8. That's W. I don't know if you've learned this yet because I think this comes
+[00:10:22 -> 00:10:27]  before this in algebra, but if you have, that's what you do. If not, stop there. I gave you
+[00:10:27 -> 00:10:32]  all the info you need, okay? Good stuff. All right, now I want to look at an advanced
+[00:10:32 -> 00:10:37]  version of using formulas, okay, as far as algebra 1 is concerned, all right? All right,
+[00:10:37 -> 00:10:42]  I don't know why I did that. I was wiping the crap off my head and pointing to you.
+[00:10:42 -> 00:10:48]  Sorry I said crap. Don't tell your teacher. Okay, so we're using formulas, okay? Using
+[00:10:48 -> 00:10:53]  I equals PRT, all right? This is a common formula. You'll see it a lot in real life
+[00:10:53 -> 00:11:00]  and in the classroom. I is your interest. P is your principal. R is your rate. T is
+[00:11:00 -> 00:11:04]  your time, okay? This is something you can do to find out how much interest you're going
+[00:11:04 -> 00:11:09]  to accrue or earn if you have a certain amount of money in the bank. You make a certain percentage
+[00:11:09 -> 00:11:14]  off that money over a certain amount of time. A common thing is a savings account or a CD.
+[00:11:14 -> 00:11:19]  Not the compact discs everybody bought a bunch for a really high price in the mid-2000s and
+[00:11:19 -> 00:11:24]  late 90s. A CD is something that's like a deposit that you can put money into a bank
+[00:11:24 -> 00:11:28]  and you say, I'm going to keep this money in here. Let's say you have, you know, 10
+[00:11:28 -> 00:11:31]  grand and you're like, I'm going to give the bank 10 grand and I'm going to keep it in
+[00:11:31 -> 00:11:34]  there and I'm not going to get any of that money out for five years. At the end of the
+[00:11:34 -> 00:11:38]  five years, they're going to give me a percentage of that money so you can actually make money
+[00:11:38 -> 00:11:44]  by just not spending your money, okay? It's weird, but banks like to have your money.
+[00:11:44 -> 00:11:49]  That's why their buildings are so nice. I'm talking to you, banks. Okay, I'm talking to
+[00:11:49 -> 00:11:54]  banks from Mighty Ducks. Remember him? He was really good at hockey. Okay, so interest
+[00:11:54 -> 00:11:58]  is the amount of money you're going to earn based on the principle, which is the amount
+[00:11:58 -> 00:12:03]  of money you put into the account or put into the savings thing. Rate is how much you're
+[00:12:03 -> 00:12:07]  making at, the percentage you're making off of what you put in, and then time is how long
+[00:12:07 -> 00:12:12]  it's in there, in years, usually in years, okay? So we're using formulas. We're going
+[00:12:12 -> 00:12:19]  to use this formula. I've got some information here. What do I not have? T, that's correct.
+[00:12:20 -> 00:12:25]  My T I don't have, that's what we got to find out. We want to find out how much time do
+[00:12:25 -> 00:12:30]  we have to have our principle in there before we can earn this much money, okay? So let's
+[00:12:30 -> 00:12:37]  find out. Remember my phrase? Plug in what you know to find what you don't know. People
+[00:12:38 -> 00:12:43]  be calling. Probably the president or my friend Nate. I'm not telling you which one, okay?
+[00:12:43 -> 00:12:46]  If you want to see videos of Nate and Tyler, go to TylerTarver.com or just Google Nate
+[00:12:46 -> 00:12:52]  and Tyler Tarver and you'll find it, whatever. Okay, anyways, here we go. So let's plug in
+[00:12:52 -> 00:12:57]  our stuff, plug in what you know to find what you don't know. What do we know? Principle.
+[00:12:57 -> 00:13:02]  We know the rate. We know the interest, and we don't know the time. So plug in what you
+[00:13:02 -> 00:13:08]  know to find what you don't know. Don't know. Okay, interest. How much money do we not want
+[00:13:08 -> 00:13:14]  to know how to earn? Forty-two bucks, okay? Plug it in for I, bring everything straight
+[00:13:14 -> 00:13:19]  down. Bring down your equal sign. Bring down everything. That's how you do math, okay?
+[00:13:19 -> 00:13:26]  Principle, 350 bucks. Let's say I have 350 bucks. That's how much I can put into my account.
+[00:13:27 -> 00:13:32]  I want to know how long do I have to keep 350 bucks in the bank's hands before they're
+[00:13:32 -> 00:13:37]  going to give me 42 bucks for it. Let's find out. Rate, 6%. Now, you don't want to put
+[00:13:37 -> 00:13:42]  6% in. This is probably the most complicated part. You don't want to put 6% in. You want
+[00:13:42 -> 00:13:47]  to turn that into a real number, a decimal, okay? To do that, you move the decimal over
+[00:13:47 -> 00:13:53]  twice. Decimal's right here. We go one, two. That would be .06. So we multiply that by
+[00:13:53 -> 00:13:59]  .06, and then we multiply it by our time, which is, we don't know our time. So there
+[00:13:59 -> 00:14:06]  we go. So now, we take out our calculators, which mine looks a lot like a cell phone because
+[00:14:06 -> 00:14:13]  it is a cell phone. We need to simplify this and get T by itself. We've got to get this
+[00:14:14 -> 00:14:18]  formula to where the T is by itself instead of the I being by itself, so we know how much
+[00:14:18 -> 00:14:25]  time we have to put this in here to have it, to find out how much, words, right? How much
+[00:14:26 -> 00:14:32]  time do we have to put our 350 bucks in there at 6% interest to get 42 bucks out of it,
+[00:14:32 -> 00:14:39]  okay? Let's find out. I'm going to do 350 times .06, and it's 21, times T, okay? Times
+[00:14:42 -> 00:14:48]  T. That's better. All right? Now, last step, it's being multiplied, so to get rid of 21,
+[00:14:48 -> 00:14:55]  I do the opposite, which is divide. That goes away, and then 42 divided by 21 is 2. So our
+[00:14:55 -> 00:15:02]  time is 2 years. So we plugged in what we knew to find what we don't know, okay? So
+[00:15:05 -> 00:15:09]  a good thing to do when you're working with formulas, sit back, look at your problem,
+[00:15:09 -> 00:15:16]  and figure out what you just figured out, okay? So look at this formula. I know that
+[00:15:16 -> 00:15:23]  it's going to take me 2 years, okay? 2 years to do what? Well, it means if I have 350 bucks,
+[00:15:23 -> 00:15:28]  and I put it in the bank at 6% interest, I want to know how long it's going to take me
+[00:15:28 -> 00:15:34]  to earn 42 bucks. I need $42 exactly to take out this hot shit from second period. What's
+[00:15:34 -> 00:15:39]  up, girl? You know who you are, all right? To make that 42 bucks, I have to keep that
+[00:15:39 -> 00:15:46]  in the bank for 2 years to get that, okay? So that's pretty much it. That's how you do
+[00:15:46 -> 00:15:51]  it. That's how you use formulas. Holla at your boyfriend. Tyler Tarver, TylerTarver.com,
+[00:15:51 -> 00:15:58]  at Tyler Tarver on stuff. Subscribe. Bye.

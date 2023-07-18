@@ -1,0 +1,132 @@
+[00:00:00 -> 00:00:02]  Hallo und Willkommen zu Projekte leicht gemacht.
+[00:00:02 -> 00:00:07]  In dieser Folge geht es um die Frage, was kann ich gegen Risiken tun?
+[00:00:07 -> 00:00:11]  Risiken identifizieren, Risiken bewerten, ist ja alles schön und gut.
+[00:00:11 -> 00:00:16]  Aber wenn Sie nichts gegen die Risiken unternehmen, dann können Sie sich den Rest auch sparen.
+[00:00:16 -> 00:00:19]  Also, Maßnahmen müssen her.
+[00:00:19 -> 00:00:25]  Und zwar am besten solche, die vorbeugend das Risiko minimieren, oder?
+[00:00:25 -> 00:00:28]  Nein, laufen Sie hier nicht in die Falle.
+[00:00:28 -> 00:00:33]  Sie wollen wissen, warum präventive Maßnahmen eben nicht immer die besten sind?
+[00:00:33 -> 00:00:35]  Dann bleiben Sie dran, gleich geht's los.
+[00:00:46 -> 00:00:51]  Also, Sie haben nach bestem Wissen und Gewissen eine Menge Risiken identifiziert.
+[00:00:51 -> 00:00:55]  Sie haben diese bewertet, also die Eintrittswahrscheinlichkeit und die Tragweite geschätzt.
+[00:00:55 -> 00:00:57]  Und daraus den Risikowert berechnet.
+[00:00:57 -> 00:01:03]  Ich erinnere kurz dran, dazu gibt es ein eigenes Video.
+[00:01:03 -> 00:01:09]  Vielleicht haben Sie darauf basierend sogar für die einzelnen Risiken Strategien festgelegt.
+[00:01:09 -> 00:01:12]  Vermeiden, reduzieren und so weiter.
+[00:01:12 -> 00:01:15]  Auch dazu gibt es ein eigenes Video.
+[00:01:15 -> 00:01:21]  Tja, dann wird es jetzt wohl Zeit, sich endlich über Maßnahmen Gedanken zu machen.
+[00:01:21 -> 00:01:25]  Was wollen Sie konkret gegen die Risiken tun?
+[00:01:25 -> 00:01:30]  Manch einer denkt sich jetzt wohl, endlich geht's los, wird ja auch Zeit.
+[00:01:30 -> 00:01:35]  Also, wir reden jetzt über die Risiken, die Sie reduzieren wollen.
+[00:01:35 -> 00:01:36]  Was können Sie da tun?
+[00:01:36 -> 00:01:42]  Na, schauen wir mal auf die Kette aus Ursache des Risikos, dem Risiko selbst
+[00:01:42 -> 00:01:47]  und der Auswirkung des Risikos, wenn es dann eintritt, also dem möglichen Schaden.
+[00:01:47 -> 00:01:51]  Zu den drei Begriffen, da gab es ja auch schon ein Video.
+[00:01:51 -> 00:01:57]  Nehmen wir mal zum Beispiel das Risiko, dass eine Produktionsanlage ausfällt.
+[00:01:57 -> 00:02:03]  Die Ursache, das ist, dass die Maschine einfach schon verdammt alt ist.
+[00:02:03 -> 00:02:07]  Das Risiko ist, dass deswegen die Maschine ausfallen kann.
+[00:02:07 -> 00:02:13]  Und die Auswirkung, das ist zum Beispiel eine Reparatur inklusive Ersatzteilbestellung
+[00:02:13 -> 00:02:15]  und das kann zum Beispiel eine Woche dauern.
+[00:02:15 -> 00:02:20]  Das bedeutet eine Woche Produktionsausfall und das kostet ordentlich.
+[00:02:20 -> 00:02:24]  Was können Sie da jetzt nun tun?
+[00:02:24 -> 00:02:30]  Na, Sie müssen sich jetzt entscheiden, wo in der Kette Sie ansetzen wollen.
+[00:02:30 -> 00:02:34]  Bei der Ursache oder bei den Auswirkungen?
+[00:02:34 -> 00:02:39]  Wollen Sie vorbeugend was tun, also die Eintrittswahrscheinlichkeit des Risikos senken,
+[00:02:39 -> 00:02:42]  dann müssen Sie was gegen die Ursache machen.
+[00:02:42 -> 00:02:46]  Ersetzen Sie die alte Maschine durch eine nagelneue.
+[00:02:46 -> 00:02:50]  Die neue, die wird ja wohl eine ganze Weile halten, oder?
+[00:02:50 -> 00:02:53]  Aber das ist nicht alles.
+[00:02:53 -> 00:02:59]  Sie können auch weiter mit dem Risiko leben und stattdessen was gegen die Auswirkungen tun.
+[00:02:59 -> 00:03:04]  Wenn Sie zum Beispiel wissen, dass es immer ein bestimmtes Teil ist, was an der Maschine kaputt geht,
+[00:03:04 -> 00:03:09]  na, dann können Sie das ja vorab bestellen und sich auf Lager legen.
+[00:03:09 -> 00:03:15]  Wenn dann die Maschine irgendwann ausfällt, dann können Sie sofort das Teil austauschen
+[00:03:15 -> 00:03:20]  und der Produktionsausfall ist vielleicht nur noch ein halber Tag statt einer ganzen Woche.
+[00:03:20 -> 00:03:22]  Gar nicht so blöd, oder?
+[00:03:22 -> 00:03:28]  Also, man unterscheidet zwischen präventiven Maßnahmen, die bei den Ursachen ansetzen,
+[00:03:28 -> 00:03:31]  also die Eintrittswahrscheinlichkeit des Risikos reduzieren,
+[00:03:31 -> 00:03:39]  und Korrektiven, die die Auswirkungen, also den Schaden, die Tragweite, reduzieren.
+[00:03:39 -> 00:03:42]  Man kann sich das auch mal schnell im Risikobortfolio anschaulich machen.
+[00:03:42 -> 00:03:46]  Da trägt man auf der einen Achse die Eintrittswahrscheinlichkeit ein
+[00:03:46 -> 00:03:50]  und auf der anderen die Tragweite in Geldwert.
+[00:03:50 -> 00:03:55]  Eine präventive Maßnahme schiebt also ein Risiko nach links.
+[00:03:55 -> 00:03:58]  Die Eintrittswahrscheinlichkeit wird kleiner.
+[00:03:58 -> 00:04:03]  Korrektiv hingegen schieben wir in diesem Portfolio nach unten.
+[00:04:03 -> 00:04:10]  Der Schaden, wenn das Risiko eintritt, der ist mit der Maßnahme geringer als ohne die Maßnahme.
+[00:04:10 -> 00:04:12]  Und jetzt kommt die große Frage.
+[00:04:12 -> 00:04:16]  Was von beiden ist besser?
+[00:04:16 -> 00:04:21]  Ist es nicht immer besser vorzubeugen, präventiv die Katastrophe zu verhindern, bevor sie eintritt?
+[00:04:21 -> 00:04:25]  Das machen wir beim Zahnarzt ja genauso.
+[00:04:25 -> 00:04:30]  Ich bin mir sehr, sehr sicher, die meisten von uns wollen jetzt ganz intuitiv sagen,
+[00:04:30 -> 00:04:35]  ja klar, man muss das Übel an der Wurzel packen.
+[00:04:35 -> 00:04:40]  Da sage ich nur, nur zu, wenn sie sich das leisten können, gern.
+[00:04:40 -> 00:04:44]  Aber so eine neue Produktionsmaschine, die kostet mächtig.
+[00:04:44 -> 00:04:47]  Das muss Ihnen klar sein.
+[00:04:47 -> 00:04:50]  Nein, machen Sie hier keine Dummheiten.
+[00:04:50 -> 00:04:54]  Laufen Sie nicht in die Perfektionsfalle.
+[00:04:54 -> 00:04:57]  Versuchen Sie nicht, alle Risikoursachen auszuräumen, egal was es kostet.
+[00:04:57 -> 00:05:00]  Das wäre ziemlich dumm.
+[00:05:00 -> 00:05:04]  Bevor Sie sich entscheiden, schauen Sie also auf die Kosten Ihrer Maßnahmen.
+[00:05:04 -> 00:05:09]  Und vergleichen Sie die mit dem möglichen Schaden und dem Risikowert.
+[00:05:09 -> 00:05:13]  Schreiben Sie es sich in eine Tabelle wie hier.
+[00:05:13 -> 00:05:18]  Also, das Risiko ist der Ausfall der Produktionsmaschine.
+[00:05:18 -> 00:05:22]  Die Eintrittswahrscheinlichkeit haben wir auf 10% geschätzt.
+[00:05:22 -> 00:05:23]  Ziemlich hoch.
+[00:05:23 -> 00:05:28]  Das ist offenbar ein echtes, ein reales Risiko.
+[00:05:28 -> 00:05:36]  Die Tragweite, also der finanzielle Schaden, wenn es dazu kommt, 50.000 Euro.
+[00:05:36 -> 00:05:40]  Das sind die entgangenen Umsätze, Reparaturkosten und so weiter.
+[00:05:40 -> 00:05:45]  Macht ein Risikowert von 5.000. Einfache Multiplikation.
+[00:05:45 -> 00:05:50]  10% mal 50.000.
+[00:05:50 -> 00:05:53]  Wenn wir jetzt präventiv die Maschine austauschen,
+[00:05:53 -> 00:05:58]  dann reduziert das die Eintrittswahrscheinlichkeit vielleicht auf 1%.
+[00:05:58 -> 00:06:00]  Die Tragweite bleibt aber gleich.
+[00:06:00 -> 00:06:03]  Klar, wenn es doch kaputt geht, spielt es ja keine Rolle,
+[00:06:03 -> 00:06:06]  ob die Maschine alt ist oder ob sie neu ist.
+[00:06:06 -> 00:06:10]  Kaputt ist kaputt und der Schaden ist der gleiche.
+[00:06:10 -> 00:06:12]  Daraus folgt jetzt ein neuer Risikowert.
+[00:06:12 -> 00:06:18]  Der Risikowert 2 von nur noch 0,5.000 Euro.
+[00:06:18 -> 00:06:20]  Aber jetzt kommt's.
+[00:06:20 -> 00:06:26]  Die präventive Maßnahme, die kostet stolze 70.000 Euro.
+[00:06:26 -> 00:06:29]  So teuer ist die neue Maschine.
+[00:06:29 -> 00:06:35]  70.000 Euro, das ist nicht nur eine Größenordnung über dem ursprünglichen Risikowert.
+[00:06:35 -> 00:06:41]  Nein, das ist sogar noch mehr als der mögliche Schaden von 50.000 Euro.
+[00:06:41 -> 00:06:44]  Das wirkt nicht sinnvoll.
+[00:06:44 -> 00:06:50]  Ja, darum schauen wir jetzt alternativ mal auf die korrektive Maßnahme.
+[00:06:50 -> 00:06:53]  Wenn Sie sich das Ersatzteil auf Lager legen,
+[00:06:53 -> 00:06:56]  dann ändert das nichts an der Ausfallwahrscheinlichkeit.
+[00:06:56 -> 00:07:00]  Die Eintrittswahrscheinlichkeit bleibt also bei 10%.
+[00:07:00 -> 00:07:05]  Die Tragweite, also der finanzielle Schaden, wenn es dazu kommt,
+[00:07:05 -> 00:07:08]  na, nur noch 5.000 Euro.
+[00:07:08 -> 00:07:12]  Das Ding ist jetzt fix repariert. Kaum Ausfallzeit.
+[00:07:12 -> 00:07:18]  Macht einen neuen Risikowert von ebenfalls nur noch 0,5.
+[00:07:18 -> 00:07:22]  Exakt wie bei der präventiven Maßnahme.
+[00:07:22 -> 00:07:24]  Doch jetzt kommt's.
+[00:07:24 -> 00:07:28]  Das Ersatzteil vorab für den Fall der Fälle aufs Lager zu legen,
+[00:07:28 -> 00:07:32]  das kostet nur läppische 1.000 Euro.
+[00:07:32 -> 00:07:35]  Das waren 70.000 für die neue Maschine.
+[00:07:35 -> 00:07:40]  Das sind die 1.000 Euro je ein Schnäppchen verglichen.
+[00:07:40 -> 00:07:45]  Also, ich würde mich hier wohl ganz klar für die korrektive Maßnahme entscheiden.
+[00:07:45 -> 00:07:49]  Das Ersatzteil vorab bestellen.
+[00:07:49 -> 00:07:56]  Okay, ich gebe zu. So eindeutig wie in diesem zugegebenermaßen konstruierten Beispiel.
+[00:07:56 -> 00:07:58]  Ich habe die Zahlen ja extra so gewählt.
+[00:07:58 -> 00:08:00]  So eindeutig ist das nicht immer.
+[00:08:00 -> 00:08:06]  Aber so ein Vergleich von vor der Maßnahme mit nach der Maßnahme,
+[00:08:06 -> 00:08:11]  das hilft dabei ein Gespür dafür zu bekommen, welche Maßnahmen sinnvoll sind
+[00:08:11 -> 00:08:13]  und welche vielleicht weniger.
+[00:08:13 -> 00:08:18]  Und welche vielleicht wirtschaftlich absolut unsinnig sind.
+[00:08:18 -> 00:08:21]  Oder zumindest fragwürdig sind.
+[00:08:21 -> 00:08:25]  Also, hören Sie nicht immer nur auf Ihren ersten Reflex.
+[00:08:25 -> 00:08:28]  Nicht immer alle Risiken im Vorfeld bekämpfen.
+[00:08:28 -> 00:08:33]  Manchmal sind korrektive Maßnahmen nämlich gar keine schlechte Wahl.
+[00:08:33 -> 00:08:37]  So, und das war's schon wieder für heute.
+[00:08:37 -> 00:08:40]  Wollen Sie noch mehr über Risikomanagement wissen?
+[00:08:40 -> 00:08:42]  Dann haben wir weitere spannende Videos zum Thema.
+[00:08:42 -> 00:08:45]  Die Links wie immer unterm Video.
+[00:08:45 -> 00:08:50]  Und wem das immer noch nicht reicht, für den haben wir auch ganze Online-Kurse in Projektmanagement.
+[00:08:50 -> 00:08:53]  Da lernen und üben Sie alles, was Sie im Projekt so brauchen.
+[00:08:53 -> 00:08:56]  Mit Videos, Texten, Aufgaben, Prüfungen.
+[00:08:56 -> 00:09:01]  Und wer es drauf hat, der bekommt von uns zum Schluss sogar noch ein Zertifikat zugeschickt.
+[00:09:01 -> 00:09:05]  Und ganz zum Schluss wie immer. Hat Ihnen das Video gefallen?
+[00:09:05 -> 00:09:07]  Dann geben Sie uns einen Daumen hoch.
+[00:09:07 -> 00:09:09]  Abonnieren Sie unseren Kanal.
+[00:09:09 -> 00:09:11]  Wir sehen uns wieder. Bleiben Sie dran.
+[00:09:15 -> 00:09:17]  Untertitel im Auftrag des ZDF für funk, 2017

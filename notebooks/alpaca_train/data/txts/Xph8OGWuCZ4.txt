@@ -1,0 +1,437 @@
+[00:00:00 -> 00:00:05]  This video is gonna be epic. Chock full of conversions, sculpting, custom stencils,
+[00:00:05 -> 00:00:11]  hacking up jigsaw blades, decals, oil washes, and yes, even painting. Grab some
+[00:00:11 -> 00:00:16]  popcorn at Dr. Pepper, sit back, and enjoy the show.
+[00:00:16 -> 00:00:31]  Commissions, the lifeblood of miniature painters heartily fund around the world.
+[00:00:31 -> 00:00:49]  It always begins with the best of intentions, but greed and naivety poison the well soon after.
+[00:01:01 -> 00:01:12]  How quickly the backlog grows with the dreams of others while reality sets in.
+[00:01:12 -> 00:01:27]  Time fades into oblivion, leaving nothing but regret and gloom.
+[00:01:27 -> 00:01:36]  But not all is lost. Hobbyists can find their strength, reclaim the trust they
+[00:01:36 -> 00:01:44]  once lost, like the fire of passion and motivation, once more and one by one, the
+[00:01:44 -> 00:01:47]  commissions are finished.
+[00:01:47 -> 00:02:05]  Freedom from the prison of guilt is in sight, but there is one more beast to slay.
+[00:02:05 -> 00:02:18]  Something still lurks in the closet of hobby shame. Something massive. Something evil.
+[00:02:36 -> 00:02:45]  A hulking metal construct with a corrupted spirit. A representation that humanity's finest
+[00:02:45 -> 00:02:52]  achievements can be tainted by chaos. A Renegade Knight.
+[00:02:55 -> 00:02:59]  Well, as the Scariett narrator lady said, today we're gonna be working on a
+[00:02:59 -> 00:03:03]  Renegade Knight. I'll be taking the standard kit and converting it. You might
+[00:03:03 -> 00:03:07]  ask why I'm doing this, given that a stock Renegade kit is available for
+[00:03:07 -> 00:03:10]  purchase, and the answer is that I took this commission when that kit didn't
+[00:03:10 -> 00:03:14]  exist. I'll let you do the math on that one. This is my last commission I have
+[00:03:14 -> 00:03:18]  remaining, so let's crush it.
+[00:03:24 -> 00:03:28]  So if you weren't aware, a knight is a very large model with many pieces.
+[00:03:28 -> 00:03:32]  Because of this, even a simple step like cleaning and assembling the model can
+[00:03:32 -> 00:03:36]  take a decently long time. Just like on smaller miniatures, we're clipping away
+[00:03:36 -> 00:03:41]  various parts off of the sprue, shaving away extra sprue bits, removing mold
+[00:03:41 -> 00:03:46]  lines, filling gaps, drilling holes in otherwise solid gun barrels, and gluing
+[00:03:46 -> 00:03:50]  together some parts with plastic glue. I've done each of these hobby steps in
+[00:03:50 -> 00:03:53]  many other videos, so if you'd like more context, I'll link some videos in the
+[00:03:53 -> 00:03:57]  description that go over these steps in more detail. I'll be keeping the majority
+[00:03:57 -> 00:04:01]  of this model in pieces, which will make painting it significantly easier. To
+[00:04:01 -> 00:04:05]  handle each of the individual pieces, I took a page out of the scale modeling
+[00:04:05 -> 00:04:09]  handbook and cut lengths of bamboo skewers, adhered each part to my
+[00:04:09 -> 00:04:13]  makeshift handle with poster tack, and then stabbed it into some kaizen foam.
+[00:04:13 -> 00:04:17]  Some comments about this. I'd probably prefer to use double-sided tape instead
+[00:04:17 -> 00:04:21]  of poster tack because I always hate dealing with it. It sometimes fails, can
+[00:04:21 -> 00:04:26]  be hard to remove from the part, it reacts with certain liquids, etc. Also, I
+[00:04:26 -> 00:04:29]  only use kaizen foam because that's what I had laying around. Normally, you'd see
+[00:04:29 -> 00:04:33]  scale modelers using a cat scratch board. Now, the person who commissioned this
+[00:04:33 -> 00:04:36]  model wanted me to magnetize the weapons so he could swap them out whenever he
+[00:04:36 -> 00:04:40]  fancied, so I had to do some magnetization. I tried a bunch of
+[00:04:40 -> 00:04:44]  different ideas to get this to work. I tried hiding the magnets inside the
+[00:04:44 -> 00:04:48]  weapons so you could slot them in and out. I tried backfilling the weapons with
+[00:04:48 -> 00:04:52]  little cute styrene discs so I could glue magnets in and then surround them
+[00:04:52 -> 00:04:56]  with epoxy sculpt, but in the end they were just too weak, causing the weapons
+[00:04:56 -> 00:05:00]  to droop, and also making me scared that at any point they could fall and
+[00:05:00 -> 00:05:04]  shatter into a million pieces. That probably wouldn't happen, but you never
+[00:05:04 -> 00:05:08]  know. What worked in the end was drilling a 10 millimeter hole in the arms and
+[00:05:08 -> 00:05:12]  gluing in a neodymium magnet flush with the surface that was also 10 millimeter.
+[00:05:12 -> 00:05:17]  Then, I cut off some of the arm bits and replaced them with a piece of brass and
+[00:05:17 -> 00:05:20]  a magnet glued together with super glue. Once painted, this just looks like
+[00:05:20 -> 00:05:23]  another robotic arm part and it's sufficiently strong to hold the weight
+[00:05:24 -> 00:05:27]  of the weapons. Of the various approaches that I tried, this was the simplest and
+[00:05:27 -> 00:05:32]  also the best. Side note, if you want to replicate my process entirely, make sure
+[00:05:32 -> 00:05:35]  your power goes out in the middle of the day, forcing you to be out in the sun
+[00:05:35 -> 00:05:42]  hobbying. Ah, I'm melting! Alright, that's all for assembly. Now, on to the conversions.
+[00:05:46 -> 00:05:50]  We'll start with the simpler conversions and get more complicated as we go along.
+[00:05:51 -> 00:05:54]  The guy who commissioned this wanted the model to have some bullet holes scattered
+[00:05:54 -> 00:05:58]  across the armor, so I took my Dremel and drilled some holes in the armor, making
+[00:05:58 -> 00:06:01]  sure to vary the size of the drill bit to simulate damage from different
+[00:06:01 -> 00:06:06]  projectiles. I then took my X-Acto knife and beveled the edges of some holes a
+[00:06:06 -> 00:06:10]  little bit, like a chunk of the armor was removed when the impact occurred. With
+[00:06:10 -> 00:06:15]  the same rotary tool, I used a bowl burr tip to create some rough surface texture
+[00:06:15 -> 00:06:19]  where maybe some weapons didn't punch all the way through the armor. Sometimes,
+[00:06:19 -> 00:06:23]  when doing this, little plastic shavings kind of gunk up all the conversions, and
+[00:06:23 -> 00:06:27]  I deal with that by just applying some Tamiya extra-thin plastic cement to the
+[00:06:27 -> 00:06:31]  shavings. It melts them right off, leaving a nice clean effect. This is a helpful
+[00:06:31 -> 00:06:35]  tip that I picked up from Plasmo, a great scale model YouTuber. I tried to be
+[00:06:35 -> 00:06:39]  reserved about how much of this weathering I did. This machine is old and
+[00:06:39 -> 00:06:43]  war-torn, but I didn't want it to dominate the entire model. Just like salt
+[00:06:43 -> 00:06:47]  in food, you got a season to taste. At several points, I was inspired by the
+[00:06:47 -> 00:06:51]  actual Renegade Knight kits. I made several conversions to match, like these
+[00:06:51 -> 00:06:55]  spiky triangles on the armor trim. With an X-Acto knife, I scuffed up the surface
+[00:06:55 -> 00:06:59]  where I had planned to add the little trim detail. This gave the surface some
+[00:06:59 -> 00:07:03]  tooth for the epoxy sculpt to adhere to, which I sculpted with various metal
+[00:07:03 -> 00:07:08]  tools and silicone shapers until I got a vaguely triangle-like shape. I made sure
+[00:07:08 -> 00:07:12]  this was vaguely flush with the surface, but also after it cured, I sanded it down
+[00:07:12 -> 00:07:17]  so it was nice and seamless. Still being inspired by the stock Renegade kit, I
+[00:07:17 -> 00:07:21]  also added a lot of pokey bits to the main hull, like this staff from my
+[00:07:21 -> 00:07:26]  Blackstone Fortress game, or various spears or track pins. I wanted a variety
+[00:07:26 -> 00:07:32]  of width and length. Alright, now on to the main weapons. For the big beady fist,
+[00:07:32 -> 00:07:36]  I wrapped two types of chains around the knuckles and secured them in place with
+[00:07:36 -> 00:07:39]  super glue thin, a technique that I'll show later with footage that doesn't
+[00:07:39 -> 00:07:43]  look like total trash. I also glued some little skulls onto the ends of the
+[00:07:43 -> 00:07:47]  chains, but again, this footage is pretty garbage. For the big buzzsaw blade, I was
+[00:07:47 -> 00:07:51]  inspired by another Renegade knight by Monstroys, who used an actual jigsaw
+[00:07:51 -> 00:07:55]  blade. I grabbed one of my used jigsaw blades and cut it down to size using a
+[00:07:55 -> 00:07:59]  metal cutting disc and my rotary tool. At first, I didn't really know how to
+[00:07:59 -> 00:08:02]  approach it, apparently. Off-camera, I also filed down the teeth of the blade
+[00:08:02 -> 00:08:07]  to make it dull, but not too dull, because I like my commissions to have some kind
+[00:08:07 -> 00:08:11]  of liability. Don't tell my wife that I said that. I then used styrene to create
+[00:08:11 -> 00:08:16]  a housing for it, complete with trim around the edges. I was trying to make it
+[00:08:16 -> 00:08:20]  fit in with the other saw in terms of design so it looked normal and like it
+[00:08:20 -> 00:08:24]  belonged. Once all the trim had been glued to the saw housing, I scraped and
+[00:08:24 -> 00:08:27]  sanded the trim so it meshed with the rest of my conversion, and that was the
+[00:08:27 -> 00:08:31]  saw weapon sorted. Sorted? British vocabulary is rubbing off on me after
+[00:08:31 -> 00:08:36]  watching four seasons of Love Island. I swear, it's my wife's idea. Taking a break
+[00:08:36 -> 00:08:39]  from weapons for a hot minute, let's make a robot loincloth. All the knights
+[00:08:39 -> 00:08:43]  have banners that hang very awkwardly in between their legs. All I'm reminded of
+[00:08:43 -> 00:08:48]  when seeing these banners are the AT-ATs on Hoth getting tripped up. I instead
+[00:08:48 -> 00:08:53]  added the banner, flag, loincloth, kilt, whatever it is, higher up on the model
+[00:08:53 -> 00:08:57]  around the waist. You know, like a normal person might do. I started by making the
+[00:08:57 -> 00:09:02]  holes around the waist larger so I could attach some chain to them. Normally, I
+[00:09:02 -> 00:09:05]  just super glue stuff like this in, but this time I actually pinched a chain
+[00:09:05 -> 00:09:10]  link closed around the hole so it made for a nicer, realistic connection. Before
+[00:09:10 -> 00:09:14]  closing off the other side, we need to thread the banner on this chain, and to
+[00:09:14 -> 00:09:18]  create that banner, I used brass shim stock. I sketched out the basic shape of
+[00:09:18 -> 00:09:23]  my banner with the Sharpie and cut it out using an X-Acto knife. I was
+[00:09:23 -> 00:09:26]  struggling with cutting out the corners of this banner, and a good solution to
+[00:09:26 -> 00:09:30]  deal with them was to drill out each corner with the Dremel first and then
+[00:09:30 -> 00:09:34]  connect the dots essentially with my X-Acto knife. The edges were pretty
+[00:09:34 -> 00:09:39]  jagged, so I cleaned it up with a file. Brass shim stock is super thin so I can
+[00:09:39 -> 00:09:42]  bend and curve the surface to my heart's content. It doesn't exactly look
+[00:09:42 -> 00:09:46]  perfectly like cloth, but once it's painted, it'll look great, and I'm sure I
+[00:09:46 -> 00:09:50]  have some skills to learn about dealing with this new material as well. With that
+[00:09:50 -> 00:09:53]  done and the holes drilled for the chains finished, I was able to thread the
+[00:09:53 -> 00:09:57]  banner on and fasten it to the other side. At the moment, the banner is all
+[00:09:57 -> 00:10:00]  floppy, and you can definitely keep it like that if you want, but I wanted to
+[00:10:00 -> 00:10:04]  fasten it in place, and I did that again with some super glue thin. Be sparing
+[00:10:04 -> 00:10:08]  with this stuff because it has a tendency to get everywhere, and I mean
+[00:10:08 -> 00:10:11]  everywhere.
+[00:10:14 -> 00:10:18]  All right, let's get even weirder. When this commission was sent to me, it was
+[00:10:18 -> 00:10:22]  also sent with some bits from the Forge Fiend kit for conversions. I wanted to
+[00:10:22 -> 00:10:26]  use the assault cannon looking thing, but it was a little dinky, so I grabbed some
+[00:10:26 -> 00:10:29]  hollow styrene rods that were similar in diameter and glued them to the weapon
+[00:10:29 -> 00:10:33]  with a larger diameter rod running through the middle. I trued up the ends
+[00:10:33 -> 00:10:37]  of these pipes with some gentle sanding once the glue was cured. Now, the part
+[00:10:37 -> 00:10:41]  that this thing would normally attach to has a gaping hole in it, so I busted out
+[00:10:41 -> 00:10:45]  my trusty circle cutter and cut a little styrene disc that fit nicely into the
+[00:10:45 -> 00:10:48]  hole. This gave me a surface that I could glue my weapon to. With that glued in
+[00:10:48 -> 00:10:53]  place, I took some guitar string, which makes for great to scale cables, and
+[00:10:53 -> 00:10:58]  attached them from the holes in the gun to the holes below the big shield of the
+[00:10:58 -> 00:11:02]  gun. Undoubtedly, this is also a weapon of some kind that I am clogging up with
+[00:11:02 -> 00:11:06]  cables, but it looks cool, so who cares? It's a little hard to bend guitar string
+[00:11:06 -> 00:11:10]  without getting a kink in it, so I try to only bend it over round surfaces, but
+[00:11:10 -> 00:11:14]  even that's not perfect. Next up, I sculpted a bit on the bottom of the gun
+[00:11:14 -> 00:11:17]  to make it look less like it was just awkwardly glued in place and more like
+[00:11:17 -> 00:11:21]  it was an actual fixture attached to the weapon. I used more of the metal
+[00:11:21 -> 00:11:26]  sculpting tools, color shapers, and plenty of water to get a nice finish. I also
+[00:11:26 -> 00:11:29]  sanded the part that I connected to the plastic kit to make sure it was nice and
+[00:11:29 -> 00:11:33]  seamless. To finish it off, I sanded a flat side on a skull and attached it to
+[00:11:33 -> 00:11:37]  the middle of the assault cannon, because it's a bad guy renegade night, you know,
+[00:11:37 -> 00:11:42]  chaos and stuff. Also, this massive hole in one side of the gun where I presume it
+[00:11:42 -> 00:11:46]  gets attached to a forge fiend, I just stuffed a bunch of epoxy sculpt in there
+[00:11:46 -> 00:11:51]  and a couple of skulls again because CHAOS. Does anyone pronounce it chouse?
+[00:11:51 -> 00:11:58]  Chouse. Sounds less chaos-y. Alright, on to the last bit of conversion, the
+[00:11:58 -> 00:12:02]  battle cannon. Using another bit from the forge fiend kit, I sawed it down to size.
+[00:12:02 -> 00:12:06]  I wanted the cannon to be coming out of the mouth of whatever demon weapon this
+[00:12:06 -> 00:12:11]  thing was, and I had some resizing to do. I had to widen the gap in the mouth, but
+[00:12:11 -> 00:12:15]  also the size of the cannon so that it matched the width of this mouth weapon
+[00:12:15 -> 00:12:19]  thing. After a lot of cutting and sanding, I was able to get a pretty nice fit that
+[00:12:19 -> 00:12:24]  I glued into place. Like the previous weapon, I glued in a piece of styrene
+[00:12:24 -> 00:12:28]  into the cavity in the big gun arm thing so I could actually attach it. Since the
+[00:12:28 -> 00:12:33]  end that would get attached was all gnarly because I sawed it in half, I pinned
+[00:12:33 -> 00:12:37]  it in with a piece of brass and some super glue. This gave me a nice sturdy
+[00:12:37 -> 00:12:41]  connection that I could now start sculpting on. Now, this clip is very old
+[00:12:41 -> 00:12:45]  and I have no idea why I was sculpting what I was sculpting, but that looks like
+[00:12:45 -> 00:12:49]  a wiener, does it not? Thank God I had some sense and instead just sculpted a
+[00:12:49 -> 00:12:53]  bunch of puffy looking flesh around it, almost like the engineers that added
+[00:12:53 -> 00:12:59]  this on had to keep it in place with some dark magic. Dark Willy magic,
+[00:12:59 -> 00:13:04]  apparently. The key to get a nice smooth finish is silicone color shapers and a
+[00:13:04 -> 00:13:08]  cruddy brush with some water in it, applying water liberally to the epoxy
+[00:13:08 -> 00:13:13]  sculpt. Lastly, I had to sculpt in some more gums and teeth so the fortress weapon
+[00:13:13 -> 00:13:17]  itself connected to the battle cannon. With that complete, that was the last bit
+[00:13:17 -> 00:13:22]  of conversion on this model. That process, in and of itself, took close to 50
+[00:13:22 -> 00:13:27]  hours. Let's see how long I courted this commission for.
+[00:13:33 -> 00:13:39]  Well, I messed up. Moving on. As one last bit of surface prep, I cleaned off the
+[00:13:39 -> 00:13:43]  model with a toothbrush and some soapy water. I manhandled the crap out of this
+[00:13:43 -> 00:13:47]  thing a lot, so I was looking to clean off any remaining finger oils, plastic
+[00:13:47 -> 00:13:51]  shavings, etc. Alright, we're about halfway through this now. Let's take a brief
+[00:13:51 -> 00:13:56]  break to thank the sponsor of this video. Cobalt Keep is a miniature accessory
+[00:13:56 -> 00:14:01]  brand. Their bread-and-butter focuses around the usage of magnets. Cobalt Keep
+[00:14:01 -> 00:14:04]  sells a variety of base sizes that you might find in typical games, but what's
+[00:14:04 -> 00:14:09]  special about these bases is the magnet well on the underside, which allows for
+[00:14:09 -> 00:14:13]  easy installation of a magnet with a little super glue. Now your minis are
+[00:14:13 -> 00:14:16]  able to stick to any metal surface, such as a figure case or Cobalt Keep's
+[00:14:16 -> 00:14:20]  painting handles that come in two different sizes, one a little larger than
+[00:14:20 -> 00:14:23]  the other for different hand sizes. The number of ideas that can take advantage
+[00:14:23 -> 00:14:27]  of magnets is endless, and a new product that Cobalt Keep is currently releasing
+[00:14:27 -> 00:14:31]  on Kickstarter are their stackable display cases. Coming in a variety of
+[00:14:31 -> 00:14:36]  sizes, you can display your heroes, entire units, and more inside these display
+[00:14:36 -> 00:14:40]  cases for transport, and also for showing off to friends and family. The stackable
+[00:14:40 -> 00:14:43]  display cases make storage easy, even if you have limited space. You can find
+[00:14:43 -> 00:14:47]  Kickstarter linked in the description below, and it's running until the end of
+[00:14:47 -> 00:14:51]  the day on November 1st. Check it out and take advantage of a hefty discount on
+[00:14:51 -> 00:14:54]  the products in the Kickstarter. Additionally, from now until the end of
+[00:14:54 -> 00:14:59]  October, you can get a 20% off discount on their web store when using the code
+[00:14:59 -> 00:15:04]  MOIST at checkout. That was not their idea. It was one of my patrons' ideas, and
+[00:15:04 -> 00:15:08]  I loved it. You can find all their stuff linked in the description below. Thanks
+[00:15:08 -> 00:15:12]  for sponsoring YouTubers Cobalt Keep. Now back to the video.
+[00:15:14 -> 00:15:20]  The first couple stages of painting are pretty straightforward. I applied a black
+[00:15:20 -> 00:15:24]  primer all over the model to improve paint adhesion, and then started applying
+[00:15:24 -> 00:15:29]  a silver base coat. I used Vallejo Metal Color Aluminum, a fairly bright silver,
+[00:15:29 -> 00:15:33]  because I plan to muddy it down quite a bit later on in the painting process. With
+[00:15:33 -> 00:15:37]  that done, I moved on to applying the first of the House Atraks colors, the
+[00:15:37 -> 00:15:41]  chosen chapter for this Renegade Knight. I applied the dark gray without doing
+[00:15:41 -> 00:15:45]  any masking for the silver. I figured that in certain areas it would just look
+[00:15:45 -> 00:15:49]  like greasy dust, and in other areas I could just paint the silver over it with
+[00:15:49 -> 00:15:53]  a paintbrush, and that'd be a lot faster than masking everything off
+[00:15:53 -> 00:15:57]  meticulously. With the base coat down, I applied layers of highlights, getting
+[00:15:57 -> 00:16:01]  brighter and brighter. I had to keep in mind that once I started to dirty this
+[00:16:01 -> 00:16:05]  thing up, it would likely get darker, so I need to shoot higher than what I want
+[00:16:05 -> 00:16:10]  my end result to be. Lastly, I applied a black shade with the airbrush. For the
+[00:16:10 -> 00:16:14]  panels that are large and flat, I simply did a gradient from top to bottom.
+[00:16:14 -> 00:16:18]  Sometimes having a nicely smooth blend on a model is cool enough. It doesn't
+[00:16:18 -> 00:16:22]  have to necessarily be realistic. On other parts that had more interesting
+[00:16:22 -> 00:16:27]  volumes, I did consider a zenithal lighting, like on the chest shield. You
+[00:16:27 -> 00:16:30]  don't necessarily need an airbrush to paint a knight, but to get blends like
+[00:16:30 -> 00:16:35]  this that span the entirety of the whole of the model, it can sure as heck make it
+[00:16:35 -> 00:16:39]  infinitely easier. I can't imagine trying to get this massive gradient with a
+[00:16:39 -> 00:16:42]  brush in under five hours. If you're watching this and you're like,
+[00:16:42 -> 00:16:47]  but Scott, I don't have an airbrush! That's totally okay. Just maybe don't go
+[00:16:47 -> 00:16:50]  for something as grandiose as a blend across each and every panel of this
+[00:16:50 -> 00:16:54]  monster. A base coat with some recessed shading and some edge highlighting looks
+[00:16:54 -> 00:16:58]  cool enough. After that was done, I did some masking to cover up half of the
+[00:16:58 -> 00:17:02]  shoulder pads and the chest shield, and did the red half of the armor, the other
+[00:17:02 -> 00:17:06]  House Atraks color. I did this in a very similar fashion, starting with a mid-tone,
+[00:17:06 -> 00:17:11]  applying two highlights, and then a shadow to finish it off. With the red
+[00:17:11 -> 00:17:17]  complete, I could peel the tape off for a very crispy reveal. Oof, that's nice. Well,
+[00:17:17 -> 00:17:20]  that was extremely satisfying. I suppose I should do something that is extremely
+[00:17:20 -> 00:17:24]  unsatisfying to balance it out. How about painting Golden Trim forever?
+[00:17:24 -> 00:17:29]  And ever, and ever, and ever.
+[00:17:29 -> 00:17:40]  Is this thing out? Oh my god! I've been base coating metallics for nine hours
+[00:17:40 -> 00:17:44]  straight. That took a long time. To finish up the base coating, I painted a copper
+[00:17:44 -> 00:17:49]  metal accent color on various bits and bobs around the model, and also painted
+[00:17:49 -> 00:17:52]  some yellow and gray cables around the model. There are other details that do
+[00:17:52 -> 00:17:56]  need to be painted, but I'll wrap those up in the end. For now, this is all the
+[00:17:56 -> 00:18:07]  major color down, and I can move on to a step that's very unfamiliar to me.
+[00:18:07 -> 00:18:11]  Something that I learned while painting this guy is that the knights have very
+[00:18:11 -> 00:18:16]  specific iconography on the majority of their armor panels. One could freehand
+[00:18:16 -> 00:18:22]  all of this, but that would take a long time, and as you remember, I instead used
+[00:18:22 -> 00:18:25]  decals, which were sent along with the knight, and that's gonna save a lot of
+[00:18:25 -> 00:18:29]  time. Applying decals to big surfaces like this isn't the most complicated
+[00:18:29 -> 00:18:33]  thing, so here's a quick tutorial. Cut out the decal that you need and moisten it
+[00:18:33 -> 00:18:36]  in water, and set it down for two to three minutes. Once you're nearing the
+[00:18:36 -> 00:18:40]  end of that time, prepare the surface of where the decal will be with some
+[00:18:40 -> 00:18:45]  Microset, a solvent designed to work with decals. While that's still wet, grab the
+[00:18:45 -> 00:18:48]  transfer paper with your decal on it, and slide it off using whatever tool is
+[00:18:48 -> 00:18:52]  comfortable to you. A great option is a paintbrush. At this point, you still have
+[00:18:52 -> 00:18:55]  a lot of adjustability to get it in the right spot. Sometimes the brush doesn't
+[00:18:55 -> 00:18:59]  cut it, and I like to have something a little bit harder, like an old airbrush
+[00:18:59 -> 00:19:04]  needle or tweezers. Once the placement is right, gently apply some Microsol to
+[00:19:04 -> 00:19:08]  the decal. This will soften the decal, helping it conform to the surface a lot
+[00:19:08 -> 00:19:13]  better. It's important to get the location correct before doing this, as it softens
+[00:19:13 -> 00:19:16]  the decal a lot, making it very difficult to adjust without getting wrinkles and
+[00:19:16 -> 00:19:20]  bubbles in it. This is a pretty good intro to decals for myself, because all
+[00:19:20 -> 00:19:24]  the surfaces are nice and large and fairly uniform, so I went a little crazy
+[00:19:24 -> 00:19:28]  applying decals all over the model. We'll deal with hiding the fact that these are
+[00:19:28 -> 00:19:32]  decals a little bit later. Okay, that's cool, but how about the specific House
+[00:19:32 -> 00:19:37]  Atrax iconography? I don't have decals for that. Well, I splurged a bit and bought
+[00:19:37 -> 00:19:39]  this machine.
+[00:19:40 -> 00:19:53]  This is a Cricut, and it is essentially an X-Acto blade attached to a CNC. I
+[00:19:53 -> 00:19:56]  created a design for the chapter in Adobe Illustrator and cut it out on the
+[00:19:56 -> 00:20:01]  Cricut using non-permanent vinyl stickers, and shockingly, it actually
+[00:20:01 -> 00:20:04]  worked out fantastically on the first try, which was not what I was expecting
+[00:20:04 -> 00:20:09]  at all. This tool is absolutely magical, and expect to see me using it in the
+[00:20:09 -> 00:20:13]  future, specifically for cutting thin styrene for terrain. It's gonna be
+[00:20:13 -> 00:20:17]  awesome. With the stencils cut out, I had one last bit of surface prep that I was
+[00:20:17 -> 00:20:20]  going to do, and that was adding some heavy chipping medium to the surfaces
+[00:20:20 -> 00:20:26]  where I plan on applying these icons. I wanted the icons to be worn and chipped,
+[00:20:26 -> 00:20:29]  but I also wanted to show the cool gradient I had worked on beneath where
+[00:20:29 -> 00:20:33]  the red and gray show through. After the armor was sufficiently masked off and my
+[00:20:33 -> 00:20:38]  stencils were on, I applied my white. I tried to go slowly and thinly so as not
+[00:20:38 -> 00:20:43]  to flood the surface. When I removed the mask, I was met with some pretty extreme
+[00:20:43 -> 00:20:47]  disappointment. I applied too heavy a layer of chipping medium, and the paint
+[00:20:47 -> 00:20:51]  adhered more to the vinyl than it did to the model. Luckily for me, this was going
+[00:20:51 -> 00:20:55]  to be chipped anyways, and with some white paint and a paintbrush, I could add
+[00:20:55 -> 00:20:59]  more of the sword back that I wanted. With that lesson learned, I applied a
+[00:20:59 -> 00:21:03]  diluted version of the chipping medium to the next shoulder pad and had a lot
+[00:21:03 -> 00:21:07]  more success. One nice side effect about having chipping medium down where I
+[00:21:07 -> 00:21:11]  wanted to apply these stencils was that I could essentially wipe away any spots
+[00:21:11 -> 00:21:15]  that were accidents, like it leaked past the masking with some brush and some
+[00:21:15 -> 00:21:20]  water. I tried it yet again without any chipping medium at all with a gear right
+[00:21:20 -> 00:21:24]  on top of the hole. This sort of stencil is incredibly helpful because painting
+[00:21:24 -> 00:21:28]  perfect circles is incredibly difficult without it looking super wonky. This
+[00:21:28 -> 00:21:32]  third attempt was crispy AF. If you're planning on doing this even with just
+[00:21:32 -> 00:21:35]  normal masks that you might buy from a third party, experiment with levels of
+[00:21:35 -> 00:21:41]  chipping medium that you apply, how long you wait for the medium to dry, etc. It
+[00:21:41 -> 00:21:45]  will all affect your end result. Lastly, I couldn't avoid freehand altogether.
+[00:21:45 -> 00:21:49]  Certain designs were too small for the Cricut to render, at least on my first
+[00:21:49 -> 00:21:53]  try, so instead of trying to troubleshoot it, I just resorted to freehanding a
+[00:21:53 -> 00:21:57]  little octopus lightning bolt guy instead. If you want a deep dive into
+[00:21:57 -> 00:22:00]  freehanding specifically, check out a video that I've linked in the top
+[00:22:00 -> 00:22:04]  right-hand corner and also the description. Alright, that finishes up all
+[00:22:04 -> 00:22:10]  the iconography on the knight. Now on to the super fun step, weathering.
+[00:22:14 -> 00:22:18]  Weathering is going to dirty up this model for us, but also provide us with
+[00:22:18 -> 00:22:22]  some much-needed depth. To start out, however, I painted some chips and some
+[00:22:22 -> 00:22:26]  dings on the decals and painted logos that I had just added to simulate a
+[00:22:26 -> 00:22:30]  chipping effect like I got on the shoulder pads. This will be our first
+[00:22:30 -> 00:22:34]  level of hiding the fact that these are decals. Next, it's time to pull out the
+[00:22:34 -> 00:22:38]  big guns. I've never messed around with oil washes before, but why not start on
+[00:22:38 -> 00:22:41]  the largest model I've ever painted and the last commission? Everything will be
+[00:22:41 -> 00:22:47]  just fine, right? Spoilers, everything is actually fine. Go figure. I started by
+[00:22:47 -> 00:22:52]  making a mixture of 2 to 1 black and brown oil paint, to which I added white
+[00:22:52 -> 00:22:56]  spirits. I don't entirely know what viscosity to shoot for, so I just mixed
+[00:22:56 -> 00:23:00]  up something that seemed thin enough to apply through an airbrush. You can
+[00:23:00 -> 00:23:04]  totally apply this with a paintbrush and it works amazingly, but I decided to use
+[00:23:04 -> 00:23:08]  an airbrush to expedite the process. Applying an even layer of this stuff
+[00:23:08 -> 00:23:13]  over a large surface is very quick with an airbrush, and here's a disclaimer. This
+[00:23:13 -> 00:23:17]  stuff is probably awful to breathe in. While I was doing this, I was wearing a
+[00:23:17 -> 00:23:22]  respirator, I had an air purifier running, and I had a fan running in an area
+[00:23:22 -> 00:23:27]  pointed at an open window. I hope that I appeased the YouTube health police with
+[00:23:27 -> 00:23:31]  this grand gesture of safety. Seriously though, this is not water-based acrylic
+[00:23:31 -> 00:23:35]  paint. You don't want to haphazardly spray it around. Once it was on and
+[00:23:35 -> 00:23:39]  looked like it was dry, I began to dab it up with some more white spirits and this
+[00:23:39 -> 00:23:44]  makeshift sponge on a stick tool, patent pending. In an episode of Trapped Under
+[00:23:44 -> 00:23:48]  Plastic, my co-host John let me know about these eye makeup sponge things
+[00:23:48 -> 00:23:51]  that are great for this operation, but I didn't have any, so I tried to make one,
+[00:23:51 -> 00:23:55]  and you know what? It worked out great. The sponge was moistened with white
+[00:23:55 -> 00:23:59]  spirits, not soaked in it. I mostly was swiping toward the recesses on the
+[00:23:59 -> 00:24:04]  model so the oil paint would collect there. After each part, I rinsed out the
+[00:24:04 -> 00:24:08]  little sponge in more white spirits and proceeded, and it lasted the entire time.
+[00:24:08 -> 00:24:12]  Good job, little sponge boy. You can remove as much or as little as you want,
+[00:24:12 -> 00:24:14]  depending on how weathered of an appearance you want. What I'm left with
+[00:24:14 -> 00:24:20]  is a crusty, dirty-looking machine. The technique worked perfectly to add the
+[00:24:20 -> 00:24:24]  depth that I needed while also giving the knight a whole layer of lovely grime. To
+[00:24:24 -> 00:24:28]  add more weathering, I applied straight-up brown oil paint to various
+[00:24:28 -> 00:24:33]  cracks and creases and then streaked it with a soft, non-wet brush to get these
+[00:24:33 -> 00:24:38]  nice drips. If you want more of a sharper drip line, you can use a brush wetted
+[00:24:38 -> 00:24:42]  with white spirits. Both options work, they just get you a different effect. With
+[00:24:42 -> 00:24:46]  that all done, I let it sit for a day, and then the following morning, I sprayed
+[00:24:46 -> 00:24:50]  the whole model with a matte varnish. You don't necessarily need to do this for
+[00:24:50 -> 00:24:56]  I wanted to as a final layer over my decals. With the chipping, the oil wash,
+[00:24:56 -> 00:25:01]  and the varnish, this nicely blends the decals into the surface. As a last bit of
+[00:25:01 -> 00:25:05]  weathering, it was time for some good old faithful chipping that I've shown off in
+[00:25:05 -> 00:25:09]  previous videos. In all the chips and dings that I added with my Dremel, I
+[00:25:09 -> 00:25:14]  painted on some black to represent a layer of primer showing beneath. Then,
+[00:25:14 -> 00:25:18]  with some silver paint, I painted inside that black to represent the metal of the
+[00:25:18 -> 00:25:22]  armor showing through. I probably should have done this before doing the oil
+[00:25:22 -> 00:25:26]  paint drips, but you know what? I forgot, and that's okay. With all the chips and
+[00:25:26 -> 00:25:30]  dings complete, I added a pinkish and light gray scratchy edge highlight to
+[00:25:30 -> 00:25:34]  most of the edges, and also the underside of all the black scrapes that I just
+[00:25:34 -> 00:25:38]  added. This not only shows off a lot of the cool paneling on the model, but it
+[00:25:38 -> 00:25:42]  also emphasizes the wear and tear. It also gives those little black chips a
+[00:25:42 -> 00:25:46]  3D feel to them, like light is hitting the bottom edge of them, making the
+[00:25:46 -> 00:25:50]  battle damage feel concave. Lastly, I applied some gold highlight to the trim
+[00:25:50 -> 00:25:54]  with a sponge, which can be a little tricky. Sometimes the sponge wanted to
+[00:25:54 -> 00:25:58]  wrap over the edge of the trim and hit the armor, which is obviously something
+[00:25:58 -> 00:26:02]  you want to avoid. This added a nice highlight to the gold, but in a spotty
+[00:26:02 -> 00:26:06]  weathered way. Bonus points because it was pretty easy to do as well. I actually
+[00:26:06 -> 00:26:09]  finished off the weathering portion of the night that gave us a lot of depth
+[00:26:09 -> 00:26:13]  and highlights. At school hall, we can essentially kill two birds with one
+[00:26:13 -> 00:26:17]  stone, adding grit and grime and contrast at the same time. Now let's
+[00:26:17 -> 00:26:21]  finish painting the model itself with a few extra parts.
+[00:26:27 -> 00:26:31]  We've laid a good groundwork for this model to look cool from the tabletop. Now
+[00:26:31 -> 00:26:35]  let's spice it up with some fun details. These are the kinds of choices that are
+[00:26:35 -> 00:26:38]  like little Easter legs for the paint job that people notice as they pick it
+[00:26:38 -> 00:26:42]  up and look at the model over. We'll start with the chest mounted turret. I
+[00:26:42 -> 00:26:46]  wanted to add some caution stripes to this. I think the idea works well because
+[00:26:46 -> 00:26:50]  it naturally incorporates our spot color, which is yellow, without just painting
+[00:26:50 -> 00:26:54]  the whole thing yellow. I began with a medium gray undercoat and started to
+[00:26:54 -> 00:26:58]  build up highlights toward the top and the bottom of this shape that flares out
+[00:26:58 -> 00:27:02]  toward the gun barrel. Then with a combination of yellows as my highlight
+[00:27:02 -> 00:27:07]  and oranges as my shadow, I sort of wet blend on top of these stripes. While the
+[00:27:07 -> 00:27:11]  undercoat process wasn't entirely necessary, it helps to reach opacity very
+[00:27:11 -> 00:27:15]  quickly with yellow and orange. Once I got the general look complete, I added in
+[00:27:15 -> 00:27:18]  some weathering by painting some black chips and dings. This is a great way to
+[00:27:18 -> 00:27:21]  hide any crimes we might have committed by going outside the lines with our
+[00:27:21 -> 00:27:26]  yellow or having the lines not even the right widths. After that, I moved on to
+[00:27:26 -> 00:27:30]  adding some grease to what seems like joints and pistons. Using Tamiya clear
+[00:27:30 -> 00:27:35]  orange, I apply little drips. This is like the fresh grease to what looks like dirt
+[00:27:35 -> 00:27:38]  and buildup that we got with our oil wash. Weathering is all about having nice
+[00:27:38 -> 00:27:43]  variety and a glossy finish for this is a nice contrast to our previous matte
+[00:27:43 -> 00:27:46]  attempts. For the fleshy connection that we sculpted earlier, I started with a
+[00:27:46 -> 00:27:51]  normal base coat and wash much like you'd paint any other skin tone. I then
+[00:27:51 -> 00:27:54]  started to highlight and this is where it got a little funky. I mixed in a very
+[00:27:54 -> 00:27:58]  light green so the skin tone looked slightly ill and then to ensure that no
+[00:27:58 -> 00:28:02]  one had any question about whether or not this skin was healthy, I also added
+[00:28:02 -> 00:28:06]  in some nasty yellow and green drips from the folds of the flesh. I also added
+[00:28:06 -> 00:28:11]  in some tiny glass nail art beads to simulate some kind of bubbling. Lastly, we
+[00:28:11 -> 00:28:15]  need to do some kind of freehand lettering. On a saw blade, there was some
+[00:28:15 -> 00:28:20]  small scroll work that I added the word vile to because, you know, chaos. On the
+[00:28:20 -> 00:28:23]  chest itself, however, I asked the Commissioner what he wanted because this
+[00:28:23 -> 00:28:26]  represented the name of the knight itself and he asked for the word
+[00:28:26 -> 00:28:30]  carnage. While that word is kind of long, it has one advantage and that is that
+[00:28:30 -> 00:28:34]  it's seven letters or an odd number. This means that I can place the N right in
+[00:28:34 -> 00:28:39]  the middle of the scroll and work out from there one letter at a time, making
+[00:28:39 -> 00:28:43]  sure that I size each letter correctly. This has the added benefit of not needing
+[00:28:43 -> 00:28:47]  to worry about filling the whole scroll. As long as it's centered, I'm pretty much
+[00:28:47 -> 00:28:51]  good to go. The black I'm using here is a mixture of black paint and black ink
+[00:28:51 -> 00:28:55]  which thins down the black paint nicely so it flows off the brush but also
+[00:28:55 -> 00:28:58]  doesn't reduce the opacity of the black as much as something like water might. I
+[00:28:58 -> 00:29:02]  just have a few more details I need to scrape together like these skulls, the
+[00:29:02 -> 00:29:06]  body I added to the shoulder pad, and some other things. The end is so close I
+[00:29:06 -> 00:29:09]  can feel it.
+[00:29:16 -> 00:29:21]  For such an epic model, we need an equally epic base. To represent the scale
+[00:29:21 -> 00:29:25]  and mass of this unit in-game, I wanted to depict the knight crushing a barrier.
+[00:29:25 -> 00:29:29]  I plotted out approximately where the barrier would go and I made sure that
+[00:29:29 -> 00:29:32]  the knight's foot would fit in the opening. I began to build up some
+[00:29:32 -> 00:29:36]  structure with square styrene stock and then with these supports I could start
+[00:29:36 -> 00:29:41]  to adhere sheets of brick texture to it. Since all these parts are plastic,
+[00:29:41 -> 00:29:44]  plastic glue will work to stick them all together. Before gluing on the brick
+[00:29:44 -> 00:29:48]  texture, I removed some bricks like they had popped out due to the strain of the
+[00:29:48 -> 00:29:52]  knight's foot. Next up, I added some more structure, this time attaching it to the
+[00:29:52 -> 00:29:57]  brick wall itself and this allowed me to add some cool metal styrene texture to
+[00:29:57 -> 00:30:01]  the top of my wall like a walkway. I distressed the edges of this with some
+[00:30:01 -> 00:30:05]  clippers and an exacto knife and then glued it down. With some rectangular
+[00:30:05 -> 00:30:09]  styrene stock, I scored a line down the center of it and widened that line with
+[00:30:09 -> 00:30:13]  a triangular file down the length and then this little groove allowed me to
+[00:30:13 -> 00:30:17]  glue it on top of the edge of the brick wall. This allowed me to kind of hide the
+[00:30:17 -> 00:30:21]  fact that these bricks were unrealistically skinny, but honestly it
+[00:30:21 -> 00:30:24]  doesn't really matter a ton because everyone's gonna be looking at the model
+[00:30:24 -> 00:30:28]  itself and details like these are kind of the cherry on top. With the main
+[00:30:28 -> 00:30:33]  structure done, I stuffed the insides with mostly tinfoil but also milliput on
+[00:30:33 -> 00:30:36]  the outside. While the putty was still curing, I was also able to stuff a bunch
+[00:30:36 -> 00:30:40]  of debris into it like cables, some of the walkway material, some resin bricks
+[00:30:40 -> 00:30:43]  that I have, and all sorts of rubble. It's important to mention that at multiple
+[00:30:43 -> 00:30:47]  points of working on this barrier, I always check to see if the knight's foot
+[00:30:47 -> 00:30:52]  still fit. With the wall squared away, I started to add some low points in the
+[00:30:52 -> 00:30:57]  base by cutting out holes again with the ball bur bit in my Dremel. This is
+[00:30:57 -> 00:31:01]  fairly messy but it gets the job done on a fairly thick material, whereas an
+[00:31:01 -> 00:31:06]  exacto would take a lot longer than I care to spend. After some basic cleaning
+[00:31:06 -> 00:31:10]  with some files and some blades, I could trace the perimeter onto some thin
+[00:31:10 -> 00:31:14]  styrene below and then adhere it to the bottom of my base with a snake of
+[00:31:14 -> 00:31:18]  milliput and some super glue. Then with some pressure, I could push the base flat
+[00:31:18 -> 00:31:23]  which causes the milliput to squeeze out and with a wetted finger, I can bevel
+[00:31:23 -> 00:31:28]  this squeeze out to make a nice slope into a shallow little pond. With the main
+[00:31:28 -> 00:31:32]  structure done, I could apply some dirt with some PVA glue all over the base, add
+[00:31:32 -> 00:31:37]  a few extra knickknacks like skulls, bricks, and larger rocks, and then seal it
+[00:31:37 -> 00:31:42]  all in place with some super glue thin. Now we're ready for some paint. I did end
+[00:31:42 -> 00:31:45]  up priming this because there are elements that are plastic and resin that
+[00:31:45 -> 00:31:50]  might benefit from it but it's not likely necessary. I started by applying a
+[00:31:50 -> 00:31:55]  nice rich brown color. I then built up a few orange colors on the base to cause a
+[00:31:55 -> 00:31:58]  vignetting effect toward the center of the base. This base was supposed to be a
+[00:31:58 -> 00:32:03]  desert which is why I chose these tones initially. I also specifically chose
+[00:32:03 -> 00:32:07]  scale 75 paints because it dries extra matte which helps enforce the idea this
+[00:32:07 -> 00:32:13]  is a arid sandy place. While I had the airbrush out, I started to base coat the
+[00:32:13 -> 00:32:17]  walls as well, not caring too much as some red remained on the bricks. I did
+[00:32:17 -> 00:32:20]  take some time to base coat some of the other details like the bricks and the
+[00:32:20 -> 00:32:24]  large rocks and the metal walkway. I applied a quick shade to some of the
+[00:32:24 -> 00:32:29]  rubble and the walkway to give them some depth. Lastly, for the little ponds, I
+[00:32:29 -> 00:32:32]  added some Mod Podge Dimensional Magic and a bit of black ink to create this
+[00:32:32 -> 00:32:37]  nasty Icarus spill to which I added some drops of Tamiya Clear Orange like a
+[00:32:37 -> 00:32:42]  little drop of grease and whatever this liquid is supposed to be. Not shown here
+[00:32:42 -> 00:32:45]  is me adding a bunch of desert vegetation and some dry pigments but
+[00:32:45 -> 00:32:49]  apparently I was too excited to glue everything together that I forgot to hit
+[00:32:49 -> 00:32:54]  record. So I guess this brings us finally to the end. Just kidding! I'm a dumbass
+[00:32:54 -> 00:32:58]  and did the chest freehand upside down!
+[00:32:59 -> 00:33:05]  Let me just quickly redo that and then we can get on to the epic b-roll.

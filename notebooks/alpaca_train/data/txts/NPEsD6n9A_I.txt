@@ -1,0 +1,64 @@
+[00:00:00 -> 00:00:07]  Hey guys, my name is Adam. I'm a Microsoft Azure MVP, but also I'm a senior cloud architect specializing in Azure.
+[00:00:07 -> 00:00:15]  This is my full course on Azure Fundamentals, the most important certificate whenever you're starting with Azure or cloud in general.
+[00:00:15 -> 00:00:17]  Stay tuned.
+[00:00:20 -> 00:00:28]  In this episode, I will cover the overview for the course and what is required in order to pass the exam and obtain the certification.
+[00:00:28 -> 00:00:33]  First of all, let's start with some basic information. The difficulty for the certification is beginner.
+[00:00:33 -> 00:00:44]  As such, it is not required for you to deep dive into any specific topic, because it will only cover the most basic information about each cloud concept and each cloud service.
+[00:00:44 -> 00:00:53]  This course is designed for people who are beginning their cloud journey or people who are moving from other cloud vendors and want to learn more about Azure and its offering.
+[00:00:53 -> 00:01:03]  And lastly, there are no prerequisites that are required for you to begin this course. Everything required for you will be covered as part of my materials.
+[00:01:03 -> 00:01:15]  When it comes to agenda, this course will cover four major sections, cloud concepts, core Azure services, security, privacy, compliance and trust, and lastly, Azure pricing and support.
+[00:01:15 -> 00:01:27]  Once you learn everything covered by those sections, you can take AZ-900 Microsoft Azure Fundamentals exam, and if you pass, you will obtain Microsoft-certified Azure Fundamentals certification.
+[00:01:27 -> 00:01:36]  Each section in this exam has a weight assigned. Weight is a percentage describing how many questions you will get from this specific section.
+[00:01:37 -> 00:01:45]  In this case, the weight distribution is about equal. That means every section is equally important. The bigger the section, the bigger the weight.
+[00:01:45 -> 00:01:51]  But overall, you will need to understand pretty much every single area in order to pass the exam.
+[00:01:51 -> 00:02:03]  Please notice the describe keyword here, because as part of this exam, you need to be able to both understand, but also understand well enough to be able to describe each specific topic covered by the exam.
+[00:02:03 -> 00:02:13]  One of the first thing you should do when preparing for this exam, you should go to Microsoft website and read high-level overview of Microsoft Azure Fundamentals certification,
+[00:02:13 -> 00:02:17]  which will allow you to understand what is the audience, but also what are the skills measured.
+[00:02:17 -> 00:02:26]  One of the things you should do is scroll down to find the skills measured section. Here you can find all the modules that I just described that will be tested during this exam.
+[00:02:27 -> 00:02:35]  But also at the bottom of this section, you can find a download exam skills outline button. When pressed, a new PDF extract will open.
+[00:02:35 -> 00:02:46]  This extract contains all the information about the exam and skills measured by the exam, containing audience profile, so who this exam is designed for, but also skills measured.
+[00:02:46 -> 00:02:56]  So this skills measured section will describe every section and subsection containing specific topics that are measured during the exam, like describe terms such as high availability.
+[00:02:56 -> 00:03:02]  In this case, you know exactly what will be tested and what will be required of you during the exam.
+[00:03:02 -> 00:03:14]  When attending the exam, make sure just to go briefly through each of those sections to understand if you have covered every single topic on the list and you are very well prepared for the exam itself.
+[00:03:14 -> 00:03:26]  But also, take my advice here and go to the bottom of this document, because each exam extract also has a bottom section which will describe what are the changes that were implemented recently.
+[00:03:26 -> 00:03:35]  In this case, on the May 28th, we had an update to this exam. In this case, if we scroll down, we will find that the word understand was replaced by the word describe.
+[00:03:35 -> 00:03:42]  Because Microsoft wants to be sure that you understand, but also understand well enough to be able to explain the topic to other people.
+[00:03:42 -> 00:03:46]  And this is what will be covered and tested during the exam.
+[00:03:46 -> 00:03:54]  If you scroll down, you will see that the agenda has removed functions from the list of describe products that are considered core products of Azure.
+[00:03:54 -> 00:04:00]  Additionally, Microsoft Azure SQL Data Warehouse has been renamed to Azure Synapse Analytics.
+[00:04:01 -> 00:04:04]  Etc, etc. All the changes can be reviewed in this extract.
+[00:04:04 -> 00:04:14]  This is definitely a critical thing that you should always do, because from the moment you start preparing to the moment you will go to the exam, something might change and you can actually review it in here.
+[00:04:14 -> 00:04:17]  With that said, let's go back to the presentation.
+[00:04:17 -> 00:04:21]  For each episode that I will prepare, you will have publicly available materials.
+[00:04:21 -> 00:04:26]  They are available on my website marczak.io slash az-900.
+[00:04:26 -> 00:04:34]  Also, you will be able to find the reference materials and extra videos if there are any to be referenced, but also cheat sheets and practice tests.
+[00:04:34 -> 00:04:36]  Let me go to that website right now.
+[00:04:36 -> 00:04:40]  If you go there, you will find the full extract from the course.
+[00:04:40 -> 00:04:42]  So you will find the path overview.
+[00:04:42 -> 00:04:47]  You will find a full navigation, which will allow you to navigate to a specific episode.
+[00:04:47 -> 00:04:57]  And if you scroll down, you will be able to find each separate module, the module description, the section and the subsection, the episode name.
+[00:04:57 -> 00:05:01]  And here, next to the episode, you will have also this link button.
+[00:05:01 -> 00:05:05]  When you press on it, a URL will be generated to the specific episode.
+[00:05:05 -> 00:05:10]  So you can really easily bookmark the episode that you are currently on to track your progress.
+[00:05:10 -> 00:05:16]  Additionally, each episode will have a skills learned section, which will exactly describe what is tested by this exam.
+[00:05:16 -> 00:05:23]  If you look at those skills learned, they correspond exactly to the extract from Microsoft on this exam.
+[00:05:23 -> 00:05:29]  You will be very easily able to match these skills tested by this exam with the episode you're watching.
+[00:05:29 -> 00:05:32]  Additionally, each episode will have a study guide.
+[00:05:32 -> 00:05:36]  So official Microsoft documents with Microsoft icon.
+[00:05:36 -> 00:05:39]  So those are references that you can read offline.
+[00:05:39 -> 00:05:44]  If I have some extra references from the web, I will link them here with this web icon.
+[00:05:44 -> 00:05:47]  But also I prepared a study cheat sheet for you.
+[00:05:47 -> 00:05:53]  So each episode will have a small text extract from things you learned during the episode.
+[00:05:53 -> 00:05:58]  So you can later print it, read it and remind yourself of what you learned during the episode.
+[00:05:58 -> 00:06:03]  You can then, of course, click on the navigation to go back to episode summary.
+[00:06:03 -> 00:06:09]  And in here, additionally, I prepare a small practice test for each specific episode.
+[00:06:09 -> 00:06:12]  So if you finish this episode, go to the practice test.
+[00:06:13 -> 00:06:18]  And in here, you will have some questions around the cloud concepts and you can test your knowledge.
+[00:06:18 -> 00:06:20]  If you're done, you tested your knowledge.
+[00:06:20 -> 00:06:22]  There are also answers attached.
+[00:06:22 -> 00:06:24]  So feel free to check them out.
+[00:06:24 -> 00:06:30]  If you have any feedbacks, any updates to the content you see there, just let me know and I will incorporate your feedbacks.
+[00:06:30 -> 00:06:32]  And that's it for this episode.
+[00:06:32 -> 00:06:33]  Thank you guys for watching.
+[00:06:33 -> 00:06:39]  If you like what I do, support the channel by subscribing, liking and commenting or sharing this to your friends.
+[00:06:39 -> 00:06:45]  If you want to see the next episode, simply follow the playlist or hit the icon on the side and see you there.

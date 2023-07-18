@@ -1,0 +1,138 @@
+[00:00:00 -> 00:00:16]  Business organizations comprise many teams working on different projects.
+[00:00:16 -> 00:00:20]  Projects are simply said to be tasks to be completed within a stipulated time.
+[00:00:20 -> 00:00:25]  While working on a project, it is important to deal with information exchange and communication.
+[00:00:25 -> 00:00:28]  Project team meetings are helpful to improve the communication and collaboration among
+[00:00:28 -> 00:00:30]  the team members.
+[00:00:30 -> 00:00:33]  The way the team meetings are handled should be effective so that every team member will
+[00:00:33 -> 00:00:36]  have access to express their thoughts.
+[00:00:36 -> 00:00:38]  It helps in communicating the suggestions and feedback.
+[00:00:38 -> 00:00:45]  So, in this video we will understand how do project managers use meeting management techniques?
+[00:00:45 -> 00:00:49]  But before we get started, I would like to address the agenda for today's session.
+[00:00:49 -> 00:00:53]  We will start our session with a brief understanding of what a project meeting is and the importance
+[00:00:53 -> 00:00:55]  of meeting management.
+[00:00:55 -> 00:00:59]  Then, we will discuss the meeting management techniques in detail.
+[00:00:59 -> 00:01:02]  I hope the agenda was clear.
+[00:01:02 -> 00:01:06]  Before we start with our session, if you like this video, do subscribe to our YouTube channel.
+[00:01:06 -> 00:01:12]  Also, to learn more about project management and its practices, check out Invencys Learning's
+[00:01:12 -> 00:01:16]  Project Management Certification Training on PRINCE2, Project Management Fundamentals,
+[00:01:16 -> 00:01:17]  and MSP.
+[00:01:17 -> 00:01:21]  All of the necessary information is given in the description box below.
+[00:01:21 -> 00:01:26]  Without any further ado, let us get started with our first topic, what is a project meeting?
+[00:01:26 -> 00:01:30]  A project meeting is an activity of delivering the information to the various team members
+[00:01:30 -> 00:01:33]  and stakeholders involved.
+[00:01:33 -> 00:01:37]  These meetings are conducted for a particular time with a prior or no plan.
+[00:01:37 -> 00:01:42]  A project meeting is the form of communication between the team members, managers, clients,
+[00:01:42 -> 00:01:46]  and other stakeholders to share their thoughts, suggestions, and feedback.
+[00:01:46 -> 00:01:50]  While working on a project, meetings will be there frequently and regularly in a week
+[00:01:50 -> 00:01:51]  or a month.
+[00:01:51 -> 00:01:54]  There will be several meetings available before starting the project and while working on
+[00:01:54 -> 00:01:56]  the project.
+[00:01:56 -> 00:02:01]  Information regarding the project, schedule, costs, struggles, benefits, and progress are
+[00:02:01 -> 00:02:04]  some of the points discussed in the project meeting.
+[00:02:04 -> 00:02:08]  The main goal of the project meeting is to improve the communication between the team
+[00:02:08 -> 00:02:12]  members and discuss the goals of the project along with the current progress.
+[00:02:12 -> 00:02:17]  The meetings help identify any challenges involved and rectify them with the right solution.
+[00:02:17 -> 00:02:21]  Project managers will be the responsible person for conducting meetings.
+[00:02:21 -> 00:02:24]  Project meetings will be either informed earlier or planned suddenly.
+[00:02:24 -> 00:02:29]  The duration of the meeting, plan and members in the meeting is announced before the meeting.
+[00:02:29 -> 00:02:33]  In recent times, meetings have been made online with the help of audio and video conferencing
+[00:02:33 -> 00:02:34]  modes.
+[00:02:34 -> 00:02:38]  But, the aim or focus of the project meeting will be the same.
+[00:02:38 -> 00:02:43]  Now, it is time to understand the importance of managing the meetings.
+[00:02:43 -> 00:02:47]  Whether a virtual meeting or a physical meeting, effective techniques help complete them.
+[00:02:47 -> 00:02:51]  A meeting is important to deliver information and communicate among the team.
+[00:02:51 -> 00:02:57]  So, it is essential to manage the meetings to produce effective outcomes from the meeting.
+[00:02:57 -> 00:03:01]  Several types of meetings are available where the techniques used should be appropriate.
+[00:03:01 -> 00:03:04]  Failed meetings don't produce any result and will cost time and effort.
+[00:03:04 -> 00:03:08]  The team member collaboration during the meeting and the knowledge sharing is focused in team
+[00:03:08 -> 00:03:09]  meetings.
+[00:03:09 -> 00:03:13]  But most of the team meetings failed to meet the expected results.
+[00:03:13 -> 00:03:18]  Thus, project managers should manage meetings and hence, meeting management skills are essential
+[00:03:18 -> 00:03:19]  for them.
+[00:03:19 -> 00:03:24]  Following are a set of techniques for effectively managing the team meetings.
+[00:03:24 -> 00:03:28]  Moving on, we will discuss the techniques used for the effective management of meetings.
+[00:03:28 -> 00:03:32]  A project manager will be the facilitator of the meeting.
+[00:03:32 -> 00:03:37]  Hence, the project manager should be capable of managing the meetings with essential techniques.
+[00:03:37 -> 00:03:41]  The following techniques help in effectively managing the meeting.
+[00:03:41 -> 00:03:45]  First technique is developing the objectives of the meeting.
+[00:03:45 -> 00:03:48]  Objectives of the meeting are the most essential.
+[00:03:48 -> 00:03:52]  The purpose of the meeting planned is known with the help of the objectives of this meeting.
+[00:03:52 -> 00:03:57]  The objectives are developed with crisp sentences regarding the meeting and expected outcomes.
+[00:03:57 -> 00:04:00]  This meeting objectives are delivered along with the meeting agenda to have an idea of
+[00:04:00 -> 00:04:02]  the meeting.
+[00:04:02 -> 00:04:06]  Next, second technique is developing meeting agenda.
+[00:04:06 -> 00:04:10]  One of the most important in project meetings is the meeting agenda.
+[00:04:10 -> 00:04:13]  It is a short description that explains what will be discussed in the meeting.
+[00:04:13 -> 00:04:18]  The plan helps maintain the flow of the project meeting to achieve the outcomes.
+[00:04:18 -> 00:04:22]  It also helps discuss only the required information and complete the meeting in the right duration.
+[00:04:22 -> 00:04:28]  Next, third technique is, send the agenda and objectives before the meeting.
+[00:04:28 -> 00:04:32]  The schedule and the created objectives are sent to the people in advance.
+[00:04:32 -> 00:04:34]  It would help them in preparing for the meeting.
+[00:04:34 -> 00:04:38]  Without the plan and objectives, they will not know anything about the meeting.
+[00:04:38 -> 00:04:42]  Therefore, the people should collect suggestions in advance of the meeting.
+[00:04:42 -> 00:04:45]  If the suggestion is acceptable, then the plan is modified.
+[00:04:45 -> 00:04:50]  Next, the fourth technique is, invite only the crucial people.
+[00:04:50 -> 00:04:54]  The project meetings are crucial, and hence only the right people are invited to attend
+[00:04:54 -> 00:04:56]  the meeting.
+[00:04:56 -> 00:05:00]  People who are involved in meeting the project meeting objectives are only invited.
+[00:05:00 -> 00:05:03]  If the responsible person is not available, the delegation should be made to someone who
+[00:05:03 -> 00:05:05]  can fill that position.
+[00:05:05 -> 00:05:10]  The people are invited through the mail and should get a confirmation for attending.
+[00:05:10 -> 00:05:14]  The fifth technique is, schedule the meeting environment effectively.
+[00:05:14 -> 00:05:16]  The mode of the meeting is also planned.
+[00:05:16 -> 00:05:22]  There are several modes like physical meetings, video conferencing, and audio conferencing.
+[00:05:22 -> 00:05:25]  The suitable mode of communication is selected and notified to the team members involved
+[00:05:25 -> 00:05:27]  in the meeting.
+[00:05:27 -> 00:05:31]  The meeting's location, time, and duration are also communicated to the team.
+[00:05:31 -> 00:05:36]  Next, the sixth technique is, keep time bounded.
+[00:05:36 -> 00:05:38]  Not everyone is only based on meetings.
+[00:05:38 -> 00:05:41]  People will have different other tasks following.
+[00:05:41 -> 00:05:44]  Thus, meetings should be started and completed on time.
+[00:05:44 -> 00:05:47]  The duration of the meeting plan should not exceed.
+[00:05:47 -> 00:05:51]  The meeting agenda and objectives will be highly helpful in complying with the time
+[00:05:51 -> 00:05:52]  duration of completion.
+[00:05:52 -> 00:05:56]  The delay of the meetings is avoided by following the plan.
+[00:05:56 -> 00:06:01]  Next, the seventh technique is, assigning roles for meeting.
+[00:06:01 -> 00:06:03]  The meeting should be interactive.
+[00:06:03 -> 00:06:07]  To achieve this, each and everyone involved should communicate in the meeting.
+[00:06:07 -> 00:06:10]  The roles are assigned to the people to focus on the meeting.
+[00:06:10 -> 00:06:15]  The focus will be on the meeting without diverging, and hence the meeting will be productive.
+[00:06:15 -> 00:06:18]  The interaction between the team members is registered with such roles assigned to the
+[00:06:18 -> 00:06:19]  meeting.
+[00:06:19 -> 00:06:24]  Next, eighth technique is, ask for suggestions and feedback.
+[00:06:24 -> 00:06:29]  At the end of the meeting, suggestions and feedback are collected from the team members.
+[00:06:29 -> 00:06:32]  People's opinions will always help improve the project.
+[00:06:32 -> 00:06:35]  The collected suggestions and feedback are reviewed and discussed in person or at the
+[00:06:35 -> 00:06:37]  next meeting.
+[00:06:37 -> 00:06:40]  If time persists, the feedback is reviewed at the meeting end to get comments from other
+[00:06:40 -> 00:06:42]  members of the meeting.
+[00:06:42 -> 00:06:47]  Next, the ninth technique is, take notes during the discussion.
+[00:06:47 -> 00:06:51]  The meeting is not only focused on discussing but also to progress in the project.
+[00:06:51 -> 00:06:55]  Therefore, every member of the meeting must take notes discussed during the meeting.
+[00:06:55 -> 00:07:00]  It would help understand the points discussed in the meeting and implement them in the projects.
+[00:07:00 -> 00:07:03]  The notes may be in digital form or hard copy.
+[00:07:03 -> 00:07:08]  The tenth technique is, conclude and wrap the meeting with a documentation.
+[00:07:08 -> 00:07:12]  After the completion of the meeting, the meeting should be concluded effectively.
+[00:07:12 -> 00:07:16]  All the points discussed in the meeting should be wrapped during the end and documented.
+[00:07:16 -> 00:07:20]  The documents are communicated to all the people who attended the meeting.
+[00:07:20 -> 00:07:22]  A copy is stored for future reference.
+[00:07:22 -> 00:07:27]  Now, we had a clear idea of how to manage the meetings in an effective manner.
+[00:07:27 -> 00:07:30]  I would like to conclude the session by saying.
+[00:07:30 -> 00:07:33]  Meetings are conducted to discuss the progress of the project.
+[00:07:33 -> 00:07:38]  It will help discuss the challenges or issues that arise during the project.
+[00:07:38 -> 00:07:41]  It comprises people responsible for the success of the project.
+[00:07:41 -> 00:07:46]  The identified problem is resolved effectively with the help of people in the meeting.
+[00:07:46 -> 00:07:50]  It would also be helpful for others to avoid them or resolve them in their cases.
+[00:07:50 -> 00:07:54]  But for all, it is essential to deal with proper meeting management techniques.
+[00:07:54 -> 00:07:59]  The above ten techniques help in understanding the procedure of conducting meetings effectively.
+[00:07:59 -> 00:08:04]  The project meetings here help communicate and disseminate information to the team members.
+[00:08:04 -> 00:08:08]  With this, we have come to an end of this video, I hope it was helpful.
+[00:08:08 -> 00:08:10]  Comment your thoughts in the section below.
+[00:08:10 -> 00:08:15]  Do subscribe to our YouTube channel and hit the notification bell, never to miss an update
+[00:08:15 -> 00:08:17]  from the Invencys learning channel.
+[00:08:17 -> 00:08:22]  Also, to learn more about project management and its practices, check out Invencys Learning's
+[00:08:22 -> 00:08:26]  Project Management Certification Training on PRINCE2, Project Management Fundamentals,
+[00:08:26 -> 00:08:27]  and MSP.
+[00:08:27 -> 00:08:31]  All of the necessary information is given in the description box below.
+[00:08:31 -> 00:08:32]  Thank you.
+[00:08:32 -> 00:08:32]  Have a nice day.

@@ -1,0 +1,135 @@
+[00:00:00 -> 00:00:26]  Welcome to another podcast in module one, the process of conducting research.
+[00:00:26 -> 00:00:33]  In this particular podcast, we're going to look at some of the other remaining learning
+[00:00:33 -> 00:00:34]  outcomes.
+[00:00:34 -> 00:00:38]  In the last podcast, we looked at the definition of educational research and the importance
+[00:00:38 -> 00:00:40]  of educational research.
+[00:00:40 -> 00:00:46]  Let's look now at the problems with educational research, discuss the process, and look at
+[00:00:46 -> 00:00:52]  some of the ethical considerations and consider some of the skills that you bring to the research
+[00:00:52 -> 00:00:54]  process.
+[00:00:54 -> 00:00:58]  A lot of problems occur with research today.
+[00:00:58 -> 00:01:00]  Findings may be contradictory or vague.
+[00:01:00 -> 00:01:04]  As a matter of fact, that's just the nature of statistics.
+[00:01:04 -> 00:01:11]  It's very possible to take the same data set, same population rather, and do it like the
+[00:01:11 -> 00:01:18]  data set and come up with different results on the same questions and do it legitimately.
+[00:01:18 -> 00:01:21]  Sometimes the data can be questionable.
+[00:01:21 -> 00:01:27]  We can have unclear statements about the intent of the study or maybe we don't fully disclose
+[00:01:27 -> 00:01:33]  the data collection procedure so a reader or consumer would not know how that affects
+[00:01:33 -> 00:01:35]  the outcomes.
+[00:01:35 -> 00:01:42]  Or maybe the research problem just wasn't rendered clearly or articulately enough.
+[00:01:42 -> 00:01:49]  Now, the process of research should really start with identifying the research problem
+[00:01:49 -> 00:01:50]  to start with.
+[00:01:50 -> 00:01:54]  Keep in mind that the very foundation is, what is the research problem?
+[00:01:54 -> 00:01:56]  That guides everything else.
+[00:01:56 -> 00:02:01]  Once one has identified a research problem, then one conducts a review of the literature.
+[00:02:01 -> 00:02:09]  And by literature, we're talking about literature dealing with scholarly work regarding a problem.
+[00:02:09 -> 00:02:13]  That might be journal articles, it might be a dissertation that was done, but we're talking
+[00:02:13 -> 00:02:16]  about peer-reviewed literature.
+[00:02:16 -> 00:02:21]  Then once the literature is reviewed, one would determine what is the research purpose.
+[00:02:21 -> 00:02:28]  It might be that the literature indicated that the purpose was not really needed.
+[00:02:28 -> 00:02:32]  It might be that the literature, a review of the literature, really caused a purpose
+[00:02:32 -> 00:02:36]  to stand out and caused the study to narrow some.
+[00:02:36 -> 00:02:40]  Once one has identified a problem, reviewed the literature, and determined the purpose
+[00:02:40 -> 00:02:44]  of the study, then one can begin to collect the data.
+[00:02:44 -> 00:02:47]  The data are then analyzed and interpreted.
+[00:02:47 -> 00:02:52]  The findings are reported on, and the research is evaluated.
+[00:02:52 -> 00:02:57]  And we would be back in to increasing the body of knowledge into the particular research
+[00:02:57 -> 00:02:58]  area.
+[00:02:58 -> 00:03:04]  Now, the process of research, of identifying the problem, you must specify a problem.
+[00:03:04 -> 00:03:09]  You're going to have to justify that not only is there a perceived problem, but that the
+[00:03:09 -> 00:03:11]  problem is worthy of study.
+[00:03:11 -> 00:03:16]  And then you're going to suggest a need to study the problem for specific groups or specific
+[00:03:16 -> 00:03:17]  audiences.
+[00:03:17 -> 00:03:21]  A review of the literature is really quite complex.
+[00:03:21 -> 00:03:28]  The books, journals, and electronic resources among these journals are considered kind of
+[00:03:28 -> 00:03:32]  the top end of that, the scholarly peer-reviewed journals.
+[00:03:32 -> 00:03:38]  And a lot of the electronic resources will have scholarly peer-reviewed journal materials
+[00:03:38 -> 00:03:39]  available.
+[00:03:39 -> 00:03:45]  Actually, one of the neat things about your university is the quality of the library resources.
+[00:03:45 -> 00:03:50]  You're going to select the resources and organize the resources by developing a literature amount.
+[00:03:50 -> 00:03:53]  And I will help you with that.
+[00:03:53 -> 00:03:58]  Then you're going to summarize the resources in a literature review.
+[00:03:58 -> 00:04:02]  After you determine the literature, you're going to identify the purpose statement, the
+[00:04:02 -> 00:04:06]  major intent of the study, the participants, the site, so forth.
+[00:04:06 -> 00:04:09]  And you're going to narrow the purpose statement to determine whether you do a quantitative
+[00:04:09 -> 00:04:12]  or qualitative study.
+[00:04:12 -> 00:04:16]  To collect data, you're going to have to determine the data collection method.
+[00:04:16 -> 00:04:21]  That's going to be determined basically at least by the type of study you conduct, the
+[00:04:21 -> 00:04:24]  type of research that you use.
+[00:04:24 -> 00:04:30]  Select individuals, design the data collection instruments, and outline your procedures.
+[00:04:30 -> 00:04:37]  You're going to have to obtain permissions to collect your data, and that should include
+[00:04:37 -> 00:04:44]  an Institutional Review Board, IRB, and then you're going to gather the data.
+[00:04:44 -> 00:04:50]  Once we have gone through the data gathering process, then we have to analyze and interpret
+[00:04:50 -> 00:04:51]  the data.
+[00:04:51 -> 00:04:53]  That means that we're going to take the data apart.
+[00:04:53 -> 00:04:56]  We're going to look at individual responses.
+[00:04:56 -> 00:05:02]  We're going to do statistical analyses on that data, and we're going to represent information
+[00:05:02 -> 00:05:08]  from the data, the information we may develop into tables, figures, pictures, other things
+[00:05:08 -> 00:05:09]  like that.
+[00:05:09 -> 00:05:13]  And then we're going to have to explain the conclusions that we have drawn from the data
+[00:05:13 -> 00:05:15]  which we have gathered.
+[00:05:15 -> 00:05:19]  Now when we report the data, we're going to report the research, and we're going to evaluate
+[00:05:19 -> 00:05:20]  the research.
+[00:05:20 -> 00:05:25]  When we report the research, of course, we're doing such things as considering the audience
+[00:05:26 -> 00:05:29]  who would be appropriate for the report.
+[00:05:29 -> 00:05:33]  We may select a certain specific peer journal that we would submit that.
+[00:05:33 -> 00:05:37]  We may present our research in a consortium gathering.
+[00:05:37 -> 00:05:38]  We may go to a conference.
+[00:05:38 -> 00:05:40]  We may read a paper.
+[00:05:40 -> 00:05:42]  We might do a presentation.
+[00:05:42 -> 00:05:43]  There are all sorts of things.
+[00:05:43 -> 00:05:47]  We're going to have to structure the report, and we're going to have to write that report
+[00:05:47 -> 00:05:54]  effectively, which means that sensitively and accurately, we're going to have to reflect
+[00:05:54 -> 00:05:56]  what the data have to say.
+[00:05:56 -> 00:06:00]  Now in the evaluation of the report, we're going to assess the quality of the research
+[00:06:00 -> 00:06:05]  using recognized standards in a discipline, and the standards can come from the academic
+[00:06:05 -> 00:06:09]  community, school districts, federal or state agencies.
+[00:06:09 -> 00:06:13]  Now there are some ethical considerations which we also must consider.
+[00:06:13 -> 00:06:18]  One of the things we have to be certain that we do is respect the privacy rights of the
+[00:06:18 -> 00:06:23]  participants and all of the rights of the participants.
+[00:06:23 -> 00:06:27]  We have to honor the request and the restrictions of the research site.
+[00:06:27 -> 00:06:33]  Those things which we have been directed that we can and cannot do, we must honor.
+[00:06:33 -> 00:06:38]  And then we're going to report the research fully and honestly as we move on.
+[00:06:38 -> 00:06:42]  There are a lot of skills that are needed for, that you need to bring to the table to
+[00:06:42 -> 00:06:43]  do research.
+[00:06:43 -> 00:06:44]  Curiosity.
+[00:06:44 -> 00:06:48]  I wonder how many of you are very curious people.
+[00:06:48 -> 00:06:50]  That's what always got me in trouble.
+[00:06:50 -> 00:06:54]  I had to know how something worked, what was going on with it, tear it apart.
+[00:06:54 -> 00:06:57]  I just never was very good at putting it back together.
+[00:06:57 -> 00:07:01]  You need a long and adequate attention span.
+[00:07:01 -> 00:07:06]  Research is not something that you do in five minutes, and then you're through.
+[00:07:06 -> 00:07:11]  You're going to have to have library skills and computer resource skills, writing and
+[00:07:11 -> 00:07:12]  editing skills.
+[00:07:12 -> 00:07:18]  Now in this course, what we're going to do are some very highly technological writing
+[00:07:18 -> 00:07:19]  and editing skills.
+[00:07:20 -> 00:07:23]  We're going to have some materials for you to look at.
+[00:07:23 -> 00:07:28]  We're going to do them in a certain methodology, in a certain way, and we're certainly going
+[00:07:28 -> 00:07:33]  to expect you to be affluent in your digital skills.
+[00:07:50 -> 00:07:52]  Well, that's it.
+[00:07:52 -> 00:07:53]  Well done, everybody.
+[00:07:53 -> 00:07:54]  Good job.
+[00:07:54 -> 00:07:55]  Thanks for joining us.
+[00:07:55 -> 00:07:56]  We'll see you next time.
+[00:07:56 -> 00:07:57]  Bye.
+[00:07:57 -> 00:07:58]  Bye.
+[00:07:58 -> 00:07:59]  Bye.
+[00:07:59 -> 00:08:00]  Bye.
+[00:08:00 -> 00:08:01]  Bye.
+[00:08:01 -> 00:08:02]  Bye.
+[00:08:02 -> 00:08:03]  Bye.
+[00:08:03 -> 00:08:04]  Bye.
+[00:08:04 -> 00:08:05]  Bye.
+[00:08:05 -> 00:08:06]  Bye.
+[00:08:06 -> 00:08:07]  Bye.
+[00:08:07 -> 00:08:08]  Bye.
+[00:08:08 -> 00:08:09]  Bye.
+[00:08:09 -> 00:08:10]  Bye.
+[00:08:10 -> 00:08:11]  Bye.
+[00:08:11 -> 00:08:12]  Bye.
+[00:08:12 -> 00:08:13]  Bye.
+[00:08:13 -> 00:08:14]  Bye.
+[00:08:14 -> 00:08:15]  Bye.
+[00:08:15 -> 00:08:16]  Bye.
+[00:08:16 -> 00:08:17]  Bye.
+[00:08:17 -> 00:08:18]  Bye.
+[00:08:18 -> 00:08:19]  Bye.

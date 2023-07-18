@@ -1,0 +1,32 @@
+[00:00:00 -> 00:00:04]  Google's mission is to organize the world's information and make it universally accessible
+[00:00:04 -> 00:00:05]  and useful.
+[00:00:05 -> 00:00:10]  And some of the most important information out there today is quality journalism.
+[00:00:10 -> 00:00:14]  We believe that the democratization of media has created new opportunities and new roles
+[00:00:14 -> 00:00:18]  for journalists to play in the media industry.
+[00:00:18 -> 00:00:23]  The News Lab is Google's effort to use our technologies to be part of this innovation
+[00:00:23 -> 00:00:25]  in journalism that's happening today.
+[00:00:26 -> 00:00:31]  We're really focused on how we can empower journalists and media entrepreneurs through
+[00:00:31 -> 00:00:33]  tools, data, and programs.
+[00:00:33 -> 00:00:37]  I think it's extremely important that we come in in this very collaborative fashion and
+[00:00:37 -> 00:00:39]  say, what is it that we can do?
+[00:00:39 -> 00:00:42]  We see that journalists tap into a number of different tools.
+[00:00:42 -> 00:00:46]  We have Fusion Tables, which is a data visualization tool using maps.
+[00:00:46 -> 00:00:50]  Maps itself, Google Earth, ways to really get a sense of perspective around where a
+[00:00:50 -> 00:00:52]  story is taking place.
+[00:00:52 -> 00:00:57]  There are three billion searches performed on Google every single day, and being able
+[00:00:57 -> 00:01:02]  to look across these searches and look for trends in what people are curious about gives
+[00:01:02 -> 00:01:06]  journalists a new tool for telling data-driven stories.
+[00:01:06 -> 00:01:10]  Another way that the News Lab is working with journalists and startups is through a series
+[00:01:10 -> 00:01:12]  of programs that we're launching.
+[00:01:12 -> 00:01:15]  One of our partners is the Center for Investigative Reporting, and we've produced a series of
+[00:01:15 -> 00:01:17]  events called TechRanking.
+[00:01:17 -> 00:01:21]  The idea is to bring together technologists and journalists to really unite around an
+[00:01:21 -> 00:01:23]  important idea.
+[00:01:23 -> 00:01:28]  We have a partnership with Storyful, and we're working to create a YouTube Newswire, a tool
+[00:01:28 -> 00:01:33]  that pushes verified, user-generated news clips to newsrooms around the world.
+[00:01:33 -> 00:01:38]  We're also working with MatterVC, a media incubator in San Francisco, and we're helping
+[00:01:38 -> 00:01:44]  them expand their curriculum to a far greater number of startups around the world.
+[00:01:44 -> 00:01:48]  We're at a time when really anything is possible in media.
+[00:01:48 -> 00:01:53]  Information storytelling is taking place all over the media ecosystem, and we believe
+[00:01:53 -> 00:01:57]  the best way to create a more informed society is when journalists and technologists work
+[00:01:57 -> 00:01:58]  together, and that's why we're here.

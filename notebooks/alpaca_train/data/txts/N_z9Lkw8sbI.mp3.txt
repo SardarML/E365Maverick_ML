@@ -1,0 +1,30 @@
+[00:01:30 -> 00:01:32]  This is the end of the video.
+[00:01:32 -> 00:01:34]  I hope you enjoyed it.
+[00:01:34 -> 00:01:36]  If you did, please leave a like and subscribe.
+[00:01:36 -> 00:01:38]  I will see you in the next video.
+[00:01:38 -> 00:01:40]  Bye.
+[00:02:00 -> 00:02:02]  This is the end of the video.
+[00:02:02 -> 00:02:04]  I hope you enjoyed it.
+[00:02:04 -> 00:02:06]  If you did, please leave a like and subscribe.
+[00:02:06 -> 00:02:08]  I will see you in the next video.
+[00:02:08 -> 00:02:10]  Bye.
+[00:02:30 -> 00:02:32]  This is the end of the video.
+[00:02:32 -> 00:02:34]  I hope you enjoyed it.
+[00:02:34 -> 00:02:36]  If you did, please leave a like and subscribe.
+[00:02:36 -> 00:02:38]  I will see you in the next video.
+[00:02:38 -> 00:02:40]  Bye.
+[00:03:00 -> 00:03:02]  This is the end of the video.
+[00:03:02 -> 00:03:04]  I hope you enjoyed it.
+[00:03:04 -> 00:03:06]  If you did, please leave a like and subscribe.
+[00:03:06 -> 00:03:08]  I will see you in the next video.
+[00:03:08 -> 00:03:10]  Bye.
+[00:03:30 -> 00:03:32]  This is the end of the video.
+[00:03:32 -> 00:03:34]  I hope you enjoyed it.
+[00:03:34 -> 00:03:36]  If you did, please leave a like and subscribe.
+[00:03:36 -> 00:03:38]  I will see you in the next video.
+[00:03:38 -> 00:03:40]  Bye.
+[00:04:00 -> 00:04:02]  This is the end of the video.
+[00:04:02 -> 00:04:04]  I hope you enjoyed it.
+[00:04:04 -> 00:04:06]  If you did, please leave a like and subscribe.
+[00:04:06 -> 00:04:08]  I will see you in the next video.
+[00:04:08 -> 00:04:10]  Bye.

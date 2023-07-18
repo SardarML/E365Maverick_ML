@@ -1,0 +1,189 @@
+[00:00:00 -> 00:00:10]  Today, on Strong Diagnosis, I'll be discussing clinical prediction rules.
+[00:00:10 -> 00:00:14]  To demonstrate how they are used, I'll be intermittently referring to a case of a woman
+[00:00:14 -> 00:00:18]  with a possible PE throughout the video.
+[00:00:18 -> 00:00:20]  Let me introduce the case.
+[00:00:20 -> 00:00:26]  This is a 65-year-old woman with a past medical history of hypertension and breast cancer
+[00:00:26 -> 00:00:32]  currently undergoing chemotherapy, who is now presenting with the abrupt onset of right-sided
+[00:00:32 -> 00:00:36]  pleuritic chest pain and non-positional shortness of breath one hour ago.
+[00:00:36 -> 00:00:39]  She has no other symptoms.
+[00:00:39 -> 00:00:45]  On exam, she is afebrile, pulse is 110, blood pressure is 110 over 85, respiratory rate
+[00:00:45 -> 00:00:50]  24, and O2 sat is 95% on room air.
+[00:00:50 -> 00:00:54]  She has an elevated JVP and bi-basilar crackles.
+[00:00:54 -> 00:00:59]  On labs, her white count is 12, and her troponin is undetectable.
+[00:00:59 -> 00:01:04]  On chest X-ray, she has a small right-sided pleural effusion.
+[00:01:04 -> 00:01:12]  Last, her ECG shows sinus rhythm with mild, non-specific ST and T changes.
+[00:01:12 -> 00:01:17]  The questions we're going to tackle for her in this video, from the available information,
+[00:01:17 -> 00:01:21]  can we rule in a pulmonary embolism?
+[00:01:21 -> 00:01:24]  If not, what should be the next test ordered?
+[00:01:24 -> 00:01:31]  If a pulmonary embolism is ruled in, should she be admitted to the hospital?
+[00:01:31 -> 00:01:37]  To answer these questions, we could make an educated guess based on our experience and
+[00:01:37 -> 00:01:39]  knowledge of pulmonary embolisms.
+[00:01:39 -> 00:01:43]  We call that making decision by clinician gestalt.
+[00:01:43 -> 00:01:45]  There's nothing wrong with that.
+[00:01:45 -> 00:01:50]  It's how the overwhelming majority of medical decisions are made in real life.
+[00:01:50 -> 00:01:55]  Or alternatively, we could use a clinical prediction rule.
+[00:01:55 -> 00:02:01]  These are tools which identify and quantify the contributions of the most helpful pieces
+[00:02:01 -> 00:02:07]  of information related to a specific clinical scenario and reduce them to an algorithm or
+[00:02:07 -> 00:02:13]  simple scoring system to help predict the probability of either a specific diagnosis,
+[00:02:13 -> 00:02:18]  benefit from a specific treatment, or an adverse outcome.
+[00:02:18 -> 00:02:22]  These pieces of information can be features of a patient's demographic, such as age
+[00:02:22 -> 00:02:30]  and sex, a patient's current symptoms, their medical history, exam findings, or test results.
+[00:02:30 -> 00:02:36]  There are a variety of alternative names for clinical prediction rules, or for their subtypes,
+[00:02:36 -> 00:02:43]  such as risk scores, decision rules, probability assessments, severity indices, scoring systems,
+[00:02:43 -> 00:02:46]  and risk stratification tools.
+[00:02:46 -> 00:02:50]  While there is some variability in how these terms are used in practice, I think it's helpful
+[00:02:50 -> 00:02:56]  and appropriate to use the term clinical prediction rule as an umbrella term that includes all
+[00:02:56 -> 00:02:58]  of these others.
+[00:02:58 -> 00:03:02]  The development of a clinical prediction rule has four stages.
+[00:03:02 -> 00:03:07]  First, they are derived from multivariate statistical methods that identify the set
+[00:03:07 -> 00:03:12]  of useful independent pieces of data and their relative weights.
+[00:03:12 -> 00:03:16]  In order for a piece of data to be useful, it needs to not only be predictive, but also
+[00:03:16 -> 00:03:22]  needs to discriminate between those with and without the diagnosis or outcome of interest.
+[00:03:22 -> 00:03:27]  It also needs to be relatively common within the population in which the rule will be applied.
+[00:03:27 -> 00:03:32]  Otherwise, if it included every predictive piece of data, no matter how rare, the clinical
+[00:03:32 -> 00:03:38]  prediction rule would easily become too unwieldy to be practical.
+[00:03:38 -> 00:03:43]  The rule is then validated using a separate dataset to ensure that the initially determined
+[00:03:43 -> 00:03:48]  predictive variables were not a statistical anomaly.
+[00:03:48 -> 00:03:53]  Even for successfully validated rules, the validation dataset often demonstrates less
+[00:03:53 -> 00:03:58]  predictive accuracy than the derivation dataset, which is to be expected, and does not necessarily
+[00:03:58 -> 00:04:02]  mean that mistakes were made along the way.
+[00:04:02 -> 00:04:06]  Validation should be followed by an impact analysis to see if the clinical prediction
+[00:04:06 -> 00:04:12]  rule actually improves patient outcomes and or reduces cost in real-world situations.
+[00:04:12 -> 00:04:20]  However, this has not yet been done for many, possibly even most, rules currently in use.
+[00:04:20 -> 00:04:25]  The final stage is implementation, in which a validated and impactful rule sees widespread
+[00:04:25 -> 00:04:29]  adoption in clinical practice.
+[00:04:29 -> 00:04:33]  Clinical prediction rules that use scoring systems are often incorporated into diagnostic
+[00:04:33 -> 00:04:39]  algorithms or flowcharts that further simplify the cognitive burden for a clinician making
+[00:04:39 -> 00:04:42]  decisions at the bedside.
+[00:04:42 -> 00:04:46]  So now, let's return to our patient and tackle the first question.
+[00:04:46 -> 00:04:50]  Can we rule in a pulmonary embolism?
+[00:04:50 -> 00:04:55]  The reason I chose a PE to demonstrate clinical prediction rules is because their use as both
+[00:04:55 -> 00:05:01]  a diagnostic and prognostic tool is particularly common with this diagnosis.
+[00:05:01 -> 00:05:05]  The most widely used of these is the WELL score for PE, not to be confused with the
+[00:05:05 -> 00:05:08]  similar WELL score for DVT.
+[00:05:08 -> 00:05:13]  The WELL score for PE scores 7 individual features of the presentation.
+[00:05:13 -> 00:05:19]  These features include a clinical gestalt that a PE is the single most likely diagnosis,
+[00:05:19 -> 00:05:25]  signs and or symptoms of a DVT, a heart rate above 100, a previous history of PE and or
+[00:05:25 -> 00:05:32]  DVT, recent immobilization, hemoptysis, and active malignancy.
+[00:05:32 -> 00:05:36]  A patient's WELL score can range from 0 to 12.5.
+[00:05:36 -> 00:05:40]  Although we could consider a continuous range of probabilities along that range of scores,
+[00:05:40 -> 00:05:46]  instead what is done is that the patient is assigned to one of several risk categories.
+[00:05:46 -> 00:05:50]  Although some use a total of two risk categories for the WELL score, with a cutoff of less
+[00:05:50 -> 00:05:55]  than 4 for the lower category, I personally prefer a three-tiered approach.
+[00:05:55 -> 00:06:00]  If the patient has 0 to 1 points, they are low risk, meaning a PE probability of approximately
+[00:06:00 -> 00:06:01]  2%.
+[00:06:01 -> 00:06:06]  If the patient has a score of 2 to 6, they have a moderate risk, meaning a probability
+[00:06:06 -> 00:06:08]  around 15%.
+[00:06:08 -> 00:06:13]  And if the patient has a score above 6, they are at high risk, with a PE probability of
+[00:06:13 -> 00:06:16]  about 43%.
+[00:06:16 -> 00:06:19]  A lot can be said about the WELL score.
+[00:06:19 -> 00:06:24]  For one thing, it is very unusual among clinical prediction rules that Gestalt is incorporated.
+[00:06:24 -> 00:06:28]  After all, clinical prediction rules are supposed to replace Gestalt.
+[00:06:28 -> 00:06:33]  But when the original authors of the WELL score derived the independent predictors,
+[00:06:33 -> 00:06:36]  they found that clinical Gestalt was really important in this case.
+[00:06:36 -> 00:06:42]  It would be fascinating to see if this finding still held up now, 20 years later, or if clinicians
+[00:06:42 -> 00:06:47]  as a group have since so internalized the other predictive factors from the WELL score
+[00:06:47 -> 00:06:52]  and their relative weights into their Gestalt, that Gestalt itself is no longer as much an
+[00:06:52 -> 00:06:54]  independent factor.
+[00:06:54 -> 00:06:58]  But as far as I know, that hasn't been done yet.
+[00:06:58 -> 00:07:03]  Returning to our patient, what is her WELL score?
+[00:07:03 -> 00:07:10]  There is 1 point for having breast cancer, 1.5 points for her heart rate of 110, and
+[00:07:10 -> 00:07:15]  in my opinion, based on the fact that I wrote this case, I believe that PE is the single
+[00:07:15 -> 00:07:22]  most likely diagnosis, which gives her 3 more points, for a total of 5.5, placing her
+[00:07:22 -> 00:07:25]  in the moderate risk category.
+[00:07:25 -> 00:07:28]  So what do we do with this information?
+[00:07:28 -> 00:07:32]  To answer the initial question of whether we can rule in a PE at this point, with a
+[00:07:32 -> 00:07:37]  PE probability of about 16%, we clearly cannot.
+[00:07:37 -> 00:07:41]  The second post-question was what should be the next test ordered?
+[00:07:41 -> 00:07:45]  As with many clinical prediction rules, we can use the score within the context of a
+[00:07:45 -> 00:07:48]  published algorithm that will help us here.
+[00:07:48 -> 00:07:54]  With PEs, there are dozens upon dozens of published diagnostic algorithms.
+[00:07:54 -> 00:08:01]  For example, here is one from up-to-date circa 2014 that incorporated the two-tiered approach
+[00:08:01 -> 00:08:04]  to the WELL score.
+[00:08:05 -> 00:08:12]  However, I prefer this algorithm for diagnosing PEs, taken from my own video on this diagnosis.
+[00:08:12 -> 00:08:18]  In this algorithm, we calculate the WELL score here, it was within the 2-6 range, which means
+[00:08:18 -> 00:08:22]  the next test to order is a blood test called a D-dimer.
+[00:08:22 -> 00:08:26]  If the D-dimer is normal, a PE has been ruled out.
+[00:08:26 -> 00:08:32]  If it's elevated, one should proceed with a CT pulmonary angiogram.
+[00:08:32 -> 00:08:36]  If on the other hand, the patient's WELL score was more than 6, they would have a high
+[00:08:36 -> 00:08:42]  enough pre-test probability for PE that a negative D-dimer would not result in a low
+[00:08:42 -> 00:08:45]  enough post-test probability to rule it out.
+[00:08:45 -> 00:08:49]  So in this case, the D-dimer step is skipped altogether.
+[00:08:49 -> 00:08:55]  Likewise, if the WELL score is less than 2, the patient has a low enough pre-test probability
+[00:08:55 -> 00:09:01]  that they might not even need a D-dimer or CT scan at all, depending on the PERK rule,
+[00:09:01 -> 00:09:06]  which is an altogether different PE-related clinical prediction rule.
+[00:09:06 -> 00:09:09]  This has been just one example of using clinical prediction rules.
+[00:09:09 -> 00:09:14]  There are hundreds of such rules, though most clinicians typically use just a small subset
+[00:09:14 -> 00:09:18]  of these that are most relevant to their own practice.
+[00:09:18 -> 00:09:22]  For instance, here are some of the clinical prediction rules that I use most frequently
+[00:09:22 -> 00:09:25]  as a hospitalist.
+[00:09:25 -> 00:09:29]  You'll notice that they are divided into three categories based on whether they are used
+[00:09:29 -> 00:09:36]  to establish a diagnosis, to help with a treatment decision, or to provide prognosis.
+[00:09:36 -> 00:09:41]  But these divisions are artificial, as many rules can be applied in more than one way.
+[00:09:41 -> 00:09:46]  For example, the pneumonia severity index, which is often used in making a decision as
+[00:09:46 -> 00:09:50]  to whether a patient presenting with pneumonia should be admitted to the hospital and given
+[00:09:50 -> 00:09:56]  IV rather than oral antibiotics, has that role because it's predictive of which patients
+[00:09:56 -> 00:09:58]  are more likely to have a poor outcome.
+[00:09:58 -> 00:10:05]  Similarly, the CHADS-2 and CHADS-VASc scores are used to guide decisions about anticoagulation
+[00:10:05 -> 00:10:11]  in patients with atrial fibrillation because they predict risk of stroke.
+[00:10:11 -> 00:10:16]  We still have the third and final question to answer about our patient who may have a
+[00:10:16 -> 00:10:18]  PE.
+[00:10:18 -> 00:10:24]  If one is ruled in using the previously discussed algorithm, should she be admitted to the hospital?
+[00:10:24 -> 00:10:29]  For this, as you may have seen in the previous table, there's yet another clinical prediction
+[00:10:29 -> 00:10:35]  rule, the PE severity index, which places patients into one of five risk categories
+[00:10:35 -> 00:10:38]  for 30-day mortality.
+[00:10:38 -> 00:10:44]  If we look at which clinical features she has, she gets 65 points for her age, 30 points
+[00:10:44 -> 00:10:49]  for her history of cancer, and 20 points for her heart rate of 110.
+[00:10:49 -> 00:10:52]  This gives her 115 points overall.
+[00:10:52 -> 00:10:58]  The PE severity index predicts her to have a 4-11% risk of death within 30 days, which
+[00:10:58 -> 00:11:03]  by conventional practice, at least for PEs, that means she should be admitted to the hospital
+[00:11:03 -> 00:11:06]  for observation.
+[00:11:06 -> 00:11:11]  This was just one example of how one might employ clinical prediction rules in practice.
+[00:11:11 -> 00:11:16]  Their advantages in general include a reduction in the need for clinicians to make burdensome
+[00:11:16 -> 00:11:22]  biostatistical calculations, which are honestly rarely done in practice.
+[00:11:22 -> 00:11:26]  They identify and help clinicians to remember the most predictive features of diagnoses
+[00:11:26 -> 00:11:29]  and clinical situations.
+[00:11:29 -> 00:11:33]  For example, a familiarity with the Welles score will remind a clinician of the importance
+[00:11:33 -> 00:11:40]  of PE risk factors like malignancy, immobility, and prior venous thromboembolism, even if
+[00:11:40 -> 00:11:45]  they don't dogmatically apply the prediction rule to every relevant patient.
+[00:11:45 -> 00:11:49]  Clinical prediction rules are less prone to bias than conventional decision making.
+[00:11:49 -> 00:11:53]  And they standardize decision making between different clinicians.
+[00:11:53 -> 00:11:57]  In other words, they help to bring clinicians who are outliers in practice closer to the
+[00:11:57 -> 00:11:59]  standard of care.
+[00:11:59 -> 00:12:03]  However, they also have some significant disadvantages.
+[00:12:03 -> 00:12:10]  For one, they exist for only a minority of diagnoses and clinical situations.
+[00:12:10 -> 00:12:16]  They don't incorporate uncommon features of the diagnosis, even if strongly predictive.
+[00:12:16 -> 00:12:21]  For example, the Welles score would not account for a patient's known hereditary thrombophilia
+[00:12:21 -> 00:12:25]  or antiphospholipid antibody syndrome.
+[00:12:25 -> 00:12:31]  Not all prediction rules are sufficiently validated or have been shown to improve outcomes.
+[00:12:31 -> 00:12:36]  They can inadvertently incorporate biases from their original authors, biases which
+[00:12:36 -> 00:12:41]  over time could sneak into the standard of care if the prediction rule becomes widely
+[00:12:41 -> 00:12:43]  adopted.
+[00:12:43 -> 00:12:46]  They can underperform relative to expert opinion.
+[00:12:46 -> 00:12:51]  An example of this would be how expert opinion is more sensitive than the San Francisco Syncope
+[00:12:51 -> 00:12:57]  rule for identifying patients at high risk of adverse outcomes.
+[00:12:57 -> 00:13:02]  And finally, algorithms based on clinical prediction rules do not take into account
+[00:13:02 -> 00:13:06]  patient preferences or different risk tolerances.
+[00:13:07 -> 00:13:13]  Overall, despite their name, clinical prediction rules should be viewed and used as guides
+[00:13:13 -> 00:13:17]  more so than as strict rules that must be followed dogmatically.
+[00:13:17 -> 00:13:22]  They're like clinical practice guidelines published by professional societies.
+[00:13:22 -> 00:13:27]  They are meant to help clinicians maximize diagnostic accuracy and to practice at the
+[00:13:27 -> 00:13:32]  standard of care, but there is never a requirement to follow them.
+[00:13:32 -> 00:13:37]  If you think that your patient's specific situation does not apply to the relevant clinical
+[00:13:37 -> 00:13:43]  prediction rule, for whatever reason, you should not feel compelled to use it.
+[00:13:43 -> 00:13:45]  Today's key takeaways.
+[00:13:45 -> 00:13:50]  Clinical prediction rules are tools which identify and quantify the contributions of
+[00:13:50 -> 00:13:56]  the most helpful pieces of information related to a clinical scenario and reduce them to
+[00:13:56 -> 00:14:02]  an algorithm or simple scoring system to help determine a patient's diagnosis, treatment,
+[00:14:02 -> 00:14:04]  and or prognosis.
+[00:14:04 -> 00:14:11]  They reduce cognitive burden and help to standardize diagnostic workups and management decisions.
+[00:14:11 -> 00:14:16]  Clinical prediction rules exist for only a minority of diagnoses and have several important
+[00:14:16 -> 00:14:18]  limitations.
+[00:14:18 -> 00:14:23]  And last, clinical prediction rules should be primarily used as a guide rather than strict
+[00:14:23 -> 00:14:25]  rules that must be followed.
+[00:14:32 -> 00:14:33]  Thanks so much for watching.
+[00:14:33 -> 00:14:34]  I'll see you next week.
+[00:14:34 -> 00:14:35]  Have a great day.
+[00:14:35 -> 00:14:36]  Bye.
+[00:14:36 -> 00:14:37]  Bye.
+[00:14:37 -> 00:14:38]  Bye.

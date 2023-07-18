@@ -1,0 +1,305 @@
+[00:00:00 -> 00:00:14]  Hello, and thanks for watching this Acumatica video on the Financial Reporting Engine, or
+[00:00:14 -> 00:00:21]  we like to call it ARM, A-R-M. So let's jump in.
+[00:00:21 -> 00:00:32]  So to get started, the first area in Acumatica is under Financials and Report Definitions.
+[00:00:32 -> 00:00:37]  So Acumatica's Financial Reporting Engine gives you a tremendous amount of flexibility
+[00:00:37 -> 00:00:42]  and power to design the financial reports the way you want to.
+[00:00:42 -> 00:00:47]  So when we go into Report Definitions, you can see a number of different reports in our
+[00:00:47 -> 00:00:49]  sales demo data.
+[00:00:49 -> 00:00:56]  And what you notice is in addition to the report definition, you have the description,
+[00:00:56 -> 00:01:01]  but you also have this concept of row sets and column sets.
+[00:01:01 -> 00:01:03]  And these are extremely powerful.
+[00:01:03 -> 00:01:07]  You also have a concept called unit set, which we'll get into in a little bit.
+[00:01:07 -> 00:01:15]  So let's open up our standard P&L report, and let's go through the settings.
+[00:01:15 -> 00:01:20]  So a couple of things, you have a code and description, those are obvious.
+[00:01:20 -> 00:01:26]  We have a different type, so Acumatica's Reporting Engine can do general ledger reports as well
+[00:01:26 -> 00:01:29]  as project accounting reports.
+[00:01:29 -> 00:01:32]  You have row sets and column sets, we'll get into those in a second.
+[00:01:32 -> 00:01:37]  We have unit sets, we'll also get into those in a few minutes.
+[00:01:37 -> 00:01:43]  You have the settings here, and the settings are the parameters that you use when you're
+[00:01:43 -> 00:01:46]  going into the report.
+[00:01:46 -> 00:01:54]  So if we make this half screen, and we end up running this report, this will give us
+[00:01:54 -> 00:02:00]  a good example of being able to see half the screen of the report, and half the screen
+[00:02:00 -> 00:02:02]  of these report definitions.
+[00:02:02 -> 00:02:09]  So let's take a look, let's preview this report, and make it half screen.
+[00:02:09 -> 00:02:13]  The first thing is, is when we go to run the report, again, these are the report parameters.
+[00:02:13 -> 00:02:19]  You can see here, we're requesting the ledger to be entered, and we're requesting the starting
+[00:02:19 -> 00:02:20]  period.
+[00:02:20 -> 00:02:25]  And that's what you see here, the ledger and the starting period.
+[00:02:25 -> 00:02:30]  Now you can turn these off, and pre-fill in the default ledger in this case, or you can
+[00:02:30 -> 00:02:33]  ask it to request.
+[00:02:33 -> 00:02:35]  Same thing goes for the starting period.
+[00:02:35 -> 00:02:40]  If you wanted to, you could create a report that says, only show me profit and loss for
+[00:02:40 -> 00:02:42]  2018.
+[00:02:42 -> 00:02:43]  You could do that.
+[00:02:43 -> 00:02:48]  You can make as many report definitions as you want, and hard code in the periods.
+[00:02:48 -> 00:02:49]  That's certainly possible.
+[00:02:49 -> 00:02:53]  Not practical, but definitely possible.
+[00:02:53 -> 00:02:58]  So if we run this report, we'll just get this up on the screen here for May 31st.
+[00:02:58 -> 00:03:01]  Let's go back actually, and let's run it for 12-2018.
+[00:03:02 -> 00:03:05]  There's a little bit better data there for us to see.
+[00:03:05 -> 00:03:10]  Now continuing on in our report definition, you can see the sitemap.
+[00:03:10 -> 00:03:13]  This is where we put the report menu.
+[00:03:13 -> 00:03:19]  Now the sitemap is based on the classic user interface of Acumatica, which we're not running
+[00:03:19 -> 00:03:20]  right now.
+[00:03:20 -> 00:03:25]  We are running the modern UI, which has our work areas along the side.
+[00:03:25 -> 00:03:30]  So if we minimize this, this would be based on the classic UI.
+[00:03:30 -> 00:03:32]  This is based on the modern UI.
+[00:03:32 -> 00:03:39]  So this gives us a list of all the workspaces, which is along here, that we want to put the
+[00:03:39 -> 00:03:42]  menu item in, and then what category it goes into.
+[00:03:42 -> 00:03:48]  So if we click on, for example, the financial menu, you could see all the different categories
+[00:03:48 -> 00:03:49]  here.
+[00:03:49 -> 00:03:54]  And it gives us the ability to put this particular report in this particular workspace under
+[00:03:54 -> 00:03:56]  this category.
+[00:03:56 -> 00:03:57]  So a lot of flexibility.
+[00:03:57 -> 00:04:03]  And of course, all of these reports will fall into the security.
+[00:04:03 -> 00:04:09]  So you have the ability to give people rights to these reports or not rights to these reports.
+[00:04:09 -> 00:04:13]  And of course, no report can be defined without margins and with print areas and stuff like
+[00:04:13 -> 00:04:14]  that.
+[00:04:14 -> 00:04:16]  So you have all those settings as well.
+[00:04:16 -> 00:04:22]  So let's jump back into a concept we call row sets.
+[00:04:22 -> 00:04:27]  And then we'll get into column sets and then ultimately unit sets.
+[00:04:27 -> 00:04:36]  So if we click on the pencil next to the row set, what we see here are the list of rows
+[00:04:36 -> 00:04:40]  that make up this particular report.
+[00:04:40 -> 00:04:43]  So just to get started, and the reason I bring this up in split screen is so that you can
+[00:04:43 -> 00:04:45]  see both at the same time.
+[00:04:45 -> 00:04:49]  And we'll make a couple of changes to this report so we can see how a change impacts
+[00:04:49 -> 00:04:51]  the report.
+[00:04:51 -> 00:04:56]  So first off, we have a blank line, we have a revenue line, it's a caption that shows
+[00:04:56 -> 00:04:59]  up here.
+[00:04:59 -> 00:05:05]  Then we have another space and we have sales revenue as a caption shows up here.
+[00:05:05 -> 00:05:09]  I'll make this a little bit bigger.
+[00:05:09 -> 00:05:12]  And then we have a line called sales details.
+[00:05:12 -> 00:05:14]  And you don't see it quite clearly over here.
+[00:05:14 -> 00:05:18]  But sales details is a GL line type.
+[00:05:18 -> 00:05:25]  So we have GL, we have caption, we have lines and totals and headers and stuff.
+[00:05:25 -> 00:05:27]  But this is a GL line.
+[00:05:27 -> 00:05:31]  Now we're pulling our data for the GL from this data source.
+[00:05:31 -> 00:05:34]  So let's open this up for a second.
+[00:05:34 -> 00:05:42]  What this is doing is it's pulling all of our general ledger accounts for the turnover,
+[00:05:42 -> 00:05:48]  turnover being the period to date, and the year to date for the accounts that have account
+[00:05:48 -> 00:05:51]  class sales.
+[00:05:51 -> 00:05:53]  So let's take a look at our chart of accounts real quick.
+[00:05:53 -> 00:05:55]  So this all makes sense.
+[00:05:55 -> 00:06:01]  So we'll go back to our menu, and we'll go to finance, and we'll open up our chart
+[00:06:01 -> 00:06:05]  of accounts.
+[00:06:05 -> 00:06:07]  And we'll make this a little bit bigger.
+[00:06:07 -> 00:06:13]  So we talked about how we're bringing in all the GL activities for a row set, we'll
+[00:06:13 -> 00:06:18]  go back, for account class sales.
+[00:06:18 -> 00:06:19]  So let's go back again.
+[00:06:19 -> 00:06:25]  And let's filter by, we'll click on the column here, we'll filter by sales.
+[00:06:25 -> 00:06:31]  So all of the chart of accounts that have been indicated as the account class for sales.
+[00:06:31 -> 00:06:33]  That's what we're seeing here.
+[00:06:33 -> 00:06:35]  And that's what we see here.
+[00:06:35 -> 00:06:38]  So sales revenue and freight, sales revenue and freight.
+[00:06:38 -> 00:06:43]  The reason you don't see these other chart of accounts is because if we scroll over in
+[00:06:43 -> 00:06:48]  our row sets, and we'll just make this bigger for now.
+[00:06:48 -> 00:06:54]  Under sales details, you can see that we're suppressing empties and hiding zeros.
+[00:06:54 -> 00:07:00]  So because there's no activities for those, we're not seeing those lines.
+[00:07:00 -> 00:07:06]  Now if we go back to our data source, the other thing we have is the ability to filter
+[00:07:06 -> 00:07:08]  by the GL account.
+[00:07:08 -> 00:07:13]  So we can put any accounts we want on this particular line, we don't have to group them
+[00:07:13 -> 00:07:14]  together.
+[00:07:14 -> 00:07:17]  But in this case, we're grouping by account class.
+[00:07:17 -> 00:07:23]  But the other thing we can do is instead of showing every GL account for that line, again,
+[00:07:23 -> 00:07:28]  if I go back to the report, we're showing the lines that have activities.
+[00:07:28 -> 00:07:32]  I could summarize and say don't expand.
+[00:07:32 -> 00:07:35]  And I can click OK here.
+[00:07:35 -> 00:07:37]  And we'll hit the Save button.
+[00:07:37 -> 00:07:42]  And now what we'll do is we'll minimize, and we'll rerun this P&L report.
+[00:07:42 -> 00:07:51]  So we'll go to financials, and we'll run our P&L.
+[00:07:51 -> 00:07:53]  And we'll run it again.
+[00:07:53 -> 00:07:58]  And now instead of seeing these two lines, you end up seeing sales details, which of
+[00:07:58 -> 00:08:04]  course matches our total sales revenue because it's a total for those two lines.
+[00:08:04 -> 00:08:07]  But that's what you get when you don't expand.
+[00:08:07 -> 00:08:12]  So let's go back to our report definitions.
+[00:08:12 -> 00:08:14]  And we'll open it up.
+[00:08:14 -> 00:08:19]  And let's go back to row sets and take an additional look.
+[00:08:19 -> 00:08:23]  So we talked about how this is the first line, this is the second line and everything.
+[00:08:23 -> 00:08:25]  That's based on this code here.
+[00:08:25 -> 00:08:28]  You can make these numbers anything you want.
+[00:08:28 -> 00:08:35]  And based on the number order, we can put different lines wherever we want.
+[00:08:35 -> 00:08:41]  So now when we look at this example, 101 to 102, you might ask the question, well, Greg,
+[00:08:41 -> 00:08:44]  how do I put a line in between 101 and 102?
+[00:08:44 -> 00:08:45]  There's no space.
+[00:08:45 -> 00:08:48]  Well, what you can do up here is renumber.
+[00:08:48 -> 00:08:53]  So I can come in here and I could say, well, I want to renumber everything by a step of
+[00:08:53 -> 00:08:56]  10.
+[00:08:56 -> 00:08:59]  And I want to use four digits.
+[00:08:59 -> 00:09:04]  And when I renumber, you can see everything now skips by 10.
+[00:09:04 -> 00:09:09]  So that's kind of useful because now I have the ability to maybe put 105 in there to insert
+[00:09:09 -> 00:09:13]  this in between.
+[00:09:13 -> 00:09:14]  So that's the numbering sequence.
+[00:09:14 -> 00:09:18]  Now we talked about the sales detail and how this is coming from this data source account
+[00:09:18 -> 00:09:21]  class.
+[00:09:21 -> 00:09:24]  And then we have a line and then we have a total line.
+[00:09:24 -> 00:09:28]  And you can see again, it's the type is total.
+[00:09:28 -> 00:09:31]  And we're using this formula right here in order to total.
+[00:09:31 -> 00:09:38]  So basically what we're doing is we're saying equals at 0090 and we're taking that total
+[00:09:38 -> 00:09:39]  line.
+[00:09:39 -> 00:09:41]  Pretty straightforward and easy.
+[00:09:41 -> 00:09:46]  But if we had multiple lines, we may use a formula and basically continue to add such
+[00:09:46 -> 00:09:47]  as this one.
+[00:09:47 -> 00:09:52]  So for total revenue, we're taking 110, which is this line up here.
+[00:09:52 -> 00:09:55]  We already got the total from this.
+[00:09:55 -> 00:10:00]  And we're adding 170, which is total other revenue from here.
+[00:10:00 -> 00:10:01]  That's how we're getting total revenue.
+[00:10:01 -> 00:10:09]  And again, if we go back to our P&L, you can see here is total other revenue and here's
+[00:10:09 -> 00:10:13]  total revenue.
+[00:10:13 -> 00:10:17]  So that gives you an idea and the breakdown of the different row sets and what we can
+[00:10:17 -> 00:10:18]  do with it.
+[00:10:18 -> 00:10:20]  Now, a couple of other things here.
+[00:10:20 -> 00:10:25]  If you're looking to copy, for example, the style.
+[00:10:25 -> 00:10:30]  So maybe I add a new line here, but it doesn't quite look like all the other rows.
+[00:10:30 -> 00:10:32]  You can use the copy and paste style.
+[00:10:32 -> 00:10:35]  So copy the style from one line and paste it to another.
+[00:10:35 -> 00:10:36]  So that's fine.
+[00:10:36 -> 00:10:39]  Also keep an eye on your indents, right?
+[00:10:39 -> 00:10:43]  So if you add a new line, you may want to change the indents to match what you're doing
+[00:10:43 -> 00:10:44]  here.
+[00:10:44 -> 00:10:47]  So your indents are right here.
+[00:10:47 -> 00:10:50]  Sales revenue is indented.
+[00:10:50 -> 00:10:53]  And then you also have things like height and all those kinds of settings that you would
+[00:10:53 -> 00:10:56]  normally expect.
+[00:10:56 -> 00:10:58]  Okay.
+[00:10:58 -> 00:11:03]  So let's go back to our report definitions and let's take a look at our column sets.
+[00:11:03 -> 00:11:10]  So if we click on our column set, for this particular report, we have two columns.
+[00:11:10 -> 00:11:15]  We have our year to date and we have our period to date.
+[00:11:15 -> 00:11:18]  And the other column we have here is basically this heading up here.
+[00:11:18 -> 00:11:26]  So our report is basically pulling the account name, whatever your company name is.
+[00:11:26 -> 00:11:29]  You could see this formula and you could find all this in the help, by the way, if you're
+[00:11:29 -> 00:11:31]  looking for a specific formula.
+[00:11:31 -> 00:11:37]  Or you can use an existing column set and mirror it for your other reports.
+[00:11:37 -> 00:11:42]  The second one is basically just a text string that says profit and loss.
+[00:11:42 -> 00:11:46]  And then we're pulling as of December 31st, 2018.
+[00:11:46 -> 00:11:52]  It's pulling this formula to calculate that out.
+[00:11:52 -> 00:11:54]  Okay.
+[00:11:54 -> 00:11:56]  So these are the different lines.
+[00:11:56 -> 00:11:58]  And this particular line is giving us our underline.
+[00:11:58 -> 00:12:06]  So now if we were to add other columns, we'd want to copy this style over to get the underlines.
+[00:12:06 -> 00:12:10]  So looking down below, so we got our year to date column.
+[00:12:10 -> 00:12:12]  The first thing is, is the type.
+[00:12:12 -> 00:12:16]  So we can make this a GL or a calculation or description.
+[00:12:16 -> 00:12:18]  Now certainly this is a description.
+[00:12:18 -> 00:12:22]  This description is pulling from the GL account.
+[00:12:22 -> 00:12:25]  But the GL actually pulls from a data source.
+[00:12:25 -> 00:12:29]  So if we scroll all the way to the bottom, again, just like the row sets, we have a data
+[00:12:29 -> 00:12:31]  source here.
+[00:12:31 -> 00:12:38]  And that data source is essentially pulling the amount type for the ending balance.
+[00:12:38 -> 00:12:43]  Now on the flip side, our other column is pulling the amount type of a turnover.
+[00:12:43 -> 00:12:47]  So that's the turnover for the current period, period to date.
+[00:12:47 -> 00:12:51]  Again, if you like the style, you can always copy and then come over here and paste the
+[00:12:51 -> 00:12:53]  style.
+[00:12:53 -> 00:12:57]  Additionally, keep an eye out for your formatting.
+[00:12:57 -> 00:12:59]  So this is the numbering formats.
+[00:12:59 -> 00:13:05]  This is how we're able to get a nice numbering format that has commas between every three
+[00:13:05 -> 00:13:06]  digits.
+[00:13:06 -> 00:13:16]  And we also support rounding, so you can round, for example.
+[00:13:16 -> 00:13:18]  And that's basically your column sets.
+[00:13:18 -> 00:13:23]  Now, if you're looking for some additional column sets, let's close this for a moment.
+[00:13:23 -> 00:13:25]  And we'll close this one too.
+[00:13:25 -> 00:13:28]  And we'll go back to our report definitions.
+[00:13:28 -> 00:13:34]  And let's look up another report, maybe, for example, the profit and loss 12 month.
+[00:13:34 -> 00:13:37]  Let's take a look at our column set here.
+[00:13:37 -> 00:13:44]  Now, you'll notice the column set, for example, has at least 12 columns plus a total.
+[00:13:44 -> 00:13:48]  And you could see what we're doing here, we're doing a turnover for the current period.
+[00:13:48 -> 00:13:55]  And if we scroll to the right, actually, this is the total.
+[00:13:55 -> 00:13:59]  And what we're doing when we look at the data source is we're doing a turnover, but
+[00:13:59 -> 00:14:04]  we're offsetting the period by one, and for the next column by two, and so on.
+[00:14:04 -> 00:14:06]  That gives us our rolling 12 months.
+[00:14:06 -> 00:14:10]  Now, let's run this report so we can see what it looks like.
+[00:14:10 -> 00:14:13]  We'll do a preview here.
+[00:14:13 -> 00:14:17]  And we'll leave everything alone here, and we'll run it.
+[00:14:17 -> 00:14:24]  You can see now we have a rolling 12 month period.
+[00:14:24 -> 00:14:25]  So that's another good example.
+[00:14:25 -> 00:14:27]  Now, let's close this.
+[00:14:27 -> 00:14:31]  And let's look at another kind of report, which is also interesting.
+[00:14:31 -> 00:14:34]  Here is a profit and loss that's consolidated.
+[00:14:34 -> 00:14:38]  Let's preview that report.
+[00:14:38 -> 00:14:40]  And we'll go back to 12 2018.
+[00:14:40 -> 00:14:43]  And we'll run it.
+[00:14:43 -> 00:14:51]  So what we've done here is we're looking at different data sets, US, Europe, we're consolidating
+[00:14:51 -> 00:14:52]  them.
+[00:14:52 -> 00:14:54]  These are all year to dates.
+[00:14:54 -> 00:14:56]  And then we're looking at period to dates.
+[00:14:56 -> 00:14:58]  So let's see, how do we do that?
+[00:14:58 -> 00:15:04]  So we'll minimize this, and we'll take a look at our column sets.
+[00:15:04 -> 00:15:09]  So if we scroll down, these are all GL fields.
+[00:15:09 -> 00:15:11]  And we take a look.
+[00:15:11 -> 00:15:16]  What we've done here is we've used different GL ledgers.
+[00:15:16 -> 00:15:19]  So in Acumatica, we have different ledgers.
+[00:15:19 -> 00:15:25]  And these ledgers allow us to have essentially different sets of books.
+[00:15:25 -> 00:15:27]  Now, you always have an actual ledger.
+[00:15:27 -> 00:15:31]  That's where your live transactions are always flowing into.
+[00:15:31 -> 00:15:34]  But you can use other ledgers for budgeting purposes.
+[00:15:34 -> 00:15:39]  You can also use other ledgers to import from other companies.
+[00:15:39 -> 00:15:46]  We have the ability to import from other tenants or other instances of Acumatica and drive
+[00:15:46 -> 00:15:49]  that information into these other ledgers.
+[00:15:49 -> 00:15:54]  You look at your chart of accounts, you have the ability to map the GL accounts to the
+[00:15:54 -> 00:15:58]  appropriate source account.
+[00:15:58 -> 00:16:01]  And then lastly, we also have a concept called allocations.
+[00:16:01 -> 00:16:06]  And again, we won't go into detail about how GL allocations work.
+[00:16:06 -> 00:16:12]  But GL allocations allow us to take data from one ledger and bring it into another ledger,
+[00:16:12 -> 00:16:15]  among other features as well.
+[00:16:15 -> 00:16:22]  So you can see again, we're using this particular column is using this ledger and providing
+[00:16:22 -> 00:16:24]  the ending balance.
+[00:16:24 -> 00:16:30]  And this particular column is using this ledger with an ending balance.
+[00:16:30 -> 00:16:33]  And then one of the things we skipped over earlier when we were talking about column
+[00:16:33 -> 00:16:36]  sets is this calc column.
+[00:16:36 -> 00:16:37]  So this is really cool.
+[00:16:37 -> 00:16:43]  Instead of pulling data from the GL, we have the ability to do a calculation.
+[00:16:43 -> 00:16:44]  So pretty easy here.
+[00:16:44 -> 00:16:49]  We're taking columns B, and we're adding C. And that's the value for this particular
+[00:16:49 -> 00:16:50]  column.
+[00:16:50 -> 00:16:54]  If you look again at our report, that's what we're doing here.
+[00:16:54 -> 00:16:56]  That gives us our 59 million.
+[00:16:56 -> 00:16:58]  Okay.
+[00:16:58 -> 00:17:01]  And the only difference in here is we're doing period to date.
+[00:17:01 -> 00:17:04]  So once again, we take a look at our data source.
+[00:17:04 -> 00:17:13]  Instead of the ledger and an ending balance, we're doing the turnover.
+[00:17:13 -> 00:17:16]  So now let's take a look at unit sets.
+[00:17:16 -> 00:17:24]  So if we go back to our main P&L, you notice we have a unit set called branches.
+[00:17:24 -> 00:17:27]  Now if we run this report, we'll just run it for a second.
+[00:17:27 -> 00:17:30]  We can see what it looks like.
+[00:17:30 -> 00:17:35]  And I'll pick 12, 2018.
+[00:17:35 -> 00:17:42]  What we have in this report is this small tree view button, and it's called groups.
+[00:17:42 -> 00:17:45]  And what it does is it allows you to, I'll make it bigger.
+[00:17:45 -> 00:17:52]  What it does is it allows you to click and go through a tree view and get just the data
+[00:17:52 -> 00:17:55]  for that particular unit section.
+[00:17:55 -> 00:18:00]  So in the case of our sales demo, we have multiple companies with different branches,
+[00:18:00 -> 00:18:03]  and I can click through them and get my different data.
+[00:18:03 -> 00:18:09]  So I can look at, for example, my revenue, my entire P&L for the services east branch,
+[00:18:09 -> 00:18:12]  or for the product retail branch.
+[00:18:12 -> 00:18:14]  Or I can go back and consolidate.
+[00:18:14 -> 00:18:20]  So this is very easy to use, and this comes from an area in Acumatica called unit sets.
+[00:18:20 -> 00:18:27]  We won't go into too much details on it, but take a look at an example, and we're looking
+[00:18:27 -> 00:18:30]  at the branch unit set.
+[00:18:30 -> 00:18:33]  We look at the branch unit set in detail.
+[00:18:33 -> 00:18:39]  You can see the entire tree view, and you can see where are we pulling the data for
+[00:18:39 -> 00:18:41]  that particular view.
+[00:18:41 -> 00:18:45]  So if I go to products, we can see product retail, that's one line.
+[00:18:45 -> 00:18:51]  And we pull the data source from, you see this similar data source dialog box that we've
+[00:18:51 -> 00:18:52]  been looking at.
+[00:18:52 -> 00:18:57]  We're pulling out the starting branch product retail.
+[00:18:57 -> 00:19:03]  And if we go back down to this line, we're pulling the starting branch product wholesale.
+[00:19:03 -> 00:19:09]  And again, if we go back up to all, and we're looking at our companies, you can see once
+[00:19:09 -> 00:19:13]  again starting branch of product retail to product wholesale.
+[00:19:13 -> 00:19:17]  That gives us our entire company of data.
+[00:19:17 -> 00:19:23]  Now in Acumatica 2019, we've rolled things and made things a little bit easier regarding
+[00:19:23 -> 00:19:26]  companies and branches.
+[00:19:26 -> 00:19:31]  Actually this may have come about in 2018, but we have the ability in the data source
+[00:19:31 -> 00:19:34]  to actually choose the company and not have to deal with branches.
+[00:19:35 -> 00:19:39]  It used to be that we had only branches and we didn't have a company hierarchy.
+[00:19:39 -> 00:19:43]  But now we have the ability to have companies and then branches underneath.
+[00:19:43 -> 00:19:48]  And this data source now has this filter here.
+[00:19:48 -> 00:19:53]  Now at the time that this unit set was created, Acumatica didn't have the company profile.
+[00:19:53 -> 00:19:56]  So that's why it was set up this way.
+[00:19:56 -> 00:19:58]  So that's it.
+[00:19:58 -> 00:20:01]  That's financial reporting in Acumatica.
+[00:20:01 -> 00:20:05]  To use the software and report your financials the way you want to.
+[00:20:05 -> 00:20:12]  With a lot of flexibility to also continue to build on, add additional reports with different
+[00:20:12 -> 00:20:16]  row sets and column sets and different unit sets.
+[00:20:16 -> 00:20:20]  And essentially get the information the way you need it.
+[00:20:20 -> 00:20:25]  So if you have any questions, at the end of the video is our contact information.
+[00:20:25 -> 00:20:26]  Feel free to reach out to us.
+[00:20:26 -> 00:20:28]  We'd love to hear from you.
+[00:20:28 -> 00:20:29]  Thanks again for watching.

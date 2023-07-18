@@ -1,0 +1,171 @@
+[00:00:00 -> 00:00:12]  Hey guys, I always tell my students, maths is about making complicated things simple.
+[00:00:12 -> 00:00:13]  It's about simplifying.
+[00:00:13 -> 00:00:18]  It's about making your life easier and more understanding.
+[00:00:18 -> 00:00:21]  Algebra is a topic that does just that.
+[00:00:21 -> 00:00:24]  It's a topic that introduces pronumerals.
+[00:00:24 -> 00:00:26]  What are pronumerals?
+[00:00:26 -> 00:00:33]  They are letters or symbols and they take the position, they take the place of numbers.
+[00:00:33 -> 00:00:37]  Now the whole world revolves around using algebra.
+[00:00:37 -> 00:00:41]  All your formulas, all the tech gadgets that you have, your iPhones, your iPads, they all
+[00:00:41 -> 00:00:45]  work because they have been programmed using formulas.
+[00:00:45 -> 00:00:50]  Now for us, we're not going to go into too much detail, however, we're going to go and
+[00:00:50 -> 00:00:53]  explain to you how algebra works.
+[00:00:53 -> 00:00:57]  If you understand the basics of algebra, you're going to notice the rest of your algebra
+[00:00:57 -> 00:01:01]  life throughout high school is going to be very easy.
+[00:01:01 -> 00:01:07]  I've assessed too many students and in year 9 and 10, they come and I notice their problem
+[00:01:07 -> 00:01:11]  is that it's not the year 9, nor the year 10 work, nor the year 11 work, it's actually
+[00:01:11 -> 00:01:14]  the basics of not understanding algebra.
+[00:01:14 -> 00:01:20]  Today, I'm going to spend some time going through a lot of the examples just so you
+[00:01:20 -> 00:01:23]  can understand algebra very well.
+[00:01:23 -> 00:01:26]  Algebra is used to simplify mathematical problems.
+[00:01:26 -> 00:01:28]  We like to make things simple.
+[00:01:28 -> 00:01:35]  You'll notice a lot in maths where the question says simplify or write your answers in simplified
+[00:01:35 -> 00:01:36]  form.
+[00:01:36 -> 00:01:39]  So it's very important we understand algebra very well.
+[00:01:39 -> 00:01:43]  You're going to notice it is easy, once you get the hang of it, you'll become very fast.
+[00:01:43 -> 00:01:47]  Let's go through some of the rules.
+[00:01:47 -> 00:01:53]  In algebra, when we have a multiplication, it's basically invisible.
+[00:01:53 -> 00:02:01]  So looking at these examples here in these diagrams, m times n, it is the same as mn.
+[00:02:01 -> 00:02:04]  So all we do is get rid of the multiplication.
+[00:02:04 -> 00:02:09]  m times n, meaning mn.
+[00:02:09 -> 00:02:12]  We also have 4 times b.
+[00:02:12 -> 00:02:15]  Now b is a number, but we don't know what it is.
+[00:02:15 -> 00:02:18]  So 4 times b is exactly the same as 4b.
+[00:02:18 -> 00:02:22]  So we don't write it as 4 times b, we write it as 4b.
+[00:02:22 -> 00:02:27]  We're going to do more examples, but now just go through the theory.
+[00:02:27 -> 00:02:33]  Division, when we have an example of g divided by 7, we write it in fraction form.
+[00:02:33 -> 00:02:36]  So we write g over 7.
+[00:02:36 -> 00:02:40]  g divided by 7, g over 7.
+[00:02:41 -> 00:02:48]  We have y divided by t, another example, we write it as y over t.
+[00:02:48 -> 00:02:55]  And one of the last rules we're going to go through is that b times b equals b squared.
+[00:02:55 -> 00:02:58]  Or a times a equals a squared.
+[00:02:58 -> 00:03:02]  It's like saying 8 times 8, 8 squared.
+[00:03:02 -> 00:03:06]  So the same thing, in algebra we follow the same rules.
+[00:03:06 -> 00:03:11]  Now that we've understood the basics, this is the theory, let's start by applying it
+[00:03:11 -> 00:03:15]  to some examples, and you'll see it is very easy.
+[00:03:15 -> 00:03:22]  Looking at this example here, where it says 4 times y.
+[00:03:22 -> 00:03:27]  So we said the rules are, we get rid of the multiplication sign.
+[00:03:27 -> 00:03:33]  4 times y in algebra, we just write it in simple form, 4y.
+[00:03:33 -> 00:03:36]  4 times y, 4y.
+[00:03:36 -> 00:03:37]  That's it.
+[00:03:37 -> 00:03:41]  All we've done, you just get rid of the multiplication sign.
+[00:03:41 -> 00:03:43]  6 times a, how do we write it?
+[00:03:43 -> 00:03:44]  Simple rule.
+[00:03:44 -> 00:03:50]  We just get rid of the multiplication sign, 6 times a is the same as 6a.
+[00:03:50 -> 00:03:57]  So whenever you see 6a, you know straight away it means 6 times a.
+[00:03:57 -> 00:04:00]  a times b, what do we do?
+[00:04:00 -> 00:04:02]  The multiplication sign, see you later.
+[00:04:02 -> 00:04:07]  a times b, a, b.
+[00:04:07 -> 00:04:08]  We've written it in a simple form.
+[00:04:08 -> 00:04:12]  a, b is a times b, but we write it in simpler form.
+[00:04:12 -> 00:04:16]  The multiplication sign, we say bye bye.
+[00:04:16 -> 00:04:27]  t times s, t times s, t, s, the multiplication sign, once again, gone.
+[00:04:27 -> 00:04:32]  Looking here, we have a times c, times c.
+[00:04:32 -> 00:04:37]  Now, when we are writing this one, again, we are going to get rid of the multiplication
+[00:04:37 -> 00:04:38]  signs.
+[00:04:38 -> 00:04:45]  a times c, times c, is ac squared.
+[00:04:45 -> 00:04:46]  Why?
+[00:04:46 -> 00:04:50]  a times c is ac, c times c is c squared.
+[00:04:50 -> 00:04:55]  Instead of writing acc, again in maths we like to make things simple, so we write it
+[00:04:55 -> 00:05:05]  as ac squared, meaning a times c, times c again, because c squared means c times c.
+[00:05:05 -> 00:05:07]  See if you can do this one.
+[00:05:07 -> 00:05:10]  g times y, times g.
+[00:05:10 -> 00:05:12]  What do you think it's going to be?
+[00:05:12 -> 00:05:16]  Think about it, g times y, times g.
+[00:05:16 -> 00:05:22]  We know, we can write it as gyg, however, in maths we like to make it simpler, so we
+[00:05:22 -> 00:05:30]  write it as g squared y, because g times g, times y.
+[00:05:30 -> 00:05:39]  So g squared y, which really means g times g, times y, or g times y, times g.
+[00:05:39 -> 00:05:40]  The order doesn't matter.
+[00:05:40 -> 00:05:45]  It's like 4 times 3, or 3 times 4.
+[00:05:45 -> 00:05:47]  They both have the same answer of 12.
+[00:05:47 -> 00:05:51]  So the order in multiplication doesn't really matter at all.
+[00:05:51 -> 00:05:57]  5 times 5 is 5 squared, g times g is g squared.
+[00:05:57 -> 00:06:01]  So just to bring the picture more, all we're doing, we're following the same rules of normal
+[00:06:01 -> 00:06:02]  mathematics.
+[00:06:02 -> 00:06:09]  They behave the same way, but we are using letters, or what we know as pronumerals.
+[00:06:09 -> 00:06:15]  This example here, 3 times y, times b.
+[00:06:15 -> 00:06:23]  We always write the numerals first, the numbers first, and 3 times y, times b, we can write
+[00:06:23 -> 00:06:30]  it as 3 y b, or we can even write it as 3 b y.
+[00:06:30 -> 00:06:33]  Again, the order does not matter.
+[00:06:33 -> 00:06:41]  It's best to write it in alphabetical format, 3 b y, or 3 y b is still correct, but it's
+[00:06:41 -> 00:06:47]  always best to write it in alphabetical order, 3 times y, times b, is 3 y b.
+[00:06:47 -> 00:06:53]  We get rid of the multiplication sign, we can write it like that, or we can write it
+[00:06:53 -> 00:06:54]  like that.
+[00:06:54 -> 00:06:56]  They're both correct.
+[00:06:56 -> 00:07:02]  Here, 5 times a, times 4.
+[00:07:02 -> 00:07:06]  We notice here we have numerals, we have numbers.
+[00:07:06 -> 00:07:09]  And we know 5 times 4 is what?
+[00:07:09 -> 00:07:10]  It's 20.
+[00:07:10 -> 00:07:13]  So 20 a.
+[00:07:13 -> 00:07:22]  5 times 4, 20, 20 times a, 20 a.
+[00:07:22 -> 00:07:28]  Here, we have 6 times brackets, y plus t, close the brackets.
+[00:07:28 -> 00:07:36]  So basically, this question is saying that 6 is multiplied by everything inside the brackets.
+[00:07:36 -> 00:07:39]  Everything inside the brackets.
+[00:07:39 -> 00:07:49]  All we need to do is simply take off, get rid of the multiplication sign.
+[00:07:49 -> 00:07:50]  That's it.
+[00:07:50 -> 00:07:52]  The times is gone.
+[00:07:52 -> 00:07:55]  Six brackets, y plus t brackets.
+[00:07:55 -> 00:07:59]  We know there is a little times here, but we don't write it, but we know it's there.
+[00:07:59 -> 00:08:00]  It's invisible.
+[00:08:00 -> 00:08:04]  Six brackets, y plus t, close the bracket.
+[00:08:04 -> 00:08:09]  We have written it in a very simple and straightforward format.
+[00:08:09 -> 00:08:12]  So let's go through it one more time.
+[00:08:12 -> 00:08:15]  Four times y, 4y.
+[00:08:15 -> 00:08:19]  We've just said to the multiplication, bye bye.
+[00:08:19 -> 00:08:21]  Six times a, 6a.
+[00:08:21 -> 00:08:25]  6a is exactly the same as 6 times a.
+[00:08:25 -> 00:08:28]  A times b, ab.
+[00:08:28 -> 00:08:32]  T times s, ts.
+[00:08:32 -> 00:08:36]  a times c times c, ac squared.
+[00:08:36 -> 00:08:42]  And we said c squared is the same as writing it as c times c.
+[00:08:42 -> 00:08:52]  g times y times g, g squared, g times g, times y, g squared, y.
+[00:08:52 -> 00:08:58]  And 3 times y times b, again the multiplication signs are gone, 3yb.
+[00:08:58 -> 00:09:04]  We know it means 3 times y times b, or we can write it 3 times b times y.
+[00:09:04 -> 00:09:08]  Both are correct, whatever way you choose is fine.
+[00:09:08 -> 00:09:14]  Five times a times 4, we know there are numbers multiplied.
+[00:09:14 -> 00:09:21]  Five times 4 is 20, 20a.
+[00:09:21 -> 00:09:28]  And lastly, 6 times everything in the brackets, we just get rid of the multiplication sign.
+[00:09:28 -> 00:09:37]  6 brackets, y plus 2, plus t, close the brackets, so we know it means 6 times everything in
+[00:09:37 -> 00:09:38]  the brackets.
+[00:09:38 -> 00:09:43]  So whenever you see that, you know straight away it means 6 times everything inside the
+[00:09:43 -> 00:09:44]  brackets.
+[00:09:44 -> 00:09:50]  Now, let's do some more examples to get the picture much more clearer.
+[00:09:50 -> 00:09:55]  Some more examples now, and you're going to see how easy it is.
+[00:09:55 -> 00:10:00]  7 divided by y, we learnt that the division means fraction.
+[00:10:00 -> 00:10:07]  So 7 divided by y means 7 over y.
+[00:10:07 -> 00:10:14]  The division becomes a fraction bar, the 7 is first, so it becomes on the numerator,
+[00:10:14 -> 00:10:18]  and the y is on, and becomes the denominator.
+[00:10:18 -> 00:10:22]  7 over y.
+[00:10:22 -> 00:10:25]  This one here, y divided by 7.
+[00:10:25 -> 00:10:32]  So y divided by 7, the division is fraction bar, y is our numerator, it's on top, and
+[00:10:32 -> 00:10:37]  the 7 down the bottom as the denominator.
+[00:10:37 -> 00:10:40]  Very important to know that rule, I've seen students mix them up.
+[00:10:40 -> 00:10:48]  Very important, what comes first is the numerator, what comes second goes as the denominator.
+[00:10:48 -> 00:10:56]  a times b times c, we learnt that the multiplication, we say goodbye, so the multiplication goes.
+[00:10:56 -> 00:11:03]  a times b times c means a, b, c, it's as simple as that.
+[00:11:03 -> 00:11:07]  The multiplication just goes.
+[00:11:07 -> 00:11:15]  h times h, we said like 8 times 8 is 8 squared, 5 times 5, 5 squared.
+[00:11:15 -> 00:11:19]  In algebra, the pronoumials follow and behave in the same way.
+[00:11:19 -> 00:11:22]  h times h, what do you think?
+[00:11:22 -> 00:11:26]  h squared.
+[00:11:26 -> 00:11:28]  So h times h is h squared.
+[00:11:28 -> 00:11:33]  In algebra we always like to simplify and make things simple.
+[00:11:33 -> 00:11:44]  4 times d times d, 4 is our numeral, we write it first, and d times d is d squared, 4d squared
+[00:11:44 -> 00:11:49]  is our simplified answer for 4 times d times d.
+[00:11:49 -> 00:11:57]  b times 6 times b, again we always write the numerals first, 6 comes first.
+[00:11:57 -> 00:12:09]  b times b is b squared, 6b squared is our answer for b times 6 times b.
+[00:12:09 -> 00:12:16]  Here we have 5 divided by everything in the bracket, which is a times 2 in the brackets
+[00:12:16 -> 00:12:17]  there.
+[00:12:17 -> 00:12:28]  5 comes first, it is our numerator, division is our fraction bar, a times 2 is our denominator.
+[00:12:28 -> 00:12:35]  5 divided by everything, which is a times 2 in this case.
+[00:12:35 -> 00:12:41]  So as shown, you'll notice that if we follow the rules, it is simple, we always need to
+[00:12:41 -> 00:12:42]  simplify.
+[00:12:42 -> 00:12:43]  Algebra is about simplifying things.
+[00:12:43 -> 00:12:48]  In mathematics, we don't like to complicate things, we like to make them as simple as
+[00:12:48 -> 00:12:49]  possible.
+[00:12:49 -> 00:12:53]  So here, you've noticed that if you follow the rules, the rules of algebra, if you apply
+[00:12:53 -> 00:12:58]  them from now all throughout high school, you're going to find that algebra is smooth
+[00:12:58 -> 00:12:59]  and very easy.
+[00:12:59 -> 00:13:04]  Remember, later on in different years you're going to apply these rules and you need to
+[00:13:04 -> 00:13:09]  know them back to front for you to find the rest of high school algebra easy, so make
+[00:13:09 -> 00:13:11]  sure you master these right now.

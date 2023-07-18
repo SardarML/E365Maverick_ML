@@ -1,0 +1,89 @@
+[00:00:00 -> 00:00:02]  Welcome to GetChemistryHelped.com.
+[00:00:02 -> 00:00:08]  My name is Dr. Kent, and this is going to be a really brief lesson on chemical formulas.
+[00:00:08 -> 00:00:15]  Now a chemical formula is basically a shorthand way of expressing the types of atoms and the
+[00:00:15 -> 00:00:18]  number of atoms that are present in a substance.
+[00:00:18 -> 00:00:23]  So for example, one chemical formula you've probably heard of is H2O, so that's the chemical
+[00:00:23 -> 00:00:26]  formula for water.
+[00:00:26 -> 00:00:30]  Another one you might have heard of is carbon dioxide, is CO2.
+[00:00:30 -> 00:00:35]  So these are just shorthand ways that express the type and the number of atoms.
+[00:00:35 -> 00:00:37]  Okay so here's another one.
+[00:00:37 -> 00:00:39]  So H2SO4 is sulfuric acid.
+[00:00:39 -> 00:00:44]  Why don't we just take a second and break this down and try to decipher exactly what
+[00:00:44 -> 00:00:46]  this is telling me.
+[00:00:46 -> 00:00:50]  Okay well H, that's telling me, that's the symbol for hydrogen.
+[00:00:50 -> 00:00:52]  So there's hydrogen.
+[00:00:52 -> 00:00:53]  How many hydrogens?
+[00:00:53 -> 00:00:59]  Well the subscript after the hydrogen tells me there are two hydrogens present.
+[00:00:59 -> 00:01:00]  How about S?
+[00:01:00 -> 00:01:03]  Well S is the symbol for the element sulfur.
+[00:01:03 -> 00:01:08]  Now notice there isn't a subscript here, so if there isn't a subscript we just assume
+[00:01:08 -> 00:01:10]  that means there's only one.
+[00:01:10 -> 00:01:17]  O, that's the symbol for oxygen, and the subscript is four, so there must be four oxygens.
+[00:01:17 -> 00:01:26]  So sulfuric acid is composed of two hydrogen atoms, one sulfur atom, and four oxygen atoms.
+[00:01:26 -> 00:01:27]  Well how about water?
+[00:01:27 -> 00:01:32]  Well water must be two hydrogens and one oxygen.
+[00:01:32 -> 00:01:36]  Carbon dioxide must be one carbon and two oxygens.
+[00:01:36 -> 00:01:41]  Now sometimes in a chemical formula it's useful to use parentheses so we can clarify what's
+[00:01:41 -> 00:01:45]  going on with the actual structure or the composition.
+[00:01:45 -> 00:01:51]  So for example, this molecule here is TNT, which is a very famous explosive I'm sure
+[00:01:51 -> 00:01:52]  you've heard of.
+[00:01:52 -> 00:02:00]  So TNT is C7H5 parenthesis NO2 parenthesis 3.
+[00:02:00 -> 00:02:07]  So these parentheses are trying to set off this NO2 group as being separate, and the
+[00:02:07 -> 00:02:12]  subscript outside tells me well there are three of the NO2 groups.
+[00:02:12 -> 00:02:17]  So the subscript basically multiplies whatever is inside the parentheses.
+[00:02:17 -> 00:02:21]  So in our case, let's see, how many carbons do we have?
+[00:02:21 -> 00:02:33]  We have seven carbons, we have five hydrogens right here, then we have these NO2 groups
+[00:02:33 -> 00:02:34]  we have three.
+[00:02:34 -> 00:02:38]  Well how many nitrogens are there?
+[00:02:38 -> 00:02:44]  Well we multiply by three whatever is inside, so we have three nitrogens.
+[00:02:44 -> 00:02:46]  How many oxygens are there?
+[00:02:46 -> 00:02:52]  Well again we multiply by three, so two times three, there must be six oxygens.
+[00:02:52 -> 00:03:03]  So there you go, TNT has seven carbons, five hydrogens, three times one, three nitrogens,
+[00:03:03 -> 00:03:07]  three times two, six oxygens.
+[00:03:07 -> 00:03:10]  Okay so let's wrap it up with a few examples.
+[00:03:10 -> 00:03:17]  The first one says Mg3 parenthesis PO4 parenthesis 2, and the way we would commonly say that
+[00:03:17 -> 00:03:23]  by the way is Mg3 PO4 taken twice.
+[00:03:23 -> 00:03:27]  So we'd say taken for whatever was in parenthesis.
+[00:03:27 -> 00:03:33]  So Mg3 PO4 taken twice, because of the two here.
+[00:03:33 -> 00:03:40]  So this one has magnesium, that's Mg, has phosphorous, that's P, and it has oxygen,
+[00:03:40 -> 00:03:41]  that's the O.
+[00:03:41 -> 00:03:43]  Well how many magnesiums do we have?
+[00:03:43 -> 00:03:46]  In this case there's three magnesiums.
+[00:03:46 -> 00:03:48]  How many phosphorous do we have?
+[00:03:48 -> 00:03:54]  Well there's one in every PO4 group and there's two of those groups, so we would have two
+[00:03:54 -> 00:03:55]  phosphorous.
+[00:03:55 -> 00:03:57]  How about oxygen?
+[00:03:57 -> 00:04:03]  Well there's four in every PO4 group and there's two of those, so two times four we
+[00:04:03 -> 00:04:04]  would have eight.
+[00:04:04 -> 00:04:11]  So in terms of total atoms, we would have three plus two plus eight, we'd have 13 total
+[00:04:11 -> 00:04:16]  atoms in the structure for Mg3 PO4 taken twice.
+[00:04:16 -> 00:04:23]  Okay how about the next one, C2H4 OH taken twice.
+[00:04:23 -> 00:04:28]  So we've got carbon, hydrogen, and oxygen I see present.
+[00:04:28 -> 00:04:29]  How many carbons?
+[00:04:29 -> 00:04:31]  Well two.
+[00:04:31 -> 00:04:32]  How many hydrogens?
+[00:04:32 -> 00:04:37]  Okay this one's a little sneaky because there's four hydrogens here, but there's more hydrogens
+[00:04:37 -> 00:04:39]  in the parenthesis.
+[00:04:39 -> 00:04:44]  So there's one in the parenthesis, but there are two of these groups, so two times one
+[00:04:44 -> 00:04:46]  would give me two more.
+[00:04:46 -> 00:04:49]  So a total of six hydrogens.
+[00:04:49 -> 00:04:50]  How about oxygen?
+[00:04:50 -> 00:04:57]  So there's one inside the parenthesis times two, so two total oxygens.
+[00:04:57 -> 00:05:07]  So this would have ten total atoms are in C2H4 OH taken twice.
+[00:05:07 -> 00:05:14]  Okay last one, Al2 S2O3 taken three times.
+[00:05:14 -> 00:05:19]  Al2 S2O3 taken three times.
+[00:05:19 -> 00:05:26]  So we've got Al, that's aluminum, we've got sulfur, that's S, and we've got O, that's
+[00:05:26 -> 00:05:27]  oxygen.
+[00:05:27 -> 00:05:28]  So how many aluminums?
+[00:05:28 -> 00:05:30]  Well two.
+[00:05:30 -> 00:05:31]  How many sulfurs?
+[00:05:31 -> 00:05:37]  Well there's two, but again it's inside parenthesis, so we multiply that by the number outside.
+[00:05:37 -> 00:05:42]  So this subscript three times this subscript two gives me six sulfurs.
+[00:05:42 -> 00:05:43]  How about oxygens?
+[00:05:43 -> 00:05:48]  Well there's a subscript three, multiply it by this subscript three, so that gives me
+[00:05:48 -> 00:05:51]  nine oxygens.
+[00:05:51 -> 00:05:57]  So we'd have a total of seventeen atoms in this compound.
+[00:05:57 -> 00:05:59]  Well I hope you enjoyed this brief lesson.
+[00:05:59 -> 00:06:02]  Be sure to click on the subscribe button so you can be notified as soon as new videos
+[00:06:02 -> 00:06:05]  are posted, and we'll see you next time.
+[00:06:05 -> 00:06:05]  Thank you.

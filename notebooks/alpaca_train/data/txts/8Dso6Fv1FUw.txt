@@ -1,0 +1,160 @@
+[00:00:00 -> 00:00:05]  Quantum mechanics is supposed to be our best theory of physics.
+[00:00:05 -> 00:00:10]  That's because it can tell us what will happen in any experiment that we've tried.
+[00:00:10 -> 00:00:15]  But science is also meant to explain why things happen.
+[00:00:15 -> 00:00:19]  Quantum mechanics doesn't give us why, because we still don't understand how to interpret
+[00:00:19 -> 00:00:22]  its meaning at all.
+[00:00:22 -> 00:00:27]  For example, when an object starts at A and ends up at B, does quantum mechanics say that
+[00:00:27 -> 00:00:32]  it goes all possible ways at once, or that there are many copies of each object in many
+[00:00:32 -> 00:00:38]  different universes, each going a different way?
+[00:00:38 -> 00:00:43]  Or does it say that it doesn't even make sense to talk about something when we're not looking
+[00:00:43 -> 00:00:44]  at it?
+[00:00:44 -> 00:00:54]  These are all possible ways to interpret quantum mechanics, at least on face value.
+[00:00:54 -> 00:00:59]  In this video, we're going to look at the basic rules of quantum mechanics to understand
+[00:00:59 -> 00:01:12]  why its meaning is so evasive.
+[00:01:12 -> 00:01:17]  We're about to look at an experiment that showed that nature has a very strange rule.
+[00:01:17 -> 00:01:21]  Objects act differently when they're not being measured.
+[00:01:21 -> 00:01:26]  Before we get to that though, we need to understand when objects are and aren't being measured.
+[00:01:26 -> 00:01:29]  So let's look at this familiar situation.
+[00:01:29 -> 00:01:34]  You've lost an object, but you're sure you left it either here or here.
+[00:01:34 -> 00:01:37]  You're not currently measuring its position yourself, because you're not looking to see
+[00:01:37 -> 00:01:39]  where it is.
+[00:01:39 -> 00:01:44]  However, consider that there are many other things that are measuring it.
+[00:01:44 -> 00:01:48]  For example, think of all the light particles bouncing off it right now.
+[00:01:48 -> 00:01:52]  They're essentially taking a photo of where your object is.
+[00:01:52 -> 00:01:56]  Or what about the air molecules that would have gone straight through where your object
+[00:01:56 -> 00:02:01]  is if it wasn't there, but are now bouncing off that position?
+[00:02:01 -> 00:02:04]  They're also measuring your particle's real position.
+[00:02:04 -> 00:02:06]  And that's how it usually is.
+[00:02:06 -> 00:02:09]  Objects are constantly being measured by other things.
+[00:02:09 -> 00:02:15]  So then this statement that objects act differently when they're not being measured doesn't apply
+[00:02:15 -> 00:02:20]  for everyday objects, which is why we didn't notice this rule for such a long time.
+[00:02:20 -> 00:02:26]  But then scientists started to look at very small things, like electrons.
+[00:02:26 -> 00:02:29]  Things like air molecules and light aren't constantly hitting them because they're small
+[00:02:29 -> 00:02:32]  enough to sort of fit in the gaps.
+[00:02:32 -> 00:02:37]  So what exactly do objects like that do when no one is watching?
+[00:02:37 -> 00:02:42]  Let's get back to the scenario where our object, so in this case our electron, is definitely
+[00:02:42 -> 00:02:44]  in this spot or this spot.
+[00:02:44 -> 00:02:48]  But we now know that nothing is measuring it.
+[00:02:48 -> 00:02:52]  We expect that objects can only be in one place at a time.
+[00:02:52 -> 00:02:57]  Even if you don't know where that place is, you know it's in one of the places, you just
+[00:02:57 -> 00:02:58]  don't know which.
+[00:02:58 -> 00:03:00]  And this is usually true.
+[00:03:00 -> 00:03:05]  But in the case where nothing at all is measuring our object, like our electron, the following
+[00:03:05 -> 00:03:08]  experiment will show us that this isn't true.
+[00:03:08 -> 00:03:14]  The electron can't be at one place at a time while it's not being measured.
+[00:03:14 -> 00:03:18]  This experiment is called the double slit experiment and here's how it goes.
+[00:03:18 -> 00:03:26]  We're going to fire electrons one at a time from here.
+[00:03:26 -> 00:03:29]  When they get to this back wall, the place where the electron hits lights up.
+[00:03:29 -> 00:03:33]  How do we make a wall that lights up on contact with electrons?
+[00:03:33 -> 00:03:35]  The physics is a two step process.
+[00:03:35 -> 00:03:42]  First, find one of those clever experimentalist people, and two, ask them to use their experimental
+[00:03:42 -> 00:03:45]  physics magic to help you.
+[00:03:45 -> 00:03:46]  Simple.
+[00:03:46 -> 00:03:52]  The point is, we know where the particle starts, and somehow we measure where it ends.
+[00:03:52 -> 00:03:58]  But in the middle we don't measure it, and hopefully nothing else is measuring it either.
+[00:03:58 -> 00:04:02]  Then put in a barrier with two tiny doors in it.
+[00:04:02 -> 00:04:07]  Obviously there's a good chance that an electron fired towards this barrier doesn't make it,
+[00:04:07 -> 00:04:10]  but we're going to ignore any that don't get through.
+[00:04:10 -> 00:04:15]  The electrons that do get through, must have gone through via the doors.
+[00:04:15 -> 00:04:19]  We'd expect that it went through one of these doors, it's just that we don't know which
+[00:04:19 -> 00:04:20]  one.
+[00:04:20 -> 00:04:25]  But we'll see that, while the electron isn't being measured by anything, this isn't the
+[00:04:25 -> 00:04:26]  case.
+[00:04:26 -> 00:04:29]  It doesn't go through a single door.
+[00:04:29 -> 00:04:34]  To show this, we're going to predict where the electrons would have landed if they acted
+[00:04:34 -> 00:04:40]  as we expected, and see that it's different from the actual result of this experiment.
+[00:04:40 -> 00:04:45]  To get our prediction, we need to know what an electron that definitely went through only
+[00:04:45 -> 00:04:47]  one door would do.
+[00:04:47 -> 00:04:53]  So let's close one door and actually do this experiment.
+[00:04:53 -> 00:04:59]  As you can see, electrons going through this door end up in a pile behind the door.
+[00:04:59 -> 00:05:04]  And of course, if we had done it with the other door open instead, then similarly, electrons
+[00:05:04 -> 00:05:07]  would end up behind that door in a bunch.
+[00:05:07 -> 00:05:12]  So if we know an electron goes through one of the doors, then we know approximately where
+[00:05:12 -> 00:05:15]  it will land.
+[00:05:15 -> 00:05:20]  Now say both doors are open, and we predict each electron has to go through one door.
+[00:05:20 -> 00:05:25]  We're going to make sure that the electrons are fired slowly enough so that different
+[00:05:25 -> 00:05:30]  electrons can't go through together and then interact with each other.
+[00:05:30 -> 00:05:34]  Now we predict that some of our electrons will go through this door, but we know electrons
+[00:05:34 -> 00:05:40]  going through this door end up here, because that's what happened in the single door experiment.
+[00:05:40 -> 00:05:46]  And similarly, others will go through the other door, and end up here.
+[00:05:46 -> 00:05:52]  So if each electron goes through just one door, then we must get two piles.
+[00:05:52 -> 00:05:54]  And yet this prediction is completely wrong.
+[00:05:54 -> 00:05:59]  We have to conclude that the electrons didn't go through just one door each.
+[00:05:59 -> 00:06:02]  But I know what some of you are thinking.
+[00:06:02 -> 00:06:04]  Then they must have gone through both.
+[00:06:04 -> 00:06:10]  In other words, the electron quite literally gets cut into two, part of its mass goes one
+[00:06:10 -> 00:06:12]  way, and the other part the other way.
+[00:06:12 -> 00:06:18]  Then these two parts of the object bump into each other, causing them to ricochet wildly
+[00:06:18 -> 00:06:20]  and the weird pattern.
+[00:06:20 -> 00:06:25]  Or in some versions of this explanation, the particle splits into two, and then flattens
+[00:06:25 -> 00:06:29]  out into two waves that interfere with each other.
+[00:06:29 -> 00:06:33]  Unfortunately, there are many problems with these sorts of explanations.
+[00:06:33 -> 00:06:39]  Firstly, if it splits into two bits, or if it spreads out, then when you measure it at
+[00:06:39 -> 00:06:44]  the wall, you'd expect to get two dots or a spread out smear.
+[00:06:44 -> 00:06:46]  That's not what happens though.
+[00:06:46 -> 00:06:51]  One electron through gives you one crisp dot.
+[00:06:51 -> 00:06:57]  But some people believe a more complicated version of this wave story to get around this,
+[00:06:57 -> 00:07:01]  that goes, it's a wave when you're not looking, but when you measure it, it becomes
+[00:07:01 -> 00:07:04]  a particle again.
+[00:07:04 -> 00:07:08]  That would mean that as soon as the electron hits the back wall, it has to immediately
+[00:07:08 -> 00:07:14]  pick up all of its mass, from everywhere it spread out to, and gather into a particle
+[00:07:14 -> 00:07:15]  again.
+[00:07:15 -> 00:07:18]  But moving mass around takes energy.
+[00:07:18 -> 00:07:21]  Where's the electron supposed to get that from?
+[00:07:21 -> 00:07:26]  There is a sense that waves are involved in this experiment, but it's much more subtle
+[00:07:26 -> 00:07:28]  than you may have been led to believe.
+[00:07:29 -> 00:07:34]  Anyway, the point is, the double slit experiment showed us some important things.
+[00:07:34 -> 00:07:38]  Where nothing watches what an object does, it doesn't just do one of the options.
+[00:07:38 -> 00:07:43]  We can't see that directly, but we can infer that from the experiment.
+[00:07:43 -> 00:07:48]  And the object doesn't physically split up and have parts of itself do each of these
+[00:07:48 -> 00:07:51]  options.
+[00:07:51 -> 00:07:55]  So what exactly is the object doing behind our backs?
+[00:07:55 -> 00:07:57]  And how are we supposed to predict the results of this experiment?
+[00:07:57 -> 00:07:59]  They're crazy.
+[00:07:59 -> 00:08:04]  And it isn't just the double slit experiment that had unexpected results, by the way.
+[00:08:04 -> 00:08:09]  Loads of other experiments showed that particles are doing something really fishy when we're
+[00:08:09 -> 00:08:10]  not looking.
+[00:08:10 -> 00:08:14]  And that's why scientists invented quantum mechanics.
+[00:08:14 -> 00:08:18]  It's some nice maths that you can tell an experiment to, and it tells you what you can
+[00:08:18 -> 00:08:20]  expect.
+[00:08:20 -> 00:08:25]  And so far, it's always been exactly right, which is a grand achievement.
+[00:08:25 -> 00:08:30]  But we still want to know, what's the particle actually doing?
+[00:08:30 -> 00:08:33]  But this quantum mechanics doesn't tell us.
+[00:08:33 -> 00:08:36]  It's just a bunch of maths, after all.
+[00:08:36 -> 00:08:42]  In fact, some physicists say that it doesn't even make sense to talk about an object that
+[00:08:42 -> 00:08:43]  isn't being measured.
+[00:08:43 -> 00:08:46]  That it doesn't exist.
+[00:08:46 -> 00:08:51]  This seems crazy to me, and thankfully to many others too.
+[00:08:51 -> 00:08:56]  Recently, more physicists have started to tackle this question again, and they've even
+[00:08:56 -> 00:09:02]  started to tease meaning out of this mathematics, amazingly, by using more mathematics.
+[00:09:02 -> 00:09:06]  It's a really exciting time to be asking questions about this theory.
+[00:09:06 -> 00:09:10]  That's why I'm making a series of videos on quantum mechanics.
+[00:09:10 -> 00:09:15]  The first set of videos will teach you the rules of quantum, which are mathematical,
+[00:09:15 -> 00:09:19]  but they're really not hard, and you don't need any background in maths or physics already
+[00:09:19 -> 00:09:22]  to understand them.
+[00:09:22 -> 00:09:26]  After that, we'll cover fun topics, including quantum computing, eventually, which is what
+[00:09:26 -> 00:09:28]  I'm doing my PhD on.
+[00:09:28 -> 00:09:31]  When the next video is up, you can click here to see it.
+[00:09:31 -> 00:09:34]  Feel free to subscribe if you want to know when that happens.
+[00:09:34 -> 00:09:40]  Meanwhile, you can try these homework problems to see how much you understood from this video.
+[00:09:40 -> 00:09:44]  Write your answers in the comments if you'd like, I read them and it helps me a lot to
+[00:09:44 -> 00:09:47]  understand which bits were the trickiest.
+[00:09:47 -> 00:09:48]  First question.
+[00:09:48 -> 00:09:53]  We talked about doing the double slit experiment with small things like electrons, but is there
+[00:09:53 -> 00:09:57]  any reason, in theory, that we couldn't have done it with bigger things, and what
+[00:09:57 -> 00:10:01]  would you need to do to make it work?
+[00:10:01 -> 00:10:02]  Second question.
+[00:10:02 -> 00:10:07]  We didn't measure where the electron went in the middle of the experiment, but it is
+[00:10:07 -> 00:10:13]  possible, and so if we were to measure each door to see which one the electron went through,
+[00:10:13 -> 00:10:15]  what would we find?
+[00:10:15 -> 00:10:18]  And what would happen to the pattern on the back wall?
+[00:10:18 -> 00:10:22]  Finally, there is another way to interpret the double slit experiment, which I think
+[00:10:22 -> 00:10:23]  is really cool.
+[00:10:23 -> 00:10:27]  It's called pilot wave theory, and I've made a video about it.
+[00:10:27 -> 00:10:32]  In that theory, the particle goes through just one door, even though our argument said
+[00:10:32 -> 00:10:34]  that that's not possible.
+[00:10:34 -> 00:10:36]  Find the flaw in our argument.
+[00:10:36 -> 00:10:42]  Also, comment on why particles still act strange in the pilot wave theory.
+[00:10:42 -> 00:10:46]  I hope you have a go at some of these questions, and ask anything that you didn't understand
+[00:10:46 -> 00:10:47]  below.
+[00:10:47 -> 00:10:51]  I'll see you in the next video of the Understanding Quantum Mechanics series.

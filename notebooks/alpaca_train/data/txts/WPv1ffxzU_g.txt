@@ -1,0 +1,531 @@
+[00:00:00 -> 00:00:02]  Nee, also man ist schon meistens wirklich mittendrin dabei.
+[00:00:02 -> 00:00:06]  Während den OPs, da soll man assistieren, man soll ja auch was lernen.
+[00:00:06 -> 00:00:10]  Viele denken, man kann nur Medizinstudien studieren, wenn du nur eine 1.0 im Abi hast.
+[00:00:10 -> 00:00:11]  Das stimmt so nicht.
+[00:00:11 -> 00:00:16]  Dann ist man aber theoretisch, hat man eine Privatpraxis und kann eigentlich nur Privatpatienten
+[00:00:16 -> 00:00:17]  oder Selbstzahler behandeln.
+[00:00:17 -> 00:00:21]  Letztendlich, man muss schon irgendwie kontinuierlich dabei bleiben, aber es ist nicht so, dass
+[00:00:21 -> 00:00:24]  man das Studium hat und dann gar keine Freizeit mehr hat.
+[00:00:24 -> 00:00:28]  Dann in der Klinik im fünften, sechsten Semester, wenn es wirklich an die Patienten geht, merken
+[00:00:28 -> 00:00:32]  viele, okay, der Patientenkontakt ist vielleicht doch nicht so unbedingt meine Sache.
+[00:00:32 -> 00:00:37]  Letztendlich gibt es Noten, aber die Noten, die man während dem Studium bekommt, zu den
+[00:00:37 -> 00:00:39]  einzelnen Fächern, zählen nicht.
+[00:00:39 -> 00:00:43]  Die braucht man nicht, die guckt sich ehrlich gesagt auch keiner mehr an.
+[00:00:43 -> 00:00:45]  Hey Leute, herzlich willkommen zu diesem Video.
+[00:00:45 -> 00:00:51]  Heute führe ich ein Interview mit Hendrik, der jetzt im Juni sein Medizinstudium komplett
+[00:00:51 -> 00:00:52]  abgeschlossen hat.
+[00:00:52 -> 00:00:55]  Hendrik, vielen Dank, dass du dich für dieses Interview bereit erklärt hast.
+[00:00:55 -> 00:00:56]  Gerne.
+[00:00:56 -> 00:00:57]  Das wird ein super informatives Video.
+[00:00:57 -> 00:01:02]  Wir werden zum einen über das Medizinstudium an sich sprechen, von ganz vorne, was sind
+[00:01:02 -> 00:01:06]  so die Voraussetzungen, die man erfüllen muss, muss man 1.0-Abi haben oder geht es
+[00:01:06 -> 00:01:07]  auch mit anderen Sachen.
+[00:01:07 -> 00:01:12]  Dann werden wir uns anschauen, wie das Medizinstudium aufgebaut ist, was man so für Fächer hat,
+[00:01:12 -> 00:01:16]  wie das erste Staatsexamen abläuft, das zweite, das dritte und dann werden wir auch die Brücke
+[00:01:16 -> 00:01:21]  schlagen zu den verschiedenen Berufsmöglichkeiten nach dem Medizinstudium, wann man sich auf
+[00:01:21 -> 00:01:26]  einem Bereich festlegt, wie man sich als Arzt niederlassen kann, was man so verdienen kann
+[00:01:27 -> 00:01:28]  und so weiter.
+[00:01:28 -> 00:01:33]  Das heißt, wenn du dich für Medizin interessierst, wenn du Arzt werden möchtest, wenn du einfach
+[00:01:33 -> 00:01:39]  mal einen Überblick darüber haben möchtest, was denn so eines der beliebtesten Studiengänge
+[00:01:39 -> 00:01:44]  in Deutschland eigentlich so bieten kann, dann schau dieses Video auf jeden Fall bis
+[00:01:44 -> 00:01:49]  zum Ende an und falls du eher ungeduldig bist und schnell zu einem bestimmten Bereich springen
+[00:01:49 -> 00:01:53]  möchtest, dann schau mal in die Videobeschreibung, dort findest du eine Übersicht über alle
+[00:01:53 -> 00:01:58]  Fragen aus diesem Video mit dem jeweiligen Timestamp, da kannst du dann einfach raufklicken
+[00:01:58 -> 00:02:00]  und direkt zu der jeweiligen Frage springen.
+[00:02:00 -> 00:02:05]  Falls du dich fragst, woher kenne ich den Hendrik, ich kenne Hendrik von unserem Stipendium,
+[00:02:05 -> 00:02:08]  dem Stipendium der Stiftung der Deutschen Wirtschaft, das können wir euch auf jeden
+[00:02:08 -> 00:02:14]  Fall nahe legen, falls ihr Medizin oder irgendwas anderes studiert, das ist eine super Sache,
+[00:02:14 -> 00:02:18]  um zum einen eine finanzielle Entlastung während dem Studium zu bekommen, aber auch um solche
+[00:02:18 -> 00:02:24]  Kontakte herzustellen, um wichtige, zusätzliche Qualifikationen zu gewinnen und auch die Seite
+[00:02:24 -> 00:02:28]  der Stiftung der Deutschen Wirtschaft findet ihr in der Videobeschreibung.
+[00:02:28 -> 00:02:31]  Jetzt wünschen wir euch super viel Spaß, vergesst nicht, jetzt direkt am besten schon
+[00:02:31 -> 00:02:36]  einen Daumen hoch zu geben und meinen Kanal zu abonnieren und bis gleich!
+[00:02:49 -> 00:02:55]  Okay, Hendrik, zum Einstieg erstmal eine persönliche Frage, warum hast du dich damals
+[00:02:55 -> 00:02:58]  nach dem Abi fürs Medizinstudium entschieden?
+[00:02:58 -> 00:03:03]  Ja, das war für mich eigentlich relativ schnell klar oder war schon immer klar und für mich
+[00:03:03 -> 00:03:06]  kam nie ein anderes Studium in Frage, um ehrlich zu sein.
+[00:03:06 -> 00:03:13]  Schon in der Schulzeit war mir klar, Medizin ist das, was ich machen möchte, ich kann jetzt
+[00:03:13 -> 00:03:19]  keinen festen Punkt ausmachen, warum, wieso, weshalb, aber letztendlich wollte ich immer
+[00:03:19 -> 00:03:25]  was mit Menschen machen und fand die Naturwissenschaften interessant und fand auch einfach, wie funktioniert
+[00:03:25 -> 00:03:30]  der Mensch super interessant und in Verbindung mit Menschen helfen, war das für mich dann
+[00:03:30 -> 00:03:32]  einfach eine klare Sache.
+[00:03:32 -> 00:03:37]  Okay und dann hast du quasi angefangen, Medizin zu studieren, könntest du vielleicht den Zuschauern
+[00:03:37 -> 00:03:40]  jetzt einfach mal so einen groben Überblick darüber geben, wie so ein Medizinstudium
+[00:03:40 -> 00:03:44]  aufgebaut ist, also wie lange dauert das, was hat man vielleicht am Anfang so für
+[00:03:44 -> 00:03:47]  Fächer, was für Fächer hat man dann im späteren Verlauf, was gibt es dazu auf jeden
+[00:03:47 -> 00:03:48]  Fall zu sagen?
+[00:03:48 -> 00:03:54]  Genau, also prinzipiell muss man unterscheiden, es gibt den normalen Studiengang mit Staatsexamen,
+[00:03:54 -> 00:04:00]  der seit Jahrzehnten letztendlich in Deutschland so auch gefahren wird und seit ein paar Jahren
+[00:04:00 -> 00:04:05]  gibt es den sogenannten Modellstudiengang, den gibt es in manchen Unis, Privatunis, aber
+[00:04:05 -> 00:04:09]  auch jetzt in manchen medizinischen Hochschulen, die jetzt neu gegründet werden, um den Bedarf
+[00:04:09 -> 00:04:13]  an Medizinstudenten zu decken, da muss man ein bisschen unterscheiden.
+[00:04:13 -> 00:04:17]  Der normale Studiengang, den ich absolviert habe, geht zwölf beziehungsweise dreizehn
+[00:04:17 -> 00:04:23]  Semester, letztendlich sechs Jahre, weil das letzte Jahr, da kommen wir aber noch zu, ein
+[00:04:23 -> 00:04:26]  bisschen anders gestaltet ist und nicht so typisch universitär ist.
+[00:04:26 -> 00:04:31]  Es fängt an, man hat vier Jahre die sogenannte Vorklinik bis zum Physikum, das heißt zwei
+[00:04:31 -> 00:04:39]  Jahre lang ist man in der Uni, man hat Vorlesungen, Kurse, auch praktische Laboratoriumstätigkeiten,
+[00:04:39 -> 00:04:44]  dabei lernt man dann die Anatomie des Menschen in verschiedenen Teilen, die Biochemie, die
+[00:04:44 -> 00:04:49]  Physiologie, hat aber natürlich im ersten Semester vier Grundlagen, das heißt viel
+[00:04:49 -> 00:04:53]  Bio, viel Chemie, aber auch leider viel Physik.
+[00:04:53 -> 00:04:57]  Also Physik ist das gleiche wie Schulphysik oder ein anderes Physik?
+[00:04:57 -> 00:05:00]  Das ist schon ein bisschen ein anderes Physik, also es geht ein bisschen über das hinaus,
+[00:05:00 -> 00:05:05]  was man in der Schule an Physik kennt, wenn man Physik bis zum Ende des Studiums hatte
+[00:05:05 -> 00:05:12]  und der Schule hatte und es nicht abgewählt hatte, so wie ich, das sollte einem bewusst sein,
+[00:05:12 -> 00:05:17]  dass auch Physik doch dazugehört und auch Physik für viele, zumindest bei mir,
+[00:05:17 -> 00:05:22]  in meinem Studiengang, für viele doch eine große Hürde war.
+[00:05:22 -> 00:05:28]  Genau, also Anatomie, Physiologie, Biochemie, das sind die drei großen Fächer, die man dann noch
+[00:05:28 -> 00:05:35]  hat und dann gibt es noch kleinere Fächer wie Soziologie und Psychologie und auch praktische
+[00:05:35 -> 00:05:40]  Fertigkeiten, wie untersuche ich einen Patienten, wenn man dann in die Klinik kommt, genau.
+[00:05:40 -> 00:05:43]  Und die zwei Jahre schließt man dann letztendlich mit dem ersten Staatsexamen ab.
+[00:05:43 -> 00:05:46]  Also nach vier Semestern hat man das erste Staatsexamen?
+[00:05:46 -> 00:05:46]  Genau.
+[00:05:46 -> 00:05:51]  Und die ersten vier Semester hat jeder genau das gleiche, also egal, ob du jetzt später
+[00:05:51 -> 00:05:56]  Chirurg oder Hautarzt werden möchtest, du hast die ersten vier Semester mit allen zusammen.
+[00:05:56 -> 00:06:00]  Letztendlich hat jeder Arzt, der Medizin studiert hat, zwölf beziehungsweise 13 Semester,
+[00:06:01 -> 00:06:08]  alle haben dasselbe, das komplette gleiche Studium und man durchläuft im Studium letztendlich alle
+[00:06:08 -> 00:06:14]  Fachbereiche oder alle großen Fachbereiche der Medizin, um alles kennenzulernen und auch die
+[00:06:14 -> 00:06:16]  Grundlagen und die Basics kennenzulernen.
+[00:06:16 -> 00:06:18]  Darauf werden wir dann später noch mal zu sprechen kommen.
+[00:06:18 -> 00:06:23]  Okay, jetzt hast du quasi das erste Staatsexamen, nach den ersten vier Semestern, wie geht es dann weiter?
+[00:06:23 -> 00:06:27]  Genau, also der erste Abschnitt der ärztlichen Prüfung, manche nennen es so,
+[00:06:27 -> 00:06:29]  manche nennen es erste Staatsexamen, früher hieß es Physikum.
+[00:06:29 -> 00:06:34]  Das ist nach den vier Semestern, das schließt man dann ab, das ist eine schriftliche Prüfung
+[00:06:34 -> 00:06:35]  und eine mündliche Prüfung.
+[00:06:35 -> 00:06:36]  Okay.
+[00:06:36 -> 00:06:43]  Genau, und da werden dann die großen Fächer auch abgefragt, Biochemie, Anatomie, Physiologie und im
+[00:06:43 -> 00:06:48]  schriftlichen Teil werden dann auch Fächer abgefragt, wie Physik, Biochemie oder Psychologie zum Beispiel.
+[00:06:48 -> 00:06:53]  Hat man auf dem Weg dorthin bereits die ganze Zeit Klausuren, wo man rausfliegen kann?
+[00:06:53 -> 00:06:57]  Ja, also es kommt natürlich auf die Universität an, wie das gestaltet ist,
+[00:06:58 -> 00:07:03]  also man hat natürlich schriftliche Klausuren, meistens Multiple Choice, wie viele schon wissen,
+[00:07:03 -> 00:07:09]  aber auch viele mündliche Prüfungen, die kommt aus Fach natürlich an, entweder alle zwei Wochen,
+[00:07:09 -> 00:07:16]  alle drei Wochen oder am Ende des Kurses dann abgehalten werden und die Note setzt sich dann
+[00:07:16 -> 00:07:21]  meistens aus beiden Einzelnoten zusammen und man muss eine gewisse Grenze erreichen,
+[00:07:21 -> 00:07:26]  in der Medizin sind es meistens 60 Prozent, die man erreichen muss, um dann den Kurs zu bestehen.
+[00:07:26 -> 00:07:32]  Okay, also so viel jetzt zur Benotung, wir sind in den ersten beiden Jahren, wie geht es danach weiter?
+[00:07:32 -> 00:07:37]  Genau, nach dem Physikum kommt man in die sogenannte Klinik, da geht es dann wirklich um
+[00:07:37 -> 00:07:44]  rein medizinische Themen, wie Innere Medizin, Chirurgie, Urologie, Unfallchirurgie.
+[00:07:44 -> 00:07:48]  Also in die Klinik bedeutet man es dann wirklich irgendwie im Uniklinikum?
+[00:07:48 -> 00:07:53]  Teilzeit, also meistens sind die Vorlesungen tatsächlich auch einfach an der Universitätsklinik,
+[00:07:53 -> 00:07:58]  die haben eigene Vorlesungen, Vorlesungssäle und man hat viele Praktika oder Blockpraktika,
+[00:07:58 -> 00:08:03]  das kommt aber auch auf die Universität an, wo man dann in die Station rein rotiert für
+[00:08:03 -> 00:08:07]  wenige Tage oder auch nur für den Vormittag zum Beispiel, um den Stationsalltag in dem
+[00:08:07 -> 00:08:13]  Fachbereich kennenzulernen, aber man hat natürlich auch trotzdem theoretische Vorlesungen und Kurse
+[00:08:13 -> 00:08:14]  und Seminare.
+[00:08:14 -> 00:08:21]  Okay, das heißt, Uniklinikum ist dann für was für eine lange Zeit spannend?
+[00:08:21 -> 00:08:26]  Genau, das ist vom fünften Semester bis einschließlich zehntes Semester und dann
+[00:08:26 -> 00:08:31]  kommt das zweite Staatsexamen bzw. den zweiten Abschnitt der ärztlichen Prüfung, der ist
+[00:08:31 -> 00:08:37]  rein schriftlich, das sind drei Tage, wird auch rein über Multiple Choice, das komplette
+[00:08:37 -> 00:08:42]  Wissen der Klinik abgefragt, letztendlich über alle großen Fachbereiche der Medizin
+[00:08:42 -> 00:08:47]  und danach, wenn man das bestanden hat, kommt man ins sogenannte praktische Jahr, das ist
+[00:08:47 -> 00:08:52]  ein rein praktisches Rotationsjahr, da sucht man sich eine Klinik aus, man muss dort vier
+[00:08:52 -> 00:08:57]  Monate in die innere Medizin rein rotieren, da ist es dann je nach Krankenhaus unterteilt
+[00:08:57 -> 00:09:03]  in Kardiologie, also Herz- oder Gastroenterologie, Magen, Darm oder Leber und vier Monate in
+[00:09:03 -> 00:09:07]  die Chirurgie, das ist meistens unterteilt, man muss acht Wochen oder mindestens sechs
+[00:09:07 -> 00:09:12]  Wochen in die Allgemeinchirurgie rein rotieren oder aber auch in die Unfallchirurgie und
+[00:09:12 -> 00:09:16]  meistens, da sind die Krankenhäuser oft sehr kulant, kann man in sein Lieblingsfachgebiet
+[00:09:16 -> 00:09:21]  rein rotieren und vier Monate muss man in ein Wahlfach rein rotieren, das kann man sich
+[00:09:21 -> 00:09:27]  frei auswählen, das kann Allgemeinmedizin sein, Mikrobiologie, Rechtsmedizin, aber auch
+[00:09:27 -> 00:09:30]  ein weiteres chirurgisches Fach wie Neurochirurgie zum Beispiel.
+[00:09:30 -> 00:09:35]  Und nach diesem, das ist dann wirklich praktisches Jahr, ist man dann auch wirklich quasi wie
+[00:09:35 -> 00:09:39]  schon so ein richtiger Arzt und darf auch Leute so behandeln oder ist man eher, man
+[00:09:39 -> 00:09:43]  schaut quasi, man sitzt dann immer so im Zimmerchen, wenn der Arzt irgendwas bespricht oder eine
+[00:09:43 -> 00:09:44]  OP macht?
+[00:09:44 -> 00:09:49]  Der Arzt ist schon meistens wirklich mittendrin dabei, während der OP ist, da soll man assistieren,
+[00:09:49 -> 00:09:50]  man soll ja auch was lernen.
+[00:09:50 -> 00:09:55]  Ziel des PJs ist es, ärztliche Tätigkeiten zu übernehmen unter ärztlicher Supervision.
+[00:09:55 -> 00:09:59]  Letztendlich, man hat, entweder kommt auch das Krankenhausamt, einen Arzt oder einen
+[00:09:59 -> 00:10:04]  Oberarzt zur Seite gestellt, der einen so ein bisschen anleitet, in der OP einem was
+[00:10:04 -> 00:10:07]  zeigt oder auch auf Stationen in der inneren Medizin zum Beispiel zeigt, wie man Arztbriefe
+[00:10:07 -> 00:10:13]  verfasst, weil nach dem PJ, wenn man das dritte Staatsexamen dann abgeschlossen hat, ist man
+[00:10:13 -> 00:10:16]  dann auf sich gestellt und muss auf der Station alleine Arztbriefe schreiben.
+[00:10:16 -> 00:10:20]  Okay, also nach dem PJ ist man dann Arzt?
+[00:10:20 -> 00:10:25]  Genau, man hat nach dem PJ dann den dritten Abschnitt der ärztlichen Prüfung zu bestreiten,
+[00:10:25 -> 00:10:29]  rein mündlich, das sind zwei Tage, da ist man in einer kleinen Prüfungsgruppe und da
+[00:10:29 -> 00:10:36]  wird man dann über innere Medizin, Chirurgie, dein Wahlfach und ein zugelostes Wahlfach.
+[00:10:36 -> 00:10:37]  Bedeutet?
+[00:10:37 -> 00:10:42]  Das heißt, das war bei mir zum Beispiel Dermatologie, zugelost bzw.
+[00:10:42 -> 00:10:43]  Ein Zulost, okay.
+[00:10:43 -> 00:10:50]  Genau, ein zugelostes Fach und das man dann auch lernen muss und auch bestehen muss letztendlich,
+[00:10:50 -> 00:10:55]  aber Sinn der Sache ist es, damit die Prüfer wissen, okay, derjenige kann sich auch ein
+[00:10:55 -> 00:10:58]  bisschen vorbereiten und kann sich in andere medizinische Themen einlesen.
+[00:10:58 -> 00:11:04]  Wie ist denn das allgemein so bei Medizin, geht es da wirklich darum, dass man eine möglichst
+[00:11:04 -> 00:11:07]  gute Note schreibt oder lernt man eher auf Bestehen?
+[00:11:07 -> 00:11:10]  Gibt es da überhaupt Noten oder gibt es einfach, du hast jetzt bestanden oder du hast nicht
+[00:11:10 -> 00:11:11]  bestanden?
+[00:11:11 -> 00:11:14]  Natürlich gibt es Noten, aber die Noten, die man während dem Studium bekommt, zu den
+[00:11:14 -> 00:11:19]  einzelnen Fächern zählen nicht, die braucht man nicht, die guckt sich ehrlich gesagt auch
+[00:11:19 -> 00:11:20]  keiner mehr an.
+[00:11:20 -> 00:11:25]  Was zählt, sind letztendlich die drei Abschnitte der ärztlichen Prüfung, da kriegt man Einzelnoten,
+[00:11:25 -> 00:11:29]  diese Noten werden zusammengezählt und dann getrittelt und das ist dann am Ende deine
+[00:11:29 -> 00:11:33]  Abschlussnote vom Studium, aber auch da letztendlich ist es nicht ganz wichtig.
+[00:11:33 -> 00:11:37]  Okay, so und dann bist du quasi fertig nach diesem Dritten.
+[00:11:37 -> 00:11:41]  Jetzt nochmal zu dem Bereich, du möchtest dann ja später schon in irgendeinem bestimmten
+[00:11:41 -> 00:11:45]  Bereich arbeiten und durch dieses ziemlich generelle Studium lernst du dann ja viele
+[00:11:45 -> 00:11:49]  verschiedene Bereiche kennen und wirst wahrscheinlich schon irgendwie langsam, aber sicher so eine
+[00:11:49 -> 00:11:53]  Vorliebe für einen bestimmten Bereich entwickeln, im Optimalfall.
+[00:11:53 -> 00:11:54]  Im Optimalfall, ja.
+[00:11:54 -> 00:11:57]  Wenn ich das jetzt richtig verstanden habe, während den ersten zehn Semestern kannst
+[00:11:57 -> 00:12:01]  du dich noch überhaupt nicht auf irgendwas fokussieren, erst während dem Period hast
+[00:12:01 -> 00:12:05]  du für vier Monate einen bestimmten Bereich, den du dir aussuchen kannst.
+[00:12:05 -> 00:12:06]  Ganz genau, ja.
+[00:12:07 -> 00:12:10]  Wie ist so deine persönliche Einstellung dazu, findest du das macht Sinn, dass man
+[00:12:10 -> 00:12:14]  als Arzt quasi auch, wenn man Hautarzt ist, über alles andere Bescheid weiß oder?
+[00:12:14 -> 00:12:19]  Ja, also auf jeden Fall, das ist nicht ohne Grund, muss man alles kennenlernen, denn auch
+[00:12:19 -> 00:12:24]  in einer Hautarztpraxis kann es zu einem Notfall kommen oder man muss auch kennenlernen und
+[00:12:24 -> 00:12:28]  es gibt viele Krankheitsbilder, die sich zum Beispiel auch über verschiedene Symptome
+[00:12:28 -> 00:12:29]  äußern.
+[00:12:29 -> 00:12:33]  Es gibt Hautsymptome und vielleicht kommt der Patient dann mit den Hautsymptomen zum
+[00:12:33 -> 00:12:37]  Hautarzt, dabei ist es aber eigentlich eine Krankheit, die irgendwas mit dem Immunsystem
+[00:12:37 -> 00:12:42]  zu tun hat und er muss natürlich den Patienten auch weiter empfehlen oder weiter verweisen,
+[00:12:42 -> 00:12:45]  damit der Patient eine gute medizinische Versorgung bekommt.
+[00:12:45 -> 00:12:50]  Deswegen ist es auch sehr, sehr wichtig, dass jeder Arzt das alles auch mal kennengelernt
+[00:12:50 -> 00:12:51]  hat.
+[00:12:51 -> 00:12:56]  Auch das Operieren zum Beispiel, denn auch ein Hautarzt macht zum Beispiel in seiner
+[00:12:56 -> 00:13:00]  Hautpraxis kleine Operationen, zum Beispiel werden Muttermale entfernt, die ein bisschen
+[00:13:00 -> 00:13:01]  komisch aussehen.
+[00:13:01 -> 00:13:08]  Oder auch ein Hausarzt, den man ja normalerweise hat, zieht zum Beispiel Fäden nach einer
+[00:13:08 -> 00:13:12]  größeren Operation, da die Krankenhäuser meistens die Patienten einfach mit den Fäden
+[00:13:12 -> 00:13:16]  nach Hause entlassen und dann zum Hausarzt gehen und der dann die Fäden entzieht und
+[00:13:16 -> 00:13:18]  sowas muss man auch mal für mal geübt haben.
+[00:13:18 -> 00:13:21]  Okay, damit haben wir jetzt auf jeden Fall die Struktur schon mal ziemlich gut abgehakt.
+[00:13:21 -> 00:13:26]  Was mich jetzt auf jeden Fall und wahrscheinlich auch viele Zuschauer interessieren würde,
+[00:13:26 -> 00:13:29]  die Struktur, die kann man sich ja auch im Internet zusammen reimen irgendwie.
+[00:13:29 -> 00:13:35]  Jetzt aber mal aus der Sicht von einem Medizinstudenten, der das ganze jetzt für 5-6 Jahre lang durchgemacht
+[00:13:35 -> 00:13:36]  hat.
+[00:13:36 -> 00:13:39]  Was sind denn so deine persönlichen Erfahrungen?
+[00:13:39 -> 00:13:43]  Also vielleicht so ein paar Dinge, die man jetzt vielleicht nicht so aus der groben Struktur
+[00:13:43 -> 00:13:48]  herauslesen kann, die man aber erst dann mitbekommt, wenn man das Ganze wirklich selbst erfährt.
+[00:13:48 -> 00:13:51]  Also was sollte man vor dem Medizinstudium auf jeden Fall wissen?
+[00:13:51 -> 00:13:54]  Vielleicht beginnen wir erstmal so, was sind so Voraussetzungen, die du auf jeden Fall
+[00:13:54 -> 00:13:55]  erfüllen musst?
+[00:13:56 -> 00:14:01]  Abischnitt und so weiter, um überhaupt Medizin studieren zu können und dann, was solltest
+[00:14:01 -> 00:14:07]  du dir auch auf jeden Fall bewusst sein, wenn du diese Dinge erfüllst, aber Medizin studieren
+[00:14:07 -> 00:14:09]  möchtest, aber halt noch nicht so sicher bist darüber.
+[00:14:09 -> 00:14:11]  Das ist ein interessantes Thema.
+[00:14:11 -> 00:14:14]  Viele Leute fragen mich auch immer, wie komme ich ins Medizinstudium rein?
+[00:14:14 -> 00:14:16]  Wie ist die Studienplatzvergabe?
+[00:14:16 -> 00:14:20]  Das ist ja auch immer wirklich heiß diskutiert in den Medien.
+[00:14:20 -> 00:14:25]  Müssen wir da mehr Plätze schaffen oder müssen wir die Auswahlkriterien ändern?
+[00:14:26 -> 00:14:30]  Letztendlich, was viele nicht wissen oder viele wissen, es gibt einen NC, der ist 1.0
+[00:14:30 -> 00:14:35]  in Medizin und viele denken, man kann nur Medizin studieren, wenn du nur eine 1.0 im
+[00:14:35 -> 00:14:36]  Abi hast.
+[00:14:36 -> 00:14:37]  Das stimmt so nicht.
+[00:14:37 -> 00:14:42]  Nur 20% der Studienplätze werden über den NC vergeben, über den Numerus Clausus.
+[00:14:42 -> 00:14:46]  Der schwankt von Jahr zu Jahr, je nachdem, wie viele Bewerber es gibt, aber meistens
+[00:14:46 -> 00:14:48]  dreht er sich so zwischen 1.0 und 1.1.
+[00:14:48 -> 00:14:51]  Das sind aber nur 20% der Studienplätze.
+[00:14:51 -> 00:14:56]  Weitere 20% der Studienplätze werden aktuell noch über die Wartezeit vergeben.
+[00:14:56 -> 00:15:00]  Aktuell sind es 13-14 Semester Wartezeit.
+[00:15:00 -> 00:15:04]  Da kann man sich einschreiben in Wartezeit und dann kriegt man nach 13-14 Semestern,
+[00:15:04 -> 00:15:07]  wenn Platz ist, einen Platz letztendlich zugelost.
+[00:15:07 -> 00:15:14]  Die meisten Studienplätze werden über die eigenen Auswahlverfahren der Hochschulen vergeben.
+[00:15:14 -> 00:15:16]  Das sind 60% oder annähernd 60%.
+[00:15:16 -> 00:15:19]  Das sind eigene Auswahlverfahren.
+[00:15:19 -> 00:15:21]  Da kommt es auf die Hochschule an.
+[00:15:21 -> 00:15:27]  Manche Hochschulen sagen, wir wollen jemanden, der eine Berufsausbildung schon hat, zum Beispiel
+[00:15:27 -> 00:15:33]  Rettungssanitäter oder Rettungsassistent ist, Notfallsanitäter, Krankenschwester, Krankenpfleger
+[00:15:33 -> 00:15:39]  oder Altenpfleger ist und das wird dann anerkannt und man kann somit seine Abinote aufwerten.
+[00:15:39 -> 00:15:42]  Auf der anderen Seite gibt es den berühmten Medizinertest.
+[00:15:42 -> 00:15:45]  Manche Unis setzen den voraus und man muss da eine gewisse Prozentszahl erreichen.
+[00:15:45 -> 00:15:52]  Aber das sind auch nicht alle Universitäten und natürlich sind die Abinoten schon wichtig,
+[00:15:52 -> 00:15:56]  aber auch wichtig sind zum Beispiel die einzelnen spezifischen Noten in den einzelnen Fächer
+[00:15:56 -> 00:15:57]  im Abi.
+[00:15:57 -> 00:16:01]  Manche Unis rechnen zum Beispiel die Abi-Fächer an.
+[00:16:01 -> 00:16:05]  Wenn man zum Beispiel in den Naturwissenschaften im schriftlichen Teil zweistellig war, kann
+[00:16:05 -> 00:16:10]  man damit seine Abinote deutlich aufwerten, aber auch zum Beispiel Englisch oder Geschichte
+[00:16:10 -> 00:16:15]  sind zum Beispiel in manchen Unis Fächer, wo man seine Abinote aufwerten kann.
+[00:16:15 -> 00:16:19]  Genauso wie das Pflegepraktikum, wenn man das, was man bis zum ersten Staatsexamen
+[00:16:19 -> 00:16:25]  machen muss, vor Beginn des Studiums, aber nach Beendigung des Abiturs startet, also
+[00:16:25 -> 00:16:29]  in der Zwischenzeit nach dem Abitur, dann kann man auch seine Abinote aufwerten.
+[00:16:29 -> 00:16:32]  Okay, das finde ich so eine super Info.
+[00:16:32 -> 00:16:38]  Über die jeweiligen Sachen der jeweiligen Hochschule findet man auf der Internetseite
+[00:16:38 -> 00:16:39]  von der Hochschule wahrscheinlich die genaue.
+[00:16:39 -> 00:16:42]  Genau, das kann man entweder auf den jeweiligen Internetseiten der Hochschule sehen, aber
+[00:16:42 -> 00:16:47]  es gibt auch einige Informationen bei hochschulstaat.de, das ist die zentrale Vergabestelle der Studienplätze
+[00:16:47 -> 00:16:48]  in Medizin.
+[00:16:48 -> 00:16:53]  Okay, also wenn man jetzt kein 1.0-Abi geschafft hat, dann sollte man noch nicht komplett den
+[00:16:53 -> 00:16:56]  Traum platzen lassen, sondern noch nach ein paar Alternativen suchen.
+[00:16:56 -> 00:17:03]  Okay, also auf jeden Fall, wenn man jetzt die harten Fakten quasi erfüllt, was sollte
+[00:17:03 -> 00:17:05]  man sich auf jeden Fall davor noch bewusst sein?
+[00:17:05 -> 00:17:11]  Was denkst du so, was erwartet man vom Medizinstudium, was dann aber im Endeffekt schon etwas anders
+[00:17:11 -> 00:17:12]  ist?
+[00:17:13 -> 00:17:15]  Also, viele erwarten wahrscheinlich in den ersten Jahren, ah, da geht es direkt los mit
+[00:17:15 -> 00:17:21]  der richtigen Medizin, wie lerne ich die Krankheiten kennen oder das Organ, wie funktioniert
+[00:17:21 -> 00:17:22]  das?
+[00:17:22 -> 00:17:24]  Das ist nicht direkt am Anfang.
+[00:17:24 -> 00:17:28]  Klar, in der Anatomie startet man auch relativ früh und hat auch den Präparationskurs
+[00:17:28 -> 00:17:33]  und lernt den menschlichen Körper makroskopisch, also im Großen und mikroskopisch, also unter
+[00:17:33 -> 00:17:38]  dem Mikroskop auf zellulärer Ebene kennen, aber ein ganz, ganz großer Teil in den ersten
+[00:17:38 -> 00:17:42]  zwei Jahren ist wirklich Grundlage, naturwissenschaftliche Grundlage.
+[00:17:42 -> 00:17:49]  Dazu zählt halt nun mal Biochemie und Physik, aber auch viel Rechnen, viel Mathe und das
+[00:17:49 -> 00:17:54]  hätte ich gerne vorher gewusst, dass tatsächlich die Biologie keine große Rolle in den ersten
+[00:17:54 -> 00:17:55]  zwei Jahren spielt.
+[00:17:55 -> 00:18:02]  Viele denken, ah, ich studiere jetzt Medizin und dann würde ich gerne einen Bioleistungskurs
+[00:18:02 -> 00:18:06]  in der Schule belegen, super Idee, viel besser wäre tatsächlich ein Physikleistungskurs
+[00:18:07 -> 00:18:13]  oder einen Chemieleistungskurs, aber das sollte man vorher wissen, dass es einen großen Teil
+[00:18:13 -> 00:18:18]  ausmacht, aber es sollte keinen abschrecken, jetzt Medizin zu studieren, das kriegt man
+[00:18:18 -> 00:18:19]  auch hin.
+[00:18:19 -> 00:18:21]  Auch das Latein, viele sagen...
+[00:18:21 -> 00:18:25]  Stimmt, Latein ist ja in Medizin auch ziemlich mit dabei, gell?
+[00:18:25 -> 00:18:29]  Früher musste man das sogenannte Latinum haben, um Medizin studieren zu dürfen, aber
+[00:18:29 -> 00:18:35]  das hält heute keinem mehr ab, denn es gibt jetzt Kurse von den Schulen bzw. als Vorbereitungskurse
+[00:18:35 -> 00:18:41]  oder Vorbereitungskurse von der Uni und wenn man ohne Latinum z.B. auch direkt ins Medizinstudium
+[00:18:41 -> 00:18:47]  einsteigt, dann gibt es dort Kurse, die man dann belegen muss, z.B. die Terminologie und
+[00:18:47 -> 00:18:52]  da muss man dann auch den Lateinkurs letztendlich belegen und einen kleinen Vorteil hat man,
+[00:18:52 -> 00:18:56]  wenn man das Latinum schon hatte oder Latein in der Schule hatte, dann kann man extra Kurse
+[00:18:56 -> 00:19:00]  belegen, die das ein bisschen schneller durchlaufen, man muss nicht ein ganzes Semester einen Lateinkurs
+[00:19:00 -> 00:19:01]  belegen.
+[00:19:01 -> 00:19:05]  Und jetzt vielleicht noch so ein paar, ich will jetzt nicht sagen ethische, aber vielleicht
+[00:19:05 -> 00:19:10]  so inhaltliche Dinge, über die man auf jeden Fall informiert sein sollte, also muss man
+[00:19:10 -> 00:19:16]  beispielsweise an Leichen arbeiten, muss man Tierexperimente durchführen, gibt es da so
+[00:19:16 -> 00:19:18]  ein paar Dinge, die man eben einfach machen muss?
+[00:19:18 -> 00:19:21]  Kannst du dazu vielleicht was sagen, das ist wahrscheinlich auch für den einen oder anderen
+[00:19:21 -> 00:19:22]  interessant?
+[00:19:22 -> 00:19:26]  Genau, für viele interessant ist der Präparationskurs, der berühmte Präparationskurs in der Anatomie.
+[00:19:26 -> 00:19:29]  In wie viel Semester ist das?
+[00:19:29 -> 00:19:32]  Das kommt auf die Universität an, bei den meisten startet es tatsächlich im ersten
+[00:19:32 -> 00:19:33]  Semester.
+[00:19:33 -> 00:19:37]  Da fängt man mit dem Bewegungsapparat an und tatsächlich, ja, man hat Körperspender
+[00:19:37 -> 00:19:42]  und das sind Personen, die Zeit ihres Lebens, sich aktiv dazu entscheiden, den Körper der
+[00:19:42 -> 00:19:48]  Wissenschaft zu spenden und die werden dann von Medizinstudenten für die Forschung letztendlich
+[00:19:48 -> 00:19:51]  verwendet, um den menschlichen Körper kennenzulernen.
+[00:19:51 -> 00:19:57]  Das muss man machen und tatsächlich muss man auch an den Körperspendern reparieren, üben,
+[00:19:57 -> 00:20:03]  wie man ein Gewebe aufschneidet und es geht letztendlich nichts über das haptische Gefühl,
+[00:20:03 -> 00:20:08]  also das wirkliche Anfassen einer anatomischen Struktur, um sie auch wirklich kennenzulernen.
+[00:20:08 -> 00:20:15]  Viele Universitäten fangen jetzt auch an mit 3D-Simulationen, aber auch dort ist letztendlich
+[00:20:15 -> 00:20:18]  die Präparation an der echten Leiche wichtig.
+[00:20:18 -> 00:20:19]  Okay.
+[00:20:19 -> 00:20:26]  Und Thema Tierexperimente, wenn jetzt jemand hardcore dagegen ist, kann der Medizin studieren
+[00:20:26 -> 00:20:30]  oder ist es immer noch so, in Deutschland zumindest, dass das eine Konvention ist, dass
+[00:20:30 -> 00:20:32]  man irgendwie an Ratten experimentiert?
+[00:20:32 -> 00:20:35]  Nee, also das muss man absolut nicht, weil man dagegen ist, muss man das auch nicht machen
+[00:20:35 -> 00:20:40]  und es ist auch nicht die Regel, dass das auch heute noch irgendwie ständig in den
+[00:20:40 -> 00:20:42]  Laborexperimenten verwendet wird.
+[00:20:42 -> 00:20:47]  Letztendlich, man muss Experimente machen, aber das sind überwiegend einfach nur Chemikalien,
+[00:20:47 -> 00:20:56]  wo man die Reaktionen verwendet oder man lernt gewisse Diagnose-Strategien kennen mit Geräten
+[00:20:56 -> 00:20:58]  und da muss man aber nicht mit Tieren arbeiten.
+[00:20:58 -> 00:20:59]  Okay.
+[00:20:59 -> 00:21:02]  Und vielleicht noch ein letzter Punkt, bevor wir dann auch so ein bisschen wieder in die
+[00:21:02 -> 00:21:07]  Richtung oder den Sprung dann machen zum eigentlichen Beruf des Arztes.
+[00:21:07 -> 00:21:13]  Was würdest du sagen, wie viel Prozent so der Leute brechen das Medizinstudium ab?
+[00:21:13 -> 00:21:18]  Viele sagen, viele brechen ab, ja, aber wenn man sich tatsächlich die Abbrecherquoten
+[00:21:18 -> 00:21:23]  an anderen Studiengängen anschaut, ist es bei Medizin tatsächlich so, dass die Abbrecherquote
+[00:21:23 -> 00:21:25]  gar nicht so hoch ist.
+[00:21:25 -> 00:21:30]  Ja, es brechen viele ab, ich würde mal schätzen 30 bis 40 Prozent fallen letztendlich im
+[00:21:30 -> 00:21:33]  Laufe des Studiums raus, das ist in anderen Studiengängen aber ähnlich.
+[00:21:33 -> 00:21:37]  Wenn man sich zum Beispiel Jura anschaut, sind die Abbrecherquoten teilweise höher.
+[00:21:37 -> 00:21:40]  Falls du jetzt aus persönlicher Erfahrung vielleicht irgendjemanden kennst, der abgebrochen
+[00:21:40 -> 00:21:44]  hat oder einige, was würdest du sagen, sind so die Hauptgründe?
+[00:21:44 -> 00:21:49]  Also war das Studium einfach zu anspruchsvoll oder wollten sie lieber was anderes machen?
+[00:21:49 -> 00:21:53]  Ich kenne Leute, die haben abgebrochen.
+[00:21:54 -> 00:22:00]  Der klare Grund ist natürlich, wenn jemand durch Klausuren durchfällt, man hat eine
+[00:22:00 -> 00:22:06]  gewisse Anzahl an Versuchen in gewissen Fächern und wenn man innerhalb dieser Anzahl der Versuche
+[00:22:06 -> 00:22:09]  das nicht schafft, dann fällt man leider raus und darf nicht weiter studieren.
+[00:22:09 -> 00:22:11]  Das ist aber in den meisten Studiengängen so.
+[00:22:11 -> 00:22:16]  Letztendlich ist es häufiger oder viel häufiger einfach so, dass die Leute merken, okay, das
+[00:22:16 -> 00:22:21]  Medizinstudium ist nichts für mich, das ist aber relativ schnell.
+[00:22:21 -> 00:22:27]  Das merken die Menschen und auch dann in der Klinik im fünften, sechsten Semester,
+[00:22:27 -> 00:22:31]  wenn es wirklich an die Patienten geht, merken viele, okay, der Patientenkontakt ist vielleicht
+[00:22:31 -> 00:22:36]  doch nicht so unbedingt meine Sache und studieren entweder weiter und gehen dann in die Forschung
+[00:22:36 -> 00:22:40]  oder brechen ab und wechseln zum Beispiel in ein rein naturwissenschaftliches Fach.
+[00:22:40 -> 00:22:46]  Okay, jetzt hattest du ja gerade angesprochen, dass schon der eine oder andere auch durch
+[00:22:46 -> 00:22:51]  die Klausuren durchfliegt und ich habe jetzt auch ein paar Freunde, die Medizin studieren
+[00:22:51 -> 00:22:54]  und die sind schon gefühlt unter Dauerlernstress.
+[00:22:54 -> 00:22:59]  Wie würdest du denn so einschätzen, wie viel muss man für Medizin lernen, wie viel
+[00:22:59 -> 00:23:04]  Freizeit hat man und vielleicht auch so im Vergleich jetzt zur Schule, also falls Abiturienten
+[00:23:04 -> 00:23:09]  jetzt gerade zuschauen, die schon zur Schule gehen und dann nachmittags immer noch ein,
+[00:23:09 -> 00:23:13]  zwei Stunden lernen, wie ist das dann im Studium?
+[00:23:13 -> 00:23:18]  Letztendlich kommt es darauf an, wie du lernst oder was für ein Typ Lerner bist du.
+[00:23:18 -> 00:23:21]  Es gibt Menschen, die haben eine unheimlich tolle Auffassungsgabe und lernen unheimlich
+[00:23:21 -> 00:23:24]  schnell, manche brauchen dann einfach ein bisschen Ruhe und brauchen dafür ein bisschen
+[00:23:24 -> 00:23:25]  länger.
+[00:23:25 -> 00:23:27]  Letztendlich kommt es wirklich auf dich selber an.
+[00:23:27 -> 00:23:34]  Ja, also man muss schon viel machen, das ist aber auch bekannt und man hat halt kontinuierlich
+[00:23:34 -> 00:23:41]  irgendwie eine Abgabefrist, sei es jetzt für Hausarbeiten oder hat dann da ein Seminar,
+[00:23:41 -> 00:23:45]  worauf man sich vorbereiten muss, wo auch Abfragen stattfinden oder man hat da eine
+[00:23:45 -> 00:23:46]  Klausur.
+[00:23:46 -> 00:23:51]  Es wird im Laufe des Studiums ein bisschen leichter, da man dann wirklich auch wie in
+[00:23:51 -> 00:23:53]  anderen Studiengängen eine Klausurenphase hat.
+[00:23:53 -> 00:23:58]  Ich zum Beispiel hatte immer acht Wochen Vorlesung, eine Woche frei und dann hatte ich die Klausur
+[00:23:58 -> 00:24:00]  über alle Fächer, die in den acht Wochen behandelt wurden.
+[00:24:00 -> 00:24:02]  Und dann neu und dann nochmal.
+[00:24:02 -> 00:24:06]  Genau, dann hat man theoretisch Semesterferien oder vorlesungsfreie Zeit, dann kommt man
+[00:24:06 -> 00:24:11]  dann aber zu den Formulaturen oder hat irgendwelche Blockpraktika, die man dann absolvieren muss.
+[00:24:11 -> 00:24:14]  Letztendlich, man muss schon irgendwie kontinuierlich dabei bleiben, aber es ist nicht so, dass
+[00:24:14 -> 00:24:18]  man das Studium hat und dann gar keine Freizeit mehr hat.
+[00:24:18 -> 00:24:21]  Falls man jetzt noch eine letzte Frage zum Studium, falls man erstmal durch eine Klausur
+[00:24:21 -> 00:24:25]  durchfliegt, verzögert sich dann irgendwie das Studium direkt?
+[00:24:25 -> 00:24:26]  Oder wie sieht es damit aus?
+[00:24:26 -> 00:24:30]  Oder kann man es dann easy im nächsten Semester schreiben und ist immer noch in der Regelstudienzeit?
+[00:24:30 -> 00:24:31]  Wie sieht es damit aus?
+[00:24:31 -> 00:24:34]  Genau, also in der Vorklinik ist es tatsächlich so, dass man manche Klausuren bestehen muss
+[00:24:34 -> 00:24:39]  oder irgendwelche Fächer bestehen muss, um ein nächstes Fach belegen zu können.
+[00:24:39 -> 00:24:43]  Das heißt, wenn man da durchfliegt und auch bei der Wiederholungsklausur durchfällt,
+[00:24:43 -> 00:24:46]  dann kann es sich tatsächlich um ein halbes Jahr verzögern.
+[00:24:46 -> 00:24:51]  Aber in der Klinik ist es tatsächlich so, dass man das Fach dann entweder im nächsten
+[00:24:51 -> 00:24:55]  Jahr nochmal wiederholen kann oder das so belegen kann, dass man auch tatsächlich keine
+[00:24:55 -> 00:24:56]  Zeit verliert.
+[00:24:56 -> 00:25:01]  Okay, und jetzt aber im Vergleich zum Abi, man wird schon ein bisschen mehr lernen müssen, oder?
+[00:25:01 -> 00:25:06]  Ja, also es ist schon deutlich mehr als im Abitur, aber wenn man fürs Abitur schön
+[00:25:06 -> 00:25:11]  oder fleißig gelernt hat, dann ist es schon mal so ein guter Hinweis, was so nicht täglich,
+[00:25:12 -> 00:25:16]  je nachdem, ein, zwei Stunden oder halt dann in der Klausurenphase auch für in Zukunft.
+[00:25:16 -> 00:25:21]  Okay, damit haben wir jetzt so das Studium in meinen Augen ziemlich gut abgehakt.
+[00:25:21 -> 00:25:24]  Falls ihr noch Fragen habt, dann schreibt es gerne in die Kommentare, dann werden wir da
+[00:25:24 -> 00:25:25]  ab und zu darauf antworten.
+[00:25:25 -> 00:25:29]  Und jetzt kommen wir auch noch zu einem anderen wichtigen Punkt, nämlich Thema Berufseinstieg.
+[00:25:29 -> 00:25:34]  Ich meine, man studiert ja im Endeffekt, um den Beruf des Arztes oder des Mediziners
+[00:25:34 -> 00:25:37]  ausüben zu können oder in die Forschung zu gehen oder was auch immer.
+[00:25:37 -> 00:25:42]  Vielleicht sagst du uns erst mal, was sind so die typischen Einsatzmöglichkeiten, die sich aus
+[00:25:42 -> 00:25:45]  einem Medizinstudium ergeben und dann werden wir so ein bisschen spezifischer da hineingehen,
+[00:25:45 -> 00:25:47]  wie man denn in diese Jobs hineinkommt.
+[00:25:47 -> 00:25:53]  Ja, letztendlich, man studiert Medizin, man absolviert das und hoffentlich natürlich
+[00:25:53 -> 00:25:57]  erfolgreich, kann dann approbieren, das heißt die Berufserlaubnis für Ärzte erwerben.
+[00:25:57 -> 00:26:02]  Das heißt, man kann, wenn man das Studium abgeschlossen hat, ist man...
+[00:26:02 -> 00:26:05]  Mit diesem dritten Staatsexamen, das du über das PJ erlangt hast.
+[00:26:05 -> 00:26:11]  Genau, durch die letztmögliche Prüfung ist man dann Absolvent des Medizinstudiums, aber kein Arzt.
+[00:26:11 -> 00:26:17]  Weil Arzt ist ein geschützter Berufszweig, der unter gesetzlichem Schutz steht und man braucht
+[00:26:17 -> 00:26:21]  eine gewisse Berufserlaubnis, die man dann bei den Landesärztekammern erwerben kann.
+[00:26:21 -> 00:26:27]  Wenn man die hat, dann darf man auch als Arzt arbeiten und kann dann zum Beispiel in die
+[00:26:27 -> 00:26:30]  Klinik gehen als Assistenzarzt und sein Facharzt machen und kann sich dann,
+[00:26:30 -> 00:26:34]  wenn man Facharzt ist, entweder in der Klinik bleiben, wird dann eventuell irgendwann Oberarzt
+[00:26:34 -> 00:26:39]  oder dann auch Chef oder man lässt sich dann als Facharzt nieder, zum Beispiel als Hausarzt,
+[00:26:39 -> 00:26:43]  Hautarzt, Augenarzt, Internist oder ähnliches.
+[00:26:43 -> 00:26:48]  Aber das geht erst, nachdem du für eine gewisse Zeit eben in der Klinik gearbeitet hast.
+[00:26:48 -> 00:26:51]  Genau, früher war es so und da konnte man, hat man Medizin studiert und konnte sich dann direkt
+[00:26:51 -> 00:26:57]  danach niederlassen als Arzt ohne Fachbezeichnung. Das geht seit knapp 20 Jahren und etwa nicht mehr.
+[00:26:57 -> 00:27:01]  Man hat inzwischen einen sogenannten Facharztzwang. Man muss einen Facharzt machen,
+[00:27:01 -> 00:27:07]  auch Allgemeinmedizin, also die ungesprächliche Hausärzte, die müssen einen Facharzt machen.
+[00:27:07 -> 00:27:11]  Das wäre zum Beispiel drei Jahre in die Klinik gehen, in die inneren Medizin und dann zwei Jahre
+[00:27:11 -> 00:27:15]  in die Praxis. Dann macht man in so einem Fall seine Facharztprüfung und kann sich dann niederlassen.
+[00:27:15 -> 00:27:21]  Okay und wenn jetzt jemand merkt, okay, ich will kein Arzt werden, gibt es dann noch andere Alternativen?
+[00:27:21 -> 00:27:26]  Genau, also es gibt ja, man kann natürlich trotzdem Arzt sein, aber nicht zum Beispiel
+[00:27:26 -> 00:27:30]  in der Klinik oder am Patienten arbeiten. Es gibt zum Beispiel den sogenannten Facharzt
+[00:27:30 -> 00:27:35]  für Anatomie. Das sind glaube ich vier Jahre und da kann man dann zum Beispiel in der Grundlagenforschung
+[00:27:35 -> 00:27:40]  arbeiten. Da hat man aber zum Beispiel auch den Lehrauftrag für Anatomie und muss in der
+[00:27:40 -> 00:27:45]  Universität die Medizinstudenten ausbilden. Man kann auch den Facharzt für Physiologie machen,
+[00:27:45 -> 00:27:51]  da kann man ein bisschen angewandte Forschung oder Facharzt für Biochemie. Man kann aber auch zum
+[00:27:51 -> 00:27:55]  Beispiel generell einfach in die Forschung gehen. Man kann aber auch zum Beispiel in die
+[00:27:55 -> 00:27:59]  pharmazeutische Forschung gehen oder auch in den Pharmaunternehmen als Vertreter arbeiten
+[00:27:59 -> 00:28:04]  oder auch zu anderen Unternehmen, die zum Beispiel Medizingeräte herstellen und da
+[00:28:04 -> 00:28:08]  den Kontakt zu den Kliniken herstellen. Okay, oder Unternehmensberatung. Genau,
+[00:28:08 -> 00:28:15]  Mediziner sind in Unternehmensberatung gut gefragt. Okay, jetzt ist es ja so, man verbindet
+[00:28:15 -> 00:28:20]  automatisch eigentlich mit Arzt auch einen Doktor. Doktortitel, Doktor so und so, ist
+[00:28:20 -> 00:28:26]  automatisch für die meisten Menschen auch fast immer ein Arzt. Schließt jeder das
+[00:28:26 -> 00:28:33]  Medizinstudium automatisch mit einer Promotion ab? Nee, ganz klar. Man muss nicht promovieren,
+[00:28:33 -> 00:28:37]  man kann natürlich den Arztberuf ausüben, ohne eine Promotion zu haben, ohne den sogenannten
+[00:28:37 -> 00:28:42]  Dr. Med zu erwerben. Viele machen das, aber früher haben das mehr Leute gemacht. Heute,
+[00:28:42 -> 00:28:49]  das ist ein bisschen lockerer, es ist auch nicht mehr so gefragt letztendlich. Man kann es natürlich
+[00:28:49 -> 00:28:53]  machen und viele machen es aber auch, um den sogenannten Dr. Med dann zu erwerben. Der ist
+[00:28:54 -> 00:28:59]  ein bisschen umstritten vom Umfang her, aber man ist nicht automatisch ein Doktor,
+[00:28:59 -> 00:29:05]  wenn man das Medizinstudium absolviert hat. Okay, also nach dem dritten Staatsexamen,
+[00:29:05 -> 00:29:11]  diese mündliche Befragung nach dem PJ, kann man dann entweder direkt in eine Klinik gehen und
+[00:29:11 -> 00:29:14]  da seinen Facharzt machen oder man promoviert erst noch und geht dann in eine Klinik? Genau,
+[00:29:14 -> 00:29:19]  man kann entweder direkt nach dem Studium promovieren, das dauert meistens Medizin ein
+[00:29:19 -> 00:29:24]  bisschen kürzer als in anderen Fächern. Man kann aber auch Grundlagenforschung machen und
+[00:29:24 -> 00:29:28]  promovieren, das dauert dann auch drei bis fünf Jahre. Man kann aber auch, das ist das Gute in
+[00:29:28 -> 00:29:33]  Medizin, während dem Studium bereits seine Forschungstätigkeit aufnehmen und promovieren
+[00:29:33 -> 00:29:38]  und eventuell auch die Promotion fertig schreiben. Nachdem man das Medizinstudium abgeschlossen hat,
+[00:29:38 -> 00:29:46]  kann man seine Promotion einreichen und dann zum Dr. Med promovieren. Hat es dann auch irgendwelche
+[00:29:46 -> 00:29:50]  Auswirkungen später auf das Berufsleben, also dass man leichter Oberarzt wird? Also wenn jetzt
+[00:29:50 -> 00:29:56]  jemand sagt, okay, ich möchte jetzt schon richtig Karrierearzt werden, sollte man dann den Dr. Med
+[00:29:56 -> 00:30:02]  machen? Also wenn man tatsächlich in dem klinischen Forschungsbereich tätig sein möchte, dann sollte
+[00:30:02 -> 00:30:07]  man auf jeden Fall promovieren oder auch die Promotion in der Grundlagenforschung oder wirklich
+[00:30:07 -> 00:30:14]  was Forschungstätigkeit im Labor anfangen. Aber letztendlich, um nur Arzt zu sein, brauchst du
+[00:30:14 -> 00:30:18]  keine Promotion. Wenn du irgendwann in der Uniklinik Oberarzt oder Chefarzt werden möchtest,
+[00:30:18 -> 00:30:23]  klar, dann sollte man promovieren und dann gegebenenfalls später habilitieren und Professor
+[00:30:23 -> 00:30:28]  werden. Wir hatten jetzt schon mal so die verschiedenen Schritte angesprochen. Also
+[00:30:28 -> 00:30:32]  erst machst du deinen Facharzt, dann kannst du Oberarzt werden und so weiter. Kann man das
+[00:30:32 -> 00:30:39]  so generell sagen, dass es so eine typische Ärzte-Karriere-Linie gibt, die man so im
+[00:30:39 -> 00:30:44]  Optimalfall quasi durchläuft oder hängt es immer sehr von den einzelnen Zielen ab? Also
+[00:30:44 -> 00:30:50]  letztendlich gibt es keinen Idealfall oder die klassische Arztkarriere. Man schließt sein Studium
+[00:30:50 -> 00:30:54]  ab, geht in die Facharzt-Weiterbildung, macht seinen Facharzt und kann sich dann niederlassen,
+[00:30:54 -> 00:31:00]  wenn man das möchte. Viele möchten das oder übernehmen Praxen von Verwandten, Freunden oder
+[00:31:00 -> 00:31:06]  Eltern. Aber man kann auch einfach in der Klinik bleiben und dort arbeiten. Wenn man gut ist oder
+[00:31:07 -> 00:31:14]  engagiert ist, wird man dann Oberarzt und später auch Leitender Oberarzt. Ansonsten fallen auch
+[00:31:14 -> 00:31:19]  viele dann später raus, weil sie dann sagen, die aktuelle Lebenssituation passt aktuell nicht so zu
+[00:31:19 -> 00:31:25]  mir in der Klinik. Ich lasse mich jetzt nieder oder arbeite zehn Jahre vielleicht als Oberarzt
+[00:31:25 -> 00:31:31]  und gehe dann in die Klinik. Das ist ganz unterschiedlich. Sind die Gehaltschancen
+[00:31:31 -> 00:31:36]  nach dem Studium? Verdienen alle Ärzte so mehr oder weniger das Gleiche oder gibt es da echt
+[00:31:36 -> 00:31:40]  krasse Unterschiede? Je nachdem, was für einen Bereich du dir spezialisiert hast,
+[00:31:40 -> 00:31:46]  ob du jetzt Oberarzt bist oder was anderes. Was kannst du dazu sagen? Wenn man in der Facharzt-
+[00:31:46 -> 00:31:53]  Weiterbildung ist, muss man zwangsläufig meistens in die Klinik gehen und da verdienen alle Ärzte
+[00:31:53 -> 00:31:57]  oder alle Assistenzärzte in etwa das Gleiche. Das ist ein bisschen unterschiedlich. Ist das
+[00:31:57 -> 00:32:01]  Krankenhaus jetzt von einem privaten Träger, einem kirchlichen Träger oder einer Universitätsklinik,
+[00:32:01 -> 00:32:09]  da unterscheiden sich die Gehälter so ein bisschen, aber nicht krass. Das sind alles Tarifverträge,
+[00:32:09 -> 00:32:14]  die auch alle drei bis vier Jahre neu verhandelt werden und letztendlich verdienen alle Ärzte. Im
+[00:32:14 -> 00:32:18]  Krankenhaus dasselbe. Wenn man niedergelassen ist, sind die Gehaltsmöglichkeiten natürlich
+[00:32:18 -> 00:32:25]  unterschiedlich, je nach Fachgebiet. Zum Beispiel sind Augenärzte oder Urologen prinzipiell
+[00:32:25 -> 00:32:29]  Gutverdiener. Hausärzte zum Beispiel oder Kinderärzte verdienen ein bisschen weniger.
+[00:32:29 -> 00:32:34]  Aber das ist auch nicht so die Welt. Wie läuft das überhaupt ab mit dem Schritt
+[00:32:34 -> 00:32:39]  zur eigenen Praxis? Kannst du jetzt einfach sagen, angenommen du hast deinen Facharzt gemacht,
+[00:32:39 -> 00:32:44]  sagst du einfach, hier ist jetzt meine Arztpraxis, ich habe hier eine Wohnung angemietet,
+[00:32:44 -> 00:32:50]  kommen vorbei Leute oder wird es staatlich vergeben? Ich habe mich da jetzt nicht so
+[00:32:50 -> 00:32:56]  informiert, aber es gibt ja so gewisse Orte, Begrenzungen oder so. Was kannst du dazu sagen?
+[00:32:56 -> 00:33:00]  Ist es so leicht? Kann jeder seine eigene Praxis aufmachen oder gibt es da bestimmte Voraussetzungen?
+[00:33:00 -> 00:33:04]  Letztendlich kann sich jeder Facharzt niederlassen. Das kommt natürlich auch aufs Fach an. Ist es
+[00:33:04 -> 00:33:08]  denn überhaupt gefragt? Als Mikrobiologe zum Beispiel. Klar kann man sich niederlassen,
+[00:33:08 -> 00:33:13]  ob das dann natürlich sinnvoll ist oder da braucht man natürlich ein Labor dabei. Aber
+[00:33:13 -> 00:33:18]  letztendlich kann sich jeder Arzt niederlassen. Dann ist man aber theoretisch, hat man eine
+[00:33:18 -> 00:33:23]  Privatpraxis und kann eigentlich nur Privatpatienten oder Selbstzahler behandeln. Wenn man Kassenpatienten
+[00:33:23 -> 00:33:29]  behandeln möchte, muss man bei der Kassenärztlichen Vereinigung eine sogenannte Zulassung beantragen.
+[00:33:29 -> 00:33:34]  Die vergeben dann sogenannte Kassenarztsitze und das ist dann zum Beispiel im Raum Frankfurt,
+[00:33:34 -> 00:33:39]  sind so und so viele Kassenarztsitze für den und den Fachbereich zugelassen. Und wenn es
+[00:33:39 -> 00:33:44]  keine mehr gibt, dann ist der Markt gesättigt und man kann sich in seinem Fachgebiet, wenn man in
+[00:33:44 -> 00:33:49]  Frankfurt bleiben möchte oder in Berlin, dann nur als Privatarzt niederlassen. Man kann sich aber
+[00:33:49 -> 00:33:55]  auch zum Beispiel in der Arztpraxis einkaufen oder eine Kassenarztsitze abkaufen. Aber tatsächlich
+[00:33:55 -> 00:34:01]  ist es so, dass aktuell viele niedergelassene Ärzte in Rente gehen und dann viele Kassenarztsitze
+[00:34:01 -> 00:34:06]  auch tatsächlich neu zu besetzen sind. Wenn jetzt irgendein Zuschauer gerade denkt, das spricht
+[00:34:06 -> 00:34:11]  mich jetzt echt alles an, was der Hendrik da gerade erzählt. Hast du irgendwelche Tipps, wie man
+[00:34:11 -> 00:34:17]  wirklich herausfinden kann, vor dem Medizinstudium oder zumindest bevor man als Arzt arbeitet, wie
+[00:34:17 -> 00:34:21]  kann man herausfinden, ob das Ganze was für einen ist? Damit man es nicht im Nachhinein irgendwie
+[00:34:21 -> 00:34:27]  bereut, das Studium zu beginnen zu haben. Also klar, man hat irgendwie einen gewissen Plan, wie sieht
+[00:34:27 -> 00:34:32]  das Medizinstudium aus? Mich interessiert es, ich würde es gerne studieren. Ob der Arztberuf tatsächlich,
+[00:34:32 -> 00:34:36]  also wirklich der Arztberuf an sich im Krankenhaus für einen ist, kann man ganz einfach vorher
+[00:34:36 -> 00:34:41]  herausfinden, indem man einfach als Schülerpraktikant in seinen Ferien oder auch im Betriebspraktikum
+[00:34:41 -> 00:34:46]  meistens, dann einfach in die Klinik geht und fragt, kann ich hier auf Station ein Schülerpraktikum machen.
+[00:34:46 -> 00:34:52]  Da kann man dann die Ärzte begleiten oder die älteren Medizinstudenten und man kann aber auch
+[00:34:52 -> 00:34:57]  einfach in Arztpraxen gehen, zum Hausarzt oder zu einem anderen Facharzt und sagen, ich interessiere
+[00:34:57 -> 00:35:03]  mich für das Medizinstudium, kann ich einfach mal eine Woche begleiten, in der Praxis ein bisschen
+[00:35:03 -> 00:35:09]  mithelfen und die meisten Ärzte sind auch sehr aufgeschlossen und sehr nett und helfen einem
+[00:35:09 -> 00:35:13]  gerne weiter und erzählen einem auch gerne was. Oder wenn man im Bekanntenkreis jemanden hat, der Medizin
+[00:35:13 -> 00:35:18]  studiert oder vielleicht Arzt ist, dann einfach fragen, die meisten sind einfach super nett und
+[00:35:18 -> 00:35:25]  sie helfen gerne weiter. Würdest du sagen, das Medizinstudium bereitet einen wirklich inhaltlich
+[00:35:25 -> 00:35:32]  komplett darauf vor, der ideale Arzt zu sein oder hat man da halt inhaltlich Ahnung,
+[00:35:32 -> 00:35:37]  aber ich meine als Arzt, man ist ja auch zwischenmenschlich wichtig. Ich muss dir als Arzt
+[00:35:37 -> 00:35:42]  vertrauen, insbesondere wenn es jetzt vielleicht als Urologe oder sonst was, wenn es jetzt wirklich
+[00:35:42 -> 00:35:47]  persönliche Dinge sind, wird sowas auch im Studium vermittelt, auch so Sachen wie Ernährung oder so
+[00:35:47 -> 00:35:51]  oder siehst du da bei manchen Sachen noch Defizite, wo man sich auch noch neben dem Studium im
+[00:35:51 -> 00:35:55]  optimalen Fall weiterbilden sollte? Also bei einem Medizinstudium muss man unheimlich viel
+[00:35:55 -> 00:36:01]  Informationen aufnehmen und filtern und auch wiedergeben. Das Medizinstudium ist überwiegend
+[00:36:01 -> 00:36:07]  theoretisch und das heißt, man hat unheimlich viel Information, die man auch irgendwie zurechtgreifen
+[00:36:07 -> 00:36:14]  muss und da ist tatsächlich leider oft wenig Platz oder wenig Zeit für das Zwischenmenschliche,
+[00:36:14 -> 00:36:19]  für die empathischen Gesprächsführungen zum Beispiel, wie man das übt. Klar, das wird geübt
+[00:36:19 -> 00:36:24]  und es wird auch ein bisschen beigebracht und tatsächlich in den praktischen Übungen oder in
+[00:36:24 -> 00:36:30]  den Praktika, Blockpraktika, Formulaturen oder im Period hat man die Möglichkeit, das zu üben und
+[00:36:30 -> 00:36:35]  man wird auch angeleitet. Letztendlich kommt es tatsächlich ein bisschen kurz. Also das
+[00:36:35 -> 00:36:43]  Zwischenmenschliche bzw. das Empathische ist ein wichtiger Teil im Arztberuf, kommt leider oft ein
+[00:36:43 -> 00:36:48]  bisschen kurz. Okay, dann auf jeden Fall vielen Dank für die super Antworten. Eine allerletzte
+[00:36:48 -> 00:36:52]  Frage würde mich persönlich noch interessieren, wie siehst du denn die Zukunftsaussichten von
+[00:36:52 -> 00:37:00]  Medizin? Also wird es in den nächsten 10, 20 Jahren oder noch weiter mit der ganzen technologischen
+[00:37:00 -> 00:37:04]  Entwicklung, werden wir dann noch Ärzte brauchen oder wird es alles, tue ich einfach eine Blutprobe
+[00:37:04 -> 00:37:08]  zu irgendeinem Roboter schicken und der sagt mir dann genau, welche Krankheit ich habe und wie ich
+[00:37:08 -> 00:37:13]  das heilen kann? Letztendlich, also Digitalisierung findet auch in den Medizineinzug sehr, sehr
+[00:37:13 -> 00:37:20]  wichtig. Digitale Patientenakten und so weiter. Auch die Forschung oder auch die Behandlungsmöglichkeiten
+[00:37:20 -> 00:37:24]  werden immer moderner oder für uns wirkt es zumindest so, dass sie immer moderner werden.
+[00:37:24 -> 00:37:30]  Letztendlich ist es so, wahrscheinlich ist es so, dass Ärzte nie ganz ersetzt werden können,
+[00:37:30 -> 00:37:34]  einfach weil in der Medizin die Erfahrung einen unheimlichen Stellenwert hat. Das zeigt auch
+[00:37:34 -> 00:37:39]  einfach, dass die Ausbildung so lange ist, bis zum Facharzt, bis man tatsächlich absolut eigene
+[00:37:39 -> 00:37:45]  Verantwortung trägt, da muss man unheimlich viel Erfahrung sammeln. Das heißt, sei es jetzt in der
+[00:37:45 -> 00:37:50]  Innenmedizin braucht man Erfahrung, aber auch in der Chirurgie. Viele sagen, es gibt ja immer mehr
+[00:37:50 -> 00:37:57]  Operationsroboter, aber letztendlich ersetzt nicht ein Roboter den Operateur an sich, der die
+[00:37:57 -> 00:38:02]  Erfahrung hat, weil denn jede Anatomie des Menschen ist anders. Nichts ist gleich in der Medizin und
+[00:38:02 -> 00:38:07]  es gibt nichts, was es nicht gibt in der Medizin. Das ist eine ganz wichtige Regel. Und mit dem
+[00:38:07 -> 00:38:13]  Computer, die werden zwar auch intelligenter und irgendwelche Algorithmen, aber da letztendlich
+[00:38:13 -> 00:38:19]  das Bauchgefühl zu ersetzen, das wird glaube ich sehr schwer und deswegen ist der Arztberuf doch
+[00:38:19 -> 00:38:24]  sehr zukunftsträchtig. Mit diesen abschließenden letzten Worten danke ich dir, Hendrik, für das
+[00:38:24 -> 00:38:29]  Interview. Ich hoffe, euch hat das Video gefallen. Es ist auf jeden Fall eine sehr große Menge an
+[00:38:29 -> 00:38:33]  Informationen vermittelt worden. Gebt auf jeden Fall einen Daumen hoch, wenn es euch gefallen
+[00:38:33 -> 00:38:37]  hat. Teilt das Video mit irgendwelchen anderen Freunden, die sich vielleicht gerade überlegen,
+[00:38:37 -> 00:38:41]  Medizin zu studieren oder gerade am Anfang vom Medizinstudium sind. Für die werden natürlich
+[00:38:41 -> 00:38:46]  auch diese beruflichen Themen sehr relevant sein. Abonniert meinen Kanal. Wir sehen uns
+[00:38:46 -> 00:38:50]  in dem nächsten Interview. Bis dahin, viele Grüße, David und Hendrik. Tschüss, ciao.

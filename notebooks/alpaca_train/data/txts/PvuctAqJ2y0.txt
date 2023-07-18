@@ -1,0 +1,128 @@
+[00:00:00 -> 00:00:05]  Mae'r rôl o'r Deyrnas Cymdeithasol a Biotechnoleg C.B. yng Nghymru, fel rydyn ni'n ei ysgrifennu,
+[00:00:05 -> 00:00:08]  yw cymryd y niferoedd gwahanol o wahanol o ymchwil,
+[00:00:08 -> 00:00:12]  a hefyd cymryd ymwneud â'r addysg sy'n llwyddiol y byddwch chi'n ei wneud yng nghymdeithasol
+[00:00:12 -> 00:00:15]  yng nghymdeithasol a phosgraddedig.
+[00:00:15 -> 00:00:20]  A'r rhan tri yw efallai ein bod ni eisiau cael effaith bwysig ar gyfer cymdeithas.
+[00:00:20 -> 00:00:25]  Mae'r Deyrnas Cymdeithas a Biotechnoleg yn debyg iawn.
+[00:00:25 -> 00:00:30]  Mae'r Deyrnas Cymdeithas a Biotechnoleg yn debyg iawn.
+[00:00:30 -> 00:00:34]  Mae'n cael amrywiaeth mewn sgiliau.
+[00:00:34 -> 00:00:42]  Felly rydyn ni'n cymryd pethau o'r molecwl i'r holl broses, fel y dywedodd y enw.
+[00:00:43 -> 00:00:48]  Nid yw gwneud ymwneud â chymdeithas dda.
+[00:00:48 -> 00:00:55]  Mae gennym y ddynion ddysgu, sy'n gwneud i ni eisiau cymryd ein gwybodaeth
+[00:00:55 -> 00:01:01]  a gweld sut y gallai'n canolbwyntio ar gyfer cymdeithas.
+[00:01:02 -> 00:01:09]  Mae'r Deyrnas Cymdeithas yn gwrs unig, a'i gynnal ym Mhrifysgol Biotechnoleg.
+[00:01:09 -> 00:01:17]  Mae'n gwrs ymdrechion ymdrechion a'i chymryd ar y sgiliau i'r broses ffarmaceutig neu'r broses biotechnoleg.
+[00:01:17 -> 00:01:25]  Mae'r myfyrwyr o'r cwrs hwn yn ddiddorol iawn. Mae llawer ohonyn nhw'n mynd allan o'u cymdeithasau eu hunain.
+[00:01:26 -> 00:01:31]  Mae hwn yn adeiladau newydd. Dyma'r cyntaf bod y Deyrnas Cymdeithas yn seiliedig ar un waith,
+[00:01:31 -> 00:01:36]  ac mae'n cael ei dylunio yn benodol i gysylltiad a chymryd gwybodaeth.
+[00:01:36 -> 00:01:40]  Mae'r laboratoriaethau ymchwil wedi'u cyflwyno i lefel cyhoeddus,
+[00:01:40 -> 00:01:45]  ond, yn bwysig, maen nhw hefyd wedi'u rhannu i fod yn hawdd iawn i'r ymchwil ddod allan.
+[00:01:45 -> 00:01:47]  Mae'n rhoi amgylchedd dda iawn.
+[00:01:47 -> 00:01:51]  Mae gennym mwy na 140 gweithgareddau gyda'r diwydiant.
+[00:01:51 -> 00:02:01]  Mae'r gweithgareddau'n gwahanol o gefnogi prosiectau ymchwil mawr i fod yn gweithgareddau sy'n ymgyrchu'n ddiddorol iawn.
+[00:02:01 -> 00:02:07]  Ac mae gennym pwysigrwydd gyffredinol iawn i ymgyrchu'r diwydiant i ddod a siarad â ni
+[00:02:07 -> 00:02:12]  ac i ddod â'u heriau, oherwydd ein bod ni eisiau bod yn heriau.
+[00:02:15 -> 00:02:18]  Felly, rydyn ni'n datblygu gweithgaredd aorig polimerig,
+[00:02:18 -> 00:02:22]  ac mae'r sylwad ar ôl hwn oherwydd bod prosiectau sy'n cael eu cyflwyno,
+[00:02:22 -> 00:02:27]  maen nhw'n gorfod cael anifeiliaeth am ymgyrchu,
+[00:02:27 -> 00:02:31]  ac mae hynny'n cysylltiedig â risg o bleidio.
+[00:02:31 -> 00:02:37]  Felly, mae'r ffocws o'r polimerig yw nad oes angen i ni ddod â'r amgylchedd.
+[00:02:37 -> 00:02:39]  Felly, sut rydyn ni'n teisio'r gweithgaredd, rydyn ni'n defnyddio...
+[00:02:39 -> 00:02:42]  Yn gyntaf, rydyn ni'n teisio hydrodinamig mewn ddupligadur pwls,
+[00:02:42 -> 00:02:47]  ac yna rydyn ni'n gallu gweld sut mae'n gweithredu o ran sut mae'n agor ac sut mae'n cysylltu'n dda.
+[00:02:47 -> 00:02:51]  Unwaith rydyn ni'n gwybod ein bod ni'n hapus gyda'r gweithgaredd hydrodinamig a'r amgylcheddau,
+[00:02:51 -> 00:02:53]  rydyn ni'n angen gweld sut o amgylchedd mae'r gweithgaredd yn digwydd.
+[00:02:53 -> 00:02:58]  Ac yna rydyn ni'n ei wneud mewn test cynyddud, a'i gweithredu'n ddupligadur.
+[00:02:58 -> 00:03:02]  Rydyn ni'n gweithredu'n gyflym ac yn cysylltu'r gweithgaredd mewn ddupligadur fawr,
+[00:03:02 -> 00:03:07]  ac yn cymysgu'r gweithgaredd ac yn cyflawni nifer y cyfleoedd sydd wedi'i gweithredu.
+[00:03:07 -> 00:03:13]  Felly rydyn ni'n ceisio defnyddio biologi synthedig a datblygu technoleg sy'n gallu cael gwneud
+[00:03:13 -> 00:03:17]  rhan fawr o'r test, y biosensor, yn y wlad.
+[00:03:17 -> 00:03:22]  Felly y pwynt gyntaf yw lle rydyn ni'n dylunio DNA sy'n benodol sydd gyda'n protein gweithredol
+[00:03:22 -> 00:03:25]  a rhaglenni arbennig i'r amgylchedd.
+[00:03:25 -> 00:03:28]  Rydyn ni'n cymysgu'r DNA hwn ac yn ei ddiflannu i E. coli.
+[00:03:28 -> 00:03:34]  Yn ôl i'r amgylchedd ddewis yn fyr, rydyn ni'n rhannu'r celau a dynnu'r lysed.
+[00:03:34 -> 00:03:37]  Yna rydyn ni'n dynnu'r lysed a'i ffusio gyda silica.
+[00:03:37 -> 00:03:41]  Yn y diwedd, mae gennym nawr ddysgwyr glir gyda silica ffyr yno.
+[00:03:41 -> 00:03:46]  Yn ôl i gael y silica ffyr, gallwn ei dynnu a'i defnyddio yn y fformat aseol
+[00:03:46 -> 00:03:51]  i ddatblygu pethau fel malaria, ar gyfer gweithgareddau rydyn ni'n gweithio gyda nhw yng Nghaerffyrdd
+[00:03:51 -> 00:03:55]  ac ar gyfer leptosporosus, sy'n dysgwyr sylfaenol yng Nghaerffyrdd yng Nghaerffyrdd.
+[00:03:56 -> 00:04:00]  Un o'r technolegau rydyn ni'n gweithio ar yw'r ffusio chemigol.
+[00:04:00 -> 00:04:05]  Mae hyn yn galluogi adnoddau carbon dioxid yn cael eu cafod mwy effeithiol na'r technolegau arall.
+[00:04:05 -> 00:04:11]  Mae'r technolegau reactor sy'n bwysig i'r ffusio chemigol yn gweithgareddau flwyddoedd
+[00:04:11 -> 00:04:18]  ac mae'r grŵp wedi gwneud llawer o waith i ddeall sut mae'r reactorau hyn yn ymdrech
+[00:04:18 -> 00:04:21]  a sut mae'r ffusio chemigol yn ymdrech.
+[00:04:21 -> 00:04:25]  Mae'r grŵp yn cysylltu â ddysgu ychydig o ffusio chemigol.
+[00:04:25 -> 00:04:30]  Mae'r ffusio chemigol yn y ffenomenon lle mae flwyddoedd yn cael eu drosglwyddo trwy ffusio chemigol
+[00:04:30 -> 00:04:34]  ac unwaith y mae'r fflwyddoedd yn cyrraedd cyflymau cyfnodol,
+[00:04:34 -> 00:04:40]  mae'r ffusio chemigol yn dechrau cael eu hysbysu yn y fflwyddoedd ac mae'r holl yn ymdrech fel llwyd.
+[00:04:40 -> 00:04:46]  Mae'r ffusio chemigol yn darparu amgylchedd da i ddefnyddio ffusiynau fel biomas
+[00:04:46 -> 00:04:49]  oherwydd y perthynasau gysylltiedig dda.
+[00:04:49 -> 00:04:53]  Yn ogystal â hyn, mae'r grŵp yn gweithio ar y rhan o bethau pwysig iawn,
+[00:04:53 -> 00:04:59]  gan ymdrechu o adnodd a chyfrifoldeb carbon i'r holl i'r oxidoedd gwahanol o ffusio chemigol.
+[00:05:01 -> 00:05:03]  Dyma'r Lab Imeidio Magnetic Resonance,
+[00:05:03 -> 00:05:07]  ac yma mae'r grŵp yn seiliedig ar ddatblygiad cyffredinol mewn ffusio chemigol,
+[00:05:07 -> 00:05:12]  ffusio reaction, gwyddoniaethau pharmaceutig, cymorth o flwyddoedd a'r diwydiant bwyd.
+[00:05:16 -> 00:05:20]  Felly, ymwneud â fy nghyfrifoldeb yw datblygu ffusio cyffredinol ffusio chemigol
+[00:05:20 -> 00:05:22]  mewn ffusio cyffredinol mewn ffusio cyffredinol
+[00:05:22 -> 00:05:26]  i ddeall mwy o flwyddoedd a chyfrifoldeb mewn rocs,
+[00:05:26 -> 00:05:29]  a hefyd i astudio prosesau gysylltiedig dda.
+[00:05:29 -> 00:05:34]  A'r syniad yma yw defnyddio'r ffusio cyffredinol ffusio chemigol a ffusio gwyddoniaethau
+[00:05:34 -> 00:05:37]  i ddatblygu dyluniadau cyffredinol,
+[00:05:37 -> 00:05:40]  er mwyn eu bod yn gallu cael cymorth fwy effeithiol o ffusio,
+[00:05:40 -> 00:05:42]  sydd, wrth gwrs, yn ffusio cyffredinol.
+[00:05:42 -> 00:05:45]  Ond, os ydych chi'n gallu ei wneud gyda'r data MRI cyffredinol,
+[00:05:45 -> 00:05:48]  gallwn gysylltu â'r data MicroCT cyffredinol cyffredinol,
+[00:05:48 -> 00:05:52]  ac mae'r mathau ddata hyn yn ddefnyddiol iawn i astudio
+[00:05:52 -> 00:05:55]  a ddeall ffusio cyffredinol yn well drwy rocs.
+[00:05:59 -> 00:06:02]  Rwy'n edrych ar y cysylltiad rhwng ffusio a chyffredinol
+[00:06:02 -> 00:06:04]  mewn reactorau bywydau.
+[00:06:04 -> 00:06:07]  Er mwyn gwneud hynny, rydw i'n defnyddio ffusio cyffredinol hexaflurolaethol,
+[00:06:07 -> 00:06:10]  sy'n cyffredinol i'r sylwad NMR,
+[00:06:10 -> 00:06:13]  ac rydw i hefyd yn edrych ar fwyd liwed,
+[00:06:13 -> 00:06:16]  ac yna rydyn ni'n ei flwydro trwy'r system ysbytaiol ar yr un pryd,
+[00:06:16 -> 00:06:20]  ac mae'r gwahaniaeth rhwng ffusio a chyffredinol
+[00:06:20 -> 00:06:23]  yn fy nghymryd i edrych ar y ffeiliau cyffredinol
+[00:06:23 -> 00:06:25]  o'r ffusio a'r liwydd.
+[00:06:25 -> 00:06:27]  Ac yna mae hynny'n rhoi ffotograff bwysig
+[00:06:27 -> 00:06:30]  o'r hyn y mae'r ffysigaeth yn ei wneud yn eithaf i mewn i'r ffusio reactor,
+[00:06:30 -> 00:06:33]  ac yna, yn amlwg, mae'n helpu i weithredu unedau diwydiannol.
+[00:06:33 -> 00:06:37]  Felly, nid yw ffusio magnetig yn unig dylunio'r diagnostïau clinigol,
+[00:06:37 -> 00:06:41]  ond mae hefyd yn cael ei ddefnyddio i ddeall systemau cyffredinol
+[00:06:41 -> 00:06:45]  sy'n cael eu hysbysu at amgylcheddau gwahanol, fel rydym wedi'u gweld
+[00:06:45 -> 00:06:47]  yn y cymorth hydrocarbon,
+[00:06:47 -> 00:06:49]  y ffusiynau synthetig,
+[00:06:49 -> 00:06:52]  a hefyd cyffredinol cyffredinol a chyffredin mas.
+[00:06:52 -> 00:06:55]  Ffusio magnetig
+[00:06:56 -> 00:07:01]  Felly, mae'r grŵp neurofysgol meleculol a'r grŵp analystig laser yn gweithio'n gyflym
+[00:07:01 -> 00:07:06]  ac rydym yn astudio degeneratio neurodd yn ddefnyddio technegau optygol.
+[00:07:06 -> 00:07:09]  Rydym wedi datblygu plant hysbysu ffresenol
+[00:07:09 -> 00:07:13]  a mae hyn yn defnyddio'r model cefnogaeth cyffredinol.
+[00:07:13 -> 00:07:17]  Pan fyddwn ni'n ymateb i'r protein beta ameloed yma,
+[00:07:17 -> 00:07:20]  sy'n gweithio yn ymwneud â diwydiant Alzheimer,
+[00:07:20 -> 00:07:22]  yn y musglau o'r C. elegans,
+[00:07:22 -> 00:07:25]  mae hyn yn eu gwahoddu nhw i ddigwyddiadau.
+[00:07:25 -> 00:07:29]  Felly rydyn ni'n eisiau defnyddio ein platfform i gyfathrebu'r digwyddiad
+[00:07:29 -> 00:07:33]  gyda sut mae'r protein yn ymwneud â'r cyffredin.
+[00:07:33 -> 00:07:36]  Rydyn ni'n gobeithio, gyda'r platfform ysgrifennol hwn,
+[00:07:36 -> 00:07:40]  y gallwn ddod o hyd i targedau therapeutig.
+[00:07:40 -> 00:07:45]  Efallai un o'n compawndau ni fydd yn digwyddiadu diwydiant Alzheimer.
+[00:07:46 -> 00:07:49]  Mae'r adran hon yn dda iawn oherwydd ei fod yn ddigwyddiadol.
+[00:07:49 -> 00:07:52]  Mae ein grŵp yn cael gysylltiadau ynglyn â'r adran
+[00:07:52 -> 00:07:56]  a fyddai ddim wedi digwyddio os nad oedd y digwyddiad yma.
+[00:07:56 -> 00:07:58]  Mae yna naturiad gysylltiadol dda yma.
+[00:07:58 -> 00:08:00]  Mae llawer o ymchwil gwahanol yn digwyddio
+[00:08:00 -> 00:08:02]  ac mae yna llawer o brosiectau cyfathrebu.
+[00:08:02 -> 00:08:05]  Mae'r cyfathrebu o bobl sy'n eu cyflawni'n well
+[00:08:05 -> 00:08:07]  yn y byd yn eithaf anhygoel.
+[00:08:07 -> 00:08:10]  Mae'n ddiddorol iawn i siarad â'r ymchwilwyr eraill,
+[00:08:10 -> 00:08:12]  yn ceisio datblygu cyfathrebu newydd
+[00:08:12 -> 00:08:15]  a bod yn y chyfathrebu ar gyfer technoleg cyffredin.
+[00:08:16 -> 00:08:18]  Yn dim ond eith mlynedd,
+[00:08:18 -> 00:08:21]  rydym wedi gweld gwahaniaeth anhygoel
+[00:08:21 -> 00:08:23]  yn ein cyfathrebu,
+[00:08:23 -> 00:08:27]  dim ond gan gael pobl yn yr un adeilad yma.
+[00:08:27 -> 00:08:30]  Mae'r syniad rydyn ni'n ei gael yn y dyfodol
+[00:08:30 -> 00:08:33]  yw ein bod ni'n mynd i fod yn dda iawn.
+[00:08:33 -> 00:08:36]  Ac mae'n deimlo ein bod ni'n cael
+[00:08:36 -> 00:08:39]  yr holl adnoddau a'r holl bobl
+[00:08:39 -> 00:08:42]  sy'n rhoi hynny i ddigwydd.

@@ -1,0 +1,86 @@
+[00:00:00 -> 00:00:04]  Scrum teams are taught they need to have a sprint goal.
+[00:00:04 -> 00:00:08]  The Scrum Guide says so, lots of Agile coaches say so.
+[00:00:08 -> 00:00:09]  I disagree.
+[00:00:09 -> 00:00:13]  I don't think every team needs a sprint goal every sprint.
+[00:00:13 -> 00:00:16]  And today I'm going to tell you why sprint goals are not always useful.
+[00:00:16 -> 00:00:22]  Hi, I'm Mike Cohn and I'm the author of three best-selling books on Agile and Scrum.
+[00:00:22 -> 00:00:25]  I help teams succeed with Agile.
+[00:00:25 -> 00:00:29]  First off, sprint goals are great for some teams some of the time.
+[00:00:29 -> 00:00:33]  I just don't think every team needs one every sprint.
+[00:00:33 -> 00:00:36]  I have to tell you though, I'm in the minority on this view.
+[00:00:36 -> 00:00:41]  Just like I'm in the minority in believing, or at least hoping, that Nessie is real.
+[00:00:41 -> 00:00:44]  Okay, maybe Nessie isn't real.
+[00:00:44 -> 00:00:49]  But there are real benefits to having a sprint goal for some teams, just not every team.
+[00:00:49 -> 00:00:55]  A sprint goal is a short one or two sentence description of a Scrum team's single objective
+[00:00:55 -> 00:00:56]  for the sprint.
+[00:00:56 -> 00:00:58]  I love that.
+[00:00:58 -> 00:01:03]  I spend a lot of time advising organizations to narrow their focus regarding what they'll
+[00:01:03 -> 00:01:08]  achieve whether it be for a year, a quarter, or even a single sprint.
+[00:01:08 -> 00:01:14]  It's all too common for an organization or team to select a goal the way I load my plate
+[00:01:14 -> 00:01:15]  at a buffet.
+[00:01:15 -> 00:01:17]  A little of this, a little of that, some of the other.
+[00:01:17 -> 00:01:22]  But sometimes a sprint cannot be focused on a single objective.
+[00:01:22 -> 00:01:27]  Some teams simply have multiple things that need to get done.
+[00:01:27 -> 00:01:30]  For example, consider a digital agency.
+[00:01:30 -> 00:01:35]  A team there could be simultaneously building a new website for one client, doing some mid-sized
+[00:01:35 -> 00:01:42]  enhancements for a second client, and making small bug fixes or edits for five additional
+[00:01:42 -> 00:01:43]  clients.
+[00:01:43 -> 00:01:45]  How should their sprint goal be written?
+[00:01:45 -> 00:01:49]  Should the goal focus on the new website, which will consume the most work during the
+[00:01:49 -> 00:01:54]  sprint, or should the goal focus on the small edits if those are for the company's most
+[00:01:54 -> 00:01:56]  important client?
+[00:01:56 -> 00:02:00]  Some teams merge all that into one goal with something like, finish the seven user stories
+[00:02:00 -> 00:02:01]  we committed to.
+[00:02:01 -> 00:02:03]  That doesn't help.
+[00:02:03 -> 00:02:06]  It doesn't provide the clarity a good sprint goal gives.
+[00:02:06 -> 00:02:11]  And it's too broad to focus the team on a single objective.
+[00:02:11 -> 00:02:16]  Teams who write finish the user stories we committed to and consider that a sprint goal
+[00:02:16 -> 00:02:19]  have effectively given up on sprint goals.
+[00:02:19 -> 00:02:24]  The goal of the sprint goal is to focus the team's attention on what most needs to be
+[00:02:24 -> 00:02:25]  achieved.
+[00:02:25 -> 00:02:30]  I remember how vital this was in the late 90s, the early days of Scrum.
+[00:02:30 -> 00:02:33]  Back then, all teams did four-week sprints.
+[00:02:33 -> 00:02:37]  No one did what today we call product backlog refinement.
+[00:02:37 -> 00:02:42]  And extreme programming hadn't yet introduced the world to user stories.
+[00:02:42 -> 00:02:46]  Back in the 90s, teams would lose sight of what they were working on.
+[00:02:46 -> 00:02:52]  I can clearly remember a long-ago mid-sprint discussion with a programmer who said, remind
+[00:02:52 -> 00:02:55]  me, what is it we're trying to get done in this sprint?
+[00:02:55 -> 00:03:00]  In a long sprint with inadequately expressed product backlog items, this developer had
+[00:03:00 -> 00:03:06]  quite literally forgotten whatever big goal the team was pursuing that sprint.
+[00:03:06 -> 00:03:09]  The sprint goal served to restore focus on that goal.
+[00:03:09 -> 00:03:14]  I remember answering his question with increasing the average time spent on the search results
+[00:03:14 -> 00:03:17]  screen, which was the sprint goal.
+[00:03:17 -> 00:03:23]  In the early days of Scrum, sprint goals were usually used to evaluate the sprint, meet
+[00:03:23 -> 00:03:26]  the sprint goal, and the sprint was a success.
+[00:03:26 -> 00:03:30]  Don't achieve the sprint goal, and the sprint was not a success.
+[00:03:30 -> 00:03:34]  Looking at a sprint this way is incomplete.
+[00:03:34 -> 00:03:39]  There are often important things that need to be done that are outside a one or two-sentence
+[00:03:39 -> 00:03:41]  sprint goal.
+[00:03:41 -> 00:03:47]  Distilling an entire sprint to one goal has the same problems I have with to-do and personal
+[00:03:47 -> 00:03:52]  productivity systems that tell me to make a list of the three most important things
+[00:03:52 -> 00:03:55]  I need to accomplish each day.
+[00:03:55 -> 00:03:59]  Paying my mortgage is rarely the most important thing I need to do on a given day, but it
+[00:03:59 -> 00:04:01]  does need to be done.
+[00:04:01 -> 00:04:07]  Should I really put off paying my mortgage until the day I'm to be evicted for non-payment,
+[00:04:07 -> 00:04:11]  at which point it finally is the most important thing that day?
+[00:04:11 -> 00:04:16]  A sprint is a complicated collection of work that a team needs to accomplish.
+[00:04:16 -> 00:04:20]  That work cannot always be encapsulated within a single goal.
+[00:04:20 -> 00:04:22]  Here's what I'd recommend.
+[00:04:22 -> 00:04:28]  If sprint goals work for your team, by all means, you should continue using them.
+[00:04:28 -> 00:04:32]  If you hear, what is it we're trying to get done this sprint from the team, sprint goals
+[00:04:32 -> 00:04:33]  can help.
+[00:04:33 -> 00:04:39]  And, if you're new to Scrum, you should absolutely try writing sprint goals for a few sprints.
+[00:04:39 -> 00:04:44]  But if you've tried writing sprint goals and they just didn't work for your team, then
+[00:04:44 -> 00:04:49]  consider your effort a useful experiment and proceed without them.
+[00:04:49 -> 00:04:50]  There you go.
+[00:04:50 -> 00:04:51]  You've heard my opinion on sprint goals.
+[00:04:51 -> 00:04:54]  Let me hear yours in the comments section.
+[00:04:54 -> 00:04:57]  I'd love to hear if sprint goals are working for you.
+[00:04:57 -> 00:04:59]  As I said, they work for many teams.
+[00:04:59 -> 00:05:03]  But if you've tried sprint goals and they haven't worked, let me know how your team
+[00:05:03 -> 00:05:05]  has been doing without sprint goals.
+[00:05:05 -> 00:05:08]  I'll bet the wheels didn't fall off.
+[00:05:08 -> 00:05:11]  If this video has been useful, click the like button.
+[00:05:11 -> 00:05:15]  And if you're new to this channel, click subscribe so you don't miss out on future tips to help
+[00:05:15 -> 00:05:17]  you succeed with Agile.
+[00:05:17 -> 00:05:19]  Thank you for watching and I'll see you next time.

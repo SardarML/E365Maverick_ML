@@ -1,0 +1,408 @@
+[00:00:00 -> 00:00:03]  Every day, we generate 2.5 quintillion bytes of data.
+[00:00:03 -> 00:00:06]  And that's the equivalent of every person in the world
+[00:00:06 -> 00:00:09]  filling up an entire Excel file with data every day.
+[00:00:09 -> 00:00:10]  And that's where SQL comes in.
+[00:00:10 -> 00:00:13]  Developers use this tool to store a lot of the data
+[00:00:13 -> 00:00:14]  that we're generating.
+[00:00:14 -> 00:00:16]  And then data analysts, data scientists,
+[00:00:16 -> 00:00:18]  and even data engineers go in and use SQL
+[00:00:18 -> 00:00:21]  in order to access and analyze this data.
+[00:00:21 -> 00:00:23]  So let's dive in today to better understand
+[00:00:23 -> 00:00:25]  how I use SQL for my job as a data analyst,
+[00:00:25 -> 00:00:26]  what is SQL and its importance
+[00:00:26 -> 00:00:28]  in working with other data science tools,
+[00:00:28 -> 00:00:30]  what are the most popular SQL options,
+[00:00:30 -> 00:00:32]  and by the end, we'll even have you up and running
+[00:00:32 -> 00:00:33]  with some basic SQL queries.
+[00:00:33 -> 00:00:34]  What up, data nerds?
+[00:00:34 -> 00:00:36]  I'm Luke, a data analyst,
+[00:00:36 -> 00:00:38]  and my channel's all about tech and skills for data science.
+[00:00:38 -> 00:00:41]  And without a doubt, SQL is the most important tool
+[00:00:41 -> 00:00:44]  by those that work in the field of data science.
+[00:00:44 -> 00:00:45]  What better way to show this
+[00:00:45 -> 00:00:48]  than by sharing how I use SQL in my job?
+[00:00:48 -> 00:00:50]  And I find that it's used in two main ways.
+[00:00:50 -> 00:00:53]  First is ad hoc analysis, and the second is data sharing.
+[00:00:53 -> 00:00:55]  Ad hoc analysis of business data
+[00:00:55 -> 00:00:58]  is typically performed to answer one-off questions.
+[00:00:58 -> 00:01:00]  For example, let's say my coworker comes up to me
+[00:01:00 -> 00:01:01]  and asks the following,
+[00:01:01 -> 00:01:03]  hey, what were sales last quarter?
+[00:01:03 -> 00:01:06]  From here, I can use SQL to dive into the data
+[00:01:06 -> 00:01:07]  and investigate further.
+[00:01:07 -> 00:01:09]  Since I don't need to do any fancy reporting,
+[00:01:09 -> 00:01:11]  SQL will be fine for this.
+[00:01:11 -> 00:01:13]  Now, if my coworker comes back and says this,
+[00:01:13 -> 00:01:15]  hey, sales were really low last quarter.
+[00:01:15 -> 00:01:16]  Can you look into why this is?
+[00:01:16 -> 00:01:19]  Now, I could potentially stay in SQL
+[00:01:19 -> 00:01:21]  and do this type of analysis,
+[00:01:21 -> 00:01:22]  but I found I'm actually more comfortable
+[00:01:22 -> 00:01:25]  using programming languages for this.
+[00:01:25 -> 00:01:27]  So I could use something like Python or R
+[00:01:27 -> 00:01:29]  to dive further and investigate the data.
+[00:01:29 -> 00:01:31]  So moving on to that second aspect of data sharing.
+[00:01:31 -> 00:01:33]  What happens now whenever you have a stakeholder
+[00:01:33 -> 00:01:36]  that wants to dive into the data themselves?
+[00:01:36 -> 00:01:38]  I do expect data nerds to have the skill of SQL,
+[00:01:38 -> 00:01:41]  but non-data nerds, I don't expect this as much.
+[00:01:41 -> 00:01:42]  So you may have questions like this.
+[00:01:42 -> 00:01:46]  Hey, bro, can I get those sales numbers, but in Excel?
+[00:01:46 -> 00:01:49]  In this case, I could use a spreadsheet software
+[00:01:49 -> 00:01:51]  such as Excel to connect directly to a database
+[00:01:51 -> 00:01:53]  with some sort of SQL code
+[00:01:53 -> 00:01:55]  and thus have a live connection to the data
+[00:01:55 -> 00:01:56]  within the spreadsheet.
+[00:01:57 -> 00:01:58]  What happens if they come back again,
+[00:01:58 -> 00:02:00]  hopefully the final time, and ask the following?
+[00:02:00 -> 00:02:03]  Bro, your sales analysis was spot on.
+[00:02:03 -> 00:02:06]  Do you mind building a dashboard for the entire sales team
+[00:02:06 -> 00:02:08]  so that way everybody can monitor this?
+[00:02:08 -> 00:02:11]  Once again, SQL can be used in visualization tools
+[00:02:11 -> 00:02:15]  such as Power BI and Tableau to pull the data real time
+[00:02:15 -> 00:02:18]  and display it in a dashboard for my coworkers to admire.
+[00:02:18 -> 00:02:20]  And this is why SQL is, in my opinion,
+[00:02:20 -> 00:02:23]  the most powerful tool to know as a data analyst.
+[00:02:23 -> 00:02:26]  Not only can I use this to access and analyze data,
+[00:02:27 -> 00:02:28]  I can take it a step further
+[00:02:28 -> 00:02:31]  and put it into other data analytical tools
+[00:02:31 -> 00:02:34]  to thus extract the data and provide it to my stakeholders.
+[00:02:34 -> 00:02:36]  So now let's dive deeper into understanding
+[00:02:36 -> 00:02:37]  what SQL actually is.
+[00:02:37 -> 00:02:41]  And this stands for Structured Query Language.
+[00:02:41 -> 00:02:43]  And it's most commonly pronounced SQL.
+[00:02:43 -> 00:02:44]  SQL.
+[00:02:44 -> 00:02:45]  SQL.
+[00:02:45 -> 00:02:46]  SQL.
+[00:02:46 -> 00:02:47]  SQL.
+[00:02:47 -> 00:02:47]  SQL.
+[00:02:47 -> 00:02:48]  SQL.
+[00:02:48 -> 00:02:52]  SQL is the language used to query a database.
+[00:02:52 -> 00:02:54]  Basically think of it like a common language
+[00:02:54 -> 00:02:56]  between your computer and a database.
+[00:02:57 -> 00:02:58]  So I frequently get asked,
+[00:02:58 -> 00:03:01]  how do I install SQL on my computer?
+[00:03:01 -> 00:03:03]  Now, just to be clear, SQL is a language
+[00:03:03 -> 00:03:06]  so you don't necessarily install SQL on your computer.
+[00:03:06 -> 00:03:07]  Instead I find that there's two main things
+[00:03:07 -> 00:03:09]  that you need to run SQL.
+[00:03:09 -> 00:03:12]  One is an editor and two is a database.
+[00:03:12 -> 00:03:14]  Let's talk about database first.
+[00:03:14 -> 00:03:16]  Databases are an organized collection of data.
+[00:03:16 -> 00:03:19]  So large companies use these databases
+[00:03:19 -> 00:03:22]  in order to store their vast amounts of information.
+[00:03:22 -> 00:03:24]  Typically programmers and even data engineers
+[00:03:24 -> 00:03:27]  are utilized in order to build systems
+[00:03:27 -> 00:03:28]  around collecting this data.
+[00:03:28 -> 00:03:31]  Since we're talking about large amounts of information,
+[00:03:31 -> 00:03:34]  we typically don't want to use things like text files
+[00:03:34 -> 00:03:35]  or Excel files because they have
+[00:03:35 -> 00:03:38]  pretty small data limitations.
+[00:03:38 -> 00:03:41]  Databases have much larger data limitations.
+[00:03:41 -> 00:03:43]  So once these databases are designed and set up
+[00:03:43 -> 00:03:46]  by these programmers and data engineers,
+[00:03:46 -> 00:03:48]  as a data analyst I can then go in
+[00:03:48 -> 00:03:50]  and use SQL in order to query these databases.
+[00:03:50 -> 00:03:53]  Now the structure of the language or syntax
+[00:03:53 -> 00:03:56]  of SQL to query a database is actually quite simple.
+[00:03:56 -> 00:03:59]  So let's say YouTube has a database full of information.
+[00:03:59 -> 00:04:02]  Inside this database there are different tables
+[00:04:02 -> 00:04:03]  for every YouTube channel
+[00:04:03 -> 00:04:06]  that include their list of subscribers.
+[00:04:06 -> 00:04:08]  We'll say there's a table in there for this channel
+[00:04:08 -> 00:04:10]  and it's titled Data Nerd Channel
+[00:04:10 -> 00:04:13]  with an entry for each subscriber of my channel.
+[00:04:13 -> 00:04:14]  Each one of those rows in the table
+[00:04:14 -> 00:04:17]  has information like name, channel ID,
+[00:04:17 -> 00:04:18]  and the number of comments they've given.
+[00:04:18 -> 00:04:20]  Now I want to get a list of all my subscribers.
+[00:04:20 -> 00:04:23]  I then can use the following syntax
+[00:04:23 -> 00:04:25]  which has a SELECT statement and a FROM statement.
+[00:04:25 -> 00:04:28]  So SELECT is used to identify the column of interest
+[00:04:28 -> 00:04:31]  that we want to grab and FROM is used to identify
+[00:04:31 -> 00:04:32]  the table we want to connect to.
+[00:04:32 -> 00:04:34]  When I send this query to the database,
+[00:04:34 -> 00:04:38]  it then will provide me back a list of all my subscribers.
+[00:04:38 -> 00:04:40]  Now SQL can be used in a lot more different ways.
+[00:04:40 -> 00:04:42]  For example, we can actually use it to go in further
+[00:04:42 -> 00:04:44]  and analyze the data, such in this case
+[00:04:44 -> 00:04:46]  where we can add on a WHERE statement
+[00:04:46 -> 00:04:48]  to filter our data further based on
+[00:04:48 -> 00:04:52]  how many users commented more than 100 times.
+[00:04:52 -> 00:04:54]  We can also use SQL to insert
+[00:04:54 -> 00:04:56]  or store more information in a database.
+[00:04:56 -> 00:04:58]  For this, we can identify the table
+[00:04:58 -> 00:05:00]  and columns we want to insert into
+[00:05:00 -> 00:05:04]  and then provide the values to insert into this table.
+[00:05:04 -> 00:05:06]  Once I run this, the table will be updated.
+[00:05:06 -> 00:05:09]  And then finally, we can use SQL to update record entries.
+[00:05:09 -> 00:05:11]  For this, let's say we have a new comment
+[00:05:11 -> 00:05:12]  on one of my videos.
+[00:05:12 -> 00:05:15]  Once again, we can identify the table we want to update,
+[00:05:15 -> 00:05:19]  the column we want to set a new value for,
+[00:05:19 -> 00:05:21]  and then a WHERE statement to select
+[00:05:21 -> 00:05:23]  what to filter on for that entry.
+[00:05:23 -> 00:05:26]  Once I run this, the table will be updated.
+[00:05:26 -> 00:05:28]  So now we understand how to query a database
+[00:05:28 -> 00:05:29]  and generally what a database is,
+[00:05:29 -> 00:05:32]  but what database do you use?
+[00:05:32 -> 00:05:35]  Well, Stack Overflow conducted a survey last year
+[00:05:35 -> 00:05:38]  that asked respondents about what software tools
+[00:05:38 -> 00:05:39]  they used for their job.
+[00:05:39 -> 00:05:41]  When we look at the most popular database options,
+[00:05:41 -> 00:05:43]  we can see that there are a plethora
+[00:05:43 -> 00:05:44]  of options to choose from.
+[00:05:44 -> 00:05:45]  To make things a little complicated,
+[00:05:45 -> 00:05:49]  there's actually two types of databases on this survey.
+[00:05:49 -> 00:05:52]  There are relational databases, so SQL databases,
+[00:05:52 -> 00:05:56]  and non-relational databases, or NoSQL databases.
+[00:05:56 -> 00:05:58]  I'd focus on the relational databases
+[00:05:58 -> 00:06:01]  as they typically store data in a tabular form,
+[00:06:01 -> 00:06:03]  which is more common for our job.
+[00:06:03 -> 00:06:05]  But what about those NoSQL databases?
+[00:06:05 -> 00:06:09]  So NoSQL actually stands for Not Only SQL,
+[00:06:09 -> 00:06:12]  meaning that you can not only store this data
+[00:06:12 -> 00:06:14]  in a tabular form, it also has a manner
+[00:06:14 -> 00:06:17]  for you to store it in an unstructured manner,
+[00:06:17 -> 00:06:18]  which is actually more efficient
+[00:06:18 -> 00:06:21]  at handling very large amounts of data.
+[00:06:21 -> 00:06:22]  So for aspiring data analysts,
+[00:06:22 -> 00:06:24]  I think it's more important that you're aware of this.
+[00:06:24 -> 00:06:26]  That way, while you progress in your career,
+[00:06:26 -> 00:06:28]  you may potentially become in contact with these
+[00:06:28 -> 00:06:29]  and then you can learn about it then.
+[00:06:29 -> 00:06:32]  So then what relational database should you learn or use?
+[00:06:32 -> 00:06:35]  Well, quite honestly, I don't think it matters
+[00:06:35 -> 00:06:37]  as all of these relational databases
+[00:06:37 -> 00:06:39]  use the same SQL syntax
+[00:06:39 -> 00:06:41]  and you can transfer your skills between them.
+[00:06:41 -> 00:06:43]  But interesting enough, the most popular options
+[00:06:43 -> 00:06:47]  on that Stack Overflow list are also free and open source.
+[00:06:47 -> 00:06:49]  So I would say start with any one of these.
+[00:06:49 -> 00:06:52]  Personally, I use Postgres and also SQLite
+[00:06:52 -> 00:06:53]  for all my consulting projects.
+[00:06:53 -> 00:06:57]  The other options are closed source and not always free,
+[00:06:57 -> 00:06:59]  although they are very popular,
+[00:06:59 -> 00:07:01]  especially they're being used in large corporations.
+[00:07:01 -> 00:07:04]  Of these options, I've used primarily SQL Server
+[00:07:04 -> 00:07:06]  for all of my work projects.
+[00:07:06 -> 00:07:08]  This is also great because this choice
+[00:07:08 -> 00:07:09]  has a free option available.
+[00:07:09 -> 00:07:11]  Having worked with a lot of these different databases,
+[00:07:11 -> 00:07:14]  I can say it's with pretty relative ease
+[00:07:14 -> 00:07:16]  that you can switch between them.
+[00:07:16 -> 00:07:18]  The hardest part is learning the basics
+[00:07:18 -> 00:07:20]  of the syntax for SQL.
+[00:07:20 -> 00:07:21]  So all of this actually directly relates
+[00:07:21 -> 00:07:24]  to the sponsor of this video, Coursera.
+[00:07:24 -> 00:07:26]  My favorite training for this on Coursera
+[00:07:26 -> 00:07:29]  is the SQL for Data Science specialization,
+[00:07:29 -> 00:07:31]  which is perfect for those that have no prior experience
+[00:07:31 -> 00:07:33]  with coding that want to master SQL.
+[00:07:33 -> 00:07:35]  I even think it's great for those that have already obtained
+[00:07:35 -> 00:07:38]  maybe the Google Data Analytics certificate
+[00:07:38 -> 00:07:40]  because now that you have these basics of SQL,
+[00:07:40 -> 00:07:43]  you can use this specialization to dive further into it.
+[00:07:43 -> 00:07:45]  The course focuses on SQLite,
+[00:07:45 -> 00:07:49]  and what I like about the platform that Coursera provides
+[00:07:49 -> 00:07:50]  is that they get you up and running
+[00:07:50 -> 00:07:53]  with the same tools they'll be using in real life
+[00:07:53 -> 00:07:55]  without having to install any software.
+[00:07:55 -> 00:07:58]  For example, I use VS Code for all my coding
+[00:07:58 -> 00:08:00]  in both Python and SQL.
+[00:08:00 -> 00:08:03]  I also like how the specializations have a capstone project.
+[00:08:03 -> 00:08:05]  So you can then take all those skills
+[00:08:05 -> 00:08:07]  that you've learned over the courses
+[00:08:07 -> 00:08:09]  and apply them into a final deliverable,
+[00:08:09 -> 00:08:11]  which you then can use to showcase
+[00:08:11 -> 00:08:13]  on your resume as experience.
+[00:08:13 -> 00:08:16]  So thanks again to Coursera for sponsoring this video.
+[00:08:16 -> 00:08:19]  So we talked about already SQL syntax,
+[00:08:19 -> 00:08:21]  also about databases themselves,
+[00:08:21 -> 00:08:24]  but where do we keep these databases
+[00:08:24 -> 00:08:25]  that we're trying to query?
+[00:08:25 -> 00:08:28]  Well, the first option is that you can keep the database
+[00:08:28 -> 00:08:30]  locally running on your computer.
+[00:08:30 -> 00:08:31]  And this is a great option,
+[00:08:31 -> 00:08:34]  especially if you're learning or you're new to SQL,
+[00:08:34 -> 00:08:36]  it very much simplifies things.
+[00:08:36 -> 00:08:38]  Now, sometimes I'm even doing data analytic projects
+[00:08:38 -> 00:08:41]  that need access to a remote database.
+[00:08:41 -> 00:08:44]  And sometimes the owners don't want you to have access to it.
+[00:08:44 -> 00:08:47]  So in that case, I can download a copy of that database
+[00:08:47 -> 00:08:50]  and have it running locally on my computer.
+[00:08:50 -> 00:08:52]  I do this most frequently with Postgres databases.
+[00:08:52 -> 00:08:53]  So because of this,
+[00:08:53 -> 00:08:56]  I have the Postgres application installed on my computer
+[00:08:56 -> 00:08:58]  so I can run these databases locally.
+[00:08:58 -> 00:09:01]  This will be the same for any other popular database.
+[00:09:01 -> 00:09:03]  Now running a database locally on a computer
+[00:09:03 -> 00:09:05]  is great option if you're the only person accessing it.
+[00:09:05 -> 00:09:08]  Once you get into other people accessing it,
+[00:09:08 -> 00:09:09]  you need to look at other options.
+[00:09:09 -> 00:09:11]  So the two popular options for this
+[00:09:11 -> 00:09:14]  are some sort of server or a cloud provider.
+[00:09:14 -> 00:09:15]  For the server option,
+[00:09:15 -> 00:09:17]  many large companies have their own
+[00:09:17 -> 00:09:19]  where they like to store their own data.
+[00:09:19 -> 00:09:22]  Typically your IT department will handle installing
+[00:09:22 -> 00:09:24]  and setting up all the dependencies for the database
+[00:09:24 -> 00:09:26]  and then grant you access.
+[00:09:26 -> 00:09:27]  This option is called on-prem.
+[00:09:27 -> 00:09:29]  Now, another popular option
+[00:09:29 -> 00:09:31]  is to use a cloud provider instead.
+[00:09:31 -> 00:09:34]  Looking back at the Stack Overflow poll,
+[00:09:34 -> 00:09:37]  the most popular options are from Amazon, Google,
+[00:09:37 -> 00:09:38]  Microsoft, and even Heroku.
+[00:09:38 -> 00:09:41]  Personally, I've used Google Cloud Platform in the past,
+[00:09:41 -> 00:09:44]  but many other options are just as good, especially AWS.
+[00:09:44 -> 00:09:46]  Now, as an entry-level data analyst,
+[00:09:46 -> 00:09:50]  I don't think you need to learn or master cloud providers.
+[00:09:50 -> 00:09:53]  Instead, what I've seen is typically data engineers
+[00:09:53 -> 00:09:56]  or even data scientists are the ones setting up databases
+[00:09:56 -> 00:09:58]  inside of some sort of cloud provider.
+[00:09:58 -> 00:10:00]  However, it is important to know
+[00:10:00 -> 00:10:04]  that these cloud providers provide some sort of interface
+[00:10:04 -> 00:10:07]  for you to run SQL queries for your databases.
+[00:10:07 -> 00:10:09]  As an example, in the Google Data Analytics Certificate,
+[00:10:09 -> 00:10:13]  students use BigQuery inside of the Google Cloud Platform
+[00:10:13 -> 00:10:15]  to run their SQL queries.
+[00:10:15 -> 00:10:17]  And this actually leads into the next area
+[00:10:17 -> 00:10:18]  of where you should be writing and running
+[00:10:18 -> 00:10:19]  your SQL queries.
+[00:10:19 -> 00:10:21]  Well, you could use a cloud platform
+[00:10:21 -> 00:10:25]  in order to run your SQLs on those database in the cloud.
+[00:10:25 -> 00:10:27]  But what happens if you have a different environment
+[00:10:27 -> 00:10:29]  or your database isn't in the cloud?
+[00:10:29 -> 00:10:31]  All the major relational databases
+[00:10:31 -> 00:10:34]  actually have their own editors for them.
+[00:10:34 -> 00:10:36]  I've used Postgres before,
+[00:10:36 -> 00:10:38]  and for this, I've used their SQL management software
+[00:10:38 -> 00:10:39]  of PG Admin.
+[00:10:39 -> 00:10:43]  MySQL also has a similar software called MySQL Workbench
+[00:10:43 -> 00:10:44]  to run their databases.
+[00:10:44 -> 00:10:46]  And then for my work with SQL Server,
+[00:10:46 -> 00:10:50]  I've even used Microsoft's SQL Server Management Studio.
+[00:10:50 -> 00:10:52]  One note is that this tool is specifically
+[00:10:52 -> 00:10:53]  only available for Windows users.
+[00:10:53 -> 00:10:55]  But what happens if you're like me
+[00:10:55 -> 00:10:57]  and you're always switching between different databases?
+[00:10:57 -> 00:10:59]  For this, I like to use VS Code.
+[00:10:59 -> 00:11:01]  VS Code has many free extensions
+[00:11:01 -> 00:11:04]  in order to support your database of choice.
+[00:11:04 -> 00:11:07]  I'm currently checking out this extension called MySQL,
+[00:11:07 -> 00:11:08]  which contrary to its name,
+[00:11:08 -> 00:11:11]  actually supports a lot of the different popular databases.
+[00:11:11 -> 00:11:14]  Another popular option to check out is dBeaver.
+[00:11:14 -> 00:11:15]  So I haven't used this one personally,
+[00:11:15 -> 00:11:17]  but it does seem like a good option
+[00:11:17 -> 00:11:19]  as recommended by other data analysts.
+[00:11:19 -> 00:11:20]  Just like VS Code, it's free
+[00:11:20 -> 00:11:23]  and supports a variety of different databases.
+[00:11:23 -> 00:11:25]  Now there is one option that I don't suggest learning
+[00:11:25 -> 00:11:27]  for those new to data analytics,
+[00:11:27 -> 00:11:29]  and that is Microsoft Access.
+[00:11:29 -> 00:11:32]  It's sort of a weird in-between of a relational database
+[00:11:32 -> 00:11:34]  and also a graphical user interface
+[00:11:34 -> 00:11:35]  that you can build apps.
+[00:11:35 -> 00:11:36]  We used this app while I was in the Navy
+[00:11:36 -> 00:11:38]  in order to store our data.
+[00:11:38 -> 00:11:40]  And the data nerds that worked with this
+[00:11:40 -> 00:11:42]  were not really a fan of it.
+[00:11:42 -> 00:11:43]  Now the reason why I'm recommending
+[00:11:43 -> 00:11:45]  not learning this as a new data analyst
+[00:11:45 -> 00:11:48]  is because I feel Microsoft is actually signaling
+[00:11:48 -> 00:11:50]  that they're gonna be shutting this product down.
+[00:11:50 -> 00:11:52]  So sorry to anyone that uses this product currently,
+[00:11:52 -> 00:11:54]  but personally, I feel Microsoft
+[00:11:54 -> 00:11:56]  has way better options available
+[00:11:56 -> 00:11:58]  in order to solve these types of problems.
+[00:11:58 -> 00:12:00]  So getting back into a real world example
+[00:12:00 -> 00:12:03]  of how I use SQL in my job as a data analyst.
+[00:12:03 -> 00:12:04]  So for one of my projects,
+[00:12:04 -> 00:12:07]  we needed to investigate the suppliers
+[00:12:07 -> 00:12:09]  that we received a lot of our goods from
+[00:12:09 -> 00:12:10]  for the company I worked for at the time.
+[00:12:10 -> 00:12:12]  The problem is that the data was spread out
+[00:12:12 -> 00:12:15]  across many tables within our database
+[00:12:15 -> 00:12:17]  and required extensive cleaning.
+[00:12:17 -> 00:12:18]  This was a large set of data,
+[00:12:18 -> 00:12:20]  so a teammate and I worked together
+[00:12:20 -> 00:12:22]  in order to build a SQL query
+[00:12:22 -> 00:12:24]  to comply in all these different tables that we needed
+[00:12:24 -> 00:12:25]  and clean up the data.
+[00:12:25 -> 00:12:26]  This portion of the project
+[00:12:26 -> 00:12:28]  ended up taking a few weeks for us
+[00:12:28 -> 00:12:31]  to actually develop these few hundred lines of SQL
+[00:12:31 -> 00:12:32]  in order to query this data.
+[00:12:32 -> 00:12:34]  Now that we had this cleaned up data set,
+[00:12:34 -> 00:12:36]  my boss now was like,
+[00:12:36 -> 00:12:39]  hey, I need this data set in a more presentable form
+[00:12:39 -> 00:12:41]  so that way my teammates can use it
+[00:12:41 -> 00:12:42]  and also her boss could access it.
+[00:12:42 -> 00:12:45]  So that's where something like Power BI comes in.
+[00:12:45 -> 00:12:48]  In this case, I can use the tool within it of Power Query,
+[00:12:48 -> 00:12:50]  which is also in Excel,
+[00:12:50 -> 00:12:53]  to actually go in and execute the SQL code we had written.
+[00:12:53 -> 00:12:55]  And this is actually pretty neat
+[00:12:55 -> 00:12:57]  because this allows the Power BI dashboard
+[00:12:57 -> 00:12:58]  that we're gonna build
+[00:12:58 -> 00:13:01]  in order to be connected real time to the data source.
+[00:13:01 -> 00:13:03]  From here, I developed an end-to-end solution
+[00:13:03 -> 00:13:07]  that allowed the stakeholders to now go to a dashboard
+[00:13:07 -> 00:13:09]  and access the data that they were curious about.
+[00:13:09 -> 00:13:10]  Now to be clear,
+[00:13:10 -> 00:13:12]  this SQL query functionality is not specific
+[00:13:12 -> 00:13:13]  just to Power BI.
+[00:13:13 -> 00:13:17]  Other popular tools like Tableau and Google Data Studio
+[00:13:17 -> 00:13:18]  also have this functionality.
+[00:13:18 -> 00:13:19]  Now, not related to this project,
+[00:13:19 -> 00:13:21]  but I've also used other tools
+[00:13:21 -> 00:13:23]  such as programming languages
+[00:13:23 -> 00:13:25]  to utilize SQL as well.
+[00:13:25 -> 00:13:26]  So as I've mentioned before,
+[00:13:26 -> 00:13:28]  I'm a big fan of Python.
+[00:13:28 -> 00:13:30]  And I would say actually I'm more comfortable with Python
+[00:13:30 -> 00:13:32]  than I am SQL.
+[00:13:32 -> 00:13:34]  So a lot of times I like to get the data
+[00:13:34 -> 00:13:37]  and then import it or collect it with Python.
+[00:13:37 -> 00:13:39]  And then from there,
+[00:13:39 -> 00:13:41]  use Python's tools and libraries
+[00:13:41 -> 00:13:43]  such as Pandas to clean up the data,
+[00:13:43 -> 00:13:45]  maybe matplotlib to plot it,
+[00:13:45 -> 00:13:47]  and even maybe something like sklearn
+[00:13:47 -> 00:13:49]  to perform some regression analysis.
+[00:13:49 -> 00:13:50]  Now all these things with Python,
+[00:13:50 -> 00:13:52]  you can also do with other popular languages
+[00:13:52 -> 00:13:53]  such as R also.
+[00:13:54 -> 00:13:54]  So I share all these examples,
+[00:13:54 -> 00:13:55]  not for you to think that you have to learn
+[00:13:55 -> 00:13:57]  all these different tools,
+[00:13:57 -> 00:14:00]  but instead I want you to understand the power of SQL.
+[00:14:00 -> 00:14:02]  It's such a powerful language
+[00:14:02 -> 00:14:04]  and has such a powerful use
+[00:14:04 -> 00:14:06]  that other tools are taking advantage of it.
+[00:14:06 -> 00:14:07]  Because of this,
+[00:14:07 -> 00:14:10]  I feel that SQL is the most powerful tool
+[00:14:10 -> 00:14:12]  to learn as a data analyst.
+[00:14:12 -> 00:14:13]  As always, if you got value out of this video,
+[00:14:13 -> 00:14:15]  smash that like button.
+[00:14:15 -> 00:14:17]  And with that, I'll see you in the next one.
+[00:14:17 -> 00:14:19]  Oh wait, we got a package to unwrap.
+[00:14:19 -> 00:14:20]  I'll be right back.
+[00:14:24 -> 00:14:26]  I just got a package from two of my top subscribers.
+[00:14:26 -> 00:14:29]  Open the bigger box first.
+[00:14:29 -> 00:14:31]  Okay, so I gotta open the bigger box first.
+[00:14:32 -> 00:14:37]  Oh my goodness, what is this?
+[00:14:40 -> 00:14:44]  Oh my gosh, why am I recording this?
+[00:14:44 -> 00:14:47]  Okay, so let's, all right.
+[00:14:48 -> 00:14:53]  Uh, this is a little bit obscene.
+[00:14:54 -> 00:14:56]  This looks like a movie poster
+[00:14:56 -> 00:15:00]  for data scientists, first data analyst.
+[00:15:06 -> 00:15:11]  Postcards to go along with the movie poster as well.
+[00:15:13 -> 00:15:15]  So awesome, thank you Dave.
+[00:15:15 -> 00:15:16]  And also thank you Alex for this.
+[00:15:16 -> 00:15:19]  This was awesome.
+[00:15:19 -> 00:15:20]  And it has this quote,
+[00:15:20 -> 00:15:24]  in order to trap him, he must become him.
+[00:15:25 -> 00:15:27]  I don't even know what that means.

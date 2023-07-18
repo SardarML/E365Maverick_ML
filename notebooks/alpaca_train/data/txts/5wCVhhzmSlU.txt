@@ -1,0 +1,70 @@
+[00:00:00 -> 00:00:12]  My name is Jennifer Nagel. I teach philosophy at the University of Toronto, and today I
+[00:00:12 -> 00:00:17]  want to talk to you about the Gettier Problem. This problem gets its name from the philosopher
+[00:00:17 -> 00:00:25]  Edmund Gettier, who published a very short and famous paper on it in 1963. In his paper,
+[00:00:25 -> 00:00:30]  Gettier sets out to attack the dominant theories of knowledge of his day, which were committed
+[00:00:30 -> 00:00:37]  to a three-part analysis or definition of knowledge. According to this analysis, a person
+[00:00:37 -> 00:00:44]  or subject, who's conventionally called S, knows a proposition, let's call it P, if and
+[00:00:44 -> 00:00:52]  only if the following three conditions all hold. P is true, S believes that P, and S
+[00:00:52 -> 00:01:00]  is justified in believing that P. This three-part recipe is known as the JTB, or Justified True
+[00:01:00 -> 00:01:07]  Belief, analysis of knowledge. The first two conditions are pretty uncontroversial. Knowledge
+[00:01:07 -> 00:01:12]  only latches onto truths, and you need full confidence or belief to know. If you just
+[00:01:12 -> 00:01:17]  have a hunch, that's not enough. We need the third condition because knowledge demands
+[00:01:17 -> 00:01:23]  more than true belief. You may remember pessimistic Pierre from our first video in this series,
+[00:01:23 -> 00:01:28]  who wakes up in a windowless room every day believing that it is raining outside. Even
+[00:01:28 -> 00:01:33]  on a day when this pessimistic belief is true, it doesn't seem right to say that he knows
+[00:01:33 -> 00:01:40]  that it is raining. He lacks justification. The nature of justification is controversial.
+[00:01:40 -> 00:01:44]  Different JTB theorists had different ideas about it. But let's say it has something to
+[00:01:44 -> 00:01:49]  do with having good reasons for your belief. If we don't want the JTB analysis to be a
+[00:01:49 -> 00:01:56]  circular definition, we have to say that being justified isn't the same thing as knowing.
+[00:01:56 -> 00:02:01]  Gettiger suggests one possible difference. He observes that you could, in some sense,
+[00:02:01 -> 00:02:07]  be justified in believing something that turns out to be false, for example, if you had lots
+[00:02:07 -> 00:02:12]  of misleading evidence that made it look like the right thing to believe. If your justified
+[00:02:12 -> 00:02:19]  belief turns out to be true, then the JTB theorist has to say that you have knowledge.
+[00:02:19 -> 00:02:24]  You might wonder whether that's right, or more generally, what needs to be added to
+[00:02:24 -> 00:02:30]  true belief to get knowledge. That's the Gettiger problem. Gettiger himself didn't think the
+[00:02:30 -> 00:02:36]  JTB analysis was correct, and he came up with some counterexamples to it, where someone
+[00:02:36 -> 00:02:41]  has a true and justified belief, but seems not to know.
+[00:02:41 -> 00:02:48]  Here's his first counterexample. Smith and Jones are rival job applicants. Gettiger doesn't
+[00:02:48 -> 00:02:53]  say how, but they meet each other, perhaps in a waiting room after their job interviews
+[00:02:53 -> 00:02:59]  waiting to hear who got the job. As they're maybe starting to get bored, Jones counts
+[00:02:59 -> 00:03:06]  out loud how many coins he has in his pocket. Exactly ten, they discover.
+[00:03:06 -> 00:03:10]  Jones puts the ten coins back in his pocket as the president of the company comes into
+[00:03:10 -> 00:03:16]  the room. The president congratulates Jones, announcing that he's a great fit for the position.
+[00:03:16 -> 00:03:22]  As Smith leaves the room, disappointed, here's something that he believes. Jones, who has
+[00:03:22 -> 00:03:29]  ten coins in his pocket, will get the job. From this, Smith concludes that the man who
+[00:03:29 -> 00:03:36]  will get the job has ten coins in his pocket. And that's our key proposition, P.
+[00:03:36 -> 00:03:40]  Right now, it might seem that Smith even knows that P, knows that the man who will get the
+[00:03:40 -> 00:03:47]  job has ten coins in his pocket. But there's a twist. For some reason, at the last minute,
+[00:03:47 -> 00:03:54]  the company ends up hiring Smith, not Jones. And unbeknownst to Smith, he happens to have
+[00:03:54 -> 00:04:00]  ten coins in his pocket as well. So when Smith believes that the man who will get the job
+[00:04:00 -> 00:04:05]  has ten coins in his pocket, what he believes is true, because Smith will get the job and
+[00:04:05 -> 00:04:11]  Smith has ten coins in his pocket. It's also justified, because Smith has good reasons
+[00:04:11 -> 00:04:16]  for thinking that Jones will get the job and that Jones has ten coins in his pocket. But
+[00:04:16 -> 00:04:22]  does Smith actually know that the man who will get the job has ten coins in his pocket?
+[00:04:22 -> 00:04:27]  It seems not. Smith is wrong about who will get the job and doesn't know how many coins
+[00:04:27 -> 00:04:33]  are in his own pocket. If Smith has a justified, true belief in our key proposition, but doesn't
+[00:04:33 -> 00:04:38]  know it, then the JTB analysis is wrong.
+[00:04:38 -> 00:04:44]  Philosophers now use the label Gettier case for any story that illustrates the possibility
+[00:04:44 -> 00:04:50]  of justified true belief without knowledge. It turns out that there are many such cases,
+[00:04:50 -> 00:04:55]  often simpler than Gettier's original. Suppose that Smith wonders what time it is and glances
+[00:04:55 -> 00:05:00]  at the clock on the wall, which clearly shows the time as three o'clock. Looking at the
+[00:05:00 -> 00:05:05]  clock is a perfectly reasonable way of telling time, so Smith has a justified belief. What
+[00:05:05 -> 00:05:11]  he doesn't know is that this clock is broken and its hands haven't moved in days. But,
+[00:05:11 -> 00:05:17]  by chance, it is exactly three o'clock right now. Does Smith actually know the time as
+[00:05:17 -> 00:05:20]  he looks at the broken clock?
+[00:05:20 -> 00:05:25]  Back in 1948, Bertrand Russell just used this case to illustrate the possibility of true
+[00:05:25 -> 00:05:30]  belief without knowledge. But looking back on it now, we can say something stronger.
+[00:05:30 -> 00:05:36]  It's a case of justified true belief without knowledge. It's a Gettier case.
+[00:05:36 -> 00:05:41]  In fact, there are some even older Gettier cases in the history of philosophy. The 8th
+[00:05:41 -> 00:05:45]  century Indian philosopher, Dharamathura, tells a story in which a fire has just been
+[00:05:45 -> 00:05:51]  lit to roast some meat. The fire hasn't yet produced any smoke, but the meat has attracted
+[00:05:51 -> 00:05:57]  a swarm of insects. A distant observer looks at the cloud of insects, mistakes it for smoke,
+[00:05:57 -> 00:06:02]  and judges that a fire is burning at that spot. Dharamathura suggests that this distant
+[00:06:02 -> 00:06:06]  observer doesn't know that there is a fire burning.
+[00:06:06 -> 00:06:11]  Looking back on this story, we can use it as a counterexample to the JTB analysis of
+[00:06:11 -> 00:06:17]  knowledge. If it doesn't work to analyze knowledge as justified true belief, what does
+[00:06:17 -> 00:06:22]  work? You may have noticed that the Gettier cases we've talked about so far have some
+[00:06:22 -> 00:06:27]  features in common, and you might think that we could take account of those features, and
+[00:06:27 -> 00:06:31]  add a simple patch to the JTB analysis to fix it up.
+[00:06:31 -> 00:06:37]  But, as we'll see in the next two videos in this series, the problem of deciding what
+[00:06:37 -> 00:06:42]  to add to true belief to get knowledge turns out to be surprisingly difficult.

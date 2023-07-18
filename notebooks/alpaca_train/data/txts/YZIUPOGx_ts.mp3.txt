@@ -1,0 +1,416 @@
+[00:00:00 -> 00:00:04]  Jeder gute Programmierer sollte was von funktionaler Programmierung verstehen.
+[00:00:04 -> 00:00:08]  In diesem Video erkläre ich dir von 0 auf 100 alles, was du darüber wissen musst.
+[00:00:17 -> 00:00:21]  Hallo Leute, in meinem Video zu den 5 wichtigsten Vorlesungen im Informatikstudium
+[00:00:21 -> 00:00:23]  war eines davon die funktionale Programmierung.
+[00:00:23 -> 00:00:26]  Und da hat ein gewisser Seabird kommentiert, gutes Video,
+[00:00:26 -> 00:00:29]  mich würden noch mehr Details zur funktionalen Programmierung interessieren.
+[00:00:29 -> 00:00:33]  Gerne lieber Seabird, gebe ich dir heute eine Einführung in die funktionale Programmierung.
+[00:00:33 -> 00:00:36]  Funktionale Programmierung ist ein sogenanntes Programmierparadigma,
+[00:00:36 -> 00:00:39]  das heißt ein Programmierstil oder eine Programmierdenkweise.
+[00:00:39 -> 00:00:42]  Es ist per se an keine besondere Programmiersprache gebunden.
+[00:00:42 -> 00:00:47]  In fast allen gängigen Programmiersprachen kann man sowohl funktional als auch imperativ programmieren.
+[00:00:47 -> 00:00:51]  Ein anderes Beispiel für ein Programmierparadigma ist zum Beispiel die objektorientierte Programmierung.
+[00:00:51 -> 00:00:54]  Davon hast du vielleicht schon gehört, das wird eigentlich in jedem Informatikstudium
+[00:00:54 -> 00:00:57]  gleich vom ersten Semester an intensiv unterrichtet.
+[00:00:57 -> 00:01:01]  Und das ist heutzutage eigentlich das Standardparadigma, in dem überall programmiert wird.
+[00:01:01 -> 00:01:06]  Ganz früher war ein Computerprogramm so eine Datei, die einfach einmal von oben nach unten durchläuft.
+[00:01:06 -> 00:01:09]  Einfach so eine Folge von Anweisungen für den Computer.
+[00:01:09 -> 00:01:11]  Danach hat man festgestellt, dass es nützlich sein kann,
+[00:01:11 -> 00:01:15]  bestimmte Codeblöcke, die man immer wieder ausführen möchte, als Prozedur zu definieren.
+[00:01:15 -> 00:01:19]  Und diese Prozedur kann man dann von anderen Stellen des Programms aufrufen.
+[00:01:19 -> 00:01:21]  Das wird manchmal auch prozedurale Programmierung genannt.
+[00:01:21 -> 00:01:24]  Und die Erweiterung dessen ist die objektorientierte Programmierung,
+[00:01:24 -> 00:01:28]  die einem noch viel mehr Möglichkeiten bietet, sein Programm logisch einzuteilen.
+[00:01:28 -> 00:01:31]  In Klassen, die Instanzen haben und die Methoden anbieten.
+[00:01:31 -> 00:01:34]  Methode, Prozedur, Funktion sind Begriffe,
+[00:01:34 -> 00:01:37]  die oft durcheinander und meistens gleichbedeutend benutzt werden.
+[00:01:37 -> 00:01:40]  Jetzt sei gesagt, dass es hier überhaupt nicht darum geht,
+[00:01:40 -> 00:01:43]  objektorientierte versus funktionale Programmierung.
+[00:01:43 -> 00:01:44]  Im Gegenteil.
+[00:01:44 -> 00:01:47]  Man kann objektorientiert und funktional programmieren
+[00:01:47 -> 00:01:50]  oder nur funktional oder nur objektorientiert.
+[00:01:50 -> 00:01:51]  Das geht alles.
+[00:01:51 -> 00:01:55]  In der Praxis spielen sowohl funktionale als auch objektorientierte Programmierung
+[00:01:55 -> 00:01:56]  eine sehr große Rolle.
+[00:01:56 -> 00:01:59]  In den heutigen Beispielen gucken wir uns einzelne Methoden,
+[00:01:59 -> 00:02:01]  Schrägstrich Prozeduren, Schrägstrich Funktionen an.
+[00:02:01 -> 00:02:05]  Und es spielt keine Rolle, ob das jetzt eine Methode ist, die alleinstehend ist
+[00:02:05 -> 00:02:08]  oder ob es eine Methode ist, die von irgendeiner Klasse angeboten wird.
+[00:02:08 -> 00:02:10]  Wenn wir die funktionale Programmierung einmal verstanden haben,
+[00:02:10 -> 00:02:13]  dann können wir später noch die objektorientierte Programmierung dazunehmen
+[00:02:13 -> 00:02:17]  und dann schreiben wir funktionale Methoden für unsere Klassen und Objekte.
+[00:02:17 -> 00:02:21]  Gucken wir uns mal ein Beispiel für eine nicht funktionale, eine imperative Methode an.
+[00:02:21 -> 00:02:23]  Hier haben wir so eine dubiose Methode.
+[00:02:23 -> 00:02:25]  Es ist nicht genau wichtig, was die jetzt soll.
+[00:02:25 -> 00:02:27]  Das ist auch nur ein plumpes Beispiel.
+[00:02:27 -> 00:02:30]  Die bekommt einen Pointer zu einer Liste, einige Zahlen,
+[00:02:30 -> 00:02:33]  einen Pointer zu einer Liste Summen und einen Pointer zu einer Datenbank.
+[00:02:33 -> 00:02:37]  Und diese Methode hat etwas, das nicht funktionale Methoden oft haben,
+[00:02:37 -> 00:02:40]  nämlich Seiteneffekte, quasi Nebenwirkungen.
+[00:02:40 -> 00:02:44]  Ein Seiteneffekt ist irgendein Zustand, der sich ändert, wenn man die Methode ausführt.
+[00:02:44 -> 00:02:47]  In diesem Fall wird etwas in einer Datenbank gespeichert.
+[00:02:47 -> 00:02:51]  Der Zustand meines Programms oder in dem Fall sogar einer externen Datenbank ändert sich,
+[00:02:51 -> 00:02:55]  je nachdem, ob und vielleicht wie oft ich die Methode schon ausgeführt habe.
+[00:02:55 -> 00:02:57]  Ein anderer Seiteneffekt, den wir hier sehen, ist,
+[00:02:57 -> 00:03:01]  dass ich diese Liste, die von außen reinkommt, nehme und da etwas ranhänge.
+[00:03:01 -> 00:03:04]  Wenn jetzt diese Liste von einem anderen Programm auch noch benutzt wird
+[00:03:04 -> 00:03:07]  oder irgendwo in meinem Programm, dann macht es einen Unterschied,
+[00:03:07 -> 00:03:11]  ob ich diese Beispielmethode schon ausgeführt habe und wie oft ich sie ausgeführt habe.
+[00:03:11 -> 00:03:15]  Wenn ich die Methode mehrmals ausführe, tritt dieser Seiteneffekt potenziell mehrmals auf
+[00:03:15 -> 00:03:17]  und die Liste verändert sich mehrmals.
+[00:03:17 -> 00:03:21]  Bei der funktionalen Programmierung gibt es solche Seiteneffekte, wie wir sehen werden, nicht.
+[00:03:21 -> 00:03:24]  Eine weitere Charakteristik nicht funktionaler Methoden ist auch,
+[00:03:24 -> 00:03:26]  dass ich hier überhaupt meine Datenbank abfrage.
+[00:03:26 -> 00:03:30]  Das heißt, ich greife auf einen Zustand zu und entscheide anhand dessen,
+[00:03:30 -> 00:03:32]  wie mein Programm ausgeführt wird.
+[00:03:32 -> 00:03:34]  Bei einer Funktion ist sowas nicht erlaubt.
+[00:03:34 -> 00:03:39]  Und wenn ich jetzt Funktionen sage, meine ich Funktion im Sinne der Mathematik oder funktionale Methode.
+[00:03:39 -> 00:03:42]  Eine Funktion also ist nie von einem Zustand abhängig.
+[00:03:42 -> 00:03:44]  f von x gleich x².
+[00:03:44 -> 00:03:49]  Wenn ich das gleiche x reingebe, 5, kommt immer das gleiche x² raus, 25.
+[00:03:49 -> 00:03:52]  Ein Mathematiker würde niemals etwas als Funktion akzeptieren,
+[00:03:52 -> 00:03:55]  das nicht für jede Eingabe genau eine Ausgabe hat.
+[00:03:55 -> 00:03:59]  Wenn also ein Programm irgendeinen Zustand überprüft, ist das immer ein ganz gutes Zeichen,
+[00:03:59 -> 00:04:00]  dass es keine Funktion ist.
+[00:04:00 -> 00:04:02]  Hier sieht man zum Beispiel, dass der Rückgabetyp NULL ist.
+[00:04:02 -> 00:04:04]  In anderen Sprachen würde das vielleicht VOID heißen.
+[00:04:05 -> 00:04:09]  Das ist also eine Methode, die nicht zurückgibt und deswegen sowieso keine Funktion sein kann.
+[00:04:09 -> 00:04:12]  Das legt es ohnehin schon ein, dass die Methode eigentlich Seiteneffekte haben muss.
+[00:04:12 -> 00:04:15]  Denn wenn eine Methode keine Seiteneffekte hat und VOID ist,
+[00:04:15 -> 00:04:17]  dann heißt es, dass sie eigentlich gar nichts tut.
+[00:04:17 -> 00:04:22]  Und selbst diese harmlose Variablenzuweisung in Zeile 5 ist nicht funktional.
+[00:04:22 -> 00:04:25]  Denn wenn man nur diese eine Zeile als eigenes Miniprogramm betrachtet,
+[00:04:25 -> 00:04:27]  dann ist sie ganz klassisch imperativ.
+[00:04:27 -> 00:04:31]  Da wird dem Computer gesagt, nimm diese Zahl und füge sie der Variable zu.
+[00:04:31 -> 00:04:34]  Es gibt keinen Rückgabewert, aber es gibt einen Seiteneffekt,
+[00:04:34 -> 00:04:37]  nämlich diese Variablesumme hat danach den Wert NULL.
+[00:04:37 -> 00:04:41]  Das kann man sich sehr gut an den eingebauten Sortiermethoden von Python veranschaulichen.
+[00:04:41 -> 00:04:44]  Gehen wir so dazu einmal in die Prompt mit etwas Glück,
+[00:04:44 -> 00:04:47]  indem wir Python 3 oder so in unsere Kommandozeile eingeben.
+[00:04:49 -> 00:04:53]  Und wenn wir jetzt hier einen Python-Ausdruck eingeben, sehen wir sofort den Rückgabewert.
+[00:04:53 -> 00:04:58]  Zum Beispiel, wenn ich eingebe 4 plus 3, kommt sofort der Rückgabewert 7.
+[00:04:58 -> 00:05:01]  Wenn ich eingebe x ist gleich 4, kommt welcher Rückgabewert?
+[00:05:01 -> 00:05:03]  Void. None.
+[00:05:03 -> 00:05:06]  Denn dieser Ausdruck ist imperativ und hat keinen Rückgabewert.
+[00:05:06 -> 00:05:10]  Aber er hat den Seiteneffekt, dass jetzt eben x, wenn ich das abrufe, plötzlich 4 ist,
+[00:05:10 -> 00:05:11]  was es vorher nicht war.
+[00:05:11 -> 00:05:12]  Machen wir jetzt mal folgendes.
+[00:05:12 -> 00:05:15]  Definieren wir mal eine Liste oder ein Array.
+[00:05:15 -> 00:05:20]  Und sagen wir mal, das ist irgendwie so eine Liste von so ein paar gemischten Zahlen.
+[00:05:20 -> 00:05:24]  Python hat zwei eingebaute Wege, eine Liste zu sortieren.
+[00:05:24 -> 00:05:26]  Einen funktionalen und einen imperativen Weg.
+[00:05:26 -> 00:05:31]  Der funktionale Weg ist, indem wir schreiben sorted xs.
+[00:05:31 -> 00:05:34]  Und da kommt sofort zurück die sortierte Version der Liste.
+[00:05:34 -> 00:05:36]  Das ist eine Funktion, ganz klassisch.
+[00:05:36 -> 00:05:40]  Wenn ich die gleiche Liste bei sorted reingebe, kommt immer das gleiche Ergebnis.
+[00:05:40 -> 00:05:43]  Und es hat keinerlei Seiteneffekte, wenn ich mir die originale Liste xs angucke,
+[00:05:43 -> 00:05:45]  ist die immer noch unsortiert.
+[00:05:45 -> 00:05:49]  Im Gegenzug dazu gibt es die Methode sort.
+[00:05:49 -> 00:05:52]  Wenn ich die aufrufe, gibt es gar keinen Rückgabewert.
+[00:05:52 -> 00:05:56]  Das ist eine Void-Methode, die den Seiteneffekt hat, dass die Liste sortiert wird.
+[00:05:56 -> 00:05:59]  Wenn ich jetzt die Liste wieder aufrufe, ist die Liste sortiert.
+[00:05:59 -> 00:06:03]  Welchen Vorteil hat jetzt eine funktionale gegenüber einer imperativen Methode?
+[00:06:03 -> 00:06:05]  Es ist nicht immer besser, als es funktional zu schreiben.
+[00:06:05 -> 00:06:10]  Aber anerkannterweise sind funktionale Programme oft einfacher zu verstehen.
+[00:06:10 -> 00:06:12]  Das sehen wir dann auch gleich noch in den Beispielen.
+[00:06:12 -> 00:06:15]  Es ist außerdem viel einfacher zu testen.
+[00:06:15 -> 00:06:19]  Denn ich kann jede Funktion, jede funktionale Methode isoliert testen.
+[00:06:19 -> 00:06:22]  Denn bei der gleichen Eingabe kommt ja immer die gleiche Ausgabe raus.
+[00:06:22 -> 00:06:26]  Und das hängt überhaupt nicht davon ab, in welcher Reihenfolge ich verschiedene Methoden aufrufe,
+[00:06:26 -> 00:06:29]  welchen Zustand mein Programm hat, was in meiner Datenbank steht.
+[00:06:29 -> 00:06:32]  Ich kann einfach sagen, diese Methode soll xy berechnen.
+[00:06:32 -> 00:06:36]  Und dann kann ich genau einen automatischen Test schreiben, der das überprüft.
+[00:06:36 -> 00:06:41]  Es ist deswegen insgesamt auch oft weniger fehleranfällig und es kann leichter zu parallelisieren sein.
+[00:06:41 -> 00:06:44]  In der Praxis, wenn man mit großen Software-Systemen arbeitet, ist das oft ein Vorteil,
+[00:06:44 -> 00:06:46]  wenn Sachen parallel laufen können.
+[00:06:46 -> 00:06:51]  Und bei parallelen Prozessen ist der Zustand, der Speicher, auf den alle zugreifen, immer so ein Problem.
+[00:06:51 -> 00:06:56]  Wenn da ein Prozess auf den Speicher schreibt und ein anderer Prozess und dann wieder ein anderer das gleichzeitig lesen will,
+[00:06:56 -> 00:06:59]  dann ist das relativ kompliziert, das sauber hinzukriegen.
+[00:06:59 -> 00:07:03]  Funktionale Programmierung hat solche Probleme nicht, weil sie zugegeben ja auch nichts speichert.
+[00:07:03 -> 00:07:06]  Und da kommen wir auch zu der Begrenzung funktionaler Programmierung.
+[00:07:06 -> 00:07:09]  Man kann natürlich nicht das ganze Software-System funktional schreiben.
+[00:07:09 -> 00:07:12]  Denn an irgendeinem Punkt ist I.O. natürlich unabdingbar.
+[00:07:12 -> 00:07:15]  Mein Programm muss ja vielleicht alle möglichen Dateien schreiben und lesen,
+[00:07:15 -> 00:07:17]  Datenbanken schreiben und lesen, das ist normal.
+[00:07:17 -> 00:07:21]  Aber das hält uns ja nicht davon ab, ganz viele Methoden trotzdem funktional zu schreiben.
+[00:07:21 -> 00:07:24]  Denn es ist ja nicht so, dass jede Methode und jeder Teil meines Programms
+[00:07:24 -> 00:07:27]  wirklich auf Zustand zugreifen und Zustand schreiben muss.
+[00:07:27 -> 00:07:30]  Das ist in der modernen Softwareentwicklung auf jeden Fall sehr beliebt,
+[00:07:30 -> 00:07:33]  große Teile des Programms einigermaßen funktional zu gestalten.
+[00:07:33 -> 00:07:36]  Da wird oft von so Begriffen wie Stateless Design gesprochen.
+[00:07:36 -> 00:07:40]  Und Stateless, das ist mein positives Merkmal, dass es keinen Zustand gibt.
+[00:07:40 -> 00:07:42]  Denn das hat sich einfach bewährt und es hat sich immer wieder gezeigt,
+[00:07:42 -> 00:07:44]  dass es das Leben leichter macht.
+[00:07:44 -> 00:07:46]  Also hoffentlich bist du damit überzeugt und möchtest jetzt lernen,
+[00:07:46 -> 00:07:48]  wie man ein Programm funktional schreibt.
+[00:07:48 -> 00:07:50]  Da gibt es im Wesentlichen zwei Methoden.
+[00:07:50 -> 00:07:53]  Eine Methode, mit der an der Uni oft viel Zeit verbracht wird, ist Rekursion.
+[00:07:53 -> 00:07:55]  Das ist auch nützlich, Rekursion zu lernen.
+[00:07:55 -> 00:07:57]  Das ist gut, rekursiv denken zu können.
+[00:07:57 -> 00:08:01]  Aber in der Praxis ist es schon sehr selten,
+[00:08:01 -> 00:08:03]  dass ein Softwareentwickler eine Rekursion schreibt.
+[00:08:03 -> 00:08:05]  Über Rekursion mache ich vielleicht mal ein eigenes Video.
+[00:08:05 -> 00:08:07]  Wir konzentrieren uns heute auf die andere Methode,
+[00:08:07 -> 00:08:09]  die in der praktischen Softwareentwicklung viel wichtiger ist.
+[00:08:09 -> 00:08:11]  Und das sind die Funktionen höherer Ordnung.
+[00:08:11 -> 00:08:14]  Eine Funktion höherer Ordnung ist grob gesagt eine Funktion,
+[00:08:14 -> 00:08:17]  die eine andere Funktion als Argument bekommt
+[00:08:17 -> 00:08:20]  und oder eine andere Funktion als Rückgabe liefert.
+[00:08:20 -> 00:08:23]  Wir gucken uns gleich die vier wichtigsten Funktionen höherer Ordnung an.
+[00:08:23 -> 00:08:26]  Das sind Map, Filter, Reduce und Curry.
+[00:08:26 -> 00:08:28]  Gucken wir uns das mal in der Praxis an.
+[00:08:28 -> 00:08:30]  Als Beispielproblem habe ich mir folgendes ausgedacht.
+[00:08:30 -> 00:08:34]  Wir wollen eine Funktion schreiben, die eine Liste mit einer Zahl multipliziert.
+[00:08:35 -> 00:08:43]  def.multipliziereListe bekommt eine Liste, nennen wir mal xs,
+[00:08:43 -> 00:08:49]  und k, ein Integer, und gibt uns eine Liste zurück.
+[00:08:49 -> 00:08:55]  Das soll dann so gehen, dass jede Zahl in der Liste mit dieser neuen Zahl multipliziert wird.
+[00:08:55 -> 00:08:58]  Wenn wir das imperativ lösen wollen, würde das ungefähr so gehen.
+[00:08:58 -> 00:09:01]  Wir definieren eine neue Liste, die ist am Anfang leer.
+[00:09:01 -> 00:09:05]  Dann gehen wir einmal in einer Vorschleife durch die Liste durch
+[00:09:05 -> 00:09:11]  und in diese Ausgabeliste hängen wir an das Element, das es schon gab,
+[00:09:11 -> 00:09:16]  multipliziert mit dem k, das reinkommt und am Ende geben wir die Ausgabe zurück.
+[00:09:16 -> 00:09:17]  Fertig.
+[00:09:17 -> 00:09:20]  An der Methode ist nichts auszusetzen, aber wir wollen ja heute funktionale Programmierungen lernen
+[00:09:20 -> 00:09:24]  und dafür müssen wir vor allem erstmal ein Konzept verstehen und das sind Closures.
+[00:09:24 -> 00:09:25]  Pass auf.
+[00:09:25 -> 00:09:32]  Sagen wir, wir wollen eine Methode schreiben, mal, und diese Methode bekommt ein Integer
+[00:09:32 -> 00:09:35]  und sie gibt mir zurück eine Methode.
+[00:09:35 -> 00:09:41]  Und zwar, in Python schreibt man das als callable und diese neue Methode,
+[00:09:41 -> 00:09:48]  Funktion, sollte ich sagen, bekommt ein Integer als Argument und gibt ein Integer zurück.
+[00:09:48 -> 00:09:51]  Aus technischen Gründen müssen wir das hier oben noch importieren.
+[00:09:54 -> 00:09:57]  Das ist jetzt Python-spezifisch und nicht weiter spannend.
+[00:09:57 -> 00:10:01]  Und dann habe ich mir überlegt, dass ich dieser mal-Funktion eine Zahl übergebe
+[00:10:01 -> 00:10:05]  und dann bekomme ich eine neue Funktion zurück und diese neue Funktion macht folgendes,
+[00:10:05 -> 00:10:12]  die kriegt eine Zahl und multipliziert diese Zahl mit der vordefinierten Zahl.
+[00:10:12 -> 00:10:18]  Das heißt, was ich später machen will, ich möchte sowas schreiben können wie mal 2 ist mal 2
+[00:10:18 -> 00:10:27]  und dann möchte ich schreiben, sagen wir, x ist gleich mal 2 5 und dann soll x den Wert 10 haben.
+[00:10:27 -> 00:10:32]  Und das machen wir, indem wir hier eine Sub-Methode definieren, mal x.
+[00:10:32 -> 00:10:36]  Ihr seht schon, ich sage Methode und Funktion auch immer völlig gleich bedeutend.
+[00:10:36 -> 00:10:44]  Und diese mal-x-Funktion bekommt ein y, das ist auch wieder ein Integer und die gibt ein Integer.
+[00:10:44 -> 00:10:47]  Das ist also genau die Signatur, die wir hier als Rückgabe haben wollen.
+[00:10:47 -> 00:10:52]  Und dann gibt sie x mal y zurück.
+[00:10:52 -> 00:11:00]  Und diese mal-x-Funktion ist die Ausgabe unserer mal-Funktion.
+[00:11:00 -> 00:11:05]  Und das wichtige Konzept, das in ganz vielen Programmiersprachen wichtige Konzept, ist hier das Closure.
+[00:11:05 -> 00:11:12]  Wenn wir mal gucken, diese Methode mal x, wenn ich diese Definition mal rauskopiere und hier unten hin,
+[00:11:13 -> 00:11:18]  dann ergibt das ja gar keinen Sinn, denn hier wird auch sofort gemeckert, das x ist ja gar nicht definiert.
+[00:11:18 -> 00:11:22]  Ich benutze eine Variable, die es eigentlich gar nicht geben kann.
+[00:11:22 -> 00:11:24]  Und warum geht das eben doch?
+[00:11:24 -> 00:11:30]  Weil in dem Kontext hier, in diesen Zeilen, in diesem Skopus- oder Gatingsbereich, wie man sagt,
+[00:11:30 -> 00:11:33]  das x definiert ist, über die äußere Funktion.
+[00:11:33 -> 00:11:37]  Und ein Closure heißt jetzt folgendes, indem wir dieses mal-x zurückgeben,
+[00:11:37 -> 00:11:41]  da geben wir nicht einfach nur eine Funktion zurück, da geben wir ein Closure zurück.
+[00:11:41 -> 00:11:44]  Und zwar ist das die Funktion, die wir aufgeschrieben haben,
+[00:11:44 -> 00:11:51]  und ein Snapshot des Gatingsbereichs, in dem sich diese Funktion befunden hat.
+[00:11:51 -> 00:11:58]  Das heißt, wenn wir uns hier in dieser Zeile befinden, hat x ja einen besonderen Wert.
+[00:11:58 -> 00:12:01]  Wenn das Programm durchläuft, hat x einen zugewiesenen Wert.
+[00:12:01 -> 00:12:07]  Und diese Information, dieses Subuniversum, in dem wir uns befinden, dem x sagen wir den Wert 2 hat,
+[00:12:07 -> 00:12:11]  das wird zusammengepackt, eingeschlossen mit dieser Funktion.
+[00:12:11 -> 00:12:12]  Und das ist ein Closure.
+[00:12:12 -> 00:12:14]  Das können wir mal kurz hier unten ausprobieren.
+[00:12:14 -> 00:12:19]  Dann importieren wir die Funktion, die wir gerade definiert haben.
+[00:12:19 -> 00:12:24]  Und dann, wie gesagt, zum Beispiel sagen wir mal 3 ist mal 3.
+[00:12:24 -> 00:12:28]  Und wenn wir jetzt eingeben mal 3 von 5, kommt 15 raus.
+[00:12:28 -> 00:12:31]  Wunderbar. Und jetzt wollen wir diese Funktion höherer Ordnung hier,
+[00:12:31 -> 00:12:33]  denn das ist ja so eine halbe Funktion höherer Ordnung,
+[00:12:33 -> 00:12:35]  die kriegt zwar keine Funktion ins Argument,
+[00:12:35 -> 00:12:38]  aber sie gibt eine Funktion als Zurückgabe wieder.
+[00:12:38 -> 00:12:42]  Die wollen wir benutzen, um dieses Multipliziere-Liste-Funktional neu zu schreiben.
+[00:12:42 -> 00:12:44]  Und das geht so.
+[00:12:44 -> 00:12:54]  Multipliziere-Liste-Funktional kriegt eine Liste,
+[00:12:54 -> 00:12:58]  immer ein Integer k, und gibt eine Liste zurück.
+[00:12:58 -> 00:13:04]  Und jetzt definieren wir unsere mal k-Funktion anhand des gerade implementierten mals.
+[00:13:04 -> 00:13:07]  Und die ganz wichtige Funktion höherer Ordnung, die wir jetzt hier benutzen,
+[00:13:07 -> 00:13:10]  die es in ganz vielen Programmiersprachen gibt, voreingebaut, ist map.
+[00:13:10 -> 00:13:15]  Map ist gewissermaßen das funktionale Äquivalent der Vorschleife, die wir oben gesehen haben.
+[00:13:15 -> 00:13:19]  Map bekommt zwei Argumente, eine Funktion und eine Liste.
+[00:13:19 -> 00:13:22]  Und es gibt zurück eine neue Liste, die entsteht,
+[00:13:22 -> 00:13:26]  indem auf jedes Element in der Liste die Funktion angewendet wird.
+[00:13:26 -> 00:13:33]  Also, was wir hier zurückgeben wollen, ist map, dann unsere mal k-Funktion und die Liste.
+[00:13:33 -> 00:13:34]  Und das war's.
+[00:13:34 -> 00:13:37]  Aus technischen Gründen müssen wir noch einmal Liste rumschreiben.
+[00:13:37 -> 00:13:42]  Das liegt einfach daran, dass map in Python speziell einen Iterator zurückgibt und noch keine Liste.
+[00:13:42 -> 00:13:44]  Das ist aber ein unwichtiges Randdetail.
+[00:13:44 -> 00:13:51]  Jetzt gucken wir mal hier unten, was passiert, wenn wir diese neue Funktion importieren.
+[00:13:51 -> 00:14:03]  Dann können wir also eine Liste eingeben, sagen wir irgendwelche Zahlen und eine Zahl
+[00:14:03 -> 00:14:08]  und erhalten zurück die Liste, die sich ergibt, indem jedes Element mit dieser 3 multipliziert wird.
+[00:14:08 -> 00:14:11]  Ein weiteres Konzept, das in der funktionalen Programmierung ganz wichtig ist,
+[00:14:11 -> 00:14:15]  sind anonyme Funktionen, die oft Lambda-Funktionen genannt werden.
+[00:14:15 -> 00:14:18]  Wenn wir in Python eine Funktion definieren, dann geht das ja normalerweise mit def.
+[00:14:18 -> 00:14:29]  Zum Beispiel def foo, xInteger, dependInteger zurück und sagen wir, das wird jetzt einfach plus 1 addiert.
+[00:14:29 -> 00:14:32]  Ein anderer Weg, so eine Funktion zu definieren, ginge so.
+[00:14:32 -> 00:14:38]  Sagen wir, bar ist Lambda x, x plus 1.
+[00:14:38 -> 00:14:48]  Und wenn wir das hier ausprobieren, dann sehen wir, dass die Funktionen sich völlig gleich verhalten.
+[00:14:48 -> 00:14:54]  Was hier passiert ist, dass mir dieses Schlüsselwort Lambda erlaubt, eine anonyme Funktion, eine unbenannte Funktion zu definieren.
+[00:14:54 -> 00:14:59]  Ich könnte das hier unten einmal so hin kopieren und dann kommt zurück, das ist eine Funktion.
+[00:14:59 -> 00:15:06]  Dieser Ausdruck hat den Wert dieser Funktion, ohne dass ich in diesem Fall jetzt der Funktion irgendeinen Namen gegeben habe.
+[00:15:06 -> 00:15:10]  Und da hat man sich überlegt, dass so eine Variablenzuweisung syntaktisch nicht so schön ist.
+[00:15:10 -> 00:15:15]  Deswegen gibt es eben dieses äquivalente Format, in dem man das auch schreiben kann, eine benannte Funktion.
+[00:15:15 -> 00:15:21]  Anstatt jetzt eine anonyme Funktion zu definieren und die einer Variable zuzuweisen, kann ich das gleich mit def hinschreiben.
+[00:15:21 -> 00:15:24]  Das ist aber letztlich nur syntaktischer Zucker, sagt man.
+[00:15:24 -> 00:15:26]  Das ist eigentlich gleich bedeutend, was da passiert.
+[00:15:26 -> 00:15:30]  Gut, und in der funktionalen Programmierung, dadurch, dass man so Funktionenhörer und irgendwie Map hat,
+[00:15:30 -> 00:15:36]  möchte man das ganz oft, dass man eine Funktion mal eben kurz benutzt, die eigentlich aber nicht in irgendeinem Interface anbieten will.
+[00:15:36 -> 00:15:44]  Zum Beispiel, wenn wir das hier einmal entfernen, diese ganze Geschichte mit dem Mal da oben, ist gut, um das mit der Closure zu verstehen.
+[00:15:44 -> 00:15:51]  Aber eigentlich können wir das hier direkt mit einer Lambda-Funktion schreiben.
+[00:15:51 -> 00:15:57]  Und da sagen wir einfach Lambda x x mal k.
+[00:15:57 -> 00:16:00]  Ich führe das jetzt nicht vor, es funktioniert, glaub's mir.
+[00:16:00 -> 00:16:02]  Aber das ist jetzt schon ein relativ kurzer Ausdruck.
+[00:16:02 -> 00:16:07]  Da würde ich schon fast sagen, dass ich die Version in Zeile 18 besser finde, als die imperative Version, die wir oben hingeschrieben haben.
+[00:16:07 -> 00:16:09]  In diesem Fall ist das eh alles noch relativ einfach.
+[00:16:09 -> 00:16:13]  Aber bei so komplizierten Programmen, wo man dann mehrere Schleifen ineinander vernesten muss,
+[00:16:13 -> 00:16:17]  kann es oft sein, dass man die funktionale Programmierung schöner aufschreiben kann.
+[00:16:17 -> 00:16:22]  Und dass der Leser es vor allem besser versteht, dass er nicht im Kopf durch die ganzen verschachtelten Schleifen gehen muss und überlegt,
+[00:16:22 -> 00:16:26]  was hat jetzt welchen Wert und in welcher Reihenfolge wird was ausgeführt,
+[00:16:26 -> 00:16:30]  sondern man sieht sofort diesen funktionalen Ausdruck und kann ihn hoffentlich gut verstehen.
+[00:16:30 -> 00:16:33]  Übrigens möchte ich noch sagen, dass bei der Version, die wir hier vorher hatten,
+[00:16:33 -> 00:16:36]  da noch ein anderes relativ einfaches Konzept eine Rolle spielt.
+[00:16:36 -> 00:16:38]  Wir haben hier nämlich eine zweistellige Funktion.
+[00:16:38 -> 00:16:43]  Dieser Stern ist ja auch eine Funktion, die zwei Argumente nimmt und miteinander multipliziert.
+[00:16:43 -> 00:16:47]  Und wir geben zurück eine Funktion, die nur ein Argument kriegt
+[00:16:47 -> 00:16:51]  und das andere Argument quasi schon festgelegt ist und das dann aufmultipliziert.
+[00:16:51 -> 00:16:56]  Und dieser Vorgang, dass man eine Funktion mit einer bestimmten Stelligkeit, einer bestimmten Anzahl Argumente nimmt,
+[00:16:56 -> 00:16:59]  dann ein Argument fixiert und eine neue Funktion zurückgibt,
+[00:16:59 -> 00:17:03]  die eine Stelligkeit weniger hat und nur noch ein Argument in dem Fall braucht,
+[00:17:03 -> 00:17:04]  das heißt Currying.
+[00:17:04 -> 00:17:08]  Dieses Prinzip des Curryings ist benannt nach einem amerikanischen Mathematiker,
+[00:17:08 -> 00:17:10]  der mit Nachnamen so hieß, Curry.
+[00:17:10 -> 00:17:13]  Nach dem ist übrigens sogar eine funktionale Programmiersprache benannt.
+[00:17:13 -> 00:17:17]  Und damit meine ich nicht die Sprache Curry, die es gibt, aber relativ exotisch ist,
+[00:17:17 -> 00:17:18]  sondern die Sprache Haskell.
+[00:17:18 -> 00:17:20]  Denn man hieß einfach so, Haskell Curry.
+[00:17:20 -> 00:17:23]  Und die nach ihm benannte Programmiersprache Haskell ist gar nicht unbekannt,
+[00:17:23 -> 00:17:26]  ist wahrscheinlich die bekannteste der funktionalen Programmiersprachen.
+[00:17:26 -> 00:17:29]  Es gibt zum Beispiel sogar bei Facebook ein relativ großes Team,
+[00:17:29 -> 00:17:31]  das ausschließlich in Haskell arbeitet.
+[00:17:31 -> 00:17:35]  Also wir haben Map gesehen, wir haben impliziterweise hier Curry gesehen.
+[00:17:35 -> 00:17:38]  Was wir uns noch angucken müssen, ist zum Beispiel Filter.
+[00:17:38 -> 00:17:40]  Filter, naja, filtert.
+[00:17:40 -> 00:17:44]  Sagen wir, wir wollen eine Funktion schreiben, größer als,
+[00:17:44 -> 00:17:49]  die bekommt eine Liste und ein Integer
+[00:17:49 -> 00:17:52]  und liefert mir eine Liste, und zwar gefiltert,
+[00:17:52 -> 00:17:55]  mit nur denjenigen Elementen der Liste, die größer sind als k.
+[00:17:55 -> 00:18:00]  Das funktioniert so, Filter, sieht man hier schon, bekommt eine Funktion und eine Liste.
+[00:18:00 -> 00:18:05]  Und diese Funktion muss ein Prädikat sein, also eine Funktion, die wahr oder falsch zurückgibt.
+[00:18:05 -> 00:18:10]  Schreiben wir zum Beispiel, Lambda bekommt ein x und gibt mir zurück,
+[00:18:10 -> 00:18:13]  ob x größer ist als k, wahr oder falsch.
+[00:18:13 -> 00:18:15]  Und dann kommt noch die Liste dazu.
+[00:18:15 -> 00:18:20]  Und wie vorher müssen wir aus technischen Gründen noch einmal diesen Listwrapper aufrufen.
+[00:18:20 -> 00:18:26]  Und das war's. Einmal hier zur Vorführung importieren wir das
+[00:18:26 -> 00:18:35]  und probieren aus, größer als eine Liste zufälliger Zahlen.
+[00:18:35 -> 00:18:40]  Und sagen wir alle, die größer sind als 3 und bekommen 5 und 7.
+[00:18:40 -> 00:18:41]  Relativ unkompliziert.
+[00:18:41 -> 00:18:46]  Und das letzte wichtige Beispiel für die Funktion höherer Ordnung ist Reduce.
+[00:18:46 -> 00:18:50]  Reduce nimmt eine Liste und reduziert sie auf einen Rückgabewert.
+[00:18:50 -> 00:18:53]  Und das funktioniert so, indem man eine zweistellige Funktion übergibt,
+[00:18:53 -> 00:18:57]  also eine Funktion, die zwei Eingaben kriegt, und einen Startwert.
+[00:18:57 -> 00:19:01]  Und was Reduce macht, ist, es nimmt den Startwert und das erste Element der Liste
+[00:19:01 -> 00:19:04]  und kombiniert sie zu einem neuen Wert, den wir uns merken.
+[00:19:04 -> 00:19:07]  Dann nimmt es diesen neuen Wert und das zweite Element der Liste
+[00:19:07 -> 00:19:09]  und kombiniert sie wieder zu einem neuen Wert.
+[00:19:09 -> 00:19:11]  Dann nimmt es wieder den Wert und das dritte Element und so weiter.
+[00:19:11 -> 00:19:14]  Reduce wird in manchen Poemiersprachen auch Fold Left genannt,
+[00:19:14 -> 00:19:18]  weil man von links nach rechts durch die Liste durchgeht und immer so zusammenfaltet
+[00:19:18 -> 00:19:21]  und bei jedem Schritt wird die Liste ein Element kleiner.
+[00:19:21 -> 00:19:23]  Gucken wir uns das in der Praxis an.
+[00:19:23 -> 00:19:25]  Sagen wir, wir wollen eine Liste Summe schreiben.
+[00:19:25 -> 00:19:28]  Die gibt es natürlich schon eingebaut, aber sagen wir, wir wollen sie schreiben.
+[00:19:28 -> 00:19:32]  Kriegt eine Liste und gibt zurück ein Integer.
+[00:19:32 -> 00:19:34]  Das war die Summe aller Zahlen in dieser Liste.
+[00:19:34 -> 00:19:37]  Das können wir ganz einfach mit Reduce machen.
+[00:19:37 -> 00:19:41]  Reduce bekommt eine zweistellige Funktion,
+[00:19:41 -> 00:19:44]  die in diesem Fall die beiden Argumente einfach aufradiert.
+[00:19:44 -> 00:19:48]  Dann eine Liste und einen Startwert, sagen wir 0.
+[00:19:48 -> 00:19:50]  Reduce war ein wichtiges Konzept,
+[00:19:50 -> 00:19:53]  aber wenn der modernen Python-Welt nicht allzu beliebt ist,
+[00:19:53 -> 00:19:57]  ist das nicht mehr eingebaut und wir müssen das hier einmal importieren.
+[00:19:57 -> 00:20:00]  Wenn wir das wieder ausprobieren,
+[00:20:00 -> 00:20:03]  dass wir hier einmal den Import machen,
+[00:20:03 -> 00:20:08]  dann können wir sagen, wir übergeben eine beliebige Liste
+[00:20:08 -> 00:20:11]  und bekommen die Summe der Elemente der Liste zurück.
+[00:20:11 -> 00:20:13]  Es sei der Vollständigkeit halber gesagt,
+[00:20:13 -> 00:20:15]  dass das hier nicht der beste Weg ist,
+[00:20:15 -> 00:20:17]  diese Funktion in Python zu implementieren.
+[00:20:17 -> 00:20:19]  Es ist jetzt nämlich so, dass Python für alles,
+[00:20:19 -> 00:20:22]  was mit Map und Filter zu tun hat, eine sehr schöne Syntax anbietet.
+[00:20:22 -> 00:20:25]  Das sind die sogenannten List Comprehensions.
+[00:20:25 -> 00:20:28]  Wenn wir also diese Funktion hier einmal nehmen
+[00:20:28 -> 00:20:32]  und dann nochmal die schöne Python-Version davon anlegen,
+[00:20:33 -> 00:20:36]  das geht jetzt nicht in anderen Programmiersprachen,
+[00:20:36 -> 00:20:41]  dann können wir anstatt dieses ganzen Gebildes mit List und Map und Lambda sagen,
+[00:20:41 -> 00:20:43]  gut, was wollen wir?
+[00:20:43 -> 00:20:46]  Wir wollen jedes Element der Liste multipliziert mit K
+[00:20:46 -> 00:20:48]  und das schreiben wir einfach hin.
+[00:20:48 -> 00:20:53]  Wir sagen x mal K für x in XS und das war's.
+[00:20:53 -> 00:20:55]  Und ähnlich schön geht das hier bei dem Filter,
+[00:20:55 -> 00:21:00]  auch da zur Vollständigkeit halber nochmal die bessere Python-Version.
+[00:21:02 -> 00:21:05]  Wir wollen jedes x, das größer ist als K.
+[00:21:05 -> 00:21:11]  Dann sagen wir einfach, okay, gib uns jedes x vor x in XS,
+[00:21:11 -> 00:21:14]  aber nur wenn x größer als K.
+[00:21:14 -> 00:21:17]  Und da kann es ehrlich gesagt auch gar keinen Zweifel mehr geben,
+[00:21:17 -> 00:21:21]  ob jetzt diese Version hier oder diese letzte Version hier schöner ist.
+[00:21:21 -> 00:21:24]  Es ist viel kürzer, viel schöner und es ist funktionaler Code
+[00:21:24 -> 00:21:26]  und hat damit all die Vorteile funktionaler Programmierung.
+[00:21:26 -> 00:21:29]  Python ist eben eine besonders ausgefeilte Programmiersprache,
+[00:21:29 -> 00:21:33]  in der man sowohl imperative als auch funktional ausgezeichnet programmieren kann
+[00:21:33 -> 00:21:36]  und das ist auch der Grund, warum es in der Praxis eine der beliebtesten Programmiersprachen ist.
+[00:21:36 -> 00:21:40]  Es wäre sehr falsch zu denken, dass Python nur so eine Skriptsprache für Data Scientists ist.
+[00:21:40 -> 00:21:43]  Das gesamte Instagram-Backend ist zum Beispiel in Python geschrieben.
+[00:21:43 -> 00:21:46]  Der Grund, warum ich das trotzdem erstmal mit Map und Filter erklärt habe,
+[00:21:46 -> 00:21:48]  ist, dass das eben die übertragbaren Konzepte sind.
+[00:21:48 -> 00:21:50]  Das gibt es in ganz vielen verschiedenen Programmiersprachen
+[00:21:50 -> 00:21:52]  und von einem guten Programmierer erwarte ich,
+[00:21:52 -> 00:21:54]  dass er sowas wie Map und Filter einfach kennt.
+[00:21:54 -> 00:21:56]  Für die Java-Fans unter euch, denn ich weiß auch,
+[00:21:56 -> 00:21:58]  dass an vielen Unis Java die Einstiegssprache ist,
+[00:21:58 -> 00:22:01]  sind hier nochmal alle unsere Beispiele in Java aufgeschrieben.
+[00:22:01 -> 00:22:04]  Halt das Video einfach an, wenn du dir das in Ruhe durchlesen willst.
+[00:22:04 -> 00:22:07]  Du kennst jetzt also die wichtigsten Konzepte funktionaler Programmierung.
+[00:22:07 -> 00:22:10]  Closures, Lambda-Ausdrücke und Funktionen höherer Ordnung,
+[00:22:10 -> 00:22:13]  zum Beispiel so wie Map, Filter, Reduce und Carry.
+[00:22:13 -> 00:22:16]  Damit sich dir das besonders gut einprägt, habe ich noch drei Übungsaufgaben für dich.
+[00:22:16 -> 00:22:18]  Und zwar habe ich drei Funktionen, von denen ich möchte,
+[00:22:18 -> 00:22:20]  dass du sie mit einem Einzeiler implementierst.
+[00:22:20 -> 00:22:23]  Da kommt in der Implementierung also sofort Return und dann ein funktionaler Ausdruck.
+[00:22:23 -> 00:22:30]  Und diese Funktionen heißen AnzahlGerade, Carry und MeinFilter.
+[00:22:30 -> 00:22:32]  Ich führe kurz vor, wie die funktionieren sollen.
+[00:22:32 -> 00:22:40]  AnzahlGerade bekommt eine Liste und gibt die Anzahl der geraden Elemente zurück.
+[00:22:40 -> 00:22:41]  Carry ist Carry.
+[00:22:41 -> 00:22:44]  Sagen wir zum Beispiel, ich definiere mir eine Funktion foo,
+[00:22:44 -> 00:22:48]  die bekommt drei verschiedene Integers.
+[00:22:48 -> 00:22:50]  Es muss nicht drei sein, aber sagen wir drei.
+[00:22:50 -> 00:22:52]  Es soll mit jeder Zahl funktionieren.
+[00:22:52 -> 00:22:55]  Und was macht die Funktion zum Beispiel?
+[00:22:55 -> 00:22:58]  Addiert sie die einfach auf.
+[00:22:58 -> 00:23:05]  So, und jetzt soll ich sagen, sagen wir mal Bar ist gleich Carry.
+[00:23:05 -> 00:23:12]  Und zwar übergebe ich einmal die Funktion und eine Zahl, ein Argument.
+[00:23:12 -> 00:23:13]  Sagen wir 5.
+[00:23:13 -> 00:23:16]  Und jetzt soll diese 5 als erstes Argument festgelegt werden.
+[00:23:16 -> 00:23:20]  Bar kriegt jetzt also nur noch zwei Argumente, zum Beispiel 3 und 2.
+[00:23:21 -> 00:23:24]  Und heraus kommt 5 plus 3 plus 2 ist 10.
+[00:23:24 -> 00:23:26]  Und die letzte Funktion MeinFilter, kannst du dir schon denken,
+[00:23:26 -> 00:23:29]  soll sich einfach genau wie die echte Filterfunktion verhalten.
+[00:23:29 -> 00:23:34]  Also zum Beispiel MeinFilter, Lambda, x, x größer 3.
+[00:23:34 -> 00:23:38]  Und dann eine Liste.
+[00:23:38 -> 00:23:41]  Kommen dann genau die Elemente zurück, die größer sind als 3.
+[00:23:41 -> 00:23:44]  Jetzt soll also jede dieser Funktionen mit einem Einzeller programmiert werden.
+[00:23:44 -> 00:23:46]  Da gibt es ganz verschiedene Wege, wie man das machen kann.
+[00:23:46 -> 00:23:48]  Als zusätzliche Einschränkung deshalb folgendes.
+[00:23:48 -> 00:23:53]  Die erste Funktion, Anzeigerade, sollst du mit einem Reduce und Filter programmieren.
+[00:23:53 -> 00:23:55]  Also beides muss irgendwie sinnvoll benutzt werden.
+[00:23:55 -> 00:23:56]  Reduce und Filter.
+[00:23:56 -> 00:23:58]  Bei der Carry-Funktion mache ich keine Einschränkung.
+[00:23:58 -> 00:24:02]  Aber bei MeinFilter musst du ausschließlich Reduce benutzen.
+[00:24:02 -> 00:24:04]  Keine anderen Funktionen höherer Ordnung.
+[00:24:04 -> 00:24:06]  Und natürlich kannst du in allen drei Fällen Lambda-Ausdrücke benutzen.
+[00:24:06 -> 00:24:10]  Wenn du die Lösung weißt, egal ob in Java oder in Python, ich habe es selbst nur in Python gemacht,
+[00:24:10 -> 00:24:12]  schreib unten einen Kommentar mit der Lösung.
+[00:24:12 -> 00:24:15]  Am liebsten schreibst du davor einen Spoiler-Alert mit ein paar Leerzeilen oder Punkten oder so,
+[00:24:15 -> 00:24:17]  damit das nicht sofort angezeigt wird.
+[00:24:17 -> 00:24:20]  Also ich bin gespannt, wer es erst herauskriegt und was da für Lösungen kommen.
+[00:24:20 -> 00:24:23]  Und ich appelliere vor allem an dich, wenn du neu bist in funktionaler Programmierung,
+[00:24:23 -> 00:24:26]  das wirklich mal zu machen und die Lösung hier hin zu schreiben.
+[00:24:26 -> 00:24:29]  Wenn du irgendwelche Fragen oder Anmerkungen hast, freue ich mich wie immer über deinen Kommentar.
+[00:24:29 -> 00:24:31]  Wenn dir das Video gefallen hat, gib einen Daumen hoch, es hilft.
+[00:24:31 -> 00:24:33]  Abonnier den Kanal, wenn du es noch nicht gemacht hast.
+[00:24:33 -> 00:24:35]  Bis bald im nächsten Video.
+[00:24:47 -> 00:24:49]  Untertitel von Stephanie Geiges

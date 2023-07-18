@@ -1,0 +1,72 @@
+[00:00:00 -> 00:00:04]  Hallo und willkommen zu Projekte Leichtgemacht. Heute geht es um eine Kreativitätstechnik,
+[00:00:04 -> 00:00:09]  nämlich die Zwickibox. Die kennt man auch als morphologischen Kasten. Klingt kompliziert?
+[00:00:09 -> 00:00:15]  Keine Sorge, im Grunde alles super einfach. Bleiben Sie dran, gleich geht's los.
+[00:00:15 -> 00:00:31]  Der morphologische Kasten. Was ist das und wie funktioniert das? Um das zu erklären,
+[00:00:31 -> 00:00:36]  schauen wir am besten mal auf die Problemstellung, die Frage, die wir mit dieser Methode beantworten
+[00:00:36 -> 00:00:42]  können. Nun, gleich vorweg, der morphologische Kasten gehört zu den Methoden, in denen Ausgehen
+[00:00:42 -> 00:00:50]  von Bekanntem oder Vorhandenem Neues geschaffen wird. Neue Ideen generiert werden. Von Bekanntem
+[00:00:50 -> 00:00:55]  zu Neuem, das klingt jetzt viel zu abstrakt. Was heißt denn das nun praktisch? Nehmen wir mal die
+[00:00:55 -> 00:01:00]  Produktentwicklung. Sagen wir mal, ein Fahrradhersteller sucht neue Trendprodukte.
+[00:01:00 -> 00:01:05]  Der schaut danach, was hat er denn so alles. Rennlenker gibt es, Mountainbike-Rahmen hat er
+[00:01:05 -> 00:01:11]  auch. Tada, die neue Idee. Stecken wir einfach mal einen Rennlenker auf ein Mountainbike.
+[00:01:11 -> 00:01:18]  Okay, wie sinnvoll speziell die Kombi nun ist, weiß ich auch nicht. Aber Prinzip erkannt, oder?
+[00:01:18 -> 00:01:25]  Andere solch lustige Kombinationen gibt es im Radsport ja wie Sand am Meer. Gravelbike,
+[00:01:25 -> 00:01:30]  Cyclocross und ach, ich kenn die gar nicht alle. Und gefühlt werden das jedes Jahr mehr. Und genau
+[00:01:30 -> 00:01:38]  das ist das Prinzip. Neue Ideen aus vorher schon Bekanntem zusammensetzen. Und das Bekannte,
+[00:01:38 -> 00:01:42]  das müssen jetzt nicht immer physische Komponenten sein, so wie beim Fahrrad. Das
+[00:01:42 -> 00:01:50]  können Produktfunktionen sein, Eigenschaften, Vorgehensweisen, alles mögliche. Ja, und wenn
+[00:01:50 -> 00:01:55]  das eben nicht nur zwei Komponenten sind, dann kommt das zu einer ganzen Menge Kombinationen.
+[00:01:55 -> 00:02:02]  Und Überblick bewahren, das ist schwierig. Und dann kam nun Fritz Zwicky, Schweizer Astrophysiker,
+[00:02:02 -> 00:02:07]  und hat sich eine einfache grafische Methode ausgedacht, das jetzt irgendwie darzustellen.
+[00:02:07 -> 00:02:11]  Und die hat er morphologisch in Kasten genannt. Schauen wir mal, wie der funktioniert.
+[00:02:11 -> 00:02:19]  Erster Schritt, die Problembeschreibung. Beschreiben Sie das Problem, das Sie lösen
+[00:02:19 -> 00:02:25]  wollen. Geht es um neue Produktideen? Um eine abstraktere Problemlösung? Werden Strategien
+[00:02:25 -> 00:02:33]  gesucht? Worum geht es? Ganz genau aufschreiben. Warum ist das so wichtig? Ganz einfach,
+[00:02:33 -> 00:02:38]  ohne Einschränkung werden Sie in endlicher Zeit nicht zu einem Ergebnis kommen. Das wird noch
+[00:02:38 -> 00:02:46]  wichtiger, wenn Sie die Methode im Team durchführen wollen. Zweiter Schritt, sammeln der Parameter.
+[00:02:46 -> 00:02:53]  Mit Parameter meine ich zum Beispiel beim Fahrrad vorhin den Parameter Rahmen und den
+[00:02:53 -> 00:02:59]  Parameter Lenker. Weiter gibt es Pedale, Sattel, Schaltung und so weiter. Klingt Parameter zu
+[00:02:59 -> 00:03:04]  sperrig? Na, dann stellen Sie sich mal einfach folgende Fragen. Welche Eigenschaften soll das
+[00:03:04 -> 00:03:11]  neue Produkt haben? Welche Teilprobleme wollen wir lösen? Welche Teilfunktionen könnte das
+[00:03:11 -> 00:03:19]  Produkt haben? Welche Module oder Baugruppen könnte das Produkt aufweisen? Wichtig dabei,
+[00:03:19 -> 00:03:25]  die gewählten Parameter sollten das Produkt möglichst vollständig beschreiben. Na klar,
+[00:03:25 -> 00:03:30]  fehlt die Sattelform, dann wissen Sie hinterher gar nicht, wie Ihr Fahrrad komplett aussehen soll.
+[00:03:30 -> 00:03:39]  Genauso wichtig, es sollte keine Überschneidung der Parameter geben. Der Parameter Rad und der
+[00:03:39 -> 00:03:47]  Parameter Speichenart, das geht nicht. Das sind keine unabhängigen Parameter. Mal ein ganz anderes
+[00:03:47 -> 00:03:53]  Beispiel. Ein Bäckerei-Betrieb sucht ein neues Brot. Der Bäcker denkt kurz nach und kommt auf
+[00:03:53 -> 00:04:02]  fünf Parameter. Krume, Teigart, Form, Geschmack, Mehl. So, und die Parameter haben wir jetzt endlich
+[00:04:02 -> 00:04:07]  mal in einen Kasten geschrieben. Die Methode heißt ja schließlich morphologischer Kasten. Also,
+[00:04:07 -> 00:04:13]  der Kasten ist im Grunde nichts anderes als eine Tabelle. Jetzt kommt der dritte Schritt.
+[00:04:13 -> 00:04:22]  Sammeln der Ausprägungen. Hier die Frage, welche Ausprägung kann ein Parameter einnehmen? Beim
+[00:04:22 -> 00:04:27]  Parameter Lenker wären das dann zum Beispiel der Mountainbike-Lenker, Rennradlenker, Trekkinglenker
+[00:04:27 -> 00:04:34]  und so weiter. Oder schauen wir wieder aufs Brot. Da könnte die Krume zum Beispiel feinporig sein,
+[00:04:34 -> 00:04:43]  unregelmäßig oder kompakt. Die Teigart könnte Hefeteig, Sauerteig und so weiter sein. Und so
+[00:04:43 -> 00:04:50]  können Sie allen Parametern Ausprägungen zuordnen und so eine Matrix schreiben. Und nun kommt der
+[00:04:50 -> 00:04:57]  vierte Schritt. Kombinationen sammeln. Jetzt geht es endlich rund. Und zwar am besten, indem man von
+[00:04:57 -> 00:05:03]  oben nach unten durch diese Matrix geht. Man sucht Pfade, die spannend sind. Jeder solcher Pfad
+[00:05:03 -> 00:05:12]  stellt eine Kombination dar. Hier mal gezeigt, ein feinporiges Brot aus Backpulverteig in Kastenform,
+[00:05:12 -> 00:05:20]  kräftig soll es sein und mit Dinkelmehl. Oder aber eine andere, vielleicht auch nicht schlechte Idee,
+[00:05:20 -> 00:05:31]  ein kompaktes Brot, Sauerteig, rund, mild und mit Weizen. So, genau das ist der morphologische
+[00:05:31 -> 00:05:38]  Kasten. Überhaupt kein Hexenwerk oder kompliziert. Das ist einfach nur eine Kreativitätsmethode,
+[00:05:38 -> 00:05:44]  die die Möglichkeiten in einer Matrix sortiert darstellt. Der Prozess des Auswählens von
+[00:05:44 -> 00:05:50]  Möglichkeiten, des Spielens mit Ideen, das wird hier schön plakativ-grafisch dargestellt,
+[00:05:50 -> 00:06:00]  durch eben diese gemalten Pfade in der Matrix. Probieren Sie das mal aus. Das hilft. Aber eins
+[00:06:00 -> 00:06:06]  ist klar. Hochinnovative, grundlegend neue Ideen werden Sie so vermutlich nicht finden.
+[00:06:06 -> 00:06:13]  Ich meine, Sie greifen ja immer nur auf Bekanntes zurück. Also bekannte Mehlsorten,
+[00:06:13 -> 00:06:19]  bekannte Fahrradlenker und so weiter. Also out of the box, außerhalb des Kastens, können Sie
+[00:06:19 -> 00:06:24]  damit nur schwer denken. Sie bleiben ja immer innerhalb des Kastens, den Sie sich zu Beginn
+[00:06:24 -> 00:06:32]  gesetzt haben. Ist das schlimm? Nee, das ist gar nicht so schlimm. Das braucht es ja gar nicht
+[00:06:32 -> 00:06:39]  immer. Ideen, die auf Vorhandenes zurückgreifen, die sind oft viel einfacher und billiger in der
+[00:06:39 -> 00:06:46]  Umsetzung. Raten Sie mal, warum die Fahrradindustrie seit einem Jahrhundert das Rad nicht grundlegend
+[00:06:46 -> 00:06:50]  neu erfindet. Klar, die sagen das zwar immer, aber im Grunde ist ein Fahrrad immer noch ein
+[00:06:50 -> 00:07:00]  Fahrrad, oder? Die wissen halt, wie man Geld verdient. Aber soll es doch mal etwas mehr
+[00:07:00 -> 00:07:06]  innovativ sein? Dann geben Sie sich bei der Wahl der Parameter und bei den Ausprägungen besondere
+[00:07:06 -> 00:07:11]  Mühe. Holen Sie Ihr Team zusammen. Jagen Sie nach neuen Parametern und Ausprägungen, an die Sie
+[00:07:11 -> 00:07:15]  vorher nicht gedacht haben. Da können Sie ganz andere Kreativtechniken verwenden. Brainstormen
+[00:07:15 -> 00:07:22]  Sie, brüten Sie und so weiter. Und dann stecken Sie das alles, also diese Innovation, in den
+[00:07:22 -> 00:07:32]  morphologischen Kasten. So, das war jetzt mal eine ganz einfache Kreativitätstechnik. Unterm Video
+[00:07:32 -> 00:07:38]  gibt es zwei Links. Einer zum Blogartikel über den morphologischen Kasten und der andere, wie
+[00:07:38 -> 00:07:43]  immer, zu unseren Online-Kursen zum Projektmanagement. Da lernen Sie dann noch eine ganze Menge weiterer
+[00:07:44 -> 00:07:49]  Kreativitätstechniken kennen und was Sie sonst noch im Projekt so brauchen. Und ganz zum Schluss
+[00:07:49 -> 00:07:54]  wie immer, hat Ihnen das Video gefallen? Dann geben Sie uns einen Daumen hoch, da freuen wir uns.
+[00:07:54 -> 00:07:58]  Abonnieren Sie unseren Kanal. Wir sehen uns wieder. Bleiben Sie dran!

@@ -1,0 +1,70 @@
+[00:00:00 -> 00:00:07]  What is criticality analysis?
+[00:00:07 -> 00:00:13]  Now, if you're unclear, if you're not familiar with this, there are webinars on our website
+[00:00:13 -> 00:00:20]  and Mobius Connect and even YouTube, I believe, although they might be a little bit old now.
+[00:00:20 -> 00:00:30]  The key is to combine three pieces of information, to look at your assets, one after another,
+[00:00:30 -> 00:00:37]  and say, what would happen if the equipment failed?
+[00:00:37 -> 00:00:38]  Lives at risk?
+[00:00:38 -> 00:00:46]  Is downtime at risk, but is it an hour of downtime or a month of downtime?
+[00:00:46 -> 00:00:48]  Could there be harm to the environment?
+[00:00:48 -> 00:00:49]  Could quality be affected?
+[00:00:49 -> 00:00:54]  Could we poison our customers?
+[00:00:54 -> 00:00:57]  What could happen?
+[00:00:57 -> 00:01:02]  The next question is, what is the likelihood of that occurring?
+[00:01:02 -> 00:01:11]  Because we could say that one of the consequences is a fatality, which of course is terrible,
+[00:01:11 -> 00:01:18]  but we might say, well, the likelihood of the failure occurring is very, very, very
+[00:01:18 -> 00:01:19]  rare.
+[00:01:19 -> 00:01:23]  It's just so unlikely to happen in that way.
+[00:01:23 -> 00:01:30]  But we may look at the consequences of failure, look at the likelihood of failure, how likely
+[00:01:30 -> 00:01:33]  is it to begin to fail?
+[00:01:33 -> 00:01:37]  But then the third part, which people don't always look at, is what is the likelihood
+[00:01:37 -> 00:01:40]  of detection?
+[00:01:40 -> 00:01:46]  In other words, I might have a piece of equipment that is unreliable, and I might say, well,
+[00:01:46 -> 00:01:52]  the likelihood of it beginning to fail is reasonably high.
+[00:01:52 -> 00:02:00]  This particular motor or whatever the piece of equipment is, is prone to failure.
+[00:02:00 -> 00:02:06]  However, because we have condition monitoring or because it always makes a lot of noise
+[00:02:06 -> 00:02:12]  well before it fails, we will detect that that's happening, and therefore we do not
+[00:02:12 -> 00:02:14]  suffer the consequences.
+[00:02:14 -> 00:02:16]  Now this is a big topic.
+[00:02:16 -> 00:02:18]  It's one of my favorite topics.
+[00:02:18 -> 00:02:21]  I could talk about it for a long time.
+[00:02:21 -> 00:02:28]  But I guess the important point for now is that if we are able to stand back at some
+[00:02:28 -> 00:02:37]  distance and look at the asset as a whole and just say, now, remember, there are lots
+[00:02:37 -> 00:02:40]  of different ways a piece of equipment could fail.
+[00:02:40 -> 00:02:42]  I mean, take an electric motor.
+[00:02:42 -> 00:02:45]  The rotor bars could break, could crack and fail.
+[00:02:45 -> 00:02:47]  The bearings might fail.
+[00:02:47 -> 00:02:50]  The rotor may be out of balance.
+[00:02:50 -> 00:02:52]  The rotor might rub against the stator.
+[00:02:52 -> 00:02:57]  I mean, there's lots of different ways it can fail, and the consequences of failure
+[00:02:57 -> 00:03:00]  and the likelihood of detection could be quite different.
+[00:03:00 -> 00:03:06]  The likelihood of it failing because of a bearing fault has a certain probability of
+[00:03:06 -> 00:03:07]  occurring.
+[00:03:07 -> 00:03:12]  The probability of the rotor rubbing against the stator might be far less likely.
+[00:03:12 -> 00:03:17]  If I was going to perform failure modes, effects and criticality analysis, I would
+[00:03:17 -> 00:03:23]  look at every possible way the equipment could fail and look at the likelihood of each one
+[00:03:23 -> 00:03:29]  of those failures and the likelihood of detecting each one of those failures, which is terrific,
+[00:03:29 -> 00:03:33]  but that is a very time-consuming process.
+[00:03:33 -> 00:03:38]  And if we want to get something happening more quickly, then we step way back and we
+[00:03:38 -> 00:03:48]  look at the motor as a whole and say, in general terms, what sorts of failures are most likely
+[00:03:48 -> 00:03:49]  to occur?
+[00:03:49 -> 00:03:51]  What ones do I really need to think about?
+[00:03:51 -> 00:03:55]  And what are the consequences of failure and what is the likelihood of detecting that?
+[00:03:55 -> 00:04:00]  And that just lets us say, what sort of risks are we facing?
+[00:04:00 -> 00:04:07]  If we determine that certain assets pose severe risks, then we can look at them in much greater
+[00:04:07 -> 00:04:12]  detail and go through failure mode by failure mode.
+[00:04:12 -> 00:04:17]  So I'm rushing through this a little bit because there's a lot we can discuss.
+[00:04:17 -> 00:04:23]  But if we can start with a basic criticality analysis, it lets us do a lot more.
+[00:04:23 -> 00:04:29]  We can say, well, where should we perform that detailed reliability-centered maintenance
+[00:04:29 -> 00:04:34]  analysis or failure modes effects analysis?
+[00:04:34 -> 00:04:39]  Do I just start with the, do I go through alphabetically every asset or do I start with
+[00:04:39 -> 00:04:43]  the most critical asset and go to the second most critical, the third most critical?
+[00:04:43 -> 00:04:46]  I would argue that's a better approach.
+[00:04:46 -> 00:04:53]  So we do a bit of criticality analysis first, and then we prioritize the RCM or FMEA analysis.
+[00:04:53 -> 00:04:58]  But that same criticality analysis tells us which assets we should monitor with our condition
+[00:04:58 -> 00:05:00]  monitoring program.
+[00:05:00 -> 00:05:06]  We make sure we are monitoring those assets that are most critical to us, particularly
+[00:05:06 -> 00:05:10]  if they're critical because we do not detect the onset of failure.
+[00:05:10 -> 00:05:17]  We can make an asset far less critical if we can detect the failure occurring that is
+[00:05:17 -> 00:05:22]  beginning to occur, and therefore we do not suffer the consequences of failure.
+[00:05:22 -> 00:05:27]  But we can prioritize our maintenance tasks and our improvement projects and all kinds
+[00:05:27 -> 00:05:29]  of things if we have criticality analysis.

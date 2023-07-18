@@ -1,0 +1,54 @@
+[00:00:00 -> 00:00:05]  Objective 9.5, core practical, investigate the relationship between organisms and their
+[00:00:05 -> 00:00:09]  environment using fieldwork techniques including quadrats and belt transects.
+[00:00:10 -> 00:00:16]  Objective 9.6, explain how to determine the number of organisms in a given area
+[00:00:16 -> 00:00:21]  using raw data from fieldwork techniques including quadrats and belt transects.
+[00:00:30 -> 00:00:38]  So ecologists work to study and monitor ecosystems and part of this is monitoring population sizes
+[00:00:38 -> 00:00:43]  and how they are distributed in the ecosystem. Now this can sometimes be very challenging,
+[00:00:44 -> 00:00:50]  for example counting every daisy in a field would take a very long time, therefore scientists use
+[00:00:50 -> 00:00:56]  sampling techniques to get an estimation which is much quicker. Ecologists use a piece of apparatus
+[00:00:56 -> 00:01:03]  called a quadrat to take samples. Now a quadrat is very simple, it's a square metal frame usually
+[00:01:03 -> 00:01:08]  one meter in length but will vary depending on where and what you're going to be sampling.
+[00:01:09 -> 00:01:14]  This quadrat here you can just about see is split up into a hundred smaller squares which can
+[00:01:14 -> 00:01:19]  sometimes make counting easier especially if you're trying to work out the percentage cover
+[00:01:19 -> 00:01:25]  in that quadrat. So let's say you had a task where you needed to compare the populations of daisies
+[00:01:25 -> 00:01:31]  in two areas of your school playing fields. How would you go about doing that? So we're looking at
+[00:01:31 -> 00:01:38]  populations here. Well first of all you're going to mark out two identical sized areas, 10 meters by 10
+[00:01:38 -> 00:01:44]  meters using a large tape measure in location A and location B and then use the random number
+[00:01:44 -> 00:01:50]  generator function on your calculator to choose those coordinates along the tape measure. So you
+[00:01:50 -> 00:01:55]  get your calculator to generate this random number and that's how far along the x-axis
+[00:01:55 -> 00:01:58]  you go and then you do another random number and you move up the y-axis and that gives you
+[00:01:58 -> 00:02:03]  a random coordinate to place your quadrat. It's very important that it is placed randomly so you
+[00:02:03 -> 00:02:10]  don't have any bias here and place the quadrat in the same way always with the left corner at that
+[00:02:10 -> 00:02:15]  point which you've selected at random. Then count the number of daisies in the quadrat and record it
+[00:02:15 -> 00:02:24]  in a table. Do this nine further times so you've got 10 random quadrat readings for each area.
+[00:02:24 -> 00:02:30]  Calculate the mean number of daisies per quadrat for each area and to get the total population in
+[00:02:30 -> 00:02:36]  the location you can then just multiply that mean by how many square meters there are in the total
+[00:02:36 -> 00:02:43]  area. If you also take some data about the physical environment at the same time, the abartic factors,
+[00:02:44 -> 00:02:49]  then that can help you hypothesize why the populations might be different in location A
+[00:02:49 -> 00:02:55]  and location B. Here's another task. Measure how the distribution of organisms changes across
+[00:02:55 -> 00:03:01]  a woodland path. Now sometimes you want to see how the distribution of a species changes
+[00:03:01 -> 00:03:07]  across a habitat. You may take abartic factor readings as well such as light levels or soil
+[00:03:07 -> 00:03:13]  acidity and then investigate if there's a relationship between those factors and the
+[00:03:13 -> 00:03:18]  distribution of that species. Now in this case another piece of apparatus is needed called a
+[00:03:18 -> 00:03:26]  transect as well as your quadrat. Now a transect is basically a long line. Ideally just use a long
+[00:03:26 -> 00:03:30]  sort of tape measure and instead of just randomly placing your quadrat down like we did last time
+[00:03:30 -> 00:03:35]  with those random coordinates, we're going to place it systematically along that transect.
+[00:03:36 -> 00:03:42]  So then with each quadrat you take along that transect, you could count the number of a
+[00:03:42 -> 00:03:47]  particular species and see how the distribution of that species changes as you move along the
+[00:03:47 -> 00:03:52]  transect. Or you might count the number of different species you can see in each quadrat
+[00:03:52 -> 00:03:56]  and therefore give you a sort of measure of biodiversity. If you're counting something like
+[00:03:56 -> 00:04:02]  grass where you can't count individual organisms then you would do the percentage of the quadrat
+[00:04:02 -> 00:04:07]  covered. And also for each quadrat you then take some of those abartic readings, maybe light
+[00:04:07 -> 00:04:14]  intensity, temperature or soil pH. And once you've got your data then plot a graph of the abartic
+[00:04:14 -> 00:04:20]  factors you're interested in against each quadrat to see if there is a correlation. So here is a
+[00:04:20 -> 00:04:27]  quadrat placed on a rocky shore. Now there are three mussels in this one meter squared quadrat
+[00:04:27 -> 00:04:34]  and the total area of the rocks is 280 meters squared. What would be the estimated population
+[00:04:34 -> 00:04:40]  of mussels on these rocks? Why not pause the video now and take a minute to try and work it out.
+[00:04:41 -> 00:04:44]  Well it's quite simple isn't it? You've got one meter squared here and we know the total area is
+[00:04:44 -> 00:04:52]  280 meters squared so all we've got to do is times 3 by 280 to get our total estimation which is 840
+[00:04:52 -> 00:04:57]  mussels. Here's an evaluation question though. Why is that not a good way of estimating the
+[00:04:57 -> 00:05:04]  population of mussels? Well firstly it's only one quadrat so it's not reliable data. Reliable
+[00:05:05 -> 00:05:10]  data is about how many repeats you do and they've only done one here. Data should be collected from
+[00:05:10 -> 00:05:16]  at least 10 randomly placed quadrats and then the average number of mussels can be calculated per
+[00:05:16 -> 00:05:21]  square meter and then that can be multiplied by 280 for the total area which is going to be a
+[00:05:21 -> 00:05:24]  much more accurate result.

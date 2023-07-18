@@ -1,0 +1,7 @@
+[00:00:00 -> 00:00:26]  In part one I made the spindle and frame of the attachment and explained a bit
+[00:00:26 -> 00:00:35]  about the theory of gear hobbing. If you haven't seen part one this will probably
+[00:00:35 -> 00:00:39]  make more sense if you go back and watch that first. The spindle is driven by a
+[00:00:39 -> 00:00:46]  stepper motor via a toothed belt and pulleys. The large pulley needs to be
+[00:00:46 -> 00:00:49]  keyed to the spindle.
+[00:00:56 -> 00:00:58]  You
+[00:01:26 -> 00:01:54]  need to make a nut for the end of the spindle.

@@ -1,0 +1,126 @@
+[00:00:00 -> 00:00:05]  ♪
+[00:00:05 -> 00:00:10]  ♪
+[00:00:10 -> 00:00:15]  ♪
+[00:00:15 -> 00:00:20]  ♪
+[00:00:20 -> 00:00:25]  ♪
+[00:00:25 -> 00:00:30]  ♪
+[00:00:30 -> 00:00:35]  ♪
+[00:00:35 -> 00:00:40]  ♪
+[00:00:40 -> 00:00:45]  Hi there, welcome to my studio and welcome to the Mastering Colour course.
+[00:00:45 -> 00:00:50]  I'm Richard, I've been a professional painter since 2001
+[00:00:51 -> 00:00:54]  and an art tutor for nearly as long as that.
+[00:00:54 -> 00:00:58]  I've been making these videos for the internet for a couple of years
+[00:00:58 -> 00:00:59]  and they've been doing really well.
+[00:00:59 -> 00:01:03]  Over 90,000 people have seen the videos so far around the world.
+[00:01:03 -> 00:01:09]  And I asked these people what was the main problem that they had with painting,
+[00:01:09 -> 00:01:11]  what was the biggest stumbling block?
+[00:01:11 -> 00:01:16]  And an amazing 72% said that colour was the biggest problem.
+[00:01:16 -> 00:01:20]  So if colour is your biggest problem then join the club, you're in good company.
+[00:01:20 -> 00:01:24]  So I thought, hey I know a bit about colour, I'll do a painting lesson on colour.
+[00:01:24 -> 00:01:29]  But it was only when I started trying to write down exactly what I knew about colour
+[00:01:29 -> 00:01:31]  that I realised just how little I did know
+[00:01:31 -> 00:01:36]  and how much I've been painting and doing my colour work instinctually.
+[00:01:36 -> 00:01:38]  So I started learning again.
+[00:01:38 -> 00:01:42]  I bought every colour book that I could get my hands on, every DVD.
+[00:01:42 -> 00:01:47]  I scoured the internet for months and months looking for the best online resources
+[00:01:47 -> 00:01:52]  and eventually I started teaching workshops where I used my guinea pig students
+[00:01:52 -> 00:01:56]  to test out my new information and my new teaching techniques.
+[00:01:56 -> 00:02:03]  And it was there that I really learned what was the best way to simplify this really complex subject
+[00:02:03 -> 00:02:07]  and help them learn it in a really practical way.
+[00:02:07 -> 00:02:10]  We had some great little paintings come out of those workshops
+[00:02:10 -> 00:02:16]  but what was really special to me was that moment when the light came on in their heads
+[00:02:16 -> 00:02:19]  and they began to understand what I was showing them.
+[00:02:19 -> 00:02:23]  You see once you gain understanding and control over colour
+[00:02:23 -> 00:02:29]  it completely turns it around from being a real worry to being an adventure and a real joy.
+[00:02:29 -> 00:02:34]  So some of the stuff we're going to cover in this course is colour theory,
+[00:02:34 -> 00:02:46]  seeing colour, describing colour, values, mixing colour, manipulating colour, colour harmony and light effects.
+[00:02:46 -> 00:02:51]  So hopefully by the end of this course you'll have saved yourself years of struggle
+[00:02:51 -> 00:02:57]  and have a real thorough understanding of colour and how to use it with real confidence in your paintings.
+[00:02:57 -> 00:03:00]  So let's get started with the history of colour theory.
+[00:03:04 -> 00:03:09]  I think it's important to know where we've come from in terms of our understanding of colour
+[00:03:09 -> 00:03:15]  so that we can see clearly where we are at the moment and know what discoveries led us to this point.
+[00:03:15 -> 00:03:18]  I don't want to bore you with the physics of light and everything
+[00:03:18 -> 00:03:22]  so I'll just give you a brief overview and make sure that you know roughly how it all works
+[00:03:22 -> 00:03:28]  so you don't go believing something like what Plato first hypothesised in his emanation theory
+[00:03:28 -> 00:03:34]  that an inner fire gives rise to visual rays shooting outward from the eye
+[00:03:34 -> 00:03:39]  interacting with the outer rays and thereby allowing objects to be seen.
+[00:03:39 -> 00:03:46]  Newton showed us in the 1700s that white light from our sun contains all the colours of the spectrum
+[00:03:46 -> 00:03:52]  the ones you can see in a rainbow plus a whole bunch of others that we can't see like ultraviolet and infrared.
+[00:03:52 -> 00:03:57]  He then noticed the similarity between red and violet at either end of the spectrum
+[00:03:57 -> 00:04:02]  and joined them together making a circle, the colour wheel as we know it.
+[00:04:02 -> 00:04:06]  This was the birth of modern colour theory.
+[00:04:06 -> 00:04:11]  That knowledge didn't become practically useful to artists until Michel Chevrelle
+[00:04:11 -> 00:04:15]  who managed the production of dyes for a French tapestry manufacturer
+[00:04:15 -> 00:04:19]  made the remarkable discovery that an intense dye colour
+[00:04:19 -> 00:04:23]  would produce the appearance of colour on surrounding neutral areas
+[00:04:23 -> 00:04:30]  and that this new perceived colour was almost directly opposite the original colour on Newton's colour wheel.
+[00:04:30 -> 00:04:33]  Let's have a look at this visual phenomenon.
+[00:04:33 -> 00:04:37]  Keep your eye in the middle of the orange square for the next 20 seconds.
+[00:04:45 -> 00:04:50]  You'll see when I remove the square that a blue afterimage is formed in your eye
+[00:04:50 -> 00:04:54]  and blue just happens to be the complementary colour of orange
+[00:04:54 -> 00:04:57]  meaning it's directly opposite orange on the colour wheel.
+[00:05:12 -> 00:05:19]  Again in France, the painter Eugène Delacroix used these new discoveries to further his realistic lighting effects
+[00:05:19 -> 00:05:23]  he learned things like red cloth has greener shadows
+[00:05:23 -> 00:05:27]  and the shadows of yellow objects have a tinge of violet in them.
+[00:05:27 -> 00:05:32]  In doing this he was able to break away from the classical dark backgrounds
+[00:05:32 -> 00:05:35]  and the dull tonal treatment of shadows
+[00:05:35 -> 00:05:41]  and introduce colour into shadows effectively making the whole painting more vibrant.
+[00:05:41 -> 00:05:44]  He was later reported to say that
+[00:05:44 -> 00:05:47]  I can paint the skin of a goddess with mud
+[00:05:47 -> 00:05:51]  provided you let me surround it with the right colours.
+[00:05:51 -> 00:05:53]  This is actually possible too.
+[00:05:53 -> 00:05:56]  If you surround a warm grey with a strong blue
+[00:05:56 -> 00:05:59]  it will actually resemble Caucasian flesh.
+[00:05:59 -> 00:06:03]  The Impressionists were inspired by Delacroix's discoveries
+[00:06:03 -> 00:06:07]  and aided by the invention of a wider range of more vibrant paints
+[00:06:07 -> 00:06:09]  sold in easily transportable tubes
+[00:06:09 -> 00:06:15]  they painted outdoors in search of a more meaningful expression of natural lighting colour.
+[00:06:15 -> 00:06:18]  Instead they tended to paint in a mid or high key
+[00:06:18 -> 00:06:21]  and add complements to their lighter shadows.
+[00:06:21 -> 00:06:25]  These artists included Manet, Renoir and Pissarro.
+[00:06:25 -> 00:06:31]  In London at the same time Joseph Turner was exploring bold colour and atmospheric effects
+[00:06:31 -> 00:06:34]  which also had an effect on the work of the Impressionists.
+[00:06:35 -> 00:06:40]  Meanwhile George Seurat developed a very technical approach to colour
+[00:06:40 -> 00:06:43]  a painstaking method called pointillism
+[00:06:43 -> 00:06:48]  which attempted to mix colours visually on the canvas rather than on the palette.
+[00:06:48 -> 00:06:53]  To make a green for example he would place a small stroke of blue beside one of yellow
+[00:06:53 -> 00:06:57]  so that from a distance the two colours combine in the eye
+[00:06:57 -> 00:07:01]  to create a more vibrant green than what can be achieved by mixing colour on a palette.
+[00:07:02 -> 00:07:06]  This is in fact how a modern four colour printing press works
+[00:07:06 -> 00:07:11]  by placing tiny dots of pure colour next to each other to create an image in the eye.
+[00:07:11 -> 00:07:14]  The process is just too taxing for most artists though
+[00:07:14 -> 00:07:17]  so pointillism as a movement didn't last for very long.
+[00:07:18 -> 00:07:21]  Post-Impressionists like Paul Gauguin and Van Gogh
+[00:07:21 -> 00:07:26]  learned the techniques of the Impressionists but began to use colour in a more emotional manner.
+[00:07:26 -> 00:07:30]  They were less concerned with the actual appearance of light and atmosphere
+[00:07:30 -> 00:07:35]  than with emphasising the beauty of pure colour and line in a fairly flat picture plane.
+[00:07:35 -> 00:07:39]  Van Gogh felt that colours had symbolic meaning.
+[00:07:39 -> 00:07:45]  To him yellow symbolised love and light, red and green conveyed passion and conflict
+[00:07:45 -> 00:07:51]  deep blue was the colour of spiritual rest and grey was associated with surrender.
+[00:07:53 -> 00:07:57]  Paul Cézanne's later work can be seen as one of the bridges
+[00:07:57 -> 00:08:01]  between the art of the 19th century and the 20th century.
+[00:08:01 -> 00:08:04]  He used colour almost as a chisel to shape objects
+[00:08:04 -> 00:08:08]  where he enjoyed the contrast of greyed colour with saturated colour.
+[00:08:08 -> 00:08:10]  He wrote,
+[00:08:10 -> 00:08:15]  When the colour achieves richness, the form attains its fullness also.
+[00:08:16 -> 00:08:21]  His work along with others inspired the Cubists, Expressionists and Fauves
+[00:08:21 -> 00:08:24]  who all used colour in an arbitrary fashion
+[00:08:24 -> 00:08:27]  no longer concerned with representing nature and her richness
+[00:08:27 -> 00:08:32]  but turning more to the inner world of the artist to draw inspiration from.
+[00:08:33 -> 00:08:35]  So Postmodernism was born
+[00:08:35 -> 00:08:38]  and a gap of some hundred years ensued until today
+[00:08:38 -> 00:08:43]  when we are seeing a resurgence in the academic popularity of representational art.
+[00:08:44 -> 00:08:48]  Over that time though there have been artists who have kept the flame alive
+[00:08:48 -> 00:08:50]  and passed it along to their own students
+[00:08:50 -> 00:08:53]  safeguarding the knowledge that was hard won over many years.
+[00:08:53 -> 00:08:56]  Some include Russian painter Sergei Bongart,
+[00:08:56 -> 00:09:00]  American Charles Hawthorne and Henry Hinch.
+[00:09:00 -> 00:09:03]  So through all these artists' efforts and many more
+[00:09:03 -> 00:09:07]  we now have a good understanding of what we can achieve with colour and painting.
+[00:09:07 -> 00:09:11]  We're standing on the top of a mountain of discoveries and achievements
+[00:09:11 -> 00:09:15]  and we're now in the enviable position of having the knowledge and technology
+[00:09:15 -> 00:09:19]  to achieve with paint a range and depth of colour expression
+[00:09:19 -> 00:09:22]  that was simply not possible in the past.
+[00:09:22 -> 00:09:27]  So the next chapters are going to walk you through discovering your own power with colour
+[00:09:27 -> 00:09:31]  so you too can climb up the mountain and see what the view is like from up there.
+[00:09:52 -> 00:09:55]  www.able.co.nz Copyright Able 2019

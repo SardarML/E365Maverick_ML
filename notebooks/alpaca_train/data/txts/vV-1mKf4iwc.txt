@@ -1,0 +1,154 @@
+[00:00:00 -> 00:00:01]  Hello, and welcome.
+[00:00:01 -> 00:00:02]  Today I want to talk about how
+[00:00:02 -> 00:00:05]  to read from a script while still sounding like a human.
+[00:00:05 -> 00:00:09]  So a little bit about advantages and disadvantages of scripting,
+[00:00:09 -> 00:00:12]  and then the crux of this video is the difference
+[00:00:12 -> 00:00:15]  between writing and speaking, and why it matters.
+[00:00:16 -> 00:00:18]  And then I'm going to take a script and adapt it
+[00:00:18 -> 00:00:20]  so it is more video-friendly.
+[00:00:21 -> 00:00:23]  Okay, so if you've watched my other videos,
+[00:00:23 -> 00:00:26]  you know I'm a huge fan of having a plan,
+[00:00:26 -> 00:00:27]  no matter what that looks like for you.
+[00:00:28 -> 00:00:29]  I'm an outliner.
+[00:00:29 -> 00:00:30]  I'm not a scripter.
+[00:00:30 -> 00:00:33]  So I make a shot list, an outline of the video
+[00:00:33 -> 00:00:37]  on my iPad using Notability, and then I move to my computer
+[00:00:37 -> 00:00:40]  and I use Keynote to make a more detailed outline.
+[00:00:40 -> 00:00:43]  But a lot of my faculty really prefer using scripts,
+[00:00:43 -> 00:00:46]  and I get it because it really does reduce anxiety.
+[00:00:46 -> 00:00:50]  It also kind of front loads the work so that by the time you get
+[00:00:50 -> 00:00:54]  to the actual recording, you're much more calm and relaxed,
+[00:00:54 -> 00:00:55]  which is really important.
+[00:00:56 -> 00:00:58]  And you can really work that script
+[00:00:58 -> 00:01:01]  until it is exactly the way you want it.
+[00:01:01 -> 00:01:05]  However, reading from a script usually sounds a lot
+[00:01:05 -> 00:01:06]  less natural.
+[00:01:06 -> 00:01:08]  It is very difficult to humanize.
+[00:01:09 -> 00:01:14]  And something usually feels or sounds off, almost robotic,
+[00:01:14 -> 00:01:16]  and it's very, very hard for most people
+[00:01:16 -> 00:01:19]  to figure out why it's so different.
+[00:01:19 -> 00:01:20]  There's good news, though.
+[00:01:20 -> 00:01:24]  If you understand how spoken language differs
+[00:01:24 -> 00:01:26]  from written language, that's going to help you
+[00:01:26 -> 00:01:28]  when you write your script.
+[00:01:28 -> 00:01:29]  So let's take a look at that.
+[00:01:29 -> 00:01:30]  We're going to compare typical features
+[00:01:30 -> 00:01:32]  of speech versus writing.
+[00:01:32 -> 00:01:35]  Speech is much less explicit.
+[00:01:36 -> 00:01:39]  There are less clear sentence boundaries,
+[00:01:39 -> 00:01:44]  and that gives it a more simple and loose and relaxed structure.
+[00:01:45 -> 00:01:48]  And also, speech tends to have more repetitive
+[00:01:48 -> 00:01:51]  and more restrictive vocabulary compared to writing.
+[00:01:52 -> 00:01:55]  In addition, we have normal disfluency in speech.
+[00:01:55 -> 00:01:58]  That means that we make errors in speech,
+[00:01:58 -> 00:01:59]  and it's considered normal.
+[00:01:59 -> 00:02:03]  But in writing, because we have editing and the power of sort
+[00:02:03 -> 00:02:07]  of infinite time, normally we have fluency in writing.
+[00:02:07 -> 00:02:10]  Going along with that, in speech, we monitor ourselves.
+[00:02:10 -> 00:02:11]  So we listen to ourselves,
+[00:02:11 -> 00:02:14]  and we adjust what we say as we are speaking.
+[00:02:15 -> 00:02:16]  Obviously, that doesn't happen in writing.
+[00:02:17 -> 00:02:20]  This makes speech seem more informal.
+[00:02:20 -> 00:02:23]  And the last thing here, in speech, we rely
+[00:02:23 -> 00:02:27]  on the interaction and feedback of the people we are speaking
+[00:02:27 -> 00:02:31]  to, and that's why, especially in the beginning
+[00:02:31 -> 00:02:34]  when you're making videos, it seems really awkward,
+[00:02:34 -> 00:02:36]  because you are doing the speaking thing,
+[00:02:36 -> 00:02:38]  but you're not getting any feedback.
+[00:02:38 -> 00:02:40]  So that's just something to keep in mind.
+[00:02:41 -> 00:02:43]  So let's look at an example and see how this plays out.
+[00:02:44 -> 00:02:47]  So I copied this text from a YouTube video,
+[00:02:47 -> 00:02:49]  and I am not giving credit, basically,
+[00:02:49 -> 00:02:51]  to protect the professor.
+[00:02:51 -> 00:02:56]  This is not evil, but I think you can see as we go
+[00:02:56 -> 00:03:00]  through it, it's really not a great script for a video.
+[00:03:00 -> 00:03:04]  This is in my area of expertise, so this is an introduction
+[00:03:04 -> 00:03:06]  to the somatic and autonomic nervous system.
+[00:03:06 -> 00:03:07]  And let's look at this.
+[00:03:07 -> 00:03:10]  The first couple sentences here, the nervous system can be divided
+[00:03:10 -> 00:03:12]  into two functional parts, the somatic nervous system
+[00:03:12 -> 00:03:13]  and the autonomic nervous system.
+[00:03:13 -> 00:03:15]  The major differences between the two systems are evident
+[00:03:15 -> 00:03:16]  in the responses that each produces.
+[00:03:16 -> 00:03:20]  So I think you can agree that this is really formal
+[00:03:21 -> 00:03:22]  and really explicit.
+[00:03:23 -> 00:03:26]  It's very fluent, and it's highly polished.
+[00:03:26 -> 00:03:29]  I would say that this reads more
+[00:03:29 -> 00:03:32]  like a textbook than a video script.
+[00:03:32 -> 00:03:36]  So it just, it has no humanized element to it.
+[00:03:36 -> 00:03:38]  It really does feel like a robot.
+[00:03:38 -> 00:03:39]  Okay, next.
+[00:03:39 -> 00:03:41]  The somatic nervous system causes contraction
+[00:03:41 -> 00:03:41]  of skeletal muscles.
+[00:03:41 -> 00:03:43]  The autonomic nervous system controls cardiac
+[00:03:43 -> 00:03:45]  and smooth muscle, as well as glandular tissue.
+[00:03:45 -> 00:03:48]  Now, I'm going to say that that section is a little bit better.
+[00:03:48 -> 00:03:53]  It's not, it's not as robotic, but it's really tight in terms
+[00:03:53 -> 00:03:55]  of vocabulary and cadence,
+[00:03:55 -> 00:03:58]  like the rhythm that you would read this.
+[00:03:58 -> 00:04:02]  I would also suggest that this is a great example to introduce more
+[00:04:02 -> 00:04:05]  of a first-person experience-based approach,
+[00:04:05 -> 00:04:09]  like try this on yourself, because that will really help
+[00:04:09 -> 00:04:11]  to increase student engagement.
+[00:04:11 -> 00:04:12]  The somatic nervous system is associated
+[00:04:12 -> 00:04:14]  with voluntary responses, though many can happen
+[00:04:14 -> 00:04:15]  without conscious awareness, like breathing.
+[00:04:15 -> 00:04:17]  And the autonomic nervous system is associated
+[00:04:17 -> 00:04:18]  with involuntary responses,
+[00:04:18 -> 00:04:20]  such as those related to homeostasis.
+[00:04:20 -> 00:04:23]  So again, I'm going to say this is really tight.
+[00:04:23 -> 00:04:27]  It's a complex structure, complex vocabulary, overly complex.
+[00:04:28 -> 00:04:31]  And as you read all of this, I think, for me,
+[00:04:31 -> 00:04:33]  I would say it doesn't breathe.
+[00:04:33 -> 00:04:37]  I felt like it was a rapid-fire information delivery.
+[00:04:37 -> 00:04:40]  It was just so difficult to watch and listen to.
+[00:04:40 -> 00:04:41]  I was exhausted.
+[00:04:41 -> 00:04:44]  And the presenter looked pretty exhausted, also.
+[00:04:45 -> 00:04:48]  So let's slow down and sort of clarify
+[00:04:48 -> 00:04:50]  and breathe a little bit.
+[00:04:50 -> 00:04:52]  So this is what I would recommend.
+[00:04:52 -> 00:04:54]  I would start with an outline.
+[00:04:54 -> 00:04:57]  Whether you want to end up with a full script or not,
+[00:04:57 -> 00:04:59]  it doesn't matter, start with an outline.
+[00:04:59 -> 00:05:04]  And step two is to read the outline and record it.
+[00:05:04 -> 00:05:07]  So think about how you would present this to a class.
+[00:05:07 -> 00:05:09]  If you're an experienced educator, this part is easy.
+[00:05:09 -> 00:05:11]  If you're new, it's going to take some time.
+[00:05:12 -> 00:05:13]  What language would you use?
+[00:05:13 -> 00:05:15]  And how would you engage with them?
+[00:05:15 -> 00:05:18]  Like, when would you stop and ask questions?
+[00:05:18 -> 00:05:22]  And I would suggest that you do that, even though it is a video.
+[00:05:22 -> 00:05:25]  Next, if you want a script, I would write the script based
+[00:05:25 -> 00:05:27]  on the recording that you made.
+[00:05:27 -> 00:05:30]  And there are a lot of apps that can help you to do this.
+[00:05:30 -> 00:05:32]  I use Descript.
+[00:05:32 -> 00:05:34]  I am a huge Descript fan.
+[00:05:34 -> 00:05:39]  Descript is an amazing video editor and transcribing tool.
+[00:05:39 -> 00:05:42]  This is how I make all of my own closed captions
+[00:05:42 -> 00:05:44]  and transcript files very, very easily.
+[00:05:44 -> 00:05:45]  There is a link in the description.
+[00:05:45 -> 00:05:48]  I'm an affiliate with Descript, and I just love them.
+[00:05:48 -> 00:05:49]  But this video is not sponsored.
+[00:05:49 -> 00:05:51]  But in any case, however you do it,
+[00:05:51 -> 00:05:55]  use the recording to build the script.
+[00:05:55 -> 00:05:59]  And step four is to record your video.
+[00:05:59 -> 00:06:04]  Remember to smile, gesture naturally, relax, and breathe.
+[00:06:04 -> 00:06:07]  And when I did that, based on the content I showed you earlier,
+[00:06:07 -> 00:06:08]  this is what I got.
+[00:06:09 -> 00:06:11]  So in this video, we're going to be talking about the differences
+[00:06:11 -> 00:06:14]  between the somatic and the autonomic nervous systems.
+[00:06:15 -> 00:06:18]  The somatic system refers to skeletal muscle.
+[00:06:18 -> 00:06:21]  And this is under voluntary control.
+[00:06:21 -> 00:06:24]  So if I tell you to contract your biceps, break your eye,
+[00:06:25 -> 00:06:26]  you can do that.
+[00:06:26 -> 00:06:27]  That's the somatic division.
+[00:06:27 -> 00:06:31]  I really just wanted you to hear the difference in the feel, right?
+[00:06:31 -> 00:06:33]  The content is the same in both cases.
+[00:06:34 -> 00:06:37]  But here, it really feels like I'm speaking to you
+[00:06:37 -> 00:06:40]  as I would speak if we were face to face.
+[00:06:40 -> 00:06:42]  And that's really what you're going for in a video, right?
+[00:06:42 -> 00:06:46]  It's supposed to be more human and more engaging than a textbook.
+[00:06:46 -> 00:06:48]  As always, I hope that was helpful.
+[00:06:48 -> 00:06:51]  For more videos like this, check out my Ed Tech playlist.
+[00:06:51 -> 00:06:52]  And I'll see you in the next one.
+[00:06:53 -> 00:06:53]  Bye-bye.

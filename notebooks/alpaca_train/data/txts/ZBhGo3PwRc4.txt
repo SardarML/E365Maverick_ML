@@ -1,0 +1,264 @@
+[00:00:00 -> 00:00:11]  Welcome back to the bunker. Today I work on some gears. I have to modify some gears. These
+[00:00:11 -> 00:00:18]  are already modified and I have to cut two new gears. So we start by modifying these
+[00:00:18 -> 00:00:26]  two gears. The gears themselves already were commercially bought, readily hopped gears,
+[00:00:26 -> 00:00:31]  but they have to be modified. They had to be bored out and later we will drill a bolt
+[00:00:31 -> 00:00:38]  hole circle. And we need to cut this gear from scratch out of 42 chromoly 4, a preheat
+[00:00:38 -> 00:00:49]  treated steel. 4140 HT in the ANSI world. And I already did a test part in Delrin because
+[00:00:49 -> 00:01:01]  that was the material I had at hand. And I just wanted to see if a 9, there is a minimum
+[00:01:01 -> 00:01:09]  number of teeth that a gear can have. And 9 is definitely very, very close to that number.
+[00:01:09 -> 00:01:16]  The gear cutter I use is a number one cutter. I will talk about that later. And that usually
+[00:01:16 -> 00:01:25]  does only a 12 or 13 teeth gear, not a nine. But this is for a prototype and has to be good
+[00:01:25 -> 00:01:35]  enough. So it seems to mesh, it meshes nicely, it rolls, rolls off the other gear nicely. The
+[00:01:35 -> 00:01:43]  profile will not be ideal. So let's start at the beginning. First we look at these gears in an
+[00:01:43 -> 00:01:53]  un-machined state. Modifying a commercially bought gear. These are soft, soft steel gears,
+[00:01:53 -> 00:02:01]  hopped gears from a supplier. And it's always a good idea with externally sourced gears to check
+[00:02:01 -> 00:02:11]  if the pitch circle diameter runs true to the feature that you're about to machine. In this
+[00:02:11 -> 00:02:17]  case, I want to use the center bore as a reference for indicating on the lathe. So I put a 12
+[00:02:17 -> 00:02:24]  millimeter dowel pin in here. That's a very close fit, almost a press fit. Rested it on two V blocks
+[00:02:24 -> 00:02:35]  and I take a four millimeter dowel pin, which hits on the flanks of the gear teeth. And I'm
+[00:02:35 -> 00:02:44]  using an indicator in my height gauge to check the run out. I zero the indicator out on top
+[00:02:44 -> 00:02:58]  dead center of the pin in one position like this. And I mark the spot as zero. And I spin it about,
+[00:02:58 -> 00:03:13]  let's go for 90 degrees. Go 90 degrees, replace, reseat the pin. And do the same thing again. And
+[00:03:13 -> 00:03:24]  this is also zero. So, so far it looks quite promising. I had cases where on commercially
+[00:03:24 -> 00:03:34]  sourced gears, the pitch circle diameter was not running true to the bore. Those cases you have to
+[00:03:34 -> 00:03:48]  be very careful and indicate or hold the gear on the pitch circle diameter. Okay, this is this is
+[00:03:48 -> 00:04:15]  minus 10, means 10 microns. And last one. This is minus 15. So we have a total indicator reading
+[00:04:15 -> 00:04:25]  of 15 microns, zero to minus 15. That gives us an overall eccentricity of about seven microns.
+[00:04:25 -> 00:04:34]  And that that's pretty decent. For further application this gear is going on. That's way
+[00:04:34 -> 00:04:42]  good enough. Here we can see the pin hitting on the flanks of the gear of the space between the
+[00:04:42 -> 00:05:03]  gear teeth and indicator tip riding over the over the pin. When we look closely at this gear, we
+[00:05:03 -> 00:05:17]  notice and we have tool marks in here on the teeth, on the sides of the teeth, but also on the top on
+[00:05:17 -> 00:05:26]  the crown of the teeth. That means these gears were cut with a cutter that forms not only the the
+[00:05:26 -> 00:05:35]  tooth gap in between and the tooth itself, but also the OD of the cutter in one pass. Like a full
+[00:05:35 -> 00:05:46]  profile threading insert that also cuts the diameter of the thread. That means the OD of this gear should
+[00:05:46 -> 00:06:04]  run true to the pitch circle. Let's check this. Yeah, and now it goes slightly into minus matching
+[00:06:04 -> 00:06:15]  my reading on the pitch circle diameter. So that's a that's a pretty darn good gear for. These are
+[00:06:15 -> 00:06:28]  very reasonable priced hopped gears. No high precision gears. In some cases you will see gears
+[00:06:28 -> 00:06:36]  that are only machined that are only hopped or form cut on the gear teeth itself inside here.
+[00:06:37 -> 00:06:46]  The crown of the teeth, the top, has still tool marks from turning them. Then usually,
+[00:06:46 -> 00:06:56]  depending on how good the part was indicated, the OD does not run true to the pitch circle. So
+[00:06:56 -> 00:07:03]  careful there. We could take this gear now in soft jaws and just hold it on the OD and that would be
+[00:07:03 -> 00:07:13]  perfectly fine and run true to the pitch circle diameter and true to the bore. So that that's
+[00:07:13 -> 00:07:21]  quite nice. But I want to hold this gear down here on this diameter and the sixth jaw. So let's bring
+[00:07:21 -> 00:07:28]  indicator down and check this too. And that's a case where we have to be really really careful.
+[00:07:28 -> 00:07:35]  We can hold it on this diameter but we cannot indicate on here because this does not run true
+[00:07:35 -> 00:07:43]  to the bore, the OD of the gears or the pitch circle. So we're going to hold it on here and
+[00:07:43 -> 00:07:49]  indicate either a dowel pin in the bore or just the OD of the gear. In this case I think I will
+[00:07:49 -> 00:08:00]  go for the OD of the gear. This is like almost 50 microns, 40 to 50 micron. That's a little bit
+[00:08:00 -> 00:08:08]  much. I'm not going to do it like that. I indicated the gear on the OD of the teeth using the set
+[00:08:08 -> 00:08:17]  through of the sixth jaw chuck. And when I jump from teeth to teeth I'm within the 10 micron
+[00:08:18 -> 00:08:25]  range that I had on the surface plate too. Not looking too bad. Now we'll just do a last double
+[00:08:25 -> 00:08:36]  check with a pin in here. There we go. Top that center. Zero. Turn it by 90 degrees roughly.
+[00:08:36 -> 00:08:44]  Indicate again 10 micron plus 90 degrees.
+[00:08:48 -> 00:08:50]  Slightly below zero.
+[00:08:50 -> 00:09:09]  And again about 10 micron. So I can be relatively safe now that this gear is
+[00:09:09 -> 00:09:16]  running as true as it gets given the inherent tolerance that's already built into the gear.
+[00:09:20 -> 00:09:34]  Double-check my thickness here.
+[00:09:34 -> 00:09:50]  About 20 micron below nominal. That's perfectly fine. Now we need to get a boring bar in here.
+[00:09:50 -> 00:09:58]  So we have a nice 12 millimeter CCMT boring bar here.
+[00:10:06 -> 00:10:11]  It's a little bit large for a 12 millimeter starting hole. So I'm pulling the tool a little
+[00:10:11 -> 00:10:17]  bit above center so I can take a first roughing pass and widen the bore to get the boring bar in.
+[00:10:21 -> 00:10:40]  Okay. I hand feed the first roughing pass to get an idea of how the tool behaves.
+[00:10:41 -> 00:10:47]  Now I can drop it down to its normal center height. I'm running through tool air here.
+[00:10:47 -> 00:10:57]  This is a small ball valve with a 2.7 millimeter air coupler and I threaded my boring bar in the
+[00:10:57 -> 00:11:05]  backside also for a 2.7 millimeter air hose fitting or air coupler fitting and I can just
+[00:11:05 -> 00:11:13]  hook this up. Turn this on and I have air through the tool. The boring bar is already pre-drilled
+[00:11:13 -> 00:11:21]  all the way through and has a channel opening here directly blasting at the insert. Normally
+[00:11:21 -> 00:11:28]  this is used for coolant but especially on steel dry cutting with compressed air to get rid of the
+[00:11:28 -> 00:11:38]  chips works helps a lot. At first I set this up. I saw this in a friend's shop. He has a wonderful
+[00:11:38 -> 00:11:50]  shoveling 102NVM lathe and he has the same setup and I thought it's quite nifty so I copied it for
+[00:11:50 -> 00:11:58]  myself. That's very helpful. I think we can power feed it now and also increase the speed. Let's see
+[00:11:58 -> 00:12:06]  this is about 15 millimeters. So we want to run about 150 surface meters and we have a diameter
+[00:12:06 -> 00:12:14]  of 15 millimeters so we have a speed of 3,000 rpm. That's a little bit much. This lathe does
+[00:12:14 -> 00:12:22]  only go to 2,000 so we go to 1,800 because I don't want to spin it that fast with this part here.
+[00:12:22 -> 00:12:40]  Okay that works exceptionally well. The chips get blasted right through the spindle bore out
+[00:12:40 -> 00:12:46]  the other end and hitting my milling machine. It seems like I can take a depth of cut of one
+[00:12:46 -> 00:12:51]  millimeter with this boring bar in the current speeds and feeds without having the lathe explode.
+[00:12:52 -> 00:13:10]  So I'm not going to use this flimsy boring bar for final cutting. I'm going to use this
+[00:13:11 -> 00:13:15]  20 millimeter DCMT boring bar in a large heavy-duty boring bar holder that I made
+[00:13:15 -> 00:13:22]  recently. The boring bar, not the boring bar holder. That's a commercial one.
+[00:13:45 -> 00:14:15]  So you saw that I went to quite a bit of trouble to make sure that
+[00:14:15 -> 00:14:22]  the pitch circle of these gears runs true to the bore that I put into the parts.
+[00:14:23 -> 00:14:31]  I'm quite happy about the finish. These are C45 steel which is a 0.45 percent low alloy carbon
+[00:14:31 -> 00:14:37]  steel or a plain carbon steel. I have these two done. I only need some drilling but we will do
+[00:14:37 -> 00:14:43]  that later. Now we have to talk about this thing here. This is going to be the small pinion for
+[00:14:43 -> 00:14:50]  these large gears and I'm not too happy about cutting a nine teeth gear but that's what we have
+[00:14:50 -> 00:14:58]  to do. This is the the 3d model the customer supplied. I pulled the drawing off the 3d model.
+[00:15:00 -> 00:15:08]  I also pulled out all the important drawings and we'll go over to the milling machine because I
+[00:15:08 -> 00:15:16]  already prepared the blank on the lathe out of 4042 chromo 4. Here is the setup.
+[00:15:16 -> 00:15:23]  Walter UTA 80 dividing head held in the vice. I have the original Walter small diameter 3d
+[00:15:23 -> 00:15:30]  jaw chuck on here. It runs reasonably true. It runs really decent with some tweaking.
+[00:15:30 -> 00:15:37]  Runout out here is basically zero and this is the blank I prepared. We're going to cut both gears at
+[00:15:37 -> 00:15:48]  once back to back. One gear here and one gear here. I machined this section here with a part off blade
+[00:15:50 -> 00:15:55]  and that means that we have to cut only one gear. Then we put this back in the lathe,
+[00:15:55 -> 00:16:02]  indicate it true and then part it off in the center. Then we grab it on this short section here
+[00:16:03 -> 00:16:09]  and bore them. At the very end we have to even put a key slot in them.
+[00:16:09 -> 00:16:16]  So these are fairly integrated parts. This is the module two number one gear cutter
+[00:16:20 -> 00:16:25]  out of soviet production as I learned recently. Not even high speed steel,
+[00:16:25 -> 00:16:29]  this is just tool steel so we have to be reasonably careful not to burn it up.
+[00:16:29 -> 00:16:37]  I regrind this. The last video I did or one of the last videos I did is showing how to regrind a
+[00:16:38 -> 00:16:44]  relief turret gear cutter. How do we get the cutter on center line? Well that's not too
+[00:16:44 -> 00:16:56]  complicated. We drop it onto a known diameter like this small diameter here. We touch off on here
+[00:16:56 -> 00:17:03]  very lightly and we zero out the DRO.
+[00:17:07 -> 00:17:13]  I mic'd this cutter. It's eight millimeters thick so we drop down four millimeters. That's
+[00:17:13 -> 00:17:18]  half the thickness of the cutter and then we drop down half this diameter.
+[00:17:18 -> 00:17:29]  This is 12.9 so we drop down 6.45 and now we're on center line. Assuming that the profile on the
+[00:17:29 -> 00:17:35]  cutter is ground center to its thickness but at some point I have to take assumption and when I
+[00:17:35 -> 00:17:44]  line up the one of the tips of the cutter with the with the face with the central knob of the face
+[00:17:44 -> 00:17:52]  turned part it lines up very close so that's good that's our that's our depth that we're going.
+[00:17:53 -> 00:18:00]  We're going to conventional mill means cutter goes in this direction and spins
+[00:18:01 -> 00:18:09]  as usual. I don't dare to do a climb cut with such a large profile cutter. That's a lot of
+[00:18:09 -> 00:18:16]  resist the cut force and we'll probably end up in a crash so we're not going to do that.
+[00:18:17 -> 00:18:26]  We want nine teeth and our indexing head is 40 to 1 so we put 40 up here divided by 9.
+[00:18:26 -> 00:18:33]  We don't have a that's basically 40 holes on a nine hole index plate. We don't have a nine
+[00:18:33 -> 00:18:46]  hole index plate so let's multiply this by two and it's 80 18 so 80 holes on an 18 hole bolt
+[00:18:47 -> 00:19:00]  hole plate. I don't have that either but I have a 27 so 9 times 3 is 27 and 40 times 3 is 120.
+[00:19:00 -> 00:19:14]  So we have to go 120 holes on a 27 hole index plate. 27 fits into 120 four times and gives us
+[00:19:15 -> 00:19:25]  108. The rest 120 minus 108 is 12. So we go four full full rotations on the hand crank
+[00:19:26 -> 00:19:31]  and 12 holes on a 27 hole index plate. Easy, huh?
+[00:19:34 -> 00:19:44]  Okay to get our angular division we have to do four full revolutions one two three four
+[00:19:45 -> 00:19:55]  and then one two three four five six seven eight nine ten eleven twelve down here.
+[00:19:57 -> 00:20:01]  And as you can see I already set the sector arms so I don't have to do the
+[00:20:02 -> 00:20:09]  all the the hole counting all the time. I go to the last hole before I hit the sector arm.
+[00:20:09 -> 00:20:15]  That's my position. And then do not forget to move the sector arms up against the index pin
+[00:20:15 -> 00:20:35]  again. Just spin it over and then you can start again. One two three four and 12 holes.
+[00:20:39 -> 00:20:49]  So
+[00:21:09 -> 00:21:15]  so
+[00:21:27 -> 00:21:32]  okay that was quite a lot of milling especially as this is the second part I made.
+[00:21:33 -> 00:21:41]  That's right I messed one up. Here's the first one and usually when you mess up an indexing job
+[00:21:41 -> 00:21:49]  it's because you actually messed up the indexing itself. You miscounted, you skipped a turn on the
+[00:21:49 -> 00:21:53]  hand crank or something like that. But in this case it was something really stupid.
+[00:21:54 -> 00:22:00]  The lock of the quill was not tightened properly and the quill creeped up
+[00:22:03 -> 00:22:11]  about one millimeter during one of the passes. And when you measure the thickness of the teeth
+[00:22:11 -> 00:22:18]  there is a difference of quite a lot like two point point two millimeters from tooth to tooth.
+[00:22:18 -> 00:22:28]  So I noticed that, took the part out, goes in the shelf of shame, machined a new one,
+[00:22:30 -> 00:22:36]  still had the lathe and all the tooling set up luckily. So that went quite fast.
+[00:22:37 -> 00:22:45]  Then I recut all the teeth and this time my quill stayed in place. So this is pre-treated material
+[00:22:45 -> 00:22:55]  um comes at about something like 1300 newtons per square millimeter of cross section tensile
+[00:22:55 -> 00:23:02]  strength and it's relatively tough. It's tough material and it's quite hard to,
+[00:23:02 -> 00:23:08]  quite hard with a large form cutter on this lightweight machine to get it done.
+[00:23:08 -> 00:23:14]  But uh and and when you when you watch the footage of milling the the teeth you can see
+[00:23:14 -> 00:23:21]  quite a bit of movement in the mill. That's mainly the column, the vertical column twisting in itself.
+[00:23:23 -> 00:23:31]  The the indexing head itself is is rock solid. It has a large tapered plain bearing in front
+[00:23:32 -> 00:23:37]  and when you lock it the the bearing gets pulled into the taper seat and
+[00:23:37 -> 00:23:43]  locks locks the spindle solid. So the indexing head is not a weak point in this case.
+[00:23:44 -> 00:23:53]  Now we check the depth of our teeth. I already adjusted it and we do that by inserting a pin
+[00:23:53 -> 00:23:58]  in here and we measure against the diameter the outer diameter of the gear.
+[00:23:59 -> 00:24:07]  And I know from the CAD drawing that the height from the OD of the gear
+[00:24:07 -> 00:24:11]  to the top of the pin should be about 1.1 millimeters.
+[00:24:12 -> 00:24:25]  So the OD of the gear is 22 millimeters and we read 23.11314 here on the micrometer. So 23.14
+[00:24:26 -> 00:24:37]  minus 22 is 1.14. And when we look at the drawing I inserted a pin here, a circle that
+[00:24:37 -> 00:24:45]  resembles a four millimeter dowel pin or gauge pin. And I dimensioned off the top of the pin
+[00:24:46 -> 00:24:51]  which is 12.14 millimeters. That's the way this gear was modeled and I put the pin in.
+[00:24:52 -> 00:24:58]  And it's easy to measure because this gear has an uneven number of teeth so I can measure from
+[00:24:58 -> 00:25:06]  top dead center pin against the center of the pin. So I measure from the center of the pin
+[00:25:06 -> 00:25:11]  to the center of the pin. And I measure from the center of the pin to the center of the pin.
+[00:25:11 -> 00:25:18]  So I can measure from top dead center pin against the OD of the gear. And the difference
+[00:25:18 -> 00:25:24]  between the OD and the top dead center is 1.14 and that's what we measured. So
+[00:25:26 -> 00:25:33]  hit my dimensions quite okay. If the gear had an even number I couldn't measure against the OD
+[00:25:33 -> 00:25:41]  on the other side of the pin. I would need two pins and measure from pin to pin. I cut off the
+[00:25:41 -> 00:25:49]  gear from its stock. Now I'm holding in a 22 millimeter collet which is the OD of the gear.
+[00:25:50 -> 00:25:59]  In this case as I machined the OD of the blank and I indicated it true and I know that it ran
+[00:25:59 -> 00:26:05]  true when I cut the gears I can use the OD of the gear to hold on to it and know that I'm running
+[00:26:05 -> 00:26:12]  true. So I'm using part of tool two millimeter wide inserted parting tool
+[00:26:13 -> 00:26:16]  to split the gear in two separate pinions now.
+[00:26:17 -> 00:26:33]  And this starts obviously out as a heavy interrupted cut.
+[00:26:36 -> 00:26:45]  So
+[00:26:55 -> 00:26:58]  okay parted off almost completely. I don't want to
+[00:26:58 -> 00:27:07]  have the gear drop free and roll all over the place. So I'll leave usually a small
+[00:27:08 -> 00:27:14]  rest of material and just break it off. Almost last step is to cut a three millimeter keyway
+[00:27:14 -> 00:27:20]  in here. I have a three millimeter slotting tool in the quill of the machine and the spindle.
+[00:27:21 -> 00:27:27]  It's aligned and in the x direction so it's cutting correctly.
+[00:27:29 -> 00:27:33]  I already did the first one so I'm already centered over my part.
+[00:27:35 -> 00:27:42]  And now it's just a matter of stepping over, taking a cut, stepping over. You have seen me
+[00:27:42 -> 00:27:48]  doing this numerous times. I'm stepping over about 50 micron per pass.
+[00:27:49 -> 00:27:54]  And you might notice that I did not lock the spindle against rotation.
+[00:27:55 -> 00:28:00]  And the simple reason why is because in this case absolutely not necessary.
+[00:28:00 -> 00:28:09]  This tool cuts on center it's square and there is no force in the cut that tends to turn the tool.
+[00:28:09 -> 00:28:18]  There is no rotational component in this cut. So you align it and then you just leave it alone.
+[00:28:30 -> 00:28:36]  And now I'm not worried about wearing out the quill, the quill bore of the mill.
+[00:28:37 -> 00:28:42]  The cutting forces with this process are very light. The tool is ground so the
+[00:28:43 -> 00:28:51]  axial force comes in very close to the center line of the quill. It's only a very very light cut.
+[00:28:52 -> 00:28:59]  And running a large fly cutter with a very long extended quill on
+[00:28:59 -> 00:29:02]  something like a bridge port is probably way worse for the machine than this.
+[00:29:06 -> 00:29:23]  So I zeroed out the dial caliper, the digital caliper on the bore diameter. So it's
+[00:29:24 -> 00:29:32]  zero at its diameter and I know the height of the key slot from my CAD model that I got. So
+[00:29:33 -> 00:29:37]  I can measure it like this.
+[00:29:39 -> 00:29:48]  And it should be 0.6 millimeters and we got 0.63. So we're good. And there we go.
+[00:29:49 -> 00:29:57]  Two gears with three millimeter very shallow key slots. Don't comment on the design. It's
+[00:29:57 -> 00:30:05]  customer design. I know the background behind this design and there are very strict
+[00:30:06 -> 00:30:15]  size and room and distance between the shaft restrictions. And we couldn't figure out a
+[00:30:15 -> 00:30:20]  better way than this. This has to do with the prototype so we're going with it.
+[00:30:21 -> 00:30:31]  A 9 teeth module 2 gear is not the ideal solution but it's all we can do right now. So we're trying
+[00:30:31 -> 00:30:43]  this. And you get some gear cutting and machining footage. So it's a win-win-win-win I guess.
+[00:30:43 -> 00:30:51]  Win I guess. Okay here is the slotting tool. I ground it to three millimeter width in front here
+[00:30:51 -> 00:31:00]  then I relieved all this material here just by in the thickness. So in front here it's
+[00:31:01 -> 00:31:08]  at three millimeter. That's that's the cutting end and the relief jank is only 2.4.
+[00:31:09 -> 00:31:15]  This surface here is a little bit tapered to the back. Here it's three millimeter and back here
+[00:31:15 -> 00:31:22]  it's less. I put about half a degree of back taper on here and back here it's only 2.8
+[00:31:23 -> 00:31:26]  and in front as I mentioned it's three millimeters.
+[00:31:29 -> 00:31:35]  A little bit of positive rake here so it's cutting. So it's cutting a little bit softer.
+[00:31:35 -> 00:31:40]  Don't make this angle too big otherwise the tool will tend to dig into the work.
+[00:31:41 -> 00:31:47]  This is about three or four degrees. And here a little bit of clearance angle so it doesn't
+[00:31:47 -> 00:31:55]  rub when it goes down like this. One, two, three degrees. That's fine. As usual when I do slotting
+[00:31:55 -> 00:32:02]  I put a shaft collar on here so the tool doesn't doesn't get pushed up into the spindle of the mill
+[00:32:02 -> 00:32:08]  or into the collar. So while we're here we can look at some of my slotting tools that I ground
+[00:32:08 -> 00:32:16]  in the recent time. This is a very narrow slotting tool. This is a 1.7 millimeter slot
+[00:32:16 -> 00:32:21]  and I use this just to cut a clamping slot.
+[00:32:24 -> 00:32:31]  So this is my vice stop and I use this slotting tool here to cut this blind slot here which goes
+[00:32:31 -> 00:32:39]  from here to here and doesn't that exit so it's not a band sawable or a circular sawable slit.
+[00:32:43 -> 00:32:49]  A little more elegant than an open-ended slot for a clamping situation and there's just a
+[00:32:49 -> 00:32:57]  pinch screw that pulls it together and holds my my vice stop together. Looks kind of clean.
+[00:32:58 -> 00:33:05]  A 60 degree slotting tool with a one millimeter land. This one was for a spline drive. I did a video on that.
+[00:33:06 -> 00:33:15]  60 degree with a 0.2 millimeter land on here. This was used to cut the spline drive
+[00:33:15 -> 00:33:18]  sockets quite some time ago.
+[00:33:19 -> 00:33:28]  A large five millimeter keyway tool. So this last slotting tool, this is probably the coolest.
+[00:33:28 -> 00:33:35]  This is a carbide shank, solid carbide, all the way up to here and you can see
+[00:33:35 -> 00:33:42]  the braze joint, the silver solder joint and I have a piece of high-speed steel cobalt 10
+[00:33:43 -> 00:33:49]  silver soldered onto the end of the shank and ground into shape. It has the same
+[00:33:50 -> 00:33:57]  small cutting angle, relief angles in all directions but it has a solid carbide shank
+[00:33:57 -> 00:34:05]  which is three times stiffer than a steel shank and I needed this because I was slotting all the
+[00:34:05 -> 00:34:13]  way, this whole length in steel, five millimeter wide. That five millimeter width is probably
+[00:34:14 -> 00:34:22]  almost the limit what I'm comfortable to do on this mill in one pass and otherwise I would use
+[00:34:22 -> 00:34:28]  a three millimeter slotting tool first and then take the tool out and put in, for example,
+[00:34:28 -> 00:34:35]  an eight millimeter tool. So it reduces the cutting forces. What works pretty bad
+[00:34:35 -> 00:34:44]  is stepping over with a slotting tool. That's bad. These tools are very stiff in this direction
+[00:34:44 -> 00:34:51]  because it's a very large cross-section here but in this direction, side to side,
+[00:34:51 -> 00:34:55]  they're very weak because very thin cross-section.
+[00:34:58 -> 00:35:02]  So stepping over to the side usually ends with a very shitty,
+[00:35:03 -> 00:35:11]  with a very bad keyway, bell mouths on the start and just not a good job.
+[00:35:11 -> 00:35:21]  Better use increasingly larger slotting tools. So that's slotting tools and I keep them around
+[00:35:21 -> 00:35:29]  when I'm finished with them. So, for the next job.
+[00:35:52 -> 00:35:57]  So
+[00:36:09 -> 00:36:16]  while I deburred the holes in the gear, I thought I could do a little bit of content on
+[00:36:17 -> 00:36:24]  countersinks. I have four types of countersinks here. These are the common ones that I tend to
+[00:36:24 -> 00:36:34]  use. These are the single flute with the cross hole. These are really only good for light deburring.
+[00:36:35 -> 00:36:40]  They are not for doing a proper countersink in my mind. They work exceptionally well in a
+[00:36:40 -> 00:36:49]  cordless drill. I don't like them on a machine tool very much. I just don't like them too much.
+[00:36:51 -> 00:36:56]  Standard three flute countersink. That's what a lot of people are familiar with.
+[00:36:57 -> 00:37:05]  Evenly spaced three flutes, high speed steel, work very well. You run them relatively slow
+[00:37:05 -> 00:37:11]  and you feed them relatively hard and they will leave a very nice countersink, usually.
+[00:37:14 -> 00:37:20]  They can be troublesome. Sometimes you have just a situation, a setup that is not cooperative.
+[00:37:20 -> 00:37:28]  You get chatter or out of round countersink stuff like that can happen. Takes a little bit of
+[00:37:29 -> 00:37:38]  practice and feeling for these things. Next step up is basically the same but with
+[00:37:39 -> 00:37:46]  unevenly spaced flutes. These have a tendency of almost never chattering.
+[00:37:49 -> 00:37:55]  Very expensive though. Coded. I bought this years ago and it's still perfectly sharp.
+[00:37:55 -> 00:38:00]  When you look at the coding on a microscope it's still fine.
+[00:38:02 -> 00:38:06]  Worth its money. And then the coolest one is probably this one here.
+[00:38:07 -> 00:38:11]  So this is a normal, this is a three fluter too.
+[00:38:13 -> 00:38:19]  But it has spiral flutes. Goring makes these. Goring Spiral.
+[00:38:20 -> 00:38:30]  They are called. They are not cheap. I will say that. But they are not that expensive that you
+[00:38:30 -> 00:38:37]  might think. So these are really cool. They cut very free. The flutes are uneven spaced. When you
+[00:38:37 -> 00:38:43]  look at the size of the flutes they are not the same all the way around. And due to the
+[00:38:43 -> 00:38:51]  spiral geometry they cut so soft. Very little cutting pressure needed. Even in something like
+[00:38:51 -> 00:39:01]  a 303 stainless or even a 316 stainless. If you run it at a slow speed it will not chatter. You
+[00:39:01 -> 00:39:06]  give it a little bit of pressure and it will just cut through. Nice countersink. These are brilliant.
+[00:39:06 -> 00:39:16]  So that's my five cents on countersinks. It's basically like this. Okayish. Okay. Very okay.
+[00:39:18 -> 00:39:24]  Super okay. Something like that. These are really cool. Okay. Got the parts finished.
+[00:39:27 -> 00:39:31]  Large gears have been machined and drilled. Machined and bored out and drilled.
+[00:39:31 -> 00:39:41]  And the small ones machined completely from scratch. As per request of the customer we added
+[00:39:41 -> 00:39:49]  an M3 set screw thread for a set screw. Opposing side of the keyway. We will see how these hold up.
+[00:39:49 -> 00:39:58]  So at least they run quite okayish on each other. The geometry on these is probably completely off
+[00:39:58 -> 00:40:04]  now as we went with a way smaller tooth count than the cutter is actually designed for. But
+[00:40:04 -> 00:40:12]  for a test part it probably will work out fine. So hope you enjoyed. Thank you all for watching.
+[00:40:12 -> 00:40:17]  And I'll be back.

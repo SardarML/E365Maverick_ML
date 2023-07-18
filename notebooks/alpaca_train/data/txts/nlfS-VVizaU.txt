@@ -1,0 +1,6 @@
+[00:00:00 -> 00:00:06]  die Angst
+[00:00:09 -> 00:00:17]  die Appetitlosigkeit
+[00:00:20 -> 00:00:27]  die Augenschmerzen
+[00:00:30 -> 00:00:37]  die Atemnot
+[00:00:40 -> 00:00:47]  die Bauchschmerzen
+[00:00:50 -> 00:00:57]  die Blasenschwäche

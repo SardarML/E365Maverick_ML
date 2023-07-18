@@ -1,0 +1,118 @@
+[00:00:00 -> 00:00:06]  Hi everybody, if you have been meaning to get to know Python, how to do data analysis
+[00:00:06 -> 00:00:10]  in Python, but you haven't started yet, this is the place for you.
+[00:00:10 -> 00:00:17]  So the next 10 or 15 minutes, we'll walk through from zero up to something anyway in this process.
+[00:00:17 -> 00:00:22]  So the assumption is, you know how you're going to use Python.
+[00:00:22 -> 00:00:26]  Maybe you have some experience in econometrics, maybe you're taking an econometrics class,
+[00:00:26 -> 00:00:28]  doing some data analysis.
+[00:00:28 -> 00:00:34]  Maybe you know how to do that in Excel, or R, or Stata, or SAS, but you haven't tried
+[00:00:34 -> 00:00:37]  Python yet, we're going to get to work on this.
+[00:00:37 -> 00:00:42]  So I'm assuming you're starting from absolutely nothing, right?
+[00:00:42 -> 00:00:47]  So what we're going to do is walk through installing Python, installing Anaconda, which
+[00:00:47 -> 00:00:54]  will give us over 200 packages commonly used in data analysis, as well as access to the
+[00:00:54 -> 00:00:59]  Jupyter Notebook interface, which is how we'll actually use Python.
+[00:00:59 -> 00:01:04]  Then we'll go grab some data and make a little plot using a few of those packages, just so
+[00:01:04 -> 00:01:09]  we can see what we can do here and get a little bit of a start.
+[00:01:09 -> 00:01:11]  So where do we want to be?
+[00:01:11 -> 00:01:15]  We want to be here at python.org, right?
+[00:01:15 -> 00:01:24]  So easy peasy, we go to downloads, choose your operating system.
+[00:01:24 -> 00:01:27]  It's a nice, easy, guided process to download it.
+[00:01:27 -> 00:01:34]  So walk through that, pause this video, timeout, and now you're back, you've downloaded Python.
+[00:01:34 -> 00:01:36]  We set that aside, we leave that alone.
+[00:01:36 -> 00:01:40]  Now we go to Anaconda, right?
+[00:01:40 -> 00:01:46]  So links in the description, but we'll now go to docs.anaconda.com slash Anaconda slash
+[00:01:46 -> 00:01:47]  install.
+[00:01:48 -> 00:01:56]  And again, pick your operating system of choice, walk through the guided installation process,
+[00:01:56 -> 00:02:02]  pause this video, timeout, now you're done, and we come back, and now what you should
+[00:02:02 -> 00:02:09]  have on your computer is install the Anaconda Navigator.
+[00:02:09 -> 00:02:14]  Let's get me out of the way here.
+[00:02:14 -> 00:02:17]  And this is going to make our lives really easy, right?
+[00:02:17 -> 00:02:25]  So as I mentioned, Anaconda has, it's basically a suite of packages specifically designed
+[00:02:25 -> 00:02:32]  for data analysis, and it also has access to all of this documentation and the so-called
+[00:02:32 -> 00:02:36]  Jupyter Notebook interface, right?
+[00:02:36 -> 00:02:41]  So you're going to want to kind of block out a weekend, right, to just explore what's available
+[00:02:41 -> 00:02:42]  here.
+[00:02:42 -> 00:02:47]  So if you click on environments, so this is a list of all of the packages that you should
+[00:02:47 -> 00:02:55]  now have installed, that's going to allow you to do any number of things, and the documentation
+[00:02:55 -> 00:02:57]  for most of that is going to be here.
+[00:02:57 -> 00:03:03]  So lots of training, lots of information that's going to get you moving.
+[00:03:03 -> 00:03:08]  The one thing I wanted to show you was here, the so-called Jupyter Notebook, right?
+[00:03:08 -> 00:03:15]  So if we click on launch, that's going to open up a new tab on your browser, and here
+[00:03:15 -> 00:03:16]  it is.
+[00:03:16 -> 00:03:20]  And like I said, this is going to be our interface with Python.
+[00:03:20 -> 00:03:22]  There's other ways of doing it.
+[00:03:22 -> 00:03:25]  This seems to be the easiest way.
+[00:03:25 -> 00:03:33]  So we can, if you want to, kind of choose a working directory to save your file that's
+[00:03:33 -> 00:03:39]  going to contain your code, so we can find where we want to do that.
+[00:03:39 -> 00:03:46]  And we're going to want to go here to the new tab and choose Python 3.
+[00:03:46 -> 00:03:52]  And here we have another new tab on our browser, and here is, as you can see, where we're going
+[00:03:52 -> 00:03:58]  to put, we're going to input and run our Python code.
+[00:03:58 -> 00:04:05]  So we are now ready to go.
+[00:04:05 -> 00:04:08]  And obviously, lots of different things we could do here.
+[00:04:08 -> 00:04:16]  So for our example here, we're going to get data from the Federal Reserve Economic Database.
+[00:04:16 -> 00:04:20]  But one of the nice things about Python, one of the real powerful tools it has, is the
+[00:04:20 -> 00:04:25]  ability to gather data from almost anywhere on the internet if you know how to do it.
+[00:04:25 -> 00:04:27]  So that's going to be something you're really going to want to explore.
+[00:04:27 -> 00:04:31]  Again, we'll just scratch the surface, as it were, here.
+[00:04:31 -> 00:04:36]  So most things that we're going to need to do here is going to require us to call up
+[00:04:36 -> 00:04:40]  or install a library or a package, right?
+[00:04:40 -> 00:04:45]  So the PIP command is going to be something we'll see quite a bit.
+[00:04:45 -> 00:04:47]  That's the Preferred Installer Program.
+[00:04:47 -> 00:04:58]  So we'll go PIP install pandas data reader.
+[00:04:58 -> 00:05:01]  And we can go ahead and click on Run here.
+[00:05:01 -> 00:05:05]  You'll note, again, your first time through this, if you hit Return, that just opens up
+[00:05:05 -> 00:05:06]  a new line.
+[00:05:06 -> 00:05:07]  It doesn't run the code.
+[00:05:07 -> 00:05:13]  But if you go Shift Return, that does run the code.
+[00:05:13 -> 00:05:19]  So here, now we have read in the pandas data reader program, if you will.
+[00:05:19 -> 00:05:20]  And now we can call it up.
+[00:05:20 -> 00:05:30]  So we'll go import pandas underscore data reader as PDR.
+[00:05:30 -> 00:05:39]  So we can just refer to it with that kind of shortcut.
+[00:05:39 -> 00:05:44]  And now we're going to say we're going to bring in some data.
+[00:05:44 -> 00:05:48]  And we can name this so-called data frame anything we want.
+[00:05:48 -> 00:05:51]  We'll call it data one equals PDR.
+[00:05:51 -> 00:05:56]  So that's calling up the pandas data reader.
+[00:05:56 -> 00:06:03]  And we'll use this option, get data read.
+[00:06:03 -> 00:06:07]  And if you're familiar with the Federal Reserve Economic Database, it has hundreds, if not
+[00:06:07 -> 00:06:16]  thousands, of primarily macroeconomic or financial time series data variables that each have
+[00:06:16 -> 00:06:17]  an individual code.
+[00:06:17 -> 00:06:20]  So if there's a specific variable you want to go grab, you're going to have to go to
+[00:06:20 -> 00:06:23]  the FRED website and find the code.
+[00:06:23 -> 00:06:28]  But let's just say, for example, we want the federal funds rate.
+[00:06:28 -> 00:06:33]  And this is a case-sensitive code.
+[00:06:33 -> 00:06:43]  So we'll go PDR.getdatafred parentheses, single quotes, fed funds.
+[00:06:43 -> 00:06:46]  And now we don't see it, but that data has been read in.
+[00:06:46 -> 00:06:55]  So we can go data one, so that's the name of the data frame that we just created, describe,
+[00:06:55 -> 00:06:59]  and then empty parentheses.
+[00:06:59 -> 00:07:04]  And what we should get is the basic summary statistics for our variable.
+[00:07:04 -> 00:07:09]  So the default is to go back roughly five years.
+[00:07:09 -> 00:07:14]  So we have 59 observations of monthly data.
+[00:07:14 -> 00:07:17]  And we get the mean, the standard deviation, the min, the max, et cetera.
+[00:07:17 -> 00:07:20]  And that's all fantastic, right?
+[00:07:20 -> 00:07:23]  So the last thing we'll do here is just to make a time series plot.
+[00:07:23 -> 00:07:27]  That's generally the first thing you're going to want to do with time series data is to
+[00:07:27 -> 00:07:29]  get that visualization.
+[00:07:29 -> 00:07:45]  So we're going to, again, import a package, and here it's going to be the matplotlibrary.pyplot.
+[00:07:45 -> 00:07:48]  And we'll import this as PLT.
+[00:07:48 -> 00:07:54]  So again, that's just something you could do to make it easier to refer to it.
+[00:07:54 -> 00:07:59]  And now there's lots of options that we could do here to make a nice, fancy kind of publication-ready
+[00:07:59 -> 00:08:01]  plot.
+[00:08:01 -> 00:08:04]  We just want to get ourselves started here, so we don't want to go crazy, so we'll do
+[00:08:04 -> 00:08:05]  something like this.
+[00:08:05 -> 00:08:11]  We'll go PLT.plot, and then in parentheses, we'll refer to our data frame, so we called
+[00:08:11 -> 00:08:15]  it data one.
+[00:08:15 -> 00:08:19]  And then in square brackets, the name of the variable.
+[00:08:19 -> 00:08:21]  We only downloaded one variable.
+[00:08:21 -> 00:08:25]  We'll look at kind of multivariate analysis soon enough.
+[00:08:25 -> 00:08:30]  So again, in our single quotes, we go Fed Funds.
+[00:08:30 -> 00:08:37]  So that creates kind of this basic plot, and there it is.
+[00:08:37 -> 00:08:44]  So we can go ahead and copy this, select it, copy it right into your document.
+[00:08:44 -> 00:08:45]  You're ready to go.
+[00:08:45 -> 00:08:48]  Obviously, we would want to add a lot to this.
+[00:08:48 -> 00:08:51]  But hey, now, if somebody asks you, have you ever used Python?
+[00:08:51 -> 00:08:52]  You can say, yes.
+[00:08:52 -> 00:08:53]  Yes, I have.
+[00:08:53 -> 00:08:57]  So much more to come on data analysis and econometrics.
+[00:08:57 -> 00:09:02]  In Python, we'll be kind of putting it side by side with R and Stata as we go along to
+[00:09:02 -> 00:09:08]  kind of compare the approaches and the output, but hopefully this was helpful, and we'll
+[00:09:08 -> 00:09:09]  see you next time.
+[00:09:09 -> 00:09:09]  Thanks.

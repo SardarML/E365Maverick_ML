@@ -1,0 +1,111 @@
+[00:00:00 -> 00:00:06]  Ne Handvoll Leute, noch nie zusammen was gemacht und die sollen jetzt ne komplexe Aufgabe lösen?
+[00:00:06 -> 00:00:12]  Na, die sind doch dann erstmal ne ganze Weile mehr mit sich selbst beschäftigt als mit der eigentlichen Aufgabe.
+[00:00:12 -> 00:00:17]  Wie im Fußball. Ein Team, das muss sich erst zusammenraufen.
+[00:00:17 -> 00:00:24]  Und um diesen Prozess des Zusammenfindens besser zu verstehen und idealerweise auch aktiv zu unterstützen,
+[00:00:24 -> 00:00:27]  da hilft das anschauliche Modell der Team-Urnacht Tuckman.
+[00:00:28 -> 00:00:30]  Bleiben Sie dran, gleich geht's los.
+[00:00:40 -> 00:00:42]  Hallo und willkommen zu Projekte leicht gemacht.
+[00:00:42 -> 00:00:45]  Heute geht's um die Team-Urnacht Bruce Tuckman.
+[00:00:45 -> 00:00:51]  Ein einfaches und super anschauliches Modell für die verschiedenen Phasen der Teambildung in Gruppen.
+[00:00:51 -> 00:00:55]  Wenn Abteilungen umgebaut oder neu aufgestellt werden.
+[00:00:55 -> 00:00:58]  Wenn temporäre Projektteams zusammengestellt werden.
+[00:00:58 -> 00:01:02]  Die haben zuvor noch nicht zusammengearbeitet.
+[00:01:02 -> 00:01:05]  Die müssen sich also als Team erst zusammenfinden.
+[00:01:05 -> 00:01:09]  Ja, das gilt selbst für die fünf Studenten, die ne WG gründen wollen.
+[00:01:09 -> 00:01:11]  Aber bleiben wir bei den Teams in der Arbeitswelt.
+[00:01:11 -> 00:01:18]  Neue Teams, das ist für den Chef, für den Projektleiter immer ne Herausforderung, klar.
+[00:01:18 -> 00:01:23]  Aber auch ne Chance. Ich mein, da gibt's oft keine emotionalen Altlasten.
+[00:01:23 -> 00:01:28]  Viel weniger störisches. Aber das haben wir schon immer so gemacht.
+[00:01:28 -> 00:01:32]  Denn das Wir in dem letzten Satz, das gibt's ja noch gar nicht.
+[00:01:32 -> 00:01:36]  Das neue Team, das muss sein Wir ja erst noch entdecken.
+[00:01:36 -> 00:01:38]  Und das geht nicht mal schnell an einem Tag.
+[00:01:38 -> 00:01:43]  Sondern das ist in der Regel ein längerer Prozess mit unterschiedlichen Phasen.
+[00:01:43 -> 00:01:48]  Und da wäre es doch gut zu wissen, in welcher Phase ihr Team gerade steckt, oder?
+[00:01:48 -> 00:01:54]  Dann wissen sie nämlich, was sie zu erwarten haben und wie sie es unterstützen können.
+[00:01:54 -> 00:01:59]  Jemand, der diesen Prozess schon in den 60er Jahren des letzten Jahrhunderts untersucht hat,
+[00:01:59 -> 00:02:03]  war der Psychologe und Wissenschaftler Bruce Tuckman.
+[00:02:03 -> 00:02:06]  Tuckman spricht damals von vier Phasen.
+[00:02:06 -> 00:02:10]  Forming, Storming, Norming und Performing.
+[00:02:10 -> 00:02:13]  So hat er die genannt. Erkläre ich gleich im Detail.
+[00:02:13 -> 00:02:19]  In den 70ern kam dann eine fünfte Phase hinzu, das Adjourning, die Auflösung des Teams.
+[00:02:19 -> 00:02:23]  In der Originalveröffentlichung gibt es übrigens keine einzige Abbildung.
+[00:02:23 -> 00:02:27]  Aber so richtig populär wurde das Modell später als Team Uhr.
+[00:02:27 -> 00:02:34]  Und in diesem Bild der Uhr, da wollen sie natürlich möglichst schnell und schmerzfrei zur Phase 4, dem Performing.
+[00:02:34 -> 00:02:40]  Denn da läuft's rund. Die Gruppe hat zusammengefunden und funktioniert. Sie performt.
+[00:02:40 -> 00:02:45]  So, bevor es dann um die einzelnen Phasen geht, kurz nochmal ein üblicher Hinweis.
+[00:02:45 -> 00:02:50]  Das Thema Teams behandeln wir natürlich auch in unserer ITTP-Projektmanagement-Ausbildung.
+[00:02:50 -> 00:02:56]  Komplett online, flexibel und nach IPMA-Standard. Spannende Sache. Schauen Sie einfach mal rein.
+[00:02:56 -> 00:02:59]  Aber weiter geht's jetzt mit den Phasen.
+[00:02:59 -> 00:03:03]  Die erste Phase, das Forming. Es wird geformt.
+[00:03:03 -> 00:03:08]  Das Team lernt sich kennen. Und zwar erstmal als vorsichtiges Herantasten.
+[00:03:08 -> 00:03:12]  Rollen und Ziele, die sind meist noch völlig unklar. Und die fachliche Leistung?
+[00:03:12 -> 00:03:16]  Naja, die ist erstmal eher niedrig.
+[00:03:16 -> 00:03:20]  Kein Wunder. Muss man doch erstmal rausfinden, wie die anderen so ticken im Team.
+[00:03:20 -> 00:03:23]  Wer was kann und so weiter.
+[00:03:23 -> 00:03:29]  Und der Teamleiter, Projektleiter oder Coach, der spielt hier eher die Rolle des Gastgebers.
+[00:03:29 -> 00:03:33]  Und der unterstützt den ersten Kennenlernprozess.
+[00:03:33 -> 00:03:38]  Dann, zweitens, Storming. Jetzt stürmt's.
+[00:03:38 -> 00:03:44]  Man kommt sich näher. Aber vielleicht bilden sich hier auch unterschwellige Konflikte.
+[00:03:44 -> 00:03:48]  Grüppchenbildung. Wer kann mit wem?
+[00:03:48 -> 00:03:55]  Und das Team, das merkt so langsam, hey, die Aufgabe vor uns, die ist vielleicht gar nicht so einfach.
+[00:03:55 -> 00:04:00]  Das Team, das ist in dieser Phase meist sehr problemorientiert.
+[00:04:01 -> 00:04:09]  Und deswegen ist der Teamleiter besonders gefragt. Und zwar gleichzeitig als Schlichter und auch als Antreiber.
+[00:04:09 -> 00:04:15]  Wichtig dabei, Konflikte nicht unter den Teppich kehren. Jeder muss zu Wort kommen können.
+[00:04:15 -> 00:04:22]  Und eine Warnung, auf keinen Fall von außen das Ruder an sich reißen.
+[00:04:22 -> 00:04:26]  Das Team, das bleibt sonst ewig in dieser Phase stecken,
+[00:04:26 -> 00:04:30]  die müssen ja lernen, selbst miteinander klarzukommen.
+[00:04:32 -> 00:04:36]  Drittens, Norming. Es bilden sich Gruppennormen.
+[00:04:36 -> 00:04:43]  Hier findet das Team endlich langsam zusammen. Meinungen werden offen ausgetauscht.
+[00:04:43 -> 00:04:50]  Klar, wenn das dumm läuft, dann kann das natürlich auch offene Konfrontation bedeuten.
+[00:04:50 -> 00:04:56]  Aber keine Angst, das Resultat, na, da werden die Rollen und Ziele klarer.
+[00:04:56 -> 00:05:00]  Spielregeln bilden sich heraus, Prozesse und Strukturen entstehen.
+[00:05:00 -> 00:05:04]  Zum Thema Teamrollen gibt es übrigens noch ein separates Video.
+[00:05:04 -> 00:05:10]  Also, man findet einen Weg, gemeinsam die Probleme und Aufgaben anzugehen.
+[00:05:10 -> 00:05:14]  Das Team wird endlich lösungsorientierter.
+[00:05:15 -> 00:05:22]  Und als Teamleiter, da sind sie eher der Moderator und begleiten das Team bei der Findung der eigenen Regeln.
+[00:05:22 -> 00:05:28]  Sie werden mehr und mehr zum Coach. Teamführung bedeutet mehr und mehr aufgabenorientierte Führung.
+[00:05:28 -> 00:05:33]  Sie sagen, was zu tun ist, statt immer genau, wie es zu tun ist.
+[00:05:33 -> 00:05:38]  Zugegeben, diese Phase kann schon eine ganze Weile dauern.
+[00:05:38 -> 00:05:42]  Aber am Ende, da wartet die große Belohnung.
+[00:05:43 -> 00:05:46]  Die vierte Phase. Performing.
+[00:05:46 -> 00:05:52]  Jetzt sind wir endlich da, wo wir hinwollen. Das Team ist leistungsfähig. Es performt.
+[00:05:52 -> 00:05:58]  Idealerweise muss der Teamleiter jetzt kaum noch eingreifen. So soll es sein.
+[00:05:58 -> 00:06:04]  Und dann kommt zum Schluss, wie gesagt, zumindest bei Teams auf Zeit, irgendwann die Auflösungsphase.
+[00:06:04 -> 00:06:07]  Adjourning, ja? Projektende.
+[00:06:08 -> 00:06:12]  So, glauben Sie mir. Es ist wirklich gut, diese Phasen zu kennen.
+[00:06:12 -> 00:06:15]  Denn dann wissen Sie, was auf Sie zukommt.
+[00:06:15 -> 00:06:19]  Ich meine, gerade die ersten drei Phasen, die haben es in sich.
+[00:06:19 -> 00:06:25]  Die können ganz schön anstrengend sein. Vor allem da sind Sie als Teamleiter gefragt.
+[00:06:25 -> 00:06:31]  Schauen Sie hin. Beobachten Sie. Geben Sie Hilfestellung.
+[00:06:31 -> 00:06:36]  Und stehen Sie doch bitte dem eigenen Team nicht im Weg.
+[00:06:36 -> 00:06:40]  Sie wollen ja schnell zum Performing, oder?
+[00:06:40 -> 00:06:44]  So, und jetzt fragt sich der ein oder andere sicherlich,
+[00:06:44 -> 00:06:48]  aber was ist denn nun mit diesen komischen Teambuilding-Veranstaltungen?
+[00:06:48 -> 00:06:51]  Sie wissen schon, lustige Spielchen und so.
+[00:06:51 -> 00:06:55]  Tja, wenn Sie da nicht nur albernen Krams machen und Kuchen essen,
+[00:06:55 -> 00:06:59]  sondern gemeinsam spielerische Probleme und Aufgaben lösen,
+[00:06:59 -> 00:07:05]  na dann kann das durchaus in diesem Teamformungsprozess helfen.
+[00:07:05 -> 00:07:08]  Da lernen sich die Leute nämlich schlichtweg besser kennen
+[00:07:08 -> 00:07:12]  und üben Zusammenarbeit ohne den Druck.
+[00:07:12 -> 00:07:15]  Eine Art Trockenschwimmen als Training vor dem Wettkampf.
+[00:07:15 -> 00:07:18]  Probieren Sie es einfach mal aus.
+[00:07:18 -> 00:07:20]  Das ist wie im Fußball.
+[00:07:20 -> 00:07:24]  Die Nationalmannschaft, die können Sie auch nicht einfach auf den Platz jagen.
+[00:07:24 -> 00:07:28]  Nee, die müssen erstmal eine ganze Menge zusammen trainieren.
+[00:07:28 -> 00:07:30]  Sonst geht das in die Hose.
+[00:07:30 -> 00:07:33]  Egal, wie viel das Talent der einzelne Spieler da jetzt hat.
+[00:07:34 -> 00:07:37]  Und genau das ist aktives Teambuilding.
+[00:07:37 -> 00:07:41]  Kennenlernen, gemeinsam trainieren, seine Rolle im Team finden.
+[00:07:42 -> 00:07:44]  So, zum Schluss nochmal zusammengefasst.
+[00:07:44 -> 00:07:46]  Die Team-Uhrnacht Takmen.
+[00:07:46 -> 00:07:50]  Forming. Höfliches, vorsichtiges Kennenlernen.
+[00:07:50 -> 00:07:54]  Storming. Klicken, unterschwellige Konflikte.
+[00:07:54 -> 00:08:00]  Norming. Offene Konfrontation, Lösung durch Regeln.
+[00:08:00 -> 00:08:06]  Und Performing. Hier läuft's rund. Das Team ist richtig produktiv.
+[00:08:06 -> 00:08:11]  Und wenn Sie wollen auch noch, Adjourning. Die Auflösung des Teams.
+[00:08:11 -> 00:08:13]  Hat es Ihnen heute gefallen?
+[00:08:13 -> 00:08:17]  Dann geben Sie uns einen Daumen hoch, abonnieren Sie unseren Kanal
+[00:08:17 -> 00:08:21]  und schauen Sie sich am besten gleich die nächsten Videos zum Thema an.
+[00:08:21 -> 00:08:26]  Unter dem Video finden Sie noch mehr Links zu unseren Kursen, Tipps und Vorlagen.
+[00:08:26 -> 00:08:28]  Wir sehen uns wieder. Bleiben Sie dran!
+[00:08:30 -> 00:08:33]  Untertitel der Amara.org-Community

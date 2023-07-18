@@ -1,0 +1,152 @@
+[00:00:00 -> 00:00:09]  Hello everyone, in this video I'm going to talk about the top 10 things that you should
+[00:00:09 -> 00:00:13]  know before getting into the information technology business.
+[00:00:13 -> 00:00:18]  This is based on my over 30 year career, and I've worked as a programmer, a software development
+[00:00:18 -> 00:00:23]  manager, a software architect, and then finally as an IT executive.
+[00:00:23 -> 00:00:27]  So based on my experiences, I'll tell you both the good and the bad about being in the
+[00:00:27 -> 00:00:29]  information technology business.
+[00:00:29 -> 00:00:31]  So let's go ahead and get started.
+[00:00:31 -> 00:00:34]  So to be fair, I've divided this video into two parts.
+[00:00:34 -> 00:00:39]  In the first part, I'll talk about the good or the benefits of being in the IT business.
+[00:00:39 -> 00:00:43]  In the second part, maybe I'll talk about some of the limitations or the not so good
+[00:00:43 -> 00:00:44]  about being in the IT business.
+[00:00:44 -> 00:00:48]  So let's go ahead and start and look at the advantages first.
+[00:00:48 -> 00:00:54]  The first benefit that we'll look at is being in the IT business affords you a very good
+[00:00:54 -> 00:00:55]  salary.
+[00:00:55 -> 00:00:59]  Programmers, architects, DevOps engineers, cloud engineers, and IT managers all command
+[00:00:59 -> 00:01:01]  very good salaries.
+[00:01:01 -> 00:01:08]  Programmer salaries average $105,000 a year, software architects $138,000, and software
+[00:01:08 -> 00:01:12]  engineering managers average over $137,000.
+[00:01:12 -> 00:01:17]  I should note this is for the US, and I got these statistics from Indeed.com, but you
+[00:01:17 -> 00:01:20]  can get the idea that these are very good paying jobs.
+[00:01:20 -> 00:01:23]  So let's go ahead and look at the next benefit.
+[00:01:23 -> 00:01:28]  The next benefit about being in the IT business is, particularly right now, there is a shortage
+[00:01:28 -> 00:01:32]  of trained people to work in the information technology business.
+[00:01:32 -> 00:01:38]  So for example, if you look at cloud computing positions, there are over 50,000 cloud computing
+[00:01:38 -> 00:01:46]  positions available in the US today, and they're available from 3,701 employers and represent
+[00:01:46 -> 00:01:50]  101,913 open positions worldwide today.
+[00:01:50 -> 00:01:52]  So I got this out of Forbes.
+[00:01:52 -> 00:01:56]  It doesn't take long to look around to see how many open jobs there are in the information
+[00:01:56 -> 00:01:58]  technology business.
+[00:01:58 -> 00:02:02]  So this is a terrific time to go into this business because of the high demand.
+[00:02:02 -> 00:02:07]  So let's go ahead and look at another advantage of being in the information technology business.
+[00:02:07 -> 00:02:12]  Another terrific benefit about being in the information technology business is mobility.
+[00:02:12 -> 00:02:18]  And that is after you've mastered some core IT skills, or perhaps a programming language,
+[00:02:18 -> 00:02:22]  or a cloud computing platform, it's fairly easy to move to another company that uses
+[00:02:22 -> 00:02:24]  the same hardware and software platform.
+[00:02:24 -> 00:02:30]  So if you get stuck in a terrible job, if you're well-trained and you have some experiences,
+[00:02:30 -> 00:02:34]  it's pretty easy to move to another company that has a similar type of technology.
+[00:02:34 -> 00:02:38]  So that's another benefit is you won't get stuck maybe in a dead-end job.
+[00:02:38 -> 00:02:42]  If you have some skills, you have the ability to move to another company that perhaps has
+[00:02:42 -> 00:02:43]  a better environment.
+[00:02:43 -> 00:02:46]  So let's go ahead and look at yet one more benefit.
+[00:02:46 -> 00:02:50]  Another advantage is many IT companies now support remote work.
+[00:02:50 -> 00:02:52]  And so you can work from home.
+[00:02:52 -> 00:02:57]  This is a great advantage in that you can save a large amount of time and money.
+[00:02:57 -> 00:03:00]  And IT jobs are particularly well-suited for working from home.
+[00:03:00 -> 00:03:04]  So the only thing you'll probably need is a high-speed internet connection and some
+[00:03:04 -> 00:03:08]  type of computing equipment so that you can do your job remotely.
+[00:03:08 -> 00:03:09]  But this is a huge advantage.
+[00:03:09 -> 00:03:12]  It will save you that long, arduous commute every day.
+[00:03:12 -> 00:03:16]  And trust me, I now work at home and I don't miss commuting to work.
+[00:03:16 -> 00:03:18]  It's a fantastic opportunity.
+[00:03:18 -> 00:03:21]  And this is another huge advantage of many IT jobs.
+[00:03:21 -> 00:03:24]  So let's go ahead and look at our last advantage.
+[00:03:24 -> 00:03:27]  The last advantage I'll talk about is business knowledge.
+[00:03:27 -> 00:03:33]  Since you're involved perhaps in programming or maybe support of a system in terms of DevOps
+[00:03:33 -> 00:03:39]  or operational support, you'll be in the position to really understand how the business operates.
+[00:03:39 -> 00:03:44]  Many IT departments support mission-critical systems that are really the core of how the
+[00:03:44 -> 00:03:45]  company does business.
+[00:03:45 -> 00:03:50]  And this knowledge is very valuable and it can lead to a promotion or another opportunity
+[00:03:50 -> 00:03:51]  in the company.
+[00:03:51 -> 00:03:55]  Since you can really acquire that detailed business knowledge, you really might become
+[00:03:55 -> 00:04:00]  the go-to expert on how a lot of these business processes really function on a day-to-day
+[00:04:00 -> 00:04:01]  basis.
+[00:04:01 -> 00:04:04]  So let's go ahead and move on to the next part.
+[00:04:04 -> 00:04:06]  Okay, so now we got the good out of the way.
+[00:04:06 -> 00:04:08]  Let's look at maybe the not-so-good.
+[00:04:08 -> 00:04:10]  Sounds pretty good so far.
+[00:04:10 -> 00:04:15]  Great salary, high demand, you can move around, you can work at home, all great things.
+[00:04:15 -> 00:04:18]  But like all good things, there's also some drawbacks as well.
+[00:04:18 -> 00:04:22]  So let's go ahead and take a look at what some of the potential drawbacks of working
+[00:04:22 -> 00:04:25]  the information technology business might be.
+[00:04:25 -> 00:04:29]  The first area I'll talk about with limitation or maybe a negative part of the business are
+[00:04:29 -> 00:04:31]  tight deadlines.
+[00:04:31 -> 00:04:35]  Deadlines around IT projects can be critical to the success of the company.
+[00:04:35 -> 00:04:40]  And some projects might be driven by legislative deadlines that really can't be changed.
+[00:04:40 -> 00:04:45]  Your industry might be regulated in some type of way, and they may have a certain date
+[00:04:45 -> 00:04:47]  that you have to implement something by.
+[00:04:47 -> 00:04:51]  So fines or penalties might be involved for missing these types of deadlines.
+[00:04:51 -> 00:04:56]  And all of these things can lead to a very high level of stress.
+[00:04:56 -> 00:05:01]  Some people are better at dealing this than others, but tight deadlines and that focus
+[00:05:01 -> 00:05:06]  around getting something out the door on time can lead to a high amount of stress.
+[00:05:06 -> 00:05:10]  So let's go ahead and maybe talk about something else that might be a limiting factor for you
+[00:05:10 -> 00:05:12]  in the IT business.
+[00:05:12 -> 00:05:16]  Another potentially negative factor with the information technology business is the potential
+[00:05:16 -> 00:05:19]  for very long work hours.
+[00:05:19 -> 00:05:23]  To go along with those tight deadlines might be a lot of hours to meet those deadlines,
+[00:05:23 -> 00:05:26]  particularly when the project's coming to an end.
+[00:05:26 -> 00:05:31]  And if you work in an IT support position, you'll probably have to work long hours fixing
+[00:05:31 -> 00:05:35]  problems if there are any types of service outages.
+[00:05:35 -> 00:05:40]  Most hardware and software upgrades also happen on off hours, and many times this is
+[00:05:40 -> 00:05:44]  on weekends or holidays and the very time where you don't want to be working.
+[00:05:44 -> 00:05:50]  So if you're not really up for long hours, this is probably not a good business for you.
+[00:05:50 -> 00:05:54]  So particularly at the end of projects, I've worked for startup companies and worked some
+[00:05:54 -> 00:06:00]  ridiculously long hours and have spent the night at work many times.
+[00:06:00 -> 00:06:03]  So if long hours are not in it for you, then this is probably not the right business for
+[00:06:03 -> 00:06:04]  you.
+[00:06:04 -> 00:06:08]  You might need some other things that are typical of a particular environment in the
+[00:06:08 -> 00:06:10]  IT business.
+[00:06:10 -> 00:06:15]  Another thing that you'll have to learn in the IT business is how to deal with change.
+[00:06:15 -> 00:06:20]  The IT business is constantly changing, and you'll need to adapt to that change.
+[00:06:20 -> 00:06:23]  And the pace of change is continuing to increase.
+[00:06:23 -> 00:06:26]  You'll need ongoing training to adapt to all of this change.
+[00:06:26 -> 00:06:32]  So certifications, languages are changing, people are migrating to the cloud.
+[00:06:32 -> 00:06:37]  All of this represents a ton of new technology, and you'll need to continually update your
+[00:06:37 -> 00:06:41]  certifications throughout your career to remain competitive.
+[00:06:41 -> 00:06:42]  And this can be a challenge for a lot of people.
+[00:06:42 -> 00:06:46]  Sometimes people go into this business and they master one type of technology, like a
+[00:06:46 -> 00:06:51]  mainframe type of technology, or they become a COBOL programmer years ago, and they simply
+[00:06:51 -> 00:06:54]  don't want to change to the new platforms.
+[00:06:54 -> 00:06:59]  But this is inevitable in this business as things are changing very rapidly, so you'll
+[00:06:59 -> 00:07:00]  have to keep up with that.
+[00:07:00 -> 00:07:04]  So that's something else to consider, whether you're adaptable to change or not.
+[00:07:04 -> 00:07:06]  So let's go ahead and look at the next area.
+[00:07:06 -> 00:07:09]  The next area I'll talk about is stress.
+[00:07:09 -> 00:07:13]  So working with mission-critical applications is a stressful job.
+[00:07:13 -> 00:07:17]  Many of these systems deal with large amounts of customer and a large amount of money.
+[00:07:17 -> 00:07:22]  And so when these types of systems go down, you'll be called in to work on these production
+[00:07:22 -> 00:07:24]  problems until they're resolved.
+[00:07:24 -> 00:07:27]  And most of the time, these systems have a ton of visibility.
+[00:07:27 -> 00:07:33]  So don't be surprised if senior management members, the CEO himself or herself is involved
+[00:07:33 -> 00:07:36]  in whatever happens with these system problems.
+[00:07:36 -> 00:07:41]  So if you don't really like that kind of exposure, again, this is a limiting factor.
+[00:07:41 -> 00:07:46]  But many times when you work on these systems, it really is working on a tightrope without
+[00:07:46 -> 00:07:47]  a net.
+[00:07:47 -> 00:07:51]  So it can be very difficult and very stressful in peak situations, particularly if something
+[00:07:51 -> 00:07:57]  has been hacked into or a service or a program is down for an extended period of time.
+[00:07:57 -> 00:08:00]  So let's go ahead and look at one more area.
+[00:08:00 -> 00:08:04]  All of these limiting factors can lead to burnout.
+[00:08:04 -> 00:08:08]  So if you're working lots of long hours and you have prolonged periods of high stress,
+[00:08:08 -> 00:08:11]  it really can lead to a career burnout.
+[00:08:11 -> 00:08:16]  And really it leads somebody to find a secondary career or something that they want to move
+[00:08:16 -> 00:08:21]  into after 20, 10 or 20 or 30 years in the IT business.
+[00:08:21 -> 00:08:25]  And so my advice to you is to develop some secondary skills along the way that you can
+[00:08:25 -> 00:08:29]  transition to a new career if and when you need to.
+[00:08:29 -> 00:08:33]  I've really enjoyed my career in the information technology business, but after 30 years, I've
+[00:08:33 -> 00:08:40]  moved more into the education side of things and more out of the production side of supporting
+[00:08:40 -> 00:08:41]  mission-critical systems.
+[00:08:41 -> 00:08:46]  And I'm happy that I did both, but I'm glad that I developed some secondary skills along
+[00:08:46 -> 00:08:47]  the way.
+[00:08:47 -> 00:08:50]  So I had the option to do some other things later on in my career when I was maybe not
+[00:08:50 -> 00:08:54]  so fond of being under constant amount of stress.
+[00:08:54 -> 00:08:56]  So let's go ahead and wrap this up.
+[00:08:56 -> 00:08:58]  Thank you so much for your interest in this video.
+[00:08:58 -> 00:09:03]  I hope it's given you a realistic look at what a career in information technology might
+[00:09:03 -> 00:09:08]  look like with some of the advantages and also realistically what some of the disadvantages
+[00:09:08 -> 00:09:13]  and hardships might be when you work long hours in a career in information technology.
+[00:09:13 -> 00:09:17]  For me, it's been a great business and I hope you have some excellent opportunities ahead
+[00:09:17 -> 00:09:19]  of you in this business.
+[00:09:19 -> 00:09:24]  If you like this video, please click the thumbs up button or the like button and consider
+[00:09:24 -> 00:09:27]  subscribing to my channel if you want to see more videos like this.
+[00:09:27 -> 00:09:28]  Thanks again and I'll see you again soon.
+[00:09:28 -> 00:09:29]  Bye bye.

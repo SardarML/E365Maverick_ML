@@ -1,0 +1,186 @@
+[00:00:00 -> 00:00:09]  hi I'm back so I haven't made video in quite a while and this is because I have
+[00:00:09 -> 00:00:19]  been busy doing my master's thesis and and tomorrow is my defense so I've
+[00:00:19 -> 00:00:24]  already turned my present my master's thesis in and then tomorrow I have to do
+[00:00:24 -> 00:00:32]  a presentation on for like 15 minutes and present all the research that I've
+[00:00:32 -> 00:00:41]  done and the results that I and gathered and I am super nervous I am so nervous
+[00:00:41 -> 00:00:48]  and so I've been practicing my presentation and I thought maybe it
+[00:00:48 -> 00:00:57]  would be a good idea to record it because that way I can time myself and
+[00:00:57 -> 00:01:03]  also I thought you would probably be interested in my master's thesis as well
+[00:01:03 -> 00:01:13]  so and I want to try to record my the presentation I've prepared now okay
+[00:01:13 -> 00:01:19]  hello everyone I would like to present today my master's thesis on the topic of
+[00:01:19 -> 00:01:24]  design optimization in early project stages a generative design approach to
+[00:01:24 -> 00:01:29]  project development and my presentation is roughly structured in background
+[00:01:29 -> 00:01:34]  methodology and if we have time we'll talk about verification but most
+[00:01:34 -> 00:01:38]  importantly the implementation and their experiment that I carried out as
+[00:01:39 -> 00:01:45]  well as their results and a discussion so the problem that my thesis was based
+[00:01:45 -> 00:01:51]  on is that in project development as it is the initial phase of any potential
+[00:01:51 -> 00:01:56]  construction project we want to determine whether or not the project
+[00:01:56 -> 00:02:01]  would be profitable but at this point no design exists yet so all the
+[00:02:01 -> 00:02:07]  calculations and studies that we carry out are based on estimates and past
+[00:02:07 -> 00:02:13]  experience so the question is is it possible to automate parts of the design
+[00:02:13 -> 00:02:24]  finding process so that we can provide a reliable model based data for project
+[00:02:24 -> 00:02:32]  development and this involves a design optimization that regards large aspects
+[00:02:32 -> 00:02:36]  such as the position of the building on site but also down to the smallest
+[00:02:36 -> 00:02:43]  entity that will in my case be a singular desk and its placement so for
+[00:02:43 -> 00:02:47]  human it can be very hard to regard all these aspects at the same time but with
+[00:02:47 -> 00:02:53]  a computer we can look at a lot more design options a lot faster and through
+[00:02:53 -> 00:03:01]  multi-objective optimization we can be able to find well-performing design
+[00:03:01 -> 00:03:08]  solutions so how does it work its background lies in and the natural
+[00:03:08 -> 00:03:14]  principle of evolution so through mutation we get different variations of
+[00:03:14 -> 00:03:20]  genes and then through natural selection those that don't perform well get ruled
+[00:03:20 -> 00:03:28]  out and this process repeats itself until we end up with a diverse set of
+[00:03:28 -> 00:03:34]  very well adapted genes and if we translate that to design the individuals
+[00:03:34 -> 00:03:42]  in a population are the different design solutions and the genes the chromosomes
+[00:03:42 -> 00:03:49]  are represented by the values of the properties of the model so in a
+[00:03:49 -> 00:03:55]  parametric model the values for the parameters so what we want to do is
+[00:03:55 -> 00:04:00]  basically generate a bunch of different design solutions evaluate them based on
+[00:04:00 -> 00:04:07]  their performance and then use the principles of evolution to optimize them
+[00:04:07 -> 00:04:15]  and generate new solutions and to imitate this process of evolution a few
+[00:04:15 -> 00:04:20]  different genetic algorithms have been developed in the past couple of decades
+[00:04:20 -> 00:04:26]  the ones that we use today work quite similarly so a population is generated
+[00:04:26 -> 00:04:32]  then for each individual the fitness is calculated and then we use the
+[00:04:32 -> 00:04:38]  evolutionary operators of selection crossover and mutation to create a new
+[00:04:38 -> 00:04:47]  generation and what a genetic algorithm is supposed to do is preserve previously
+[00:04:47 -> 00:04:55]  found good solutions that is a principle called elitism and progress to the true
+[00:04:55 -> 00:05:02]  Pareto front as fast as possible which is the convergence rate as well as and
+[00:05:02 -> 00:05:07]  this is especially important in design provide a diverse set of solutions to
+[00:05:07 -> 00:05:12]  the human decision maker so that the final solution can be selected by the
+[00:05:12 -> 00:05:23]  human designer and this is especially important in design because we are most
+[00:05:23 -> 00:05:29]  of the time dealing with multi objective optimization problems that means we have
+[00:05:29 -> 00:05:38]  multiple often contradicting design goals or objectives so how in this case
+[00:05:38 -> 00:05:47]  how can we determine if one solution is better than another and this is where
+[00:05:47 -> 00:05:54]  the concept of non domination comes in that says a one solution is better than
+[00:05:54 -> 00:06:02]  the other if it is equal or if it scores equal or higher in all of the objectives
+[00:06:02 -> 00:06:12]  but better in at least one of them so if we look at this sketch here we can see that we
+[00:06:12 -> 00:06:19]  have two objectives F1 and F2 and we want that we want to minimize so in this case
+[00:06:19 -> 00:06:26]  we can say C is dominated by both A and B because A and B score better in the design
+[00:06:26 -> 00:06:35]  objectives however and A and B are not dominated by any other solution and therefore lie on the
+[00:06:35 -> 00:06:45]  Pareto front so as I said there are a few different genetic algorithms but one that
+[00:06:45 -> 00:06:52]  is very common is called the NSGA2 and it evaluates and what's specific about it is
+[00:06:52 -> 00:06:59]  that it evaluates the parents together with the children population which ensures elitism
+[00:06:59 -> 00:07:07]  and then uses a fast sorting algorithm to divide the populations into subgroups and
+[00:07:07 -> 00:07:14]  uses the crowding distance comparison to prefer solutions that come from a less
+[00:07:14 -> 00:07:27]  crowded region so that preserves diversity of the solution. Now to carry out a generative
+[00:07:27 -> 00:07:33]  design study we need three things we need a parametric model that is able to explore
+[00:07:33 -> 00:07:41]  the entire solution space we need a set of design goals and they're very important because
+[00:07:41 -> 00:07:48]  they will determine what kind of outcome what kind of results we will receive and we need an
+[00:07:48 -> 00:07:57]  optimization engine so in this case I chose the NSGA2 algorithm because it has proven to provide
+[00:07:57 -> 00:08:08]  a very diverse set of solution and it is implemented in the Dynamo plugin called Refinery. Now as an
+[00:08:08 -> 00:08:15]  example for my studies I used the Siemens construction excellence which is an architectural
+[00:08:15 -> 00:08:22]  and technical standard for Siemens office buildings. Now this is what a standard floor
+[00:08:22 -> 00:08:29]  plan looks like and we can see that it basically consists of three elements the core units which
+[00:08:29 -> 00:08:34]  accommodate the stairs and the toilets then we have the office units where the actual desks
+[00:08:34 -> 00:08:42]  are placed and then the seam units where the fire escapes are so the core unit and the seam
+[00:08:42 -> 00:08:49]  unit are always the same but for the office units there are six different configurations
+[00:08:49 -> 00:09:01]  from a very dense layout with 20 desks per unit to more looser setups of 12
+[00:09:02 -> 00:09:12]  desks per unit. Now what we can say is that the width of the building is always fixed but the
+[00:09:12 -> 00:09:20]  length of the building is determined by how many of those units we line up so to translate this
+[00:09:20 -> 00:09:28]  into a parametric model I work like this so we start out with the project data which is the same
+[00:09:28 -> 00:09:34]  for all the solutions so we need the outline of the site
+[00:09:37 -> 00:09:45]  in this case I chose my current Siemens project in Hannover and the number of employees that
+[00:09:46 -> 00:09:56]  work there so in this case it was five we needed 500 workplaces then two variables
+[00:09:56 -> 00:10:02]  the start point and the orientation determine the largest inscribed rectangle so essentially
+[00:10:02 -> 00:10:09]  the area where we can grow the building now we check is the rectangle fully within the site
+[00:10:09 -> 00:10:18]  and then we have two more variables the number of units left and right that we add onto the core
+[00:10:18 -> 00:10:26]  and then of course the last units on each side get turned into seam units now we can check
+[00:10:26 -> 00:10:32]  are all the units within the rectangle and therefore they will be within the site
+[00:10:34 -> 00:10:42]  and then lastly we have a variable called workplace density that determines how many
+[00:10:42 -> 00:10:49]  how dense we pack the workplaces in in the units and therefore determines how many
+[00:10:49 -> 00:10:57]  workplaces we have per floor and then we need to replicate the the floors until we have reached the
+[00:10:57 -> 00:11:06]  500 workplaces in total so this is what this looks like a dynamo so we have here the variables
+[00:11:06 -> 00:11:13]  and when we start twitching one of them so for example here increase the workplace density
+[00:11:13 -> 00:11:22]  and then we will need less floors fewer floors to accommodate all workplaces however if we
+[00:11:22 -> 00:11:27]  decrease the number of slices on one side the building will rise again because it will need
+[00:11:27 -> 00:11:34]  more floors to accommodate all workplaces and and what we can also see is already is that
+[00:11:34 -> 00:11:42]  whenever we change one of the variables the scoring in the objectives of this of the design
+[00:11:42 -> 00:11:49]  changes as well so what i did here manually refinery does automatically in the optimization
+[00:11:49 -> 00:11:55]  it is able to dock onto the variables and change them and observe the output
+[00:11:56 -> 00:12:06]  now if we have that parametric model we need to talk about the design goals so the objectives
+[00:12:06 -> 00:12:12]  the direction of the optimization so together with siemens we chose eight different design goals that
+[00:12:12 -> 00:12:20]  are most important to them in the project development so for example we want to increase
+[00:12:21 -> 00:12:29]  the comfort for the workplaces there so this is measured by the rentable area that is available
+[00:12:29 -> 00:12:37]  per workplace on the other hand we want to limit the energy that is consumed by the buildings so
+[00:12:37 -> 00:12:46]  we want to minimize the ratio of surface to volume or for example to optimize the position of the
+[00:12:46 -> 00:12:54]  building on site we we want to minimize the path from the outside of the site to the building
+[00:12:54 -> 00:13:02]  entrance so now before we start the evolution we need there's a few more parameters that we need to
+[00:13:03 -> 00:13:10]  set first the population size so it's the number of individuals that are in one generation the
+[00:13:10 -> 00:13:16]  number of generations so how many iterations the genetic algorithm will run the crossover
+[00:13:16 -> 00:13:24]  probability which is how often crossover will occur and the mutation probability which is how
+[00:13:24 -> 00:13:36]  often we will have mutation so for the population size and it's good to have bigger population size
+[00:13:36 -> 00:13:44]  because that means the chances are higher that a good solution is already part of the very first
+[00:13:44 -> 00:13:52]  generation however if the population size becomes too big it also takes very long to rule out bad
+[00:13:52 -> 00:13:59]  performing solutions so there's an ideal population size for every optimization problem and in my case
+[00:13:59 -> 00:14:09]  i detected it at a population size of 120 members per population and then i increased the number of
+[00:14:09 -> 00:14:16]  generations until the average fitness of the population increased no further or very little
+[00:14:16 -> 00:14:28]  which was about after 50 generations so i set the algorithm to work and received 14
+[00:14:28 -> 00:14:37]  results from the Pareto front with very different scorings in each design objective so we can see
+[00:14:37 -> 00:14:43]  the scoring here in this overview and the decision maker will then be able to
+[00:14:44 -> 00:14:50]  select solutions based on like personal preference so if they rather want to go with an decreased
+[00:14:50 -> 00:15:00]  footprint or more rentable area etc so afterwards i carried out interviews with some project managers
+[00:15:00 -> 00:15:06]  from Siemens to find out how happy they were with the process and the feedback that i got was
+[00:15:07 -> 00:15:16]  overall positive so they see a high potential in generative design especially because it prohibits
+[00:15:16 -> 00:15:25]  the manipulation of design processes that are often manipulated by personal or internal political
+[00:15:26 -> 00:15:34]  interests but with generative design the hope is that the decision making
+[00:15:34 -> 00:15:43]  process would become objective and data driven however there was also the wish for more
+[00:15:43 -> 00:15:50]  objectives to be included for example the site topology local code requirements or the
+[00:15:50 -> 00:16:00]  surrounding landscape and buildings so to conclude i would say the most important thing in a generative
+[00:16:00 -> 00:16:06]  design study is to have a clear concept of the design variables that you want to include and
+[00:16:06 -> 00:16:12]  the objectives that you choose because that will very much influence the quality of the results
+[00:16:12 -> 00:16:20]  that you will get because there are essentially endless possibilities of what objectives to choose
+[00:16:21 -> 00:16:29]  and you have to consider what is most important to you is it really important to have a beautiful
+[00:16:29 -> 00:16:35]  view from your desk or is that something that is more nice to have but not a priority
+[00:16:36 -> 00:16:44]  because it's easy to implement a lot of different factors but it will also influence what kind of
+[00:16:44 -> 00:16:54]  results you will get and some other things on the other hand they're very hard to teach the
+[00:16:54 -> 00:17:04]  algorithm so for example for human it's very easy to place a rectangle within another shape
+[00:17:04 -> 00:17:16]  but in my study i had to spend a lot of time and effort into teaching the algorithm how to avoid
+[00:17:16 -> 00:17:25]  invalid designs so designs that are outside of the the site so how can we punish those solutions
+[00:17:25 -> 00:17:31]  and teach the algorithm to rule them out as fast as possible
+[00:17:33 -> 00:17:40]  also throughout the study i developed the opinion that the term generative design itself might be a
+[00:17:40 -> 00:17:48]  bit misleading because the computer does not generate a design it doesn't have any inherent
+[00:17:49 -> 00:18:02]  creativity the human designer has to create an abstract vision a concept of its design
+[00:18:03 -> 00:18:12]  and then the computer merely finds the best set of parameter values that
+[00:18:12 -> 00:18:22]  that optimize the design concept to goals that they're also the human defined so therefore i
+[00:18:22 -> 00:18:29]  think the term generative design gives the computer a bit too much credit as so to say
+[00:18:29 -> 00:18:36]  however i also have to say that setting up the algorithm and then letting the optimization run
+[00:18:36 -> 00:18:45]  felt really liberating because i knew that now my computer would like work and work for me
+[00:18:45 -> 00:18:52]  essentially for the next five hours and there was nothing i could do with it during that time and so
+[00:18:53 -> 00:19:00]  i had some some free time essentially it took over a part of the work that i would have to do as a
+[00:19:00 -> 00:19:10]  designer so that felt very much industry 4.0 where we have the computers take over boring parts or
+[00:19:10 -> 00:19:16]  unpleasant parts of our work and then after all the process of choosing a final design becomes
+[00:19:16 -> 00:19:25]  very transparent and and database because you have this very objective comparison of the different
+[00:19:25 -> 00:19:34]  designs and this was also reported by the interviewees from siemens so as an outlook
+[00:19:35 -> 00:19:43]  it would of course be important to also implement the other building shapes that
+[00:19:43 -> 00:19:52]  exist in the siemens construction excellence and then implement the whole process into
+[00:19:53 -> 00:20:01]  a BIM environment so for example to export from Revit the site outline into Dynamo then run the
+[00:20:01 -> 00:20:10]  optimization in refinery pick a favorite solution and export it from Dynamo directly with adaptive
+[00:20:10 -> 00:20:20]  families into Revit and have the final solution as a BIM model automatically generated in Revit
+[00:20:20 -> 00:20:26]  yes so that would be how to turn it into an actual software product for example
+[00:20:28 -> 00:20:35]  and then thank you for your attention and that was it
+[00:20:44 -> 00:20:48]  i hope that was good enough i had to go so fast over some of the things
+[00:20:49 -> 00:20:54]  15 minutes is really not a lot of time for six months of research
+[00:20:57 -> 00:21:00]  but i mean they have time to ask questions afterwards so
+[00:21:01 -> 00:21:09]  then i can explain some things in more detail maybe okay so that leaves one last thing to do
+[00:21:09 -> 00:21:12]  for tonight
+[00:21:18 -> 00:21:22]  and that is choose an outfit for tomorrow
+[00:21:26 -> 00:21:36]  so the first one is a very classic navy white combination with a blazer and a blouse
+[00:21:37 -> 00:21:45]  so this is what it would look like with the blazer on i think i would have enough
+[00:21:47 -> 00:21:56]  mobility to perform all kinds of movements and this is what it would look like without the blazer
+[00:21:56 -> 00:22:03]  if it's warm outside i don't know summer is already kind of over in munich
+[00:22:06 -> 00:22:18]  but maybe we'll get one more nice day of sunshine tomorrow and then the second option would be this
+[00:22:20 -> 00:22:30]  and blackened cream combination of pants and blouse that i also sported at
+[00:22:31 -> 00:22:37]  ayo london let me know what look you think i should wear tomorrow the most important thing
+[00:22:37 -> 00:22:39]  is that i don't forget
+[00:22:41 -> 00:22:53]  this year which is the printed out versions of my um actual thesis so if you're interested in
+[00:22:53 -> 00:23:01]  reading my thesis as well you will probably be able to do so because it will be published on the
+[00:23:01 -> 00:23:09]  university website and i will make sure to share a link on like my twitter or linkedin or wherever
+[00:23:09 -> 00:23:12]  you follow me so
+[00:23:15 -> 00:23:24]  one more task to do tomorrow with the presentation and then i will be done
+[00:23:24 -> 00:23:32]  with university and ready for the job market very exciting times very exciting
+[00:23:32 -> 00:23:44]  good morning today's the day i woke up this morning at four and couldn't go back to sleep
+[00:23:44 -> 00:23:50]  because i was so nervous and my head was just like going through every slide over and over again
+[00:23:50 -> 00:23:59]  um but i do feel ready now i feel confident about it i i think i've prepared well and
+[00:23:59 -> 00:24:06]  after all it is my thesis so when they ask questions like i will be able to answer them
+[00:24:07 -> 00:24:13]  um i chose the second outfit because when i looked at the footage i saw that the first
+[00:24:13 -> 00:24:21]  quite see-through um and also i think it will be warm enough today to go out without the jacket
+[00:24:22 -> 00:24:25]  okay so let's go
+[00:24:43 -> 00:24:51]  yeah

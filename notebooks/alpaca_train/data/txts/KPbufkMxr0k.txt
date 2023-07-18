@@ -1,0 +1,25 @@
+[00:00:00 -> 00:00:09]  Der Stromspiegel mit Basisstromverstärkung basiert auf dem Prinzip des Stromspiegels, bildet quasi eine kleine Erweiterung dessen.
+[00:00:09 -> 00:00:15]  Wir haben uns bereits die Einführung, die Grundlagen zum einfachen Stromspiegel angeschaut.
+[00:00:15 -> 00:00:19]  Die Kenntnisse sind hierzu nun Voraussetzung.
+[00:00:19 -> 00:00:26]  Wie wir nun wissen, wird der Kollektorstrom IC1 zu IC2 gespiegelt.
+[00:00:26 -> 00:00:29]  Beide sind also gleich groß.
+[00:00:29 -> 00:00:35]  Unser Ziel ist es aber, Iref und I0 gleich groß zu haben.
+[00:00:35 -> 00:00:38]  Und genau hier liegt das Problem.
+[00:00:38 -> 00:00:45]  Beim einfachen Stromspiegel sollen zwar Iref und I0 gleich groß sein, sind es aber nicht.
+[00:00:45 -> 00:00:52]  Grund dafür sind die Ströme, welche in die Basis der Transistoren hineinfließen.
+[00:00:52 -> 00:00:56]  Die Basisstromverstärkung soll dabei Abhilfe schaffen.
+[00:00:56 -> 00:01:03]  Das soll geschehen, indem, wie der Name schon verrät, die Basis mit Strom verstärkt wird.
+[00:01:03 -> 00:01:09]  Es wird quasi extern Strom für die Basis bezogen.
+[00:01:09 -> 00:01:11]  Wie wird das nun erreicht?
+[00:01:11 -> 00:01:19]  Hier in unserem, ich nenne es mal Basisstromzweig, wollen wir externen Strom speisen.
+[00:01:19 -> 00:01:23]  Realisiert wird das mit einem zusätzlichen Transistor.
+[00:01:23 -> 00:01:29]  Und schon haben wir den Stromspiegel mit Basisstromverstärkung.
+[00:01:29 -> 00:01:36]  Wie bereits bekannt, entspricht IC2 gleich dem IC1.
+[00:01:36 -> 00:01:44]  Iref setzt sich zusammen aus dem Kollektorstrom I und dem Basisstrom III.
+[00:01:44 -> 00:01:55]  Sprich, es ist besser als zuvor, als sich Iref aus IC1 plus IB1 plus IB2 zusammengesetzt hat.
+[00:01:55 -> 00:02:07]  Der Basisstrom für beide Transistoren T1 und T2 wird nun über den Transistor III, über den Ermittlerstrom IE3, bezogen.
+[00:02:07 -> 00:02:13]  Wir haben also noch keine perfekte Stromspiegelung, aber eine große Verbesserung erreicht,
+[00:02:13 -> 00:02:17]  da wir den Basisstrom senken konnten.
+[00:02:17 -> 00:02:27]  Die Formeln zum Stromspiegel mit Basisstromverstärkung finden sich unter www.fmh-studios.de.
+[00:02:27 -> 00:02:34]  Dort findet sich auch eine PDF, in welcher alle Formeln übersichtlich dargestellt wurden.
+[00:02:34 -> 00:02:39]  Ich bin Enrique Fernandes, hier bei FMH Studios. Bis zum nächsten Video. Adios.

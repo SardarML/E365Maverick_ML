@@ -1,0 +1,181 @@
+[00:00:00 -> 00:00:02]  Braucht man schon vorher Programmierkenntnisse?
+[00:00:02 -> 00:00:06]  Wie gut muss mein Englisch eigentlich sein, um die englischen Module zu bestehen?
+[00:00:06 -> 00:00:11]  Und was sind nach dem Studium Berufsaussichten, wie viel verdient man im Anschluss?
+[00:00:11 -> 00:00:16]  All das sind Fragen, die ihr mir in den letzten Wochen gestellt habt und die ich, so gut es geht, beantwortet habe.
+[00:00:16 -> 00:00:18]  Und während ich das gemacht habe, dachte ich mir,
+[00:00:18 -> 00:00:21]  eigentlich ziemlich schade, wenn ich das nur einzelnen Leuten verrate und nicht
+[00:00:22 -> 00:00:26]  allen, die vielleicht auch die gleiche Frage haben, aber jetzt nicht unbedingt mich gefragt haben.
+[00:00:26 -> 00:00:32]  Deshalb fasse ich euch mal die wichtigsten Fragen, die es rund um das Studium Wirtschaftsinformatik gibt, in diesem Video zusammen.
+[00:00:33 -> 00:00:39]  Fangen wir dazu als erstes mal mit Fragen an, die sich darum drehen, ob ihr die nötigen Voraussetzungen für das Studium mitbringt.
+[00:00:40 -> 00:00:43]  Braucht man Englisch im Wirtschaftsinformatikstudium und wie schwer ist das eigentlich?
+[00:00:44 -> 00:00:51]  Wie ihr vielleicht schon in eurem Modulhandbuch gesehen habt, sind im Wirtschaftsinformatikstudium, egal ob Bachelor oder Master, einige Module auf Englisch.
+[00:00:52 -> 00:00:59]  Natürlich ist das von Hochschule zu Hochschule unterschiedlich, aber in der Regel gibt es einzelne Module, die entweder teilweise oder komplett auf Englisch sind.
+[00:00:59 -> 00:01:06]  Jetzt ist die Frage natürlich, die sich dann stellt, wie gut muss mein Englisch sein, um in den Fächern auch bestehen zu können,
+[00:01:06 -> 00:01:08]  beziehungsweise trotzdem gute Noten erzielen zu können.
+[00:01:08 -> 00:01:12]  Was ich so aus meinem Bachelor mitgenommen habe, ist, dass in der Regel man kein
+[00:01:12 -> 00:01:16]  Englisch-Profi sein muss, um in diesen Modulen trotzdem gut abzuschneiden.
+[00:01:16 -> 00:01:23]  Natürlich hilft es, wenn man schon mal Englisch geredet hat, wenn man irgendwie Sachen auf Englisch guckt oder Englisch liest oder sonst irgendwas,
+[00:01:23 -> 00:01:26]  wenn man ein bisschen näher und ein bisschen mehr vertraut ist mit der englischen Sprache.
+[00:01:27 -> 00:01:31]  Aber auch wenn du jetzt beispielsweise in der Schule nie besonders gut warst in Englisch,
+[00:01:31 -> 00:01:38]  kannst du mit ein bisschen Mühe dir das auf jeden Fall ganz einfach alles beibringen, beziehungsweise da ganz einfach bestehen.
+[00:01:38 -> 00:01:43]  Im Normalfall musst du dir also deshalb keine Sorgen machen, wenn du irgendwas nicht kennst, wenn du irgendwas nicht verstehst,
+[00:01:43 -> 00:01:49]  kannst du ja heutzutage auch ganz easy irgendwelche Übersetzer-Apps benutzen, die das innerhalb von zwei Sekunden übersetzen und dann kannst du damit
+[00:01:49 -> 00:01:53]  weiterarbeiten, weiterlernen. Jetzt muss man das Thema allerdings noch von der anderen Seite betrachten,
+[00:01:53 -> 00:02:02]  denn auch wenn du das Studium an sich ganz gut ohne jetzt besonders gute Englischkenntnisse bestehen kannst, ist es extrem hilfreich,
+[00:02:02 -> 00:02:08]  halbwegs vernünftig Englisch zu können. Das liegt vor allem daran, dass wir als Wirtschaftsinformatiker, sobald ihr das Studium fertig habt,
+[00:02:09 -> 00:02:13]  relativ nah am Digital- und IT-Bereich, in der IT-Branche
+[00:02:13 -> 00:02:21]  arbeitet und mittlerweile ist es tatsächlich so, dass in dem Bereich viele, viele Kunden, aber auch Kollegen
+[00:02:21 -> 00:02:28]  aus den verschiedensten Ländern kommen und das führt dazu, dass die Amtssprache sowohl in Unternehmen, aber auch mit Kunden
+[00:02:29 -> 00:02:34]  sehr oft Englisch ist und wenn ihr dann das Problem habt, dass ihr einfach nicht gut Englisch sprechen könnt,
+[00:02:35 -> 00:02:37]  verbaut euch das schon einige Berufsaussichten.
+[00:02:37 -> 00:02:42]  Das bedeutet also, dass es vollkommen okay ist, wenn ihr jetzt gerade noch nicht besonders gut Englisch könnt,
+[00:02:42 -> 00:02:45]  aber tut euch selbst einen Gefallen und setzt euch ein bisschen mehr mit der Sprache auseinander.
+[00:02:45 -> 00:02:51]  Ich meine, heutzutage machen wir das sowieso mit YouTube-Videos und Filmen und sonst was, aber
+[00:02:51 -> 00:02:58]  versucht mal wirklich aktiv euer Englisch ein bisschen zu verbessern, denn das ermöglicht euch viel, viel mehr Chancen im Berufsleben später.
+[00:02:59 -> 00:03:02]  Denn Englisch ist wirklich aus den meisten Unternehmen heutzutage nicht mehr wegzudenken
+[00:03:02 -> 00:03:10]  und in zwei von drei Bewerbstudenten-Tätigkeiten, die ich bis jetzt gemacht habe, war oder slash ist, also jetzt gerade ist es auch wieder so,
+[00:03:10 -> 00:03:12]  die unternehmensweite Sprache
+[00:03:13 -> 00:03:17]  immer Englisch. Natürlich hat man, jetzt habe ich jetzt in meinem kleinen Team deutsche Kollegen,
+[00:03:18 -> 00:03:23]  aber wenn man jetzt unternehmensweit kommuniziert, wenn da irgendwelche Events sind oder irgendwelche unternehmensweiten
+[00:03:24 -> 00:03:28]  Calls oder Informationen, die sind immer auf Englisch und das war vorher genauso.
+[00:03:29 -> 00:03:36]  Deshalb tut euch selbst den Gefallen und versucht ein bisschen euer Englisch zu verbessern, denn das hilft euch wirklich langfristig.
+[00:03:37 -> 00:03:40]  Ist das Studium eigentlich auch komplett ohne Programmierkenntnisse machbar?
+[00:03:42 -> 00:03:47]  Neben Mathe ist Programmierung wahrscheinlich eine der größten Schwierigkeiten im Wirtschaftsinformatik-Studium
+[00:03:47 -> 00:03:53]  und man muss dazu ehrlicherweise sagen, dass es vor allem ohne Vorkenntnisse nicht sehr einfach ist.
+[00:03:53 -> 00:03:58]  Wie ihr vielleicht aus den vorherigen Videos wisst, hatte ich selber auch keine Vorkenntnisse in Programmierung
+[00:03:58 -> 00:04:02]  und musste mir deshalb viel, viel Zeit nehmen, um das Ganze zu lernen.
+[00:04:02 -> 00:04:07]  Jetzt kommt dazu, dass das Programmierungsniveau und auch wie viel man im Bereich
+[00:04:07 -> 00:04:14]  Programmierung und Software Engineering und Informatik generell zu tun hat, sehr, sehr stark schwankt von Hochschule zu Hochschule.
+[00:04:14 -> 00:04:19]  Deshalb kann man das natürlich nicht verallgemeinern. Die Anforderungen, was das angeht, sind einfach extrem
+[00:04:19 -> 00:04:23]  unterstützlich. Aber trotzdem ist ein Bachelorstudium in der Regel so ausgelegt,
+[00:04:23 -> 00:04:30]  dass es für jemanden, der von der Schule kommt, der sein Abi gemacht hat und jetzt quasi neu mit dem Studium startet,
+[00:04:30 -> 00:04:35]  immer machbar sein sollte, auch diese Module zu bestehen. Und das gilt natürlich auch für Programmierung.
+[00:04:35 -> 00:04:42]  Wenn man gerade anfängt, Programmierung zu lernen, dann kommt es in der Regel wirklich erst mal nur darauf an, erstens die Sprache zu lernen, weil
+[00:04:43 -> 00:04:46]  Programmiersprachen haben ganz viele verschiedene Ausdrücke, die man einfach kennen muss,
+[00:04:46 -> 00:04:50]  auswendig kennen muss und das ist dann im Endeffekt so eine Sprache lernen, wie zum Beispiel Englisch
+[00:04:51 -> 00:04:53]  oder halt jede andere Sprache.
+[00:04:53 -> 00:04:57]  Zusätzlich gehört bei Programmierung aber auch noch eine gewisse Logik dazu.
+[00:04:57 -> 00:05:03]  Nicht nur die Syntax muss man lernen, das heißt die Satzstellung, wie schreibe ich was hin, welches Wort kommt zuerst, sondern auch
+[00:05:04 -> 00:05:08]  wie funktioniert das Ganze. Man muss quasi lernen, zu denken wie ein Computer.
+[00:05:08 -> 00:05:13]  Denn für uns sind viele Sachen im Voraus logisch und es ist doch klar, wenn man das macht, dann kommt als nächstes das.
+[00:05:14 -> 00:05:16]  Der Computer macht ganz, ganz
+[00:05:16 -> 00:05:23]  buchstäblich nur das, was du dem sagst und wenn du dem eine Sache nicht sagst, dann macht er es auch einfach nicht und das muss man sich
+[00:05:23 -> 00:05:31]  wirklich über eine gewisse Zeit erst mal antrainieren, um zu sehen, wo Probleme liegen, was hat man hier vergessen und wieso funktioniert das Ganze hier gerade nicht.
+[00:05:31 -> 00:05:39]  Im Endeffekt ist Programmierung also wirklich nur so eine Übungssache und sobald man dieses logische Denken so ein bisschen verinnerlicht hat, ist da auch wirklich viel machbar.
+[00:05:40 -> 00:05:44]  Wo wir gerade bei schweren Modulen sind, wie gut müssen meine mathematischen Kenntnisse sein?
+[00:05:45 -> 00:05:55]  Ja, die Fragen rund um Mathe kamen teilweise so oft, dass ich irgendwann gesagt habe, ich mache euch ein ganzes Video dazu und erkläre euch mal kurz, wie ich das Ganze angegangen bin, obwohl ich nicht besonders gut in Mathe war und
+[00:05:55 -> 00:05:58]  habe euch versucht, dadurch so ein bisschen die Angst zu nehmen.
+[00:05:58 -> 00:06:02]  Wenn dich das Thema auch beschäftigt und du ein bisschen Angst vor dem Thema Mathe hast,
+[00:06:02 -> 00:06:10]  dann guck dir am besten erst mal mein Video dazu an, denn da gehe ich auf das Ganze ein bisschen spezifischer ein und genau aus dem Grund fasse ich das Ganze hier relativ kurz.
+[00:06:10 -> 00:06:16]  Mathe ist höchstwahrscheinlich der schwierigste Teil am Wirtschaftsinformatikstudium, weil man das nicht einfach so auswendig lernen kann.
+[00:06:16 -> 00:06:23]  Wenn man in der Schule jetzt beispielsweise auch schon nicht besonders gut in Mathe war, dann wird man höchstwahrscheinlich jetzt keine 1-0 in Mathe schreiben.
+[00:06:23 -> 00:06:30]  Aber um zu bestehen und das vielleicht auch mit einer vernünftigen Note, ist es absolut machbar, wenn man genug Zeit und Mühe reinsteckt.
+[00:06:31 -> 00:06:37]  Was mir dabei ein bisschen geholfen hat, ist zu versuchen, die Logik hinter dem Ganzen zu verstehen oder die Gründe hinter dem Ganzen zu verstehen.
+[00:06:38 -> 00:06:40]  Was bedeuten diese ganzen Buchstaben und Zahlen?
+[00:06:40 -> 00:06:41]  Was will man damit zeigen?
+[00:06:41 -> 00:06:43]  Was will man damit beweisen?
+[00:06:43 -> 00:06:50]  Und sobald man ein bisschen besser versteht, okay, das da zeigt etwas Bestimmtes oder damit rechne ich jetzt das und das aus,
+[00:06:50 -> 00:06:54]  dann macht das Ganze ein bisschen mehr Sinn und dann kann man es ein bisschen besser nachvollziehen.
+[00:06:54 -> 00:06:58]  Insgesamt ist Mathe also wirklich schwierig, aber absolut machbar.
+[00:06:58 -> 00:07:01]  Und für mehr, guck in das Video dazu rein.
+[00:07:01 -> 00:07:05]  Damit sind wir mit dem ersten Themenblock schon durch und haben noch zwei vor uns.
+[00:07:05 -> 00:07:07]  Das wäre zum einen Hardware und Software.
+[00:07:07 -> 00:07:10]  Was ist eigentlich besser, Windows oder Mac OS?
+[00:07:10 -> 00:07:12]  Und soll ich mir eher einen Laptop kaufen oder ein iPad?
+[00:07:12 -> 00:07:15]  Das sind so Fragen, die ich auch sehr, sehr oft gekriegt habe.
+[00:07:15 -> 00:07:19]  Und der dritte Themenblock ist Berufsaussichten nach dem Studium.
+[00:07:20 -> 00:07:22]  Wie viel verdient man? Was sind typische Jobs?
+[00:07:22 -> 00:07:26]  Also was? Bevor wir aber weitermachen, würde ich mich extrem freuen,
+[00:07:26 -> 00:07:30]  wenn ihr dem Ganzen hier ein Like gebt und mir und YouTube vor allem damit zeigt,
+[00:07:30 -> 00:07:34]  dass euch das Video gefällt, dass euch das Video geholfen hat und YouTube somit
+[00:07:34 -> 00:07:37]  anderen Leuten dieses Video anzeigt, die auch die gleichen Fragen haben.
+[00:07:38 -> 00:07:40]  So, wie steht es um Hardware und Software?
+[00:07:41 -> 00:07:42]  Was ist besser für das Studium?
+[00:07:42 -> 00:07:45]  Ein Windows Rechner oder ein Mac?
+[00:07:45 -> 00:07:48]  In der Regel ist das Betriebssystem für das Studium komplett irrelevant.
+[00:07:48 -> 00:07:52]  Also du kannst dir entweder ein Windows kaufen, du kannst dir gerne
+[00:07:52 -> 00:07:55]  irgendwelche Apple Produkte kaufen, kannst auch einen Linux Rechner benutzen.
+[00:07:56 -> 00:08:00]  Also das Betriebssystem ist für das Studium nicht besonders ausschlaggebend.
+[00:08:00 -> 00:08:03]  In der Regel ist den Hochschulen beziehungsweise den Lehrstühlen
+[00:08:03 -> 00:08:07]  nämlich bewusst, dass manche Studenten nun mal Windows Rechner benutzen,
+[00:08:07 -> 00:08:08]  andere lieber Mac.
+[00:08:08 -> 00:08:12]  Und deshalb müssen die sich ein bisschen danach orientieren, danach ausrichten
+[00:08:13 -> 00:08:16]  und bieten in der Regel Software oder anderes an,
+[00:08:16 -> 00:08:19]  das für beides verfügbar ist.
+[00:08:20 -> 00:08:22]  Soll ich meinen Laptop kaufen oder reicht auch ein iPad?
+[00:08:23 -> 00:08:25]  Auch das ist eine Frage, die ich sehr oft gestellt bekommen habe
+[00:08:26 -> 00:08:28]  und deshalb auch dazu extra ein Video gemacht habe.
+[00:08:29 -> 00:08:30]  Um das Ganze kurz zu fassen,
+[00:08:30 -> 00:08:34]  im Wirtschaftsinformatik Studium ist ein Laptop in der Regel besser,
+[00:08:34 -> 00:08:39]  denn Programmieren ist eine Sache, die auf dem iPad einfach nicht so gut funktioniert.
+[00:08:39 -> 00:08:42]  Es gibt mit Sicherheit auch sehr, sehr gute Apps mittlerweile,
+[00:08:42 -> 00:08:46]  mit denen man auf dem iPad genauso gut programmieren kann wie jetzt auf dem Laptop.
+[00:08:47 -> 00:08:51]  Aber trotzdem ist es deutlich komplizierter und umständlicher,
+[00:08:51 -> 00:08:54]  wenn man jetzt beispielsweise noch in der Gruppe arbeitet mit anderen Studenten
+[00:08:54 -> 00:08:58]  und man da irgendwie Dateien austauschen muss, eine Anbindung zu beispielsweise
+[00:08:58 -> 00:09:00]  Git herstellen muss und sonst was.
+[00:09:00 -> 00:09:03]  Da ist das Ganze auf einem iPad beziehungsweise Tablet,
+[00:09:03 -> 00:09:05]  glaube ich, deutlich komplizierter als auf einem Laptop.
+[00:09:06 -> 00:09:09]  Wie das aber für andere Studierende aussieht und ob sich das im Zweifel
+[00:09:09 -> 00:09:11]  auch im Wirtschaftsinformatik Studium trotzdem lohnen kann,
+[00:09:12 -> 00:09:13]  habe ich dir im Video erklärt.
+[00:09:14 -> 00:09:17]  Kommen wir damit also zu den Berufsaussichten nach dem Studium.
+[00:09:17 -> 00:09:19]  Wie sieht es da um Jobs aus?
+[00:09:19 -> 00:09:21]  Wie sieht es da um Verdienst aus?
+[00:09:21 -> 00:09:24]  All das sind natürlich Fragen, die sich stellen
+[00:09:24 -> 00:09:27]  und denen wird Sicherheit eine große Rolle bei der Studienwahl spielen.
+[00:09:28 -> 00:09:32]  Wie viel verdient man als Wirtschaftsinformatiker und was sind typische Berufe?
+[00:09:33 -> 00:09:37]  Weil ich so oft die Frage bekomme, wie viel ein Wirtschaftsinformatiker verdient.
+[00:09:37 -> 00:09:39]  Es ist für mich, glaube ich, erst mal wichtig, klarzustellen,
+[00:09:39 -> 00:09:41]  dass das kein richtiger Beruf ist.
+[00:09:42 -> 00:09:44]  Man arbeitet nicht als Wirtschaftsinformatiker.
+[00:09:44 -> 00:09:48]  Und genau das ist das Problem bei der Frage, denn als Wirtschaftsinformatiker
+[00:09:48 -> 00:09:53]  hat man ein sehr, sehr breites Spektrum an möglichen Berufen.
+[00:09:54 -> 00:09:57]  Und da zu sagen, wie viel ein Wirtschaftsinformatiker
+[00:09:57 -> 00:10:00]  nach dem Studium verdient, ist wirklich unmöglich.
+[00:10:01 -> 00:10:03]  Denn nach dem Wirtschaftsinformatik Studium kannst du einerseits
+[00:10:04 -> 00:10:07]  in Berufe einsteigen wie Data Analyst oder Business Analyst,
+[00:10:07 -> 00:10:10]  IT-Projektmanager, IT-Manager.
+[00:10:10 -> 00:10:13]  Das sind so klassische Wirtschaftsinformatik-Berufe,
+[00:10:13 -> 00:10:17]  das heißt so Schnittstelle zwischen IT und Wirtschaft.
+[00:10:17 -> 00:10:20]  Aber je nach Interesse kannst du dich natürlich auch ein bisschen technischer
+[00:10:20 -> 00:10:24]  orientieren und Softwareentwickler, egal ob Frontend, Backend, Mobile
+[00:10:24 -> 00:10:25]  oder sonst was werden.
+[00:10:25 -> 00:10:27]  Und um das Ganze noch ein bisschen umfassender zu machen,
+[00:10:27 -> 00:10:32]  kannst du natürlich auch in die mehr Marketing-BWL-Richtung gehen.
+[00:10:32 -> 00:10:36]  Vielleicht als Wirtschaftsinformatiker ist man auch oft im Online-Marketing,
+[00:10:36 -> 00:10:38]  aber du kannst natürlich auch ins klassische Marketing,
+[00:10:38 -> 00:10:43]  du kannst ins Social-Media-Marketing, also wirklich, was dich interessiert,
+[00:10:43 -> 00:10:46]  kannst du im Endeffekt machen, wenn du dich entsprechend interessierst.
+[00:10:46 -> 00:10:49]  Und ich glaube, dadurch wird auch für dich relativ schnell deutlich,
+[00:10:49 -> 00:10:53]  dass bei den ganzen verschiedenen Jobs und dann noch zusätzlichen Faktoren wie
+[00:10:53 -> 00:10:58]  wo du bist oder wie viel Berufserfahrung du hast oder bei welchem Unternehmen
+[00:10:58 -> 00:11:01]  du arbeitest, dadurch sind die Gehälter einfach so unterschiedlich,
+[00:11:02 -> 00:11:04]  dass ich das einfach nicht pauschal beantworten kann.
+[00:11:05 -> 00:11:08]  Aber natürlich will ich dich jetzt auch nicht komplett ohne Antwort stehen lassen,
+[00:11:08 -> 00:11:10]  dann hätte ich eigentlich jetzt nur eine Zeit verschwendet.
+[00:11:11 -> 00:11:13]  Deshalb habe ich dir in der Videobeschreibung
+[00:11:13 -> 00:11:17]  einen Link reingestellt zum StepStone Gehaltsreport von 2021.
+[00:11:17 -> 00:11:19]  Und da werden die Durchschnittsgehalte je nach Branche
+[00:11:19 -> 00:11:21]  und Berufserfahrung dargestellt.
+[00:11:21 -> 00:11:23]  Und dann kannst du dir trotzdem mal so einen Blick machen,
+[00:11:23 -> 00:11:27]  was man in den verschiedenen Branchen, ob IT, Wirtschaft,
+[00:11:27 -> 00:11:29]  Finance oder sonst wo, was man da verdient im Durchschnitt
+[00:11:29 -> 00:11:32]  und was man beispielsweise als Berufseinsteiger
+[00:11:32 -> 00:11:35]  oder mit zehn Jahren Berufserfahrung verdient.
+[00:11:35 -> 00:11:38]  Damit ist deine Frage zum Thema Berufsaussichten und Jobaussichten
+[00:11:38 -> 00:11:41]  öffentlich trotzdem beantwortet und das hilft dir weiter.
+[00:11:42 -> 00:11:45]  Wenn du aber jetzt noch Fragen hast zum Thema Wirtschaftsinformatik Studium,
+[00:11:45 -> 00:11:47]  die ich noch nicht in diesem Video hier beantwortet habe,
+[00:11:47 -> 00:11:50]  dann schreib mir direkt mal in die Kommentare.
+[00:11:50 -> 00:11:52]  Lass mich wissen, was dich sonst noch interessiert
+[00:11:52 -> 00:11:54]  und vergiss nicht, den Kanal zu abonnieren.
+[00:11:54 -> 00:11:56]  Dann verpasst du auch nichts in Zukunft.
+[00:11:56 -> 00:11:59]  Und in einem meiner letzten Videos habe ich nochmal reflektiert,
+[00:12:00 -> 00:12:02]  ob sich das Wirtschaftsinformatik Studium für mich gelohnt hat
+[00:12:02 -> 00:12:04]  und ob ich das Ganze noch mal studieren würde.
+[00:12:04 -> 00:12:06]  Deshalb, wenn dich das Thema noch interessiert,
+[00:12:06 -> 00:12:08]  schau am besten auch da mal vorbei.
+[00:12:08 -> 00:12:10]  Dann wünsche ich dir wie immer ein Hammer Tag, mach das Beste draus
+[00:12:11 -> 00:12:12]  und wir sehen uns im nächsten Video.
+[00:12:12 -> 00:12:12]  Mach's gut!

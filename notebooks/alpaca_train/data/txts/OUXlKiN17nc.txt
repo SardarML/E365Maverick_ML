@@ -1,0 +1,353 @@
+[00:00:00 -> 00:00:06]  Hey everyone, it is Leigh, I'm the lawyer, and I am here with my new video.
+[00:00:06 -> 00:00:09]  It is part one of my series on criminal law.
+[00:00:09 -> 00:00:13]  There will be eight parts, so there will be eight videos.
+[00:00:13 -> 00:00:17]  Since this is the first video, this is just a basic introduction to criminal law.
+[00:00:17 -> 00:00:23]  We're going to talk about things like what the definition is, where it came from, where
+[00:00:23 -> 00:00:28]  you can find criminal laws as you're doing your research, what are the main purposes
+[00:00:28 -> 00:00:35]  of criminal law, and how do we punish, or more, I guess, in this video, why do we punish?
+[00:00:35 -> 00:00:41]  And we'll talk about specific nuts and bolts of different crimes and different punishments
+[00:00:41 -> 00:00:44]  as we move on into other videos.
+[00:00:44 -> 00:00:49]  This particular video, though, is just your basic introduction to criminal law.
+[00:00:49 -> 00:00:50]  So let's get started.
+[00:00:50 -> 00:00:53]  All right, so first of all, what is a crime?
+[00:00:53 -> 00:00:58]  Well, in order for me to actually describe this to you, I like to go all the way back
+[00:00:58 -> 00:01:00]  to the colonists when they came over from England.
+[00:01:00 -> 00:01:03]  Yes, I'm going that far back.
+[00:01:03 -> 00:01:06]  I'm going that far back because one of our sources of criminal law, as you'll see in
+[00:01:06 -> 00:01:10]  one of the future slides here, is the common law.
+[00:01:10 -> 00:01:15]  The common law system was brought over from England with the colonists.
+[00:01:15 -> 00:01:17]  It's how things were done.
+[00:01:17 -> 00:01:24]  The nuts and bolts, the basics of this is that crimes are things that people in society
+[00:01:24 -> 00:01:28]  don't want other people to do.
+[00:01:28 -> 00:01:29]  They find it disruptive.
+[00:01:29 -> 00:01:31]  They find it morally wrong.
+[00:01:31 -> 00:01:33]  They find it to be dangerous.
+[00:01:33 -> 00:01:39]  So when we go back to the common law, you think about how times were way back in the
+[00:01:39 -> 00:01:41]  day, and things that were important to people.
+[00:01:41 -> 00:01:44]  For example, people didn't have a lot of money.
+[00:01:44 -> 00:01:47]  Maybe they didn't have any property, but a lot of people had livestock.
+[00:01:47 -> 00:01:51]  So one of the things I like to think about is, well, if I was one of those colonists
+[00:01:51 -> 00:01:56]  and I had a goat, which would be very important to me because it would provide me with potential
+[00:01:56 -> 00:01:59]  meat or it could provide me with milk.
+[00:01:59 -> 00:02:04]  I could make cheese, butter, you know, yada yada, all that stuff.
+[00:02:04 -> 00:02:09]  I would be very unhappy if my neighbor Jim came over and killed my goat.
+[00:02:09 -> 00:02:12]  Yes, I would be absolutely outraged.
+[00:02:12 -> 00:02:17]  I would imagine that the other people in my village would be very outraged to see that
+[00:02:17 -> 00:02:22]  Jim had killed a goat because they would be afraid that Jim would be killing their
+[00:02:22 -> 00:02:24]  goats as well.
+[00:02:24 -> 00:02:27]  I would guess that this would be one of those things that would cause everyone in the village
+[00:02:27 -> 00:02:31]  to say, there should be a law against that.
+[00:02:31 -> 00:02:34]  That's how crimes got started, okay?
+[00:02:34 -> 00:02:36]  That is what we are talking about.
+[00:02:36 -> 00:02:43]  And even though it was my goat that was killed, because this causes a societal outrage, there
+[00:02:43 -> 00:02:49]  would be a person in the village who would be elected to represent the village.
+[00:02:49 -> 00:02:53]  And in modern day times, this person is called a prosecutor.
+[00:02:53 -> 00:02:56]  And they represent the local state or federal government.
+[00:02:56 -> 00:03:03]  And they would prosecute Jim, not on behalf of me, the goat owner, but on behalf of the
+[00:03:03 -> 00:03:06]  entire village.
+[00:03:06 -> 00:03:09]  That's the difference between criminal law and civil law.
+[00:03:09 -> 00:03:10]  One of the main differences.
+[00:03:10 -> 00:03:12]  And I've gone over this in other videos.
+[00:03:13 -> 00:03:19]  But we are going to be focusing on that aspect, where the government has the authority, they
+[00:03:19 -> 00:03:25]  have an elected person, a prosecutor, who represents society as a whole.
+[00:03:25 -> 00:03:26]  Okay?
+[00:03:26 -> 00:03:30]  So just remember, with criminal law, it is something that everybody's upset about.
+[00:03:30 -> 00:03:33]  Nobody wants to have happen.
+[00:03:33 -> 00:03:37]  And the prosecution represents the people, not a particular individual.
+[00:03:37 -> 00:03:38]  All right.
+[00:03:38 -> 00:03:39]  Some more historical notes.
+[00:03:40 -> 00:03:43]  I talked about this idea that everybody in the village would say, there should be a law
+[00:03:43 -> 00:03:44]  against that.
+[00:03:44 -> 00:03:47]  Jim just went over and he killed her goat.
+[00:03:47 -> 00:03:49]  Just cold-blooded killed her goat.
+[00:03:49 -> 00:03:53]  Well, that's characterized by this Latin maxim.
+[00:03:53 -> 00:03:55]  It's called the principle of legality.
+[00:03:55 -> 00:04:00]  I'm not going to try to pronounce the Latin.
+[00:04:00 -> 00:04:03]  It does translate to no penalty without a law.
+[00:04:03 -> 00:04:09]  So in other words, Jim came over to the brand new village, where one of the American colonists
+[00:04:09 -> 00:04:10]  lived.
+[00:04:10 -> 00:04:11]  Brand new village.
+[00:04:11 -> 00:04:12]  And Jim came over.
+[00:04:12 -> 00:04:13]  He killed my goat.
+[00:04:13 -> 00:04:20]  Well, currently, there's no anti-goat-killing laws in our village, but there was an outcry.
+[00:04:20 -> 00:04:26]  Jim, unfortunately for me, and unfortunately for the village, cannot be prosecuted after
+[00:04:26 -> 00:04:32]  he killed my goat, because there was no law and he did not know that he had to curtail
+[00:04:32 -> 00:04:33]  his behavior.
+[00:04:33 -> 00:04:36]  He had to stop himself from killing my goat.
+[00:04:36 -> 00:04:38]  There's no law on the books.
+[00:04:38 -> 00:04:40]  There's no law against it.
+[00:04:40 -> 00:04:45]  He was able to do that, but everyone was very upset about it and they had an outcry.
+[00:04:45 -> 00:04:52]  And in response to that, we can assume that the village elders got together and they wrote
+[00:04:52 -> 00:04:58]  a law, thou shalt not kill any goats, okay, without the owner's consent.
+[00:04:58 -> 00:05:01]  Because maybe you bring it to your neighbor and say, hey, I don't really want to kill
+[00:05:01 -> 00:05:02]  the goat.
+[00:05:02 -> 00:05:03]  I need the meat.
+[00:05:03 -> 00:05:04]  But, you know, we're friends now.
+[00:05:04 -> 00:05:06]  I've had him for a number of years, but we're hungry.
+[00:05:06 -> 00:05:07]  Can you kill him for me?
+[00:05:07 -> 00:05:08]  Because I just don't want to do it.
+[00:05:08 -> 00:05:11]  That would be with consent.
+[00:05:11 -> 00:05:15]  So I'm assuming that this law is, you know, you're killing someone else's goat without
+[00:05:15 -> 00:05:17]  their consent.
+[00:05:17 -> 00:05:20]  And you would have to establish some kind of punishment for that.
+[00:05:20 -> 00:05:24]  If you do violate this law, then you're going to go to jail for a year and you're going
+[00:05:24 -> 00:05:30]  to have to pay a fine of five goats to your neighbor or whoever's goat that you killed,
+[00:05:30 -> 00:05:31]  okay?
+[00:05:31 -> 00:05:36]  So that would be, that's the whole idea of this principle of legality in that, hey, if
+[00:05:36 -> 00:05:40]  there's no law on the books, it's not a crime.
+[00:05:40 -> 00:05:41]  All right, next.
+[00:05:41 -> 00:05:43]  The government has the power to do this.
+[00:05:43 -> 00:05:46]  They have the power to get together and write these laws.
+[00:05:46 -> 00:05:48]  That is one of their inherent authorities.
+[00:05:48 -> 00:05:52]  So they can both influence your behavior through establishing criminal laws, and they can also
+[00:05:52 -> 00:05:56]  do it through the civil law system.
+[00:05:56 -> 00:06:00]  Always remember, when they are writing criminal laws, they have to be balanced with your rights
+[00:06:00 -> 00:06:04]  as established under the U.S. Constitution and the Bill of Rights.
+[00:06:04 -> 00:06:10]  You cannot write a criminal law that infringes upon your freedom of religion or your freedom
+[00:06:10 -> 00:06:11]  of speech.
+[00:06:11 -> 00:06:12]  Make sense?
+[00:06:12 -> 00:06:16]  All right, so just make sure that sometimes you'll hear people say, oh, well, that law
+[00:06:16 -> 00:06:17]  is unconstitutional.
+[00:06:17 -> 00:06:23]  Well, the reason why it would be unconstitutional is because perhaps they've crafted a law that
+[00:06:23 -> 00:06:26]  somehow conflicts with one of your fundamental civil liberties.
+[00:06:26 -> 00:06:30]  All right, so where do we find criminal law?
+[00:06:30 -> 00:06:33]  So if you're doing your research, well, you're going to find it in the common law.
+[00:06:33 -> 00:06:34]  We talked about the common law.
+[00:06:34 -> 00:06:35]  It was developed in England.
+[00:06:35 -> 00:06:37]  It was brought to the United States by the English colonists.
+[00:06:37 -> 00:06:43]  But the main thing that you need to know about the common law is that there's this overriding
+[00:06:43 -> 00:06:45]  principle, and I do know how to pronounce this one.
+[00:06:45 -> 00:06:48]  It's called stare decisis.
+[00:06:48 -> 00:06:52]  It's the doctrine that judicial decisions stand as precedents for cases arising in the
+[00:06:52 -> 00:06:53]  future.
+[00:06:53 -> 00:06:55]  So now, Jim killed my goat.
+[00:06:55 -> 00:06:59]  Unfortunately, there was no law against it when Jim killed my goat, so there was nothing
+[00:06:59 -> 00:07:00]  I can do about it.
+[00:07:00 -> 00:07:02]  But the village elders got together.
+[00:07:02 -> 00:07:03]  They wrote this law.
+[00:07:03 -> 00:07:07]  Jim now is killing someone else's goat because he's a goat killer.
+[00:07:07 -> 00:07:09]  We all know he's a goat killer.
+[00:07:09 -> 00:07:11]  Well, he went ahead and killed this other person's goat.
+[00:07:11 -> 00:07:16]  Well, when he killed that other person's goat, the village elders, they had their prosecutor
+[00:07:16 -> 00:07:20]  come, and on behalf of the entire village, Jim was prosecuted.
+[00:07:20 -> 00:07:26]  He spent a year in jail, and he had to pay five goats to that person whose goat that
+[00:07:26 -> 00:07:29]  he slaughtered, okay?
+[00:07:29 -> 00:07:30]  There we go.
+[00:07:30 -> 00:07:31]  It worked.
+[00:07:31 -> 00:07:34]  That's our first judicial decision on the books.
+[00:07:34 -> 00:07:40]  Now, Mary, she also killed a goat after the law was established.
+[00:07:40 -> 00:07:46]  Mary, however, said, wait, I killed this goat in self-defense, and they're like, what do
+[00:07:46 -> 00:07:47]  you mean?
+[00:07:47 -> 00:07:48]  She came in.
+[00:07:48 -> 00:07:49]  She had bite marks all over her arms.
+[00:07:49 -> 00:07:53]  She had hoof prints on her forehead.
+[00:07:53 -> 00:07:55]  Quite a scene.
+[00:07:55 -> 00:07:56]  She claimed self-defense.
+[00:07:56 -> 00:08:01]  Well, the village elders looked at that while she was being prosecuted.
+[00:08:01 -> 00:08:06]  The judge, the jury, they looked at it, and they said, wow, that seems like it might be
+[00:08:06 -> 00:08:12]  self-defense, but the law says, the law says that she killed a goat, therefore she goes
+[00:08:12 -> 00:08:13]  to jail.
+[00:08:13 -> 00:08:18]  She went to jail, but she appealed it to a higher authority, so once she appealed it,
+[00:08:18 -> 00:08:22]  the appellate court looked at it, and they said, well, when we look at the legislative
+[00:08:22 -> 00:08:28]  intent of this law, when we look at it, we don't think that the village elders, whenever
+[00:08:28 -> 00:08:34]  they wrote this law, the legislatures, we don't think that they meant to prevent people
+[00:08:34 -> 00:08:35]  from killing goats in self-defense.
+[00:08:35 -> 00:08:40]  I mean, it seems like it was either her or the goat in this situation.
+[00:08:40 -> 00:08:42]  I mean, what choice did she have?
+[00:08:42 -> 00:08:47]  We're going to carve out a little bit of an exception to this rule, and so they did in
+[00:08:47 -> 00:08:49]  that judicial decision.
+[00:08:49 -> 00:08:56]  They carved out the exception of self-defense, so they decided that Mary, in fact, did kill
+[00:08:56 -> 00:09:00]  a goat, but she had a justifiable reason for doing so.
+[00:09:00 -> 00:09:07]  The idea of stare decisis says that these court decisions become what is called precedent.
+[00:09:07 -> 00:09:11]  Precedent is that prior decision of the same court or of a higher court which a judge must
+[00:09:11 -> 00:09:19]  follow in deciding a subsequent case, so Mary, her case carved out that exception for self-defense,
+[00:09:19 -> 00:09:27]  so now when Sarah kills a goat, and she does so in self-defense, she can use Mary's case
+[00:09:27 -> 00:09:35]  and say, Your Honor, in state versus Mary, village versus Mary, she was allowed to protect
+[00:09:35 -> 00:09:41]  herself because she was being attacked by a goat, and the judge looks at it and says,
+[00:09:41 -> 00:09:42]  You're right.
+[00:09:42 -> 00:09:43]  This is precedent.
+[00:09:43 -> 00:09:48]  I have to follow this, and I do find that you did kill the goat in self-defense, and
+[00:09:48 -> 00:09:49]  therefore you go free.
+[00:09:49 -> 00:09:52]  That is the idea.
+[00:09:52 -> 00:09:55]  That's our common law system.
+[00:09:55 -> 00:09:56]  Those are cases.
+[00:09:56 -> 00:10:01]  That is called case law, and they are based on judicial decisions, but they arise from
+[00:10:01 -> 00:10:06]  particular incidents, things that actually happen, and those judges have to interpret
+[00:10:06 -> 00:10:11]  the law, and they look at a variety of factors, so this is a very simplistic view of it, but
+[00:10:11 -> 00:10:12]  that's the basics of it.
+[00:10:12 -> 00:10:17]  Where else do we find criminal laws so that, you know, you know under the principle of
+[00:10:17 -> 00:10:19]  legality, what you're supposed to do and what you're not supposed to do?
+[00:10:19 -> 00:10:23]  Well, the U.S. Constitution lays out some things, and so does the state constitution.
+[00:10:23 -> 00:10:26]  Things like treason, those types of things.
+[00:10:26 -> 00:10:33]  You want to not do that because you can be held accountable for those.
+[00:10:33 -> 00:10:35]  Where else would you find criminal law?
+[00:10:35 -> 00:10:37]  Well, you would find it in statutory law.
+[00:10:37 -> 00:10:41]  What I've been describing, the village elders, also known as the legislature, when they get
+[00:10:41 -> 00:10:46]  together and they write laws where the public outcry says, There should be a law against
+[00:10:46 -> 00:10:47]  that.
+[00:10:47 -> 00:10:53]  And the legislature writes down laws, those are also called codes, that's the statutory
+[00:10:53 -> 00:10:54]  law.
+[00:10:54 -> 00:10:56]  And there's both federal and state laws.
+[00:10:56 -> 00:11:01]  There's also ordinances, this is at your local level, this is your city has created laws.
+[00:11:01 -> 00:11:08]  A lot of times they're zoning laws, they are things like parking and, you know, those types
+[00:11:08 -> 00:11:09]  of things.
+[00:11:09 -> 00:11:15]  Very, you know, tiny laws, city laws, ordinances, but there's still laws.
+[00:11:15 -> 00:11:17]  And a lot of them, they make things a crime.
+[00:11:17 -> 00:11:19]  For example, leash laws.
+[00:11:19 -> 00:11:23]  You can't walk your dog in certain places without a leash, okay?
+[00:11:23 -> 00:11:26]  Those are city laws, those are ordinances.
+[00:11:26 -> 00:11:30]  You don't want to violate those because you could be fined.
+[00:11:30 -> 00:11:31]  Administrative laws.
+[00:11:31 -> 00:11:36]  These are regulations promulgated by administrative agencies.
+[00:11:36 -> 00:11:42]  A lot of times they deal with things, administrative agencies deal with things like food handling.
+[00:11:42 -> 00:11:46]  You know, you want to make sure that you are requiring all of your employees to have
+[00:11:46 -> 00:11:50]  a food handler's card at certain restaurants.
+[00:11:50 -> 00:11:55]  When you're applying for food stamps, you have to meet certain income requirements.
+[00:11:55 -> 00:12:00]  These are all regulations that are promulgated by regulatory agencies.
+[00:12:00 -> 00:12:06]  And there are things that also prescribe certain laws, criminal laws, things that you can do
+[00:12:06 -> 00:12:11]  that if you violate them, you're going to find yourself either incarcerated or fined
+[00:12:11 -> 00:12:14]  if you violate those regulations.
+[00:12:14 -> 00:12:16]  Also court rules.
+[00:12:16 -> 00:12:20]  The court has certain things that they hold you to.
+[00:12:20 -> 00:12:27]  For example, how long you have to file a response to something, how long you have to defend
+[00:12:27 -> 00:12:29]  yourself in certain ways.
+[00:12:29 -> 00:12:32]  So those court rules, they're procedural.
+[00:12:32 -> 00:12:36]  We will have a whole other series on procedural law, and I'll get to those, but some of those
+[00:12:36 -> 00:12:39]  things constitute crimes.
+[00:12:39 -> 00:12:46]  Now the model penal code, I want to make this very clear, this is not law.
+[00:12:46 -> 00:12:50]  The model penal code, if you look at the word model, and I always think of like a model
+[00:12:50 -> 00:12:55]  airplane, it is a tiny version of a real airplane.
+[00:12:55 -> 00:13:00]  A model spaceship would be a tiny version of something that you envision what a spaceship
+[00:13:00 -> 00:13:03]  would look like if we had one.
+[00:13:03 -> 00:13:08]  I mean we do have some spaceships, but let's talk about like an alien type spaceship.
+[00:13:08 -> 00:13:10]  If you could have the perfect spaceship, what would it look like?
+[00:13:10 -> 00:13:12]  We can create a little model of it.
+[00:13:12 -> 00:13:17]  Well, the model penal code, it was developed by the American Law Institute, it's a group
+[00:13:17 -> 00:13:22]  of scholars getting together, very intelligent people, looked at the criminal justice system
+[00:13:22 -> 00:13:28]  and they said, if we had the perfect set of laws in the criminal justice system, this
+[00:13:28 -> 00:13:29]  is what they would look like.
+[00:13:29 -> 00:13:32]  This is the perfect murder statute.
+[00:13:32 -> 00:13:35]  This is the perfect arson statute.
+[00:13:35 -> 00:13:38]  This is the perfect kidnapping statute.
+[00:13:38 -> 00:13:42]  That's what they've done is they've put together the model law, how they envision the ideal
+[00:13:42 -> 00:13:45]  law to be.
+[00:13:45 -> 00:13:51]  States have looked at these, and unless a state has adopted the model penal code's version
+[00:13:51 -> 00:13:53]  of the law, it is not law.
+[00:13:53 -> 00:13:59]  It is only law once it has been adopted by a state or federal body.
+[00:13:59 -> 00:14:06]  In that case, if it's adopted, yes, it's law, but otherwise it's just the perfect envisionment
+[00:14:06 -> 00:14:09]  of what the law would be.
+[00:14:09 -> 00:14:14]  So that's a good source, but it doesn't mean that that is the law.
+[00:14:14 -> 00:14:16]  Now what are the purposes?
+[00:14:16 -> 00:14:17]  I've talked about it.
+[00:14:17 -> 00:14:18]  We're in this village.
+[00:14:18 -> 00:14:21]  We've got goat killers running rampant in my village.
+[00:14:21 -> 00:14:28]  We want to protect society, but they're not going to be tiny things.
+[00:14:28 -> 00:14:33]  Sometimes they are, but for the most part, they are larger crimes.
+[00:14:33 -> 00:14:37]  These are things that are considered to be morally wrong or extremely dangerous.
+[00:14:37 -> 00:14:44]  It's serious behavior, and how we prevent this behavior from happening is punishment.
+[00:14:44 -> 00:14:52]  The goals of punishment are on the last slide here, and these goals of punishment, why do
+[00:14:52 -> 00:14:53]  we punish?
+[00:14:53 -> 00:14:59]  Well, we want to prevent people from this behavior, and unless there's some kind of
+[00:14:59 -> 00:15:03]  punishment, I mean, how else are we going to deter this behavior?
+[00:15:03 -> 00:15:05]  So that's why the first two are deterrence.
+[00:15:05 -> 00:15:10]  Now the term specific deterrence refers to Jim, the goat killer, okay?
+[00:15:10 -> 00:15:13]  Jim, he likes to murder goats.
+[00:15:13 -> 00:15:19]  Specific deterrence would be aimed at Jim, teaching Jim never to do that again, okay?
+[00:15:19 -> 00:15:22]  He went to jail for a year and he had to pay five goats, okay?
+[00:15:22 -> 00:15:26]  Eventually Jim learned his lesson after that year in the payment of five goats, and he
+[00:15:26 -> 00:15:29]  doesn't go around killing more goats.
+[00:15:29 -> 00:15:35]  Now when we punish Jim, we have what's called general deterrence.
+[00:15:35 -> 00:15:38]  The rest of the village look at it and go, wow, did you see what happened to Jim?
+[00:15:38 -> 00:15:39]  Yeah, Jim killed a goat.
+[00:15:39 -> 00:15:41]  He went to jail for a year, had to pay five goats.
+[00:15:41 -> 00:15:43]  Ooh, I'm not going to kill any goats.
+[00:15:43 -> 00:15:45]  Yeah, me neither.
+[00:15:45 -> 00:15:46]  That's general deterrence.
+[00:15:46 -> 00:15:52]  That's where you see somebody else getting punished and it works on you.
+[00:15:52 -> 00:15:54]  You're like, I'm not going to be that guy.
+[00:15:54 -> 00:16:00]  Also sometimes a severe punishment, even if nobody's been punished for the crime yet,
+[00:16:00 -> 00:16:04]  you look at it and you go, wow, that's a really severe punishment for that particular crime.
+[00:16:04 -> 00:16:07]  I don't want anybody, nobody should have to do that, okay?
+[00:16:07 -> 00:16:09]  That's the idea of general deterrence.
+[00:16:09 -> 00:16:13]  These are the motivations for punishments.
+[00:16:13 -> 00:16:19]  Now, incapacitation, let's say, you know, Jim killed that first goat.
+[00:16:19 -> 00:16:20]  He got away with it.
+[00:16:20 -> 00:16:21]  It's mine.
+[00:16:21 -> 00:16:22]  He killed another goat.
+[00:16:22 -> 00:16:25]  He had to spend a year and then he had five more goats that he had to pay.
+[00:16:25 -> 00:16:30]  But then he gets out after that year, he hasn't learned his lesson, he kills three more goats.
+[00:16:30 -> 00:16:33]  At this point, we have to incapacitate Jim.
+[00:16:33 -> 00:16:38]  We have to put him in jail for a much longer time.
+[00:16:38 -> 00:16:42]  Incapacitation is where you're removing that individual from society for what is considered
+[00:16:42 -> 00:16:44]  to be an appropriate amount of time.
+[00:16:44 -> 00:16:47]  The death penalty is the ultimate incapacitation.
+[00:16:47 -> 00:16:51]  So for those states that, you know, have the death penalty, if you think that the crime
+[00:16:51 -> 00:16:57]  that they committed was egregious enough that they deserve to die and permanently incapacitate
+[00:16:57 -> 00:17:02]  them, permanently remove them from society, that's what you will do to them, okay?
+[00:17:02 -> 00:17:07]  So now remember, incapacitation is going to vary.
+[00:17:07 -> 00:17:13]  So what if we put Jim in jail for 10 years after he kills those goats?
+[00:17:13 -> 00:17:18]  He's going to get out because Jim was only 20 when he committed his first crime.
+[00:17:18 -> 00:17:19]  So he's actually going to get out.
+[00:17:19 -> 00:17:23]  He's still going to be a relatively young man.
+[00:17:23 -> 00:17:29]  Rehabilitation is something that can happen while Jim is incapacitated, while he is incarcerated.
+[00:17:29 -> 00:17:33]  Maybe he's on probation, maybe he's actually in jail, maybe he's on home confinement.
+[00:17:33 -> 00:17:39]  But maybe we need to help Jim so that Jim stops killing goats because we can't, you
+[00:17:39 -> 00:17:43]  know, it's not severe enough that he requires a death penalty, but he's still a menace.
+[00:17:43 -> 00:17:46]  So maybe we should give him a high school education.
+[00:17:46 -> 00:17:53]  Maybe we should give him a degree in some kind of technical job or skill.
+[00:17:53 -> 00:17:54]  Maybe we can help him.
+[00:17:54 -> 00:17:56]  Maybe we'll give him counseling.
+[00:17:56 -> 00:17:59]  Maybe we can have him do community service.
+[00:17:59 -> 00:18:01]  These are all things that are geared toward rehabilitation.
+[00:18:01 -> 00:18:06]  And so a lot of criminal justice reform talks about how we can rehabilitate people because
+[00:18:06 -> 00:18:11]  quite frankly, you really can't keep every criminal in jail forever.
+[00:18:11 -> 00:18:13]  It's just not feasible.
+[00:18:13 -> 00:18:17]  So at one point, you have to recognize that you're putting people back out on the streets
+[00:18:17 -> 00:18:21]  that have had no rehabilitation or very little.
+[00:18:21 -> 00:18:26]  So these are pretty important programs coming from a criminal justice standpoint.
+[00:18:26 -> 00:18:30]  If you want to continue to help society, if the whole point of criminal law is to protect
+[00:18:30 -> 00:18:35]  society and then you're putting people back out there, they're just going to do it again.
+[00:18:35 -> 00:18:37]  You really need to look at rehabilitation as an option.
+[00:18:37 -> 00:18:40]  And then retribution is another thing.
+[00:18:40 -> 00:18:45]  And this is usually, in my opinion, it comes from death penalty cases are a lot about retribution.
+[00:18:45 -> 00:18:47]  It's societal vengeance.
+[00:18:47 -> 00:18:52]  It's like you killed my person that I loved and now we're going to kill you.
+[00:18:52 -> 00:18:56]  Or we're going to put you in life in prison without the possibility of parole because
+[00:18:56 -> 00:18:58]  you are a terrible, terrible human being.
+[00:18:58 -> 00:19:00]  That is vengeance.
+[00:19:00 -> 00:19:02]  That is vengeance against the person.
+[00:19:02 -> 00:19:05]  And I'm not saying that there's anything wrong with it.
+[00:19:05 -> 00:19:10]  I think we should just recognize that this is often the reason for death penalty and
+[00:19:10 -> 00:19:12]  for severe sentences.
+[00:19:12 -> 00:19:14]  You just want to get back at that person.
+[00:19:14 -> 00:19:17]  You also want to completely remove them from society.
+[00:19:17 -> 00:19:20]  A lot of people make the argument that the death penalty is about general deterrence.
+[00:19:20 -> 00:19:24]  Oh, well, I mean, if they see that they're going to get death penalty, they're not going
+[00:19:24 -> 00:19:25]  to do that crime.
+[00:19:26 -> 00:19:31]  Quite honestly, having worked in the criminal justice system for a long time, I feel like
+[00:19:31 -> 00:19:36]  people that are going to commit crimes that are worthy, that are bad enough, severe enough
+[00:19:36 -> 00:19:41]  for the death penalty or life in prison are not the kind of people who sit around saying,
+[00:19:41 -> 00:19:45]  oh, well, if I commit this crime, I'm going to go and I go to jail.
+[00:19:45 -> 00:19:46]  They don't either.
+[00:19:46 -> 00:19:48]  They don't think they're going to get caught or they really don't care if they get death
+[00:19:48 -> 00:19:51]  penalty.
+[00:19:51 -> 00:19:55]  They're not thinking about it during the commission of the crime or just prior to the commission
+[00:19:55 -> 00:19:56]  of the crime.
+[00:19:56 -> 00:19:58]  They're only thinking about the crime.
+[00:19:58 -> 00:20:01]  They're not the type of people who forward think that way.
+[00:20:01 -> 00:20:04]  If they were, they would not have committed the crime in the first place.
+[00:20:04 -> 00:20:10]  So the death penalty works as a general deterrence on people like you and me who are not the
+[00:20:10 -> 00:20:14]  kind of people who are going to go out and commit crimes worthy of the death penalty.
+[00:20:14 -> 00:20:20]  People who commit death penalty crimes, those people, I think it has less of an effect on
+[00:20:20 -> 00:20:26]  And I think more of their, their punishment works as a societal vengeance upon them for
+[00:20:26 -> 00:20:29]  being such horrific people.
+[00:20:29 -> 00:20:34]  So normally I don't like to inject my opinion into things, but after years of thinking about
+[00:20:34 -> 00:20:35]  this, I think that's how it works.
+[00:20:35 -> 00:20:37]  I don't, I don't think it's a wrong thing.
+[00:20:37 -> 00:20:44]  I just think that's the basis of those types of punishments.
+[00:20:44 -> 00:20:49]  And I'm not going to make any statement about whether or not I agree with the death penalty.
+[00:20:49 -> 00:20:54]  But I hope you, you know, like and subscribe, as everyone says, at the end of these types
+[00:20:54 -> 00:20:56]  of videos.
+[00:20:56 -> 00:21:04]  But I also encourage you, I will be posting the remaining videos in the series and I hope
+[00:21:04 -> 00:21:05]  you enjoy them.
+[00:21:05 -> 00:21:05]  Thank you.

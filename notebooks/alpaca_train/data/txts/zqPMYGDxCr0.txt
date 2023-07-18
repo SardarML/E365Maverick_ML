@@ -1,0 +1,202 @@
+[00:00:00 -> 00:00:05]  Hi everybody. Today we're going to take a look at topographic maps and I'm going to teach you how to read them
+[00:00:05 -> 00:00:09]  and we're going to go through some of the rules that will help them make sense.
+[00:00:10 -> 00:00:17]  So right now you're looking at a topographic map and it probably looks like a bunch of squiggles and lines and colors.
+[00:00:17 -> 00:00:20]  It probably does not make too much sense to you.
+[00:00:21 -> 00:00:23]  Here's another topographic map.
+[00:00:23 -> 00:00:28]  Same thing, probably just looks like a bunch of brown squiggles with some other colors thrown in there.
+[00:00:29 -> 00:00:30]  By the end of the video,
+[00:00:30 -> 00:00:35]  hopefully you're going to be able to look at a map like this and you're going to be able to see the
+[00:00:35 -> 00:00:38]  topography or the shape of the land.
+[00:00:39 -> 00:00:42]  So a topographic map looks like this one on the bottom and
+[00:00:43 -> 00:00:49]  basically what they do is they are a map that is able to show us the elevation, the height above sea level, and
+[00:00:50 -> 00:00:57]  the shape of the land by using these lines, which are a kind of isoline called contour lines.
+[00:00:58 -> 00:01:04]  So on the top we have a landscape. You can see there's a cliff over here. There's a hill over here.
+[00:01:04 -> 00:01:10]  When you know how to read a topographic map you can actually look at this and you can tell that there's a cliff over here
+[00:01:10 -> 00:01:12]  and there's a hill over here.
+[00:01:15 -> 00:01:21]  Topographic maps have certain features that you will always see. So let's go through four of those features.
+[00:01:22 -> 00:01:26]  The first thing you're going to have to figure out is what the contour interval is.
+[00:01:27 -> 00:01:34]  When you look at a topographic map, you'll notice that not every line is labeled. For example, this map
+[00:01:34 -> 00:01:41]  we have 300 labeled and we have 400 labeled. Those lines are a little bit darker than the surrounding lines.
+[00:01:41 -> 00:01:45]  Those numbered lines are called index contour lines.
+[00:01:46 -> 00:01:50]  The reason they only label some of them is because we don't want the map to be too confusing.
+[00:01:50 -> 00:01:52]  We don't want to have numbers everywhere.
+[00:01:53 -> 00:01:58]  So the first thing you have to do is figure out what the contour interval is. In other words,
+[00:01:58 -> 00:02:01]  what is the difference between each pair of lines?
+[00:02:02 -> 00:02:09]  Now sometimes they'll tell you the interval in a key under the map, but more often than not you're going to have to determine it yourself.
+[00:02:10 -> 00:02:16]  So if we start with this map over here, again, we have 300 and it's either meters or feet or kilometers.
+[00:02:16 -> 00:02:22]  We're not sure with this map because it doesn't tell us. But we have 300 here. We have 400 here.
+[00:02:22 -> 00:02:30]  So our task is to figure out what the contour interval is. What are we going to count by to get from 300 to 400?
+[00:02:30 -> 00:02:38]  Now hopefully you're looking at this and you're realizing, well, it's a difference of 100 and it's spread out over five lines.
+[00:02:39 -> 00:02:41]  So 100 divided by 5 is 20.
+[00:02:42 -> 00:02:49]  So for this map, the contour interval would be 20 units. So by units we mean either miles or kilometers or meters.
+[00:02:50 -> 00:02:52]  Let's take a look at this top left map over here.
+[00:02:53 -> 00:02:58]  So we're going from 10 and then we're skipping a line. It's not labeled. Then we're going to 20.
+[00:02:59 -> 00:03:01]  So that one's pretty easy. We're counting by fives.
+[00:03:04 -> 00:03:06]  The bottom left map over here,
+[00:03:06 -> 00:03:13]  I see that this contour line is labeled as 50 and this contour line up here is labeled as 100.
+[00:03:14 -> 00:03:19]  So again, it goes from 50 to 100, which is the difference of 50.
+[00:03:19 -> 00:03:24]  And it's going five lines between them. So 50 divided by 5 is 10.
+[00:03:26 -> 00:03:31]  And then on the last map, this one's pretty easy to figure out. We're counting by 25s.
+[00:03:31 -> 00:03:36]  So our contour interval would be 25, whatever unit is being used.
+[00:03:36 -> 00:03:37]  Let's take a look at another map.
+[00:03:39 -> 00:03:44]  Can you figure out on this map what the contour interval would be? And feel free to pause the video.
+[00:03:45 -> 00:03:48]  Well, hopefully you realized that we're going from 500 to 600.
+[00:03:48 -> 00:03:54]  So we're going a difference of a hundred. And again, we're spreading it out over five lines.
+[00:03:54 -> 00:03:57]  So we're counting with an interval of 20 meters.
+[00:03:58 -> 00:04:04]  Once you know the interval, you can now figure out the elevation of any of the lines that are not labeled.
+[00:04:04 -> 00:04:13]  So for example, line A right over here, if we're counting by 20s, this line would be 540 meters.
+[00:04:13 -> 00:04:17]  I want you to see if you could figure out what the elevation of line B would be.
+[00:04:19 -> 00:04:20]  So think about that for a second.
+[00:04:21 -> 00:04:26]  And hopefully you're realizing that it's 580 meters.
+[00:04:27 -> 00:04:30]  Okay, so again, contour interval, first thing you want to figure out.
+[00:04:32 -> 00:04:36]  The next thing that you'll notice on most maps is somewhere there will be a compass rose.
+[00:04:37 -> 00:04:39]  And that's important because that will show you where to go.
+[00:04:39 -> 00:04:44]  Normally, when we look at a map, north is usually up, but that is not always the case.
+[00:04:45 -> 00:04:51]  You can see on this map that they're telling you that north is facing the right side of the map.
+[00:04:51 -> 00:04:57]  So north is really here. And then south would be over here.
+[00:04:58 -> 00:05:03]  So you want to look at the compass rose. You want to figure out where north is, where south is.
+[00:05:03 -> 00:05:07]  So let's go through some of the rules of how to read a topographic map.
+[00:05:08 -> 00:05:14]  Going back to this first map that we looked at earlier, I want you to notice when there's a cliff,
+[00:05:16 -> 00:05:18]  what the contour lines look like.
+[00:05:19 -> 00:05:27]  So right over here, where the land is steep, you probably notice that the contour lines are steep.
+[00:05:27 -> 00:05:29]  So right over here, where the land is steep,
+[00:05:31 -> 00:05:35]  you probably notice that the contour lines are very close together.
+[00:05:36 -> 00:05:39]  And that's always going to be the case. Rule number one
+[00:05:40 -> 00:05:43]  is the closer the lines are, the steeper the slope.
+[00:05:45 -> 00:05:49]  Or the opposite, the more spread out the lines are, the gentler the slope.
+[00:05:50 -> 00:05:54]  We can see on the side of this hill over here, we have a nice flat area.
+[00:05:55 -> 00:05:58]  Right over here, the land is pretty flat over here.
+[00:05:59 -> 00:06:05]  And on our contour map, we can see the lines are spread apart much further than they were over there.
+[00:06:08 -> 00:06:11]  Now on the back of your note sheet, you have this map.
+[00:06:11 -> 00:06:15]  I want you to go ahead and I want you to figure out where the steepest slope would be
+[00:06:16 -> 00:06:20]  on this landscape. So we're looking for where the lines are the closest.
+[00:06:20 -> 00:06:24]  And pretty easy to see, the lines are the closest somewhere near the top over here.
+[00:06:25 -> 00:06:28]  Okay, you can see how close together they are.
+[00:06:28 -> 00:06:31]  Go ahead and label that on your map on the back of your note sheet.
+[00:06:31 -> 00:06:32]  That is the steepest slope.
+[00:06:35 -> 00:06:38]  Okay, rule number two deals with streams and rivers.
+[00:06:39 -> 00:06:45]  When a contour line crosses a river or a stream, the contour line bends and forms a V.
+[00:06:46 -> 00:06:51]  We can see that again, this is the map on the back of your sheet.
+[00:06:52 -> 00:06:54]  We have this mill river over here.
+[00:06:54 -> 00:07:01]  And we can see that when the contour lines cross the river, they are bending and they are forming Vs.
+[00:07:02 -> 00:07:09]  You always want to look for the Vs because the Vs will tell you where the water is coming from.
+[00:07:10 -> 00:07:13]  So the tip of the V shows you the source of the water.
+[00:07:14 -> 00:07:19]  So in this case, the water is coming from over here, this would be the source.
+[00:07:22 -> 00:07:25]  And so the water is traveling from this bottom edge of the map.
+[00:07:27 -> 00:07:32]  The river is flowing this way towards the ocean.
+[00:07:33 -> 00:07:35]  And it eventually goes into the ocean.
+[00:07:35 -> 00:07:39]  And that would be called the mouth of the stream or the mouth of the river.
+[00:07:41 -> 00:07:43]  Let's practice that skill a little bit.
+[00:07:43 -> 00:07:44]  That's an important skill.
+[00:07:45 -> 00:07:47]  Let's take a look at this map.
+[00:07:47 -> 00:07:52]  I want you to see if you can figure out which way Long Creek would be flowing.
+[00:07:56 -> 00:08:00]  All right, so hopefully you notice the contour lines are bending, they're forming Vs.
+[00:08:01 -> 00:08:04]  And again, the tip of the V shows us the source of the water.
+[00:08:05 -> 00:08:10]  So Long Creek is basically flowing towards the south, slightly west.
+[00:08:10 -> 00:08:12]  So southwest or south.
+[00:08:14 -> 00:08:17]  All right, here's another one.
+[00:08:17 -> 00:08:19]  Let's look at Trout Stream over here.
+[00:08:20 -> 00:08:23]  See if you can figure out which way Trout Stream would be flowing.
+[00:08:28 -> 00:08:32]  All right, again, we look at our contour lines, they are bending, they're forming Vs.
+[00:08:33 -> 00:08:36]  The tip of the V shows us the source of the stream.
+[00:08:37 -> 00:08:43]  So the water is coming from here and it is flowing down this hill into the river.
+[00:08:45 -> 00:08:47]  We can see the same thing when we look at the river.
+[00:08:47 -> 00:08:52]  If we look at Cedar River, we have this one contour line here that forms a V.
+[00:08:53 -> 00:08:58]  So we know the river is flowing this direction towards the lake.
+[00:08:59 -> 00:09:02]  Okay, so that's how we figure out which way streams and rivers are going.
+[00:09:03 -> 00:09:05]  All right, rule number three.
+[00:09:06 -> 00:09:09]  You'll notice this landform over here has two hills.
+[00:09:09 -> 00:09:15]  When they're put on a topographic map, they look like concentric circles
+[00:09:15 -> 00:09:18]  that get smaller and smaller inside of each other.
+[00:09:19 -> 00:09:24]  Rule number three is that when there are rings of circles that get smaller and smaller,
+[00:09:24 -> 00:09:26]  that it represents a hill or a mountain.
+[00:09:28 -> 00:09:29]  So let's look at the map.
+[00:09:29 -> 00:09:31]  Again, that's on the back of your sheet.
+[00:09:31 -> 00:09:33]  Let's figure out how many hills there are.
+[00:09:34 -> 00:09:36]  So I see one over here.
+[00:09:36 -> 00:09:39]  So let's go ahead, let's label that somewhere.
+[00:09:39 -> 00:09:40]  If I click, there we go.
+[00:09:41 -> 00:09:42]  So there's a hill.
+[00:09:43 -> 00:09:44]  Can you find any others?
+[00:09:45 -> 00:09:46]  Well, you should.
+[00:09:46 -> 00:09:47]  There are two others.
+[00:09:47 -> 00:09:51]  We have one hill over here where there are circles inside of circles.
+[00:09:51 -> 00:09:54]  We have another one over here.
+[00:09:56 -> 00:09:59]  This area down here on the bottom right-hand corner is not a hill
+[00:10:00 -> 00:10:03]  because it has these little marks on it, which we'll get to in a couple of minutes.
+[00:10:04 -> 00:10:09]  So again, anytime you see circles within circles, it is a hill or a mountain.
+[00:10:10 -> 00:10:13]  Now, what we have to do is we have to be able to figure out
+[00:10:13 -> 00:10:16]  how high the top of the hill or the mountain is.
+[00:10:16 -> 00:10:19]  So to do that, what we would do is we would look at our map
+[00:10:19 -> 00:10:22]  and we'd figure out what our contour interval was.
+[00:10:22 -> 00:10:23]  We looked at this one before.
+[00:10:23 -> 00:10:26]  So we know that this one's counting by 20s.
+[00:10:27 -> 00:10:29]  This top contour line is 400.
+[00:10:29 -> 00:10:33]  Which means the top of the hill has to be higher than 400,
+[00:10:34 -> 00:10:38]  but it's not going to be as high as what the next line would be.
+[00:10:38 -> 00:10:41]  So the next line, if there was one, would be 420.
+[00:10:41 -> 00:10:49]  So the top of this hill is somewhere between 401 and 419 meters or whatever unit it is.
+[00:10:49 -> 00:10:53]  So again, it can't be 400 and it can't be 420.
+[00:10:53 -> 00:10:54]  It's got to be in between.
+[00:10:54 -> 00:10:55]  How about on this map?
+[00:10:57 -> 00:10:59]  Well, again, we're counting by 20s.
+[00:10:59 -> 00:11:06]  So if this top line is 600, it means the top of the hill has to be somewhere above that,
+[00:11:07 -> 00:11:09]  but lower than what the next line would be.
+[00:11:10 -> 00:11:15]  So it's got to be somewhere between 601 and 619.
+[00:11:15 -> 00:11:20]  So rule number four says the highest possible elevation of a hill
+[00:11:21 -> 00:11:26]  is just below the value of whatever the next contour line would be
+[00:11:26 -> 00:11:28]  if there was a next contour line.
+[00:11:30 -> 00:11:36]  So let's figure out what the height of these hills.
+[00:11:36 -> 00:11:38]  Okay, so let's start with this one over here.
+[00:11:39 -> 00:11:41]  So this contour line is 300.
+[00:11:41 -> 00:11:43]  So let's figure out what we're counting by.
+[00:11:43 -> 00:11:45]  So here's 200, here's 300.
+[00:11:46 -> 00:11:47]  So we're counting by 20s.
+[00:11:48 -> 00:11:55]  So if we come up the hill, so this is 300, 320, 340, 360, 380.
+[00:11:56 -> 00:12:00]  So this small loop is 380, which means the top of the hill
+[00:12:01 -> 00:12:06]  has to be somewhere between 381 and 399.
+[00:12:06 -> 00:12:10]  It can't be 400 because if it was 400, we'd have another line there.
+[00:12:11 -> 00:12:15]  So the highest it could possibly be is 399 meters.
+[00:12:17 -> 00:12:20]  If we take a look at this hill, we could figure out the same thing.
+[00:12:20 -> 00:12:23]  We could figure out the same thing down here.
+[00:12:23 -> 00:12:25]  Okay, so in this case, here's 200.
+[00:12:26 -> 00:12:29]  So the circle where letter Z is, that's 220.
+[00:12:29 -> 00:12:32]  The next line would be 240.
+[00:12:32 -> 00:12:34]  So the elevation can't be that high.
+[00:12:34 -> 00:12:36]  It's got to be underneath that.
+[00:12:36 -> 00:12:38]  So the highest would be 239.
+[00:12:40 -> 00:12:42]  All right, moving on.
+[00:12:42 -> 00:12:43]  Rule number five.
+[00:12:44 -> 00:12:46]  Sometimes we don't have a hill.
+[00:12:47 -> 00:12:51]  Sometimes the land dips down and forms a depression.
+[00:12:51 -> 00:12:54]  So this is the top of a volcano and there's a crater up here.
+[00:12:54 -> 00:12:55]  That's a depression.
+[00:12:56 -> 00:13:00]  On a contour map, we show depressions by using these little marks
+[00:13:00 -> 00:13:03]  that are called hatchers or hatch marks.
+[00:13:04 -> 00:13:07]  So again, we'd find these where there's a volcanic crater
+[00:13:07 -> 00:13:10]  or maybe a meteor hit the earth and left a crater.
+[00:13:12 -> 00:13:17]  So on your map, we see that right over here, we have a depression.
+[00:13:17 -> 00:13:22]  So these little hatcher marks tell us that the land is going downwards.
+[00:13:23 -> 00:13:27]  Now the last rule, the sixth rule, tells us how we would figure out
+[00:13:27 -> 00:13:30]  how deep the bottom of the depression is.
+[00:13:31 -> 00:13:35]  So the first part of the rule says that when you're at a depression,
+[00:13:36 -> 00:13:40]  the first hatchered line, so the outer circle,
+[00:13:41 -> 00:13:45]  has the same elevation as the previous contour line.
+[00:13:46 -> 00:13:54]  So in other words, this line over here has an elevation of 120 meters.
+[00:13:56 -> 00:14:01]  So our first line with the hatcher marks is also 120 meters.
+[00:14:03 -> 00:14:05]  Then what we do is we start to go downwards.
+[00:14:05 -> 00:14:09]  So if this is 120, it means the next line is going down by 20.
+[00:14:09 -> 00:14:11]  So it's going to be 100.
+[00:14:11 -> 00:14:15]  To figure out the deepest that this depression could be,
+[00:14:15 -> 00:14:19]  what we do is we say, all right, if there was another line, what would that be?
+[00:14:20 -> 00:14:22]  So if there was another line, it would be 80.
+[00:14:23 -> 00:14:24]  But that line's not there.
+[00:14:24 -> 00:14:27]  So this depression can't go down to 80.
+[00:14:28 -> 00:14:31]  So it's got to be a little bit higher than 80.
+[00:14:33 -> 00:14:40]  So the lowest possible elevation is just above whatever the next contour line would be.
+[00:14:41 -> 00:14:45]  All right, so here's another contour map.
+[00:14:45 -> 00:14:48]  Hopefully, you can use some of the rules we went over,
+[00:14:48 -> 00:14:51]  and you could figure out some of the topography,
+[00:14:51 -> 00:14:53]  some of the shape of the landscape.
+[00:14:53 -> 00:14:56]  We're going to be doing a lot of this in class.
+[00:14:56 -> 00:14:56]  Have fun.

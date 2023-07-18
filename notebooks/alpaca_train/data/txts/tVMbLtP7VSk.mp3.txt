@@ -1,0 +1,1337 @@
+[00:00:00 -> 00:00:11]  In this lesson we're going to go over the three most common judicial standards of review that are applied by the courts to determine the constitutionality of laws.
+[00:00:11 -> 00:00:16]  Of course we have rational basis, intermediate scrutiny, and strict scrutiny.
+[00:00:16 -> 00:00:26]  These are the standards of review that courts are going to most often apply to determine whether or not a law is constitutional.
+[00:00:26 -> 00:00:34]  So if we're looking at a law school fact pattern or a bar exam fact pattern in constitutional law, how does this play out?
+[00:00:34 -> 00:00:38]  How do we see this tested just from a big picture?
+[00:00:38 -> 00:00:45]  Well typically when we're seeing rational basis, intermediate scrutiny, strict scrutiny, when we're seeing these concepts really tested,
+[00:00:45 -> 00:00:49]  we're going to most often see it in the context of individual rights.
+[00:00:49 -> 00:00:56]  Think about your free speech analysis, your equal protection analysis, your due process analysis.
+[00:00:56 -> 00:01:03]  These are where we're really going to want to have a good understanding of what these standards of review are
+[00:01:03 -> 00:01:10]  and how to apply them to determine whether a law is constitutional or not.
+[00:01:10 -> 00:01:18]  So if we're thinking in that context of individual rights, our free speech analysis, our due process analysis, our equal protection analysis,
+[00:01:18 -> 00:01:23]  how does this play out on a fact pattern? How do we see this actually tested?
+[00:01:23 -> 00:01:29]  Well typically what we're going to have is first the government is going to perceive a problem.
+[00:01:29 -> 00:01:36]  Usually this is some kind of societal problem and we don't really care whether the government is right or wrong.
+[00:01:36 -> 00:01:42]  Whether it's a real problem or not a real problem, that's really not for us to decide.
+[00:01:42 -> 00:01:48]  All that we care is the government has in their opinion perceived some kind of problem.
+[00:01:48 -> 00:01:53]  And what's typically going to happen is the government of course is going to want to alleviate this problem.
+[00:01:53 -> 00:01:59]  So the government sees a problem, their objective is going to be, hey let's alleviate this problem.
+[00:01:59 -> 00:02:07]  So how do they alleviate it? Well in these fact patterns we're going to see the government basically pass a law
+[00:02:07 -> 00:02:13]  to try to achieve this objective of alleviating whatever the problem is that they saw.
+[00:02:13 -> 00:02:18]  So the government sees a problem, their objective is to alleviate the problem,
+[00:02:18 -> 00:02:25]  so they pass a law to accomplish this objective of alleviating whatever problem they have perceived.
+[00:02:25 -> 00:02:29]  Then what happens? Well we're going to need a plaintiff.
+[00:02:29 -> 00:02:33]  So somebody's going to be negatively affected by this law.
+[00:02:33 -> 00:02:39]  This law is going to get passed and the way it's applied to somebody in our fact pattern,
+[00:02:39 -> 00:02:44]  it's going to cause that person to sustain some kind of injury.
+[00:02:44 -> 00:02:50]  We're going to have a plaintiff who in some way is sustaining injury from whatever the law is.
+[00:02:50 -> 00:02:54]  It's going to negatively affect our plaintiff in some way.
+[00:02:54 -> 00:02:58]  So of course the plaintiff is going to want the law struck down.
+[00:02:58 -> 00:03:05]  If we're in constitutional law, they're probably going to challenge the constitutionality of the law
+[00:03:05 -> 00:03:07]  in order to try to get it struck down.
+[00:03:07 -> 00:03:09]  And they could do this on any grounds.
+[00:03:09 -> 00:03:11]  They could challenge it under the First Amendment.
+[00:03:11 -> 00:03:14]  They could say this is a violation of the Free Speech Clause of the First Amendment.
+[00:03:14 -> 00:03:15]  It should be struck down.
+[00:03:15 -> 00:03:18]  This is a violation of the Due Process Clause of the 14th Amendment.
+[00:03:18 -> 00:03:19]  It should be struck down.
+[00:03:19 -> 00:03:21]  It's a violation of the Equal Protection Clause of the 14th Amendment.
+[00:03:21 -> 00:03:23]  It should be struck down.
+[00:03:23 -> 00:03:27]  Whatever the challenge is, okay we'll deal with that.
+[00:03:27 -> 00:03:31]  But what happens at the end of the fact pattern?
+[00:03:31 -> 00:03:33]  Once we've seen kind of all of this.
+[00:03:33 -> 00:03:35]  The government has perceived the problem.
+[00:03:35 -> 00:03:38]  The government's objective is to alleviate the problem.
+[00:03:38 -> 00:03:41]  So to accomplish this objective, the government passes a law.
+[00:03:41 -> 00:03:43]  This law negatively affects a plaintiff.
+[00:03:43 -> 00:03:48]  So the plaintiff challenges the constitutionality of the law under some grounds.
+[00:03:48 -> 00:03:50]  And then we get to the bottom of the question.
+[00:03:50 -> 00:03:56]  And the call of the question is basically going to ask you to play judge.
+[00:03:56 -> 00:04:00]  It's going to say, hey, whoever's taking this constitutional law exam,
+[00:04:00 -> 00:04:06]  play judge and determine whether the law is constitutional or not.
+[00:04:06 -> 00:04:11]  And the good news is, you usually have a standard of review
+[00:04:11 -> 00:04:17]  that you can apply to that law to determine whether or not it is constitutional.
+[00:04:17 -> 00:04:21]  The Supreme Court has kind of come up with these standards of review,
+[00:04:21 -> 00:04:25]  these frameworks, these guiding principles that are used
+[00:04:25 -> 00:04:29]  to determine whether laws are constitutional or not.
+[00:04:29 -> 00:04:34]  So you will apply either rational basis, strict scrutiny,
+[00:04:34 -> 00:04:42]  or some form of intermediate scrutiny to determine whether or not the law is constitutional.
+[00:04:42 -> 00:04:47]  Some of you may be wondering, well how do we know which standard of review to apply?
+[00:04:47 -> 00:04:49]  How do we know when we're applying rational basis?
+[00:04:49 -> 00:04:51]  How do we know when we're applying strict scrutiny?
+[00:04:51 -> 00:04:54]  How do we know when we're applying some version of intermediate scrutiny?
+[00:04:54 -> 00:04:57]  And this is a very complicated question.
+[00:04:57 -> 00:05:00]  This is what we're going to spend the majority of our time
+[00:05:00 -> 00:05:04]  in all of our lessons on individual rights exploring.
+[00:05:04 -> 00:05:09]  If you think about our free speech analysis, our equal protection analysis,
+[00:05:09 -> 00:05:14]  our due process analysis, really the whole purpose of those frameworks,
+[00:05:14 -> 00:05:17]  those step-by-step analytical frameworks,
+[00:05:17 -> 00:05:24]  the conclusion we're trying to get at is what level of scrutiny are we actually applying?
+[00:05:24 -> 00:05:30]  So that's why we go through and have all of those discussions and lessons.
+[00:05:30 -> 00:05:36]  The whole purpose is to try to figure out what standard of review is the court going to apply
+[00:05:36 -> 00:05:39]  to determine whether or not the law is constitutional.
+[00:05:39 -> 00:05:42]  So the short answer to your question, if you're wondering,
+[00:05:42 -> 00:05:45]  how do I know which standard of review to apply,
+[00:05:45 -> 00:05:48]  it's kind of like, unfortunately or fortunately,
+[00:05:48 -> 00:05:52]  you have to watch all of our lessons on constitutional law,
+[00:05:52 -> 00:05:54]  all of our lessons on individual rights.
+[00:05:54 -> 00:05:57]  All those analytical frameworks we have,
+[00:05:57 -> 00:06:00]  it's basically the process you're going to have to follow
+[00:06:00 -> 00:06:04]  to determine which standard of review we're applying.
+[00:06:04 -> 00:06:07]  So that's not really what we're going to focus on in this lesson.
+[00:06:07 -> 00:06:08]  That'd be impossible.
+[00:06:08 -> 00:06:14]  It's like trying to cover 100 years of jurisprudence in constitutional law in one lesson.
+[00:06:14 -> 00:06:17]  What we're really going to focus on here is,
+[00:06:17 -> 00:06:20]  once we know what standard of review we're applying,
+[00:06:20 -> 00:06:23]  we've worked through all of our analytical frameworks
+[00:06:23 -> 00:06:27]  and we've determined we're applying strict scrutiny
+[00:06:27 -> 00:06:30]  to determine whether the law is constitutional or not.
+[00:06:30 -> 00:06:32]  In this lesson, what we're going to focus on is,
+[00:06:32 -> 00:06:34]  okay, well how do you do that?
+[00:06:34 -> 00:06:37]  How do you apply strict scrutiny to that law
+[00:06:37 -> 00:06:40]  to determine whether or not it's constitutional?
+[00:06:40 -> 00:06:43]  That's going to be the focus.
+[00:06:43 -> 00:06:46]  Also, another benefit of a lesson like this is,
+[00:06:46 -> 00:06:49]  we can also think about this video, this lesson,
+[00:06:49 -> 00:06:52]  as kind of just like a glossary of terms.
+[00:06:52 -> 00:06:56]  As we work through our lessons on individual rights,
+[00:06:56 -> 00:07:00]  many times you're going to hear me quickly in passing say things like,
+[00:07:00 -> 00:07:03]  and then so for these reasons,
+[00:07:03 -> 00:07:06]  the court applied rational basis to the law
+[00:07:06 -> 00:07:10]  and ultimately the law was upheld as constitutional.
+[00:07:11 -> 00:07:13]  If we've seen this lesson,
+[00:07:13 -> 00:07:17]  I don't have to explain rational basis every time I say it.
+[00:07:17 -> 00:07:21]  I don't have to explain strict scrutiny every time I say it.
+[00:07:21 -> 00:07:24]  After watching this, hopefully we all have a good understanding
+[00:07:24 -> 00:07:26]  of these concepts.
+[00:07:26 -> 00:07:29]  It's kind of like a glossary of terms lesson as well.
+[00:07:29 -> 00:07:32]  It'll also be basically like the final step
+[00:07:32 -> 00:07:35]  in all of our analyses.
+[00:07:35 -> 00:07:37]  When we're thinking about free speech,
+[00:07:37 -> 00:07:39]  equal protection, due process,
+[00:07:39 -> 00:07:41]  what we're going to cover in this lesson
+[00:07:41 -> 00:07:43]  is usually kind of the last thing we do
+[00:07:43 -> 00:07:46]  at the conclusion of our analysis.
+[00:07:46 -> 00:07:49]  It's a good glossary of terms video to have
+[00:07:49 -> 00:07:51]  so we just know what these concepts mean
+[00:07:51 -> 00:07:56]  and it's also going to be helpful at the end of our analyses.
+[00:07:56 -> 00:07:58]  For those of you that are like me
+[00:07:58 -> 00:08:02]  and you just want a big picture kind of idea
+[00:08:02 -> 00:08:05]  of when we apply these standards of review,
+[00:08:05 -> 00:08:07]  of course the only way that we know
+[00:08:07 -> 00:08:09]  when we're applying which standard of review
+[00:08:09 -> 00:08:12]  is to watch all of our lessons on constitutional law
+[00:08:12 -> 00:08:16]  and to understand all of those analytical frameworks.
+[00:08:16 -> 00:08:19]  But if you're just looking for a big picture idea,
+[00:08:19 -> 00:08:22]  one thing to keep in mind is typically
+[00:08:22 -> 00:08:25]  as we move this way on the board,
+[00:08:25 -> 00:08:29]  basically we're seeing an increase
+[00:08:29 -> 00:08:32]  in the constitutional value
+[00:08:32 -> 00:08:35]  of whatever the area of law is
+[00:08:35 -> 00:08:38]  that's being regulated by the government.
+[00:08:38 -> 00:08:42]  If the government is regulating in an area
+[00:08:42 -> 00:08:45]  that has a lot of constitutional value,
+[00:08:45 -> 00:08:49]  the types of protections that are deeply rooted
+[00:08:49 -> 00:08:52]  in our nation's history and tradition,
+[00:08:52 -> 00:08:56]  the more we're kind of in these areas
+[00:08:56 -> 00:08:58]  that the Supreme Court has assigned
+[00:08:58 -> 00:09:00]  a lot of constitutional value.
+[00:09:00 -> 00:09:03]  These are the things that the United States
+[00:09:03 -> 00:09:05]  holds near and dear to its heart.
+[00:09:05 -> 00:09:08]  Those types of constitutional protections,
+[00:09:08 -> 00:09:10]  the more likely it is that the court
+[00:09:10 -> 00:09:13]  is going to be inclined to apply
+[00:09:13 -> 00:09:16]  strict scrutiny to that law.
+[00:09:16 -> 00:09:19]  A higher level of scrutiny because it's like,
+[00:09:19 -> 00:09:22]  hey, this is a really important thing
+[00:09:22 -> 00:09:24]  that the government is coming in and restricting.
+[00:09:24 -> 00:09:26]  If the government's coming in and they're regulating
+[00:09:26 -> 00:09:29]  and they're restricting rights in some area,
+[00:09:29 -> 00:09:31]  and those rights, those protections,
+[00:09:31 -> 00:09:33]  have a lot of constitutional value,
+[00:09:33 -> 00:09:35]  the court's like, we've got to put
+[00:09:35 -> 00:09:36]  the microscope on this law.
+[00:09:36 -> 00:09:39]  We've got to really apply a heavy,
+[00:09:39 -> 00:09:41]  strict level of scrutiny.
+[00:09:41 -> 00:09:43]  It's more likely we're going to be
+[00:09:43 -> 00:09:44]  on this side of the board.
+[00:09:44 -> 00:09:47]  Basically, as the areas the government
+[00:09:47 -> 00:09:51]  is regulating in become higher in their value
+[00:09:51 -> 00:09:53]  from a constitutional perspective.
+[00:09:53 -> 00:09:55]  That's basically just determined
+[00:09:55 -> 00:09:57]  by the Supreme Court.
+[00:09:58 -> 00:10:00]  Of course, the opposite is true.
+[00:10:00 -> 00:10:02]  The less value that is assigned
+[00:10:02 -> 00:10:03]  by the Supreme Court,
+[00:10:03 -> 00:10:06]  like less constitutional value
+[00:10:06 -> 00:10:07]  assigned by the Supreme Court,
+[00:10:07 -> 00:10:10]  the more likely it is we come this way
+[00:10:10 -> 00:10:11]  on the board and we apply something
+[00:10:11 -> 00:10:13]  like rational basis, where the Supreme Court
+[00:10:13 -> 00:10:15]  is saying something like,
+[00:10:15 -> 00:10:19]  the constitutional value is a lot lower here
+[00:10:19 -> 00:10:20]  in this area that the government
+[00:10:20 -> 00:10:21]  is regulating in.
+[00:10:21 -> 00:10:23]  Basically, there's less at stake,
+[00:10:23 -> 00:10:25]  so we can give a little bit of deference
+[00:10:25 -> 00:10:26]  to the government here,
+[00:10:26 -> 00:10:28]  because essentially there's less
+[00:10:28 -> 00:10:31]  constitutional value at stake.
+[00:10:31 -> 00:10:34]  Okay, that's the big picture idea
+[00:10:34 -> 00:10:36]  of kind of how the Supreme Court
+[00:10:36 -> 00:10:39]  is determining what level of scrutiny
+[00:10:39 -> 00:10:41]  or what standard of review to apply
+[00:10:41 -> 00:10:43]  to determine the constitutionality of a law,
+[00:10:43 -> 00:10:45]  but that's just a big picture concept.
+[00:10:45 -> 00:10:48]  To really know exactly what standard
+[00:10:48 -> 00:10:49]  of review we're applying,
+[00:10:49 -> 00:10:51]  we have to go through all the step-by-step
+[00:10:51 -> 00:10:53]  analytical frameworks that are laid out
+[00:10:53 -> 00:10:58]  in all of our constitutional law lessons, okay?
+[00:10:58 -> 00:10:59]  But that's enough of that.
+[00:10:59 -> 00:11:01]  Let's just get into these things.
+[00:11:01 -> 00:11:04]  Let's talk about how we actually apply
+[00:11:04 -> 00:11:06]  these two laws to determine
+[00:11:06 -> 00:11:08]  whether or not they're constitutional.
+[00:11:08 -> 00:11:12]  The best way to do this is just with examples.
+[00:11:12 -> 00:11:16]  So what we can do here is just take some laws,
+[00:11:16 -> 00:11:19]  take some common kind of hypotheticals,
+[00:11:19 -> 00:11:21]  some common structures,
+[00:11:21 -> 00:11:23]  some common laws,
+[00:11:23 -> 00:11:26]  and try to see what would happen
+[00:11:26 -> 00:11:29]  if we apply each of these levels
+[00:11:29 -> 00:11:32]  of scrutiny to the law,
+[00:11:32 -> 00:11:33]  basically what happens.
+[00:11:33 -> 00:11:36]  And I think that will kind of illustrate best
+[00:11:36 -> 00:11:39]  how each of these work.
+[00:11:39 -> 00:11:42]  Okay, so let's just take a basic example.
+[00:11:42 -> 00:11:44]  And we kind of talked about
+[00:11:44 -> 00:11:47]  what the framework is of these fact patterns,
+[00:11:47 -> 00:11:48]  so we'll stick to that,
+[00:11:48 -> 00:11:50]  because that's what you're probably going to see.
+[00:11:51 -> 00:11:54]  So let's start with
+[00:11:54 -> 00:11:58]  a middle-of-the-road kind of protection
+[00:11:58 -> 00:11:59]  that would be somewhere
+[00:11:59 -> 00:12:02]  in intermediate scrutiny's territory,
+[00:12:02 -> 00:12:05]  and then let's apply each level,
+[00:12:05 -> 00:12:06]  each standard of review,
+[00:12:06 -> 00:12:08]  to see how it plays out.
+[00:12:08 -> 00:12:11]  So imagine the following fact pattern.
+[00:12:11 -> 00:12:13]  Remember, what's the first thing that happens?
+[00:12:13 -> 00:12:14]  Government perceives a problem.
+[00:12:14 -> 00:12:17]  So let's say the government perceives a problem.
+[00:12:17 -> 00:12:20]  The government is looking out at society,
+[00:12:20 -> 00:12:21]  and they say,
+[00:12:21 -> 00:12:23]  we think too many children
+[00:12:23 -> 00:12:26]  are using tobacco products.
+[00:12:26 -> 00:12:29]  Okay, this is a perceived problem by the government.
+[00:12:29 -> 00:12:32]  Let's say the government believes
+[00:12:32 -> 00:12:35]  that tobacco is very harmful to children.
+[00:12:35 -> 00:12:37]  It can cause cancer.
+[00:12:37 -> 00:12:38]  It can cause heart disease.
+[00:12:38 -> 00:12:41]  It can cause all kinds of problems in children.
+[00:12:41 -> 00:12:44]  So basically, the government sees
+[00:12:44 -> 00:12:47]  that children are using tobacco
+[00:12:47 -> 00:12:49]  at an alarmingly high rate.
+[00:12:49 -> 00:12:53]  This is the problem that is perceived by the government.
+[00:12:53 -> 00:12:56]  So the government is going to have the objective
+[00:12:56 -> 00:12:57]  to alleviate this problem.
+[00:12:57 -> 00:13:00]  So let's say the government wants to reduce,
+[00:13:00 -> 00:13:04]  basically, consumption of tobacco by children
+[00:13:04 -> 00:13:07]  to prevent the harms that tobacco cause to children.
+[00:13:07 -> 00:13:09]  So that's their objective.
+[00:13:09 -> 00:13:11]  So they're going to pass a law
+[00:13:11 -> 00:13:13]  to try to achieve this objective.
+[00:13:13 -> 00:13:17]  So we need a law that implicates constitutional rights.
+[00:13:17 -> 00:13:19]  Let's pick the First Amendment.
+[00:13:19 -> 00:13:23]  And this, by the way, is based on a real case.
+[00:13:23 -> 00:13:25]  All of these examples,
+[00:13:25 -> 00:13:28]  I will base on real Supreme Court decisions,
+[00:13:28 -> 00:13:30]  but I'm going to kind of change
+[00:13:30 -> 00:13:32]  a little bit of the facts here and there.
+[00:13:32 -> 00:13:34]  So these are hypotheticals,
+[00:13:34 -> 00:13:37]  but they're based on real cases.
+[00:13:37 -> 00:13:40]  So let's say that the government's objective
+[00:13:40 -> 00:13:42]  is to reduce the consumption
+[00:13:42 -> 00:13:44]  of tobacco products by children.
+[00:13:44 -> 00:13:46]  So they pass a law.
+[00:13:46 -> 00:13:47]  That's their objective.
+[00:13:47 -> 00:13:51]  The law that they pass is targeting tobacco advertising.
+[00:13:51 -> 00:13:53]  Let's say the government says,
+[00:13:53 -> 00:13:56]  hey, look, if we can get less tobacco advertisements
+[00:13:56 -> 00:13:58]  around children,
+[00:13:58 -> 00:14:00]  that should reduce the demand
+[00:14:00 -> 00:14:02]  that children have for tobacco.
+[00:14:02 -> 00:14:04]  It should decrease the consumption
+[00:14:04 -> 00:14:07]  of tobacco being used by children.
+[00:14:07 -> 00:14:09]  And ultimately, that's going to prevent
+[00:14:09 -> 00:14:12]  all of these harms that tobacco causes
+[00:14:12 -> 00:14:15]  from occurring in these children.
+[00:14:15 -> 00:14:18]  So they develop a regulatory scheme.
+[00:14:18 -> 00:14:21]  They pass a law that basically says
+[00:14:21 -> 00:14:24]  tobacco advertisements are not permitted
+[00:14:24 -> 00:14:29]  within 1,000 feet of elementary schools,
+[00:14:29 -> 00:14:32]  public parks, public playgrounds,
+[00:14:32 -> 00:14:34]  high schools, middle schools,
+[00:14:34 -> 00:14:36]  anywhere where children,
+[00:14:36 -> 00:14:38]  people under the age of 18
+[00:14:38 -> 00:14:40]  are likely to congregate.
+[00:14:40 -> 00:14:41]  And then there's like a list,
+[00:14:41 -> 00:14:44]  say within 1,000 feet of public parks,
+[00:14:44 -> 00:14:45]  public playgrounds,
+[00:14:45 -> 00:14:46]  public elementary schools,
+[00:14:46 -> 00:14:48]  public middle schools.
+[00:14:48 -> 00:14:50]  Within 1,000 feet of any of these areas,
+[00:14:50 -> 00:14:53]  there is no advertising
+[00:14:53 -> 00:14:56]  of tobacco products allowed
+[00:14:56 -> 00:14:58]  in any form.
+[00:14:58 -> 00:15:00]  Okay, so the government passes this law.
+[00:15:00 -> 00:15:02]  They've perceived a problem.
+[00:15:02 -> 00:15:05]  Children are being affected by,
+[00:15:05 -> 00:15:07]  children are being negatively affected
+[00:15:07 -> 00:15:09]  by using tobacco products.
+[00:15:09 -> 00:15:10]  It's causing bodily harm
+[00:15:10 -> 00:15:12]  and maybe even death.
+[00:15:12 -> 00:15:14]  Okay, so their objective is to prevent this.
+[00:15:14 -> 00:15:16]  They're trying to alleviate the problem.
+[00:15:16 -> 00:15:17]  To accomplish this objective,
+[00:15:17 -> 00:15:19]  they pass a law that targets
+[00:15:19 -> 00:15:21]  tobacco advertising
+[00:15:21 -> 00:15:23]  that could be placed near children
+[00:15:23 -> 00:15:24]  in places where children
+[00:15:24 -> 00:15:26]  are likely to congregate.
+[00:15:26 -> 00:15:28]  Okay, so what happens next
+[00:15:28 -> 00:15:29]  in these fact patterns?
+[00:15:29 -> 00:15:30]  Well, we know we need a plaintiff.
+[00:15:30 -> 00:15:32]  Someone has to be harmed
+[00:15:32 -> 00:15:33]  in some way by this law.
+[00:15:33 -> 00:15:36]  So who would be kind of someone
+[00:15:36 -> 00:15:39]  who would be harmed by a restriction
+[00:15:39 -> 00:15:41]  on tobacco advertising?
+[00:15:41 -> 00:15:43]  Well, of course, the tobacco companies, right?
+[00:15:43 -> 00:15:45]  I imagine the tobacco companies
+[00:15:45 -> 00:15:46]  would not be thrilled
+[00:15:46 -> 00:15:48]  with this kind of regulation.
+[00:15:48 -> 00:15:51]  So imagine that a tobacco company,
+[00:15:51 -> 00:15:52]  you know, sues.
+[00:15:52 -> 00:15:54]  The tobacco company becomes our plaintiff.
+[00:15:54 -> 00:15:56]  It doesn't matter what tobacco company.
+[00:15:56 -> 00:15:57]  A tobacco company, though,
+[00:15:57 -> 00:15:58]  comes along and says,
+[00:15:58 -> 00:16:00]  hey, look, this is a violation
+[00:16:00 -> 00:16:02]  of our freedom of speech
+[00:16:02 -> 00:16:03]  under the First Amendment.
+[00:16:03 -> 00:16:04]  This is in violation
+[00:16:04 -> 00:16:05]  of the free speech clause
+[00:16:05 -> 00:16:06]  of the First Amendment.
+[00:16:06 -> 00:16:08]  We're challenging the constitutionality
+[00:16:08 -> 00:16:09]  of your law.
+[00:16:09 -> 00:16:10]  You know, we have the right
+[00:16:10 -> 00:16:12]  to express our ideas, especially,
+[00:16:12 -> 00:16:13]  I mean, think about it.
+[00:16:13 -> 00:16:15]  This is truthful advertising
+[00:16:15 -> 00:16:16]  of lawful activity.
+[00:16:16 -> 00:16:18]  We absolutely have the right
+[00:16:18 -> 00:16:20]  to express our ideas on tobacco.
+[00:16:20 -> 00:16:22]  This is freedom of expression
+[00:16:22 -> 00:16:23]  under the First Amendment.
+[00:16:23 -> 00:16:25]  It's being restricted by the government.
+[00:16:25 -> 00:16:27]  So they challenge the law
+[00:16:27 -> 00:16:29]  under the First Amendment.
+[00:16:29 -> 00:16:31]  Okay, then we would get to the bottom
+[00:16:31 -> 00:16:32]  of the fact pattern,
+[00:16:32 -> 00:16:33]  and it's going to ask you,
+[00:16:33 -> 00:16:35]  determine whether or not
+[00:16:35 -> 00:16:37]  the law is constitutional.
+[00:16:37 -> 00:16:38]  Explain.
+[00:16:38 -> 00:16:39]  Remember, the bottom of the fact pattern
+[00:16:39 -> 00:16:41]  is going to ask you to play judge,
+[00:16:41 -> 00:16:42]  and it's going to say,
+[00:16:42 -> 00:16:43]  determine whether or not
+[00:16:43 -> 00:16:45]  this law is constitutional.
+[00:16:45 -> 00:16:46]  How do you do this?
+[00:16:46 -> 00:16:47]  Well, you're going to have to apply
+[00:16:47 -> 00:16:49]  a standard of review.
+[00:16:49 -> 00:16:50]  You know, you don't just, like,
+[00:16:50 -> 00:16:51]  make stuff up.
+[00:16:51 -> 00:16:53]  We have these, you know,
+[00:16:53 -> 00:16:55]  established standards of review
+[00:16:55 -> 00:16:57]  that courts use to determine
+[00:16:57 -> 00:17:00]  whether or not a law is constitutional.
+[00:17:00 -> 00:17:02]  So you'll go through
+[00:17:02 -> 00:17:04]  all the analytical frameworks.
+[00:17:04 -> 00:17:06]  Again, you'll have to watch our,
+[00:17:06 -> 00:17:09]  you know, entire series on free speech.
+[00:17:09 -> 00:17:10]  You'll have to go through
+[00:17:10 -> 00:17:12]  that entire step-by-step process.
+[00:17:12 -> 00:17:13]  Remember, whether the law is
+[00:17:13 -> 00:17:14]  within the scope of the First Amendment.
+[00:17:14 -> 00:17:15]  Then you'll have to think about
+[00:17:15 -> 00:17:16]  the state action requirement.
+[00:17:16 -> 00:17:17]  Then you'll have to think about
+[00:17:17 -> 00:17:19]  overbreath, vagueness doctrines,
+[00:17:19 -> 00:17:21]  and other threshold speech issues.
+[00:17:21 -> 00:17:22]  Then you'll have to determine
+[00:17:22 -> 00:17:25]  whether the law is content neutral
+[00:17:25 -> 00:17:26]  or content-based.
+[00:17:26 -> 00:17:28]  Here, it's likely that the law
+[00:17:28 -> 00:17:29]  is content-based,
+[00:17:29 -> 00:17:30]  and then once you determine
+[00:17:30 -> 00:17:31]  that it's content-based,
+[00:17:31 -> 00:17:32]  you'll have to think about,
+[00:17:32 -> 00:17:34]  well, is this a protected category,
+[00:17:34 -> 00:17:36]  unprotected category of speech?
+[00:17:36 -> 00:17:37]  You'll go through this
+[00:17:37 -> 00:17:39]  long analytical framework,
+[00:17:39 -> 00:17:40]  and in that case,
+[00:17:40 -> 00:17:43]  you'll actually arrive at the conclusion
+[00:17:43 -> 00:17:45]  if we go through the analysis correctly
+[00:17:45 -> 00:17:48]  that that falls under basically
+[00:17:48 -> 00:17:50]  the unprotected speech category
+[00:17:50 -> 00:17:52]  of commercial speech.
+[00:17:52 -> 00:17:53]  We have this whole kind of
+[00:17:53 -> 00:17:55]  step-by-step analysis
+[00:17:55 -> 00:17:56]  with commercial speech.
+[00:17:56 -> 00:17:58]  There's a really seminal case there,
+[00:17:58 -> 00:18:00]  Central Hudson Gas.
+[00:18:00 -> 00:18:02]  That's the standard of review
+[00:18:02 -> 00:18:03]  that you'll apply.
+[00:18:03 -> 00:18:06]  It ends up being a modified version
+[00:18:06 -> 00:18:08]  of intermediate scrutiny,
+[00:18:08 -> 00:18:10]  but let's ignore that
+[00:18:10 -> 00:18:12]  because really what we're focusing on
+[00:18:12 -> 00:18:13]  in this lesson
+[00:18:13 -> 00:18:15]  is just applying all of these
+[00:18:15 -> 00:18:16]  standards of review.
+[00:18:16 -> 00:18:18]  How do each of these work?
+[00:18:18 -> 00:18:20]  We know in that case,
+[00:18:20 -> 00:18:22]  the court would actually apply
+[00:18:22 -> 00:18:24]  a modified version of
+[00:18:24 -> 00:18:25]  intermediate scrutiny
+[00:18:25 -> 00:18:27]  to determine whether that restriction
+[00:18:27 -> 00:18:29]  on tobacco advertising
+[00:18:29 -> 00:18:31]  is in violation of the First Amendment.
+[00:18:31 -> 00:18:34]  Here, we can just say,
+[00:18:34 -> 00:18:35]  look, this is a hypothetical.
+[00:18:35 -> 00:18:37]  Let's apply rational basis,
+[00:18:37 -> 00:18:38]  intermediate scrutiny,
+[00:18:38 -> 00:18:40]  and strict scrutiny to that law
+[00:18:40 -> 00:18:41]  to see what would happen
+[00:18:41 -> 00:18:43]  at each level.
+[00:18:43 -> 00:18:45]  How would the result change
+[00:18:45 -> 00:18:47]  when we're applying rational basis,
+[00:18:47 -> 00:18:48]  intermediate scrutiny,
+[00:18:48 -> 00:18:50]  and strict scrutiny?
+[00:18:50 -> 00:18:52]  Let's say in this case
+[00:18:52 -> 00:18:54]  that the court was applying
+[00:18:54 -> 00:18:56]  rational basis to determine
+[00:18:56 -> 00:18:58]  whether this law was constitutional
+[00:18:58 -> 00:18:59]  or not,
+[00:18:59 -> 00:19:00]  whether this restriction
+[00:19:00 -> 00:19:02]  on tobacco advertising
+[00:19:02 -> 00:19:05]  is constitutional or not.
+[00:19:05 -> 00:19:06]  What we see here,
+[00:19:06 -> 00:19:08]  under rational basis,
+[00:19:08 -> 00:19:10]  the challenger must prove
+[00:19:10 -> 00:19:11]  that the law serves
+[00:19:11 -> 00:19:13]  no legitimate government interest
+[00:19:13 -> 00:19:15]  or the law is not
+[00:19:15 -> 00:19:17]  rationally related to achieving
+[00:19:17 -> 00:19:19]  a legitimate government interest.
+[00:19:19 -> 00:19:21]  The commonality we're going to see
+[00:19:21 -> 00:19:23]  between all of these
+[00:19:23 -> 00:19:25]  standards of review
+[00:19:25 -> 00:19:27]  is the two features
+[00:19:27 -> 00:19:29]  of each one
+[00:19:29 -> 00:19:31]  kind of follow a similar pattern.
+[00:19:31 -> 00:19:33]  The first feature
+[00:19:33 -> 00:19:35]  of each standard of review
+[00:19:35 -> 00:19:37]  focuses on
+[00:19:37 -> 00:19:39]  how important
+[00:19:39 -> 00:19:41]  the government interest is
+[00:19:41 -> 00:19:42]  behind passing the law.
+[00:19:42 -> 00:19:44]  Remember, we have to know
+[00:19:44 -> 00:19:45]  what the objective is
+[00:19:45 -> 00:19:47]  the government is trying to achieve
+[00:19:47 -> 00:19:48]  by passing the law.
+[00:19:48 -> 00:19:49]  Remember, we said the way
+[00:19:49 -> 00:19:51]  that these fact patterns play out,
+[00:19:51 -> 00:19:52]  it's going to be, number one,
+[00:19:52 -> 00:19:54]  the government perceives a problem.
+[00:19:54 -> 00:19:55]  The government's objective
+[00:19:55 -> 00:19:56]  is to alleviate the problem
+[00:19:56 -> 00:19:57]  and they do this
+[00:19:57 -> 00:19:58]  by passing a law.
+[00:19:58 -> 00:19:59]  We want to know
+[00:19:59 -> 00:20:00]  what is the objective
+[00:20:00 -> 00:20:01]  that the government
+[00:20:01 -> 00:20:02]  is trying to achieve
+[00:20:02 -> 00:20:04]  by passing the law.
+[00:20:04 -> 00:20:05]  When we're thinking about
+[00:20:05 -> 00:20:07]  this first feature
+[00:20:07 -> 00:20:08]  in each of these
+[00:20:08 -> 00:20:10]  standards of review,
+[00:20:10 -> 00:20:11]  what we're really asking is,
+[00:20:11 -> 00:20:13]  on a spectrum,
+[00:20:13 -> 00:20:14]  how important
+[00:20:14 -> 00:20:16]  is this objective?
+[00:20:16 -> 00:20:18]  How important
+[00:20:18 -> 00:20:20]  is this objective
+[00:20:20 -> 00:20:21]  that the government
+[00:20:21 -> 00:20:22]  is trying to achieve
+[00:20:22 -> 00:20:24]  by passing the law?
+[00:20:24 -> 00:20:25]  We kind of see
+[00:20:25 -> 00:20:26]  that we have
+[00:20:26 -> 00:20:28]  three baseline points.
+[00:20:28 -> 00:20:29]  We have the idea
+[00:20:29 -> 00:20:30]  of a legitimate
+[00:20:30 -> 00:20:31]  government interest.
+[00:20:31 -> 00:20:33]  As we move down
+[00:20:33 -> 00:20:34]  the spectrum,
+[00:20:34 -> 00:20:35]  we have the idea
+[00:20:35 -> 00:20:36]  of an important
+[00:20:36 -> 00:20:37]  government interest.
+[00:20:37 -> 00:20:38]  As we move all the way
+[00:20:38 -> 00:20:39]  down to the end
+[00:20:39 -> 00:20:40]  of our spectrum,
+[00:20:40 -> 00:20:42]  we have a compelling
+[00:20:42 -> 00:20:44]  government interest.
+[00:20:44 -> 00:20:46]  Under rational basis,
+[00:20:46 -> 00:20:47]  all that's required
+[00:20:47 -> 00:20:48]  for the law
+[00:20:48 -> 00:20:49]  to be upheld
+[00:20:49 -> 00:20:50]  is that the interest
+[00:20:50 -> 00:20:52]  is legitimate.
+[00:20:52 -> 00:20:55]  This is the lowest end
+[00:20:55 -> 00:20:56]  of our spectrum.
+[00:20:56 -> 00:20:57]  When we're thinking about
+[00:20:57 -> 00:20:58]  this spectrum,
+[00:20:58 -> 00:20:59]  it's basically
+[00:20:59 -> 00:21:00]  how important
+[00:21:00 -> 00:21:01]  is the objective
+[00:21:01 -> 00:21:02]  that the government
+[00:21:02 -> 00:21:03]  is trying to achieve
+[00:21:03 -> 00:21:04]  by passing this law?
+[00:21:04 -> 00:21:06]  If we have to rank that,
+[00:21:06 -> 00:21:08]  how important is it?
+[00:21:08 -> 00:21:09]  All that's required
+[00:21:09 -> 00:21:11]  under rational basis
+[00:21:11 -> 00:21:12]  is that the law
+[00:21:12 -> 00:21:14]  is legitimate.
+[00:21:14 -> 00:21:16]  What is the government's
+[00:21:16 -> 00:21:17]  objective here?
+[00:21:17 -> 00:21:18]  What is the government
+[00:21:18 -> 00:21:19]  trying to achieve
+[00:21:19 -> 00:21:20]  by passing this law
+[00:21:20 -> 00:21:22]  in our fact pattern?
+[00:21:22 -> 00:21:23]  They're trying
+[00:21:23 -> 00:21:24]  to prevent children
+[00:21:24 -> 00:21:25]  from serious bodily
+[00:21:25 -> 00:21:26]  harm and death.
+[00:21:26 -> 00:21:27]  It's all about
+[00:21:27 -> 00:21:28]  preventing cancer
+[00:21:28 -> 00:21:29]  and heart disease
+[00:21:29 -> 00:21:30]  in children.
+[00:21:30 -> 00:21:31]  Would we say
+[00:21:31 -> 00:21:32]  that this is a
+[00:21:32 -> 00:21:33]  legitimate government
+[00:21:33 -> 00:21:34]  interest?
+[00:21:34 -> 00:21:35]  Of course.
+[00:21:35 -> 00:21:36]  There's no doubt.
+[00:21:36 -> 00:21:37]  Protecting children
+[00:21:37 -> 00:21:39]  from serious bodily harm
+[00:21:39 -> 00:21:40]  or death
+[00:21:40 -> 00:21:41]  is a legitimate
+[00:21:41 -> 00:21:42]  government interest.
+[00:21:42 -> 00:21:43]  Is that an important
+[00:21:43 -> 00:21:44]  government interest?
+[00:21:44 -> 00:21:45]  Even though we're not
+[00:21:45 -> 00:21:46]  applying intermediate
+[00:21:46 -> 00:21:47]  scrutiny,
+[00:21:47 -> 00:21:48]  just think about it,
+[00:21:48 -> 00:21:49]  is protecting children
+[00:21:49 -> 00:21:51]  from harm or death
+[00:21:51 -> 00:21:52]  an important
+[00:21:52 -> 00:21:54]  government interest?
+[00:21:54 -> 00:21:55]  Probably, right?
+[00:21:55 -> 00:21:57]  In fact,
+[00:21:57 -> 00:21:58]  I would say
+[00:21:58 -> 00:21:59]  in most cases,
+[00:21:59 -> 00:22:00]  that's going to be
+[00:22:00 -> 00:22:01]  a compelling
+[00:22:01 -> 00:22:02]  government interest.
+[00:22:02 -> 00:22:03]  Anytime we see
+[00:22:03 -> 00:22:04]  the government
+[00:22:04 -> 00:22:05]  is protecting children
+[00:22:05 -> 00:22:06]  from death
+[00:22:06 -> 00:22:08]  or serious bodily harm,
+[00:22:08 -> 00:22:09]  this is one of our
+[00:22:09 -> 00:22:10]  highest levels of interest
+[00:22:10 -> 00:22:11]  the government could have.
+[00:22:11 -> 00:22:12]  Anytime the government
+[00:22:12 -> 00:22:13]  is really protecting
+[00:22:13 -> 00:22:14]  the health,
+[00:22:14 -> 00:22:15]  safety
+[00:22:15 -> 00:22:16]  of large segments
+[00:22:16 -> 00:22:17]  of the population,
+[00:22:18 -> 00:22:19]  that's probably
+[00:22:19 -> 00:22:20]  a compelling
+[00:22:20 -> 00:22:21]  government interest,
+[00:22:21 -> 00:22:22]  which means
+[00:22:22 -> 00:22:23]  it's important,
+[00:22:23 -> 00:22:24]  which means
+[00:22:24 -> 00:22:25]  it's legitimate.
+[00:22:26 -> 00:22:27]  In fact,
+[00:22:27 -> 00:22:28]  what we see is
+[00:22:28 -> 00:22:29]  most government
+[00:22:29 -> 00:22:30]  interests
+[00:22:30 -> 00:22:32]  are legitimate.
+[00:22:32 -> 00:22:34]  Even if it's trivial.
+[00:22:34 -> 00:22:35]  Say the government
+[00:22:35 -> 00:22:36]  is trying to increase
+[00:22:36 -> 00:22:37]  tax revenue
+[00:22:37 -> 00:22:39]  0.3%.
+[00:22:39 -> 00:22:40]  Right?
+[00:22:40 -> 00:22:41]  Whatever.
+[00:22:41 -> 00:22:42]  Something kind of trivial.
+[00:22:42 -> 00:22:43]  Is that a legitimate
+[00:22:43 -> 00:22:44]  government interest?
+[00:22:44 -> 00:22:45]  Yeah, that's legitimate.
+[00:22:45 -> 00:22:46]  Is it important
+[00:22:46 -> 00:22:48]  or is it compelling?
+[00:22:48 -> 00:22:49]  Probably not.
+[00:22:49 -> 00:22:50]  A slight increase
+[00:22:50 -> 00:22:51]  in tax revenue,
+[00:22:51 -> 00:22:52]  again, it depends
+[00:22:52 -> 00:22:53]  on the facts.
+[00:22:53 -> 00:22:54]  We'd have to see everything.
+[00:22:54 -> 00:22:55]  But just off the cuff,
+[00:22:55 -> 00:22:56]  a small increase
+[00:22:56 -> 00:22:58]  in tax revenue,
+[00:22:58 -> 00:22:59]  probably not
+[00:22:59 -> 00:23:00]  a compelling
+[00:23:00 -> 00:23:01]  government interest.
+[00:23:01 -> 00:23:03]  Maybe could be important
+[00:23:03 -> 00:23:04]  depending on the facts,
+[00:23:04 -> 00:23:05]  but probably not
+[00:23:05 -> 00:23:06]  an important
+[00:23:06 -> 00:23:07]  government interest.
+[00:23:07 -> 00:23:08]  It's more trivial.
+[00:23:08 -> 00:23:09]  But it's definitely
+[00:23:09 -> 00:23:10]  a legitimate
+[00:23:10 -> 00:23:11]  government interest.
+[00:23:11 -> 00:23:12]  It's hard
+[00:23:12 -> 00:23:14]  for a government interest,
+[00:23:14 -> 00:23:15]  for the government
+[00:23:15 -> 00:23:16]  to have an objective
+[00:23:16 -> 00:23:17]  that's actually
+[00:23:17 -> 00:23:19]  not legitimate.
+[00:23:19 -> 00:23:20]  One of the
+[00:23:20 -> 00:23:22]  best examples of this,
+[00:23:22 -> 00:23:23]  which you'll see cited,
+[00:23:23 -> 00:23:24]  and there's not a whole lot
+[00:23:24 -> 00:23:25]  of case law out there
+[00:23:25 -> 00:23:26]  that exists
+[00:23:26 -> 00:23:28]  that demonstrates
+[00:23:28 -> 00:23:30]  what an illegitimate
+[00:23:30 -> 00:23:31]  government interest
+[00:23:31 -> 00:23:32]  actually is.
+[00:23:32 -> 00:23:33]  There's only a small
+[00:23:33 -> 00:23:34]  handful of times
+[00:23:34 -> 00:23:35]  where the Supreme Court
+[00:23:35 -> 00:23:36]  has actually said,
+[00:23:36 -> 00:23:37]  hey, this interest
+[00:23:37 -> 00:23:38]  isn't even legitimate.
+[00:23:38 -> 00:23:39]  One of the most
+[00:23:39 -> 00:23:40]  seminal cases
+[00:23:40 -> 00:23:41]  on this would be
+[00:23:41 -> 00:23:42]  basically
+[00:23:42 -> 00:23:43]  United States
+[00:23:43 -> 00:23:44]  Department of Agriculture
+[00:23:44 -> 00:23:46]  v. Moreno.
+[00:23:46 -> 00:23:47]  In that case,
+[00:23:47 -> 00:23:49]  what you had was
+[00:23:49 -> 00:23:50]  basically,
+[00:23:50 -> 00:23:51]  for lack of a better
+[00:23:51 -> 00:23:52]  way of saying it,
+[00:23:52 -> 00:23:53]  the government
+[00:23:53 -> 00:23:54]  had the objective
+[00:23:54 -> 00:23:56]  to prevent
+[00:23:56 -> 00:23:58]  hippie communes
+[00:23:58 -> 00:24:00]  from receiving
+[00:24:00 -> 00:24:02]  food stamp benefits
+[00:24:02 -> 00:24:03]  from the government.
+[00:24:03 -> 00:24:04]  Basically, the government
+[00:24:04 -> 00:24:05]  passes this law
+[00:24:05 -> 00:24:06]  that says, hey,
+[00:24:06 -> 00:24:07]  if people
+[00:24:07 -> 00:24:08]  that aren't
+[00:24:08 -> 00:24:10]  direct relatives
+[00:24:10 -> 00:24:11]  live in the same household,
+[00:24:11 -> 00:24:13]  they can't get
+[00:24:13 -> 00:24:14]  government food stamps.
+[00:24:14 -> 00:24:15]  They laid out
+[00:24:15 -> 00:24:16]  all of these exceptions
+[00:24:16 -> 00:24:17]  that covered a lot of things,
+[00:24:17 -> 00:24:19]  but it didn't cover
+[00:24:19 -> 00:24:21]  communes where
+[00:24:21 -> 00:24:22]  quote-unquote
+[00:24:22 -> 00:24:24]  hippies lived.
+[00:24:24 -> 00:24:25]  Of course, hippies
+[00:24:25 -> 00:24:26]  referring to,
+[00:24:26 -> 00:24:28]  this case is from the 70s,
+[00:24:28 -> 00:24:30]  members of the
+[00:24:30 -> 00:24:31]  counterculture
+[00:24:31 -> 00:24:33]  that disagree
+[00:24:33 -> 00:24:35]  with societal norms
+[00:24:35 -> 00:24:36]  and are forming
+[00:24:36 -> 00:24:37]  their own communities
+[00:24:37 -> 00:24:38]  in the 70s.
+[00:24:38 -> 00:24:39]  This kind of
+[00:24:39 -> 00:24:40]  political group
+[00:24:40 -> 00:24:41]  is being referred to
+[00:24:41 -> 00:24:42]  as the government
+[00:24:42 -> 00:24:43]  as hippies
+[00:24:43 -> 00:24:45]  in the 70s.
+[00:24:45 -> 00:24:46]  In that case,
+[00:24:46 -> 00:24:47]  the government says,
+[00:24:47 -> 00:24:48]  or in that case,
+[00:24:48 -> 00:24:49]  it goes up,
+[00:24:49 -> 00:24:51]  the Supreme Court says
+[00:24:51 -> 00:24:52]  that that's not
+[00:24:52 -> 00:24:53]  a legitimate
+[00:24:53 -> 00:24:54]  government interest.
+[00:24:54 -> 00:24:55]  The government does not
+[00:24:55 -> 00:24:56]  have a legitimate
+[00:24:56 -> 00:24:57]  interest
+[00:24:57 -> 00:24:58]  in preventing
+[00:24:58 -> 00:25:00]  a political group
+[00:25:00 -> 00:25:01]  that they disagree with
+[00:25:01 -> 00:25:02]  from getting
+[00:25:02 -> 00:25:03]  food stamps.
+[00:25:03 -> 00:25:04]  That's not
+[00:25:04 -> 00:25:06]  legitimate.
+[00:25:06 -> 00:25:08]  That's not a legitimate
+[00:25:08 -> 00:25:10]  government interest.
+[00:25:11 -> 00:25:12]  You have to be
+[00:25:12 -> 00:25:13]  pretty low
+[00:25:13 -> 00:25:14]  on the spectrum.
+[00:25:14 -> 00:25:15]  The government
+[00:25:15 -> 00:25:17]  really has to be
+[00:25:17 -> 00:25:19]  reaching
+[00:25:19 -> 00:25:20]  to get an actual,
+[00:25:20 -> 00:25:22]  to have an objective
+[00:25:22 -> 00:25:23]  that is actually
+[00:25:23 -> 00:25:24]  not legitimate.
+[00:25:24 -> 00:25:25]  Most things,
+[00:25:25 -> 00:25:27]  even if it's trivial,
+[00:25:27 -> 00:25:28]  are going to be
+[00:25:28 -> 00:25:30]  considered legitimate.
+[00:25:30 -> 00:25:31]  It's also
+[00:25:31 -> 00:25:32]  important to recognize
+[00:25:32 -> 00:25:33]  when we're applying
+[00:25:33 -> 00:25:34]  rational basis,
+[00:25:34 -> 00:25:36]  the burden here
+[00:25:36 -> 00:25:37]  is on the challenger,
+[00:25:37 -> 00:25:39]  not the government.
+[00:25:39 -> 00:25:40]  The person who is
+[00:25:40 -> 00:25:41]  challenging
+[00:25:41 -> 00:25:42]  the constitutionality
+[00:25:42 -> 00:25:43]  of the law
+[00:25:43 -> 00:25:44]  is going to have to
+[00:25:44 -> 00:25:45]  bring forth the evidence.
+[00:25:45 -> 00:25:46]  It's going to have to say,
+[00:25:46 -> 00:25:47]  look,
+[00:25:47 -> 00:25:48]  this,
+[00:25:48 -> 00:25:49]  the challenger,
+[00:25:49 -> 00:25:50]  must prove that the law
+[00:25:50 -> 00:25:51]  serves no
+[00:25:51 -> 00:25:53]  legitimate government interest.
+[00:25:53 -> 00:25:54]  So if the court
+[00:25:54 -> 00:25:55]  looks at it,
+[00:25:55 -> 00:25:56]  if basically the court
+[00:25:56 -> 00:25:57]  can conceive
+[00:25:57 -> 00:25:58]  any way
+[00:25:58 -> 00:25:59]  that the government
+[00:25:59 -> 00:26:00]  could have had
+[00:26:00 -> 00:26:01]  a legitimate interest here,
+[00:26:01 -> 00:26:03]  they're supposed to say,
+[00:26:03 -> 00:26:04]  okay,
+[00:26:04 -> 00:26:05]  that is legitimate.
+[00:26:05 -> 00:26:06]  Even if the government
+[00:26:06 -> 00:26:07]  doesn't bring
+[00:26:07 -> 00:26:08]  evidence
+[00:26:08 -> 00:26:09]  that they had
+[00:26:09 -> 00:26:10]  a legitimate
+[00:26:10 -> 00:26:11]  government interest,
+[00:26:11 -> 00:26:12]  if it's conceivable,
+[00:26:12 -> 00:26:13]  okay,
+[00:26:13 -> 00:26:14]  because the challenger
+[00:26:14 -> 00:26:15]  has the burden
+[00:26:15 -> 00:26:16]  to prove that the law
+[00:26:16 -> 00:26:17]  serves no
+[00:26:17 -> 00:26:18]  legitimate government interest.
+[00:26:18 -> 00:26:19]  Basically,
+[00:26:19 -> 00:26:20]  the challenger has to say,
+[00:26:20 -> 00:26:21]  here's all the evidence
+[00:26:21 -> 00:26:22]  that shows why
+[00:26:22 -> 00:26:23]  the government
+[00:26:23 -> 00:26:24]  could not have
+[00:26:24 -> 00:26:25]  possibly had,
+[00:26:25 -> 00:26:26]  there's no conceivable way
+[00:26:26 -> 00:26:27]  the government
+[00:26:27 -> 00:26:28]  could have had
+[00:26:28 -> 00:26:29]  a legitimate
+[00:26:29 -> 00:26:30]  government interest.
+[00:26:30 -> 00:26:31]  This is a very,
+[00:26:31 -> 00:26:32]  very difficult thing
+[00:26:32 -> 00:26:33]  for the challenger
+[00:26:33 -> 00:26:34]  to prove,
+[00:26:34 -> 00:26:35]  and in fact,
+[00:26:35 -> 00:26:36]  it's only happened,
+[00:26:36 -> 00:26:37]  you know,
+[00:26:37 -> 00:26:38]  a couple of times,
+[00:26:38 -> 00:26:39]  okay,
+[00:26:39 -> 00:26:40]  and one of the biggest
+[00:26:40 -> 00:26:41]  examples there would be
+[00:26:41 -> 00:26:42]  United States Department
+[00:26:42 -> 00:26:43]  of Agriculture
+[00:26:43 -> 00:26:44]  v. Moreno.
+[00:26:45 -> 00:26:46]  Okay,
+[00:26:46 -> 00:26:47]  so that's our first feature,
+[00:26:47 -> 00:26:48]  though,
+[00:26:48 -> 00:26:49]  of each of these levels
+[00:26:49 -> 00:26:50]  of scrutiny.
+[00:26:50 -> 00:26:51]  It's all about
+[00:26:51 -> 00:26:52]  basically ranking
+[00:26:52 -> 00:26:53]  on our importance
+[00:26:53 -> 00:26:54]  spectrum,
+[00:26:54 -> 00:26:55]  you know,
+[00:26:55 -> 00:26:56]  how important
+[00:26:56 -> 00:26:57]  is the objective
+[00:26:57 -> 00:26:58]  that the government
+[00:26:58 -> 00:26:59]  is trying to achieve
+[00:26:59 -> 00:27:00]  by passing the law,
+[00:27:00 -> 00:27:01]  okay,
+[00:27:01 -> 00:27:02]  and we can kind of
+[00:27:02 -> 00:27:03]  visualize it
+[00:27:03 -> 00:27:04]  with this spectrum.
+[00:27:04 -> 00:27:05]  The next question
+[00:27:05 -> 00:27:06]  that we're going to see
+[00:27:06 -> 00:27:07]  in all of these
+[00:27:07 -> 00:27:08]  standards of review,
+[00:27:08 -> 00:27:09]  the second feature
+[00:27:09 -> 00:27:10]  we're going to see
+[00:27:10 -> 00:27:11]  is all about
+[00:27:11 -> 00:27:12]  the connection
+[00:27:12 -> 00:27:13]  between the government
+[00:27:13 -> 00:27:14]  interest
+[00:27:14 -> 00:27:15]  and the law itself.
+[00:27:15 -> 00:27:16]  You know,
+[00:27:16 -> 00:27:17]  if we're thinking about
+[00:27:17 -> 00:27:18]  what is the objective
+[00:27:18 -> 00:27:19]  the government
+[00:27:19 -> 00:27:20]  is trying to achieve
+[00:27:20 -> 00:27:21]  by passing the law,
+[00:27:21 -> 00:27:22]  and our first question
+[00:27:22 -> 00:27:23]  is about kind of
+[00:27:23 -> 00:27:24]  determining
+[00:27:24 -> 00:27:25]  how important
+[00:27:25 -> 00:27:26]  that objective is,
+[00:27:26 -> 00:27:27]  the next question is,
+[00:27:27 -> 00:27:28]  what is the causal
+[00:27:28 -> 00:27:29]  connection
+[00:27:29 -> 00:27:30]  between the objective
+[00:27:30 -> 00:27:31]  and the law itself?
+[00:27:31 -> 00:27:32]  Okay,
+[00:27:32 -> 00:27:33]  so the first
+[00:27:33 -> 00:27:34]  feature
+[00:27:34 -> 00:27:35]  that we're going
+[00:27:35 -> 00:27:36]  to see
+[00:27:36 -> 00:27:37]  is the causal
+[00:27:37 -> 00:27:38]  connection
+[00:27:38 -> 00:27:39]  between the objective
+[00:27:39 -> 00:27:40]  and the law itself.
+[00:27:40 -> 00:27:41]  Can we see
+[00:27:41 -> 00:27:42]  a relationship,
+[00:27:42 -> 00:27:43]  you know,
+[00:27:43 -> 00:27:44]  between the law
+[00:27:44 -> 00:27:45]  and the objective
+[00:27:45 -> 00:27:46]  the government
+[00:27:46 -> 00:27:47]  is trying to achieve
+[00:27:47 -> 00:27:48]  by passing the law?
+[00:27:48 -> 00:27:49]  We need to see
+[00:27:49 -> 00:27:50]  that relationship,
+[00:27:50 -> 00:27:51]  that link,
+[00:27:51 -> 00:27:52]  and basically,
+[00:27:52 -> 00:27:53]  how perfectly
+[00:27:53 -> 00:27:54]  that relationship
+[00:27:54 -> 00:27:55]  fits together.
+[00:27:55 -> 00:27:56]  Basically,
+[00:27:56 -> 00:27:57]  what is required
+[00:27:57 -> 00:27:58]  for that connection
+[00:27:58 -> 00:27:59]  to be sufficient
+[00:27:59 -> 00:28:00]  changes drastically
+[00:28:00 -> 00:28:01]  as we move
+[00:28:01 -> 00:28:02]  from rational basis
+[00:28:02 -> 00:28:03]  to intermediate scrutiny
+[00:28:03 -> 00:28:04]  to strict scrutiny.
+[00:28:04 -> 00:28:05]  Strict scrutiny,
+[00:28:05 -> 00:28:06]  we're going to see
+[00:28:06 -> 00:28:07]  it basically
+[00:28:07 -> 00:28:08]  has to be a perfect fit.
+[00:28:08 -> 00:28:09]  Rational basis,
+[00:28:09 -> 00:28:10]  we see that the challenger
+[00:28:10 -> 00:28:11]  has to prove
+[00:28:11 -> 00:28:12]  that the law
+[00:28:12 -> 00:28:13]  is not
+[00:28:13 -> 00:28:14]  rationally related
+[00:28:14 -> 00:28:15]  to achieving
+[00:28:15 -> 00:28:16]  a legitimate
+[00:28:16 -> 00:28:17]  government interest.
+[00:28:17 -> 00:28:19]  If we visualize this,
+[00:28:19 -> 00:28:20]  kind of
+[00:28:20 -> 00:28:21]  these squares,
+[00:28:21 -> 00:28:22]  these rectangles
+[00:28:22 -> 00:28:23]  we have drawn
+[00:28:23 -> 00:28:24]  on the board,
+[00:28:24 -> 00:28:25]  imagine
+[00:28:25 -> 00:28:27]  that these rectangles
+[00:28:27 -> 00:28:29]  are like cakes,
+[00:28:29 -> 00:28:30]  like flat
+[00:28:30 -> 00:28:31]  sheet cakes,
+[00:28:31 -> 00:28:33]  and what we have
+[00:28:33 -> 00:28:34]  in situations
+[00:28:34 -> 00:28:35]  like this
+[00:28:35 -> 00:28:36]  where the government
+[00:28:36 -> 00:28:38]  is restricting.
+[00:28:38 -> 00:28:39]  Think about
+[00:28:39 -> 00:28:40]  any time
+[00:28:40 -> 00:28:41]  that the government
+[00:28:41 -> 00:28:42]  is actually
+[00:28:42 -> 00:28:43]  restricting rights,
+[00:28:43 -> 00:28:45]  they're taking away
+[00:28:45 -> 00:28:46]  rights,
+[00:28:46 -> 00:28:47]  or they're regulating
+[00:28:47 -> 00:28:48]  or restricting rights
+[00:28:48 -> 00:28:49]  in some way.
+[00:28:49 -> 00:28:50]  Like in this case,
+[00:28:50 -> 00:28:51]  they're actually
+[00:28:51 -> 00:28:52]  restricting
+[00:28:52 -> 00:28:54]  how people
+[00:28:54 -> 00:28:55]  can express
+[00:28:55 -> 00:28:56]  their ideas
+[00:28:56 -> 00:28:57]  when they're saying
+[00:28:57 -> 00:28:58]  you can't advertise
+[00:28:58 -> 00:28:59]  tobacco products
+[00:28:59 -> 00:29:00]  in these spaces,
+[00:29:00 -> 00:29:01]  in these ways.
+[00:29:01 -> 00:29:02]  They're kind of
+[00:29:02 -> 00:29:03]  taking away rights.
+[00:29:03 -> 00:29:04]  They're restricting
+[00:29:04 -> 00:29:05]  First Amendment
+[00:29:05 -> 00:29:06]  protections.
+[00:29:06 -> 00:29:07]  We should literally
+[00:29:07 -> 00:29:09]  visualize that
+[00:29:09 -> 00:29:11]  as our entire cake,
+[00:29:11 -> 00:29:12]  this rectangle
+[00:29:12 -> 00:29:13]  right here,
+[00:29:13 -> 00:29:14]  this entire cake
+[00:29:14 -> 00:29:15]  represents
+[00:29:15 -> 00:29:16]  freedom of speech,
+[00:29:16 -> 00:29:17]  and the government
+[00:29:17 -> 00:29:18]  is coming in
+[00:29:18 -> 00:29:20]  and they're carving out
+[00:29:20 -> 00:29:21]  a section of that cake.
+[00:29:21 -> 00:29:22]  They're saying,
+[00:29:22 -> 00:29:23]  look,
+[00:29:23 -> 00:29:24]  you can't
+[00:29:24 -> 00:29:25]  speak freely
+[00:29:25 -> 00:29:27]  in this little thing
+[00:29:27 -> 00:29:28]  that we are
+[00:29:28 -> 00:29:29]  carving out
+[00:29:29 -> 00:29:30]  from Freedom of Speech
+[00:29:30 -> 00:29:31]  First Amendment.
+[00:29:31 -> 00:29:32]  With this
+[00:29:32 -> 00:29:33]  tobacco
+[00:29:33 -> 00:29:34]  advertising
+[00:29:34 -> 00:29:35]  regulation,
+[00:29:35 -> 00:29:36]  they're cutting out
+[00:29:36 -> 00:29:37]  a piece of that cake.
+[00:29:37 -> 00:29:39]  So the dotted lines
+[00:29:39 -> 00:29:41]  kind of represent
+[00:29:41 -> 00:29:43]  the government's law
+[00:29:43 -> 00:29:44]  in these.
+[00:29:44 -> 00:29:45]  So the rectangle
+[00:29:45 -> 00:29:47]  all the way around,
+[00:29:47 -> 00:29:49]  the bordering rectangle
+[00:29:49 -> 00:29:50]  here
+[00:29:50 -> 00:29:51]  represents
+[00:29:51 -> 00:29:53]  the entire cake,
+[00:29:53 -> 00:29:54]  the entire
+[00:29:54 -> 00:29:55]  First Amendment,
+[00:29:55 -> 00:29:56]  basically.
+[00:29:56 -> 00:29:57]  And of course,
+[00:29:57 -> 00:29:58]  this isn't drawn to scale.
+[00:29:58 -> 00:29:59]  Like obviously,
+[00:29:59 -> 00:30:00]  in this example,
+[00:30:00 -> 00:30:01]  this cake
+[00:30:01 -> 00:30:02]  would be like
+[00:30:02 -> 00:30:03]  the size of the board
+[00:30:03 -> 00:30:04]  and the piece
+[00:30:04 -> 00:30:05]  they're cutting out
+[00:30:05 -> 00:30:07]  is like relatively small.
+[00:30:07 -> 00:30:08]  But just for our purposes,
+[00:30:08 -> 00:30:09]  this isn't drawn to scale,
+[00:30:09 -> 00:30:10]  but just to like
+[00:30:10 -> 00:30:12]  see what it looks like.
+[00:30:12 -> 00:30:13]  They're carving out
+[00:30:13 -> 00:30:14]  a piece
+[00:30:14 -> 00:30:16]  of that protection.
+[00:30:16 -> 00:30:17]  Okay?
+[00:30:17 -> 00:30:18]  And so
+[00:30:18 -> 00:30:19]  when they're doing this
+[00:30:19 -> 00:30:21]  under rational basis,
+[00:30:21 -> 00:30:22]  the question is just
+[00:30:22 -> 00:30:23]  that there's a rational
+[00:30:23 -> 00:30:25]  relationship
+[00:30:25 -> 00:30:26]  between
+[00:30:26 -> 00:30:27]  the government's
+[00:30:27 -> 00:30:28]  target objective,
+[00:30:28 -> 00:30:29]  which is basically
+[00:30:29 -> 00:30:30]  the green lines,
+[00:30:30 -> 00:30:31]  and basically
+[00:30:31 -> 00:30:33]  what they've cut out.
+[00:30:33 -> 00:30:34]  And here,
+[00:30:34 -> 00:30:36]  the piece that they've cut out,
+[00:30:36 -> 00:30:37]  right,
+[00:30:37 -> 00:30:38]  it's way bigger
+[00:30:38 -> 00:30:39]  than it probably
+[00:30:39 -> 00:30:40]  has to be.
+[00:30:40 -> 00:30:41]  When we think about
+[00:30:41 -> 00:30:43]  how much of free speech
+[00:30:43 -> 00:30:44]  they're cutting out,
+[00:30:44 -> 00:30:45]  they're carving out
+[00:30:45 -> 00:30:47]  a really big piece.
+[00:30:47 -> 00:30:48]  But in that piece,
+[00:30:48 -> 00:30:50]  they are probably
+[00:30:50 -> 00:30:52]  achieving their objective here.
+[00:30:52 -> 00:30:53]  When we think about
+[00:30:53 -> 00:30:55]  what the objective is,
+[00:30:55 -> 00:30:56]  they're trying to reduce
+[00:30:56 -> 00:30:57]  the demand
+[00:30:57 -> 00:30:58]  basically from children
+[00:30:58 -> 00:31:00]  for tobacco products.
+[00:31:00 -> 00:31:02]  If they go
+[00:31:02 -> 00:31:03]  and they
+[00:31:03 -> 00:31:04]  reduce the amount
+[00:31:04 -> 00:31:05]  of advertising
+[00:31:05 -> 00:31:07]  that children see,
+[00:31:07 -> 00:31:08]  okay,
+[00:31:08 -> 00:31:09]  if less children
+[00:31:09 -> 00:31:10]  are seeing advertisements
+[00:31:10 -> 00:31:11]  for tobacco,
+[00:31:11 -> 00:31:12]  that's going to
+[00:31:12 -> 00:31:13]  lower the demand
+[00:31:13 -> 00:31:14]  that children have
+[00:31:14 -> 00:31:15]  for tobacco.
+[00:31:15 -> 00:31:16]  Less kids use
+[00:31:16 -> 00:31:17]  tobacco products.
+[00:31:17 -> 00:31:18]  Less kids are going
+[00:31:18 -> 00:31:19]  to have the
+[00:31:19 -> 00:31:20]  bodily harm
+[00:31:20 -> 00:31:21]  and other damages
+[00:31:21 -> 00:31:22]  that the government
+[00:31:22 -> 00:31:24]  is trying to prevent.
+[00:31:24 -> 00:31:25]  So we can clearly see
+[00:31:25 -> 00:31:26]  the relationship
+[00:31:26 -> 00:31:27]  behind
+[00:31:28 -> 00:31:30]  the rational relationship
+[00:31:30 -> 00:31:32]  behind this law,
+[00:31:32 -> 00:31:33]  basically restricting
+[00:31:33 -> 00:31:35]  the way tobacco companies
+[00:31:35 -> 00:31:36]  can advertise
+[00:31:36 -> 00:31:37]  in places where
+[00:31:37 -> 00:31:38]  children congregate
+[00:31:38 -> 00:31:39]  to reducing
+[00:31:39 -> 00:31:40]  basically harm
+[00:31:40 -> 00:31:42]  caused by tobacco
+[00:31:42 -> 00:31:43]  to children.
+[00:31:43 -> 00:31:45]  We can see that relationship.
+[00:31:45 -> 00:31:47]  Now if we visualize it though,
+[00:31:47 -> 00:31:48]  it's not like
+[00:31:48 -> 00:31:49]  a perfect relationship.
+[00:31:49 -> 00:31:50]  The government
+[00:31:50 -> 00:31:51]  is targeting
+[00:31:51 -> 00:31:52]  way more
+[00:31:52 -> 00:31:53]  than they have to here
+[00:31:53 -> 00:31:55]  to achieve that objective.
+[00:31:55 -> 00:31:56]  Think about it.
+[00:31:56 -> 00:31:58]  Imagine that we took out a map
+[00:31:58 -> 00:32:00]  and we pinned
+[00:32:00 -> 00:32:02]  all of these locations.
+[00:32:02 -> 00:32:04]  Take like New York City,
+[00:32:04 -> 00:32:05]  a really populated
+[00:32:05 -> 00:32:06]  congested city.
+[00:32:06 -> 00:32:07]  And say we went
+[00:32:07 -> 00:32:08]  and we on the map
+[00:32:08 -> 00:32:10]  we put a pin in
+[00:32:10 -> 00:32:11]  everywhere there's
+[00:32:11 -> 00:32:12]  a public park,
+[00:32:12 -> 00:32:13]  everywhere there's
+[00:32:13 -> 00:32:15]  a public playground,
+[00:32:15 -> 00:32:16]  everywhere there's
+[00:32:16 -> 00:32:17]  a school,
+[00:32:17 -> 00:32:18]  an elementary school,
+[00:32:18 -> 00:32:19]  a middle school.
+[00:32:19 -> 00:32:20]  Because remember
+[00:32:20 -> 00:32:21]  the regulation
+[00:32:21 -> 00:32:22]  the government passed
+[00:32:22 -> 00:32:23]  in this case
+[00:32:23 -> 00:32:24]  was basically
+[00:32:24 -> 00:32:25]  no tobacco
+[00:32:25 -> 00:32:26]  advertising
+[00:32:26 -> 00:32:27]  within a thousand feet
+[00:32:27 -> 00:32:28]  of public elementary schools,
+[00:32:28 -> 00:32:29]  public middle schools,
+[00:32:29 -> 00:32:30]  public parks,
+[00:32:30 -> 00:32:31]  public playgrounds.
+[00:32:31 -> 00:32:32]  So imagine we looked
+[00:32:32 -> 00:32:33]  at a map
+[00:32:33 -> 00:32:34]  and we put those pins in
+[00:32:34 -> 00:32:36]  at each of those locations.
+[00:32:36 -> 00:32:37]  And then we drew
+[00:32:37 -> 00:32:38]  a thousand feet
+[00:32:38 -> 00:32:39]  diameter circles
+[00:32:39 -> 00:32:40]  around each
+[00:32:40 -> 00:32:41]  of those locations.
+[00:32:41 -> 00:32:42]  And then we looked
+[00:32:42 -> 00:32:43]  at the map.
+[00:32:43 -> 00:32:44]  What it would probably
+[00:32:44 -> 00:32:45]  turn out
+[00:32:45 -> 00:32:46]  if we did that
+[00:32:46 -> 00:32:47]  is almost the entire city
+[00:32:47 -> 00:32:48]  would be circled.
+[00:32:48 -> 00:32:49]  Which means effectively
+[00:32:49 -> 00:32:51]  by passing this regulation
+[00:32:51 -> 00:32:52]  there can be
+[00:32:52 -> 00:32:54]  no tobacco advertising
+[00:32:54 -> 00:32:55]  in the entire city
+[00:32:55 -> 00:32:56]  in any format.
+[00:32:56 -> 00:32:57]  People basically
+[00:32:57 -> 00:32:58]  can't verbally
+[00:32:58 -> 00:33:00]  advertise tobacco.
+[00:33:00 -> 00:33:01]  So people can't even
+[00:33:01 -> 00:33:02]  really talk about
+[00:33:02 -> 00:33:03]  tobacco products.
+[00:33:03 -> 00:33:04]  There can't be
+[00:33:04 -> 00:33:05]  any signage,
+[00:33:05 -> 00:33:06]  any radio,
+[00:33:06 -> 00:33:07]  any advertisements
+[00:33:07 -> 00:33:08]  of any kind
+[00:33:08 -> 00:33:09]  of tobacco
+[00:33:09 -> 00:33:11]  in an entire city.
+[00:33:11 -> 00:33:13]  So think about that.
+[00:33:13 -> 00:33:14]  That means they are
+[00:33:14 -> 00:33:15]  carving out
+[00:33:15 -> 00:33:16]  a huge piece
+[00:33:16 -> 00:33:18]  of the First Amendment pie.
+[00:33:18 -> 00:33:19]  If we think about
+[00:33:19 -> 00:33:21]  the First Amendment cake here
+[00:33:21 -> 00:33:22]  they are cutting out
+[00:33:22 -> 00:33:23]  a massive piece.
+[00:33:24 -> 00:33:26]  Way more than they need to
+[00:33:26 -> 00:33:27]  to achieve their objective
+[00:33:27 -> 00:33:29]  of just preventing children
+[00:33:29 -> 00:33:32]  from using tobacco products.
+[00:33:32 -> 00:33:34]  So we would say
+[00:33:34 -> 00:33:35]  that's probably
+[00:33:35 -> 00:33:36]  a substantially
+[00:33:36 -> 00:33:39]  over-inclusive law.
+[00:33:39 -> 00:33:40]  When we're thinking about
+[00:33:40 -> 00:33:41]  this second element
+[00:33:41 -> 00:33:42]  that's what this label is.
+[00:33:42 -> 00:33:44]  It's substantially
+[00:33:44 -> 00:33:45]  over-inclusive.
+[00:33:45 -> 00:33:46]  And that's what
+[00:33:46 -> 00:33:47]  the red represents.
+[00:33:47 -> 00:33:48]  The red kind of represents
+[00:33:48 -> 00:33:50]  the burden,
+[00:33:50 -> 00:33:52]  the additional burden,
+[00:33:52 -> 00:33:53]  the extra burden
+[00:33:53 -> 00:33:54]  they're placing
+[00:33:54 -> 00:33:55]  on free speech
+[00:33:55 -> 00:33:56]  when they pass this law.
+[00:33:56 -> 00:33:57]  They're carving out
+[00:33:57 -> 00:33:58]  way more
+[00:33:58 -> 00:34:00]  than they need to.
+[00:34:00 -> 00:34:02]  But the good news
+[00:34:02 -> 00:34:04]  for the government here
+[00:34:04 -> 00:34:05]  is if we're applying
+[00:34:05 -> 00:34:07]  rational basis
+[00:34:07 -> 00:34:08]  that's kind of okay.
+[00:34:08 -> 00:34:10]  It doesn't have to be
+[00:34:10 -> 00:34:12]  a narrowly tailored law.
+[00:34:12 -> 00:34:13]  It doesn't have to be
+[00:34:13 -> 00:34:14]  a perfect fit.
+[00:34:14 -> 00:34:15]  They are allowed
+[00:34:15 -> 00:34:16]  to carve out more
+[00:34:16 -> 00:34:17]  than they need to
+[00:34:17 -> 00:34:18]  if we're applying
+[00:34:18 -> 00:34:19]  rational basis.
+[00:34:19 -> 00:34:21]  Thank you so much
+[00:34:21 -> 00:34:22]  for watching
+[00:34:22 -> 00:34:23]  this video preview
+[00:34:23 -> 00:34:24]  of our Legal Education
+[00:34:24 -> 00:34:26]  Accelerator Program
+[00:34:26 -> 00:34:28]  or LEAP for short.
+[00:34:28 -> 00:34:29]  If you would like
+[00:34:29 -> 00:34:30]  to see the conclusion
+[00:34:30 -> 00:34:31]  of this video
+[00:34:31 -> 00:34:32]  and gain full access
+[00:34:32 -> 00:34:33]  to our entire
+[00:34:33 -> 00:34:35]  1L and 2L video library,
+[00:34:35 -> 00:34:37]  integrated outlines,
+[00:34:37 -> 00:34:39]  streamable audio versions,
+[00:34:39 -> 00:34:41]  additional practice exams
+[00:34:41 -> 00:34:42]  with explanations,
+[00:34:42 -> 00:34:43]  and much more,
+[00:34:43 -> 00:34:44]  we invite you
+[00:34:44 -> 00:34:45]  to head over
+[00:34:45 -> 00:34:46]  to our website
+[00:34:46 -> 00:34:48]  and join the thousands
+[00:34:48 -> 00:34:49]  of law students
+[00:34:49 -> 00:34:50]  who have already enrolled
+[00:34:50 -> 00:34:51]  to get started
+[00:34:51 -> 00:34:52]  with your no-risk
+[00:34:52 -> 00:34:54]  free trial today.
+[00:34:54 -> 00:34:55]  Simply click the link
+[00:34:55 -> 00:34:57]  in the description box below
+[00:34:57 -> 00:35:01]  or visit www.studacata.com
+[00:35:01 -> 00:35:03]  forward slash LEAP.
+[00:35:17 -> 00:35:18]  Hi everyone.
+[00:35:18 -> 00:35:19]  My name is Serena
+[00:35:19 -> 00:35:20]  and I'm currently
+[00:35:20 -> 00:35:21]  a law student
+[00:35:21 -> 00:35:22]  at South Texas
+[00:35:22 -> 00:35:23]  College of Law, Houston.
+[00:35:23 -> 00:35:24]  Hi everybody.
+[00:35:24 -> 00:35:25]  My name is Shiva
+[00:35:25 -> 00:35:26]  and I'm currently
+[00:35:26 -> 00:35:27]  a law student
+[00:35:27 -> 00:35:28]  at Southwestern.
+[00:35:28 -> 00:35:29]  Hi everyone.
+[00:35:29 -> 00:35:30]  My name is Michelle
+[00:35:30 -> 00:35:32]  and I am a first year student
+[00:35:32 -> 00:35:33]  at South Texas
+[00:35:33 -> 00:35:34]  College of Law, Houston.
+[00:35:34 -> 00:35:35]  I used the
+[00:35:35 -> 00:35:37]  Studacata study video series
+[00:35:37 -> 00:35:38]  last semester
+[00:35:38 -> 00:35:39]  to help me prepare
+[00:35:39 -> 00:35:40]  mostly for contracts
+[00:35:40 -> 00:35:41]  and I actually made
+[00:35:41 -> 00:35:42]  an A plus N contract
+[00:35:42 -> 00:35:43]  last semester
+[00:35:43 -> 00:35:45]  which I greatly dedicate
+[00:35:45 -> 00:35:47]  to the Studacata videos.
+[00:35:47 -> 00:35:48]  By using Studacata
+[00:35:48 -> 00:35:49]  to help me prepare
+[00:35:49 -> 00:35:51]  for my final exam,
+[00:35:51 -> 00:35:52]  I was able to score
+[00:35:52 -> 00:35:53]  the highest grade
+[00:35:53 -> 00:35:54]  out of my class
+[00:35:54 -> 00:35:55]  on the final
+[00:35:55 -> 00:35:56]  and even have my essay
+[00:35:56 -> 00:35:57]  distributed as the
+[00:35:57 -> 00:35:58]  model answer.
+[00:35:58 -> 00:35:59]  Not to mention
+[00:35:59 -> 00:36:00]  I had done quite poorly
+[00:36:00 -> 00:36:01]  on the midterm
+[00:36:01 -> 00:36:02]  and was struggling
+[00:36:02 -> 00:36:03]  throughout the whole course
+[00:36:03 -> 00:36:04]  of the semester
+[00:36:04 -> 00:36:06]  understanding the material
+[00:36:06 -> 00:36:08]  and keeping up with lectures.
+[00:36:08 -> 00:36:09]  Because of the
+[00:36:09 -> 00:36:10]  Studacata video lectures,
+[00:36:10 -> 00:36:11]  I was able to go
+[00:36:11 -> 00:36:12]  into my exams
+[00:36:12 -> 00:36:14]  with a feeling of confidence.
+[00:36:14 -> 00:36:15]  I didn't have to worry
+[00:36:15 -> 00:36:16]  about what the rules of law were
+[00:36:16 -> 00:36:17]  or how I was going
+[00:36:17 -> 00:36:18]  to organize my answer
+[00:36:18 -> 00:36:19]  to an essay question.
+[00:36:19 -> 00:36:21]  I would absolutely recommend
+[00:36:21 -> 00:36:22]  the Studacata series
+[00:36:22 -> 00:36:24]  and their online course materials
+[00:36:24 -> 00:36:25]  to anyone.
+[00:36:25 -> 00:36:27]  I think that they
+[00:36:27 -> 00:36:28]  are not like
+[00:36:28 -> 00:36:30]  professor lectures
+[00:36:30 -> 00:36:31]  that you might find online
+[00:36:31 -> 00:36:33]  or other outside study materials
+[00:36:33 -> 00:36:34]  that you may encounter.
+[00:36:34 -> 00:36:36]  I think that the Studacata videos
+[00:36:36 -> 00:36:37]  really focus on
+[00:36:37 -> 00:36:38]  not only ensuring
+[00:36:38 -> 00:36:39]  that you understand
+[00:36:39 -> 00:36:41]  the material
+[00:36:41 -> 00:36:42]  that you're going to encounter
+[00:36:42 -> 00:36:43]  on your final,
+[00:36:43 -> 00:36:44]  but they also help you
+[00:36:44 -> 00:36:45]  to understand
+[00:36:45 -> 00:36:46]  kind of the best method
+[00:36:46 -> 00:36:47]  for test-taking.
+[00:36:47 -> 00:36:48]  And they really break down
+[00:36:48 -> 00:36:49]  how to approach
+[00:36:49 -> 00:36:50]  each problem
+[00:36:50 -> 00:36:51]  and the best ways
+[00:36:51 -> 00:36:52]  to tackle certain methods
+[00:36:52 -> 00:36:53]  on testing.
+[00:36:53 -> 00:36:54]  And I think that's
+[00:36:54 -> 00:36:55]  really important
+[00:36:55 -> 00:36:56]  and I think it's really special.
+[00:36:56 -> 00:36:57]  I don't see that
+[00:36:57 -> 00:36:58]  anywhere else
+[00:36:58 -> 00:36:59]  in any of the other
+[00:36:59 -> 00:37:00]  online resources
+[00:37:00 -> 00:37:01]  that I've found.
+[00:37:01 -> 00:37:02]  So, I would certainly
+[00:37:02 -> 00:37:03]  recommend Studacata
+[00:37:03 -> 00:37:04]  to anyone
+[00:37:04 -> 00:37:05]  who is studying
+[00:37:05 -> 00:37:06]  in law school right now.
+[00:37:06 -> 00:37:08]  Good luck on your studying
+[00:37:08 -> 00:37:09]  and you're going to do great.
+[00:37:09 -> 00:37:10]  I would definitely
+[00:37:10 -> 00:37:12]  recommend Studacata
+[00:37:12 -> 00:37:13]  to anybody
+[00:37:13 -> 00:37:14]  watching this video.
+[00:37:14 -> 00:37:15]  Give it a chance
+[00:37:15 -> 00:37:16]  Give it a chance
+[00:37:16 -> 00:37:17]  I'm sure
+[00:37:17 -> 00:37:18]  I'm positive
+[00:37:18 -> 00:37:19]  that you will love it
+[00:37:19 -> 00:37:20]  that you will get
+[00:37:20 -> 00:37:21]  a lot out of it
+[00:37:21 -> 00:37:22]  and that you will be happy
+[00:37:22 -> 00:37:24]  that you gave it a chance.
+[00:37:24 -> 00:37:25]  I definitely am.
+[00:37:25 -> 00:37:27]  I know I will be using
+[00:37:27 -> 00:37:29]  Studacata in the future.
+[00:37:29 -> 00:37:30]  And I cannot thank
+[00:37:30 -> 00:37:31]  Studacata enough
+[00:37:31 -> 00:37:32]  for getting me through
+[00:37:32 -> 00:37:33]  my first semester
+[00:37:33 -> 00:37:34]  of law school.
+[00:37:34 -> 00:37:35]  I will definitely,
+[00:37:35 -> 00:37:36]  definitely continue
+[00:37:36 -> 00:37:37]  to watch the Studacata
+[00:37:37 -> 00:37:38]  video lectures
+[00:37:38 -> 00:37:39]  throughout my law school career
+[00:37:39 -> 00:37:41]  and I highly recommend
+[00:37:41 -> 00:37:42]  that any future
+[00:37:42 -> 00:37:43]  or current law student
+[00:37:43 -> 00:37:44]  do the same.

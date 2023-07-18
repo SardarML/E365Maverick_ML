@@ -1,0 +1,1349 @@
+[00:00:00 -> 00:00:06]  Welcome to you all. I'm going to tell you today about quantum mechanics. That's the objective of
+[00:00:06 -> 00:00:12]  today's video. And so we'll start with the reason why. Why am I going to tell you about quantum
+[00:00:12 -> 00:00:17]  mechanics? Well, in the past year, the past couple of years, we've witnessed an extraordinary
+[00:00:17 -> 00:00:23]  situation where quantum mechanics and computation are coming together and they're giving birth to
+[00:00:23 -> 00:00:30]  quantum computation. And not just theoretically, the first real world devices that are capable of
+[00:00:30 -> 00:00:36]  performing quantum computation have been developed. They are now available. And this has generated an
+[00:00:36 -> 00:00:42]  extraordinary amount of excitement, both inside physics, but also outside physics. And the reason
+[00:00:42 -> 00:00:48]  I'm going to tell you about quantum mechanics today is because I have in mind that you are
+[00:00:48 -> 00:00:54]  participating in this video and people watching this video will be people who are not necessarily
+[00:00:54 -> 00:01:04]  physicists. So the aim of today's video is to gently give you a background, enough background
+[00:01:04 -> 00:01:10]  in quantum mechanics so that you could potentially jump in to the field of quantum computation.
+[00:01:11 -> 00:01:19]  And so I should then move to the who. Who do I have in mind for today? So today's presentation
+[00:01:19 -> 00:01:24]  is not really intended for physicists to know everything there is to know about quantum
+[00:01:24 -> 00:01:29]  mechanics. That's not the objective of today's video. The people who I have in mind are people
+[00:01:29 -> 00:01:37]  who are trained at an undergraduate level in a natural science, potentially information theory,
+[00:01:37 -> 00:01:45]  potentially chemistry or some other related field, biology, where you've had some exposure
+[00:01:45 -> 00:01:50]  to a little bit of mathematics, a little bit of physics, but not necessarily quantum mechanics at
+[00:01:50 -> 00:01:56]  all. So this is the target audience for today. People who are knowledgeable of maths and perhaps
+[00:01:56 -> 00:02:00]  physics at an undergraduate level, but who haven't seen quantum mechanics. So if you have seen quantum
+[00:02:00 -> 00:02:05]  mechanics, maybe you'll be curious to see how I'll be presenting quantum mechanics to a general
+[00:02:05 -> 00:02:10]  audience. But the audience today is not physicists. It's really people who have really
+[00:02:10 -> 00:02:19]  barely any working knowledge of quantum physics. What do I presume? What do you need to bring?
+[00:02:19 -> 00:02:26]  What to understand in today's video? I'm going to, you know, you're going to need to bring two
+[00:02:27 -> 00:02:33]  ingredients in order to best benefit from today's video. So the first thing you're going to need to
+[00:02:33 -> 00:02:45]  do is bring a basic, I repeat basic, working knowledge of probability theory. So I will assume,
+[00:02:45 -> 00:02:50]  and I won't bother to define notions such as probability distribution, expected value,
+[00:02:50 -> 00:02:57]  average value, sample space, random variable. These notions will be assumed. And if you're
+[00:02:57 -> 00:03:02]  uncomfortable with these notions, then please do go ahead and look at the numerous videos that are
+[00:03:02 -> 00:03:06]  available actually on YouTube and beyond that will give you a good grounding in probability
+[00:03:06 -> 00:03:12]  theory. So probability theory is really a must for enjoying the content for today. Another must
+[00:03:14 -> 00:03:22]  is linear algebra. So linear algebra is a more demanding prerequisite.
+[00:03:23 -> 00:03:28]  It's, and it's something I'm just going to assume. So I do encourage you if you're not
+[00:03:28 -> 00:03:34]  comfortable with linear algebra, maybe to take a little while to review the basic,
+[00:03:35 -> 00:03:39]  the basic concepts of linear algebra in particular, it's going to be essential that
+[00:03:39 -> 00:03:45]  you know the notion of a vector space. Okay. That's the basic part of linear algebra. I also
+[00:03:45 -> 00:03:51]  will assume you know about matrices. I'll assume that you know about diagonalization of matrices.
+[00:03:51 -> 00:03:56]  There's one potentially advanced topic that you may not be familiar with, and that's the
+[00:03:56 -> 00:04:06]  Kronecker or tensor product. I will partially review this. That's something you do need to have
+[00:04:06 -> 00:04:11]  fair, fairly, need to be fairly comfortable with, and hopefully you will be by the end of this video
+[00:04:11 -> 00:04:19]  anyway. So why are we here? To teach you quantum mechanics. Who's this aimed at? People who are
+[00:04:19 -> 00:04:24]  who's this aimed at? People with a broad scientific background who at least are comfortable
+[00:04:24 -> 00:04:30]  with probability theory and linear algebra. And well, let's get right to it. So what I'm going
+[00:04:30 -> 00:04:35]  to do is present to you quantum mechanics, but I'm not going to teach you all of quantum mechanics.
+[00:04:35 -> 00:04:41]  That takes a full semester at the, at the end of an undergraduate degree. I'm going to tell you
+[00:04:41 -> 00:04:44]  about not quantum mechanics, but I'm going to tell you about something that we could call
+[00:04:45 -> 00:04:56]  simplified quantum mechanics. Now I'll try and be very precise about what is being simplified here
+[00:04:56 -> 00:05:02]  and what you're missing out on and what you're gaining. So to teach quantum mechanics properly,
+[00:05:02 -> 00:05:08]  you do need a good grounding in all of physics. So you can sort of place the theory of quantum
+[00:05:08 -> 00:05:12]  mechanics in context, and that takes many, many years of an undergraduate degree.
+[00:05:13 -> 00:05:19]  However, and further, you need to be comfortable, you need to really engage with
+[00:05:19 -> 00:05:27]  infinite dimensions to do quantum mechanics as a physical theory justice. Now, these two
+[00:05:27 -> 00:05:33]  prerequisites usually mean that quantum mechanics is incredibly hard to learn because, okay, it may
+[00:05:33 -> 00:05:38]  be easy to learn probability theory and linear algebra, but the minute you talk about infinite
+[00:05:38 -> 00:05:46]  dimensional vector spaces and fitting this all in the context of a broader theory of physics,
+[00:05:46 -> 00:05:53]  that places a massive hurdle to entry, a massive barrier to entry when learning quantum mechanics.
+[00:05:54 -> 00:06:00]  However, it turns out that for the purposes of quantum computers, learning about enough quantum
+[00:06:00 -> 00:06:04]  mechanics to understand how quantum computers operate, or at least how to model quantum
+[00:06:04 -> 00:06:10]  computers, you don't need to know about infinite dimensional vector spaces. This is not required.
+[00:06:10 -> 00:06:16]  And you don't really lose anything by not knowing that part of the quantum canon. And secondly,
+[00:06:16 -> 00:06:23]  if you're willing to accept a couple of postulates on faith, you don't actually need to know the full
+[00:06:23 -> 00:06:28]  baggage of all the historical development of quantum mechanics and other physical theories
+[00:06:28 -> 00:06:36]  on which the development of quantum mechanics was built. So this is why we can teach
+[00:06:36 -> 00:06:41]  the elements of quantum mechanics without this huge barrier to entry. The price we pay is that
+[00:06:41 -> 00:06:48]  you're not going to quite learn about quantum mechanics as practiced by practitioners,
+[00:06:50 -> 00:06:54]  but you will learn enough that you really will be able to do almost all the calculations that we do
+[00:06:54 -> 00:07:00]  in our daily lives as quantum information theorists. You should be able to follow them
+[00:07:00 -> 00:07:08]  at a professional level after today's lecture. And that's where we're going to jump off from now,
+[00:07:08 -> 00:07:12]  the idea that I'm going to teach you quantum mechanics, not the full theory with infinite
+[00:07:12 -> 00:07:17]  dimensions, rather a simplified subset that's self-contained and will allow you to reason about
+[00:07:17 -> 00:07:24]  quantum computers. And before moving on to telling you what is quantum mechanics, because
+[00:07:24 -> 00:07:28]  I am going to tell you all the postulates of quantum mechanics, we're going to learn how to
+[00:07:28 -> 00:07:38]  work with quantum mechanics, I'm going to first mention by way of introduction what kind of thing
+[00:07:38 -> 00:07:43]  is quantum mechanics, and then we'll see how to define it and to work with it.
+[00:07:44 -> 00:07:50]  So the important take-home message that you should already be memorising
+[00:07:54 -> 00:08:00]  for the future is that quantum mechanics is a probabilistic theory. I'll tell you exactly what
+[00:08:00 -> 00:08:08]  that means in the sequel, a probabilistic theory. What does this mean? It means quantum mechanics
+[00:08:09 -> 00:08:16]  supplies us predictions, it's a theory of physics, we model physical systems and we solve our models
+[00:08:16 -> 00:08:21]  and we use our models to supply predictions, so that's what a predictive physical theory does,
+[00:08:21 -> 00:08:26]  but these predictions don't come in the form of the particle will be here at this time. No,
+[00:08:26 -> 00:08:31]  the predictions of quantum mechanics come in the form of probabilities.
+[00:08:32 -> 00:08:38]  So all that quantum mechanics can do as a theory is give you a probability of an event taking place.
+[00:08:40 -> 00:08:45]  So the predictions come in the form of probabilities.
+[00:08:48 -> 00:08:52]  And well, the minute you have probabilities, you need probability theory to reason about it,
+[00:08:52 -> 00:08:57]  and in that sense that's why probability theories are necessary prerequisite to talk
+[00:08:58 -> 00:09:02]  about quantum mechanics, because at some point quantum mechanics is going to hand you a prediction,
+[00:09:02 -> 00:09:04]  it's going to be a probability and you're going to have to reason about it.
+[00:09:06 -> 00:09:11]  Now to give you a high-level depiction of how a probabilistic theory, what does it look like,
+[00:09:11 -> 00:09:16]  you know, how do you work with a probabilistic theory, I'm going to show you every single
+[00:09:16 -> 00:09:22]  experiment that mankind has ever done in physics. So the way an experiment works is you have three
+[00:09:22 -> 00:09:31]  stages in an experiment. There's a preparation stage where you build up your apparatus and you
+[00:09:31 -> 00:09:43]  put the apparatus into a known state or a known configuration. So this is the first stage of any
+[00:09:43 -> 00:09:50]  experiment in physics, preparation. You start by building your system up and setting up all the
+[00:09:50 -> 00:09:56]  degrees of freedom in known configurations so that you can then proceed. You then allow your
+[00:09:56 -> 00:10:04]  system, depicted here as a line, to evolve. Maybe you change some aspects of it, maybe you
+[00:10:05 -> 00:10:09]  shine some laser light at it and then you turn the laser off or something. So what happens is
+[00:10:09 -> 00:10:14]  that after preparation there is a period of so-called dynamics, some time passes, things happen.
+[00:10:15 -> 00:10:21]  And then at the end of the experiment you measure, you perform a measurement, so there's
+[00:10:23 -> 00:10:29]  oops, and a measurement supplies us information.
+[00:10:31 -> 00:10:35]  And this information will typically come in the list of a bunch of
+[00:10:36 -> 00:10:40]  bits of information, so we have say classical bits.
+[00:10:48 -> 00:10:54]  So if you're sort of like struggling to imagine something that fits into this, imagine we have
+[00:10:55 -> 00:11:02]  some mirrors, we shine some very faint light into this collection of mirrors, the light bounces
+[00:11:02 -> 00:11:06]  around the mirrors, and then we have a photon detector somewhere, something that just detects
+[00:11:06 -> 00:11:10]  light, and this detector just clicks or doesn't click. Now that's actually a surprisingly good
+[00:11:10 -> 00:11:23]  representation for very many situations in experimental physics. And the information
+[00:11:23 -> 00:11:30]  you get when you measure light, or in particular is a photon there or not, is a click or a no-click.
+[00:11:30 -> 00:11:35]  In fact, it turns out that all the observables that quantum mechanics will give you predictions
+[00:11:35 -> 00:11:40]  about are of that form. Does event A happen or not happen? So that's why probability theory
+[00:11:41 -> 00:11:49]  will play a role. In terms of preparation here, usually there's some information required to
+[00:11:49 -> 00:11:56]  describe the preparation of your experiment. So we have a list of variables, A1 through to AM.
+[00:11:56 -> 00:12:02]  These are also classical bits, you can just take your information that describes the setup
+[00:12:02 -> 00:12:08]  of your apparatus and express it as a list of bits as well. So what you should be seeing here
+[00:12:08 -> 00:12:16]  is a picture where classical information is used to create a preparation for your experiment,
+[00:12:17 -> 00:12:22]  the experiment proceeds, and then there's a measurement and out comes classical information.
+[00:12:23 -> 00:12:33]  And so that's all experiments that we try and describe in physics. If you work hard enough,
+[00:12:33 -> 00:12:39]  you can reduce them to this abstract form here. And so the goal of quantum mechanics
+[00:12:39 -> 00:12:44]  is to describe the probability that we get a given outcome given a certain income.
+[00:12:44 -> 00:12:54]  So this is to predict the probability because we can't,
+[00:12:58 -> 00:13:05]  quantum mechanics will only deliver probabilities as predictions of an outcome
+[00:13:05 -> 00:13:18]  from x1 through to xn, so you get some string of bits given the setup A1 through to AM.
+[00:13:20 -> 00:13:29]  So we have something like this given A1 through to AM. That's all that quantum mechanics,
+[00:13:29 -> 00:13:33]  that's the goal of quantum mechanics to do this. And what I'm about to tell you now is I'm going
+[00:13:33 -> 00:13:40]  to give you a recipe book, you can take this recipe book and with a bit of practice and just
+[00:13:40 -> 00:13:45]  a little bit of extra knowledge, you'll be able to apply this recipe book to model an extraordinarily
+[00:13:45 -> 00:13:50]  large number of systems that occur in quantum computation. So that's the goal of quantum
+[00:13:50 -> 00:13:57]  mechanics and also our goal today. That's all very well, you might say, we have these probabilities,
+[00:13:57 -> 00:14:05]  great. You might be forgiven for thinking this all looks too abstract and the answer is indeed
+[00:14:05 -> 00:14:11]  it does look too abstract because I haven't told you what's the rules for preparation,
+[00:14:12 -> 00:14:18]  what's the rules of predicting the dynamics or modeling the dynamics of an experiment,
+[00:14:18 -> 00:14:22]  and what's the rules for getting measurement outcomes out of a quantum system. That's the
+[00:14:22 -> 00:14:30]  goal for today, to tell you what the rules are to allow you to produce one of these probabilities
+[00:14:30 -> 00:14:37]  as an outcome, as a prediction. And that brings us to simplified quantum mechanics.
+[00:14:44 -> 00:14:50]  If you are a German speaker, then you can benefit from my latest lecture series,
+[00:14:50 -> 00:14:57]  Theoretical Physics C, in which I go into much more detail about the laws of quantum mechanics.
+[00:14:57 -> 00:15:05]  I give the full postulates, no simplifying assumptions whatsoever, but also I can
+[00:15:05 -> 00:15:12]  recommend any number of videos that you might find on the internet. The essentials of quantum,
+[00:15:13 -> 00:15:18]  any lecture course on quantum mechanics will give you some version of what I'm about to show,
+[00:15:18 -> 00:15:21]  some superset of the version of what I'm about to show.
+[00:15:23 -> 00:15:29]  Right. Oh, it occurs to me that before I jump into these postulates, I should have a couple
+[00:15:29 -> 00:15:37]  of words about notation. Indeed, just so that you won't be too shocked when I start writing down things.
+[00:15:42 -> 00:15:45]  So we're going to talk about vector spaces a lot in quantum mechanics,
+[00:15:45 -> 00:15:52]  and we're going to talk about something called Hilbert spaces. So let me just set some notation.
+[00:15:52 -> 00:15:58]  I'm going to, the vector spaces that occur in simplified quantum mechanics all have a very
+[00:15:58 -> 00:16:05]  special form. They are all the form of the complex numbers to the d, which means this is just the
+[00:16:05 -> 00:16:14]  vector space of all column vectors with d entries, d complex numbers.
+[00:16:20 -> 00:16:24]  So hopefully you're familiar and comfortable with complex numbers. I didn't write that as
+[00:16:24 -> 00:16:32]  a prerequisite, but that is something that I'll also assume that you know. So vectors in my
+[00:16:33 -> 00:16:37]  notation, vectors are usually written with a V, with a line underneath to indicate that there's a
+[00:16:37 -> 00:16:43]  vector. So it's a column vector with d complex entries. So that's our vector spaces in simplified
+[00:16:43 -> 00:16:49]  quantum mechanics. We'll always be focusing on these kinds of things. We also have in simplified
+[00:16:49 -> 00:16:57]  quantum mechanics, an inner product. That's also pretty important to talk about this inner product.
+[00:16:57 -> 00:17:01]  As we'll see, it's got to do with the probabilities of quantum mechanics. Inner products, I will have
+[00:17:01 -> 00:17:08]  various notations for them, but this is the one that will stick to. V, W, an inner product. The
+[00:17:08 -> 00:17:13]  inner product we're going to use is going to be take the transpose of V, then take the complex
+[00:17:13 -> 00:17:20]  conjugate, which we could also write as star, and multiply it by W. That's the inner product we're
+[00:17:20 -> 00:17:25]  going to use when talking about simplified quantum mechanics. And so just a quick example,
+[00:17:26 -> 00:17:32]  just to set this notation. If we have one vector V, and this vector is like one I,
+[00:17:33 -> 00:17:40]  and we have another vector W, and this vector is like two I three. So these are two vectors in
+[00:17:42 -> 00:17:48]  the vector space V is C2, two column vectors. Then the inner product
+[00:17:50 -> 00:17:52]  can be calculated, and we're going to need to do this,
+[00:17:53 -> 00:17:57]  as follows. Well, we've got to take the transpose of V, and then the complex conjugate. So here's
+[00:17:57 -> 00:18:05]  the transpose of V, but I haven't done the complex conjugate yet. Now I'll do the complex conjugate.
+[00:18:05 -> 00:18:11]  So one stays, goes to one, but I goes to minus I, and we've got two I and three, and then at the
+[00:18:11 -> 00:18:16]  end we end up with two I minus three I, which is otherwise known as minus I. So that's the inner
+[00:18:16 -> 00:18:22]  product between V and W. We're going to use this inner product a lot, but we're going to use it
+[00:18:22 -> 00:18:28]  a lot. It's so-called sesquilinear, bilinear form. You don't need to know that. If you're just
+[00:18:29 -> 00:18:32]  happy to accept this definition, then that's something we're going to use a lot.
+[00:18:35 -> 00:18:42]  Good. Let's move on. I think that's all I need to say about
+[00:18:44 -> 00:18:50]  vector spaces. I have to tell you one final thing. It's going to come up a lot.
+[00:18:50 -> 00:18:54]  It's hard to talk about quantum mechanics without saying the word Hilbert space.
+[00:18:55 -> 00:18:59]  Now Hilbert spaces are, in infinite dimensions, a much more subtle concept than they are in finite
+[00:18:59 -> 00:19:06]  dimensions. But in finite dimensions, life is very easy, and that's why we take finite dimensional
+[00:19:06 -> 00:19:17]  systems. A Hilbert space is nothing other than a vector space V with this inner product
+[00:19:20 -> 00:19:28]  VW. Okay. That's what a Hilbert space is for today. That's enough for us in simplified quantum
+[00:19:28 -> 00:19:32]  mechanics. If you wanted to do it properly, then you have to worry about infinite dimensional
+[00:19:33 -> 00:19:39]  systems. We're not going to do that. So it's enough for us to focus on finite dimensions.
+[00:19:40 -> 00:19:43]  So now what I'm going to do is I'm going to list a bunch of postulates.
+[00:19:44 -> 00:19:49]  Now the thing about quantum mechanics is that you can't prove that quantum mechanics is correct.
+[00:19:49 -> 00:19:53]  In physics, you can't prove anything is correct. All you can do in physics is reject a hypothesis,
+[00:19:53 -> 00:19:58]  right? So we can't say we have proved with this experiment that quantum mechanics is correct.
+[00:19:58 -> 00:20:03]  All we have done is supplied evidence that it might be correct when we do an experiment, and
+[00:20:05 -> 00:20:08]  the outcome of the experiment matches what we would predict from quantum mechanics.
+[00:20:08 -> 00:20:17]  This is a serious component of physics. You can never prove that a theory is correct. All you can
+[00:20:17 -> 00:20:22]  do is reject hypotheses and therefore sort of accumulate evidence that this theory is the
+[00:20:22 -> 00:20:28]  correct one. It could be that tomorrow someone does an experiment which indicates that there's
+[00:20:28 -> 00:20:34]  a theory that's not quantum mechanics that matches all the experiments we've done up to now,
+[00:20:35 -> 00:20:39]  but in some way goes beyond quantum mechanics. I can't exclude that possibility. It's impossible
+[00:20:39 -> 00:20:43]  to exclude the possibility that there's another theory underlying everything that's
+[00:20:43 -> 00:20:49]  different from quantum mechanics. And so that's why we can't, I can't say to you,
+[00:20:50 -> 00:20:55]  this is, you can derive this. What we've done is through many decades of experience,
+[00:20:55 -> 00:21:02]  accumulated evidence that a certain mathematical structure seems to model the universe. And the
+[00:21:02 -> 00:21:05]  best way we have to describe this mathematical structure is via a list of postulates,
+[00:21:06 -> 00:21:11]  and the word postulate should indicate to you, this is something I can't prove,
+[00:21:11 -> 00:21:17]  it's something we take on faith, or rather not completely on faith, like we've worked pretty hard
+[00:21:18 -> 00:21:23]  to convince ourselves that these postulates are the correct way to quantify or to describe this
+[00:21:23 -> 00:21:30]  theory. Okay, postulate one. And oh, there's always some argumentation in the literature,
+[00:21:30 -> 00:21:36]  what's the right postulates? I'm going to show you the real professional postulates. I'm not
+[00:21:37 -> 00:21:44]  really pulling my punches here. This list of postulates are the ones that many working
+[00:21:44 -> 00:21:51]  physicists work with in their daily job, and I'm going to show you how we really work with
+[00:21:52 -> 00:21:57]  quantum states. This is where these list of postulates might differ from the average textbook,
+[00:21:57 -> 00:22:05]  which sort of presents things in a slightly indirect way. Okay, postulate one. Each type
+[00:22:07 -> 00:22:20]  of quantum system is assigned a Hilbert space H.
+[00:22:26 -> 00:22:28]  Okay, I'll immediately do an example to give you an example.
+[00:22:29 -> 00:22:35]  So, we're assigning a Hilbert space to each type of quantum system. Let me give you an example of
+[00:22:35 -> 00:22:40]  a type of quantum system. We're doing quantum computation here today. The most fundamental
+[00:22:40 -> 00:22:45]  atomic type of quantum system in quantum computation is the quantum bit or qubit,
+[00:22:45 -> 00:22:54]  and that is assigned the Hilbert space C2, the space of all column vectors with two complex
+[00:22:54 -> 00:23:03]  entries. This Hilbert space you shouldn't think of is directly leading to any predictions in
+[00:23:03 -> 00:23:08]  quantum mechanics. Rather, it's the kind of mathematical space upon which the structure
+[00:23:08 -> 00:23:17]  of quantum mechanics is built. So, it's the background set in which quantum mechanics
+[00:23:17 -> 00:23:21]  takes place. So, the qubit is one type of quantum system that you might think of as
+[00:23:21 -> 00:23:25]  the qubit. So, the qubit is one type of quantum system that you might encounter in quantum
+[00:23:25 -> 00:23:32]  computation. You might encounter the qubit. As the name suggests, the qubit is a D-level
+[00:23:34 -> 00:23:42]  quantum system, and it's assigned the Hilbert space or vector space within a product C to the
+[00:23:42 -> 00:23:48]  D. So, this is just the space of all column vectors with D entries. Okay, that's postulate
+[00:23:48 -> 00:23:53]  one. Each type of quantum system is assigned a Hilbert space H. You're not allowed to go to
+[00:23:53 -> 00:24:04]  postulate two until you've decided on postulate one. And then we move to postulate two.
+[00:24:10 -> 00:24:15]  Postulate two tells us about preparation processes. So, I'm going to go back up here.
+[00:24:16 -> 00:24:21]  Remember, every experiment in physics takes the form of a sequence of a preparation,
+[00:24:21 -> 00:24:25]  some dynamics, and a measurement. So, I have to tell you how we describe preparations
+[00:24:25 -> 00:24:40]  in quantum mechanics. A preparation is characterized by something called a state.
+[00:24:46 -> 00:24:55]  Now, in quantum information theory and in full quantum mechanics, a state is
+[00:24:59 -> 00:25:03]  represented by a thing called a density matrix. I'll tell you what that is in a second.
+[00:25:04 -> 00:25:12]  So, all preparations in quantum mechanics are characterized by things called states,
+[00:25:12 -> 00:25:17]  and states are represented by density matrices. What is a density matrix?
+[00:25:19 -> 00:25:23]  And this is where we get to probably the hardest mathematical prerequisites for this course
+[00:25:24 -> 00:25:30]  immediately. What is a density matrix? This is a positive operator. I'll explain what that is in a
+[00:25:30 -> 00:25:37]  second. Matrix, right? When I say operator, always replace it with the word matrix. It could be that
+[00:25:37 -> 00:25:43]  I just end up saying operator without thinking, but in simplified quantum mechanics, operator
+[00:25:43 -> 00:25:51]  equals matrix. So, I'll just put that as a parenthetic remark here. Operator equals
+[00:25:53 -> 00:26:02]  matrix in simplified quantum mechanics. You can add that to the dictionary of terminology that
+[00:26:02 -> 00:26:07]  you'll face. So, a preparation is characterized by a state or a density matrix. This is a positive
+[00:26:07 -> 00:26:15]  matrix. I'll explain what that is, with trace equal to one. Okay, what's a positive matrix?
+[00:26:15 -> 00:26:19]  So, I'll tell you what the matrix is. We almost always use the symbol rho for this matrix,
+[00:26:20 -> 00:26:33]  and with trace of rho equals one. All right, this is, in a sense,
+[00:26:34 -> 00:26:39]  this is the hardest mathematical step in understanding simplified quantum mechanics.
+[00:26:39 -> 00:26:46]  We have to make sense of the word positive. What does this mean? So, we'll just make an aside.
+[00:26:46 -> 00:26:52]  Positive. This means that all eigenvalues
+[00:26:55 -> 00:27:02]  of rho are greater than or equal to zero. That's one characterization of positivity
+[00:27:02 -> 00:27:10]  in finite dimensions. Another one is equivalent, and this is an exercise for you, just as
+[00:27:10 -> 00:27:10]  just as
+[00:27:17 -> 00:27:24]  for all, if you take your favorite vector, for all vectors in the vector space V,
+[00:27:24 -> 00:27:29]  oh, I should tell you one more thing in notation in a second. If you multiply this vector by the
+[00:27:29 -> 00:27:34]  transpose complex conjugate by rho by V, that's always greater than zero.
+[00:27:35 -> 00:27:42]  I didn't tell you how big this matrix was. That's embarrassing. It's a D by D matrix.
+[00:27:43 -> 00:27:50]  Why is it a D by D matrix? What I should have told you is that this matrix acts on our Hilbert space.
+[00:27:53 -> 00:27:58]  Rho maps from the Hilbert space to the Hilbert space. So, it's a square matrix,
+[00:27:58 -> 00:28:02]  so it's a square matrix, and if our Hilbert space has dimension D, then
+[00:28:07 -> 00:28:13]  it turns out that all Hilbert spaces in simplified quantum mechanics are of the form of the complex
+[00:28:13 -> 00:28:21]  numbers of D by D column vectors, D column vectors of complex numbers in quantum mechanics.
+[00:28:22 -> 00:28:27]  Then a positive matrix is a matrix, so it's got to have the right dimension, right? It's
+[00:28:27 -> 00:28:39]  going to be a D by D matrix. And positive means that no matter what vector you choose
+[00:28:41 -> 00:28:45]  in your Hilbert space, H, no matter what vector you choose, if you do
+[00:28:46 -> 00:28:50]  V transpose complex conjugate multiplied by rho multiplied by V, then that's always greater than
+[00:28:50 -> 00:28:56]  equal to zero. And now we have another symbol for V transpose complex conjugate. It gets so
+[00:28:56 -> 00:29:00]  annoying to write that all the time. So, we actually have a different symbol for that that
+[00:29:00 -> 00:29:06]  I'm going to start using called V dagger rho V is bigger than equal to zero.
+[00:29:08 -> 00:29:12]  Okay, that's just an aside. What does positive mean? It means if you work out all the eigenvalues,
+[00:29:12 -> 00:29:17]  they're either, they're all greater than equal to zero, or no matter what vector you choose from
+[00:29:17 -> 00:29:22]  your Hilbert space, if you form this product of a vector, a rho vector matrix, column vector,
+[00:29:22 -> 00:29:29]  it's always greater than equal to zero. Okay, very good. Let's do an example.
+[00:29:38 -> 00:29:40]  No, let's not do an example. Let's finish the postulate.
+[00:29:45 -> 00:29:48]  Because there's a special case that you have to be aware of,
+[00:29:49 -> 00:29:54]  because we're going to say these words a lot. Now, not all states are somehow the same. Some states
+[00:29:54 -> 00:30:03]  are purer than other states. The terminology that we use for such special states is pure state. A
+[00:30:03 -> 00:30:08]  pure state is one that cannot be prepared as a probabilistic mixture of two other states. We'll
+[00:30:08 -> 00:30:14]  come more to that in a minute. For pure states, those are represented,
+[00:30:14 -> 00:30:17]  for pure states, those are represented
+[00:30:20 -> 00:30:29]  as a one-dimensional projector. And that will need some comment, and I will give some comment
+[00:30:29 -> 00:30:38]  about that in a minute. So that means that your state rho is called pure if you can write rho
+[00:30:38 -> 00:30:43]  as a product of a column vector and a rho vector in this way.
+[00:30:53 -> 00:30:57]  Okay, I'll do some examples to illustrate this postulate in a second. Let's put the
+[00:30:57 -> 00:31:01]  whole postulate there. A preparation in quantum mechanics, simplified quantum mechanics,
+[00:31:01 -> 00:31:06]  is characterized by a state. A state is a density matrix. This is a positive matrix rho,
+[00:31:06 -> 00:31:11]  which acts on our Hilbert space and has trace one. And specifically for so-called pure states,
+[00:31:11 -> 00:31:16]  rho has a special form. It's the form of a one-dimensional projector, rho equals psi,
+[00:31:16 -> 00:31:21]  psi dagger. And so in other words, there's a one-to-one correspondence between one-dimensional
+[00:31:21 -> 00:31:27]  projectors and vector, otherwise known as pure states, and vectors in our Hilbert space.
+[00:31:28 -> 00:31:33]  Let's do some examples. We're going to go back to qubits here.
+[00:31:33 -> 00:31:41]  Okay, this qubit is a type of quantum system. The Hilbert space we assign to a qubit is C2.
+[00:31:42 -> 00:31:46]  Now, I'm telling you there's a thing called a preparation, and a preparation is represented
+[00:31:46 -> 00:31:51]  by a density matrix. So what's a density matrix? Well, it's got to be a two-by-two matrix, right?
+[00:31:51 -> 00:32:00]  It's acting on H and giving us something in H. So it's got to be, the only thing that fits,
+[00:32:01 -> 00:32:10]  right, is a two-by-two matrix. And here's an example of a density matrix. It's got the entry
+[00:32:10 -> 00:32:17]  a half here, the entry a half here, and the entry a quarter here times I, and an entry a quarter
+[00:32:17 -> 00:32:26]  minus times I here. That's our first example of a quantum state. It's a two-by-two matrix.
+[00:32:27 -> 00:32:32]  Let's check all the properties. Does it have trace one? So are we allowed to call this a
+[00:32:32 -> 00:32:38]  quantum state is the first question. A quantum state has to have trace one. Okay, let's check
+[00:32:38 -> 00:32:45]  that. So if you take the trace of rho, then you get a half plus a half, so that's one.
+[00:32:46 -> 00:32:52]  So that worked out. But now we have to also decide if this matrix is positive. That means
+[00:32:52 -> 00:32:58]  both eigenvalues greater than equal to zero. I'm going to take a sneaky side trick to prove that.
+[00:32:58 -> 00:33:02]  One way to do this is you look at the determinant of the matrix. This only works in two dimensions,
+[00:33:02 -> 00:33:11]  by the way, for qubits. And the answer we get here is a quarter minus 80 minus BC. So it's a 16th
+[00:33:13 -> 00:33:17]  times by minus one, because we've got I there, the complex number I.
+[00:33:17 -> 00:33:25]  So we get a plus 16, right? If I did it correctly. Did I do it correctly?
+[00:33:28 -> 00:33:32]  One quarter plus, I'll just do it slowly. The problem with doing things quickly
+[00:33:34 -> 00:33:42]  with too many I's on the board is that you miss a minus sign. And I think I did. So there's a
+[00:33:42 -> 00:33:45]  minus, goes to a plus here, and there's a minus here. Okay, I did miss a minus sign.
+[00:33:46 -> 00:33:52]  So it's a quarter minus a 16th. Now that number, whatever, if you care to work it out,
+[00:33:52 -> 00:33:57]  is greater than zero, right? And the determinant of a matrix is the product
+[00:33:58 -> 00:34:04]  of its eigenvalues. So we know that in this very special case here, the two eigenvalues of rho,
+[00:34:07 -> 00:34:10]  their product is positive, which means that they have to either both be negative or both be
+[00:34:10 -> 00:34:17]  positive. In this case, they are both positive because the trace is equal to one. And that's the
+[00:34:17 -> 00:34:26]  sum of the eigenvalues. You may not remember these little linear algebra tricks. And the reason I'm
+[00:34:26 -> 00:34:31]  actually doing the example like this is this kind of reasoning, especially about qubit states,
+[00:34:32 -> 00:34:36]  gets applied in practice very rapidly by practitioners. You'll often see practitioners
+[00:34:36 -> 00:34:40]  say things like, oh, that matrix is clearly positive. And you'll be like, I didn't work
+[00:34:40 -> 00:34:44]  out the eigenvalues. How do you know that? And the way people reason is they often use
+[00:34:48 -> 00:34:53]  these kind of linear algebra side tricks, that the trace is the sum of the eigenvalues of a
+[00:34:53 -> 00:34:57]  matrix that determines the product of the eigenvalues. And that way, you can reason
+[00:34:57 -> 00:35:03]  very rapidly about matrices. And so I don't expect you to see this as obvious. On the contrary,
+[00:35:03 -> 00:35:08]  you may be really struggling to remember where you saw this for the first time.
+[00:35:08 -> 00:35:14]  That's OK. But by repeating these kinds of reasonings, you'll get practice at them.
+[00:35:16 -> 00:35:19]  OK, that's an example of a quantum state. It turns out it's not pure.
+[00:35:23 -> 00:35:29]  And the reason we can say that so very quickly is that the eigenvalues of a pure
+[00:35:29 -> 00:35:38]  state, represented by a matrix like this, has one eigenvalue equal to 1 and the rest equal to 0.
+[00:35:41 -> 00:35:44]  And that would mean the determinant is 0. So I'm going to give you an example now of a pure state.
+[00:35:47 -> 00:35:51]  Let's see if I can just think one up. Here's one.
+[00:35:53 -> 00:35:57]  This is a pure state. Now, how can we convince ourselves of this fact? Well,
+[00:35:58 -> 00:36:04]  think about this trick I showed above. The determinant of rho is 0. So that's a good
+[00:36:04 -> 00:36:12]  starting point. It's positive because the trace is 1. But this doesn't tell us immediately that
+[00:36:12 -> 00:36:20]  the state is pure. Pure means that rho is a matrix which has specifically this form where
+[00:36:20 -> 00:36:25]  you can write it as a column vector times by a row vector. And I'm going to do that right now.
+[00:36:25 -> 00:36:35]  You can write rho in this form here, root 2, 1 over root 2, 1 over root 2.
+[00:36:37 -> 00:36:41]  So you can always write rho like this, the product of this column vector times by this row vector.
+[00:36:41 -> 00:36:46]  This always kind of freaks. There's a kind of freak out moment when you see this thing here.
+[00:36:46 -> 00:36:51]  How can you multiply this? Well, you can. According to the rules of multiplying matrices,
+[00:36:51 -> 00:36:58]  the 1, 1 entry is a half, right? And then the rules say, well, then I take this entry and
+[00:36:58 -> 00:37:03]  I multiply it by over there and then I get a half. And then I take this one and I get a half.
+[00:37:03 -> 00:37:11]  And so you build a matrix that way, right? So it's a matrix. It also has the form of psi times
+[00:37:11 -> 00:37:16]  by psi dagger. So it's a one-dimensional projector or otherwise known as a pure state.
+[00:37:21 -> 00:37:26]  And now it's also time for another observation. We're going to need a lot.
+[00:37:27 -> 00:37:30]  What about the, suppose we have a pure state
+[00:37:32 -> 00:37:35]  and pure states feature a lot in quantum computation.
+[00:37:39 -> 00:37:42]  Can any vector give us a pure state? And the answer turns out to be no.
+[00:37:43 -> 00:37:51]  If you take the trace of row, then, well, you're taking the trace
+[00:37:54 -> 00:38:01]  of a column vector times by a row vector, and you can use the cyclic rule of trace,
+[00:38:01 -> 00:38:05]  right? Trace of AB is the same as the trace of BA, even when the matrices aren't square.
+[00:38:05 -> 00:38:10]  So A is psi and B is psi dagger, and you get psi dagger times by psi.
+[00:38:12 -> 00:38:18]  And that's a number. So that number has to equal one. So not any old vector is allowed as a
+[00:38:20 -> 00:38:24]  pure state. The vector further, not any other vector psi from your Hilbert space is allowed
+[00:38:24 -> 00:38:30]  as a pure state. The vector must further have length one. And another way of writing that is
+[00:38:31 -> 00:38:37]  that the inner product between psi and itself is one. That's a quick side remark. So you'll often
+[00:38:37 -> 00:38:42]  see in quantum mechanics textbooks, people will define pure states first. They won't talk about
+[00:38:42 -> 00:38:49]  density matrices at all. They'll say pure states are vectors in Hilbert space with length one.
+[00:38:49 -> 00:38:55]  Now, that's something that many textbooks do. I encourage you not to think this way, because
+[00:38:56 -> 00:39:01]  I encourage you not to think this way, because in reality, in quantum computation,
+[00:39:02 -> 00:39:08]  we will encounter generically and universally density matrices. We will encounter so-called
+[00:39:08 -> 00:39:16]  mixed states, non-pure states. These appear most generally in quantum systems, because
+[00:39:16 -> 00:39:24]  every quantum system is under the influence of noise. And when you have noise acting on a quantum
+[00:39:24 -> 00:39:29]  system, then that takes a system in a pure state to a mixed state. I don't expect you to understand
+[00:39:30 -> 00:39:37]  that statement, but I will have it said that, I'll just say it, quantum systems in the presence of
+[00:39:37 -> 00:39:41]  fluctuations and noise from the environment generically are not in pure states. And so
+[00:39:41 -> 00:39:47]  that's why we should just rip the bandaid off quickly and define states as we do in
+[00:39:47 -> 00:39:52]  simplified quantum mechanics to be matrices. And then pure states are just a special kind.
+[00:39:53 -> 00:39:57]  There's one further example of a state that you should definitely know,
+[00:39:58 -> 00:40:02]  and that is if you have a probability distribution, and this is how you can
+[00:40:02 -> 00:40:07]  take your knowledge about probability theory and upgrade it to a knowledge about quantum mechanics.
+[00:40:07 -> 00:40:08]  If you have a probability distribution
+[00:40:12 -> 00:40:14]  on a sample space of d things,
+[00:40:14 -> 00:40:25]  d items, then what's a probability distribution on a sample space of d items? Well, it's a list of
+[00:40:25 -> 00:40:29]  numbers, right? It's p1, the probability that I get item 1, probability 2, and so on, all the
+[00:40:29 -> 00:40:35]  way up to probability d. And these probabilities, in order to be a probability distribution, you
+[00:40:35 -> 00:40:40]  should be able to sum them up and get 1, otherwise it's not a probability distribution. And furthermore,
+[00:40:40 -> 00:40:43]  the other defining feature of probability distribution is that these numbers are all
+[00:40:43 -> 00:40:49]  greater than or equal to 0. Now, if you have, so given a probability distribution,
+[00:40:50 -> 00:41:00]  then that actually automatically gives you a density matrix or state. We get a valid quantum state
+[00:41:05 -> 00:41:06]  representing this,
+[00:41:09 -> 00:41:12]  and what you do is you take these probabilities and you stick them on the diagonal of a matrix.
+[00:41:13 -> 00:41:26]  So all the other entries are 0, except for the diagonals, which are just these probabilities.
+[00:41:26 -> 00:41:29]  Is this a valid quantum state? Well, let's check, right? According to the definition,
+[00:41:29 -> 00:41:34]  it has to have trace equal to 1, and the eigenvalues have to be greater than or equal
+[00:41:34 -> 00:41:39]  to 0. And so let's check that. Well, the trace equal to 1, that's perfect, right? That's just
+[00:41:39 -> 00:41:42]  the sum of the diagonal entries, which is exactly what you need for these numbers to form a
+[00:41:42 -> 00:41:46]  probability distribution. And the eigenvalues being greater than or equal to 0, well, that's
+[00:41:46 -> 00:41:50]  also straightaway given to us because the matrix is diagonal. So the diagonal entries are the
+[00:41:50 -> 00:41:54]  eigenvalues, and they're all greater than or equal to 0 because this is a probability distribution.
+[00:41:55 -> 00:42:02]  So we automatically can embed probability theory into quantum mechanics, and I find that to be
+[00:42:03 -> 00:42:08]  a really helpful device. If you're struggling to understand quantum mechanics and have a reason
+[00:42:08 -> 00:42:14]  about it, you can gain a lot by just thinking about how probability theory is a sub-theory
+[00:42:14 -> 00:42:20]  of quantum mechanics. You get this sub-theory by just focusing on diagonal density operators.
+[00:42:20 -> 00:42:21]  So I'll write that down.
+[00:42:34 -> 00:42:37]  And that's really handy to know this, that probability theory is a sub-theory of quantum
+[00:42:37 -> 00:42:43]  mechanics. So anything you can do in probability theory, it turns out you can do in quantum
+[00:42:43 -> 00:42:50]  mechanics. It's very useful perhaps when designing algorithms. Okay, I've told you
+[00:42:50 -> 00:42:55]  about preparations that took a while. Now let me tell you about measurements.
+[00:42:58 -> 00:43:03]  I'm going to tell you about the last bit, dynamics last, the middle bit, dynamics last.
+[00:43:04 -> 00:43:09]  So postulate 3 tells us how to model detectors. So I've told you how to model in quantum mechanics
+[00:43:09 -> 00:43:16]  preparations, namely with these density matrices, but in quantum mechanics we can't perceive states.
+[00:43:16 -> 00:43:21]  This is something very important. If you have some quantum system and you've prepared it very
+[00:43:21 -> 00:43:27]  nicely in a given state represented by a density matrix, we can't see this density matrix, right?
+[00:43:27 -> 00:43:33]  You know the system's prepared, but you have no information about the state itself. How do
+[00:43:33 -> 00:43:38]  you get information out of a quantum system? The answer is by detection with a detector.
+[00:43:41 -> 00:43:43]  And that's what I'm going to tell you about now.
+[00:43:48 -> 00:43:54]  So a detector is a measuring apparatus, and it's a very specific kind of measuring apparatus.
+[00:43:54 -> 00:44:00]  It's got only two possible outcomes, this measuring device. It either says yes or no.
+[00:44:08 -> 00:44:15]  So yes, otherwise known as a click. So the detector clicks and says yes, I detected something
+[00:44:16 -> 00:44:23]  or no, which means no click. Detectors are these very special kinds of measuring
+[00:44:23 -> 00:44:31]  apparatuses. They exist everywhere in high-end physics and in optics. You can think of a detector
+[00:44:31 -> 00:44:38]  as a particle detector. It tells if there's a photon there or not. Yes or no. And it turns out
+[00:44:38 -> 00:44:48]  that all measurements in quantum mechanics can be broken down into a sequence of yes-no questions.
+[00:44:48 -> 00:44:52]  It's kind of a binary search thing. If you want to model a much more complex measurement in quantum
+[00:44:52 -> 00:44:57]  mechanics, then ultimately it's like a game of 20 questions. Is the quantity on the left or the
+[00:44:57 -> 00:45:02]  right, yes or no? So that's the first detector. So you can model all detectors in quantum mechanics
+[00:45:02 -> 00:45:12]  really via this postulate. All you have to do is sequentially model the measurement as a sequence
+[00:45:12 -> 00:45:19]  of yes-no questions, which are then separately modeled by these detectors. Now that's what a
+[00:45:19 -> 00:45:26]  detector is. How is it modeled in quantum mechanics? How do we mathematically model
+[00:45:26 -> 00:45:32]  such a thing? It's modeled by an operator. In other words, a matrix.
+[00:45:36 -> 00:45:42]  This matrix has got to be a d by d matrix because we're acting on a d by d dimensional Hilbert space.
+[00:45:43 -> 00:45:51]  And what kind of matrices are allowed? Well, only ones that obey this curious-looking
+[00:45:52 -> 00:45:57]  inequality. I'll explain what that means now. What does this mean? It means that f is bigger
+[00:45:57 -> 00:46:03]  than zero or positive and that f is less than the identity, which I'll explain. So what does this mean?
+[00:46:03 -> 00:46:12]  This means that zero is less than f, i.e. f is positive, and I told you what that meant earlier,
+[00:46:14 -> 00:46:23]  and that f is less than equal to i. i is the identity matrix, 1, 1, 1, 1, all zeros.
+[00:46:26 -> 00:46:31]  And f is less than i is the same as saying that zero is less than the identity,
+[00:46:31 -> 00:46:40]  i is the same as saying that zero is less than i minus f, or i minus f as a matrix is also positive.
+[00:46:42 -> 00:46:43]  That's what it means.
+[00:46:46 -> 00:46:51]  And that's how we model detectors in quantum mechanics. Detectors are modeled by matrices f.
+[00:46:54 -> 00:46:58]  And I better give you an example. So we have the running example of the qubit.
+[00:47:02 -> 00:47:08]  Here's a real-world example detector, one that if you go on a cloud quantum computing service like
+[00:47:08 -> 00:47:15]  the one provided by IBM, you will absolutely be able to measure this detection, or measuring
+[00:47:15 -> 00:47:25]  apparatus. So here's a matrix, f is given by 1, 0, 0, 0. I claim that that's a legal detector.
+[00:47:25 -> 00:47:31]  This is called the sigma z measurement.
+[00:47:34 -> 00:47:38]  In the parlance of quantum computation later, you'll see that this is called the sigma z
+[00:47:38 -> 00:47:45]  measurement. f is this 2 by 2 matrix. So if you do a sigma z measurement, that means you
+[00:47:45 -> 00:47:52]  model it with this matrix here. You'll see many of these as the weeks go by. Here's another one.
+[00:47:52 -> 00:47:57]  I've got to be a touch careful here. No, I think this is correct.
+[00:47:59 -> 00:48:05]  This is called a sigma x measurement. This terminology is largely historical, and we're
+[00:48:05 -> 00:48:12]  kind of stuck with it. So let's take a look. Is this thing here an allowed measurement? Okay,
+[00:48:12 -> 00:48:17]  f has got to obey these inequalities, right? f is going to be positive, and 1 minus f is also
+[00:48:17 -> 00:48:25]  going to be positive, in order for it to model a detection. Now, let's just check. f is indeed
+[00:48:25 -> 00:48:29]  positive, right? Because its eigenvalues are 1 and 0, and they're both greater than or equal to 0.
+[00:48:29 -> 00:48:38]  So that's okay. What about 1 minus f? Well, we can work that out. 1 minus f is the identity matrix
+[00:48:39 -> 00:48:45]  minus f, which is 1, 0, which is the same as 0, 1. Okay, that's also positive, right? Because
+[00:48:45 -> 00:48:50]  the eigenvalues are 0 and 1. What about this next one? Same story, right? We already know that f is
+[00:48:50 -> 00:48:58]  positive because I actually used a matrix up above. Yeah, I've already proved that rho is positive.
+[00:49:00 -> 00:49:04]  It turns out f is the same as rho. That does sometimes happen, but it's not always the case.
+[00:49:04 -> 00:49:09]  It turns out f is the same as rho. That does sometimes happen, but it's not usually the case.
+[00:49:10 -> 00:49:18]  In this case, it does happen. f is positive, but what about 1 minus f, right? Might not be positive.
+[00:49:18 -> 00:49:27]  1, 1, 0, 0, minus a half, a half, a half, a half is equal to a half, a half, minus a half,
+[00:49:27 -> 00:49:31]  minus a half. Now, the question is, does this matrix have positive eigenvalues? And the answer
+[00:49:31 -> 00:49:36]  is yes, right? If you work out the determinant, you can see that you get a positive number,
+[00:49:37 -> 00:49:42]  right? The determinant is a quarter minus a quarter. Sorry, the determinant is 0. It's
+[00:49:42 -> 00:49:49]  even better, right? The determinant is 0 and the trace is 1, so we know it's a positive matrix
+[00:49:49 -> 00:49:54]  by the arguments I've applied above. Just so you can get practice at this style of reasoning,
+[00:49:54 -> 00:49:57]  that's going to happen really a lot in the coming weeks.
+[00:49:58 -> 00:50:01]  While you're taking your sip, just a quick question here.
+[00:50:01 -> 00:50:01]  Please.
+[00:50:02 -> 00:50:08]  When you say positive, this would be what in mathematics we call positive semidefinite.
+[00:50:08 -> 00:50:12]  Oh, thank you. Yeah, I always do this. Thank you for the clarification.
+[00:50:12 -> 00:50:14]  So you do allow a 0 eigenvalue?
+[00:50:14 -> 00:50:16]  We do allow a 0 eigenvalue. I apologize.
+[00:50:16 -> 00:50:18]  I'm sure that's important. Yeah, that's important.
+[00:50:18 -> 00:50:23]  That actually was a mistake. It's not just terminology. I just said the wrong thing for
+[00:50:23 -> 00:50:30]  up to now. Whenever I said positive, I should have been saying positive semidefinite.
+[00:50:36 -> 00:50:40]  I mean, your matrix F there clearly has a 0 eigenvalue.
+[00:50:40 -> 00:50:43]  It clearly has a 0 eigenvalue. So it's actually not positive in the sense,
+[00:50:43 -> 00:50:47]  even mathematically. Yeah. Many thanks for the clarification. That's a shame that I made that
+[00:50:47 -> 00:50:54]  mistake. Okay. That's how we model measurements in quantum mechanics. Measurements are mathematically
+[00:50:54 -> 00:50:59]  modeled by positive operators that also have the property that 1 minus the operator is positive.
+[00:51:00 -> 00:51:01]  That's how it's modeled.
+[00:51:02 -> 00:51:08]  Now we come to the next. And that's great, right? So I've told you about preparations.
+[00:51:08 -> 00:51:12]  I've told you about measurements, but I haven't told you how to get predictions
+[00:51:12 -> 00:51:15]  out of quantum mechanics yet. This is a pretty boring theory.
+[00:51:15 -> 00:51:18]  We can model preparations and measurements, but we can't put them together, right?
+[00:51:18 -> 00:51:25]  What brings these two pieces of information together to give us an actual living breathing
+[00:51:25 -> 00:51:31]  physical theory? The answer is we need another postulate. And this is postulate 4.
+[00:51:32 -> 00:51:36]  Now this is where we've got ourselves a real physical theory. Now we actually don't need
+[00:51:36 -> 00:51:45]  postulates 5 and 6. It turns out postulates 1 to 4 are sufficient to build up quantum
+[00:51:45 -> 00:51:50]  mechanics as a theory, physical theory, and postulate 5 and 6, which I'll talk about later,
+[00:51:50 -> 00:51:55]  are convenience postulates. We just put them in for convenience because we can't be bothered
+[00:51:55 -> 00:51:58]  to rederive everything. But postulates 1 to 4 are actually already enough.
+[00:52:00 -> 00:52:03]  Okay. Now we're going to do physics. This is it.
+[00:52:05 -> 00:52:11]  Enough math. We're going to do some real physics now. The detection rate of a detector
+[00:52:15 -> 00:52:24]  modelled by some matrix F on a system
+[00:52:26 -> 00:52:30]  prepared, right? We've mentioned now detection and preparations.
+[00:52:32 -> 00:52:39]  According to Rho, right? Preparations are these density matrices. Detections are these
+[00:52:39 -> 00:52:49]  matrices F. So detection rate of a detector modelled by F on a system prepared according to Rho
+[00:52:51 -> 00:52:52]  is given by
+[00:52:57 -> 00:53:03]  P. We'll call it click. When does our detector click? Well, with a certain probability.
+[00:53:03 -> 00:53:08]  And that probability is given by the trace of Rho multiplied by F.
+[00:53:09 -> 00:53:14]  That's it. Now we're doing physics now. We've got a way to model preparations. We've got a way to
+[00:53:14 -> 00:53:20]  model measurements. Now we can find out if a given preparation will lead to a given detection
+[00:53:20 -> 00:53:26]  outcome and at what rate. And the rate is determined by this formula here. This is the
+[00:53:26 -> 00:53:36]  most important formula, version of the Born rule, quantum mechanics. You need this formula if you're
+[00:53:36 -> 00:53:45]  ever going to do anything with quantum mechanics. And we'll see that there's so much that's buried
+[00:53:45 -> 00:53:50]  into this formula that's of relevance in quantum computation. Because in quantum computation,
+[00:53:50 -> 00:53:56]  we're always going to be facing the challenge of getting information out of our system.
+[00:53:56 -> 00:54:00]  We can put it in with a preparation. We can set up a detection. And the only way to get
+[00:54:00 -> 00:54:09]  information out is via a measurement and the rate of clicks that we get. So if we do a preparation
+[00:54:09 -> 00:54:16]  and then we do a measurement, then we determine or we get a click outcome with probability
+[00:54:16 -> 00:54:20]  given by trace Rho times F. So let's do an example.
+[00:54:23 -> 00:54:25]  By the way, I will distribute these notes
+[00:54:26 -> 00:54:32]  probably by email. So we're going to go back to our friend the qubit. A qubit, we're going to
+[00:54:32 -> 00:54:39]  describe our preparation and our measurement preparation. So let's imagine we prepare our qubit
+[00:54:39 -> 00:54:47]  in the state, oh, I don't know, a half, a half, a half, a half. This is a pure state. And let's
+[00:54:47 -> 00:54:53]  suppose we want to measure this qubit state and find out with what probability does our
+[00:54:54 -> 00:55:01]  detector click. So the detector, what detector are we going to use? Well, there was a nice one that I
+[00:55:01 -> 00:55:09]  wrote up above, 1, 0, 0, 0. And so we have a preparation. We have a detector. We have the
+[00:55:09 -> 00:55:15]  experiment. Now we can draw the experiment. So in comes the preparation. We need to prepare the
+[00:55:15 -> 00:55:21]  state Rho. So we give a description to our experimental friend and they give us Rho,
+[00:55:22 -> 00:55:26]  they construct an apparatus which can prepare the qubit in the state Rho.
+[00:55:27 -> 00:55:29]  And then nothing happens. And then we measure.
+[00:55:36 -> 00:55:40]  And we measure with our detector F, the so-called Sigma Z measurement. And in fact,
+[00:55:40 -> 00:55:47]  if you go to the IBM quantum experience and you ask to prepare your qubit Rho in the state and
+[00:55:47 -> 00:55:57]  you want to do a Sigma Z measurement, you will get an outcome of click with a probability. Let's
+[00:55:57 -> 00:56:01]  work out what that probability is. So the probability that you get a click
+[00:56:03 -> 00:56:09]  when you prepare your system and then measure it in this way is given by postulate 3 by trace of
+[00:56:09 -> 00:56:18]  Rho. So Rho is a half, a half, a half, a half times by F. F is 1, 0, 0, 0, 0. OK, that's the
+[00:56:18 -> 00:56:26]  probability with which you get a click. And if you multiply these matrices out, we get a half,
+[00:56:27 -> 00:56:36]  0, a half, 0, we get a half. So half the time when you prepared your qubit in this way and you
+[00:56:36 -> 00:56:41]  measure it with this measurement, you will get a click. And the other half is no click. So that's
+[00:56:41 -> 00:56:49]  our first quantum mechanical experiment prepared and modelled and measured. And you can go ahead,
+[00:56:49 -> 00:56:56]  if you're willing to learn the interface for the IBM quantum experience, and actually carry this
+[00:56:56 -> 00:57:00]  out on a real quantum computer, if you wish. And you will get a list of zeros and ones.
+[00:57:01 -> 00:57:05]  And that's the number of times the detector clicked or didn't click. So that's something
+[00:57:05 -> 00:57:11]  that is well worth doing, so much worth doing, that I'm going to give it as a homework.
+[00:57:20 -> 00:57:24]  Now, that's a real challenge homework. I don't expect you to be able to just do this instant,
+[00:57:24 -> 00:57:28]  instantly. But I think with a bit of sort of fiddling around and dragging,
+[00:57:28 -> 00:57:33]  it's got a lovely drag and drop interface, you'll be able to carry out that experiment yourself.
+[00:57:33 -> 00:57:37]  And that's really like a real experiment. It's actually happening on a real quantum computer,
+[00:57:38 -> 00:57:42]  this experiment. And you'll get clicks and no clicks. And you could look at the
+[00:57:42 -> 00:57:46]  empiric rate at which you get the clicks and no clicks, and you should end up with about a half.
+[00:57:46 -> 00:57:50]  So that's, like, already we've done enough now. I've already told you
+[00:57:50 -> 00:57:57]  super simplified quantum mechanics.
+[00:58:04 -> 00:58:08]  That was super simplified quantum mechanics. In this version of quantum mechanics,
+[00:58:08 -> 00:58:12]  we don't have dynamics, we just have measurements and preparations.
+[00:58:13 -> 00:58:16]  And it turns out that's actually enough, right? You can actually,
+[00:58:16 -> 00:58:21]  with a bit of reasoning and argumentation, argue that the next two postulates are actually somehow
+[00:58:24 -> 00:58:26]  by no means independent.
+[00:58:29 -> 00:58:32]  But they're so convenient that I'm going to tell you them as postulates,
+[00:58:32 -> 00:58:40]  so we don't have to prove them. And then you can just, you know, believe me and apply them.
+[00:58:40 -> 00:58:43]  Now, it's worth saying that we have these postulates,
+[00:58:44 -> 00:58:48]  and they tell you the mathematical rules for how to model these things,
+[00:58:48 -> 00:58:50]  but they don't tell you how to model these things, right?
+[00:58:50 -> 00:58:54]  So suppose you have an experimentalist friend, and they said, I can do the widget measurement
+[00:58:54 -> 00:58:58]  and the bleeblap preparation.
+[00:58:59 -> 00:59:02]  What's the right matrix and what's the right F?
+[00:59:02 -> 00:59:07]  What's the right density matrix and the right F to model this experiment
+[00:59:07 -> 00:59:11]  by your experimentalist friend? And the answer is, well, based on experience.
+[00:59:12 -> 00:59:18]  And so what you need to do as a working quantum computer theorist
+[00:59:18 -> 00:59:22]  is build up a dictionary of commonly applied preparations and measurements.
+[00:59:22 -> 00:59:24]  So this is vital.
+[00:59:26 -> 00:59:28]  In fact, I better say that right now.
+[00:59:28 -> 00:59:41]  So
+[00:59:41 -> 00:59:57]  there are a list of really commonly applied preparations and measurements
+[00:59:57 -> 01:00:01]  that people use in practice. Now, I'll write out a couple of them.
+[01:00:02 -> 01:00:07]  Basically, we're going to learn them sort of on the job as we go by in these lectures.
+[01:00:08 -> 01:00:17]  And I won't really take so much time to give you the full comprehensive list,
+[01:00:17 -> 01:00:21]  because once you understand the general shape of one of these
+[01:00:21 -> 01:00:25]  commonly applied preparations and measurements, you'll no longer really...
+[01:00:27 -> 01:00:29]  You won't bother to remember this as a dictionary.
+[01:00:29 -> 01:00:31]  You'll actually learn that postulate five helps you to remember
+[01:00:31 -> 01:00:35]  this list of commonly applied preparations and measurements.
+[01:00:35 -> 01:00:40]  So here's the vital list. I'll give it to you now.
+[01:00:40 -> 01:00:42]  There's the so-called X preparation,
+[01:00:47 -> 01:00:52]  where rho is given by a half, a half, a half, a half.
+[01:00:53 -> 01:01:00]  There's the Y preparation, where I don't even think I can remember it correctly.
+[01:01:00 -> 01:01:02]  I believe it's a half.
+[01:01:06 -> 01:01:09]  Sigma Y would be plus one. So I believe it's minus
+[01:01:12 -> 01:01:17]  a half I, a half I. And then there's the Z preparation,
+[01:01:20 -> 01:01:23]  where rho equals one, zero, zero, zero.
+[01:01:23 -> 01:01:27]  You just have to remember these. As you learn more quantum mechanics
+[01:01:27 -> 01:01:30]  and you get more experience with it, it gets easier and easier somehow
+[01:01:30 -> 01:01:34]  to know which preparation is being talked about at which time.
+[01:01:35 -> 01:01:39]  And then here comes the detections or measurements.
+[01:01:40 -> 01:01:43]  There's a corresponding to each one of these preparations,
+[01:01:43 -> 01:01:47]  there's a measurement operator, just so it turns out they're the same thing.
+[01:01:47 -> 01:01:48]  So that was pretty easy, right?
+[01:01:48 -> 01:01:55]  So F equals rho here. I'll call this rho X to make it clear
+[01:01:55 -> 01:01:58]  that this has got something to do with these letters X, Y, and Z.
+[01:02:00 -> 01:02:09]  The Y measurement F equals rho Y and the Z measurement F equals rho Z.
+[01:02:09 -> 01:02:13]  I want to stress that although F looks like it's also like a density operator,
+[01:02:13 -> 01:02:14]  it doesn't have to have trace one.
+[01:02:14 -> 01:02:20]  So this weird duality between these two things goes away very quickly.
+[01:02:21 -> 01:02:25]  Okay, here's your list of basic preparations and measurements in quantum mechanics.
+[01:02:25 -> 01:02:29]  You can go ahead and sort of do nine experiments this way, right?
+[01:02:29 -> 01:02:33]  You can try all forms of preparing and measuring to see what comes out.
+[01:02:33 -> 01:02:38]  You can prepare your system in the X preparation and measure the Y measurement
+[01:02:38 -> 01:02:39]  and see what comes out.
+[01:02:39 -> 01:02:43]  You can prepare in the Z and measure the X and see what comes out.
+[01:02:43 -> 01:02:46]  So you have nine kind of possible preparations and measurements.
+[01:02:47 -> 01:02:51]  Now, as I said, in practice, we often don't memorize
+[01:02:51 -> 01:02:52]  these preparations and measurements.
+[01:02:52 -> 01:02:55]  Instead, we have two additional postulates which really help us
+[01:02:58 -> 01:03:02]  in minimizing the surface area of stuff that we have to remember
+[01:03:02 -> 01:03:05]  when we're trying to do quantum mechanics.
+[01:03:05 -> 01:03:06]  And so now we come to postulate five.
+[01:03:09 -> 01:03:15]  And this is one where there's going to be a little bit of physics creeping in.
+[01:03:17 -> 01:03:21]  I'll try and keep the physics at bay so we don't get bogged down in
+[01:03:23 -> 01:03:29]  too much physical discussion that isn't relevant to quantum computation.
+[01:03:29 -> 01:03:31]  But this is not unrelevant.
+[01:03:38 -> 01:03:39]  Actually, I don't think I'm going to do it this way.
+[01:03:39 -> 01:03:54]  Mm-hmm, evolution.
+[01:03:56 -> 01:03:59]  Okay, I'm going to describe it slightly differently.
+[01:03:59 -> 01:04:14]  There's going to be a new word here, closed.
+[01:04:30 -> 01:04:34]  All right, now we're doing quantum circuits already.
+[01:04:36 -> 01:04:41]  The evolution of a closed quantum system is described by a unitary matrix U,
+[01:04:41 -> 01:04:43]  and U has to act on L, Hilbert space.
+[01:04:44 -> 01:04:47]  Now, maybe you don't remember what a unitary matrix is.
+[01:04:47 -> 01:04:51]  A unitary matrix is one where if you take the adjoint, multiply it by U,
+[01:04:51 -> 01:04:54]  you get the I, and that is the same as if you do U times U dagger.
+[01:04:55 -> 01:04:59]  Now, any quantum, what does closed mean?
+[01:04:59 -> 01:05:01]  Closed means that the quantum system is effectively
+[01:05:01 -> 01:05:04]  completely shielded from the environment.
+[01:05:04 -> 01:05:05]  What's the environment?
+[01:05:05 -> 01:05:07]  Well, everything that's not the quantum system, right?
+[01:05:07 -> 01:05:10]  So the qubit, perhaps, if we're thinking about a qubit,
+[01:05:10 -> 01:05:14]  has to be sort of hermetically sealed in some kind of chamber,
+[01:05:14 -> 01:05:17]  and nothing from the environment is allowed to interact with the qubit
+[01:05:17 -> 01:05:20]  if we're going to look at the quantum system.
+[01:05:21 -> 01:05:23]  Nothing from the environment is allowed to interact with the qubit
+[01:05:24 -> 01:05:28]  if we're in an example of a closed quantum system.
+[01:05:28 -> 01:05:31]  The minute we do a measurement on a quantum system,
+[01:05:31 -> 01:05:32]  we're actually interacting with it.
+[01:05:32 -> 01:05:33]  That's very crucial.
+[01:05:33 -> 01:05:37]  The only way information can get out of a quantum system is by a measurement,
+[01:05:37 -> 01:05:40]  and the minute you do a measurement, this quantum system is no longer closed.
+[01:05:40 -> 01:05:44]  You open up a little window, and you take a look in,
+[01:05:44 -> 01:05:47]  and by looking in, you're interacting with the system.
+[01:05:47 -> 01:05:49]  This is something you should get used to.
+[01:05:49 -> 01:05:54]  In quantum mechanics, information gain leads to disturbance of the system.
+[01:05:54 -> 01:05:59]  That's a physical truism in quantum mechanics.
+[01:05:59 -> 01:06:00]  Remember it.
+[01:06:00 -> 01:06:01]  I'm not going to write it down here,
+[01:06:01 -> 01:06:04]  but gaining information disturbs the quantum system,
+[01:06:06 -> 01:06:08]  and gaining information, you do so by measurement.
+[01:06:08 -> 01:06:10]  But if you don't measure the system,
+[01:06:10 -> 01:06:12]  if you gain no information about the quantum system,
+[01:06:12 -> 01:06:16]  then the evolution of the system is described always by a unitary matrix U.
+[01:06:16 -> 01:06:18]  This turns out to be really crucial,
+[01:06:18 -> 01:06:23]  this distinction between evolution and information gain and closeness.
+[01:06:25 -> 01:06:25]  All right.
+[01:06:25 -> 01:06:28]  So the evolution of a closed quantum system is described by a unitary matrix,
+[01:06:30 -> 01:06:34]  and we describe evolutions in one of two equivalent ways.
+[01:06:37 -> 01:06:44]  We could do either in the so-called Schrodinger picture,
+[01:06:44 -> 01:06:51]  where your preparation gets updated to a new preparation.
+[01:06:56 -> 01:07:00]  And what's the new preparation after the system has evolved?
+[01:07:00 -> 01:07:04]  Well, the new preparation is U rho U dagger.
+[01:07:04 -> 01:07:14]  So after the evolution takes place,
+[01:07:15 -> 01:07:19]  you can describe the system as being really equivalent to the system
+[01:07:19 -> 01:07:23]  whereby we've just prepared it in a different quantum state,
+[01:07:23 -> 01:07:24]  different density matrix.
+[01:07:24 -> 01:07:25]  What density matrix?
+[01:07:25 -> 01:07:27]  Well, the one where you've taken the old one,
+[01:07:27 -> 01:07:28]  and you've multiplied it by U rho U dagger.
+[01:07:29 -> 01:07:37]  Or, in the Heisenberg picture,
+[01:07:42 -> 01:07:45]  whereby we update our detector operator.
+[01:07:49 -> 01:07:53]  So the detection that we're going to do gets mapped to a new one,
+[01:07:53 -> 01:07:57]  F prime U dagger U F U.
+[01:07:59 -> 01:08:03]  So you either implement your evolution in the Schrodinger picture,
+[01:08:03 -> 01:08:07]  where you model the system as being prepared in the new state rho prime,
+[01:08:07 -> 01:08:10]  or you model it in the Heisenberg picture,
+[01:08:10 -> 01:08:12]  where you say the preparation is the preparation.
+[01:08:12 -> 01:08:13]  That doesn't change.
+[01:08:13 -> 01:08:16]  But the device that we detected the system with
+[01:08:16 -> 01:08:19]  is now effectively replaced with another one.
+[01:08:20 -> 01:08:23]  As we'll see, these two ways of implementing evolution
+[01:08:23 -> 01:08:25]  lead to the same outcome, the same probability.
+[01:08:25 -> 01:08:27]  So we can never tell operationally.
+[01:08:27 -> 01:08:29]  There's no way to set up an experiment that could tell
+[01:08:29 -> 01:08:32]  if it happened in the Schrodinger picture or the Heisenberg picture.
+[01:08:32 -> 01:08:37]  Let me give you this picture here I've shown you at the beginning.
+[01:08:37 -> 01:08:38]  Now we'll do it again.
+[01:08:38 -> 01:08:41]  Remember, preparations are modeled by density matrices.
+[01:08:41 -> 01:08:44]  Detections are modeled by operators F,
+[01:08:45 -> 01:08:47]  and dynamics are modeled by U.
+[01:08:48 -> 01:08:55]  And according, we can now apply the postulates 1 to 4
+[01:08:55 -> 01:08:58]  to work out the probability that we get a click,
+[01:08:58 -> 01:09:01]  either in the Schrodinger picture or in the Heisenberg picture.
+[01:09:01 -> 01:09:01]  Schrodinger.
+[01:09:03 -> 01:09:05]  Let's do the probability of a click now.
+[01:09:07 -> 01:09:12]  Well, that's trace of...
+[01:09:12 -> 01:09:16]  Well, I told you that the preparation in the Schrodinger picture,
+[01:09:16 -> 01:09:20]  the way dynamics works or evolutions or allowed evolutions work in quantum mechanics
+[01:09:20 -> 01:09:22]  is that you have to change your preparation.
+[01:09:22 -> 01:09:24]  So the new preparation is U prime,
+[01:09:25 -> 01:09:27]  and that's given by U rho U dagger times by F.
+[01:09:27 -> 01:09:30]  So the probability that you get a click for this experiment
+[01:09:31 -> 01:09:34]  is given by trace of U rho U dagger F.
+[01:09:37 -> 01:09:38]  That's if you do things in the Heisenberg picture.
+[01:09:38 -> 01:09:43]  And then the picture that you have in mind is that really you're like,
+[01:09:43 -> 01:09:47]  you know, I'm just thinking about the preparation
+[01:09:47 -> 01:09:49]  and the dynamics is just being another preparation.
+[01:09:49 -> 01:09:51]  U prime, rho prime.
+[01:09:51 -> 01:09:56]  So I effectively like incorporate the dynamics of the apparatus into the preparation.
+[01:09:56 -> 01:09:58]  That's one way of thinking in the Schrodinger picture.
+[01:10:00 -> 01:10:02]  But in the Heisenberg picture, you think differently.
+[01:10:02 -> 01:10:04]  You think, oh, no, no, no, no, no.
+[01:10:04 -> 01:10:07]  The right way to think about it is that the preparation is a preparation,
+[01:10:07 -> 01:10:10]  but what really changes is the way I'm measuring the system.
+[01:10:10 -> 01:10:13]  I'm just measuring it with respect to a different angle, so to speak.
+[01:10:14 -> 01:10:17]  So the Heisenberg way of thinking,
+[01:10:17 -> 01:10:19]  way of thinking, which is equivalent,
+[01:10:21 -> 01:10:26]  is that the probability of a click is given by the trace of,
+[01:10:26 -> 01:10:28]  well, the preparation is a preparation,
+[01:10:28 -> 01:10:32]  but it's now a new measurement that we're doing, a new detection.
+[01:10:32 -> 01:10:34]  And that's given by U dagger F U.
+[01:10:35 -> 01:10:38]  But if you look, these two things are absolutely the same number, right?
+[01:10:38 -> 01:10:41]  Because all I have to do is apply the cyclic rule of trace
+[01:10:41 -> 01:10:43]  to bring that U around here.
+[01:10:44 -> 01:10:47]  And that equals the number up above.
+[01:10:47 -> 01:10:48]  So these two ways of thinking,
+[01:10:48 -> 01:10:51]  although they're sort of psychologically extremely different, right?
+[01:10:51 -> 01:10:53]  You know, one way you imagine
+[01:10:53 -> 01:10:56]  that you're slowly changing your preparation bit by bit,
+[01:10:56 -> 01:10:58]  and then you just do a fixed measurement.
+[01:10:58 -> 01:11:01]  Or the other way of thinking where you imagine
+[01:11:01 -> 01:11:03]  that you're just changing preparations,
+[01:11:03 -> 01:11:05]  but you're always, so you're changing your detections,
+[01:11:05 -> 01:11:07]  and the preparation remains the same.
+[01:11:07 -> 01:11:10]  These ways of thinking are psychologically very different for humans.
+[01:11:11 -> 01:11:14]  Physically, they lead to the same results,
+[01:11:14 -> 01:11:15]  according to the postulates of quantum mechanics.
+[01:11:17 -> 01:11:23]  Let me now give you a list of some examples, right?
+[01:11:26 -> 01:11:30]  We need to do examples to get some feeling for these postulates.
+[01:11:31 -> 01:11:33]  And here, I'm going to write down
+[01:11:33 -> 01:11:37]  the commonly used unitary gates in quantum computation.
+[01:11:37 -> 01:11:38]  I'm going to write them all down.
+[01:11:39 -> 01:11:43]  And so these, you just heard me say unitary gates, right?
+[01:11:43 -> 01:11:45]  So now there's a clue there, right?
+[01:11:45 -> 01:11:49]  All quantum circuits are, in quantum mechanics,
+[01:11:49 -> 01:11:50]  what are quantum circuits?
+[01:11:50 -> 01:11:52]  Well, they're just evolutions of closed quantum systems.
+[01:11:53 -> 01:11:56]  That's, when you hear now the words quantum circuit,
+[01:11:56 -> 01:11:59]  you should just think that's an evolution of a closed quantum system.
+[01:11:59 -> 01:12:00]  They're equivalent things.
+[01:12:03 -> 01:12:07]  So let's go through the laundry list of all quantum gates.
+[01:12:07 -> 01:12:10]  I'm going to start drawing pictures without defining this notation,
+[01:12:10 -> 01:12:12]  but you'll get used to the pictures.
+[01:12:12 -> 01:12:14]  So here's evolution according to x.
+[01:12:15 -> 01:12:16]  Pauli x, it's called.
+[01:12:17 -> 01:12:18]  Got to get used to this notation.
+[01:12:22 -> 01:12:28]  Pauli x is the matrix U equals 0011, like that.
+[01:12:28 -> 01:12:29]  Is it unitary?
+[01:12:29 -> 01:12:31]  Well, that's an exercise for you,
+[01:12:31 -> 01:12:34]  but I hope you can do that sort of while I'm writing.
+[01:12:34 -> 01:12:36]  Here's another evolution in quantum circuits.
+[01:12:36 -> 01:12:38]  It's called Pauli y.
+[01:12:39 -> 01:12:42]  Now, I'll give it the notation that you're going to see used.
+[01:12:42 -> 01:12:44]  Sigma x is the name for this unitary matrix.
+[01:12:46 -> 01:12:49]  This is the notation you're going to see.
+[01:12:49 -> 01:12:52]  Sigma y is the notation for this unitary matrix.
+[01:12:52 -> 01:12:53]  Here's a unitary matrix.
+[01:12:56 -> 01:12:57]  Here's another quantum circuit.
+[01:12:57 -> 01:12:58]  It's called Pauli z.
+[01:12:59 -> 01:13:03]  So you're going to start to see these examples get used all,
+[01:13:03 -> 01:13:05]  all the time in quantum computation.
+[01:13:07 -> 01:13:09]  So there's three matrices.
+[01:13:10 -> 01:13:13]  You can check at your leisure that these three matrices are unitary.
+[01:13:15 -> 01:13:17]  They're all allowed, but there's more, right?
+[01:13:17 -> 01:13:19]  To do quantum mechanics, we're going to need a handful more.
+[01:13:19 -> 01:13:21]  We're going to need the so-called Hadamard gate.
+[01:13:31 -> 01:13:33]  Okay, the Hadamard gate is this two-by-two matrix.
+[01:13:33 -> 01:13:35]  Why this one and not another one?
+[01:13:36 -> 01:13:37]  Historical reasons.
+[01:13:39 -> 01:13:43]  Five, we're going to need the so-called T gate or pi on eight gate.
+[01:13:43 -> 01:13:44]  And that one I have to look up.
+[01:13:51 -> 01:13:55]  Because I never remember the phase.
+[01:13:58 -> 01:14:01]  And typically, I haven't written it down.
+[01:14:02 -> 01:14:02]  Ah, damn.
+[01:14:03 -> 01:14:04]  All right, I don't know.
+[01:14:05 -> 01:14:10]  The T gate, I believe, is 1, 0, 0.
+[01:14:10 -> 01:14:11]  Here we go.
+[01:14:11 -> 01:14:13]  e to the pi i on four.
+[01:14:17 -> 01:14:19]  Someone yell out if that was the wrong gate.
+[01:14:24 -> 01:14:26]  Okay, I hope that was the correct gate.
+[01:14:27 -> 01:14:28]  That is correct.
+[01:14:28 -> 01:14:28]  It is correct?
+[01:14:28 -> 01:14:29]  Fantastic, okay.
+[01:14:31 -> 01:14:36]  And the last gate you're going to need to know to do quantum mechanics is, well...
+[01:14:36 -> 01:14:38]  Sorry, I may...
+[01:14:38 -> 01:14:39]  Oh, no, no, it's correct.
+[01:14:39 -> 01:14:41]  I just thought there was a minus.
+[01:14:42 -> 01:14:42]  All right.
+[01:14:45 -> 01:14:46]  Okay, great.
+[01:14:47 -> 01:14:48]  Then one more gate.
+[01:14:48 -> 01:14:51]  And this one, so far, I've just been talking about qubits, right?
+[01:14:51 -> 01:14:55]  You know, H is C2 for this whole discussion.
+[01:14:55 -> 01:14:59]  But in the last gate, I'm going to talk about a new system, C to the four.
+[01:15:00 -> 01:15:03]  Turns out this is the Hilbert space for two qubits,
+[01:15:03 -> 01:15:05]  but I haven't told you how to do that yet.
+[01:15:05 -> 01:15:09]  But we can still talk about a quantum system whose Hilbert space is of type C4.
+[01:15:09 -> 01:15:11]  In this case, we've got another gate,
+[01:15:13 -> 01:15:14]  which has this picture.
+[01:15:15 -> 01:15:19]  But as a matrix, U is a four by four matrix.
+[01:15:19 -> 01:15:20]  It's got to be unitary.
+[01:15:20 -> 01:15:22]  It's got to act on the Hilbert space, C to the four.
+[01:15:22 -> 01:15:23]  And it's this matrix here.
+[01:15:26 -> 01:15:29]  This is called the CNOT or controlled NOT gate.
+[01:15:31 -> 01:15:32]  Okay, there we go.
+[01:15:32 -> 01:15:37]  That's a list of possible evolutions of closed quantum systems.
+[01:15:39 -> 01:15:45]  And now we come to the last postulate of quantum mechanics.
+[01:15:46 -> 01:15:47]  Okay, it's...
+[01:15:48 -> 01:15:49]  I'm sorry, may I ask something?
+[01:15:49 -> 01:15:50]  Please.
+[01:15:50 -> 01:15:53]  Could you say once again, what do you mean by evolution?
+[01:15:54 -> 01:15:55]  What do I mean by evolution?
+[01:15:55 -> 01:15:58]  Yes, that's actually a horribly deep question.
+[01:16:00 -> 01:16:01]  I'll try my best.
+[01:16:01 -> 01:16:04]  Okay, what do I really mean by evolution?
+[01:16:04 -> 01:16:07]  Okay, firstly, we have to have a notion of closeness of the quantum system.
+[01:16:07 -> 01:16:09]  So that's at least critical.
+[01:16:09 -> 01:16:11]  You know, we have to decide, is the system closed or not?
+[01:16:11 -> 01:16:17]  Okay, and then an evolution is anything that that system does once it's closed,
+[01:16:17 -> 01:16:18]  if you wait some time.
+[01:16:20 -> 01:16:20]  Does that help?
+[01:16:22 -> 01:16:23]  Yes, it helps.
+[01:16:23 -> 01:16:25]  Yeah, and so if you're an experimentalist,
+[01:16:25 -> 01:16:28]  and I know some of you have an experimental background,
+[01:16:28 -> 01:16:30]  it turns out you can kind of cheat, right?
+[01:16:30 -> 01:16:30]  You can get...
+[01:16:32 -> 01:16:37]  You can engineer your quantum systems to do pre-specified evolutions
+[01:16:37 -> 01:16:40]  by being quite clever about how you set up your experiment.
+[01:16:40 -> 01:16:42]  So you ensure that the system is closed,
+[01:16:42 -> 01:16:46]  but closed in such a way that it does the unitary matrix that you want it to do.
+[01:16:46 -> 01:16:50]  And that, you know, involves shining lasers at the right angles,
+[01:16:50 -> 01:16:51]  and with the right coherences, and so on.
+[01:16:51 -> 01:16:53]  Lots of hard work.
+[01:16:53 -> 01:16:55]  I don't want to diminish the effort of experimentalists
+[01:16:55 -> 01:16:57]  in making these evolutions will happen.
+[01:16:58 -> 01:16:59]  But you have to...
+[01:16:59 -> 01:17:03]  At this stage, we just say that evolutions are things that happen
+[01:17:03 -> 01:17:05]  when you close a quantum system off from the environment,
+[01:17:05 -> 01:17:06]  and you leave it alone for a time.
+[01:17:07 -> 01:17:11]  So that could be, for example, a change in space-time?
+[01:17:11 -> 01:17:17]  Like if you have, I don't know, an electron in a box or something?
+[01:17:17 -> 01:17:17]  Yes.
+[01:17:18 -> 01:17:20]  So an electron in a box...
+[01:17:21 -> 01:17:23]  As long as the box is hermetically sealed for the environment,
+[01:17:23 -> 01:17:27]  for the environment, then the electron is going to evolve.
+[01:17:27 -> 01:17:30]  Its wave function is going to spread out, right?
+[01:17:30 -> 01:17:31]  That's an evolution.
+[01:17:31 -> 01:17:32]  That's an allowed evolution.
+[01:17:32 -> 01:17:35]  It's described by a unitary operator on an infinite dimensional Hilbert space.
+[01:17:36 -> 01:17:40]  Electrons actually don't fit into simplified quantum mechanics.
+[01:17:40 -> 01:17:40]  We don't allow them.
+[01:17:41 -> 01:17:43]  Unfortunately, they're too complicated.
+[01:17:45 -> 01:17:45]  But that's...
+[01:17:45 -> 01:17:48]  Indeed, that's an example, yeah.
+[01:17:48 -> 01:17:49]  Okay, thank you.
+[01:17:49 -> 01:17:50]  Okay, welcome.
+[01:17:51 -> 01:17:52]  Good, we're almost done.
+[01:17:52 -> 01:17:55]  I see the time is now 4.30, and that's maybe...
+[01:17:55 -> 01:17:57]  We're heading to the right timing,
+[01:17:57 -> 01:18:01]  because I'm going to tell you the last postulate of quantum mechanics, postulate 6.
+[01:18:03 -> 01:18:03]  And this one's...
+[01:18:07 -> 01:18:10]  This is one where we're going to need a little bit of linear algebra
+[01:18:10 -> 01:18:12]  that you may not be familiar with.
+[01:18:15 -> 01:18:18]  So I've told you that to every quantum system of a certain type,
+[01:18:18 -> 01:18:20]  you have to assign a Hilbert space.
+[01:18:20 -> 01:18:23]  But what if you have two quantum systems?
+[01:18:30 -> 01:18:35]  Or, you know, many quantum systems, and you bring them together.
+[01:18:35 -> 01:18:37]  So if you have a qubit, and you have another qubit,
+[01:18:39 -> 01:18:40]  separately, they're qubits.
+[01:18:40 -> 01:18:42]  Separately, they're modeled by this Hilbert space C2.
+[01:18:42 -> 01:18:44]  But if you bring them together,
+[01:18:44 -> 01:18:49]  then the compound system of the two qubits is also a quantum system.
+[01:18:50 -> 01:18:52]  And according to the laws of quantum mechanics,
+[01:18:52 -> 01:18:54]  so there must be a Hilbert space for it.
+[01:18:54 -> 01:18:59]  Which is the right Hilbert space for this composite quantum system?
+[01:18:59 -> 01:19:15]  Well, the answer is the Hilbert space is by a so-called tensor product.
+[01:19:15 -> 01:19:22]  So you've got, you know, a bunch of your favorite quantum systems
+[01:19:22 -> 01:19:24]  that each model by separately by a Hilbert space.
+[01:19:26 -> 01:19:29]  What's the correct Hilbert space to assign to the compound system?
+[01:19:33 -> 01:19:38]  The answer is H is given by H1 tensor, the scary symbol,
+[01:19:38 -> 01:19:44]  H2 tensor, H3 tensor, blah, blah, blah, blah, blah, all the way up to N.
+[01:19:45 -> 01:19:52]  Okay, that's, at this point, if we were doing this mathematically rigorously,
+[01:19:52 -> 01:19:55]  we'd have to take a digression of several weeks to explain this tensor,
+[01:19:55 -> 01:19:57]  the mathematical properties of this tensor product.
+[01:19:59 -> 01:20:00]  I'm not going to do that.
+[01:20:01 -> 01:20:06]  Instead, I'm going to do a couple of sneaky cheats.
+[01:20:09 -> 01:20:11]  One is you might already know about the Kronecker product.
+[01:20:14 -> 01:20:18]  In which case, you can forget the words tensor product and just
+[01:20:19 -> 01:20:21]  use your knowledge about Kronecker products.
+[01:20:21 -> 01:20:25]  And the other is I'm just going to do some examples until you kind of get the rules, right?
+[01:20:27 -> 01:20:31]  So I'm not going to be setting up the full definition of this tensor product,
+[01:20:31 -> 01:20:35]  because we're only interested in quantum computation with one example.
+[01:20:35 -> 01:20:39]  And we're kind of laser-like focused on this example of N qubits.
+[01:20:40 -> 01:20:43]  So we're always going to be focusing on quantum systems that are composed of
+[01:20:43 -> 01:20:45]  one or more qubits.
+[01:20:45 -> 01:20:50]  And I'll be able to explicitly tell you what is the right Hilbert space for N qubits.
+[01:20:50 -> 01:20:51]  It's pretty easy.
+[01:20:52 -> 01:20:53]  And I'll do it right now.
+[01:20:53 -> 01:20:58]  So you don't ever have to worry.
+[01:20:59 -> 01:21:00]  You'll learn the rules quickly anyway.
+[01:21:02 -> 01:21:05]  But at this stage, it's important not to get hung up about this definition.
+[01:21:05 -> 01:21:08]  Just be pragmatic about its application.
+[01:21:08 -> 01:21:11]  So for N qubits, well, h1 equals h2.
+[01:21:12 -> 01:21:15]  You know, they're all qubits, so they're all modeled by c to the 2.
+[01:21:17 -> 01:21:19]  And so then what on earth is this h?
+[01:21:19 -> 01:21:24]  Well, it's c2 tensor c2 tensor blah, blah, blah, blah, blah, n times.
+[01:21:26 -> 01:21:27]  What does this mean?
+[01:21:27 -> 01:21:33]  Well, actually, it turns out this vector space here is exactly given by c to the 2 to the n.
+[01:21:34 -> 01:21:39]  And I'll explain the rules now for how to build vectors in this bigger Hilbert space,
+[01:21:40 -> 01:21:41]  how to reason about them.
+[01:21:41 -> 01:21:44]  And then we've done the postulates of quantum mechanics.
+[01:21:46 -> 01:21:47]  So let's do that.
+[01:21:51 -> 01:21:55]  OK, well, I'll just work.
+[01:21:55 -> 01:22:00]  Basically, I'm just going to work from examples, build up these examples until you have really
+[01:22:00 -> 01:22:05]  enough information to start extrapolating mentally about how you should reason about
+[01:22:05 -> 01:22:06]  these things in this Hilbert space h.
+[01:22:06 -> 01:22:12]  And OK, let's take n is 2.
+[01:22:12 -> 01:22:14]  OK, let's take two vectors.
+[01:22:14 -> 01:22:16]  Phi is a vector, not a state.
+[01:22:16 -> 01:22:19]  Now, phi is a vector, psi.
+[01:22:25 -> 01:22:32]  Phi is a vector like, I don't know, 1, 2, and psi is the vector i, i.
+[01:22:32 -> 01:22:36]  Now, to build up elements of this weird tensor product space, what do you do?
+[01:22:36 -> 01:22:38]  Well, you take that tensor product.
+[01:22:38 -> 01:22:43]  So there's a way to take, given a vector in one Hilbert space, a vector describing another
+[01:22:43 -> 01:22:49]  qubit, sorry, a vector in this other Hilbert space attached to the second qubit, we can
+[01:22:49 -> 01:22:50]  build up a bigger vector.
+[01:22:50 -> 01:22:51]  What's the rule?
+[01:22:51 -> 01:22:54]  Well, I mean, it has to be, we know it has to live in c 2 to the 2, which is c to the 4.
+[01:22:54 -> 01:22:59]  And the rule is, well, you may have seen this.
+[01:22:59 -> 01:23:05]  So what you do is you take the first entry here, phi, and you multiply it by the entire
+[01:23:05 -> 01:23:10]  vector, psi, in the following fashion.
+[01:23:10 -> 01:23:23]  So it's 1 times by psi, which is i, i, and then you take 2, so this is 1, 2, 3, 4, 5,
+[01:23:24 -> 01:23:32]  and then you take the second entry, 2, and you multiply it by psi again.
+[01:23:38 -> 01:23:46]  So this weird-looking operation gives us a 4 by 1 vector, and the vector is i, i, 2i, 2i.
+[01:23:48 -> 01:23:50]  That's how to compute the tensor product of two vectors.
+[01:23:51 -> 01:23:53]  And what happens if you have three vectors?
+[01:23:53 -> 01:23:55]  Well, you just do this again, right?
+[01:23:55 -> 01:23:59]  You first compute the tensor product of two of them, and then you do it again.
+[01:23:59 -> 01:24:00]  So I'll actually do that example.
+[01:24:02 -> 01:24:10]  So what about, what happens if I had phi, tensor, psi, tensor, phi, like that?
+[01:24:10 -> 01:24:14]  How would I reason about that thing that's in a bigger, this is n is 3.
+[01:24:14 -> 01:24:20]  This vector is given by an 8 by 8 vector.
+[01:24:20 -> 01:24:21]  What we do is we work out that vector first.
+[01:24:21 -> 01:24:22]  Oh, we've done that already.
+[01:24:22 -> 01:24:23]  That's great.
+[01:24:24 -> 01:24:27]  And then we apply the rule above again.
+[01:24:27 -> 01:24:30]  So we get, I'll do it this way, I suppose.
+[01:24:32 -> 01:24:39]  We get 1, the first entry of phi, and multiply it by this whole vector, i, i, 2i, 2i, then
+[01:24:40 -> 01:24:44]  2, i, i, 2i, 2i.
+[01:24:45 -> 01:24:53]  So we get an 8 vector, a vector with 8 entries, i, i, 2i, 2i, 2i, 2i, 4i, 4i.
+[01:24:54 -> 01:24:59]  And that's an element of c to the 2 to the 3, which is otherwise c to the 8.
+[01:24:59 -> 01:25:04]  So I've just told you the rudiments of how this symbol tensor works.
+[01:25:05 -> 01:25:11]  If you've got vectors like this, then the rule is you take the whole vector and multiply it
+[01:25:11 -> 01:25:16]  by the first entry and stack it on top of the whole vector multiplied by the second entry.
+[01:25:16 -> 01:25:18]  That's the rule for applying this tensor symbol.
+[01:25:19 -> 01:25:24]  And with that way, you gain access to zillions of vectors in this tensor product Hilbert space.
+[01:25:27 -> 01:25:28]  What about matrices?
+[01:25:28 -> 01:25:30]  So it turns out if you, yep.
+[01:25:31 -> 01:25:31]  Yep.
+[01:25:38 -> 01:25:40]  Okay, yeah, that's a good question.
+[01:25:40 -> 01:25:44]  Let's do it because you asked the question because there must be some ambiguity in what I said.
+[01:25:44 -> 01:25:45]  So let's see.
+[01:25:48 -> 01:25:48]  Like that, yeah?
+[01:25:49 -> 01:25:51]  Okay, can I cheat a bit?
+[01:25:51 -> 01:25:52]  Yeah, I can.
+[01:25:52 -> 01:25:53]  So I'll do this one first.
+[01:25:54 -> 01:25:54]  Ah, yeah.
+[01:25:54 -> 01:25:56]  Okay, now I see where the question's coming from.
+[01:25:56 -> 01:25:57]  Actually, it's a good question.
+[01:25:57 -> 01:25:59]  Um, all right.
+[01:25:59 -> 01:26:02]  So let's write out that vector here that we got it there.
+[01:26:02 -> 01:26:08]  Here, i, i, 2i, 2i, tensor phi, which is 1, 2.
+[01:26:09 -> 01:26:10]  Now we look up above.
+[01:26:10 -> 01:26:11]  How do we do this trick?
+[01:26:11 -> 01:26:15]  So what we do is we take the first entry and multiply it by the second vector and stack it.
+[01:26:16 -> 01:26:20]  So I'll try and I'll do it like this, right?
+[01:26:20 -> 01:26:23]  So what we do is you take the first entry, multiply it by the whole vector,
+[01:26:23 -> 01:26:25]  and then stack it up on top of the second entry,
+[01:26:25 -> 01:26:27]  multiply it by this vector and stack it up and so on.
+[01:26:27 -> 01:26:29]  So I'll just do it and then you might help you.
+[01:26:31 -> 01:26:33]  So i times by the whole vector.
+[01:26:33 -> 01:26:34]  So it's i, 2i.
+[01:26:35 -> 01:26:37]  Then i multiplied by the whole vector.
+[01:26:37 -> 01:26:38]  It's i, 2i.
+[01:26:38 -> 01:26:39]  Then we've got...
+[01:26:39 -> 01:26:41]  Can I just do the same thing actually?
+[01:26:41 -> 01:26:41]  Yep.
+[01:26:42 -> 01:26:42]  All right.
+[01:26:43 -> 01:26:44]  Exactly.
+[01:26:44 -> 01:26:46]  So that's how we would do that tensor product there.
+[01:26:47 -> 01:26:48]  So it's a good question.
+[01:26:50 -> 01:26:53]  Um, yeah.
+[01:26:53 -> 01:26:57]  Basically I'm outsourcing to the questions all the rules of the tensor product symbol.
+[01:26:58 -> 01:27:02]  Already with this recipe, you'll have started to detect some patterns and rules.
+[01:27:02 -> 01:27:06]  For example, if I take a vector and I multiply it by a scalar factor, like...
+[01:27:06 -> 01:27:11]  So if I do phi tensor psi, but I have like some scalar number z.
+[01:27:11 -> 01:27:12]  So z is a complex number.
+[01:27:15 -> 01:27:16]  You know, imagine I work out...
+[01:27:18 -> 01:27:22]  First I multiply the column vector psi by z and then I do the tensor product.
+[01:27:22 -> 01:27:24]  It turns out that's just the same, right?
+[01:27:24 -> 01:27:29]  If you go through the rules above as first doing the tensor product and multiplying it by that
+[01:27:29 -> 01:27:31]  scalar number and so on.
+[01:27:31 -> 01:27:35]  There's a whole bunch of rules that I leave it to you to work out.
+[01:27:39 -> 01:27:41]  And you'll gain experience with these rules.
+[01:27:41 -> 01:27:46]  What about if I have two vectors and I add them first and then take the tensor product?
+[01:27:47 -> 01:27:49]  Well, it turns out that the tensor product is really...
+[01:27:49 -> 01:27:51]  There's a reason why it's going to multiply symbol.
+[01:27:51 -> 01:27:54]  It sort of acts like a multiply symbol.
+[01:27:54 -> 01:28:01]  And so this is really exactly equal to the sum of these two vectors.
+[01:28:01 -> 01:28:07]  So you can work one out, work out the first tensor product, work out the second one, then add them.
+[01:28:07 -> 01:28:09]  That rule is absolutely okay.
+[01:28:10 -> 01:28:13]  And how would you do this in a programming language?
+[01:28:13 -> 01:28:19]  So many of you might be not as old as me, but if you are, you may have experienced MATLAB.
+[01:28:22 -> 01:28:31]  And this tensor notation in MATLAB, you can actually implement with the so-called cron function.
+[01:28:33 -> 01:28:35]  And I would do this in MATLAB like this.
+[01:28:37 -> 01:28:39]  So in MATLAB, MATLAB does this for you.
+[01:28:39 -> 01:28:44]  So you don't have to do the stacking up and multiplying things.
+[01:28:44 -> 01:28:49]  MATLAB will be quite happy to supply you with this tensor product in MATLAB.
+[01:28:49 -> 01:28:53]  I don't know about NumPy, the Python implementation.
+[01:28:54 -> 01:28:57]  Is it called cron there as well? Probably, right?
+[01:29:01 -> 01:29:06]  But any decent programming language with a numerical linear algebra routine
+[01:29:07 -> 01:29:13]  will give you a Kronecker product or tensor product operation.
+[01:29:14 -> 01:29:15]  So, so far I've just...
+[01:29:15 -> 01:29:18]  It's called NumPy, it's also called cron, is that right?
+[01:29:19 -> 01:29:20]  Oh, fantastic.
+[01:29:20 -> 01:29:24]  Okay, then you haven't, I haven't told you any lies.
+[01:29:24 -> 01:29:25]  That's great.
+[01:29:25 -> 01:29:26]  Okay.
+[01:29:26 -> 01:29:28]  And so there's, well, there's lots of programming languages,
+[01:29:28 -> 01:29:30]  whatever ones it takes your fancy, you should use.
+[01:29:32 -> 01:29:37]  But probably most of you will be, as you get into quantum computation,
+[01:29:37 -> 01:29:42]  you'll be exposed to quantum libraries that are based on Python, right?
+[01:29:42 -> 01:29:44]  This is somehow inevitable.
+[01:29:44 -> 01:29:48]  These days, there's Qiskit that's very popular right now
+[01:29:48 -> 01:29:52]  as a way to model quantum systems in quantum computation.
+[01:29:52 -> 01:29:56]  There's also Penny Lane and dot, dot, dot, dot.
+[01:29:57 -> 01:30:02]  There's a growing list of libraries with which you can model quantum circuits,
+[01:30:02 -> 01:30:04]  and they should all, if they're decently written,
+[01:30:04 -> 01:30:07]  give you some version of this tensor product operation.
+[01:30:07 -> 01:30:11]  Now, I've only explained this tensor product operation for vectors.
+[01:30:11 -> 01:30:15]  I haven't, in fact, told you how to take the tensor products of matrices
+[01:30:15 -> 01:30:18]  or of states and so on.
+[01:30:18 -> 01:30:21]  So we're almost done.
+[01:30:24 -> 01:30:26]  How do you take the tensor product of matrices?
+[01:30:26 -> 01:30:30]  Well, it turns out there shouldn't be too many surprises for you
+[01:30:30 -> 01:30:35]  now that you've seen the vectors case.
+[01:30:35 -> 01:30:40]  So suppose we have two Hilbert spaces, that's two vector spaces,
+[01:30:40 -> 01:30:41]  we have two matrices.
+[01:30:41 -> 01:30:44]  Let's be super explicit, like, you know, A is 1, 1, 1, 2,
+[01:30:46 -> 01:30:49]  and B, just to make things spicy, will be a 3 by 3 matrix,
+[01:30:49 -> 01:30:53]  2, 1, 2, 1, 2, 1, 2, 1, 2.
+[01:30:54 -> 01:30:55]  How do I work out?
+[01:30:57 -> 01:31:00]  There is a rule that tells you how to build a matrix
+[01:31:00 -> 01:31:02]  that represents doing, applying A on the first Hilbert space
+[01:31:02 -> 01:31:04]  and B on the second Hilbert space.
+[01:31:04 -> 01:31:09]  And the rule is pretty much a version of what I've just showed you.
+[01:31:09 -> 01:31:13]  So 1, 2, 3, 1, 2, 3, 4, 5, 6.
+[01:31:14 -> 01:31:17]  So what you do is you take the 1, 1 entry, oops,
+[01:31:19 -> 01:31:23]  multiply it by the entire matrix B, oops,
+[01:31:24 -> 01:31:25]  and then stick it in the appropriate place.
+[01:31:28 -> 01:31:31]  So you do, I'll just go ahead and write it down.
+[01:31:31 -> 01:31:35]  You do, I'll just go ahead and write out this.
+[01:31:36 -> 01:31:42]  So we get 1 times by 2, 1, 2, 1, 2, 1, 2, 1, 2.
+[01:31:42 -> 01:31:47]  And then we take the second entry, 1, 1, 2, 1, 2, 1, 2, 1.
+[01:31:48 -> 01:31:50]  And then we get, well, another 1.
+[01:31:55 -> 01:31:56]  And then 2.
+[01:31:57 -> 01:32:00]  That's how you build up this tensor product of A and B.
+[01:32:00 -> 01:32:06]  This is also, by the way, in MATLAB, or I guess Python, written cron A, B.
+[01:32:09 -> 01:32:14]  So now we have a rule that if we have a matrix acting on a smaller vector space
+[01:32:14 -> 01:32:18]  and another one, we can build a matrix that acts on the tensor product of those vector spaces.
+[01:32:19 -> 01:32:22]  And you can quickly reason
+[01:32:22 -> 01:32:26]  by way of examples that this tensor product symbol behaves, well,
+[01:32:26 -> 01:32:30]  pretty much exactly like I've described above for vectors.
+[01:32:30 -> 01:32:33]  Because vectors, by the way, are just examples of matrices, right?
+[01:32:33 -> 01:32:35]  Matrices with many rows and one column.
+[01:32:37 -> 01:32:43]  Okay, so now I've given you a whirlwind tour of the tensor product by way of examples.
+[01:32:43 -> 01:32:46]  And we're finally done because we can now describe
+[01:32:46 -> 01:32:50]  how to model quantum circuits.
+[01:32:58 -> 01:33:01]  And we're going to apply the postulates of quantum mechanics in turn, right?
+[01:33:01 -> 01:33:07]  So every one of my students gets used to going through the list of postulates
+[01:33:08 -> 01:33:10]  every time they consider a new quantum system,
+[01:33:11 -> 01:33:13]  and they're like, well, I'm going to do that.
+[01:33:13 -> 01:33:16]  Every time they consider a new quantum system,
+[01:33:16 -> 01:33:23]  and then after a while, you just get better and better at remembering them,
+[01:33:23 -> 01:33:24]  and you don't ever write them down ever again.
+[01:33:24 -> 01:33:27]  But for the first few times that you model a quantum system,
+[01:33:27 -> 01:33:28]  you should go through the postulates.
+[01:33:29 -> 01:33:30]  So what does postulate one tell us?
+[01:33:32 -> 01:33:37]  Postulate one tells us that a qubit should be attached to a Hilbert space C to the two.
+[01:33:37 -> 01:33:40]  But if you combine that now with postulate six,
+[01:33:40 -> 01:33:52]  then the right Hilbert space for n qubits is actually C2 tensor C2, blah, blah, blah, n times.
+[01:33:54 -> 01:34:00]  Now postulate two talks about preparations.
+[01:34:02 -> 01:34:05]  Well, what's a valid preparation?
+[01:34:05 -> 01:34:08]  A valid preparation is a density matrix.
+[01:34:08 -> 01:34:09]  It's a density matrix.
+[01:34:17 -> 01:34:21]  And this density matrix acts on this very high dimensional vector space.
+[01:34:21 -> 01:34:24]  It's worth saying that the dimension of n qubits,
+[01:34:24 -> 01:34:26]  what's the dimension that is a vector space?
+[01:34:26 -> 01:34:27]  Well, it's two to the n, right?
+[01:34:27 -> 01:34:31]  So if you have every qubit you add, you double the dimension of this vector space,
+[01:34:31 -> 01:34:32]  this underlying vector space.
+[01:34:34 -> 01:34:36]  So preparations are density matrices.
+[01:34:36 -> 01:34:38]  They're two to the n by two to the n matrices.
+[01:34:40 -> 01:34:42]  Oh my gosh, how can we work with these things?
+[01:34:42 -> 01:34:46]  This is in fact part of the power of quantum computers
+[01:34:46 -> 01:34:51]  that a quantum computer can with linear experimental cost add in qubits
+[01:34:52 -> 01:35:00]  and therefore simulate the application and manipulation of very large matrices.
+[01:35:01 -> 01:35:06]  Now, it turns out to be very difficult to reason about these large matrices in general,
+[01:35:06 -> 01:35:11]  but what we do is we have this list of fundamental or basic preparations that we're allowed to do.
+[01:35:15 -> 01:35:23]  And one of them is you separately prepare your quantum system, separately
+[01:35:25 -> 01:35:26]  prepare your qubits.
+[01:35:27 -> 01:35:28]  Prepare your qubits.
+[01:35:30 -> 01:35:37]  And then the correct state describing the joint compound system is then even by the
+[01:35:37 -> 01:35:38]  tensor product.
+[01:35:38 -> 01:35:46]  So you separately prepare the qubits in row one in this list of density matrices here.
+[01:35:46 -> 01:35:51]  These are all acting on C, they're all two by two matrices.
+[01:35:53 -> 01:35:54]  Right?
+[01:35:54 -> 01:35:56]  And then what's the correct preparation?
+[01:35:57 -> 01:36:08]  For the full system, the full preparation is then described by the tensor product.
+[01:36:08 -> 01:36:14]  Row is given by one tensor, row one tensor, row two tensor, row three.
+[01:36:16 -> 01:36:20]  It quickly becomes a nightmare to write this matrix out.
+[01:36:20 -> 01:36:27]  Nobody, when n is four or five, people stop writing out these matrices in matrix form,
+[01:36:27 -> 01:36:30]  because it just becomes so unwieldy to do so.
+[01:36:32 -> 01:36:36]  Okay, I will do it though in the case of n is two.
+[01:36:40 -> 01:36:42]  Let's prepare our state in an x.
+[01:36:42 -> 01:36:49]  So qubit one gets prepared in the x preparation.
+[01:36:51 -> 01:36:56]  And qubit two in z preparation.
+[01:36:58 -> 01:37:02]  What's the correct way to describe the global preparation of the system?
+[01:37:03 -> 01:37:08]  Well, the global preparation, separately preparing them, is the same as taking the tensor
+[01:37:08 -> 01:37:10]  product of their preparations.
+[01:37:10 -> 01:37:13]  That's what the definition above says.
+[01:37:14 -> 01:37:18]  And that means that we've got to take the tensor product of this matrix, a half, a half,
+[01:37:18 -> 01:37:23]  a half, a half, and one, zero, zero, zero, zero.
+[01:37:24 -> 01:37:28]  Okay, that's what the global, the whole system of two qubits,
+[01:37:28 -> 01:37:30]  it's now described by this density matrix here.
+[01:37:30 -> 01:37:31]  What does that matrix look like?
+[01:37:31 -> 01:37:33]  Well, I'm going to work it out explicitly for you.
+[01:37:33 -> 01:37:36]  It's a half, zero, zero, zero.
+[01:37:36 -> 01:37:44]  It's a half, zero, zero, zero, a half, zero, zero, zero, and a half, zero, zero, zero, like so.
+[01:37:44 -> 01:37:51]  So that's the actual matrix that gets prepared if you separately prepare the qubits.
+[01:37:53 -> 01:38:03]  And I leave it to you as a little homework to do qubit one in the z, or let's put it in the x.
+[01:38:05 -> 01:38:13]  So we'll do three qubits, qubit two goes into a y, and a qubit three gets prepared into a z.
+[01:38:14 -> 01:38:15]  Preparation.
+[01:38:15 -> 01:38:20]  That's a, yeah, well, it's not a totally trivial matrix to write out.
+[01:38:20 -> 01:38:21]  It's an eight by eight matrix.
+[01:38:22 -> 01:38:26]  You can check it with MATLAB if you're concerned that you may have made a mistake.
+[01:38:26 -> 01:38:33]  Okay, so that's how to do postulate two when we have more than one qubit.
+[01:38:33 -> 01:38:38]  What we generally do is we, in order to keep the problem easily to describe,
+[01:38:38 -> 01:38:41]  is we separately prepare the subsystems, the qubits.
+[01:38:41 -> 01:38:46]  We form the, describe the full preparation with this tensor product.
+[01:38:46 -> 01:38:51]  And then, and only then, do we start doing operations on the system.
+[01:38:53 -> 01:38:56]  So I won't talk about measurements, postulates
+[01:38:58 -> 01:39:00]  three and four.
+[01:39:00 -> 01:39:01]  We'll just leave them for the moment.
+[01:39:02 -> 01:39:07]  I'd rather focus on postulate five, because that's where the quantum circuits are.
+[01:39:12 -> 01:39:19]  Now, this is sort of winding up for today with the final definition of how a quantum circuit acts.
+[01:39:24 -> 01:39:27]  A quantum circuit is an evolution of a closed quantum system.
+[01:39:28 -> 01:39:34]  So it's a unitary matrix, according to postulate five.
+[01:39:34 -> 01:39:38]  It's a unitary U that acts on a Hilbert space to a Hilbert space.
+[01:39:38 -> 01:39:39]  So what is it?
+[01:39:39 -> 01:39:42]  Well, it's a 2 to the n by 2 to the n unitary matrix.
+[01:39:44 -> 01:39:48]  Now, you've already begun to get a sense of how difficult it is to write down these matrices,
+[01:39:48 -> 01:39:50]  write these 2 to the n by 2 to the n matrices.
+[01:39:50 -> 01:39:56]  So we have a very neat shorthand way to describe quantum circuits,
+[01:39:56 -> 01:39:59]  which doesn't require us to write out the full matrix.
+[01:39:59 -> 01:40:01]  And for that, we use quantum circuit notation
+[01:40:01 -> 01:40:08]  to specify certain unitary procedures that you can do.
+[01:40:11 -> 01:40:14]  And I've already started to introduce this quantum circuit notation.
+[01:40:15 -> 01:40:18]  So I better tell you some of the rules, right?
+[01:40:18 -> 01:40:22]  OK, so if we have the Hilbert space of n qubits,
+[01:40:24 -> 01:40:27]  then I've got to tell you some basic rules.
+[01:40:32 -> 01:40:35]  So how to understand this quantum circuit notation.
+[01:40:35 -> 01:40:37]  Firstly, doing nothing.
+[01:40:37 -> 01:40:38]  What does that mean?
+[01:40:38 -> 01:40:41]  Well, doing nothing is represented by n horizontal lines.
+[01:40:47 -> 01:40:51]  Doing nothing is a very important operation in physics and is represented by
+[01:40:55 -> 01:40:58]  the identity operator tensor, the identity operator,
+[01:40:59 -> 01:41:07]  n times, which is 1 0 0 1 tensor 1 0 0 1 tensor dot dot dot.
+[01:41:10 -> 01:41:13]  But that's actually just a really big identity matrix, right?
+[01:41:14 -> 01:41:21]  The 2 to the n by 2 to the n identity matrix.
+[01:41:21 -> 01:41:24]  So doing nothing is a fundamental primitive in quantum circuits.
+[01:41:24 -> 01:41:28]  You need to be able to represent it as a unitary matrix.
+[01:41:28 -> 01:41:31]  You need to have some pictorial notation to describe it.
+[01:41:31 -> 01:41:32]  And that's it there.
+[01:41:36 -> 01:41:41]  The next notation we have is do a single qubit unitary, it's called.
+[01:41:48 -> 01:41:51]  So a single qubit unitary is a unitary that acts on a single qubit.
+[01:41:51 -> 01:41:55]  But doing a single qubit unitary is the same as doing nothing on the other qubits.
+[01:41:55 -> 01:42:00]  So you choose your favorite qubit, call it qubit j.
+[01:42:01 -> 01:42:05]  And then you do a unitary on that qubit and you do nothing on the rest.
+[01:42:05 -> 01:42:13]  What's the operation represented by this sentence and graphically by the following circuit?
+[01:42:13 -> 01:42:18]  So you do nothing on qubit 1, you do nothing on qubit 2, do nothing on qubit 3.
+[01:42:18 -> 01:42:21]  But on qubit j, you do the unitary.
+[01:42:21 -> 01:42:24]  And on j plus 1, we do nothing.
+[01:42:26 -> 01:42:31]  So the unitary represented by this circuit and therefore an allowed evolution of a closed
+[01:42:31 -> 01:42:34]  quantum system is given by the following unitary.
+[01:42:34 -> 01:42:37]  You do tensor product of the 2 by 2 identity.
+[01:42:37 -> 01:42:38]  I'll just write it out, OK?
+[01:42:38 -> 01:42:44]  1, 0, 0, 1, 1, 0, 0, 1, right?
+[01:42:44 -> 01:42:49]  For every qubit, you do nothing individually until you come to the jth qubit.
+[01:42:49 -> 01:42:55]  And then you do the 2 by 2 unitary and then you do nothing until the end.
+[01:42:58 -> 01:43:04]  OK, that's the unitary matrix that represents doing a single qubit unitary.
+[01:43:04 -> 01:43:05]  Very important unitary matrix.
+[01:43:07 -> 01:43:08]  We're almost done.
+[01:43:08 -> 01:43:13]  In fact, we only have one more unitary matrix to describe.
+[01:43:13 -> 01:43:14]  OK, I'll cheat a bit.
+[01:43:15 -> 01:43:19]  Doing CNOT on two qubits.
+[01:43:29 -> 01:43:32]  OK, what does it mean to do CNOT on neighboring qubits?
+[01:43:32 -> 01:43:36]  Well, it means to do CNOT on neighboring qubits.
+[01:43:36 -> 01:43:38]  So what does it mean to do CNOT on neighboring qubits?
+[01:43:39 -> 01:43:42]  OK, what does it mean to do CNOT on neighboring qubits?
+[01:43:42 -> 01:43:44]  Well, here's the picture.
+[01:43:48 -> 01:43:53]  We do nothing on 1 to 2, but on qubit j, there's a picture for doing CNOT.
+[01:43:53 -> 01:43:54]  It has the following diagram.
+[01:43:57 -> 01:44:01]  You've got a kind of a plus symbol joined with a line to a dot on the jth qubit,
+[01:44:01 -> 01:44:04]  but then you do nothing on the j plus 2 qubit and so on.
+[01:44:04 -> 01:44:09]  What's the unitary matrix that represents doing CNOT on neighboring qubits?
+[01:44:09 -> 01:44:11]  Well, I'm hoping you're starting to spot the pattern by now.
+[01:44:14 -> 01:44:20]  It's 1 0 0 1 tensor 1 0 0 1 tensor dot dot dot dot dot dot all the way up to,
+[01:44:20 -> 01:44:25]  and then you have the CNOT gate, which is a unitary operator, which is a 4 by 4 matrix.
+[01:44:25 -> 01:44:31]  And this is, you know, in factor 1, factor 2.
+[01:44:33 -> 01:44:40]  And then this is on factor j and j plus 1 qubits j and j plus 1.
+[01:44:41 -> 01:44:46]  So the unitary, which represents doing CNOT on neighboring qubits j and j plus 1 is given by
+[01:44:47 -> 01:44:53]  1 0 0 1 tensor 1 0 0 0 0 dot dot dot dot dot dot dot dot dot dot.
+[01:44:53 -> 01:45:01]  one is given by this big, big matrix here. I won't attempt to write it down, I mean you just quickly
+[01:45:01 -> 01:45:07]  learn not to do that because it's too spatially demanding. There's one operation we're going to
+[01:45:07 -> 01:45:13]  need before I can tell you a very important theorem, and then we can sort of draw today's
+[01:45:14 -> 01:45:20]  discussion to a close, and that is a swap. There's a special kind of unitary called swap.
+[01:45:20 -> 01:45:29]  A swap is the following two-by-two matrix 1 0 1 1 0 1, and it does what you think it does,
+[01:45:29 -> 01:45:41]  it swaps qubits j and j plus 1 or two qubits. In circuit notation it looks like this,
+[01:45:44 -> 01:45:48]  and you can imagine what do swap on j and j plus 1
+[01:45:48 -> 01:45:56]  means.
+[01:46:00 -> 01:46:04]  What does this mean? Well in circuit notation we draw this picture
+[01:46:05 -> 01:46:18]  and the corresponding unitary operation is this one, 1 0 1 1 0 1.
+[01:46:22 -> 01:46:32]  So now I've given you a laundry list of basic unitaries that you can define on n qubits,
+[01:46:32 -> 01:46:37]  and I've given you a way, I've given you the recipe for how to build up the two-to-the-n-by-two-to-the-n
+[01:46:37 -> 01:46:43]  unitary matrix, so the doing nothing, doing a single qubit unitary, doing a c0 on neighbouring
+[01:46:43 -> 01:46:48]  pairs, and doing a swap on neighbouring pairs. And now comes an amazing theorem.
+[01:46:50 -> 01:46:59]  So this is a, we can even prove this theorem, not today, but I can describe to you the entire
+[01:46:59 -> 01:47:07]  argument. It's a very beautiful theorem in the coming weeks. Theorem for all unitaries,
+[01:47:10 -> 01:47:19]  I'll write it like this, all unitaries u acting on n qubits.
+[01:47:22 -> 01:47:27]  So this is where quantum computation becomes computation right now. This is the so-called
+[01:47:27 -> 01:47:42]  universality result, may be represented as a product of how many, many
+[01:47:47 -> 01:47:50]  fundamental unitary
+[01:47:51 -> 01:47:58]  quantum circuits, I will not get this bit right, as a product of,
+[01:48:01 -> 01:48:10]  I believe it's two to the two to the n question mark exclamation mark of
+[01:48:11 -> 01:48:21]  of quantum gates. I didn't introduce this terminology yet.
+[01:48:26 -> 01:48:36]  Sorry, just put that in here. So unitaries one through four that I've just described above
+[01:48:37 -> 01:48:43]  are called primitive, that's my notation, so I'll delete that, they're called quantum gates.
+[01:48:48 -> 01:48:56]  All of these things here are examples of quantum gates. Examples one and two are examples of
+[01:48:57 -> 01:49:02]  single qubit gates, like doing nothing is like just doing nothing on qubit j. So these are called
+[01:49:03 -> 01:49:08]  single qubit gates. They're allowed evolutions of closed quantum systems. Doing c not on neighbouring
+[01:49:08 -> 01:49:13]  qubits is a two qubit gate, right? We've got qubit j and j plus one, something happens to them. Swap
+[01:49:13 -> 01:49:19]  is a two qubit gate. Unitaries one to four, they're all examples of quantum gates. So this is
+[01:49:20 -> 01:49:24]  terminology, right? It's, nothing's changed, they're just unitaries, but we,
+[01:49:24 -> 01:49:29]  they're special kinds of unitaries, ones that we think we can apply in experiments with less cost.
+[01:49:29 -> 01:49:33]  And now comes this amazing theorem. It says that no matter what unitary you want to do,
+[01:49:33 -> 01:49:39]  so if you have some unitary, your favourite unitary on n qubits, big 2 to the n by 2 matrix,
+[01:49:39 -> 01:49:45]  and you wonder, how could I do this unitary in an experiment? Well, the answer is you can
+[01:49:46 -> 01:49:52]  by multiplying a certain sequence of single and two qubit gates.
+[01:49:52 -> 01:50:12]  There's a product of on single and two, there's a product of single and two qubit gates.
+[01:50:14 -> 01:50:20]  So, you know, you have your favourite unitary u that you want to implement for whatever reason,
+[01:50:20 -> 01:50:23]  it's a 2 to the n by 2 to the n matrix.
+[01:50:25 -> 01:50:30]  And it turns out, turns out that no matter what u you choose, I mean, this, you know,
+[01:50:30 -> 01:50:38]  potentially 2 to the 2 n complex numbers there, you can always represent that as a product of
+[01:50:39 -> 01:50:45]  gates, of single and two qubit gates.
+[01:50:57 -> 01:51:00]  And which gates do you need to bring under consideration? You know,
+[01:51:00 -> 01:51:05]  which gates will appear in the sequence? Turns out only a finite set, even with a finite set
+[01:51:05 -> 01:51:09]  of single and two qubit gates, you have enough gates to express any unitary as a product.
+[01:51:10 -> 01:51:18]  And the gates you need in order to express any unitary, so this is universality,
+[01:51:20 -> 01:51:31]  the Hadamard gate, the T gate, the CNOT gate, and the swap gate.
+[01:51:31 -> 01:51:37]  With just these four gates, you can represent any unitary on n qubits.
+[01:51:37 -> 01:51:41]  This is called universality of this gate set.
+[01:51:44 -> 01:51:52]  Now, I want to contrast this observation with one that you possibly know from classical computer
+[01:51:52 -> 01:51:52]  science.
+[01:51:53 -> 01:51:59]  You may know that the NAND gate is universal for classical computation,
+[01:51:59 -> 01:52:03]  meaning that any Boolean operation can be expressed as a composition of NAND gates.
+[01:52:07 -> 01:52:11]  This is the, this result I've just described here is the analog of this
+[01:52:11 -> 01:52:15]  resulting classical computer science. So the NAND gate, right, you know, is this gate here
+[01:52:15 -> 01:52:19]  with this following tree, right? And this is the gate that I've just described here.
+[01:52:19 -> 01:52:25]  The NAND gate, right, you know, is this gate here with this following truth table, x, y, z,
+[01:52:28 -> 01:52:41]  oops, x, y, z, 0, 0, 0, 1, 1, 0, 1, 1. So it's the NOT of the AND, so it's that, right?
+[01:52:42 -> 01:52:48]  So you can express any Boolean function in classical computer science as a composition
+[01:52:48 -> 01:52:52]  of multiple NAND gates, right? That's the NAND gate by itself is sufficient to carry
+[01:52:52 -> 01:52:57]  out any computation classically. And here we have just seen the quantum analog of this.
+[01:52:57 -> 01:53:00]  Any unitary you want to do, that's any allowed operation for a closed,
+[01:53:01 -> 01:53:04]  any allowed evolution for a closed quantum system is a unitary.
+[01:53:04 -> 01:53:11]  Any unitary you care to do can be implemented as a product of single and two qubit gates,
+[01:53:11 -> 01:53:15]  and the gates you need, really, you can boil them down to this one of these four.
+[01:53:15 -> 01:53:19]  So although the NAND gate doesn't appear in that list, we have these other gates,
+[01:53:19 -> 01:53:24]  but these are by themselves sufficient to express any operation in quantum mechanics on n qubits.
+[01:53:25 -> 01:53:34]  So this is a high point in the theory of quantum computation, that these gates are
+[01:53:35 -> 01:53:41]  computationally universal, and it's the one that we can, that allows us to build,
+[01:53:41 -> 01:53:46]  to use the quantum circuit abstraction as a useful abstraction. So, you know,
+[01:53:46 -> 01:53:51]  these quantum circuits that are drawn here with lines and dots and boxes and so on,
+[01:53:51 -> 01:53:57]  this is a useful diagrammatic abstraction because of this universality result, right?
+[01:53:57 -> 01:54:02]  We're guaranteed that any unitary we want to apply will be written as a product of these gates.
+[01:54:02 -> 01:54:04]  Can I ask a question?
+[01:54:04 -> 01:54:04]  Please.
+[01:54:05 -> 01:54:06]  So how do you do nothing?
+[01:54:07 -> 01:54:12]  Uh, you just, that's really a good question. So experimentally doing nothing is super hard.
+[01:54:13 -> 01:54:13]  Like you have to-
+[01:54:13 -> 01:54:18]  But I mean, with these four matrices, like if you just have a two by two, then you don't need it.
+[01:54:18 -> 01:54:23]  Yeah, right. So a two by two matrix that does nothing is this matrix. Here's the identity
+[01:54:23 -> 01:54:24]  matrix.
+[01:54:25 -> 01:54:26]  But it's not one of the four.
+[01:54:26 -> 01:54:33]  Oh, oh yeah, okay. Okay, I'm gonna get out of this. Yeah, no, it's a good question, actually.
+[01:54:34 -> 01:54:36]  It's not one of the four.
+[01:54:36 -> 01:54:40]  Well, it turns out that if you take T to the power four, that's the identity matrix, right?
+[01:54:40 -> 01:54:47]  So T is this matrix, one, zero, zero, E to the pi, I on four, sorry, eight, right?
+[01:54:48 -> 01:54:53]  So if you take that matrix to the power eight, so you do it eight times in composition,
+[01:54:56 -> 01:54:57]  you'll get the number one.
+[01:55:04 -> 01:55:10]  And so the matrix you get out at the end is one, zero, zero, E to the eight pi on four,
+[01:55:11 -> 01:55:16]  but that's one, zero, zero, E to the two pi I, which is just one.
+[01:55:18 -> 01:55:21]  So indeed, that's a good question. Like how do I do nothing,
+[01:55:21 -> 01:55:24]  the identity without that being in our list of allowed gates?
+[01:55:24 -> 01:55:30]  The answer is you do T eight times, which is a super stupid way to do nothing.
+[01:55:30 -> 01:55:34]  Like a much more efficient way to do nothing, of course, is just to do nothing.
+[01:55:34 -> 01:55:36]  But no, that was an excellent question.
+[01:55:37 -> 01:55:45]  All right, I've come to the end of what I wanted to tell you about quantum computation.
+[01:55:45 -> 01:55:47]  So I'll just scroll, zoom out.
+[01:55:47 -> 01:55:49]  Can I have a follow up question?
+[01:55:49 -> 01:55:49]  Please.
+[01:55:50 -> 01:55:55]  And so can that be interpreted in something like rotating eight times,
+[01:55:55 -> 01:55:56]  and then you're at the beginning again?
+[01:55:56 -> 01:56:00]  Yes. Yeah, if you're familiar with the Bloch sphere,
+[01:56:00 -> 01:56:04]  we're doing like a rotation of two pi over eight on the Bloch sphere.
+[01:56:04 -> 01:56:07]  So you do it eight times and you come around again.
+[01:56:07 -> 01:56:08]  Perfect. Thanks.
+[01:56:10 -> 01:56:13]  So I want to take us to zoom us out and take us
+[01:56:13 -> 01:56:19]  through a sort of highly zoomed out summary of today's material.
+[01:56:20 -> 01:56:24]  So I started by telling you who this course was for,
+[01:56:24 -> 01:56:28]  and then I introduced you to simplified quantum mechanics,
+[01:56:28 -> 01:56:32]  which is a list of postulates that you apply
+[01:56:32 -> 01:56:37]  to model mathematically any quantum system allowed in simplified quantum mechanics.
+[01:56:39 -> 01:56:41]  And there are six postulates in all.
+[01:56:41 -> 01:56:47]  The first postulate concerns the playground for the quantum systems, the Hilbert space.
+[01:56:47 -> 01:56:51]  The second postulate concerns preparation.
+[01:56:52 -> 01:56:53]  How do we describe preparations?
+[01:56:53 -> 01:56:57]  The third postulate and the fourth postulate apply to measurements.
+[01:56:57 -> 01:57:01]  How do we detect the system and get information out of it?
+[01:57:01 -> 01:57:02]  How do we model that mathematically?
+[01:57:03 -> 01:57:06]  Postulate five is concerned with what happens
+[01:57:06 -> 01:57:09]  if we leave the system closed and leave it alone for a while.
+[01:57:10 -> 01:57:13]  And postulate six tells us how to model
+[01:57:13 -> 01:57:19]  many quantum systems composed of fundamental atomic quantum systems.
+[01:57:19 -> 01:57:27]  And then I went through a list of accepted dictionary of accepted evolutions,
+[01:57:27 -> 01:57:29]  that are attached to certain names.
+[01:57:29 -> 01:57:30]  These names are quantum gates,
+[01:57:30 -> 01:57:33]  so quantum gates are just evolutions of closed systems.
+[01:57:33 -> 01:57:36]  And then I introduced you to this amazing result that says
+[01:57:36 -> 01:57:38]  that with a finite list of quantum gates,
+[01:57:38 -> 01:57:44]  we can express any unitary as a product of these finite gates.
+[01:57:44 -> 01:57:47]  So that's where we come from today.
+[01:57:47 -> 01:57:49]  And where we're going to go in the future
+[01:57:50 -> 01:57:52]  is I'm going to show you how with a combination,
+[01:57:52 -> 01:57:57]  a clever combination of preparations, evolutions and measurements,
+[01:57:57 -> 01:58:00]  we can extract the answers to computational problems
+[01:58:00 -> 01:58:05]  using fewer quantum gates than the best known classical algorithms
+[01:58:05 -> 01:58:07]  to solve the same problems.
+[01:58:07 -> 01:58:09]  That's called quantum computation.
+[01:58:09 -> 01:58:14]  It's really the topic of the next talk coming in a couple of weeks.
+[01:58:14 -> 01:58:16]  But for now, I think I'm done.
+[01:58:16 -> 01:58:18]  Thank you very much.

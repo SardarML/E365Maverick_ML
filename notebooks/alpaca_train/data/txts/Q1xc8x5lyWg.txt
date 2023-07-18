@@ -1,0 +1,527 @@
+[00:00:00 -> 00:00:05]  Let's face it, the CompTIA Security Plus is not an easy exam.
+[00:00:05 -> 00:00:10]  Today I'm going to be telling you everything you need to know to set yourself up for success
+[00:00:10 -> 00:00:14]  in the Security Plus, so stay tuned.
+[00:00:14 -> 00:00:17]  So if you've been following the channel for a while now, you know I have a video about
+[00:00:17 -> 00:00:19]  the Security Plus.
+[00:00:19 -> 00:00:23]  Knowing what I know now, I felt that it was a perfect time to revisit this.
+[00:00:23 -> 00:00:27]  This guide is going to blow the doors off of the old video, so stay tuned because I
+[00:00:27 -> 00:00:32]  think that this will be an awesome guide on giving you everything you need to know
+[00:00:32 -> 00:00:35]  to set yourself up for success in the Security Plus.
+[00:00:35 -> 00:00:40]  There's a fair amount of information out there about the Security Plus exam, and if you Google
+[00:00:40 -> 00:00:46]  it, like the top seven tips to the Security Plus, you're going to get some answers like
+[00:00:46 -> 00:00:49]  eat a good breakfast or get a good night's sleep.
+[00:00:49 -> 00:00:51]  These are not going to help you pass the exam.
+[00:00:51 -> 00:00:54]  I promise that I will not waste your time with any tips like that.
+[00:00:54 -> 00:00:58]  Everything that I'm going to be telling you today in this guide is going to directly help
+[00:00:58 -> 00:00:59]  you pass the exam.
+[00:00:59 -> 00:01:03]  So before we get into it, let's talk about why I'm updating this video.
+[00:01:03 -> 00:01:08]  My goal with this video is to get every one of you to pass the Security Plus.
+[00:01:08 -> 00:01:13]  On my old video, there was nothing better to me than all of the comments that I saw
+[00:01:13 -> 00:01:17]  with people who revisited the video and shared their experiences on the exam and told me
+[00:01:17 -> 00:01:19]  that they passed the exam.
+[00:01:19 -> 00:01:23]  This totally made my day, and I really hope that we can continue this with this exam.
+[00:01:23 -> 00:01:27]  I think that with all the information that I'm going to be providing today, it'll really
+[00:01:27 -> 00:01:29]  set you up for success.
+[00:01:29 -> 00:01:32]  Just get a notepad out and get ready to take some notes because we're going to get into
+[00:01:32 -> 00:01:34]  some serious detail.
+[00:01:34 -> 00:01:37]  This video is going to be broken into four main sections.
+[00:01:37 -> 00:01:41]  The first section is going to be strategies on how to pass the Security Plus.
+[00:01:41 -> 00:01:46]  The next section is going to be on my preferred study method and then the materials that accompany
+[00:01:46 -> 00:01:48]  that study method.
+[00:01:48 -> 00:01:54]  The third section of this video is going to be commonly asked questions that students
+[00:01:54 -> 00:01:58]  often ask that we see in the comments section, stuff that people email me.
+[00:01:58 -> 00:02:02]  I'm just going to be addressing those in this video to hopefully just save you some time
+[00:02:02 -> 00:02:05]  and really answer these in an upfront manner.
+[00:02:05 -> 00:02:10]  And then finally, we're going to be just discussing a reasonable timeline and just how to set
+[00:02:10 -> 00:02:13]  expectations for studying for this exam.
+[00:02:13 -> 00:02:17]  So without further ado, my mic is low on battery.
+[00:02:17 -> 00:02:19]  So we're going to get right into it.
+[00:02:19 -> 00:02:23]  The first thing that we want to do when we're taking on any new challenge is to size up
+[00:02:23 -> 00:02:24]  the opponent.
+[00:02:24 -> 00:02:27]  And that's basically what you're doing here by watching this video.
+[00:02:27 -> 00:02:28]  So congrats to you.
+[00:02:28 -> 00:02:35]  And some additional steps that we can do to really scope out our plan for this is to really
+[00:02:35 -> 00:02:37]  get a better understanding of this exam.
+[00:02:37 -> 00:02:40]  And what's the best thing that we can do to get the best understanding of the exam is
+[00:02:40 -> 00:02:43]  to go right to the source.
+[00:02:43 -> 00:02:48]  So the first thing that we're going to be looking at is the CompTIA exam objectives.
+[00:02:48 -> 00:02:52]  We're going to be looking at these first because these are really, really the golden standard.
+[00:02:52 -> 00:02:56]  Every other resource that is out there on the Security Plus is going to be third party.
+[00:02:56 -> 00:03:02]  So you really want to make sure you're focusing most of your effort on the firsthand CompTIA
+[00:03:02 -> 00:03:04]  objectives and sub objectives.
+[00:03:04 -> 00:03:07]  These objectives are going to help you keep on track.
+[00:03:07 -> 00:03:12]  And then they're also going to help you make sure that you're studying the correct materials.
+[00:03:12 -> 00:03:15]  So we're going to look at them in the beginning and then we're also going to look at them
+[00:03:15 -> 00:03:19]  in the final week before the exam just to make sure we've accomplished every one of
+[00:03:19 -> 00:03:25]  the objectives and making sure that the resources that we've used that are from third parties,
+[00:03:25 -> 00:03:29]  that they didn't miss anything that is actually one of the CompTIA objectives.
+[00:03:29 -> 00:03:34]  So when we're sizing up our opponent and really just understanding the Security Plus exam,
+[00:03:34 -> 00:03:38]  we need to understand the actual exam itself.
+[00:03:38 -> 00:03:44]  So the exam consists of 90 questions, which are a mixture of multiple choice and performance-based questions.
+[00:03:44 -> 00:03:48]  If performance-based questions is a new term to you, don't worry about that.
+[00:03:48 -> 00:03:50]  We're going to be covering that later on in the video.
+[00:03:50 -> 00:03:55]  But for now, you just need to know that they're more of hands-on type questions and there's
+[00:03:55 -> 00:04:00]  going to be a lesser amount, obviously, than the multiple choice because the multiple choice
+[00:04:00 -> 00:04:04]  are going to make up a large majority of the exam.
+[00:04:04 -> 00:04:10]  So we really need to know how to approach these multiple choice because in my opinion,
+[00:04:10 -> 00:04:14]  understanding how to take on these multiple choice questions in a strategic, structured
+[00:04:14 -> 00:04:19]  manner will actually be one of the keys to the success within this exam.
+[00:04:19 -> 00:04:23]  So now we're going to talk about how to approach the multiple choice questions.
+[00:04:23 -> 00:04:27]  The CompTIA multiple choice questions are actually structured in a really interesting
+[00:04:27 -> 00:04:30]  way that trips up a lot of people.
+[00:04:30 -> 00:04:35]  So they're going to consist of about four or five multiple choice questions and the
+[00:04:35 -> 00:04:40]  answer is going to actually ask for the selection that is the best choice.
+[00:04:40 -> 00:04:42]  And this is what really trips people up.
+[00:04:42 -> 00:04:47]  In addition to the wording of the question, you also have to identify which of the answers
+[00:04:47 -> 00:04:48]  is the best choice.
+[00:04:48 -> 00:04:53]  And this is going to be hard because all the answers that are selected by CompTIA are going
+[00:04:53 -> 00:04:54]  to be pretty darn similar.
+[00:04:54 -> 00:04:58]  What this means is that you really have to know your stuff.
+[00:04:58 -> 00:05:02]  So there's going to be a lot of terms that are really going to be similar.
+[00:05:02 -> 00:05:07]  Out of the five questions, you're probably going to be able to, through process of elimination,
+[00:05:07 -> 00:05:10]  you're going to probably be able to eliminate two out of there right away.
+[00:05:10 -> 00:05:12]  They're just not related to the question.
+[00:05:12 -> 00:05:18]  And then you're probably going to have three that are related to the question in some way.
+[00:05:18 -> 00:05:21]  You could probably get rid of one more of them just based on your knowledge and your
+[00:05:21 -> 00:05:23]  understanding of the question.
+[00:05:23 -> 00:05:27]  But then it's the time where you want to go back and you really want to make sure you
+[00:05:27 -> 00:05:31]  understand what the question asks because this is where it gets really difficult.
+[00:05:31 -> 00:05:37]  You need to understand how the remaining answers really relate to the question and what their
+[00:05:37 -> 00:05:39]  question is asking.
+[00:05:39 -> 00:05:44]  When I was taking this exam, I really had a hard time understanding what was going on
+[00:05:44 -> 00:05:46]  in the question.
+[00:05:46 -> 00:05:52]  So I took the approach of just rereading the question twice before even looking at the
+[00:05:52 -> 00:05:53]  answers.
+[00:05:53 -> 00:05:58]  I think that some students will breeze over the question, look at the answer choices,
+[00:05:58 -> 00:06:02]  see some that are familiar, and then go back up to the question again.
+[00:06:02 -> 00:06:05]  And that's really going to mess them up because they're going to have those answers in their
+[00:06:05 -> 00:06:12]  head and that might frame the question in a different way than CompTIA is actually putting
+[00:06:12 -> 00:06:13]  it.
+[00:06:13 -> 00:06:14]  And that might throw them off.
+[00:06:14 -> 00:06:19]  So the one thing I want you to take away from this is read the question twice, really understand
+[00:06:19 -> 00:06:26]  what it's asking, and then go down, eliminate the answer choices that are not relevant at
+[00:06:26 -> 00:06:27]  all.
+[00:06:27 -> 00:06:33]  And then once you have identified maybe two, hopefully two, hopefully not three of the
+[00:06:33 -> 00:06:37]  multiple choice questions that are remotely possible, then go through in your head and
+[00:06:37 -> 00:06:42]  actually just define what each of those answer choices are in the most formal definition
+[00:06:42 -> 00:06:43]  that you know.
+[00:06:43 -> 00:06:49]  Because doing it this way and kind of pulling them out from the actual context of the question
+[00:06:49 -> 00:06:54]  will really help you and eliminate any other factors that might be influencing it.
+[00:06:54 -> 00:06:59]  But if you're really stuck and you have a 50-50 guess, go with your gut instinct.
+[00:06:59 -> 00:07:04]  I've always found that going with my gut instinct, especially on these tests, is the way to go.
+[00:07:04 -> 00:07:10]  These questions can really get in your head and I've just found that your first intuition
+[00:07:10 -> 00:07:13]  is going to be mostly the right one.
+[00:07:13 -> 00:07:16]  Because otherwise you're going to be reading about it, reading the questions, reading the
+[00:07:16 -> 00:07:20]  other answer choices, and just overthinking it in general.
+[00:07:20 -> 00:07:21]  So go with your gut.
+[00:07:21 -> 00:07:25]  So let's try out this approach in an example question.
+[00:07:25 -> 00:07:28]  So I'm going to cut over to that screen and we're just going to kind of take a look at
+[00:07:28 -> 00:07:33]  how I break this apart and analyze each of the answer choices.
+[00:07:33 -> 00:07:37]  Now one disclaimer, so this question is from examcompass.com.
+[00:07:37 -> 00:07:39]  I like their practice questions.
+[00:07:39 -> 00:07:41]  I'm going to actually include a link to them.
+[00:07:41 -> 00:07:46]  They're just free practice questions and it's a great way to get your hands on some similar
+[00:07:46 -> 00:07:50]  information and some similar questions that CompTIA poses.
+[00:07:50 -> 00:07:56]  But one thing I have to warn you is that these questions are definitely not as difficult
+[00:07:56 -> 00:07:58]  as the CompTIA questions.
+[00:07:58 -> 00:08:03]  The questions are a lot more straightforward in here and the CompTIA ones are going to
+[00:08:03 -> 00:08:05]  be more situational.
+[00:08:05 -> 00:08:09]  So just kind of just take that into account, but I did want to leave you with something
+[00:08:09 -> 00:08:12]  like an actual example.
+[00:08:12 -> 00:08:14]  So let's get right into that example right now.
+[00:08:14 -> 00:08:20]  So the question is, a modification introduced to a computer code that changes the external
+[00:08:20 -> 00:08:26]  behavior, example maintains capability between a newer OS and an older version of the application
+[00:08:26 -> 00:08:28]  software is called.
+[00:08:28 -> 00:08:35]  And then our options here are shimming, DLL injection, refactoring, and backdoor.
+[00:08:35 -> 00:08:37]  So this is a really good example question.
+[00:08:37 -> 00:08:42]  Like I said before, the question itself is going to on the CompTIA exam is going to have
+[00:08:42 -> 00:08:46]  a lot more confusing things in there to actually throw you off.
+[00:08:46 -> 00:08:51]  But the main thing that I see in this is the example statement.
+[00:08:51 -> 00:08:57]  So it says to maintain capability between a newer OS and an older version of the application
+[00:08:57 -> 00:08:58]  software.
+[00:08:58 -> 00:09:04]  I immediately pick this out because this is the most specific component of this question.
+[00:09:04 -> 00:09:09]  So you have to really pick out the actual specific thing that will eliminate the other
+[00:09:09 -> 00:09:10]  questions.
+[00:09:10 -> 00:09:16]  Because there are a lot of these choices are modifications that you can introduce to computer
+[00:09:16 -> 00:09:20]  code that change the external behavior.
+[00:09:20 -> 00:09:22]  So let's actually step through it.
+[00:09:22 -> 00:09:29]  So I know here that shimming pertains to maintaining the capability between multiple versions.
+[00:09:29 -> 00:09:32]  So that's exactly what I picked out here.
+[00:09:32 -> 00:09:35]  But imagine that that wasn't the first answer.
+[00:09:35 -> 00:09:39]  So let's just run through our other options, DLL injection.
+[00:09:39 -> 00:09:42]  So DLL injection is a form of an attack.
+[00:09:42 -> 00:09:49]  But does this maintain capability between newer OS and older versions of the software?
+[00:09:49 -> 00:09:50]  No.
+[00:09:50 -> 00:09:52]  Does it apply to the first part of the question?
+[00:09:52 -> 00:09:56]  Yes, it actually does influence the change of the external behavior.
+[00:09:56 -> 00:10:00]  So you really need to focus on the actual part that you got to pull out that the actual
+[00:10:00 -> 00:10:01]  question is asking.
+[00:10:01 -> 00:10:04]  So next moving on to the next answer choice is refactoring.
+[00:10:04 -> 00:10:07]  That's just making changes to the code structure.
+[00:10:07 -> 00:10:09]  So we're going to eliminate that one.
+[00:10:09 -> 00:10:10]  That's one of those obvious ones.
+[00:10:10 -> 00:10:15]  And then we can just get rid of backdoor right away, because this is not something that's
+[00:10:15 -> 00:10:20]  going to be used to maintain compatibility, right?
+[00:10:20 -> 00:10:21]  This is going to be something that's malicious.
+[00:10:21 -> 00:10:26]  We're going to be calling out to maybe like our C2 server, or we're going to be calling
+[00:10:26 -> 00:10:27]  out to some other thing.
+[00:10:27 -> 00:10:32]  It's going to be making a change to the code, but it's not going to be related to the compatibility.
+[00:10:32 -> 00:10:34]  So we're going to have to choose shimming.
+[00:10:34 -> 00:10:36]  Shimming is definitely our best answer here.
+[00:10:36 -> 00:10:40]  It's the only thing that actually pertains to compatibility.
+[00:10:40 -> 00:10:45]  So hopefully this approach just really helped you understand the structure way to approach
+[00:10:45 -> 00:10:51]  these questions, to really understand the question, and then to best apply that question
+[00:10:51 -> 00:10:52]  to the answer choices.
+[00:10:52 -> 00:10:56]  One thing I want to leave you on before I leave the multiple choice questions is just
+[00:10:56 -> 00:10:59]  really focus on understanding the questions.
+[00:10:59 -> 00:11:04]  If you looked at the last one we went through, there were almost two questions there or two
+[00:11:04 -> 00:11:09]  aspects of the questions that we could pull out answer terms that apply to the answer
+[00:11:09 -> 00:11:10]  terms.
+[00:11:10 -> 00:11:16]  But the example with the parentheses around it, that's what really stood it out, and that's
+[00:11:16 -> 00:11:19]  kind of what it was asking.
+[00:11:19 -> 00:11:21]  So that's why I went with shimming there.
+[00:11:21 -> 00:11:25]  So now it's time to talk about study strategies.
+[00:11:25 -> 00:11:27]  Everyone has their own approach.
+[00:11:27 -> 00:11:32]  I'm sure that you all have taken multiple exams over the years, maybe other certifications,
+[00:11:32 -> 00:11:35]  and you all just have different approaches of doing this, but I would just like you to
+[00:11:35 -> 00:11:38]  consider this approach that I'm proposing.
+[00:11:38 -> 00:11:44]  So my approach is just really approaching the material from as many different angles
+[00:11:44 -> 00:11:45]  as you possibly can.
+[00:11:45 -> 00:11:50]  So what that means is that there are four main learning styles, right?
+[00:11:50 -> 00:11:56]  So it's auditory, we have reading-writing, we have visual learners, then we have kinesthetic
+[00:11:56 -> 00:11:58]  or hands-on learners.
+[00:11:58 -> 00:12:04]  My approach, and what I've proven over the years for myself that works, is to emphasize
+[00:12:04 -> 00:12:09]  every one of these aspects because I find that if I just focus on maybe just reading
+[00:12:09 -> 00:12:15]  a book or I focus on just watching a course or, for example, just listening to an audio
+[00:12:15 -> 00:12:20]  course, I'm really missing out on a lot of potential there because I get burnt out if
+[00:12:20 -> 00:12:21]  I just do one aspect.
+[00:12:21 -> 00:12:27]  So you really got to vary it up, and when you vary it up, you also have to identify
+[00:12:27 -> 00:12:30]  the proper study materials that work for you.
+[00:12:30 -> 00:12:34]  So let's talk about the study materials that worked for me and that worked for a lot of
+[00:12:34 -> 00:12:36]  people in this community and a lot of people that I know.
+[00:12:36 -> 00:12:41]  So in my opinion, the best way to really hit all four of these different learning areas
+[00:12:41 -> 00:12:45]  is to, number one, get a book, read the book first.
+[00:12:45 -> 00:12:49]  Number two, you get a video course, watch the video course.
+[00:12:49 -> 00:12:53]  The video course will further emphasize the topics that are in the book.
+[00:12:53 -> 00:12:57]  And then I find that whenever there's a serious overlap, so for example, the author of the
+[00:12:57 -> 00:13:01]  book and the author of the video course are emphasizing one topic, that's really where
+[00:13:01 -> 00:13:05]  you want to note that topic down and make sure you really have that handled because
+[00:13:05 -> 00:13:07]  there's a reason that they're both pointing this out.
+[00:13:07 -> 00:13:10]  That's going to be a serious topic on the exam.
+[00:13:10 -> 00:13:17]  And then finally, you want to get your hands on as many possible practice exams as possible.
+[00:13:17 -> 00:13:22]  So I'm going to include links to all of my favorite study materials in the description
+[00:13:22 -> 00:13:23]  below.
+[00:13:23 -> 00:13:26]  So my favorite book is the Daryl Gibson book.
+[00:13:26 -> 00:13:29]  My favorite video course is the Pluralsight course.
+[00:13:29 -> 00:13:34]  One of the advantages to the Pluralsight course that I've also found is that when you do the
+[00:13:34 -> 00:13:40]  Pluralsight course, you're getting a membership, a flat rate membership to all of their other
+[00:13:40 -> 00:13:41]  courses.
+[00:13:41 -> 00:13:46]  So whether, when you finish, if you like the learning platform, you can continue on with
+[00:13:46 -> 00:13:51]  other topic areas that interest you and you also can move on to your next certification
+[00:13:51 -> 00:13:54]  like the CYSA or the Penn Test Plus.
+[00:13:54 -> 00:13:59]  And then next, you have to get your hands on as many possible practice questions as
+[00:13:59 -> 00:14:00]  possible.
+[00:14:00 -> 00:14:04]  So if you're like me and you really like practice questions and you just rip through all the
+[00:14:04 -> 00:14:08]  ones that are in the book, you're probably going to want to get your hands on some more.
+[00:14:08 -> 00:14:12]  I think that for me, this is a really good way to kind of emphasize everything that I've
+[00:14:12 -> 00:14:13]  learned.
+[00:14:13 -> 00:14:18]  And also, like I said before, you catch these trends when you have diverse resources like
+[00:14:18 -> 00:14:19]  this.
+[00:14:19 -> 00:14:22]  So if there's something that's mentioned in the book, the video, and it's in a lot of
+[00:14:22 -> 00:14:25]  practice questions, that's definitely something that's going to be on the exam and you're
+[00:14:25 -> 00:14:29]  going to want to get your handle on.
+[00:14:29 -> 00:14:33]  So I'm going to include a link to a practice booklet.
+[00:14:33 -> 00:14:36]  This is just going to have straight up practice exams.
+[00:14:36 -> 00:14:41]  It's going to have hundreds of practice exams with the answers and full on explanations.
+[00:14:41 -> 00:14:42]  So I think that this is a great way.
+[00:14:42 -> 00:14:47]  If you don't want to buy this resource and you're not crazy about practice exams, you
+[00:14:47 -> 00:14:52]  can also go on to a site like I mentioned before, like exam compass.
+[00:14:52 -> 00:14:58]  Exam compass has, I believe, about 15 to 20 quizzes and each one of these quizzes actually
+[00:14:58 -> 00:15:02]  consists of about 15 to 20 questions each.
+[00:15:02 -> 00:15:04]  So that's a lot of questions.
+[00:15:04 -> 00:15:09]  So one bonus tip is if you're like me and you really like your practice questions and
+[00:15:09 -> 00:15:15]  you just burn through, for example, the test booklet that I linked down in the description.
+[00:15:15 -> 00:15:19]  One of the approaches that I like to do is when you've completely run out of questions
+[00:15:19 -> 00:15:22]  or if you're just trying to take your time and really understand everything that's going
+[00:15:22 -> 00:15:32]  on, is to take the question and for each question and for each answer choice, answer to yourself
+[00:15:32 -> 00:15:36]  in your own head, why is this answer not the correct one, right?
+[00:15:36 -> 00:15:40]  So you're going to be doing that four or five times per question and that's really just
+[00:15:40 -> 00:15:42]  going to emphasize all five of those.
+[00:15:42 -> 00:15:47]  So that's like five sub questions per question and if that's something that works for you,
+[00:15:47 -> 00:15:49]  take that to the exam.
+[00:15:49 -> 00:15:52]  It will totally help you pass this exam as long as you can figure out how to do that
+[00:15:52 -> 00:15:54]  in a timely fashion.
+[00:15:54 -> 00:15:58]  So now that we've identified our material and we've identified our study approach, we
+[00:15:58 -> 00:16:04]  need to figure out how to hold ourselves accountable and let's face it, success in security plus
+[00:16:04 -> 00:16:09]  is really dependent on your long term commitment and preparation.
+[00:16:09 -> 00:16:13]  It's not something you can do the Friday before the exam, I'm sorry to tell you.
+[00:16:13 -> 00:16:18]  The best way you can hold yourself accountable for the security plus is to set your exam
+[00:16:18 -> 00:16:21]  date as soon as you start studying.
+[00:16:21 -> 00:16:26]  So personally, it took me three weeks to get ready and pass the security plus exam.
+[00:16:26 -> 00:16:31]  This was an extremely tight time frame, I would not recommend it at all.
+[00:16:31 -> 00:16:36]  I had a lot of previous experience and I was currently at the time back then working an
+[00:16:36 -> 00:16:40]  internship where I was using a lot of the topics that were on the exam, so it wasn't
+[00:16:40 -> 00:16:42]  all new material for me.
+[00:16:42 -> 00:16:46]  The one thing that really did help me get it done in three weeks is I knew that I had
+[00:16:46 -> 00:16:52]  to get back to school and I knew that when I started my classes, because I had a pretty
+[00:16:52 -> 00:16:57]  intense course load at the time, I knew that I needed to set the exam and hold myself accountable
+[00:16:57 -> 00:17:02]  so I set it right at the week before school and I knew that I was going to pass it that
+[00:17:02 -> 00:17:06]  week and I was just going to get it done with and move right on into school.
+[00:17:06 -> 00:17:10]  Of course, you don't have to set a three week deadline.
+[00:17:10 -> 00:17:15]  I personally recommend if you're on the faster end, you have some experience and you just
+[00:17:15 -> 00:17:18]  kind of wanted to get this exam over with, 30 days.
+[00:17:18 -> 00:17:24]  So before you even crack open the book, set the test date, schedule it for 30 days out.
+[00:17:24 -> 00:17:29]  If you want to allow yourself a little bit more time, maybe allow an extra week at the
+[00:17:29 -> 00:17:36]  back end to just fully go through your information again that you bookmarked or just take an
+[00:17:36 -> 00:17:42]  entire week to do practice exams, set yourself up for 45 days.
+[00:17:42 -> 00:17:49]  No matter which it is, I would just recommend for you to identify what would be a sweet
+[00:17:49 -> 00:17:50]  spot of a timeline.
+[00:17:50 -> 00:17:55]  I really think that this 30-45 days is good because any shorter, you're going to be rushing
+[00:17:55 -> 00:17:59]  way too much, you're not going to be understanding the material and any longer and you're going
+[00:17:59 -> 00:18:03]  to maybe get, you're going to get too complacent about it and you're going to let it slip a
+[00:18:03 -> 00:18:07]  little bit because you really need to be on it every single day if you want to hit it
+[00:18:07 -> 00:18:11]  in this time frame and you want to get all this information in because it's a lot of
+[00:18:11 -> 00:18:12]  information to get in.
+[00:18:12 -> 00:18:17]  So if you set your exam date and you still don't feel like that's going to hold you accountable
+[00:18:17 -> 00:18:22]  enough, I really recommend to break out the individual components and I'm going to discuss
+[00:18:22 -> 00:18:23]  this more in the timeline.
+[00:18:23 -> 00:18:26]  I actually made a pretty cool infographic that I'm pretty proud of that I'm going to
+[00:18:26 -> 00:18:32]  show at the end that I also have on my blog post at Cyber Career School and I'm going
+[00:18:32 -> 00:18:34]  to link that as well.
+[00:18:34 -> 00:18:40]  But basically, this is going to have the timeline so to allow yourself maybe just say three
+[00:18:40 -> 00:18:46]  weeks to finish the book and then have another milestone of the next week to finish the course
+[00:18:46 -> 00:18:50]  and then the next week after that to work through all your practice exams.
+[00:18:50 -> 00:18:54]  If you set these intermediate milestones, that's really going to help you hold yourself
+[00:18:54 -> 00:18:55]  accountable.
+[00:18:55 -> 00:19:00]  So now that we set the materials and our study plan, we developed some milestones and we
+[00:19:00 -> 00:19:04]  held ourselves accountable, let's talk about how to actually study.
+[00:19:04 -> 00:19:07]  So I really recommend starting off with the book.
+[00:19:07 -> 00:19:11]  Like I said before, my favorite book is the Get Certified, Get Ahead by Daryl Gibson.
+[00:19:11 -> 00:19:13]  I think that this is a proven book.
+[00:19:13 -> 00:19:16]  Most students who take the exam have this book.
+[00:19:16 -> 00:19:22]  I personally read the book and I pass it on to my two younger brothers who currently are
+[00:19:22 -> 00:19:26]  Security Plus certified as well and they both had great results with this.
+[00:19:26 -> 00:19:30]  So if you're worried about the book, just go with the proven book, the Get Certified,
+[00:19:30 -> 00:19:32]  Get Ahead by Daryl Gibson.
+[00:19:32 -> 00:19:39]  Without getting too off topic though, this book initially has an exam, an initial assessment
+[00:19:39 -> 00:19:44]  before you even get into the coursework or the chapters.
+[00:19:44 -> 00:19:47]  Take this exam and treat it like the real thing.
+[00:19:47 -> 00:19:51]  This can be one of the biggest benefits for you because you really got to know where you
+[00:19:51 -> 00:19:54]  stand and set this baseline initially.
+[00:19:54 -> 00:19:57]  Set aside 90 minutes.
+[00:19:57 -> 00:20:01]  This initial assessment is not going to have the performance based questions, but it's
+[00:20:01 -> 00:20:05]  going to have a set of a good amount of multiple choice questions and just treat it like the
+[00:20:05 -> 00:20:06]  real exam.
+[00:20:06 -> 00:20:08]  So don't use any outside resources.
+[00:20:08 -> 00:20:12]  And then when you get done with the exam, tally up your results and see where you stand.
+[00:20:12 -> 00:20:16]  So the passing score on the Security Plus is going to be an 83%.
+[00:20:16 -> 00:20:20]  You need to account for the fact that there are no performance based questions and just
+[00:20:20 -> 00:20:24]  the questions in the Daryl Gibson book are just a little bit easier than those of the
+[00:20:24 -> 00:20:26]  Security Plus.
+[00:20:26 -> 00:20:29]  Those are all just things you need to understand when you're juggling your score.
+[00:20:29 -> 00:20:36]  But if you scored anywhere from about 60 to about 75% and you're worried, do not be worried.
+[00:20:36 -> 00:20:39]  That is really a good score to start off with.
+[00:20:39 -> 00:20:40]  Think about it.
+[00:20:40 -> 00:20:45]  You know 60% of the exam objectives basically before even starting the reading.
+[00:20:45 -> 00:20:47]  So that's a great place to start.
+[00:20:47 -> 00:20:49]  And if you scored less than that, don't worry at all.
+[00:20:50 -> 00:20:54]  I think most of the time when people do poorly on the initial assessment, it's not because
+[00:20:54 -> 00:21:00]  they don't know the topics or they're really just struggling on specific areas.
+[00:21:00 -> 00:21:04]  It's more that they just need to get into the mindset and understand how to do well
+[00:21:04 -> 00:21:07]  on these multiple choice questions.
+[00:21:07 -> 00:21:11]  So in the back of the book, there's actually going to be a full explanation on every one
+[00:21:11 -> 00:21:15]  of the questions in this initial assessment and then in all the chapter assessments as
+[00:21:15 -> 00:21:16]  well.
+[00:21:16 -> 00:21:19]  And this is going to really be your key.
+[00:21:19 -> 00:21:25]  Do not let a single question go by that you didn't understand and then you also didn't
+[00:21:25 -> 00:21:27]  look up in the back of the book.
+[00:21:27 -> 00:21:30]  Really make that connection of why you got the answer wrong so you're never going to
+[00:21:30 -> 00:21:31]  do it again.
+[00:21:31 -> 00:21:34]  Another bonus tip for you guys, and I found this to be really helpful when I was taking
+[00:21:34 -> 00:21:41]  the exam, is especially with the chapter questions, not as much with the initial assessment questions,
+[00:21:41 -> 00:21:44]  but you can still do it, but there's just a lot of them so it's going to be a lot harder
+[00:21:44 -> 00:21:46]  to kind of gauge where you're at.
+[00:21:46 -> 00:21:52]  But with the chapter assessment questions, I usually aimed for about to only get one
+[00:21:52 -> 00:21:53]  wrong, right?
+[00:21:53 -> 00:21:56]  But I was really hard on the grading of those questions.
+[00:21:56 -> 00:22:01]  So if I didn't know the answer to a question completely, like so even if I brought it down
+[00:22:01 -> 00:22:06]  to two and I did an educated guess between the two, I still marked it as wrong and I
+[00:22:06 -> 00:22:08]  went back and reviewed it.
+[00:22:08 -> 00:22:13]  I think that this is extremely important because if you're doing these chapter assessments
+[00:22:13 -> 00:22:17]  and you're guessing between two of them, and the question could be worded a little
+[00:22:17 -> 00:22:21]  bit differently on the exam for example, you could still get it wrong.
+[00:22:21 -> 00:22:27]  I really just go for as much completion as I possibly can get when I'm doing this preparation
+[00:22:27 -> 00:22:30]  so I know that I can go into the exam with extreme confidence.
+[00:22:30 -> 00:22:35]  We talked a lot about the multiple choice questions and how to approach them.
+[00:22:35 -> 00:22:38]  Let's cover some of the performance based questions now.
+[00:22:38 -> 00:22:42]  These performance based questions are often referred to as simulations.
+[00:22:42 -> 00:22:45]  So if you've heard the term simulation, it's all the same thing.
+[00:22:45 -> 00:22:52]  And this is basically going to be an interactive drag and drop style for the most part question
+[00:22:52 -> 00:22:54]  that CompTIA does to say it's more hands on.
+[00:22:54 -> 00:22:57]  I really don't think it's hands on at all.
+[00:22:57 -> 00:23:02]  It's basically just drag and drop which is just an abstraction of multiple choice if
+[00:23:02 -> 00:23:03]  you really think about it.
+[00:23:03 -> 00:23:08]  But don't let me get too far off topic here with that.
+[00:23:08 -> 00:23:11]  Many people really stress the performance based questions.
+[00:23:11 -> 00:23:15]  I really don't think that they're hard and I don't think you should worry about them
+[00:23:15 -> 00:23:16]  that much.
+[00:23:16 -> 00:23:21]  I think that the multiple choice requires a lot more understanding and a lot more finesse
+[00:23:21 -> 00:23:26]  with your understanding of the questions than the performance based questions.
+[00:23:26 -> 00:23:29]  There are also some example performance based questions out there.
+[00:23:29 -> 00:23:32]  So if you search around on YouTube, you can find them.
+[00:23:32 -> 00:23:35]  The one thing I just want to leave you on is do not stress these.
+[00:23:35 -> 00:23:40]  There's very few of them, maybe like five performance based questions.
+[00:23:40 -> 00:23:44]  The one strategy that I do want to tell you is I would skip these right off the bat.
+[00:23:44 -> 00:23:46]  I know that's a really common strategy.
+[00:23:46 -> 00:23:50]  Maybe just look at them, glance at them when you start the exam.
+[00:23:50 -> 00:23:51]  But don't let them get in your head.
+[00:23:51 -> 00:23:56]  So just understand the topic, understand the question, put it in the back of your mind,
+[00:23:56 -> 00:23:58]  answer the multiple choice question.
+[00:23:58 -> 00:24:03]  Half the time the multiple choice question is going to prompt you to better understand
+[00:24:03 -> 00:24:07]  the performance based question and even maybe give you some hints or some answers towards
+[00:24:07 -> 00:24:08]  that question.
+[00:24:08 -> 00:24:10]  So just don't worry about it.
+[00:24:10 -> 00:24:13]  I don't think you should stress about the performance based questions at all.
+[00:24:13 -> 00:24:20]  So maybe the biggest tip that I'm going to be giving you is to link relevant concepts.
+[00:24:20 -> 00:24:25]  It kind of sounds obvious, but I think that a lot of people really are just trying to
+[00:24:25 -> 00:24:29]  memorize these individual facts, right?
+[00:24:29 -> 00:24:32]  So there are going to be definitely things on this exam you have to memorize.
+[00:24:32 -> 00:24:34]  You have to memorize acronyms.
+[00:24:34 -> 00:24:36]  You have to memorize ports.
+[00:24:36 -> 00:24:42]  But you don't have to memorize these individual concepts that are on the exam and the specific
+[00:24:42 -> 00:24:44]  domains and objectives on the exam.
+[00:24:44 -> 00:24:47]  I think it's really important that you want to link them.
+[00:24:47 -> 00:24:52]  Like I always say about the Security Plus exam, it's a mile wide and an inch deep, right?
+[00:24:52 -> 00:24:59]  So if you have to memorize this massive span of topics and objectives, you're going to
+[00:24:59 -> 00:25:03]  spend all day and by the end of the exam, maybe a week after the exam, you're going
+[00:25:03 -> 00:25:04]  to forget it.
+[00:25:04 -> 00:25:08]  So let's put it this way, memorization just does not do it in this field.
+[00:25:08 -> 00:25:12]  You need understanding and you need to just link these relevant concepts.
+[00:25:12 -> 00:25:16]  Focus on really linking these concepts from the beginning.
+[00:25:16 -> 00:25:19]  You're not going to be scramming it on the last day, right?
+[00:25:19 -> 00:25:24]  Because you're not going to be having to memorize these abstract terms in isolation from each
+[00:25:24 -> 00:25:25]  other.
+[00:25:25 -> 00:25:31]  So I just want to point out one main thing before I leave this strategy is we obviously
+[00:25:32 -> 00:25:38]  want to quickly and efficiently learn the information to pass the exam, but we're also
+[00:25:38 -> 00:25:42]  paying this money and we're spending this time to understand the underlying concepts
+[00:25:42 -> 00:25:46]  and build our foundation as cybersecurity professionals.
+[00:25:46 -> 00:25:51]  What's the use if you just flash memorize like flashcards, memorizing all these different
+[00:25:51 -> 00:25:58]  concepts is if like if you forget them three weeks after the exam, if you focus on understanding
+[00:25:58 -> 00:26:03]  them and linking the concepts, understanding how they work when you actually go into your
+[00:26:03 -> 00:26:08]  specific vertical or your different role within the field of cybersecurity, you're going to
+[00:26:08 -> 00:26:14]  be able to actually call on this to further understand the more advanced concepts.
+[00:26:14 -> 00:26:15]  So just keep that in mind.
+[00:26:15 -> 00:26:18]  Okay, so those were some strategies on the exam.
+[00:26:18 -> 00:26:20]  Let's talk about some common questions.
+[00:26:20 -> 00:26:25]  I think if I address these questions here, they may leave all of the viewers with some
+[00:26:25 -> 00:26:30]  assurance and just with those lingering questions answered so they don't actually have to go
+[00:26:30 -> 00:26:35]  out to other platforms and feel maybe intimidated to ask them.
+[00:26:35 -> 00:26:40]  So the first one is, is the security plus hard and how does it compare to something
+[00:26:40 -> 00:26:45]  like the A plus, the network plus, the CYSA or the pen test plus.
+[00:26:45 -> 00:26:50]  Comparing the security plus to all the exams that I just mentioned, I would actually tell
+[00:26:50 -> 00:26:56]  you that the security plus for some might be difficult in all those other exams, just
+[00:26:56 -> 00:27:01]  in the fact that the scope of this exam is so wide.
+[00:27:01 -> 00:27:03]  Let me use the CYSA plus for example.
+[00:27:03 -> 00:27:10]  So the CYSA plus goes pretty deep, but it just narrows in on one vertical of many that
+[00:27:10 -> 00:27:12]  the security plus covers.
+[00:27:12 -> 00:27:16]  So I think if you have a really good understanding of security and you're able to link relevant
+[00:27:16 -> 00:27:22]  concepts, like I mentioned before, the security plus isn't going to be that difficult and
+[00:27:22 -> 00:27:26]  the CYSA plus would be more difficult, but if you approach it in taking these different
+[00:27:26 -> 00:27:33]  isolated areas or sectors of the security plus, it could definitely be more difficult
+[00:27:33 -> 00:27:37]  than something like the CYSA plus just because of the pure scope.
+[00:27:37 -> 00:27:40]  So another question about the security plus is, are there any discounts out there for
+[00:27:40 -> 00:27:41]  the security plus?
+[00:27:41 -> 00:27:42]  Actually, yes.
+[00:27:42 -> 00:27:47]  So a lot of people don't know that there actually is a student discount for the security plus.
+[00:27:47 -> 00:27:52]  I believe that the discount is 40% and I can link that in the description as well to direct
+[00:27:52 -> 00:27:54]  you if you're a student.
+[00:27:54 -> 00:27:59]  And the only restriction for this is you have to be a student, a current student at a four
+[00:27:59 -> 00:28:01]  year degree program.
+[00:28:01 -> 00:28:05]  And I believe that some other degree programs are added in there.
+[00:28:05 -> 00:28:08]  But this is something really big because I think that a lot of people who are students
+[00:28:09 -> 00:28:12]  are looking at this like an extremely big cost because when you're in college, just
+[00:28:12 -> 00:28:19]  this $350 could be a lot and taking 40% off of that could mean the difference between
+[00:28:19 -> 00:28:22]  not taking the exam at all and taking the exam.
+[00:28:22 -> 00:28:25]  So if the price has been something that's holding you up, consider getting that student
+[00:28:25 -> 00:28:26]  discount and taking the exam.
+[00:28:26 -> 00:28:30]  So the next question is, does the security plus require two years of experience?
+[00:28:30 -> 00:28:35]  No, the security plus does not require two years of experience.
+[00:28:35 -> 00:28:39]  This is a common thing that trips up a lot of people.
+[00:28:39 -> 00:28:44]  CompTIA does state that they recommend two years of experience, but this is no, there's
+[00:28:44 -> 00:28:50]  no hard prerequisite for any of these entry level CompTIA exams actually, or even for
+[00:28:50 -> 00:28:52]  like something like the COSA plus.
+[00:28:52 -> 00:28:59]  So you just need to understand that they recommend it, but it's absolutely possible that this
+[00:28:59 -> 00:29:04]  could be your first introduction to cybersecurity and it really is a good introduction to cybersecurity.
+[00:29:04 -> 00:29:07]  So if that's something that's been holding you up, don't let it hold you up.
+[00:29:07 -> 00:29:09]  Just dedicate yourself to it.
+[00:29:09 -> 00:29:13]  It might take a little bit more work, but get right into it and you'll do fine.
+[00:29:13 -> 00:29:18]  So another common question is, will the security plus alone get you a job?
+[00:29:18 -> 00:29:20]  This is a really hard one.
+[00:29:20 -> 00:29:22]  It obviously depends on the times that we're in.
+[00:29:22 -> 00:29:28]  If there's a serious boom in your area for cybersecurity professionals, or if there's
+[00:29:28 -> 00:29:33]  an organization that's, for example, looking for security plus candidates for a specific
+[00:29:33 -> 00:29:39]  task or for a specific client that they have to onboard for very quickly.
+[00:29:39 -> 00:29:45]  But in general, if you just have nothing other than the security plus, it will be hard to
+[00:29:45 -> 00:29:47]  get a job with just that.
+[00:29:47 -> 00:29:51]  If you're in this situation, I'd recommend further building up your resume with some
+[00:29:51 -> 00:29:59]  more certifications, getting involved with some community projects, and also just being
+[00:29:59 -> 00:30:03]  able to find some other way because you've demonstrated your paper knowledge at this
+[00:30:03 -> 00:30:08]  point with the security plus, but I would come up with a way to demonstrate your hands
+[00:30:08 -> 00:30:09]  on knowledge.
+[00:30:09 -> 00:30:14]  So contributing to a project or just even producing content on the internet, just something
+[00:30:14 -> 00:30:20]  you can really show other than the sign off from CompTIA.
+[00:30:20 -> 00:30:26]  So because I had so many questions about timeframe on my last video, I wanted to end off this
+[00:30:26 -> 00:30:31]  video with kind of just providing a good timeframe, a comfortable timeframe for you
+[00:30:31 -> 00:30:38]  to accomplish all the information and material that is needed for this exam.
+[00:30:38 -> 00:30:42]  So I've had a lot of fun putting this infographic together.
+[00:30:42 -> 00:30:46]  It can be seen on my blog that I'm going to link and I might put it in a pinned comment
+[00:30:46 -> 00:30:51]  or I'll put it in the description, but we're just going to walk through the different phases
+[00:30:52 -> 00:30:59]  so you know as a general timeline of where you should be at during certain parts of preparation.
+[00:30:59 -> 00:31:02]  So like we talked about before, week zero.
+[00:31:02 -> 00:31:07]  Week zero, you're going to, before you even crack open the book, you're going to schedule
+[00:31:07 -> 00:31:08]  the exam.
+[00:31:08 -> 00:31:15]  You're going to schedule the exam and you're going to buy the book, the course, and the
+[00:31:15 -> 00:31:20]  practice exams all in the first week so there's no questions, so you're all ready to roll
+[00:31:20 -> 00:31:23]  come the next week.
+[00:31:23 -> 00:31:28]  Week one through three is a good time to really get your hands in this book and just to go
+[00:31:28 -> 00:31:32]  through the book and give it an initial pass.
+[00:31:32 -> 00:31:38]  Try to understand all the areas that you struggled on in the initial assessment in these first
+[00:31:38 -> 00:31:39]  couple weeks.
+[00:31:39 -> 00:31:46]  So I would suggest that a good timeframe to actually finish this book is three weeks.
+[00:31:46 -> 00:31:49]  After three weeks, it's time to move on to the video course.
+[00:31:50 -> 00:31:54]  Video courses, like we know, are a lot quicker than reading the book and it's going to be
+[00:31:54 -> 00:31:59]  information that you're already familiar with, so I would give yourself about one week.
+[00:31:59 -> 00:32:03]  So week four, I would suggest watching the Pluralsight course.
+[00:32:03 -> 00:32:07]  So week five, the objective of this week is solely just a practice.
+[00:32:07 -> 00:32:11]  You put in the work, you understand the materials pretty well, and this week you're just going
+[00:32:11 -> 00:32:13]  to practice, practice, practice.
+[00:32:13 -> 00:32:18]  Get your hands on as many practice exams and practice questions as possible.
+[00:32:18 -> 00:32:23]  If you burn through all of them, like I did when I was doing this exam, take my tip where
+[00:32:23 -> 00:32:28]  I mentioned breaking the exam down into four or five different sub-questions and reasoning
+[00:32:28 -> 00:32:33]  why each multiple choice question is the wrong answer and it doesn't fit.
+[00:32:33 -> 00:32:36]  So finally, you're ready for the exam.
+[00:32:36 -> 00:32:39]  I would say just don't cram before the exam.
+[00:32:39 -> 00:32:43]  It's really not going to help you that much, and like I said before, I'm not going to point
+[00:32:43 -> 00:32:47]  out those obvious things like eat a good breakfast or get a good night's sleep.
+[00:32:47 -> 00:32:53]  But the one thing I want to tell you about exam day is don't let anything knock you off
+[00:32:53 -> 00:32:54]  your game.
+[00:32:54 -> 00:32:58]  If the simulations give you problems, when I was taking both CompTIA exams, the COSA
+[00:32:58 -> 00:33:02]  Plus and the Security Plus, I had issues with both simulations.
+[00:33:02 -> 00:33:04]  Don't let them knock you off your game.
+[00:33:04 -> 00:33:06]  It's going to happen.
+[00:33:06 -> 00:33:10]  At the end or during the exam, you can tell the proctor, and then afterwards you can let
+[00:33:10 -> 00:33:12]  CompTIA know.
+[00:33:12 -> 00:33:17]  So if there is a problem, just don't let it knock you off your game, and that's this one
+[00:33:17 -> 00:33:22]  little problem is not going to make or break your final score, but it could mess up your
+[00:33:22 -> 00:33:24]  mindset enough to actually mess you up.
+[00:33:24 -> 00:33:26]  So we made it through the ultimate guide.
+[00:33:26 -> 00:33:31]  I really hope that you were able to find some valuable information from this guide, and
+[00:33:31 -> 00:33:34]  please let me know if this helped, if you found some value.
+[00:33:34 -> 00:33:38]  Provide some other value in the comments section if you think I missed something.
+[00:33:38 -> 00:33:43]  I did a way more in-depth version of this on my blog at Cyber Career School, and I call
+[00:33:43 -> 00:33:46]  it the Ultimate Security Plus Study Guide.
+[00:33:46 -> 00:33:51]  Also, like I said before, I really want to hear from you if you passed the exam and you
+[00:33:51 -> 00:33:57]  found this helpful, so put that in the comments, and otherwise, please give this video a like
+[00:33:57 -> 00:33:59]  and consider subscribing if you're not.
+[00:33:59 -> 00:34:02]  Thanks for sticking with me all the way through it, and I'll see you next time.
+[00:34:02 -> 00:34:03]  Good luck.

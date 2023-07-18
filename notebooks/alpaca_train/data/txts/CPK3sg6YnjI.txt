@@ -1,0 +1,108 @@
+[00:00:00 -> 00:00:06]  The year is 1992, and Wiprosoft Windows 96 is in the dawn of its development, but suddenly
+[00:00:06 -> 00:00:11]  you are approached by Gilbate, the chairman of Wiprosoft at the time, and he requests
+[00:00:11 -> 00:00:16]  that you recreate the ever-popular Wiprosoft Paint, brand new from scratch, for the brand
+[00:00:16 -> 00:00:17]  new operating system.
+[00:00:17 -> 00:00:21]  Answer Gilbate's wishes, and begin creating this program, which will allow users to paint
+[00:00:21 -> 00:00:24]  little pictures for Wiprosoft Windows.
+[00:00:24 -> 00:00:27]  And so far it's going pretty great, you open a window and make it so you can left-click
+[00:00:27 -> 00:00:31]  to paint pictures, and right-click to erase.
+[00:00:31 -> 00:00:35]  But suddenly Gilbate's come sliding back, and he says to you, don't forget that paint
+[00:00:35 -> 00:00:39]  should also have the pencil tool, the eraser tool, the spray tool, the text tool, and the
+[00:00:39 -> 00:00:42]  one that lets you draw many different shapes in that.
+[00:00:42 -> 00:00:44]  That's quite a lot of stuff.
+[00:00:44 -> 00:00:47]  So you create a bunch of buttons for these tools, and immediately think about how you
+[00:00:47 -> 00:00:56]  can actually implement them all, given that right now, only the paint tool is supported.
+[00:00:56 -> 00:01:00]  Looking at what you've already done, which was create a function for the paintbrush tool,
+[00:01:00 -> 00:01:03]  you realise that you could just create a function for the other tools as well.
+[00:01:03 -> 00:01:07]  But first of all, you create an enum for the tooltypes, containing a constant for each
+[00:01:07 -> 00:01:09]  one that you wish to implement.
+[00:01:09 -> 00:01:12]  And then using the buttons from the toolbar from earlier, you make it so that when you
+[00:01:12 -> 00:01:17]  click one of the buttons, it switches to a tooltype, depending on which button you clicked.
+[00:01:17 -> 00:01:21]  And then inside of the if statement, which checks if the left mouse button is being pressed,
+[00:01:21 -> 00:01:24]  we can have a switch statement for the different tooltypes.
+[00:01:24 -> 00:01:28]  And it's from here where the different tooltype functions will be called from.
+[00:01:28 -> 00:01:32]  Now all that was left to do was implement the rest of the tooltypes, such as the paintbrush,
+[00:01:32 -> 00:01:37]  which was already made, the pencil tool, the spray tool, and the fill tool, all of which
+[00:01:37 -> 00:01:41]  are getting called from the same giant switch statement, which is starting to look a little
+[00:01:41 -> 00:01:45]  bit messy by this point, and maybe even a little bit unmaintainable.
+[00:01:45 -> 00:01:48]  But despite all this, you go to the test set, you run the program, and you see it's all
+[00:01:48 -> 00:01:53]  working perfectly fine, so you know, the bad code's not so much of a big deal, right?
+[00:01:53 -> 00:01:58]  Yeah, no, this is pretty bad actually, let's take a close look at the code so we can really
+[00:01:58 -> 00:02:03]  understand why this is, and then why the strategy design pattern can save the code.
+[00:02:03 -> 00:02:07]  So first of all, this is the code that checks if a button is clicked, and then changes the
+[00:02:07 -> 00:02:09]  tool that the user is using.
+[00:02:09 -> 00:02:13]  While this code isn't that bad, it is quite repeated, and so there's probably a better
+[00:02:13 -> 00:02:15]  way to do this.
+[00:02:15 -> 00:02:19]  The switch statement here calls the different functions for the different tooltypes, depending
+[00:02:19 -> 00:02:21]  on which one the user is currently using.
+[00:02:21 -> 00:02:25]  For now there's only 5 cases, but what if we added a lot more tools, then this would
+[00:02:25 -> 00:02:28]  just become ridiculously long and unmaintainable.
+[00:02:28 -> 00:02:33]  We then have the square tool and the line tool, and these require knowing where the
+[00:02:33 -> 00:02:37]  left mouse button was first clicked on the canvas, and then where the left mouse button
+[00:02:37 -> 00:02:39]  was then released on the canvas.
+[00:02:39 -> 00:02:43]  Furthermore, they both require you to sort of draw a preview of the line or square before
+[00:02:43 -> 00:02:46]  they're actually drawn onto the canvas.
+[00:02:46 -> 00:02:51]  As of this, the implementation of these tools is sort of split between two places, the first
+[00:02:51 -> 00:02:55]  place being where the functions for these different tooltypes is actually called from,
+[00:02:55 -> 00:03:00]  and the second place being where the preview of the line and the square is actually drawn.
+[00:03:00 -> 00:03:03]  And this is bad, because it means if you want to find the implementation of these tooltypes,
+[00:03:03 -> 00:03:08]  then it means you have to go to two completely different locations in the code.
+[00:03:08 -> 00:03:12]  The final main reason why this code is not so good is because it's basically just one
+[00:03:12 -> 00:03:16]  giant multi-level nested switch statement, which eventually will just become to be very
+[00:03:16 -> 00:03:17]  unreadable.
+[00:03:18 -> 00:03:22]  But now for the question, what exactly is the strategy design pattern, and how can it
+[00:03:22 -> 00:03:24]  improve this code?
+[00:03:24 -> 00:03:28]  The basic idea is it just allows you to select an algorithm during the runtime of a program
+[00:03:28 -> 00:03:31]  that fit the needs of whatever's going on with the current time.
+[00:03:31 -> 00:03:35]  How this works is you have some base class or interface known as a strategy, which is
+[00:03:35 -> 00:03:38]  then used by some other part of the program.
+[00:03:38 -> 00:03:42]  And then classes will implement the strategy interface, of which is able to be used by
+[00:03:42 -> 00:03:45]  the main program, as well as switch between during runtime.
+[00:03:45 -> 00:03:49]  For example, at the start of the program they might be using strategy 1, and then they
+[00:03:49 -> 00:03:55]  might use strategy 2, strategy 3, and then they might go back to strategy 1 a bit later.
+[00:03:55 -> 00:03:59]  In terms of the paint program, the strategy would be any tooltype, and this would be used
+[00:03:59 -> 00:04:02]  by the main program like in the previous example.
+[00:04:02 -> 00:04:06]  And then the different implementations of the strategy would be the different tooltypes
+[00:04:06 -> 00:04:09]  like the paint tool, the fill tool, or the spray tool.
+[00:04:09 -> 00:04:12]  These different strategies would be switched between as the user clicks on the different
+[00:04:12 -> 00:04:14]  tool buttons on the toolbar.
+[00:04:14 -> 00:04:18]  For instance, clicking on the paintbrush button would switch the program to begin using
+[00:04:18 -> 00:04:22]  the paintbrush strategy, or clicking on the spray can button would switch the program
+[00:04:22 -> 00:04:24]  to begin using the spray can.
+[00:04:24 -> 00:04:28]  So now that the strategy pattern is hopefully understood, let's actually begin implementing
+[00:04:28 -> 00:04:34]  it in the code.
+[00:04:34 -> 00:04:38]  To begin with the implementation, I created a tooltype strategy base class which would
+[00:04:38 -> 00:04:40]  act as an interface for the different tooltypes.
+[00:04:40 -> 00:04:44]  These were pure virtual functions for handling the different mouse events such as clicking
+[00:04:44 -> 00:04:49]  or moving, as well as a function for rendering a preview as needed, for example the line
+[00:04:49 -> 00:04:50]  and square tools.
+[00:04:50 -> 00:04:54]  To follow up, I created a bunch of classes for the different tooltypes where each one
+[00:04:54 -> 00:04:56]  would implement the functions of the interface.
+[00:04:56 -> 00:05:00]  I then wrote the file for each tooltype, and then moved the implementation of each one
+[00:05:00 -> 00:05:04]  from the main file into their respective strategy class implementation.
+[00:05:04 -> 00:05:08]  After each tooltype was neatly organised into their own file, it meant I could begin cleaning
+[00:05:08 -> 00:05:12]  up the main file, starting by getting rid of the tooltype functions as these had now
+[00:05:12 -> 00:05:13]  been moved.
+[00:05:13 -> 00:05:17]  However, in order to actually use the new tooltype implementations, I first have to
+[00:05:17 -> 00:05:22]  create an object of type tooltype strategy, which is the interface that they all implement.
+[00:05:22 -> 00:05:26]  And it's from this object that I will be able to call the different functions from such
+[00:05:26 -> 00:05:30]  as handling the mouse being moved, or the mouse being clicked.
+[00:05:30 -> 00:05:33]  And by default it's just going to be using the paintbrush strategy.
+[00:05:33 -> 00:05:37]  And then to change the strategy, clicking on the buttons in the toolbar no longer changes
+[00:05:37 -> 00:05:43]  an enum, but rather changes the strategy class the current tool object currently is.
+[00:05:43 -> 00:05:47]  So now that I have this strategy class object, it means that code that previously looked
+[00:05:47 -> 00:05:51]  like this can now be shortened to code that looks like this, where the function called
+[00:05:51 -> 00:05:57]  to handleMouseMove would use whatever strategy the object currently is using, thanks to polymorphism.
+[00:05:57 -> 00:06:02]  And the code that was previously for rendering the preview of the line and square tool that
+[00:06:02 -> 00:06:06]  used to look like this, now looks like this instead, which is a lot shorter and a lot
+[00:06:06 -> 00:06:07]  more readable.
+[00:06:07 -> 00:06:11]  And when you go to actually run the program, test it out, you'll notice that it's just
+[00:06:11 -> 00:06:13]  exactly the same as it was before.
+[00:06:13 -> 00:06:18]  And that's because the logic of the code hasn't really changed, it's just been better organised.
+[00:06:18 -> 00:06:23]  So anyways, that is the strategy design pattern, and I hope you enjoyed the video!
+[00:06:23 -> 00:06:28]  Quick shoutout to my Patreon supporters, thank you Killo Crazyman, Hayden, Timothy Gibbons,
+[00:06:28 -> 00:06:34]  Timo Schrader, Alan Fernandez, Michael Kirsch, Lucas Starenberger, Neil Blakely Milner, and
+[00:06:34 -> 00:06:35]  Nate Brown.
+[00:06:35 -> 00:06:37]  Thank you all very much for the support.
+[00:06:37 -> 00:06:41]  Anyway, again, thank you for watching, link to the source code and other links are in
+[00:06:41 -> 00:06:43]  the description below, and goodbye!

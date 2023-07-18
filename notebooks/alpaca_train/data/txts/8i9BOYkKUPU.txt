@@ -1,0 +1,287 @@
+[00:00:00 -> 00:00:15]  ¿Qué es la teoría de la información?
+[00:00:15 -> 00:00:19]  El universo se describe convencionalmente en términos de cantidades físicas, como
+[00:00:19 -> 00:00:25]  la masa y la velocidad, pero una cantidad al menos tan importante como éstas es la
+[00:00:25 -> 00:00:32]  información. Ya sea que consideremos las computadoras, la evolución, la física, la
+[00:00:32 -> 00:00:40]  inteligencia artificial, la computación cuántica o el cerebro, llegamos inexorablemente a la
+[00:00:40 -> 00:00:46]  conclusión de que sus comportamientos están determinados en gran medida por la forma en
+[00:00:46 -> 00:00:59]  que procesa la información. En 1948, Claude Shannon publicó un artículo titulado Una
+[00:00:59 -> 00:01:05]  teoría matemática de la comunicación. Este artículo anunció una transformación en
+[00:01:05 -> 00:01:11]  nuestra comprensión de la información. Antes del artículo de Shannon, la información
+[00:01:11 -> 00:01:18]  se consideraba como una especie de fluido miasmático mal definido. Pero después del
+[00:01:18 -> 00:01:24]  artículo de Shannon, se hizo evidente que la información es una cantidad bien definida
+[00:01:24 -> 00:01:32]  y sobre todo, medible. El artículo de Shannon describe la teoría sutil que nos dice algo
+[00:01:32 -> 00:01:38]  fundamental sobre la forma en que funciona el universo. Sin embargo, a diferencia de
+[00:01:38 -> 00:01:45]  otras grandes teorías como la teoría de la evolución de Darwin Wallace, la teoría de la
+[00:01:45 -> 00:01:52]  información no es simple y está llena de advertencias. Pero podemos pasar por alto muchas
+[00:01:52 -> 00:02:00]  de estas advertencias siempre que mantengamos un ojo firme en la interpretación física de las
+[00:02:00 -> 00:02:05]  ecuaciones definitorias de la teoría de la información. Este será nuestro principio
+[00:02:05 -> 00:02:10]  rector en la exploración de la teoría de la información.
+[00:02:13 -> 00:02:19]  Información, ojos y evolución. La teoría de la información de Shannon proporciona una definición
+[00:02:19 -> 00:02:25]  matemática de la información y describe con precisión cuánta información se puede comunicar
+[00:02:25 -> 00:02:32]  entre los diferentes elementos de un sistema. Puede que esto no parezca mucho, pero la teoría
+[00:02:32 -> 00:02:39]  de Shannon respalda nuestra comprensión de cómo se relacionan las señales y el ruido y por qué
+[00:02:39 -> 00:02:44]  existen límites definidos en la velocidad a la que se puede comunicar la información dentro de
+[00:02:44 -> 00:02:52]  cualquier sistema, ya sea biológico o creado por el hombre. Representa uno de los pocos ejemplos
+[00:02:52 -> 00:02:59]  de una sola teoría que crea un campo de investigación completamente nuevo. En este
+[00:02:59 -> 00:03:07]  sentido, la teoría de Shannon se ubica junto a las de Darwin Wallace, Newton, e Einstein.
+[00:03:09 -> 00:03:16]  Cuando se escribe una pregunta en un motor de búsqueda de computadora, los resultados brindan
+[00:03:16 -> 00:03:25]  información útil, pero está enterrada en un mar de datos en su mayoría inútiles. En esta era de
+[00:03:25 -> 00:03:32]  internet es fácil para nosotros apreciar la diferencia entre información y datos, y hemos
+[00:03:32 -> 00:03:39]  aprendido a tratar la información como una señal útil y el resto como un ruido que distrae.
+[00:03:41 -> 00:03:48]  Esta experiencia ahora es tan común que frases técnicas como relación-señal-ruido se están
+[00:03:48 -> 00:03:53]  convirtiendo en parte del lenguaje cotidiano. Aunque la mayoría de las personas desconocen
+[00:03:53 -> 00:04:00]  el significado preciso de esta frase, tienen una comprensión intuitiva de la idea de que
+[00:04:00 -> 00:04:10]  datos significa una combinación de señales útiles y ruido inútil. La capacidad de separar la señal
+[00:04:10 -> 00:04:17]  del ruido, de extraer información de los datos, es crucial para las telecomunicaciones modernas.
+[00:04:18 -> 00:04:25]  Por ejemplo, permite que una imagen de televisión se comprima hasta su mínima expresión y se
+[00:04:25 -> 00:04:35]  transmita a un satélite, luego a un televisor, y antes de descomprimirse para revelar la imagen
+[00:04:35 -> 00:04:47]  original en la pantalla del televisor. Este tipo de escenario también es omnipresente en el mundo
+[00:04:47 -> 00:04:53]  natural. La capacidad de los ojos y los oídos para extraer señales útiles de datos sensoriales
+[00:04:53 -> 00:04:59]  ruidosos y empaquetar estas señales de manera eficiente es la clave para la supervivencia.
+[00:04:59 -> 00:05:06]  De hecho, la hipótesis de la codificación eficiente sugiere que la evolución de los órganos,
+[00:05:06 -> 00:05:13]  de los sentidos y de los cerebros que procesan los datos de esos órganos está impulsada
+[00:05:13 -> 00:05:18]  principalmente por la necesidad de minimizar la energía gastada por cada bit de información
+[00:05:18 -> 00:05:27]  adquirido del entorno. De manera más general, una rama particular de la ciencia del cerebro,
+[00:05:27 -> 00:05:33]  la neurociencia computacional, se basa en la teoría de la información para proporcionar un
+[00:05:33 -> 00:05:40]  punto de referencia contra el cual se puede medir objetivamente el rendimiento de las neuronas.
+[00:05:41 -> 00:05:46]  En una escala biológica mayor, la capacidad de separar la señal del ruido es fundamental
+[00:05:46 -> 00:05:52]  para la teoría de la evolución de Darwin Wallace por la selección natural. La evolución funciona
+[00:05:52 -> 00:05:58]  seleccionando a los individuos que mejor se adaptan a un entorno particular de modo que,
+[00:05:58 -> 00:06:04]  a lo largo de muchas generaciones, la información sobre el medio ambiente se acumula gradualmente
+[00:06:04 -> 00:06:12]  en el acervo genético. Por lo tanto, la selección natural es esencialmente un medio por el cual la
+[00:06:12 -> 00:06:23]  información sobre el medio ambiente se incorpora al ADN, ácido desoxirribonucleico, y parece probable
+[00:06:23 -> 00:06:29]  que la velocidad a la que se incorpora la información al ADN se acelere por un antiguo
+[00:06:29 -> 00:06:42]  misterio biológico, el sexo. Encontrar una ruta bit a bit. La información generalmente se mide en
+[00:06:42 -> 00:06:50]  bits. Un bit de información le permite elegir entre dos alternativas igualmente probables. La
+[00:06:50 -> 00:06:59]  palabra bit se deriva de binary digits, las dos primeras letras de binary y las dos últimas
+[00:07:00 -> 00:07:12]  letras de digit. Digito binario es decir un 0 o un 1. Sin embargo, como veremos, los bits y los
+[00:07:12 -> 00:07:19]  dígitos binarios son tipos de entidades fundamentalmente diferentes. Imagina que
+[00:07:19 -> 00:07:27]  estás parado en la bifurcación del camino en el punto A en la figura siguiente. En este punto
+[00:07:28 -> 00:07:36]  hay dos opciones, una bifurcación y quieres llegar al punto marcado como D. Quieres llegar a
+[00:07:36 -> 00:07:45]  este punto D. Ten en cuenta que esta figura representa una vista amplia, que no tienes.
+[00:07:47 -> 00:07:51]  Todo lo que tienes es una decisión que tomar.
+[00:07:51 -> 00:07:58]  Si no tiene información previa sobre qué camino elegir, la bifurcación en A representa dos
+[00:07:58 -> 00:08:05]  alternativas igualmente probables. Si te digo que vayas a la izquierda, entonces has recibido un
+[00:08:05 -> 00:08:14]  poco de información. Si representamos mi instrucción como un dígito binario que 0 es igual a izquierda
+[00:08:14 -> 00:08:21]  y 1 igual a derecha, entonces este dígito binario le proporciona un bit de información que le
+[00:08:21 -> 00:08:32]  indica qué camino elegir. Estás en el punto A, solo un bit de información, el 0, te puede indicar
+[00:08:32 -> 00:08:41]  que vayas hacia la izquierda. Ahora imagina que sigues andando por la carretera y llegas a otra
+[00:08:41 -> 00:08:48]  bifurcación, en el punto B de la figura. Ahora estamos en el punto B.
+[00:08:48 -> 00:08:58]  Nuevamente, debido a que no tiene idea de qué camino elegir, un dígito binario 1, que es igual a derecha,
+[00:08:58 -> 00:09:05]  proporciona un poco de información, lo que permite elegir el camino correcto, que conduce al punto
+[00:09:05 -> 00:09:16]  marcado C. Estás en este punto, en el punto B, es otra bifurcación, el número 1 te indica que vayas
+[00:09:16 -> 00:09:25]  a la derecha y llegas al punto C. Tenga en cuenta que C es uno de los cuatro posibles destinos
+[00:09:25 -> 00:09:31]  intermedios a los que podría haber llegado después de tomar dos decisiones.
+[00:09:31 -> 00:09:41]  Bien, en la primera decisión, y es el punto A, la segunda decisión en el punto B, en la segunda decisión
+[00:09:41 -> 00:09:57]  se permiten cuatro puntos posibles. Uno, dos, tres, cuatro. Con dos decisiones hay cuatro puntos
+[00:09:58 -> 00:10:07]  posibles. Los dos dígitos binarios que le permiten tomar las decisiones correctas proporcionaron dos bits
+[00:10:07 -> 00:10:17]  de información, permitiéndole elegir entre cuatro alternativas posibles, igualmente probables. Cuatro pasa a ser
+[00:10:17 -> 00:10:35]  igual a dos por dos o dos elevado al cuadrado. Es decir, una base binaria que es dos elevado al cuadrado,
+[00:10:35 -> 00:10:55]  que son dos decisiones que permite cuatro posibles destinos. Un tercer dígito binario, un uno que es igual a derecha,
+[00:10:55 -> 00:11:04]  le proporciona un poco más de información, lo que le permite elegir de nuevo el camino correcto que conduce
+[00:11:04 -> 00:11:19]  al punto marcado D. Bueno, desde el punto C hay otra bifurcación, y uno, que significa derecha, nos permite llegar al lugar
+[00:11:19 -> 00:11:37]  deseado, al punto D. Y aquí está la secuencia 0, 1, 1. La primera decisión fue 0, la segunda decisión fue 1, y la tercera decisión fue otra vez 1.
+[00:11:37 -> 00:11:57]  0, 1, 1. Esta es la información para llegar al punto D. Bueno, aquí tienen el 0 decimal mostrado en binario, el 1 decimal mostrado en binario,
+[00:11:57 -> 00:12:24]  el 2 en binario, 3, 4, 5, 6, y al final el 7, el 7 decimal mostrado en binario. Vean que del 0 decimal al 7 decimal tenemos ocho posibilidades,
+[00:12:24 -> 00:12:41]  porque se toman tres decisiones, 1, 2 y 3. Entonces 2, que es la base binaria elevado al cubo, que son las tres decisiones, tiene ocho posibles destinos.
+[00:12:41 -> 00:12:54]  ¿Cuántos caminos debe recorrer un hombre? Para un viajero que no conoce el camino, cada bifurcación del camino requiere un poco de información para tomar una decisión correcta.
+[00:12:54 -> 00:13:11]  Los ceros y los unos del lado derecho resumen las instrucciones necesarias para llegar a cada destino. Todos estos ceros y unos a la derecha muestran la información para llegar a estos destinos.
+[00:13:11 -> 00:13:34]  Un giro a la izquierda se indica con un 0 y un giro a la derecha con un 1. Ahora hay ocho caminos que podría haber elegido cuando comenzó en A, por lo que tres dígitos binarios que le brindan tres bits de información le permiten elegir entre ocho alternativas igualmente probables.
+[00:13:35 -> 00:13:53]  Sería 2 al cubo igual a 8. Es decir, la base binaria 2, porque solo tenemos dos alternativas, en cada bifurcación solo hay dos opciones, por eso es base binaria 2.
+[00:13:54 -> 00:14:05]  La potencia 3 es el número de decisiones que se tienen que tomar, y 2 al cubo es 8, 8 son los posibles destinos.
+[00:14:05 -> 00:14:23]  La decisión tomada en A excluyó la mitad de los ocho destinos posibles que se muestran en la figura a los que podría haber llegado. Del mismo modo, la decisión tomada en cada bifurcación sucesiva del camino redujo a la mitad el número de posibles destinos restantes.
+[00:14:24 -> 00:14:43]  Es decir, cuando tomaron la decisión en A de ir hacia la izquierda, entonces descarta todas las otras posibilidades de acá abajo, que son cuatro.
+[00:14:44 -> 00:14:54]  Cuando tomaron una decisión en B de ir hacia la derecha, descartó las posibilidades de este lado, que son dos.
+[00:14:56 -> 00:15:06]  Y cuando tomaron una decisión en C, descartó esta única posibilidad, que era una.
+[00:15:06 -> 00:15:13]  Es decir, cada vez que tomó una decisión va descartando la mitad de los destinos posibles.
+[00:15:16 -> 00:15:23]  Un viaje de 8 alternativas. Resumamos un viaje en términos del número de alternativas igualmente probables.
+[00:15:24 -> 00:15:41]  Si se tiene un bit de información, se puede elegir entre dos alternativas igualmente probables, que es dos alternativas con un bit de información o con una decisión, es igual dos a la uno, es igual a dos.
+[00:15:42 -> 00:15:48]  Si se tiene dos bits de información, se puede elegir entre cuatro alternativas igualmente probables.
+[00:15:49 -> 00:16:10]  Es decir, la base binaria, que son dos alternativas que se tiene en cada bifurcación, elevado al cuadrado, que son dos bits, que serían dos decisiones que se toman, se producen cuatro alternativas igualmente probables.
+[00:16:11 -> 00:16:19]  Y también si tienes tres bits de información, puedes elegir entre ocho alternativas igualmente probables, dos al cubo o ocho.
+[00:16:23 -> 00:16:33]  Dos alternativas elevadas al cubo, que son tres decisiones o tres bits, es igual a ocho posibles alternativas.
+[00:16:34 -> 00:16:48]  Podemos reformular esto en términos más generales, si usamos n para representar el número de bifurcaciones y m para representar el número de destinos finales.
+[00:16:48 -> 00:17:02]  Si ha llegado a n bifurcaciones, entonces ha elegido efectivamente m destinos finales, y m es igual a dos a la n.
+[00:17:02 -> 00:17:22]  M, los probables destinos finales, 2, que estamos en base binaria, que siempre son dos alternativas, es una bifurcación, y n, el número de bits o decisiones.
+[00:17:23 -> 00:17:39]  Debido a que la decisión en cada bifurcación requiere un bit de información, n bifurcaciones requieren n bits de información, lo que le permite elegir entre dos a la n alternativas igualmente probables.
+[00:17:39 -> 00:17:55]  Un viaje de mil millas comienza con un solo paso. De hecho, un viaje de mil millas comienza con una única decisión, la dirección en la que da el primer paso.
+[00:17:56 -> 00:18:04]  Un bit es la cantidad de información requerida para elegir entre dos alternativas igualmente probables.
+[00:18:04 -> 00:18:17]  Por eso es base binaria, porque un bit te indica elegir entre dos alternativas.
+[00:18:18 -> 00:18:30]  Los números binarios podríamos etiquetar cada uno de los ocho destinos posibles con un número decimal entre el cero y el siete, o con el número binario equivalente.
+[00:18:31 -> 00:18:39]  Acá lo muestra la tabla, los decimales arriba y los binarios abajo.
+[00:18:40 -> 00:18:47]  Se deben usar los métodos conocidos para hacer las conversiones y representaciones de números binarios.
+[00:18:47 -> 00:19:05]  Los logaritmos. La complejidad de cualquier viaje puede representarse como el número de posibles destinos finales o como el número de bifurcaciones en el camino que deben atravesarse para llegar a un destino determinado.
+[00:19:06 -> 00:19:12]  Sabemos que a medida que aumenta el número de bifurcaciones también aumenta el número de destinos posibles.
+[00:19:12 -> 00:19:23]  Como ya hemos visto, si hay tres bifurcaciones entonces hay ocho destinos posibles, que es dos elevado al cubo.
+[00:19:24 -> 00:19:35]  Visto desde otra perspectiva, si hay m que es igual a ocho destinos posibles, ¿cuántas bifurcaciones n implica esto?
+[00:19:36 -> 00:19:44]  En otras palabras, dados ocho destinos, ¿qué potencia de dos se requiere para obtener ocho?
+[00:19:45 -> 00:19:53]  En este caso sabemos que la respuesta es n igual a tres, porque dos al cubo es igual a ocho.
+[00:19:54 -> 00:20:05]  Pero esto se le llama el logaritmo de ocho, por lo tanto el logaritmo de ocho en base dos es igual a tres.
+[00:20:06 -> 00:20:10]  Es el número de bifurcaciones implícitas en ocho destinos.
+[00:20:10 -> 00:20:25]  Entonces cuando queremos saber el número de destinos posibles, que es esta letra m, simplemente tenemos la base dos, la base binaria,
+[00:20:26 -> 00:20:36]  lo elevamos al número de bits, o número de decisiones, o número de bifurcaciones,
+[00:20:36 -> 00:20:42]  y podemos conocer el valor de m.
+[00:20:43 -> 00:20:57]  Pero al revés, la operación inversa, cuando queremos conocer n, queremos conocer el número de bifurcaciones, o el número de bits, o el número de decisiones,
+[00:20:57 -> 00:21:15]  pero conocemos el número de posibles destinos, entonces simplemente hallamos el logaritmo de m, el logaritmo de los posibles destinos en base dos.
+[00:21:15 -> 00:21:40]  Acá tenemos que es igual a n, la base dos pasa al otro miembro de la ecuación como base, y la n pasa como potencia, y queda m igual dos a la n.
+[00:21:41 -> 00:21:50]  El subíndice dos indica que estamos usando logaritmos en base dos, que es la base binaria.
+[00:21:51 -> 00:21:56]  Un viaje de decisiones de logaritmo de ocho en base dos.
+[00:21:57 -> 00:22:03]  Ahora que conocemos los logaritmos, podemos resumir su viaje desde una perspectiva diferente en términos de bits.
+[00:22:03 -> 00:22:15]  Si tiene que elegir entre dos alternativas igualmente probables, es decir dos a la uno, entonces necesita un bit de información.
+[00:22:16 -> 00:22:32]  Es decir, simplemente a las dos alternativas, a los dos destinos posibles, le hallan el logaritmo en base dos, el resultado es uno, un bit de información.
+[00:22:33 -> 00:22:38]  O tomar sólo una decisión, o que existe sólo una bifurcación.
+[00:22:39 -> 00:22:53]  Si tiene que elegir entre cuatro alternativas igualmente probables, o cuatro destinos igualmente probables, es decir dos al cuadrado, entonces necesita dos bits de información.
+[00:22:54 -> 00:23:15]  Eso quiere decir que a los cuatro destinos posibles o alternativas igualmente probables, se le halla el logaritmo en base dos, y se tiene como resultado dos, que es el número de bifurcaciones, el número de bits, o el número de decisiones.
+[00:23:16 -> 00:23:25]  Igualmente, en el caso de ocho alternativas igualmente probables, se necesita tres bits de información.
+[00:23:27 -> 00:23:39]  En otras palabras, generalizando, si tiene que elegir entre M alternativas igualmente probables, entonces necesita N bits de información.
+[00:23:40 -> 00:23:50]  Simplemente se le halla el logaritmo de M, pero en base dos, para poder hallar el número de bits.
+[00:23:52 -> 00:24:01]  Si se tiene N bits de información, puede elegir entre M igual dos a la N alternativas igualmente probables.
+[00:24:02 -> 00:24:18]  Bueno, en Google buscamos Colab Google, y buscamos esta página, research.google.com.
+[00:24:19 -> 00:24:21]  Hacen clic acá.
+[00:24:22 -> 00:24:28]  Bueno, el sitio es colab.research.google.com.
+[00:24:32 -> 00:24:34]  Crean un nuevo notebook.
+[00:24:36 -> 00:24:38]  Un nuevo notebook, aquí abajo, hacen clic.
+[00:24:38 -> 00:24:43]  Bueno, y acá podemos ingresar el código en Python.
+[00:24:45 -> 00:24:57]  Acá pueden poner un nombre, por ejemplo, potencia y logaritmo.
+[00:24:58 -> 00:25:02]  Pero con extensión .ipynb.
+[00:25:03 -> 00:25:05]  La extensión no la borren.
+[00:25:07 -> 00:25:09]  Y el nombre no debe tener espacios.
+[00:25:11 -> 00:25:14]  De preferencia, recomiendo que no tenga espacios.
+[00:25:16 -> 00:25:18]  Bueno, aquí tenemos el código.
+[00:25:18 -> 00:25:20]  Y el nombre no debe tener espacios.
+[00:25:22 -> 00:25:25]  De preferencia, recomiendo que no tenga espacios.
+[00:25:36 -> 00:25:44]  Bueno, y aquí hay una celda, a esto se le llama celda, para agregar código.
+[00:25:45 -> 00:25:52]  Bueno, entonces, la función que hace el logaritmo proviene de una librería que se llama math.
+[00:25:53 -> 00:25:55]  Que es la librería matemática.
+[00:25:55 -> 00:26:00]  Entonces, ponen import math.
+[00:26:00 -> 00:26:02]  Importar la librería math.
+[00:26:05 -> 00:26:10]  Bueno, esta celda nos sirve para importar la librería.
+[00:26:10 -> 00:26:22]  Luego, cuando acercan el mouse aquí abajo de la celda, aparecen dos alternativas.
+[00:26:23 -> 00:26:28]  Si quieres ingresar código o ingresar texto, acá ponemos código.
+[00:26:29 -> 00:26:30]  Clic aquí.
+[00:26:31 -> 00:26:36]  Y aquí podemos hacer la operación de potencia.
+[00:26:36 -> 00:26:43]  Por ejemplo, que x sea igual a 2 al cubo.
+[00:26:45 -> 00:26:47]  La potencia la pueden hacer así.
+[00:26:49 -> 00:26:52]  Con dos asteriscos, significa 2 al cubo.
+[00:26:55 -> 00:26:58]  Y pueden imprimir x.
+[00:26:59 -> 00:27:02]  En Python, la función print.
+[00:27:02 -> 00:27:03]  La función print.
+[00:27:08 -> 00:27:11]  Te permite mostrar el contenido de x.
+[00:27:16 -> 00:27:20]  Entonces, acá ponemos correr.
+[00:27:21 -> 00:27:27]  Le ponemos acá en este símbolo de reproducir o play.
+[00:27:28 -> 00:27:29]  Hacen clic ahí.
+[00:27:31 -> 00:27:32]  Demora un poco.
+[00:27:34 -> 00:27:36]  Siempre en la primera demora un poco.
+[00:27:37 -> 00:27:43]  Si acá sale un aspa verde, indica que todo está bien.
+[00:27:44 -> 00:27:47]  Y ahora hacemos clic en esta otra celda.
+[00:27:48 -> 00:27:49]  Que hemos agregado.
+[00:27:50 -> 00:27:51]  Corremos.
+[00:27:53 -> 00:27:55]  Te muestra que el resultado es 8.
+[00:27:56 -> 00:27:57]  2 al cubo es 8.
+[00:27:58 -> 00:28:01]  Ese valor de 8 se le asigna a la x.
+[00:28:02 -> 00:28:04]  Imprimimos la x y te muestra 8.
+[00:28:05 -> 00:28:13]  Si no ponemos print, la x obtiene el valor de 8 pero nunca se muestra.
+[00:28:14 -> 00:28:17]  Y pueden aquí agregar más código.
+[00:28:19 -> 00:28:24]  Pueden decir que, por ejemplo, y es igual a...
+[00:28:26 -> 00:28:30]  Voy a usar el logaritmo mat.log
+[00:28:33 -> 00:28:37]  Que es la función de logaritmo.
+[00:28:38 -> 00:28:44]  De la librería mat.log obtengo la función log, que es el logaritmo.
+[00:28:45 -> 00:28:49]  Vamos a leer el logaritmo de 8 pero en base 2.
+[00:28:51 -> 00:28:57]  Es decir, acá pones el número y acá la base.
+[00:28:58 -> 00:28:59]  En base 2.
+[00:29:01 -> 00:29:03]  Ya saben que la respuesta es 3.
+[00:29:04 -> 00:29:07]  Ese valor de 3 se le va a asignar a y.
+[00:29:12 -> 00:29:14]  Voy a imprimir y.
+[00:29:17 -> 00:29:19]  Y se le va a asignar el valor de 3.
+[00:29:20 -> 00:29:22]  Y se le va a asignar el valor de 3.
+[00:29:23 -> 00:29:25]  Y se le va a asignar el valor de 3.
+[00:29:26 -> 00:29:28]  Y se le va a asignar el valor de 3.
+[00:29:29 -> 00:29:30]  Y se le va a asignar el valor de 3.
+[00:29:31 -> 00:29:35]  Ahora simplemente corremos y se nos muestra 3.
+[00:29:36 -> 00:29:37]  3.0
+[00:29:39 -> 00:29:41]  Pero también lo pueden hacer de otra forma.
+[00:29:41 -> 00:29:42]  Aquí en código.
+[00:29:42 -> 00:29:52]  Aquí en código, podemos tomar estas variables que hemos usado, la m que significa el número
+[00:29:52 -> 00:30:04]  de destinos posibles, y la n el número de bits o números de bifurcaciones o decisiones.
+[00:30:04 -> 00:30:24]  Entonces, pueden tener la variable n, n minúscula, le pueden asignar un valor, por ejemplo, 3,
+[00:30:24 -> 00:30:41]  y ya saben que la m sería igual a la base 2 elevado a la n, Enter, y proceden a imprimir la m.
+[00:30:41 -> 00:31:01]  Y acá abajo, en otra celda, es el proceso al revés, que conocen m, m pueden conocerla,
+[00:31:01 -> 00:31:06]  puede ser, por ejemplo, 8, pero quieren conocer n.
+[00:31:18 -> 00:31:20]  Ok, vamos a agrandar acá.
+[00:31:20 -> 00:31:47]  Pero quieren conocer n, entonces, allá en el logaritmo, de m, en base 2, bueno, y corren esta celda,
+[00:31:47 -> 00:32:01]  ya saben que, si n es 3, m será 8, corren esta otra celda, pero no se olviden de imprimir print,
+[00:32:01 -> 00:32:10]  hay que imprimir n en n, corremos esta celda, y se obtienen 3.
+[00:32:10 -> 00:32:31]  Pero, ¿qué pasa si tienen más bits, o qué pasa si son mayor el número de posibles destinos?
+[00:32:32 -> 00:32:56]  Por ejemplo, si tienen 10 bits, tienen 1024 posibles destinos, o posibilidades, y si m es, por ejemplo, 4096,
+[00:32:56 -> 00:33:13]  y le hagan el logaritmo de 4096 en base 2, tienen 12 bits, o 12 bifurcaciones, para 4096 posibles destinos.
+[00:33:13 -> 00:33:18]  Un millón de respuestas a 20 preguntas.
+[00:33:18 -> 00:33:27]  Navegar por una serie de bifurcaciones en el camino es, en algunos aspectos, similar al juego de 20 preguntas.
+[00:33:27 -> 00:33:39]  En este juego, tu oponente elige una palabra, generalmente un sustantivo, y tú puedes hacer 20 preguntas para descubrir la identidad de esa palabra.
+[00:33:40 -> 00:33:55]  Fundamentalmente, cada pregunta debe tener una respuesta de sí o no, es decir, un caso binario, y por lo tanto, le proporciono un máximo de 1 bit de información.
+[00:33:55 -> 00:34:08]  Por analogía con el ejemplo de la navegación, donde cada decisión en una bifurcación de la carretera redujo a la mitad el número de destinos restantes,
+[00:34:08 -> 00:34:15]  cada pregunta debería reducir a la mitad el número de palabras posibles restantes.
+[00:34:15 -> 00:34:21]  Al hacerlo, cada respuesta le proporciona exactamente 1 bit de información.
+[00:34:21 -> 00:34:34]  El juego de las 20 preguntas, aquí abreviado como 3 preguntas, en este gráfico, se muestra un juego solo de 3 preguntas,
+[00:34:34 -> 00:34:47]  dado un oponente que tiene una de 8 palabras en mente, cada pregunta de sí o no reduce a la mitad el número de palabras posibles restantes.
+[00:34:47 -> 00:34:54]  Cada número binario a la derecha resume la secuencia de respuestas necesarias para llegar a una palabra.
+[00:34:54 -> 00:35:01]  No será el 0 y sí será el 1.
+[00:35:01 -> 00:35:12]  Entonces, acá pueden ver un juego simplificado de solo 3 preguntas, q1 es la pregunta 1, q2 la pregunta 2 y q3 la pregunta 3.
+[00:35:12 -> 00:35:17]  Y en cada caso, solo la respuesta es un sí o un no.
+[00:35:17 -> 00:35:21]  El no es como el 0 y el sí será como el 1.
+[00:35:22 -> 00:35:41]  Aquí a la derecha tienen las alternativas, si tienen 3 decisiones o 3 preguntas, 2 al cubo son 8 posibles palabras o sustantivos.
+[00:35:41 -> 00:36:02]  En este juego, tu oponente tiene un vocabulario de exactamente 8 palabras, y tú sabes cuáles son.
+[00:36:03 -> 00:36:11]  Vas a saber las 8 palabras, pero no sabes cuál tiene en mente tu adversario.
+[00:36:11 -> 00:36:26]  Tu primera pregunta q1 podría ser, es inanimado, y la respuesta debería reducir a la mitad el número de palabras posibles, a 4.
+[00:36:26 -> 00:36:48]  Es decir, aquí en la q1, que es la pregunta 1, le puedes hacer la pregunta, como tú sabes que aquí hay 8 palabras, 8 sustantivos, pero no sabes cuál está en la mente de tu adversario.
+[00:36:49 -> 00:36:59]  Haces una pregunta y dices, es inanimado, y la respuesta de tu adversario será no.
+[00:36:59 -> 00:37:16]  Por lo tanto, descarta todos los objetos inanimados en este lado, que son un auto, un camión, etc.
+[00:37:19 -> 00:37:35]  Lo que llevaría a su segunda pregunta q2, si su segunda pregunta q2 es, es un mamífero, entonces la respuesta debería reducir nuevamente a la mitad del número de palabras posibles.
+[00:37:36 -> 00:37:58]  Entonces aquí en la segunda pregunta, en la segunda decisión, indica si es mamífero o no, y tu adversario te responde que sí es mamífero, entonces descarta el pez y el ave, se descarta la mitad de lo que quedaba.
+[00:37:59 -> 00:38:24]  Y para cuando llegue a la q3, solo quedan dos palabras posibles, y tu tercera pregunta puede ser, es un gato, entonces en este punto en q3 solo te quedan dos, que es perro y gato, dos alternativas.
+[00:38:25 -> 00:38:39]  Y tu le preguntas, es un gato, y si la respuesta es sí, entonces ya sabes que palabra tenía en mente tu adversario.
+[00:38:42 -> 00:38:46]  La respuesta sí o no de tu oponente lleva a la respuesta correcta.
+[00:38:47 -> 00:38:52]  Se han hecho tres preguntas y he excluido todas menos una de las ocho palabras posibles.
+[00:38:58 -> 00:39:05]  Un millón de respuestas a veinte preguntas, entonces de manera más realista supongamos que su oponente tiene el mismo vocabulario que usted.
+[00:39:06 -> 00:39:12]  La mayoría de nosotros tenemos vocabularios similares, por lo que esta suposición no es del todo irrazonable.
+[00:39:14 -> 00:39:23]  Específicamente supongamos que este vocabulario tiene exactamente un millón cuarenta y ocho mil quinientos setenta y seis palabras.
+[00:39:23 -> 00:39:33]  Armando con este conocimiento, cada pregunta puede, en principio, elegirse para reducir a la mitad el número de palabras posibles restantes.
+[00:39:35 -> 00:39:46]  Entonces, en un mundo ideal, su primera pregunta debería reducir a la mitad el número de palabras posibles, a quinientos veinticuatro mil doscientos ochenta y ocho.
+[00:39:46 -> 00:39:55]  Su próxima pregunta debería reducirla a la mitad, a doscientos sesenta y dos mil ciento cuarenta y cuatro palabras, y así sucesivamente.
+[00:39:56 -> 00:40:04]  Para cuando llegue a la pregunta diecinueve, solo deben quedar dos palabras, y después de la pregunta veinte, solo debería quedar una sola palabra.
+[00:40:06 -> 00:40:13]  La razón por la que esto funciona también es porque, en un mundo ideal, la mayoría de nosotros tenemos vocabularios similares.
+[00:40:13 -> 00:40:27]  La razón por la que esto funciona también es porque veinte preguntas permiten elegir entre exactamente un millón cuarenta y ocho mil quinientos setenta y seis palabras, que es dos elevado a la mitad.
+[00:40:28 -> 00:40:32]  Igualmente probables. Es alrededor de un millón.
+[00:40:33 -> 00:40:44]  Por lo tanto, los veinte bits de información que ha adquirido con sus preguntas le brindan la capacidad de reducir el rango de palabras posibles de aproximadamente un millón a solo una.
+[00:40:46 -> 00:40:54]  En otras palabras, veinte preguntas te permiten encontrar la palabra correcta entre un millón de palabras posibles.
+[00:40:55 -> 00:40:58]  Bien, esto lo podemos calcular aquí.
+[00:40:59 -> 00:41:07]  Ya saben que n es el número de bits o el número de preguntas, sería n sería igual a veinte.
+[00:41:08 -> 00:41:10]  Corren el código.
+[00:41:11 -> 00:41:17]  Tienen un millón cuarenta y ocho mil quinientos setenta y seis.
+[00:41:17 -> 00:41:31]  Y obviamente si ponen aquí un millón cuarenta y ocho mil quinientos setenta y seis y corren esto, n será veinte.
+[00:41:32 -> 00:41:44]  Agregar una pregunta más no solo crearía un nuevo juego, son veintiún preguntas, sino que también duplicará la cantidad de palabras posibles a aproximadamente dos millones.
+[00:41:45 -> 00:41:47]  ¿Qué podría reducir a una?
+[00:41:48 -> 00:41:55]  Por extensión, cada pregunta adicional le permite adquirir hasta un bit más de información y por lo tanto puede duplicar el número inicial de palabras.
+[00:41:56 -> 00:42:10]  En principio, un juego de cuarenta preguntas le permite adquirir cuarenta bits de información, permitiéndote encontrar una entre dos a la cuarenta.
+[00:42:10 -> 00:42:16]  Dos a la cuarenta, que es aproximadamente diez a la doce.
+[00:42:17 -> 00:42:22]  Bueno, entonces veamos acá el primer caso.
+[00:42:23 -> 00:42:31]  Si convertimos los bits a veintiún preguntas o veintiún decisiones, corremos esto.
+[00:42:32 -> 00:42:37]  Estamos hablando de dos millones noventa y siete mil ciento cincuenta y dos.
+[00:42:40 -> 00:42:44]  Que es el doble de un millón.
+[00:42:46 -> 00:42:51]  El doble que el valor anterior, que era aproximadamente un millón, ahora tenemos dos millones.
+[00:42:54 -> 00:43:07]  Y si tienen esto a cuarenta, tienen este número.
+[00:43:11 -> 00:43:15]  Un trillo.
+[00:43:16 -> 00:43:22]  Y nos dice que dos a la cuarenta es casi igual a diez a la doce.
+[00:43:23 -> 00:43:28]  Bueno, aquí podemos agregar una celda acá abajo.
+[00:43:29 -> 00:43:37]  Una variable z1 que es igual a dos elevado a la cuarenta.
+[00:43:38 -> 00:43:44]  Y una variable z2 que es igual a diez elevado a la doce.
+[00:43:45 -> 00:43:48]  Imprimimos z1.
+[00:43:49 -> 00:43:52]  Imprimimos z2.
+[00:43:55 -> 00:43:58]  Corremos esto.
+[00:44:00 -> 00:44:06]  Bueno, aproxima aproximadamente los dos a un trillón.
+[00:44:07 -> 00:44:14]  En términos del ejemplo de navegación, cuarenta bits le permitirán navegar por cuarenta bifurcaciones en la carretera.
+[00:44:15 -> 00:44:22]  Y por lo tanto le permitirán elegir una de aproximadamente un trillón de rutas posibles.
+[00:44:23 -> 00:44:28]  Así que la próxima vez que llegue a su destino después de un viaje que involucró cuarenta decisiones,
+[00:44:29 -> 00:44:36]  recuerda que ha evitado llegar a un trillón menos uno de destinos incorrectos.
+[00:44:38 -> 00:44:50]  Esta es la bibliografía, el libro, Information Theory, Tutorial Introduction, Third Edition, de Stone.
+[00:44:52 -> 00:44:54]  Muchas gracias.
+[00:45:07 -> 00:45:10]  Subtítulos realizados por la comunidad de Amara.org

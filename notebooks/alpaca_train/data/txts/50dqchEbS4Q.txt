@@ -1,0 +1,74 @@
+[00:00:00 -> 00:00:18]  Welcome to the Law Simplified course on criminal law. Before we move on proper to
+[00:00:18 -> 00:00:23]  elements within the criminal law syllabus itself, it's important to note
+[00:00:23 -> 00:00:29]  the various sections as well as the basic fundamentals. Since this will be
+[00:00:29 -> 00:00:33]  one of the first courses or one of the first subjects that you will be studying
+[00:00:33 -> 00:00:39]  in your LLB program, primarily due to criminal law being taught in many LLB
+[00:00:39 -> 00:00:43]  programs in the first year, it's an important factor to know the
+[00:00:43 -> 00:00:48]  fundamentals, the principles before you move on to understanding homicide,
+[00:00:48 -> 00:00:55]  assault, sexual offenses and other such particular offenses. Having said that, I
+[00:00:55 -> 00:01:00]  believe it's important to outline how exactly this course is structured. First
+[00:01:00 -> 00:01:04]  of all, we'll be going through the introduction to the subject matter
+[00:01:04 -> 00:01:09]  itself, which will be done in this particular lecture. Next, we'll look at
+[00:01:09 -> 00:01:13]  the various elements of an offense, which are the fundamentals for any offense, as
+[00:01:13 -> 00:01:19]  in the Arctus Reus and the mens rea. We'll consider automatism, effects of
+[00:01:19 -> 00:01:24]  prior fault, omissions and their effect on crimes, causation, as I mentioned
+[00:01:24 -> 00:01:29]  earlier, mens rea or the mental or the intent component, defenses which are
+[00:01:29 -> 00:01:36]  applicable, incohate offenses or attempts, as well as parties to a crime. From this
+[00:01:36 -> 00:01:41]  point onwards, we will move on to homicide, common assault, aggravated
+[00:01:41 -> 00:01:47]  assault, sexual offenses, theft, robbery, burglary and fraud. Now that we have an
+[00:01:47 -> 00:01:52]  outline of how this course is structured, let's move on with the introduction.
+[00:01:52 -> 00:01:57]  There are many different ways that you can categorize law. Now as a first-year
+[00:01:57 -> 00:02:02]  student, you're just diving into the subject matter that is your LLB program
+[00:02:02 -> 00:02:08]  and you would be, along with criminal law, studying the law of contracts, public law
+[00:02:08 -> 00:02:14]  as well as common law or the English legal system in some programs. As such, we
+[00:02:14 -> 00:02:20]  can categorize law as ones which are related to criminal law and ones which
+[00:02:20 -> 00:02:25]  aren't. In which case, we can define it as, on the one hand, you have criminal law
+[00:02:25 -> 00:02:31]  and on the other hand, you have civil law. Criminal law deals with the punishment
+[00:02:31 -> 00:02:37]  of the offender. Now the burden of proof in a criminal law case or in relation to
+[00:02:37 -> 00:02:43]  crimes is on the prosecution, namely being the crown or Rex R, as you'll come
+[00:02:43 -> 00:02:48]  to notice when you do case law. In relation to the burden of proof itself,
+[00:02:48 -> 00:02:53]  it has to be beyond reasonable doubt. Contrarily, in civil law, we see that the
+[00:02:53 -> 00:02:58]  legal system is attuned to compensate the loss of the claimant. There is no
+[00:02:58 -> 00:03:03]  punishment involved. It's an attempt to put people or put the parties in a
+[00:03:03 -> 00:03:07]  position where they were before a contract was entered into or before
+[00:03:07 -> 00:03:11]  certain actions or circumstances prevailed. Conversely, once again, the
+[00:03:11 -> 00:03:16]  burden of proof is on a balance of probabilities. Now from this very
+[00:03:16 -> 00:03:22]  distinction itself, you should understand that the criteria afforded
+[00:03:22 -> 00:03:27]  for claimant or afforded for the defendant in a criminal law case is
+[00:03:27 -> 00:03:33]  quite strict and quite stringent. The whole concept of criminal law itself is
+[00:03:33 -> 00:03:37]  the theory of deterrence. It's a mechanism by which punishment is dealt
+[00:03:37 -> 00:03:43]  not only so that the party who has been aggrieved has some form of redress but
+[00:03:43 -> 00:03:48]  also as a mechanism so that crime will not happen in the future. Along with this
+[00:03:48 -> 00:03:52]  distinction, there are a few key facts that is important to understand before
+[00:03:52 -> 00:03:59]  moving on. Firstly, it's the law that outlines what a crime is and is not. Now
+[00:03:59 -> 00:04:05]  being the UK, the common law jurisdiction stipulates that it's by precedent and by
+[00:04:05 -> 00:04:09]  custom and norm itself that certain crimes have come to become what they are
+[00:04:09 -> 00:04:14]  as well as the punishment. So in that light, what we what we must realize is
+[00:04:14 -> 00:04:18]  that it's not a particular individual or a group that defines what a particular
+[00:04:18 -> 00:04:24]  crime is but the law itself. Case law as well as now after certain enactments
+[00:04:24 -> 00:04:28]  statute as well. And a fundamental premise of criminal law is that a person
+[00:04:28 -> 00:04:35]  is presumed innocent until he is proven guilty. Finally, a person can be tried for
+[00:04:35 -> 00:04:39]  a civil and a criminal wrong simultaneously. Now when you come to the
+[00:04:39 -> 00:04:44]  second and the third years, the subject of thought or the law of thought defines
+[00:04:44 -> 00:04:49]  certain tortious liabilities that are imposed on individuals. More often than
+[00:04:49 -> 00:04:55]  not, these individuals have also been convicted or have been tried or being
+[00:04:55 -> 00:04:59]  tried for a particular criminal offense as well. So the tortious liability is the
+[00:04:59 -> 00:05:03]  civil aspect of certain crimes or criminal activities that a person had
+[00:05:03 -> 00:05:08]  been involved in. But we won't go into detail here because this is primarily on
+[00:05:08 -> 00:05:13]  criminal law in your first year. Now I mentioned earlier that a crime is
+[00:05:13 -> 00:05:19]  actually defined or outlined by way of the law itself. Now how is this possible
+[00:05:19 -> 00:05:25]  and who exactly defines this? For instance, most heinous and most
+[00:05:25 -> 00:05:31]  fundamental crimes themselves have been defined by common law. For example, murder,
+[00:05:31 -> 00:05:36]  manslaughter, assault. But what we see now is that certain statutes have come into
+[00:05:36 -> 00:05:41]  play that have defined certain other crimes as well. For example, theft, robbery
+[00:05:41 -> 00:05:47]  and rape. For example, rape has been defined in the Sexual Offenses Act of
+[00:05:47 -> 00:05:54]  2003. That was a very basic introduction into what criminal law is, how it can be
+[00:05:54 -> 00:06:00]  distinctly differentiated from civil law, where the burden of proof lies, certain
+[00:06:00 -> 00:06:05]  key facts that outline what a crime is and how it is defined and where certain
+[00:06:05 -> 00:06:10]  crimes can be found either in common law or statute. Next, we will look at the
+[00:06:10 -> 00:06:17]  various elements of an offense and how exactly an offense can be committed.
+[00:06:20 -> 00:06:26]  Hi, my name is Shaben Bhandar Nayak. Thanks a lot for watching this video on
+[00:06:26 -> 00:06:31]  YouTube. For the complete course, make sure you click the link on the left. Also
+[00:06:32 -> 00:06:36]  for an exclusive discount to YouTube viewers, enter the coupon code YOUTUBE
+[00:06:36 -> 00:06:41]  at the course page. All the very best with your studies and good luck with
+[00:06:41 -> 00:06:45]  your exams. See you in the next lesson.

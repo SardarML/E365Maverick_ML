@@ -1,0 +1,252 @@
+[00:00:00 -> 00:00:04]  So your boss has assigned you a project and asked you to develop a project
+[00:00:04 -> 00:00:08]  management plan and show it to him tomorrow and you're confused. You don't
+[00:00:08 -> 00:00:13]  know where to start. You have no clue what it means to plan a project. My name
+[00:00:13 -> 00:00:18]  is Edward Shihab and I'm going to show you 14 steps that you should take in
+[00:00:18 -> 00:00:22]  planning out your project. Stay tuned.
+[00:00:22 -> 00:00:34]  Welcome back. I'm going to show you in this video 14 steps you could take in
+[00:00:34 -> 00:00:40]  order for you to plan out your project. Step number one. You need to find out
+[00:00:40 -> 00:00:44]  what it is that your boss wanted. Now we're going to be referring to your boss
+[00:00:44 -> 00:00:48]  as the project sponsor. They're the one who asked you to do this. It doesn't mean
+[00:00:48 -> 00:00:52]  they have to fund it themselves but they are the sponsor of the project or the
+[00:00:52 -> 00:00:57]  champion. There are different names that we use for this. So they asked you to run
+[00:00:57 -> 00:01:02]  a project or manage a project. Is it to fix a problem? Is there something wrong
+[00:01:02 -> 00:01:07]  that needs to be corrected? What does the outcome look like? What does it look like
+[00:01:07 -> 00:01:11]  right now? You're going to need to find this information out. If it's if it's an
+[00:01:11 -> 00:01:15]  opportunity that they're trying to capture then what does the end result
+[00:01:15 -> 00:01:19]  look like? What is it that they're trying to gain? What is the physical
+[00:01:19 -> 00:01:24]  outcome that they would like to see? Ask your boss if they've seen something like
+[00:01:24 -> 00:01:28]  this before. If they have some sort of a blueprint of what this product looks
+[00:01:28 -> 00:01:33]  like, ask them to show you any documentation about this one project or
+[00:01:33 -> 00:01:38]  the product of the project. Find out if there was a business case that you
+[00:01:38 -> 00:01:42]  should be reviewing or a feasibility study that was done. Is it a statement of
+[00:01:42 -> 00:01:48]  work? Is it a contract? Is it a strategic mandate? Find out what information exists
+[00:01:48 -> 00:01:51]  and take it home and read it or read it in the office if you can't take it home.
+[00:01:51 -> 00:01:59]  So that was step number one. Step number two, develop a project charter. A project
+[00:01:59 -> 00:02:03]  charter is sometimes called a project initiation document or a project brief
+[00:02:03 -> 00:02:10]  and it stands for a one-page or two-page document that includes all of the high
+[00:02:10 -> 00:02:15]  level objectives of the project. Things such as why are we running the project,
+[00:02:15 -> 00:02:19]  like the justification, what is the end product, how much time are we going to
+[00:02:19 -> 00:02:23]  have on it, how much is the budget, are there any key dependencies, are we making
+[00:02:23 -> 00:02:28]  any assumptions, who are the key stakeholders in the organization that
+[00:02:28 -> 00:02:31]  will support you on it, are there some key milestones that they're looking to
+[00:02:31 -> 00:02:37]  achieve. Now once you have the charter prepared what you want to do is you want
+[00:02:37 -> 00:02:42]  to review this with your sponsor, your boss, and have them go over it and if
+[00:02:42 -> 00:02:46]  they're okay with it let them sign it. Ask them to please sign that one
+[00:02:46 -> 00:02:52]  document and if they can they should also send out an email to all of the top
+[00:02:52 -> 00:02:56]  department managers and let them know that this project has been initiated and
+[00:02:56 -> 00:03:00]  that you are going to be the project manager on that. That gives you
+[00:03:00 -> 00:03:05]  credibility for you to go around talking to different people and asking questions
+[00:03:05 -> 00:03:11]  and asking to review some documents or existing processes. All right so now
+[00:03:11 -> 00:03:16]  you've been assigned, you've got all the details, you've developed a project
+[00:03:16 -> 00:03:21]  charter and the next thing that you need to do is step number three. You need to
+[00:03:21 -> 00:03:26]  start identifying the stakeholders. What is the stakeholder? A stakeholder is
+[00:03:26 -> 00:03:30]  anyone who has anything to do with this one project. They're either going to be
+[00:03:30 -> 00:03:36]  positively or negatively affected by this one project or they are going to
+[00:03:36 -> 00:03:41]  either they're probably going to be positively or negatively affecting your
+[00:03:41 -> 00:03:45]  project. So either they're affected or they can affect this one project. They
+[00:03:45 -> 00:03:51]  could be a decision maker, a regulator, a contributor, a technical resource, a
+[00:03:51 -> 00:03:56]  department head, a supplier, anyone who is going to have anything to do with this
+[00:03:56 -> 00:04:00]  one project is a stakeholder. You should try to identify your stakeholders from
+[00:04:00 -> 00:04:04]  the inside out, from the people who are going to be working on developing the
+[00:04:04 -> 00:04:09]  product of the project all the way out to the organization and outside to your
+[00:04:09 -> 00:04:14]  customers or suppliers or representative of that. Once you've identified your
+[00:04:14 -> 00:04:19]  stakeholders, go to step number four. Start preparing your project management
+[00:04:19 -> 00:04:25]  plan. Guess what? Project management plans do not get developed in one day. They
+[00:04:25 -> 00:04:29]  take time. You got to meet with all the different stakeholders and talk to them,
+[00:04:29 -> 00:04:33]  understand how they feel about the project, how they feel about the end
+[00:04:33 -> 00:04:38]  product. Do they have anything to contribute? Are there any restrictions? Are
+[00:04:38 -> 00:04:42]  there things you need to find out? Are there regulations you should consider? So
+[00:04:42 -> 00:04:47]  project management plan means that you probably sometimes have to have a team
+[00:04:47 -> 00:04:52]  to help you with this and you have to spend a few days up to a few weeks to
+[00:04:52 -> 00:04:56]  get all the necessary details for you to put together a final plan.
+[00:04:56 -> 00:05:01]  So tell your boss the plan cannot be developed in one day and that you got to
+[00:05:01 -> 00:05:05]  talk to everybody involved for you to be able to understand what's going to go
+[00:05:05 -> 00:05:09]  into this one plan. So starting the plan is just one thing and you're going to
+[00:05:09 -> 00:05:13]  have a lot of subsidiary plans that are going to go into this project management
+[00:05:13 -> 00:05:19]  plan. So now let's go into step number five. From your stakeholder list that you
+[00:05:19 -> 00:05:24]  made, that you've identified, you need to start collecting requirements from those
+[00:05:24 -> 00:05:30]  stakeholders. So a requirement, in case you're wondering, is either a condition
+[00:05:30 -> 00:05:36]  or a capability. A condition means it's something that is put as a constraint on
+[00:05:36 -> 00:05:41]  your project. It's a beginning and or an end date, a specific budget that you
+[00:05:41 -> 00:05:51]  can't go over, a compliance requirement. For example, working hours requirements,
+[00:05:51 -> 00:05:57]  resource utilization requirements, whatever it is, language requirements, you
+[00:05:57 -> 00:06:02]  know, language requirements can actually be a capability. But these conditions are
+[00:06:02 -> 00:06:06]  not going to be showing in the final product, in the looks of the product. What
+[00:06:06 -> 00:06:11]  we'll show will be the capability and the capability, the capability
+[00:06:11 -> 00:06:15]  requirements. Those are the ones that talk about what the product does, right?
+[00:06:15 -> 00:06:21]  So does it go 500 rotations per minute? Is it eight feet tall? Is it made out of
+[00:06:21 -> 00:06:26]  plastic? So these are the descriptive items of your final product. So you want
+[00:06:26 -> 00:06:30]  the conditions and you want the capabilities and these will be your
+[00:06:30 -> 00:06:35]  requirements. Once you've collected all of these requirements, oh, before we go too
+[00:06:35 -> 00:06:41]  far, make sure you include quality and safety requirements and communication
+[00:06:41 -> 00:06:45]  requirements and resource requirements. These are all part of the requirements.
+[00:06:45 -> 00:06:50]  Don't just focus on the final product, the physical product. Think about what it
+[00:06:50 -> 00:06:54]  takes and what it takes to actually manage this one project and
+[00:06:54 -> 00:06:59]  these are called project requirements. So we have the product requirements, that's
+[00:06:59 -> 00:07:03]  what the product needs to have for specifications and we have the project
+[00:07:03 -> 00:07:07]  requirements or project management requirements, which could be resources
+[00:07:07 -> 00:07:12]  you need, research that you have to do, meetings that you got to run and so on.
+[00:07:12 -> 00:07:15]  So these are your project management requirements. Collect all of these
+[00:07:15 -> 00:07:20]  requirements and go to the next step, which is step number six and that's to
+[00:07:20 -> 00:07:26]  develop your scope statement. Your scope statement is an expansion or let's say
+[00:07:26 -> 00:07:32]  an expanded project charter. It has a little bit more. So if you basically, if
+[00:07:32 -> 00:07:36]  you took your project charter and you took your requirements and you added
+[00:07:36 -> 00:07:39]  them together, you're going to get the scope statement. The scope statement
+[00:07:39 -> 00:07:43]  talks about what the end product is that you're going to be delivering and what
+[00:07:43 -> 00:07:47]  else you're delivering with that. Are you delivering some coaching training? Are
+[00:07:47 -> 00:07:51]  you delivering some technical manuals along with it? What are you going to hand
+[00:07:51 -> 00:07:56]  over? And those tend to be bulletized in the scope statement. The scope statement
+[00:07:56 -> 00:08:00]  can be turned in with the list of requirements in order to make it more
+[00:08:00 -> 00:08:05]  clear. In the scope statement, we also write what is excluded. If you think
+[00:08:05 -> 00:08:11]  your customer or your sponsor is going to imagine some end product having some
+[00:08:11 -> 00:08:17]  additional specifications that you have not planned for, then be very clear that
+[00:08:17 -> 00:08:22]  these are not, state them in the exclusions, that these are not part of
+[00:08:22 -> 00:08:27]  the scope deliverables. So that's your scope statement and that's step number
+[00:08:27 -> 00:08:31]  six. Once you have your scope statement and let's say you review it with your
+[00:08:31 -> 00:08:36]  sponsor and your sponsor is okay with it, it is time to plan out how this is
+[00:08:36 -> 00:08:40]  going to be executed. And that takes us to step number seven, which is to create
+[00:08:40 -> 00:08:44]  your work breakdown structure. The work breakdown structure, called sometimes
+[00:08:44 -> 00:08:50]  just the WBS, is similar to an organizational chart. You're taking
+[00:08:50 -> 00:08:56]  all of the work and you're breaking it down into smaller pieces. So you could
+[00:08:56 -> 00:09:02]  break it down by the nature of the work. A WBS represents all of the work that is
+[00:09:02 -> 00:09:08]  going to be delivered, but it is broken down into smaller, tinier pieces that
+[00:09:08 -> 00:09:13]  makes it easier to manage. So after you do your WBS, you go to step number eight.
+[00:09:13 -> 00:09:20]  Step number eight is to look for what resources will be required. For every one
+[00:09:20 -> 00:09:26]  of these WBS work packages, underneath there's going to be activities that will
+[00:09:26 -> 00:09:30]  need to be done to deliver that one package. So if your team is going to be
+[00:09:30 -> 00:09:35]  working on that one package, what activities are they going to be doing? So
+[00:09:35 -> 00:09:40]  typically what I would do, what most projects do, is that every piece is
+[00:09:40 -> 00:09:46]  assigned to a team lead who then has their own resources or team that would
+[00:09:46 -> 00:09:50]  be doing the activities for that one task. And by the way, you probably would
+[00:09:50 -> 00:09:54]  have to go to department heads and negotiate for these resources and make
+[00:09:54 -> 00:09:58]  sure they give you the better ones, not the ones that were happy to just dump on
+[00:09:58 -> 00:10:02]  you, right? And then, you know, probably count them, you know, as a relief
+[00:10:02 -> 00:10:06]  budget-wise. Make sure you get all the good people and ask for how many hours
+[00:10:06 -> 00:10:10]  they can allocate to your project so that you know from the beginning whether
+[00:10:10 -> 00:10:15]  you need to get some additional contractors on the project or not. If
+[00:10:15 -> 00:10:19]  it's a contractor, then the contractor will tell you what sorts of activities
+[00:10:19 -> 00:10:23]  they will be doing. They have their own team or resources that will be working
+[00:10:23 -> 00:10:28]  on it. So step number eight looks at the resource requirements for that one
+[00:10:28 -> 00:10:32]  project. So once you figure your resources out, then let's go to step
+[00:10:32 -> 00:10:37]  number nine. Step number nine is to develop your project schedule. Now
+[00:10:37 -> 00:10:42]  project schedules are pretty common and, you know, I've seen varieties of these.
+[00:10:42 -> 00:10:48]  The very, very basic form can be developed in Excel, but Excel isn't as
+[00:10:48 -> 00:10:52]  versatile and does not allow you to make changes easily and doesn't show the
+[00:10:52 -> 00:10:57]  connections between activities. The best way to do it is using, you know,
+[00:10:57 -> 00:11:01]  software like Microsoft Project or Primavera and this way you can use bar
+[00:11:01 -> 00:11:05]  charts. You may want to look at a different video on how to develop
+[00:11:05 -> 00:11:10]  schedules, but you got to develop your schedule by taking all the activities
+[00:11:10 -> 00:11:14]  that were previously identified by your team or by the contractor and try to
+[00:11:14 -> 00:11:20]  sequence them back-to-back with durations, with dependencies, understand
+[00:11:20 -> 00:11:24]  which one needs to wait for the other, understand which activity can run at the
+[00:11:24 -> 00:11:29]  same time as the other, validate the time estimate that they're using for these,
+[00:11:29 -> 00:11:34]  ask them, you know, the basis for their estimates, where did they get them, is it
+[00:11:34 -> 00:11:39]  based on experience or is it based on being, you know, maybe pessimistic, but
+[00:11:39 -> 00:11:43]  find out where the estimates are coming from and try to develop, put all the
+[00:11:43 -> 00:11:49]  activities and proper sequencing, overlap the ones that you can so they can run at
+[00:11:49 -> 00:11:52]  the same time and then that would also clarify the resources that you're going
+[00:11:52 -> 00:11:59]  to require. So once we've identified how long the project takes, now we need to
+[00:11:59 -> 00:12:02]  review it with the sponsor and make sure they're fine with it. A lot of times they
+[00:12:02 -> 00:12:06]  will ask you to simplify it or make it shorter and so what you have to do is
+[00:12:06 -> 00:12:10]  look for opportunities for you to overlap or what we call fast track, fast
+[00:12:10 -> 00:12:14]  track some of these activities, overlap them, run them at the same time, that's
+[00:12:14 -> 00:12:18]  going to increase your risk a little bit and then look at adding maybe resources
+[00:12:18 -> 00:12:22]  in some places which we call crashing and or maybe look at the working hours,
+[00:12:22 -> 00:12:27]  overtime, and so on or maybe look at, you know, building efficiency in the team or
+[00:12:27 -> 00:12:31]  using better tools for them to get things done and that's going to speed up
+[00:12:31 -> 00:12:36]  your project, alright? Look at putting leads where you can have something start
+[00:12:36 -> 00:12:40]  and not really wait for something else to be finished if you can, right? And if
+[00:12:40 -> 00:12:44]  there are lags or waiting periods that are unnecessary, remove those, remove any
+[00:12:45 -> 00:12:50]  buffers or any padding you've put for, you know, for risk into that project so
+[00:12:50 -> 00:12:55]  that you can reduce the duration of that one project. Once you have a schedule
+[00:12:55 -> 00:12:59]  that your boss is okay with, then it's time to develop the project budget. You
+[00:12:59 -> 00:13:03]  do know the resources that we're working on it, you do know the resources will
+[00:13:03 -> 00:13:07]  tell you what sorts of materials they'll be using on the project, all you need is
+[00:13:07 -> 00:13:12]  cost estimates for the resources and for the materials and you can have your
+[00:13:12 -> 00:13:16]  budget. You can even figure out what you'll be spending weekly, monthly,
+[00:13:16 -> 00:13:20]  quarterly if you want and that's going to help you develop your cash flow
+[00:13:20 -> 00:13:24]  analysis. It's mostly going to be cash going out and but you're going to figure
+[00:13:24 -> 00:13:28]  out what it is that you need for money to fund this one project and you can ask,
+[00:13:28 -> 00:13:34]  you can develop a funding schedule for your management so they know how much to
+[00:13:34 -> 00:13:38]  fund you every quarter or every month if that's how they're going to be funding
+[00:13:38 -> 00:13:43]  the project and they would know what to expect going down the line. All right, the
+[00:13:43 -> 00:13:46]  schedule and the budget and the scope, the requirements, all these that we've
+[00:13:46 -> 00:13:50]  talked about can later be used to monitor your project and see how your
+[00:13:50 -> 00:13:54]  project is going. Having a good plan means you have something you can use to
+[00:13:54 -> 00:13:59]  monitor your project. Once you have your budget, that was step number 10, now let's
+[00:13:59 -> 00:14:05]  go to step number 11. Step number 11 has to do with asking yourself what could go
+[00:14:05 -> 00:14:10]  wrong on this one project. Now we're talking about risks. What are the risks
+[00:14:10 -> 00:14:15]  in your project? What could go wrong on your project? With all these plans that
+[00:14:15 -> 00:14:18]  we have, we've identified the stakeholders and we know some of them can
+[00:14:18 -> 00:14:23]  be troublesome. We've identified requirements. We've put together a scope
+[00:14:23 -> 00:14:26]  statement. We've, you know, created work packages. We've started thinking about
+[00:14:26 -> 00:14:30]  outsourcing some of the work. We have a schedule. We know the resources that will
+[00:14:30 -> 00:14:34]  be working on it. We know the budgets that have been estimated. What can go
+[00:14:34 -> 00:14:39]  wrong on that one project? All right, so sit with your team and try to figure out
+[00:14:39 -> 00:14:43]  what could go wrong and then once you have a list of all the things that could
+[00:14:43 -> 00:14:49]  go wrong, the risks, then go to step number 12. Mitigate those risks. What does
+[00:14:49 -> 00:14:55]  it mean to mitigate? Find ways to reduce the chance that a risk can happen or to
+[00:14:55 -> 00:15:00]  reduce the effect if the risk actually happens. Look at the probability that a
+[00:15:00 -> 00:15:05]  risk can happen and the impact it would have on your project objectives. If it's
+[00:15:05 -> 00:15:10]  not going to affect your project objectives, it is not a risk. Okay, so you
+[00:15:10 -> 00:15:15]  need to have a clear understanding of what the project objectives are and then
+[00:15:15 -> 00:15:19]  look for the things that could affect them and look for ways to mitigate them.
+[00:15:19 -> 00:15:24]  There are four ways to mitigate risks, right? You could avoid the risk by taking
+[00:15:24 -> 00:15:28]  it out from your project. So a certain software presents a problem for you. You
+[00:15:28 -> 00:15:33]  think it might not be, it might not integrate well, so take that software out
+[00:15:33 -> 00:15:38]  and now you've avoided that one risk, but you might introduce a secondary risk
+[00:15:38 -> 00:15:43]  that way, right? If you can't avoid the risk, then look at transferring the risk,
+[00:15:43 -> 00:15:48]  which means outsourcing or buying insurance, if that's a possibility. If you
+[00:15:48 -> 00:15:53]  can't transfer the risk, then look at mitigating the risk or reducing the
+[00:15:53 -> 00:15:56]  probability or impact of the risk happening. Adding additional resources,
+[00:15:56 -> 00:16:01]  taking additional training, double-checking, improving your quality
+[00:16:01 -> 00:16:05]  processes, that will mitigate the risk a little bit, but that's all going to come
+[00:16:05 -> 00:16:09]  at a cost. Let's say you could not avoid, you could not transfer, you could not
+[00:16:09 -> 00:16:14]  mitigate the risk, then you may want to consider accepting the risk, all right?
+[00:16:14 -> 00:16:17]  You could accept and put a budget, you could accept, you know, a contingency
+[00:16:17 -> 00:16:21]  budget or you could accept and do nothing about it because there's nothing
+[00:16:21 -> 00:16:26]  you can really do about the risk. So that was step number 12, you're developing
+[00:16:26 -> 00:16:31]  your mitigation plan. Step number 13 is to update your project management plan
+[00:16:31 -> 00:16:34]  with all these mitigation actions. You want to make your project management
+[00:16:34 -> 00:16:39]  plan, your scope, your budget, your schedule, your requirements, you want to
+[00:16:39 -> 00:16:43]  make them more likely to succeed and so you're going to change
+[00:16:43 -> 00:16:49]  them using the mitigation actions that you came up with. So if you thought you're
+[00:16:49 -> 00:16:53]  going to eliminate some software from the program, fine, eliminate it. Now your
+[00:16:53 -> 00:16:56]  plan does not have it. If you thought you're going to have additional two
+[00:16:56 -> 00:17:00]  resources or maybe someone who's more senior on your project, then do that. Now
+[00:17:00 -> 00:17:04]  your project is safer, it has someone who's more skilled and can do the
+[00:17:04 -> 00:17:09]  project for you. So your mitigation actions need to be added into your
+[00:17:09 -> 00:17:13]  project management plan and modified. And once you have the modified project
+[00:17:13 -> 00:17:17]  management plan, we go to the final step, step number 14, sit with your boss and
+[00:17:17 -> 00:17:22]  review the updated plan. We go through the whole thing, tell them who you talked
+[00:17:22 -> 00:17:26]  with, tell them about the requirements you collected, tell them about what scope
+[00:17:26 -> 00:17:31]  you've included and excluded, show them who's going to be, what part of the
+[00:17:31 -> 00:17:35]  project is going to be outsourced in the WBS, show them, talk to them, you know,
+[00:17:35 -> 00:17:39]  tell them who the resources will be, what sort of a schedule you've
+[00:17:39 -> 00:17:43]  developed, your final schedule, and talk to them about the budget requirements, how
+[00:17:43 -> 00:17:47]  much they need to fund you on a periodic basis, what were the risks that you've
+[00:17:47 -> 00:17:52]  identified, what actions you've taken to mitigate them, who participated in this
+[00:17:52 -> 00:17:57]  risk mitigation process, and then the final project plan. And it includes all
+[00:17:57 -> 00:18:03]  of your project baselines. A baseline is an agreed-to part of the plan and we
+[00:18:03 -> 00:18:07]  usually talk about the scope baseline, the schedule baseline, and the cost
+[00:18:07 -> 00:18:11]  baseline, right? Within the scope baseline you could also include quality baseline,
+[00:18:11 -> 00:18:15]  right? These are the ones that you want to agree to with your boss. Your boss
+[00:18:15 -> 00:18:20]  looks at your plan, says everything is good, I love what you did, and you say
+[00:18:20 -> 00:18:24]  all right, can you just sign off on this? Once they sign off, then your baselines
+[00:18:24 -> 00:18:29]  have been signed off. And that was step number 14. All right, so now what you have
+[00:18:29 -> 00:18:34]  is a fully developed plan and your boss has agreed to it. The next step after
+[00:18:34 -> 00:18:39]  this will be to go to execution, but that's for a different video. So I hope
+[00:18:39 -> 00:18:44]  you enjoyed these 14 steps that I gave you in planning out your project. If you
+[00:18:44 -> 00:18:48]  want to know more, if you have any specific concern, talk to me. I am an
+[00:18:48 -> 00:18:52]  expert in project management. I'll be happy to respond to you. Put your
+[00:18:52 -> 00:18:57]  comments down below. If you like this video, please subscribe. And if you know
+[00:18:57 -> 00:19:01]  others who can benefit from this video, please share. While you're subscribing,
+[00:19:01 -> 00:19:06]  please like this video. Make sure you hit the notification bell so you can be
+[00:19:06 -> 00:19:11]  notified about new videos that will be released. I'll be releasing additional
+[00:19:11 -> 00:19:16]  videos on all of the, you know, additional details about the 14 steps, the charter,
+[00:19:17 -> 00:19:21]  identifying stakeholders, collecting requirements. There's already one on
+[00:19:21 -> 00:19:25]  collecting requirements, but you know, I'll be talking about the WBS, the scope,
+[00:19:25 -> 00:19:30]  the critical path, schedules, budgets, risk management. So if you want to be
+[00:19:30 -> 00:19:35]  notified about additional videos that I will be releasing, then please subscribe
+[00:19:35 -> 00:19:40]  and hit that notification button. All right, well that's all for now and I hope
+[00:19:40 -> 00:19:44]  to see you on the next video.

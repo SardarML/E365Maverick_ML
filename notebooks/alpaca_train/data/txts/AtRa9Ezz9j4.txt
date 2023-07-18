@@ -1,0 +1,673 @@
+[00:00:00 -> 00:00:03]  Welcome. Today, I'll show you how to create
+[00:00:03 -> 00:00:05]  a continuous integration Azure Pipeline to
+[00:00:05 -> 00:00:06]  automatically build and test
+[00:00:06 -> 00:00:09]  all changes to your GitHub repository.
+[00:00:09 -> 00:00:11]  You will learn how to enable
+[00:00:11 -> 00:00:14]  continuous integration also known as CI with Azure Pipelines,
+[00:00:14 -> 00:00:17]  what is a YAML-based Pipeline and why use it,
+[00:00:17 -> 00:00:19]  how to create a Pipeline that runs on
+[00:00:19 -> 00:00:22]  any change to your GitHub repository,
+[00:00:22 -> 00:00:25]  how to diagnose and fix issues detected by the Pipeline,
+[00:00:25 -> 00:00:29]  and how to report the status of the Pipeline on GitHub.
+[00:00:29 -> 00:00:31]  Before diving into how to create a Pipeline,
+[00:00:31 -> 00:00:33]  it is good to understand what's
+[00:00:33 -> 00:00:34]  a typical sequence of steps in
+[00:00:34 -> 00:00:36]  Azure Pipelines and how it
+[00:00:36 -> 00:00:38]  enables continuous integration scenarios.
+[00:00:38 -> 00:00:41]  It all starts with a software developer who
+[00:00:41 -> 00:00:44]  has some code ready to go in his box,
+[00:00:44 -> 00:00:47]  and it's ready to just push that code via
+[00:00:47 -> 00:00:50]  Git into his remote GitHub repository.
+[00:00:50 -> 00:00:54]  The push happens either directly or via a pull request.
+[00:00:54 -> 00:00:57]  At that point, GitHub has already been configured to talk to
+[00:00:57 -> 00:01:01]  Azure Pipelines to notify it that such an event has happened.
+[00:01:01 -> 00:01:03]  GitHub just goes ahead and notify
+[00:01:03 -> 00:01:05]  your project in Azure Pipelines.
+[00:01:05 -> 00:01:07]  A push happens, let's say master branch.
+[00:01:07 -> 00:01:10]  At that point, Azure Pipelines will read or
+[00:01:10 -> 00:01:14]  will evaluate what we call the Pipeline definition,
+[00:01:14 -> 00:01:17]  which is a YAML file that's
+[00:01:17 -> 00:01:21]  stored actually in your GitHub repository too.
+[00:01:21 -> 00:01:24]  Azure Pipelines will read it and that will tell it what are
+[00:01:24 -> 00:01:28]  all the steps to execute for this Pipeline,
+[00:01:28 -> 00:01:31]  and also where to execute the Pipeline,
+[00:01:31 -> 00:01:34]  and any constraints, and any other configurations
+[00:01:34 -> 00:01:37]  that are related to the execution of the Pipeline.
+[00:01:37 -> 00:01:39]  Once it reads that file,
+[00:01:39 -> 00:01:43]  it will go ahead and queue what we call a run,
+[00:01:43 -> 00:01:46]  which is a series of tasks to execute.
+[00:01:46 -> 00:01:49]  It will queue this run in what we call an agent pool.
+[00:01:49 -> 00:01:53]  The agent pool is a series of a bunch of machines that are
+[00:01:53 -> 00:01:56]  ready to receive the requests
+[00:01:56 -> 00:01:58]  that are coming from Azure Pipelines.
+[00:01:58 -> 00:02:02]  This agent pool can be a series of,
+[00:02:02 -> 00:02:04]  let's say, VMs, virtual machines.
+[00:02:04 -> 00:02:06]  It could also be physical machines,
+[00:02:06 -> 00:02:10]  just normal physical boxes connected to Azure Pipelines,
+[00:02:10 -> 00:02:13]  or they could be also Docker containers.
+[00:02:13 -> 00:02:17]  The most common way to do things these days is via virtual machines.
+[00:02:17 -> 00:02:20]  But a more interesting way to do this is via containers,
+[00:02:20 -> 00:02:23]  and we will see that in the video in a few moments.
+[00:02:23 -> 00:02:27]  Now, these machines could be either hosted by
+[00:02:27 -> 00:02:31]  Microsoft in the Azure DevOps product,
+[00:02:31 -> 00:02:33]  or they could be self-hosted.
+[00:02:33 -> 00:02:37]  So if you don't want to really worry too much about how
+[00:02:37 -> 00:02:40]  to prepare these machines and how to connect them to
+[00:02:40 -> 00:02:45]  Azure Pipelines so that they can execute your Pipeline,
+[00:02:45 -> 00:02:48]  so you would just go with Microsoft hosted.
+[00:02:48 -> 00:02:51]  In this case, they are VMs.
+[00:02:52 -> 00:02:54]  I think for public projects,
+[00:02:54 -> 00:02:58]  you will get up to 10 concurrent pipelines
+[00:02:58 -> 00:03:00]  that can run simultaneously.
+[00:03:00 -> 00:03:05]  But of course, it's easy to just use those,
+[00:03:05 -> 00:03:07]  but it has its own restrictions.
+[00:03:07 -> 00:03:09]  You don't have any control on the software that goes into
+[00:03:09 -> 00:03:13]  those machines or the spec of the machines themselves.
+[00:03:13 -> 00:03:15]  So depending on what you want to do,
+[00:03:15 -> 00:03:18]  there may or may not be as convenient for you.
+[00:03:18 -> 00:03:20]  The other option, self-hosted,
+[00:03:20 -> 00:03:22]  has the benefit of you can prepare
+[00:03:22 -> 00:03:26]  the entire machine by yourself with exact specs that you need.
+[00:03:26 -> 00:03:30]  But of course, it's an ongoing maintenance task for these machines.
+[00:03:30 -> 00:03:32]  So it's up to you what you want to use.
+[00:03:32 -> 00:03:35]  We will be using Microsoft hosted in this video.
+[00:03:35 -> 00:03:39]  Now, these machines can also be configured to use
+[00:03:39 -> 00:03:44]  either Linux, Windows, or Mac OS as the operating system.
+[00:03:44 -> 00:03:48]  So it really depends on what you want to do in the Pipeline.
+[00:03:48 -> 00:03:52]  If you need to, let's say you want to build a microservice,
+[00:03:52 -> 00:03:54]  it usually can run just fine on Linux.
+[00:03:54 -> 00:03:58]  So you will pick the Linux OS or a Linux VM.
+[00:03:58 -> 00:04:00]  But if you want to do things like using,
+[00:04:00 -> 00:04:02]  let's say, .NET Framework,
+[00:04:02 -> 00:04:04]  or you want to build a UWP,
+[00:04:04 -> 00:04:06]  Universal Windows Platform projects,
+[00:04:06 -> 00:04:09]  you may need to go with Windows-based VMs.
+[00:04:09 -> 00:04:11]  If you want to build something for iOS,
+[00:04:11 -> 00:04:16]  so most likely you have to go for a Mac OS agent.
+[00:04:19 -> 00:04:23]  Then after that happened,
+[00:04:23 -> 00:04:26]  an agent will be selected from this pool,
+[00:04:26 -> 00:04:28]  and the agent will just go ahead and pull the source,
+[00:04:28 -> 00:04:30]  the source code that you have on GitHub.
+[00:04:30 -> 00:04:32]  It will be pulled into that machine,
+[00:04:32 -> 00:04:37]  and the series of tasks that are configured in your Pipeline will execute.
+[00:04:37 -> 00:04:42]  So one of the typical and most basic task is just the build step,
+[00:04:42 -> 00:04:46]  where we build this code just as you would have built it in your box.
+[00:04:46 -> 00:04:49]  Let's say in the .NET case, .NET build.
+[00:04:49 -> 00:04:51]  In this case, the agent will do that for you.
+[00:04:51 -> 00:04:55]  We'll just build the code automatically.
+[00:04:55 -> 00:04:58]  Once it's built, it can do other things like,
+[00:04:58 -> 00:05:00]  let's say, run the tests like .NET test
+[00:05:00 -> 00:05:03]  or any other kind of test runner that you have configured.
+[00:05:03 -> 00:05:06]  It can go ahead and run all these tests for you.
+[00:05:06 -> 00:05:14]  Finally, it will publish results into the Azure Pipelines UI,
+[00:05:14 -> 00:05:21]  and it can also send all sorts of notifications like e-mails,
+[00:05:21 -> 00:05:23]  if you want to know what happened with the Pipeline.
+[00:05:23 -> 00:05:27]  So this is the overall flow on Azure Pipelines.
+[00:05:27 -> 00:05:28]  It will vary a lot,
+[00:05:28 -> 00:05:31]  especially in terms of the tasks that execute,
+[00:05:31 -> 00:05:34]  depending on what you have configured in your YAML Pipeline.
+[00:05:34 -> 00:05:36]  Of course, there's another side of this,
+[00:05:36 -> 00:05:39]  which is the continuous deployment,
+[00:05:39 -> 00:05:42]  which we will not cover yet in this video.
+[00:05:42 -> 00:05:46]  Now, here are a few things that we will be using in this tutorial.
+[00:05:46 -> 00:05:49]  First, a couple of .NET Core projects
+[00:05:49 -> 00:05:52]  already published in a GitHub repository.
+[00:05:52 -> 00:05:58]  Second, Git, which we will use to manage changes to the repository.
+[00:05:58 -> 00:06:01]  Third, the .NET Core 3.0 SDK,
+[00:06:01 -> 00:06:04]  which we will need to build and test the code locally.
+[00:06:04 -> 00:06:07]  Finally, Visual Studio Code,
+[00:06:07 -> 00:06:09]  which we will use as our code editor.
+[00:06:09 -> 00:06:11]  You could, of course, use any other code editor
+[00:06:11 -> 00:06:13]  that works best for you.
+[00:06:14 -> 00:06:16]  To illustrate how to enable
+[00:06:16 -> 00:06:19]  continuous integration with Azure Pipelines,
+[00:06:19 -> 00:06:22]  we're going to use the Hello Pipelines repository
+[00:06:22 -> 00:06:24]  that I have already published into GitHub.
+[00:06:24 -> 00:06:27]  This repository has just a couple of
+[00:06:27 -> 00:06:29]  very simple .NET Core 3.0 projects.
+[00:06:29 -> 00:06:32]  The first one is a Web API.
+[00:06:32 -> 00:06:34]  This one is very similar to the one that you will get if you
+[00:06:34 -> 00:06:40]  used to .NET new Web API via the .NET Core CLI.
+[00:06:40 -> 00:06:42]  The main thing about this project is going to be
+[00:06:42 -> 00:06:43]  the controller that we have here,
+[00:06:43 -> 00:06:45]  the weather forecast controller,
+[00:06:45 -> 00:06:48]  which only has just one API here, Git.
+[00:06:48 -> 00:06:50]  What it does is just returns
+[00:06:50 -> 00:06:54]  a list or a collection of weather forecasts.
+[00:06:54 -> 00:06:56]  In each of these forecasts,
+[00:06:56 -> 00:06:57]  it's going to have a date,
+[00:06:57 -> 00:06:59]  a temperature, and a summary.
+[00:06:59 -> 00:07:01]  That summary is just
+[00:07:01 -> 00:07:05]  a random string out of this string that you can see at the top.
+[00:07:05 -> 00:07:09]  The other project that we have here is a little test project.
+[00:07:09 -> 00:07:12]  This is an ex-unit project that just has one test class,
+[00:07:12 -> 00:07:16]  and that test class just has one very simple test that is
+[00:07:16 -> 00:07:19]  going to invoke that API and it's going to
+[00:07:19 -> 00:07:22]  confirm that the expected number of days are being returned.
+[00:07:22 -> 00:07:27]  So how do we enable an Azure Pipeline for this GitHub project?
+[00:07:27 -> 00:07:29]  What you want to do is go to
+[00:07:29 -> 00:07:33]  azure.microsoft.com slash services slash DevOps slash pipelines.
+[00:07:33 -> 00:07:36]  Here, depending on if you
+[00:07:36 -> 00:07:39]  have already an Azure DevOps account or not,
+[00:07:40 -> 00:07:42]  you may want to click on start free with
+[00:07:42 -> 00:07:44]  pipelines or sign in to Azure DevOps.
+[00:07:44 -> 00:07:46]  In this case, let's assume that we don't have an account yet.
+[00:07:46 -> 00:07:48]  So we're starting brand new.
+[00:07:48 -> 00:07:50]  So start free with pipelines.
+[00:07:51 -> 00:07:53]  Now, we're going to authenticate.
+[00:07:53 -> 00:07:56]  In this case, I'm going to use my Microsoft account.
+[00:07:58 -> 00:08:01]  Here, we're asked for a project name.
+[00:08:01 -> 00:08:04]  So your project is the place that's going to host
+[00:08:04 -> 00:08:10]  both your pipelines and any other Azure DevOps related
+[00:08:10 -> 00:08:11]  artifact that you want to use
+[00:08:11 -> 00:08:13]  across your software development lifecycle.
+[00:08:13 -> 00:08:20]  So this project, we're going to just call Hello Pipelines.
+[00:08:20 -> 00:08:23]  You can choose if you want to make it private,
+[00:08:23 -> 00:08:24]  meaning that only you and the people that you
+[00:08:24 -> 00:08:27]  invite can see what's going on in this project,
+[00:08:27 -> 00:08:29]  or public, meaning anybody
+[00:08:29 -> 00:08:30]  can go ahead and see what's going on here.
+[00:08:30 -> 00:08:34]  So since our repository is public,
+[00:08:34 -> 00:08:36]  let's go ahead and just make it public too here.
+[00:08:36 -> 00:08:38]  So I'll click continue.
+[00:08:38 -> 00:08:40]  This is also going to create
+[00:08:40 -> 00:08:43]  what they call an Azure DevOps organization,
+[00:08:43 -> 00:08:45]  which is an Uber container of
+[00:08:45 -> 00:08:50]  a bunch of potential projects that you can have in Azure DevOps.
+[00:08:51 -> 00:08:53]  Now, as you can see,
+[00:08:53 -> 00:08:54]  an organization has been created.
+[00:08:54 -> 00:08:57]  It is called Huluc0382,
+[00:08:57 -> 00:09:00]  and a project has been created,
+[00:09:00 -> 00:09:03]  Hello Pipelines over there.
+[00:09:03 -> 00:09:08]  Now, we're presented with an interesting choice,
+[00:09:08 -> 00:09:12]  which is to choose where to get the code from.
+[00:09:12 -> 00:09:15]  At the same time, we're presented with
+[00:09:15 -> 00:09:18]  the option of using either in
+[00:09:18 -> 00:09:20]  Java-based pipelines or using
+[00:09:20 -> 00:09:23]  the classic editor to create the pipeline.
+[00:09:23 -> 00:09:26]  So Java, by the way,
+[00:09:26 -> 00:09:29]  stands for yet another markup language,
+[00:09:29 -> 00:09:32]  that's an acronym, and it's nothing more than
+[00:09:32 -> 00:09:34]  a human-friendly data serialization standard
+[00:09:34 -> 00:09:36]  for all programming languages.
+[00:09:36 -> 00:09:38]  These days, the recommended approach is to
+[00:09:38 -> 00:09:40]  just go for the Java-based pipeline,
+[00:09:40 -> 00:09:41]  but why would you want to use
+[00:09:41 -> 00:09:43]  this as opposed to the classic editor?
+[00:09:43 -> 00:09:44]  Now, the classic editor,
+[00:09:44 -> 00:09:46]  which is legacy at this point,
+[00:09:46 -> 00:09:52]  will allow you to use more of a UI-friendly approach,
+[00:09:52 -> 00:09:55]  just drag and drop tasks and do a bunch of things
+[00:09:55 -> 00:09:59]  visually in this designer to create your pipeline.
+[00:09:59 -> 00:10:03]  But the main pitfall of that classic designer is that
+[00:10:03 -> 00:10:06]  the pipeline definition itself is
+[00:10:06 -> 00:10:09]  not checked in alongside your code.
+[00:10:09 -> 00:10:11]  The main problem with this, which is not
+[00:10:11 -> 00:10:12]  evident as you're starting with this,
+[00:10:12 -> 00:10:15]  but after a while,
+[00:10:15 -> 00:10:18]  months from now, when you want to go
+[00:10:18 -> 00:10:22]  back and build again some old code that you
+[00:10:22 -> 00:10:23]  need to build again with
+[00:10:23 -> 00:10:24]  the same pipeline that you're using today,
+[00:10:24 -> 00:10:26]  in many cases, you just can't.
+[00:10:26 -> 00:10:30]  Why? Because the pipeline has evolved in
+[00:10:30 -> 00:10:34]  a separate way from your code.
+[00:10:34 -> 00:10:38]  In the past, you may have had some other projects or
+[00:10:38 -> 00:10:41]  some other binaries or test code or artifacts,
+[00:10:41 -> 00:10:43]  some other things that today are not
+[00:10:43 -> 00:10:45]  there and that the pipeline is not honoring anymore.
+[00:10:45 -> 00:10:48]  That disconnect makes the classic editor and
+[00:10:48 -> 00:10:50]  the pipelines created by the classic editor
+[00:10:50 -> 00:10:54]  not ideal for a long-term project.
+[00:10:54 -> 00:10:58]  Overall, I'll strongly recommend using the YAML-based pipeline.
+[00:10:58 -> 00:11:02]  The other thing, of course, is that there are new features,
+[00:11:02 -> 00:11:05]  new Azure Pipelines features that are already
+[00:11:05 -> 00:11:07]  being introduced into the YAML-based pipelines,
+[00:11:07 -> 00:11:11]  like deployment jobs,
+[00:11:11 -> 00:11:14]  cron-based jobs, skilled jobs,
+[00:11:14 -> 00:11:16]  and probably some other things.
+[00:11:16 -> 00:11:19]  Those things are just not available in the classic editor.
+[00:11:19 -> 00:11:23]  Even if it takes a little bit more to
+[00:11:23 -> 00:11:25]  learn the YAML-based pipelines,
+[00:11:25 -> 00:11:29]  I would strongly recommend that you go for this one.
+[00:11:29 -> 00:11:32]  Now, at the time where we are recording this,
+[00:11:32 -> 00:11:34]  there's a feature that we want to use and it's not
+[00:11:34 -> 00:11:38]  yet available broadly, so we have to enable it explicitly.
+[00:11:38 -> 00:11:41]  So to do that, I'm going to go here to my profile
+[00:11:41 -> 00:11:43]  and click dot dot dot,
+[00:11:43 -> 00:11:48]  Preview Features, and it's called Multistage Pipelines.
+[00:11:48 -> 00:11:52]  All right. Now, where's my code?
+[00:11:52 -> 00:11:54]  Well, my code is in GitHub.
+[00:11:54 -> 00:11:56]  So I'll click GitHub.
+[00:11:56 -> 00:12:00]  Now, at this point, you may be prompted to authenticate to GitHub.
+[00:12:00 -> 00:12:02]  In my case, it's not prompting me
+[00:12:02 -> 00:12:04]  because it already did it and just remember it.
+[00:12:04 -> 00:12:08]  So I'll click on Hello Pipelines.
+[00:12:09 -> 00:12:12]  Now, we're taken into GitHub.
+[00:12:12 -> 00:12:18]  Why? This is because GitHub is
+[00:12:18 -> 00:12:24]  asking us for permission to let Azure DevOps get access to the code.
+[00:12:24 -> 00:12:27]  So pretty much Azure DevOps wants to get notice
+[00:12:27 -> 00:12:31]  of any time that some code is pushed into GitHub.
+[00:12:31 -> 00:12:33]  So for that, we need to install this,
+[00:12:33 -> 00:12:39]  what they call the Azure Pipelines application into GitHub,
+[00:12:39 -> 00:12:42]  and it will grant access to these permissions that we see here.
+[00:12:42 -> 00:12:45]  So we have to say, yes,
+[00:12:45 -> 00:12:49]  and I will authenticate here.
+[00:12:50 -> 00:12:53]  Okay. Authenticate again with the Microsoft account.
+[00:12:53 -> 00:12:58]  So this sets up the connection between GitHub and Azure Pipelines.
+[00:12:58 -> 00:13:00]  So Azure Pipelines from now on
+[00:13:00 -> 00:13:02]  has access to what's in your GitHub repository.
+[00:13:02 -> 00:13:06]  Now, at this point, we're presented with a bunch of options in
+[00:13:06 -> 00:13:10]  terms of a template to initialize your YAML file.
+[00:13:10 -> 00:13:14]  You could choose among a series of templates that are available
+[00:13:14 -> 00:13:16]  depending on what kind of framework,
+[00:13:16 -> 00:13:20]  task, or build tool,
+[00:13:20 -> 00:13:23]  or test tool, whatever you want to do.
+[00:13:23 -> 00:13:25]  There's a bunch of templates for you.
+[00:13:25 -> 00:13:28]  But in our case, we'll just keep it simple,
+[00:13:28 -> 00:13:32]  go step-by-step, so we'll go for a starter pipeline.
+[00:13:32 -> 00:13:36]  Here we are. So an initial pipeline,
+[00:13:36 -> 00:13:38]  very simple pipeline has been generated for us.
+[00:13:38 -> 00:13:40]  So let's start exploring what's going on here.
+[00:13:40 -> 00:13:43]  I'm going to collapse this section here to have more space,
+[00:13:43 -> 00:13:45]  and let's start looking at this.
+[00:13:45 -> 00:13:48]  The first thing that I'll recommend you is to actually go to
+[00:13:48 -> 00:13:52]  this link over here, aka.ms.yaml,
+[00:13:52 -> 00:13:58]  which I think I have already opened somewhere here, right here.
+[00:13:58 -> 00:14:01]  So this page is super useful because this describes
+[00:14:01 -> 00:14:04]  the entire YAML schema reference.
+[00:14:04 -> 00:14:07]  So here you can tell exactly how to structure your YAML file,
+[00:14:07 -> 00:14:11]  how the pipelines are defined by this YAML file,
+[00:14:11 -> 00:14:15]  conventions, the basics, and a bunch of samples so that
+[00:14:15 -> 00:14:19]  you can get to know how to actually build these pipelines.
+[00:14:19 -> 00:14:21]  There's also a description of all the tasks that are
+[00:14:21 -> 00:14:24]  available and a bunch of concepts and things.
+[00:14:24 -> 00:14:26]  So super useful page.
+[00:14:26 -> 00:14:28]  You should keep this handy whenever
+[00:14:28 -> 00:14:31]  you're dealing with a YAML-based pipeline.
+[00:14:31 -> 00:14:34]  So now back to here.
+[00:14:34 -> 00:14:37]  One more thing about YAML pipelines, by the way,
+[00:14:37 -> 00:14:41]  is that this is enforcing what we call a configuration as code,
+[00:14:41 -> 00:14:44]  which is this very nice practice of storing
+[00:14:44 -> 00:14:51]  your pipeline alongside the code in the repository.
+[00:14:51 -> 00:14:52]  So this is great because from here on,
+[00:14:52 -> 00:14:55]  you will know exactly what's going on with the changes to
+[00:14:55 -> 00:14:59]  the pipeline as people is making changes to them,
+[00:14:59 -> 00:15:02]  while pushing them to the GitHub repository.
+[00:15:02 -> 00:15:07]  Again, that would not be available with the classic pipeline editor.
+[00:15:07 -> 00:15:11]  So keeping my configuration as code, great stuff.
+[00:15:11 -> 00:15:14]  First thing here, the trigger.
+[00:15:14 -> 00:15:16]  The trigger is what defines when
+[00:15:16 -> 00:15:18]  this pipeline is going to get kicked off.
+[00:15:18 -> 00:15:22]  So what it is saying right now is that
+[00:15:22 -> 00:15:25]  anytime something is pushed or merged into the master branch,
+[00:15:25 -> 00:15:27]  this pipeline has to get kicked off.
+[00:15:27 -> 00:15:28]  This you can change.
+[00:15:28 -> 00:15:30]  It could be any of the branches that you
+[00:15:30 -> 00:15:33]  have available in your repository.
+[00:15:33 -> 00:15:35]  There's also some other options if you want to limit
+[00:15:35 -> 00:15:39]  exactly which paths within your branch you
+[00:15:39 -> 00:15:43]  want to use to trigger a pipeline run.
+[00:15:43 -> 00:15:47]  Now, there are other options available also,
+[00:15:47 -> 00:15:52]  like this is called a CI-based trigger,
+[00:15:52 -> 00:15:54]  but you could create a pull request-based trigger
+[00:15:55 -> 00:15:57]  where the pipeline will kick off whenever
+[00:15:57 -> 00:16:00]  a new pull request, let's say in GitHub, is created.
+[00:16:00 -> 00:16:02]  So that's another way to run your pipeline.
+[00:16:02 -> 00:16:05]  The other way is a schedule type pipeline.
+[00:16:05 -> 00:16:06]  So you can say, well,
+[00:16:06 -> 00:16:09]  every hour, go ahead and kick off the pipeline,
+[00:16:09 -> 00:16:10]  or every night, or every morning,
+[00:16:10 -> 00:16:14]  or once a week, stuff like that. That's also available.
+[00:16:14 -> 00:16:17]  Next is the pull.
+[00:16:17 -> 00:16:23]  So we talked about virtual machine pulls or agent pulls before.
+[00:16:23 -> 00:16:27]  So here's where you define what kind of machine you want to use.
+[00:16:27 -> 00:16:29]  So by choosing a VM image,
+[00:16:29 -> 00:16:34]  you're telling Azure Pipelines that the first thing is that you
+[00:16:34 -> 00:16:39]  actually want to use the Microsoft-hosted virtual machine.
+[00:16:39 -> 00:16:41]  Second, in this case,
+[00:16:41 -> 00:16:42]  by saying Ubuntu, you're saying, well,
+[00:16:42 -> 00:16:44]  I want to use a Linux-based machine.
+[00:16:44 -> 00:16:45]  So it will really depend on what you want to do.
+[00:16:45 -> 00:16:47]  You could do Ubuntu latest,
+[00:16:47 -> 00:16:51]  you could also do Windows latest,
+[00:16:51 -> 00:16:54]  if you want to use a Windows virtual machine,
+[00:16:54 -> 00:16:57]  or you could do, I think it's a Mac OS latest,
+[00:16:57 -> 00:17:01]  if you want to build in a Mac OS device.
+[00:17:01 -> 00:17:04]  So again, it depends on what you want to do.
+[00:17:04 -> 00:17:05]  There's also some other,
+[00:17:05 -> 00:17:09]  you can also pick specific versions of this image.
+[00:17:09 -> 00:17:10]  You don't have to use latest.
+[00:17:10 -> 00:17:13]  Again, if you want to know exactly what's available,
+[00:17:13 -> 00:17:16]  go back to that YAML schema reference page,
+[00:17:16 -> 00:17:17]  and somewhere in here, you're going to find
+[00:17:17 -> 00:17:21]  all the options of virtual machines available for you.
+[00:17:21 -> 00:17:23]  Like I said, we're going to use a hosted image.
+[00:17:23 -> 00:17:26]  Here, we're not going to be managing our own virtual machine.
+[00:17:26 -> 00:17:31]  Now, one thing that I like to recommend here,
+[00:17:31 -> 00:17:35]  is to not run the pipeline directly into the virtual machine.
+[00:17:35 -> 00:17:37]  Why? Because usually, you don't know
+[00:17:37 -> 00:17:40]  exactly what's going on in that virtual machine.
+[00:17:40 -> 00:17:44]  You don't know. Usually, these machines have tons,
+[00:17:44 -> 00:17:46]  and tons, and tons of tools,
+[00:17:46 -> 00:17:48]  and frameworks, and compilers,
+[00:17:48 -> 00:17:50]  and test runners, and artifacts,
+[00:17:50 -> 00:17:52]  and all sorts of things installed on them.
+[00:17:52 -> 00:17:55]  So for the very specific project that you
+[00:17:55 -> 00:18:01]  want to go continuous integration across,
+[00:18:01 -> 00:18:03]  you may not need all those dozens,
+[00:18:03 -> 00:18:05]  and dozens, and dozens of things that
+[00:18:05 -> 00:18:09]  could have unintended consequences within your pipeline.
+[00:18:09 -> 00:18:10]  So one thing that you can do to
+[00:18:10 -> 00:18:12]  prevent having to use all that,
+[00:18:12 -> 00:18:14]  is just use a container.
+[00:18:14 -> 00:18:16]  So by using a container,
+[00:18:16 -> 00:18:18]  you can say, okay, so you're going to build,
+[00:18:18 -> 00:18:21]  sorry, you're going to run my pipeline
+[00:18:21 -> 00:18:24]  specifically within this container that I am specifying.
+[00:18:24 -> 00:18:26]  So for instance, in this case,
+[00:18:26 -> 00:18:28]  we know that we're building and we are
+[00:18:28 -> 00:18:32]  testing .NET Core 3.0 set of projects.
+[00:18:32 -> 00:18:34]  So for instance, in that case,
+[00:18:34 -> 00:18:37]  what we can do, and I re-pull this up,
+[00:18:37 -> 00:18:40]  is go and find the .NET Core SDK Docker image,
+[00:18:40 -> 00:18:43]  which is right here, and I'm going to copy it.
+[00:18:43 -> 00:18:46]  I'm going to say, hey,
+[00:18:46 -> 00:18:48]  when you run the pipeline,
+[00:18:48 -> 00:18:52]  don't just run the pipeline directly in the virtual machine.
+[00:18:52 -> 00:18:57]  First, go ahead and pull the .NET Core 3.0 SDK container image,
+[00:18:57 -> 00:18:59]  run it, and within that container,
+[00:18:59 -> 00:19:00]  go ahead and run my pipeline.
+[00:19:00 -> 00:19:03]  So that makes sure that only the things that you
+[00:19:03 -> 00:19:07]  need for your pipeline will be used across the pipeline.
+[00:19:07 -> 00:19:09]  In this case, the .NET Core SDK is all we need.
+[00:19:09 -> 00:19:11]  For us, we don't need all the other tooling
+[00:19:11 -> 00:19:11]  that's available there.
+[00:19:11 -> 00:19:16]  So in fact, I didn't use a container,
+[00:19:16 -> 00:19:18]  I just go with the Ubuntu latest virtual machine.
+[00:19:18 -> 00:19:21]  That image does not have the .NET Core 3.0 SDK.
+[00:19:21 -> 00:19:24]  It has a previous version as of the time of this recording.
+[00:19:24 -> 00:19:27]  So I would have to add an additional task in
+[00:19:27 -> 00:19:29]  this pipeline to make sure that I
+[00:19:29 -> 00:19:31]  actually get the .NET Core 3.0 SDK.
+[00:19:31 -> 00:19:33]  So containers, great stuff,
+[00:19:33 -> 00:19:35]  may add some seconds to your pipeline,
+[00:19:35 -> 00:19:37]  but it's totally worth it.
+[00:19:37 -> 00:19:39]  Now, going to steps,
+[00:19:39 -> 00:19:41]  here's where you actually declare
+[00:19:41 -> 00:19:46]  what are the actions on the steps that you want to execute.
+[00:19:46 -> 00:19:51]  So for an example, this is giving us a couple of scripts,
+[00:19:51 -> 00:19:55]  but we're definitely just removing them.
+[00:19:55 -> 00:20:00]  Then what we want to do is to add our steps.
+[00:20:00 -> 00:20:02]  So there's two ways to add steps.
+[00:20:02 -> 00:20:05]  The first way is by just typing them,
+[00:20:05 -> 00:20:07]  and we can use some intelligence here.
+[00:20:07 -> 00:20:10]  So for instance, the first task that we want to use here
+[00:20:10 -> 00:20:13]  is a task.
+[00:20:13 -> 00:20:19]  So on this task is going to be the .NET Core CLI 2,
+[00:20:20 -> 00:20:24]  and we're going to need some inputs.
+[00:20:24 -> 00:20:35]  Sorry. Inputs, and what we want there is just one command,
+[00:20:35 -> 00:20:36]  and that command is called build.
+[00:20:36 -> 00:20:39]  So the way that the projects are set up,
+[00:20:39 -> 00:20:40]  we just have to do .NET build,
+[00:20:40 -> 00:20:43]  and it will go ahead and build all the projects.
+[00:20:43 -> 00:20:44]  And that's all we need to do,
+[00:20:44 -> 00:20:46]  and that is the setup for this task.
+[00:20:47 -> 00:20:49]  But now you may say, well,
+[00:20:49 -> 00:20:51]  I don't want to be typing all this stuff all the time.
+[00:20:51 -> 00:20:52]  I have no idea what to put here.
+[00:20:52 -> 00:20:55]  So again, keep in mind that you can always go back
+[00:20:55 -> 00:20:57]  to the YAML schema, and this will have the definition
+[00:20:57 -> 00:20:59]  of all the tasks and samples and all these things, right?
+[00:20:59 -> 00:21:01]  So you're not alone there.
+[00:21:01 -> 00:21:03]  But if you really don't want to just type this stuff,
+[00:21:03 -> 00:21:06]  there's this thing called the assistant on the right side.
+[00:21:07 -> 00:21:09]  You just have to click in there,
+[00:21:09 -> 00:21:11]  and this is going to open up a list
+[00:21:11 -> 00:21:14]  of all the tasks available in Azure Pipelines.
+[00:21:16 -> 00:21:18]  And you just have to select the one that you care about,
+[00:21:18 -> 00:21:20]  and this is going to bring a bunch of options
+[00:21:20 -> 00:21:22]  so that you don't have to type them,
+[00:21:22 -> 00:21:25]  but you actually want to select them over here.
+[00:21:25 -> 00:21:28]  So in this case, what we want to do is to use the,
+[00:21:28 -> 00:21:30]  let's say, the test command,
+[00:21:30 -> 00:21:33]  because we want to build the code and then test the code, right?
+[00:21:33 -> 00:21:35]  And what's the path to the project?
+[00:21:35 -> 00:21:38]  In this case, we're just going to use a mini match expression.
+[00:21:38 -> 00:21:44]  Say we want to scan all the directories in the source
+[00:21:44 -> 00:21:47]  and find anything that contains tests
+[00:21:49 -> 00:21:53]  in the name of the project, csproc.
+[00:21:54 -> 00:21:56]  So anything that has tests in the project name,
+[00:21:57 -> 00:22:00]  we will be picking across all the repository.
+[00:22:00 -> 00:22:03]  And also, let's publish those test results
+[00:22:03 -> 00:22:07]  and code coverage if available into the Azure Pipelines store.
+[00:22:08 -> 00:22:10]  So I click Add, and as you can see,
+[00:22:10 -> 00:22:12]  that adds immediately the task right here.
+[00:22:14 -> 00:22:16]  So you can see, so either you type it
+[00:22:16 -> 00:22:18]  or you can pick it from here.
+[00:22:18 -> 00:22:21]  It's not as fantastic as the old designer,
+[00:22:21 -> 00:22:23]  but it's a very handy tool,
+[00:22:23 -> 00:22:26]  and it lets us build beautiful YAML pipelines.
+[00:22:27 -> 00:22:30]  So now the pipeline is pretty much ready to go,
+[00:22:31 -> 00:22:34]  and what I'm going to do is just hit Save and Run.
+[00:22:34 -> 00:22:35]  And at this point, you're prompted with the option
+[00:22:35 -> 00:22:38]  of either committing this directly to the master branch,
+[00:22:38 -> 00:22:42]  or you can create a new branch for this commit,
+[00:22:42 -> 00:22:43]  and you can potentially even create a pull request
+[00:22:43 -> 00:22:47]  if you want to get others' reviews and approvals on that.
+[00:22:47 -> 00:22:49]  To keep things simple in this video,
+[00:22:49 -> 00:22:52]  we'll just go ahead and commit directly to the master branch.
+[00:22:52 -> 00:22:53]  So Save and Run.
+[00:22:56 -> 00:22:58]  So this is now created a pipeline.
+[00:22:58 -> 00:23:00]  So again, remember, so the Azure Pipelines YAML
+[00:23:00 -> 00:23:01]  is checked in into your repository.
+[00:23:01 -> 00:23:03]  So it will leave and move forward
+[00:23:03 -> 00:23:06]  as your repository moves forward.
+[00:23:06 -> 00:23:10]  So here we are in the Pipelines Monitoring page.
+[00:23:10 -> 00:23:13]  So now you're looking at one specific run
+[00:23:13 -> 00:23:16]  and it's telling you the duration,
+[00:23:16 -> 00:23:17]  and it's right now in the queued state,
+[00:23:17 -> 00:23:19]  and it just changed it to running.
+[00:23:19 -> 00:23:22]  So your pipeline is now running,
+[00:23:22 -> 00:23:25]  and if you want to know what exactly is going on
+[00:23:25 -> 00:23:28]  with that pipeline, you can always just click on the job.
+[00:23:29 -> 00:23:32]  This will open up this UI here,
+[00:23:32 -> 00:23:34]  and we can walk through what's going on there.
+[00:23:34 -> 00:23:36]  First, what it's doing is, of course,
+[00:23:36 -> 00:23:40]  pulling that Docker container image,
+[00:23:40 -> 00:23:43]  the .NET Core 3.0 SDK, like we said,
+[00:23:43 -> 00:23:45]  because it is inside this container
+[00:23:45 -> 00:23:48]  that all the pipeline is going to execute.
+[00:23:48 -> 00:23:49]  So now we're checking out the code.
+[00:23:49 -> 00:23:53]  So it's pulling the code from GitHub into this container,
+[00:23:54 -> 00:23:58]  and next, it will go ahead and it will build the code, right?
+[00:23:58 -> 00:24:01]  So just .NET build with that task that we added,
+[00:24:01 -> 00:24:02]  building the code,
+[00:24:03 -> 00:24:07]  and I think something happened while building the code.
+[00:24:07 -> 00:24:08]  So let's see.
+[00:24:08 -> 00:24:09]  Let's wait for the file.
+[00:24:09 -> 00:24:10]  Okay, so pipeline has finished.
+[00:24:12 -> 00:24:15]  So let's scroll up a little bit and see what we can find.
+[00:24:15 -> 00:24:19]  So we have an error, actually, in the build step.
+[00:24:19 -> 00:24:22]  In the Web of Forces controller, there's an error.
+[00:24:22 -> 00:24:26]  Cannot convert from method group to int.
+[00:24:26 -> 00:24:27]  All right.
+[00:24:27 -> 00:24:29]  So there's something going on here.
+[00:24:29 -> 00:24:30]  So the best thing that we can do, I think,
+[00:24:30 -> 00:24:33]  is to actually try to reproduce this thing locally
+[00:24:33 -> 00:24:35]  and see what happens.
+[00:24:35 -> 00:24:37]  So go back to the GitHub repository.
+[00:24:37 -> 00:24:39]  I'll get the clone URL.
+[00:24:40 -> 00:24:43]  Now I'll go to my box here,
+[00:24:43 -> 00:24:46]  and I'll just do git clone.
+[00:24:48 -> 00:24:49]  All right.
+[00:24:50 -> 00:24:52]  So let's go to Hello Pipelines,
+[00:24:52 -> 00:24:54]  and let's open VS Code
+[00:24:57 -> 00:24:58]  to see what's going on here.
+[00:24:59 -> 00:25:00]  All right.
+[00:25:00 -> 00:25:01]  Here we are.
+[00:25:02 -> 00:25:04]  Let's close this welcome screen.
+[00:25:04 -> 00:25:06]  And let's look again.
+[00:25:08 -> 00:25:11]  We were looking at the controllers,
+[00:25:11 -> 00:25:14]  weather forecast controller file, line 34.
+[00:25:15 -> 00:25:17]  Let's go there.
+[00:25:17 -> 00:25:19]  Web API controllers, weather forecast controller.
+[00:25:20 -> 00:25:23]  Sure, let's restore Nuget packages.
+[00:25:23 -> 00:25:25]  And let's see line 34.
+[00:25:25 -> 00:25:28]  Indeed, there's something going on here.
+[00:25:28 -> 00:25:30]  And yeah, so the problem here
+[00:25:30 -> 00:25:33]  is that we're trying to use account property,
+[00:25:33 -> 00:25:34]  which does not really exist,
+[00:25:34 -> 00:25:36]  because summaries, it's an array.
+[00:25:38 -> 00:25:39]  Arrays don't have account property.
+[00:25:39 -> 00:25:44]  We could use account method if we're using link here,
+[00:25:45 -> 00:25:48]  but probably it's more efficient to just use linked,
+[00:25:48 -> 00:25:51]  which is an actual property that's already computed.
+[00:25:51 -> 00:25:53]  So it's more efficient than using the commenter.
+[00:25:53 -> 00:25:55]  So let's do that.
+[00:25:56 -> 00:25:57]  So this should fix it,
+[00:25:57 -> 00:25:59]  but let's make sure it's actually fixed.
+[00:25:59 -> 00:26:02]  Let's do run build task.
+[00:26:02 -> 00:26:04]  This is going to do .NET build
+[00:26:06 -> 00:26:07]  for both projects.
+[00:26:08 -> 00:26:11]  And if this is fixed, yes, indeed, this succeeded.
+[00:26:11 -> 00:26:12]  So let's commit this.
+[00:26:13 -> 00:26:18]  Use length instead of count in get.
+[00:26:23 -> 00:26:26]  All right, so let's do that.
+[00:26:28 -> 00:26:30]  All right, it's right there.
+[00:26:30 -> 00:26:34]  Now let's open another terminal
+[00:26:34 -> 00:26:38]  and let's do git push origin master.
+[00:26:39 -> 00:26:41]  All right, so this should fix the issue.
+[00:26:41 -> 00:26:44]  Let's go back to Azure Pipelines.
+[00:26:45 -> 00:26:48]  And as you can see, just by doing that git push,
+[00:26:48 -> 00:26:51]  another build has kicked in.
+[00:26:51 -> 00:26:53]  So this is what we call continuous integration.
+[00:26:53 -> 00:26:57]  So any change that's made to our master branch
+[00:26:57 -> 00:27:00]  is being immediately exercised by Azure Pipelines,
+[00:27:00 -> 00:27:02]  by the continuous integration pipeline.
+[00:27:02 -> 00:27:06]  And so as you can see, we have the pipeline now running.
+[00:27:06 -> 00:27:11]  And so let's see if we can get a successful run this time.
+[00:27:14 -> 00:27:17]  All right, so the pipeline has completed
+[00:27:17 -> 00:27:21]  and indeed the job has failed.
+[00:27:21 -> 00:27:22]  And the one thing that I noticed,
+[00:27:22 -> 00:27:24]  besides the fact that it has failed,
+[00:27:24 -> 00:27:26]  is that zero test has passed.
+[00:27:26 -> 00:27:29]  So first, well, let's first review what failed here.
+[00:27:29 -> 00:27:32]  So it's saying that,
+[00:27:32 -> 00:27:37]  yes, so the .NET test step failed.
+[00:27:39 -> 00:27:42]  It's saying that we have an assert equals failure.
+[00:27:42 -> 00:27:44]  So that something failed in the test,
+[00:27:44 -> 00:27:46]  expecting seven, actual five.
+[00:27:46 -> 00:27:49]  And if you go back to the run
+[00:27:49 -> 00:27:52]  and we click on this section where it says test zero pass,
+[00:27:52 -> 00:27:53]  we can click there.
+[00:27:53 -> 00:27:55]  And this actually gives us an overall view
+[00:27:55 -> 00:27:58]  of all the tests that failed in this run.
+[00:27:58 -> 00:28:00]  So let's go back to the run.
+[00:28:00 -> 00:28:02]  All the tests that failed in this run.
+[00:28:02 -> 00:28:05]  And if you click in the failed test,
+[00:28:06 -> 00:28:10]  it will give you a very nice view of what happened.
+[00:28:10 -> 00:28:12]  So like we saw in the error before,
+[00:28:13 -> 00:28:15]  there's a place where we're asserting
+[00:28:15 -> 00:28:18]  that we will expect seven and we're getting five.
+[00:28:18 -> 00:28:20]  And that's in the only test that we have.
+[00:28:20 -> 00:28:24]  So let's go back to the test and see what's going on.
+[00:28:26 -> 00:28:27]  So let's see.
+[00:28:27 -> 00:28:31]  Our test over here.
+[00:28:32 -> 00:28:33]  Okay.
+[00:28:33 -> 00:28:34]  So this test will go ahead,
+[00:28:34 -> 00:28:35]  create a controller,
+[00:28:35 -> 00:28:38]  passing a stop of the logger that it needs.
+[00:28:38 -> 00:28:40]  It is expecting to receive seven days,
+[00:28:40 -> 00:28:42]  calls get,
+[00:28:42 -> 00:28:45]  and we are not getting seven days.
+[00:28:45 -> 00:28:47]  Let's see where it forces controller.
+[00:28:48 -> 00:28:48]  Aha.
+[00:28:48 -> 00:28:52]  So it is getting a range of five days actually,
+[00:28:52 -> 00:28:53]  not seven days.
+[00:28:53 -> 00:28:55]  So that's the issue.
+[00:28:55 -> 00:28:57]  So at this point to fix this,
+[00:28:57 -> 00:28:58]  so either the test is wrong
+[00:28:58 -> 00:29:00]  or our implementation of the method is wrong.
+[00:29:00 -> 00:29:03]  So let's assume that the test is actually right.
+[00:29:03 -> 00:29:04]  And let's say, well,
+[00:29:04 -> 00:29:06]  actually let's return the seven days
+[00:29:06 -> 00:29:08]  that the test is expecting.
+[00:29:08 -> 00:29:11]  So let's see if the test is now happy with this.
+[00:29:11 -> 00:29:15]  So let's run all the tests.
+[00:29:15 -> 00:29:17]  Expand this a little bit.
+[00:29:17 -> 00:29:18]  See what we get.
+[00:29:20 -> 00:29:21]  Aha.
+[00:29:21 -> 00:29:22]  One out of one test pass.
+[00:29:22 -> 00:29:24]  So this fixes it.
+[00:29:24 -> 00:29:26]  So let's go back here and say,
+[00:29:30 -> 00:29:35]  fix slash get to return expected number of days.
+[00:29:37 -> 00:29:40]  So yes.
+[00:29:41 -> 00:29:42]  Back to the terminal
+[00:29:42 -> 00:29:45]  and let's just do git push,
+[00:29:45 -> 00:29:46]  origin master.
+[00:29:49 -> 00:29:52]  And back to pipelines.
+[00:29:52 -> 00:29:53]  Let's go here.
+[00:29:53 -> 00:29:54]  And again,
+[00:29:54 -> 00:29:55]  just by magic,
+[00:29:55 -> 00:29:58]  the pipeline just runs immediately.
+[00:29:58 -> 00:30:00]  So let's click here.
+[00:30:01 -> 00:30:03]  This will go ahead and run the pipeline again.
+[00:30:03 -> 00:30:04]  And if we're lucky,
+[00:30:04 -> 00:30:08]  this time we'll get a successful run.
+[00:30:13 -> 00:30:14]  And so indeed,
+[00:30:14 -> 00:30:16]  this time the job succeeded.
+[00:30:16 -> 00:30:19]  We have a 100% pass rate.
+[00:30:19 -> 00:30:21]  So this means that we're good
+[00:30:21 -> 00:30:22]  and we can actually click there
+[00:30:23 -> 00:30:25]  and we'll see all tests are good.
+[00:30:25 -> 00:30:27]  There's no failures here.
+[00:30:28 -> 00:30:30]  And so everything's great.
+[00:30:30 -> 00:30:32]  So the pipeline is ready.
+[00:30:32 -> 00:30:34]  Now, one more thing that we might want to do
+[00:30:34 -> 00:30:37]  just to reflect the fact that we have a pipeline
+[00:30:37 -> 00:30:38]  in our GitHub repository
+[00:30:38 -> 00:30:42]  is to add a status batch to the GitHub page.
+[00:30:42 -> 00:30:46]  So that batch we can show right here in this page.
+[00:30:47 -> 00:30:48]  And to enable that,
+[00:30:48 -> 00:30:50]  let's go back to the Hello Pipelines page.
+[00:30:50 -> 00:30:53]  And if you just click this dot dot dot,
+[00:30:53 -> 00:30:55]  click status batch,
+[00:30:55 -> 00:30:56]  you can click on the sample markdown here.
+[00:30:56 -> 00:30:58]  I'll just copy it.
+[00:30:58 -> 00:31:00]  And then go back to here.
+[00:31:02 -> 00:31:03]  We use code.
+[00:31:03 -> 00:31:05]  Let's open our readme file.
+[00:31:05 -> 00:31:06]  By the way,
+[00:31:06 -> 00:31:07]  you should always have a readme file.
+[00:31:07 -> 00:31:10]  That's super useful for future readers of your repo.
+[00:31:10 -> 00:31:13]  And just paste that markdown.
+[00:31:13 -> 00:31:14]  I'll hit save.
+[00:31:14 -> 00:31:18]  And I'll say add status batch.
+[00:31:19 -> 00:31:20]  All right.
+[00:31:21 -> 00:31:23]  And let's push this.
+[00:31:24 -> 00:31:25]  Okay.
+[00:31:27 -> 00:31:28]  And by doing that,
+[00:31:28 -> 00:31:32]  we now go to GitHub and we refresh this page.
+[00:31:33 -> 00:31:35]  We'll see a status batch right here.
+[00:31:35 -> 00:31:37]  So anybody that just comes to this repository
+[00:31:37 -> 00:31:39]  wants to know what's the status of this code,
+[00:31:39 -> 00:31:40]  it will know that the status is,
+[00:31:40 -> 00:31:41]  well, this case succeeded.
+[00:31:41 -> 00:31:44]  It will say failed if the last build of this failed.
+[00:31:44 -> 00:31:45]  And if you click there,
+[00:31:46 -> 00:31:47]  click there,
+[00:31:49 -> 00:31:53]  you will see the status of the latest build
+[00:31:53 -> 00:31:55]  associated to this repository.
+[00:31:55 -> 00:31:56]  So there you go.
+[00:31:56 -> 00:31:58]  Continuous integration for your GitHub repository
+[00:31:58 -> 00:32:00]  enabled by Azure Pipelines.
+[00:32:01 -> 00:32:02]  If this video was useful,
+[00:32:02 -> 00:32:04]  please consider hitting the like button.
+[00:32:04 -> 00:32:07]  Don't forget to hit subscribe and the notification bell
+[00:32:07 -> 00:32:09]  to know right away when I publish new videos.
+[00:32:09 -> 00:32:11]  Also, please leave me a comment below
+[00:32:11 -> 00:32:13]  with any thoughts about this video.
+[00:32:13 -> 00:32:14]  Thanks for watching.
+[00:32:14 -> 00:32:15]  See you next time.
+[00:32:18 -> 00:32:19]  Bye.

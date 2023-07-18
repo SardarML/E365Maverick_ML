@@ -1,0 +1,199 @@
+[00:00:00 -> 00:00:03]  In traditionellen Projekten gibt es ja eine ganze Menge an Plänen.
+[00:00:03 -> 00:00:06]  Ablauf- und Terminpläne, ich sag nur Gantcharts.
+[00:00:06 -> 00:00:09]  Oder Ressourcenpläne, Kostenpläne und so weiter.
+[00:00:09 -> 00:00:12]  Doch ein zentraler Plan, quasi die Mutter aller Pläne,
+[00:00:12 -> 00:00:14]  das ist der Projektstrukturplan.
+[00:00:14 -> 00:00:18]  Der zeigt strukturiert, worum es im Projekt geht.
+[00:00:18 -> 00:00:22]  Und ohne den brauchen Sie mit den anderen Plänen gar nicht erst anzufangen.
+[00:00:22 -> 00:00:24]  Oder vielleicht doch?
+[00:00:24 -> 00:00:27]  Ob es ohne geht und was man bei der Erstellung zu beachten hat,
+[00:00:27 -> 00:00:29]  das erzähle ich nach dem Intro.
+[00:00:29 -> 00:00:31]  Bleiben Sie dran, gleich geht's los.
+[00:00:41 -> 00:00:43]  Hallo und willkommen zu Projekte leicht gemacht.
+[00:00:43 -> 00:00:46]  Heute geht's um den Projektstrukturplan.
+[00:00:46 -> 00:00:49]  Um die Mutter aller Projektpläne.
+[00:00:49 -> 00:00:51]  Schauen wir uns mal ganz grob den Weg an,
+[00:00:51 -> 00:00:55]  den Sie ausgehend von der Projektidee dann vor sich haben.
+[00:00:55 -> 00:00:56]  Also wenn Sie ein Projekt planen,
+[00:00:56 -> 00:00:59]  dann haben Sie ja erstmal einiges an Vorarbeit.
+[00:00:59 -> 00:01:03]  Nur die erste Idee, die reicht ja nicht, um direkt loszulegen.
+[00:01:03 -> 00:01:06]  Also klare Ziele müssen definiert werden,
+[00:01:06 -> 00:01:11]  das Ergebnis, also was soll am Ende des Projekts erreicht sein.
+[00:01:11 -> 00:01:13]  Und dann können Sie schon mal eine erste Risikoabschätzung machen,
+[00:01:13 -> 00:01:17]  einen groben Phasenplan und so weiter.
+[00:01:17 -> 00:01:19]  Ja und wenn Sie die ganzen Vorarbeiten haben,
+[00:01:19 -> 00:01:21]  dann können Sie in die Detailplanung gehen
+[00:01:21 -> 00:01:24]  und zum Beispiel einen genauen Kostenplan und Terminplan machen.
+[00:01:24 -> 00:01:26]  Oder?
+[00:01:26 -> 00:01:28]  Nee, können Sie noch nicht.
+[00:01:30 -> 00:01:33]  Da fehlt nämlich noch was ganz schön Wichtiges,
+[00:01:33 -> 00:01:36]  nämlich der Projektinhalt.
+[00:01:36 -> 00:01:40]  Ja, ich meine, Sie wissen zwar, was am Ende des Projekts vorliegen soll,
+[00:01:40 -> 00:01:43]  aber was dazu auf dem Weg dahin alles zu tun ist,
+[00:01:43 -> 00:01:45]  das haben Sie noch gar nicht aufgeschrieben.
+[00:01:45 -> 00:01:49]  Das müssen Sie erstmal machen und zwar strukturiert.
+[00:01:49 -> 00:01:52]  Im klassischen traditionellen Projektmanagement
+[00:01:52 -> 00:01:55]  macht man das dann üblicherweise in so einer Baumstruktur,
+[00:01:55 -> 00:01:57]  dem Projektstrukturplan.
+[00:01:57 -> 00:01:59]  Ja, so kann das dann aussehen.
+[00:01:59 -> 00:02:03]  Da haben Sie vielleicht Teilprojekte, darunter Teilaufgaben
+[00:02:03 -> 00:02:06]  und in den Teilaufgaben dann Arbeitspakete.
+[00:02:06 -> 00:02:09]  Ja, so ein Projektstrukturplan,
+[00:02:09 -> 00:02:12]  das ist die vollständige Darstellung aller Elemente eines Projekts
+[00:02:12 -> 00:02:16]  und ihrer Beziehungen und das Ganze hierarchisch gegliedert.
+[00:02:16 -> 00:02:21]  Das ist der Projektstrukturplan, kurz PSP.
+[00:02:21 -> 00:02:27]  Oder auf Englisch Work Breakdown Structure, WBS.
+[00:02:27 -> 00:02:30]  Wichtig, das ist jetzt nur die Struktur.
+[00:02:30 -> 00:02:34]  Da reden wir noch gar nicht von der zeitlichen Abfolge.
+[00:02:34 -> 00:02:39]  So, das Ding sieht ja nett aus, aber wozu taugt der?
+[00:02:39 -> 00:02:41]  Warum macht man sich die ganze Arbeit?
+[00:02:41 -> 00:02:46]  Ganz einfach, eine einfache Liste aller Arbeitspakete ist zwar nett,
+[00:02:46 -> 00:02:49]  aber wer soll denn da bitte den Überblick behalten?
+[00:02:49 -> 00:02:51]  Ein Projekt mit hunderten von Arbeitspaketen?
+[00:02:51 -> 00:02:54]  Vergessen Sie es, viel Spaß dabei.
+[00:02:54 -> 00:02:58]  Also, im PSP, da haben Sie alles auf einen Blick
+[00:02:58 -> 00:03:00]  und sehen auch noch die Zusammenhänge.
+[00:03:00 -> 00:03:02]  Er ist vollständig.
+[00:03:02 -> 00:03:04]  Er ist eine gute Kommunikationsgrundlage.
+[00:03:04 -> 00:03:06]  Das Ding können Sie auch wem zeigen,
+[00:03:06 -> 00:03:09]  der nicht so im Projekt steckt wie Sie selbst.
+[00:03:09 -> 00:03:12]  Und ganz wichtig, mit dem PSP vor Augen,
+[00:03:12 -> 00:03:14]  können Sie auch super Aufgaben verteilen,
+[00:03:14 -> 00:03:16]  Verantwortlichkeiten definieren.
+[00:03:16 -> 00:03:19]  Ich sage nur Teilprojektleiter zum Beispiel.
+[00:03:19 -> 00:03:21]  Der Müller kriegt das eine Teilprojekt,
+[00:03:21 -> 00:03:23]  die Frau Grundsteck das andere.
+[00:03:23 -> 00:03:29]  Und er ist die Grundlage für viele andere Pläne.
+[00:03:29 -> 00:03:31]  Wenn Sie erst mal wissen, was zu tun ist,
+[00:03:31 -> 00:03:34]  dann können Sie nämlich die Aufgaben im Anschluss
+[00:03:34 -> 00:03:35]  auch in der Reihenfolge bringen,
+[00:03:35 -> 00:03:37]  einen Terminplan machen, die Kosten planen,
+[00:03:37 -> 00:03:40]  Ressourcen und so weiter.
+[00:03:40 -> 00:03:45]  Also, hier sieht man ganz deutlich, warum ich eingangs schon sagte,
+[00:03:45 -> 00:03:48]  das ist der zentrale Plan.
+[00:03:48 -> 00:03:51]  Hier beginnt die Detailplanung Ihres Projekts.
+[00:03:51 -> 00:03:55]  Zumindest, wenn Sie nicht agil unterwegs sind.
+[00:03:55 -> 00:04:00]  So, und jetzt höre ich schon den einen oder anderen von Ihnen.
+[00:04:00 -> 00:04:03]  Ja, aber wir machen nie so einen Strukturplan.
+[00:04:03 -> 00:04:06]  Völlig überflüssig.
+[00:04:06 -> 00:04:08]  Tja, ich gebe es jetzt mal zu,
+[00:04:08 -> 00:04:12]  bei einfachen Projekten, da habe ich den auch schon weggelassen.
+[00:04:12 -> 00:04:15]  Habe ihn vielleicht nur im Kopf gehabt, aber nicht auf dem Papier.
+[00:04:15 -> 00:04:19]  Ja, ich meine, wenn Sie da eh schon ein detailliertes Pflichtenheft haben,
+[00:04:19 -> 00:04:22]  da steht ja schon alles drin.
+[00:04:22 -> 00:04:26]  Also, bei kleinen Projekten, wenn Sie genau wissen, was Sie tun
+[00:04:26 -> 00:04:28]  und es die Form nicht vorschreibt,
+[00:04:28 -> 00:04:31]  dann klappt es vielleicht auch mal ohne.
+[00:04:31 -> 00:04:34]  Aber Sie müssen dann trotzdem irgendwo
+[00:04:34 -> 00:04:38]  die Projektinhalte strukturiert aufgeschrieben haben.
+[00:04:38 -> 00:04:40]  Wichtig.
+[00:04:40 -> 00:04:43]  Übrigens, zum Thema Projektplanung mit allem, was dazugehört,
+[00:04:43 -> 00:04:45]  nicht nur zum Thema PSP,
+[00:04:45 -> 00:04:48]  finden Sie auch eine ganze Menge auf unserer Seite Projekte leichtgemacht.
+[00:04:48 -> 00:04:52]  Und natürlich auch in unserer ITTP Projektmanagement Ausbildung.
+[00:04:52 -> 00:04:56]  Komplett online, flexibel und nach IPMA-Standard.
+[00:04:56 -> 00:04:58]  Schauen Sie einfach mal rein.
+[00:04:58 -> 00:05:01]  Aber zurück zum PSP.
+[00:05:01 -> 00:05:04]  Im PSP wird das Projekt in Teilprojekte,
+[00:05:04 -> 00:05:08]  Teilaufgaben und Arbeitspakete untergliedert.
+[00:05:08 -> 00:05:11]  Dabei sind die Arbeitspakete die kleinste Einheit
+[00:05:11 -> 00:05:16]  und beschreiben in sich abgeschlossene und delegierbare Aufgaben.
+[00:05:16 -> 00:05:19]  Untergliedert, also strukturiert soll er sein, unser PSP.
+[00:05:19 -> 00:05:22]  Aber wie denn jetzt genau?
+[00:05:22 -> 00:05:26]  Na, da gibt es ganz unterschiedliche Möglichkeiten.
+[00:05:26 -> 00:05:29]  Und wenn es die Branche oder das Unternehmen nicht gerade vorschreiben,
+[00:05:29 -> 00:05:32]  na, dann hat man halt die Wahl.
+[00:05:32 -> 00:05:36]  Häufig spricht man dann von verschiedenen Orientierungen der Gliederung.
+[00:05:36 -> 00:05:38]  Da gibt es zum Beispiel die Objektorientierung.
+[00:05:38 -> 00:05:42]  Hier schaut man auf die konkreten Lieferobjekte des Projekts
+[00:05:42 -> 00:05:44]  und deren Struktur.
+[00:05:44 -> 00:05:47]  Das können Bauteile sein, Baugruppen.
+[00:05:47 -> 00:05:50]  Karosserie, Motor, Antriebsstrang und so weiter.
+[00:05:50 -> 00:05:53]  Oder bestimmte Elemente einer zu entwickelnden Software.
+[00:05:53 -> 00:05:56]  Frontend, Datenbank und was sie sonst noch da haben.
+[00:05:56 -> 00:06:01]  Ja, und nach denen wird in Teilprojekte unterteilt und weiter verfeinert.
+[00:06:01 -> 00:06:04]  Nehmen wir mal den Bau einer Lagerhalle als Beispiel.
+[00:06:04 -> 00:06:08]  Ganz oben steht immer der Name des Projekts.
+[00:06:08 -> 00:06:10]  Neubau, Lagerhalle.
+[00:06:10 -> 00:06:13]  In diesem Fall gibt es darunter dann die einzelnen,
+[00:06:13 -> 00:06:16]  nennen wir sie mal, Komponenten der Lagerhalle.
+[00:06:16 -> 00:06:19]  Anschlüsse, Gebäude, Zufahrt.
+[00:06:19 -> 00:06:21]  Und die werden weiter unterteilt.
+[00:06:21 -> 00:06:24]  Beim Gebäude zum Beispiel Bodenplatte, Mauern und Dach.
+[00:06:24 -> 00:06:30]  Ja, ich meine, so eine Unterteilung ist bei so einem Bauprojekt ja irgendwie eine ganz sinnvolle Geschichte.
+[00:06:30 -> 00:06:34]  Ich weiß, die Bauprofis werden jetzt sagen, ist ja total vereinfacht.
+[00:06:34 -> 00:06:36]  Ist es auch.
+[00:06:36 -> 00:06:39]  Ich will ja nur das Prinzip verdeutlichen.
+[00:06:39 -> 00:06:44]  Und ja, wir sind ja auch nicht auf die unterste Arbeitspaketebene runter.
+[00:06:44 -> 00:06:47]  Ja, so ein Plan, der soll ja auch irgendwie auf eine Seite passen.
+[00:06:47 -> 00:06:53]  Dann macht man halt, wenn es zu viel wird, lieber noch Einzelpläne für jedes Teilprojekt.
+[00:06:53 -> 00:07:00]  Ach ja, und dass da ganz rechts oben noch ein Teilprojekt PM für Projektmanagementaufgaben steht,
+[00:07:00 -> 00:07:02]  das hat so ein bisschen eine Sonderposition.
+[00:07:02 -> 00:07:05]  Ist ja keine Komponente der Lagerhalle, oder?
+[00:07:05 -> 00:07:10]  Aber irgendwo müssen die Projektmanagementaufgaben ja auch noch gelistet werden.
+[00:07:10 -> 00:07:14]  Denn Projektmanagement ist ja auch was, das Zeit und Geld kostet
+[00:07:14 -> 00:07:16]  und für das jemand im Projekt verantwortlich ist.
+[00:07:16 -> 00:07:18]  Sie wahrscheinlich.
+[00:07:18 -> 00:07:20]  Macht sich ja auch nicht von selbst, oder?
+[00:07:20 -> 00:07:25]  Also, das ist die Objektorientierung.
+[00:07:25 -> 00:07:27]  Ganz einfach.
+[00:07:27 -> 00:07:29]  Und dann gibt es die Aktivitätsorientierung.
+[00:07:29 -> 00:07:34]  Hier steht nicht im Vordergrund, was erschaffen wird, sondern was getan wird.
+[00:07:34 -> 00:07:36]  Nehmen wir wieder mal unsere Lagerhalle.
+[00:07:36 -> 00:07:37]  Was muss getan werden?
+[00:07:37 -> 00:07:40]  Na, das Grundstück muss erschlossen werden.
+[00:07:40 -> 00:07:42]  Das Gebäude muss errichtet werden.
+[00:07:42 -> 00:07:44]  Die Inneneinrichtung muss installiert werden.
+[00:07:44 -> 00:07:49]  Na, zur Grundstückerschließung gehört dann zum Beispiel das Verlegen diverser Zuleitungen.
+[00:07:49 -> 00:07:54]  Die Zufahrt muss gebaut werden, ein Tor vielleicht installiert werden.
+[00:07:54 -> 00:07:58]  Und genauso gibt es dann auch beim Gebäudeerrichten eine ganze Menge Tätigkeiten.
+[00:07:58 -> 00:08:01]  Und so weiter.
+[00:08:01 -> 00:08:04]  Eine kleine Anmerkung noch zur Aktivitätsorientierung.
+[00:08:04 -> 00:08:07]  Manchmal wird die auch Funktionsorientierung genannt.
+[00:08:07 -> 00:08:09]  Ich persönlich mag das nicht so sehr,
+[00:08:09 -> 00:08:14]  weil das Wort Funktion hier oft nicht einheitlich verstanden wird.
+[00:08:14 -> 00:08:17]  Für den einen bedeutet das schlichtweg das Gleiche wie Aktivitäten.
+[00:08:17 -> 00:08:22]  Aber andere denken dabei irgendwo an Unternehmensfunktionen oder Behördenfunktionen.
+[00:08:22 -> 00:08:25]  Also Einkauf, Entwicklung, Produktion und sowas.
+[00:08:25 -> 00:08:29]  Klar, irgendwie hat das ja auch mit Aktivitäten zu tun.
+[00:08:29 -> 00:08:34]  Ich meine, der Einkauf kauft ein, die Entwicklung entwickelt und die Produktion, na die produziert.
+[00:08:34 -> 00:08:39]  Aber trotzdem nicht ganz so schön etwas verwirrend, finde ich.
+[00:08:39 -> 00:08:41]  Okay, aber weiter geht's.
+[00:08:41 -> 00:08:44]  Also bisher haben wir die Objekt- und die Aktivitätsorientierung,
+[00:08:44 -> 00:08:47]  manchmal auch Funktionsorientierung genannt.
+[00:08:47 -> 00:08:51]  Man kann aber zumindest für die erste Ebene des Projektstrukturplans
+[00:08:51 -> 00:08:54]  auch nach den Projektphasen unterscheiden.
+[00:08:54 -> 00:08:57]  Man spricht dann von einer Phasenorientierung.
+[00:08:57 -> 00:08:59]  Bei unserer Lagerhalle haben wir dann zum Beispiel
+[00:08:59 -> 00:09:04]  Grundlagenermittlung, Entwurf, Bau, Inbetriebnahme.
+[00:09:04 -> 00:09:07]  Ja, und wie geht's darunter weiter?
+[00:09:07 -> 00:09:08]  Na, da können Sie sich dann entscheiden,
+[00:09:08 -> 00:09:15]  ob Sie unter den Phasen lieber Objekt- oder Aktivitätsorientiert weitermachen wollen.
+[00:09:15 -> 00:09:18]  Ach ja, und wo wir schon dabei sind, so zum Mischen.
+[00:09:18 -> 00:09:21]  Es gibt auch noch eine echte Gemischt-Orientierung.
+[00:09:21 -> 00:09:25]  Dabei werden verschiedene Gliederungsprinzipien kombiniert.
+[00:09:25 -> 00:09:29]  Aber ganz wichtig dabei, innerhalb einer Ebene im PSP
+[00:09:29 -> 00:09:33]  immer nur genau ein Gliederungsprinzip, ja?
+[00:09:33 -> 00:09:35]  Sonst gibt's Chaos.
+[00:09:35 -> 00:09:37]  Hier wieder die Lagerhalle.
+[00:09:37 -> 00:09:42]  Objekte auf der ersten Ebene, Aktivitäten auf der zweiten.
+[00:09:42 -> 00:09:47]  Anschlüsse, Gebäude, Zufahrt und darunter dann jeweils, was getan werden soll.
+[00:09:47 -> 00:09:50]  Ganz einfach.
+[00:09:50 -> 00:09:53]  So, zum Schluss noch.
+[00:09:53 -> 00:09:59]  Das waren jetzt echt schwer vereinfachte Strukturpläne in realen Projekten.
+[00:09:59 -> 00:10:02]  Und wenn man bis auf die Ebene der Arbeitspakete runtergeht,
+[00:10:02 -> 00:10:05]  da sind das dann schnell mal hunderte von Elementen.
+[00:10:05 -> 00:10:09]  Das heißt, nur mit sprechenden Namen kommen Sie da nicht weiter.
+[00:10:09 -> 00:10:13]  Die müssen eindeutig kodiert werden.
+[00:10:13 -> 00:10:16]  Ja, irgendwelche Buchstaben und Zahlencodes.
+[00:10:16 -> 00:10:20]  Da ist alles erlaubt, was Übersicht schafft und eben eindeutig ist.
+[00:10:20 -> 00:10:23]  Hier im Beispiel haben wir den Projektkürzel,
+[00:10:23 -> 00:10:26]  dann den Bindestrich und dann Buchstaben für die Teilprojekte
+[00:10:26 -> 00:10:31]  und Zahlenkombinationen für die Ebenen darunter.
+[00:10:31 -> 00:10:33]  So, und damit wissen Sie schon alles,
+[00:10:33 -> 00:10:38]  was Sie zum Lesen oder Erstellen eines Projektstrukturplanes wissen müssen.
+[00:10:38 -> 00:10:40]  Hat es Ihnen heute gefallen?
+[00:10:40 -> 00:10:44]  Dann geben Sie uns einen Daumen hoch, abonnieren Sie unseren Kanal
+[00:10:44 -> 00:10:47]  und schauen Sie sich am besten gleich die nächsten Videos zum Thema an.
+[00:10:47 -> 00:10:51]  Unterm Video finden Sie wie immer Links zu unseren Kursen, Tipps und Vorlagen.
+[00:10:51 -> 00:10:53]  Wir sehen uns wieder. Bleiben Sie dran!

@@ -1,0 +1,200 @@
+[00:00:00 -> 00:00:04]  Hallo und herzlich Willkommen zu einem weiteren Let's Learn.
+[00:00:04 -> 00:00:10]  Wir sind hier in der Steuerungstechnik und ich will heute mal ein bisschen verraten,
+[00:00:10 -> 00:00:12]  was der sogenannte Tippbetrieb ist.
+[00:00:12 -> 00:00:17]  Also ihr seht schon, ich habe hier eine Steuerung und einen Hauptstromkreis aufgezeichnet.
+[00:00:17 -> 00:00:21]  Und ich nutze hier die Software FluidSim, weil dann kann ich es auch simulieren.
+[00:00:21 -> 00:00:24]  Und ich hoffe, es ist nicht zu klein nachher, wenn ihr das Video schaut.
+[00:00:24 -> 00:00:28]  Aber wie gesagt, alles der Reihe nach. Es geht um den Tippbetrieb.
+[00:00:28 -> 00:00:31]  Und fangen wir mit dem linken Konstrukt hier an.
+[00:00:31 -> 00:00:35]  Das ist der sogenannte Hauptstromkreis oder Laststromkreis.
+[00:00:35 -> 00:00:39]  Das hier unten M1, das ist ein Motor, ein Drehstrommotor.
+[00:00:39 -> 00:00:43]  Und in der Regel werden Motoren nicht einfach, wie man sich das vielleicht vorstellt,
+[00:00:43 -> 00:00:47]  mit einer Art Lichtschalter ein- und ausgeschaltet, sondern über eine Steuerung.
+[00:00:47 -> 00:00:50]  Denn oft möchte man sie gar nicht nur so ein- und ausschalten,
+[00:00:50 -> 00:00:52]  sondern irgendwas mit denen machen.
+[00:00:52 -> 00:00:54]  Zum Beispiel nur den Tippbetrieb.
+[00:00:54 -> 00:00:59]  Oder die sollen sich selbst halten. Oder es soll Links-Rechts-Lauf sein. Oder, oder, oder.
+[00:00:59 -> 00:01:02]  Das heißt, man hat zwei Stromkreise im Endeffekt.
+[00:01:02 -> 00:01:07]  Einen Haupt- oder Laststromkreis und einen Stromkreis, der steuert.
+[00:01:07 -> 00:01:10]  Und dieser Steuerstromkreis, der macht immer unterschiedliche Sachen.
+[00:01:10 -> 00:01:13]  Und jetzt zum Beispiel den sogenannten Tippbetrieb.
+[00:01:13 -> 00:01:15]  Und der Laststromkreis bleibt dann nicht immer gleich.
+[00:01:15 -> 00:01:22]  Damit ich einen Drehstrommotor betreiben kann, brauche ich natürlich erstmal die drei Außenleiter L1, L2, L3.
+[00:01:22 -> 00:01:25]  Die habe ich auch angeschlossen. Das sagt ja noch was zum Weg dazwischen.
+[00:01:25 -> 00:01:29]  Und der Motor hat ein Metallgehäuse in aller Regel, also der kriegt auch ein PE.
+[00:01:30 -> 00:01:33]  Der N, seht ihr? Der fehlt hier.
+[00:01:33 -> 00:01:36]  Der muss bei einem Motor nicht angeschlossen werden.
+[00:01:36 -> 00:01:39]  Denn die drei Wicklungen sind gleich gewickelt.
+[00:01:39 -> 00:01:41]  Und somit spricht man von symmetrischer Last.
+[00:01:41 -> 00:01:44]  Und es kann kein Strom auf dem N fließen.
+[00:01:45 -> 00:01:49]  Okay, dann habe ich als weiteres hier dieses F1.
+[00:01:49 -> 00:01:53]  Das ist ein Motorschutzschalter. Das ist das Zeichen eines Motorschutzschalters.
+[00:01:53 -> 00:01:59]  Und im Gegensatz zu einem Motorschutzrelais, das nur bei Thermic abschaltet,
+[00:01:59 -> 00:02:04]  hat das jetzt quasi auch noch einen integrierten Schutz gegen zu hohe Ströme, gegen Kurzschluss.
+[00:02:04 -> 00:02:07]  Das soll dieses I mit dem Pfeil.
+[00:02:07 -> 00:02:12]  Wenn ich einen Motorschutzschalter nutze, dann brauche ich keine Vorsicherung.
+[00:02:12 -> 00:02:15]  Ich brauche hier keine Leitungsschutzschalter davor.
+[00:02:15 -> 00:02:18]  Wenn ich einen Motorschutzrelais oder einen Überlastrelais hätte,
+[00:02:18 -> 00:02:21]  bräuchte ich erstens Vorsicherung.
+[00:02:21 -> 00:02:24]  Also werden hier noch drei Leitungsschutzschalter vorgezeichnet.
+[00:02:24 -> 00:02:26]  Und ich hätte einen Hilfskontakt.
+[00:02:26 -> 00:02:30]  Denn ein Motorschutzrelais schaltet nicht direkt den Motor ab,
+[00:02:30 -> 00:02:32]  sondern der schaltet den Steuerstromkreis ab.
+[00:02:32 -> 00:02:34]  Und darüber schalte ich den Motor ab.
+[00:02:34 -> 00:02:37]  Ein Motorschutzschalter kann aber den Stromkreis direkt abschalten.
+[00:02:37 -> 00:02:39]  Ihr seht das. Der hat hier wirklich drei Öffner.
+[00:02:39 -> 00:02:42]  Und der kann eben, das zeigen diese Linien,
+[00:02:42 -> 00:02:45]  der kann bei Kurzschluss abschalten, bei Überlast abschalten
+[00:02:45 -> 00:02:48]  und ich kann es manuell auslösen.
+[00:02:48 -> 00:02:52]  Und das letzte, ihr seht das in der Mitte, das sind drei Kontakte.
+[00:02:52 -> 00:02:57]  Und jetzt, bevor ich die erkläre, springe ich direkt mal in den Tippbetrieb.
+[00:02:57 -> 00:03:00]  Man braucht für den Tippbetrieb auch natürlich irgendeine der drei Phasen.
+[00:03:00 -> 00:03:04]  Das muss nicht L1 sein, das kann auch L2 oder L3 sein, je nachdem.
+[00:03:04 -> 00:03:08]  Dann hat man in aller Regel am Anfang erstmal eine Sicherung.
+[00:03:08 -> 00:03:11]  Einen Leitungsschutzschalter zum Beispiel, habe ich jetzt mal genommen.
+[00:03:11 -> 00:03:16]  Und F1 ist schon vergeben gewesen.
+[00:03:16 -> 00:03:20]  Das ist der Motorschutzschalter, also heißt die Sicherung F2 zum Beispiel.
+[00:03:20 -> 00:03:23]  Weil einfach fortlaufend durchnummeriert wird.
+[00:03:23 -> 00:03:27]  In aller Regel nimmt man für einen Steuerstromkreis einen B6A,
+[00:03:27 -> 00:03:29]  also einen 6A Leitungsschutzschalter,
+[00:03:29 -> 00:03:32]  weil alle Taster und alle Elemente, die man für Steuerung nutzt,
+[00:03:32 -> 00:03:37]  also diesen Aufbaugehäuse, diese Industrie-Schalter und Taster,
+[00:03:37 -> 00:03:41]  die sind auch alle für 6A bei 230V ausgerichtet.
+[00:03:41 -> 00:03:45]  Und zwischen L1 und N habe ich ja eben 230V, das passt gut zusammen.
+[00:03:45 -> 00:03:48]  In der Regel also B6A.
+[00:03:48 -> 00:03:52]  Dann zeichnet man tatsächlich alles, also man zeichnet immer erst eine Sicherung.
+[00:03:52 -> 00:03:55]  Völlig egal, ob das eine Schnellsicherung ist,
+[00:03:55 -> 00:03:58]  oder in meinem Fall jetzt einen Leitungsschutzschalter.
+[00:03:58 -> 00:04:00]  Danach kommen irgendwie alle Sachen,
+[00:04:00 -> 00:04:03]  die was mit dem Abschalten oder der Sicherheit zu tun haben.
+[00:04:03 -> 00:04:07]  Habe ich jetzt nicht, aber hätte ich zum Beispiel einen Motorschutzrelais,
+[00:04:07 -> 00:04:10]  dann wäre jetzt als nächstes der Kontakt von dem Motorschutzrelais,
+[00:04:10 -> 00:04:12]  also vom Überlastrelais da drin.
+[00:04:12 -> 00:04:15]  Und wenn ich dann einen Ausschalter hätte, oder vielleicht noch einen Notaus,
+[00:04:15 -> 00:04:17]  dann kämen erst mal die.
+[00:04:17 -> 00:04:20]  Also alles, was so mit Sicherheit und Ausschalten zu tun hat,
+[00:04:20 -> 00:04:22]  das kommt als erstes.
+[00:04:22 -> 00:04:25]  Dann irgendwann, und das habe ich hier nicht, deswegen ist hier auch Platz,
+[00:04:25 -> 00:04:28]  aber ich werde die anderen Steuerungen auch noch zeigen.
+[00:04:28 -> 00:04:31]  Dann kommt ein Einschalter.
+[00:04:31 -> 00:04:33]  Bei mir ein Taster.
+[00:04:33 -> 00:04:35]  Auch wenn das Symbol jetzt nicht perfekt gezeichnet ist,
+[00:04:35 -> 00:04:38]  FluidSim hat bei allen zwei Symbolen nicht ganz exakt die Norm,
+[00:04:38 -> 00:04:40]  aber spielt ja hier keine Rolle.
+[00:04:40 -> 00:04:43]  Mit meinem S1 schalte ich ein.
+[00:04:43 -> 00:04:46]  Und S0 wird üblicherweise zum Ausschalten genutzt.
+[00:04:46 -> 00:04:52]  Diese Kontakte, dass das 13,14 ist, weil das der erste Schließer ist,
+[00:04:52 -> 00:04:56]  also ein Schließer kriegt 3 und 4 und wenn es der erste ist, 1 und 2.
+[00:04:56 -> 00:04:59]  Und das hier ist jetzt also meine Schützspule.
+[00:04:59 -> 00:05:03]  Auf dem Schütz ist das der Anschluss A1 und A2.
+[00:05:03 -> 00:05:05]  Der wird ganz nach unten gezeichnet.
+[00:05:05 -> 00:05:07]  Da würde ich, dass hier unten kaum Platz ist,
+[00:05:07 -> 00:05:09]  weil hier braucht auch nichts mehr rein.
+[00:05:09 -> 00:05:12]  Man darf nicht den entschalten oder irgendwie nutzen, nur anschließen.
+[00:05:12 -> 00:05:17]  Okay, das heißt, dieses Schütz Q1, wenn ihr euch das jetzt vorstellt,
+[00:05:17 -> 00:05:20]  das hat eine Spule A1, A2 und es hat drei Kontakte,
+[00:05:20 -> 00:05:22]  nämlich genau diese hier.
+[00:05:22 -> 00:05:24]  Es hat drei Lastkontakte.
+[00:05:24 -> 00:05:29]  Das sieht man daran, weil 1, 2, 3, 4, 5, 6 auf den Kontakten steht.
+[00:05:29 -> 00:05:33]  Alle Steuerkontakte hätten jetzt sowas wie 13,14.
+[00:05:33 -> 00:05:35]  Also zwei Zahlen.
+[00:05:35 -> 00:05:38]  Ihr müsst euch jetzt erstmal klar machen, dass dieses Q1, die Spule
+[00:05:38 -> 00:05:40]  und die drei Schalter, die ich hier gezeichnet habe,
+[00:05:40 -> 00:05:42]  sind ein und dasselbe Schütz.
+[00:05:42 -> 00:05:43]  Das wird hier nur...
+[00:05:43 -> 00:05:45]  Ja, es ist blöd, dass man es auseinanderzeichnen muss.
+[00:05:45 -> 00:05:49]  Das ist aber ein Gerät, ein Betriebsmittel.
+[00:05:49 -> 00:05:52]  Das muss man dann erstmal so ein bisschen verdauen.
+[00:05:52 -> 00:05:54]  Man zeichnet das quasi in unterschiedliche Stromkreise,
+[00:05:54 -> 00:05:55]  wenn man es auch so nutzt.
+[00:05:55 -> 00:05:57]  Es ist aber ein und dasselbe Schütz.
+[00:05:57 -> 00:06:03]  Das heißt, immer wenn diese Spule, wenn die mit Strom durchflossen wird,
+[00:06:03 -> 00:06:07]  zieht sie an und schließt diese drei Kontakte.
+[00:06:07 -> 00:06:09]  Mehr macht sie eigentlich nicht.
+[00:06:09 -> 00:06:11]  Und genau das kann ich hier mal simulieren
+[00:06:11 -> 00:06:13]  oder möchte ich hier mal simulieren.
+[00:06:13 -> 00:06:17]  Dieser Tippbetrieb ist so die einfachste Grundschaltung
+[00:06:17 -> 00:06:19]  der Steuerungstechnik oder der Schütztechnik.
+[00:06:19 -> 00:06:23]  Alle anderen bauen so ein bisschen darauf auf, würde ich mal sagen.
+[00:06:23 -> 00:06:25]  Deswegen habe ich hier jetzt einfach mal so ein bisschen was erklärt.
+[00:06:25 -> 00:06:28]  Werde ich aber wahrscheinlich ein bisschen in abgespeckter Version
+[00:06:28 -> 00:06:30]  einfach nochmal in jedem Video machen,
+[00:06:30 -> 00:06:32]  weil es ja wichtig ist, wie so ein Aufbau ist.
+[00:06:32 -> 00:06:34]  Aber wenn euch dieses Bild so ein bisschen einprägt,
+[00:06:34 -> 00:06:36]  so zeichnet man auch die Pläne.
+[00:06:36 -> 00:06:40]  Und das nach ganz unten, Sicherung nach ganz oben.
+[00:06:40 -> 00:06:43]  Und wenn ihr euch die weiteren Videos anschaut, die dann noch kommen,
+[00:06:43 -> 00:06:45]  dann seht ihr auch, wenn man die anderen Sachen zeichnet.
+[00:06:45 -> 00:06:47]  Okay, und bei FluidSim habe ich jetzt die Möglichkeit,
+[00:06:47 -> 00:06:49]  das Ganze zu simulieren.
+[00:06:49 -> 00:06:51]  Also habe ich hier so eine Play-Taste.
+[00:06:51 -> 00:06:54]  Ich mache hier noch einen kurzen Stopp.
+[00:06:54 -> 00:06:57]  Es ist ja klar, der Motorschutzschalter,
+[00:06:57 -> 00:06:59]  es ist alles in Ordnung beim Einschalten.
+[00:06:59 -> 00:07:01]  Der hat nicht ausgelöst.
+[00:07:01 -> 00:07:03]  Deswegen schließt FluidSim natürlich diese drei Taster.
+[00:07:03 -> 00:07:06]  Und es schließt auch natürlich die Sicherung.
+[00:07:06 -> 00:07:08]  Also es geht vom Normalfall aus.
+[00:07:08 -> 00:07:11]  Wenn ich nochmal draufklicke, dann seht ihr das.
+[00:07:11 -> 00:07:14]  Der Motor läuft gerade mit 0 Umdrehungen pro Minute.
+[00:07:14 -> 00:07:17]  Also der Motorschutzschalter ist geschlossen.
+[00:07:17 -> 00:07:19]  Ich kann den übrigens auch wieder öffnen.
+[00:07:19 -> 00:07:22]  Und ich kann auch die Sicherung wieder öffnen, wie ich das möchte.
+[00:07:22 -> 00:07:25]  Okay, und jetzt macht dieser T-Betrieb eigentlich nichts anderes,
+[00:07:25 -> 00:07:27]  als wenn ich hier den Taster betätige.
+[00:07:27 -> 00:07:30]  Dann fließt im Steuerstromkreis L1 über den Taster,
+[00:07:30 -> 00:07:34]  über die Spule des Schutzes, ein Strom.
+[00:07:34 -> 00:07:36]  Q zieht an.
+[00:07:36 -> 00:07:38]  Das seht ihr an dem Pfeil.
+[00:07:38 -> 00:07:41]  Auch der Pfeil jetzt quasi an meinem Mausteig, wo das rote ist.
+[00:07:41 -> 00:07:44]  Der Pfeil nach oben sagt, es ist gerade betätigt.
+[00:07:44 -> 00:07:47]  Deswegen ist Q1 unten auch betätigt.
+[00:07:47 -> 00:07:49]  Dann schließt Q1 alle seine Kontakte.
+[00:07:49 -> 00:07:54]  Und der Motor, seht ihr schon, kriegt dann Drehstrom und dreht rechts rum.
+[00:07:54 -> 00:07:58]  Und der ist so eingestellt, dass er knapp unter 1500 Umdrehungen pro Minute läuft.
+[00:07:58 -> 00:08:00]  Auch wenn die Anzeige da ein bisschen schwankt.
+[00:08:00 -> 00:08:02]  Das ist alles richtig.
+[00:08:02 -> 00:08:05]  Und wenn ich loslasse, fließt kein Strom mehr.
+[00:08:05 -> 00:08:07]  Der Motor dreht ein bisschen nach.
+[00:08:07 -> 00:08:10]  Das finde ich ganz cool gemacht, muss ich gestehen, bei FluidSim.
+[00:08:10 -> 00:08:13]  Und dreht aus.
+[00:08:13 -> 00:08:16]  Und ich kann wieder drücken, dann geht das los.
+[00:08:16 -> 00:08:18]  Das kann sinnvoll sein.
+[00:08:18 -> 00:08:22]  Bei Sachen, wo ich, wenn ich loslasse, das nicht weiterlaufen soll,
+[00:08:22 -> 00:08:24]  weil ich vielleicht meinen Kopf da sonst reinhalten könnte oder so,
+[00:08:24 -> 00:08:27]  macht dieser Tippbetrieb schon Sinn.
+[00:08:27 -> 00:08:31]  Also Hebebühnen zum Beispiel, wo Autos, wenn da unten gefahren werden,
+[00:08:31 -> 00:08:33]  also da ist ein Auto drauf.
+[00:08:33 -> 00:08:37]  Und wenn ihr das runterfahrt, ist das Ding in der Regel immer im Tippbetrieb.
+[00:08:37 -> 00:08:40]  Ihr sollt nicht Selbsthaltung drücken können.
+[00:08:40 -> 00:08:42]  Also drücken, wenn es fährt, und dann seid ihr unten drunter
+[00:08:42 -> 00:08:44]  und werdet irgendwie einen Meter kleiner gemacht.
+[00:08:44 -> 00:08:46]  Okay, Tippbetrieb.
+[00:08:46 -> 00:08:50]  Und Besonderheit vielleicht für die Steuerungstechnik,
+[00:08:50 -> 00:08:52]  falls ihr euch das schon gefragt habt,
+[00:08:52 -> 00:08:55]  wieso heißt denn bitteschön jetzt der Taster S1?
+[00:08:55 -> 00:08:58]  Und in der Installationstechnik würde ein Taster ja Q1 heißen.
+[00:08:58 -> 00:09:00]  Eigentlich ganz einfach.
+[00:09:00 -> 00:09:03]  Oder vielleicht nicht ganz einfach, aber doch gut gemacht, muss man sagen.
+[00:09:03 -> 00:09:06]  Was auch immer die Leistung schaltet.
+[00:09:06 -> 00:09:08]  Und der Motor ist jetzt ja die Leistung.
+[00:09:08 -> 00:09:10]  Das bekommt ein Q.
+[00:09:10 -> 00:09:14]  Und da dieses Schütz ja den Motor ansteuert, anschaltet,
+[00:09:14 -> 00:09:17]  kriegt der Motor das Q.
+[00:09:17 -> 00:09:20]  Und der Taster, der das Schütz ansteuert, der kriegt ein S.
+[00:09:20 -> 00:09:22]  Wenn ihr euch jetzt mal umguckt in eurem Raum,
+[00:09:22 -> 00:09:24]  wenn ihr vielleicht gerade in einem Gebäude seid,
+[00:09:24 -> 00:09:29]  der Lichtschalter hingegen, der schaltet direkt die Lampe, die Last.
+[00:09:29 -> 00:09:32]  Deswegen bekommt der Lichtschalter in einem Raum das Q.
+[00:09:32 -> 00:09:34]  Da gibt es kein S.
+[00:09:34 -> 00:09:37]  Kleiner Funfact am Rande.
+[00:09:37 -> 00:09:40]  Okay. Und, achso, eine Sache wollte ich noch sagen.
+[00:09:40 -> 00:09:44]  Ein Motor dreht, wenn der normal angeschlossen ist,
+[00:09:44 -> 00:09:49]  also L1 auf den Anschluss, L2 auf den Anschluss, L3 auf den Anschluss,
+[00:09:49 -> 00:09:51]  dreht der immer rechts rum.
+[00:09:51 -> 00:09:54]  Würde ich vielleicht auch noch mal zeigen.
+[00:09:54 -> 00:09:57]  So, jetzt aber wirklich genug geredet.
+[00:09:57 -> 00:09:58]  So viel zum Tippbetrieb.
+[00:09:58 -> 00:10:00]  Ich hoffe, es hat euch gefallen.
+[00:10:00 -> 00:10:02]  Und ihr schaut mal wieder rein.
+[00:10:04 -> 00:10:07]  Untertitel der Amara.org-Community

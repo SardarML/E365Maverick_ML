@@ -1,0 +1,157 @@
+[00:00:00 -> 00:00:04]  So let's talk about your mouth. Have you ever really thought about your mouth? Because
+[00:00:04 -> 00:00:09]  it's pretty amazing! People have got all these articulators, all these moving parts,
+[00:00:09 -> 00:00:14]  that work together to make the huge variety of sounds that we use for language. You use
+[00:00:14 -> 00:00:19]  incredible finesse and control to perform the urgent job of transforming your thoughts
+[00:00:19 -> 00:00:23]  into words. And today, we're going to talk about just what those articulators do.
+[00:00:23 -> 00:00:26]  I'm Moti Lieberman, and this is the Ling Space.
+[00:00:31 -> 00:00:34]  Welcome to the Ling Space.
+[00:00:40 -> 00:00:44]  There are different ways to count, but at the very least, there are over 100 consonant
+[00:00:44 -> 00:00:48]  sounds in the world. And depending on your dialect of English, you might have a different
+[00:00:48 -> 00:00:51]  number, but for my variety, I've got 24.
+[00:00:51 -> 00:00:55]  Linguists have come up with specific symbols for all of them, called the International
+[00:00:55 -> 00:01:00]  Phonetic Alphabet, or IPA, and stuck them together in cool charts, like this. We saw
+[00:01:00 -> 00:01:05]  these in episode 12, but let's look into what these cool little symbols mean in more
+[00:01:05 -> 00:01:06]  detail.
+[00:01:06 -> 00:01:09]  We're going to stick with the consonant chart for today, and come back to the vowel
+[00:01:09 -> 00:01:11]  chart in a later episode.
+[00:01:11 -> 00:01:15]  The consonant chart may look scary, but there's actually a whole system there. The columns
+[00:01:15 -> 00:01:20]  are for place of articulation. These show where in the vocal tract the sound is crafted,
+[00:01:20 -> 00:01:24]  like in your throat, at your soft palate, between your teeth, and so on.
+[00:01:24 -> 00:01:28]  You can see there's a lot of different places, and that's because even though the inside
+[00:01:28 -> 00:01:34]  of your mouth might not be a large area, we've divided it up into tiny little phonetic territories.
+[00:01:34 -> 00:01:38]  The rose, on the other hand, tells about manner of articulation, or the particular way that
+[00:01:38 -> 00:01:42]  the air interacts with your mouth bits to make the sound. You can let the air through
+[00:01:42 -> 00:01:47]  free and easy, or only angry, hissy streams of it, or just stop it completely.
+[00:01:47 -> 00:01:52]  The order the IPA chart is written in tells us how to make the sounds, too. The further
+[00:01:52 -> 00:01:56]  to the left you go, the further forward in the vocal tract the sound is pronounced. For
+[00:01:56 -> 00:02:01]  example, up at the top left here, we have pə, which is a bilabial stop. So it's made
+[00:02:01 -> 00:02:05]  with both of your lips, bilabial, and the air doesn't make it out of your vocal tract
+[00:02:05 -> 00:02:11]  at all. Your lips just outright plug it up. Just try saying a pə without a vowel after
+[00:02:11 -> 00:02:15]  it...see? No error.
+[00:02:15 -> 00:02:18]  And because your lips are all the way at the end of the vocal tract, the bilabial sounds
+[00:02:18 -> 00:02:20]  are found at the left edge of the chart.
+[00:02:20 -> 00:02:24]  When you go back from your lips, you find your teeth, and so dental sounds are the next
+[00:02:24 -> 00:02:31]  stop. Labial dental sounds use both the lips and teeth, so sounds like fə and və qualify.
+[00:02:31 -> 00:02:35]  On the other hand, interdental sounds, like thə and thə, are made by putting your tongue
+[00:02:35 -> 00:02:37]  in between your teeth.
+[00:02:37 -> 00:02:41]  The nice thing about consonants this far forward is that it's really easy to see how you
+[00:02:41 -> 00:02:47]  make them. You can see the f or the l in action. If you keep working your way down the vocal
+[00:02:47 -> 00:02:50]  tract, you'll hit a few more places of articulation.
+[00:02:50 -> 00:02:54]  One pretty useful one you might not know about is the alveolar ridge, that curvy slope
+[00:02:54 -> 00:02:58]  right behind your front teeth, just at the beginning of the roof of your mouth. You can
+[00:02:58 -> 00:03:05]  make all kinds of really common consonants there, like l or s or n. In fact, more kinds
+[00:03:05 -> 00:03:09]  of consonants are made at the alveolar ridge than at any other place. Just about any way
+[00:03:09 -> 00:03:13]  you can make a consonant, you can do it at the alveolar ridge.
+[00:03:13 -> 00:03:18]  Post-alveolar sounds like ʃ are made just a little back from the alveolar ridge, but
+[00:03:18 -> 00:03:23]  not all the way to the hard palate. You want to use all the space, after all. So you go
+[00:03:23 -> 00:03:25]  and make some ʃ sounds.
+[00:03:25 -> 00:03:29]  The next place on the chart is actually a little bit different. It's actually smuggling
+[00:03:29 -> 00:03:34]  a manner of making consonants into the columns meant for place. Retroflex sounds involve
+[00:03:34 -> 00:03:39]  curling the tongue up to make the closure against the top of the mouth, so to make sounds
+[00:03:39 -> 00:03:44]  like də or shə or ɯ. They don't really show up in English, but they're pretty common
+[00:03:44 -> 00:03:49]  cross-linguistically. You get them in languages like Tamil, Hausa, and Polish. And we list
+[00:03:49 -> 00:03:54]  them here because the folding back still puts the tongue in the same general place as your
+[00:03:54 -> 00:03:58]  regular təs and nəs. It's just the other side of the tongue.
+[00:03:58 -> 00:04:02]  OK, now we're getting nice and far back in the mouth, to sounds that you make with
+[00:04:02 -> 00:04:07]  the main body of your tongue. So palatal sounds are made at the hard palate, that solid place
+[00:04:07 -> 00:04:11]  at the top of your mouth. We don't have a ton of these in English, either, but if
+[00:04:11 -> 00:04:16]  you go jə, then that's where palatal sounds live. We also have the hɪ sound in German
+[00:04:16 -> 00:04:21]  words like ich or mich placed here. What we do have in English, though, are wieler
+[00:04:21 -> 00:04:25]  sounds, or sounds that are made against the soft palate, or wieler. That's the squishy
+[00:04:25 -> 00:04:30]  bit that's right behind the hard palate. Here's where our kəs and gəs hang out.
+[00:04:30 -> 00:04:34]  Also our ngs, which is the sound that you get at the end of words like sing or raw.
+[00:04:34 -> 00:04:39]  It might seem like these are two separate sounds, but if you feel how your mouth moves
+[00:04:39 -> 00:04:42]  when you make a word like pang, you'll notice that your tongue never goes anywhere
+[00:04:42 -> 00:04:47]  near the alveolar ridge. It's all up at the back, pillowing up against the soft palate.
+[00:04:47 -> 00:04:51]  Now, our next column is for uvular sounds. They're made against that little dangly
+[00:04:51 -> 00:04:56]  punching bag thing at the back of your throat, the uvula. These don't exist in English
+[00:04:56 -> 00:05:01]  at all, but we make the French hə back there, as well as sounds like qə and hə, which exist
+[00:05:01 -> 00:05:03]  in languages from Aleut to Arabic.
+[00:05:03 -> 00:05:07]  Finally, we have sounds that are made even further down, like right in the throat. Some
+[00:05:07 -> 00:05:11]  of these, like the pharyngeal and epiglottal sounds, are made by constricting the airflow
+[00:05:11 -> 00:05:15]  just above the vocal folds in the larynx. But the farthest back place you can make a
+[00:05:15 -> 00:05:20]  consonant is in the larynx itself. These are known as glottal sounds, from the technical
+[00:05:20 -> 00:05:24]  term glottis, the space that appears between the vocal folds when they open for air to
+[00:05:24 -> 00:05:25]  pass through.
+[00:05:25 -> 00:05:30]  We've got a couple of these sounds in English. One is hə, which is a glottal fricative.
+[00:05:30 -> 00:05:34]  But the other you might not have even noticed is a sound before. It's the sudden stop
+[00:05:34 -> 00:05:39]  in the middle of a word, like uh-oh, or the sound before nn in botn. This is called a
+[00:05:39 -> 00:05:44]  glottal stop, and even though it's not widespread in English, it's still part of our inventory
+[00:05:44 -> 00:05:45]  of sounds.
+[00:05:45 -> 00:05:50]  OK, so those are all the places of articulation. These are the columns in our table, from left
+[00:05:50 -> 00:05:53]  to right in the chart, and from front to back in our mouths.
+[00:05:53 -> 00:05:57]  Now, let's go back and check out what rows we have. They represent the different manners
+[00:05:57 -> 00:06:02]  of articulation, or the way that you can cut up the airflow as it passes through your vocal
+[00:06:02 -> 00:06:07]  tract. These generally go in the chart, from most closed to most open, so from top to bottom.
+[00:06:07 -> 00:06:12]  So up top, we have plosives, which are also known as stops. Like you'd guess from the
+[00:06:12 -> 00:06:16]  name, these are pronounced by stopping the air completely, and then letting it go again.
+[00:06:16 -> 00:06:22]  Our old friends pə, tə, and kə are here, as well as bə, də, and gə. And of course,
+[00:06:22 -> 00:06:25]  there are other stops, too, like the qə that we talked about earlier.
+[00:06:25 -> 00:06:28]  Whenever you're pushing air from your lungs, and it can't escape from your mouth until
+[00:06:28 -> 00:06:31]  you let go, that's a stop.
+[00:06:31 -> 00:06:34]  But what if you stop air from getting out of your mouth, but you leave another escape
+[00:06:34 -> 00:06:37]  route? Like, say, through your nose?
+[00:06:37 -> 00:06:43]  Down one row, we have the nasals, your ns and ns, but also the ng we saw before. Here,
+[00:06:43 -> 00:06:47]  the air only comes out of your nose. There's a complete stop in your mouth, but you lower
+[00:06:47 -> 00:06:52]  your soft palate, and the air rushes out the only way it can, through your nasal cavity.
+[00:06:52 -> 00:06:57]  That's why, when you have a cold, and your nose is plugged up, your ns sound a lot like
+[00:06:57 -> 00:06:58]  dəs.
+[00:06:58 -> 00:07:01]  Də and nə are the same sound, if you take your nose away.
+[00:07:01 -> 00:07:06]  The next rows are for sounds that are like stops, but just executed really rapidly. Trills
+[00:07:06 -> 00:07:11]  involve closing and opening the airflow multiple times quickly in the same place, just drumming
+[00:07:11 -> 00:07:16]  one articulator against another. So it's like the alveolar trill that you get in Spanish
+[00:07:16 -> 00:07:22]  for rr, like in a word like burro or donkey. Or the bilabial trill rr, which shows up in
+[00:07:22 -> 00:07:24]  the ass word for jaw, sivi.
+[00:07:24 -> 00:07:29]  Taps, also known as flaps, are just like a trill, except instead of repeating the movement
+[00:07:29 -> 00:07:34]  over and over, you just do it once. The də sound in butter is a flap, for example, as
+[00:07:34 -> 00:07:38]  is the middle consonant in the Japanese word for spicy, karai.
+[00:07:38 -> 00:07:42]  The next bunch of sounds finally get away from total closure of the mouth, and they're
+[00:07:42 -> 00:07:46]  known as fricatives. Fricatives are noisy sounds. The air does come out, unlike with
+[00:07:46 -> 00:07:51]  plosives, but it is mostly obstructed still, so it comes out in a pretty hissy kind of
+[00:07:51 -> 00:07:52]  way.
+[00:07:52 -> 00:07:56]  You can get these guys at pretty much every place of articulation. A few nice examples
+[00:07:56 -> 00:08:03]  are ff and vv, which are labiodental fricatives, or ss and zz, which are alveolar ones.
+[00:08:03 -> 00:08:07]  The most free-flowing kind of consonants are known as approximants. For these sounds, air
+[00:08:07 -> 00:08:11]  can make it up pretty easily from the lungs and out of the mouth, but it's not quite
+[00:08:11 -> 00:08:15]  as smooth a ride as it is with vowels, where the air is super free.
+[00:08:15 -> 00:08:21]  Now, English has three regular approximants, rr, jj, and ww. These sounds have very strong
+[00:08:21 -> 00:08:27]  acoustic profiles. They're loud and easy to hear. J and ww are almost exactly the same
+[00:08:27 -> 00:08:32]  as the vowels i and ɜ, just said really quickly. Just hold a j and c.
+[00:08:32 -> 00:08:38]  But they behave basically like consonants for how languages treat them.
+[00:08:38 -> 00:08:42]  You'll note that there are two other rows there as well, for lateral fricatives and
+[00:08:42 -> 00:08:46]  approximants. What's that lateral thing about? Well, usually, air just flows right
+[00:08:46 -> 00:08:51]  out through the middle of our mouths. But that's not the only way for it to go.
+[00:08:51 -> 00:08:55]  You can also block up the middle of the mouth, but curl down the sides of your tongue, and
+[00:08:55 -> 00:08:59]  let the air escape that way. That's why these sounds are known as laterals. They've
+[00:08:59 -> 00:09:05]  got side flow. Just feel what you do with your tongue for ul in English, like in lucky.
+[00:09:05 -> 00:09:09]  Sides down, right? But if they don't go all the way down, you can get tight, fricative-style
+[00:09:09 -> 00:09:13]  flow around the sides of the tongue, like in the Welsh word for the other, chach.
+[00:09:13 -> 00:09:17]  Finally, maybe you've noticed that we've been pairing up sounds together on the chart,
+[00:09:17 -> 00:09:23]  like ff and vv, or ss and zz. That's because there's one other way in which sounds can
+[00:09:23 -> 00:09:28]  differ, besides place and manner of articulation. Sounds can also be voiced or voiceless, depending
+[00:09:28 -> 00:09:31]  on whether your vocal folds are vibrating or not while you say them.
+[00:09:31 -> 00:09:35]  Now, you can see this for yourself. Just put your fingers here on your throat, and then
+[00:09:35 -> 00:09:40]  say, sssss. Now, you might hear a little bit of hissing in your mouth, but that's where
+[00:09:41 -> 00:09:46]  it ends, right? Okay, now switch to zzzzzz. Woah, now your throat is all vibrating too!
+[00:09:46 -> 00:09:50]  That's because the zz sound is voiced, and ss is voiceless.
+[00:09:50 -> 00:09:57]  Now, the same is true for th and thgg. Try it out, I'll wait.
+[00:09:57 -> 00:10:01]  As huge as the IPA chart can seem, it really covers only a fraction of the sounds that
+[00:10:01 -> 00:10:07]  human language contains. We can add a whole bunch of diacritics, or symbols on or next
+[00:10:07 -> 00:10:11]  to the letter to show exactly how you're pronouncing things. Now, if you're curious
+[00:10:11 -> 00:10:15]  about what those look like, we have some information about it back on our website. But you can
+[00:10:15 -> 00:10:20]  see just how much we can capture using only these three dimensions – where we pronounce
+[00:10:20 -> 00:10:24]  things, how much air we let through, and whether we're vibrating while we do it. We only
+[00:10:24 -> 00:10:29]  need three factors to show you just how amazing your mouth really is.
+[00:10:29 -> 00:10:33]  So we've reached the end of the Ling Space for this week. If you correctly read the places
+[00:10:33 -> 00:10:37]  of my articulators, you learned that the IPA chart is organized by place and manner
+[00:10:37 -> 00:10:42]  of articulation, that we divide up the inside of our mouth into tiny little regions, from
+[00:10:42 -> 00:10:46]  the lips back to the larynx, that we distinguish different consonants based on how much air
+[00:10:46 -> 00:10:51]  can escape from the vocal tract and how it gets out, and that we can make even more sounds
+[00:10:51 -> 00:10:54]  by vibrating our vocal folds while we talk.
+[00:10:54 -> 00:10:59]  The Ling Space is produced by me, Moti Lieberman. It's directed by Adèle-Elise Prévost,
+[00:10:59 -> 00:11:03]  and it's written by both of us. Our production assistant is Georges Coulombe, our music and
+[00:11:03 -> 00:11:08]  sound design is by Shane Turner, and our graphics team is atelierMUSE. We're down in the comments
+[00:11:08 -> 00:11:11]  below, or you can bring the discussion back over to our website, where we'll have some
+[00:11:11 -> 00:11:13]  extra material on this topic.
+[00:11:13 -> 00:11:17]  Check us out on Tumblr, Twitter, and Facebook, and if you want to keep expanding your own
+[00:11:17 -> 00:11:22]  personal Ling Space, please subscribe. And we'll see you next Wednesday. See ya'stok!

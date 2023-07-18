@@ -1,0 +1,1500 @@
+[00:00:00 -> 00:00:03]  In diesem Video geht es um Tonartwechsel und Modulation.
+[00:00:03 -> 00:00:08]  Wir schauen uns sämtliche Techniken, die es da gibt, an und ich verrate dir,
+[00:00:08 -> 00:00:11]  wie du von einer Tonart in jede beliebige Tonart kommst.
+[00:00:11 -> 00:00:12]  Viel Spaß!
+[00:00:23 -> 00:00:26]  Moin Moin und herzlich willkommen hier auf diesem Kanal.
+[00:00:26 -> 00:00:31]  Hier findest du regelmäßig alles zum Thema Musiktheorie, Komposition und Arrangement.
+[00:00:31 -> 00:00:35]  Wenn du immer auf dem neuesten Stand bleiben willst, vergiss nicht ein Abo da zu lassen
+[00:00:35 -> 00:00:40]  und am Ende des Videos auf Gefällt mir zu klicken, wenn dir dieses Video gefallen hat.
+[00:00:40 -> 00:00:46]  Tonartwechsel und Modulation stellen in der Musiktheorie nicht umsonst die Königsdisziplin
+[00:00:46 -> 00:00:48]  der Harmonielehre dar.
+[00:00:48 -> 00:00:52]  Deshalb werden wir in diesem Video einen kleinen Sprung ins kalte Wasser machen
+[00:00:53 -> 00:00:58]  und uns jede einzelne Technik der Modulation einmal genauer angucken
+[00:00:58 -> 00:01:01]  und einmal schauen, wie so eine Modulation funktioniert.
+[00:01:01 -> 00:01:05]  Trotz der Länge und des inhaltlichen Umfangs dieses Videos
+[00:01:05 -> 00:01:10]  gehe ich in diesem Video auf jede Modulations- und Tonartwechseltechnik
+[00:01:10 -> 00:01:12]  immer nur grundlegend ein.
+[00:01:12 -> 00:01:18]  Das liegt daran, dass Modulation wirklich mit sehr, sehr vielen Disziplinen der Harmonielehre zusammenhängt
+[00:01:18 -> 00:01:23]  und man sehr, sehr lange an der Modulationslehre studieren kann,
+[00:01:23 -> 00:01:26]  bis man wirklich jede einzelne Modulationstechnik beherrscht.
+[00:01:26 -> 00:01:30]  Ich hoffe dir dennoch einen sehr, sehr guten Überblick bringen zu können
+[00:01:30 -> 00:01:33]  und dir die Modulation insgesamt näher zu bringen.
+[00:01:33 -> 00:01:38]  Wie immer findest du in der Beschreibung zu diesem Video auch eine Kapitelübersicht,
+[00:01:38 -> 00:01:42]  in der du dir die einzelnen Themen dieses Videos anschauen kannst
+[00:01:42 -> 00:01:44]  und von Thema zu Thema springen kannst.
+[00:01:44 -> 00:01:50]  Außerdem kannst du dir mithilfe der Kapitelübersicht auch wunderbar dieses Video in einzelnen Häppchen ansehen.
+[00:01:50 -> 00:01:55]  In der Musiktheorie bezeichnen wir die Lehre Tonarten zu wechseln
+[00:01:55 -> 00:02:00]  von einer Tonart in eine andere als Modulationslehre
+[00:02:00 -> 00:02:07]  und die Modulationslehre ist ein sehr, sehr, sehr umfangreiches Untergebiet der Harmonielehre
+[00:02:07 -> 00:02:14]  und die Modulationslehre umfasst zudem auch noch ganz, ganz viele andere Themen der Harmonielehre.
+[00:02:14 -> 00:02:19]  Deshalb kann man sich mit diesem Gebiet der Modulation sehr, sehr lange beschäftigen,
+[00:02:19 -> 00:02:26]  bevor man wirklich gut durchblickt und eine gute Übersicht über Modulationstechniken hat.
+[00:02:26 -> 00:02:32]  Aus diesem Grunde werde ich in diesem Video natürlich an einigen Stellen eine ganze Menge weglassen
+[00:02:32 -> 00:02:40]  oder nur kurz erwähnen und versuchen dennoch alle Modulationstechniken so gut wie möglich zu beschreiben.
+[00:02:40 -> 00:02:45]  Von dem Wort Modulation leitet sich das Verb modulieren ab
+[00:02:45 -> 00:02:50]  und modulieren heißt nichts anderes als abwandeln oder verändern.
+[00:02:50 -> 00:02:58]  Es kommt ursprünglich aus dem lateinischen modulor und das hieß so viel wie einrichten und regeln.
+[00:02:58 -> 00:03:04]  Eine Definition von Tonartwechseln oder Modulationen liefert uns Hugo Riemann.
+[00:03:04 -> 00:03:08]  Hugo Riemann gilt als Urvater der deutschen Musiktheorie
+[00:03:08 -> 00:03:15]  und hat sehr, sehr viele Werke über Musiktheorie verfasst und ganz, ganz viele Schulwerke dazu auch verfasst.
+[00:03:15 -> 00:03:19]  Und Hugo Riemann hat eine Modulation wie folgt definiert.
+[00:03:19 -> 00:03:25]  In der duomoltonalen Musik bezeichnet die Modulation den Übergang aus einer Tonart in eine andere
+[00:03:25 -> 00:03:34]  bzw. das Übergehen der Bedeutung des Hauptklanges, den man ja auch als Tonika definiert, auf einen anderen Klang.
+[00:03:34 -> 00:03:42]  Jede Modulation setzt voraus, dass zunächst eine Ausgangstonart durch ihre wesentlichsten Akkorde eindeutig dargestellt ist.
+[00:03:42 -> 00:03:47]  Was uns Herr Riemann damit sagen will, das schauen wir uns mal in diesem Beispiel an.
+[00:03:47 -> 00:03:54]  Hier siehst du drei verschiedene Akkorde, einen C-Dur-Akkord, einen F-Dur-Akkord und einen G7-Akkord.
+[00:03:54 -> 00:04:00]  Dann wird der erste Akkord wiederholt und hier wird ein tonales Zentrum gefestigt.
+[00:04:00 -> 00:04:04]  C-Dur ist in diesem Fall hier die Tonika, der Akkord der Tonika.
+[00:04:04 -> 00:04:10]  Hier fühlen wir uns zu Hause, denn das hier sind alles Akkorde aus der Tonart C-Dur.
+[00:04:10 -> 00:04:17]  Und hier vom G7, von der Dominanten des C-Dur-Akkords, geht es dann wieder zurück zu C-Dur.
+[00:04:17 -> 00:04:27]  Hier etabliert sich unser tonales Zentrum wirklich auf der Tonika C-Dur und wir sind hier ganz fest in der Tonart C-Dur.
+[00:04:27 -> 00:04:29]  Das hat Hugo Riemann vorausgesetzt.
+[00:04:29 -> 00:04:36]  Ab hier könnten wir jetzt theoretisch modulieren und wie diese Modulation funktioniert, das schauen wir uns auch sofort an.
+[00:04:36 -> 00:04:46]  Nach dieser Modulation sind wir dann mehr oder minder galant in eine andere Tonart gekommen und diese Tonart wird dann auch wieder gefestigt,
+[00:04:46 -> 00:04:50]  dass unser Ohr genau weiß, okay, wir sind jetzt in dieser Tonart.
+[00:04:50 -> 00:04:55]  Hier für dieses Beispiel, zum Beispiel die Tonart G-Dur und du siehst hier die Tonika G-Dur,
+[00:04:55 -> 00:05:04]  subdominante C-Dur und dominante D-Dur, beziehungsweise hier Dess mit kleiner Septime, ein Dess-Dominant-7-Akkord,
+[00:05:04 -> 00:05:08]  der sich über den Tritonus zum Gess-Dur wieder auflöst.
+[00:05:08 -> 00:05:15]  Auf den Tritonus komme ich aber hier im Thema Modulation gleich noch öfter zu sprechen und wir gucken uns den auch nochmal genauer an.
+[00:05:15 -> 00:05:20]  Bevor wir uns nun die ganzen Modulationstechniken anschauen,
+[00:05:20 -> 00:05:31]  schauen wir uns erstmal eine Modulation an, die etwas moderner ist und eine Modulationsart, wie sie heutzutage in moderner Musik gemacht wird.
+[00:05:31 -> 00:05:43]  Du siehst hier eine Melodie, die über vier Takte lang in Cis-Moll noch steht und sich in Cis-Moll bewegt und dann moduliert diese Melodie zu F-Moll.
+[00:05:43 -> 00:05:51]  Das ist eine ziemlich harte Modulation, weil es hier von einer Tonart mit vier Kreuzen zu vier Bs geht.
+[00:05:51 -> 00:06:20]  Und du solltest jetzt deutlich eine Veränderung der Tonart bemerkt haben, wenn du die Melodie verfolgt hast.
+[00:06:20 -> 00:06:25]  Dann hast du hier so spätestens gemerkt, dass wir uns in einer anderen Tonart befinden.
+[00:06:25 -> 00:06:31]  Schauen wir uns die zugehörigen Akkorde zu dieser sehr, sehr bekannten Melodie an.
+[00:06:31 -> 00:06:36]  Dann sehen wir auch, dass eben die Akkorde eine wichtige Rolle spielen für Modulation,
+[00:06:36 -> 00:06:58]  so wie uns Hugo Riemann das auch schon in seiner Definition aufgestellt hat.
+[00:06:58 -> 00:07:08]  Du hast es wahrscheinlich schon erkannt, die hier angesprochene, sehr extreme Modulation von einer Tonart mit vier Kreuzen zu einer Tonart mit vier Bs,
+[00:07:08 -> 00:07:21]  die stammt aus dem Liebesthema aus dem Film Titanic und in diesem Beispiel eben halt aus dem Song Mahat will go on gesungen von Céline Dion und komponiert von James Horner,
+[00:07:21 -> 00:07:43]  dem gleichen Komponisten, der eben auch die Filmmusik zu diesem Film gemacht hat.
+[00:07:43 -> 00:07:55]  Welche Modulationstechnik James Horner nun benutzt hat, schauen wir uns im Laufe des Videos an und starten jetzt erstmal mit den einfachsten Techniken der Modulation.
+[00:07:55 -> 00:08:03]  Die erste Modulationstechnik, die wir sehr, sehr einfach erlernen können, ist die sogenannte direkte Modulation oder Rückung.
+[00:08:03 -> 00:08:10]  Im Englischen heißt diese Modulationstechnik Direct Modulation, also 1 zu 1 übersetzt.
+[00:08:10 -> 00:08:20]  Warum ich hier die englischen Begriffe immer nochmal dazu schreibe und sie sogar groß schreibe, das wird später klar, denn wir haben in unseren unterschiedlichen Harmonielehren,
+[00:08:20 -> 00:08:30]  in der internationalen, in der Jazz-Harmonielehre und in der klassischen Harmonielehre, haben wir teilweise sehr, sehr starke Definitionsunterschiede und da macht es Sinn,
+[00:08:30 -> 00:08:35]  ein bisschen hin und her zu springen, um alles wirklich zu erfassen und zu verstehen.
+[00:08:35 -> 00:08:40]  Hier unten siehst du ganz sparsam eine direkte Modulation ausgedrückt.
+[00:08:40 -> 00:08:47]  Wir sind hier am Anfang in der Tonart C-Dur, den Bereich C-Dur habe ich auch hier in blau gekennzeichnet.
+[00:08:47 -> 00:08:54]  Dann geht es zum Akkord der zweiten Stufe aus C-Dur, ein Dm7 hier mit der kleinen Septime noch drin.
+[00:08:54 -> 00:09:01]  Dann haben wir noch einen Akkord aus C-Dur, die Dominante zu C-Dur und hier löst sich das Ganze wieder zurück nach C-Dur auf.
+[00:09:01 -> 00:09:13]  Das mache ich aus dem Grunde, damit du, wenn du dieses Hörbeispiel gleich hörst, auch wirklich hier auf dem C-Dur-Akkord die Tonika hörst und wir hier unser tonales Zentrum haben und auch die Modulation dann wahrnehmen können.
+[00:09:13 -> 00:09:26]  Bei einer direkten Modulation modulieren wir jetzt absolut unvorbereitet und direkt von einer Tonart, die sich etabliert hat, in die nächste und wir haben hier nichts zwischen,
+[00:09:26 -> 00:09:35]  was diesen Wechsel jetzt irgendwie beschönigt oder was ihn einfach macht oder fürs Gehör so ein bisschen vorbereitet und vorhersagt.
+[00:09:35 -> 00:09:49]  Wir gehen einfach in die nächste Tonart nach Medisinnflut und dann sind wir hier in D-Dur und du hörst dieselben Akkorde von hier oben dann in der Tonart D-Dur, das heißt also einen Halbton höher als C-Dur.
+[00:09:49 -> 00:09:55]  Bei der direkten Modulation musst du nicht immer zwingend einen Halbton nach oben gehen, so ist es meistens in der Popmusik.
+[00:09:55 -> 00:10:01]  So werden direkte Modulationen in der Popmusik eingesetzt. Meistens kann man sie schon gar nicht mehr hören.
+[00:10:01 -> 00:10:09]  Man kann auch zwei Halbtöne, also einen ganzen Ton nach oben modulieren oder nach unten modulieren, eine große Terz, eine kleine Terz nach oben.
+[00:10:09 -> 00:10:15]  Das ist alles möglich und eine direkte Modulation klingt dann hier fürs Beispiel so.
+[00:10:19 -> 00:10:37]  In der Praxis finden wir direkte Modulationen, wie ich bereits schon gesagt habe, ganz oft in der Popmusik und hier sehen wir eine direkte Modulation am Beispiel vom Song Man in the Mirror,
+[00:10:37 -> 00:10:45]  damals gesungen von Michael Jackson, geschrieben und komponiert aber von Glenn Bellet und Cedar Garrett, also nicht von Michael Jackson.
+[00:10:45 -> 00:10:51]  Blau gekennzeichnet habe ich hier wieder den Bereich, in dem wir uns in C-Dur befinden.
+[00:10:51 -> 00:10:57]  Hier am Ende sehen wir auch wieder die Dominante aus C-Dur ein bisschen erweitert, das soll uns hier aber nicht stören.
+[00:10:57 -> 00:11:08]  Dieses G7 leitet wieder zum C-Dur Akkord zurück und das macht es auch zweieinhalb Minuten lang in diesem Song, bevor wir eine Modulation hören.
+[00:11:08 -> 00:11:14]  Also dieser G7 Akkord löst sich vorher immer wieder zur Tonika C-Dur auf.
+[00:11:14 -> 00:11:23]  Zum Ende des Songs hören wir dann diese direkte Modulation, hier transponiert nach C-Dur und wir gehen von C-Dur zu D-Dur.
+[00:11:23 -> 00:11:31]  Der Song moduliert also einen Halbton nach oben und das wird direkt gemacht, eine direkte Modulation.
+[00:11:31 -> 00:11:35]  Ich muss dazu sagen, dass ich die Beispiele immer nach C-Dur transponiert habe.
+[00:11:35 -> 00:11:38]  Der Song Man in the Mirror ist nicht in C-Dur.
+[00:11:38 -> 00:11:43]  Und diese direkte Modulation, die klingt dann in diesem Beispiel jetzt so.
+[00:12:09 -> 00:12:20]  Während die Modulation, die wir uns eben angeguckt haben, die direkte Modulation, jetzt unvorbereitet war, sind die meisten anderen Modulationstechniken vorbereitet.
+[00:12:20 -> 00:12:29]  Wir bereiten das Gehör so langsam darauf vor, dass das tonale Zentrum wechselt und kommt dann sicher in einem neuen tonalen Zentrum an.
+[00:12:29 -> 00:12:39]  Und die erste Modulationstechnik, die wir hierfür anwenden können, um so eine Modulation vorzubereiten, ist die diatonische Modulation.
+[00:12:39 -> 00:12:52]  Diatonisch meint in diesem Fall, dass wir zur Modulation Akkorde benutzen, die gemeinsam in unserer Starttonart, in unserer Anfangstonart und in unserer Zieltonart,
+[00:12:52 -> 00:12:58]  in der Tonart, in der wir ankommen wollen, vorkommen, um beide Tonarten zu verbinden.
+[00:12:58 -> 00:13:08]  Um das zu verdeutlichen, habe ich hier einmal gemeinsame Akkorde im Quintenzirkel benachbarter Tonarten, im Beispiel für C-Dur aufgeschrieben.
+[00:13:08 -> 00:13:17]  Du siehst hier die Tonart C-Dur und hier siehst du die jeweiligen Stufenakkorde von C-Dur auf der ersten Stufe C-Dur,
+[00:13:17 -> 00:13:29]  dann D-Moll, E-Moll auf der dritten, F-Dur auf der vierten, G-Dur auf der fünften, A-Moll auf der sechsten und H-Moll mit verminderter Quinte auf der siebten Stufe.
+[00:13:29 -> 00:13:40]  Über und unter diese Tonart C-Dur habe ich immer jeweils die im Quintenzirkel benachbarten Tonarten geschrieben und auch hier jeweils die Stufen-Dreiklänge ergänzt.
+[00:13:40 -> 00:13:47]  Das heißt also, wenn wir vom C-Dur aus bzw. vom C aus im Quintenzirkel einmal gegen den Uhrzeigersinn weitergehen,
+[00:13:47 -> 00:13:55]  haben wir dann eben F-Dur bzw. das F und wenn wir dann noch einen Schritt weitergehen, dann landen wir auf dem B
+[00:13:55 -> 00:13:58]  und hier siehst du eben die Stufenakkorde von B-Dur.
+[00:13:58 -> 00:14:03]  In die andere Richtung habe ich das auch nochmal um zwei Schritte gemacht im Uhrzeigersinn
+[00:14:03 -> 00:14:08]  und so sehen wir jetzt insgesamt fünf Tonarten, die wir miteinander vergleichen können.
+[00:14:08 -> 00:14:15]  Um diatonisch modulieren zu können, müssen wir jetzt also wissen, welche Akkorde haben meine Starttonart,
+[00:14:15 -> 00:14:22]  die in unseren Beispielen immer C-Dur ist und unsere Zieltonart z.B. F-Dur oder G-Dur gemeinsam
+[00:14:22 -> 00:14:25]  und wir können hier an diesem Schaubild jetzt einfach mal nachgucken.
+[00:14:25 -> 00:14:30]  Wie wäre es denn z.B. wenn wir von C-Dur nach G-Dur modulieren würden?
+[00:14:30 -> 00:14:35]  Da müssten wir uns jetzt gemeinsame Akkorde von C-Dur und G-Dur heraussuchen
+[00:14:36 -> 00:14:39]  und die habe ich hier einmal blau untereinander markiert.
+[00:14:39 -> 00:14:47]  Den C-Dur-Akkord als Toniker in der Tonart C-Dur finden wir auch auf der vierten Stufe einer G-Dur-Tonleite,
+[00:14:47 -> 00:14:54]  denn hier hätten wir unseren G-Dur-Akkord, erste Stufe, A-Moll zweite Stufe, H-Moll dritte Stufe
+[00:14:54 -> 00:14:59]  und hier unten hat sich die vierte Stufe hingeschlichen, damit wir die Akkorde auch schön vergleichen können.
+[00:15:00 -> 00:15:05]  Der Akkord C-Dur ist gemeinsam in der Tonart C-Dur und G-Dur enthalten.
+[00:15:05 -> 00:15:11]  Ebenso sieht es mit dem E-Moll-Akkord aus, den finden wir in der Tonart C-Dur und in der Tonart G-Dur.
+[00:15:11 -> 00:15:18]  Genauso sieht es aus mit dem G-Dur-Dreiklang, den finden wir in der Tonart G-Dur und C-Dur.
+[00:15:18 -> 00:15:24]  Hier müssen wir allerdings aufpassen, wenn wir hier jetzt den Dreiklang erweitern würden zum Vierklang in C-Dur,
+[00:15:24 -> 00:15:31]  dann würden wir hier ein G7 bekommen und hier würde unser G-Dur-Akkord ein G-Major-7 werden
+[00:15:31 -> 00:15:34]  und eben nicht mehr dieselbe Funktion haben.
+[00:15:34 -> 00:15:41]  Ebenfalls gemeinsam haben diese beiden Tonarten einen A-Moll-Akkord und hier haben wir dann wieder Abweichung.
+[00:15:41 -> 00:15:47]  Wir haben also in diesen beiden Tonarten vier gemeinsame Akkorde, mit denen wir die beiden Tonarten verknüpfen können
+[00:15:47 -> 00:15:51]  und so gemütlich von einer Tonart in die andere modulieren können.
+[00:15:51 -> 00:15:54]  Da schauen wir uns ein Beispiel mal an.
+[00:15:54 -> 00:16:00]  Hier siehst du nun einmal das Beispiel für eine diatonische Modulation von C-Dur nach G-Dur.
+[00:16:00 -> 00:16:06]  Hier in diesem blau gekennzeichneten Bereich befinden wir uns in der Tonart C-Dur
+[00:16:06 -> 00:16:12]  und dort bewegen wir uns eine Zeit lang durch und landen nach der Dominanten aus C-Dur
+[00:16:12 -> 00:16:19]  auch wieder auf der Tonika von C-Dur im C-Dur-Akkord, damit sich diese Tonart auch festigt bei uns.
+[00:16:19 -> 00:16:26]  Dann siehst du hier orange gekennzeichnet gemeinsame Akkorde aus der Tonart C-Dur und G-Dur.
+[00:16:26 -> 00:16:31]  Der C-Dur-Akkord kommt gemeinsam vor, der E-Moll-Akkord und der A-Moll-Akkord.
+[00:16:31 -> 00:16:40]  Diese Akkorde wurden hier also zur Modulation benutzt, damit man diatonisch schon mal zwei Tonarten verbinden kann.
+[00:16:40 -> 00:16:43]  Und das Ganze funktioniert jetzt so.
+[00:16:43 -> 00:16:47]  Wir sehen hier in C-Dur die Tonika, den Akkord der ersten Stufe.
+[00:16:47 -> 00:16:53]  In G-Dur würden wir rückbetrachtend die Subdominante hier sehen, den Akkord der vierten Stufe.
+[00:16:53 -> 00:16:55]  Hier geht es jetzt weiter.
+[00:16:55 -> 00:16:59]  In C-Dur würden wir hier den Akkord der dritten Stufe, E-Moll, sehen.
+[00:16:59 -> 00:17:04]  In G-Dur hätten wir den Akkord der sechsten Stufe, auch wieder E-Moll.
+[00:17:04 -> 00:17:13]  Hier hätten wir nun den Akkord der sechsten Stufe aus C-Dur und eben der zweiten Stufe aus G-Dur.
+[00:17:13 -> 00:17:18]  Von diesem Akkord aus geht es weiter zur Dominanten aus G-Dur.
+[00:17:18 -> 00:17:22]  Die brauchen wir, um eine starke Auflösung in die neue Tonart zu bekommen.
+[00:17:22 -> 00:17:27]  Wir haben hier außerdem, wenn du dir schon Videos von mir angeschaut hast, wirst du das sehen,
+[00:17:27 -> 00:17:37]  eine 2-5-1-Kadenz, eine Jazz-Kadenz in G-Dur schon, die stark dann in die nächste Tonart reinzieht.
+[00:17:37 -> 00:17:39]  Deshalb funktioniert diese Modulation auch so gut.
+[00:17:39 -> 00:17:45]  Hier ist noch ein gemeinsamer Akkord und hier haben wir dann schon den ersten Akkord der Tonart G-Dur.
+[00:17:45 -> 00:17:49]  Und bei dieser Modulation sprechen wir von einer diatonischen Modulation.
+[00:17:49 -> 00:17:54]  Man nennt diese Modulation auch gerne Drehpunkt- oder Drehbereichsmodulation,
+[00:17:54 -> 00:17:57]  weil wir hier einen gewissen Drehbereich haben.
+[00:17:57 -> 00:18:01]  Das sind Akkorde, die könnten in beiden Tonarten drin sein.
+[00:18:01 -> 00:18:06]  Und hier können wir nicht so genau zuordnen, wo wir uns genau befinden.
+[00:18:06 -> 00:18:11]  Im Englischen wird diese Modulation als Common Chord, also gemeinsame Akkordmodulation,
+[00:18:11 -> 00:18:17]  oder als Pivot Chord, also Drehpunkt-Akkordmodulation bezeichnet.
+[00:18:17 -> 00:18:22]  Und die Modulation muss auch nicht so lang vonstatten gehen, wie ich das hier gemacht habe.
+[00:18:22 -> 00:18:26]  Es hätte völlig gereicht, wenn hier die Akkorde in C-Dur gekommen wären.
+[00:18:26 -> 00:18:30]  Dann hätte ich das nach C-Dur aufgelöst, wenn überhaupt.
+[00:18:30 -> 00:18:34]  Ich hätte auch gleich nach A-Moll weitergehen können als Trugschluss.
+[00:18:35 -> 00:18:40]  Und dann eben A-Moll, D-Dur und dann komme ich nach G-Dur in der Modulation.
+[00:18:40 -> 00:18:43]  Ich habe die Modulation hier etwas länger gemacht, damit du hörst,
+[00:18:43 -> 00:18:47]  wie Suche, wie Weichmann hier von einer Tonart in die andere kommt.
+[00:18:48 -> 00:18:54]  Wie eine diatonische Modulation funktionieren kann, sehen wir sehr schön im Präludium im C
+[00:18:54 -> 00:18:59]  aus dem wohltemperierten Klavier von Johann Sebastian Bach.
+[00:18:59 -> 00:19:03]  Dort finden wir eine Modulation von C-Dur nach G-Dur.
+[00:19:03 -> 00:19:07]  Und hier sehen wir, wie eine Modulation von C-Dur nach G-Dur funktioniert.
+[00:19:07 -> 00:19:12]  Und hier sehen wir, wie eine Modulation von C-Dur nach G-Dur funktioniert.
+[00:19:12 -> 00:19:14]  Johann Sebastian Bach.
+[00:19:14 -> 00:19:20]  Dort finden wir eine Modulation von C-Dur nach G-Dur, bereits nach den allerersten paar Takten.
+[00:19:20 -> 00:19:25]  Hier sprechen wir von einer angedeuteten Modulation oder einer Ausweichung.
+[00:19:25 -> 00:19:28]  Wir bleiben jetzt nicht weiter in der erreichten Tonart,
+[00:19:28 -> 00:19:32]  sondern es geht dann schon wieder zurück und nochmal weiter in andere Tonarten.
+[00:19:32 -> 00:19:38]  Aber das soll ein Beispiel sein, wie man jetzt so eine diatonische Modulation machen kann.
+[00:19:38 -> 00:19:43]  Hier oben siehst du Akkorde von C-Dur, die hier gespielt werden.
+[00:19:43 -> 00:19:46]  Das Ganze sind Arpeggios, das sind also Akkordbrüche.
+[00:19:46 -> 00:19:50]  Die einzelnen Akkordtöne werden nacheinander präsentiert und gespielt.
+[00:19:50 -> 00:19:53]  Im ersten Takt hören wir einen C-Dur-Akkord.
+[00:19:53 -> 00:19:57]  Dann hören wir einen D-Moll-Akkord über dem Ton C.
+[00:19:57 -> 00:20:03]  Dann hören wir einen G-Dominant-Sept-Akkord, die Dominante aus C-Dur über H.
+[00:20:03 -> 00:20:06]  Und dann hören wir wieder einen C-Dur-Dreiklang.
+[00:20:06 -> 00:20:09]  Die Tonart C-Dur wurde hier also etabliert.
+[00:20:09 -> 00:20:17]  Nun beginnt unsere diatonische Modulation mit dem gemeinsamen Akkord, mit dem Common Chord oder mit dem Pivot Chord.
+[00:20:17 -> 00:20:21]  Der Moll-Akkord ist der Akkord der sechsten Stufe aus C-Dur.
+[00:20:21 -> 00:20:26]  Und es ist eben auch der Akkord der zweiten Stufe aus G-Dur.
+[00:20:26 -> 00:20:32]  Der verbindet dann wunderbar die beiden Tonarten mit der Dominanten aus G-Dur.
+[00:20:32 -> 00:20:36]  Und über die Dominante löst sich das Ganze nach G-Dur auf.
+[00:20:36 -> 00:20:40]  Hier kann man noch so ein bisschen zweifeln, ob wir wirklich in G-Dur sind.
+[00:20:40 -> 00:20:45]  Dann geht es weiter. C-Dur ist auch in der Tonart G-Dur enthalten.
+[00:20:45 -> 00:20:49]  A-Moll-7, zweite Stufe aus G-Dur, fünfte Stufe.
+[00:20:49 -> 00:20:51]  Und hier wieder Tonika G-Dur.
+[00:20:51 -> 00:20:57]  Hier würden wir ganz klar G-Dur als tonales Zentrum und als Tonart dann hören.
+[00:20:57 -> 00:21:01]  Das heißt also, hier wurde das Ganze dann noch gefestigt.
+[00:21:02 -> 00:21:31]  Musik
+[00:21:31 -> 00:21:37]  In der letzten Modulation sind wir im Uhrzeigersinn ein Schritt weiter im Quintenzirkel moduliert
+[00:21:37 -> 00:21:40]  von der Tonart C-Dur zur Tonart G-Dur.
+[00:21:40 -> 00:21:43]  Schauen wir uns mal an, wie man zwei Schritte weiter kommt.
+[00:21:43 -> 00:21:48]  Also von C-Dur nicht nach G-Dur, sondern noch ein Schritt weiter in die Tonart D-Dur.
+[00:21:48 -> 00:21:53]  Auch hier siehst du wieder wie im Beispiel eben, ich versuche das jetzt etwas schneller zu machen,
+[00:21:53 -> 00:21:58]  Akkorde aus der Tonart C-Dur. C-Dur hat sich dann hier gefestigt.
+[00:21:59 -> 00:22:04]  Dann siehst du diesen Übergangsbereich mit gemeinsamen Akkorden G-Dur und E-Moll,
+[00:22:04 -> 00:22:08]  beide in der Start- und Zieltonart vorhanden.
+[00:22:08 -> 00:22:15]  Dann kommt die Dominante der Zieltonart A-Dur und löst sich zum D-Dur auf.
+[00:22:15 -> 00:22:21]  Hier angekommen, hören wir dann auch nochmal eine kurze Akkordfolge, eine Kadenz aus D-Dur,
+[00:22:21 -> 00:22:26]  die sich dann nach diesem A, nach der Dominanten auch wieder zum D-Dur hin festigen würde,
+[00:22:26 -> 00:22:28]  wenn hier noch ein D-Dur stehen würde.
+[00:22:46 -> 00:22:49]  Auch für so eine Modulation habe ich hier wieder ein praktisches Beispiel.
+[00:22:49 -> 00:22:53]  Und zwar haben wir hier den Popsong I Wanna Dance With Somebody.
+[00:22:53 -> 00:22:57]  Und hier finden wir eine Modulation von C-Dur nach D-Dur.
+[00:22:57 -> 00:23:00]  Jetzt nicht verwundern lassen, dass das Ganze hier mit dem F anfängt.
+[00:23:00 -> 00:23:03]  Hier hören wir nochmal die Brücke des Songs.
+[00:23:03 -> 00:23:06]  Und hier fangen wir eben auf der Subdominanten an.
+[00:23:06 -> 00:23:12]  Das tonale Zentrum ist aber von dem Song vorher schon bei C-Dur. Das hören wir da.
+[00:23:12 -> 00:23:16]  Wir sind hier auf der Subdominanten von C-Dur, die Dominante von C-Dur.
+[00:23:16 -> 00:23:18]  Dann haben wir hier einen C-Dur Akkord.
+[00:23:18 -> 00:23:22]  Dann haben wir hier wiederum die Subdominante von C-Dur.
+[00:23:22 -> 00:23:25]  Die wird dann hier noch weiter gehalten.
+[00:23:25 -> 00:23:29]  Dann geht es wieder einmal zurück zur Tonika und dann hören wir die Dominante von C-Dur.
+[00:23:29 -> 00:23:35]  Die Dominante von C-Dur ist jetzt allerdings auch die Subdominante von D-Dur.
+[00:23:35 -> 00:23:39]  Es muss also nicht immer zwangsweise hier eine Dominante stehen.
+[00:23:39 -> 00:23:46]  Und dieser G-Dur Akkord, der wird jetzt als Drehakkord, als kleiner Akkord, als kleiner Drehpunkt benutzt,
+[00:23:46 -> 00:23:49]  um von C-Dur nach D-Dur zu drehen.
+[00:23:49 -> 00:23:57]  Und deshalb heißt diese diatonische Modulation eben auch Drehpunktmodulation oder Pivot Chord Modulation.
+[00:23:57 -> 00:24:03]  Nach dem G landen wir jetzt auf dem D-Dur Akkord und sind jetzt eigentlich schon in der nächsten Tonart.
+[00:24:03 -> 00:24:08]  Das würden wir eventuell noch gar nicht so wirklich wahrnehmen, weil die Tonart noch nicht gefestigt ist.
+[00:24:08 -> 00:24:13]  Wir bräuchten die Dominante eigentlich jetzt nochmal vom D-Dur Akkord,
+[00:24:13 -> 00:24:17]  um die Tonart D-Dur dann auch wirklich zu festigen für den Zuhörer.
+[00:24:17 -> 00:24:24]  Und in der späteren Akkordfolge kommt dann hier noch ein H-Moll Akkord, ein G-Dur Akkord, ein E-Moll
+[00:24:24 -> 00:24:27]  und dann eben die Dominante vom D-Dur.
+[00:24:27 -> 00:24:31]  Da wird das Ganze dann gefestigt, die Tonart D-Dur gefestigt.
+[00:24:31 -> 00:24:33]  In diesem Beispiel möchte ich nun mal zeigen,
+[00:24:33 -> 00:24:39]  dass es wirklich nicht viel braucht an Übergangsbereich, um in eine andere Tonart zu kommen.
+[00:24:48 -> 00:24:57]  Jetzt sind wir bereits ein und zwei Schritte im Quintenzirkel von unserer Starttonart im Uhrzeigersinn weiter moduliert.
+[00:24:57 -> 00:25:01]  Wir wollen jetzt mal ein und zwei Schritte gegen den Uhrzeigersinn modulieren.
+[00:25:01 -> 00:25:05]  Ich werde hier ein bisschen schneller, weil ich denke, dass es jetzt ein bisschen schneller wird,
+[00:25:05 -> 00:25:08]  wenn wir die Tonart D-Dur Akkord noch ein bisschen weiter modulieren.
+[00:25:09 -> 00:25:15]  Wir wollen jetzt mal ein und zwei Schritte gegen den Uhrzeigersinn modulieren.
+[00:25:15 -> 00:25:21]  Ich werde hier ein bisschen schneller, weil ich denke, dass die diatonische Modulation an dieser Stelle klar ist.
+[00:25:21 -> 00:25:29]  Wir modulieren immer über gemeinsame Akkorde und dann kommt im Optimalfall noch die Dominante aus der nächsten Tonart,
+[00:25:29 -> 00:25:34]  die aber nicht zwangsweise erforderlich ist, später aber die Tonart etablieren muss.
+[00:25:34 -> 00:25:37]  Und dann sind wir auch schon in der nächsten Tonart.
+[00:25:37 -> 00:25:40]  Hier siehst du eine Modulation von C-Dur nach F-Dur.
+[00:25:40 -> 00:25:45]  Vom C-Dur einen Schritt gegen den Uhrzeigersinn im Quintenzirkel weiter.
+[00:25:45 -> 00:25:47]  Akkordfolge in C-Dur.
+[00:25:47 -> 00:25:55]  Hier wird die Tonika wieder erreicht, ist aber auch gemeinsamer Akkord von Tonart F-Dur und C-Dur.
+[00:25:55 -> 00:25:59]  D-Moll auch in C-Dur und F-Dur enthalten.
+[00:25:59 -> 00:26:02]  Dann kommen wir zum ersten Tonartfremdenakkord.
+[00:26:02 -> 00:26:11]  G-Moll, dann die Dominante von F, C-Dur und dann haben wir hier die 2-5-Kadenz von F-Dur.
+[00:26:11 -> 00:26:19]  Zurück nach C-Dur gedacht wäre das übrigens eine sekundäre 2-5-Kadenz von der vierten Stufe, also auch vom F-Dur-Akkord hier.
+[00:26:19 -> 00:26:26]  Hier könnte ja beispielsweise stehen C-Dur, A-Moll, D-Moll, G-Moll.
+[00:26:26 -> 00:26:31]  Dann haben wir C-Dur, dann haben wir eine F-Dur und dann kommt hier erst das G.
+[00:26:31 -> 00:26:36]  Und so würde sich dann diese sekundäre 2-5-Kadenz hier einfügen.
+[00:26:37 -> 00:26:43]  Ein Beispiel für diesen Modulationsweg finden wir im Song I Walk the Line von Johnny Cash.
+[00:26:43 -> 00:26:48]  Wir haben hier jetzt den Song transponiert nach C-Dur, wie in jedem Beispiel von mir.
+[00:26:48 -> 00:26:51]  Und es wird von C-Dur nach F-Dur moduliert.
+[00:26:51 -> 00:26:54]  Hier befinden wir uns in C-Dur, wie der Blau gekennzeichnet,
+[00:26:54 -> 00:26:56]  und haben auch durchweg Akkorde von C-Dur.
+[00:26:56 -> 00:27:01]  Nachdem hier diese Hookline A Walk the Line zu Ende gesungen wurde,
+[00:27:01 -> 00:27:04]  hören wir dann kurz einen F-Dur-Akkord.
+[00:27:04 -> 00:27:07]  Und den sind wir ja gewohnt in dieser Tonart.
+[00:27:07 -> 00:27:09]  Das ist unsere Subdominante.
+[00:27:09 -> 00:27:12]  F-Dur ist allerdings auch die Tonart von Johnny Cash.
+[00:27:12 -> 00:27:15]  Das heißt, wir haben hier einen F-Dur-Akkord.
+[00:27:15 -> 00:27:18]  Und wir haben hier einen F-Dur-Akkord.
+[00:27:18 -> 00:27:20]  Den sind wir ja gewohnt in dieser Tonart.
+[00:27:20 -> 00:27:22]  Das ist unsere Subdominante.
+[00:27:22 -> 00:27:26]  F-Dur ist allerdings auch die Tonika für die Tonart F-Dur.
+[00:27:26 -> 00:27:30]  Und über diesen Drehakkord, über diesen Pivot Chord,
+[00:27:30 -> 00:27:34]  modulieren wir diatonisch dann in die Tonart F-Dur.
+[00:27:34 -> 00:27:39]  Und das Ganze wird auch hier beim C-Dur-Akkord ganz klar sichtbar.
+[00:27:39 -> 00:27:43]  Denn wir haben hier in der Melodie den Ton B.
+[00:27:43 -> 00:27:47]  Und das ist eine kleine Septime, die sich hier noch zum C-Dur-Akkord ergänzt.
+[00:27:47 -> 00:27:52]  Und aus diesem C-Dur-Akkord wird dann funktional ein C7-Akkord.
+[00:27:52 -> 00:27:54]  Und das ist die Dominante vom F-Dur.
+[00:27:54 -> 00:27:58]  Und hier etabliert sich dann die Tonart F-Dur auch.
+[00:27:58 -> 00:28:01]  Und spätestens dann ist klar, dass wir in F-Dur sind.
+[00:28:01 -> 00:28:04]  Auch mit der Subdominante, die dann später noch kommt, von F-Dur.
+[00:28:04 -> 00:28:06]  Das Beispiel klingt so.
+[00:28:17 -> 00:28:44]  Als letztes wollen wir jetzt noch einmal von C-Dur nach B-Dur modulieren,
+[00:28:44 -> 00:28:48]  bevor wir zur nächsten Modulationstechnik kommen.
+[00:28:48 -> 00:28:52]  Von C-Dur nach B-Dur haben wir nur noch zwei gemeinsame Akkorde.
+[00:28:52 -> 00:28:56]  Die zwei gemeinsamen Akkorde, die beide Tonarten verbinden, siehst du hier.
+[00:28:56 -> 00:29:02]  In beiden Tonarten finden wir einen D-Moll-Akkord und einen F-Dur-Akkord.
+[00:29:02 -> 00:29:06]  Und während der F-Dur-Akkord jetzt in C-Dur die Subdominante ist,
+[00:29:06 -> 00:29:10]  wird er dann hier die Dominante zu B-Dur.
+[00:29:10 -> 00:29:12]  Das wird man hier noch nicht so ganz klar hören,
+[00:29:12 -> 00:29:16]  weil hier ja auch nicht diese Option der kleinen Septime drin ist.
+[00:29:16 -> 00:29:21]  Aber spätestens dann, wenn wir hier einmal durch diese Akkorde von B-Dur gegangen sind
+[00:29:21 -> 00:29:38]  und danach wieder die Tonika sich etabliert, der B-Dur-Akkord.
+[00:29:39 -> 00:29:45]  Die nächste Modulationstechnik nennt sich international Deceptive Modulation.
+[00:29:45 -> 00:29:50]  Und eine Deceptive Modulation ist auf Deutsch übersetzt nichts anderes als
+[00:29:50 -> 00:29:54]  eine Modulation über einen sogenannten Trugschluss.
+[00:29:54 -> 00:29:59]  Von einem Trugschluss sprechen wir, wenn wir in einer bestimmten Tonart,
+[00:29:59 -> 00:30:02]  hier im Beispiel ist das die Tonart C-Dur,
+[00:30:02 -> 00:30:06]  nach der Dominanten dieser Tonart, hier haben wir einen G-Dur-Akkord,
+[00:30:06 -> 00:30:12]  eben nicht wieder die Tonika hören, sondern auf den Moll-Akkord der sechsten Stufe,
+[00:30:12 -> 00:30:16]  also dem parallelen Moll-Akkord landen.
+[00:30:16 -> 00:30:18]  Dann sprechen wir hier von einem Trugschluss.
+[00:30:18 -> 00:30:22]  Wir würden nach diesem G auf jeden Fall einen C-Dur-Akkord erwarten,
+[00:30:22 -> 00:30:25]  der kommt aber nicht, da sind wir im Trugschluss.
+[00:30:25 -> 00:30:28]  Es kommt hier der parallele Moll-Akkord A-Moll.
+[00:30:28 -> 00:30:33]  Über so einen Trugschluss kann man modulieren, und zwar zur parallelen Moll-Tonart.
+[00:30:33 -> 00:30:36]  Und zwar meine ich hiermit die parallele Moll-Tonart,
+[00:30:36 -> 00:30:42]  so wie wir sie in der deutschen Harmonielehre und nicht wie wir sie in der internationalen Harmonielehre definieren,
+[00:30:42 -> 00:30:44]  so wie es der Herr Riemann gemacht hat.
+[00:30:44 -> 00:30:48]  Wir starten in C-Dur und könnten hier auch wieder zurück zu C-Dur kommen,
+[00:30:48 -> 00:30:52]  C, A-Moll, F, G, C.
+[00:30:52 -> 00:30:58]  Und beim nächsten Mal haben wir eben diesen Trugschluss, um in die Tonart A-Moll zu kommen.
+[00:30:58 -> 00:31:04]  Hier angekommen auf diesem A-Moll werden wir diesen Akkord noch nicht als Tonika wahrnehmen.
+[00:31:04 -> 00:31:07]  Wir werden die Tonika immer noch beim C-Dur hören.
+[00:31:07 -> 00:31:10]  Und wenn wir so eine Deceptive Modulation machen,
+[00:31:10 -> 00:31:16]  dann müssen wir diesen Akkord aus dem Trugschluss, den müssen wir dann nochmal für die Tonart etablieren.
+[00:31:16 -> 00:31:23]  Das heißt also, wir müssen nochmal eine Kadenz dahinter hängen, eine Akkordfolge, die aus der Tonart A-Moll stammt.
+[00:31:23 -> 00:31:25]  Und das habe ich hier einmal gemacht.
+[00:31:25 -> 00:31:27]  A-Moll soll unsere neue Tonika werden.
+[00:31:27 -> 00:31:30]  Dann haben wir auf der vierten Stufe D-Moll.
+[00:31:30 -> 00:31:35]  Dann hätten wir auf der zweiten Stufe von A-Harmonisch-Moll,
+[00:31:35 -> 00:31:39]  hätten wir ein H-Moll7 mit verminderter Quinte.
+[00:31:39 -> 00:31:41]  Das sagt unserem Ohr jetzt schon mal ganz stark,
+[00:31:41 -> 00:31:46]  wir sind hier nicht mehr in C-Dur, sondern das geht nach A-Moll.
+[00:31:46 -> 00:31:49]  Dann hören wir ein E7 als Dominante von A-Moll.
+[00:31:49 -> 00:31:52]  Und dann hat sich hier die Tonart A-Moll etabliert.
+[00:31:52 -> 00:31:57]  Und keiner wird hier mehr sagen, eigentlich sind wir ja in C-Dur.
+[00:31:57 -> 00:31:59]  Außerdem sind die beiden ja auch parallel.
+[00:31:59 -> 00:32:04]  Hier hat sich dann wirklich der A-Moll-Akkord als Tonika etabliert und nicht mehr der C-Dur-Akkord.
+[00:32:04 -> 00:32:05]  Und das klingt so.
+[00:32:06 -> 00:32:11]  Mit der diatonischen Modulation sind wir jetzt also schon mal
+[00:32:11 -> 00:32:16]  ein paar Schritte zu benachbarten Tonarten im Quintenzirkel weiter moduliert.
+[00:32:16 -> 00:32:21]  Und wir sind jetzt auch das erste Mal schon mal nach Moll moduliert über einen Trugschluss.
+[00:32:21 -> 00:32:26]  Und dann haben wir diesen Moll-Akkord mit einer Kadenz gefestigt.
+[00:32:26 -> 00:32:32]  Wirklich weit weg von unserer Beispieltonart C-Dur sind wir jetzt aber im Quintenzirkel gesehen noch nicht gekommen.
+[00:32:32 -> 00:32:35]  Wir sind ja nur in benachbarte Tonarten gekommen.
+[00:32:35 -> 00:32:41]  Um jetzt ein bisschen weiter weg zu kommen, schauen wir uns als nächstes die chromatische Modulation
+[00:32:41 -> 00:32:44]  und zwar zuerst mal nach Moll an.
+[00:32:44 -> 00:32:47]  Im Englischen heißt diese auch, in der internationalen Kategorie,
+[00:32:47 -> 00:32:50]  das ist die Modulation der Tonart C-Dur.
+[00:32:51 -> 00:32:56]  Im Gegensatz zur diatonischen Modulation, bei der wir ja Akkorde benutzt haben,
+[00:32:56 -> 00:33:02]  die in der Start- und Zieltonart gleich sind, um die beiden Tonarten zu verbinden,
+[00:33:02 -> 00:33:07]  benutzen wir bei der chromatischen Modulation diese gemeinsamen Akkorde nicht mehr.
+[00:33:07 -> 00:33:12]  Bei so einer chromatischen Modulation erhöhen wir eher gewisse Frequenzen.
+[00:33:12 -> 00:33:18]  Wir haben zum Beispiel einen C-Dur-Akkord und erhöhen hier irgendeinen Ton mit einem Kreuz.
+[00:33:18 -> 00:33:22]  Würde ich beim C-Dur-Akkord aus den Tönen C, E und G,
+[00:33:22 -> 00:33:25]  jetzt den ersten Ton des Dreiklangs, den Grundton,
+[00:33:25 -> 00:33:29]  um einen Halbton erhöhen, hätte ich die Töne Cis, E und G.
+[00:33:29 -> 00:33:33]  Und dieser Dreiklang, der sich bildet aus den Tönen C, E und G,
+[00:33:33 -> 00:33:36]  würde ich mit einem Kreuz erhöhen.
+[00:33:36 -> 00:33:40]  Wenn wir den Grundton erhöhen, hätte ich die Töne Cis, E und G.
+[00:33:40 -> 00:33:44]  Und dieser Dreiklang, der sich bildet aus den Tönen Cis, E und G,
+[00:33:44 -> 00:33:49]  der ist dann funktionell plötzlich nichts anderes als ein A7-Akkord,
+[00:33:49 -> 00:33:52]  ein A-Dominant-Sept-Akkord, nur ohne den Grundton.
+[00:33:52 -> 00:33:56]  Das schauen wir uns mal an, solche Sachen.
+[00:33:56 -> 00:34:02]  In der ersten chromatischen Modulation habe ich hier einen kurzen Bereich in C-Dur.
+[00:34:02 -> 00:34:06]  Das ist die C-Dur jetzt hier nicht vom tonalen Zentrum her,
+[00:34:06 -> 00:34:11]  sondern ich erhöhe den Ton G aus dem G-Dur-Akkord, G-H-D,
+[00:34:11 -> 00:34:16]  hier wäre noch ein F mit drin, den Ton G erhöhe ich zum Ton Gis.
+[00:34:16 -> 00:34:20]  Der Ton Gis ist hier dann auch gleich mein nächster Basston.
+[00:34:20 -> 00:34:24]  Hier geht es also chromatisch um einen Halbtonschritt hoch im Bass.
+[00:34:24 -> 00:34:27]  Und darüber baue ich einen E7-Akkord auf,
+[00:34:27 -> 00:34:34]  einen E-Dominant-Sieben-Akkord, der die Dominante vom A-Moll-Akkord oder vom A-Dur-Akkord sein könnte.
+[00:34:34 -> 00:34:37]  Denn da will ich jetzt gleich hin.
+[00:34:37 -> 00:34:43]  Der E7-Akkord besteht aus den Tönen E, Gis, H und D.
+[00:34:43 -> 00:34:47]  Das heißt also, diese beiden Akkorde haben auch gemeinsame Töne.
+[00:34:47 -> 00:34:51]  Sie haben beide den Ton D gemeinsam und beide den Ton H gemeinsam.
+[00:34:51 -> 00:34:55]  Deshalb geht das hier bei der chromatischen Modulation auch schön ineinander über.
+[00:34:55 -> 00:34:59]  Aber unser Gedächtnis weiß schon mal,
+[00:34:59 -> 00:35:04]  ab jetzt wird der Ton G nicht mehr als G auftreten, sondern als Ton Gis.
+[00:35:04 -> 00:35:08]  Ich komme in eine Tonart, wo zumindest schon mal ein Kreuz mehr ist.
+[00:35:08 -> 00:35:13]  Und diese Dominante, über die wir jetzt modulieren, dieses E7,
+[00:35:13 -> 00:35:16]  das wird sich gleich zum A-Moll auflösen.
+[00:35:16 -> 00:35:19]  Und das sagt dann unserem Gehör auch,
+[00:35:19 -> 00:35:23]  A-Moll soll hier wahrscheinlich die neue Tonika sein.
+[00:35:23 -> 00:35:28]  Dann siehst du hier eine Akkordfolge, eine Kadenz in A-Moll.
+[00:35:28 -> 00:35:32]  Wir gehen von der 1. Stufe A-Moll nach D-Moll 4. Stufe,
+[00:35:32 -> 00:35:36]  dann hier zur 2. Stufe H-Moll mit verminderter Quinte,
+[00:35:36 -> 00:35:40]  dann zur 5. Stufe E-Dominant Sept-Akkord.
+[00:35:40 -> 00:35:43]  Und dieser Akkord löst sich dann auch wieder zum A-Moll auf.
+[00:35:43 -> 00:35:48]  Und wir sind ganz klar über eine chromatische Modulation hier
+[00:35:48 -> 00:35:50]  in der Tonart A-Moll angekommen.
+[00:35:50 -> 00:35:53]  So wie wir das eben beim Trugschluss auch schon ähnlich hatten.
+[00:35:53 -> 00:35:56]  Diese Modulation ist aber etwas stärker als so ein Trugschluss
+[00:35:56 -> 00:35:57]  und klingt dann so.
+[00:36:07 -> 00:36:09]  Jetzt sind wir hier ja bereits so vorgegangen,
+[00:36:09 -> 00:36:15]  dass wir den Grundton eines Dua-Akkordes aus unserer Starttonart
+[00:36:15 -> 00:36:17]  um einen Halbtonschritt angehoben haben,
+[00:36:17 -> 00:36:19]  um einen Halbtonschritt alteriert haben.
+[00:36:19 -> 00:36:21]  Und dann ist da ein Kreuz zugekommen.
+[00:36:21 -> 00:36:24]  Das müssten wir ja jetzt rein theoretisch auch
+[00:36:24 -> 00:36:28]  mit den anderen beiden Akkorden der Starttonart machen können,
+[00:36:28 -> 00:36:31]  nämlich mit einem C-Dua-Akkord und mit einem F-Dua-Akkord.
+[00:36:31 -> 00:36:34]  Probieren wir das Ganze jetzt also mal für einen C-Dua-Akkord aus.
+[00:36:34 -> 00:36:37]  Wir haben hier wieder eine Akkordfolge in C-Dua
+[00:36:37 -> 00:36:41]  und hier etabliert sich auch C-Dua als tonales Zentrum.
+[00:36:41 -> 00:36:47]  Dann wird in diesem Dreiklang der Ton C um einen Halbton erhöht
+[00:36:47 -> 00:36:51]  und wir bekommen eben diesen Akkord aus den Tönen Cis, E und G.
+[00:36:51 -> 00:36:54]  Fügen wir hier jetzt noch den Ton A hinzu,
+[00:36:54 -> 00:36:56]  haben wir hier einen A7-Akkord,
+[00:36:56 -> 00:37:00]  der uns weiterführen würde zum D-Moll oder zum D-Dua.
+[00:37:00 -> 00:37:06]  Und wir kommen chromatisch vom Basston C zum Cis zum D
+[00:37:06 -> 00:37:08]  in die nächste Tonart D-Moll.
+[00:37:18 -> 00:37:22]  Und hier hinten eben wieder die II-V-I-Kadenz,
+[00:37:22 -> 00:37:24]  um D-Moll zu festigen.
+[00:37:24 -> 00:37:28]  Diese chromatischen Modulationen müssen nicht immer so kurz sein,
+[00:37:28 -> 00:37:32]  dass wir nur einen Dua-Akkord hier jetzt alternieren.
+[00:37:32 -> 00:37:34]  Das sind hier alles nur Beispiele.
+[00:37:34 -> 00:37:36]  Es gibt sehr, sehr viele Modulationswege mehr.
+[00:37:36 -> 00:37:38]  Ich sagte eingangs ja schon,
+[00:37:38 -> 00:37:41]  ich muss das hier alles sehr, sehr stark zusammenfassen und verkürzen.
+[00:37:41 -> 00:37:44]  Wir können uns auch den C-Dua-Akkord,
+[00:37:44 -> 00:37:47]  der vorher als Tonika etabliert wurde, nehmen
+[00:37:47 -> 00:37:50]  und können dann hier den Grundton einmal alterieren.
+[00:37:50 -> 00:37:53]  Dann kriegen wir wieder unseren A7-Akkord,
+[00:37:53 -> 00:37:57]  packen dann dieses alterierte C, den Ton Cis, in den Bass
+[00:37:57 -> 00:38:00]  und lösen dann nach D-Dua auf.
+[00:38:00 -> 00:38:03]  Wir etablieren hier aber nicht die Tonart D-Dua,
+[00:38:03 -> 00:38:07]  sondern wir gehen weiter und erhöhen den Ton D zum Ton Dis
+[00:38:07 -> 00:38:10]  und dann bauen wir dazu noch den Ton H ein,
+[00:38:10 -> 00:38:13]  haben dann hier ein H7 über dem Ton Dis
+[00:38:13 -> 00:38:17]  und würden dann chromatisch modulieren zur Tonart E-Moll,
+[00:38:17 -> 00:38:20]  beziehungsweise E-Dua wäre auch möglich.
+[00:38:20 -> 00:38:24]  Das Ganze festigen wir nochmal und dann sind wir in E-Moll angekommen.
+[00:38:24 -> 00:38:29]  Also diese chromatische Modulation ist wunderbar, um schön zu modulieren.
+[00:38:30 -> 00:38:34]  Als letztes Beispiel für eine chromatische Modulation
+[00:38:34 -> 00:38:38]  von einer Tonart in Dua zu einer anderen Tonart in Moll
+[00:38:38 -> 00:38:42]  habe ich hier nochmal, wir haben hier wieder die Tonart C-Dua etabliert,
+[00:38:42 -> 00:38:46]  Tonika, dann kommt die Dominante und dann kommt wieder die Tonika,
+[00:38:46 -> 00:38:48]  dann geht es weiter.
+[00:38:48 -> 00:38:51]  Hier habe ich den Akkord der Subdominante geschrieben,
+[00:38:51 -> 00:38:54]  der vierten Stufe, der vierte Stufe,
+[00:38:54 -> 00:38:57]  der vierte Stufe, der vierte Stufe,
+[00:38:57 -> 00:39:00]  den Akkord der Subdominante geschrieben, der vierten Stufe, F-Dua
+[00:39:00 -> 00:39:03]  und diesen Dua-Akkord werden wir, wie gehabt,
+[00:39:03 -> 00:39:07]  wieder alterieren vom Grundton aus zu den Tönen Fis-A und C,
+[00:39:07 -> 00:39:10]  fügen wir jetzt noch den Ton D hinzu,
+[00:39:10 -> 00:39:13]  haben wir funktionell schon einen D-Dominant-Sept-Akkord,
+[00:39:13 -> 00:39:18]  der hier dann kommt, der sich zum G-Moll auflösen könnte oder zum G-Dua.
+[00:39:18 -> 00:39:22]  Genauso passiert das hier auch und auch wieder chromatisch modulierend,
+[00:39:22 -> 00:39:25]  auch chromatisch im Bass, vom Ton F,
+[00:39:25 -> 00:39:28]  zum Halbton höher, zum Basston Fis
+[00:39:28 -> 00:39:31]  und dann zum Basston G.
+[00:39:31 -> 00:39:37]  Und G-Moll wird dann hier danach nochmal mit einer 2-5-1-Kadenz in G-Moll gefestigt.
+[00:39:48 -> 00:39:52]  So eine Modulation von einer Tonart in Dua zu einer Tonart in Moll
+[00:39:52 -> 00:39:55]  muss nicht immer so schulmäßig alteriert werden,
+[00:39:55 -> 00:39:58]  das sehen wir auch schön in diesem Beispiel.
+[00:39:58 -> 00:40:01]  In diesem Beispiel handelt es sich nicht wirklich um das,
+[00:40:01 -> 00:40:04]  was ich eben als chromatische Modulation beschrieben habe,
+[00:40:04 -> 00:40:07]  es ist einfach eine Dominante für die Molltonart,
+[00:40:07 -> 00:40:10]  in die wir gleich wollen, zum Modulieren vorgeschrieben worden,
+[00:40:10 -> 00:40:13]  aber die Molltonart wird auch nicht so wirklich etabliert.
+[00:40:13 -> 00:40:16]  Das hier ist der Song Do You Hear The People Sing
+[00:40:16 -> 00:40:19]  aus dem Musical Le Miserable,
+[00:40:19 -> 00:40:22]  geschrieben von Claude-Michel Schönberg.
+[00:40:22 -> 00:40:25]  Wir haben hier einen Anfangspart in F-Dur
+[00:40:25 -> 00:40:29]  mit Akkorden aus F-Dur, den ich auch wieder blau gekennzeichnet habe.
+[00:40:29 -> 00:40:33]  Hier am Ende haben wir noch eine 2-5-1-Kadenz aus F-Dur,
+[00:40:33 -> 00:40:36]  zweite Stufe Mollakkord,
+[00:40:36 -> 00:40:39]  fünfte Stufe Dominante von F-Dur
+[00:40:39 -> 00:40:42]  und hier sind wir dann immer noch ganz klar in F-Dur.
+[00:40:42 -> 00:40:45]  Dann kommt hier jetzt ein E7-Akkord,
+[00:40:45 -> 00:40:48]  der sich als Dominante in die nächste Tonart,
+[00:40:48 -> 00:40:51]  in die wir modulieren, jetzt auflösen könnte.
+[00:40:51 -> 00:40:54]  Diese Tonart wird jetzt aber nicht etabliert,
+[00:40:54 -> 00:40:58]  weil sonst hier als Dominante von A-Moll ein E7 wieder stehen müsste.
+[00:40:58 -> 00:41:02]  Dann würde das Ganze gehen und sich zu A-Moll auflösen müsste.
+[00:41:02 -> 00:41:05]  Wir sind hier aber kurz in A-Moll,
+[00:41:05 -> 00:41:08]  bevor das Ganze dann über eine authentische Kadenz
+[00:41:08 -> 00:41:11]  F-Dur, G-Dur, Dominante von C-Dur
+[00:41:11 -> 00:41:14]  zur Tonart C-Dur geht.
+[00:41:14 -> 00:41:17]  Also hier wurde ordentlich Modulationsweg vorbereitet,
+[00:41:17 -> 00:41:20]  um von der Ausgangstonart F-Dur
+[00:41:20 -> 00:41:23]  in die Zieltonart C-Dur zu kommen,
+[00:41:23 -> 00:41:26]  die sich dann hier nach dem G-Dur-Akkord,
+[00:41:26 -> 00:41:29]  der nächste Akkord wäre wieder die Tonika C-Dur,
+[00:41:29 -> 00:41:32]  die sich dann hier als Tonart C-Dur auch etabliert.
+[00:41:32 -> 00:41:35]  Und das Ganze klingt so.
+[00:41:44 -> 00:41:47]  Und das Ganze klingt so.
+[00:42:14 -> 00:42:30]  Und Musik
+[00:42:30 -> 00:42:33]  Hier siehst Du nun noch einmal die vier Beispiele von eben.
+[00:42:33 -> 00:42:36]  Dazu muss ich dann gar nicht mehr so viel sagen über den Modulationsweg.
+[00:42:36 -> 00:42:39]  Wir kommen hier aus der Starttonart C-Dur,
+[00:42:39 -> 00:42:42]  früher oder später immer chromatisch,
+[00:42:42 -> 00:42:47]  immer chromatisch, indem wir chromatisch so einen Akkord hier alterieren,
+[00:42:47 -> 00:42:51]  zu einem Dominant-Sept-Akkord, der uns in die nächste Tonart bringt.
+[00:42:51 -> 00:42:54]  Hier ist jetzt allerdings die nächste Tonart keine Moll-Tonart,
+[00:42:54 -> 00:42:58]  sondern ich habe alle Moll-Akkorde von eben im Beispiel
+[00:42:58 -> 00:43:00]  durch Dua-Akkorde ersetzt.
+[00:43:00 -> 00:43:03]  Und wir landen jetzt von der Tonart C-Dua
+[00:43:03 -> 00:43:09]  in den Tonarten A-Dua, D-Dua, E-Dua und G-Dua.
+[00:43:09 -> 00:43:12]  Und die Tonarten werden hier jetzt immer noch einmal gefestigt
+[00:43:12 -> 00:43:16]  durch eine Akkordfolge aus der jeweiligen Tonart,
+[00:43:16 -> 00:43:21]  die dann abschließt mit der Dominanten, hier in dem Fall E7,
+[00:43:21 -> 00:43:25]  die sich dann zur Tonika A-Dua in dem Beispiel wieder auflöst.
+[00:43:39 -> 00:44:08]  Die nächste Modulationstechnik nennt sich in der Tonart
+[00:44:09 -> 00:44:13]  internationalen Musiktheorie bzw. internationalen Harmonielehre
+[00:44:13 -> 00:44:16]  Parallel Modulation.
+[00:44:16 -> 00:44:21]  Auf deutsch übersetzen könnten wir das Ganze als eine Modulation zur Variant-Tonart.
+[00:44:21 -> 00:44:24]  Und das klingt jetzt ein bisschen sperrig,
+[00:44:24 -> 00:44:27]  da können wir uns auch wieder bei dem Herrn Riemann bedanken,
+[00:44:27 -> 00:44:33]  weil Herr Riemann Parallelität und Relativität nicht so schön definiert hat,
+[00:44:33 -> 00:44:36]  wie die internationale Musiktheorie.
+[00:44:36 -> 00:44:42]  So, was hat es jetzt mit Parallelität und Relativität in Tonarten auf sich?
+[00:44:42 -> 00:44:47]  Die Tonarten C-Dur und A-Moll haben etwas gemeinsam,
+[00:44:47 -> 00:44:52]  das weißt du aus der Musiktheorie und in der deutschen Musiktheorie weißt du,
+[00:44:52 -> 00:44:56]  dass C-Dur und A-Moll parallele Tonarten sind.
+[00:44:56 -> 00:44:59]  Das sind Tonarten, die benutzen dasselbe Tonmaterial,
+[00:44:59 -> 00:45:01]  starten aber von einem anderen Ton.
+[00:45:02 -> 00:45:07]  Und zwar benutzt C-Dur ja die Töne C, D, E, F, G, A, H und C,
+[00:45:07 -> 00:45:15]  genauso wie die Tonart A-Moll das auch tut, nur eben vom A aus A, H, C, D, E, F, G, A.
+[00:45:15 -> 00:45:18]  Und hier sprechen wir im Deutschen von parallelen Tonarten.
+[00:45:18 -> 00:45:23]  In der internationalen Harmonielehre sprechen wir aber hier von diesen beiden Beispieltonarten,
+[00:45:23 -> 00:45:28]  von relative keys, also von verwandten Tonarten, von relativen Tonarten.
+[00:45:29 -> 00:45:33]  Diese Tonarten sind, also enger könnten diese beiden Tonarten nicht miteinander verwandt sein,
+[00:45:33 -> 00:45:38]  deshalb sagt die internationale Harmonielehre relative keys,
+[00:45:38 -> 00:45:42]  denn sie sind so stark miteinander verwandt, dass die DNA der Tonart,
+[00:45:42 -> 00:45:45]  dass die Tonleitertöne exakt gleich sind.
+[00:45:45 -> 00:45:51]  Hier wird nur von einem anderen Ton gestartet, deshalb relative keys.
+[00:45:51 -> 00:45:57]  Parallele Tonarten, parallel keys, sind in der internationalen Harmonielehre
+[00:45:57 -> 00:46:03]  Tonarten, die wirklich parallel nebeneinander stehen, das heißt also C-Dur und C-Moll.
+[00:46:03 -> 00:46:07]  Die starten vom selben Ton, die starten also parallel,
+[00:46:07 -> 00:46:12]  haben dann aber unterschiedliche Töne auch noch in ihrem Aufbau.
+[00:46:12 -> 00:46:16]  Hier wird international von parallel keys gesprochen.
+[00:46:16 -> 00:46:19]  Im Deutschen heißt das Ganze Varianttonart.
+[00:46:19 -> 00:46:24]  Und wenn wir jetzt in der internationalen Harmonielehre von parallelen Tonarten,
+[00:46:24 -> 00:46:29]  so wie wir es im Deutschen meinen reden, so wie es der Herr Riemann uns definiert hat,
+[00:46:29 -> 00:46:34]  müssten wir hier über Riemannian Theory of Parallel Keys sprechen.
+[00:46:34 -> 00:46:38]  Also recht umständlich, wir haben da eine ganz schöne Sprachbarriere
+[00:46:38 -> 00:46:43]  zwischen der internationalen und unserer deutschen Harmonielehre.
+[00:46:43 -> 00:46:47]  Soll uns hier aber gar nicht stören, wir wissen jetzt parallel modulation,
+[00:46:47 -> 00:46:51]  das soll eine Modulation zur Varianttonart sein und du ahnst wahrscheinlich schon,
+[00:46:51 -> 00:46:59]  wir wollen von C-Dur nach C-Moll zum Beispiel modulieren oder von der Tonart C-Moll zu C-Dur.
+[00:46:59 -> 00:47:05]  Diese Modulation glückt uns extrem simpel, weil beide Tonarten dieselbe Dominante haben.
+[00:47:05 -> 00:47:11]  In C-Dur wäre die Dominante vom C-Dur Akkord ein G-Dur Akkord bzw. ein G7
+[00:47:11 -> 00:47:20]  und in C-Moll hätten wir auch als Dominante von C harmonisch Moll den G-Dur Akkord bzw. den G7 Akkord,
+[00:47:20 -> 00:47:22]  damit es sich auch schön auflöst.
+[00:47:22 -> 00:47:26]  Das heißt also, wann immer hier jetzt so ein G7 Akkord kommt,
+[00:47:26 -> 00:47:31]  kann ich mich entscheiden, ob ich hier hinten ein C-Dur Akkord schreibe und in C-Dur weiterschreibe
+[00:47:31 -> 00:47:38]  oder ein C-Moll Akkord schreibe und das Ganze dann festige nochmal über eine Akkordfolge in C-Moll
+[00:47:38 -> 00:47:41]  und dann eben nach Moll moduliere.
+[00:47:41 -> 00:47:47]  Das Ganze habe ich hier einmal fürs Beispiel von C-Dur nach C-Moll modulierend gemacht.
+[00:47:47 -> 00:47:54]  Du hörst zuerst einmal ein festgefestigtes Zentrum bei C-Dur in der Tonart C-Dur,
+[00:47:54 -> 00:47:59]  dann kommt als nächstes die Dominante von C-Dur, die sich aber zu C-Moll auflöst
+[00:47:59 -> 00:48:07]  und um diesen C-Moll Akkord jetzt nochmal zu festigen, hört man eben nochmal die Dominante für den C-Moll Akkord jetzt, G7
+[00:48:07 -> 00:48:13]  und es wird wieder zu C-Moll aufgelöst und wir sind hier ganz eindeutig in C-Moll.
+[00:48:13 -> 00:48:19]  Im zweiten Beispiel zeige ich dir das Ganze dann wieder zurück von C-Moll über diese Dominante G7
+[00:48:19 -> 00:48:27]  zurück zur Dur-Tonart als Parallel Modulation oder Modulation zur Varianttonart.
+[00:48:39 -> 00:48:42]  Und hier das Beispiel von Moll nach Dur.
+[00:48:44 -> 00:49:01]  Als Beispiel für eine Parallel Modulation, ich benutze hier mal den internationalen Modulationsbegriff,
+[00:49:01 -> 00:49:05]  können wir den Song Runaway von Dale Shannon nehmen.
+[00:49:05 -> 00:49:12]  Und zwar ist dieser Song in der Strophe zuerst einmal in C-Moll und du siehst hier durchweg Akkorde aus C-Moll.
+[00:49:12 -> 00:49:18]  Hier der B-Dur Akkord, As-Dur und die Dominante vom C-Moll Akkord, G7.
+[00:49:18 -> 00:49:23]  Das geht auch erstmal dann so weiter wieder vom C-Moll Akkord, dass der auch schön gefestigt ist.
+[00:49:23 -> 00:49:27]  Ich habe hier nur stark verkürzt, damit wir gleich schon zur Modulation kommen.
+[00:49:27 -> 00:49:35]  Dieser G7 Akkord, der löst sich dann später eben nicht mehr zu C-Moll auf, sondern zum Chorus hin nach C-Dur
+[00:49:35 -> 00:49:39]  und dann wird C-Dur auch als tonales Zentrum etabliert.
+[00:49:39 -> 00:49:45]  Über die Tonika C-Dur, den Moll Akkord der sechsten Stufe von C-Dur, den A-Moll Akkord,
+[00:49:45 -> 00:49:49]  dann kommen wir auf die Subdominante F-Dur, hier habe ich ganz stark verkürzt,
+[00:49:49 -> 00:49:53]  denn die beiden Akkorde werden noch mal mehrmals nacheinander wiederholt.
+[00:49:53 -> 00:50:01]  F-Dur Subdominante, G7 Dominante und dann haben wir hier auch die Auflösung wieder nach C-Dur.
+[00:50:01 -> 00:50:04]  Spätestens hier ist unsere Tonika fest.
+[00:50:04 -> 00:50:12]  Subdominante von C-Dur und wieder Tonika C-Dur und dann wird hier direkt über C-Dur nach C-Moll gedreht.
+[00:50:12 -> 00:50:16]  Das gucken wir uns in einer anderen Modulationsart noch mal an.
+[00:50:16 -> 00:50:20]  Hier wird also nicht mal mehr G7 als Dominante eingesetzt,
+[00:50:20 -> 00:50:25]  sondern hier findet so ein Drehpunkt über den C-Dur Akkord zum C-Moll Akkord statt
+[00:50:26 -> 00:50:31]  und dann wird C-Moll wieder als Tonart gefestigt in so einem kurzen Instrumental,
+[00:50:31 -> 00:50:35]  an das dann später die nächste Strophe anschließt. Klingt so.
+[00:50:55 -> 00:51:25]  Wenn wir jetzt gerade schon bei natürlich und harmonisch Moll
+[00:51:25 -> 00:51:32]  sind und Modulation, dann können wir uns auch dieses Beispiel einer Modulation einmal anschauen.
+[00:51:32 -> 00:51:35]  Das ist auch noch mal eine kleine Alternative.
+[00:51:35 -> 00:51:39]  Dies ist das Song Livin' on a Prayer und zwar nur der kleine Ausschnitt,
+[00:51:39 -> 00:51:48]  in dem moduliert wird, geschrieben von John Bon Jovi und Richie Sambora und Desmond Child für die Band Bon Jovi eben.
+[00:51:48 -> 00:51:55]  Und du siehst hier noch mal eine kurze Brücke in der vorherigen Starttonart A-Moll.
+[00:51:55 -> 00:51:59]  Hier ist Livin' on a Prayer nach A-Moll von mir transponiert worden.
+[00:51:59 -> 00:52:05]  Wir sehen hier Akkorde aus A natürlich Moll, also den A-Moll Akkord als Tonika.
+[00:52:05 -> 00:52:12]  Dann haben wir hier den Akkord F-Dur und G-Dur, beides Akkorde aus A natürlich Moll.
+[00:52:12 -> 00:52:18]  Und im vorhergehenden Song ging das dann auch immer wieder zurück nach A-Moll,
+[00:52:18 -> 00:52:23]  eben nach diesem G-Dur Akkord, also eher trugschlüssig.
+[00:52:23 -> 00:52:32]  Da wir hier jetzt aber Akkorde aus der Tonart A-Moll und aus der auf Deutsch wieder parallelen Tonart C-Dur haben
+[00:52:32 -> 00:52:38]  und G hier auch als Dominante funktionieren könnte, um jetzt zum Beispiel nach C-Dur zu kommen,
+[00:52:38 -> 00:52:43]  könnte man natürlich auch sagen, G könnte hier als Dominante funktionieren, um zu C-Moll zu kommen.
+[00:52:43 -> 00:52:50]  Und wir könnten diesen Song Livin' on a Prayer von A-Moll nach C-Moll modulieren.
+[00:52:50 -> 00:52:58]  Also eine ganz, ganz extreme Modulation von gar keinem Vorzeichen zu drei Bs im Vorzeichen.
+[00:52:58 -> 00:53:03]  Und diese Modulation von A-Moll nach C-Moll, zumindest relativ, ich habe es ja transponiert,
+[00:53:03 -> 00:53:08]  die passiert hier auch tatsächlich bei dem Song Livin' on a Prayer von Bon Jovi.
+[00:53:08 -> 00:53:18]  Hier geht es nach dem G eben nicht mehr wie gewohnt zum A-Moll, sondern auch ganz legitim wird hier der G-Dur Akkord umgedeutet zur Dominanten von C-Moll
+[00:53:18 -> 00:53:25]  und dieses Stück moduliert dann eben nach C-Moll und hier wird dann C-Moll auch etabliert als neue Tonart.
+[00:53:25 -> 00:53:31]  Bevor ich das abspiele, als kleine rhythmische Besonderheit, achte mal drauf, wenn du das Original hörst,
+[00:53:31 -> 00:53:37]  steckt in diesem Song auch bei dem G-Dur Akkord, den wir zum Modulieren benutzen, kein Viervierteltakt.
+[00:53:37 -> 00:53:42]  Der Song ist durchweg im Viervierteltakt und dann haben wir ganz, ganz kurz mal einen Dreivierteltakt,
+[00:53:42 -> 00:53:51]  der hier einen Takt vorher über Triolen vorbereitet wird, dann hören wir nur noch einen Dreivierteltakt und dann fehlt uns irgendwie ein Schlag
+[00:53:51 -> 00:53:58]  und da passiert dann auch diese Modulation, deshalb sticht diese Livin' on a Prayer Modulation von Bon Jovi auch so extrem heraus.
+[00:53:58 -> 00:54:00]  Die klingt so und ist auch eine Möglichkeit zu modulieren.
+[00:54:12 -> 00:54:20]  Die nächste Modulationstechnik, die ich dir zeigen will, ist in einigen Harmonielehren auch gar nicht als Modulationstechnik definiert,
+[00:54:20 -> 00:54:25]  weil man einfach sagt, hier wird einfach nur das Gehirn des Zuhörers neu programmiert,
+[00:54:25 -> 00:54:30]  der verliert seinen Bezug zur vorherigen Tonart und hat dann völlig vergessen, wo er überhaupt war
+[00:54:30 -> 00:54:33]  und das gilt hier nicht als Modulation.
+[00:54:33 -> 00:54:42]  Ich spreche von der Chain Modulation oder von sogenannten Modulationsketten und ich denke, man kann sich darüber streiten, ob das jetzt hier wirklich eine Modulation ist
+[00:54:42 -> 00:54:50]  oder ob wir wirklich, wie gesagt, unseren Zuhörer umprogrammieren und verwirren, um ihn dann einfach irgendwo mal wieder Sicherheit zu geben.
+[00:54:50 -> 00:54:58]  Wir sprechen bei dieser Kettenmodulation bei Akkordketten aus Quintfällen oder Akkordketten aus Streichfällen,
+[00:54:58 -> 00:55:04]  wir sprechen bei dieser Kettenmodulation bei Akkordketten aus Quintfällen oder Quartfällen,
+[00:55:04 -> 00:55:12]  wir können aber auch bestimmte Zweifünferkadenzen oder substituierte Zweifünferkadenzen miteinander verknüpfen.
+[00:55:12 -> 00:55:14]  Was will ich damit sagen?
+[00:55:14 -> 00:55:26]  Hier haben wir wieder eine gewohnte Akkordfolge in C-Dur, 1. Stufe, 6. Stufe, Moll, 4. Stufe, Dur, Subdominante, 5. Stufe, Dominante und hier löst sich das Ganze zu C-Dur auf
+[00:55:26 -> 00:55:29]  und dann beginnt eine Quintfallsequenz.
+[00:55:29 -> 00:55:36]  Wir gehen vom C-Dur-Akkord auf einen Akkord, der sich eine Quinte tiefer befindet und auch wieder ein Dur-Akkord ist, zum F-Dur.
+[00:55:36 -> 00:55:45]  Dann wieder eine Quinte runterfallen zum B-Dur-Akkord, eine Quinte runterfallen zum Es-Dur-Akkord, eine Quinte fallen zum As-Dur, eine Quinte fallen zum Des-Dur
+[00:55:45 -> 00:55:52]  und hier sage ich mir dann irgendwann mal, okay, den deute ich jetzt zur Dominanten von meiner Zieltonart um.
+[00:55:52 -> 00:55:54]  Ich lande hier also in G-Dur.
+[00:55:54 -> 00:56:04]  Das muss ich jetzt nur noch meinem Zuhörer irgendwie begreiflich machen, diese kleine Notlügerei hier zwischen mit der Kettenmodulation, um irgendwo hinzukommen.
+[00:56:04 -> 00:56:16]  Und hier siehst du jetzt auch wieder die 1. Stufe aus G-Dur, die 6. Stufe in Moll aus G-Dur, ein Es-Moll-Akkord, die 4. Stufe aus G-Dur, C-Dur, ein harmonisch verwechselt H-Dur
+[00:56:16 -> 00:56:22]  und die 5. Stufe aus G-Dur, die Dominante zu G-Dur, den Des-Dur-Akkord.
+[00:56:22 -> 00:56:33]  Und dann haben wir hier am Ende wieder dieselbe Kadenz wie hier am Anfang, nur eben nach G-Dur moduliert, wenn man es denn Modulation nennen will.
+[00:56:33 -> 00:56:35]  Aber auch diese Modulationsketten sind üblich.
+[00:56:35 -> 00:56:37]  Hier einmal die Quint-Pfeil-Sequenz.
+[00:56:47 -> 00:56:52]  Und hier am Ende sind wir hörbar angekommen auf unserer Tonika G-Dur.
+[00:56:52 -> 00:57:00]  Im nächsten Beispiel wieder erstmal eine Akkordfolge aus C-Dur, um C-Dur als tonales Zentrum zu etablieren.
+[00:57:00 -> 00:57:08]  Und dann hörst du als nächstes eine Sequenz aus Quadfällen, also eine Modulationskette aus Quadfällen.
+[00:57:08 -> 00:57:17]  Und diese Kettenmodulation aus Quadfällen, die läuft hier relativ zügig ab und geht nach H-Dur, hier in internationaler Schreibweise notiert.
+[00:57:17 -> 00:57:26]  Und wir haben jetzt über Quadfälle von C-Dur einen Halbton nach unten moduliert über eine Quadpfeil-Sequenz nach H-Dur.
+[00:57:27 -> 00:57:33]  Eine Kettenmodulation mit Quint-Pfeil-Sequenzen oder Quadfeil-Sequenzen, das ist relativ einfach beschrieben.
+[00:57:33 -> 00:57:41]  Sondern wir haben hier eine Modulationskette aus Quadfällen, die läuft hier relativ zügig ab und geht nach H-Dur, hier in internationaler Schreibweise notiert.
+[00:57:41 -> 00:57:51]  Und wir haben hier eine Modulationskette aus Quadfällen, die läuft hier relativ zügig ab und geht nach H-Dur, hier in internationaler Schreibweise notiert.
+[00:57:51 -> 00:58:01]  Und wir haben hier eine Modulationskette aus Quadfällen, die läuft hier relativ zügig ab und geht nach H-Dur, hier in internationaler Schreibweise notiert.
+[00:58:01 -> 00:58:11]  Und wir haben hier eine Modulationskette aus Quadfällen, die läuft hier relativ zügig ab und geht nach H-Dur, hier in internationaler Schreibweise notiert.
+[00:58:11 -> 00:58:16]  Und zwar habe ich hier zwei Fünfer und substituierte zwei Fünferketten geschrieben.
+[00:58:16 -> 00:58:21]  Wir kommen von einem C-Dur-Akkord, den wir noch als Toniker hören.
+[00:58:21 -> 00:58:25]  Dann hören wir die sekundäre Zwei-Fünf-Kadenz von D-Dur.
+[00:58:25 -> 00:58:28]  Das heißt also zweite Stufe von D-Dur im Ol.
+[00:58:28 -> 00:58:31]  Dann die Dominante von D-Dur A7.
+[00:58:31 -> 00:58:34]  Im Bass habe ich die Septime aus dem Akkord.
+[00:58:34 -> 00:58:43]  Dann gehe ich um einen Halbtonschritt runter zur Terz vom D-Dur-Akkord und lande hier eben auf dem D, worin sich ja dieser A7-Akkord auflöst.
+[00:58:43 -> 00:58:49]  Dieses D nehme ich dann gleich schon wieder für die nächste substituierte Zwei-Fünfer-Kadenz.
+[00:58:49 -> 00:58:54]  Hier ist die substituierte Zwei-Fünfer-Kadenz aus G-Dur zu sehen.
+[00:58:54 -> 00:59:03]  Wenn du darüber mehr wissen willst, über Tritonussubstitution, Substitutionsdominanten und Sekundärdominanten, schau dir auch gerne mein Video darüber an.
+[00:59:03 -> 00:59:08]  Ich spreche hier nur mal kurz darüber, damit du siehst, dass das hier auch sehr kompliziert sein kann.
+[00:59:08 -> 00:59:17]  Es geht also weiter mit einem G-Dominant-Sept-Akkord, der hier als Substitutionsdominant von Gb7 weitergeht.
+[00:59:17 -> 00:59:25]  Gb7 ist schon die Zwei aus der Zwei-Fünf zusammen mit dem C7 von E-Dur.
+[00:59:26 -> 00:59:40]  In dem Fall haben wir hier wieder eine substituierte Zwei-Fünfer-Kadenz von E und dann landen wir hier in der Tonart E-Dur und die wird dann hier spätestens mit dem H-Dur der Dominanten von E-Dur etabliert.
+[00:59:40 -> 00:59:45]  Das Ganze klingt ein bisschen jazziger und läuft dann so von der Modulation.
+[00:59:56 -> 01:00:05]  Und auch das ist nichts anderes als eine Modulationskette, auch wenn es unglaublich kompliziert aussieht und sehr verkopft ist.
+[01:00:05 -> 01:00:14]  Schauen wir uns jetzt mal als kleinen Zwischenstand den Quintenzirkel an und gucken mal, in welche Tonarten wir jetzt eigentlich schon so reinkommen.
+[01:00:14 -> 01:00:20]  Und theoretisch können wir uns mit den Modulationsketten am Ende ja auch schon in jede Tonart reinschummeln.
+[01:00:20 -> 01:00:30]  Wir können jetzt diatonisch hier von C-Dur nach G-Dur und D-Dur oder von C-Dur nach F-Dur und B-Dur im Quintenzirkel weitermodulieren.
+[01:00:30 -> 01:00:37]  Wir kommen auch wunderbar in die jeweiligen deutsche harmoniläre parallelen Molltonarten rein.
+[01:00:37 -> 01:00:48]  Hier von C-Dur nach A-Moll, von G-Dur nach E-Moll, von D-Dur nach H-Moll und eben hier auch von F-Dur nach D-Moll und so weiter.
+[01:00:48 -> 01:00:56]  Wir können uns weiter rausschieben, weiter im Quintenzirkel herausgehen, weiter weg vom ursprünglichen tonalen Zentrum
+[01:00:56 -> 01:01:02]  und können auch über chromatische Modulationen nach A-Dur modulieren, nach E-Dur.
+[01:01:02 -> 01:01:08]  Wir können auch nach H-Dur weitermodulieren, auch wenn das etwas länger dauern würde jetzt vom Modulationsweg.
+[01:01:08 -> 01:01:15]  Das ist auch alles schon möglich und auch in die andere Richtung des Quintenzirkels geht das auch alles.
+[01:01:15 -> 01:01:24]  Wenn wir für unsere Modulationen jetzt allerdings nicht ganz so viel Zeit haben oder unserem Zuhörer nicht ewig lange Modulationsketten um die Ohren schmeißen wollen
+[01:01:24 -> 01:01:32]  und doch mal irgendwie nach A-Dur oder S-Dur oder gar D-Dur einen Halbton höher modulieren wollen
+[01:01:32 -> 01:01:38]  und keine direkte Modulation machen wollen, sondern das auch vorbereiten wollen, aber das muss schnell gehen,
+[01:01:38 -> 01:01:45]  dann haben wir noch keine praktische Modulationstechnik kennengelernt und dazu schauen wir uns gleich die nächste an.
+[01:01:45 -> 01:01:49]  Modulationsketten könnten wir hier verwenden.
+[01:01:49 -> 01:01:56]  Wir müssten zum Beispiel eine Quintfallsequenz jetzt von C nach G nach D nach A nach E nach H und so weiter.
+[01:01:56 -> 01:01:59]  Da wären wir zu Weihnachten noch nicht in der S-Dur.
+[01:01:59 -> 01:02:02]  Das können wir knicken, wenn es schnell gehen muss.
+[01:02:02 -> 01:02:11]  Wir müssen hier also eine andere Modulationsart wählen und die Modulationsart, die wir dann jetzt besprechen, ist die sogenannte enharmonische Modulation.
+[01:02:11 -> 01:02:21]  Die enharmonische Modulation heißt im Englischen und in der internationalen Musiktheorie, wie im Deutschen auch, dann halt Enharmonic Modulation
+[01:02:21 -> 01:02:26]  und wir haben verschiedene Möglichkeiten, enharmonisch weiter zu modulieren.
+[01:02:26 -> 01:02:33]  Bevor wir uns das Ganze angucken, kläre ich erstmal diesen Begriff der Enharmonik, was das überhaupt heißt.
+[01:02:33 -> 01:02:37]  Du hast sicherlich schon von der enharmonischen Verwechslung gehört.
+[01:02:37 -> 01:02:45]  Das heißt also, dass beispielsweise der Halbton über dem Ton D, der Ton Dis, das zeigt ja eben dieses Kreuz,
+[01:02:46 -> 01:02:55]  Heutzutage genau gleich klingt, das war nicht immer so, aber heutzutage genau gleich klingt, wie der Halbton unter dem Ton E, der Ton S.
+[01:02:55 -> 01:03:02]  Also Dis und S, das sind enharmonisch klingt, also so wie der Ton in Wirklichkeit klingt, klingt hier genau derselbe Ton.
+[01:03:02 -> 01:03:10]  Nur das Dis halt aussagt, ich bin der Halbton über D und S sagt aus, ich bin der Halbton unter E.
+[01:03:10 -> 01:03:19]  Dennoch klingen diese beiden Töne genau gleich und bei der enharmonischen Modulation machen wir eben diese enharmonische Umdeutung.
+[01:03:19 -> 01:03:24]  Wir haben zum Beispiel ursprünglich einen Ton, der bei uns in der Tonart Dis gehießen hat.
+[01:03:24 -> 01:03:30]  Den deuten wir jetzt aber zu einem S um, das ist immer noch derselbe Ton, der klingt gleich vom Klang her,
+[01:03:30 -> 01:03:37]  aber er wurde enharmonisch umgedeutet und steht jetzt schon als enharmonische Umdeutung für eine neue Tonart.
+[01:03:37 -> 01:03:42]  Und über diese Enharmonik modulieren wir eben. Klingt super, super kompliziert.
+[01:03:42 -> 01:03:46]  Ich leite das auch ganz kurz mal über die klassische Harmonielehre her.
+[01:03:46 -> 01:03:52]  Wenn wir aber in die Jazzharmonielehre denken und du hast dir schon einige Videos von mir angeschaut,
+[01:03:52 -> 01:03:59]  dann wird dir ganz klar dieses Stichwort Substitutionsdominante jetzt weiterhelfen.
+[01:03:59 -> 01:04:05]  Wenn du dir dazu schon mal was angeschaut hast zur Tritonussubstitution und zur Substitutionsdominante,
+[01:04:05 -> 01:04:11]  dann wirst du die enharmonische Modulation auch ziemlich schnell in der Jazzharmonielehre verstehen
+[01:04:11 -> 01:04:17]  und musst nicht so stark rückbeziehen auf die Klassik, die da durchaus sehr, sehr verwirrend sein kann.
+[01:04:17 -> 01:04:25]  Wie ich schon gesagt habe, geht es bei enharmonischen Modulationen um eine enharmonische Umdeutung von gewissen Tönen.
+[01:04:25 -> 01:04:31]  Und diese enharmonische Umdeutung von Tönen, die machen wir bei der enharmonischen Modulation
+[01:04:31 -> 01:04:38]  größtenteils bei vollverminderten Akkorden und bei Dominant-Sept-Akkorden zum Beispiel,
+[01:04:38 -> 01:04:46]  aber auch beim sogenannten übermäßigen Quint-Sechst-Akkord, der international German Sixth Chord heißt.
+[01:04:46 -> 01:04:55]  Mithilfe dieses übermäßigen Quint-Sechst-Akkords können wir aus einer Tonart in eine andere Tonart enharmonisch modulieren,
+[01:04:55 -> 01:04:58]  indem wir diesen Akkord enharmonisch umdeuten.
+[01:04:58 -> 01:05:04]  Wie sieht dieser Akkord überhaupt aus? Wir haben hier eine Akkordfolge aus C-Dur.
+[01:05:04 -> 01:05:10]  Da könntest du hier am Anfang nun erstmal sagen, was ist das denn? Das ist doch kein Akkord aus C-Dur.
+[01:05:10 -> 01:05:15]  Das ist Blödsinn. Den gucken wir uns gerade erstmal nicht an. Das ist eben dieser übermäßige Quint-Sechst-Akkord.
+[01:05:15 -> 01:05:21]  Wir schauen erstmal hier. Wir haben hier ein C-Dur über G, ein G7 und Tonika C-Dur.
+[01:05:21 -> 01:05:25]  Hier haben wir auf jeden Fall eine Akkordfolge aus C-Dur.
+[01:05:25 -> 01:05:29]  Und hier haben wir jetzt eben diesen übermäßigen Quint-Sechst-Akkord.
+[01:05:29 -> 01:05:38]  Und der hat sich ursprünglich zu Barockzeiten entwickelt, als man als Komponist dann auch gerne ein bisschen chromatischer
+[01:05:38 -> 01:05:43]  zur fünften Stufe hingehen wollte, zur fünften Stufe einer Tonart.
+[01:05:43 -> 01:05:48]  Denn dieser übermäßige Quint-Sechst-Akkord, der hier für C-Dur steht,
+[01:05:48 -> 01:05:55]  der leitet wunderbar über zur Dominanten von C-Dur, um sich dann wieder zur Tonika aufzulösen.
+[01:05:55 -> 01:06:00]  Ich vereinfache hier sehr, sehr stark, weil das hier alles sehr, sehr komplex ist.
+[01:06:00 -> 01:06:08]  Der übermäßige Quint-Sechst-Akkord, der weiter überleiten würde zur Dominanten in der jeweiligen Tonart,
+[01:06:08 -> 01:06:13]  der lässt sich auf der sechsten Stufe in Moll bilden.
+[01:06:13 -> 01:06:15]  Das heißt also C.
+[01:06:15 -> 01:06:21]  Und Ton der sechsten Stufe in Moll, eben nicht in C-Dur, wäre C-D.
+[01:06:21 -> 01:06:28]  Und hier sind wir in Moll, S-F-G-As, müsste dann den Grundton As kriegen.
+[01:06:28 -> 01:06:32]  Von diesem Grundton brauchen wir dann das Intervall einer Quinte.
+[01:06:32 -> 01:06:37]  Also vom As aus, das ist hier unten, müssten wir weitergehen zum Es.
+[01:06:37 -> 01:06:40]  Dann haben wir eine reine Quinte nach oben gemacht.
+[01:06:41 -> 01:06:45]  Dann heißt dieser Akkord aber übermäßiger Quint-Sechst-Akkord.
+[01:06:45 -> 01:06:50]  Das heißt also, wir nehmen jetzt hier noch eine übermäßige Sechste in den Akkord auf.
+[01:06:50 -> 01:06:53]  Eine Sechste zum Akkord selber wäre der Ton F.
+[01:06:53 -> 01:06:57]  Den Ton F haben wir in C-Dur und C-Moll ganz normal drin in der Tonart.
+[01:06:57 -> 01:07:01]  Hier haben wir aber eine übermäßige Sechste.
+[01:07:01 -> 01:07:05]  Was die zu suchen hat, erkläre ich funktional auch gleich nochmal.
+[01:07:05 -> 01:07:08]  Und als letztes kommt dann der Ton C noch dazu.
+[01:07:08 -> 01:07:11]  Das wäre eben die Terz in diesem Akkord.
+[01:07:11 -> 01:07:14]  Vom As zum C wäre eine Terz.
+[01:07:14 -> 01:07:22]  Jetzt haben wir hier diesen übermäßigen Quint-Sechst-Akkord hier als As mit übermäßiger Sechste.
+[01:07:22 -> 01:07:25]  Wie soll der jetzt erstmal funktionieren?
+[01:07:25 -> 01:07:29]  Wir schauen uns einmal an, wie diese Töne weiterzuführen wären.
+[01:07:29 -> 01:07:31]  Wir haben hier unten den Ton As.
+[01:07:31 -> 01:07:35]  Und dieses B zeigt uns für die Tonart C-Dur, in der wir uns jetzt ja befinden,
+[01:07:35 -> 01:07:39]  dass dieser Ton As einen Drang hat, einen Halbton nach unten zu gehen.
+[01:07:39 -> 01:07:42]  Dann ist das As weg und dann sind wir beim Ton G.
+[01:07:42 -> 01:07:48]  Und das wäre ja auch schon ein Zielton, in den wir rein wollen, um diesen G7-Akkord zu erreichen
+[01:07:48 -> 01:07:52]  und dann wieder zur Tonika aufzulösen von C-Dur.
+[01:07:52 -> 01:07:56]  Das heißt also, As soll sich runter bewegen zum G.
+[01:07:56 -> 01:07:58]  Was machen wir mit dem S?
+[01:07:58 -> 01:08:03]  Auch da haben wir wieder dieses Vorzeichen B, was nach unten drängt und nicht nach oben drängt.
+[01:08:03 -> 01:08:09]  Und den Ton S würden wir dann einen Halbton tiefer zum D auflösen.
+[01:08:09 -> 01:08:11]  S zu D.
+[01:08:11 -> 01:08:16]  Und der Ton D, G, H, D, F, wäre auch wieder hier drin.
+[01:08:16 -> 01:08:20]  Das leitet also auch schon mal wunderbar in diesen G7-Akkord.
+[01:08:20 -> 01:08:24]  Als nächstes haben wir den Ton Fis hier, diese übermäßige Sechste.
+[01:08:24 -> 01:08:29]  Der Ton Fis ist der Leitton zum G-Dur-Akkord.
+[01:08:29 -> 01:08:34]  Der Ton Fis leitet in der Tonart G-Dur zu diesem Akkord über.
+[01:08:34 -> 01:08:40]  Und das Kreuz ist hier eben das Zeichen, dass dieser Ton aufstrebend ist von der Stimmführung.
+[01:08:40 -> 01:08:44]  Wir gehen vom Ton Fis zum Ton G in diesem Akkord.
+[01:08:44 -> 01:08:46]  Mit einem Halbtonschritt mal wieder.
+[01:08:46 -> 01:08:52]  Eben hatten wir zwei Töne, die jeweils einen Halbtonschritt nach unten gehen in diesem Akkord.
+[01:08:52 -> 01:08:56]  Hier haben wir jetzt einen Ton, der einen Halbtonschritt nach oben geht.
+[01:08:56 -> 01:08:59]  Und als letztes haben wir hier noch den Ton C.
+[01:08:59 -> 01:09:03]  Der geht wieder einen Halbtonschritt nach unten zum H.
+[01:09:03 -> 01:09:08]  Das heißt also, dieser Akkord wird durchweg schön in Halbtonschritten aufgelöst.
+[01:09:08 -> 01:09:14]  Wenn wir das jetzt so machen würden, dass wir von diesem Akkord direkt zur Dominanten von C-Dur hingehen.
+[01:09:14 -> 01:09:20]  In der klassischen Musik hat man das nicht gemacht, weil man sowas vermeiden möchte von der Stimmführung.
+[01:09:20 -> 01:09:28]  Denn wenn wir jetzt hier diesen Ton As und den Ton Es, diese Quinte dazwischen, weiterführen zu G und zu D,
+[01:09:28 -> 01:09:31]  dann entstehen sogenannte Mozart-Quinten.
+[01:09:31 -> 01:09:35]  Und die möchte man bei einer schönen Stimmführung vermeiden.
+[01:09:35 -> 01:09:43]  Deshalb packt man hier immer noch einen Akkord zwischen, der dann diesen Akkord Stück für Stück zum G7 auflöst.
+[01:09:43 -> 01:09:46]  Das soll uns jetzt aber gar nicht so sehr stören.
+[01:09:46 -> 01:09:50]  Wir wollen diesen Akkord einmal umdeuten, um wieder zurück in die Jazz-Harmonie-Lehre zu kommen.
+[01:09:50 -> 01:09:53]  Das Ganze klingt jetzt hier übrigens so.
+[01:09:56 -> 01:09:59]  Und nochmal, weil es doch gewöhnungsbedürftig ist.
+[01:10:02 -> 01:10:06]  Vielleicht habe ich hier auch schon das Mysterium ein bisschen gelöst.
+[01:10:06 -> 01:10:13]  Wenn du dir den Klang davon anhörst, dann klingt das nicht wirklich nach einem Akkord, den du noch nie gehört hast.
+[01:10:13 -> 01:10:18]  Sondern es klingt nach einer sehr vertrauten Funktion.
+[01:10:18 -> 01:10:24]  Wenn wir diesen As-Akkord mit übermäßiger Sexte umdeuten,
+[01:10:24 -> 01:10:30]  dann stellen wir fest, dass das nicht nur ein As mit übermäßiger Sexte sein kann,
+[01:10:30 -> 01:10:34]  sondern diese übermäßige Sexte enharmonisch verwechselt,
+[01:10:34 -> 01:10:37]  wäre nichts anderes als eine kleine Septime.
+[01:10:37 -> 01:10:41]  Und dieser Akkord klingt auch nicht anders.
+[01:10:41 -> 01:10:44]  Grundsätzlich gesehen jetzt sehr stark vereinfacht,
+[01:10:44 -> 01:10:49]  wie ein Dominant-Sept-Akkord und wie ein As-Dominant-Sept-Akkord.
+[01:10:49 -> 01:10:54]  Und dieser Akkord würde als Dominante zum Des-Dur weiterleiten.
+[01:10:54 -> 01:10:59]  Wenn wir den Tritonus jetzt allerdings enharmonisch verwechseln,
+[01:10:59 -> 01:11:03]  so wie es hier beim As mit der übermäßigen Sexte passiert ist,
+[01:11:03 -> 01:11:07]  dann haben wir hier den Leitton Fis zu G-Dur.
+[01:11:07 -> 01:11:11]  Hier haben wir den Tritonus zwischen den beiden farblich markierten Tönen.
+[01:11:11 -> 01:11:16]  Zwischen Fis und C ist so ziemlich das dissonanteste Intervall in der Musik,
+[01:11:16 -> 01:11:18]  das wir auflösen müssen.
+[01:11:18 -> 01:11:21]  Das löst sich vom Fis aus hier in den Ton G auf
+[01:11:21 -> 01:11:26]  und vom Ton C aus hier nach unten in den Ton H,
+[01:11:26 -> 01:11:29]  jeweils um Halbtonschritte nach oben und nach unten.
+[01:11:29 -> 01:11:34]  Dann haben wir hier die Substitutions-Dominante vom G-Dur-Akkord.
+[01:11:34 -> 01:11:39]  Und hier, als übermäßiger Quint-Sext-Akkord,
+[01:11:39 -> 01:11:44]  wurde damals im Barock dieser As-Akkord wie eine Substitutions-Dominante,
+[01:11:44 -> 01:11:48]  die zur fünften Stufe der eigentlichen Tonart führt, benutzt,
+[01:11:48 -> 01:11:51]  um dann zur Tonika zu kommen.
+[01:11:51 -> 01:11:54]  Und das Ganze wurde von der Stimmführung noch etwas schöner gelöst,
+[01:11:54 -> 01:11:58]  etwas barockscher, sag ich mal, nicht klassischer.
+[01:11:58 -> 01:12:01]  Im Endeffekt ist das aber heutzutage nichts anderes
+[01:12:01 -> 01:12:04]  als eine Tritonus-Substitution,
+[01:12:04 -> 01:12:07]  wenn wir die Stimmführung nicht allzu ernst nehmen wollen.
+[01:12:07 -> 01:12:11]  Und hier hörst du einmal diesen übermäßigen Quint-Sext-Akkord.
+[01:12:11 -> 01:12:15]  Heutzutage moderne Harmonielehre als Substitutions-Dominante
+[01:12:15 -> 01:12:18]  sich auflösen zum G-Dur-Akkord.
+[01:12:20 -> 01:12:23]  So, da hat man eine dominantische Auflösung gehört,
+[01:12:23 -> 01:12:26]  weil eben der Tritonus hierhin aufgelöst wird.
+[01:12:26 -> 01:12:29]  Und so wie die Dominante eigentlich funktioniert,
+[01:12:29 -> 01:12:32]  As-Dominant-Sept zu Des.
+[01:12:34 -> 01:12:36]  Auch das löst sich wunderbar auf.
+[01:12:36 -> 01:12:38]  Und bei der enharmonischen Modulation
+[01:12:38 -> 01:12:41]  nutzen wir diese Umdeutung des Tritonus.
+[01:12:41 -> 01:12:44]  Diese Tritonus-Substitution, die nutzen wir aus,
+[01:12:44 -> 01:12:46]  um weiter zu modulieren.
+[01:12:46 -> 01:12:50]  Und wenn wir eben diesen Quint-Sext-Akkord aus C-Dur nehmen,
+[01:12:50 -> 01:12:52]  As mit übermäßiger Sexte,
+[01:12:52 -> 01:12:56]  dann können wir nicht nur wieder zur Tonika C-Dur zurückkehren,
+[01:12:57 -> 01:12:59]  indem wir über die 5. Stufe auflösen,
+[01:12:59 -> 01:13:01]  über diesen G7-Akkord,
+[01:13:02 -> 01:13:06]  sondern wir können später diesen As mit übermäßiger Sexte
+[01:13:06 -> 01:13:09]  zu einem As-Dominant-Sept-Akkord umdeuten
+[01:13:09 -> 01:13:13]  und von C-Dur in die Tonart Des-Dur modulieren,
+[01:13:13 -> 01:13:15]  ohne viel Zeit zu verlieren.
+[01:13:15 -> 01:13:18]  Das habe ich in diesen Beispielen mal beschrieben.
+[01:13:18 -> 01:13:21]  Ich habe hier mal einen Modulationsweg beschrieben.
+[01:13:21 -> 01:13:24]  Und zwar haben wir hier Tonika C-Dur.
+[01:13:24 -> 01:13:26]  Alles, was sich blau gekennzeichnet ist,
+[01:13:26 -> 01:13:28]  spielt sich hier in C-Dur ab.
+[01:13:28 -> 01:13:30]  Hier unten passiert nochmal exakt dasselbe,
+[01:13:30 -> 01:13:32]  wenn es blau gekennzeichnet ist.
+[01:13:32 -> 01:13:34]  Dann siehst du hier nach dem C-Dur-Akkord
+[01:13:34 -> 01:13:39]  auch gleich diesen As-Akkord mit übermäßiger Sexte drin.
+[01:13:40 -> 01:13:42]  Der funktioniert hier auch als ganz normaler,
+[01:13:42 -> 01:13:45]  übermäßiger Quint-Sext-Akkord
+[01:13:45 -> 01:13:48]  und leitet dann über so einen Vorhals-Akkord,
+[01:13:48 -> 01:13:50]  der den eigentlichen Akkord, wo ich hin will,
+[01:13:50 -> 01:13:52]  noch nicht ganz präsentiert,
+[01:13:52 -> 01:13:54]  sondern Stück für Stück die Töne auflöst,
+[01:13:54 -> 01:13:56]  damit es alles ein bisschen schöner ist
+[01:13:56 -> 01:13:58]  und keine Mozart-Quinten entstehen.
+[01:13:58 -> 01:14:01]  Der bringt uns dann in den G7-Akkord
+[01:14:01 -> 01:14:03]  und funktioniert hier,
+[01:14:03 -> 01:14:05]  As mit übermäßiger Sexte,
+[01:14:05 -> 01:14:08]  funktioniert hier als Substitutions-Dominante vom G7.
+[01:14:08 -> 01:14:11]  G7 funktioniert als Dominante vom C-Dur
+[01:14:11 -> 01:14:13]  und ich bin hier auch in C-Dur.
+[01:14:13 -> 01:14:15]  Ich habe die Tonart nicht verlassen.
+[01:14:15 -> 01:14:17]  Ich habe hier keine Modulation.
+[01:14:17 -> 01:14:19]  Mein Zuhörer weiß aber schon,
+[01:14:19 -> 01:14:21]  okay, das passt hier alles zusammen.
+[01:14:21 -> 01:14:22]  Das ist sehr engagierend.
+[01:14:22 -> 01:14:26]  Klanglich ist der ja nun wirklich nicht kompliziert auf diesem Weg.
+[01:14:31 -> 01:14:34]  Beim zweiten Mal ist genau dieser selbe Akkord
+[01:14:34 -> 01:14:36]  jetzt enharmonisch umgedeutet worden,
+[01:14:36 -> 01:14:39]  damit eine enharmonische Modulation stattfindet.
+[01:14:39 -> 01:14:43]  Und der Tritonus in diesem Akkord wird anders genutzt,
+[01:14:43 -> 01:14:46]  nämlich als Tritonus, der sich nach der Stur auflöst.
+[01:14:46 -> 01:14:49]  Hier steht jetzt nicht mehr As übermäßig Sext,
+[01:14:49 -> 01:14:52]  sondern wir haben jetzt As-Dominant-Sept-Akkord.
+[01:14:52 -> 01:14:55]  Ein As-Dominant-Sept-Akkord hier,
+[01:14:55 -> 01:14:57]  der wunderbar nach dem C-Dur kommen kann,
+[01:14:57 -> 01:15:01]  aber jetzt übermoduliert mit einem einzigen Akkord
+[01:15:01 -> 01:15:04]  zu der Tonart, die einen Halbton höher steht.
+[01:15:04 -> 01:15:07]  Das haben wir uns ja eben im Quintenzirkel angeguckt.
+[01:15:07 -> 01:15:09]  Der Stur ist ewig weit weg von C-Dur.
+[01:15:09 -> 01:15:11]  Der bräuchten wir sonst sehr, sehr lange.
+[01:15:11 -> 01:15:13]  Die enharmonische Modulation macht es möglich,
+[01:15:13 -> 01:15:16]  dass wir hier sehr, sehr schnell hinkommen.
+[01:15:16 -> 01:15:19]  Und genauso würden wir dann auch nach Des-Moll kommen.
+[01:15:19 -> 01:15:22]  Das klingt von C-Dur aus so.
+[01:15:33 -> 01:15:35]  Und das ging wirklich super schnell.
+[01:15:35 -> 01:15:37]  Und hier hat sich Des-Dur gefestigt.
+[01:15:37 -> 01:15:39]  Da brauchten wir nicht lange fackeln
+[01:15:39 -> 01:15:42]  und der Zuhörer ist in unserer neuen Tonart,
+[01:15:42 -> 01:15:45]  die wir Ihnen schön beigebracht haben.
+[01:15:45 -> 01:15:49]  Das Ganze hier im Beispiel von C-Dur nach Des-Moll.
+[01:15:49 -> 01:15:52]  Also ich habe hier einfach nur ein Des-Moll-Akkord geschrieben
+[01:15:52 -> 01:15:55]  und dann eben die jeweiligen Akkorde aus Des-Moll verwendet.
+[01:16:08 -> 01:16:10]  Wenn wir uns jetzt nochmal anschauen,
+[01:16:10 -> 01:16:12]  wie dieser übermäßige Quintsext-Akkord,
+[01:16:12 -> 01:16:15]  der zur fünften Stufe in C-Dur überleitet,
+[01:16:15 -> 01:16:17]  gebildet wurde in dieser Tonart,
+[01:16:17 -> 01:16:19]  dann stellen wir ja nochmal fest,
+[01:16:19 -> 01:16:21]  den haben wir nicht auf einer C-Dur-Tonleiter,
+[01:16:21 -> 01:16:24]  den haben wir größtenteils auf einer C-Moll-Tonleiter gebildet.
+[01:16:24 -> 01:16:28]  Nämlich aus den Tönen As, C, Es
+[01:16:28 -> 01:16:31]  und dann eben dieser übermäßigen Sechste,
+[01:16:31 -> 01:16:35]  dem Ton Fis, nicht den Ton F4, hier drin steht.
+[01:16:35 -> 01:16:38]  Das heißt also, dieser As-Dur-Akkord
+[01:16:38 -> 01:16:40]  mit übermäßiger Sechste,
+[01:16:40 -> 01:16:43]  beziehungsweise umgedeutet selber Klang,
+[01:16:43 -> 01:16:45]  der As-Dominant-Seb-Akkord,
+[01:16:45 -> 01:16:49]  muss auch stark mit der C-Moll-Tonleiter zusammenhängen.
+[01:16:49 -> 01:16:52]  Theoretisch müsste uns dann diese Modulation auch glücken,
+[01:16:52 -> 01:16:56]  wenn wir von C-Moll nach Des-Moll modulieren wollen
+[01:16:56 -> 01:16:58]  und auch wieder diesen Akkord nutzen.
+[01:16:58 -> 01:17:00]  Das machen wir jetzt mal.
+[01:17:00 -> 01:17:02]  Hier siehst du dieselben zwei Beispiele,
+[01:17:02 -> 01:17:04]  wie eben nur eben,
+[01:17:04 -> 01:17:06]  dass hier als Toniker nicht C-Dur steht,
+[01:17:06 -> 01:17:08]  sondern jetzt ein C-Moll-Akkord.
+[01:17:08 -> 01:17:12]  Der Weg hier ist genau derselbe wie in C-Dur,
+[01:17:12 -> 01:17:16]  nur dass sich das G7 dann eben auch wieder zu einem C-Moll auflöst
+[01:17:16 -> 01:17:20]  und C-Moll in beiden Beispielen als Toniker etabliert wird.
+[01:17:20 -> 01:17:22]  Dann hört man hier diesen As-7-Akkord,
+[01:17:22 -> 01:17:25]  der hier jetzt schon enharmonisch umgedeutet ist
+[01:17:25 -> 01:17:27]  für unsere enharmonische Modulation,
+[01:17:27 -> 01:17:32]  der sich im ersten Beispiel als Dominante von Des-Dur in Des-Dur auflöst
+[01:17:32 -> 01:17:35]  und Des-Dur sich dann festigt.
+[01:17:35 -> 01:17:37]  Und im zweiten Beispiel,
+[01:17:37 -> 01:17:42]  dass As-7 als Dominante für Des-Harmonisch-Moll
+[01:17:42 -> 01:17:45]  sich zu Des-Moll auflöst
+[01:17:45 -> 01:17:48]  und dann wird Des-Moll auch noch gefestigt,
+[01:17:48 -> 01:17:50]  hier mit einer kurzen Kadenz.
+[01:17:50 -> 01:17:54]  So klingt die Modulation von C-Moll nach Des-Dur
+[01:17:54 -> 01:17:56]  als enharmonische Modulation
+[01:17:56 -> 01:17:58]  und das ist nur ein Beispiel.
+[01:18:06 -> 01:18:09]  Und hier von C-Moll nach Des-Moll.
+[01:18:21 -> 01:18:24]  Nun haben wir uns bei der enharmonischen Modulation
+[01:18:24 -> 01:18:28]  ja meistens den Tritonus von Dominant-Seb-Akkorden
+[01:18:28 -> 01:18:32]  beziehungsweise hier umgedeutet vom Übermäßigen
+[01:18:32 -> 01:18:35]  Quint-Sext-Akkord zunutze gemacht
+[01:18:35 -> 01:18:39]  und den enharmonisch verwechselt, enharmonisch umgedeutet,
+[01:18:39 -> 01:18:41]  um in eine andere Tonart zu kommen.
+[01:18:41 -> 01:18:44]  Das heißt also, hier läuft vieles nur über den Tritonus.
+[01:18:44 -> 01:18:46]  Und so einen Tritonus finden wir nicht nur
+[01:18:46 -> 01:18:49]  eben in diesem charakteristischen Akkord,
+[01:18:49 -> 01:18:51]  aus dem das Ganze mit entstanden ist,
+[01:18:51 -> 01:18:55]  sondern wir finden Tritoni auch in vollverminderten Akkorden.
+[01:18:55 -> 01:18:57]  Zur kurzen Wiederholung,
+[01:18:57 -> 01:18:59]  so ein vollverminderter Akkord
+[01:18:59 -> 01:19:01]  der kommt in normalen Tonleitern
+[01:19:01 -> 01:19:04]  meistens in harmonisch-Moll vor.
+[01:19:04 -> 01:19:06]  Dort finden wir diesen vollverminderten Akkord
+[01:19:06 -> 01:19:08]  auf der siebten Stufe der Tonleiter,
+[01:19:08 -> 01:19:10]  da können wir ihn bilden.
+[01:19:10 -> 01:19:12]  Und der Akkord baut sich durchweg
+[01:19:12 -> 01:19:15]  aus Schichtungen von kleinen Terzen auf.
+[01:19:15 -> 01:19:17]  Das heißt, würde ich jetzt vom Ton H aus
+[01:19:17 -> 01:19:20]  einen vollverminderten Akkord aufbauen wollen,
+[01:19:20 -> 01:19:22]  dann hätte ich den Grundton H,
+[01:19:22 -> 01:19:25]  müsste dann eine kleine Terze nach oben springen,
+[01:19:25 -> 01:19:27]  dann lande ich auf den Ton D.
+[01:19:27 -> 01:19:29]  Dann müsste ich nochmal eine kleine Terze
+[01:19:29 -> 01:19:31]  vom D zum F springen,
+[01:19:31 -> 01:19:33]  und vom F zum As
+[01:19:33 -> 01:19:36]  müsste ich dann nochmal eine kleine Terze springen,
+[01:19:36 -> 01:19:38]  und vom As würde ich dann auch wieder
+[01:19:38 -> 01:19:41]  eine kleine Terze zum Grundton des Akkords springen,
+[01:19:41 -> 01:19:43]  zum Ton H darüber.
+[01:19:43 -> 01:19:46]  Also ein symmetrischer Akkord,
+[01:19:46 -> 01:19:48]  der nur aus kleinen Terzen aufgebaut ist,
+[01:19:48 -> 01:19:51]  das hat zur Folge, dass dieser Akkord
+[01:19:51 -> 01:19:54]  nochmal der Dominant-Sept-Akkord
+[01:19:54 -> 01:19:56]  nochmal der Dominant-Sept-Akkord
+[01:19:56 -> 01:19:58]  mit gewissen Extra sein kann.
+[01:19:58 -> 01:20:01]  Denn wir haben hier nicht nur ein Tritonus drin,
+[01:20:01 -> 01:20:05]  hier siehst du mal diesen H-vollvermindert 7,
+[01:20:05 -> 01:20:07]  wir haben hier nicht nur ein Tritonus
+[01:20:07 -> 01:20:09]  zwischen dem Ton H
+[01:20:09 -> 01:20:11]  und dem Ton F,
+[01:20:11 -> 01:20:13]  das ist ja ein Tritonus,
+[01:20:13 -> 01:20:15]  den könnten wir umdeuten
+[01:20:15 -> 01:20:18]  und in eine andere Tonart als C-Dur gehen,
+[01:20:18 -> 01:20:20]  wir haben hier auch noch ein Tritonus
+[01:20:20 -> 01:20:23]  zwischen den Tönen D und dem Ton As,
+[01:20:23 -> 01:20:25]  und auch den könnten wir wieder umdeuten,
+[01:20:25 -> 01:20:27]  das heißt also mit diesem Akkord
+[01:20:27 -> 01:20:30]  kommen wir insgesamt in vier verschiedene Tonarten weiter.
+[01:20:30 -> 01:20:32]  So, wie funktioniert das jetzt also
+[01:20:32 -> 01:20:35]  mit den enharmonischen Modulationen
+[01:20:35 -> 01:20:37]  mit vollverminderten Akkorden?
+[01:20:37 -> 01:20:40]  Ich habe hier eine Akkordfolge aus C-Dur
+[01:20:40 -> 01:20:44]  und ich habe hier ein H-vollvermindert 7
+[01:20:44 -> 01:20:47]  aus einer C-harmonisch-Moll-Tonleiter.
+[01:20:47 -> 01:20:50]  Auf der siebten Stufe einer C-harmonisch-Moll-Tonleiter
+[01:20:50 -> 01:20:52]  finden wir diesen Akkord,
+[01:20:53 -> 01:20:55]  vom Ton H eben aus,
+[01:20:55 -> 01:20:57]  und dann haben wir genau diesen Akkord.
+[01:20:57 -> 01:21:00]  In diesem Akkord steckt ein Tritonus drin,
+[01:21:00 -> 01:21:02]  den wir hier benutzen möchten,
+[01:21:02 -> 01:21:06]  und zwar der Tritonus zwischen den Tönen H und F.
+[01:21:06 -> 01:21:10]  Der Tritonus H und F ist halt eben genau derselbe Tritonus,
+[01:21:10 -> 01:21:13]  den wir auch beim G7 brauchen,
+[01:21:13 -> 01:21:16]  um das G7 so wunderbar wieder zum C-Dur
+[01:21:16 -> 01:21:19]  oder zum C-Moll-Akkord aufzulösen.
+[01:21:19 -> 01:21:21]  Und hier, ganz einfach ausgedrückt,
+[01:21:21 -> 01:21:23]  wird dann mit diesem Tritonus
+[01:21:23 -> 01:21:28]  einfach wieder vom H-vollvermindert zum C-Dur aufgelöst.
+[01:21:28 -> 01:21:31]  Das Ganze klingt so und ist noch keine Modulation.
+[01:21:39 -> 01:21:43]  So, und hier funktioniert der H-vollvermindert-Akkord
+[01:21:43 -> 01:21:46]  eher als Substitution für den G7-Akkord.
+[01:21:46 -> 01:21:49]  Der ersetzt hier die Funktion des G7-Akkords.
+[01:21:50 -> 01:21:52]  Wir haben hier aber zwei Tritoni drin.
+[01:21:52 -> 01:21:57]  Das heißt also, wir können so vier verschiedenen Tonarten auflösen
+[01:21:57 -> 01:22:00]  und jeweils in Dur und Moll.
+[01:22:00 -> 01:22:03]  Wir müssten also in acht Tonarten modulieren können.
+[01:22:03 -> 01:22:04]  Schauen wir uns das an.
+[01:22:04 -> 01:22:07]  Im ersten Beispiel geht es von C-Dur,
+[01:22:07 -> 01:22:10]  C-Dur wird hier etabliert durch die dominante G7,
+[01:22:10 -> 01:22:13]  über ein D-vollvermindert-7,
+[01:22:13 -> 01:22:17]  der genau dieselben Töne hat wie H-vollvermindert-7,
+[01:22:17 -> 01:22:20]  nur im Grundton halt den Ton D hat.
+[01:22:20 -> 01:22:23]  Diese Akkorde sind aber beide gleich vom Tonmaterial,
+[01:22:23 -> 01:22:26]  die sind ja durchweg aus kleinen Terzen aufgebaut und symmetrisch.
+[01:22:26 -> 01:22:29]  Deshalb haben sie halt vier verschiedene Namen,
+[01:22:29 -> 01:22:31]  weil sie aus vier verschiedenen Tönen bestehen.
+[01:22:31 -> 01:22:34]  Hier wird er umgedeutet zu einem D-vollvermindert-7
+[01:22:34 -> 01:22:39]  und dieses D-vollvermindert-7 löst sich dann zu S-Dur auf,
+[01:22:39 -> 01:22:43]  so wie es hier auch schon das H-vollvermindert-7
+[01:22:43 -> 01:22:46]  dann einen Halbton höher zum C-Dur-Akkord gemacht hat.
+[01:22:46 -> 01:22:50]  Also hier kann man sich gut diese Halbtonschritte merken.
+[01:22:50 -> 01:22:53]  Ich interpretiere diesen Akkord jetzt nur von der Benennung her
+[01:22:53 -> 01:22:56]  von einem anderen Akkordton.
+[01:22:56 -> 01:22:59]  Wir haben ja hier die Töne H-D-F-As
+[01:22:59 -> 01:23:02]  und H soll hier als Basston stehen
+[01:23:02 -> 01:23:06]  und als nächstes habe ich dann eben den Ton D als Basston genommen
+[01:23:06 -> 01:23:10]  und mein Akkord ist umgedeutet zum D-vollvermindert-7,
+[01:23:10 -> 01:23:12]  löst sich zu S-Dur auf und wir haben eine Modulation,
+[01:23:12 -> 01:23:15]  die hier gefestigt wird über die Dominante von S-Dur.
+[01:23:16 -> 01:23:18]  Klingt so.
+[01:23:25 -> 01:23:27]  Und geht auch wieder wunderbar schnell.
+[01:23:27 -> 01:23:29]  Also mit diesen enharmonischen Modulationen
+[01:23:29 -> 01:23:33]  kann man sehr, sehr schnell in beliebige Tonarten übermodulieren.
+[01:23:33 -> 01:23:37]  Jetzt deute ich diesen H-vollvermindert-7-Akkord weiter um.
+[01:23:37 -> 01:23:40]  In dem Beispiel wurde es zu D-vollvermindert-7.
+[01:23:40 -> 01:23:43]  Hier deute ich jetzt weiter um
+[01:23:43 -> 01:23:47]  und nehme den dritten Ton von diesem Akkord als Grundton
+[01:23:47 -> 01:23:50]  und erhalte ein F-vollvermindert-7,
+[01:23:50 -> 01:23:53]  das sich ja in den Akkordeinhalbton drüber auflösen müsste,
+[01:23:53 -> 01:23:55]  in Dur oder in Moll.
+[01:23:55 -> 01:23:59]  Also müsste sich F zu G-Dur auflösen.
+[01:23:59 -> 01:24:03]  Und auch das passiert hier wieder über den Tritonus da drin.
+[01:24:04 -> 01:24:08]  Und auch hier funktioniert die Modulation wieder sehr, sehr schnell.
+[01:24:08 -> 01:24:11]  Wenn du mehr über Tritonussubstitutionen wissen möchtest,
+[01:24:11 -> 01:24:13]  dann schau dir auf jeden Fall mein Video
+[01:24:13 -> 01:24:17]  über Sekundärdominanten und Substitutionsdominanten an.
+[01:24:17 -> 01:24:18]  Das ist nämlich der Grund,
+[01:24:18 -> 01:24:22]  warum ich hier gar nicht so stark auf die Tritonussubstitution eingehe,
+[01:24:22 -> 01:24:25]  obwohl sie eine wichtige Rolle spielt.
+[01:24:25 -> 01:24:28]  Im letzten Beispiel habe ich dann den Akkord
+[01:24:28 -> 01:24:31]  und zwar hier den Ton As.
+[01:24:31 -> 01:24:34]  Und den habe ich jetzt als Grundton aufgebaut.
+[01:24:34 -> 01:24:37]  Und ich habe den Ton As auch nochmal enharmonisch verwechselt.
+[01:24:37 -> 01:24:40]  Der klingt ja genau gleich wie ein Gis-Dur.
+[01:24:40 -> 01:24:43]  Und dieser Gis-Vollvermindert-7-Akkord,
+[01:24:43 -> 01:24:47]  der leitet mit seinem Tritonus auch wieder schön in einen Akkord ein.
+[01:24:47 -> 01:24:49]  Und ich habe hier den Akkord,
+[01:24:49 -> 01:24:52]  den ich jetzt als Grundton aufgebaut habe,
+[01:24:52 -> 01:24:55]  auch nochmal enharmonisch verwechselt.
+[01:24:55 -> 01:24:59]  Der leitet mit seinem Tritonus auch wieder schön in einen A-Dur
+[01:24:59 -> 01:25:02]  oder aber auch in einen A-Moll-Akkord über.
+[01:25:02 -> 01:25:05]  Über den Tritonus zwischen Gis und D übrigens.
+[01:25:05 -> 01:25:09]  Das ist der Tritonus, den wir auch im E7-Akkord finden würden,
+[01:25:09 -> 01:25:13]  der Dominante vom A-Dur oder der Dominanten vom A-Moll.
+[01:25:13 -> 01:25:17]  Und diese Modulation von C-Dur nach A-Dur klingt so.
+[01:25:18 -> 01:25:21]  Wir haben jetzt also von C-Dur nach Es-Dur,
+[01:25:21 -> 01:25:23]  von C-Dur nach Ges-Dur,
+[01:25:23 -> 01:25:25]  von C-Dur nach A-Dur moduliert.
+[01:25:25 -> 01:25:29]  Und dieser Modulationsweg mit den Vollverminderten-Akkorden,
+[01:25:29 -> 01:25:36]  der funktioniert auch zu den jeweiligen Parallelen-Mollton-Arten international gesehen.
+[01:25:36 -> 01:25:41]  Also zu Es-Moll, Ges-Moll und A-Moll.
+[01:25:42 -> 01:25:45]  Die Modulation mit den Vollverminderten-Akkorden
+[01:25:45 -> 01:25:48]  können wir auch noch etwas schöner gestalten.
+[01:25:48 -> 01:25:51]  Und zwar können wir den Vollverminderten-Akkorden mit einem Ton
+[01:25:51 -> 01:25:53]  erstmal so ein bisschen abändern,
+[01:25:53 -> 01:25:56]  um Stück für Stück dann in die neue Tonart zu kommen.
+[01:25:56 -> 01:25:59]  Hier oben wieder keine Modulation, wie im Beispiel eben.
+[01:25:59 -> 01:26:01]  Und du siehst auch wieder,
+[01:26:01 -> 01:26:04]  dass wir den Vollverminderten-Akkord mit einem Ton
+[01:26:04 -> 01:26:06]  erstmal so ein bisschen abändern,
+[01:26:06 -> 01:26:09]  um Stück für Stück dann in die neue Tonart zu kommen.
+[01:26:10 -> 01:26:13]  Und du siehst auch wieder exakt dieselben Akkorde,
+[01:26:13 -> 01:26:15]  wie im Beispiel vorher
+[01:26:15 -> 01:26:18]  und dieselben Modulationswege.
+[01:26:18 -> 01:26:22]  Die Modulation wurde jetzt allerdings ein bisschen verlängert.
+[01:26:22 -> 01:26:24]  Wir sind hier am Anfang in C-Moll,
+[01:26:24 -> 01:26:26]  ich hätte auch C-Dur wählen können,
+[01:26:26 -> 01:26:28]  so wie im Anfangsbeispiel.
+[01:26:28 -> 01:26:30]  Das mache ich aber jetzt, um zu zeigen,
+[01:26:30 -> 01:26:33]  dass das Ganze für Moll und Dur gleich bedeutend klappt.
+[01:26:33 -> 01:26:36]  Hier habe ich den H-Vollvermindert-7-Akkord
+[01:26:36 -> 01:26:39]  aus den Tönen H, D, F und As.
+[01:26:39 -> 01:26:42]  Den Ton As habe ich hier in den Bass gelegt,
+[01:26:42 -> 01:26:45]  um zu zeigen, wie sich die Töne dann weiter bewegen
+[01:26:45 -> 01:26:47]  in den nächsten Akkord.
+[01:26:47 -> 01:26:51]  Vollverminderte Akkorde haben noch eine weitere praktische Eigenschaft,
+[01:26:51 -> 01:26:53]  was die Stimmführung angeht,
+[01:26:53 -> 01:26:56]  wenn ich gewisse Töne in diesem Akkord verändere,
+[01:26:56 -> 01:26:58]  um irgendwo hinzukommen.
+[01:26:58 -> 01:27:00]  Denn wenn ich jetzt hier so diese Töne
+[01:27:00 -> 01:27:02]  aus einem Vollverminderten-Akkord habe,
+[01:27:02 -> 01:27:05]  die ja alle von den Abständen her gleich bedeutend sind,
+[01:27:06 -> 01:27:10]  und einen einzigen Ton um einen Halbton erniedrige,
+[01:27:10 -> 01:27:13]  dann bekomme ich keinen Vollverminderten-Akkord mehr,
+[01:27:13 -> 01:27:16]  sondern dann bekomme ich immer einen Dominant-Sept-Akkord
+[01:27:16 -> 01:27:18]  als Resultat.
+[01:27:18 -> 01:27:21]  Hier haben wir diesen H-Vermindert-7-Akkord.
+[01:27:21 -> 01:27:25]  Und hier liegt dieser Akkord auf der Verminderten-Septime.
+[01:27:25 -> 01:27:27]  Wenn ich die Verminderte-Septime
+[01:27:27 -> 01:27:30]  jetzt einen Halbton nach unten bringe,
+[01:27:30 -> 01:27:34]  dann bekomme ich einen Akkord aus den Tönen G, H, D und F.
+[01:27:34 -> 01:27:37]  Ich bekomme hier also einen G7-Akkord.
+[01:27:37 -> 01:27:39]  Das war die versteckte Dominante,
+[01:27:39 -> 01:27:42]  die wir eben schon genutzt haben, um zu C-Dur zu kommen.
+[01:27:42 -> 01:27:45]  Und hier können wir dann eben zu C-Moll kommen.
+[01:27:45 -> 01:27:46]  Dann gehe ich weiter.
+[01:27:46 -> 01:27:50]  Hier siehst du wieder dieselben Töne wie im Beispiel drüben,
+[01:27:50 -> 01:27:52]  nur dass die Lage anders ist.
+[01:27:52 -> 01:27:55]  Hier liegt der Akkord auf dem Ton H.
+[01:27:55 -> 01:27:56]  Wenn ich den Ton H
+[01:27:56 -> 01:27:59]  jetzt um einen Halbtonschritt nach unten führe,
+[01:27:59 -> 01:28:01]  erhalte ich einen Akkord mit den Tönen
+[01:28:01 -> 01:28:03]  B, D, F und As.
+[01:28:03 -> 01:28:07]  Und das sind nichts anderes als die Töne eines B7-Akkords,
+[01:28:07 -> 01:28:11]  der sich dann zum S-Moll oder S-Dur auflösen kann.
+[01:28:11 -> 01:28:14]  Weiter, wenn ich das D aus diesem Akkord
+[01:28:14 -> 01:28:16]  erniedrige zum Dess,
+[01:28:16 -> 01:28:19]  dann habe ich das Tonmaterial des Dess7-Akkords
+[01:28:19 -> 01:28:21]  und kann diese Dominante hier auch wieder nutzen,
+[01:28:21 -> 01:28:23]  um weiter zu kommen.
+[01:28:23 -> 01:28:25]  In diesem Beispiel zu Gess-Moll
+[01:28:25 -> 01:28:27]  genauso gut wäre Gess-Dur möglich.
+[01:28:27 -> 01:28:28]  Und zu guter Letzt,
+[01:28:28 -> 01:28:30]  der vierte Ton dieses Akkords,
+[01:28:30 -> 01:28:34]  der aus den Tönen H, D, F und As bestanden hat,
+[01:28:34 -> 01:28:36]  hier den Ton F.
+[01:28:36 -> 01:28:37]  Wenn ich den Ton F
+[01:28:37 -> 01:28:39]  jetzt einen Halbtonschritt runterführe,
+[01:28:39 -> 01:28:43]  dann habe ich einen Akkord aus den Tönen E, Gis.
+[01:28:43 -> 01:28:45]  Hier wurde As einfach nur enharmonisch verwechselt.
+[01:28:45 -> 01:28:48]  Wir sind ja immer noch bei der enharmonischen Modulation.
+[01:28:48 -> 01:28:50]  As wurde zu Gis,
+[01:28:50 -> 01:28:53]  ist aber immer noch derselbe klingende Ton.
+[01:28:53 -> 01:28:56]  E, Gis, H und D.
+[01:28:56 -> 01:28:59]  Und das ist ein E7-Vierklang.
+[01:28:59 -> 01:29:01]  E7 löst sich dann zu A-Moll auf,
+[01:29:01 -> 01:29:03]  oder zu A-Dur.
+[01:29:03 -> 01:29:06]  Und diese enharmonische Modulation
+[01:29:06 -> 01:29:08]  über vollverminderte Akkorde,
+[01:29:08 -> 01:29:11]  die zu Dominanz-Set-Akkorden weitergeführt werden,
+[01:29:11 -> 01:29:13]  indem man nur einen einzigen Ton
+[01:29:13 -> 01:29:16]  erniedrigt aus dem vollverminderten Akkord,
+[01:29:16 -> 01:29:18]  die klingt dann so.
+[01:29:18 -> 01:29:20]  Hier oben hörst du keine Modulation,
+[01:29:20 -> 01:29:22]  wir bleiben erstmal in C-Moll.
+[01:29:22 -> 01:29:25]  Hier unten hörst du die drei Modulationen,
+[01:29:25 -> 01:29:27]  die genauso gut nach Dur gehen könnten,
+[01:29:27 -> 01:29:30]  oder von Dur kommen könnten.
+[01:29:56 -> 01:29:59]  Nach der enharmonischen Modulation
+[01:29:59 -> 01:30:02]  hier nochmal eine recht moderne
+[01:30:02 -> 01:30:05]  Einsatzart von Modulation,
+[01:30:05 -> 01:30:08]  eine recht moderne Modulationsart.
+[01:30:08 -> 01:30:11]  In der internationalen Musiktheorie
+[01:30:11 -> 01:30:14]  heißt diese Modulation unter anderem
+[01:30:14 -> 01:30:16]  Common-Tone Modulation,
+[01:30:16 -> 01:30:18]  also eine Modulation,
+[01:30:18 -> 01:30:21]  in der internationalen Musiktheorie
+[01:30:21 -> 01:30:24]  heißt diese Modulation unter anderem
+[01:30:24 -> 01:30:26]  Common-Tone Modulation,
+[01:30:26 -> 01:30:28]  Pivot-Note Modulation,
+[01:30:28 -> 01:30:32]  oder Chromatic Mediant Modulation.
+[01:30:32 -> 01:30:35]  Ziemlich sperrige Begriffe.
+[01:30:35 -> 01:30:38]  Ursprünglich in der klassischen Harmonielehre
+[01:30:38 -> 01:30:41]  kennen wir so eine Art und Weise
+[01:30:41 -> 01:30:43]  vergleichbare Modulation
+[01:30:43 -> 01:30:46]  als tonzentrale Einführung.
+[01:30:46 -> 01:30:48]  Und man bedient sich hier
+[01:30:48 -> 01:30:50]  chromatischer Medianten.
+[01:30:50 -> 01:30:52]  Das schauen wir uns Step-by-Step an.
+[01:30:52 -> 01:30:56]  Persönlich ist das eine meiner Lieblingsmodulationsarten.
+[01:30:56 -> 01:30:59]  Und man bedient sich in der Film- und Videospielmusik
+[01:30:59 -> 01:31:03]  auch sehr sehr oft dieser chromatischen Medianten,
+[01:31:03 -> 01:31:05]  um Werke sehr sehr emotional
+[01:31:05 -> 01:31:08]  und sehr interessant harmonisch zu gestalten.
+[01:31:08 -> 01:31:11]  Bevor ich einen kleinen kurzen Vergleich
+[01:31:11 -> 01:31:13]  mit der tonzentralen Einführung,
+[01:31:13 -> 01:31:15]  wie wir sie vielleicht aus der klassischen Harmonielehre
+[01:31:15 -> 01:31:17]  kennen, mache,
+[01:31:17 -> 01:31:19]  will ich erstmal auf diese Begriffe
+[01:31:19 -> 01:31:21]  Common-Tone und Pivot-Note
+[01:31:21 -> 01:31:23]  kurz zurückkommen.
+[01:31:23 -> 01:31:25]  Common-Tone heißt nichts anderes
+[01:31:25 -> 01:31:27]  als ein gemeinsamer Ton.
+[01:31:27 -> 01:31:29]  Und hier ist ein gemeinsamer Ton
+[01:31:29 -> 01:31:31]  von zwei Akkorden gemeint,
+[01:31:31 -> 01:31:33]  von zwei Dreiklängen oder Vierklängen
+[01:31:33 -> 01:31:35]  oder gar Fünfklängen.
+[01:31:35 -> 01:31:37]  Mit Common-Tone kann aber auch
+[01:31:37 -> 01:31:39]  ein gemeinsamer Ton,
+[01:31:39 -> 01:31:41]  der zwei unterschiedliche Tonarten
+[01:31:41 -> 01:31:43]  verbindet, gemeint sein.
+[01:31:43 -> 01:31:45]  Das heißt also, hätten wir jetzt zum Beispiel
+[01:31:45 -> 01:31:47]  die Tonart E-Dur,
+[01:31:47 -> 01:31:49]  dann haben wir da ja unter anderem
+[01:31:49 -> 01:31:51]  den Ton G-S drin.
+[01:31:51 -> 01:31:53]  Wenn wir uns jetzt die Tonart F-Moll angucken,
+[01:31:53 -> 01:31:55]  dann haben wir in F-Moll
+[01:31:55 -> 01:31:57]  unter anderem den Ton A-S drin.
+[01:31:57 -> 01:31:59]  Und A-S und G-S
+[01:31:59 -> 01:32:01]  sind enharmonisch gleichklingend,
+[01:32:01 -> 01:32:03]  also klingen beide wie der Ton
+[01:32:03 -> 01:32:05]  G-S bzw. wie der Ton A-S
+[01:32:05 -> 01:32:07]  und hätten hier auch einen
+[01:32:07 -> 01:32:09]  Common-Tone, einen gemeinsamen Ton
+[01:32:09 -> 01:32:11]  zwischen den Tonarten, den wir zum
+[01:32:11 -> 01:32:13]  Modulieren benutzen können.
+[01:32:13 -> 01:32:15]  Pivot-Note heißt auf Deutsch,
+[01:32:15 -> 01:32:17]  nichts anderes als Drehpunktsnote,
+[01:32:17 -> 01:32:19]  also eine Note,
+[01:32:19 -> 01:32:21]  die als Drehpunkt zwischen
+[01:32:21 -> 01:32:23]  zwei Tonarten oder zwischen zwei
+[01:32:23 -> 01:32:25]  nicht-diatonischen
+[01:32:25 -> 01:32:27]  Akkorden dient.
+[01:32:27 -> 01:32:29]  Das heißt also, wir haben beispielsweise
+[01:32:29 -> 01:32:31]  einen Sänger oder eine Sängerin,
+[01:32:31 -> 01:32:33]  die singt jetzt gerade einen Ton C,
+[01:32:33 -> 01:32:35]  den sie oder er
+[01:32:35 -> 01:32:37]  länger aushält,
+[01:32:37 -> 01:32:39]  über einem C-Dur-Akkord aus den Tönen C,
+[01:32:39 -> 01:32:41]  E und G. Das geht ja wunderbar,
+[01:32:41 -> 01:32:43]  der gesungene Ton C,
+[01:32:43 -> 01:32:45]  der jetzt gehalten wird, ist ja Bestandteil
+[01:32:45 -> 01:32:47]  des C-Dur-Akkords.
+[01:32:47 -> 01:32:49]  Jetzt wird dieser Ton weiter
+[01:32:49 -> 01:32:51]  gehalten, aber der Akkord wird
+[01:32:51 -> 01:32:53]  verändert. Und wir haben jetzt
+[01:32:53 -> 01:32:55]  statt einem C-Dur-Akkord, wir waren
+[01:32:55 -> 01:32:57]  ursprünglich in der Tonart C-Dur,
+[01:32:57 -> 01:32:59]  einen As-Dur-Akkord.
+[01:32:59 -> 01:33:01]  Der As-Dur-Akkord besteht aus den
+[01:33:01 -> 01:33:03]  Tönen As, C und
+[01:33:03 -> 01:33:05]  S. Das heißt also, hier ist auch
+[01:33:05 -> 01:33:07]  der Ton C, der jetzt gerade gesungen
+[01:33:07 -> 01:33:09]  wird, drin und das Ganze passt
+[01:33:09 -> 01:33:11]  auch auf diesen Akkord.
+[01:33:11 -> 01:33:13]  Der Kontrast zwischen beiden Akkorden klingt
+[01:33:13 -> 01:33:15]  aber so. Das hier ist ein C-Dur-Akkord
+[01:33:17 -> 01:33:19]  und wenn ich jetzt einen
+[01:33:19 -> 01:33:21]  As-Dur-Akkord spiele,
+[01:33:23 -> 01:33:25]  dann passt hier genauso gut
+[01:33:25 -> 01:33:27]  der Gesangston noch als Pivot-Note,
+[01:33:27 -> 01:33:29]  um zu diesem Akkord überzuleiten
+[01:33:29 -> 01:33:31]  und in As-Dur weiterzumachen.
+[01:33:31 -> 01:33:33]  Der passt genauso auf den
+[01:33:33 -> 01:33:35]  C-Dur-Akkord wie auf den As-Dur-Akkord,
+[01:33:35 -> 01:33:37]  weil diese beiden
+[01:33:37 -> 01:33:39]  Akkorde über einen Ton
+[01:33:39 -> 01:33:41]  zusammenverwandt sind und
+[01:33:41 -> 01:33:43]  der Gesang jetzt gerade
+[01:33:43 -> 01:33:45]  die Melodie, die wir hören, schön
+[01:33:45 -> 01:33:47]  übergleitet hätte.
+[01:33:47 -> 01:33:49]  Das ist auch ein relativ modernes
+[01:33:49 -> 01:33:51]  Modulationsprinzip und ich habe
+[01:33:51 -> 01:33:53]  dieses Prinzip jetzt gerade als tonzentrale
+[01:33:53 -> 01:33:55]  Einführung auch parallel erklärt.
+[01:33:55 -> 01:33:57]  In klassischen
+[01:33:57 -> 01:33:59]  Symphonien findet man hin und wieder mal
+[01:33:59 -> 01:34:01]  tonzentrale Einführungen.
+[01:34:01 -> 01:34:03]  Dort hört ihr dann eine längere Note,
+[01:34:03 -> 01:34:05]  meist in der Melodie oder im Bass,
+[01:34:05 -> 01:34:07]  die gehalten wird oder die
+[01:34:07 -> 01:34:09]  das Motiv hat, also meinetwegen
+[01:34:09 -> 01:34:11]  sowas hier spielt.
+[01:34:11 -> 01:34:13]  Und
+[01:34:13 -> 01:34:15]  Akkorde, die sich verändern
+[01:34:15 -> 01:34:17]  um diesen Ton herum, aber jeweils
+[01:34:17 -> 01:34:19]  immer diesen Ton enthalten.
+[01:34:19 -> 01:34:21]  Um jetzt so eine Common-Tone-Modulation,
+[01:34:21 -> 01:34:23]  Pivot-Note-Modulation,
+[01:34:23 -> 01:34:25]  Chromatic-Mediant-Modulation
+[01:34:25 -> 01:34:27]  oder so eine
+[01:34:27 -> 01:34:29]  tonzentrale Einführung zu machen,
+[01:34:29 -> 01:34:31]  muss man jetzt also zuerst
+[01:34:31 -> 01:34:33]  einmal wissen, was sind denn überhaupt
+[01:34:33 -> 01:34:35]  chromatische Medianten.
+[01:34:35 -> 01:34:37]  Diese Akkorde haben
+[01:34:37 -> 01:34:39]  als Gemeinsamkeit, dass sie
+[01:34:39 -> 01:34:41]  einen einzigen Ton zumindest gemeinsam
+[01:34:41 -> 01:34:43]  haben, der jetzt gerade
+[01:34:43 -> 01:34:45]  weiterführen würde in meine nächste
+[01:34:45 -> 01:34:47]  Tonart. Und dazu schauen wir uns ein paar
+[01:34:47 -> 01:34:49]  chromatische Medianten
+[01:34:49 -> 01:34:51]  aus C-Dur einmal an
+[01:34:51 -> 01:34:53]  und aus C-Moll. Hier unten soll
+[01:34:53 -> 01:34:55]  natürlich C-Moll stehen.
+[01:34:55 -> 01:34:57]  Hier oben habe ich einmal vier verschiedene
+[01:34:57 -> 01:34:59]  chromatische Medianten
+[01:34:59 -> 01:35:01]  zum C-Dur-Akkord aus der Tonart
+[01:35:01 -> 01:35:03]  C-Dur aufgeschrieben.
+[01:35:03 -> 01:35:05]  Das sind alles Akkorde, die nicht in der Tonart
+[01:35:05 -> 01:35:07]  C-Dur vorkommen, aber eben
+[01:35:07 -> 01:35:09]  verwandt sind mit dem C-Dur-Akkord
+[01:35:09 -> 01:35:11]  auf zweiten Grades,
+[01:35:11 -> 01:35:13]  weil sie noch einen Ton gemeinsam
+[01:35:13 -> 01:35:15]  mit diesem Akkord haben.
+[01:35:15 -> 01:35:17]  Der C-Dur-Akkord und der A-Dur-Akkord
+[01:35:17 -> 01:35:19]  haben die Gemeinsamkeit, dass der Ton E
+[01:35:19 -> 01:35:21]  hier gemeinsam ist.
+[01:35:21 -> 01:35:23]  Der C-Dur- und der E-Dur-Akkord haben
+[01:35:23 -> 01:35:25]  auch wieder den Ton E als gemeinsamen
+[01:35:25 -> 01:35:27]  Ton. Das heißt also,
+[01:35:27 -> 01:35:29]  hätten wir jetzt als gehaltenen Ton E
+[01:35:29 -> 01:35:31]  diese Akkordfolge,
+[01:35:31 -> 01:35:33]  würde das durchaus gehen. Das kann unser Kopf
+[01:35:33 -> 01:35:35]  miteinander verrechnen.
+[01:35:35 -> 01:35:37]  Das klingt logisch für unser
+[01:35:37 -> 01:35:39]  inneres Ohr.
+[01:35:39 -> 01:35:41]  Der C-Dur-Akkord hat
+[01:35:41 -> 01:35:43]  mit dem Ton C gemeinsam auch
+[01:35:43 -> 01:35:45]  den A-Dur-Akkord
+[01:35:45 -> 01:35:47]  und der C-Dur-Akkord hat mit dem Ton
+[01:35:47 -> 01:35:49]  G gemeinsam auch den E-Dur-Akkord.
+[01:35:49 -> 01:35:51]  Und sowas können wir
+[01:35:51 -> 01:35:53]  uns dann bei diesen
+[01:35:53 -> 01:35:55]  Modulationsarten zunütze machen.
+[01:35:55 -> 01:35:57]  Wir haben auch schon ein Beispiel gehört,
+[01:35:57 -> 01:35:59]  du hast ein Beispiel ganz am Anfang dieses Videos,
+[01:35:59 -> 01:36:01]  wenn du bis jetzt durchgehalten hast,
+[01:36:01 -> 01:36:03]  ist ja doch ganz schön viel
+[01:36:03 -> 01:36:05]  Input, den ich hier gebe.
+[01:36:05 -> 01:36:07]  Da hast du schon ein Beispiel anhand
+[01:36:07 -> 01:36:09]  dieses Titanic-Themas gesehen.
+[01:36:09 -> 01:36:11]  Das gucken wir uns auch ganz abschließend
+[01:36:11 -> 01:36:13]  nochmal an, wie hier diese
+[01:36:13 -> 01:36:15]  Chromatic Mediant Modulation
+[01:36:15 -> 01:36:17]  funktioniert hat, also die Modulation
+[01:36:17 -> 01:36:19]  über eine chromatische Mediante.
+[01:36:19 -> 01:36:21]  Hier nun einmal diese vier
+[01:36:21 -> 01:36:23]  Beispiele für chromatische Medianten.
+[01:36:23 -> 01:36:25]  Zweiten Grad ist von C-Dur.
+[01:36:25 -> 01:36:27]  Es sind nicht alle Medianten
+[01:36:27 -> 01:36:29]  hier aufgezählt, das ist nur mal ein Überblick.
+[01:36:29 -> 01:36:31]  Bei diesen
+[01:36:31 -> 01:36:33]  beiden Medianten kannst du auch schon
+[01:36:33 -> 01:36:35]  stark an die Filmmusik denken, wenn du das
+[01:36:35 -> 01:36:37]  Ganze hörst. Da haben wir ja dieses
+[01:36:41 -> 01:36:43]  Rebellenthema von Star Wars
+[01:36:43 -> 01:36:45]  zum Beispiel drin. Und hier hinten
+[01:36:45 -> 01:36:47]  denkt man auch schnell an den
+[01:36:47 -> 01:36:49]  Herrn der Ringe. Wie ich schon sagte,
+[01:36:49 -> 01:36:51]  in der Videospiel- und in der
+[01:36:51 -> 01:36:53]  Filmmusik werden diese Medianten
+[01:36:53 -> 01:36:55]  oft genutzt.
+[01:36:55 -> 01:36:57]  Hier einmal die Mediantik zwischen C
+[01:36:57 -> 01:36:59]  und A.
+[01:37:01 -> 01:37:03]  Hier die
+[01:37:03 -> 01:37:05]  Mediantik zwischen C und E
+[01:37:05 -> 01:37:07]  über den Ton E.
+[01:37:09 -> 01:37:11]  Hier Mediantik
+[01:37:11 -> 01:37:13]  zwischen C und As. Hier sind
+[01:37:13 -> 01:37:15]  jetzt nur Dua-Akkorde, es gibt auch
+[01:37:15 -> 01:37:17]  Medianten in Moll, die da noch gut reinpassen.
+[01:37:21 -> 01:37:23]  Und hier einmal zwischen C
+[01:37:23 -> 01:37:25]  und S.
+[01:37:29 -> 01:37:31]  Und hier unten habe ich dann selbige
+[01:37:31 -> 01:37:33]  Beispiele nochmal für Moll-Dreiklänge
+[01:37:33 -> 01:37:35]  aufgeführt. Hier
+[01:37:35 -> 01:37:37]  sieht man immer einen C-Moll-Dreiklang
+[01:37:37 -> 01:37:39]  und entsprechende Medianten,
+[01:37:39 -> 01:37:41]  chromatische Medianten 2. Grades
+[01:37:41 -> 01:37:43]  zu diesem C-Moll-Akkord.
+[01:37:43 -> 01:37:45]  Hier sind C-Moll und
+[01:37:45 -> 01:37:47]  E-Moll miteinander verknüpft über den Ton
+[01:37:47 -> 01:37:49]  G, über diese Pivot-Note,
+[01:37:49 -> 01:37:51]  den Common Tone, die gemeinsame
+[01:37:51 -> 01:37:53]  Note. Dann haben wir hier
+[01:37:53 -> 01:37:55]  C-Moll und As-Moll verknüpft
+[01:37:55 -> 01:37:57]  über den Ton S
+[01:37:57 -> 01:37:59]  und C-Moll und S-Moll natürlich auch
+[01:37:59 -> 01:38:01]  wieder über den Ton S miteinander
+[01:38:01 -> 01:38:03]  verknüpft. Und diese
+[01:38:03 -> 01:38:05]  zwei Moll-Akkorde gegeneinander,
+[01:38:05 -> 01:38:07]  die aber doch miteinander
+[01:38:07 -> 01:38:09]  irgendwie verknüpft sind, die klingen ebenso.
+[01:38:09 -> 01:38:11]  So.
+[01:38:19 -> 01:38:21]  C-Moll zu As-Moll
+[01:38:25 -> 01:38:27]  und C-Moll zu S-Moll.
+[01:38:31 -> 01:38:33]  Bevor wir jetzt wieder
+[01:38:33 -> 01:38:35]  zurückkommen zu dieser Modulation
+[01:38:35 -> 01:38:37]  vom Anfang,
+[01:38:37 -> 01:38:39]  die eine Chromatic Mediant
+[01:38:39 -> 01:38:41]  Modulation als Grundlage
+[01:38:41 -> 01:38:43]  nutzt, schauen wir uns einmal an,
+[01:38:43 -> 01:38:45]  wie Medianten unter anderem
+[01:38:45 -> 01:38:47]  noch genutzt werden,
+[01:38:47 -> 01:38:49]  chromatische Medianten. Hier unten
+[01:38:49 -> 01:38:51]  habe ich einmal das Gefährtenleitmotiv
+[01:38:51 -> 01:38:53]  aus der Herr der Ringe aufnotiert.
+[01:38:53 -> 01:38:55]  Und hier sehen wir eine starke
+[01:38:55 -> 01:38:57]  Mediantik zwischen Akkorden.
+[01:38:57 -> 01:38:59]  Hier sehen wir C und
+[01:38:59 -> 01:39:01]  S, das sind chromatische
+[01:39:01 -> 01:39:03]  Medianten 2. Grades zueinander,
+[01:39:03 -> 01:39:05]  die wir hier oben schon hatten.
+[01:39:05 -> 01:39:07]  C und As genauso,
+[01:39:07 -> 01:39:09]  die haben wir hier oben schon
+[01:39:09 -> 01:39:11]  angehört. Und dann geht
+[01:39:11 -> 01:39:13]  das Ganze nachher über G7
+[01:39:13 -> 01:39:15]  zu As, zu Gm7,
+[01:39:15 -> 01:39:17]  über B und dann
+[01:39:17 -> 01:39:19]  wieder zu C. C soll hier im
+[01:39:19 -> 01:39:21]  tonalen Zentrum stehen.
+[01:39:29 -> 01:39:31]  Und auch in Moll
+[01:39:31 -> 01:39:33]  wird das Ganze natürlich gerne genutzt.
+[01:39:33 -> 01:39:35]  Hier einmal das Leitmotiv
+[01:39:35 -> 01:39:37]  von Darth Vader aus Star Wars.
+[01:39:37 -> 01:39:39]  Das steht hier nach Cm
+[01:39:39 -> 01:39:41]  transponiert und auch
+[01:39:41 -> 01:39:43]  hier finden wir wieder Medianten.
+[01:39:43 -> 01:39:45]  Hier ist eine Mediantik zwischen
+[01:39:45 -> 01:39:47]  Cm und Asm.
+[01:39:47 -> 01:39:49]  Das haben wir hier oben auch schon
+[01:39:49 -> 01:39:51]  gesehen, diese beiden Mollakkorde,
+[01:39:51 -> 01:39:53]  die sind verknüpft über den
+[01:39:53 -> 01:39:55]  Ton S.
+[01:39:55 -> 01:39:57]  Hier nun noch einmal
+[01:39:57 -> 01:39:59]  abschließend das Liebesthema
+[01:39:59 -> 01:40:01]  aus dem Film Titanic
+[01:40:01 -> 01:40:03]  in der Version von
+[01:40:03 -> 01:40:05]  Celine Dion
+[01:40:05 -> 01:40:07]  interpretiert und die
+[01:40:07 -> 01:40:09]  Modulation, die hier gemacht
+[01:40:09 -> 01:40:11]  wird. Was hat sich James Horner
+[01:40:11 -> 01:40:13]  dabei gedacht? Wir haben hier
+[01:40:13 -> 01:40:15]  eine Pivot Ton Modulation
+[01:40:15 -> 01:40:17]  beziehungsweise, wie wir eben schon
+[01:40:17 -> 01:40:19]  angesprochen haben, eine
+[01:40:19 -> 01:40:21]  Chromatic Mediant Modulation.
+[01:40:21 -> 01:40:23]  Das heißt, wir haben hier
+[01:40:23 -> 01:40:25]  eine Chromatic Mediant
+[01:40:25 -> 01:40:27]  Modulation. Schauen wir uns
+[01:40:27 -> 01:40:29]  erstmal nur die Tonarten an.
+[01:40:29 -> 01:40:31]  Dann sehen wir hier, dass wir
+[01:40:31 -> 01:40:33]  anfangs in Cm sind,
+[01:40:33 -> 01:40:35]  beziehungsweise E-Dur könnte es auch heißen
+[01:40:35 -> 01:40:37]  von der Vorzeichnung her, wir sind ja bei Cm
+[01:40:37 -> 01:40:39]  und nach der Modulation
+[01:40:39 -> 01:40:41]  sind wir dann in Fm
+[01:40:41 -> 01:40:43]  beziehungsweise die Vorzeichnung,
+[01:40:43 -> 01:40:45]  die könnte uns hier auch
+[01:40:45 -> 01:40:47]  As-Dur erwarten lassen.
+[01:40:47 -> 01:40:49]  Was haben diese beiden
+[01:40:49 -> 01:40:51]  extrem voneinander entfernten
+[01:40:51 -> 01:40:53]  vier Kreuze, hier vier Bs
+[01:40:53 -> 01:40:55]  Tonarten jetzt gemeinsam?
+[01:40:55 -> 01:40:57]  Nun ja, sie haben gemeinsame Töne,
+[01:40:57 -> 01:40:59]  nämlich eben den Ton
+[01:40:59 -> 01:41:01]  Gis und den Ton As. Das ist zweimal
+[01:41:01 -> 01:41:03]  derselbe Ton, wenn wir ihn
+[01:41:03 -> 01:41:05]  vom Ton her hören, enharmonisch
+[01:41:05 -> 01:41:07]  verwechselt. Der Ton Gis ist
+[01:41:07 -> 01:41:09]  derselbe Ton wie der Ton As.
+[01:41:09 -> 01:41:11]  Und wenn wir uns jetzt den letzten
+[01:41:11 -> 01:41:13]  Akkord, der hier noch
+[01:41:13 -> 01:41:15]  in unserer Ursprungstonart
+[01:41:15 -> 01:41:17]  vorkommt, anschauen,
+[01:41:17 -> 01:41:19]  dann haben wir hier ein E-Dur
+[01:41:19 -> 01:41:21]  über den Basston Gis
+[01:41:21 -> 01:41:23]  und dann wird im Bass nochmal
+[01:41:23 -> 01:41:25]  aufgestiegen zum Ton Fis,
+[01:41:25 -> 01:41:27]  um hier schön überzuleiten mit der
+[01:41:27 -> 01:41:29]  Melodie zusammen. Aber
+[01:41:29 -> 01:41:31]  der letzte Akkord, den wir hören können,
+[01:41:31 -> 01:41:33]  der letzte klare Dreiklang, ist
+[01:41:33 -> 01:41:35]  hier ein E-Dur.
+[01:41:35 -> 01:41:37]  Und dieser E-Dur-Akkord, der besteht aus den
+[01:41:37 -> 01:41:39]  Tönen E, Gis und H.
+[01:41:39 -> 01:41:41]  Und dieser Ton Gis, der spielt
+[01:41:41 -> 01:41:43]  hier eine ganz, ganz wichtige Rolle
+[01:41:43 -> 01:41:45]  neben der Stimmführung. Die Stimmführung ist ja
+[01:41:45 -> 01:41:47]  auch noch sehr, sehr wichtig, weil wir hier eine aufsteigende
+[01:41:47 -> 01:41:49]  Melodie bis zum nächsten
+[01:41:49 -> 01:41:51]  Zielton
+[01:41:51 -> 01:41:53]  nach der Modulation
+[01:41:53 -> 01:41:55]  haben. Aber wichtig
+[01:41:55 -> 01:41:57]  für uns ist dieser Akkord hier mit dem Ton
+[01:41:57 -> 01:41:59]  Gis drin, der E-Dur-Akkord
+[01:41:59 -> 01:42:01]  und der F-Moll-Akkord,
+[01:42:01 -> 01:42:03]  der aus den Tönen F,
+[01:42:03 -> 01:42:05]  As und C besteht. Da ist auch
+[01:42:05 -> 01:42:07]  der Ton As beziehungsweise
+[01:42:07 -> 01:42:09]  Gis drin. Und hier haben wir
+[01:42:09 -> 01:42:11]  unseren Pivot-Ton dazwischen.
+[01:42:11 -> 01:42:13]  Auch wenn hier im Bass nochmal das Fis
+[01:42:13 -> 01:42:15]  kommt und die Quinte auch nochmal
+[01:42:15 -> 01:42:17]  von den restlichen Instrumenten ergänzt
+[01:42:17 -> 01:42:19]  wird. Wir sind noch stark
+[01:42:19 -> 01:42:21]  hier an diese Tonika
+[01:42:21 -> 01:42:23]  aus E-Dur gewöhnt, mit
+[01:42:23 -> 01:42:25]  dem Ton Gis drin, enharmonisch verwechselt
+[01:42:25 -> 01:42:27]  As. Pivot-Ton
+[01:42:27 -> 01:42:29]  überleitender Ton
+[01:42:29 -> 01:42:31]  zu F-Moll. Und wie gut
+[01:42:31 -> 01:42:33]  sich diese beiden Akkorde dann eben
+[01:42:33 -> 01:42:35]  über diese Pivot-Note, über diesen Pivot-Ton
+[01:42:35 -> 01:42:37]  vernetzen, das hört
+[01:42:37 -> 01:42:39]  man auch ganz gut. Hier einmal
+[01:42:39 -> 01:42:41]  dieser E-Dur-Akkord, jetzt
+[01:42:41 -> 01:42:43]  vom Grundton aus
+[01:42:43 -> 01:42:45]  und dann ein F-Moll-Akkord.
+[01:42:49 -> 01:42:51]  Und hier ist jeweils immer dieser Pivot-Ton
+[01:42:51 -> 01:42:53]  zwischen.
+[01:43:03 -> 01:43:05]  So, also du hast jetzt
+[01:43:05 -> 01:43:07]  gerade einen E-Dur-Dreiklang und einen
+[01:43:07 -> 01:43:09]  F-Moll-Dreiklang gehört und
+[01:43:09 -> 01:43:11]  dazwischen kam dann immer rhythmisch der Ton
+[01:43:11 -> 01:43:13]  As beziehungsweise enharmonisch verwechselt
+[01:43:13 -> 01:43:15]  in die neue Tonart der Ton As.
+[01:43:15 -> 01:43:17]  Und genauso hat der Herr Horner
+[01:43:17 -> 01:43:19]  hier die Modulation
+[01:43:19 -> 01:43:21]  gemacht. Es ist auch noch wichtig,
+[01:43:21 -> 01:43:23]  dass die Stimmführung hier sehr, sehr
+[01:43:23 -> 01:43:25]  gut gewählt ist von ihm.
+[01:43:25 -> 01:43:27]  Und deshalb funktioniert dieses Thema
+[01:43:27 -> 01:43:29]  hier so gut.
+[01:43:41 -> 01:43:43]  Vergesst nicht,
+[01:43:43 -> 01:43:45]  jetzt ein Abo zu hinterlassen,
+[01:43:45 -> 01:43:47]  um immer auf dem neuesten Stand zu bleiben
+[01:43:47 -> 01:43:49]  und kein Video mehr zu verpassen.
+[01:43:49 -> 01:43:51]  Klick auf Gefällt mir, wenn dir dieses Video
+[01:43:51 -> 01:43:53]  gefallen hat. Ich sage danke fürs
+[01:43:53 -> 01:43:55]  Zuschauen und bis zum nächsten Mal.

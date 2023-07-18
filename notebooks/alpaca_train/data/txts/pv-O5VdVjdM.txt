@@ -1,0 +1,64 @@
+[00:00:00 -> 00:00:05]  What's up? I'm Drew Paul Bell, and today what I want to talk about are the five stages of
+[00:00:05 -> 00:00:11]  the architectural design process as they're legally defined by the AIA here in the US,
+[00:00:11 -> 00:00:16]  the American Institute of Architects. So they define five different stages of the design
+[00:00:16 -> 00:00:22]  process. Schematics, design development, also known as DD, construction documents, known
+[00:00:22 -> 00:00:34]  as CD, bidding, and then construction administration, which is also known as CA. So in schematics,
+[00:00:34 -> 00:00:38]  schematics are basically like what you do in school, actually. You come up with the
+[00:00:38 -> 00:00:43]  general schematic design of the building. But what that means is it's like what the
+[00:00:43 -> 00:00:52]  building looks like, its general appearance, its general shape, its general form. In order
+[00:00:52 -> 00:00:56]  to get to schematics, you have to kind of have a fundamental understanding of what the
+[00:00:56 -> 00:01:03]  materials are going to be. But in terms of like minor details, you don't have those figured
+[00:01:03 -> 00:01:10]  out yet. Yeah, you also probably wouldn't have things like the systems, like AC, air
+[00:01:10 -> 00:01:14]  conditioning systems, the finer points of structural systems you probably don't have
+[00:01:14 -> 00:01:20]  figured out yet either. It's very, it's kind of surface level, relatively, because it's
+[00:01:20 -> 00:01:26]  naturally just the sage that has to come first. And it's very comparable to what you have
+[00:01:26 -> 00:01:31]  to present in school. This happens a lot faster than what happens in the time it takes in
+[00:01:31 -> 00:01:38]  school. But it is what it is. It's really the design portion, it's where you're coming
+[00:01:38 -> 00:01:47]  up with the new ideas, imagery, that kind of thing. Next is DD, design development.
+[00:01:47 -> 00:01:54]  Once you have pitched this idea to the client, which might be in the form of like renderings
+[00:01:54 -> 00:01:59]  and a floor plan probably, now you take this into design development. Design development
+[00:01:59 -> 00:02:04]  is where you start to figure out the finer points of materials, of structure, is where
+[00:02:04 -> 00:02:15]  you lay in the air conditioning systems, water systems, that kind of thing. Maybe some wall
+[00:02:15 -> 00:02:22]  section details. Then once that's approved, the next stage is construction documents.
+[00:02:22 -> 00:02:26]  These take the same design development things and just kind of take them farther. You get
+[00:02:26 -> 00:02:30]  more detail, like construction details is really what it's about. It's about the kind
+[00:02:30 -> 00:02:40]  of things that you need to build the building. How the wall meets the floor plate. How all
+[00:02:40 -> 00:02:47]  the windows, how each of the windows fits into the walls. Finer points like details.
+[00:02:47 -> 00:02:56]  This is where you get into the tedium of it all, where you're doing drawings about everything.
+[00:02:56 -> 00:03:02]  So that's construction documents. Then that's kind of the finishing, ideally, theoretically,
+[00:03:02 -> 00:03:08]  done with the drawings. That's when you start building. Now there's another stage called
+[00:03:08 -> 00:03:15]  bidding. Bidding is when contractors come in, you give them bidding documents. This
+[00:03:15 -> 00:03:21]  is not necessarily the full CDs, sometimes this can be after design development, but
+[00:03:21 -> 00:03:26]  it's when you give documents to contractors where you feel like you can give them enough
+[00:03:26 -> 00:03:31]  information that they can look at the drawings and tell you how much it's going to cost them
+[00:03:31 -> 00:03:38]  to build it. So they're going to need probably a wall section detail, sections, floor plans,
+[00:03:38 -> 00:03:49]  all the elevations, some specifications in terms of materials, things used, that kind of stuff.
+[00:03:49 -> 00:03:58]  This is really about how much can you communicate to them to give an accurate bid, an accurate
+[00:03:58 -> 00:04:03]  projection of how much it's going to cost. This is something where you send it out, you
+[00:04:03 -> 00:04:09]  get in a couple of bids, and then you and the owner, you as the architect and the owner,
+[00:04:09 -> 00:04:15]  go over them and decide who is going to be awarded the commission. Then there's what's
+[00:04:15 -> 00:04:22]  called construction administration, CA. In CA, this is where you as the architect are
+[00:04:22 -> 00:04:28]  making sure that the building gets built right. Also, because building a building is so complex,
+[00:04:28 -> 00:04:34]  you're probably going to run into some problems. This is the point where contractors are going
+[00:04:34 -> 00:04:40]  to call you up and say things like, look, the tile you specified is three times more
+[00:04:40 -> 00:04:43]  expensive than what we thought it was, we found a comparable thing in between, how about
+[00:04:43 -> 00:04:50]  we do this instead. Or, in this renovation project, the counter is at an angle, it's
+[00:04:50 -> 00:04:54]  crooked, it's really not straight, and you're going to see it on the tile, can we move it?
+[00:04:54 -> 00:05:01]  And you're like, yeah, sure. You might run into situations where a detail doesn't quite
+[00:05:01 -> 00:05:05]  line up the way you expected it to be, and maybe you have to redo a drawing. This is
+[00:05:05 -> 00:05:12]  construction administration. It's a little bit more fluid, because it's kind of a back
+[00:05:12 -> 00:05:14]  and forth. You might find problems, and then you've got to correct them, and you've got
+[00:05:14 -> 00:05:21]  to kind of think on your feet. So that's CA in a nutshell. It's where you get the building
+[00:05:21 -> 00:05:26]  to the final product, where you take it from drawings and make it real. And you, as the
+[00:05:26 -> 00:05:29]  architect, are sort of like an overseer for that. You're just kind of making sure it gets
+[00:05:29 -> 00:05:34]  done right, because at this point, the contractors are the ones dealing with it every single
+[00:05:34 -> 00:05:41]  day, building the thing. So then, as soon as that's done, then you can get your certificate
+[00:05:42 -> 00:05:49]  of occupancy. That's when you can go occupy the building, and it's ready to go, and been
+[00:05:49 -> 00:05:54]  officiated, officially approved by the city or the government, whoever enforces those
+[00:05:54 -> 00:06:01]  kinds of things and allows that to happen. So these are the five different legal sections
+[00:06:02 -> 00:06:09]  of the architectural design phases of the architectural design process. And it's not
+[00:06:09 -> 00:06:14]  the most inspiring video in the world, the most inspiring content, but these are things
+[00:06:14 -> 00:06:18]  that you have to understand to go be a successful architect, and they're things you're going
+[00:06:18 -> 00:06:25]  to have to be operating within, whether you're an intern or a principal. So understanding
+[00:06:25 -> 00:06:30]  this sooner than later is definitely good. I hope that this helps, and I will talk to
+[00:06:30 -> 00:06:31]  you next time.

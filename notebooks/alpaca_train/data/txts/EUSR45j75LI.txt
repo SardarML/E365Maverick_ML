@@ -1,0 +1,553 @@
+[00:00:00 -> 00:00:24]  Hello and a warm welcome, I'm Armin Troost, professor at the Fort Wangen University in
+[00:00:24 -> 00:00:33]  Germany and this is my series on Human Resources Strategies, a real master course for advanced
+[00:00:33 -> 00:00:38]  HR students, professionals and executives.
+[00:00:38 -> 00:00:45]  This series is available on YouTube and on all podcatchers like iTunes or Spotify.
+[00:00:45 -> 00:00:50]  All slides that support this series are available on my website.
+[00:00:50 -> 00:00:56]  For more information, please read the description to this YouTube or podcast.
+[00:00:56 -> 00:01:04]  I'd also like to refer to my book, Human Resources Strategies, available at most online bookstores.
+[00:01:04 -> 00:01:12]  So again, thanks for listening, have fun and gain valuable insights into the fascinating
+[00:01:12 -> 00:01:14]  world of HR strategies.
+[00:01:20 -> 00:01:35]  So, in the previous episodes, I mentioned already a couple of times that the context
+[00:01:35 -> 00:01:44]  really matters, the context within an organization and what might work in one company might not
+[00:01:44 -> 00:01:52]  work in another company, and if this is true, then this is pretty much due to the different
+[00:01:52 -> 00:01:58]  nature of different organizations, even in the same industry.
+[00:01:58 -> 00:02:06]  And now comes the question, if you, as an HR executive, if you were supposed to describe
+[00:02:06 -> 00:02:15]  your organization, let's say you have 20 minutes, what would you say?
+[00:02:15 -> 00:02:20]  The question really is, how would you describe the nature of your organization?
+[00:02:20 -> 00:02:27]  And you were supposed not to just talk around in an unstructured way, talking about randomly
+[00:02:27 -> 00:02:34]  chosen criteria, things that spontaneously come to your mind, but to give a structured
+[00:02:34 -> 00:02:39]  and relevant overview about the nature of your organization.
+[00:02:39 -> 00:02:42]  To which dimensions would you refer to?
+[00:02:42 -> 00:02:46]  Which attributes would you describe?
+[00:02:46 -> 00:02:55]  And what are the dimensions of these different attributes all about?
+[00:02:55 -> 00:02:58]  So this is important.
+[00:02:58 -> 00:03:04]  So in this episode, as well as in the next episode, I will guide you through a couple
+[00:03:04 -> 00:03:06]  of criteria that are going to help you.
+[00:03:06 -> 00:03:13]  And all those listeners who work in an organization are really invited to reflect on their own
+[00:03:13 -> 00:03:16]  environment.
+[00:03:16 -> 00:03:17]  That's going to help.
+[00:03:17 -> 00:03:23]  Well, all those criteria I'm going to share with you are of practical nature, I would
+[00:03:23 -> 00:03:24]  say.
+[00:03:24 -> 00:03:31]  So in the last years of my work, my research, I was always thinking about, okay, which kind
+[00:03:31 -> 00:03:38]  of attributes, which kind of characteristics of organization are really relevant for practical
+[00:03:38 -> 00:03:39]  implications?
+[00:03:39 -> 00:03:42]  I mean, really, for practical implications.
+[00:03:42 -> 00:03:47]  And not so much for scientific purpose, I must say, really.
+[00:03:47 -> 00:03:55]  It's more about what is relevant for practice, for practical implications.
+[00:03:55 -> 00:04:05]  So in this particular episode, I will talk about how a company looks at its employees.
+[00:04:05 -> 00:04:08]  How do we think about the employees?
+[00:04:08 -> 00:04:14]  So to be more concrete, we're going to talk about individuality, like diversity, how much
+[00:04:14 -> 00:04:15]  are employees appreciated.
+[00:04:15 -> 00:04:21]  We're going to talk about the shared concept of man, how much is a company dependent on
+[00:04:21 -> 00:04:24]  the employees or vice versa.
+[00:04:24 -> 00:04:29]  And we will talk about the nature of the tasks.
+[00:04:29 -> 00:04:34]  Is it about optimization or is it more about disruption?
+[00:04:34 -> 00:04:41]  Is it that you have a high level of task certainty, always knowing what the outcomes are and the
+[00:04:41 -> 00:04:44]  ways to get there?
+[00:04:44 -> 00:04:47]  We're going to talk about how you think and act.
+[00:04:47 -> 00:04:51]  Do you do it on a short cycle, on a long cycle?
+[00:04:51 -> 00:04:55]  So this is pretty much about the task.
+[00:04:55 -> 00:05:00]  And in the following episode, the next one, we're going to talk about leadership and we're
+[00:05:00 -> 00:05:06]  going to talk about the nature of the organization.
+[00:05:06 -> 00:05:14]  So this is what we're going to do, and I split this chapter about the context into two episodes
+[00:05:14 -> 00:05:20]  because I consider this one as really essential, very, very essential.
+[00:05:20 -> 00:05:33]  And maybe I repeat myself, but before you think about any kind of approaches or solutions
+[00:05:33 -> 00:05:39]  as part of your human resource management, you must consider the context.
+[00:05:39 -> 00:05:44]  I mean, really, that's something so fundamental.
+[00:05:44 -> 00:05:52]  And if things you intend to do are not compatible with a structural and cultural context, things
+[00:05:52 -> 00:05:55]  simply will not work.
+[00:05:55 -> 00:05:58]  They will not work, full stop.
+[00:05:58 -> 00:06:02]  And it would be a waste of time and effort.
+[00:06:02 -> 00:06:08]  So better be careful and think about the context first.
+[00:06:08 -> 00:06:16]  So let me start with the very first simple attribute.
+[00:06:16 -> 00:06:27]  When you look back in HR, we very often followed on a definition, a traditional definition
+[00:06:27 -> 00:06:33]  of human resource management, which says human resource management is about right people
+[00:06:33 -> 00:06:37]  at the right time at the right place.
+[00:06:37 -> 00:06:40]  This is a very traditional view.
+[00:06:40 -> 00:06:43]  Right time, right place, right people.
+[00:06:43 -> 00:06:47]  But what does that mean, right people?
+[00:06:47 -> 00:06:48]  What is that?
+[00:06:48 -> 00:06:56]  So we always had an idea saying, okay, firstly, before we fill a position, we have to be absolutely
+[00:06:56 -> 00:06:59]  clear about the requirements.
+[00:06:59 -> 00:07:08]  People must fit into, must fit, must match to predefined profiles.
+[00:07:08 -> 00:07:13]  And sometimes you can see in companies that there is a kind of common profile, there are
+[00:07:13 -> 00:07:16]  common expectations.
+[00:07:16 -> 00:07:20]  And I will put things extreme now.
+[00:07:20 -> 00:07:25]  I will do it a couple of times, knowing that things are very often somewhere in between.
+[00:07:25 -> 00:07:31]  But a very extreme view is that you want in your organization that the people are all
+[00:07:31 -> 00:07:34]  more or less the same.
+[00:07:34 -> 00:07:41]  Same thinking, same attitudes, same whatever.
+[00:07:41 -> 00:07:45]  And this is the very often cited box.
+[00:07:45 -> 00:07:47]  People must fit into a box.
+[00:07:47 -> 00:07:50]  And the box is there.
+[00:07:50 -> 00:07:51]  It's predefined.
+[00:07:51 -> 00:07:55]  First comes the box.
+[00:07:55 -> 00:08:05]  And when you think in terms of boxes, saying our employees must fit to specific criteria,
+[00:08:05 -> 00:08:07]  conformity is very essential in your organization.
+[00:08:07 -> 00:08:12]  So you can sometimes tell it when you visit a company, and I do it very often.
+[00:08:12 -> 00:08:17]  So I visit an office, let's say, I visit a company, and I have the feeling that the people
+[00:08:17 -> 00:08:19]  all look the same.
+[00:08:19 -> 00:08:21]  They have same style.
+[00:08:21 -> 00:08:23]  They have same competencies.
+[00:08:23 -> 00:08:25]  They are more or less the same.
+[00:08:25 -> 00:08:30]  While in another company, on the other side of the road, you visit that one, and you have
+[00:08:30 -> 00:08:33]  the feeling that, wow, that's very colored.
+[00:08:33 -> 00:08:35]  The people are very different.
+[00:08:35 -> 00:08:37]  Very different.
+[00:08:37 -> 00:08:43]  So this is a matter of culture, I would say.
+[00:08:43 -> 00:08:50]  Also in terms of HR, when you have very detailed competence models, very detailed competence
+[00:08:50 -> 00:08:57]  profiles, whenever it comes to filling a position or a role, you think of conformity.
+[00:08:57 -> 00:09:04]  You want that the people are of very special kind.
+[00:09:05 -> 00:09:09]  And that pretty much relates to conformity.
+[00:09:09 -> 00:09:12]  Some think in terms of conformity.
+[00:09:12 -> 00:09:16]  Some companies think in terms of diversity.
+[00:09:16 -> 00:09:25]  And diversity, to put it short, is really not about statistical variation of characteristics.
+[00:09:25 -> 00:09:26]  Really not.
+[00:09:26 -> 00:09:29]  I mean, that might be an output.
+[00:09:29 -> 00:09:35]  But diversity in its core is about valuing individuality.
+[00:09:35 -> 00:09:37]  This is diversity.
+[00:09:37 -> 00:09:41]  So diversity is always about the individuals.
+[00:09:41 -> 00:09:42]  It's not about groups.
+[00:09:42 -> 00:09:45]  It's not about how you combine different groups.
+[00:09:45 -> 00:09:46]  This is not the point.
+[00:09:46 -> 00:09:50]  It's very often misunderstood, by the way.
+[00:09:50 -> 00:09:53]  Diversity is about valuing individuality.
+[00:09:53 -> 00:09:59]  It's the clear understanding, the mindset, and the message that the way you are, you
+[00:09:59 -> 00:10:00]  are okay.
+[00:10:00 -> 00:10:03]  It does really not matter how old are you.
+[00:10:03 -> 00:10:07]  It really does not matter.
+[00:10:07 -> 00:10:08]  Your gender does not matter.
+[00:10:08 -> 00:10:13]  It really does not matter what's your race.
+[00:10:13 -> 00:10:17]  It does not matter what is whatever.
+[00:10:17 -> 00:10:20]  In some companies, it really does not matter what you have studied.
+[00:10:20 -> 00:10:27]  And I know some very, very successful companies saying the only thing that we really need
+[00:10:27 -> 00:10:35]  for our employees is that they are smart enough, and they are hungry, and that they are team
+[00:10:35 -> 00:10:36]  players.
+[00:10:36 -> 00:10:37]  That's it.
+[00:10:37 -> 00:10:38]  That's it.
+[00:10:38 -> 00:10:39]  And the rest they will learn.
+[00:10:39 -> 00:10:46]  So wherever you come from, however you are, it's okay.
+[00:10:46 -> 00:10:47]  It's good.
+[00:10:47 -> 00:10:52]  We value you as an individual.
+[00:10:52 -> 00:10:56]  This is diversity.
+[00:10:56 -> 00:11:02]  So I mean, I could do an entire series, entire episode about diversity, but I won't.
+[00:11:02 -> 00:11:05]  So think about this.
+[00:11:05 -> 00:11:08]  How is your company?
+[00:11:08 -> 00:11:15]  In traditional HR, I must say, we tend to focus on conformity.
+[00:11:15 -> 00:11:24]  And as I said, I illustrate this very often like a box, but people do not look like boxes.
+[00:11:24 -> 00:11:30]  They look more very individual, very individually shaped.
+[00:11:30 -> 00:11:37]  And from an HR perspective, the difference between this individual shape and the static
+[00:11:37 -> 00:11:46]  rectangle box is what we very often name as developmental needs, which need to be fixed.
+[00:11:46 -> 00:11:53]  That very often was an aim in HR, especially in training and development, to shape people
+[00:11:53 -> 00:11:57]  in a way so that they fit to boxes.
+[00:11:57 -> 00:12:04]  And when we do so, we very much look at the weaknesses, and we do not look at the strength.
+[00:12:04 -> 00:12:10]  The strength is there, but the weaknesses are seen as a problem, and we name these developmental
+[00:12:10 -> 00:12:11]  needs.
+[00:12:11 -> 00:12:14]  And the question really is, do you think that way?
+[00:12:14 -> 00:12:16]  Do you want to think that way?
+[00:12:16 -> 00:12:19]  Do you want to focus on the weaknesses in your organization, or do you want to focus
+[00:12:19 -> 00:12:25]  on the strength and the individual shape of employees?
+[00:12:25 -> 00:12:31]  So this is a first starting point here, the first criteria.
+[00:12:31 -> 00:12:34]  So here is the next criteria.
+[00:12:34 -> 00:12:41]  When we look at organization, traditional organization, we very often find the classic
+[00:12:41 -> 00:12:42]  pyramid.
+[00:12:42 -> 00:12:50]  I mean, the pyramid is a very commonly used picture of illustrating a hierarchy.
+[00:12:50 -> 00:12:55]  You have many people on the bottom, and you have a very few on the top, and you have one
+[00:12:55 -> 00:13:00]  sun king at the very top, the sun king.
+[00:13:00 -> 00:13:09]  And very often, especially in traditional organizations, what you find is that the higher
+[00:13:09 -> 00:13:21]  you are in the hierarchy, the closer you move to the sun king, to the CEO, the more appreciation
+[00:13:21 -> 00:13:23]  you experience.
+[00:13:23 -> 00:13:30]  And you can tell it based on many symbolic things.
+[00:13:30 -> 00:13:35]  The higher you are in the hierarchy, the closer you are to the sun king, the bigger
+[00:13:35 -> 00:13:40]  and the nicer is your office.
+[00:13:40 -> 00:13:48]  And if you are on the top of the pyramid, you might not have lunch in the regular canteen
+[00:13:48 -> 00:13:51]  where all the regular employees go for lunch.
+[00:13:51 -> 00:13:58]  No, the executives, they have their own lounge where they meet, a special place, get better
+[00:13:58 -> 00:14:02]  food, drink wine, and so on.
+[00:14:02 -> 00:14:07]  So the higher you are, the thicker is the carpet you walk on.
+[00:14:07 -> 00:14:11]  And the more expensive are the paintings on the wall.
+[00:14:11 -> 00:14:16]  And the closer is your parking lot to the entrance, you see?
+[00:14:16 -> 00:14:25]  So these are cultural artifacts, as we would say, which reflect a thinking that the higher
+[00:14:25 -> 00:14:29]  you are, the more important you are.
+[00:14:29 -> 00:14:35]  And for some of you that might sound natural, yeah, this is how things are supposed to be,
+[00:14:35 -> 00:14:36]  right?
+[00:14:36 -> 00:14:37]  I mean, it always was this kind.
+[00:14:37 -> 00:14:41]  The king lives in the castle, right?
+[00:14:41 -> 00:14:46]  So I mean, this is life.
+[00:14:46 -> 00:14:51]  And that's why we all want to go to the top, to have thicker carpets, yes, and a bigger
+[00:14:51 -> 00:14:52]  office.
+[00:14:52 -> 00:14:55]  Yes, of course, I understand this.
+[00:14:55 -> 00:15:02]  But you know, there are also other companies that think exactly in the opposite direction.
+[00:15:02 -> 00:15:05]  And here we refer to the so-called inverted pyramid.
+[00:15:05 -> 00:15:06]  What does that mean?
+[00:15:06 -> 00:15:14]  Inverted pyramid is an isosceles triangle, here is it again, the isosceles triangle,
+[00:15:14 -> 00:15:18]  which stands on the top, so to speak.
+[00:15:18 -> 00:15:21]  It's turned upside down.
+[00:15:21 -> 00:15:24]  It points to the bottom.
+[00:15:25 -> 00:15:36]  And the idea is that it's the employees who are the real heroes in the organization, the
+[00:15:36 -> 00:15:39]  employees.
+[00:15:39 -> 00:15:46]  Because there is this shared mindset among everybody, also among the executive, that
+[00:15:46 -> 00:15:52]  the so-called regular employees are those who do the work.
+[00:15:52 -> 00:15:54]  They are on the front.
+[00:15:54 -> 00:15:58]  They are close to the customer.
+[00:15:58 -> 00:16:00]  They are the ones who add value.
+[00:16:00 -> 00:16:03]  They are the real heroes.
+[00:16:03 -> 00:16:06]  And they are of highest importance.
+[00:16:06 -> 00:16:13]  So the highest level of appreciation is experienced by the people and not by the CEO.
+[00:16:13 -> 00:16:19]  And you can tell this, really, also, again, based on cultural artifacts.
+[00:16:19 -> 00:16:27]  For instance, I recently was invited by a company, and we had a meeting, and a CEO was
+[00:16:27 -> 00:16:28]  also there.
+[00:16:28 -> 00:16:34]  And we had a meeting, and we all sat around the table, and we're talking, and in the beginning
+[00:16:34 -> 00:16:37]  I had to ask, who is the CEO here?
+[00:16:37 -> 00:16:44]  It's the one with the t-shirt, Stefan, he's the one with the t-shirt.
+[00:16:44 -> 00:16:47]  You could not tell that he is the CEO.
+[00:16:47 -> 00:16:50]  He does not even have his own office.
+[00:16:50 -> 00:16:56]  He shares working space with others, like all the others.
+[00:16:56 -> 00:16:58]  No bigger car.
+[00:16:58 -> 00:17:03]  No reserve parking lot in front to the exits.
+[00:17:03 -> 00:17:06]  No, first come, first serve.
+[00:17:06 -> 00:17:08]  This is a completely different culture.
+[00:17:08 -> 00:17:15]  And of course, the managers, they eat in the same canteen as all regular employees.
+[00:17:15 -> 00:17:18]  So this is a cultural thing.
+[00:17:18 -> 00:17:21]  This is really a cultural thing.
+[00:17:21 -> 00:17:23]  And that matters.
+[00:17:23 -> 00:17:32]  And that matters, and we're gonna talk about this when it comes to different things as
+[00:17:32 -> 00:17:35]  part of human resource management.
+[00:17:35 -> 00:17:42]  So let's move to a third criteria.
+[00:17:42 -> 00:17:48]  And here I would like to refer to a theory which I truly love.
+[00:17:48 -> 00:17:55]  And this theory that refers to the concept of man.
+[00:17:55 -> 00:18:02]  Man, that does not sound so diverse.
+[00:18:02 -> 00:18:03]  Concept of man.
+[00:18:03 -> 00:18:10]  The concept of man is the idea about the nature of human beings.
+[00:18:10 -> 00:18:17]  So if I would ask you, describe human beings to an alien.
+[00:18:17 -> 00:18:21]  You meet an alien, and the alien asks you, hey, are you human?
+[00:18:21 -> 00:18:23]  You say, yes, I'm a human.
+[00:18:23 -> 00:18:26]  Oh, are there more of your kind here?
+[00:18:26 -> 00:18:27]  Yes, there are.
+[00:18:27 -> 00:18:28]  Billions.
+[00:18:28 -> 00:18:29]  Oh, really?
+[00:18:29 -> 00:18:31]  Can you describe how humans are?
+[00:18:31 -> 00:18:37]  The alien is asking you, what is the nature of human being?
+[00:18:37 -> 00:18:42]  And so the nature of employees, how would you describe the nature of human beings?
+[00:18:42 -> 00:18:44]  And this refers to the concept of man.
+[00:18:44 -> 00:18:52]  It's a kind of very often implicit theory about how people are by nature.
+[00:18:52 -> 00:19:03]  And when we think about concept of man, we always must think about Douglas MacGregor.
+[00:19:03 -> 00:19:06]  Douglas MacGregor is my superhero.
+[00:19:06 -> 00:19:11]  Douglas MacGregor is a great management thinker.
+[00:19:11 -> 00:19:15]  He was a real pioneer.
+[00:19:15 -> 00:19:19]  In my eyes, he wrote the best book about human resource management of all times.
+[00:19:19 -> 00:19:22]  No, the second best.
+[00:19:22 -> 00:19:24]  Guess what is the first.
+[00:19:24 -> 00:19:29]  He wrote the best book in human resource management, I would say.
+[00:19:29 -> 00:19:32]  And the name of the book is The Human Side of Enterprise.
+[00:19:32 -> 00:19:37]  The Human Side of Enterprise, published in 1960.
+[00:19:37 -> 00:19:38]  1960.
+[00:19:38 -> 00:19:39]  Wow.
+[00:19:39 -> 00:19:47]  This is 60 years ago, and it's a book about modern human resource management.
+[00:19:47 -> 00:19:49]  What a thrill.
+[00:19:49 -> 00:19:59]  And in this book, Douglas MacGregor proposed two extreme ways of how you might think about
+[00:19:59 -> 00:20:02]  human beings.
+[00:20:02 -> 00:20:12]  And the question now is, which theory does apply to your company?
+[00:20:12 -> 00:20:19]  In which theory does your company, the people in your organization, the CEO, the executives,
+[00:20:19 -> 00:20:22]  the supervisor, the employees really believe?
+[00:20:22 -> 00:20:26]  So here is the first theory.
+[00:20:26 -> 00:20:30]  Douglas MacGregor named the theory Theory X.
+[00:20:30 -> 00:20:31]  I don't know why.
+[00:20:31 -> 00:20:34]  The other one is Theory Y.
+[00:20:34 -> 00:20:38]  I forgot why he named it that way, but it does not matter.
+[00:20:38 -> 00:20:43]  So here is Theory X, and I quote from his book.
+[00:20:43 -> 00:20:46]  It's a summary of the theory.
+[00:20:46 -> 00:20:47]  So I quote.
+[00:20:47 -> 00:20:57]  People have an inherent dislike for work and will avoid it whenever possible.
+[00:20:57 -> 00:21:00]  People must coerce.
+[00:21:00 -> 00:21:08]  People must be coerced, controlled, directed, or threatened with punishment in order to
+[00:21:08 -> 00:21:14]  get them to achieve the organizational objectives.
+[00:21:14 -> 00:21:24]  People prefer to be directed, do not want responsibility, and have little or no ambition.
+[00:21:24 -> 00:21:28]  People seek security above all else.
+[00:21:28 -> 00:21:31]  That's it.
+[00:21:31 -> 00:21:34]  That's Theory X.
+[00:21:34 -> 00:21:42]  In sum, it describes people as being lazy, not motivated.
+[00:21:43 -> 00:21:51]  Here people are described as beings that need to be taken by the hand, otherwise they may
+[00:21:51 -> 00:21:55]  dump things.
+[00:21:55 -> 00:21:56]  This is Theory X.
+[00:21:56 -> 00:22:00]  And of course, some of you might think, yeah, yeah, yeah, I know some people of that kind.
+[00:22:00 -> 00:22:02]  Well, probably it's not you, of course.
+[00:22:02 -> 00:22:07]  No, you would not, but you know some of these people.
+[00:22:07 -> 00:22:09]  You think so.
+[00:22:09 -> 00:22:10]  So this is Theory X.
+[00:22:10 -> 00:22:14]  And now comes Theory Y.
+[00:22:14 -> 00:22:17]  I quote.
+[00:22:17 -> 00:22:26]  The expenditure of physical and mental effort in work is as natural as play or rest.
+[00:22:26 -> 00:22:34]  Man will exercise self-direction and self-control in the service of objectives to which he is
+[00:22:34 -> 00:22:37]  committed.
+[00:22:37 -> 00:22:45]  The average human being learns not only to accept, but to seek responsibility.
+[00:22:45 -> 00:22:54]  The capacity to exercise a relatively high degree of imagination, ingenuity, and creativity
+[00:22:54 -> 00:23:01]  in the solution of organizational problems is widely, not narrowly, distributed in the
+[00:23:01 -> 00:23:04]  population.
+[00:23:04 -> 00:23:06]  That sounds different, right?
+[00:23:06 -> 00:23:09]  This is the idea of man.
+[00:23:09 -> 00:23:17]  The idea of man, saying that man is, yeah, that sounds weird, man.
+[00:23:17 -> 00:23:20]  That was the way of talking at that time, right?
+[00:23:20 -> 00:23:23]  Nothing like he or she is, no, man.
+[00:23:23 -> 00:23:26]  Okay, sorry for this, I just quote.
+[00:23:26 -> 00:23:36]  But this is a picture of man who is very responsible, self-actualizing, always with a need to grow
+[00:23:37 -> 00:23:45]  Sounds very mature, right?
+[00:23:45 -> 00:23:48]  Yeah, that's the opposite.
+[00:23:48 -> 00:23:50]  Which one is true?
+[00:23:50 -> 00:23:53]  Which one is true?
+[00:23:53 -> 00:23:54]  That's essential.
+[00:23:54 -> 00:24:01]  And to put it, really, again, to put it black and white, there might be X companies and
+[00:24:01 -> 00:24:07]  there might be Y companies, really.
+[00:24:07 -> 00:24:11]  And that's a huge difference.
+[00:24:11 -> 00:24:16]  And that affects a lot, really.
+[00:24:16 -> 00:24:19]  That affects leadership behavior.
+[00:24:19 -> 00:24:31]  That affects a lot of human resources, approaches, and practices, and solutions.
+[00:24:31 -> 00:24:34]  So that's fundamental.
+[00:24:34 -> 00:24:46]  In your, to put it short, in your company, do you trust the people or do you not, really?
+[00:24:46 -> 00:24:52]  And I mean, this is, like with all the other criteria, you might say, yes, partly, partly.
+[00:24:52 -> 00:25:01]  I know some area where you trust in people, but in the other department, let's say, people
+[00:25:01 -> 00:25:03]  are not trusted so much.
+[00:25:03 -> 00:25:04]  So it's a difference.
+[00:25:04 -> 00:25:08]  Yeah, there might be a variety within the organization, but what we are talking about
+[00:25:08 -> 00:25:11]  here is the overall culture.
+[00:25:11 -> 00:25:15]  This is part of the overall beliefs, you know?
+[00:25:15 -> 00:25:21]  This is, when we think about cultural theory, about corporate culture, and when we in particular
+[00:25:21 -> 00:25:28]  think about the wonderful theory of Edgar Schein, who brought up this three-layer model
+[00:25:28 -> 00:25:36]  about organizational culture, he always said that there is one fundamental level of organizational
+[00:25:36 -> 00:25:44]  culture, which are the, I don't know how he put it specifically, but it's about the implicit,
+[00:25:44 -> 00:25:52]  the implicit assumptions about the truth, yeah?
+[00:25:52 -> 00:25:55]  The so-called theories in use.
+[00:25:55 -> 00:26:01]  The theories, the understanding that drive our behavior, the way we look at the world
+[00:26:01 -> 00:26:04]  that drives our behavior.
+[00:26:04 -> 00:26:13]  And he really says, as part of any organizational culture, there is a set of implicit assumptions.
+[00:26:13 -> 00:26:17]  What's the people believe in?
+[00:26:17 -> 00:26:21]  And the question really is, and I would say this is something with which you can describe
+[00:26:21 -> 00:26:24]  entire cultures.
+[00:26:24 -> 00:26:31]  Is it that in your organization you believe in people, or you don't?
+[00:26:31 -> 00:26:39]  So an HR that goes along with theory X is a completely different HR than an HR that
+[00:26:39 -> 00:26:42]  goes along with theory Y.
+[00:26:42 -> 00:26:45]  You will see this.
+[00:26:45 -> 00:26:54]  So these three criteria, which I just have described, they relate to the nature of the
+[00:26:54 -> 00:26:57]  employees, how you see the people, right?
+[00:26:57 -> 00:27:00]  Do you value individuality?
+[00:27:00 -> 00:27:02]  This is one thing.
+[00:27:02 -> 00:27:06]  Are people appreciated, not only the executives?
+[00:27:06 -> 00:27:09]  And do you trust in people?
+[00:27:09 -> 00:27:12]  So this is the starting point, really.
+[00:27:12 -> 00:27:19]  And when I work with organization and I have the feeling that, oh, there's conformity,
+[00:27:19 -> 00:27:27]  the executives are the superhero, and this is X culture, that triggers in my mind already
+[00:27:27 -> 00:27:35]  a different type of human resource strategy than when I see the opposite.
+[00:27:35 -> 00:27:40]  But I have to be careful now, not sharing too much insights.
+[00:27:40 -> 00:27:43]  All these things will follow, okay?
+[00:27:43 -> 00:27:47]  So let's talk about the task, okay?
+[00:27:47 -> 00:27:58]  And when it comes to the task, the things that people work on, there is a first distinction
+[00:27:58 -> 00:28:02]  which is extremely crucial.
+[00:28:03 -> 00:28:12]  This distinction was very well described by one of the pioneering, leading management
+[00:28:12 -> 00:28:20]  professors of Harvard Business School, who unfortunately died recently, Clayton Christensen.
+[00:28:20 -> 00:28:24]  Some of you might know him or have heard of him.
+[00:28:24 -> 00:28:30]  He wrote this excellent book, The Innovator's Dilemma.
+[00:28:30 -> 00:28:37]  The Innovator's Dilemma was one of the most influential books in management, really.
+[00:28:37 -> 00:28:46]  And he brought up a term that became very significant, very important, and the term
+[00:28:46 -> 00:28:50]  is disruption, disruption.
+[00:28:50 -> 00:28:58]  So before talking about disruption, let's explain what the opposite might be.
+[00:28:59 -> 00:29:02]  The opposite might be static development.
+[00:29:02 -> 00:29:09]  So in your company, do you focus on static development?
+[00:29:09 -> 00:29:10]  What does that mean?
+[00:29:10 -> 00:29:15]  Static development means that you produce refrigerators, okay?
+[00:29:15 -> 00:29:18]  You produce cars.
+[00:29:18 -> 00:29:20]  You produce books.
+[00:29:20 -> 00:29:25]  You deliver services, like a hotel.
+[00:29:25 -> 00:29:30]  You sell insurance policies, yeah?
+[00:29:30 -> 00:29:38]  And you do this year after year after year after year since decades.
+[00:29:38 -> 00:29:43]  And your idea might be just to get better every year.
+[00:29:43 -> 00:29:50]  It's about this continuous improvement, always getting better, better in terms of quality,
+[00:29:50 -> 00:29:55]  better in terms of efficiency, better in terms of price or whatever.
+[00:29:56 -> 00:29:59]  But it's a constant growth, right?
+[00:29:59 -> 00:30:01]  I mean, look at cars.
+[00:30:01 -> 00:30:02]  Look at cars.
+[00:30:02 -> 00:30:08]  Cars, now let's not think of the classic cars, which are beautiful.
+[00:30:08 -> 00:30:15]  I mean, compared to the cars today, the boring design of today, classic cars were really
+[00:30:15 -> 00:30:16]  beautiful.
+[00:30:16 -> 00:30:23]  But from a technological point of view, I mean, engines became better every year.
+[00:30:23 -> 00:30:27]  The technology really got better.
+[00:30:27 -> 00:30:29]  And the driving experience got better.
+[00:30:29 -> 00:30:34]  The efficiency got better.
+[00:30:34 -> 00:30:36]  Year after year after year.
+[00:30:36 -> 00:30:39]  And this is what we would name a static development.
+[00:30:39 -> 00:30:44]  Is your company about static development?
+[00:30:44 -> 00:30:47]  Poor is your company?
+[00:30:47 -> 00:30:54]  Or at least some areas in your company about disruptive development.
+[00:30:54 -> 00:31:00]  Disruptive development means that you work on something that is poor in the beginning.
+[00:31:00 -> 00:31:04]  So I mean, there are thousands of examples out there.
+[00:31:04 -> 00:31:07]  I mean, think about electronic vehicles.
+[00:31:07 -> 00:31:11]  I mean, the first electronic vehicles, they were really bad.
+[00:31:11 -> 00:31:12]  I mean, they looked bad.
+[00:31:12 -> 00:31:14]  They had no reach.
+[00:31:14 -> 00:31:17]  They were extremely expensive.
+[00:31:17 -> 00:31:23]  Everybody said, well, okay, better not rely on electronic engines.
+[00:31:23 -> 00:31:27]  I mean, that's stupid.
+[00:31:27 -> 00:31:30]  Look at the beginning of digital photography.
+[00:31:30 -> 00:31:33]  I mean, that was really bad, really.
+[00:31:33 -> 00:31:41]  It was so expensive, and the quality of the picture was bad, bad, bad, bad.
+[00:31:41 -> 00:31:51]  Everybody said, well, this will never come compared to the existing established technologies.
+[00:31:51 -> 00:32:05]  These new technologies were so unfortunate, so disadvantages of disadvantage.
+[00:32:05 -> 00:32:15]  But things changed, and not in a kind of a static development, but in an exponential development.
+[00:32:15 -> 00:32:22]  And in the beginning, the development is very often slower than expected, but then it's
+[00:32:22 -> 00:32:25]  getting faster than expected.
+[00:32:25 -> 00:32:33]  And the idea here is disruptive development is once a technology becomes stronger, better,
+[00:32:33 -> 00:32:38]  for a better price, then it kills a traditional technology.
+[00:32:38 -> 00:32:46]  And then the traditional technology is gone, you know, gone, over, goodbye.
+[00:32:46 -> 00:32:54]  So disruptive developments are about killing existing technologies.
+[00:32:54 -> 00:33:01]  Must not be technologies only, could also be business model, or whatever.
+[00:33:01 -> 00:33:11]  So the question really is, is your company mainly about continuous improvement?
+[00:33:11 -> 00:33:19]  Or is your company about being hungry enough to kill existing technologies with a new one,
+[00:33:19 -> 00:33:23]  even though that you know it's going to take time?
+[00:33:23 -> 00:33:29]  You know, this is the difference.
+[00:33:30 -> 00:33:35]  This does not refer to human resource management in the first place, I know.
+[00:33:35 -> 00:33:43]  But as you're going to see later, an HR strategy that is surrounded by a business environment
+[00:33:43 -> 00:33:49]  that is about disruptive development will look different than an HR strategy that is
+[00:33:49 -> 00:33:56]  surrounded by a business environment that is about static development.
+[00:33:56 -> 00:34:02]  Whatever you look at, variable pay, performance appraisal, talent development, how are you
+[00:34:02 -> 00:34:05]  going to look at it?
+[00:34:05 -> 00:34:09]  It's really fascinating, it's really fascinating.
+[00:34:09 -> 00:34:14]  So let's move further, we still talk about the task.
+[00:34:14 -> 00:34:22]  And here is one very essential differentiation.
+[00:34:22 -> 00:34:26]  This is about what I name task certainty.
+[00:34:26 -> 00:34:32]  And task certainty is about two dimensions.
+[00:34:32 -> 00:34:35]  Certainty of outcome and certainty of process.
+[00:34:35 -> 00:34:37]  So what is this all about?
+[00:34:37 -> 00:34:43]  Certainty of outcome means that when you are doing a task, do you know the outcome?
+[00:34:43 -> 00:34:48]  Do you know what you will have in the end?
+[00:34:48 -> 00:34:50]  Do you see it?
+[00:34:50 -> 00:34:53]  You want to build a house?
+[00:34:53 -> 00:34:57]  From the beginning of what you're doing, do you already see the result?
+[00:34:57 -> 00:34:58]  Do you see it?
+[00:34:58 -> 00:35:05]  Or an employee is working on a certain kind of procedure, does the employee know how the
+[00:35:05 -> 00:35:10]  result must look like or not?
+[00:35:10 -> 00:35:15]  And it's not only about the result, the outcome, it's also about the way to get there, we name
+[00:35:15 -> 00:35:17]  this the process.
+[00:35:17 -> 00:35:23]  How is it about the certainty of process or process certainty?
+[00:35:23 -> 00:35:35]  So when we look at repetitive tasks, we always have a high certainty of outcome and we have
+[00:35:35 -> 00:35:37]  a high certainty of process.
+[00:35:37 -> 00:35:46]  You do the same things over and over and over again.
+[00:35:46 -> 00:35:52]  If you know one step of your work, then you know all the others.
+[00:35:52 -> 00:36:00]  So here is an additional dimension.
+[00:36:00 -> 00:36:10]  Some tasks are small, meaning that you can do this task many times in a day.
+[00:36:10 -> 00:36:16]  For some jobs you do the same things 2,000 times in a day.
+[00:36:16 -> 00:36:20]  Let's think of an assembly line maybe sometimes.
+[00:36:20 -> 00:36:29]  But sometimes you do a task over the course of many months or even years, one single task.
+[00:36:29 -> 00:36:35]  This is what I name the scope.
+[00:36:35 -> 00:36:43]  You now can differentiate between two extreme types of tasks.
+[00:36:43 -> 00:36:51]  One type of task is of small scope, a tiny task, a task that you can do within a few
+[00:36:51 -> 00:36:59]  minutes and the outcome is clear and the process is clear and everything is clear.
+[00:36:59 -> 00:37:01]  It's clearly described.
+[00:37:01 -> 00:37:06]  My favorite example really is housekeeping in a hotel.
+[00:37:06 -> 00:37:13]  It's really not that a housekeeping employee is entering a room in the hotel asking him
+[00:37:13 -> 00:37:20]  or herself, oh, a room, what a mess, what should I do now?
+[00:37:20 -> 00:37:22]  Let's think first.
+[00:37:22 -> 00:37:25]  No, no, you don't need to think.
+[00:37:25 -> 00:37:32]  Look, here's the standard and now you prepare the bathroom, right?
+[00:37:32 -> 00:37:36]  And now you don't think, hmm, how am I supposed to prepare to clean up the bathroom?
+[00:37:36 -> 00:37:44]  No, here's the procedure, here is how you do it, here is how you prepare a bed.
+[00:37:44 -> 00:37:51]  Not like you think, but how things are described in a standard procedure and that applies for
+[00:37:51 -> 00:37:53]  everybody, right?
+[00:37:54 -> 00:37:57]  This is the first type of task.
+[00:37:57 -> 00:38:06]  High outcome certainty, high process certainty and small scope, highly repetitive.
+[00:38:06 -> 00:38:11]  And the opposite is a task which has a big scope.
+[00:38:11 -> 00:38:14]  It's a project.
+[00:38:14 -> 00:38:19]  And once you begin with this task, with this project, you do not know the outcome, not
+[00:38:19 -> 00:38:20]  at all.
+[00:38:20 -> 00:38:25]  You might have priorities, you might have a vision, you might have an idea, but you
+[00:38:25 -> 00:38:30]  don't know the exact outcome, yeah?
+[00:38:30 -> 00:38:31]  You don't know.
+[00:38:31 -> 00:38:35]  You say, okay, we're going to develop the software and if I ask you in the beginning
+[00:38:35 -> 00:38:38]  of the project, hmm, how does that exactly look like?
+[00:38:38 -> 00:38:42]  Every software developer would say, well, I don't know.
+[00:38:42 -> 00:38:44]  How can't you know how the outcome look like?
+[00:38:44 -> 00:38:45]  How do you decide?
+[00:38:46 -> 00:38:51]  We have to approach this outcome stepwise.
+[00:38:51 -> 00:38:54]  Ask me in a few months and I can tell you more.
+[00:38:54 -> 00:38:59]  But even then, I don't know the exact details about the outcome.
+[00:38:59 -> 00:39:05]  Or ask a scientist in the beginning of a big research project, hey scientist, what will
+[00:39:05 -> 00:39:11]  be the statistical outcome?
+[00:39:11 -> 00:39:15]  This is why we are doing this, because we don't know.
+[00:39:15 -> 00:39:16]  We don't know.
+[00:39:16 -> 00:39:21]  So yes, there's going to be a report, not an article.
+[00:39:21 -> 00:39:25]  And I can tell you how this article is going to be structured.
+[00:39:25 -> 00:39:28]  Like every article is structured.
+[00:39:28 -> 00:39:30]  But I don't know the outcome.
+[00:39:30 -> 00:39:32]  That's why we are doing all this.
+[00:39:32 -> 00:39:34]  Do I know the way to get there?
+[00:39:34 -> 00:39:37]  Yes, partly, on a high level I know it.
+[00:39:37 -> 00:39:41]  I know that we're going to probably do some experiments, but don't ask me how this experiment
+[00:39:41 -> 00:39:42]  is going to look like.
+[00:39:42 -> 00:39:50]  We first have to think about the theory and its assumption and whatever.
+[00:39:50 -> 00:39:57]  Low certainty of outcome, low certainty of process, big scope.
+[00:39:57 -> 00:40:08]  And again, HR with people who are doing repetitive tasks with high certainty of outcomes and
+[00:40:08 -> 00:40:16]  processes, that HR will probably look like in a completely different way than the HR
+[00:40:16 -> 00:40:24]  which is necessary in a context where the people do not know the outcomes and the processes
+[00:40:24 -> 00:40:26]  of their work.
+[00:40:26 -> 00:40:32]  I mean, you're going to talk about, for instance, about performance appraisal, objective setting,
+[00:40:32 -> 00:40:33]  something like this.
+[00:40:33 -> 00:40:36]  It's difficult when you don't know the outcome.
+[00:40:36 -> 00:40:39]  And not even the manager does know the outcome.
+[00:40:39 -> 00:40:46]  So how is, for instance, performance review possible if you do not know the outcome?
+[00:40:46 -> 00:40:54]  How can you prepare a job description when you do not know the outcome?
+[00:40:54 -> 00:41:01]  And I would really say that this is one overall tendency in the working world that we move
+[00:41:01 -> 00:41:06]  away from repetitive tasks to more uncertain tasks.
+[00:41:06 -> 00:41:11]  That's the overall tendency, I suppose.
+[00:41:11 -> 00:41:14]  So we better take this one serious.
+[00:41:14 -> 00:41:24]  Well, there is a last thing I would like to share with you with regards to the task.
+[00:41:25 -> 00:41:34]  In traditional settings, we used to think long term.
+[00:41:34 -> 00:41:40]  And this is pretty much due to this idea that the world is stable, that the world is predictable,
+[00:41:40 -> 00:41:47]  that we have continuous but kind of static development and improvement.
+[00:41:47 -> 00:41:51]  We try to anticipate the future.
+[00:41:51 -> 00:42:00]  We plan on long term and we think in long cycle.
+[00:42:00 -> 00:42:08]  We sit together one time in a year and think about how things might be in 12 months from now.
+[00:42:08 -> 00:42:13]  So, for instance, we do this in the performance appraisal.
+[00:42:13 -> 00:42:22]  This is a very commonly used tool as part of HR that you find globally in many organizations
+[00:42:22 -> 00:42:26]  where the supervisor and the employee sit together and think about, okay, employee,
+[00:42:26 -> 00:42:30]  what are your objectives for the next 12 months?
+[00:42:30 -> 00:42:32]  12 months.
+[00:42:32 -> 00:42:34]  Wow.
+[00:42:34 -> 00:42:35]  12 months.
+[00:42:35 -> 00:42:37]  That's long.
+[00:42:37 -> 00:42:43]  Why not thinking about what you need to achieve in the next two weeks?
+[00:42:43 -> 00:42:47]  So, you think and you act.
+[00:42:47 -> 00:42:48]  This is the cycle.
+[00:42:48 -> 00:42:49]  You think and you act.
+[00:42:49 -> 00:42:52]  First you think and then you act.
+[00:42:52 -> 00:42:59]  In some companies, you have this long cycle and this is the way how people think.
+[00:42:59 -> 00:43:02]  But in some other companies, you have short cycle.
+[00:43:02 -> 00:43:04]  You think and act.
+[00:43:04 -> 00:43:07]  You think and act and do it all the time.
+[00:43:07 -> 00:43:08]  Short cycle.
+[00:43:08 -> 00:43:10]  Very adaptive.
+[00:43:10 -> 00:43:11]  Very adaptive.
+[00:43:11 -> 00:43:18]  Now you can assume this goes pretty much along with the nature of tasks that I have explained
+[00:43:18 -> 00:43:21]  just some minutes ago.
+[00:43:21 -> 00:43:25]  If you have a very uncertain task, you better think in short cycle.
+[00:43:25 -> 00:43:32]  I mean, the uncertain task, this is like a journey into a country where you don't have
+[00:43:32 -> 00:43:33]  any map.
+[00:43:33 -> 00:43:37]  It's like an expedition into the jungle.
+[00:43:37 -> 00:43:39]  You don't have a long-term plan.
+[00:43:39 -> 00:43:43]  You don't know where you're going to end up in 12 months or in a journey, let's say,
+[00:43:43 -> 00:43:45]  after four weeks or so.
+[00:43:45 -> 00:43:46]  You don't know.
+[00:43:46 -> 00:43:52]  So you better think about where to go on a daily, sometimes hourly basis.
+[00:43:52 -> 00:43:58]  So we will talk about this also when it comes to leadership, when it comes to especially
+[00:43:58 -> 00:43:59]  performance appraisal.
+[00:43:59 -> 00:44:09]  We're going to learn that things might be more adaptive, more short cycle, more iterative.
+[00:44:09 -> 00:44:14]  So these were some characteristics about organization.
+[00:44:14 -> 00:44:20]  So we were talking about how a company looks at its employees.
+[00:44:20 -> 00:44:24]  And in the second half, we were talking about the tasks.
+[00:44:24 -> 00:44:31]  Is it about optimization, continuous improvement, or disruption in your organization?
+[00:44:31 -> 00:44:33]  How is task certainty?
+[00:44:33 -> 00:44:37]  How is it with thinking and acting?
+[00:44:37 -> 00:44:41]  So in the next episode, we're going to talk about leadership.
+[00:44:41 -> 00:44:45]  What is the way you think about leadership in your organization?
+[00:44:45 -> 00:44:49]  And then we'll think about the organization of your organization, meaning about the way
+[00:44:49 -> 00:44:54]  you collaborate, the way how you communicate inside the organization.
+[00:44:54 -> 00:44:57]  That's going to be really exciting.
+[00:44:57 -> 00:44:58]  So look forward to this one.
+[00:44:58 -> 00:45:00]  So see you in the next episode.

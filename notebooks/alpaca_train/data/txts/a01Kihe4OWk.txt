@@ -1,0 +1,121 @@
+[00:00:00 -> 00:00:05]  Und heute in der Folge geht es um Reibung und die ist extremst wichtig in der Physik.
+[00:00:06 -> 00:00:09]  Und was ihr über Haft- und Gleitreibung wissen müsst, das erfahrt ihr jetzt.
+[00:00:14 -> 00:00:20]  Die Reibung ist verantwortlich dafür, dass jeder Körper, den wir anschubsen, irgendwann auch wieder stehen bleibt.
+[00:00:21 -> 00:00:23]  Sie bremst also die Bewegung. Reibung, was ist das?
+[00:00:24 -> 00:00:28]  Die Reibung ist auch der Grund dafür, wieso es so schwer ist, mich von diesem Tisch hier runterzuschieben.
+[00:00:28 -> 00:00:31]  Der Eduard muss ganz schön drücken, damit ich mich überhaupt bewege.
+[00:00:32 -> 00:00:35]  Die Reibung macht es also schwerer, mich hier zu verschieben.
+[00:00:36 -> 00:00:42]  Tisch und Hintern reiben also aneinander. Es gibt aber nicht nur eine Reibung, sondern wir unterscheiden zwei verschiedene Arten.
+[00:00:43 -> 00:00:44]  Haft- und Gleitreibung.
+[00:00:45 -> 00:00:50]  Simon hat jetzt als Versuchskaninchen ausgedient. Dafür muss er jetzt einen Holzwürfel herhalten.
+[00:00:51 -> 00:00:56]  Und an den Holzwürfeln machen wir ein Kraftmesser und mit dem ziehen wir den mal über den Tisch und schauen, was passiert.
+[00:00:59 -> 00:01:05]  Wenn wir jetzt mit dem Kraftmesser an den Klotz ziehen, dann sehen wir, dass er sich erstmal nicht bewegt.
+[00:01:06 -> 00:01:09]  Aber am Kraftmesser können wir trotzdem eine Kraft ablesen.
+[00:01:10 -> 00:01:12]  Nur ist die Kraft zu klein, um den Klotz zu bewegen.
+[00:01:13 -> 00:01:15]  Und das liegt an der Reibung des Klotzes.
+[00:01:16 -> 00:01:19]  Und diese Form der Reibung, die nennen wir Haftreibung.
+[00:01:21 -> 00:01:25]  Haftreibung tritt nur bei Dingen auf, die still stehen und die wir bewegen wollen.
+[00:01:26 -> 00:01:33]  Die Haftreibung ist die Kraft, die einen daran hindert, ein Objekt in Bewegung zu bringen, weil der Gegenstand an einem anderen haftet.
+[00:01:34 -> 00:01:35]  In der Regel haftet er am Boden.
+[00:01:36 -> 00:01:38]  Allgemein ist Reibung immer eine Kraft.
+[00:01:39 -> 00:01:43]  Deshalb sprechen wir auch von der Reibungskraft. Und das kürzen wir ab mit einem Fr.
+[00:01:44 -> 00:01:47]  Erst wenn man stärker daran zieht, bewegt sich der Holzwürfel.
+[00:01:48 -> 00:01:51]  Und plötzlich zeigt der Kraftmesser eine deutlich kleinere Kraft an.
+[00:01:51 -> 00:01:55]  Sobald sich der Klotz in Bewegung gesetzt hat, wird die Reibung also kleiner.
+[00:01:56 -> 00:02:01]  Diese Reibung, also wenn sich der Würfel über den Tisch bewegt, nennen wir Gleitreibung.
+[00:02:02 -> 00:02:07]  Die Gleitreibung ist also die Kraft, die gegen die Bewegung eines Körpers wirkt, wenn dieser über einen anderen gleitet.
+[00:02:08 -> 00:02:11]  Gleitreibung gibt es also nur bei Dingen, die sich bewegen.
+[00:02:12 -> 00:02:13]  Es gibt also zwei Arten von Reibung.
+[00:02:14 -> 00:02:17]  Einmal eine für still stehende Körper und das ist die Haftreibung.
+[00:02:18 -> 00:02:21]  Und eine für Körper in Bewegung und das ist die Gleitreibung.
+[00:02:22 -> 00:02:27]  Unser Experiment zeigt, dass die Haftreibung größer ist als die Gleitreibung.
+[00:02:28 -> 00:02:31]  Und jetzt brennen euch wahrscheinlich zwei Fragen direkt auf den Nägeln.
+[00:02:32 -> 00:02:37]  Erstens, warum ist das so? Und zweitens, wovon hängt die Reibung eigentlich ab?
+[00:02:38 -> 00:02:42]  Ein Metallwürfel sieht zwar auf den ersten Blick ziemlich glatt aus, das stimmt aber nicht.
+[00:02:42 -> 00:02:47]  Wenn wir seine Oberfläche unter einem Mikroskop anschauen, dann sehen wir, dass sie ziemlich uneben ist.
+[00:02:48 -> 00:02:52]  Wir Physiker nennen das rau. Das können wir uns so vorstellen wie so Zacken.
+[00:02:53 -> 00:02:59]  Wenn ein Ding auf dem anderen sitzt, liegt oder steht, dann haftet das auf dem anderen
+[00:03:00 -> 00:03:04]  und dann verzahnen sich die einzelnen Zacken der beiden Oberflächen ineinander.
+[00:03:05 -> 00:03:07]  Und genau so entsteht Haftreibung.
+[00:03:08 -> 00:03:11]  Wenn wir einen Würfel oder ein anderes Objekt in Bewegung setzen wollen,
+[00:03:12 -> 00:03:14]  dann müssen wir ihn aus dieser Verzahnung rausdrücken.
+[00:03:15 -> 00:03:19]  Jetzt bleibt natürlich die Frage, warum die Haftreibung größer ist als die Gleitreibung.
+[00:03:20 -> 00:03:22]  Wir können uns das folgendermaßen vorstellen.
+[00:03:23 -> 00:03:26]  Wenn wir die oberen Zacken auf die unteren legen und warten,
+[00:03:27 -> 00:03:29]  dann rutschen die mit der Zeit in die unteren hinein.
+[00:03:30 -> 00:03:36]  Die Erdanziehungskraft zieht ja konstant an dem oberen Objekt und drückt die praktisch immer in die unteren rein.
+[00:03:37 -> 00:03:41]  Wenn die Zacken sich jetzt bewegen, dann zieht die Erdanziehungskraft zwar weiterhin nach unten,
+[00:03:42 -> 00:03:44]  aber die Zacken flitschen übereinander weg.
+[00:03:45 -> 00:03:49]  Das heißt, sie rutschen nicht ganz so tief in die Kerben hinein, weil sie sich ja noch nach vorne bewegen.
+[00:03:50 -> 00:03:55]  Und genau das ist der Grund, warum die Haftreibung, also eine tiefe Verzahnung von Objekten,
+[00:03:56 -> 00:04:00]  größer ist als die Gleitreibung, eine nicht ganz so tiefe Verzahnung von Objekten.
+[00:04:01 -> 00:04:04]  Das mit der Reibung ist tatsächlich ein bisschen komplizierter.
+[00:04:04 -> 00:04:08]  Da spielen nämlich Kräfte auf der Ebene der kleinsten Teilchen noch eine Rolle.
+[00:04:09 -> 00:04:12]  Die lassen wir aber erstmal außen vor und vereinfachen das Ganze.
+[00:04:13 -> 00:04:14]  Wovon hängt Reibung ab?
+[00:04:15 -> 00:04:18]  Hier seht ihr jetzt drei gleich große Holzwürfel.
+[00:04:19 -> 00:04:24]  Die unterscheiden sich nur, dass wir an die beiden, an die Unterseiten, anderes Material geklebt haben.
+[00:04:25 -> 00:04:27]  Nämlich einmal Schmirgelpapier und einmal Styropor.
+[00:04:28 -> 00:04:31]  Jetzt ziehen wir die Würfel mit unserem Federkraftmesser über den Tisch.
+[00:04:31 -> 00:04:35]  Und wir messen, wie groß die Haftreibung und die Gleitreibung ist.
+[00:04:36 -> 00:04:39]  Der größere Wert am Anfang, das ist der Haftreibungswert.
+[00:04:40 -> 00:04:43]  Und wenn das Ding einmal ins Rutschen gekommen ist, dann schwankt das zwar so ein bisschen.
+[00:04:44 -> 00:04:46]  Das liegt daran natürlich, dass der Tisch nicht ganz so eben ist.
+[00:04:47 -> 00:04:50]  Aber wir können in etwa sehen, der schwankt um einen bestimmten Wert.
+[00:04:51 -> 00:04:54]  Und weil es auch zwei Reibungsarten gibt, gibt es auch zwei Reibungszahlen.
+[00:04:55 -> 00:04:58]  Nämlich einmal die Haftreibungszahl, wenn er noch still steht.
+[00:04:58 -> 00:05:01]  Und einmal die Gleitreibungszahl, wenn er sich schon bewegt.
+[00:05:02 -> 00:05:06]  Und um das etwas kürzer auszudrücken und weil das schon so viele normale Buchstaben benutzt haben,
+[00:05:07 -> 00:05:13]  bedienen wir uns diesmal bei den alten Griechen und klauen aus ihrem Alphabet den lustigen Buchstaben µ.
+[00:05:14 -> 00:05:16]  Die Reibungszahl hat auch eine Formel.
+[00:05:17 -> 00:05:23]  Und zwar µ ist gleich die Kraft der Reibung, also die Reibungskraft, geteilt durch die Gewichtskraft des Klotzes.
+[00:05:24 -> 00:05:26]  Wir können also jetzt mal direkt ein paar Reibungszahlen bestimmen.
+[00:05:26 -> 00:05:29]  Dafür brauchen wir aber noch unsere alte Freundin, die Waage.
+[00:05:30 -> 00:05:34]  Dann wiegen wir jetzt mal unsere Holzwürfel und bestimmen daraus deren Gewichtskräfte.
+[00:05:35 -> 00:05:38]  Gewichtskraft ist ja 9,81 mal die Masse.
+[00:05:39 -> 00:05:43]  Ich kann aber nicht so gut jetzt 9,81 in den Kopf ausrechnen, deswegen lass uns einfach sagen, wir nehmen mal 10.
+[00:05:44 -> 00:05:45]  Okay, dann nehmen wir mal 10.
+[00:05:46 -> 00:05:52]  So, der erste Würfel mit dem Holzuntergrund wiegt 0,255 Kilogramm.
+[00:05:53 -> 00:05:56]  Das heißt also mal 10,2,6 Newton.
+[00:05:57 -> 00:06:03]  Richtig. Der zweite mit dem Styroporuntergrund, der wiegt 0,262.
+[00:06:04 -> 00:06:07]  Also circa 2,6 Newton.
+[00:06:08 -> 00:06:16]  Richtig. Und der dritte mit dem Schmögelpapieruntergrund, der wiegt 0,250 Kilogramm und das sind?
+[00:06:17 -> 00:06:18]  2,5 Newton.
+[00:06:19 -> 00:06:20]  Ganz genau.
+[00:06:20 -> 00:06:21]  Und was können wir damit jetzt ausrechnen?
+[00:06:22 -> 00:06:23]  Unsere Reibungszahl µ.
+[00:06:24 -> 00:06:27]  Was wir natürlich noch brauchen, sind die Werte von unseren Federkraftmesser.
+[00:06:28 -> 00:06:30]  Am Federkraftmesser lesen wir ja Kräfte ab.
+[00:06:31 -> 00:06:36]  Das heißt, wir haben einmal die Haftreibungskraft und einmal die Gleitreibungskraft.
+[00:06:37 -> 00:06:44]  Wenn wir die Holzunterseite über die Werkbank ziehen, dann messen wir eine Haftreibungskraft von 0,6 Newton.
+[00:06:45 -> 00:06:49]  Die Gleitreibungskraft frg ist dann 0,4.
+[00:06:50 -> 00:07:00]  Bei der Styroporunterseite ist frh, also die Haftreibungskraft 0,8 Newton und unsere Gleitreibungskraft 0,6 Newton.
+[00:07:01 -> 00:07:09]  Bei der Schmögelpapierunterseite lesen wir einmal für die Haftreibungskraft 1,0 Newton ab und für die Gleitreibungskraft 0,8 Newton.
+[00:07:10 -> 00:07:13]  So, dann brauchen wir jetzt noch unsere Gewichtskräfte dazu.
+[00:07:14 -> 00:07:15]  Die machen wir auch mal mit in die Tabelle.
+[00:07:16 -> 00:07:26]  Jetzt können wir mit der Formel µ ist gleich fr, also die Reibungskraft, durch fg, also die Gewichtskraft, unsere µ´s, also die Reibungszahlen, ausrechnen.
+[00:07:27 -> 00:07:29]  Jetzt machen wir das mal für Holz auf Holztisch.
+[00:07:30 -> 00:07:36]  Wir teilen frh, also 0,6 Newton, durch die Gewichtskraft fg, das sind 2,6 Newton.
+[00:07:37 -> 00:07:41]  Und das ergibt eine Haftreibungszahl µh von 0,23.
+[00:07:42 -> 00:07:44]  Und genau das gleiche machen wir jetzt für die Gleitreibung.
+[00:07:45 -> 00:07:51]  Wir berechnen frg, also 0,4 Newton, durch die Gewichtskraft fg, die ist immer noch 2,6 Newton.
+[00:07:52 -> 00:07:56]  Und das ergibt eine Gleitreibungszahl µr von 0,16.
+[00:07:57 -> 00:08:00]  Und genau das gleiche machen wir jetzt noch für Styropor und Schmögelpapier.
+[00:08:01 -> 00:08:10]  Für Styropor ergibt unsere Rechnerei eine Haftreibungszahl µh von 0,31 und eine Gleitreibungszahl µr von 0,23.
+[00:08:10 -> 00:08:19]  Bei Schmögelpapier berechnen wir eine Haftreibungszahl µh von 0,40 und eine Gleitreibungszahl µr von 0,32.
+[00:08:20 -> 00:08:21]  Ja, also nochmal zurück zu unserem µ.
+[00:08:22 -> 00:08:28]  Unser µ, also unsere Reibungszahl, sagt uns also etwas über die Reibung zwischen zwei Flächen.
+[00:08:29 -> 00:08:33]  Wenn das µ klein ist und wir haben einen Körper mit einer bestimmten Gewichtskraft,
+[00:08:34 -> 00:08:36]  dann ist das relativ leicht, ihn über diese Fläche zu bewegen.
+[00:08:36 -> 00:08:43]  Wenn das µ größer ist oder sehr groß, dann ist es bei der gleichen Gewichtskraft schwieriger, ihn über diese Fläche zu ziehen.
+[00:08:47 -> 00:08:52]  Wenn die Reibung eigentlich jede Bewegung behindert, dann könnte man meinen, dass das irgendwie ziemlich lästig und unnütz ist.
+[00:08:55 -> 00:09:00]  Doch man kann sich auch Reibung zunutze machen, vor allem dann, wenn man etwas, das sich bewegt, wieder stoppen will.
+[00:09:01 -> 00:09:10]  Wenn man zum Beispiel mit dem Fahrrad bremst, dann betätigt man die Bremse am Lenker und dadurch werden die Bremsklötze gegen die Felgen gepresst.
+[00:09:11 -> 00:09:15]  Dieser Kontakt von Gummi auf Metall erzeugt Reibung, die dann das Fahrrad abbremst.
+[00:09:16 -> 00:09:24]  Abgesehen davon würden wir ohne Reibung die ganze Zeit ausrutschen und ständig hinfallen, weil unsere Füße keine Reibung mehr mit dem Boden hätten.
+[00:09:25 -> 00:09:28]  Wir könnten uns auf keine Art und Weise fortbewegen, weder zu Fuß noch mit dem Auto.
+[00:09:29 -> 00:09:33]  Aber wenn es bei euch noch Reibereien gab oder ihr irgendetwas nicht verstanden habt,
+[00:09:34 -> 00:09:38]  dann haut uns das gerne in die Kommentare. Wir sind über Fragen und Anmerkungen immer dankbar.
+[00:09:39 -> 00:09:41]  Für die, die was gelernt haben, schenkt uns einen Daumen nach oben.
+[00:09:42 -> 00:09:45]  Und wenn ihr Sehnsucht habt, dann schaut euch doch auch die anderen Videos von uns an.
+[00:09:46 -> 00:09:47]  Ansonsten sehen wir uns nächste Woche wieder.

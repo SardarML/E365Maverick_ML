@@ -1,0 +1,143 @@
+[00:00:00 -> 00:00:09]  Now I've been getting quite a lot of questions about logging for containers and Kubernetes.
+[00:00:09 -> 00:00:12]  People talk about the EFK stack, they talk about the ELK stack.
+[00:00:12 -> 00:00:16]  For many folks who are starting out and new to the technology, there's quite a lot to
+[00:00:16 -> 00:00:20]  understand about these technologies and why and how they're used.
+[00:00:20 -> 00:00:22]  This is a movie about centralized logging.
+[00:00:22 -> 00:00:26]  In traditional systems, applications write logs to files.
+[00:00:26 -> 00:00:28]  This can be troublesome when the disk gets full.
+[00:00:28 -> 00:00:33]  Log collectors can be used to ship logs away from the disk, but this adds extra engineering
+[00:00:33 -> 00:00:36]  overheads to install and maintain.
+[00:00:36 -> 00:00:40]  Applications can also be programmed to send logs directly out of the system, somewhere
+[00:00:40 -> 00:00:41]  else.
+[00:00:41 -> 00:00:46]  This avoids writing to disk, but results in a lot of duplicate code in each of the applications
+[00:00:46 -> 00:00:49]  for pushing logs out of the system.
+[00:00:49 -> 00:00:52]  So I thought this would be a good time to start a series about logging.
+[00:00:52 -> 00:00:56]  Now with logging, there are two categories that I want to discuss before looking at Docker
+[00:00:56 -> 00:00:57]  and Kubernetes.
+[00:00:57 -> 00:01:00]  Number one is standardized logging.
+[00:01:00 -> 00:01:02]  Number two is centralized logging.
+[00:01:02 -> 00:01:06]  I like to keep my applications as simple as possible.
+[00:01:06 -> 00:01:09]  Applications should have very little knowledge about where the logs go.
+[00:01:09 -> 00:01:14]  If your company decides to use log system A, you don't want code about log system A
+[00:01:14 -> 00:01:16]  in every application that you build.
+[00:01:16 -> 00:01:20]  That means if your company wants to change from log system A to B, you have to rewrite
+[00:01:20 -> 00:01:22]  all your applications.
+[00:01:22 -> 00:01:27]  If log system A changes their API or SDK, you have to change all your applications.
+[00:01:27 -> 00:01:32]  To improve all of this, in Linux, processors write to standard out.
+[00:01:32 -> 00:01:35]  Standard out is the default file descriptor that processors can write to.
+[00:01:35 -> 00:01:39]  Instead of writing logs to a file, it goes to standard out.
+[00:01:39 -> 00:01:43]  This prevents the disk from getting full and provides simple standardized logic in our
+[00:01:43 -> 00:01:46]  apps to send logs to standard out.
+[00:01:46 -> 00:01:50]  When processors run in containers, the container runtime gathers all these standard out logs
+[00:01:50 -> 00:01:52]  and manages them for us.
+[00:01:52 -> 00:01:55]  The container runtime takes care of the lifecycle of these logs.
+[00:01:55 -> 00:01:57]  So let me demonstrate this.
+[00:01:57 -> 00:02:01]  If I run a container, let's say I say docker run redis and I run a redis container, look
+[00:02:01 -> 00:02:02]  what happens.
+[00:02:02 -> 00:02:06]  Now because I'm running the container with the minus IT flag, docker picks up all these
+[00:02:06 -> 00:02:09]  standard out logs and prints it to the terminal.
+[00:02:09 -> 00:02:12]  You can see all the redis logs are shown here.
+[00:02:12 -> 00:02:16]  If I open up another terminal and I say docker ps, you can see we have redis running.
+[00:02:16 -> 00:02:21]  I can go ahead and grab the container ID and I can say docker logs with the container ID
+[00:02:21 -> 00:02:23]  and I can get the same logs.
+[00:02:23 -> 00:02:28]  We can see the container runtime collects all the standard out logs for each container.
+[00:02:28 -> 00:02:31]  Now remember a container is just a process.
+[00:02:31 -> 00:02:36]  So if I ran redis on top of Linux without a container, I would see exactly the same
+[00:02:36 -> 00:02:37]  thing.
+[00:02:37 -> 00:02:41]  This is because if we look at the documentation, by default, docker logs shows the commands
+[00:02:41 -> 00:02:45]  output just as it would have appeared if the command ran interactively in the terminal.
+[00:02:45 -> 00:02:49]  So whether it's running in a container or not, it's going to behave the same.
+[00:02:49 -> 00:02:52]  Docker picks up all the logs from standard out and standard error.
+[00:02:52 -> 00:02:57]  So if docker is by default writing all the container logs to standard out, how do we
+[00:02:57 -> 00:02:58]  access those?
+[00:02:58 -> 00:03:03]  So if we take a look at the docker host and we ran docker system info, if we scroll down,
+[00:03:03 -> 00:03:07]  we can see that docker root directory is set to var lib docker.
+[00:03:07 -> 00:03:11]  This is the directory that docker stores all its data, including logs.
+[00:03:11 -> 00:03:16]  So if I say docker ps and I grab the ID of the redis container and then let's try to
+[00:03:16 -> 00:03:22]  access that docker directory by running a container and mounting var lib docker into
+[00:03:22 -> 00:03:23]  the container.
+[00:03:23 -> 00:03:27]  So if I go ahead and run that and I say Alice var lib docker, we can see that we have all
+[00:03:27 -> 00:03:30]  of these folders inside of that directory.
+[00:03:30 -> 00:03:34]  And if I say Alice on the var lib docker containers directory, you can see we have all these container
+[00:03:34 -> 00:03:35]  IDs.
+[00:03:35 -> 00:03:40]  And if we say Alice on the var lib docker containers directory, and we use the folder
+[00:03:40 -> 00:03:45]  of that container ID of redis, you can see we have all this data inside of that folder.
+[00:03:45 -> 00:03:49]  And interestingly, we can see that there's a big text file, which starts with the container
+[00:03:49 -> 00:03:52]  ID dash Jason dot log.
+[00:03:52 -> 00:03:57]  So if I take that file, if I say cat var lib docker containers, that folder and that file,
+[00:03:57 -> 00:04:00]  we can see it'll just print out the docker logs.
+[00:04:00 -> 00:04:05]  So the standard out logs of redis is being stored on the container host in that directory.
+[00:04:05 -> 00:04:09]  Now internally, docker writes its logs in Jason format.
+[00:04:09 -> 00:04:12]  And we can confirm this by saying docker system info.
+[00:04:12 -> 00:04:15]  And if we take a look at the logging driver, we can see it's Jason file.
+[00:04:15 -> 00:04:19]  Now it is possible to configure docker and change the default logging driver.
+[00:04:19 -> 00:04:25]  So we can tell docker to write logs to a file to an external system or a database.
+[00:04:25 -> 00:04:29]  But I would always recommend to probably keep the default setting and not have to poke the
+[00:04:29 -> 00:04:30]  docker host.
+[00:04:30 -> 00:04:34]  If you're running in a system like Kubernetes, you would prefer the docker host to have its
+[00:04:34 -> 00:04:35]  default setting.
+[00:04:35 -> 00:04:37]  Now, ideally, we'd like to keep things very simple.
+[00:04:37 -> 00:04:42]  So docker can just write to Jason file and take care of rotating the logs and maintaining
+[00:04:42 -> 00:04:43]  the file system.
+[00:04:43 -> 00:04:47]  And remember, if you run a system like Kubernetes, we're going to have many docker hosts.
+[00:04:47 -> 00:04:50]  So we don't want to have to go ahead and configure that.
+[00:04:50 -> 00:04:53]  And remember, if you're running a container orchestrator like Kubernetes, you're probably
+[00:04:53 -> 00:04:59]  not going to want to interfere with the default settings of the docker hosts.
+[00:04:59 -> 00:05:03]  So I mentioned that we should keep our application simple by just writing logs to standard out.
+[00:05:03 -> 00:05:07]  I also mentioned that we should keep our docker host simple by keeping the default
+[00:05:07 -> 00:05:10]  setting and just pick up the logs from standard out.
+[00:05:10 -> 00:05:15]  This makes a great and effective standard for standardized logging, which is very simple.
+[00:05:15 -> 00:05:20]  But what if we ran many containers on many hosts like in a system like Kubernetes?
+[00:05:20 -> 00:05:24]  How can we consume and bring all these logs to a central place to achieve centralized
+[00:05:24 -> 00:05:26]  logging?
+[00:05:26 -> 00:05:31]  Centralized logging is all about being able to grab the logs easily from all over a distributed
+[00:05:31 -> 00:05:36]  system and bring it together to a single place where it can be analyzed.
+[00:05:36 -> 00:05:40]  With apps writing to standard out and docker reading standard out, we can configure software
+[00:05:40 -> 00:05:46]  like Fluentd to collect logs from the container host and ship it out before the host cleans
+[00:05:46 -> 00:05:47]  it up.
+[00:05:47 -> 00:05:49]  Fluentd can mount the host system folder.
+[00:05:49 -> 00:05:52]  It can read logs and send it to external systems.
+[00:05:52 -> 00:05:56]  It has a plugin system so you can send logs almost anywhere.
+[00:05:56 -> 00:06:00]  So to showcase centralized logging, I have a GitHub repo and everything I've been doing
+[00:06:00 -> 00:06:03]  in the series is in the monitoring logging folder.
+[00:06:03 -> 00:06:07]  And for this introduction, I have a Fluentd folder and inside there I have a basic demo.
+[00:06:07 -> 00:06:12]  Now in the basic demo, I have a simple docker compose file, which is basically going to
+[00:06:12 -> 00:06:13]  run Fluentd.
+[00:06:13 -> 00:06:18]  If I change my directory to this folder, I can say docker compose up and it will start
+[00:06:18 -> 00:06:19]  Fluentd.
+[00:06:19 -> 00:06:23]  Now what I'm doing in this docker compose is I created a volume and I'm mounting the
+[00:06:23 -> 00:06:29]  docker host var lib docker containers into a directory inside the Fluentd container.
+[00:06:29 -> 00:06:35]  I am also mounting a very simple Fluentd configuration file telling Fluentd how to collect logs.
+[00:06:35 -> 00:06:38]  If we take a look at this configuration, it's very simple.
+[00:06:38 -> 00:06:43]  We're just providing a source of where to gather logs from and where to output the logs.
+[00:06:43 -> 00:06:47]  So you can see here we're giving it the path to the containers folder that I showed you
+[00:06:47 -> 00:06:52]  earlier and we're telling it to pick up anything with the container ID dash json dot log.
+[00:06:52 -> 00:06:56]  So Fluentd will pick up all the logs from the docker containers on this host and then
+[00:06:56 -> 00:07:01]  we have a simple output of writing it to an output folder and I've mounted the folder
+[00:07:01 -> 00:07:04]  here so we can see the logs being collected by Fluentd.
+[00:07:04 -> 00:07:09]  So this is a very simple log that for demo purposes shows us how to collect all the container
+[00:07:09 -> 00:07:12]  logs on the system and send it to Fluentd.
+[00:07:12 -> 00:07:17]  So Fluentd will monitor the docker host on var lib docker and pick up any container logs
+[00:07:17 -> 00:07:19]  that any container writes.
+[00:07:19 -> 00:07:23]  And for demo purpose, it'll just dump it all to a file that we can see here.
+[00:07:23 -> 00:07:28]  So while Fluentd is running, let's go ahead and open up another terminal and start a Redis
+[00:07:28 -> 00:07:29]  container.
+[00:07:29 -> 00:07:33]  And if I run that, we can see the logs are writing to standard out as it usually would.
+[00:07:33 -> 00:07:37]  And if you give it some time, you can see in our logs folder here, Fluentd has started
+[00:07:37 -> 00:07:41]  to collect all the logs and starting to write it out to the file system here.
+[00:07:41 -> 00:07:45]  And if we give it some time, we can see eventually the buffer starts filling up and Fluentd starts
+[00:07:45 -> 00:07:47]  writing the logs to the buffers.
+[00:07:47 -> 00:07:51]  You can see here it's collected all the Redis logs in JSON format.
+[00:07:51 -> 00:07:56]  So this is a very simple demonstration of standardized and centralized logging and why
+[00:07:56 -> 00:08:01]  it's important in container environments before you start taking a look at Kubernetes.
+[00:08:01 -> 00:08:05]  And if you like this video, be sure to give it a thumbs up because in the next video I'll
+[00:08:05 -> 00:08:09]  be taking a look at a deep dive into the logging ecosystem.
+[00:08:09 -> 00:08:14]  We'll be taking a much deeper look at Fluentd, the ELK stack and the EFK stack.
+[00:08:14 -> 00:08:18]  We're going to take a look at how to set all of this stuff up locally, understand the fundamental
+[00:08:18 -> 00:08:22]  concepts, and then finally run it all on top of Kubernetes.
+[00:08:22 -> 00:08:26]  So also remember to check out the links down below to the community page.
+[00:08:26 -> 00:08:29]  And if you want to support the channel further, be sure to click the join button below and
+[00:08:29 -> 00:08:33]  become a member to gain extra perks on the community server.
+[00:08:33 -> 00:08:35]  And as always, thanks for watching.
+[00:08:35 -> 00:08:38]  And until next time, peace.
+[00:08:48 -> 00:08:50]  Transcribed by https://otter.ai

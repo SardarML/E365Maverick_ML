@@ -1,0 +1,147 @@
+[00:00:00 -> 00:00:04]  Hallo ihr Lieben, in diesem Video möchte ich zusammen mit euch ein paar Zahlenrätsel
+[00:00:04 -> 00:00:08]  durchgehen, die man mithilfe eines Gleichungssystems lösen soll.
+[00:00:08 -> 00:00:14]  Einmal haben wir diese Aufgabe, dann schauen wir uns noch dieses Beispiel an und dann noch
+[00:00:14 -> 00:00:15]  das dritte.
+[00:00:15 -> 00:00:18]  Und dann hoffe ich, dass da einiges für euch dabei ist.
+[00:00:18 -> 00:00:26]  Schauen wir mal, die Summe zweier Zahlen ist 20, das Doppelte der ersten Zahl ist gleich
+[00:00:26 -> 00:00:33]  dem Dreifachen der zweiten Zahl, okay, kann sein, keine Ahnung, gehen wir Schritt für
+[00:00:33 -> 00:00:34]  Schritt vor.
+[00:00:34 -> 00:00:40]  Die Summe zweier Zahlen, die Summe steht ja immer für ein Plus, das heißt, wir sollen
+[00:00:40 -> 00:00:46]  zwei Zahlen zusammenrechnen und da soll 20 rauskommen.
+[00:00:46 -> 00:00:50]  Diese zwei Zahlen sind natürlich unbekannt, denn das gehört ja zur Aufgabe, dass wir
+[00:00:50 -> 00:00:55]  die rausfinden, also geben wir denen erstmal einen Namen, ich nenne sie x und y, ihr könnt
+[00:00:55 -> 00:00:57]  sie natürlich nennen, wie ihr wollt.
+[00:00:57 -> 00:01:05]  Und die Summe von diesen beiden Zahlen, also x plus y, soll jetzt eben 20 sein, das sagt
+[00:01:05 -> 00:01:07]  uns der erste Satz.
+[00:01:07 -> 00:01:10]  Aus einem Satz bekommen wir eine Gleichung.
+[00:01:10 -> 00:01:16]  Jetzt suchen wir noch eine zweite Gleichung, denn wir haben ja zwei Unbekannte, x und y
+[00:01:16 -> 00:01:19]  und da reicht eine Gleichung eben nicht aus.
+[00:01:20 -> 00:01:22]  Dafür haben wir ja noch den zweiten Satz.
+[00:01:22 -> 00:01:29]  Das Doppelte der ersten Zahl ist gleich dem Dreifachen der zweiten Zahl.
+[00:01:29 -> 00:01:34]  Also, wenn wir eins schon mal rausnehmen können, dann ist dieses ist gleich, das ist schon
+[00:01:34 -> 00:01:41]  mal unser ist gleich, also auf der einen Seite steht der erste Teil des Satzes, ist gleich,
+[00:01:41 -> 00:01:45]  also das Gleichheitszeichen, dem zweiten Teil des Satzes.
+[00:01:45 -> 00:01:47]  Was steht jetzt links also auf der Seite?
+[00:01:47 -> 00:01:50]  Das Doppelte der ersten Zahl.
+[00:01:50 -> 00:01:56]  Unsere erste Zahl heißt ja x, also wer ist jetzt die erste oder die zweite Zahl, es ist
+[00:01:56 -> 00:02:01]  auch völlig egal, ihr könnt es dann festlegen, also wir nennen jetzt die erste Zahl x.
+[00:02:01 -> 00:02:08]  Das heißt, das Doppelte der ersten Zahl, also das Doppelte ist immer zweimal diese
+[00:02:08 -> 00:02:16]  Zahl, also zweimal diese Zahl, um die es hier geht, nämlich unser x, soll gleich dem Dreifachen
+[00:02:16 -> 00:02:17]  der zweiten Zahl sein.
+[00:02:17 -> 00:02:25]  Unsere zweite Zahl ist unser y und das Dreifache von y ist eben dreimal y.
+[00:02:25 -> 00:02:33]  Und jetzt haben wir zwei Gleichungen und zwei Unbekannte und wir lösen dieses Gleichungssystem.
+[00:02:33 -> 00:02:38]  Also ganz am Anfang müsst ihr erst mal aus dem Text alles rauslesen, was ihr finden könnt
+[00:02:38 -> 00:02:44]  und daraus Gleichungen machen, zwei Stück braucht ihr, wenn ihr zwei unbekannte Zahlen
+[00:02:44 -> 00:02:45]  finden sollt.
+[00:02:46 -> 00:02:52]  Und jetzt lösen wir dieses Gleichungssystem, dazu schnappt ihr euch eine Gleichung und
+[00:02:52 -> 00:02:54]  löst die nach einer Unbekannten auf.
+[00:02:54 -> 00:03:01]  Jetzt nehme ich mir einfach mal die zweite Gleichung, weil da steht schon fast x gleich
+[00:03:01 -> 00:03:06]  irgendwas und ich muss nur noch die zwei hier vorne loswerden, dann steht das x hier schon
+[00:03:06 -> 00:03:07]  alleine.
+[00:03:07 -> 00:03:11]  Ihr könnt es auch mit der ersten Gleichung machen und hier minus y rechnen, macht das
+[00:03:11 -> 00:03:17]  wirklich wie ihr wollt, wenn ihr keine Rechenfehler macht, ist es total egal, welche Gleichung
+[00:03:17 -> 00:03:21]  ihr am Anfang nehmt, ihr kommt immer auf das richtige Ergebnis dann.
+[00:03:21 -> 00:03:27]  Aber ich nehme jetzt mal hier die und teile die noch durch zwei, damit das x auch tatsächlich
+[00:03:27 -> 00:03:28]  alleine steht.
+[00:03:28 -> 00:03:32]  In der ersten Gleichung habe ich ja gar nichts verändert, deswegen schreibe ich die einfach
+[00:03:32 -> 00:03:38]  noch mal da oben hin und in der zweiten, die muss ich jetzt durch zwei teilen, das heißt
+[00:03:38 -> 00:03:43]  auf der linken Seite steht das x alleine, das ist ja genau das, was ich wollte und auch
+[00:03:43 -> 00:03:50]  hier dieses 3y muss ich durch zwei teilen, also 3 durch 2 sind ja 1,5 und das y muss
+[00:03:50 -> 00:03:51]  da natürlich noch hin.
+[00:03:51 -> 00:04:02]  Und jetzt habe ich es geschafft, dass mein x alleine steht und dieses x, also diese 1,5y
+[00:04:02 -> 00:04:08]  ist ja einfach nur eine andere Darstellung für mein x, das heißt dieses x könnte ich
+[00:04:08 -> 00:04:14]  jetzt hier oben in der anderen Gleichung, die ich nicht benutzt habe, da ersetze ich
+[00:04:14 -> 00:04:17]  das x mit dem, was ich gefunden habe.
+[00:04:17 -> 00:04:23]  Wenn wir das also machen, steht dann nicht mehr x plus y, sondern für das x setze ich
+[00:04:23 -> 00:04:30]  1,5y ein, also ich setze jetzt die zweite Gleichung in die erste ein.
+[00:04:30 -> 00:04:37]  Für das x schreibe ich wie gesagt 1,5y, dann den Rest, wenn da kein x mehr vorkommt, schreibe
+[00:04:37 -> 00:04:41]  ich den genauso ab, wie es da vorher stand, da darf ich natürlich nichts ändern.
+[00:04:41 -> 00:04:48]  Und jetzt habe ich eine Gleichung nur noch mit y und die kann ich nach y auflösen.
+[00:04:48 -> 00:04:58]  Auf der linken Seite, die beiden fassen wir erstmal zusammen, 1,5y plus 1y sind ja 2,5y,
+[00:04:58 -> 00:05:03]  auf der rechten Seite steht noch 20 und damit das y jetzt alleine steht, muss ich noch durch
+[00:05:03 -> 00:05:04]  2,5 teilen.
+[00:05:04 -> 00:05:09]  Und wenn ihr das macht, habt ihr hoffentlich einen Taschenrechner, mit dem ihr das machen
+[00:05:09 -> 00:05:12]  könnt und da kommt y gleich 8 raus.
+[00:05:12 -> 00:05:18]  Jetzt kenne ich, das ist jetzt schon die Lösung für eine Zahl, also die eine Zahl davon wird
+[00:05:18 -> 00:05:23]  auf jeden Fall 8 heißen und die zweite Zahl, mein x, muss ich noch rausbekommen, da könnt
+[00:05:23 -> 00:05:27]  ihr euch jetzt einfach eine von diesen Gleichungen schnappen, in dem x vorkommt.
+[00:05:27 -> 00:05:33]  Ich nehme mir die hier, weil da schon nach x aufgelöst ist, also dann müsst ihr nicht
+[00:05:33 -> 00:05:41]  mehr so viel arbeiten, da steht dann schon x gleich 1,5 mal y und für das y setzt ihr
+[00:05:41 -> 00:05:44]  natürlich schon euer Ergebnis ein, was ihr rausgefunden habt, nämlich die 8.
+[00:05:44 -> 00:05:48]  Und wenn ihr das dann ausrechnet, bekommt ihr x gleich 12.
+[00:05:48 -> 00:05:52]  Und das sind eure beiden Zahlen, die hier gesucht waren.
+[00:05:52 -> 00:05:55]  Schauen wir uns also jetzt mal das zweite Beispiel an.
+[00:05:55 -> 00:06:01]  Ich werde jetzt hier nur noch die Gleichungssysteme aufstellen und ihr löst dann den Rest.
+[00:06:01 -> 00:06:02]  Hoffentlich.
+[00:06:02 -> 00:06:04]  Was haben wir hier?
+[00:06:04 -> 00:06:07]  Die Differenz zweier Zahlen ist 68.
+[00:06:07 -> 00:06:14]  Differenz steht ja für Minus und zwei Zahlen, die ich noch nicht kenne, benenne ich wieder
+[00:06:14 -> 00:06:16]  mit x und y.
+[00:06:16 -> 00:06:23]  Und Differenz von zwei Zahlen, das heißt x minus y, muss ich bilden und da soll dann
+[00:06:23 -> 00:06:24]  68 rauskommen.
+[00:06:24 -> 00:06:28]  Das ist meine erste Gleichung aus meinem ersten Satz.
+[00:06:28 -> 00:06:35]  Der zweite Satz heißt, die kleinere Zahl ist der fünfte Teil der größeren Zahl.
+[00:06:35 -> 00:06:39]  Jetzt muss ich erst mal rausfinden, was von den beiden überhaupt die kleinere und die
+[00:06:39 -> 00:06:43]  größere Zahl ist, aber das sieht man hier bei der Differenz ganz gut.
+[00:06:43 -> 00:06:50]  Ihr zieht natürlich von einer großen Zahl etwas kleineres ab, wenn ihr dann bei 68 landet.
+[00:06:50 -> 00:06:58]  Also ist x eure größere Zahl und euer y ist die kleinere Zahl, weil ihr von etwas
+[00:06:58 -> 00:07:00]  Großem etwas Kleines abzieht.
+[00:07:00 -> 00:07:05]  So, der Satz sagt jetzt, die kleinere Zahl ist bla bla bla.
+[00:07:05 -> 00:07:13]  Das heißt, unser y ist, da kommt dann so ein ist gleich hin, der fünfte Teil von x.
+[00:07:13 -> 00:07:19]  Der fünfte Teil, so ein Teil steht immer für einen Bruch und der fünfte Teil steht
+[00:07:19 -> 00:07:22]  dann für ein Fünftel.
+[00:07:22 -> 00:07:27]  Der zwanzigste Teil würde für ein Zwanzigstel stehen, also das ist immer dieser Bruch und
+[00:07:27 -> 00:07:31]  der wird dann multipliziert mit der Zahl, um die es eigentlich ging, nämlich es soll
+[00:07:31 -> 00:07:38]  ja der fünfte Teil von unserer größeren Zahl x sein, also ein Fünftel mal x.
+[00:07:38 -> 00:07:43]  Und das ist jetzt unser Gleichungssystem für dieses Rätsel.
+[00:07:44 -> 00:07:47]  Das Schwierige ist immer das Aufstellen des Gleichungssystems.
+[00:07:47 -> 00:07:49]  Ich glaube, das Lösen bekommt ihr dann ganz gut hin.
+[00:07:49 -> 00:07:50]  Testet das mal.
+[00:07:50 -> 00:07:55]  Hier sieht es jetzt schon ganz gut aus, weil schaut mal hier, das ist schon nach y aufgelöst.
+[00:07:55 -> 00:08:03]  Ihr müsst jetzt nur noch dieses y da oben in dem Teil ersetzen und dann diese Gleichung
+[00:08:03 -> 00:08:05]  hier nach x auflösen.
+[00:08:05 -> 00:08:07]  Probiert es mal aus und schreibt in die Kommentare, was ihr rausbekommt.
+[00:08:09 -> 00:08:12]  Und wir schauen uns noch das letzte Beispiel an, das ich für euch habe.
+[00:08:12 -> 00:08:19]  Der Quotient zweier Zahlen, Quotient steht ja immer für durch, zweier Zahlen ist wieder
+[00:08:19 -> 00:08:20]  unser x und y.
+[00:08:20 -> 00:08:23]  So, der Quotient zweier Zahlen ist drei.
+[00:08:23 -> 00:08:24]  Punkt.
+[00:08:24 -> 00:08:26]  Das ist ein Satz.
+[00:08:26 -> 00:08:30]  Quotient haben wir gesagt, steht für durch von zwei Zahlen.
+[00:08:30 -> 00:08:37]  Das heißt, wir müssen eine Zahl durch eine andere Zahl teilen und da soll drei rauskommen.
+[00:08:38 -> 00:08:39]  Das sagt der erste Satz.
+[00:08:39 -> 00:08:41]  Jetzt geht es weiter.
+[00:08:41 -> 00:08:49]  Subtrahiert man von jeder Zahl neun, so ist der neu entstandene Quotient fünf.
+[00:08:49 -> 00:08:59]  Also, vielleicht starten wir erst mal bei gleich fünf, denn unser Ergebnis, unser Quotient
+[00:08:59 -> 00:09:02]  von unserer Durchaufgabe soll fünf sein.
+[00:09:02 -> 00:09:04]  Das können wir schon mal festhalten.
+[00:09:05 -> 00:09:09]  Jetzt müssen wir mal gucken, was wir durcheinander teilen sollen.
+[00:09:09 -> 00:09:12]  Subtrahiert ist ja Minus.
+[00:09:12 -> 00:09:16]  Subtrahiert man von jeder Zahl neun.
+[00:09:16 -> 00:09:24]  Also, ich soll jetzt von meiner einen Zahl neun abziehen, also x minus neun bilden und
+[00:09:24 -> 00:09:31]  ich soll von meiner anderen Zahl, also von dem y, auch neun abziehen und wenn ich die
+[00:09:31 -> 00:09:38]  dann durcheinander teile, also einen Bruch mache, dann kommt fünf raus.
+[00:09:38 -> 00:09:45]  Das ist das, was der zweite Satz will und jetzt ist das hier mein Gleichungssystem und
+[00:09:45 -> 00:09:47]  das sieht schon ordentlich aus.
+[00:09:47 -> 00:09:51]  Ich gehe kurz ein bisschen mit euch durch, wie ihr das ein bisschen vereinfachen könnt,
+[00:09:51 -> 00:09:52]  bevor ihr hier verzweifelt.
+[00:09:52 -> 00:09:57]  Hier oben können wir mal y rechnen.
+[00:09:57 -> 00:10:02]  Dann ist das hier eigentlich schon relativ einfach geklärt, weil dann hüpft das y auf
+[00:10:02 -> 00:10:06]  die andere Seite und da steht nur noch x gleich drei y.
+[00:10:06 -> 00:10:09]  Also die erste Gleichung ist eigentlich ganz okay.
+[00:10:09 -> 00:10:14]  Also immer, wenn ihr da unten was rausbekommen wollt, müsst ihr damit multiplizieren.
+[00:10:14 -> 00:10:18]  Und genau dasselbe passiert nämlich bei der zweiten Gleichung.
+[00:10:18 -> 00:10:24]  Wir wollen dieses y minus neun hier unten weg haben, weil das stört wirklich sehr und
+[00:10:24 -> 00:10:29]  deswegen müssen wir mit dem kompletten y minus neun schön in einer Klammer einmal komplett
+[00:10:29 -> 00:10:30]  multiplizieren.
+[00:10:30 -> 00:10:38]  Wenn ihr das macht, dann passiert folgendes, das y minus neun fällt hier unten weg, weil
+[00:10:38 -> 00:10:40]  ihr wolltet es ja auf die andere Seite haben.
+[00:10:40 -> 00:10:45]  Da steht dann nur noch x minus neun und auf der anderen Seite müssen wir mit dem y minus
+[00:10:45 -> 00:10:50]  neun multiplizieren, also fünf mal und dann schön in Klammern, damit ihr da nichts falsch
+[00:10:50 -> 00:10:53]  macht, die y minus neun.
+[00:10:53 -> 00:10:58]  Und ich glaube, jetzt sieht das Ganze schon viel besser aus für euch und ihr könnt dieses
+[00:10:58 -> 00:11:00]  Gleichungssystem dann lösen.
+[00:11:00 -> 00:11:05]  Passt auf hier beim Klammer auflösen, dass ihr schön die fünf mit allem da drin multipliziert.
+[00:11:05 -> 00:11:09]  Probiert es mal aus, meldet euch in den Kommentaren und falls ihr sonst noch Fragen zu euren Aufgaben
+[00:11:09 -> 00:11:11]  habt, dürft ihr euch natürlich auch melden.
+[00:11:11 -> 00:11:12]  Bis zum nächsten Mal. Macht's gut.

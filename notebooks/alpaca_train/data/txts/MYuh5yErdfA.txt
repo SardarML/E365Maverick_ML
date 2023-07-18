@@ -1,0 +1,405 @@
+[00:00:00 -> 00:00:02]  Hello. Welcome to the Penguin Prof Channel.
+[00:00:02 -> 00:00:06]  Today I want to get started on a chemistry concept series
+[00:00:06 -> 00:00:07]  by popular demand.
+[00:00:07 -> 00:00:10]  We're going to be talking about elements, atoms,
+[00:00:10 -> 00:00:12]  really why it's all about the electrons,
+[00:00:13 -> 00:00:15]  and some Lewis dot structures,
+[00:00:15 -> 00:00:17]  which in my opinion may be the key to happiness.
+[00:00:18 -> 00:00:20]  When we get started here, we're really talking
+[00:00:20 -> 00:00:22]  about what stuff is made of.
+[00:00:23 -> 00:00:25]  And stuff is made of matter.
+[00:00:25 -> 00:00:28]  From here you can really kind of go off a cliff in terms
+[00:00:28 -> 00:00:30]  of how far you want to go into this.
+[00:00:30 -> 00:00:32]  This is really the realm of physics.
+[00:00:32 -> 00:00:34]  So I just want to say from the outset
+[00:00:34 -> 00:00:37]  that this is a highly abbreviated version
+[00:00:37 -> 00:00:41]  of an understanding of what the stuff is in the universe.
+[00:00:41 -> 00:00:43]  Matter is made of elements.
+[00:00:44 -> 00:00:46]  Elements are pure chemical substances
+[00:00:46 -> 00:00:49]  that you can't break down into anything else.
+[00:00:49 -> 00:00:51]  Now, we organize elements
+[00:00:51 -> 00:00:54]  in this amazing table called the periodic table of the elements.
+[00:00:55 -> 00:00:58]  It's really amazingly organized, and I'm just going to say it.
+[00:00:58 -> 00:00:59]  It's beautiful.
+[00:00:59 -> 00:01:02]  Okay, how much of a geek am I to say that?
+[00:01:02 -> 00:01:05]  But it really is, because if you understand how this table is
+[00:01:05 -> 00:01:07]  organized, this is tremendously powerful.
+[00:01:07 -> 00:01:09]  Notice I didn't say if you memorize it.
+[00:01:10 -> 00:01:12]  I do not have my students memorize any part
+[00:01:12 -> 00:01:13]  of this table.
+[00:01:13 -> 00:01:14]  That's what it's there for.
+[00:01:14 -> 00:01:15]  That's why you can look it up.
+[00:01:16 -> 00:01:19]  But you have to understand how to use it and what it means.
+[00:01:20 -> 00:01:23]  In terms of elements in the universe, the vast majority
+[00:01:23 -> 00:01:27]  of them are the two smallest elements, hydrogen and helium.
+[00:01:28 -> 00:01:31]  On our planet, in the Earth's crust, by weight,
+[00:01:31 -> 00:01:33]  we've got oxygen, silicon, and aluminum.
+[00:01:33 -> 00:01:36]  If you take the Earth as a whole, not just the crust,
+[00:01:36 -> 00:01:39]  by weight, the most abundant element is iron.
+[00:01:40 -> 00:01:44]  In terms of biology, only 25 elements are essential for life.
+[00:01:44 -> 00:01:49]  And of those 25, only four make up the vast majority
+[00:01:49 -> 00:01:51]  of most living things, including penguins.
+[00:01:52 -> 00:01:54]  So if you're wondering, well, what are we made of,
+[00:01:54 -> 00:01:56]  you'll be thrilled to know that you can actually buy a shirt
+[00:01:57 -> 00:01:59]  with human ingredients on it.
+[00:01:59 -> 00:02:00]  Oh, my gosh.
+[00:02:00 -> 00:02:01]  I love these geeky GIFs.
+[00:02:01 -> 00:02:03]  I don't know what that barcode is at the bottom.
+[00:02:04 -> 00:02:06]  But anyway, so here's a nicer view,
+[00:02:06 -> 00:02:08]  a table of the elements of the human body.
+[00:02:08 -> 00:02:13]  And again, you can see that over 96% of humans are made
+[00:02:13 -> 00:02:17]  of oxygen, carbon, hydrogen, and nitrogen.
+[00:02:18 -> 00:02:19]  So if you go back to the periodic table,
+[00:02:19 -> 00:02:22]  and it is kind of overwhelming, I admit, but you remove all
+[00:02:22 -> 00:02:24]  of the elements that are not found in humans,
+[00:02:25 -> 00:02:26]  it's really not too bad at all.
+[00:02:26 -> 00:02:28]  This looks somewhat manageable, right?
+[00:02:29 -> 00:02:31]  Understanding the periodic table also allows you
+[00:02:31 -> 00:02:36]  to understand all these stupid, geeky GIFs like this bacon shirt,
+[00:02:36 -> 00:02:38]  which I just, I don't know, I was just in a weird mood.
+[00:02:39 -> 00:02:43]  Okay, so the smallest unit of an element which retains all
+[00:02:43 -> 00:02:46]  of the properties of that element is called an atom.
+[00:02:46 -> 00:02:48]  That word comes from the Greek,
+[00:02:48 -> 00:02:51]  a term which means not to be divisible,
+[00:02:51 -> 00:02:54]  meaning you can't cut it up into smaller pieces
+[00:02:54 -> 00:02:56]  and still retain the properties of the element.
+[00:02:57 -> 00:02:59]  We can actually see atoms today.
+[00:02:59 -> 00:03:02]  This is a really cool transmission electron
+[00:03:02 -> 00:03:05]  micrograph done by the physicists at UC Berkeley.
+[00:03:05 -> 00:03:06]  The red arrows are hydrogen,
+[00:03:06 -> 00:03:08]  that black arrow is a carbon atom shown
+[00:03:08 -> 00:03:11]  on the surface of graphene.
+[00:03:11 -> 00:03:14]  Now in your textbook, you will see atoms drawn like this.
+[00:03:15 -> 00:03:18]  Electron clouds, the shell or Bohr model,
+[00:03:18 -> 00:03:22]  and I got to be honest with you, this is just not true.
+[00:03:23 -> 00:03:25]  Atoms do not look like this.
+[00:03:25 -> 00:03:28]  We use these drawings because they represent sort
+[00:03:28 -> 00:03:30]  of an easier way for us to talk about them,
+[00:03:30 -> 00:03:32]  but this is not what atoms really look like.
+[00:03:33 -> 00:03:36]  Atoms are really hard for us to wrap our brains
+[00:03:36 -> 00:03:39]  around because they are unbelievably small.
+[00:03:39 -> 00:03:40]  That black bar right here
+[00:03:40 -> 00:03:42]  at the bottom represents one angstrom
+[00:03:43 -> 00:03:45]  or 100,000 femtometers.
+[00:03:45 -> 00:03:50]  So an angstrom is 10 to the minus 10th meter,
+[00:03:50 -> 00:03:54]  and the vast majority of the atom is actually empty space.
+[00:03:54 -> 00:03:58]  So over 99% of the mass of the atom is concentrated
+[00:03:58 -> 00:04:02]  at the center in the nucleus, and the rest of it,
+[00:04:02 -> 00:04:04]  where the electrons are, the orbitals,
+[00:04:04 -> 00:04:10]  are just hugely spread out, and it is really difficult for us
+[00:04:10 -> 00:04:13]  to really draw and think about what atoms really look like.
+[00:04:13 -> 00:04:16]  So I have a couple of analogies for you, of course.
+[00:04:16 -> 00:04:18]  One is an analogy of scale,
+[00:04:18 -> 00:04:22]  and this is a soccer field, and if you take the nucleus
+[00:04:22 -> 00:04:25]  to be the size of the soccer ball,
+[00:04:25 -> 00:04:30]  then an electron could be a fly buzzing around the spectators,
+[00:04:30 -> 00:04:34]  and most of the stadium represents the space
+[00:04:34 -> 00:04:36]  between the atomic nucleus and the electron.
+[00:04:36 -> 00:04:39]  So most of the atom is empty space.
+[00:04:39 -> 00:04:42]  Now, this analogy is not really accurate either
+[00:04:42 -> 00:04:46]  because it shows the electron as a particle, as a fly,
+[00:04:47 -> 00:04:49]  and actually, that's not true.
+[00:04:49 -> 00:04:52]  One of the best analogies that a chemist gave me
+[00:04:52 -> 00:04:55]  for this is with cotton candy, and he said,
+[00:04:55 -> 00:04:56]  okay, where's the sugar?
+[00:04:58 -> 00:05:00]  Well, the sugar is kind of everywhere.
+[00:05:00 -> 00:05:02]  I mean, the whole cotton candy is made of sugar.
+[00:05:02 -> 00:05:05]  That's kind of the same idea with these electrons.
+[00:05:05 -> 00:05:09]  So the orbital itself really is the electron,
+[00:05:09 -> 00:05:12]  but that's really hard to draw and describe.
+[00:05:12 -> 00:05:16]  So what I always say is, you know, strive for understanding,
+[00:05:16 -> 00:05:20]  strive for the real truth, but we, like all of your textbooks
+[00:05:20 -> 00:05:22]  and basically everybody else, we're going
+[00:05:22 -> 00:05:24]  to use these models and drawings.
+[00:05:24 -> 00:05:27]  We're going to draw the little electron as like a ball
+[00:05:27 -> 00:05:30]  or a bead so that we can keep track of everything, okay,
+[00:05:30 -> 00:05:33]  but realize that that's not really the truth.
+[00:05:34 -> 00:05:37]  So getting back to the atoms and the periodic table,
+[00:05:37 -> 00:05:39]  there's a couple of numbers that we need
+[00:05:39 -> 00:05:40]  to concern ourselves with.
+[00:05:41 -> 00:05:44]  One is the atomic number, and that's just the number
+[00:05:44 -> 00:05:46]  of protons that an element has,
+[00:05:46 -> 00:05:48]  and I'm picking carbon here as an example.
+[00:05:48 -> 00:05:50]  The atomic number for carbon is six.
+[00:05:50 -> 00:05:54]  What that means is that carbon has six protons.
+[00:05:54 -> 00:05:56]  That number does not change.
+[00:05:56 -> 00:05:58]  It's kind of like your calling card.
+[00:05:58 -> 00:06:02]  So if you add a proton to carbon, it's not carbon anymore.
+[00:06:02 -> 00:06:04]  So now your atomic number would be seven,
+[00:06:04 -> 00:06:05]  and now you're nitrogen.
+[00:06:06 -> 00:06:08]  So the atomic number does not change.
+[00:06:08 -> 00:06:12]  The mass number, or what we call the atomic weight,
+[00:06:12 -> 00:06:14]  that's the number of protons plus the number of neutrons.
+[00:06:15 -> 00:06:16]  The first thing that you notice is
+[00:06:16 -> 00:06:18]  that these numbers are decimals.
+[00:06:19 -> 00:06:23]  So maybe you're wondering, well, are there fractional protons
+[00:06:23 -> 00:06:25]  and fractional neutrons, and, you know, what's up with that?
+[00:06:26 -> 00:06:27]  Well, what we're really getting
+[00:06:27 -> 00:06:31]  at here is the mass number is actually an average.
+[00:06:31 -> 00:06:33]  So the number of protons does not change,
+[00:06:33 -> 00:06:36]  but the number of neutrons can change.
+[00:06:36 -> 00:06:39]  So if we look at carbon, carbon in the universe,
+[00:06:39 -> 00:06:42]  there are different numbers of neutrons in various carbon atoms
+[00:06:42 -> 00:06:43]  that you could find.
+[00:06:43 -> 00:06:44]  We call these isotopes.
+[00:06:45 -> 00:06:48]  Most carbons in the universe have six neutrons,
+[00:06:48 -> 00:06:50]  and of course the number of protons doesn't change.
+[00:06:50 -> 00:06:52]  So six plus six is 12.
+[00:06:52 -> 00:06:54]  So the vast majority of carbons
+[00:06:54 -> 00:06:57]  that you would find have the mass number of 12.
+[00:06:57 -> 00:06:58]  You will also find, though,
+[00:06:58 -> 00:07:01]  some carbon atoms with an extra neutron.
+[00:07:01 -> 00:07:03]  And if you add six plus seven,
+[00:07:03 -> 00:07:05]  that gives you the mass number of 13.
+[00:07:05 -> 00:07:08]  Some atoms have two extra neutrons,
+[00:07:08 -> 00:07:10]  two more than the normal number,
+[00:07:10 -> 00:07:13]  and the mass number here is 14.
+[00:07:13 -> 00:07:15]  This is probably the one that you're most familiar with.
+[00:07:16 -> 00:07:20]  Carbon-14 is what we use for dating, not dating,
+[00:07:20 -> 00:07:22]  will you go out with me, but dating, how old is that tree?
+[00:07:23 -> 00:07:27]  We use isotopes for all kinds of purposes, actually, in medicine
+[00:07:27 -> 00:07:29]  as well as radioactive dating,
+[00:07:30 -> 00:07:32]  because they decay at a constant rate.
+[00:07:33 -> 00:07:36]  So if you look at the decay rate of carbon-14,
+[00:07:36 -> 00:07:37]  this is what it means.
+[00:07:38 -> 00:07:39]  So we have time zero,
+[00:07:39 -> 00:07:42]  some amount of carbon-14 that's present.
+[00:07:43 -> 00:07:45]  After one half-life, which for carbon-14 is
+[00:07:45 -> 00:07:48]  about 5,000 years, after one half-life,
+[00:07:48 -> 00:07:51]  you have half that amount still remaining.
+[00:07:52 -> 00:07:55]  After two half-lives, you have half of that half,
+[00:07:55 -> 00:07:57]  and after three half-lives, you've got another half.
+[00:07:57 -> 00:08:00]  So it's not like after two half-lives, it's all gone.
+[00:08:00 -> 00:08:02]  That's a big misconception.
+[00:08:02 -> 00:08:06]  So what you should notice is this exponential rate of decay,
+[00:08:06 -> 00:08:08]  and this rate is constant.
+[00:08:08 -> 00:08:13]  So that's why we can use isotopes to date living tissue,
+[00:08:13 -> 00:08:15]  to date rocks, and things like that.
+[00:08:15 -> 00:08:16]  But enough about the nucleus.
+[00:08:16 -> 00:08:19]  Chemistry is really all about electrons.
+[00:08:19 -> 00:08:20]  So we're going to spend the rest
+[00:08:20 -> 00:08:23]  of this video talking about them.
+[00:08:23 -> 00:08:28]  Now, atoms like to be stable, and in order to become stable,
+[00:08:29 -> 00:08:31]  sometimes they have to play with other atoms.
+[00:08:31 -> 00:08:33]  In this way, they're kind of like people.
+[00:08:34 -> 00:08:35]  But you might ask the question,
+[00:08:35 -> 00:08:38]  does everybody need to play with others in order to be happy?
+[00:08:39 -> 00:08:41]  Humans are social creatures, so most of us do,
+[00:08:41 -> 00:08:44]  but there are actually individuals that don't.
+[00:08:44 -> 00:08:47]  And the same thing is true in the periodic table.
+[00:08:48 -> 00:08:50]  We have to the far right, the noble gases.
+[00:08:50 -> 00:08:53]  Noble gases, so named because, like nobility,
+[00:08:53 -> 00:08:55]  they do not mix with the commoners.
+[00:08:56 -> 00:08:59]  And in this video, we're going to explore why.
+[00:08:59 -> 00:09:01]  Why don't they form bonds with other atoms?
+[00:09:01 -> 00:09:04]  Everybody else on the table, they form bonds.
+[00:09:05 -> 00:09:06]  But not the noble gases.
+[00:09:07 -> 00:09:08]  You've got to understand the electrons
+[00:09:08 -> 00:09:10]  in order to understand why.
+[00:09:11 -> 00:09:15]  So, electrons fill around the nucleus from the inside out.
+[00:09:15 -> 00:09:17]  And what I mean by that is, as you look at different atoms,
+[00:09:17 -> 00:09:20]  and different atoms have different numbers of electrons,
+[00:09:20 -> 00:09:23]  they will fill around those nuclei from the inside out,
+[00:09:23 -> 00:09:26]  just like water fills in a glass.
+[00:09:27 -> 00:09:28]  When you fill a glass with water,
+[00:09:28 -> 00:09:29]  it fills from the bottom up.
+[00:09:30 -> 00:09:31]  Okay? You can't do it any other way.
+[00:09:31 -> 00:09:33]  If you can, I'd like to see that.
+[00:09:33 -> 00:09:36]  Shell number one is going to hold two electrons.
+[00:09:36 -> 00:09:39]  Shells two and three are going to hold eight.
+[00:09:40 -> 00:09:43]  Yes, for you chemists, I am oversimplifying this.
+[00:09:43 -> 00:09:45]  When you go on and take more general chemistry,
+[00:09:45 -> 00:09:47]  you will see that the electron configurations are a little more
+[00:09:47 -> 00:09:48]  complicated than that.
+[00:09:49 -> 00:09:51]  But for the purposes of general biology,
+[00:09:51 -> 00:09:53]  what I'm giving you should get you through most
+[00:09:53 -> 00:09:55]  of the problems that you're going to come in contact with.
+[00:09:55 -> 00:09:57]  I've just got to say, don't get your heart rates
+[00:09:57 -> 00:09:58]  up when you see stuff like this.
+[00:09:59 -> 00:10:02]  Even at first glance, you notice that there is a pattern.
+[00:10:02 -> 00:10:04]  So, they're really, this is manageable.
+[00:10:05 -> 00:10:07]  But we're not going to go into that in this video.
+[00:10:08 -> 00:10:10]  We're going to focus on happiness.
+[00:10:10 -> 00:10:13]  What you've got to remember is that atoms are happy
+[00:10:13 -> 00:10:16]  when their outer shell is full of electrons.
+[00:10:16 -> 00:10:18]  The outer shell turns out to be so important,
+[00:10:18 -> 00:10:19]  we actually give it a name.
+[00:10:19 -> 00:10:21]  We call it the valence shell.
+[00:10:21 -> 00:10:23]  So, we're going to talk about how they get
+[00:10:23 -> 00:10:25]  to be happy right now.
+[00:10:25 -> 00:10:27]  As we go through this, we're going to see
+[00:10:27 -> 00:10:30]  that carbon is not happy by itself,
+[00:10:30 -> 00:10:32]  whereas neon is.
+[00:10:32 -> 00:10:34]  We're going to see why.
+[00:10:35 -> 00:10:39]  My analogy for this is a stadium in the round.
+[00:10:39 -> 00:10:41]  So, a stadium with a stage inside
+[00:10:41 -> 00:10:42]  and spectators all the way around.
+[00:10:42 -> 00:10:45]  And of course, we're going to have penguins in there too.
+[00:10:46 -> 00:10:48]  So, we're going to have a rule and a goal.
+[00:10:49 -> 00:10:51]  The rule is we're going to sell tickets closest
+[00:10:51 -> 00:10:53]  to the stage first.
+[00:10:54 -> 00:10:56]  The goal is we want to make each shell
+[00:10:56 -> 00:10:59]  around the stage full of spectators.
+[00:11:00 -> 00:11:01]  Now, in our little theater,
+[00:11:01 -> 00:11:03]  it's going to be a very little theater.
+[00:11:03 -> 00:11:05]  The first shell is only going to have two seats in it.
+[00:11:06 -> 00:11:08]  The second shell is going to have eight seats,
+[00:11:08 -> 00:11:11]  and the third shell is also going to have eight seats.
+[00:11:12 -> 00:11:13]  So, just go with me on this, okay?
+[00:11:13 -> 00:11:15]  It's a small, intimate theater.
+[00:11:15 -> 00:11:16]  So, here are our seats.
+[00:11:16 -> 00:11:18]  We're going to look at different scenarios
+[00:11:18 -> 00:11:19]  and see what it looks like.
+[00:11:19 -> 00:11:20]  So, here's the first scenario.
+[00:11:20 -> 00:11:22]  We sell one ticket.
+[00:11:22 -> 00:11:25]  So, we're going to satisfy the rule that the tickets
+[00:11:25 -> 00:11:27]  that we sell are going to be closest to the stage.
+[00:11:28 -> 00:11:29]  The goal is not met, though.
+[00:11:29 -> 00:11:31]  So, that's not so happy.
+[00:11:31 -> 00:11:34]  We have one empty seat in the first ring,
+[00:11:34 -> 00:11:35]  and this is actually hydrogen.
+[00:11:37 -> 00:11:39]  Another scenario, we sell two tickets.
+[00:11:39 -> 00:11:42]  So, the rule is they're going to be the ones closest
+[00:11:42 -> 00:11:43]  to the stage, so that's all good,
+[00:11:43 -> 00:11:45]  and we actually met the goal.
+[00:11:45 -> 00:11:47]  The shell is full.
+[00:11:48 -> 00:11:50]  So, that's a really happy, stable scenario,
+[00:11:50 -> 00:11:52]  and this is actually the element helium.
+[00:11:54 -> 00:11:56]  What if we sell seven tickets?
+[00:11:56 -> 00:11:58]  So, notice the rule.
+[00:11:58 -> 00:12:00]  We're selling the tickets closest to the stage first,
+[00:12:01 -> 00:12:04]  but you notice now that we have three empty seats
+[00:12:04 -> 00:12:06]  in that second shell.
+[00:12:06 -> 00:12:07]  So, this is nitrogen.
+[00:12:07 -> 00:12:11]  This explains why nitrogen would want to form bonds to try
+[00:12:11 -> 00:12:13]  and fill those empty seats.
+[00:12:15 -> 00:12:16]  What if we sell 10 tickets, though?
+[00:12:16 -> 00:12:19]  Now, you notice that the first two shells are full.
+[00:12:20 -> 00:12:22]  This is a very stable configuration,
+[00:12:22 -> 00:12:25]  and this is actually the noble gas, neon.
+[00:12:27 -> 00:12:28]  What about 13 tickets?
+[00:12:28 -> 00:12:30]  So, now we're moving into that third shell.
+[00:12:30 -> 00:12:32]  We're always filling from the inside out,
+[00:12:33 -> 00:12:37]  but now that third shell has only three occupied seats
+[00:12:37 -> 00:12:39]  and five empty ones.
+[00:12:39 -> 00:12:42]  So, that's not so happy, and that is the element aluminum.
+[00:12:45 -> 00:12:48]  In our last example, we have 18 seats,
+[00:12:48 -> 00:12:51]  and you notice we have all three shells full.
+[00:12:51 -> 00:12:53]  This is a very stable configuration.
+[00:12:53 -> 00:12:55]  This is the noble gas, argon.
+[00:12:56 -> 00:12:59]  So, maybe you've noticed that it seems
+[00:12:59 -> 00:13:01]  to be about the valence shell.
+[00:13:02 -> 00:13:04]  If the valence shell is so important,
+[00:13:04 -> 00:13:05]  why don't we just focus on that?
+[00:13:05 -> 00:13:08]  I mean, who cares what the core of the beast looks like?
+[00:13:09 -> 00:13:10]  Let's just look at the outer shell,
+[00:13:10 -> 00:13:13]  since that's what's going to determine how happy an atom is.
+[00:13:14 -> 00:13:16]  If you're thinking that, that's awesome.
+[00:13:16 -> 00:13:18]  You're not alone, because some other really smart people have
+[00:13:18 -> 00:13:21]  thought exactly the same thing, like Dr. Gilbert Lewis,
+[00:13:21 -> 00:13:22]  who is a physical chemist.
+[00:13:22 -> 00:13:24]  He spent most of his career at UC Berkeley,
+[00:13:25 -> 00:13:26]  and he did exactly that.
+[00:13:26 -> 00:13:28]  He said we should draw an elemental symbol,
+[00:13:28 -> 00:13:31]  and then we're going to draw the valence shell electrons
+[00:13:31 -> 00:13:35]  around it, and I always tell my students, if you keep track
+[00:13:35 -> 00:13:37]  of the valence electrons, you're going to be happy.
+[00:13:38 -> 00:13:39]  So, let's see how this works.
+[00:13:39 -> 00:13:40]  We're going to look at carbon.
+[00:13:41 -> 00:13:43]  The most important part, in terms
+[00:13:43 -> 00:13:45]  of carbon's reactivity, is the valence shell.
+[00:13:45 -> 00:13:47]  So, let's just get rid of everything else,
+[00:13:47 -> 00:13:50]  and we're going to draw only the electrons
+[00:13:50 -> 00:13:53]  in the valence shell around carbon.
+[00:13:54 -> 00:13:55]  That's the most important part.
+[00:13:55 -> 00:13:59]  So, carbon has the atomic number six, and now you know that two
+[00:13:59 -> 00:14:01]  of those electrons are in the first shell,
+[00:14:01 -> 00:14:03]  leaving four for the valence shell.
+[00:14:04 -> 00:14:05]  Now, I just want to remind you,
+[00:14:05 -> 00:14:08]  those penguins represented electrons, but for heaven's sakes,
+[00:14:08 -> 00:14:10]  don't draw penguins in your Lewis dot structures.
+[00:14:10 -> 00:14:12]  You're going to get kicked out of class.
+[00:14:12 -> 00:14:14]  So, what we do is we draw, literally,
+[00:14:14 -> 00:14:18]  dots around the element to represent the valence electrons,
+[00:14:18 -> 00:14:21]  and ta-da, that is the Lewis dot structure for carbon.
+[00:14:21 -> 00:14:22]  How easy is that?
+[00:14:24 -> 00:14:26]  So, let's look at nitrogen.
+[00:14:27 -> 00:14:29]  So, to draw the Lewis dot structure for nitrogen,
+[00:14:29 -> 00:14:32]  all you do is you draw the symbol for nitrogen,
+[00:14:32 -> 00:14:35]  and then you go around it and draw the valence electrons,
+[00:14:35 -> 00:14:36]  starting at the top.
+[00:14:36 -> 00:14:39]  Now, this, how you draw these varies.
+[00:14:39 -> 00:14:41]  This is the way that I was taught.
+[00:14:41 -> 00:14:43]  Starting at the top and going around,
+[00:14:43 -> 00:14:44]  nitrogen looks like that.
+[00:14:45 -> 00:14:47]  So, let's look at aluminum.
+[00:14:47 -> 00:14:49]  So, here is the symbol for aluminum.
+[00:14:49 -> 00:14:52]  Aluminum has three electrons in its valence shell,
+[00:14:52 -> 00:14:55]  so you draw them around, going one, two, three.
+[00:14:55 -> 00:14:56]  That's aluminum.
+[00:14:58 -> 00:14:59]  So, finally, let's do argon.
+[00:14:59 -> 00:15:03]  Argon has a full valence shell, so we're going to draw one,
+[00:15:03 -> 00:15:10]  two, three, four, five, six, seven, eight.
+[00:15:11 -> 00:15:15]  A full valence shell for argon, and it's as simple as that.
+[00:15:16 -> 00:15:17]  So, check this out.
+[00:15:17 -> 00:15:20]  If you look down the column of all the noble gases,
+[00:15:21 -> 00:15:23]  and you draw the Lewis dot structures for each one,
+[00:15:23 -> 00:15:26]  you will find that they all look the same,
+[00:15:26 -> 00:15:29]  because all of them have full valence shells,
+[00:15:29 -> 00:15:33]  and this explains why all the noble gases are happy
+[00:15:33 -> 00:15:36]  as they are, and they don't form bonds with other atoms.
+[00:15:36 -> 00:15:39]  Because if the goal is to have a full valence shell,
+[00:15:39 -> 00:15:42]  and you already have one, you don't need to play with others.
+[00:15:42 -> 00:15:44]  The only thing that might confuse you is helium,
+[00:15:44 -> 00:15:46]  and what you have to remember is
+[00:15:46 -> 00:15:49]  that helium is very small, atomic number two,
+[00:15:49 -> 00:15:52]  so it has only two electrons, and so you have to remember
+[00:15:52 -> 00:15:56]  that that first shell is, in fact, full with two,
+[00:15:56 -> 00:15:58]  whereas everybody else going down this group,
+[00:15:58 -> 00:16:01]  they will all have an outer shell full with eight.
+[00:16:03 -> 00:16:04]  So, let's practice.
+[00:16:04 -> 00:16:06]  When you practice drawing the Lewis structures, all you need,
+[00:16:07 -> 00:16:10]  without the penguins, is a periodic table.
+[00:16:10 -> 00:16:12]  So, lithium, atomic number three,
+[00:16:12 -> 00:16:14]  is going to have two electrons in the first shell,
+[00:16:14 -> 00:16:16]  leaving you one in the second shell.
+[00:16:16 -> 00:16:19]  So, when you draw the Lewis dot structure, that's it,
+[00:16:20 -> 00:16:21]  one electron in the valence shell.
+[00:16:22 -> 00:16:25]  For oxygen, you've got two electrons in the first shell,
+[00:16:25 -> 00:16:28]  six in the second, for a total of eight.
+[00:16:29 -> 00:16:35]  So, you draw your oxygen with one, two, three, four, five,
+[00:16:35 -> 00:16:37]  six electrons in the valence shell.
+[00:16:37 -> 00:16:39]  That's your Lewis dot structure for oxygen.
+[00:16:40 -> 00:16:44]  Sodium has two in the first shell, eight in the second,
+[00:16:44 -> 00:16:47]  one in the third, for a total of 11.
+[00:16:47 -> 00:16:49]  Sodium is drawn just like that.
+[00:16:50 -> 00:16:52]  So, it's really not too bad,
+[00:16:52 -> 00:16:55]  and even though most biology instructors don't really show
+[00:16:55 -> 00:16:57]  you Lewis dot structures, you're going to have to do it
+[00:16:57 -> 00:17:00]  in chemistry anyway, and truthfully,
+[00:17:00 -> 00:17:02]  if you understand Lewis dot structures,
+[00:17:02 -> 00:17:05]  everything else is going to make a lot more sense.
+[00:17:05 -> 00:17:07]  So, here are the first 20 elements
+[00:17:07 -> 00:17:10]  and the Lewis dot structures for each, and what you notice is
+[00:17:10 -> 00:17:13]  that as you go down the vertical columns, which we call groups,
+[00:17:14 -> 00:17:17]  they all have the same Lewis dot structures,
+[00:17:17 -> 00:17:20]  and that explains why they have the same chemical reactivity
+[00:17:20 -> 00:17:23]  and why they'll form the same kind of bond.
+[00:17:23 -> 00:17:23]  Isn't that cool?
+[00:17:24 -> 00:17:25]  How powerful is that?
+[00:17:27 -> 00:17:29]  So, understanding Lewis dot structures is going
+[00:17:29 -> 00:17:33]  to make predicting atomic interactions so much easier,
+[00:17:33 -> 00:17:36]  and you're going to be able to predict what's going to happen
+[00:17:36 -> 00:17:39]  when, for example, two hydrogen atoms get together,
+[00:17:40 -> 00:17:43]  because unless you're a noble gas, you're going to have
+[00:17:43 -> 00:17:45]  to play with others in order to become happy,
+[00:17:45 -> 00:17:47]  and that's what atomic bonding is,
+[00:17:48 -> 00:17:50]  and that's why two hydrogens get together
+[00:17:50 -> 00:17:52]  to form H2, hydrogen gas.
+[00:17:52 -> 00:17:56]  So, they're both going to share their lone electron
+[00:17:56 -> 00:18:00]  so that each one can have a stable, full shell.
+[00:18:01 -> 00:18:02]  As always, I hope this was helpful.
+[00:18:02 -> 00:18:05]  Thank you so much for visiting the Penguin Prof Channel.
+[00:18:05 -> 00:18:09]  Please support by clicking like, comment, share, and subscribe,
+[00:18:09 -> 00:18:12]  and join us on Facebook, follow on Twitter.
+[00:18:12 -> 00:18:13]  As always, good luck.

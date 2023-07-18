@@ -1,0 +1,155 @@
+[00:00:00 -> 00:00:03]  If you can fit a line, you can fit a squiggle.
+[00:00:03 -> 00:00:06]  If you can make me laugh, you can make me giggle.
+[00:00:06 -> 00:00:06]  StatQuest.
+[00:00:10 -> 00:00:13]  Hello, I'm Josh Starmer, and welcome to StatQuest.
+[00:00:13 -> 00:00:16]  Today, we're going to talk about logistic regression.
+[00:00:16 -> 00:00:20]  This is a technique that can be used for traditional statistics
+[00:00:20 -> 00:00:22]  as well as machine learning.
+[00:00:22 -> 00:00:24]  So let's get right to it.
+[00:00:24 -> 00:00:26]  Before we dive into logistic regression,
+[00:00:26 -> 00:00:31]  let's take a step back and review linear regression.
+[00:00:31 -> 00:00:35]  In another StatQuest, we talked about linear regression.
+[00:00:35 -> 00:00:41]  We had some data, weight, and size.
+[00:00:41 -> 00:00:44]  Then we fit a line to it.
+[00:00:44 -> 00:00:48]  And with that line, we could do a lot of things.
+[00:00:48 -> 00:00:51]  First, we could calculate r squared
+[00:00:51 -> 00:00:54]  and determine if weight and size are correlated.
+[00:00:54 -> 00:00:57]  Large values imply a large effect.
+[00:00:57 -> 00:01:00]  And second, calculate a p value to determine
+[00:01:00 -> 00:01:05]  if the r squared value is statistically significant.
+[00:01:05 -> 00:01:11]  And third, we could use the line to predict size given weight.
+[00:01:11 -> 00:01:15]  If a new mouse has this weight, then this
+[00:01:15 -> 00:01:19]  is the size that we predict from the weight.
+[00:01:19 -> 00:01:22]  Although we didn't mention it at the time,
+[00:01:22 -> 00:01:25]  using data to predict something falls under the category
+[00:01:25 -> 00:01:28]  of machine learning.
+[00:01:28 -> 00:01:34]  So plain old linear regression is a form of machine learning.
+[00:01:34 -> 00:01:38]  We also talked a little bit about multiple regression.
+[00:01:38 -> 00:01:40]  Now we are trying to predict size
+[00:01:40 -> 00:01:44]  using weight and blood volume.
+[00:01:44 -> 00:01:46]  Alternatively, we could say that we
+[00:01:46 -> 00:01:51]  are trying to model size using weight and blood volume.
+[00:01:51 -> 00:01:53]  Multiple regression did the same things
+[00:01:53 -> 00:01:56]  that normal regression did.
+[00:01:56 -> 00:01:59]  We calculated r squared.
+[00:01:59 -> 00:02:02]  And we calculated the p value.
+[00:02:02 -> 00:02:07]  And we could predict size using weight and blood volume.
+[00:02:07 -> 00:02:09]  And this makes multiple regression
+[00:02:09 -> 00:02:13]  a slightly fancier machine learning method.
+[00:02:13 -> 00:02:16]  We also talked about how we can use discrete measurements,
+[00:02:16 -> 00:02:20]  like genotype, to predict size.
+[00:02:20 -> 00:02:23]  If you're not familiar with the term genotype, don't freak out.
+[00:02:23 -> 00:02:24]  It's no big deal.
+[00:02:24 -> 00:02:29]  Just know that it refers to different types of mice.
+[00:02:29 -> 00:02:33]  Lastly, we could compare models.
+[00:02:33 -> 00:02:36]  So on the left side, we've got normal regression
+[00:02:36 -> 00:02:40]  using weight to predict size.
+[00:02:40 -> 00:02:41]  And we can compare those predictions
+[00:02:41 -> 00:02:44]  to the ones we get from multiple regression,
+[00:02:44 -> 00:02:49]  where we're using weight and blood volume to predict size.
+[00:02:49 -> 00:02:52]  Comparing the simple model to the complicated one
+[00:02:52 -> 00:02:55]  tells us if we need to measure weight and blood volume
+[00:02:55 -> 00:02:58]  to accurately predict size, or if we
+[00:02:58 -> 00:03:02]  can get away with just weight.
+[00:03:02 -> 00:03:04]  Now that we remember all the cool things
+[00:03:04 -> 00:03:06]  we can do with linear regression,
+[00:03:06 -> 00:03:09]  let's talk about logistic regression.
+[00:03:09 -> 00:03:13]  Logistic regression is similar to linear regression,
+[00:03:13 -> 00:03:17]  except logistic regression predicts
+[00:03:17 -> 00:03:19]  whether something is true or false,
+[00:03:19 -> 00:03:24]  instead of predicting something continuous, like size.
+[00:03:24 -> 00:03:31]  These mice are obese, and these mice are not.
+[00:03:31 -> 00:03:34]  Also, instead of fitting a line to the data,
+[00:03:34 -> 00:03:40]  logistic regression fits an S-shaped logistic function.
+[00:03:40 -> 00:03:44]  The curve goes from 0 to 1, and that
+[00:03:44 -> 00:03:48]  means that the curve tells you the probability that a mouse is
+[00:03:48 -> 00:03:51]  obese based on its weight.
+[00:03:51 -> 00:03:54]  If we weighed a very heavy mouse,
+[00:03:54 -> 00:03:59]  there is a high probability that the new mouse is obese.
+[00:03:59 -> 00:04:02]  If we weighed an intermediate mouse,
+[00:04:02 -> 00:04:08]  then there is only a 50% chance that the mouse is obese.
+[00:04:08 -> 00:04:10]  Lastly, there's only a small probability
+[00:04:10 -> 00:04:14]  that a light mouse is obese.
+[00:04:14 -> 00:04:16]  Although logistic regression tells the probability
+[00:04:16 -> 00:04:18]  that a mouse is obese or not, it's
+[00:04:18 -> 00:04:22]  usually used for classification.
+[00:04:22 -> 00:04:25]  For example, if the probability a mouse is obese
+[00:04:25 -> 00:04:30]  is greater than 50%, then we'll classify it as obese.
+[00:04:30 -> 00:04:35]  Otherwise, we'll classify it as not obese.
+[00:04:35 -> 00:04:37]  Just like with linear regression,
+[00:04:37 -> 00:04:39]  we can make simple models.
+[00:04:39 -> 00:04:44]  In this case, we can have obesity predicted by weight
+[00:04:44 -> 00:04:46]  or more complicated models.
+[00:04:46 -> 00:04:48]  In this case, obesity is predicted
+[00:04:48 -> 00:04:51]  by weight and genotype.
+[00:04:51 -> 00:04:54]  In this case, obesity is predicted by weight
+[00:04:54 -> 00:04:57]  and genotype and age.
+[00:04:57 -> 00:05:02]  And lastly, obesity is predicted by weight, genotype, age,
+[00:05:02 -> 00:05:05]  and astrological sign.
+[00:05:05 -> 00:05:08]  In other words, just like linear regression,
+[00:05:08 -> 00:05:11]  logistic regression can work with continuous data,
+[00:05:11 -> 00:05:14]  like weight and age, and discrete data,
+[00:05:14 -> 00:05:19]  like genotype and astrological sign.
+[00:05:19 -> 00:05:21]  We can also test to see if each variable is
+[00:05:21 -> 00:05:24]  useful for predicting obesity.
+[00:05:24 -> 00:05:27]  However, unlike normal regression,
+[00:05:27 -> 00:05:30]  we can't easily compare the complicated model
+[00:05:30 -> 00:05:31]  to the simple model.
+[00:05:31 -> 00:05:35]  And we'll talk more about why in a bit.
+[00:05:35 -> 00:05:38]  Instead, we just test to see if a variable's
+[00:05:38 -> 00:05:40]  effect on the prediction is significantly
+[00:05:40 -> 00:05:43]  different from 0.
+[00:05:43 -> 00:05:45]  If not, it means that the variable is not
+[00:05:45 -> 00:05:49]  helping the prediction.
+[00:05:49 -> 00:05:52]  We use Wald's test to figure this out.
+[00:05:52 -> 00:05:56]  We'll talk about that in another StatQuest.
+[00:05:56 -> 00:06:02]  In this case, the astrological sign is totes useless.
+[00:06:02 -> 00:06:06]  That's statistical jargon for not helping.
+[00:06:06 -> 00:06:09]  That means we can save time and space in our study
+[00:06:09 -> 00:06:11]  by leaving it out.
+[00:06:11 -> 00:06:15]  Logistic regression's ability to provide probabilities
+[00:06:15 -> 00:06:18]  and classify new samples using continuous and discrete
+[00:06:18 -> 00:06:23]  measurements makes it a popular machine learning method.
+[00:06:23 -> 00:06:26]  One big difference between linear regression
+[00:06:26 -> 00:06:31]  and logistic regression is how the line is fit to the data.
+[00:06:31 -> 00:06:36]  With linear regression, we fit the line using least squares.
+[00:06:36 -> 00:06:39]  In other words, we find the line that
+[00:06:39 -> 00:06:44]  minimizes the sum of the squares of these residuals.
+[00:06:44 -> 00:06:47]  We also use the residuals to calculate R-squared
+[00:06:47 -> 00:06:51]  and to compare simple models to complicated models.
+[00:06:51 -> 00:06:55]  Logistic regression doesn't have the same concept of a residual.
+[00:06:55 -> 00:06:57]  So it can't use least squares.
+[00:06:57 -> 00:07:01]  And it can't calculate R-squared.
+[00:07:01 -> 00:07:06]  Instead, it uses something called maximum likelihood.
+[00:07:06 -> 00:07:08]  There's a whole StatQuest on maximum likelihood.
+[00:07:08 -> 00:07:10]  So see that for details.
+[00:07:10 -> 00:07:14]  But in a nutshell, you pick a probability,
+[00:07:14 -> 00:07:17]  scaled by weight, of observing an obese mouse,
+[00:07:17 -> 00:07:20]  just like this curve.
+[00:07:20 -> 00:07:22]  And you use that to calculate the likelihood
+[00:07:22 -> 00:07:27]  of observing a non-obese mouse that weighs this much.
+[00:07:27 -> 00:07:29]  And then you calculate the likelihood
+[00:07:29 -> 00:07:33]  of observing this mouse.
+[00:07:33 -> 00:07:36]  And you do that for all of the mice.
+[00:07:36 -> 00:07:40]  And lastly, you multiply all of those likelihoods together.
+[00:07:40 -> 00:07:45]  That's the likelihood of the data given this line.
+[00:07:45 -> 00:07:48]  Then you shift the line and calculate a new likelihood
+[00:07:48 -> 00:07:51]  of the data.
+[00:07:51 -> 00:07:56]  And then shift the line and calculate the likelihood again
+[00:07:56 -> 00:07:58]  and again.
+[00:07:58 -> 00:08:01]  Finally, the curve with the maximum value
+[00:08:01 -> 00:08:04]  for the likelihood is selected.
+[00:08:04 -> 00:08:07]  Bam.
+[00:08:07 -> 00:08:13]  In summary, logistic regression can be used to classify samples.
+[00:08:13 -> 00:08:15]  And it can use different types of data,
+[00:08:15 -> 00:08:20]  like size and or genotype, to do that classification.
+[00:08:20 -> 00:08:22]  And it can also be used to assess
+[00:08:22 -> 00:08:27]  what variables are useful for classifying samples, i.e.,
+[00:08:27 -> 00:08:32]  astrological sign is totes useless.
+[00:08:32 -> 00:08:33]  Hooray.
+[00:08:33 -> 00:08:36]  We've made it to the end of another exciting StatQuest.
+[00:08:36 -> 00:08:38]  If you like this StatQuest and want to see more,
+[00:08:38 -> 00:08:40]  please subscribe.
+[00:08:40 -> 00:08:42]  And if you have suggestions for future StatQuests,
+[00:08:42 -> 00:08:45]  well, put them in the comments below.
+[00:08:45 -> 00:08:48]  Until next time, quest on.

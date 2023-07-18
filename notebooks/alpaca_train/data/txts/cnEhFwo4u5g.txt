@@ -1,0 +1,166 @@
+[00:00:00 -> 00:00:07]  Welcome to the Modern Embedded Systems Programming course.
+[00:00:07 -> 00:00:13]  My name is Miro Samek and in this lesson you'll learn about software assertions and more formally
+[00:00:13 -> 00:00:18]  the design-by-contract methodology in the context of embedded programming.
+[00:00:18 -> 00:00:27]  This is part one of the two-part series on this subject.
+[00:00:27 -> 00:00:31]  The technique you are going to learn today is the single most valuable and effective
+[00:00:31 -> 00:00:34]  strategy for delivering high-quality code.
+[00:00:34 -> 00:00:40]  In my programming career, assertions and design-by-contract helped me more than any other programming
+[00:00:40 -> 00:00:45]  technique, even more than my favorite state machines.
+[00:00:45 -> 00:00:51]  Unfortunately, assertions seem to be the most important non-practice in embedded software.
+[00:00:51 -> 00:00:56]  An alarming number of embedded developers haven't heard about assertions at all.
+[00:00:56 -> 00:00:58]  Know about them, but still don't use them.
+[00:00:58 -> 00:01:01]  Or use them incorrectly.
+[00:01:01 -> 00:01:07]  So today, in part one, my goal is to explain what assertions and design-by-contract are
+[00:01:07 -> 00:01:13]  and, even more important, what they are not, and the proper use of assertions.
+[00:01:13 -> 00:01:21]  In part two, you'll see how to apply assertions and DBC in embedded C or C++ and other practical
+[00:01:21 -> 00:01:24]  aspects of assertions in embedded systems.
+[00:01:24 -> 00:01:29]  So what are software assertions?
+[00:01:29 -> 00:01:34]  Assertions are Boolean expressions that allow a program to check itself as it runs.
+[00:01:34 -> 00:01:39]  When an assertion evaluates to true, a program is operating as expected.
+[00:01:39 -> 00:01:44]  Conversely, an assertion evaluating to false indicates an error, and it makes no sense
+[00:01:44 -> 00:01:47]  for the program to continue.
+[00:01:47 -> 00:01:50]  The C standard provides a simple assert facility.
+[00:01:50 -> 00:01:55]  To use these standard assertions, you need to include the assert.h standard header file.
+[00:01:55 -> 00:02:02]  You then specify a Boolean assertion expression as the argument of the assert macro.
+[00:02:02 -> 00:02:07]  For example, here you see a function int div that performs an integer division of X by
+[00:02:07 -> 00:02:09]  Y.
+[00:02:09 -> 00:02:15]  But the division is not defined for zero divisors, so you assert that Y is not zero.
+[00:02:15 -> 00:02:21]  You then print the X and Y parameters, and then return X divided by Y.
+[00:02:21 -> 00:02:25]  Of course, you can have more than one such assertion in a given file, so here you have
+[00:02:25 -> 00:02:29]  another function to calculate integer log base 2.
+[00:02:29 -> 00:02:34]  You've encountered such a function in the lessons about DRTOS, where it was used in
+[00:02:34 -> 00:02:39]  the scheduler to quickly find the highest-priority task ready to run.
+[00:02:39 -> 00:02:44]  But anyway, a logarithm is not defined for a zero argument, so you assert that X is not
+[00:02:44 -> 00:02:45]  zero.
+[00:02:45 -> 00:02:51]  Moreover, the function here is implemented with a lookup table, so you additionally assert
+[00:02:51 -> 00:02:55]  that you don't index beyond the end of the table.
+[00:02:55 -> 00:03:00]  So now, in main, you just call the div and log functions with various parameters and
+[00:03:00 -> 00:03:01]  print the results.
+[00:03:01 -> 00:03:07]  The last two calls intentionally violate the assertions, so that you can see what happens.
+[00:03:07 -> 00:03:12]  Now I will demonstrate how to build and run that simple program on a desktop computer
+[00:03:12 -> 00:03:15]  from the command prompt using the GCC compiler.
+[00:03:15 -> 00:03:23]  The code will be provided in the lesson 47-underscore-desk directory.
+[00:03:23 -> 00:03:28]  If you work on Windows, as I do here, you might not have the GCC compiler.
+[00:03:28 -> 00:03:34]  But one way of getting it is to download the QP bundle for Windows, which among others
+[00:03:34 -> 00:03:37]  contains a MinGW GCC toolset.
+[00:03:38 -> 00:03:41]  You build the assert program with GCC as follows.
+[00:03:41 -> 00:03:46]  When you run the assert executable, you can see that the program continues until an assertion
+[00:03:46 -> 00:03:51]  fails, whereas the printout tells you the assertion expression and the line of code
+[00:03:51 -> 00:03:55]  where the failure occurred.
+[00:03:55 -> 00:03:59]  In a regular run, the output produced by the program and the error message from the failing
+[00:03:59 -> 00:04:02]  assertion are combined.
+[00:04:02 -> 00:04:08]  But when you redirect the output into the stdout and stderr streams, you can see that
+[00:04:08 -> 00:04:14]  the failing assertion sends the error message to the stderr stream, whereas the normal output
+[00:04:14 -> 00:04:17]  from the program goes to the stdout stream.
+[00:04:17 -> 00:04:22]  Finally, you can see that the failing assertion apparently aborts the program, because the
+[00:04:22 -> 00:04:26]  final end output is not produced.
+[00:04:26 -> 00:04:30]  This is consistent with the premise that continuing after a failing assertion makes
+[00:04:30 -> 00:04:32]  no sense.
+[00:04:32 -> 00:04:37]  The last feature of the standard assertions I'd like to demonstrate is the ability to
+[00:04:37 -> 00:04:43]  disable assertions by defining the NDEBUG macro, for example in a command-line option
+[00:04:43 -> 00:04:45]  to the compiler.
+[00:04:45 -> 00:04:50]  This causes the assertion macros to expand to nothing, so assertions generate no code
+[00:04:50 -> 00:04:52]  and no overhead.
+[00:04:52 -> 00:04:58]  When you run the executable this time, you indeed no longer see assertion messages.
+[00:04:58 -> 00:05:05]  Interestingly, now the program prints a logarithm of zero as minus one, so it survives the first
+[00:05:05 -> 00:05:08]  error previously causing an assertion failure.
+[00:05:08 -> 00:05:13]  But the program does not survive division by zero and silently aborts.
+[00:05:13 -> 00:05:20]  You guess the program was aborted only because the final printout end is still missing.
+[00:05:20 -> 00:05:23]  So this is all there is to the standard assert facility.
+[00:05:23 -> 00:05:29]  It is remarkably simple, but unfortunately not directly applicable to embedded systems,
+[00:05:29 -> 00:05:34]  because they typically don't have the stder stream for assertion messages and cannot abort
+[00:05:34 -> 00:05:37]  the same way as desktop systems.
+[00:05:37 -> 00:05:42]  Later in this lesson, you'll see an implementation that is much more appropriate for embedded
+[00:05:42 -> 00:05:43]  systems.
+[00:05:43 -> 00:05:49]  But before that, I'd like to discuss the proper use of assertions.
+[00:05:49 -> 00:05:54]  To use assertions properly and effectively, you must clearly distinguish between programming
+[00:05:54 -> 00:05:57]  errors and exceptional conditions.
+[00:05:57 -> 00:06:05]  Errors, known otherwise as bugs, are persistent defects due to design or implementation mistakes.
+[00:06:05 -> 00:06:12]  For example, dividing by zero, overrunning an array index, dereferencing a null pointer,
+[00:06:12 -> 00:06:16]  or using a peripheral before initializing it.
+[00:06:16 -> 00:06:21]  When your software has a bug, typically you cannot reasonably quote-unquote handle the
+[00:06:21 -> 00:06:22]  situation.
+[00:06:22 -> 00:06:27]  Instead, you should focus on detecting, reporting and ultimately fixing the bug.
+[00:06:27 -> 00:06:30]  Also, you typically cannot continue execution.
+[00:06:30 -> 00:06:34]  Instead, you must carefully devise a damage control strategy.
+[00:06:34 -> 00:06:37]  This is where the assertions come in.
+[00:06:37 -> 00:06:43]  In contrast to errors, exceptional conditions are specific circumstances that can legitimately
+[00:06:43 -> 00:06:49]  arise during the system's lifetime, but are relatively rare and lie off the main execution
+[00:06:49 -> 00:06:51]  path of your software.
+[00:06:51 -> 00:06:58]  Examples include incorrect user input, transmission errors on inherently unreliable connections,
+[00:06:58 -> 00:07:04]  such as wireless, abnormal or degraded modes of operation, etc.
+[00:07:04 -> 00:07:07]  In those cases, you should NOT use assertions.
+[00:07:07 -> 00:07:13]  Rather, you must carefully design and implement strategies that handle such exceptional conditions
+[00:07:13 -> 00:07:16]  using regular code.
+[00:07:16 -> 00:07:21]  Attempting to quote-unquote handle an error as an exceptional condition is just as bad
+[00:07:21 -> 00:07:23]  as the other way around.
+[00:07:23 -> 00:07:27]  This programming style is known as defensive programming.
+[00:07:27 -> 00:07:33]  It aims to make the software more robust to errors by accepting a wider range of inputs
+[00:07:33 -> 00:07:39]  or allowing an order of operations inconsistent with the program's state.
+[00:07:39 -> 00:07:44]  For example, a defensively programmed int-div function would not assert, but instead it
+[00:07:44 -> 00:07:51]  would quote-unquote handle the 0 divisor by returning some bogus value, such as 0xFFFF.
+[00:07:51 -> 00:07:59]  Similarly, a defensively programmed int-log2 would quote-unquote handle the below-the-range
+[00:07:59 -> 00:08:07]  X by returning, say, negative 1, the above-the-range value by another made-up value, such as 999,
+[00:08:07 -> 00:08:12]  and only otherwise the real value from the lookup table.
+[00:08:12 -> 00:08:16]  Another example would be the board-support-package functions for turning LEDs on and off on
+[00:08:16 -> 00:08:19]  your TivaC LaunchPad board.
+[00:08:19 -> 00:08:24]  Normally, these functions simply write to the GPIO registers assuming that the GPIO
+[00:08:24 -> 00:08:26]  pins have been initialized.
+[00:08:26 -> 00:08:31]  But coded defensively, these functions would check whether the GPIO was initialized and
+[00:08:31 -> 00:08:36]  would silently perform the initialization if needed.
+[00:08:36 -> 00:08:41]  Defensive programming is often advertised as a better coding style, but unfortunately
+[00:08:41 -> 00:08:47]  it hides bugs and frequently introduces new bugs due to the additional complexity.
+[00:08:47 -> 00:08:53]  Please also note that behaviors like reacting to incorrect user inputs or limping mode in
+[00:08:53 -> 00:08:59]  a vehicle are always a result of intentional design and dedicated code.
+[00:08:59 -> 00:09:05]  Specifically, it is rather naive to expect that such behaviors could ever miraculously
+[00:09:05 -> 00:09:08]  emerge from defensive programming.
+[00:09:08 -> 00:09:13]  Instead, it is far more likely that defensive programming will produce bogus, incorrect
+[00:09:13 -> 00:09:17]  results and undesirable behaviors.
+[00:09:17 -> 00:09:23]  But going back to assertions, a powerful methodology that takes assertions to the next level is
+[00:09:23 -> 00:09:31]  Design-by-Contract, DBC, pioneered by Bertrand Mayer in the mid-1980s.
+[00:09:31 -> 00:09:38]  A link to Bertrand Mayer's article applying Design-by-Contract is in the video description.
+[00:09:38 -> 00:09:45]  DBC views assertions as specifications of mutual obligations between software components,
+[00:09:45 -> 00:09:48]  analogous to contracts between people.
+[00:09:48 -> 00:09:55]  The central idea of this method is to inherently embed those contracts in the code as assertions
+[00:09:55 -> 00:09:59]  and validate them automatically at runtime.
+[00:09:59 -> 00:10:04]  Design-by-Contract perspective helps you to truly understand software assertions.
+[00:10:04 -> 00:10:09]  And that is, assertions are NOT an error-handling mechanism.
+[00:10:09 -> 00:10:15]  They neither handle nor prevent errors, just like contracts among people don't prevent
+[00:10:15 -> 00:10:16]  fraud.
+[00:10:16 -> 00:10:22]  For example, asserting that the divisor is not zero does not really prevent calling the
+[00:10:22 -> 00:10:25]  int div function with zero divisors.
+[00:10:25 -> 00:10:31]  Similarly, asserting that an array index is in range might give you a warm and fuzzy
+[00:10:31 -> 00:10:38]  feeling that you have handled or prevented a bug, when actually you haven't.
+[00:10:38 -> 00:10:44]  What really happened, however, is that you did establish a contract, in which you spelled
+[00:10:44 -> 00:10:50]  out that the parameter to your function, int log2, must be in a certain range.
+[00:10:50 -> 00:10:56]  As long as assertions are enabled, the contract will be checked automatically and sure enough,
+[00:10:56 -> 00:11:00]  the program will brutally abort if the contract fails.
+[00:11:00 -> 00:11:04]  At first, you might think that this must be backward.
+[00:11:04 -> 00:11:10]  Contracts not only do nothing to handle, let alone fix, bugs, but they actually make things
+[00:11:10 -> 00:11:17]  worse by turning every asserted condition, however benign, into a fatal error.
+[00:11:18 -> 00:11:23]  However, please recall from the previous discussion that the first priority with dealing with
+[00:11:23 -> 00:11:27]  errors is to detect them, not to hide them.
+[00:11:27 -> 00:11:33]  To this end, a bug that causes a loud crash and identifies precisely which contract has
+[00:11:33 -> 00:11:39]  been violated, is much easier to find and fix than a subtle one that manifests itself
+[00:11:39 -> 00:11:44]  intermittently with millions of machine instructions downstream from the spot where you could have
+[00:11:44 -> 00:11:46]  easily detected it.
+[00:11:46 -> 00:11:51]  Also, as you'll see in a minute, assertions can provide a last line of defense and an
+[00:11:51 -> 00:11:55]  opportunity to perform corrective actions and damage control.
+[00:11:55 -> 00:12:02]  In contrast, defensive programming surrenders to the bugs and does not offer such an opportunity.
+[00:12:02 -> 00:12:08]  Besides assertions as contracts, another insightful analogy is to think of assertions in software
+[00:12:08 -> 00:12:13]  as corresponding to fuses in electrical circuits.
+[00:12:13 -> 00:12:18]  Electrical engineers insert fuses in various places of their circuits to instill controlled
+[00:12:18 -> 00:12:24]  damage, burning a fuse, in case the circuit fails or is mishandled.
+[00:12:24 -> 00:12:29]  It is unimaginable to have any non-trivial circuit, such as a home wiring or electrical
+[00:12:29 -> 00:12:34]  system of a car, without many differently rated fuses.
+[00:12:34 -> 00:12:39]  Please note that the fuse can neither prevent nor fix a problem, so replacing a burned fuse
+[00:12:39 -> 00:12:43]  doesn't help until the root cause of the problem is removed.
+[00:12:43 -> 00:12:50]  In fact, the terms bug and debugging originate from the actual bug found in the wiring.
+[00:12:50 -> 00:12:57]  The problem was fixed only after removing the bug.
+[00:12:57 -> 00:13:03]  This concludes part one of the two-part series about assertions and design by contract.
+[00:13:03 -> 00:13:09]  In part two, you'll see how to apply assertions and DBC in embedded C or C++.
+[00:13:09 -> 00:13:14]  If you like this channel, please give this video a like and subscribe to stay tuned.
+[00:13:14 -> 00:13:20]  You can also visit state-machine.com-slash-video-course for the class notes and project file downloads.
+[00:13:20 -> 00:13:27]  Finally, all the projects are also available on GitHub in a Quantum Leaps Repository Modern
+[00:13:27 -> 00:13:29]  Embedded Programming course.
+[00:13:29 -> 00:13:30]  Thanks for watching!

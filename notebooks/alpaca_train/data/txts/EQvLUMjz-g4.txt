@@ -1,0 +1,242 @@
+[00:00:00 -> 00:00:03]  While you likely know that data science is the practice
+[00:00:03 -> 00:00:06]  of making data useful, you may not
+[00:00:06 -> 00:00:08]  have a clear landscape around the tools that
+[00:00:08 -> 00:00:12]  can help you at each stage of the data science workflow.
+[00:00:12 -> 00:00:16]  Well, stay with me to discover the six broad areas that
+[00:00:16 -> 00:00:19]  are critical to the process of making data useful
+[00:00:19 -> 00:00:22]  and some corresponding Google Cloud products and services
+[00:00:22 -> 00:00:24]  for those areas.
+[00:00:24 -> 00:00:25]  Let's go.
+[00:00:25 -> 00:00:31]  Well, first is data engineering.
+[00:00:31 -> 00:00:34]  Perhaps the greatest missed opportunity in data science
+[00:00:34 -> 00:00:37]  stems from data that exists somewhere
+[00:00:37 -> 00:00:42]  but hasn't been made accessible for use in further analysis.
+[00:00:42 -> 00:00:45]  Laying the critical foundation for downstream systems,
+[00:00:45 -> 00:00:49]  data engineering involves the transporting, shaping,
+[00:00:49 -> 00:00:51]  and enriching of data for purposes
+[00:00:51 -> 00:00:53]  of making it available and accessible.
+[00:00:53 -> 00:00:57]  We consider data ingestion as moving data
+[00:00:57 -> 00:00:58]  from one place to another.
+[00:00:58 -> 00:01:01]  And data preparation, the process
+[00:01:01 -> 00:01:05]  of transformation, augmentation, or enrichment of data
+[00:01:05 -> 00:01:08]  prior to consumption.
+[00:01:08 -> 00:01:11]  Now, global scalability, high throughput, real-time access,
+[00:01:11 -> 00:01:14]  and robustness are really some common challenges
+[00:01:14 -> 00:01:15]  at this stage.
+[00:01:15 -> 00:01:19]  For scalable real-time and batch data processing,
+[00:01:19 -> 00:01:23]  look into building data ingestion and preprocessing
+[00:01:23 -> 00:01:27]  pipelines with Dataflow, a managed Apache Beam service.
+[00:01:27 -> 00:01:30]  There's a reason why Dataflow is called the backbone
+[00:01:30 -> 00:01:32]  of analytics on Google Cloud.
+[00:01:32 -> 00:01:34]  And we've done a video on this before.
+[00:01:34 -> 00:01:36]  I will link that in the description.
+[00:01:36 -> 00:01:39]  If you're looking for a scalable messaging system
+[00:01:39 -> 00:01:42]  to help you ingest data, consider Cloud PubSub,
+[00:01:42 -> 00:01:46]  a global horizontally scalable messaging infrastructure.
+[00:01:46 -> 00:01:51]  Cloud PubSub was built using the same infrastructure components
+[00:01:51 -> 00:01:55]  that enable Google products, including the ads, search,
+[00:01:55 -> 00:02:00]  and Gmail, to handle hundreds of millions of events per second.
+[00:02:00 -> 00:02:03]  If you want an easy way to automate data movement
+[00:02:03 -> 00:02:07]  to BigQuery, a serverless data warehouse on Google Cloud,
+[00:02:07 -> 00:02:10]  then look into the BigQuery Data Transfer Service.
+[00:02:10 -> 00:02:13]  For transferring data to cloud storage,
+[00:02:13 -> 00:02:16]  take a look at Storage Transfer Service.
+[00:02:16 -> 00:02:20]  And for no-code data ingestion and transformation tools,
+[00:02:20 -> 00:02:24]  check out Data Fusion, which has over 150
+[00:02:24 -> 00:02:28]  pre-configured connectors and transformations.
+[00:02:28 -> 00:02:32]  In addition to Dataflow and Data Fusion for data preparation,
+[00:02:32 -> 00:02:37]  Spark users may want to look at related products and features
+[00:02:37 -> 00:02:40]  for Spark on Google Cloud.
+[00:02:40 -> 00:02:44]  Now, for data storage and data cataloging on Google Cloud,
+[00:02:44 -> 00:02:48]  for structured data, consider a data warehouse like BigQuery
+[00:02:48 -> 00:02:50]  or any of the cloud databases.
+[00:02:50 -> 00:02:54]  The relational ones, like the Cloud SQL and Spanner,
+[00:02:54 -> 00:02:58]  and NoSQL ones, like Cloud Bigtable and Firestore.
+[00:02:58 -> 00:03:01]  For unstructured data, you can always
+[00:03:01 -> 00:03:04]  use Cloud Storage, which is an object store.
+[00:03:04 -> 00:03:09]  You can also use Cloud Storage as a data lake.
+[00:03:09 -> 00:03:12]  I have done another video where I've compared
+[00:03:12 -> 00:03:14]  different database options.
+[00:03:14 -> 00:03:17]  I will link that in the description below.
+[00:03:17 -> 00:03:21]  For data discovery, cataloging, and metadata management,
+[00:03:21 -> 00:03:23]  consider Data Catalog.
+[00:03:23 -> 00:03:26]  For a unified solution, take a look
+[00:03:26 -> 00:03:30]  into Dataplex, which integrates a unified data management
+[00:03:30 -> 00:03:35]  solution with an integrated analytics experience as well.
+[00:03:35 -> 00:03:37]  Now comes data analysis.
+[00:03:37 -> 00:03:41]  From descriptive statistics to visualizations,
+[00:03:41 -> 00:03:46]  data analysis is where the value of data starts to appear.
+[00:03:46 -> 00:03:50]  Now, data exploration, data pre-processing, and data
+[00:03:50 -> 00:03:52]  insights are parts of this.
+[00:03:52 -> 00:03:55]  Data exploration is a highly iterative process.
+[00:03:55 -> 00:03:57]  It involves slicing and dicing the data
+[00:03:57 -> 00:04:00]  via data pre-processing before data insights
+[00:04:00 -> 00:04:04]  can start to manifest through visualizations
+[00:04:04 -> 00:04:08]  or simply via simple group by order by operations.
+[00:04:08 -> 00:04:12]  One hallmark of this phase is that the data scientists may
+[00:04:12 -> 00:04:17]  not yet know which questions to ask about the data.
+[00:04:17 -> 00:04:20]  In this somewhat ephemeral phase,
+[00:04:20 -> 00:04:24]  a data analyst or scientist has likely
+[00:04:24 -> 00:04:29]  uncovered some aha moments but hasn't shared them yet.
+[00:04:29 -> 00:04:31]  Once insights are shared, the flow
+[00:04:31 -> 00:04:34]  enters the insights activation stage
+[00:04:34 -> 00:04:39]  where those insights become used to guide business decisions,
+[00:04:39 -> 00:04:41]  influence consumer choices, or become
+[00:04:41 -> 00:04:45]  embedded in other applications or services.
+[00:04:45 -> 00:04:48]  On Google Cloud, there are many ways
+[00:04:48 -> 00:04:53]  to explore, pre-process, and uncover insights in your data.
+[00:04:53 -> 00:04:56]  If you're looking for a notebook-based end-to-end data
+[00:04:56 -> 00:04:59]  science environment, check out Vertex AI Workbench,
+[00:04:59 -> 00:05:03]  which enables you to access, analyze, and visualize
+[00:05:03 -> 00:05:07]  your entire data estate from structured data
+[00:05:07 -> 00:05:10]  at the petabyte scale in SQL with BigQuery
+[00:05:10 -> 00:05:14]  to pre-processing data with Spark on Google Cloud
+[00:05:14 -> 00:05:18]  and its serverless auto-scaling and GPU acceleration
+[00:05:18 -> 00:05:20]  capabilities are amazing.
+[00:05:20 -> 00:05:24]  You don't have to worry about managing any of that.
+[00:05:24 -> 00:05:27]  As a unified data science environment,
+[00:05:27 -> 00:05:29]  Vertex AI Workbench also makes it
+[00:05:29 -> 00:05:35]  easy to do machine learning with TensorFlow, PyTorch, and Spark
+[00:05:35 -> 00:05:38]  but with built-in MLOps capabilities.
+[00:05:38 -> 00:05:43]  Finally, if your focus is on analyzing structured data
+[00:05:43 -> 00:05:47]  from data warehouse and insights activation for business
+[00:05:47 -> 00:05:50]  intelligence, you may want to also consider
+[00:05:50 -> 00:05:53]  using Looker with its rich interactive analytics,
+[00:05:53 -> 00:05:57]  visualizations, dashboarding tools, and Looker blocks
+[00:05:57 -> 00:06:01]  to help you accelerate your time to insights.
+[00:06:01 -> 00:06:04]  Now, third is model development.
+[00:06:04 -> 00:06:07]  From linear regression to XGBoost,
+[00:06:07 -> 00:06:12]  from TensorFlow to PyTorch, the model development stage
+[00:06:12 -> 00:06:16]  is where machine learning starts to provide new ways
+[00:06:16 -> 00:06:19]  of unlocking value from your data.
+[00:06:19 -> 00:06:22]  Experimentation is a strong theme here,
+[00:06:22 -> 00:06:27]  with data scientists looking to accelerate iteration speed
+[00:06:27 -> 00:06:31]  between models without worrying about infrastructure overhead
+[00:06:31 -> 00:06:35]  or context switching between tools for analysis
+[00:06:35 -> 00:06:41]  and tools for productizing models with MLOps.
+[00:06:41 -> 00:06:43]  Now, to solve these challenges, once again,
+[00:06:43 -> 00:06:47]  as a Jupyter-based, fully managed, scalable,
+[00:06:47 -> 00:06:49]  and enterprise-ready environment,
+[00:06:49 -> 00:06:51]  you've got Vertex AI Workbench, which
+[00:06:51 -> 00:06:56]  makes it easy as the one-stop shop for data scientists
+[00:06:56 -> 00:06:59]  combining analytics and machine learning,
+[00:06:59 -> 00:07:05]  including Vertex AI Services, Apache Spark, XGBoost,
+[00:07:05 -> 00:07:09]  TensorFlow, and PyTorch, are just some of the frameworks
+[00:07:09 -> 00:07:13]  that it supports in Vertex AI Workbench.
+[00:07:13 -> 00:07:16]  Now, Vertex AI Workbench makes managing
+[00:07:16 -> 00:07:18]  the underlying compute infrastructure
+[00:07:18 -> 00:07:22]  needed for model training easy, with the ability
+[00:07:22 -> 00:07:25]  to scale vertically and horizontally,
+[00:07:25 -> 00:07:30]  and with idle timeouts and auto-shutdown capabilities
+[00:07:30 -> 00:07:35]  to reduce unnecessary costs while training the models.
+[00:07:35 -> 00:07:37]  Now, notebooks themselves can be used
+[00:07:37 -> 00:07:41]  for distributed training and hyperparameter optimizations,
+[00:07:41 -> 00:07:43]  and they include Git integrations
+[00:07:43 -> 00:07:45]  for version control.
+[00:07:45 -> 00:07:50]  Due to the significant reduction in context switching required,
+[00:07:50 -> 00:07:55]  data scientists can build and train models five times faster
+[00:07:55 -> 00:07:58]  using Vertex AI Workbench than when
+[00:07:58 -> 00:07:59]  using traditional notebooks.
+[00:07:59 -> 00:08:04]  With Vertex AI, custom models can be trained and deployed
+[00:08:04 -> 00:08:06]  using containers.
+[00:08:06 -> 00:08:09]  For low-cost model development, data analysts and data
+[00:08:09 -> 00:08:13]  scientists can also just use SQL with BigQuery ML
+[00:08:13 -> 00:08:17]  to train and deploy models, including XGBoost,
+[00:08:17 -> 00:08:21]  deep neural networks, and PCA.
+[00:08:21 -> 00:08:24]  Now, directly using BigQuery's built-in serverless
+[00:08:24 -> 00:08:28]  auto-scaling capabilities, all of this is possible.
+[00:08:28 -> 00:08:31]  Now, behind the scenes, BigQuery ML
+[00:08:31 -> 00:08:33]  actually leverages Vertex AI to enable
+[00:08:33 -> 00:08:38]  automated hyperparameter tuning and explainable AI.
+[00:08:38 -> 00:08:41]  For no-code model development, Vertex AI training
+[00:08:41 -> 00:08:44]  provides a point-and-click interface
+[00:08:44 -> 00:08:48]  to train powerful models using AutoML,
+[00:08:48 -> 00:08:50]  which comes with multiple flavors.
+[00:08:50 -> 00:08:57]  You've got tables, images, text, video, and translation.
+[00:08:57 -> 00:08:59]  Fourth is ML engineering.
+[00:08:59 -> 00:09:02]  Now, once a satisfactory model is deployed,
+[00:09:02 -> 00:09:06]  the next step is to incorporate all the activities
+[00:09:06 -> 00:09:10]  of a well-engineered application lifecycle,
+[00:09:10 -> 00:09:14]  including your testing, development, monitoring.
+[00:09:14 -> 00:09:16]  And all of those activities should
+[00:09:16 -> 00:09:20]  be as automated and robust as possible.
+[00:09:20 -> 00:09:23]  Managed datasets and feature store on Vertex AI
+[00:09:23 -> 00:09:27]  provides shared repositories for datasets and engineered
+[00:09:27 -> 00:09:30]  features, respectively, which provides
+[00:09:30 -> 00:09:34]  a single source of truth for data
+[00:09:34 -> 00:09:37]  and promote reuse and collaboration
+[00:09:37 -> 00:09:39]  within and across teams.
+[00:09:39 -> 00:09:41]  Now, Vertex AI's model-serving capability
+[00:09:41 -> 00:09:46]  enables deployment of models with multiple versions,
+[00:09:46 -> 00:09:51]  automatic capacity scaling, and user-specific load balancing.
+[00:09:51 -> 00:09:54]  Now, finally, Vertex AI model monitoring
+[00:09:54 -> 00:09:56]  monitors and provides the ability
+[00:09:56 -> 00:09:59]  to monitor prediction requests flowing
+[00:09:59 -> 00:10:03]  into the deployed model and automatically alert model
+[00:10:03 -> 00:10:07]  owners whenever the production traffic deviates
+[00:10:07 -> 00:10:11]  beyond user-defined thresholds and previous historic
+[00:10:11 -> 00:10:14]  prediction requests.
+[00:10:14 -> 00:10:20]  Now, MLOps is the industry term for modern, well-engineered ML
+[00:10:20 -> 00:10:25]  services with scalability, monitoring, reliability,
+[00:10:25 -> 00:10:29]  automated CI, CD, and many other characteristics and functions
+[00:10:29 -> 00:10:33]  that are not taken for granted in application domain.
+[00:10:33 -> 00:10:37]  The ML engineering features provided by Vertex AI
+[00:10:37 -> 00:10:41]  are informed by Google's extensive experience
+[00:10:41 -> 00:10:45]  deploying and operating internal ML services.
+[00:10:45 -> 00:10:49]  And our goal with Vertex AI is to really provide everyone
+[00:10:49 -> 00:10:53]  with easy access to essential MLOps services and best
+[00:10:53 -> 00:10:54]  practices.
+[00:10:54 -> 00:10:58]  Fifth is Insights Activation.
+[00:10:58 -> 00:11:00]  Now, Insights Activation stage is
+[00:11:00 -> 00:11:05]  where your data has now become useful to other teams
+[00:11:05 -> 00:11:06]  and processes.
+[00:11:06 -> 00:11:09]  You can use Looker and Data Studio
+[00:11:09 -> 00:11:11]  to enable use cases in which data
+[00:11:11 -> 00:11:15]  is used to influence business decisions with charts, reports,
+[00:11:15 -> 00:11:17]  and alerts.
+[00:11:17 -> 00:11:19]  Data can also influence customer decisions
+[00:11:19 -> 00:11:23]  and, as a result, increase your usage or decrease churn.
+[00:11:23 -> 00:11:27]  Finally, the data can also be used by other services
+[00:11:27 -> 00:11:28]  to drive insights.
+[00:11:28 -> 00:11:32]  These services can run inside Google Cloud, on Cloud Run,
+[00:11:32 -> 00:11:35]  or Cloud Functions, or outside Google Cloud
+[00:11:35 -> 00:11:38]  where you're connecting using Apigee API
+[00:11:38 -> 00:11:40]  management as an interface.
+[00:11:40 -> 00:11:42]  Sixth is Orchestration.
+[00:11:42 -> 00:11:45]  All of the capabilities that we've discussed so far
+[00:11:45 -> 00:11:49]  provide the key building blocks to a modern data science
+[00:11:49 -> 00:11:50]  solution.
+[00:11:50 -> 00:11:53]  But a practical application of those capabilities
+[00:11:53 -> 00:11:56]  require orchestration to automatically manage
+[00:11:56 -> 00:12:00]  the flow of data from one service to another.
+[00:12:00 -> 00:12:02]  This is where a combination of data pipelines,
+[00:12:02 -> 00:12:06]  ML pipelines, and MLOps comes into play.
+[00:12:06 -> 00:12:09]  Effective orchestration reduces the amount of time
+[00:12:09 -> 00:12:13]  that it takes to reliably go from data ingestion
+[00:12:13 -> 00:12:16]  to deploying of your model in production
+[00:12:16 -> 00:12:21]  in a way that lets you monitor and understand your ML system.
+[00:12:21 -> 00:12:25]  For data pipeline orchestration, Cloud Composer and Cloud
+[00:12:25 -> 00:12:29]  Scheduler are both used to kick off and maintain the pipeline.
+[00:12:29 -> 00:12:32]  For ML pipeline orchestration, Vertex AI Pipelines
+[00:12:32 -> 00:12:35]  is a managed machine learning service
+[00:12:35 -> 00:12:40]  that enables you to increase the pace at which you experiment
+[00:12:40 -> 00:12:43]  with and develop machine learning models
+[00:12:43 -> 00:12:45]  and the pace at which you transition
+[00:12:45 -> 00:12:47]  those models into production.
+[00:12:47 -> 00:12:49]  Now, Vertex Pipelines is serverless,
+[00:12:49 -> 00:12:51]  which means that you don't really
+[00:12:51 -> 00:12:55]  need to deal with managing an underlying GKE
+[00:12:55 -> 00:12:57]  cluster or infrastructure.
+[00:12:57 -> 00:12:59]  It scales up when you need it to,
+[00:12:59 -> 00:13:02]  and you pay only for what you use.
+[00:13:02 -> 00:13:06]  In short, it lets you really focus
+[00:13:06 -> 00:13:09]  on building your data science pipeline.
+[00:13:09 -> 00:13:13]  Those were the six broad areas that
+[00:13:13 -> 00:13:16]  are critical to a data science workflow
+[00:13:16 -> 00:13:18]  and for making data useful.
+[00:13:18 -> 00:13:22]  Which of these areas is of most interest to you?
+[00:13:22 -> 00:13:24]  Share with me in the comments below.
+[00:13:24 -> 00:13:26]  If you like this video, don't forget
+[00:13:26 -> 00:13:30]  to like and subscribe for more such content.
+[00:13:30 -> 00:13:31]  Thank you.
+[00:13:31 -> 00:13:33]  Thank you.

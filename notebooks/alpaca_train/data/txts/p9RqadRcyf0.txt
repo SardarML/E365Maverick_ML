@@ -1,0 +1,27 @@
+[00:00:00 -> 00:00:09]  Hi und herzlich willkommen bei Lehrer Schmidt. Heute geht es um das Dreieck und ich erkläre
+[00:00:09 -> 00:00:15]  die Begriffe rechtwinklig, gleichseitig und gleichschenklich. Wir beginnen mit rechtwinklig.
+[00:00:15 -> 00:00:25]  Ein Dreieck ist dann rechtwinklig, wenn ein rechter Winkel in dem Dreieck vorhanden ist.
+[00:00:25 -> 00:00:36]  Dieser befindet sich hier. Dort ist ein 90°-Winkel. Zu überprüfen ist es mit dem Geodreieck. Passt
+[00:00:36 -> 00:00:43]  das Geodreieck dort hinein, habe ich einen 90°-Winkel. Und über den Winkelsatz weiß ich,
+[00:00:43 -> 00:00:53]  wenn das hier 90° ist, werden die anderen beiden jeweils 45° sein. Wenn ich das Ganze noch
+[00:00:53 -> 00:01:02]  beschrifte, A, B, C, Großbuchstaben für die Punkte, kleine Buchstaben für die Seiten. B,
+[00:01:02 -> 00:01:13]  dann wäre das hier Alpha, Beta und Gamma. Soviel zu rechtwinklig. Die wichtigste Stelle markiere
+[00:01:13 -> 00:01:24]  ich noch, hier der rechte Winkel. Nun kommen wir zu gleichseitig. Dafür nehme ich eine Seite mit
+[00:01:24 -> 00:01:34]  4 cm. Ich kann schon die Punkte A und B beschreiben. Um ein gleichseitiges Dreieck zu konstruieren,
+[00:01:34 -> 00:01:43]  brauche ich einen Zirkel, den ich auch auf 4 cm einstelle. Und jetzt werde ich einmal in
+[00:01:43 -> 00:01:55]  Punkt B einschlagen und einmal in Punkt A. Und damit ermittle ich den Punkt C. Nun verbinde
+[00:01:55 -> 00:02:17]  ich das Ganze. Und jetzt weiß ich, dass die Strecken C, A und B immer 4 cm sind. Also
+[00:02:17 -> 00:02:27]  gleichseitig. Jede Seite ist gleich. Ich kann also sagen, dass A gleich B gleich C gleich 4 cm ist.
+[00:02:27 -> 00:02:39]  Wenn ich das entscheidende markiere, dann ist diese Seite genauso lang wie diese Seite und
+[00:02:39 -> 00:02:50]  diese Seite genauso lang wie diese Seite. Hinzu kommt, dass die Winkel Alpha, Beta und Gamma auch
+[00:02:50 -> 00:02:57]  genau gleich groß sind. Ich kann also auch noch sagen, Alpha ist gleich Beta ist gleich Gamma.
+[00:02:57 -> 00:03:04]  Und da ich weiß, dass 180 Grad ein Dreieck definiert, kann ich sagen, dass sowohl Alpha,
+[00:03:04 -> 00:03:12]  Beta als auch Gamma 60 Grad groß sind. Also auch gleich winkelig. Weiter geht es zum dritten Dreieck,
+[00:03:12 -> 00:03:30]  gleich schenklich. Hier beginne ich wieder mit 4 cm, Punkt A, Punkt B. Dieses Mal nehme ich aber 5 cm.
+[00:03:34 -> 00:03:54]  Ich beginne in Punkt B, dann Punkt A und verbinde die Punkte zu einem Dreieck. Dieses Mal sind die drei Seiten
+[00:03:54 -> 00:04:08]  nicht gleich. Hier ist C, hier ist A, hier ist B. Ich kann aber dieses Mal sagen, dass A gleich B gleich 5 cm ist.
+[00:04:08 -> 00:04:17]  Das heißt, die beiden Schenkel sind gleich lang. Ich markiere das auch wieder. Dieser Schenkel ist
+[00:04:17 -> 00:04:26]  genauso lang wie dieser Schenkel. So, zum Schluss noch drei Wünsche von mir. Erstens, wenn es euch
+[00:04:26 -> 00:04:31]  gefallen hat, dann möchte ich euch bitten, abonniert diesen Kanal. Wenn ihr was gelernt habt, dann drückt
+[00:04:31 -> 00:04:35]  Gefällt mir. Und wenn ihr eine vernünftige Übersicht sucht, dann findet ihr die auf meiner Homepage.
+[00:04:35 -> 00:04:41]  Hier seht ihr es www.lehrern-schmidt.de. Okay, das war's.

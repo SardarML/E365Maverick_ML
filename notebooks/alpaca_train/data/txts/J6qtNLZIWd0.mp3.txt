@@ -1,0 +1,286 @@
+[00:00:00 -> 00:00:04]  Thousands of years of physics research and discoveries has shaped the world we live in today.
+[00:00:04 -> 00:00:08]  From technologies we use all the time, to machines and inventions that change the world,
+[00:00:08 -> 00:00:12]  all the way to our knowledge of the universe from the very big to the very small,
+[00:00:12 -> 00:00:15]  without the advancement of physics, these would not exist.
+[00:00:15 -> 00:00:20]  Although we have discovered quite a lot, these discoveries happened over a long period of time,
+[00:00:20 -> 00:00:22]  some of them even by accident.
+[00:00:22 -> 00:00:26]  So let's take a look at the thousands of years of work that went into creating the world we live in today
+[00:00:26 -> 00:00:28]  and some of the people who got us here.
+[00:00:31 -> 00:00:37]  Let's start this in the 7th and 6th century BC with a man named Thales of Miletus,
+[00:00:37 -> 00:00:39]  whom some consider to be the father of science.
+[00:00:39 -> 00:00:44]  He's known for his attempts to explain phenomena through theories and hypotheses rather than mythology.
+[00:00:44 -> 00:00:47]  For example, although this may seem like nonsense to us now,
+[00:00:47 -> 00:00:52]  one theory he had was that all matter was made up of a single substance and that was water.
+[00:00:52 -> 00:00:54]  He may have missed the mark on that one,
+[00:00:54 -> 00:01:00]  but it's believed by some that he was able to predict a solar eclipse on May 28th, 585 BC,
+[00:01:00 -> 00:01:02]  now known as the Eclipse of Thales.
+[00:01:02 -> 00:01:07]  This eclipse actually interrupted and may have helped end a war between two local kingdoms at the time.
+[00:01:08 -> 00:01:12]  Now fast forward to the 5th century BC when philosophers came up with a new theory
+[00:01:12 -> 00:01:15]  that matter is not made up of just water, but a collection of elements.
+[00:01:15 -> 00:01:19]  Water was one, the others were earth, air and fire.
+[00:01:20 -> 00:01:24]  Several years later, Aristotle also suggested a fifth element known as aether
+[00:01:24 -> 00:01:29]  that made up celestial bodies since stars probably would not be made of the same elements found on earth.
+[00:01:29 -> 00:01:33]  He definitely would have been shocked to learn that they are in fact made up of the elements found here on earth.
+[00:01:33 -> 00:01:36]  But even though we know these classical elements to be wrong,
+[00:01:36 -> 00:01:40]  they do align quite well with these four states of matter we all know of.
+[00:01:40 -> 00:01:43]  Now those are some ancient theories, but where I really want to start this video
+[00:01:43 -> 00:01:48]  is with a story I'm sure many of you know of, which begins with a gold crown and a bathtub.
+[00:01:49 -> 00:01:53]  In the 3rd century BC lived scientist, engineer and mathematician Archimedes
+[00:01:53 -> 00:01:57]  who contributed more to the world than any other scientist of ancient times.
+[00:01:57 -> 00:02:00]  Probably his most famous contribution was made while he was taking a bath.
+[00:02:00 -> 00:02:04]  Archimedes needed to calculate the density of a supposedly gold crown
+[00:02:04 -> 00:02:08]  to determine whether some silver had been substituted by a dishonest goldsmith.
+[00:02:08 -> 00:02:13]  He was not allowed to melt the crown to a normal shape in order to perform calculations though.
+[00:02:13 -> 00:02:16]  One day while taking a bath he noticed the level of the water rise as he got in
+[00:02:16 -> 00:02:19]  and he used this principle to determine the volume of the crown
+[00:02:19 -> 00:02:22]  since the crown would displace its own volume in water.
+[00:02:22 -> 00:02:25]  He was able to then calculate the density of the crown using mass over volume
+[00:02:25 -> 00:02:31]  and concluded it was less than that of gold, proving that silver had in fact been mixed in.
+[00:02:31 -> 00:02:36]  Later Archimedes went on to write on floating bodies where he continued his research into submerged objects.
+[00:02:36 -> 00:02:39]  In this he describes what is known as Archimedes principle
+[00:02:39 -> 00:02:42]  which states how the upward buoyant force exerted on a body in a fluid
+[00:02:43 -> 00:02:46]  is equal to the weight of the fluid displaced by the body.
+[00:02:46 -> 00:02:48]  This principle is why you feel lighter when in water
+[00:02:48 -> 00:02:52]  or why it is very difficult to push an inflated beach ball underwater.
+[00:02:52 -> 00:02:55]  Now the story of the gold crown has actually been called into question
+[00:02:55 -> 00:02:58]  due to the accuracy needed to measure the water displacement
+[00:02:58 -> 00:03:02]  and how difficult that would be given the instruments available to Archimedes.
+[00:03:02 -> 00:03:06]  Instead a more practical technique that actually makes use of Archimedes principle
+[00:03:06 -> 00:03:08]  would be to suspend the crown on one end of a scale
+[00:03:08 -> 00:03:11]  and balance it with an equal mass of gold on the other.
+[00:03:11 -> 00:03:15]  Then when put into water the crown would have displaced more water than the gold
+[00:03:15 -> 00:03:18]  due to its larger volume and thus experience a higher buoyant force
+[00:03:18 -> 00:03:21]  making it more apparent it was mixed with silver.
+[00:03:21 -> 00:03:26]  Now physics is not just a foundational science but it's also the basis of technology.
+[00:03:26 -> 00:03:31]  New physics discoveries today lead to new technologies tomorrow and this goes way back.
+[00:03:31 -> 00:03:34]  During ancient times many Greeks were interested in the development of machines.
+[00:03:34 -> 00:03:39]  For example Archimedes is recognized for the invention of various networks of pulleys and levers.
+[00:03:39 -> 00:03:43]  His famous quote is give me a place to stand and I will move the earth.
+[00:03:43 -> 00:03:47]  This of course has to do with mechanical advantage and the amplification of applied forces.
+[00:03:47 -> 00:03:53]  Machines that make use of mechanical advantage allow us to let's say lift a car using only our own strength.
+[00:03:53 -> 00:03:56]  One notable invention of his was the claw of Archimedes
+[00:03:56 -> 00:04:02]  that used mechanical advantage as a weapon to defend a portion of Syracuse's city wall during the Second Punic War.
+[00:04:02 -> 00:04:07]  Its exact design is unclear but it worked kind of like a crane using pulleys and levers
+[00:04:07 -> 00:04:12]  to lift enemy ships slightly out of the water causing them to eventually flood and sink.
+[00:04:12 -> 00:04:20]  Nowadays simple things like bottle openers, nail clippers, hammers, bike gears, wheelbarrows and more make use of these principles.
+[00:04:20 -> 00:04:27]  Now let's fast forward all the way to the 11th century when a physicist known as Ibn Al-Haytham changed the way we think about light.
+[00:04:27 -> 00:04:32]  Although a lot of research has been done since Al-Haytham is considered the father of optics.
+[00:04:32 -> 00:04:36]  For reasons I won't go into Al-Haytham was kept under house arrest for several years
+[00:04:36 -> 00:04:40]  and during that time he published a seven volume collection of books known as the Book of Optics
+[00:04:40 -> 00:04:43]  where he proved that light travels in a straight line.
+[00:04:43 -> 00:04:49]  He did this through one of the first scientific experiments ever as a lot of previous theories were simply speculation.
+[00:04:49 -> 00:04:54]  Like at this point in time it was still thought that heavier objects fall at a faster rate as theorized by Aristotle.
+[00:04:54 -> 00:04:57]  This would be proved wrong in a few hundred years though.
+[00:04:57 -> 00:05:01]  Anyways one experiment Al-Haytham performed was he cut a small hole in a wall
+[00:05:01 -> 00:05:05]  and hung two lanterns at different locations in an adjacent room.
+[00:05:05 -> 00:05:08]  He observed that the light illuminated unique spots in the opposite room
+[00:05:08 -> 00:05:12]  and each formed a straight line with the hole and one of the lanterns.
+[00:05:12 -> 00:05:17]  Also for hundreds of years it was believed that our eyes actually emitted rays of light
+[00:05:17 -> 00:05:19]  that would bounce off objects allowing us to see.
+[00:05:19 -> 00:05:25]  He was the first to say that in fact light travels from objects and enters our eyes which is now known to be correct.
+[00:05:25 -> 00:05:30]  Now one thing he was wrong about even though he did research on them was rainbows.
+[00:05:30 -> 00:05:35]  He assumed rainbows were an image of the sun formed from a curved mirror due to water within clouds.
+[00:05:35 -> 00:05:41]  It wasn't until the year 1300 that Theodoric of Freiburg used spherical flask and glass globes
+[00:05:41 -> 00:05:44]  to simulate water droplets that occurred during rainfall.
+[00:05:44 -> 00:05:50]  He observed that light refracted onto the droplets reflected back out or they were refracted again.
+[00:05:50 -> 00:05:54]  Although Al-Haytham did not contribute to our understanding of rainbows directly
+[00:05:54 -> 00:05:59]  Theodoric of Freiburg relied on Al-Haytham's book of optics to further our understanding of them.
+[00:05:59 -> 00:06:06]  Today optics has applications in medicine, telescopes, astronomy, laser technology, fiber optic cables and much more.
+[00:06:06 -> 00:06:11]  Next up just about 2,000 years ago the first compass was invented
+[00:06:11 -> 00:06:17]  and although people did eventually use these for navigation no one truly knew how they worked for over a thousand years.
+[00:06:17 -> 00:06:19]  That was until the turn of the 17th century.
+[00:06:19 -> 00:06:24]  It was assumed for a long time that compasses were attracted to a large magnetic island on the North Pole.
+[00:06:24 -> 00:06:30]  That was until William Gilbert came in and wrote his book where he proved the earth was actually one giant magnet.
+[00:06:30 -> 00:06:35]  In this book he discusses experiments in which he models the earth using something called the Torella
+[00:06:35 -> 00:06:38]  or a sphere made out of a naturally magnetized material.
+[00:06:38 -> 00:06:42]  When he passed a compass over the Torella he saw it would always point towards the magnetic pole
+[00:06:42 -> 00:06:45]  and behave just as it would on earth itself.
+[00:06:45 -> 00:06:48]  The Torella was improved upon 300 years later by Christian Birkeland
+[00:06:48 -> 00:06:53]  in order to further investigate the polar aurora and why it appeared near the magnetic poles of earth.
+[00:06:54 -> 00:06:57]  Now William Gilbert also did work in electricity.
+[00:06:57 -> 00:07:02]  In fact he is credited with inventing the word electricity and many consider him the father of electrical engineering.
+[00:07:02 -> 00:07:08]  One of Gilbert's inventions was the electroscope, the first instrument to measure the presence of electric charge.
+[00:07:08 -> 00:07:15]  Over 300 years later physicist Victor Hess would use the electroscope to discover something that would win him the Nobel Prize.
+[00:07:15 -> 00:07:17]  But I'll get to that soon.
+[00:07:17 -> 00:07:22]  Now like I said for over a thousand years it was believed that heavier objects would fall at a faster rate.
+[00:07:22 -> 00:07:27]  This was introduced by Aristotle and it seems intuitive but of course we know now that this is wrong.
+[00:07:27 -> 00:07:33]  The story that's been told is around 1590 the scientist Galileo dropped spheres of different masses
+[00:07:33 -> 00:07:37]  from the Leaning Tower of Pisa to show that their time to reach the ground was independent of mass,
+[00:07:37 -> 00:07:39]  which we now know to be true.
+[00:07:39 -> 00:07:44]  He also showed that the relationship between distance and time can be represented by this equation.
+[00:07:44 -> 00:07:49]  Although the basic physics here proved to be accurate, many historians believe that the story isn't,
+[00:07:49 -> 00:07:51]  but rather it was a thought experiment.
+[00:07:51 -> 00:07:55]  Then Galileo did work on pendulums but also introduced the idea of relativity
+[00:07:55 -> 00:07:58]  that would be greatly expanded upon by Einstein.
+[00:07:58 -> 00:08:04]  Galileo stated that the laws of physics are the same in any system that is moving at a constant speed in a straight line,
+[00:08:04 -> 00:08:08]  meaning there's no such thing as absolute motion, it's all relative.
+[00:08:08 -> 00:08:11]  If you were in a rocket ship moving through space at a constant velocity
+[00:08:11 -> 00:08:14]  there'd be no way to determine if you were moving or actually stationary.
+[00:08:14 -> 00:08:19]  Your brain probably is telling you that these asteroids are passing by a still observer right now,
+[00:08:19 -> 00:08:24]  but look at it some more and you can probably convince yourself that the asteroids are still and you're moving past them.
+[00:08:24 -> 00:08:27]  Galileo's work not only set the foundations for Einstein,
+[00:08:27 -> 00:08:31]  but also provided the framework for what Isaac Newton would go on to discover.
+[00:08:31 -> 00:08:37]  In 1687 Newton published a book called Principia that laid out the foundations of classical mechanics
+[00:08:37 -> 00:08:41]  and is regarded as one of the most influential scientific publications of all time.
+[00:08:41 -> 00:08:45]  In Principia Newton stated that gravity pulls masses together.
+[00:08:45 -> 00:08:49]  The earth exerts a force on you just as you actually exert a force on the earth.
+[00:08:49 -> 00:08:52]  He explains how this force obeys an inverse square law,
+[00:08:52 -> 00:08:56]  so if you get twice as far from something the gravitational force becomes four times weaker.
+[00:08:56 -> 00:08:59]  And of course his three laws of motion were discussed here,
+[00:08:59 -> 00:09:03]  which is one of the first things we all learn when we take a first level physics course.
+[00:09:03 -> 00:09:07]  Newton was also heavily interested in orbiting bodies and celestial mechanics.
+[00:09:07 -> 00:09:10]  It was believed for a long time that celestial bodies orbit in perfect circles,
+[00:09:10 -> 00:09:16]  but Newton proved that actually an elliptical path would form as a result of the inverse square law that governed gravity.
+[00:09:16 -> 00:09:19]  Newton also contributed to the field of optics.
+[00:09:19 -> 00:09:24]  In fact he coined the term spectrum in order to explain the colors that appear when white light enters a prism.
+[00:09:24 -> 00:09:29]  During his studies he invented the first known functioning reflecting telescope or the Newtonian telescope.
+[00:09:29 -> 00:09:33]  He did not come up with this idea, but seems to be the first to make a working one.
+[00:09:33 -> 00:09:39]  Reflecting telescopes are very simple in design and did not use a lens which offered certain advantages.
+[00:09:39 -> 00:09:45]  A few decades earlier Galileo designed what is known as a Galilean telescope that used refraction instead of reflection.
+[00:09:45 -> 00:09:49]  It contained two lenses and can magnify images about 30 times in size,
+[00:09:49 -> 00:09:53]  but flaws in the design caused images to be blurry or distorted.
+[00:09:53 -> 00:09:59]  However these flaws did not stop Galileo from being able to observe craters on the moon or various moons of Jupiter.
+[00:09:59 -> 00:10:04]  Reflecting telescopes, while not perfect, did not contain some of these flaws such as unwanted refractions,
+[00:10:04 -> 00:10:07]  otherwise known as chromatic aberrations.
+[00:10:07 -> 00:10:11]  Then by the 1700s more and more research was being done with electricity.
+[00:10:11 -> 00:10:16]  But note at this time no one knew that electricity came from charged particles we now call electrons.
+[00:10:16 -> 00:10:20]  That was still over a hundred years away, but that would not prevent research from being done.
+[00:10:20 -> 00:10:25]  In fact one of the key pieces of electrical equipment in your computer, phone and other electronics
+[00:10:25 -> 00:10:32]  was first formed in 1745 when Ewald von Kleist was connecting metal foil to the inside surfaces of a glass jar
+[00:10:32 -> 00:10:34]  that was then filled with water.
+[00:10:34 -> 00:10:38]  The goal is to charge the water by connecting it to a generator that could produce an electric charge.
+[00:10:38 -> 00:10:43]  When Kleist then touched the foil with his hand he experienced a very strong electric shock,
+[00:10:43 -> 00:10:45]  one that was arguably life-threatening.
+[00:10:45 -> 00:10:48]  But what was going on was that the jar was storing electricity.
+[00:10:48 -> 00:10:51]  This became known as a Leyden jar.
+[00:10:51 -> 00:10:57]  That name may not be familiar to some of you, but the Leyden jar is also considered the first ever capacitor.
+[00:10:57 -> 00:11:02]  Capacitors exist in all sorts of electronics nowadays and what they do is store charge.
+[00:11:02 -> 00:11:06]  Most people who will be taking a basic physics class can expect to learn some basic circuit analysis with these.
+[00:11:06 -> 00:11:09]  Now the applications of capacitors have a wide range.
+[00:11:09 -> 00:11:13]  Store charge can be used to represent binary within a digital system.
+[00:11:13 -> 00:11:17]  It can be used to supply large amounts of current to things like lasers and particle accelerators.
+[00:11:17 -> 00:11:19]  They can be used as sensors.
+[00:11:19 -> 00:11:23]  They can adjust the power in high voltage systems as needed and so on.
+[00:11:23 -> 00:11:28]  Moving on, when Isaac Newton was alive he became a very powerful figure in the scientific community.
+[00:11:28 -> 00:11:32]  Very few were willing to challenge his ideas and this continued even after his death.
+[00:11:32 -> 00:11:34]  But he was not right about everything.
+[00:11:34 -> 00:11:40]  In the late 1700s and early 1800s Thomas Young would challenge Isaac Newton's view of optics.
+[00:11:40 -> 00:11:45]  In 1678 the scientist Christian Huygens actually proposed that light was a wave.
+[00:11:45 -> 00:11:48]  But Isaac Newton disregarded this and put forward his own theories.
+[00:11:48 -> 00:11:54]  Isaac Newton viewed light as a stream of particles since he could use his laws of motion to describe them better.
+[00:11:54 -> 00:11:59]  In the late 1700s Thomas Young defended Huygens theory and in 1804 all doubt had disappeared
+[00:11:59 -> 00:12:02]  when he reported the results of his double slit experiment.
+[00:12:02 -> 00:12:05]  One of the most famous experiments in all of physics.
+[00:12:05 -> 00:12:08]  He actually first observed how water waves would behave in a ripple tank.
+[00:12:08 -> 00:12:13]  He saw that the waves would either combine or cancel each other out making some kind of interference pattern.
+[00:12:13 -> 00:12:17]  When he performed this experiment with light and shined it through two small slits
+[00:12:17 -> 00:12:21]  he saw the same patterns emerge proving that light was in fact a wave.
+[00:12:21 -> 00:12:27]  Now shifting gears in 1843 James Joule devised an experiment to measure the mechanical equivalent of heat.
+[00:12:27 -> 00:12:30]  Back then it seemed as though these were two very different things.
+[00:12:30 -> 00:12:33]  Heat being transferred versus the physical motion of something.
+[00:12:33 -> 00:12:36]  But he eventually showed that these were interchangeable.
+[00:12:36 -> 00:12:41]  What he did was made a device such that you could turn a handle causing two weights to rise and fall.
+[00:12:41 -> 00:12:45]  This would then turn a paddle that would stir the water within a container.
+[00:12:45 -> 00:12:50]  When the weights fell Joule noticed a rise in temperature as measured by a thermometer.
+[00:12:50 -> 00:12:57]  After raising and lowering the weight several times he calculated a value of about 4.14 Joules being equivalent to one calorie.
+[00:12:57 -> 00:13:02]  This is the amount of energy needed to raise one gram of water one degree Kelvin.
+[00:13:02 -> 00:13:06]  This was a little off as we now know is about 4.18 Joules per calorie.
+[00:13:06 -> 00:13:09]  Joule also showed that energy did not disappear.
+[00:13:09 -> 00:13:11]  It was just transferred to different forms.
+[00:13:11 -> 00:13:15]  This then led to the development of the first law of thermodynamics just a few years later.
+[00:13:16 -> 00:13:21]  Now something you may not know is that years earlier in 1842 a man named Julius Robert von Mayer
+[00:13:21 -> 00:13:25]  wrote a paper that discussed the concept of energy not being created nor destroyed
+[00:13:25 -> 00:13:28]  as well as the interchangeability of mechanical work and heat.
+[00:13:28 -> 00:13:32]  Unfortunately for Mayer he was not an actual physicist but rather a physician
+[00:13:32 -> 00:13:35]  so his papers were widely ignored by experts in the field.
+[00:13:35 -> 00:13:39]  He read up on others experiments and used his own observations to come up with ideas
+[00:13:39 -> 00:13:42]  but did not have the training to present his findings in the proper way.
+[00:13:42 -> 00:13:46]  This led to some disappointment when he found out years later that Joule got the credit
+[00:13:46 -> 00:13:49]  for many of the topics he had been an advocate for years earlier.
+[00:13:49 -> 00:13:53]  Joule did set up his own experiments and all that so it's not like he stole Mayer's ideas
+[00:13:53 -> 00:13:58]  but we now give credit to Joule for these findings and he even has a unit of energy named after him.
+[00:13:58 -> 00:14:02]  And now of course thermodynamics has gone on to have applications in engine design,
+[00:14:02 -> 00:14:04]  refrigerators, power plants and more.
+[00:14:05 -> 00:14:08]  Then if you look up the most influential equations of all time
+[00:14:08 -> 00:14:12]  just about any article or video you find will include Maxwell's equations.
+[00:14:12 -> 00:14:16]  These are the equations that tell us the relationship between electricity and magnetism.
+[00:14:16 -> 00:14:19]  These also predicted the existence of electromagnetic waves
+[00:14:19 -> 00:14:22]  which propagate through a vacuum at the speed of light.
+[00:14:22 -> 00:14:25]  Electromagnetic waves are what encompass the signals that travel through the air
+[00:14:25 -> 00:14:27]  when we talk on a cell phone.
+[00:14:27 -> 00:14:31]  They encompass visible light, microwaves, x-rays, gamma rays and so on.
+[00:14:31 -> 00:14:35]  So basically anything dealing with optics, wireless communications, lasers etc
+[00:14:35 -> 00:14:37]  has its foundations rooted in Maxwell's equations.
+[00:14:38 -> 00:14:42]  Now Maxwell's equations did predict the existence of all these types of waves you see here
+[00:14:42 -> 00:14:45]  but at this time most of them really hadn't been discovered yet.
+[00:14:45 -> 00:14:48]  We never sent a radio signal or observed x-rays for example.
+[00:14:48 -> 00:14:51]  But within just a few decades these would all be discovered.
+[00:14:51 -> 00:14:54]  In the late 1880s the physicist Wilhelm Roentgen
+[00:14:54 -> 00:14:58]  was investigating vacuum tubes and external effects as current passed through them.
+[00:14:58 -> 00:15:01]  One day while running an experiment with these
+[00:15:01 -> 00:15:04]  he noticed a fluorescent effect on a screen within his lab
+[00:15:04 -> 00:15:07]  and he deduced that a new ray was having this effect.
+[00:15:07 -> 00:15:10]  Because these were still unknown at the time he just called these rays X
+[00:15:10 -> 00:15:12]  like we do in math for unknowns.
+[00:15:12 -> 00:15:16]  While he continued his investigation he finally saw a radiographic image
+[00:15:16 -> 00:15:20]  which was a flickering image of his skeleton on a platinum cyanide screen.
+[00:15:20 -> 00:15:24]  As you can guess what he had finally discovered was what we now call x-rays.
+[00:15:24 -> 00:15:28]  Just a few weeks later he used these x-rays to take a picture of his wife's hand
+[00:15:28 -> 00:15:31]  to which she exclaimed I have seen my own death.
+[00:15:31 -> 00:15:34]  Only a year after this x-rays were being used in medical imaging
+[00:15:34 -> 00:15:38]  and of course are still used today for medical and security purposes.
+[00:15:38 -> 00:15:43]  For this discovery Roentgen won the first ever Nobel Prize in physics in 1901.
+[00:15:43 -> 00:15:46]  He became known as the father of diagnostic radiography
+[00:15:46 -> 00:15:50]  and in 2004 a radioactive element on the periodic table was named after him.
+[00:15:50 -> 00:15:53]  Roentgen's findings then inspired more research
+[00:15:53 -> 00:15:56]  into the existence of these x-rays from other sources
+[00:15:56 -> 00:16:00]  and Antoine Henri Becquerel was one physicist who set out to make his own discovery.
+[00:16:00 -> 00:16:04]  He thought certain phosphorescent materials he was working on such as uranium salts
+[00:16:04 -> 00:16:07]  may have been emitting x-rays when exposed to sunlight
+[00:16:07 -> 00:16:10]  and he soon discovered that this was completely wrong.
+[00:16:10 -> 00:16:13]  What was happening was that the radiation was coming from the uranium itself
+[00:16:13 -> 00:16:15]  without the need for sunlight.
+[00:16:15 -> 00:16:18]  By the way at this point in time uranium was thought of as a harmless metal
+[00:16:18 -> 00:16:20]  but that would soon change.
+[00:16:20 -> 00:16:24]  Now this phenomena observed with the uranium salts became known as Becquerel rays.
+[00:16:24 -> 00:16:27]  That was until a few years later when Becquerel's research student
+[00:16:27 -> 00:16:30]  one of the most well-known physicists of all time Marie Curie
+[00:16:30 -> 00:16:34]  began investigating these rays and eventually coined the term radioactivity.
+[00:16:34 -> 00:16:37]  Although Becquerel did not get the rays named after him
+[00:16:37 -> 00:16:42]  the unit for how many atomic nuclei decay in a substance per second is now called a Becquerel.
+[00:16:42 -> 00:16:47]  Marie Curie and her husband Pierre Curie are probably the most well-known couple in all of science
+[00:16:47 -> 00:16:51]  and along with Becquerel the three of them found that thorium was also radioactive.
+[00:16:51 -> 00:16:55]  The Curies additionally went on to discover two new radioactive elements
+[00:16:55 -> 00:17:00]  polonium named after Poland where Marie Curie grew up and also radium.
+[00:17:00 -> 00:17:06]  Then in 1903 the Curies as well as Becquerel were awarded the Nobel Prize for their work in radioactivity.
+[00:17:06 -> 00:17:10]  Pierre Curie died just a few years later in 1906
+[00:17:10 -> 00:17:12]  and is best known for the discovery of the Curie point
+[00:17:12 -> 00:17:15]  a temperature in which a magnet loses its magnetism.
+[00:17:15 -> 00:17:19]  Marie Curie went on to be the first person to win two Nobel Prizes
+[00:17:19 -> 00:17:22]  one in physics and another in chemistry in 1911.
+[00:17:23 -> 00:17:25]  Now when the Curies were working on radiation research
+[00:17:25 -> 00:17:29]  a physicist named Ernest Rutherford began working with uranium as well
+[00:17:29 -> 00:17:31]  and discovered two types of radiation.
+[00:17:31 -> 00:17:33]  One that can be blocked by a thin sheet of paper
+[00:17:33 -> 00:17:37]  which was going alpha radiation that consists of two protons and two neutrons
+[00:17:37 -> 00:17:39]  although this was not known at the time
+[00:17:39 -> 00:17:43]  and another that could pass right through the paper but would be blocked by something like aluminum.
+[00:17:43 -> 00:17:47]  This was named beta radiation and it's much more dangerous to be exposed to.
+[00:17:47 -> 00:17:51]  The most dangerous of these three I'll discuss is known as gamma radiation
+[00:17:51 -> 00:17:54]  and was discovered in 1900 by Paul Villard.
+[00:17:54 -> 00:17:58]  This gamma radiation was coming off radium which the Curies had recently discovered.
+[00:17:58 -> 00:18:01]  Gamma rays are not composed of subatomic particles
+[00:18:01 -> 00:18:04]  but instead are very high energy electromagnetic waves.
+[00:18:04 -> 00:18:09]  Gamma rays can only be stopped by thicker barriers made up of things like lead and iron.
+[00:18:09 -> 00:18:12]  These are dangerous because they're extremely small wavelength and high energy
+[00:18:12 -> 00:18:16]  makes it so they can interact with human cells causing illness and even cancer.
+[00:18:16 -> 00:18:19]  These are released by nuclear weapons for example.
+[00:18:19 -> 00:18:22]  Although this does not make this research into radiation seem positive
+[00:18:22 -> 00:18:27]  radioactivity grew to apply to nuclear reactors which currently account for 14% of the world's power
+[00:18:27 -> 00:18:31]  and radiation is used in medicine to diagnose and treat illnesses.
+[00:18:31 -> 00:18:36]  For example radiation therapy is where we use radiation to specifically kill or slow the growth of cancer cells.
+[00:18:36 -> 00:18:41]  Now we are about to enter the 1900s in which physics saw an unbelievable amount of growth.
+[00:18:41 -> 00:18:46]  When making this video I was honestly surprised just how much I would have to include in that century alone.
+[00:18:47 -> 00:18:53]  You'll note our understanding of various extremes like the very large, the very small, the very cold and the very fast
+[00:18:53 -> 00:18:57]  would all be significantly improved upon in the years to come.
+[00:18:57 -> 00:19:02]  Discoveries would lead to new inventions that change the world and others that were more controversial.

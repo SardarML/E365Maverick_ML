@@ -1,0 +1,263 @@
+[00:00:00 -> 00:00:04]  Hi everybody this is Liam Martin and in today's video we're going to be talking
+[00:00:04 -> 00:00:13]  about the 21 essential rules for managing a remote team as defined by me
+[00:00:13 -> 00:00:19]  Liam from Time Doctor. Let's get into it. Tip number one you really have to
+[00:00:19 -> 00:00:25]  compensate for the fact that you're not bumping into each other on a daily basis
+[00:00:25 -> 00:00:30]  if you're running a remote team so Time Doctor has 80 plus employees in 27
+[00:00:30 -> 00:00:35]  different countries all over the world from Canada to Nigeria we have employees
+[00:00:35 -> 00:00:41]  everywhere all over the planet and it's a huge advantage in some capacities but
+[00:00:41 -> 00:00:45]  it's also a huge disadvantage in other capacities and one of the biggest ones
+[00:00:45 -> 00:00:50]  is that you're really not just bumping into people that inside of your
+[00:00:50 -> 00:00:56]  organization like you would if everyone was locally located so inside of virtual
+[00:00:56 -> 00:01:02]  teams you have to really compensate for that natural bumping into people which
+[00:01:02 -> 00:01:08]  is what produces a lot of magic inside of tech startups as an example and very
+[00:01:08 -> 00:01:14]  fast-moving companies where you'll have that intermingling of people that will
+[00:01:14 -> 00:01:19]  be able to produce interesting new ideas and insights that you wouldn't have
+[00:01:19 -> 00:01:24]  otherwise had so with that said I'm going to go on to tip number two which is I
+[00:01:24 -> 00:01:30]  suggest that you have a chat room open constantly we call it the water cooler
+[00:01:30 -> 00:01:35]  inside of our chat so we have one in Skype and we have one inside of Slack and
+[00:01:35 -> 00:01:40]  that basically is a room that you can talk about anything that you
+[00:01:40 -> 00:01:45]  want to talk about if you want to talk about your kids graduation if you want
+[00:01:45 -> 00:01:50]  to talk about a different coding system if you want to talk about the latest
+[00:01:50 -> 00:01:55]  episode of Game of Thrones you can do that in that water cooler chat room and
+[00:01:55 -> 00:02:02]  it really creates that sort of naturalized bumping into that you would
+[00:02:02 -> 00:02:07]  have had inside of a local organization it just gives you that little small talk
+[00:02:07 -> 00:02:12]  that people need to get those bumps and then also more importantly to be
+[00:02:12 -> 00:02:16]  able to give them deeper insights into people that you wouldn't have otherwise
+[00:02:16 -> 00:02:21]  had if you were if you just didn't have access to that type of chat in the first
+[00:02:21 -> 00:02:25]  place tip number three you have to be really
+[00:02:25 -> 00:02:31]  wary of email in chat overload particularly in remote businesses so
+[00:02:31 -> 00:02:34]  this is a problem inside of brick-and-mortar businesses but it's
+[00:02:34 -> 00:02:39]  even worse inside of remote businesses because you get a lot more email and you
+[00:02:39 -> 00:02:42]  get a lot more chat messages so you have to be wary of that you have to
+[00:02:42 -> 00:02:47]  understand and encourage your employees to turn off their chat and turn off
+[00:02:47 -> 00:02:52]  their email when they're finished with their workday as an example so they're
+[00:02:52 -> 00:02:54]  not answering emails at three o'clock in the morning like I was today
+[00:02:54 -> 00:03:01]  unfortunately you need to really make sure that that stuff is controlled
+[00:03:01 -> 00:03:04]  because otherwise that works into every aspect of their lives and makes them
+[00:03:05 -> 00:03:11]  unhappy and at the end of the day less productive employees tip number four I
+[00:03:11 -> 00:03:17]  talk about the levels of importance as it applies to communication so video is
+[00:03:17 -> 00:03:23]  the most important level of communication then it is audio then it is
+[00:03:23 -> 00:03:31]  chat then it is email in that order so if you can always have video chats with
+[00:03:31 -> 00:03:34]  people if you can't have a video chat have an audio call with somebody you
+[00:03:34 -> 00:03:38]  can't have an audio call have a live chat with them and if you can't do that
+[00:03:38 -> 00:03:43]  then go to email that's the way you should be basically orienting yourself
+[00:03:43 -> 00:03:47]  inside of the organization it's really important to make sure you have those
+[00:03:47 -> 00:03:53]  levels because email is very slow video is very fast so if you need something
+[00:03:53 -> 00:03:57]  done quickly and efficiently video is probably the best way to do it tip
+[00:03:57 -> 00:04:01]  number five if you can't do a video chat with somebody one of the best ways
+[00:04:01 -> 00:04:07]  to communicate exactly what you need done is through video or visualization
+[00:04:07 -> 00:04:12]  communication tools so I use a tool called Jing and what it is and allows
+[00:04:12 -> 00:04:18]  you to do is you can draw a box on your computer screen and it will give you
+[00:04:18 -> 00:04:23]  five minutes for free it gives you unlimited data if you're if you pay the
+[00:04:23 -> 00:04:28]  $5 a month or something like that for Jing and you'll be able to record a
+[00:04:28 -> 00:04:36]  screen capture of exactly what you want done inside of your company so let's say
+[00:04:36 -> 00:04:40]  that you want some edits done to a particular website well you can do a
+[00:04:40 -> 00:04:46]  video outlining exactly what you want done and why something wasn't done
+[00:04:46 -> 00:04:51]  correctly or was done correctly and the old adage of pictures worth a thousand
+[00:04:51 -> 00:04:53]  words well a video is worth like a hundred thousand words that's why we're
+[00:04:53 -> 00:04:58]  doing video right now as well to be able to communicate to you like this you need
+[00:04:58 -> 00:05:02]  to make sure that you're as information rich as humanly possible when you
+[00:05:02 -> 00:05:07]  communicate so if you can't do a video call use one of these video tools like
+[00:05:07 -> 00:05:12]  Jing to be able to really get more richness into an email or a chat message
+[00:05:12 -> 00:05:17]  that you're going to send tip number six video conferencing technology is
+[00:05:17 -> 00:05:25]  critical because as I said before video is the most information rich form of
+[00:05:25 -> 00:05:28]  communication that you can have inside of your remote team so what I suggest
+[00:05:28 -> 00:05:33]  you do is if your budget is quite low get on Skype Skype is free if you have a
+[00:05:33 -> 00:05:39]  little bit more of a budget zoom is more expensive but much better as a tool to
+[00:05:39 -> 00:05:44]  be able to work and collaborate through video with co-workers that are remote
+[00:05:44 -> 00:05:49]  and even if you want to get started very quickly and easily something like Google
+[00:05:49 -> 00:05:55]  Apps will have a Google Hangouts feature inside of Google Apps that you can use
+[00:05:55 -> 00:06:01]  like a zoom or a Skype so any of those three options are absolutely fantastic
+[00:06:01 -> 00:06:08]  if you're looking at increasing your video communication or you haven't made
+[00:06:08 -> 00:06:11]  that decision yet and you really want to actually deploy one of these tools
+[00:06:12 -> 00:06:17]  inside of your organization tip number nine what you need to do is set up a
+[00:06:17 -> 00:06:24]  meeting rhythm what doesn't get measured doesn't get managed and if you're not
+[00:06:24 -> 00:06:29]  meeting with people on a set time to a set rhythm then people can get very
+[00:06:29 -> 00:06:35]  distracted and they're not focused on executing on their work so what I would
+[00:06:35 -> 00:06:39]  suggest that you do is you either set up a daily meeting with people a weekly
+[00:06:39 -> 00:06:44]  meeting with people or a bi-weekly meeting with people I think that you
+[00:06:44 -> 00:06:50]  should not be meeting with people less than once a week if you end up meeting
+[00:06:50 -> 00:06:54]  with people monthly you just won't get anything done and they may go in a
+[00:06:54 -> 00:06:59]  completely separate direction that you didn't really intend them to go in so
+[00:06:59 -> 00:07:07]  make sure that it's either daily bi-weekly or weekly and make sure that
+[00:07:07 -> 00:07:13]  meeting you have very clear identifiable goals that everyone needs to meet we
+[00:07:13 -> 00:07:18]  call them KPIs and you then need for them to give you a report on where their
+[00:07:18 -> 00:07:22]  current KPIs are basically what they did last week what they're planning on doing
+[00:07:22 -> 00:07:26]  next week and any blockers or issues that they need to report back to you so
+[00:07:26 -> 00:07:30]  that you can help solve that problem for them and if you can execute on that
+[00:07:30 -> 00:07:34]  you'll have a beautiful meeting rhythm you just need to be able to keep that
+[00:07:34 -> 00:07:39]  reliability inside of the organization tip number 10 you need effective
+[00:07:39 -> 00:07:44]  collaboration on documents and spreadsheets and I would suggest that
+[00:07:44 -> 00:07:47]  you use Google Apps it's really easy they're all virtual documents but
+[00:07:47 -> 00:07:52]  whatever documents you're trying to use make sure that they are in the cloud so
+[00:07:52 -> 00:07:57]  that you can edit them live so all of these different employees can go into a
+[00:07:57 -> 00:08:00]  single document and then you can add and delete information you can edit
+[00:08:00 -> 00:08:03]  information you can see the different versions you can see what people have
+[00:08:03 -> 00:08:06]  added and what people have taken away as an example Google Apps does this
+[00:08:06 -> 00:08:09]  beautifully it's very cheap but there are plenty of other products on the
+[00:08:09 -> 00:08:14]  market like Apple also has a version of this and then Microsoft also has a
+[00:08:14 -> 00:08:17]  version of this type of these types of applications that you can use so whatever
+[00:08:17 -> 00:08:20]  you're using it doesn't really matter as long as they are in the cloud and
+[00:08:20 -> 00:08:25]  collaborative it's absolutely critical if you're going to run a remote team tip
+[00:08:25 -> 00:08:32]  number 11 set up a project management system and actually use it I'm blown
+[00:08:32 -> 00:08:37]  away with people who constantly do not use their project management systems and
+[00:08:37 -> 00:08:42]  for us it's so important in a remote organization to make sure that
+[00:08:42 -> 00:08:46]  everything is documented because when stuff is in your head it unfortunately
+[00:08:46 -> 00:08:51]  can't be communicated to the rest of the organization and even in comparison to a
+[00:08:51 -> 00:08:57]  local organization where you'll have a lot of just the general communication
+[00:08:57 -> 00:09:01]  that happens saying oh yeah I put out that memo or yeah I solved that problem
+[00:09:01 -> 00:09:05]  isn't communicated inside of a remote organization because you're not having
+[00:09:05 -> 00:09:11]  those natural bumps in communication sort of happenstance that you would have
+[00:09:11 -> 00:09:15]  in a local organization so you need a project management system you need to
+[00:09:15 -> 00:09:18]  use it religiously and everything needs to go into that project management
+[00:09:18 -> 00:09:25]  system I would suggest something like a sauna base camp there's a couple other
+[00:09:25 -> 00:09:29]  Jira as an example is another one that's really great for development and there's
+[00:09:29 -> 00:09:32]  a ton of other project management tools on the market you just have to choose
+[00:09:32 -> 00:09:37]  one and actually execute on putting stuff into it and making sure that your
+[00:09:37 -> 00:09:42]  team is answerable to putting stuff inside of that project management tool
+[00:09:42 -> 00:09:46]  if they're not doing it you're losing millions of dollars not by doing it tip
+[00:09:46 -> 00:09:51]  number 12 you've got to implement systems this is one of the biggest
+[00:09:51 -> 00:09:55]  problems that I see when people are working remotely you must have
+[00:09:55 -> 00:10:01]  processes inside of your organization if you have a remote business so I'll
+[00:10:01 -> 00:10:05]  give you a perfect example we're making these videos right now there's a process
+[00:10:05 -> 00:10:10]  for how the video is edited how the video is exported do we have an
+[00:10:10 -> 00:10:15]  Instagram story 15 second snippet that we also pull outside of that initial
+[00:10:15 -> 00:10:20]  edit inside of Final Cut do we use a multi cam or do we use a single camera
+[00:10:20 -> 00:10:25]  system how does the audio look have we checked for audio are we going to
+[00:10:25 -> 00:10:28]  promote it in the right way what are the tags underneath that video what do
+[00:10:28 -> 00:10:32]  we write underneath that video is this integrated inside of a blog post or not
+[00:10:32 -> 00:10:36]  we have these checklists and these processes and it's really important that
+[00:10:36 -> 00:10:39]  you have these processes inside of your organization because if you're making
+[00:10:39 -> 00:10:43]  one video not that big of a deal if you're making a hundred videos it's a
+[00:10:43 -> 00:10:47]  big deal you need to have those processes in place otherwise just
+[00:10:47 -> 00:10:49]  systems break down and people don't actually know what the heck they're
+[00:10:49 -> 00:10:54]  supposed to be doing so implementing systems is super easy I got a video about
+[00:10:54 -> 00:10:59]  systems that I'm gonna link right up here that you can check out and again
+[00:10:59 -> 00:11:04]  systems get them up and running guys it's just you're you're literally losing
+[00:11:04 -> 00:11:08]  millions and millions of dollars by not implementing stuff like this tip number
+[00:11:08 -> 00:11:15]  13 it's really important to deploy flexible work hours as long as there is
+[00:11:15 -> 00:11:20]  consistency so our mission statement as a company is we want to empower workers
+[00:11:20 -> 00:11:26]  to work wherever they want whenever they want so we don't really care where
+[00:11:26 -> 00:11:31]  you worked or how long you worked as long as you got the job done we're
+[00:11:31 -> 00:11:36]  focused on efficiency not necessarily how long somebody worked that's not a
+[00:11:36 -> 00:11:43]  very good measure of productivity so a part of that is having people to
+[00:11:43 -> 00:11:48]  basically gain access to flexible work agreements inside of our company and we
+[00:11:48 -> 00:11:52]  highly suggest that you also engage in that as well but you need to be able to
+[00:11:52 -> 00:11:56]  make sure that there is some consistency and we usually put this around our
+[00:11:56 -> 00:12:01]  meetings so you must show up for meetings at a particular time and if
+[00:12:01 -> 00:12:05]  you're not showing up for those meetings it's a big issue other than that you do
+[00:12:05 -> 00:12:07]  what you want if you want to work from three o'clock in the morning till six
+[00:12:07 -> 00:12:11]  o'clock in the morning every day go ahead do it as long as you're productive
+[00:12:11 -> 00:12:16]  and you're putting out good results so make sure that you're giving people that
+[00:12:16 -> 00:12:21]  freedom to have their own flexible work hours but keep some consistency keep
+[00:12:21 -> 00:12:25]  those touch points of those meetings every single day or every week as an
+[00:12:25 -> 00:12:28]  example so that they understand that they have to show up and they have a
+[00:12:28 -> 00:12:33]  report that they have to submit saying what they did and what they plan on
+[00:12:33 -> 00:12:38]  doing next day or next week tip number I think I'm on number 16 17 something I'm
+[00:12:38 -> 00:12:44]  just gonna forget about it there's 21 tips so you got a track work hours
+[00:12:44 -> 00:12:49]  attendance and other basic basic measures of productivity so we allow
+[00:12:49 -> 00:12:52]  people to work wherever they want whenever they want and it's really
+[00:12:52 -> 00:12:58]  important that they're measuring how much time they're putting inside of the
+[00:12:58 -> 00:13:04]  business and what the results what results they are getting when they do
+[00:13:04 -> 00:13:08]  that particular type of work so if you have a customer support agent that's
+[00:13:08 -> 00:13:12]  much more productive than another support agent and they're doing exactly
+[00:13:12 -> 00:13:16]  the same amount of work they need to figure out why was that support agent
+[00:13:16 -> 00:13:20]  more productive than that other support agent and the only way that you can do
+[00:13:20 -> 00:13:24]  that is by tracking the amount of time that you worked when you attended work
+[00:13:24 -> 00:13:29]  in other basic measures of productivity so as an example we use time doctor for
+[00:13:29 -> 00:13:33]  that obviously because that's our company I measure all of the websites
+[00:13:33 -> 00:13:39]  applications most movements and keyboard movements that I do inside of our
+[00:13:39 -> 00:13:43]  company I got a laptop right here it's currently tracking this particular task
+[00:13:43 -> 00:13:47]  which is shooting a video and at the end of this I'll be able to figure out how
+[00:13:47 -> 00:13:53]  efficiently I executed on doing that particular task inside of the
+[00:13:53 -> 00:13:58]  organization and whether my time that I spent was actually productive to the
+[00:13:58 -> 00:14:02]  company centrally important when you're building remote teams to be able to have
+[00:14:02 -> 00:14:07]  that type of documentation next tip is you've got to have overlapping hot zones
+[00:14:07 -> 00:14:12]  of communication time when it applies to time zones so I'll give you an
+[00:14:12 -> 00:14:18]  example we usually have meetings on Thursdays and on Mondays which we call
+[00:14:18 -> 00:14:23]  our all points meetings so we have to do two of them we used to do one but we
+[00:14:23 -> 00:14:28]  just have too many people and too many different time zones so we have one on
+[00:14:28 -> 00:14:35]  Thursdays for everyone who is on the Manila time zone and then we have one on
+[00:14:35 -> 00:14:39]  Mondays for people that are on the New York time zone and we do those every
+[00:14:39 -> 00:14:44]  single week and someone has to report to one of those two meetings every single
+[00:14:44 -> 00:14:50]  week it is a requirement and that allows people to have that single touch point
+[00:14:50 -> 00:14:53]  to know that hey there are other people inside of the company here's what
+[00:14:53 -> 00:14:57]  they're doing here's what their lives are about and it really does give you
+[00:14:57 -> 00:15:02]  that sense of community that usually you're lacking inside of remote
+[00:15:02 -> 00:15:07]  organizations that you want to take advantage of next tip do a quarterly
+[00:15:07 -> 00:15:13]  review of how your teammates are doing a lot of people call these 360 reviews you
+[00:15:13 -> 00:15:16]  can just google that the 360 review is going to give you a lot of great
+[00:15:16 -> 00:15:20]  information like what do your co-workers think of this particular worker what
+[00:15:20 -> 00:15:23]  does your manager think of that particular worker what is that worker
+[00:15:23 -> 00:15:26]  think of their manager it's a 360 review it's giving you a whole bunch of
+[00:15:26 -> 00:15:31]  different variables to that particular worker and it's critically important we
+[00:15:31 -> 00:15:35]  do them quarterly and it's a really great way for us to figure out okay what
+[00:15:35 -> 00:15:39]  are you good at what are you not good at how can you improve and then measure
+[00:15:39 -> 00:15:43]  that quarter over quarter to make sure that those employees are going to be a
+[00:15:43 -> 00:15:47]  lot more productive in the long term so in combination with something very
+[00:15:47 -> 00:15:51]  granular like measuring how hard they're working and how efficiently they're
+[00:15:51 -> 00:15:55]  working we also measure things like a 360 quarterly review so that we know
+[00:15:55 -> 00:15:59]  okay how do people perceive of this employee inside of the organization and
+[00:15:59 -> 00:16:04]  what are their advantages or disadvantages next tip you got to test
+[00:16:04 -> 00:16:11]  employees with short-term work before hiring them full-time so my perspective
+[00:16:11 -> 00:16:16]  is I got to work with you before I can work with you so we'll usually hire
+[00:16:16 -> 00:16:20]  people on very short projects we're gonna hire somebody brand new we'll
+[00:16:20 -> 00:16:23]  usually hire two people for that position and we'll hire them on part
+[00:16:23 -> 00:16:29]  time and we'll basically give them both the same tasks over a one month period
+[00:16:29 -> 00:16:34]  and you can very quickly and easily understand who is really great versus
+[00:16:34 -> 00:16:39]  who isn't so good so a lot of the times we'll have someone that will have a
+[00:16:39 -> 00:16:44]  fantastic resume but then when we end up actually working with them in person
+[00:16:44 -> 00:16:48]  they can't actually execute and that happens a lot so you need to be able to
+[00:16:48 -> 00:16:52]  hire those two people hire them on part-time if you can and really
+[00:16:52 -> 00:16:57]  understand where they're at because having that small little project can
+[00:16:57 -> 00:17:01]  completely change your perspective of those initial resumes that you had come
+[00:17:01 -> 00:17:10]  in next tip is pay virtual team members very well if you're hiring in developing
+[00:17:10 -> 00:17:14]  countries you can usually get absolutely fantastic labor at very cost-effective
+[00:17:14 -> 00:17:20]  prices and it's a huge advantage to you to be able to just pay that person 10
+[00:17:20 -> 00:17:24]  20 30 percent higher than the market rate in their particular country you're
+[00:17:24 -> 00:17:28]  still getting a fantastic deal and they are getting a much higher salary they're
+[00:17:28 -> 00:17:32]  going to be more loyal and they're going to be a lot more relaxed about what
+[00:17:32 -> 00:17:38]  they're doing with with their work and the organization's work so I'm blown
+[00:17:38 -> 00:17:43]  away by people that are just going to penny pinch someone who's making $1,000
+[00:17:43 -> 00:17:47]  a month as an example and in comparison to San Francisco you'd be paying $10,000
+[00:17:47 -> 00:17:51]  a month for the same type of work pay them 1,200 make them very happy and
+[00:17:51 -> 00:17:56]  they'll be very successful long-term workers with you over the next couple
+[00:17:56 -> 00:18:00]  years next tip it's really important that you hire people that are the right
+[00:18:00 -> 00:18:07]  fit for virtual work so inside of Time Doctor we actually have a virtual work
+[00:18:07 -> 00:18:14]  fit kind of test that we deploy and that's deployed before we actually look
+[00:18:14 -> 00:18:18]  at their real resume so a couple things that you can kind of just pull off the
+[00:18:18 -> 00:18:25]  top usually remote workers are on the introverted side of the spectrum they're
+[00:18:25 -> 00:18:29]  okay with working alone if they constantly have to be working with other
+[00:18:29 -> 00:18:33]  people virtual work environments are probably not the best environment for
+[00:18:33 -> 00:18:38]  them they need to be people that are very detail oriented and also people
+[00:18:38 -> 00:18:44]  that need to take that can take independent action on particular tasks
+[00:18:44 -> 00:18:48]  without really feeling intimidated that they're making the wrong decision
+[00:18:48 -> 00:18:52]  from their manager so taking that in consideration really look for those
+[00:18:52 -> 00:18:56]  types of people inside of your organization and if you've got them then
+[00:18:56 -> 00:19:00]  it's it's a really easy way for you to say okay this is the model that we
+[00:19:00 -> 00:19:03]  already have we know that there are people that are fit that are a really
+[00:19:03 -> 00:19:08]  great fit inside of our organization and then try to have those people interview
+[00:19:08 -> 00:19:12]  the other employees inside of your company that you want to hire or are
+[00:19:12 -> 00:19:16]  looking to hire and ask them hey you know are those people like you are they
+[00:19:16 -> 00:19:19]  the same type of people and if they aren't then you're probably gonna run
+[00:19:19 -> 00:19:25]  into a problem last tip I'm gonna give you is it's really important to meet in
+[00:19:25 -> 00:19:32]  person so we have team retreats for our entire organization at least once per
+[00:19:32 -> 00:19:37]  year and then we have smaller meetings that we do throughout the year and it's
+[00:19:37 -> 00:19:43]  so important for a virtual team to meet in person at least once number one it's
+[00:19:43 -> 00:19:49]  a great employee perk to have everybody fly into Thailand or fly into Bali or
+[00:19:49 -> 00:19:54]  type fly into Bulgaria or somewhere like that they all love it secondarily the
+[00:19:54 -> 00:19:58]  context that you'll get from those two to three days of everyone being in the
+[00:19:58 -> 00:20:04]  same place is huge people will now know the nonverbal cues that different
+[00:20:04 -> 00:20:07]  co-workers have they'll be able to understand what kind of food they like
+[00:20:07 -> 00:20:11]  what kind of movies they like what kind of TV shows they like what type of beer
+[00:20:11 -> 00:20:16]  they like to drink and those extra little details are huge when you look
+[00:20:16 -> 00:20:22]  at the long-term ROI of building a successful remote business so meet in
+[00:20:22 -> 00:20:26]  person I meet in person with my team every single year I actually meet in
+[00:20:26 -> 00:20:31]  person with my team more than once per year and the team loves it I highly
+[00:20:31 -> 00:20:35]  suggest you take advantage of it so that was my 21 tips on how to manage virtual
+[00:20:35 -> 00:20:41]  teams I think I think I had 21 tips in there if you have a tip please put it
+[00:20:41 -> 00:20:48]  down in the comments below so that I know what the heck you guys want to talk
+[00:20:48 -> 00:20:53]  about and maybe I'll add that into this particular video or make maybe I'll make
+[00:20:53 -> 00:20:57]  another one in the future and if you hit this video give it a thumbs down if you
+[00:20:57 -> 00:21:00]  really like this video give it a thumbs up and other than that I will see you in
+[00:21:00 -> 00:21:04]  the next video

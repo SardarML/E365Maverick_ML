@@ -1,0 +1,77 @@
+[00:00:00 -> 00:00:04]  Ein paar Tipps zum Skizzieren von Ableitungsfunktionen.
+[00:00:04 -> 00:00:08]  Einfach so Sachen, die mir aufgefallen sind, womit Leute Probleme haben.
+[00:00:08 -> 00:00:11]  Man sollte es natürlich schon mal gehört haben, sonst ist das Video vielleicht nichts.
+[00:00:11 -> 00:00:19]  Es gibt Funktionen und diese Funktionen haben Auf und Abs.
+[00:00:19 -> 00:00:26]  Und nun gibt es Ableitungsfunktionen, so heißen die, die geben an, wie steil es ist.
+[00:00:26 -> 00:00:29]  Und das könnte man sich jetzt überlegen für jeden einzelnen Punkt.
+[00:00:29 -> 00:00:33]  Hier könnte man so eine Tangente einzeichnen und einen Steigungsdreieck
+[00:00:33 -> 00:00:36]  und genau ausrechnen, wie steil ist es hier.
+[00:00:36 -> 00:00:42]  Bei den Aufgaben heißt es aber oft, oder eigentlich immer, skizzieren Sie die Ableitungsfunktionen.
+[00:00:42 -> 00:00:44]  Das heißt so ungefähr bitte.
+[00:00:44 -> 00:00:54]  Und da nimmt man sich die signifikanten Punkte, die Hochs und Tiefs.
+[00:00:54 -> 00:01:00]  Und dann die Punkte zwischen den Hochs und Tiefs, nämlich die hier, wo es am steilsten ist.
+[00:01:00 -> 00:01:04]  Am steilsten nach oben oder am steilsten nach unten.
+[00:01:04 -> 00:01:07]  Und die gehen gerade nach unten.
+[00:01:07 -> 00:01:13]  Und an den Stellen gibt es keine Steigung, weil hier muss man ja weder nach oben oder nach unten gehen.
+[00:01:13 -> 00:01:17]  Die markiert man sich zuerst.
+[00:01:17 -> 00:01:23]  Und dann gibt es die anderen, diese Wendepunkte, wo es am steilsten nach oben oder nach unten geht.
+[00:01:23 -> 00:01:30]  Und an den Stellen geht es entweder ganz schön krass nach unten oder nach oben.
+[00:01:30 -> 00:01:33]  Und da kommen Probleme auf.
+[00:01:33 -> 00:01:37]  Dieses nach unten und nach oben, wo ist das Ding jetzt?
+[00:01:37 -> 00:01:39]  Hier geht es nach unten.
+[00:01:39 -> 00:01:47]  Also wenn es nach unten geht, ist der Graph der Ableitungsfunktion auch unterhalb der x-Achse.
+[00:01:48 -> 00:01:55]  Ich fand es heute super zu sagen, alles was oberhalb ist, ist Happy Face.
+[00:01:55 -> 00:01:58]  Da geht der Graph nach oben.
+[00:01:58 -> 00:02:03]  Und alles was unterhalb ist von der Ableitungsfunktion, da ist Sad Face.
+[00:02:03 -> 00:02:05]  Da geht es nach unten.
+[00:02:05 -> 00:02:11]  Also hier links daneben muss der Graph oberhalb sein.
+[00:02:11 -> 00:02:14]  Ich mach den mal so. So muss der Graph sein.
+[00:02:14 -> 00:02:19]  Dann zwischen dem Punkt und dem Punkt muss er irgendwie negativ sein.
+[00:02:19 -> 00:02:21]  Wobei er hier am krassesten negativ ist.
+[00:02:21 -> 00:02:23]  Er wird hier voll krass negativ.
+[00:02:23 -> 00:02:27]  An der Stelle, es gibt nur zwei verschiedene Arten von signifikanten Punkten.
+[00:02:27 -> 00:02:32]  Die wo es überhaupt nichts ist, wo die Ableitungsfunktion durch die x-Achse geht.
+[00:02:32 -> 00:02:35]  Und die dazwischen, wo es am steilsten ist.
+[00:02:35 -> 00:02:39]  Weil am steilsten hat man hier so eine Ecke und dann geht es wieder zurück.
+[00:02:39 -> 00:02:43]  Und hier rechts daneben geht es nach oben.
+[00:02:43 -> 00:02:47]  Das ist zwar hier noch unterhalb der x-Achse, aber die Steigung ist schon positiv.
+[00:02:47 -> 00:02:49]  Man muss schon nach oben laufen.
+[00:02:49 -> 00:02:52]  Und damit ist man wieder auf Happy Face Seite.
+[00:02:52 -> 00:02:57]  Und das macht man natürlich nicht so, sondern das macht man schön rund in der Skizze.
+[00:02:57 -> 00:03:01]  Und schon hat man die Ableitungsfunktion.
+[00:03:01 -> 00:03:07]  Wichtige Sachen, die es anzumerken gibt, neben der allerwichtigsten Sache, die signifikanten Punkte.
+[00:03:08 -> 00:03:13]  Hochtiefpunkte zum einen und die Wendepunkte sind wie folgt.
+[00:03:13 -> 00:03:20]  Und zwar kann man sein Ergebnis prüfen, indem man die Huckel zählt, also die Extrempunkte zählt.
+[00:03:20 -> 00:03:24]  Das Ding hier, die Funktion, hat zwei Extrempunkte.
+[00:03:24 -> 00:03:27]  Die Ableitung hat nur noch ein Extrempunkt.
+[00:03:27 -> 00:03:31]  Die Ableitungsfunktion hat immer ein Extrempunkt weniger.
+[00:03:32 -> 00:03:43]  Und so kann man, auch wenn man unendlich viele Extrempunkte hat, oder 1, 2, 3, 4, 5,
+[00:03:43 -> 00:03:48]  sein Ergebnis schnell prüfen, weil man weiß, es dürfen nur vier Extrempunkte auftreten.
+[00:03:48 -> 00:03:58]  Und überall, wo hier ein Extrempunkt ist, muss die Ableitungsfunktion an der x-Achse vorbeikommen.
+[00:03:59 -> 00:04:01]  Und dann guckt man sich an, was dazwischen passiert.
+[00:04:01 -> 00:04:07]  Die zweite Variante der signifikanten Punkte, das sind die Steigungen, wo es am steilsten ist.
+[00:04:07 -> 00:04:11]  Hier geht es am steilsten nach unten, sad face, also nach unten, am steilsten.
+[00:04:11 -> 00:04:13]  Das heißt, man hat hier schon mal so ein Huckel.
+[00:04:13 -> 00:04:18]  Dann geht es nach oben, hier, und hier am steilsten nach oben, am steilsten happy face.
+[00:04:18 -> 00:04:24]  Dann hier wieder nach unten, hier ist am steilsten nach unten, sad face.
+[00:04:24 -> 00:04:28]  Und dann hat man hier wieder nach oben, hier geht es am steilsten nach oben,
+[00:04:28 -> 00:04:32]  und hier hat man wieder 0, und dann geht es so weiter.
+[00:04:32 -> 00:04:34]  Nicht hier hinten dann noch so eine Beule ranmachen.
+[00:04:34 -> 00:04:37]  Das wird Quatsch, habe ich heute oft gesehen, muss nicht sein.
+[00:04:37 -> 00:04:40]  Extrempunkte zählen, Ableitungsfunktion hat eine weniger.
+[00:04:40 -> 00:04:46]  Wenn hier links nichts mehr passiert, das hier ist das happy face, dann geht es einfach nach oben.
+[00:04:46 -> 00:04:52]  Spezialfall mit diesen Hügeln ist die Parabel.
+[00:04:52 -> 00:04:55]  Die Parabel, die hat nur einen Extrempunkt.
+[00:04:55 -> 00:04:59]  Da greift man sich für die Ableitungsfunktion diese Stelle raus.
+[00:04:59 -> 00:05:05]  Da muss die Ableitungsfunktion vorbeikommen und guckt, ob es nach rechts nach oben geht oder nach unten geht.
+[00:05:05 -> 00:05:09]  Hier geht es nach oben, also geht die Ableitungsfunktion auch nach oben.
+[00:05:09 -> 00:05:14]  Und bei der Parabel ist dann die Ableitungsfunktion eine Gerade.
+[00:05:14 -> 00:05:21]  Und hätte man eine Gerade, die Ableitungsfunktion ist dann einfach nur so ein Strich.
+[00:05:21 -> 00:05:25]  Das sind so die Besonderheiten, die auftauchen.
+[00:05:25 -> 00:05:29]  Und das wollte ich einfach auch nochmal festgehalten haben,
+[00:05:29 -> 00:05:35]  damit es jeder, der das Thema hat, auch sehen kann und damit weiß,
+[00:05:35 -> 00:05:38]  ah, das sind also so die Sachen, die wichtig sind.
+[00:05:38 -> 00:05:42]  Und ansonsten gibt es dazu erstmal nichts zu sagen.
+[00:05:42 -> 00:05:47]  Alles weitere zu dem Thema, Haupterklärung, wo man ein paar Beispiele zeigt,
+[00:05:47 -> 00:05:50]  alles in der Playlist, Link dazu in der Videobeschreibung.
+[00:05:50 -> 00:05:52]  Und wenn Fragen auftauchen, dann einfach fragen.

@@ -1,0 +1,229 @@
+[00:00:00 -> 00:00:06]  Welcome to project management.
+[00:00:06 -> 00:00:10]  In this video, I'll talk about different types of organizational structures for project
+[00:00:10 -> 00:00:14]  management.
+[00:00:14 -> 00:00:21]  Once top management approves a project, it draws into the implementation stage.
+[00:00:21 -> 00:00:26]  Project implementation relies on how an organization is structured.
+[00:00:26 -> 00:00:32]  Three commonly used organizational structures for project management are listed here.
+[00:00:32 -> 00:00:38]  They are functional organization, dedicated project teams, and matrix structure.
+[00:00:38 -> 00:00:43]  We'll talk about them one by one.
+[00:00:43 -> 00:00:48]  Functional organization is a way to manage projects within the existing functional hierarchy
+[00:00:48 -> 00:00:50]  of the organization.
+[00:00:50 -> 00:00:56]  That means, once management decides to implement a project, the different segments of the project
+[00:00:56 -> 00:01:03]  are delegated to the respective functional units, each unit being responsible for completing
+[00:01:03 -> 00:01:06]  its own segment of the project.
+[00:01:06 -> 00:01:11]  Project coordination is maintained through normal management channels.
+[00:01:11 -> 00:01:17]  This structure is used when the interest of one functional area dominates the project.
+[00:01:17 -> 00:01:23]  This diagram is an example of a project that develops a new type of medical forehead thermometer
+[00:01:23 -> 00:01:27]  in a hypothetical company called Nova Digital.
+[00:01:27 -> 00:01:31]  At the top of this organization is the president.
+[00:01:31 -> 00:01:38]  Two supporting offices are human resources and finance and administration.
+[00:01:38 -> 00:01:47]  There are four divisions, engineering, manufacturing, procurement, and marketing.
+[00:01:47 -> 00:01:53]  The design, electronics, software, and mechanical departments within the engineering division
+[00:01:53 -> 00:01:59]  are responsible for creating the specifications to meet the needs of the customers.
+[00:01:59 -> 00:02:05]  The production scheduling, fabrication, assembly, and testing departments within the manufacturing
+[00:02:05 -> 00:02:12]  division are responsible for producing the thermometers according to the design specifications.
+[00:02:12 -> 00:02:16]  The purchasing and receiving departments are responsible for acquiring all the materials
+[00:02:16 -> 00:02:22]  needed for producing the thermometers from suppliers and vendors.
+[00:02:22 -> 00:02:27]  The customer service, domestic, and international sales departments within the marketing division
+[00:02:27 -> 00:02:33]  are responsible for determining the product demand and price, identifying distribution
+[00:02:33 -> 00:02:38]  channels, providing customer support, and collecting customer feedback.
+[00:02:38 -> 00:02:43]  The marketing division manager is given the authority to coordinate the project with other
+[00:02:43 -> 00:02:50]  division managers because marketing dominates this project.
+[00:02:50 -> 00:02:56]  There are several major advantages of using functional organization to manage projects.
+[00:02:56 -> 00:03:01]  One is that projects are completed within the original functional structure, so there
+[00:03:01 -> 00:03:06]  is no need for structural changes in the parent organization.
+[00:03:06 -> 00:03:13]  Another advantage is that there is a maximum flexibility in the use of staff.
+[00:03:13 -> 00:03:17]  Appropriate specialists in different functional units can temporarily be assigned to work
+[00:03:17 -> 00:03:22]  on a project and then return to their normal work.
+[00:03:22 -> 00:03:27]  The third advantage is that this structure works great if the scope of the project is
+[00:03:27 -> 00:03:29]  narrow.
+[00:03:29 -> 00:03:34]  Since a functional unit will take the primary responsibility, in-depth expertise can be
+[00:03:34 -> 00:03:39]  relied on to deal with the most crucial aspects of the project.
+[00:03:39 -> 00:03:44]  They will also get support from a broad base of technical personnel available in other
+[00:03:44 -> 00:03:47]  functional divisions and departments.
+[00:03:47 -> 00:03:54]  Finally, people can be switched among different projects relatively easily.
+[00:03:54 -> 00:04:00]  While specialists can make significant contributions to projects, their functional field is still
+[00:04:00 -> 00:04:07]  their professional home and the focus of their career growth and advancement.
+[00:04:07 -> 00:04:14]  One disadvantage of using functional organization to manage projects is lack of focus.
+[00:04:14 -> 00:04:19]  Each functional unit has its own core routine work to do.
+[00:04:19 -> 00:04:25]  Sometimes project responsibilities get pushed aside to meet primary obligations.
+[00:04:25 -> 00:04:29]  The same project has different priorities for different units.
+[00:04:29 -> 00:04:35]  For example, the marketing department may consider the project urgent while the manufacturing
+[00:04:35 -> 00:04:39]  people consider it only of secondary importance.
+[00:04:39 -> 00:04:45]  This could cause a great deal of tension between these two functional departments.
+[00:04:45 -> 00:04:51]  Another disadvantage is that there may be poor integration across functional units.
+[00:04:51 -> 00:04:55]  Functional specialists tend to be concerned with only their segment of the project and
+[00:04:55 -> 00:04:59]  not with what is best for the whole project.
+[00:04:59 -> 00:05:05]  The third disadvantage is that it generally takes longer to complete projects through
+[00:05:05 -> 00:05:08]  this project management structure.
+[00:05:08 -> 00:05:14]  Lastly, since one functional department is leading the project, other functional departments
+[00:05:14 -> 00:05:19]  that are not in charge may have a feeling of lack of ownership.
+[00:05:19 -> 00:05:23]  They may see this project as an additional burden that is not directly linked to their
+[00:05:23 -> 00:05:29]  professional development or advancement.
+[00:05:29 -> 00:05:35]  A dedicated project team is a way of managing projects as a separate unit in addition to
+[00:05:35 -> 00:05:39]  the functional divisions and departments in an organization.
+[00:05:39 -> 00:05:44]  A full-time project manager is designated to pull together a core group of specialists
+[00:05:44 -> 00:05:49]  from the relevant departments and they all work full-time on the project.
+[00:05:49 -> 00:05:55]  Team members could be recruited from within and outside the parent company.
+[00:05:55 -> 00:06:00]  Functional departments are responsible for providing support for these dedicated teams.
+[00:06:00 -> 00:06:06]  If projects are the dominant form of business, then an organization is called a projectized
+[00:06:06 -> 00:06:08]  organization.
+[00:06:08 -> 00:06:11]  This is an example.
+[00:06:11 -> 00:06:15]  One dedicated team is doing project 1 with a full-time manager and team members selected
+[00:06:15 -> 00:06:21]  from different functional units who work full-time on the single project.
+[00:06:21 -> 00:06:25]  Another dedicated team is doing project 2, and so on.
+[00:06:25 -> 00:06:30]  Functional departments are only playing the supporting role.
+[00:06:30 -> 00:06:36]  Lockheed Martin has been using this structure to develop next-generation jet airplanes.
+[00:06:36 -> 00:06:40]  It's called Lockheed Martin Skunk Works.
+[00:06:40 -> 00:06:46]  Skunk Works is code for a small dedicated team assigned to a breakthrough project.
+[00:06:46 -> 00:06:51]  There are a series of great YouTube videos explaining what Skunk Works is from the perspectives
+[00:06:51 -> 00:06:58]  of their senior systems engineer, program manager, and portfolio manager.
+[00:06:58 -> 00:07:03]  Watch these videos to learn more about Skunk Works.
+[00:07:03 -> 00:07:08]  There are several major advantages of using dedicated teams to manage projects.
+[00:07:08 -> 00:07:14]  First, this organizational structure is relatively simple.
+[00:07:14 -> 00:07:20]  A dedicated team will pull resources in the form of specialists from functional units.
+[00:07:20 -> 00:07:25]  And other than that, the functional department remains intact and operates independently
+[00:07:25 -> 00:07:28]  from the project team.
+[00:07:28 -> 00:07:34]  Second, projects tend to get done faster when participants devote their full attention to
+[00:07:34 -> 00:07:38]  the project and are not distracted by other obligations and duties.
+[00:07:38 -> 00:07:44]  Furthermore, response time tends to be quicker under this arrangement because most decisions
+[00:07:44 -> 00:07:49]  are made within the project team and are not deferred due to horizontal and then vertical
+[00:07:49 -> 00:07:52]  communications with other functional departments.
+[00:07:52 -> 00:07:59]  Third, a high level of motivation and cohesiveness often emerges within the dedicated project
+[00:07:59 -> 00:08:02]  team.
+[00:08:02 -> 00:08:08]  Participants share a common goal and personal responsibility toward the project.
+[00:08:08 -> 00:08:14]  Last, specialists from different functional areas work closely together with proper guidance
+[00:08:14 -> 00:08:22]  will be committed to optimizing the whole project, not their respective segments.
+[00:08:22 -> 00:08:27]  One disadvantage of using a dedicated team to work on a project is that they are relatively
+[00:08:27 -> 00:08:29]  expensive.
+[00:08:29 -> 00:08:36]  The project manager and all the team members are supposed to work on a single project full-time.
+[00:08:36 -> 00:08:42]  All the other resources needed will be allocated to one project only.
+[00:08:42 -> 00:08:46]  Close sharing within the organization with other functional departments or other project
+[00:08:46 -> 00:08:50]  teams is difficult.
+[00:08:50 -> 00:08:55]  Sometimes a dedicated project team becomes obsessed with their own right, and internal
+[00:08:55 -> 00:09:00]  strife emerges between the team and the remainder of the organization.
+[00:09:00 -> 00:09:07]  This divisiveness and even hostility can undermine the outcomes of the project.
+[00:09:07 -> 00:09:13]  In a dedicated team, technical expertise is limited somewhat to the talents and experience
+[00:09:13 -> 00:09:16]  of the specialists assigned to the project.
+[00:09:16 -> 00:09:22]  While the specialists can still consult with others in the functional division, the we-zee
+[00:09:22 -> 00:09:29]  syndrome and the fact that such help is not formal discourages this from happening.
+[00:09:29 -> 00:09:34]  Dedicated teams make it difficult for post-project transition.
+[00:09:34 -> 00:09:38]  Because a project is a temporary effort, team members will go back to their original
+[00:09:38 -> 00:09:42]  functional department after the project is completed.
+[00:09:42 -> 00:09:47]  The transition may be difficult because of their prolonged absence and the need to catch
+[00:09:47 -> 00:09:53]  up with recent development in their functional area.
+[00:09:53 -> 00:09:58]  The functional organization and the dedicated teams are at two extremes of organizational
+[00:09:58 -> 00:10:01]  structure for project management.
+[00:10:01 -> 00:10:06]  The matrix structure is a hybrid of the two.
+[00:10:06 -> 00:10:12]  In a matrix system, there are usually two chains of command, one along the vertical
+[00:10:12 -> 00:10:17]  functional lines and the other along the horizontal project lines.
+[00:10:17 -> 00:10:23]  Project participants report simultaneously to both functional and project managers.
+[00:10:23 -> 00:10:27]  Matrix structure optimizes the use of resources.
+[00:10:27 -> 00:10:33]  It allows for participation on multiple projects while performing normal functional duties.
+[00:10:33 -> 00:10:37]  This is a hypothetical example of matrix structure.
+[00:10:37 -> 00:10:42]  The top of this diagram shows the functional organization of the company.
+[00:10:42 -> 00:10:47]  There is a special division called director of projects in addition to other functional
+[00:10:47 -> 00:10:53]  divisions like engineering, manufacturing, and marketing.
+[00:10:53 -> 00:11:00]  The bottom of this diagram shows the ongoing projects 1 through N. All these project managers
+[00:11:00 -> 00:11:05]  report to the director, who supervises all projects.
+[00:11:05 -> 00:11:11]  Each project has one administrative assistant to help the project manager, and the one for
+[00:11:11 -> 00:11:14]  project N is only part-time.
+[00:11:14 -> 00:11:19]  That is why there is a 0.5 in the circle.
+[00:11:19 -> 00:11:23]  Project 1 involves the development of a new product.
+[00:11:23 -> 00:11:30]  It requires heavy participation of people from engineering, manufacturing, and marketing.
+[00:11:30 -> 00:11:37]  It has been assigned two designers, one electronics engineer, three software engineers, four assembly
+[00:11:37 -> 00:11:42]  engineers, one testing engineer, and one sales representative.
+[00:11:42 -> 00:11:46]  So there are a total of 14 people on the team.
+[00:11:46 -> 00:11:52]  Project N involves getting customers' feedback on a new software interface for an existing
+[00:11:52 -> 00:11:54]  product.
+[00:11:54 -> 00:11:59]  It only needs the involvement of one designer, two software engineers, and one customer service
+[00:11:59 -> 00:12:03]  specialist.
+[00:12:03 -> 00:12:09]  In a matrix structure, project managers and functional managers have different responsibilities.
+[00:12:09 -> 00:12:15]  A project manager's responsibilities include determining what has to be done, when should
+[00:12:15 -> 00:12:22]  a task be completed, how much money is available to do the task, how well should the task be
+[00:12:22 -> 00:12:25]  done, and so on.
+[00:12:25 -> 00:12:32]  A functional manager in a matrix structure will decide how a task will be done technically,
+[00:12:32 -> 00:12:37]  how the project involvement will impact normal functional activities, and how well the functional
+[00:12:37 -> 00:12:42]  input will be integrated.
+[00:12:42 -> 00:12:47]  It's the project manager and the functional manager's joint responsibilities to negotiate
+[00:12:47 -> 00:12:52]  and find out the answers to these questions like who exactly will be assigned to do a
+[00:12:52 -> 00:12:59]  specific task, where will the task be conducted, is the task satisfactorily completed, and
+[00:12:59 -> 00:13:02]  so on.
+[00:13:02 -> 00:13:07]  The matrix structure can be further divided into three different forms depending on the
+[00:13:07 -> 00:13:11]  relative authority of the project and functional managers.
+[00:13:11 -> 00:13:16]  The weak matrix form is very similar to a functional structure with the exception that
+[00:13:16 -> 00:13:20]  there is a formally designated project manager.
+[00:13:20 -> 00:13:27]  The authority of the functional managers predominates, and the project manager has indirect authority
+[00:13:27 -> 00:13:32]  and plays a supporting role to facilitate project completion.
+[00:13:32 -> 00:13:37]  In the balanced matrix form, the project manager sets the overall plan for the project and
+[00:13:37 -> 00:13:43]  the functional manager determines how work should be done technically.
+[00:13:43 -> 00:13:47]  The strong matrix form attempts to create the feel of a dedicated project team within
+[00:13:47 -> 00:13:50]  a matrix environment.
+[00:13:50 -> 00:13:56]  The project manager has broader control of most aspects of the project, and the functional
+[00:13:56 -> 00:14:03]  departments are supporting like subcontractors to the project.
+[00:14:03 -> 00:14:08]  There are several advantages of using the matrix structure to manage projects.
+[00:14:08 -> 00:14:14]  First, the matrix structure encourages resource sharing.
+[00:14:14 -> 00:14:19]  Resources can be efficiently and flexibly shared across multiple projects.
+[00:14:19 -> 00:14:25]  Individuals can divide their energy across multiple projects as needed.
+[00:14:25 -> 00:14:30]  Compared to the functional structure, the matrix structure has a relatively strong project
+[00:14:30 -> 00:14:35]  focus by having a formally designated project manager who is responsible for coordinating
+[00:14:35 -> 00:14:41]  and integrating contributions of different units.
+[00:14:41 -> 00:14:47]  Compared to the dedicated teams, the matrix structure makes it relatively easy for post-project
+[00:14:47 -> 00:14:50]  transition.
+[00:14:50 -> 00:14:54]  Specialists will maintain ties with their functional group, so they have a home to return
+[00:14:54 -> 00:14:59]  to once a project is completed.
+[00:14:59 -> 00:15:05]  One disadvantage of using a matrix structure is that the matrix approach may create tension
+[00:15:05 -> 00:15:10]  or conflicts between functional managers and project managers.
+[00:15:10 -> 00:15:15]  Such tension is necessary for achieving an appropriate balance between complex technical
+[00:15:15 -> 00:15:18]  issues and unique project requirements.
+[00:15:18 -> 00:15:24]  But sometimes the tension could degenerate into dysfunctional conflicts like heated arguments
+[00:15:24 -> 00:15:28]  and put the whole project at risk.
+[00:15:28 -> 00:15:32]  Resource sharing is the nature of the matrix structure.
+[00:15:32 -> 00:15:37]  Infighting can occur among project managers, who are primarily interested in what is best
+[00:15:37 -> 00:15:43]  for their own projects when they have to compete for limited resources like equipment, space,
+[00:15:43 -> 00:15:49]  finance, and people, which are being shared across projects and functional activities.
+[00:15:49 -> 00:15:58]  Also, matrix management violates the management principle of unity of command.
+[00:15:58 -> 00:16:04]  Project participants have at least two bosses, their functional manager and one or more project
+[00:16:04 -> 00:16:05]  managers.
+[00:16:05 -> 00:16:11]  Working in a matrix environment can be stressful because orders from the bosses may conflict
+[00:16:11 -> 00:16:13]  with each other.
+[00:16:13 -> 00:16:19]  Lastly, matrix management can be slow because agreements must be achieved among multiple
+[00:16:19 -> 00:16:25]  functional groups, and project scheduling depends on the availability of resources that
+[00:16:25 -> 00:16:29]  are shared with other projects.
+[00:16:29 -> 00:16:34]  We have talked about these three project management structures as well as their advantages and
+[00:16:34 -> 00:16:35]  disadvantages.
+[00:16:35 -> 00:16:42]  Then, what is the right structure for an organization?
+[00:16:42 -> 00:16:47]  To answer this question, we really need to determine how important the projects are to
+[00:16:47 -> 00:16:48]  the organization's success.
+[00:16:48 -> 00:16:54]  If they are really, really important and the organization cannot afford to fail, then a
+[00:16:54 -> 00:17:00]  strong matrix structure or dedicated teams are the best choice.
+[00:17:00 -> 00:17:06]  We also need to determine what percentage of core business involves projects.
+[00:17:06 -> 00:17:12]  If over 75% of work involves projects, then an organization should consider a fully projectized
+[00:17:12 -> 00:17:16]  structure with lots of dedicated teams.
+[00:17:16 -> 00:17:22]  If an organization has both projects and standard routine production activities, then a balanced
+[00:17:22 -> 00:17:26]  matrix structure would be appropriate.
+[00:17:26 -> 00:17:31]  If an organization has very few projects, then a less formal arrangement and a functional
+[00:17:31 -> 00:17:35]  structure is probably the best.
+[00:17:35 -> 00:17:39]  The level of available human and physical resources in an organization should also be
+[00:17:39 -> 00:17:44]  considered before determining the best project management structure.
+[00:17:44 -> 00:17:50]  If the need for sharing resources is high, the matrix structure is the best way to go
+[00:17:50 -> 00:17:59]  because it makes it easy to share resources across multiple projects and functional domains.
+[00:17:59 -> 00:18:04]  Another question is what is the right structure for a specific project?
+[00:18:04 -> 00:18:09]  It depends on a lot of factors like the size of the project, the strategic importance,
+[00:18:09 -> 00:18:15]  novelty and need for innovation, the number of departments involved, the amount of external
+[00:18:15 -> 00:18:24]  interactions, the budget and time constraints, and stability of resource requirements.
+[00:18:24 -> 00:18:28]  The higher the levels of these seven factors, the more authority and control the project
+[00:18:28 -> 00:18:32]  manager needs to be successful.
+[00:18:32 -> 00:18:38]  Therefore, a strong matrix structure or dedicated team should be used for large projects that
+[00:18:38 -> 00:18:45]  are strategically critical and are new to the company, thus requiring more innovation.
+[00:18:45 -> 00:18:51]  A strong matrix structure or dedicated project team would also be appropriate for complex,
+[00:18:51 -> 00:18:56]  multidisciplinary projects that require input from many departments as well as for projects
+[00:18:56 -> 00:19:04]  that require constant interactions with customers, suppliers, vendors, and subcontractors.
+[00:19:04 -> 00:19:10]  A strong matrix structure or dedicated project team should also be used for urgent projects
+[00:19:10 -> 00:19:15]  with a tight budget and for projects that require high availability of resources when
+[00:19:15 -> 00:19:18]  they are needed.
+[00:19:18 -> 00:19:24]  Okay, in this video, we identified different project management structures including functional
+[00:19:24 -> 00:19:30]  organization, dedicated project teams, and matrix structures.
+[00:19:30 -> 00:19:34]  We talked about their advantages and disadvantages.
+[00:19:34 -> 00:19:39]  We further identified three different types of matrix structures.
+[00:19:39 -> 00:19:42]  This is Yong Wang, and I'll see you in the next video.

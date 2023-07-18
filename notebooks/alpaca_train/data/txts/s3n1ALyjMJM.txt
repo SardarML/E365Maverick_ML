@@ -1,0 +1,253 @@
+[00:00:00 -> 00:00:04]  Hello, welcome to my video on government intervention in markets. For anyone who's been watching
+[00:00:04 -> 00:00:09]  the whole series, this is the last one. Woohoo! It's part of the markets and market failure
+[00:00:09 -> 00:00:15]  section of Economics AS Level with AQA. There are lots of reasons for government intervention
+[00:00:15 -> 00:00:19]  in a market. One major one is to correct market failure. In the previous video we looked at
+[00:00:19 -> 00:00:23]  all the different types and causes of market failure and now we're going to look at how
+[00:00:23 -> 00:00:28]  to correct them. Another reason for intervention is to achieve more equity. For example, it's
+[00:00:28 -> 00:00:31]  not very fair if some people have got millions and some people are living on the streets
+[00:00:31 -> 00:00:35]  with absolutely nothing. So the government does lots of things to try to improve the
+[00:00:35 -> 00:00:40]  balance in the economy. The final reason for intervention is to improve the UK's economic
+[00:00:40 -> 00:00:45]  performance. Obviously this is more macroeconomic than microeconomic but it's still good to
+[00:00:45 -> 00:00:49]  know that this is a reason for intervention. There are lots of different forms of government
+[00:00:49 -> 00:00:53]  intervention. One major one is legalisation and regulation. So this protects a variety
+[00:00:53 -> 00:00:58]  of things. For example, it protects workers by giving them maximum working hours, minimum
+[00:00:58 -> 00:01:02]  wage. I think there's a certain limit on the amount of time you can work in a year.
+[00:01:02 -> 00:01:06]  You've got to have a certain amount of holiday. And this is to prevent the abuse of workers
+[00:01:06 -> 00:01:11]  and stuff like that. We've also got trade unions which help this further. Though obviously
+[00:01:11 -> 00:01:17]  when trade unions get too strong this could in essence become a form of market failure
+[00:01:17 -> 00:01:21]  itself because the workers are getting paid too much for their job. Increasing competition
+[00:01:21 -> 00:01:26]  is another thing that comes under legalisation and regulation. So this is the prevention
+[00:01:26 -> 00:01:31]  of monopolies through things like the competition commission. We don't want monopolies for the
+[00:01:31 -> 00:01:36]  reason explained in the previous video because when we have monopolies prices are too high,
+[00:01:36 -> 00:01:40]  quality is too low, not enough choice for consumers, stuff like that. We also have government
+[00:01:40 -> 00:01:44]  regulators who impose price controls. We're going to come onto that later in the video
+[00:01:44 -> 00:01:50]  but that's things like maximum and minimum prices. Obviously in a free market we have
+[00:01:50 -> 00:01:55]  underproduction of merit goods and public goods just don't tend to be produced at all.
+[00:01:55 -> 00:01:59]  So that's a market failure there. This means that the government has to provide some of
+[00:01:59 -> 00:02:04]  these goods and services or has to pay private sector firms to do these jobs.
+[00:02:04 -> 00:02:07]  Moving on now to financial intervention we're going to look at a few diagrams for these
+[00:02:07 -> 00:02:12]  later but the big ones are indirect taxes which raise the price of demerit goods. So
+[00:02:12 -> 00:02:18]  if we don't want people smoking we put a big indirect tax on it and it means supply has
+[00:02:18 -> 00:02:23]  to fall and price has to rise. And we'll do all about the taxation and the splitting of
+[00:02:23 -> 00:02:28]  who pays what later. Subsidies are basically the opposite so that lowers the price of merit
+[00:02:28 -> 00:02:34]  goods. Then we have tax relief which enables research and development so companies can
+[00:02:34 -> 00:02:38]  get more efficient methods of production, stuff like that. We can try to achieve economic
+[00:02:38 -> 00:02:43]  and productive efficiency. And then we have taxation and welfare payments to redistribute
+[00:02:43 -> 00:02:48]  income to increase the equity within the economy. These taxes tend to be progressive, we'll
+[00:02:48 -> 00:02:51]  come onto this later because it means that the rich have to pay a higher percentage of
+[00:02:51 -> 00:02:58]  their income so this means that we can give more to the poor people. And finally we have
+[00:02:58 -> 00:03:01]  intervention to close the information gap. So the government tries to improve the information
+[00:03:01 -> 00:03:06]  so that consumers have got all the information before they buy. Good producers really can
+[00:03:06 -> 00:03:10]  see the true cost and benefit of the goods. This is obviously really important when we've
+[00:03:10 -> 00:03:13]  got positive and negative externalities which lead to goods being priced incorrectly in
+[00:03:13 -> 00:03:19]  terms of the socially efficient output. There are lots of effects of intervention, we're
+[00:03:19 -> 00:03:21]  going to have a slide about each of these in a second, it's just a list so you can see
+[00:03:21 -> 00:03:26]  them here. I believe there are six effects of intervention. Public goods, externalities,
+[00:03:26 -> 00:03:29]  correcting information failure, price intervention, regulation and control of monopolies and the
+[00:03:29 -> 00:03:35]  redistribution of income. Public goods are non-excludable and non-rival which means that
+[00:03:35 -> 00:03:40]  they don't tend to be produced in the private sector because they're unprofitable to supply.
+[00:03:40 -> 00:03:44]  This means that the free market totally fails to provide important public goods which is
+[00:03:44 -> 00:03:49]  complete market failure. This means that the government has to provide them and to provide
+[00:03:49 -> 00:03:53]  them the government needs to have the money to do so, it means it has to tax the people
+[00:03:53 -> 00:03:57]  in the economy because obviously the government requires funding to be able to supply these
+[00:03:57 -> 00:04:02]  public goods. So in terms of correcting market failure the government has to supply public
+[00:04:02 -> 00:04:08]  goods. Externalities are obviously a really big issue in terms of market failure and stuff
+[00:04:08 -> 00:04:13]  like that with positive and negative externalities meaning that the market mechanism output is
+[00:04:13 -> 00:04:17]  either far higher or far lower than the socially efficient output. We have lots of different
+[00:04:17 -> 00:04:23]  ways of trying to correct this. One of these is regulation. Regulation is rules to the
+[00:04:23 -> 00:04:28]  firms to make sure that they try to keep their negative externalities to a low. So for example
+[00:04:28 -> 00:04:31]  there might be regulation saying you can only pollute up to a certain amount, you can only
+[00:04:31 -> 00:04:35]  use trees which were dying anyway. I don't know what sort of regulation you might have
+[00:04:35 -> 00:04:39]  but stuff like that, try to reduce negative externalities. Pollution permits are the big
+[00:04:39 -> 00:04:46]  things nowadays. These are permits which allow firms to pollute up to a limit and these permits
+[00:04:46 -> 00:04:52]  can be traded between firms, countries, whatever. So say I had a permit which allowed me to
+[00:04:52 -> 00:04:58]  emit 100 of pollution, I don't know what measurement you'd use, and I only used 50, I could sell
+[00:04:58 -> 00:05:03]  the other 50 to another company which is polluting more so it's really beneficial for me and
+[00:05:03 -> 00:05:07]  other firms to keep our pollution to a low whereas firms that have higher pollution have
+[00:05:07 -> 00:05:11]  higher costs and may end up getting kicked out of the market. So this is an incentive
+[00:05:11 -> 00:05:17]  for firms to stay clean. Taxes are generally put on the firm rather than the consumer but
+[00:05:17 -> 00:05:20]  the amount that's paid by the firm and the consumer differs depending on whether it's
+[00:05:20 -> 00:05:25]  an elastic good or an inelastic good. The one that I've put here is for an inelastic
+[00:05:25 -> 00:05:30]  good, for example cigarettes. Because the good is inelastic, ooh just got a text, because
+[00:05:30 -> 00:05:34]  the good is inelastic it means that the consumers will still be willing to pay for the good
+[00:05:34 -> 00:05:39]  no matter how high the price gets, therefore the firm that's producing it thinks aha I
+[00:05:39 -> 00:05:43]  may as well pass most of the tax on to the consumers. In the diagram there you can see
+[00:05:43 -> 00:05:48]  the split of who pays what tax and the one at the top is always consumers and the one
+[00:05:48 -> 00:05:52]  at the bottom is always producers. A good way to remember this is alphabetical order
+[00:05:52 -> 00:05:57]  going downwards, CP. That's how I remember it. Obviously with elastic goods it's a totally
+[00:05:57 -> 00:06:03]  different story and the producers end up paying the bulk of the tax. The value of the tax
+[00:06:03 -> 00:06:07]  in this diagram is the vertical distance between the two supply lines and we can see that the
+[00:06:07 -> 00:06:12]  impact this has had is raising the cost of production which has therefore caused supply
+[00:06:12 -> 00:06:19]  to shift left and demand to have a contraction meaning that the quantity supplied obviously
+[00:06:20 -> 00:06:25]  goes left, it decreases and obviously the price rises. Subsidies essentially have the
+[00:06:25 -> 00:06:28]  opposite effect. Quite often a government would give a subsidy to a firm and say this
+[00:06:28 -> 00:06:33]  subsidy is for you to keep clean. So it might not necessarily reduce the cost of production,
+[00:06:33 -> 00:06:38]  it might just cover the cost of production, the increased cost of keeping your firm clean.
+[00:06:38 -> 00:06:43]  They could ask you to define taxes or subsidies. In 2013 subsidy was the definition that you
+[00:06:43 -> 00:06:49]  had to do in the microeconomic paper. Moving on now to correcting information failure.
+[00:06:49 -> 00:06:52]  The government tries to protect consumers from being sold faulty products so we have
+[00:06:52 -> 00:06:56]  trading standards, stuff like that. I spoke to trading standards once because my enterprise
+[00:06:56 -> 00:06:59]  team was selling some candles, we weren't 100% sure if they were safe so we went to
+[00:06:59 -> 00:07:04]  trading standards to make sure we were supplying the consumers with products that were good,
+[00:07:04 -> 00:07:10]  safe, happy. They weren't really happy but they were safe. We also have compulsory labelling
+[00:07:10 -> 00:07:17]  which informs consumers on the actual costs of the consumption. So when we have our food
+[00:07:17 -> 00:07:21]  you can look at the food and see how much calories is in it, what fats are in it, stuff
+[00:07:21 -> 00:07:25]  like that so the consumers are totally aware of the true cost of what they're eating. Obviously
+[00:07:25 -> 00:07:29]  you're never going to have absolutely perfect information. I mean you can get close to perfect
+[00:07:29 -> 00:07:34]  information like with computers, when you're buying computers. I might just go into a shop
+[00:07:34 -> 00:07:37]  and buy a computer but you get some people that are there, they've compared all the different
+[00:07:37 -> 00:07:41]  things, the hard drive space, stuff like that. I've got no idea what they even compare but
+[00:07:41 -> 00:07:45]  they can get a really accurate view that what they're getting is the right thing for them.
+[00:07:45 -> 00:07:48]  So the government tries to make sure that all of this information is out there and is
+[00:07:48 -> 00:07:53]  accessible to the consumer. Then we have price intervention such as the
+[00:07:53 -> 00:07:57]  maximum prices, minimum prices and buffer stocks. Maximum prices are there to prevent
+[00:07:57 -> 00:08:01]  markets rising above a certain level so the price is kept at a certain amount. This does
+[00:08:01 -> 00:08:07]  lead to excess demand because more is demanded than is supplied because the demand and supply
+[00:08:07 -> 00:08:12]  are unable to meet at the equilibrium, market mechanism equilibrium. However this does increase
+[00:08:12 -> 00:08:15]  equity within the market because it means that everybody is able to buy a certain good
+[00:08:15 -> 00:08:21]  or service. For example with tickets to watch whoever you want to go watch in concert, if
+[00:08:21 -> 00:08:26]  they were higher it would mean that less people could afford the tickets but when these tickets
+[00:08:26 -> 00:08:30]  are priced at a lower amount it means that more people are able to buy the tickets. Obviously
+[00:08:30 -> 00:08:33]  this means we have to have a system of distribution of tickets, how are we going to decide who
+[00:08:33 -> 00:08:37]  gets the tickets. Usually you do first come first served and this could have an unexpected
+[00:08:37 -> 00:08:42]  impact of forming a black market. Then we have minimum prices, a big one for this is
+[00:08:42 -> 00:08:46]  food, it means that the farmers that are producing the food are able to do this at an economically
+[00:08:46 -> 00:08:50]  viable level because otherwise the price of food would be much too low and it would be
+[00:08:50 -> 00:08:53]  unsubstantial for them to be able to do it so we wouldn't get any food and we would all
+[00:08:53 -> 00:08:58]  starve to death. Another big one for minimum prices is minimum wage, it means that workers
+[00:08:58 -> 00:09:02]  have a minimum wage, it means that they don't get abused, they're getting a certain amount
+[00:09:02 -> 00:09:06]  because in some countries where there isn't a minimum wage workers will work hard for
+[00:09:06 -> 00:09:09]  hours and hours and hours and all they get is like 1p which is enough to buy like I don't
+[00:09:09 -> 00:09:15]  know what you can get for 1p in those countries but it's not enough for them to have what
+[00:09:15 -> 00:09:19]  you generally could be considered an acceptable standard of living so we have our minimum
+[00:09:19 -> 00:09:24]  prices and minimum wages. Buffer stocks are an intervention system that aims to limit
+[00:09:24 -> 00:09:28]  the fluctuations of the price of a commodity, for example grain and wheat and stuff like
+[00:09:28 -> 00:09:32]  that. If you look on the diagram there the authorities want to maintain the price of
+[00:09:32 -> 00:09:38]  p1 and they need to ensure that supply is at q1 for the price to be at this level. One
+[00:09:38 -> 00:09:42]  year due to good weather or something supply might be at q3, this means that the authorities
+[00:09:42 -> 00:09:47]  will buy q3 to q1 of supply so that the supply released to the market is q1 and the price
+[00:09:47 -> 00:09:52]  is retained at that level. Maybe the next year there's drought, bad weather so the supply
+[00:09:52 -> 00:09:56]  that the farmers get is only q2 so the authorities have got their supply they bought last year
+[00:09:56 -> 00:10:01]  and they sell it, they sell q2 to q1 of supply so the supply released to the market is q1
+[00:10:01 -> 00:10:07]  so it remains even at qp1. Obviously there are some issues with buffer stocks, the big
+[00:10:07 -> 00:10:12]  ones are how do we finance them, I mean if we're buying this much quantity of stuff it's
+[00:10:12 -> 00:10:15]  going to be really expensive so we have to increase taxation, obviously people get maddy
+[00:10:15 -> 00:10:19]  about that, stuff like that. Then we have the difficulties involved in establishing
+[00:10:19 -> 00:10:24]  a target price, how do we decide what p1 we want, what's fair for everybody. And finally
+[00:10:24 -> 00:10:29]  there are massive storage costs, if we're storing this much grain, this much wheat that
+[00:10:29 -> 00:10:34]  is expensive and also grain and wheat it's perishable, it might just die in the year
+[00:10:34 -> 00:10:39]  that we bought it which means that when supply is lower than what we want we can't sell this
+[00:10:39 -> 00:10:43]  stuff because it's all out of date, it's gone. So that is a major issue especially with agricultural
+[00:10:43 -> 00:10:49]  foods which is a main thing for buffer stocks. Moving on now to monopolies which are bad
+[00:10:49 -> 00:10:54]  because they have higher prices, poorer quality, we have our fat cats, there's fewer firms
+[00:10:54 -> 00:10:58]  so less employment, they can be less efficient because they've got no incentive to be more
+[00:10:58 -> 00:11:03]  efficient and save money, they create barriers to entry which means other firms can't get
+[00:11:03 -> 00:11:08]  in and there tends to be less innovation and can lead to an actually failing market which
+[00:11:08 -> 00:11:12]  obviously we don't want. Luckily for us we have a great government which has loads of
+[00:11:12 -> 00:11:17]  stuff to prevent this from happening, these monopolies trying to keep their monopoly power
+[00:11:17 -> 00:11:24]  to a minimum, remember monopoly power is when firms have 25% or more share of the market.
+[00:11:24 -> 00:11:29]  So we have the competition commission which is a government controlled scheme organisation
+[00:11:29 -> 00:11:33]  which ensures that mergers are in the public interest, it means that mergers and takeovers
+[00:11:33 -> 00:11:38]  which could lead to a monopoly, it prevents them from happening. Then we have some natural
+[00:11:38 -> 00:11:42]  monopolies which are in the government ownership, natural monopolies is when it makes economic
+[00:11:42 -> 00:11:47]  sense for there to be just one monopoly, for example supplying gas, water, electricity,
+[00:11:47 -> 00:11:51]  that sort of thing, it makes more sense for there to be just one firm doing it than lots
+[00:11:51 -> 00:11:55]  of different firms, lots of different pipes, stuff like that. Then we have privatisation,
+[00:11:55 -> 00:11:58]  the government may have these natural monopolies but it might want to pass it out because it's
+[00:11:58 -> 00:12:03]  more effective and cheaper for there to be a firm that's private than a government controlled
+[00:12:03 -> 00:12:08]  firm because private firms tend to have better organisation, better management, more incentive
+[00:12:08 -> 00:12:12]  to be efficient, stuff like that. For example we had Royal Mail, did Royal Mail go private?
+[00:12:12 -> 00:12:16]  I think it did, it might not have done so, don't 100% trust me there, but stuff like
+[00:12:16 -> 00:12:21]  that, I think we privatised Royal Mail for that reason. There was quite a lot of controversy
+[00:12:21 -> 00:12:25]  around the Royal Mail privatisation but I mean we have our business secretary Vince
+[00:12:25 -> 00:12:29]  Cable, he said it went quite well but then the shadow business secretary said it was
+[00:12:29 -> 00:12:35]  a first class disaster, what a joker! And finally we have the removal of barriers to
+[00:12:35 -> 00:12:38]  entry which encourages new firms to enter the market because obviously more competition
+[00:12:38 -> 00:12:43]  means more variety of goods and services, tend to be lower price, more efficiency, that
+[00:12:43 -> 00:12:48]  sort of thing. Barriers to entry, removing them, we could give firms loans at low interest
+[00:12:48 -> 00:12:53]  rate for start-up costs because obviously high start-up costs means it's very hard for
+[00:12:53 -> 00:12:59]  new firms to come into a market. We might prevent monopolies from putting their prices
+[00:12:59 -> 00:13:03]  down to a certain level because when monopolies see that new firms are coming into the market
+[00:13:03 -> 00:13:07]  they tend to put their prices right down which means the new firms simply can't compete.
+[00:13:07 -> 00:13:12]  With the redistribution of income the government tends to use progressive taxation which is
+[00:13:12 -> 00:13:17]  essentially the Robin Hood effect, it takes money from the rich and gives it to the poor.
+[00:13:17 -> 00:13:21]  The big thing that everyone thinks of when they think of progressive taxation is income
+[00:13:21 -> 00:13:26]  tax, obviously higher earners pay 40%, 45%, whatever they pay, whereas poorer earners
+[00:13:26 -> 00:13:31]  they don't pay any tax or if they pay some tax it's not very much. The government takes
+[00:13:31 -> 00:13:35]  this money and it tends to use it to provide welfare benefits, obviously welfare benefits
+[00:13:35 -> 00:13:40]  mean that poorer people who don't get so much income or they're unemployed, they get money
+[00:13:40 -> 00:13:45]  towards having financial security so they can afford food and clothing and stuff like
+[00:13:45 -> 00:13:50]  that. We also have our child benefits and other different benefits that we have for
+[00:13:50 -> 00:13:53]  the ill people, stuff like that, is to make sure there's equity within the economy because
+[00:13:53 -> 00:13:57]  obviously lack of equity is one major form of market failure.
+[00:13:57 -> 00:14:03]  However, we have a tragedy of our time, government failure. There's two slides of lots of different
+[00:14:03 -> 00:14:07]  types of government failure, there are eight total causes of government failure and we're
+[00:14:07 -> 00:14:12]  going to go through them now. Political self-interest is one biggie, it's because people who are
+[00:14:12 -> 00:14:16]  in power think, aha there's an election coming up, I'm going to do stuff that's good for
+[00:14:16 -> 00:14:19]  the people, not necessarily good for the economy but good for the people, they're going to
+[00:14:19 -> 00:14:24]  vote for me and we'll get back in. Then we have our special interest groups who spend
+[00:14:24 -> 00:14:28]  and tax inappropriately, for example, I mean there's nothing wrong with the Green Party
+[00:14:28 -> 00:14:31]  but if the Green Party got into power they might do massive taxation on people that simply
+[00:14:31 -> 00:14:38]  can't afford it just to spend it on getting more wind turbines. So obviously that might
+[00:14:38 -> 00:14:41]  not have the best effect for the economy so the government might have failed in its attempt
+[00:14:41 -> 00:14:48]  to give the economy the best chance at floating, being successful. Then we have policy myopia,
+[00:14:48 -> 00:14:53]  what a snazzy name that has. This is when politicians look for short term solutions
+[00:14:53 -> 00:14:58]  to the problems. So for example if there is an election coming up pretty quickly I
+[00:14:58 -> 00:15:01]  might think, I know I'm going to do something really short term, it's going to be really
+[00:15:01 -> 00:15:05]  fast, quick, everyone's going to think woohoo it looks good and then suddenly after the
+[00:15:05 -> 00:15:09]  election everyone's going to realise, oh my god, that's only a short term solution, we've
+[00:15:09 -> 00:15:12]  got obviously a long term issue. The thing I'm thinking of off the top of my head for
+[00:15:12 -> 00:15:17]  this is Gordon Brown when he sold all that gold, obviously it gave us money really quickly
+[00:15:17 -> 00:15:23]  but then the price of gold suddenly rose dramatically and we realised we'd made a massive loss there.
+[00:15:23 -> 00:15:27]  Another example here is subsidies. Obviously in the short term subsidies are great, they
+[00:15:27 -> 00:15:31]  mean firms can enter the market and produce more efficiently but they distort markets
+[00:15:31 -> 00:15:35]  really badly, they lead to inefficiency because firms think, ah I've got my subsidy, I don't
+[00:15:35 -> 00:15:41]  need to do that much, stuff like that. Then we have regulatory capture which is when industries
+[00:15:41 -> 00:15:45]  that are under the control of regulatory bodies favour producers rather than consumers. I'm
+[00:15:45 -> 00:15:50]  thinking here of Nazi Germany, I think it was when Hitler got into power he was quite
+[00:15:50 -> 00:15:54]  good friends with all the big business leaders so he did stuff that was really good for them
+[00:15:54 -> 00:15:57]  but it meant that consumers had to pay much higher prices, they obviously couldn't afford
+[00:15:57 -> 00:16:03]  it, it really wasn't very good. This is government failure because it means that the consumers
+[00:16:03 -> 00:16:10]  lose out. Then we have the disincentive effect. The big one that everyone thinks of here is
+[00:16:10 -> 00:16:16]  benefits. People see, oh look there's benefits, why should I work, I may as well get benefits.
+[00:16:16 -> 00:16:20]  So this disincentivises people from working so it leads to more unemployment because people
+[00:16:20 -> 00:16:24]  think I can earn just as much if I'm on benefits as if I'm working so they collect their benefits.
+[00:16:24 -> 00:16:30]  This leads to productive inefficiency within the economy because less is, not all the factors
+[00:16:30 -> 00:16:34]  of production are really being used to their full maximum output so we're not on the production
+[00:16:34 -> 00:16:39]  possibility boundary. Moving on to the second load of government failures, one is when the
+[00:16:39 -> 00:16:44]  policy decisions are based on imperfect information. For example, less and less people are voting
+[00:16:44 -> 00:16:48]  every year. The people that are voting tend to be the older people who are going to die
+[00:16:48 -> 00:16:53]  soon so the government obviously has to follow the older people's ideas which means that
+[00:16:53 -> 00:16:57]  the policies it implements aren't necessarily the ones that are going to be best for the
+[00:16:57 -> 00:17:02]  society of tomorrow. This is why it's really important for everybody to vote because the
+[00:17:02 -> 00:17:05]  government doesn't know what the public wants, people who vote don't necessarily understand
+[00:17:05 -> 00:17:10]  the policies, it means it's government failure because the wrong thing is happening for the
+[00:17:10 -> 00:17:14]  economy, it's not necessarily what will be best for the economy and the future generation.
+[00:17:14 -> 00:17:19]  Next we have the law of unintended consequences which is when the actions of consumers, producers
+[00:17:19 -> 00:17:25]  and the government actually has an unanticipated effect. Obviously we've already done the benefits,
+[00:17:25 -> 00:17:31]  we think ooh it's going to have equity but actually it leads to more unemployment. Another
+[00:17:31 -> 00:17:35]  one is a tax on a demerit good, for example cigarettes, we put a big tax on it, we think
+[00:17:35 -> 00:17:40]  ooh yay less people are going to smoke, it actually leads to tax evasion, smuggling,
+[00:17:40 -> 00:17:44]  black markets, stuff like that. The costs of actually implementing a policy could be
+[00:17:44 -> 00:17:48]  a major issue because obviously government intervention is quite expensive to administer
+[00:17:48 -> 00:17:53]  and enforce, we might say no one can smoke in buildings but people might still smoke
+[00:17:53 -> 00:17:57]  in buildings and it would be far too expensive for the government to actually be able to
+[00:17:57 -> 00:18:03]  monitor whether people are smoking in buildings. So the cost of making sure people don't might
+[00:18:03 -> 00:18:10]  be more expensive than the social cost I suppose of people not smoking in buildings. Finally
+[00:18:10 -> 00:18:14]  we have conflicting objectives, this is obviously much more prominent in the macroeconomic section
+[00:18:14 -> 00:18:19]  and we don't really want to dip into that here because it leads to a trade-off of policies.
+[00:18:19 -> 00:18:26]  I try to avoid this one mainly because it is verging on macroeconomics more I'd say.
+[00:18:26 -> 00:18:33]  For example with the fiscal policy, if we have lots of policies to increase employment
+[00:18:33 -> 00:18:36]  but then we've also got policies in place to decrease inflation, these are going to
+[00:18:36 -> 00:18:42]  be a major conflict because they basically cancel each other out which means it's just
+[00:18:42 -> 00:18:48]  rubbish really. You won't tend to get a question actually about government failure itself,
+[00:18:48 -> 00:18:52]  you'll be more likely to get a question that says evaluate costs and benefits of government
+[00:18:52 -> 00:18:56]  doing this, what are different ways that the government could do this and then you'd do
+[00:18:56 -> 00:19:00]  it so you'd write the government could put a tax and then after that you'd put however
+[00:19:00 -> 00:19:05]  this tax could have this effect, this unexpected effect, stuff like that. Make sure you slip
+[00:19:05 -> 00:19:09]  it in because you need both sides of the argument when you're writing an essay. That is the
+[00:19:09 -> 00:19:16]  end of the microeconomic videos, woohoo! AS level microeconomics is all the videos have
+[00:19:16 -> 00:19:20]  been made, if you want to watch them, go back over them, then just do that. I've got a set
+[00:19:20 -> 00:19:24]  of notes that have slightly more detail than what's in these videos if you want them so
+[00:19:24 -> 00:19:28]  just comment below. Hope these videos have helped you in some way and good luck in your
+[00:19:28 -> 00:19:30]  exams, have a lovely day, bye!

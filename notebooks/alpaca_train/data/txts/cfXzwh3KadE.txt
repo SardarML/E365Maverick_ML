@@ -1,0 +1,63 @@
+[00:00:00 -> 00:00:29]  Something surrounds you, bombards you, some of which you can't see, touch, or even feel.
+[00:00:29 -> 00:00:36]  Every day, everywhere you go, it is odorless and tasteless, yet you use it and depend on
+[00:00:36 -> 00:00:38]  it every hour of every day.
+[00:00:38 -> 00:00:42]  Without it, the world you know could not exist.
+[00:00:42 -> 00:00:44]  What is it?
+[00:00:44 -> 00:00:46]  Electromagnetic radiation.
+[00:00:46 -> 00:00:53]  These waves spread across a spectrum from very short gamma rays to X-rays, ultraviolet
+[00:00:53 -> 00:01:01]  rays, visible light waves, even longer infrared waves, microwaves, to radio waves, which can
+[00:01:01 -> 00:01:04]  measure longer than a mountain range.
+[00:01:04 -> 00:01:09]  This spectrum is the foundation of the information age and of our modern world.
+[00:01:09 -> 00:01:15]  Your radio, remote control, text message, television, microwave oven, even a doctor's
+[00:01:15 -> 00:01:21]  X-ray, all depend on waves within the electromagnetic spectrum.
+[00:01:21 -> 00:01:27]  Electromagnetic waves, or EM waves, are similar to ocean waves in that both are energy waves.
+[00:01:27 -> 00:01:29]  They transmit energy.
+[00:01:29 -> 00:01:34]  EM waves are produced by the vibration of charged particles and have electrical and
+[00:01:34 -> 00:01:36]  magnetic properties.
+[00:01:36 -> 00:01:42]  But unlike ocean waves that require water, EM waves travel through the vacuum of space
+[00:01:42 -> 00:01:44]  at the constant speed of light.
+[00:01:44 -> 00:01:49]  EM waves have crests and troughs like ocean waves.
+[00:01:49 -> 00:01:52]  The distance between crests is the wavelength.
+[00:01:52 -> 00:01:58]  While some EM wavelengths are very long and are measured in meters, many are tiny and
+[00:01:58 -> 00:02:02]  are measured in billionths of a meter, nanometers.
+[00:02:02 -> 00:02:07]  The number of these crests that pass a given point within one second is described as the
+[00:02:07 -> 00:02:09]  frequency of the wave.
+[00:02:09 -> 00:02:14]  One wave, or cycle, per second is called a hertz.
+[00:02:14 -> 00:02:21]  Long EM waves, such as radio waves, have the lowest frequency and carry less energy.
+[00:02:21 -> 00:02:25]  Adding energy increases the frequency of the wave and makes the wavelength shorter.
+[00:02:25 -> 00:02:30]  Gamma rays are the shortest, highest energy waves in the spectrum.
+[00:02:30 -> 00:02:36]  So as you sit watching TV, not only are there visible light waves from the TV striking your
+[00:02:36 -> 00:02:41]  eyes, but also radio waves transmitting from a nearby station, and microwaves carrying
+[00:02:41 -> 00:02:46]  cell phone calls and text messages, and waves from your neighbor's Wi-Fi, and GPS units
+[00:02:46 -> 00:02:48]  in the cars driving by.
+[00:02:48 -> 00:02:52]  There is a chaos of waves from all across the spectrum passing through your room right
+[00:02:52 -> 00:02:54]  now.
+[00:02:54 -> 00:02:59]  With all these waves around you, how can you possibly watch your TV show?
+[00:02:59 -> 00:03:04]  Similar to tuning a radio to a specific radio station, our eyes are tuned to a specific
+[00:03:04 -> 00:03:11]  region of the EM spectrum and can detect energy with wavelengths from 400 to 700 nanometers.
+[00:03:11 -> 00:03:14]  The visible light region of the spectrum.
+[00:03:14 -> 00:03:20]  Objects appear to have color because EM waves interact with their molecules.
+[00:03:20 -> 00:03:26]  Some wavelengths in the visible spectrum are reflected, and other wavelengths are absorbed.
+[00:03:26 -> 00:03:31]  This leaf looks green because EM waves interact with the chlorophyll molecules.
+[00:03:31 -> 00:03:38]  Waves between 492 and 577 nanometers in length are reflected, and our eye interprets this
+[00:03:38 -> 00:03:41]  as the leaf being green.
+[00:03:41 -> 00:03:46]  Our eyes see the leaf as green, but cannot tell us anything about how the leaf reflects
+[00:03:46 -> 00:03:50]  ultraviolet, microwave, or infrared waves.
+[00:03:50 -> 00:03:55]  To learn more about the world around us, scientists and engineers have devised ways to enable
+[00:03:55 -> 00:04:01]  us to see beyond that sliver of the EM spectrum called visible light.
+[00:04:01 -> 00:04:07]  Data from multiple wavelengths help scientists study all kinds of amazing phenomena on Earth,
+[00:04:07 -> 00:04:10]  from seasonal change to specific habitats.
+[00:04:10 -> 00:04:16]  Everything around us emits, reflects, and absorbs EM radiation differently based on
+[00:04:16 -> 00:04:17]  its composition.
+[00:04:17 -> 00:04:22]  A graph showing these interactions across a region of the EM spectrum is called a spectral
+[00:04:22 -> 00:04:24]  signature.
+[00:04:24 -> 00:04:29]  Characteristic patterns, like fingerprints within the spectra, allow astronomers to identify
+[00:04:29 -> 00:04:34]  an object's chemical composition and to determine such physical properties as temperature and
+[00:04:34 -> 00:04:35]  density.
+[00:04:35 -> 00:04:40]  NASA's Spitzer Space Telescope observed the presence of water and organic molecules
+[00:04:40 -> 00:04:44]  in a galaxy 3.2 billion light-years away.
+[00:04:44 -> 00:04:49]  Viewing our Sun in multiple wavelengths with the SOHO satellite allows scientists to study
+[00:04:49 -> 00:04:54]  and understand sunspots that are associated with solar flares and eruptions harmful to
+[00:04:54 -> 00:05:00]  satellites, astronauts, and communications here on Earth.
+[00:05:00 -> 00:05:05]  We are constantly learning more about our world and universe by taking advantage of
+[00:05:05 -> 00:05:10]  the unique information contained in the different waves across the EM spectrum.

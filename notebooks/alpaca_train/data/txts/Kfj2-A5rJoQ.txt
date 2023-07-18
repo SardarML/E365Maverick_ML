@@ -1,0 +1,161 @@
+[00:00:00 -> 00:00:09]  You know, a lot of people ask why I even bother to make models anymore when I have the computer.
+[00:00:09 -> 00:00:14]  And for me, it's part of my design process.
+[00:00:14 -> 00:00:15]  It's like visual sketching.
+[00:00:15 -> 00:00:17]  It's like three-dimensional sketching.
+[00:00:17 -> 00:00:23]  So it's also one of the reasons why I wanted to be an architect in the first place.
+[00:00:23 -> 00:00:26]  So I'll probably never give it up.
+[00:00:26 -> 00:00:31]  I know some people have great luck modeling in the computer.
+[00:00:31 -> 00:00:34]  I just find I'm on the computer all the time.
+[00:00:34 -> 00:00:46]  So this is just a chance to step away and think differently.
+[00:00:46 -> 00:00:53]  The other thing about models, making models, is clients absolutely love them.
+[00:00:53 -> 00:00:59]  So it's great to be able to pick them up and spin them around and look inside of them.
+[00:00:59 -> 00:01:05]  There's this really cool thing that happens when you've left something sort of open to
+[00:01:05 -> 00:01:09]  interpretation and it's not so hard and fast and rigid.
+[00:01:09 -> 00:01:15]  I just find working at the computer forces you to make decisions maybe too early.
+[00:01:15 -> 00:01:19]  Maybe at a time when you're not quite ready to make those decisions.
+[00:01:19 -> 00:01:27]  So for me, just keeping it loose like this is perfect.
+[00:01:27 -> 00:01:30]  So one of the things I was looking forward to most when I went to architecture school
+[00:01:30 -> 00:01:32]  was sort of model-making classes.
+[00:01:32 -> 00:01:37]  And when I got to school, I was a little disappointed that there actually weren't any model-making
+[00:01:37 -> 00:01:40]  classes, that they were expecting you to teach yourself.
+[00:01:40 -> 00:01:44]  And so one of the first things I did was head to the library and start sort of researching
+[00:01:44 -> 00:01:48]  different modeling styles, sort of people to emulate, people to copy.
+[00:01:48 -> 00:01:51]  So some of my early heroes were people like Wes Jones.
+[00:01:51 -> 00:01:56]  I think at the time he was with Pfau Jones, but he would make these very detailed mechanistic
+[00:01:56 -> 00:01:58]  sort of machines for living.
+[00:01:58 -> 00:02:02]  There was Neil Denari and his Urban Monastery.
+[00:02:02 -> 00:02:08]  That was kind of a, that was a seminal work that I looked at that and I thought, wow,
+[00:02:08 -> 00:02:10]  this is exactly what I'm interested in.
+[00:02:10 -> 00:02:16]  Like I love the style, the mix of sort of open spaces, the detail, and then the sort
+[00:02:16 -> 00:02:17]  of carved spaces.
+[00:02:17 -> 00:02:24]  And then the last one, the last avatar here is Morphosis or Morphosis, however you say
+[00:02:24 -> 00:02:25]  that.
+[00:02:25 -> 00:02:29]  And these guys were building these incredibly detailed models.
+[00:02:29 -> 00:02:31]  They were open-ended in a way.
+[00:02:31 -> 00:02:37]  They were suggestive of sort of doors and windows and structure and material, but they
+[00:02:37 -> 00:02:40]  were, left room for interpretation.
+[00:02:40 -> 00:02:44]  And so I kind of adopted this style as part of my own.
+[00:02:44 -> 00:02:49]  I sort of emulated it, copied it, and then over time with practice, it sort of became
+[00:02:49 -> 00:02:51]  my own thing.
+[00:02:51 -> 00:02:54]  But one of the things that, the commonalities that all of them shared was that they were
+[00:02:54 -> 00:02:57]  using planes to create space.
+[00:02:57 -> 00:02:59]  They weren't building sort of masses.
+[00:02:59 -> 00:03:03]  And you'll see this often for sort of really large scale work, like say a skyscraper or
+[00:03:03 -> 00:03:07]  urban, you know, a model of a city.
+[00:03:07 -> 00:03:11]  There are just forms that are blocked out, but this doesn't say much about what the architecture
+[00:03:11 -> 00:03:12]  actually is.
+[00:03:12 -> 00:03:13]  It doesn't talk about openings.
+[00:03:13 -> 00:03:15]  It doesn't really talk about material in any real way.
+[00:03:15 -> 00:03:20]  You know, this thing could be a hundred feet tall or it could be five feet tall.
+[00:03:20 -> 00:03:24]  So this is less appealing to me as a modeling style.
+[00:03:24 -> 00:03:29]  Once we start transitioning into defining space and showing how, you know, a surface
+[00:03:29 -> 00:03:31]  may feel to be near it.
+[00:03:31 -> 00:03:35]  So if this bottom layer, you can picture this bottom layer being all glazed, for example,
+[00:03:35 -> 00:03:37]  that says a very different thing about what this is.
+[00:03:37 -> 00:03:42]  And then this upper area might be slate shingles or it might be metal.
+[00:03:42 -> 00:03:46]  So once you start rendering this space and depth and shadow into a model, it becomes
+[00:03:46 -> 00:03:47]  much more appealing.
+[00:03:47 -> 00:03:51]  And that is the modeling style that we're going to be talking about today.
+[00:03:51 -> 00:03:54]  And that's the style that's sort of represented here.
+[00:03:57 -> 00:04:00]  The story of this model starts with the materials.
+[00:04:00 -> 00:04:05]  And I think you're best to keep it to a minimal material palette when you're just getting
+[00:04:05 -> 00:04:06]  started.
+[00:04:06 -> 00:04:12]  I think overall a monochromatic model, one that has some browns and grays in it, perfect
+[00:04:12 -> 00:04:14]  for when you're just starting.
+[00:04:14 -> 00:04:19]  Now you can learn to add in different representative materials as you get more skilled at doing
+[00:04:19 -> 00:04:20]  this.
+[00:04:20 -> 00:04:22]  But I would say keep a limited material palette when you're just getting started.
+[00:04:22 -> 00:04:25]  So we have the bulk of the materials are basswood.
+[00:04:25 -> 00:04:30]  I like basswood because it paints easily, cuts easily, doesn't dull your tools, and
+[00:04:30 -> 00:04:32]  it's got a nice rigidity.
+[00:04:32 -> 00:04:35]  When you paint it, it doesn't tend to curl like chipboard does.
+[00:04:36 -> 00:04:38]  It's more expensive than chipboard or cardboard.
+[00:04:38 -> 00:04:44]  I like this because I can create a presentation model for my clients and not have to do much
+[00:04:44 -> 00:04:45]  with it.
+[00:04:45 -> 00:04:48]  Now as an accent material, I've got this mahogany sheet.
+[00:04:48 -> 00:04:50]  These are both sixteenth of an inch.
+[00:04:50 -> 00:04:54]  And you can get this in various strips and sizes, columns, and we'll talk about structure
+[00:04:54 -> 00:04:55]  in a minute.
+[00:04:55 -> 00:04:57]  But these are nice materials to work with.
+[00:04:57 -> 00:04:58]  They're finished materials.
+[00:04:58 -> 00:05:00]  You don't have to do a lot to them.
+[00:05:00 -> 00:05:03]  We also have the model base here.
+[00:05:03 -> 00:05:07]  If you have a site that has a lot of topography change, you're going to want to use something
+[00:05:07 -> 00:05:08]  like cork.
+[00:05:08 -> 00:05:13]  And I prefer the cork underlayment, which goes under a floor, for example.
+[00:05:13 -> 00:05:17]  It's a lot cheaper than buying modeling cork, and you can get it in large rolls for very
+[00:05:17 -> 00:05:18]  little money.
+[00:05:18 -> 00:05:22]  You might be using corrugated cardboard or chipboard to make your contour lines on your
+[00:05:22 -> 00:05:24]  sloping site model.
+[00:05:24 -> 00:05:27]  For this particular one, we've got some limestone tile samples.
+[00:05:27 -> 00:05:33]  And I got these from StoneSource, and I've just cut them up with a tile saw into these
+[00:05:33 -> 00:05:34]  sort of linear bar pieces.
+[00:05:34 -> 00:05:39]  I have done a video previously about model bases, and I'll link that up in the cards
+[00:05:39 -> 00:05:43]  so you get a sense for why a model base is important.
+[00:05:43 -> 00:05:47]  But it's nice to have a plinth that the building sits on.
+[00:05:47 -> 00:05:50]  You want to be thinking about how it meets the ground plane.
+[00:05:50 -> 00:05:52]  Is the building sort of burrowed into it?
+[00:05:52 -> 00:05:55]  Is it sitting above it, and there's columns that are marching down on it?
+[00:05:55 -> 00:05:57]  Is the site sloping?
+[00:05:57 -> 00:06:01]  The building has a relationship to the site, and it's important that your model address
+[00:06:01 -> 00:06:03]  that in some real way.
+[00:06:03 -> 00:06:05]  So we've talked about our site here.
+[00:06:05 -> 00:06:10]  I have a little sort of site wall gesture here, and this is just by taking a piece of
+[00:06:10 -> 00:06:11]  tile and turning it on its side.
+[00:06:11 -> 00:06:14]  So that fits in here.
+[00:06:14 -> 00:06:18]  The last couple of things I want to talk about are, you know, I've got some acrylic samples.
+[00:06:18 -> 00:06:22]  They're nice sort of pieces for using as compositional elements.
+[00:06:22 -> 00:06:27]  In this particular model, I have this little sandblasted piece of acrylic that I'm using
+[00:06:27 -> 00:06:28]  as a water feature element.
+[00:06:28 -> 00:06:31]  So it's nice to think about sort of site elements in here.
+[00:06:31 -> 00:06:36]  I've went out and bought a coir mat from Home Depot, and I've just cut that up.
+[00:06:36 -> 00:06:37]  It's got a vinyl backing to it.
+[00:06:37 -> 00:06:41]  And you can use this to show vegetation on the site.
+[00:06:41 -> 00:06:44]  You can also use it for a green roof element.
+[00:06:44 -> 00:06:49]  And so these are just nice to have and fairly inexpensive.
+[00:06:49 -> 00:06:52]  Last material element we'll talk about, and I've talked about this before.
+[00:06:52 -> 00:06:57]  If you buy a pack of guitar strings, you get a range of different wire gauges, and it's
+[00:06:57 -> 00:07:01]  cheaper than going to the model store and buying their strip wire or piano wire, something
+[00:07:01 -> 00:07:02]  like that.
+[00:07:02 -> 00:07:06]  This I use for marking swinging doors.
+[00:07:06 -> 00:07:09]  I use it for barn doors.
+[00:07:09 -> 00:07:14]  Another great thing that you can do with this is bend it up and sort of indicate circulation
+[00:07:14 -> 00:07:18]  paths or stairways, handrails, things like that.
+[00:07:18 -> 00:07:19]  So this is a nice thing to have.
+[00:07:19 -> 00:07:25]  I use this on almost every model that I build.
+[00:07:25 -> 00:07:28]  If you think about the construction sequence and how you'd actually construct a real piece
+[00:07:28 -> 00:07:33]  of architecture, you'll start answering the question on what you need to model.
+[00:07:33 -> 00:07:35]  Here we have the site, and this is a relatively flat site.
+[00:07:35 -> 00:07:41]  So I'm just using these two limestone tile pieces as a base, and I have this site wall
+[00:07:41 -> 00:07:43]  that I've inserted in between the two of them.
+[00:07:43 -> 00:07:46]  And then what we need next is a foundation for the building.
+[00:07:46 -> 00:07:50]  Now, this doesn't have to be completely representative of what the foundation is.
+[00:07:50 -> 00:07:53]  You know, this one is not going to be sitting on beams directly on the site.
+[00:07:53 -> 00:07:56]  But the idea is that it lifts the building off the site.
+[00:07:56 -> 00:08:00]  So from there, we want to start thinking about the structure.
+[00:08:00 -> 00:08:03]  Here I'm showing columns, and again, it could be bearing walls.
+[00:08:03 -> 00:08:04]  It could be columns.
+[00:08:04 -> 00:08:06]  It could be a hybrid of the two.
+[00:08:06 -> 00:08:08]  Now, obviously we have walls.
+[00:08:08 -> 00:08:10]  We have doors and windows.
+[00:08:10 -> 00:08:12]  We have roof planes.
+[00:08:12 -> 00:08:13]  We have finishes.
+[00:08:13 -> 00:08:14]  We have equipment.
+[00:08:14 -> 00:08:19]  Now, you don't necessarily have to model all of these pieces, but, you know, the ones that
+[00:08:19 -> 00:08:23]  you choose to model, they can actually give you sort of design inspirations.
+[00:08:24 -> 00:08:28]  And, you know, you don't have to model a walkway on the site, but once you do, it starts suggesting
+[00:08:28 -> 00:08:33]  how you might move between the structures, how, you know, we're slipping these planes
+[00:08:33 -> 00:08:38]  by each other, and actually you may move like this, or you may use another structure to
+[00:08:38 -> 00:08:40]  modulate that.
+[00:08:40 -> 00:08:45]  I would say rather than treating these as a strict checklist of things that you actually
+[00:08:45 -> 00:08:49]  need to include in a model, I would use them as inspiration.
+[00:08:49 -> 00:08:52]  If the mechanical system is going to inspire the form of the building, it's an important
+[00:08:52 -> 00:08:55]  part of the structure, plan to build a model of it.
+[00:08:55 -> 00:08:59]  You know, if vegetation is really impacting how you're going to move in and around the
+[00:08:59 -> 00:09:01]  site, you should probably model it.
+[00:09:01 -> 00:09:02]  Cabinetry.
+[00:09:02 -> 00:09:06]  That's another system that you want to start thinking about and how you model it and how
+[00:09:06 -> 00:09:11]  it might inform how you enter a building or how you move through it or how it actually
+[00:09:11 -> 00:09:13]  connects to the site.
+[00:09:16 -> 00:09:21]  Coming up in part two, we'll look at the detailed techniques for cutting, gluing, and making
+[00:09:21 -> 00:09:23]  everything you see here in this model.

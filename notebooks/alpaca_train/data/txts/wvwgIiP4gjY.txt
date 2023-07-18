@@ -1,0 +1,18 @@
+[00:00:00 -> 00:00:11]  Microeconomics versus macroeconomics. The study of economics is divided into two major branches
+[00:00:11 -> 00:00:19]  microeconomics and macroeconomics. Microeconomics comes from the Greek word
+[00:00:19 -> 00:00:28]  mikros meaning small. Microeconomics deals with the behavior of individual actors in the economy
+[00:00:28 -> 00:00:40]  it can mean one consumer, one household, one firm or even one industry. Some questions we aim to answer in
+[00:00:40 -> 00:00:49]  microeconomics are if price of cars go up what happens to consumer demand? If income levels of
+[00:00:49 -> 00:01:00]  people increase how will demand for meat change? So microeconomics deals with the individual parts of the economy
+[00:01:00 -> 00:01:08]  when you hear microeconomics think small. Macroeconomics comes from the Greek word
+[00:01:08 -> 00:01:17]  makros meaning big. In macroeconomics we are interested in the economy as a whole
+[00:01:17 -> 00:01:26]  for example the country's unemployment rate, changes in prices of goods or inflation
+[00:01:26 -> 00:01:36]  national income which is often referred as GDP. Some questions we try to answer in macroeconomics are
+[00:01:36 -> 00:01:44]  what happens if money supply increase? What causes the economy to grow over time?
+[00:01:44 -> 00:01:55]  So in a nutshell macroeconomics studies the economy as a whole. When you hear macroeconomics think big
+[00:01:55 -> 00:02:05]  and you know what? Microeconomics and macroeconomics are interrelated. To understand macroeconomics
+[00:02:05 -> 00:02:13]  we got to understand microeconomics. For instance a typical question we ask in macroeconomics is
+[00:02:13 -> 00:02:24]  when interest rates go down how will GDP change? To answer this question we need to first understand microeconomics
+[00:02:24 -> 00:02:32]  how will a consumer respond to an interest rate drop? Will a consumer start saving less?
+[00:02:32 -> 00:02:40]  How will a firm respond to an interest rate drop? Will a firm start investing more?
+[00:02:40 -> 00:02:48]  Once we understand the behaviours of individual agents we can then understand the economy as a whole.

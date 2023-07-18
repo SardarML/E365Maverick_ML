@@ -1,0 +1,470 @@
+[00:00:00 -> 00:00:10]  Wie gesagt, wird es nach diesem Vortrag und nach dem Konzert eine Diskussion über Konzeptmusik und über Konzeptkunst geben.
+[00:00:10 -> 00:00:16]  Insofern möchte ich etwas Generelles zu diesem Thema Konzeptionalismus sagen.
+[00:00:16 -> 00:00:23]  Das Problem besteht darin, dass die Konzeptmusik eigentlich eine relativ neue Erscheinung ist.
+[00:00:23 -> 00:00:32]  Ich habe 2012 diesen Begriff zum ersten Mal in meiner Musikphilosophie, die Digitale Revolution der Musik, eingeführt.
+[00:00:32 -> 00:00:36]  Er war in keinem Musiklexikon zu finden.
+[00:00:36 -> 00:00:42]  Dieser Begriff ließ sich auch nicht googeln, er war also nicht existent.
+[00:00:42 -> 00:00:49]  Deswegen muss man dann eigentlich versuchen, die Theorien auf Umwegen zu bilden.
+[00:00:49 -> 00:00:59]  Die Idee ist, dass ich zunächst einmal schaue, wie wird dieser Begriff in Bezug in den bildenden Künsten benutzt.
+[00:00:59 -> 00:01:02]  Also Konzeptkunst ist in den bildenden Künsten etabliert.
+[00:01:02 -> 00:01:09]  Es gibt einen Kanon von Werken, es gibt einen Diskurs darüber, ganz anders als in der neuen Musik.
+[00:01:09 -> 00:01:17]  Deswegen möchte ich im ersten Teil meines Vortrags zunächst einmal diese Frage des Konzeptionalismus in Bezug auf die bildenden Künste erörtern
+[00:01:17 -> 00:01:27]  und dann eine Theorie der Konzeptkunst entwickeln und Ihnen vorschlagen und dann dieses Modell übertragen auf die Musik.
+[00:01:27 -> 00:01:29]  Soweit zum Programm.
+[00:01:29 -> 00:01:34]  Wie entwickelt man so eine Theorie? Ganz sicher nicht im luftleeren Raum.
+[00:01:34 -> 00:01:42]  Zum einen denke ich, es ist sinnvoll, wenn man sich auf kanonische Werke in der bildenden Kunst bezieht,
+[00:01:42 -> 00:01:46]  also auf kanonische Konzeptkunstwerke.
+[00:01:46 -> 00:01:54]  Und zum Zweiten macht es auch wenig Sinn, wenn man jetzt den Begriff der Konzeptkunst so abstrakt philosophisch definiert,
+[00:01:54 -> 00:02:02]  sondern es ist sicherlich sinnvoll, wenn man sich an den Selbstbeschreibungen, die in der bildenden Kunst vorher schon orientiert
+[00:02:02 -> 00:02:11]  und das heißt vor allen Dingen an den Konzeptkunstdefinitionen, wie sie von Konzeptkünstlern entwickelt worden sind.
+[00:02:11 -> 00:02:15]  Und genauso möchte ich jetzt vorgehen.
+[00:02:15 -> 00:02:21]  Ich möchte mich also auf kanonische Werke beziehen aus der Konzeptkunst und an diesen entsprechenden Selbstbeschreibungen
+[00:02:21 -> 00:02:30]  und versuchen mit diesem Material eine entsprechende Theorie oder ein Modell der Konzeptkunst zu entwickeln.
+[00:02:30 -> 00:02:33]  Hier sehen Sie eine Auswahl an kanonischen Werken.
+[00:02:33 -> 00:02:41]  Viele dieser Werke werden Ihnen bekannt vorkommen, wie eben der Fettstuhl von Joseph Beuys oder das Urinal von Duchamp.
+[00:02:41 -> 00:02:47]  Die anderen Beispiele werde ich jetzt im Verlauf des Vortrags etwas näher noch erläutern.
+[00:02:47 -> 00:02:57]  Ich beginne also mit den entsprechenden Konzeptkunstdefinitionen, wie sie vorhanden sind.
+[00:02:57 -> 00:03:00]  Und ich beginne mit einem Zitat von Duchamp.
+[00:03:00 -> 00:03:10]  Duchamp wird allgemein als der Ideengeber der Konzeptkunst angeschaut, obwohl er eigentlich Readymades gemacht hat.
+[00:03:10 -> 00:03:16]  Aber diese Readymades sind als paradigmatische Konzeptkunstwerke verstanden worden.
+[00:03:16 -> 00:03:26]  Und insofern sind die Aussagen, die Duchamp über seine Readymades gemacht haben, gleichzeitig eben Aussagen auch über Konzeptkunst.
+[00:03:26 -> 00:03:31]  Weil die Readymades eben später als Konzeptkunstwerke kanonisiert wurden.
+[00:03:31 -> 00:03:36]  Und Duchamp schreibt, die Wahl dieser Readymades wurde nie von ästhetischer Lust diktiert.
+[00:03:36 -> 00:03:45]  Die Wahl beruhte auf einer Reaktion visueller Indifferenz bei einer gleichzeitigen totalen Abwesenheit von gutem und schlechtem Geschmack.
+[00:03:45 -> 00:03:49]  In der Tat eine völlige Anästhesie.
+[00:03:50 -> 00:03:56]  Gut, das heißt visuelle Indifferenz scheint ein wichtiges Kriterium zu sein.
+[00:03:56 -> 00:04:05]  Anfang der 1960er Jahre ist zum ersten Mal überhaupt der Begriff der Konzeptkunst geprägt worden.
+[00:04:05 -> 00:04:07]  Und zwar von Henry Flint.
+[00:04:07 -> 00:04:11]  Und zwar im Englischen spricht er da von Concept Art.
+[00:04:11 -> 00:04:14]  Gewöhnlich spricht man heute von Conceptual Art.
+[00:04:14 -> 00:04:20]  Und Flint schreibt, Konzeptkunst ist vor allem Kunst, bei welcher das Material Konzepte sind.
+[00:04:20 -> 00:04:23]  So wie zum Beispiel das Material der Musik der Klang ist.
+[00:04:23 -> 00:04:31]  Insofern Begriffe eng mit Sprache verbunden sind, ist Konzeptkunst eine Art von Kunst, bei der die Sprache das Material ist.
+[00:04:31 -> 00:04:38]  Und ich denke bei der Übersetzung dieses Textes ist es sinnvoll, wenn man hier Konzepte mit Begriffe übersetzt.
+[00:04:39 -> 00:04:45]  Also nach Flint ist die Konzeptkunst begrifflich verfasst.
+[00:04:45 -> 00:04:53]  Eine der berühmtesten Konzeptkunstbegriffe und Theorien kommt von Saul Levit.
+[00:04:53 -> 00:04:59]  Und er schreibt, wenn ein Künstler eine konzeptionelle Form von Kunst benutzt, heißt das,
+[00:04:59 -> 00:05:07]  dass alle Pläne und Entscheidungen im Voraus erledigt werden und die Ausführung eine rein mechanische Angelegenheit ist.
+[00:05:07 -> 00:05:11]  Die Idee wird zu einer Maschine, die die Kunst macht.
+[00:05:11 -> 00:05:19]  Und schließlich gibt es noch eine Einschlägedefinition von Joseph Korshut, einem Konzeptkünstler.
+[00:05:19 -> 00:05:27]  Und er schreibt, Kunstwerke sind analytische Propositionen, das besagt, dass sie keinerlei Information über irgendwelche Tatsachen liefern.
+[00:05:27 -> 00:05:35]  Ein Kunstwerk ist insofern eine Tautologie, als es die Intention des Künstlers aufzeigt.
+[00:05:36 -> 00:05:46]  Gut, wenn man jetzt diese vier Charakterisierungen sich anschaut und versucht sie auf diese exemplarischen,
+[00:05:46 -> 00:05:54]  kanonischen Konzeptkunstwerke anzuwenden, dann merkt man sehr schnell, dass sie immer nur auf einige wenige Beispiele passen.
+[00:05:54 -> 00:06:02]  Und das heißt so viel, dass die Konzeptkünstler eigentlich eine Legitimation ihrer eigenen Werke geschaffen haben
+[00:06:02 -> 00:06:05]  mit diesen Konzeptkunstdefinitionen.
+[00:06:05 -> 00:06:15]  Das ist aber noch kein Konzeptkunstbegriff, der im Allgemeinen diese kanonisch beschriebenen Werke hinreichend charakterisieren würde.
+[00:06:15 -> 00:06:21]  Und deswegen besteht eigentlich die philosophische Aufgabe nach wie vor, sich die Frage zu stellen,
+[00:06:21 -> 00:06:24]  was ist eigentlich das vereinigende Prinzip?
+[00:06:24 -> 00:06:27]  Was ist die Struktur, die all diesen Werken zugrunde liegt?
+[00:06:27 -> 00:06:33]  Und das ist besonders deswegen so schwierig, weil sich das ja nicht mehr an ästhetischen Merkmalen ablesen lässt.
+[00:06:33 -> 00:06:39]  Das Konzeptkunst ist generell medienunspezifisch.
+[00:06:39 -> 00:06:52]  Und die Idee, die ich Ihnen heute vorschlagen möchte, ist, dass das, was diese Werke alle eint, ein Isomorphismus ist.
+[00:06:53 -> 00:07:00]  Und ein Isomorphismus ist eine eineindeutige Relation, und zwar zwischen dem Konzept, also der begrifflichen Beschreibung,
+[00:07:00 -> 00:07:09]  das was das Werk sein soll, und dem Perzept, also der sinnlich wahrnehmbaren Präsentation des Werkes.
+[00:07:09 -> 00:07:13]  Und ich spreche deswegen nicht vom Werk, sondern vom Perzept.
+[00:07:14 -> 00:07:24]  Weil es letztendlich die Konzeptkunst selbst auf eine Auflösung der Werkkategorie abgesehen hat.
+[00:07:24 -> 00:07:30]  Und gleichzeitig ist Perzept eben auch ein Begriff, der eben nicht den sinnlichen Eindruck beschreiben soll,
+[00:07:30 -> 00:07:37]  den Konzeptmusik oder Konzeptkunst oder auch Konzepttheorie gleichermaßen im Rezipienten auslöst.
+[00:07:38 -> 00:07:43]  Gut, entscheidend ist, dass das eben eine eineindeutige Abbildung ist.
+[00:07:43 -> 00:07:50]  Das heißt, diese Beziehung, diese Relation muss man in zwei verschiedenen Richtungen lesen können.
+[00:07:50 -> 00:07:54]  Also das Konzept definiert eindeutig das, was man am Werk wahrnimmt,
+[00:07:54 -> 00:08:00]  und die sinnliche Erfahrung des Werkes ist eine Repräsentation des Konzepts.
+[00:08:00 -> 00:08:03]  Das ist die Grundidee dieses Isomorphismus.
+[00:08:03 -> 00:08:11]  Und ein gutes Beispiel dafür wäre die ausradierte Zeichnung von de Kooning,
+[00:08:11 -> 00:08:14]  die Sie hier rechts oben sehen.
+[00:08:14 -> 00:08:19]  Da ist es eben so, dass der Titel des Werkes heißt Ausradierte Zeichnung,
+[00:08:19 -> 00:08:22]  und was man sieht, ist eine ausradierte Zeichnung.
+[00:08:25 -> 00:08:29]  Was muss ein solcher Konzeptkunstbegriff leisten?
+[00:08:29 -> 00:08:35]  Zum einen muss er natürlich die ganzen heterogenen Phänomene und Werke irgendwie vereinigen können.
+[00:08:35 -> 00:08:40]  Also es muss das gemeinsame Strukturabmerkmal sein, was diesen Werken zugrunde liegt.
+[00:08:40 -> 00:08:46]  Darüber hinaus muss dieses Isomorphismusprinzip aber auch exklusiv sein.
+[00:08:46 -> 00:08:53]  Also es bringt nicht, wenn man diesen Konzeptkunstbegriff oder den Begriff der Konzeptmusik zu weit fasst,
+[00:08:53 -> 00:08:57]  sondern dieses Genre muss relativ scharf gefasst sein.
+[00:08:57 -> 00:09:00]  Also der Begriff muss trennscharf sein.
+[00:09:00 -> 00:09:05]  Er muss inklusiv sein und exklusiv sein.
+[00:09:05 -> 00:09:08]  Gut, und das möchte ich jetzt gerne testen.
+[00:09:08 -> 00:09:13]  Und ich beginne mit dem Test, wie exklusiv ist dieser Begriff?
+[00:09:13 -> 00:09:19]  Und Sie sehen an diesem Diagramm zunächst erstmal,
+[00:09:19 -> 00:09:24]  wie die Grenze gezogen würde, wenn man dieses Isomorphismusprinzip zugrunde legt.
+[00:09:24 -> 00:09:30]  Und Sie sehen, dass die Grenze jetzt sich durch das Werk einzelner Künste legt,
+[00:09:30 -> 00:09:35]  wie bei Malevich, wie bei Sol Levit und wie bei Beuys.
+[00:09:35 -> 00:09:41]  Also eigentlich gibt es viele Werke von diesen Künstlern,
+[00:09:41 -> 00:09:44]  die eben nicht zur Konzeptkunst gerechnet werden müssen.
+[00:09:44 -> 00:09:47]  Aber es gibt eben jeweils Beispiele, und das sind kanonische Beispiele,
+[00:09:47 -> 00:09:50]  die zur Konzeptkunst gerechnet werden.
+[00:09:51 -> 00:09:56]  Gut, ich werde jetzt diese vier Grenzfälle zunächst erstmal kurz mit Ihnen diskutieren.
+[00:09:56 -> 00:10:01]  Sol Levits Incomplete Open Cubes sind ein sehr exemplarisches Beispiel,
+[00:10:01 -> 00:10:06]  was Sol Levit in seiner Konzeptkunstdefinition darunter verstanden hat,
+[00:10:06 -> 00:10:10]  dass die Idee zur Maschine wird, die das Werk macht.
+[00:10:10 -> 00:10:14]  Denn das ist eine Art, die Idee dieses Werkes ist,
+[00:10:14 -> 00:10:19]  Incomplete Open Cubes, also alle unvollständigen offenen Würfelformen darzustellen.
+[00:10:19 -> 00:10:22]  Und davon gibt es 122.
+[00:10:22 -> 00:10:28]  Das heißt, diese Idee der Incomplete Open Cubes definiert exakt, wie das Werk aussieht.
+[00:10:28 -> 00:10:32]  Also diese 122 Würfelformen, das muss man nur austesten.
+[00:10:32 -> 00:10:37]  Gleichzeitig aber kann man dieses Konzept, wenn man, wie auf der linken Seite,
+[00:10:37 -> 00:10:41]  all diese Würfelformen auf so einem Podest präsentiert bekommt,
+[00:10:41 -> 00:10:43]  sieht man, kann man das Konzept auch wahrnehmen.
+[00:10:43 -> 00:10:47]  Und das ist genau das, was ich mit einer isomorphen Abbildung meine,
+[00:10:47 -> 00:10:51]  zwischen Konzept und Perzept, zwischen Konzept und Werk.
+[00:10:51 -> 00:10:57]  Auf der rechten Seite sehen Sie hingegen einzelne dieser offenen Würfelformen,
+[00:10:57 -> 00:11:01]  die in eine Skulptur verwandelt wurden
+[00:11:01 -> 00:11:04]  und dort in einer Parklandschaft in New York ausgestellt worden sind.
+[00:11:04 -> 00:11:11]  Und da verwandeln sich diese Würfelformen plötzlich in Beispiele für Minimalismus,
+[00:11:12 -> 00:11:13]  für Minimal Art.
+[00:11:13 -> 00:11:17]  Und Sir Levitt ist eben auch bekannt als Minimal Artist.
+[00:11:19 -> 00:11:24]  Und der Punkt ist, und da kann man eben dieses Isomorphismusprinzip sehr schön anwenden,
+[00:11:24 -> 00:11:30]  die Wahrnehmung der einzelnen offenen Würfelformen lässt eben nicht mehr
+[00:11:30 -> 00:11:34]  all diese 122 Würfelformen in den Blick kommen.
+[00:11:34 -> 00:11:38]  Und deswegen sieht man das Konzept eigentlich in dieser Darstellungsweise nicht mehr.
+[00:11:39 -> 00:11:46]  Auch das schwarze Quadrat wird oft angeführt als ein Vorläufer von Konzeptkunst.
+[00:11:46 -> 00:11:54]  Es ist natürlich bekannt, dass Malevich selbst einen Ismus entwickelt hat,
+[00:11:54 -> 00:11:57]  also er ist ein Vertreter des Suprematismus.
+[00:11:57 -> 00:12:03]  Und der Suprematismus zielt auf das Höchste und das ist eine Art quasi-religiöse Wirklichkeit,
+[00:12:03 -> 00:12:11]  wird damit versucht darzustellen, und zwar indem man versucht,
+[00:12:11 -> 00:12:16]  ein freies Arrangement von geometrischen Formen zu finden,
+[00:12:16 -> 00:12:25]  in dem sich eben diese transzendentale Idee einem zeigt.
+[00:12:25 -> 00:12:28]  Und jetzt gibt es eben Extremfälle.
+[00:12:28 -> 00:12:33]  Ein Extremfall des Suprematismus ist, dass eben nur eine einzige geometrische Form
+[00:12:33 -> 00:12:36]  zum Bildgegenstand wird, und das ist das schwarze Quadrat.
+[00:12:36 -> 00:12:43]  Und genau dann, als ein solcher Grenzfall, wirkt das schwarze Quadrat tatsächlich wie Konzeptkunst.
+[00:12:43 -> 00:12:49]  Und zwar deswegen, weil eben das schwarze Quadrat eben im Titel sagt,
+[00:12:49 -> 00:12:54]  das ist ein schwarzes Quadrat, und genau das zeigt eben auch das Bild.
+[00:12:54 -> 00:13:01]  Und genau in diesem Sinne ist eben auch in diesem Grenzfall dieser Isomorphismus präsent.
+[00:13:01 -> 00:13:09]  Der Fettstuhl von Joseph Beuys taucht in den entsprechenden Konzeptkunstbüchern immer wieder als ein Beispiel auf.
+[00:13:09 -> 00:13:13]  Beuys ist eigentlich kein wirklicher Konzeptkünstler,
+[00:13:13 -> 00:13:18]  weil er hat eine Art Privatmythologie kreiert,
+[00:13:18 -> 00:13:24]  wo bestimmte Stoffmaterialien wie Honig, Fett und Filz und Wachs
+[00:13:24 -> 00:13:29]  eine besondere weltanschauliche symbolische Bedeutung haben.
+[00:13:29 -> 00:13:35]  Und wenn Sie ein so komplexes Werk wie das Rudel links vor Augen haben,
+[00:13:35 -> 00:13:39]  dann gibt es sehr viele Möglichkeiten, dieses Werk zu interpretieren.
+[00:13:39 -> 00:13:44]  Dann gibt es sehr viele Sinnbezüge, wie man dieses Werk interpretieren kann.
+[00:13:44 -> 00:13:48]  Und das ist eher ein Werk der Gehaltsästhetik.
+[00:13:48 -> 00:13:53]  Das heißt, die vielen Sinnbezüge sprengen den Isomorphismus auf der Gehaltsseite.
+[00:13:53 -> 00:13:56]  Und deswegen ist das keine Konzeptkunst.
+[00:13:56 -> 00:14:00]  Wenn hingegen, wie bei dem Fettstuhl,
+[00:14:00 -> 00:14:08]  das Werk sich auf eine einzige symbolisch aufgeladene Materialie wie Fett reduziert,
+[00:14:08 -> 00:14:14]  dann kann man sagen, dass in diesem Grenzfall dieser Fettstuhl
+[00:14:14 -> 00:14:18]  tatsächlich ein Beispiel für Konzeptkunst wäre,
+[00:14:18 -> 00:14:22]  einfach weil er diesen Isomorphismus, dieses Strukturprinzip erfüllt.
+[00:14:22 -> 00:14:26]  IBB ist wahrscheinlich der zurzeit bekannteste Konzeptkünstler,
+[00:14:26 -> 00:14:29]  aber dieses Werk, so wäre mein Argument,
+[00:14:29 -> 00:14:32]  ist eigentlich kein gutes Beispiel für Konzeptkunst,
+[00:14:32 -> 00:14:39]  weil dieses Werk viel komplexer ist in seinen politischen und kulturellen Anspielungen,
+[00:14:39 -> 00:14:45]  als dass es sich auf dieses eine Konzept, eine Han-Dynastie-Vase fallen zu lassen,
+[00:14:45 -> 00:14:46]  reduzieren ließe.
+[00:14:46 -> 00:14:48]  Man sieht diese vielen Anspielungen nicht.
+[00:14:48 -> 00:14:51]  Also zum einen ist das natürlich ein Ready-Made-Kommentar.
+[00:14:51 -> 00:14:54]  Also diese Vase wird fallen gelassen.
+[00:14:54 -> 00:14:56]  Sie wird nicht ausgestellt, sondern fallen gelassen.
+[00:14:56 -> 00:15:02]  Zum zweiten ist es eine Art Re-Enactment der chinesischen Kulturrevolution,
+[00:15:02 -> 00:15:07]  die ja auf eine Zerstörung der kulturellen Tradition hinaus lief.
+[00:15:07 -> 00:15:11]  Und drittens hat sich die Kulturpolitik aber in China geändert.
+[00:15:11 -> 00:15:17]  Das heißt, jetzt versucht man gerade wieder mit neuen imperialen Absichten
+[00:15:17 -> 00:15:21]  einen Traditionsbezug zur Kaiserzeit herzustellen.
+[00:15:21 -> 00:15:24]  Und insofern ist das Fallenlassen der Tradition,
+[00:15:24 -> 00:15:28]  diese symbolische eigentliche Provokation chinesischer Kulturpolitik.
+[00:15:28 -> 00:15:34]  Und all diese verschiedenen Sinndimensionen werden hier zur Darstellung gebracht.
+[00:15:34 -> 00:15:39]  Das ist eigentlich die Darstellung eines immanenten kulturellen Widerspruchs.
+[00:15:39 -> 00:15:45]  Und das ist etwas, was in diesem Konzept, eine Han-Dynastie-Vase fallen zu lassen,
+[00:15:45 -> 00:15:46]  überhaupt nicht aufgeht.
+[00:15:46 -> 00:15:51]  Also auch hier sprengt gewissermaßen der Gehalt das Konzept.
+[00:15:51 -> 00:15:54]  Und das ist eigentlich kein Werk der Konzeptkunst,
+[00:15:54 -> 00:16:00]  wie etwa die Fountain von Deschamps, also ein Readymade,
+[00:16:00 -> 00:16:07]  das einfach als Readymade in den Kunstdiskurs eingeführt wurde.
+[00:16:07 -> 00:16:11]  Und eigentlich sich auf die Behauptung reduziert,
+[00:16:11 -> 00:16:14]  dass ein Gebrauchsgegenstand auch Kunst ist.
+[00:16:14 -> 00:16:16]  Da ist dieser Isomorphismus gegeben.
+[00:16:16 -> 00:16:19]  So viel zur Exklusionskraft dieses Prinzips.
+[00:16:19 -> 00:16:25]  Und man sieht, man kann damit durchaus scharfe Unterscheidungen treffen.
+[00:16:25 -> 00:16:29]  Und der zweite Aspekt wäre natürlich zu testen,
+[00:16:29 -> 00:16:34]  inwiefern man mit diesem Theorieansatz eben auch solche heterogenen Beispiele
+[00:16:34 -> 00:16:36]  gleichermaßen beschreiben kann.
+[00:16:36 -> 00:16:40]  Also zum Beispiel diese ausradierte Zeichnung von de Kooning.
+[00:16:40 -> 00:16:42]  Das ist ein anästhetisches Werk.
+[00:16:42 -> 00:16:47]  Also eine Auslöschung aller Ästhetik wird hier vorgeführt.
+[00:16:47 -> 00:16:53]  Und auf der anderen Seite ein monochromes Bild von Yves Klein.
+[00:16:53 -> 00:16:57]  Auch Yves Klein hatte eine Art Privatästhetik,
+[00:16:57 -> 00:17:03]  wo er diese selbst erfundene Farbe des Ultramarienblaues
+[00:17:03 -> 00:17:07]  mit einer bestimmten symbolischen Bedeutung aufgeladen hat.
+[00:17:07 -> 00:17:13]  Und das Bild repräsentiert diese transzendentale Erfahrung.
+[00:17:14 -> 00:17:18]  Und man sieht aber, beide Arbeiten unterliegen diesem Isomorphismus,
+[00:17:18 -> 00:17:21]  ob sie nun anästhetisch sind oder extrem ästhetisch sind.
+[00:17:21 -> 00:17:25]  Also ein Werk repräsentiert genau das Konzept,
+[00:17:25 -> 00:17:28]  was dann eben auch in dem Titel festgeschrieben ist.
+[00:17:28 -> 00:17:32]  Vergleichbar sind aber auch der Fettstuhl von Beuys
+[00:17:32 -> 00:17:34]  und One and Three Chairs von Koschut.
+[00:17:34 -> 00:17:38]  Koschut hat seine Arbeiten ja als analytische Konzeptkunst beschrieben.
+[00:17:38 -> 00:17:44]  Und in der Tat ist es so, dass dieses Werk
+[00:17:44 -> 00:17:47]  drei verschiedene Sinndimensionen präsentiert.
+[00:17:47 -> 00:17:49]  Also was ist die Bedeutung eines Stuhls?
+[00:17:49 -> 00:17:52]  Diese Frage beantwortet Koschut.
+[00:17:52 -> 00:17:56]  Und die Bedeutungen werden generiert in der sinnlichen Wahrnehmung,
+[00:17:56 -> 00:18:01]  in der fotografischen Abbildung und im Medium der Sprache,
+[00:18:01 -> 00:18:04]  also zum Beispiel über Wörterbuchartikel.
+[00:18:04 -> 00:18:13]  Und in diesem Sinne analysiert Koschut eben die Grammatik unseres Daseins.
+[00:18:13 -> 00:18:15]  Also was ist die Bedeutung eines Stuhls?
+[00:18:15 -> 00:18:20]  Aber nicht nur das, sondern es gibt eine ganze Serie von One and Three.
+[00:18:20 -> 00:18:24]  Und die Tatsache, dass er jetzt verschiedene Gegenstände einsetzt,
+[00:18:24 -> 00:18:28]  die Stühle, Lampen, Hammer, Schneeschafe, besagt eben,
+[00:18:28 -> 00:18:33]  dass es bei dieser Arbeit auf den konkreten Gegenstand überhaupt nicht ankommt.
+[00:18:33 -> 00:18:43]  Und bei Beuys hat man es aber eher mit einer synthetischen Konzeptkunst zu tun.
+[00:18:43 -> 00:18:47]  Also Beuys bringt eben Fett und diesen Stuhl zusammen
+[00:18:47 -> 00:18:54]  und imaginiert da eine bestimmte transzendente Bedeutung,
+[00:18:54 -> 00:18:58]  also eine Bedeutung in seinem Ideenkosmos.
+[00:18:58 -> 00:19:02]  Schließlich noch dieses Beispiel.
+[00:19:02 -> 00:19:06]  Sie erinnern sich, Henry Flint hatte gesagt,
+[00:19:06 -> 00:19:09]  dass das Medium der Konzeptkunst Begriffe sind.
+[00:19:09 -> 00:19:15]  Es gibt diese Ausprägung von Konzeptkunst, die eben im Medium der Sprache arbeitet.
+[00:19:15 -> 00:19:18]  Das ist eine Art Plakatkunst eigentlich,
+[00:19:18 -> 00:19:23]  aber diese Form der Konzeptkunst ist auch problematisch,
+[00:19:23 -> 00:19:28]  weil da die bildenden Künstler letztendlich mit Sprachspezialisten konkurrieren,
+[00:19:28 -> 00:19:33]  also mit Philosophen oder mit Dichtern oder mit Schriftstellern.
+[00:19:33 -> 00:19:38]  Und wenn man solche Arbeiten wie von Jenny Holzer sieht,
+[00:19:38 -> 00:19:42]  Protect me from what I want, das ist so ein Spruch,
+[00:19:42 -> 00:19:46]  dann klingt das eben auch ein bisschen wie aus einem Poesiealbum oder von Mel Bochner.
+[00:19:46 -> 00:19:49]  Forgetting is the only continuum.
+[00:19:49 -> 00:19:54]  Das ist vielleicht kein sehr tiefsinniger philosophischer Satz.
+[00:19:54 -> 00:19:59]  Deswegen denke ich, dass diese Art von Konzeptkunst am besten,
+[00:19:59 -> 00:20:04]  sagen sie, die besten Arbeiten dort zu finden sind,
+[00:20:04 -> 00:20:08]  wo die Kunst sich selbst auf sich selbst bezieht,
+[00:20:08 -> 00:20:12]  wie eben in dieser Arbeit von Lawrence Weiner, Learn to read art.
+[00:20:12 -> 00:20:15]  Das ist eine Art Quintessenz aller Konzeptkunst.
+[00:20:15 -> 00:20:20]  Man muss lesen, man muss im Medium der Schrift sich die Werke erarbeiten,
+[00:20:20 -> 00:20:23]  dann versteht man die Konzeptkunst.
+[00:20:23 -> 00:20:29]  Und schließlich als letztes Beispiel Michael Craig-Martin, An Oak Tree.
+[00:20:29 -> 00:20:32]  Ist vielleicht Ihnen nicht so bekannt,
+[00:20:32 -> 00:20:36]  es ist aber unter den Künstlern selbst ein sehr berühmtes Werk.
+[00:20:36 -> 00:20:42]  Und zwar handelt es sich um ein Wasserglas
+[00:20:42 -> 00:20:46]  mit dem Titel An Oak Tree.
+[00:20:46 -> 00:20:52]  Und in dem Text, der parallel, also mit diesem Glas zusammen ausgestellt wird,
+[00:20:52 -> 00:20:56]  findet ein Dialog statt, in dem der Künstler argumentiert,
+[00:20:56 -> 00:21:01]  dass das, was man jetzt sieht, also dieses Wasserglas, eine Eiche ist.
+[00:21:04 -> 00:21:07]  Und das Interessante an dieser Arbeit ist,
+[00:21:07 -> 00:21:11]  dass es eigentlich weder um das Glas noch um die Eiche geht,
+[00:21:11 -> 00:21:19]  sondern um die frei definierbare Relation zwischen Glas und Eiche.
+[00:21:19 -> 00:21:24]  Und das ist eine Freiheit der Künstler, die sie sich hier nehmen,
+[00:21:24 -> 00:21:27]  diese Freiheit des Umdefinierens.
+[00:21:27 -> 00:21:34]  Und letztendlich ist das eigentlich ein Paradebeispiel für Konzeptkunst,
+[00:21:34 -> 00:21:39]  die eigentlich nur die reine Relation zwischen den Relaten ausstellt.
+[00:21:39 -> 00:21:43]  Also eigentlich die Quintessenz dieses Isomorphismusprinzips
+[00:21:43 -> 00:21:46]  kommt in dieser Arbeit zum Ausdruck.
+[00:21:46 -> 00:21:50]  Gut, soviel zur Konzeptkunsttheorie,
+[00:21:50 -> 00:21:56]  also zum Konzeptionalismus in den bildenden Künsten.
+[00:21:56 -> 00:22:02]  Und die Idee war jetzt nun, dieses Modell mit diesem Strukturprinzip
+[00:22:02 -> 00:22:08]  des Isomorphismus auf die Beispiele aus der Musik zu übertragen.
+[00:22:08 -> 00:22:13]  Und hier sehen Sie zunächst einmal vier Beispiele,
+[00:22:13 -> 00:22:18]  die ich persönlich als Konzeptmusik bezeichnen würde und begreifen möchte.
+[00:22:18 -> 00:22:23]  Sie sind alle nach 2008 entstanden.
+[00:22:23 -> 00:22:28]  Man muss sich daran erinnern, dass 2005 YouTube online ging.
+[00:22:28 -> 00:22:32]  Und drei Jahre danach entstanden eben diese ersten Werke.
+[00:22:32 -> 00:22:38]  Das sind alles Arbeiten, die nur infolge der digitalen Revolution möglich geworden sind.
+[00:22:38 -> 00:22:41]  Also sie sind mit Instrumentalsamples komponiert,
+[00:22:41 -> 00:22:44]  sie benutzen Kompositionssoftware,
+[00:22:44 -> 00:22:49]  und vor allen Dingen aber sind sie nur auf YouTube
+[00:22:49 -> 00:22:52]  oder sind sie nur als Video präsent und verfügbar.
+[00:22:52 -> 00:22:56]  Ich nenne diese Arbeiten deswegen auch digitale Konzeptmusik,
+[00:22:56 -> 00:23:02]  weil sie eben so auf diese digitale Revolution und die Digitalisierung angewiesen sind.
+[00:23:02 -> 00:23:06]  Und das Entstehen einer solchen digitalen Konzeptmusik
+[00:23:06 -> 00:23:13]  ist eben einer der vielen unintendierten Nebeneffekte der digitalen Revolution.
+[00:23:13 -> 00:23:21]  Und eigentlich ist damit auch schon der Grund angesprochen,
+[00:23:21 -> 00:23:28]  warum sich der Begriff der Konzeptmusik in der Musik überhaupt nicht etablieren konnte,
+[00:23:28 -> 00:23:33]  warum sich überhaupt kein Genre von Konzeptmusik ausbilden konnte.
+[00:23:33 -> 00:23:41]  Und mein Argument wäre, dass der Konzeptmusik, anders als in den bildenden Künsten,
+[00:23:41 -> 00:23:45]  das entsprechende Speicher- und Verbreitungsmedium gefehlt hat.
+[00:23:45 -> 00:23:53]  Also Musik wurde im 20. Jahrhundert über Radio, über CD, über Schallplatten verbreitet und auch gespeichert.
+[00:23:53 -> 00:23:58]  Und Werke, Konzeptmusikwerke, die also auf Musik, also auf Klang verzichten
+[00:23:58 -> 00:24:02]  oder mit Wort und Bild und Text arbeiten,
+[00:24:02 -> 00:24:11]  die lassen sich da ganz schlecht in dieses Musiksystem einspeisen.
+[00:24:11 -> 00:24:18]  Also die sind zwar entstanden, aber sie wurden von der neuen Musik zumindest ignoriert.
+[00:24:18 -> 00:24:22]  Gut, und ich stelle diese Werke ganz kurz vor.
+[00:24:22 -> 00:24:25]  Johannes Greitlers Charts Music.
+[00:24:25 -> 00:24:33]  Das ist eine Vertonung von Aktienkursen nach der Finanzkrise oder während der Finanzkrise von 2008.
+[00:24:33 -> 00:24:39]  Und was ich Ihnen zeigen möchte oder was ich versuche evident zu machen ist,
+[00:24:39 -> 00:24:45]  dass bei all diesen vier Beispielen es tatsächlich zu dieser eineindeutigen Beziehung zwischen dem,
+[00:24:45 -> 00:24:52]  was man sieht und hört und zwischen dem, was das Konzept vorgibt, was man sehen und hören soll, kommt.
+[00:24:52 -> 00:24:54]  Also dass dieser Isomorphismus präsent ist.
+[00:25:10 -> 00:25:16]  Ein zweites Beispiel wäre Tronz Reinholzens Die Geburt des Künstlers aus dem Geiste der Musik.
+[00:25:16 -> 00:25:23]  Also Tronz Reinholzen hat in 2008 die Complete Music Performance Videos online gestellt
+[00:25:23 -> 00:25:28]  und das sind alles, nach meinem Dafürhalten,
+[00:25:28 -> 00:25:31]  Konzeptmusikwerke und Konzeptmusikwerke.
+[00:25:31 -> 00:25:34]  Aber wie gesagt, dieser Begriff Konzeptmusik existierte nicht.
+[00:25:34 -> 00:25:39]  Deswegen hat Reinholzen das eben jetzt Music Performance Videos genannt.
+[00:25:39 -> 00:25:44]  Das Stück hält tatsächlich, was der Titel verspricht.
+[00:25:44 -> 00:25:45]  Also der Künstler wird geboren.
+[00:25:45 -> 00:25:47]  Ein Stück Videos.
+[00:25:47 -> 00:25:51]  Musik-Performance-Videos genannt.
+[00:26:02 -> 00:26:07]  Das Stück hält tatsächlich, was der Titel verspricht. Der Künstler
+[00:26:07 -> 00:26:13]  wird geboren, er wächst heran im Uterus der neuen Musik und er nährt sich von
+[00:26:13 -> 00:26:19]  den theoretischen Schriften großer Komponisten wie von Szenakis und Stockhausen im Bauch der
+[00:26:19 -> 00:26:27]  Kunstmusik. Ein drittes Beispiel wäre Anton Vasiljevs Klavierstück I. Das ist ein politisch
+[00:26:27 -> 00:26:35]  ironischer Kommentar zu einem Spiegelzitat. Krise der Liberalen, FDP-Wähler verzweifelt gesucht.
+[00:26:35 -> 00:26:43]  Das ist an sich schon eine ironische Schlagzeile und Vasiljev verdoppelt das nochmal, indem er
+[00:26:43 -> 00:26:52]  einen depressiven Sound eigentlich dazu komponiert hat und zwar aus Samples aus dem Klavier-Repertoire
+[00:26:52 -> 00:27:02]  des 20. Jahrhunderts. Also man liest das Konzept, Krise der Liberalen, und man hört dazu sich die
+[00:27:02 -> 00:27:05]  Krise an.
+[00:27:32 -> 00:27:46]  Und als letztes Beispiel Zwangsgedanke von Stefan Hetze. Das Konzept also ist der Titel
+[00:27:46 -> 00:27:53]  Zwangsgedanke und dieser Zwangsgedanke wird jetzt musikalisch und zwar tatsächlich
+[00:27:53 -> 00:28:01]  körperlich erfahrbar gemacht durch ein zwanghaftes Wiederholungsmuster einer Sample-Komposition. Und
+[00:28:01 -> 00:28:08]  auch hier ist es so, dass es eine eindeutige Relation gibt zwischen dem Konzept und dem Perzept.
+[00:28:08 -> 00:28:35]  Das waren jetzt die vier Beispiele der digitalen Konzeptmusik und wenn man,
+[00:28:35 -> 00:28:39]  wenn sich ein solches Phänomen erstmal in der Musikkultur durchgesetzt hat,
+[00:28:39 -> 00:28:49]  kann man sich auch überlegen, ob es nicht Vorläufe gab. Ob es nicht Konzeptmusik gab,
+[00:28:49 -> 00:28:55]  bevor sich dieses Genre überhaupt als Genre durchgesetzt hat und bevor es überhaupt diesen
+[00:28:55 -> 00:29:02]  Begriff gab. Und wenn man sich umschaut, gibt es eine Fülle von Beispielen und diese Beispiele
+[00:29:02 -> 00:29:07]  würde ich im Unterschied zur digitalen Konzeptmusik historische Konzeptmusik nennen und ich fülle
+[00:29:07 -> 00:29:16]  deswegen hier den Kreis meiner Beispiele auf mit historischer Konzeptmusik. Allerdings wurde die
+[00:29:16 -> 00:29:23]  historische Konzeptmusik immer unter einem anderen Namen geführt. Also das Beispiel von
+[00:29:23 -> 00:29:28]  George Brecht wurde dem Fluxus zugerechnet, die Beispiele von Cage und Barlow, die ich Ihnen
+[00:29:28 -> 00:29:37]  zeigen werde, der Minimal Music, die Textpartitur von Stockhausen der intuitiven Musik zugerechnet
+[00:29:37 -> 00:29:44]  und Clapping Music von Steve Reich wurde gewöhnlich als Process Music beschrieben.
+[00:29:44 -> 00:29:52]  Was man heute als historische Konzeptmusik rekonstruieren kann und was man eben insofern
+[00:29:52 -> 00:29:59]  auch als Konzeptmusik kanonisieren kann, wurde in den 1950er bis 1970er Jahren und die Beispiele
+[00:29:59 -> 00:30:07]  stammen aus diesem Zeitraum, eben weder als Konzeptmusik komponiert, noch als Konzeptmusik
+[00:30:07 -> 00:30:13]  rezipiert, noch als Konzeptmusik interpretiert. Und der Grund dafür liegt nicht nur daran,
+[00:30:13 -> 00:30:19]  dass es nicht das entsprechende Verbreitungs- und Speichermedium gab in der Musikkultur,
+[00:30:19 -> 00:30:27]  sondern es lag auch daran, dass die Konzeptmusik diametral der Leitidee und dem Paradigma der
+[00:30:27 -> 00:30:34]  Kunstmusik entgegenstand, die immer noch einer Idee der absoluten Musik gefolgt ist. Und dann
+[00:30:34 -> 00:30:42]  haben es unter dieser Idee Konzeptmusikstücke schwer. Ganz kurz zu diesen historischen
+[00:30:42 -> 00:30:48]  Beispielen. 4'33 ist ein ganz exemplarisches Konzeptmusikstück. Es ist vergleichbar mit
+[00:30:48 -> 00:30:55]  der ausradierten Zeichnung von de Kooning. Die Instruktion, sehen Sie hier, wäre eigentlich das
+[00:30:55 -> 00:31:04]  Konzept, wobei es nicht nur 4'33 gibt, sondern das Konzept eigentlich besagt, dass die Länge des
+[00:31:04 -> 00:31:12]  Stückes den Titel des Stückes ausmacht. Und insofern gibt es eine infinite Zahl von solchen
+[00:31:12 -> 00:31:19]  Tazit-Stücken. Aber jede dieser Aufführungen würde eine isomorphe Beziehung zwischen diesem
+[00:31:19 -> 00:31:25]  Konzept, diesem stillen Konzept und dem, was man dann wahrnimmt während der Aufführung, realisieren.
+[00:31:25 -> 00:31:33]  Kurz sprechst String Quartet, Shaking Hands von 1962, ist ein Fluxusstück. Aber auch hier ist es
+[00:31:33 -> 00:31:40]  so, dass eben der Titel sagt, was man sich entweder vorstellen kann oder was man bei einer
+[00:31:40 -> 00:31:50]  Aufführung wahrnehmen würde. Shaking Hands ist nämlich eine Art Simulation der vier
+[00:31:50 -> 00:31:55]  Instrumentalstimmen. Also es gibt viele unterschiedliche Weisen, wie sich vier
+[00:31:55 -> 00:32:01]  Stimmen in einem Streichquartett miteinander spielen können und diesen Prozess der verschiedenen
+[00:32:01 -> 00:32:08]  Stimmen kann man eben mit dem Händeschütteln imitieren. Giorgi Ligeti's Poem Sinfonie für
+[00:32:08 -> 00:32:16]  100 Metronome ist vergleichbar mit Solewicz's Incomplete Open Cubes. Also es ist eine Idee,
+[00:32:16 -> 00:32:25]  also 100 Metronome aufzustellen, sie zu starten. Das ist der Beginn des Stücks und wenn das letzte
+[00:32:25 -> 00:32:32]  Metronom es ausgetickt hat, ist das Stück zu Ende. Das ist also eine Art von Prozessmusik,
+[00:32:32 -> 00:32:43]  wo das Konzept den ganzen Ablauf letztendlich definiert. Und es ist aber auch Konzeptmusik,
+[00:32:43 -> 00:32:49]  weil man in dieser Präsentationsform der 100 Metronome eben auch das Konzept wahrnimmt. Also
+[00:32:49 -> 00:32:55]  man sieht diese 100 Metronome und man hat dieses Konzept also die ganze Zeit vor Augen.
+[00:33:02 -> 00:33:32]  Karl-Heinz Stockhausen hat eine ganze Reihe von Textportätum geschrieben. Das schönste Stück
+[00:33:32 -> 00:33:38]  setzt die Segel zur Sonne von 1968 und die Instruktion oder das Konzept lautet,
+[00:33:38 -> 00:33:45]  spiele einen Ton so lang, bis du seine einzelnen Schwingungen hörst, halte ihn und höre auf die
+[00:33:45 -> 00:33:50]  Töne der anderen, auf alle zugleich, nicht auf einzelne und bewege langsam deinen Ton,
+[00:33:50 -> 00:33:55]  bis du vollkommene Harmonie erreichst und der ganze Klang zu Gold, zu reinem,
+[00:33:55 -> 00:34:01]  ruhig leuchtenden Feuer wird. Das ist also eine sehr starke Anweisung, auch für die beteiligten
+[00:34:01 -> 00:34:08]  Musiker. Wenn man sich jetzt anschaut, welche Einspielungen es davon gibt und es gibt unzählig
+[00:34:08 -> 00:34:13]  viele Einspielungen auf YouTube, merkt man, dass da die Musiker meistens das machen, was sie als
+[00:34:13 -> 00:34:20]  Musiker auf natürliche Weise tun würden, sie improvisieren nämlich. Und es ist schwierig,
+[00:34:20 -> 00:34:25]  eine adäquate Einstellung, Einspielungen zu finden, aber ich habe Ihnen jetzt eine ausgesucht,
+[00:34:25 -> 00:34:32]  bei der man eben in jeder Sekunde, wo jede Sekunde dieses Stücks tatsächlich Ausdruck
+[00:34:32 -> 00:34:40]  des Konzepts ist und eben nicht improvisiert wird. Das heißt, es gibt eben offensichtlich
+[00:34:40 -> 00:34:47]  auch bei der Konzeptmusik mehr oder weniger adäquate Einspielungen, wobei es eben keine
+[00:34:47 -> 00:34:54]  Interpretationen sind, sondern entweder man setzt das Konzept richtig um oder eben fehlerhaft um.
+[00:35:25 -> 00:35:32]  Bewege den Pfeil auf den Ort, den du besuchen möchtest, und drücke den Klick auf den Ort, den du besuchen möchtest.
+[00:35:56 -> 00:36:02]  Ein Paradebeispiel für Konzeptmusik, obwohl es sehr oft als Minimal Music interpretiert wird,
+[00:36:02 -> 00:36:08]  und zwar wegen dem Klang am Ende des Stücks. Es geht darum, diesen Text hier, dass dieser Text
+[00:36:08 -> 00:36:17]  von Alain Venelos hier eingelesen wird und dabei auf Tonband aufgenommen wird und anschließend
+[00:36:17 -> 00:36:25]  diese Tonbandaufnahme immer wieder in den Raum abgespielt wird. Und dabei setzen sich immer
+[00:36:25 -> 00:36:30]  stärker die Eigenfrequenzen des Raums durch, sodass sich dieser eingelesene Text dann spät
+[00:36:30 -> 00:36:39]  nach 32 Wiederholungen in einen Klang transformiert hat. Jetzt kann man sich fragen, ist tatsächlich
+[00:36:39 -> 00:36:47]  das Konzept präsent, aber dadurch, dass eben dieser Text mindestens zehnmal noch wiedererkennbar ist,
+[00:36:47 -> 00:36:52]  erinnert man das Konzept, also man verinnerlicht es. Das heißt, es ist auch in den folgenden
+[00:36:52 -> 00:36:56]  Wiederholungen noch präsent.
+[00:37:22 -> 00:37:52]  Die Quintessenz, also dass diese Beispiele,
+[00:37:53 -> 00:37:59]  dass es sowohl digitale als auch historische Konzeptmusik gibt. Zumindest kann man sie unter
+[00:37:59 -> 00:38:08]  dieses Isomorphismusprinzip vereinigen und man kann auch eine Analogie zu den bereits
+[00:38:08 -> 00:38:16]  kanonisierten Konzeptkunstwerken herstellen. Das heißt also, dieses Isomorphismusprinzip ist auf
+[00:38:16 -> 00:38:26]  jeden Fall inklusiv. Es lassen sich also viele heterogene Beispiele unter dieses Prinzip
+[00:38:26 -> 00:38:33]  vereinigen. Die zweite Frage ist natürlich, inwiefern es auch trennscharf ist. Kann man also
+[00:38:33 -> 00:38:40]  diese Form von Konzeptmusik von anderen neuen Musikkompositionen noch gut unterscheiden? Es
+[00:38:40 -> 00:38:48]  gibt hier wieder vier Beispiele auf der Außengrenze und ich habe rechts eine Arbeit
+[00:38:48 -> 00:38:55]  von Johannes Kreidler gewählt. Johannes Kreidler hat ja diese Schatzmusik als exemplarische
+[00:38:55 -> 00:39:02]  Konzeptmusik produziert und in seinem Stück Fremdarbeit arbeitet er auch mit einem sehr
+[00:39:02 -> 00:39:08]  starken Konzept. Und zwar mit dem Konzept, dass er einen Kompositionsauftrag outgesourced hat,
+[00:39:08 -> 00:39:13]  an einen chinesischen Komponisten mit dem Auftrag, dass dieser in seinem Stil ein Stück
+[00:39:13 -> 00:39:18]  komponieren soll. Und die ganze Entstehungsgeschichte dieses Stückes referiert er dann auf der Bühne.
+[00:39:18 -> 00:39:26]  Das ist die Performance mit den entsprechenden Klangbeispielen. Diese Arbeit lässt sich aber
+[00:39:26 -> 00:39:32]  überhaupt nicht unter diesen Titel Fremdarbeit bringen, sondern der Gehalt dieser Arbeit ist
+[00:39:32 -> 00:39:40]  weit komplexer, als wie es diese Instruktion angibt. Es geht nicht nur um Ausbeutungsverhältnisse,
+[00:39:40 -> 00:39:47]  sondern es geht in diesem Stück eben auch um die Frage von Organalität im 21. Jahrhundert
+[00:39:47 -> 00:39:54]  eines Komponisten und es geht um Copyright-Fragen. Und in einem solchen Fall, wenn sich so verschiedene
+[00:39:54 -> 00:40:02]  Themen miteinander verzahlen und vernetzen, dann hat man es eher mit Gehaltsästhetik zu tun. Und
+[00:40:02 -> 00:40:07]  es gibt eben nicht diese einfache Relation zwischen dem, was das Konzept sagt und dem,
+[00:40:07 -> 00:40:12]  was man wahrnimmt und hört. Und solche Stücke muss man dann auch wirklich interpretieren.
+[00:40:12 -> 00:40:18]  Ein anderes Beispiel wäre Trond Reinholzens Theory of the Subject. Das ist ein Klavierkonzert.
+[00:40:18 -> 00:40:25]  Dieses Klavierkonzert beginnt mit einem Konzeptmusikpreludium. Das heißt, über dem
+[00:40:25 -> 00:40:33]  Symphonieorchester ist eine Leinwand zu sehen und auf dieser Leinwand wird ein Klavierkonzert,
+[00:40:33 -> 00:40:39]  das zu Zeiten der chinesischen Kulturrevolution unter Aufsicht von Marius Witwer entstanden
+[00:40:39 -> 00:40:44]  und geschrieben wurde, wird zur Konzeptmusik erklärt. Also ein sehr kitschiges Stück wird zur
+[00:40:44 -> 00:40:51]  Konzeptmusik erklärt. Und das ist eine Möglichkeit, mit konzeptionellen Ansätzen und Ideen einzubetten
+[00:40:51 -> 00:40:59]  in ein größeres Werk. Das Werk selbst hat aber eine Fülle von Ideen, ist ein Diskurs über die
+[00:40:59 -> 00:41:07]  Postmoderne auch und sprengt natürlich diese enge Gattung der Konzeptmusik. Bei der historischen
+[00:41:07 -> 00:41:17]  Konzeptmusik möchte ich noch gerne auf Luc Ferrari verweisen. Presque Ouyen, Nummer 1,
+[00:41:17 -> 00:41:23]  also fast nichts heißt das in der Übersetzung, das sind Pondbandaufnahmen aus einem kroatischen
+[00:41:23 -> 00:41:29]  Fischerdorf, aber es handelt sich eben bei dieser anekdotischen Musik von Ferrari um ein
+[00:41:29 -> 00:41:36]  durchkomponiertes Werk, also um eine akustische Geschichte. Und das Hörerlebnis sprengt jetzt
+[00:41:36 -> 00:41:43]  nicht auf der Gehaltsseite, sondern eben auf der ästhetischen Seite auch den Isomorphismus,
+[00:41:43 -> 00:41:51]  also das Konzept, was man, also einfach das Konzept jetzt einige Stunden einfach aufzunehmen
+[00:41:51 -> 00:41:58]  an akustischen Ereignissen in einem Fischerdorf. Sondern es sind eine Fülle von Mikroereignissen
+[00:41:58 -> 00:42:06]  und man kann dieses Stück auch mehrere Male hören und man wird immer wieder neue kleine
+[00:42:06 -> 00:42:11]  Begebenheiten entdecken in diesem Stück. Und insofern ist das eben auch, gehört dieses Werk
+[00:42:12 -> 00:42:18]  auch nicht zur Konzeptmusik, sondern ist eben, man könnte sagen, das ist relationale Musik.
+[00:42:18 -> 00:42:26]  Und als letztes möchte ich Ihnen gerne noch zwei Clips von Steve Reichs Clapping Music vorspielen
+[00:42:26 -> 00:42:34]  und im ersten Clip sehen Sie eine Live-Aufführung und das ist einfach Minimal Music, die man da
+[00:42:34 -> 00:42:40]  hört, weil sie einfach ästhetisch reichhaltig ist und sich nicht auf so ein Konzept einfach
+[00:42:40 -> 00:42:46]  reduzieren lässt. Und im zweiten Fall gibt es inzwischen aber YouTube-Einspielungen, wo dieser
+[00:42:46 -> 00:42:56]  Algorithmus oder wo dieses Konzept visualisiert wird. Und das heißt, man nimmt diese Clapping
+[00:42:56 -> 00:43:01]  Music wahr, man hört sie und sieht gleichzeitig den Algorithmus. Und da denke ich, das ist ein
+[00:43:01 -> 00:43:07]  Beispiel dafür, wo dann die Minimal Music zur Konzeptmusik transferiert werden kann.
+[00:43:10 -> 00:43:17]  Das ist ein Beispiel dafür, wo dann die Minimal Music zur Konzeptmusik transferiert werden kann.
+[00:43:41 -> 00:43:50]  Das wäre die Verbindung zwischen der Theorie der Konzeptkunst und der Theorie der Konzeptmusik,
+[00:43:50 -> 00:43:54]  das wäre diese Übertragung des Modells aus der Konzeptkunst auf die Konzeptmusik.
+[00:43:54 -> 00:44:00]  Und abschließend möchte ich noch kurz darauf eingehen, welche Implikationen diese Theorie
+[00:44:00 -> 00:44:06]  der Konzeptkunst oder besser gesagt diese Theorie des Konzeptionalismus hat. Zunächst einmal,
+[00:44:06 -> 00:44:14]  glaube ich, kann man sagen, dass dieser Isomorphismus als das zugrunde liegende Strukturmerkmal ganz
+[00:44:14 -> 00:44:23]  gut funktioniert. Also es vereinigt ziemlich viele heterogene Beispiele unter sich. Zweitens lässt
+[00:44:23 -> 00:44:28]  sich Konzeptkunst und Konzeptmusik aber nach wie vor noch unterscheiden. Und zwar wegen der
+[00:44:28 -> 00:44:33]  Bezugskontexte, die sehr unterschiedlich sind. Also die Konzeptkunst bezieht sich eben zumeist
+[00:44:33 -> 00:44:41]  auf Bezugskontexte der Bildungskunst, also auf Farbe, auf Formen, auf die Malerei, auf den
+[00:44:41 -> 00:44:48]  Kontext, den Ausstellungskontext und so weiter. Die Konzeptmusik hingegen verweist auf musikalische
+[00:44:48 -> 00:44:58]  Genres, auf Musikinstrumente, auf Musiker, auf den Klang. Drittens, und das ist ein sehr wichtiger
+[00:44:58 -> 00:45:08]  Punkt, limitiert der Isomorphismus sehr stark die Konzepte und auch die Perzepte. Also die Konzepte
+[00:45:08 -> 00:45:17]  in den Konzeptkunstwerken, die müssen einfach sein und die dürfen nicht komplex sein. Sie können
+[00:45:17 -> 00:45:24]  nicht dialektisch verfasst sein oder ambivalent sein oder einfach nur mehrdeutig. Und entsprechend
+[00:45:24 -> 00:45:30]  ist der Gehalt in den Konzeptkunstwerken eben auch stark reduziert. Also auf eine Aussage oder
+[00:45:30 -> 00:45:35]  auf einen Witz. Und auf der anderen Seite müssen die Perzepte, also das was man wahrnimmt in diesen
+[00:45:35 -> 00:45:41]  Werken, die müssen eben auch vergleichsweise simpel gehalten sein. Das heißt, es müssen einfache
+[00:45:41 -> 00:45:46]  Wahrnehmungssituationen geschaffen werden und das kann damit zusammenhängen, dass die Werke an sich
+[00:45:46 -> 00:45:53]  anästhetisch verfasst sind oder wenn sie einen starken ästhetischen Reiz verarbeiten, dann ist
+[00:45:53 -> 00:46:03]  der aber einfach. Zum Beispiel eben ein monochromes Blau, wie bei Yves Klein. Und viertens, Konzeptkunstarbeiten
+[00:46:03 -> 00:46:10]  sind oder die Arbeiten des Konzeptionalismus sind medienunspezifisch. Es ist eine Folge davon,
+[00:46:10 -> 00:46:16]  dass sich der ganze Konzeptionalismus als eine Reaktion auf die klassische Moderne ausgebildet
+[00:46:16 -> 00:46:21]  hat, also auf die ganzen Istmen wie den Kubismus, den Impressionismus. Es war also eine Reaktion
+[00:46:21 -> 00:46:27]  gegen die ästhetische Kunst überhaupt, wie das Duchamp also ganz exemplarisch auch in diesem
+[00:46:27 -> 00:46:39]  Zitat betont hat. Und fünftens gibt es sowohl Vorzüge als auch Nachteile von Konzeptkunst und
+[00:46:39 -> 00:46:45]  von Konzeptmusik. Zu den Vorteilen zählt ganz sicherlich, dass diese Werke prägnant sind,
+[00:46:45 -> 00:46:51]  kurz und prägnant. Sie wirken wie ein Ereignis. Aber, und das ist ein Nachteil, und das ist ein
+[00:46:51 -> 00:46:58]  Nachteil, der insbesondere in der Musik, die eine Zeitkunst ist, ins Gewicht fällt. Man kann keine
+[00:46:58 -> 00:47:05]  großen Formen mit ihnen bewältigen, sondern man kann höchstens mit Serien und mit Reihen arbeiten.
+[00:47:05 -> 00:47:14]  Und wie schon gesagt, ist es auch nicht möglich, sehr komplexe Gehalte in Konzeptkunstwerken zu
+[00:47:14 -> 00:47:21]  artikulieren. Und schließlich siebtens, und das ist jetzt mein letzter Punkt, die Konzeptkunst
+[00:47:21 -> 00:47:27]  entwickelt sich in allen Künsten. Die Frage kann man natürlich stellen, wieso entsteht überhaupt
+[00:47:27 -> 00:47:34]  so etwas Extremes wie Konzeptkunst und wie Konzeptionalismus? Und da würde ich argumentieren,
+[00:47:34 -> 00:47:41]  der Konzeptionalismus ist das Resultat, was zwangsläufig aus der Logik der Moderne folgt.
+[00:47:41 -> 00:47:49]  Und insofern wird man in allen Künsten diese Bewegung in den Konzeptionalismus beobachten
+[00:47:49 -> 00:47:55]  können. Das vollzieht sich automatisch und es entsteht deswegen, weil die Moderne Kunst
+[00:47:55 -> 00:48:01]  nicht mehr sich an der Idee der Schönheit orientiert, sondern auf Neues setzt. Und Neuheit
+[00:48:01 -> 00:48:08]  wird generiert durch eine Negation des Alten, also von Tradition. Und wenn einmal dieser
+[00:48:08 -> 00:48:15]  Negationslogik, wenn diese Negationslogik einmal angesprungen ist, wenn dieser Motor einmal läuft,
+[00:48:15 -> 00:48:20]  gibt es eigentlich kein Halten mehr. Dann negiert man die Idee der Schönkünste, der Schönheit. Dann
+[00:48:20 -> 00:48:27]  negiert man die Voraussetzung, die Prämisse, dass Kunst ästhetisch erfahren werden kann. Dann
+[00:48:27 -> 00:48:32]  negiert man den Werkcharakter und kommt schließlich zu letzten Werken, eben wie 4.33 oder der
+[00:48:32 -> 00:48:38]  ausradierten Zeichnung von de Kooning und schließlich eben auch zu Konzeptkunst und zu
+[00:48:38 -> 00:48:46]  Konzeptmusik. Im Konzeptionalismus zeigt sich eigentlich in Reinform die konzeptionelle
+[00:48:46 -> 00:48:51]  Verfasstheit der Kunst und deswegen ist sie eben auch sehr instruktiv und es ist eigentlich auch
+[00:48:51 -> 00:48:57]  ein Aufklärungsfortschritt in den Kunstsystemen selbst, wenn die Kunst bis auf diesen Punkt
+[00:48:57 -> 00:49:05]  gekommen ist, weil es letztendlich, letztendlich ist alle Kunst konzeptionell verfasst, also auch
+[00:49:05 -> 00:49:11]  die schöne Kunst war konzeptionell verfasst. Aber da sind, in traditionellen Kulturen sind diese
+[00:49:11 -> 00:49:16]  Konzepte selbstverständlich. Es war selbstverständlich im 19. Jahrhundert oder im
+[00:49:16 -> 00:49:21]  18. Jahrhundert, dass die Kunst Schönheit artikuliert, dass die Kunst schön ist. Und diese
+[00:49:21 -> 00:49:27]  Selbstverständlichkeit geht verloren und was dann eben übrig bleibt und was man gewissermaßen als
+[00:49:27 -> 00:49:32]  Erkenntnis aus der Konzeptkunst und aus der Konzeptmusik mitnehmen kann, ist, dass der
+[00:49:32 -> 00:49:37]  modernen Kunst prinzipiell Konzepte zugrunde liegen. Vielen Dank für Ihre Aufmerksamkeit.

@@ -1,0 +1,370 @@
+[00:00:00 -> 00:00:03]  Well, hello, and welcome to GetChemistryHealth.com.
+[00:00:03 -> 00:00:05]  My name's Dr. Kent, and in this video,
+[00:00:05 -> 00:00:07]  I'm gonna give you a quick introduction
+[00:00:07 -> 00:00:10]  into how to make scientific measurements.
+[00:00:10 -> 00:00:12]  So, of course, in science,
+[00:00:12 -> 00:00:14]  we perform different types of experiments.
+[00:00:14 -> 00:00:15]  And when you perform experiments,
+[00:00:15 -> 00:00:17]  well, you collect data,
+[00:00:17 -> 00:00:20]  and that data is then recorded somewhere.
+[00:00:20 -> 00:00:22]  So, for example, maybe you go in a lab,
+[00:00:22 -> 00:00:26]  you do an experiment, and you write down 52.8
+[00:00:26 -> 00:00:28]  as your data, or your measurement.
+[00:00:28 -> 00:00:30]  Well, what's wrong with this measurement?
+[00:00:30 -> 00:00:32]  Well, 52.8 what?
+[00:00:32 -> 00:00:34]  Right, we need some kind of a unit.
+[00:00:34 -> 00:00:36]  So, if you were to say 52.8 kilometers,
+[00:00:36 -> 00:00:41]  or 52.8 degrees Fahrenheit, or hours, or minutes,
+[00:00:41 -> 00:00:43]  that would make a lot more sense.
+[00:00:43 -> 00:00:45]  So, whenever you record a measurement in science,
+[00:00:45 -> 00:00:49]  you always have to record both the number and a unit.
+[00:00:50 -> 00:00:52]  Now, there are actually two different types of numbers
+[00:00:52 -> 00:00:54]  that we work with in science.
+[00:00:54 -> 00:00:57]  The first type are known as exact numbers.
+[00:00:57 -> 00:00:59]  And exact numbers are those
+[00:00:59 -> 00:01:02]  that have been defined to be true,
+[00:01:02 -> 00:01:04]  or those that you can obtain through counting.
+[00:01:04 -> 00:01:06]  So, there's no kind of ambiguity.
+[00:01:06 -> 00:01:08]  There's no guessing, there's no estimating,
+[00:01:08 -> 00:01:10]  there's no approximating.
+[00:01:10 -> 00:01:15]  For example, one dozen has been defined to be exactly 12.
+[00:01:15 -> 00:01:17]  It's not around 12, it is exactly 12.
+[00:01:17 -> 00:01:20]  Again, it's been defined to be true.
+[00:01:20 -> 00:01:23]  One week is exactly seven days.
+[00:01:23 -> 00:01:26]  One dollar is exactly 100 pennies.
+[00:01:26 -> 00:01:29]  One kilometer is exactly 1,000 meters.
+[00:01:29 -> 00:01:31]  Again, these are all things that have been defined,
+[00:01:31 -> 00:01:33]  and I'm sure you can think of lots of others.
+[00:01:33 -> 00:01:37]  Like, for example, one hour is exactly 60 minutes.
+[00:01:37 -> 00:01:39]  One minute is 60 seconds.
+[00:01:39 -> 00:01:42]  One foot is exactly 12 inches.
+[00:01:42 -> 00:01:44]  Again, these have all been defined, so they're exact.
+[00:01:44 -> 00:01:48]  There's no estimating, there's no approximating.
+[00:01:48 -> 00:01:50]  Now, exact numbers can also be numbers
+[00:01:50 -> 00:01:52]  that you obtain through counting.
+[00:01:52 -> 00:01:55]  So, you physically count one, two, three, four,
+[00:01:55 -> 00:02:00]  five, six, seven, so we know there are exactly 7 quarters.
+[00:02:00 -> 00:02:03]  So, we're not guessing, we're actually defining
+[00:02:03 -> 00:02:05]  how many quarters there are.
+[00:02:06 -> 00:02:09]  By contrast, measurements are always inexact.
+[00:02:09 -> 00:02:11]  Again, when you're measuring something,
+[00:02:11 -> 00:02:13]  it's not been defined, you're trying to determine
+[00:02:13 -> 00:02:15]  what the value is.
+[00:02:15 -> 00:02:16]  And again, the reason it's inexact
+[00:02:16 -> 00:02:18]  is there's some kind of approximating,
+[00:02:18 -> 00:02:20]  there's some kind of estimating.
+[00:02:20 -> 00:02:23]  So, for example, maybe you measure the temperature
+[00:02:23 -> 00:02:26]  of something and it's 82.4 degrees Fahrenheit.
+[00:02:26 -> 00:02:29]  Or you measure your weight on the bathroom scale
+[00:02:29 -> 00:02:32]  and it comes up 178 pounds.
+[00:02:32 -> 00:02:36]  Or you measure the length of a race and it's 100.0 meters.
+[00:02:36 -> 00:02:37]  These have all been measured,
+[00:02:37 -> 00:02:40]  so these are called inexact numbers.
+[00:02:40 -> 00:02:44]  We're not saying that person is exactly 178 pounds,
+[00:02:44 -> 00:02:48]  but they're approximately 178 pounds.
+[00:02:48 -> 00:02:50]  Now, when it comes to evaluating measurements,
+[00:02:50 -> 00:02:53]  we can evaluate them according to two different criteria.
+[00:02:53 -> 00:02:56]  The first one is known as the accuracy of the measurement,
+[00:02:56 -> 00:02:59]  and that's how close the measurement is to the target,
+[00:02:59 -> 00:03:01]  to the accepted value.
+[00:03:01 -> 00:03:04]  And the other one is the precision of that measurement,
+[00:03:04 -> 00:03:07]  and that's how close a series of measurements
+[00:03:07 -> 00:03:08]  are to one another.
+[00:03:08 -> 00:03:11]  So, for example, if you're taking three or four
+[00:03:11 -> 00:03:14]  or five measurements, how close are all those measurements
+[00:03:14 -> 00:03:15]  to one another?
+[00:03:15 -> 00:03:18]  So, another way to think about this is accurate,
+[00:03:18 -> 00:03:21]  or accuracy, is how correct your answer is.
+[00:03:21 -> 00:03:24]  How close to the true value is it?
+[00:03:24 -> 00:03:28]  And precision, or being precise, is how consistent you are.
+[00:03:28 -> 00:03:30]  So, let me give you a couple of examples
+[00:03:30 -> 00:03:31]  just to help illustrate this.
+[00:03:32 -> 00:03:34]  So, let's look at these four different targets,
+[00:03:34 -> 00:03:36]  A, B, C, and D.
+[00:03:36 -> 00:03:40]  And we wanna determine which set of data
+[00:03:40 -> 00:03:43]  or which set of these little blue shots or circles
+[00:03:43 -> 00:03:45]  are accurate and precise.
+[00:03:45 -> 00:03:49]  Which ones are accurate, but they're not precise, et cetera.
+[00:03:49 -> 00:03:51]  So, again, accurate means you are close to the bullseye.
+[00:03:51 -> 00:03:53]  You are right where you wanna be.
+[00:03:53 -> 00:03:55]  That's the correct answer.
+[00:03:55 -> 00:03:57]  And precise means how close together,
+[00:03:57 -> 00:04:01]  how consistent is your data or your shots in this case.
+[00:04:01 -> 00:04:04]  So, which of these are both accurate,
+[00:04:04 -> 00:04:06]  they're on target, and they're precise?
+[00:04:06 -> 00:04:09]  They're very consistent, they're very close together.
+[00:04:09 -> 00:04:11]  Well, of course, it looks like D,
+[00:04:11 -> 00:04:12]  because you see they're on target
+[00:04:12 -> 00:04:14]  and they're all close together.
+[00:04:14 -> 00:04:17]  So, they're accurate and they're also precise.
+[00:04:17 -> 00:04:19]  They're also consistent.
+[00:04:19 -> 00:04:20]  So, which of these is accurate,
+[00:04:20 -> 00:04:23]  but they're not consistent, they're imprecise?
+[00:04:23 -> 00:04:27]  Well, that looks like B, because you can see
+[00:04:27 -> 00:04:29]  they are all then pretty close onto the target,
+[00:04:29 -> 00:04:31]  but they're more spread out.
+[00:04:31 -> 00:04:33]  They're not all clustered as close together
+[00:04:33 -> 00:04:35]  as they were up on D.
+[00:04:36 -> 00:04:39]  Now, three, which of these targets
+[00:04:39 -> 00:04:43]  show some data that is not accurate, but it is precise?
+[00:04:43 -> 00:04:45]  So, in other words, it's very consistent,
+[00:04:45 -> 00:04:47]  but it's consistently wrong.
+[00:04:47 -> 00:04:50]  Well, that looks like C, because you can see the data,
+[00:04:50 -> 00:04:52]  it's all clustered and very close together,
+[00:04:52 -> 00:04:56]  very consistent, very precise, but it's off target.
+[00:04:56 -> 00:04:58]  So, it's not accurate.
+[00:04:58 -> 00:05:01]  And how about neither accurate nor precise,
+[00:05:01 -> 00:05:03]  or inaccurate and imprecise?
+[00:05:03 -> 00:05:05]  Well, of course, that must be A,
+[00:05:05 -> 00:05:06]  because they're all spread out
+[00:05:06 -> 00:05:08]  and they're not on the target.
+[00:05:08 -> 00:05:10]  Now, let's try this with some actual data
+[00:05:10 -> 00:05:11]  like you might see in the lab.
+[00:05:11 -> 00:05:13]  So, here are four different sets of data,
+[00:05:13 -> 00:05:16]  A, B, C, and D, and it tells us
+[00:05:16 -> 00:05:19]  that the true value is 55.4 kilograms.
+[00:05:19 -> 00:05:20]  So, first, you wanna figure out
+[00:05:20 -> 00:05:22]  which set of data is both accurate,
+[00:05:22 -> 00:05:27]  so it's close to our true value, 55.4, and it's precise.
+[00:05:27 -> 00:05:29]  All the measurements are very close to one another.
+[00:05:29 -> 00:05:32]  So, what do you think, A, B, C, or D?
+[00:05:32 -> 00:05:34]  Well, it looks like A, because you can see
+[00:05:34 -> 00:05:37]  the values are all very close to one another,
+[00:05:37 -> 00:05:39]  which means they're precise,
+[00:05:39 -> 00:05:41]  and when you average them out,
+[00:05:41 -> 00:05:42]  the average is very close,
+[00:05:42 -> 00:05:46]  or actually exactly on the true value.
+[00:05:46 -> 00:05:48]  So, which of these are accurate,
+[00:05:48 -> 00:05:51]  but they're not as consistent, they're imprecise?
+[00:05:51 -> 00:05:53]  Well, it looks like C,
+[00:05:53 -> 00:05:54]  because when you average these out,
+[00:05:54 -> 00:05:57]  yes, you get a value, an average here,
+[00:05:57 -> 00:05:59]  that's very close to the true value,
+[00:05:59 -> 00:06:01]  but the data is much more spread out.
+[00:06:01 -> 00:06:05]  You see here, they're all clustered close together,
+[00:06:05 -> 00:06:09]  0.3, 0.4, 0.5, here it ranges from 54.7
+[00:06:09 -> 00:06:11]  all the way up to 55.9.
+[00:06:12 -> 00:06:14]  Now, how about number three?
+[00:06:14 -> 00:06:16]  They're not accurate, but they are precise,
+[00:06:16 -> 00:06:18]  or they are consistent.
+[00:06:18 -> 00:06:20]  Well, that looks like B,
+[00:06:20 -> 00:06:24]  because the average of these three values, 54.9,
+[00:06:24 -> 00:06:25]  is not on target, right?
+[00:06:25 -> 00:06:28]  It's not real close to the actual value,
+[00:06:28 -> 00:06:31]  but they are very close to one another.
+[00:06:31 -> 00:06:35]  They're only off by 0.1 more here, 0.2 more here, et cetera,
+[00:06:35 -> 00:06:37]  so they're very close.
+[00:06:37 -> 00:06:41]  And then the last one, D, it's not accurate,
+[00:06:41 -> 00:06:43]  because the average of the three values
+[00:06:43 -> 00:06:46]  is off target from the known value,
+[00:06:46 -> 00:06:47]  and they're all spread out too,
+[00:06:47 -> 00:06:51]  so that's inaccurate and imprecise.
+[00:06:52 -> 00:06:54]  So whenever you make measurements in science,
+[00:06:54 -> 00:06:56]  there's always gonna be some degree
+[00:06:56 -> 00:06:57]  of error associated with it.
+[00:06:57 -> 00:07:01]  You can't make a perfect measurement with no error.
+[00:07:01 -> 00:07:03]  So the more precise the measurement is,
+[00:07:03 -> 00:07:05]  well, the less error is contained in it.
+[00:07:06 -> 00:07:08]  Now, error in a measurement is indicated
+[00:07:08 -> 00:07:11]  by the number of what are called significant figures,
+[00:07:11 -> 00:07:13]  or significant digits.
+[00:07:13 -> 00:07:16]  So if a number has more significant digits,
+[00:07:16 -> 00:07:18]  that means it's more precise and has less error.
+[00:07:20 -> 00:07:21]  So let's talk about significant figures.
+[00:07:21 -> 00:07:23]  How do we record those?
+[00:07:23 -> 00:07:25]  So when you're making a measurement,
+[00:07:25 -> 00:07:27]  you wanna record all of the known digits,
+[00:07:27 -> 00:07:30]  all the ones that are clearly marked on the device,
+[00:07:30 -> 00:07:34]  on the thermometer, on the ruler, on the graduated cylinder,
+[00:07:34 -> 00:07:37]  plus one final estimated digit.
+[00:07:37 -> 00:07:40]  So you only estimate one more digit
+[00:07:40 -> 00:07:41]  beyond whatever is clearly marked.
+[00:07:42 -> 00:07:45]  This indicates the precision of a measurement.
+[00:07:46 -> 00:07:49]  Now, remember, sig figs only apply to measurements,
+[00:07:49 -> 00:07:50]  right, not to exact numbers.
+[00:07:50 -> 00:07:53]  Again, if something has been defined to be true,
+[00:07:53 -> 00:07:57]  like one foot equals 12 inches, that is exactly 12.
+[00:07:57 -> 00:07:59]  It is infinitely precise, in other words.
+[00:07:59 -> 00:08:02]  There is no error in that whatsoever.
+[00:08:02 -> 00:08:04]  So let's just look at an example.
+[00:08:04 -> 00:08:07]  So here's a ruler, and it's marked in centimeters,
+[00:08:07 -> 00:08:11]  we can see, and we wanna measure the length of this rod.
+[00:08:11 -> 00:08:13]  So what we do is we record whatever numbers
+[00:08:13 -> 00:08:16]  are clearly marked on the ruler,
+[00:08:16 -> 00:08:19]  and then we're gonna estimate one more digit beyond that.
+[00:08:19 -> 00:08:23]  So I can see it's clearly marked, it's four point something.
+[00:08:24 -> 00:08:26]  And then I'm gonna estimate one more.
+[00:08:26 -> 00:08:30]  So you might say 4.2 centimeters.
+[00:08:30 -> 00:08:32]  Or maybe you think, well, I think it's closer
+[00:08:33 -> 00:08:36]  to three, so maybe you say 4.3 centimeters.
+[00:08:36 -> 00:08:39]  But what you don't do is you estimate more places
+[00:08:39 -> 00:08:43]  than just one and say, I think it's 4.217.
+[00:08:43 -> 00:08:45]  You can only estimate one more digit
+[00:08:45 -> 00:08:49]  beyond whatever is clearly marked on the device.
+[00:08:49 -> 00:08:51]  So this ruler is marked in ones,
+[00:08:51 -> 00:08:54]  so we can estimate out to tenths.
+[00:08:54 -> 00:08:57]  So 4.2, and that tells you then you're within
+[00:08:57 -> 00:08:59]  plus or minus .1.
+[00:08:59 -> 00:09:01]  So it might be 4.1 centimeter,
+[00:09:01 -> 00:09:03]  it might be 4.3 centimeter.
+[00:09:03 -> 00:09:04]  And those are all fine.
+[00:09:04 -> 00:09:08]  If you were to write down 4.3, I would write down 4.2,
+[00:09:08 -> 00:09:10]  someone else would write down 4.1.
+[00:09:10 -> 00:09:13]  Those are all within the same realm of precision
+[00:09:13 -> 00:09:17]  because they're all within .1 of the correct answer.
+[00:09:17 -> 00:09:20]  Because again, that last digit is the one you're estimating.
+[00:09:20 -> 00:09:22]  Well, how would you make that measurement on this ruler?
+[00:09:22 -> 00:09:25]  So this ruler is more precise
+[00:09:25 -> 00:09:28]  because it allows us to have more significant digits.
+[00:09:28 -> 00:09:33]  Because this one is marked in ones, so four, five, six.
+[00:09:33 -> 00:09:34]  It's also marked in tenths.
+[00:09:34 -> 00:09:39]  So here's 4.1, 4.2, 4.3.
+[00:09:39 -> 00:09:42]  So now we can say, okay, I know it's four for sure.
+[00:09:43 -> 00:09:46]  And I know it's between .2 and .3,
+[00:09:46 -> 00:09:48]  so .2 something for sure.
+[00:09:48 -> 00:09:51]  But again, I always have to estimate one more.
+[00:09:51 -> 00:09:53]  So maybe I think it's right in the middle,
+[00:09:53 -> 00:09:57]  so I'm gonna say 4.25 centimeters.
+[00:09:57 -> 00:10:02]  So up here we had 4.2 centimeters, here we have 4.25.
+[00:10:02 -> 00:10:05]  So you can see this one had two digits,
+[00:10:05 -> 00:10:08]  this one has three digits, or three significant figures.
+[00:10:08 -> 00:10:13]  So more digits indicate that this value is more precise.
+[00:10:13 -> 00:10:16]  Because this one we were estimating the hundredths place,
+[00:10:16 -> 00:10:17]  and this one on ruler A,
+[00:10:17 -> 00:10:20]  we were only estimating out to the tenths place.
+[00:10:20 -> 00:10:24]  So this ruler again gives us a more precise measurement
+[00:10:24 -> 00:10:25]  and has less error in it
+[00:10:25 -> 00:10:30]  because it produces values with more significant digits.
+[00:10:30 -> 00:10:32]  Let's try that again on this paperclip.
+[00:10:32 -> 00:10:34]  How would you record the length of this paperclip
+[00:10:34 -> 00:10:36]  on this ruler?
+[00:10:36 -> 00:10:39]  So again, we see it's clearly marked in ones.
+[00:10:39 -> 00:10:40]  So I know it's between two and three,
+[00:10:40 -> 00:10:43]  so it's two point something.
+[00:10:43 -> 00:10:46]  But I have to estimate one more place.
+[00:10:46 -> 00:10:49]  Again, I can't estimate more or less than one.
+[00:10:49 -> 00:10:53]  So 2.3 centimeters,
+[00:10:53 -> 00:10:56]  or maybe you say 2.4 centimeters.
+[00:10:56 -> 00:10:59]  Again, both of those answers are fine
+[00:10:59 -> 00:11:02]  because we're both estimating in the tenths place.
+[00:11:02 -> 00:11:04]  Now if you were to have a different place here
+[00:11:04 -> 00:11:05]  and you were to say three point something,
+[00:11:05 -> 00:11:07]  that would be totally wrong
+[00:11:07 -> 00:11:09]  because it's clearly two something.
+[00:11:09 -> 00:11:11]  Now how about on this ruler?
+[00:11:11 -> 00:11:14]  Well, this one is marked in ones and tenths.
+[00:11:14 -> 00:11:16]  So again, we can be more precise.
+[00:11:16 -> 00:11:19]  So now you might say, well, two for sure.
+[00:11:20 -> 00:11:24]  And then we see it's pretty clearly right on the three here.
+[00:11:24 -> 00:11:27]  So 2.3, but we can't stop there.
+[00:11:27 -> 00:11:29]  We have to go one more.
+[00:11:29 -> 00:11:32]  Again, if I were just to write this down as 2.3,
+[00:11:32 -> 00:11:35]  that would say the ones are what I knew for sure,
+[00:11:35 -> 00:11:37]  but I'm estimating the tenths.
+[00:11:37 -> 00:11:39]  And that's not true because the tenths are marked,
+[00:11:39 -> 00:11:42]  so I have to estimate the hundredths.
+[00:11:42 -> 00:11:45]  So if you think it's right on the three,
+[00:11:45 -> 00:11:47]  you would say 2.30.
+[00:11:47 -> 00:11:49]  Or maybe you think it's slightly below,
+[00:11:49 -> 00:11:53]  so you might say 2.29 centimeters.
+[00:11:53 -> 00:11:55]  Again, those are both fine
+[00:11:55 -> 00:11:58]  because we're both just off here in the hundredths place,
+[00:11:58 -> 00:12:00]  which is where that estimated digit is.
+[00:12:01 -> 00:12:03]  Okay, let's try a few more examples
+[00:12:03 -> 00:12:05]  just to drive this point home.
+[00:12:05 -> 00:12:06]  How would you record the volume
+[00:12:06 -> 00:12:08]  of the liquid in this beaker?
+[00:12:08 -> 00:12:09]  Well, again, you wanna record
+[00:12:09 -> 00:12:11]  whatever place is clearly marked
+[00:12:11 -> 00:12:14]  and estimate one more digit after that.
+[00:12:14 -> 00:12:18]  So here we see it's 20-something.
+[00:12:18 -> 00:12:20]  We're gonna estimate one more.
+[00:12:20 -> 00:12:24]  Looks like it's maybe 28, so 28 milliliters.
+[00:12:24 -> 00:12:28]  Again, if you say 27 or 29, that's fine
+[00:12:28 -> 00:12:30]  because we all agree on the tenths place.
+[00:12:30 -> 00:12:33]  It's the ones place that we're estimating.
+[00:12:33 -> 00:12:36]  Now, over here on this graduated cylinder,
+[00:12:36 -> 00:12:38]  you see now it's marked in ones,
+[00:12:38 -> 00:12:42]  so we know the ones for sure, 28-something.
+[00:12:43 -> 00:12:46]  But again, we have to estimate one more place,
+[00:12:46 -> 00:12:47]  so that would be tenths place.
+[00:12:47 -> 00:12:52]  So you might say 28.2 milliliters,
+[00:12:52 -> 00:12:54]  or maybe you think it's 28.3 milliliters.
+[00:12:54 -> 00:12:56]  Again, both are fine
+[00:12:56 -> 00:13:01]  because we're estimating in the tenths place now.
+[00:13:01 -> 00:13:04]  Now, over here on the burette, this is even more precise.
+[00:13:04 -> 00:13:06]  We're gonna have more significant digits
+[00:13:06 -> 00:13:11]  because now the ones are marked, 28, 29, 30,
+[00:13:11 -> 00:13:12]  and the tenths are marked.
+[00:13:13 -> 00:13:18]  So 28.1, .2, .3, but again, I still have to go one more.
+[00:13:18 -> 00:13:21]  So I know for sure it's 28.3.
+[00:13:21 -> 00:13:26]  I'm gonna estimate one more and say maybe two, so 28.32.
+[00:13:27 -> 00:13:31]  Again, if you think it's 28.31, that's fine
+[00:13:31 -> 00:13:35]  because we're estimating out here in the same digit.
+[00:13:35 -> 00:13:38]  Now, notice how these values all got more precise.
+[00:13:38 -> 00:13:40]  So this one had two significant digits,
+[00:13:40 -> 00:13:43]  so it's the least precise.
+[00:13:43 -> 00:13:44]  Then we went out to tenths place,
+[00:13:44 -> 00:13:46]  so that gave us three significant digits.
+[00:13:46 -> 00:13:48]  That's more precise.
+[00:13:48 -> 00:13:51]  And then four significant digits, so that's more precise.
+[00:13:51 -> 00:13:53]  Okay, one last example.
+[00:13:53 -> 00:13:54]  Let's go ahead and take a minute
+[00:13:54 -> 00:13:56]  to practice reading the temperatures
+[00:13:56 -> 00:13:58]  on these three thermometers.
+[00:13:58 -> 00:14:00]  So go ahead, pause the video,
+[00:14:00 -> 00:14:01]  and just take a quick second
+[00:14:01 -> 00:14:04]  and write down your three best guesses.
+[00:14:04 -> 00:14:05]  And then when you're ready to have your answers checked,
+[00:14:05 -> 00:14:07]  go ahead and hit play.
+[00:14:07 -> 00:14:11]  Okay, so what do we know for sure?
+[00:14:11 -> 00:14:12]  Well, it's marked in tens.
+[00:14:12 -> 00:14:15]  Here's 20, here's 30.
+[00:14:15 -> 00:14:20]  It's also marked in ones, so 21, 22, 23.
+[00:14:20 -> 00:14:23]  So I know for sure it's 21 point something,
+[00:14:23 -> 00:14:26]  but I have to go one more digit.
+[00:14:26 -> 00:14:29]  So maybe I think it's 21.2,
+[00:14:29 -> 00:14:31]  and we'll assume this is degrees Celsius
+[00:14:31 -> 00:14:32]  since it doesn't tell us.
+[00:14:33 -> 00:14:37]  But if you said 21.3, again, that's fine,
+[00:14:37 -> 00:14:40]  as long as we're estimating out in the tens.
+[00:14:40 -> 00:14:43]  21, that would be completely wrong, right?
+[00:14:43 -> 00:14:47]  Because 21 would say tens are what I know for sure,
+[00:14:47 -> 00:14:50]  and I'm estimating the ones, and that's not true.
+[00:14:50 -> 00:14:52]  I know the tens and the ones,
+[00:14:52 -> 00:14:55]  so I have to estimate tenths place.
+[00:14:55 -> 00:14:57]  How about over here on this thermometer?
+[00:14:57 -> 00:15:00]  Well, again, tens are marked and ones are marked,
+[00:15:00 -> 00:15:04]  so I know it's 22, but again, I can't just write 22.
+[00:15:04 -> 00:15:07]  I have to estimate one more.
+[00:15:07 -> 00:15:11]  So if it's right on 22, then I have to put point zero.
+[00:15:11 -> 00:15:14]  One more time, why would 22 be wrong?
+[00:15:14 -> 00:15:17]  Because that would say you were estimating the ones place,
+[00:15:17 -> 00:15:18]  which is not the case.
+[00:15:18 -> 00:15:21]  We are estimating the tenths place
+[00:15:21 -> 00:15:23]  because the ones are marked.
+[00:15:24 -> 00:15:25]  Okay, how about this last thermometer?
+[00:15:25 -> 00:15:27]  How would you do that?
+[00:15:27 -> 00:15:28]  Well, it's a little hard to see,
+[00:15:28 -> 00:15:30]  but we can tell tens are marked,
+[00:15:30 -> 00:15:32]  so I know it's 20 something.
+[00:15:32 -> 00:15:37]  Ones are marked 21, 22, and even the tenths,
+[00:15:37 -> 00:15:41]  so it's just above .1, but again, I can't stop there.
+[00:15:41 -> 00:15:43]  I have to go a little farther,
+[00:15:43 -> 00:15:47]  so I'm gonna say 22.12 degrees Celsius.
+[00:15:47 -> 00:15:51]  You might say 22.11 degrees Celsius
+[00:15:51 -> 00:15:55]  or 22.13 degrees Celsius,
+[00:15:55 -> 00:15:57]  but again, we're all estimating out here
+[00:15:57 -> 00:15:59]  in the hundredths place because we all agree
+[00:15:59 -> 00:16:01]  that the tens, the ones, and the tenths
+[00:16:01 -> 00:16:03]  are all clearly marked, and the estimating
+[00:16:03 -> 00:16:06]  has to occur in the hundredths place.
+[00:16:06 -> 00:16:09]  So which of these values is the most precise?
+[00:16:09 -> 00:16:11]  Again, the one that has more significant digits
+[00:16:11 -> 00:16:13]  is more precise.
+[00:16:14 -> 00:16:16]  Well, I hope you enjoyed this quick video
+[00:16:16 -> 00:16:18]  on how to take scientific measurements
+[00:16:18 -> 00:16:20]  using the correct number of significant digits.
+[00:16:20 -> 00:16:23]  For even more videos on significant digits,
+[00:16:23 -> 00:16:25]  including how to use them in calculations,
+[00:16:25 -> 00:16:28]  please come visit me at GetChemistryHelp.com.

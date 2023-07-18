@@ -1,0 +1,772 @@
+[00:00:00 -> 00:00:05]  to you, a reflexive notion of music.
+[00:00:05 -> 00:00:08]  Hello, Hari, we are welcome.
+[00:00:08 -> 00:00:12]  We are very pleased to have you here
+[00:00:12 -> 00:00:15]  on Contrast Festival in Lviv,
+[00:00:15 -> 00:00:17]  unfortunately this year virtually,
+[00:00:17 -> 00:00:21]  hope that next year it will change a lot.
+[00:00:21 -> 00:00:26]  And today your third lecture
+[00:00:27 -> 00:00:30]  dedicated a reflexive notion of music.
+[00:00:32 -> 00:00:37]  So thank you very much for being here,
+[00:00:37 -> 00:00:41]  at least virtually, and please,
+[00:00:44 -> 00:00:46]  we can start your lecture now.
+[00:00:46 -> 00:00:47]  Thank you.
+[00:00:47 -> 00:00:49]  Thank you very much for the nice introduction
+[00:00:49 -> 00:00:52]  and good afternoon to everybody.
+[00:00:52 -> 00:00:54]  Today at my third lecture
+[00:00:54 -> 00:00:59]  at the Contemporary Music Festival Contrasts in Lviv,
+[00:00:59 -> 00:01:01]  I would like to present to you a model
+[00:01:01 -> 00:01:05]  how the idea of new music has changed
+[00:01:06 -> 00:01:09]  due to the digital evolution of music.
+[00:01:09 -> 00:01:13]  And the thesis is, as the title suggests,
+[00:01:13 -> 00:01:15]  the concept or the notion of art music
+[00:01:15 -> 00:01:18]  has become reflexive.
+[00:01:18 -> 00:01:21]  The two previous lecture on Trond Reinhardson's opera
+[00:01:21 -> 00:01:26]  and on conceptual art and music will fit into this model.
+[00:01:27 -> 00:01:30]  In 2012, I published a book,
+[00:01:30 -> 00:01:34]  The Digital Revolution of Music and Music Philosophy.
+[00:01:34 -> 00:01:37]  And in my opinion, music philosophy
+[00:01:37 -> 00:01:41]  is not really an academic discipline.
+[00:01:41 -> 00:01:45]  Philosophical thinking about music is only needed
+[00:01:45 -> 00:01:48]  in those rare historical moments
+[00:01:48 -> 00:01:51]  when the entire musical culture
+[00:01:51 -> 00:01:54]  is undergoing a serious change.
+[00:01:54 -> 00:01:56]  And as a result, it becomes necessary
+[00:01:56 -> 00:02:00]  to rethink the whole concept
+[00:02:00 -> 00:02:02]  and the whole notion of art music.
+[00:02:02 -> 00:02:05]  My thesis, which I had presented in 2008
+[00:02:05 -> 00:02:07]  in a thought experiment,
+[00:02:07 -> 00:02:10]  was that exactly this is the case
+[00:02:10 -> 00:02:14]  at the beginning of the 21st century,
+[00:02:14 -> 00:02:18]  because a change from a literary
+[00:02:18 -> 00:02:23]  to a digital music culture is taking place.
+[00:02:23 -> 00:02:25]  Many of the arguments in the book
+[00:02:25 -> 00:02:27]  were hypothetical eight years ago
+[00:02:27 -> 00:02:31]  and have now become almost self-evident.
+[00:02:31 -> 00:02:34]  Above all, there are many new works in new music
+[00:02:34 -> 00:02:39]  in which this change toward digital music culture
+[00:02:39 -> 00:02:41]  manifests itself.
+[00:02:41 -> 00:02:45]  And accordingly, it is much easier to say today
+[00:02:45 -> 00:02:50]  in what sense the notion of music has changed.
+[00:02:51 -> 00:02:55]  If one understands music philosophy in this sense,
+[00:02:55 -> 00:02:59]  it has three different problems to solve.
+[00:02:59 -> 00:03:03]  First, it must reconstruct the old paradigm
+[00:03:03 -> 00:03:06]  that has been valid up to now.
+[00:03:06 -> 00:03:08]  Let us call it paradigm one.
+[00:03:08 -> 00:03:12]  And secondly, music philosophy has to describe
+[00:03:12 -> 00:03:14]  the transformation mechanism
+[00:03:14 -> 00:03:17]  that leads to the present paradigm shift,
+[00:03:17 -> 00:03:22]  which is today triggered by the digital revolution.
+[00:03:23 -> 00:03:25]  And thirdly, music philosophy is faced
+[00:03:25 -> 00:03:30]  with the task of designing the following paradigm,
+[00:03:30 -> 00:03:33]  paradigm two being created.
+[00:03:35 -> 00:03:38]  So what does it mean to reconstruct a paradigm?
+[00:03:38 -> 00:03:42]  And more specifically, a paradigm of art music?
+[00:03:42 -> 00:03:46]  In principle, it is a matter of analyzing the grammar
+[00:03:46 -> 00:03:51]  of the hegemonic self-description in the new music system.
+[00:03:51 -> 00:03:56]  The task has a descriptive and it has a normative aspect.
+[00:03:57 -> 00:04:00]  On the one hand, one has to clarify the question,
+[00:04:00 -> 00:04:02]  what is music?
+[00:04:02 -> 00:04:07]  This is about what belongs to the sphere of art music
+[00:04:07 -> 00:04:11]  and who has access to it and to the resources
+[00:04:11 -> 00:04:13]  and who does not.
+[00:04:13 -> 00:04:16]  On the other hand, one has to reconstruct
+[00:04:16 -> 00:04:19]  the normative question, what is good music
+[00:04:19 -> 00:04:22]  or what is excellent or outstanding music?
+[00:04:22 -> 00:04:26]  Culture is always a competitive field
+[00:04:26 -> 00:04:28]  in which decisions have to be made
+[00:04:28 -> 00:04:32]  about distribution of resources, about performances,
+[00:04:32 -> 00:04:35]  about grants and prices.
+[00:04:35 -> 00:04:39]  Both the descriptive and the normative questions
+[00:04:39 -> 00:04:44]  are more or less pre-decided in a musical culture
+[00:04:44 -> 00:04:48]  and belong to the grammar and to the self-description
+[00:04:48 -> 00:04:52]  of art music in a given time.
+[00:04:52 -> 00:04:56]  So let us start with a descriptive question.
+[00:04:56 -> 00:05:01]  What was the historical notion of new music?
+[00:05:01 -> 00:05:04]  New music was constituted at the beginning
+[00:05:04 -> 00:05:07]  of the 20th century and its most important
+[00:05:07 -> 00:05:12]  distinguishing feature was at that time atonality.
+[00:05:12 -> 00:05:15]  It is through the difference between tonal
+[00:05:15 -> 00:05:19]  and atonal music that new music can constitute itself
+[00:05:19 -> 00:05:22]  in contrast to classical music.
+[00:05:24 -> 00:05:27]  This suspension of the tonal system by new music
+[00:05:27 -> 00:05:30]  has strong implications.
+[00:05:30 -> 00:05:33]  One immediate consequence is that new music
+[00:05:33 -> 00:05:37]  is distinguished from popular music,
+[00:05:37 -> 00:05:41]  which is anchored in the tonal system and follows a beat.
+[00:05:41 -> 00:05:45]  The distinction between serious music and popular music
+[00:05:45 -> 00:05:49]  is thus a direct consequence of the abstract negation
+[00:05:49 -> 00:05:53]  of classical music, which follows the principle of tonality
+[00:05:53 -> 00:05:57]  and accordingly has melody, rhythm and harmony.
+[00:05:59 -> 00:06:03]  A third boundary is formed by new music to the other arts
+[00:06:03 -> 00:06:06]  when it began to develop at the beginning
+[00:06:06 -> 00:06:08]  of the 20th century.
+[00:06:08 -> 00:06:13]  Like classical music, new music was absolute music.
+[00:06:13 -> 00:06:15]  In other words, pure instrumental music
+[00:06:15 -> 00:06:20]  defined what music is by its very nature.
+[00:06:20 -> 00:06:23]  New music thus took over the self-description
+[00:06:23 -> 00:06:25]  of classical music, which essentially
+[00:06:25 -> 00:06:28]  followed Eduard Hanslick.
+[00:06:28 -> 00:06:32]  In 1854, Hanslick had written in his book
+[00:06:32 -> 00:06:36]  on the musically beautiful, tonally moving forms
+[00:06:36 -> 00:06:40]  of the soul content and object of music.
+[00:06:40 -> 00:06:44]  In exactly this sense, also new music
+[00:06:44 -> 00:06:48]  originally understood itself as pure instrumental music,
+[00:06:48 -> 00:06:52]  which could be fully described by inner musical parameters
+[00:06:52 -> 00:06:55]  such as pitch, rhythm, harmony, and timbre.
+[00:06:58 -> 00:07:02]  New music has never been a direct representation
+[00:07:02 -> 00:07:04]  of the world and could not simply
+[00:07:04 -> 00:07:07]  reflect life-world experiences.
+[00:07:07 -> 00:07:10]  It was rather assumed that the structure
+[00:07:10 -> 00:07:13]  of pure instrumental music reflected
+[00:07:13 -> 00:07:16]  the structure of the universe.
+[00:07:16 -> 00:07:19]  It was assumed that there was a structural analogy
+[00:07:19 -> 00:07:23]  between music and world.
+[00:07:23 -> 00:07:25]  The term new music was originally
+[00:07:25 -> 00:07:29]  defined by four boundaries, a demarcation
+[00:07:29 -> 00:07:33]  from classical music, popular music, the other arts,
+[00:07:33 -> 00:07:36]  and the life-world.
+[00:07:36 -> 00:07:38]  The question is, of course, why there are just
+[00:07:38 -> 00:07:43]  four and not three or five constitutive boundaries.
+[00:07:43 -> 00:07:46]  The decisive factor for the selection
+[00:07:46 -> 00:07:51]  here, however, is that one uses those distinctions that
+[00:07:51 -> 00:07:55]  have already played a role in the new music discourse
+[00:07:55 -> 00:07:58]  or in the art discourse in general.
+[00:07:58 -> 00:08:03]  And here, I would argue that all other conceivable boundaries
+[00:08:03 -> 00:08:06]  can be traced back to one of those boundaries
+[00:08:06 -> 00:08:08]  in one way or another.
+[00:08:08 -> 00:08:12]  With this, we can answer the first descriptive question
+[00:08:12 -> 00:08:14]  about the paradigm of new music.
+[00:08:14 -> 00:08:18]  New music was originally absolute music.
+[00:08:18 -> 00:08:20]  Henselik's idea of absolute music
+[00:08:20 -> 00:08:24]  reminded the hegemonic self-description
+[00:08:24 -> 00:08:27]  of both classical music in the 19th century
+[00:08:27 -> 00:08:31]  and new music in the 20th century.
+[00:08:31 -> 00:08:35]  Of course, there were always counter-movements,
+[00:08:35 -> 00:08:39]  such as program music, but these always
+[00:08:39 -> 00:08:45]  remind a kind of secondary idea in the self-description
+[00:08:45 -> 00:08:46]  of art music.
+[00:08:46 -> 00:08:49]  The next question is, which normative guiding idea
+[00:08:49 -> 00:08:53]  belonged to the paradigm of new music?
+[00:08:53 -> 00:08:57]  The short answer is newness.
+[00:08:57 -> 00:09:00]  The modern arts have developed through a negation
+[00:09:00 -> 00:09:03]  of the central idea of classical art,
+[00:09:03 -> 00:09:06]  namely through a negation of the idea of beauty
+[00:09:06 -> 00:09:10]  that has been valid in the arts for centuries.
+[00:09:10 -> 00:09:15]  Even today, old art academies carry the classical idea
+[00:09:15 -> 00:09:18]  of beauty in their name.
+[00:09:18 -> 00:09:22]  Literally translated, the Academy of Arts in Munich
+[00:09:22 -> 00:09:27]  is called Academy of Beautiful Arts.
+[00:09:27 -> 00:09:30]  However, modern art no longer wants to be beautiful,
+[00:09:30 -> 00:09:32]  but above all, it wants to be new,
+[00:09:32 -> 00:09:36]  which is reflected in the name of new music.
+[00:09:36 -> 00:09:40]  New music was new above all because of it
+[00:09:40 -> 00:09:44]  used new compositional techniques
+[00:09:44 -> 00:09:48]  to create new music experiences.
+[00:09:48 -> 00:09:51]  In this respect, new music in the 20th century
+[00:09:51 -> 00:09:56]  followed a material aesthetic whose normative idea
+[00:09:56 -> 00:10:02]  was to permanently create new aesthetical material.
+[00:10:02 -> 00:10:04]  With Adorno, one can say that new music
+[00:10:04 -> 00:10:11]  followed the ideal of so-called material progress.
+[00:10:11 -> 00:10:14]  The paradigm of new music in the 20th century
+[00:10:14 -> 00:10:17]  is thus composed of a descriptive
+[00:10:17 -> 00:10:20]  and of a normative guiding idea.
+[00:10:20 -> 00:10:26]  It was in itself understanding as absolute music
+[00:10:26 -> 00:10:30]  and followed the normative ideal of material aesthetics
+[00:10:30 -> 00:10:32]  or material progress.
+[00:10:32 -> 00:10:36]  For a long time, the idea of material aesthetics
+[00:10:36 -> 00:10:39]  was a source of innovation.
+[00:10:39 -> 00:10:44]  But as early as the 1970s, the end of material progress
+[00:10:44 -> 00:10:46]  was reached.
+[00:10:46 -> 00:10:48]  The last new isms, such as music,
+[00:10:48 -> 00:10:52]  concrete instrumentals, spectralism, minimalism,
+[00:10:52 -> 00:10:56]  they are all developed almost half a century ago.
+[00:10:56 -> 00:11:00]  Since the 1990s, the dilemma of innovation
+[00:11:00 -> 00:11:03]  has become evident, as even Helmut Lachenmann noted
+[00:11:03 -> 00:11:06]  in an essay at that time.
+[00:11:06 -> 00:11:10]  The idea of material aesthetics has since
+[00:11:10 -> 00:11:14]  lost its persuasive power in new music
+[00:11:14 -> 00:11:19]  and, as here in the model, began to fade.
+[00:11:19 -> 00:11:23]  Since the first signs of exhaustion of material progress,
+[00:11:23 -> 00:11:26]  it took another four decades until the digital revolution
+[00:11:26 -> 00:11:33]  created a real chance to get out of this innovation dead end.
+[00:11:33 -> 00:11:36]  In Germany, digitization in new music
+[00:11:36 -> 00:11:40]  become a topic of discussion around 2008.
+[00:11:40 -> 00:11:43]  This year, I presented a thought experiment
+[00:11:43 -> 00:11:47]  on this topic at the Darmstadt Spring Conference.
+[00:11:47 -> 00:11:49]  The decisive factor was that YouTube
+[00:11:49 -> 00:11:53]  had been around since 2005, and composers
+[00:11:53 -> 00:11:58]  were beginning to discover the platform for themselves.
+[00:11:58 -> 00:12:03]  From this time of 2008, 2009, for example,
+[00:12:03 -> 00:12:05]  Johannes Kreitel created charts music,
+[00:12:05 -> 00:12:08]  Peter Ablinger the talking piano,
+[00:12:08 -> 00:12:12]  and Trond Reinhardsen the complete music performance
+[00:12:12 -> 00:12:14]  videos.
+[00:12:14 -> 00:12:17]  These are conceptual music pieces
+[00:12:17 -> 00:12:23]  produced only for YouTube and can only reach a wider
+[00:12:23 -> 00:12:25]  audience via YouTube.
+[00:12:25 -> 00:12:29]  The music video became a new storage and distribution
+[00:12:29 -> 00:12:32]  medium for new music.
+[00:12:32 -> 00:12:36]  Conceptual music is in stark contrast
+[00:12:36 -> 00:12:38]  to the idea of absolute music.
+[00:12:38 -> 00:12:42]  It is the complete opposite of pure instrumental music.
+[00:12:42 -> 00:12:45]  Sometimes musical instruments are also
+[00:12:45 -> 00:12:48]  deliberately destroyed.
+[00:12:48 -> 00:12:50]  For this reason, conceptual music
+[00:12:50 -> 00:12:54]  had no role in new music and was largely ignored
+[00:12:54 -> 00:12:59]  and systematically excluded in the 20th centuries
+[00:12:59 -> 00:13:01]  from the new music system.
+[00:13:01 -> 00:13:06]  However, the digital revolution is not only a technological,
+[00:13:06 -> 00:13:09]  but also a social revolution and sets everything
+[00:13:09 -> 00:13:14]  in motion, both in terms of the production, distribution,
+[00:13:14 -> 00:13:16]  and reception of music.
+[00:13:16 -> 00:13:20]  An important aspect, among many others,
+[00:13:20 -> 00:13:24]  is that digitalization also changes
+[00:13:24 -> 00:13:28]  the structure of institutions.
+[00:13:28 -> 00:13:31]  In principle, the digitalization of new music
+[00:13:31 -> 00:13:35]  also leads to a deinstitutionalization
+[00:13:35 -> 00:13:37]  of the new music system.
+[00:13:37 -> 00:13:42]  Thus, it was only the dissemination
+[00:13:42 -> 00:13:45]  of conceptual music via YouTube that
+[00:13:45 -> 00:13:50]  led to the subsequent inclusion of conceptual music
+[00:13:50 -> 00:13:52]  in art music.
+[00:13:52 -> 00:13:56]  Music institutions create prerequisites
+[00:13:56 -> 00:13:59]  for the emergence of such a sophisticated cultural
+[00:13:59 -> 00:14:02]  achievement as new music is.
+[00:14:02 -> 00:14:06]  The first most important institutional pillars
+[00:14:06 -> 00:14:09]  of the new music system were, in the 20th century,
+[00:14:09 -> 00:14:11]  first, the academy.
+[00:14:11 -> 00:14:16]  This refers to all institutions where music is taught.
+[00:14:16 -> 00:14:19]  The knowledge of notation, playing techniques,
+[00:14:19 -> 00:14:23]  compositional techniques was, at least until recently,
+[00:14:23 -> 00:14:26]  a kind of secret knowledge that could only
+[00:14:26 -> 00:14:31]  be acquired within and not outside these institutions.
+[00:14:31 -> 00:14:34]  A second institutional pillar is
+[00:14:34 -> 00:14:38]  formed by the ensembles which perform art music.
+[00:14:38 -> 00:14:45]  Music does not really exist if it exists only as a score.
+[00:14:45 -> 00:14:48]  Thirdly, one of the most important music institutions
+[00:14:48 -> 00:14:52]  was the publishing house that printed music scores.
+[00:14:52 -> 00:14:55]  Fourthly, an essential institutional pillar
+[00:14:55 -> 00:14:59]  in countries like Germany is public broadcasting
+[00:14:59 -> 00:15:04]  preparation through which new music distributed, promoted,
+[00:15:04 -> 00:15:09]  and financially supported.
+[00:15:09 -> 00:15:10]  One could mention here a whole range
+[00:15:10 -> 00:15:14]  of other music institutions, such as music criticism
+[00:15:14 -> 00:15:19]  or collecting society like GEMA or music foundations
+[00:15:19 -> 00:15:23]  like the Siemens Foundation and the Siemens Prize.
+[00:15:23 -> 00:15:26]  But ultimately, these five institutional pillars
+[00:15:26 -> 00:15:31]  have supported the new music system in the 20th century.
+[00:15:31 -> 00:15:33]  Accordingly, the next question is
+[00:15:33 -> 00:15:38]  how digitization is changing the new music system today.
+[00:15:38 -> 00:15:43]  And in keeping with our festival theme metamorphosis,
+[00:15:43 -> 00:15:47]  one could also ask what kind of metamorphosis
+[00:15:47 -> 00:15:52]  new music is experiencing in the wake of the digital revolution.
+[00:15:52 -> 00:15:56]  And the basic idea is that the digitization
+[00:15:56 -> 00:16:03]  creates bypasses, byways, and detours to musical institutions.
+[00:16:03 -> 00:16:08]  Today, technological alternatives to musical institutions
+[00:16:08 -> 00:16:10]  are available everywhere.
+[00:16:10 -> 00:16:15]  Instead of music publishers, one can produce one's own sheet music
+[00:16:15 -> 00:16:18]  with notation programs, such as Canale.
+[00:16:18 -> 00:16:22]  Composers whose music is not broadcasted on public radio
+[00:16:22 -> 00:16:26]  can at least share their music on YouTube.
+[00:16:26 -> 00:16:29]  You can write about music not only in music magazines,
+[00:16:29 -> 00:16:33]  but also on websites and blogs.
+[00:16:33 -> 00:16:36]  And besides recordings with a real ensemble,
+[00:16:36 -> 00:16:40]  there is now also the possibility to record a score
+[00:16:40 -> 00:16:43]  with virtual orchestras.
+[00:16:43 -> 00:16:47]  And finally, you can experience new music not exclusively
+[00:16:47 -> 00:16:51]  live at the music festival, but today there
+[00:16:51 -> 00:16:55]  are also online streaming and internet concerts.
+[00:16:55 -> 00:16:59]  At first glance, these technological alternatives
+[00:16:59 -> 00:17:03]  all seem like second choice for losers.
+[00:17:03 -> 00:17:05]  But they do change the whole music culture
+[00:17:05 -> 00:17:12]  and redefine who the winner and the losers are.
+[00:17:12 -> 00:17:17]  Due to these technological bypasses, a gradual deinstitutionalization
+[00:17:17 -> 00:17:21]  of the new music system is taking place.
+[00:17:21 -> 00:17:24]  The strongly institutionalized new music system
+[00:17:24 -> 00:17:29]  has been able to strictly regulate access to art music
+[00:17:29 -> 00:17:34]  because the institutions have been able to perform a gatekeeper function.
+[00:17:34 -> 00:17:38]  And those who were not allowed through one door
+[00:17:38 -> 00:17:41]  could not pass through the other doors.
+[00:17:41 -> 00:17:44]  Without studying music at a music academy,
+[00:17:44 -> 00:17:47]  a composer could not find a publisher.
+[00:17:47 -> 00:17:49]  Without a publisher, he could not get commissions.
+[00:17:49 -> 00:17:54]  Without commissions, there was no performance of the written score.
+[00:17:54 -> 00:18:01]  And without performances, one was not really a composer at all.
+[00:18:01 -> 00:18:07]  Here you can see some aspects of progressive deinstitutionalization
+[00:18:07 -> 00:18:09]  of art music.
+[00:18:09 -> 00:18:14]  At first, there is a loss of control over the inclusion and exclusion
+[00:18:14 -> 00:18:18]  of musicians and composers in the new music scene.
+[00:18:18 -> 00:18:22]  Composers can come from other music genres
+[00:18:22 -> 00:18:25]  and other art scenes much more than before.
+[00:18:25 -> 00:18:28]  There's also a general democratization of music
+[00:18:28 -> 00:18:33]  because the moment art music becomes more accessible,
+[00:18:33 -> 00:18:37]  it also loses its previous elite status.
+[00:18:37 -> 00:18:41]  The cultural economy is also changing.
+[00:18:41 -> 00:18:48]  An economy of scarcity is becoming an economy of abundance,
+[00:18:48 -> 00:18:54]  where there is an abundance of composers, compositions, and performances.
+[00:18:54 -> 00:18:59]  Of course, under these conditions, one must also reckon with more dilettantism.
+[00:18:59 -> 00:19:05]  But there's also a gain of autonomy for composers.
+[00:19:05 -> 00:19:10]  The previous culture of commissions is being replaced by a culture of offer.
+[00:19:10 -> 00:19:12]  That is important.
+[00:19:12 -> 00:19:16]  Most works will be created without commissions,
+[00:19:16 -> 00:19:21]  mainly because there are alternative recording possibilities.
+[00:19:21 -> 00:19:26]  One consequence of this is that music institutions can no longer define
+[00:19:26 -> 00:19:33]  what art music is when they award commissions and performances to composers.
+[00:19:33 -> 00:19:36]  The character of composer careers is also changing.
+[00:19:36 -> 00:19:42]  In a strongly institutional art system, they are slow and sustained,
+[00:19:42 -> 00:19:46]  whereas in a weakly institutionalized art scene,
+[00:19:46 -> 00:19:49]  careers take off very quickly,
+[00:19:49 -> 00:19:53]  but they also come to an end at the next moment.
+[00:19:53 -> 00:19:57]  Moreover, precarization is now growing,
+[00:19:57 -> 00:20:01]  resulting in a loss of social security for participants.
+[00:20:01 -> 00:20:09]  How do these deinstitutionalization processes affect the music itself?
+[00:20:09 -> 00:20:16]  The central thesis is that there is a gradual transgression
+[00:20:16 -> 00:20:21]  of the historical genres and notions of new music,
+[00:20:21 -> 00:20:25]  whereby transgression here means a dissolution of boundaries
+[00:20:25 -> 00:20:32]  or the crossing of existing boundaries of the new music system.
+[00:20:32 -> 00:20:37]  The transgression of new music takes place in relation to the four boundaries
+[00:20:37 -> 00:20:42]  that we have pre-constructed as the constitutive boundaries
+[00:20:42 -> 00:20:46]  of new music at the beginning of the 20th century.
+[00:20:46 -> 00:20:50]  There is thus a transgression in relation to the other arts,
+[00:20:50 -> 00:20:55]  to the live world, to popular music and to classical music.
+[00:20:55 -> 00:21:02]  The computer is a universal interface to connect and combine music with pictures,
+[00:21:02 -> 00:21:11]  movies, texts, diagrams, everyday sounds, popular music and much more.
+[00:21:11 -> 00:21:15]  But this creates a completely different type of art music.
+[00:21:15 -> 00:21:18]  New music is no longer absolute music,
+[00:21:18 -> 00:21:24]  but that would be my suggestion, it becomes relational music.
+[00:21:24 -> 00:21:28]  Relational music crosses the border to the other arts
+[00:21:28 -> 00:21:36]  and with it a constitutive border of the historical notion of new music is dissolved.
+[00:21:36 -> 00:21:41]  Absolute music was the dominant idea of art music in the 20th century,
+[00:21:41 -> 00:21:46]  because it was almost impossible for composers to compose
+[00:21:46 -> 00:21:53]  with any other aesthetic material than sounds produced by acoustic instruments.
+[00:21:53 -> 00:21:59]  Relational music is emerging and is increasingly shaping art music,
+[00:21:59 -> 00:22:06]  because today all composers can use the corresponding computer programs equally.
+[00:22:06 -> 00:22:11]  Relational music like 19th century program music is a counter concept
+[00:22:11 -> 00:22:15]  or the opposite term to the idea of absolute music.
+[00:22:15 -> 00:22:26]  In contrast to program music, however, relational music refers not only to a narrative in program music,
+[00:22:26 -> 00:22:35]  but to any extra musical material that becomes an essential part of the composition.
+[00:22:35 -> 00:22:43]  The so-called extra musical material has so far been excluded from the notion of art music,
+[00:22:43 -> 00:22:46]  which defines itself as absolute music.
+[00:22:46 -> 00:22:53]  In contrast, the extra musical material is included in the notion of art music,
+[00:22:53 -> 00:22:57]  which defines itself as relational music.
+[00:22:57 -> 00:23:03]  One could, of course, object that the idea of relational music is not really new.
+[00:23:03 -> 00:23:08]  Composers like Pierre Chopin, Maurizio Carvi or Helmut Lachemann
+[00:23:08 -> 00:23:14]  have long since composed with everyday sound, theatrical movements and language.
+[00:23:14 -> 00:23:26]  However, the extra musical material was once again subjected by these composers to the logic of absolute music.
+[00:23:26 -> 00:23:35]  The everyday noise recorded on tape are processed by Schoepfer until they sound completely abstract
+[00:23:35 -> 00:23:39]  and all external references are erased.
+[00:23:39 -> 00:23:46]  In Cargill's compositions, human movements follow the sound and rhythm of the music.
+[00:23:46 -> 00:23:57]  And in Lachemann's work, human speech is broken down into sound material that speech loses its communicative function.
+[00:23:57 -> 00:24:05]  The real criterion for distinguishing between absolute and relational music
+[00:24:05 -> 00:24:15]  is the criterion of alterity, that is, whether or not musical material really retains its otherness.
+[00:24:15 -> 00:24:26]  Carola Barkow's OIC from 2015-16 for clarinet, piano, cello and two players for rubber balls
+[00:24:26 -> 00:24:29]  is a fine example of relational music.
+[00:24:29 -> 00:24:38]  The main props in this piece are two rubber balls on the knees of the players, as you can see here in the sketch.
+[00:24:38 -> 00:24:43]  These balls go through a series of metamorphoses in the piece.
+[00:24:43 -> 00:24:49]  First, the balls appear as mere objects. You can see the balls on stage.
+[00:24:49 -> 00:24:52]  Secondly, they are used as drums.
+[00:24:52 -> 00:24:57]  Thirdly, the two balls transform into two eyes.
+[00:24:57 -> 00:25:09]  Fourth, the two eyes begin to perceive the surroundings, that is, they turn in the direction of the sound coming from the stage.
+[00:25:09 -> 00:25:19]  The fifth metamorphosis is reached when the sounds come from everywhere and you see a kind of hearing with open eyes.
+[00:25:19 -> 00:25:24]  And sixth, in the final stage, the eyes move to the rhythm of the music.
+[00:25:24 -> 00:25:28]  Here, a synchronization of hearing and seeing occurs.
+[00:28:24 -> 00:28:28]  The musical material really retains its otherness.
+[00:28:28 -> 00:28:40]  Carola Barkow's OIC from 2015-16 for clarinet, piano, cello and two players for rubber balls is a fine example of relational music.
+[00:28:40 -> 00:28:45]  The main props in this piece are two rubber balls on the knees of the players, as you can see here in the sketch.
+[00:28:45 -> 00:28:48]  These balls transform into two eyes.
+[00:28:48 -> 00:28:52]  Breast, Shaking Hands, or Stockhausen's text scores
+[00:28:52 -> 00:28:55]  like Set Sail for the Sun.
+[00:28:55 -> 00:28:58]  However, at the time they were created,
+[00:28:58 -> 00:29:03]  these pieces were not composed as conceptual music,
+[00:29:03 -> 00:29:06]  they were not named as conceptual music,
+[00:29:06 -> 00:29:10]  and they were not received as conceptual music.
+[00:29:10 -> 00:29:12]  Today we can label these works
+[00:29:12 -> 00:29:15]  as historical conceptual music,
+[00:29:15 -> 00:29:17]  but they had had no implications
+[00:29:17 -> 00:29:21]  for the internal process of differentiation
+[00:29:21 -> 00:29:24]  of the notion of art music.
+[00:29:25 -> 00:29:28]  Digital conceptual music was provocative
+[00:29:28 -> 00:29:31]  for the new music scene and caused some controversy
+[00:29:31 -> 00:29:35]  because this kind of music, or let's say anti-music,
+[00:29:35 -> 00:29:39]  was most in conflict with the hegemonic paradigm
+[00:29:39 -> 00:29:41]  of the new music scene.
+[00:29:41 -> 00:29:45]  Conceptual music negates both the idea of absolute music
+[00:29:45 -> 00:29:49]  and the idea of material progress.
+[00:29:49 -> 00:29:53]  In most cases, conceptual music is also anesthetic,
+[00:29:53 -> 00:29:56]  that is, it is something like ready-made music
+[00:29:56 -> 00:30:00]  in the style of Duchamp.
+[00:30:00 -> 00:30:02]  Here you can see an entire issue
+[00:30:02 -> 00:30:06]  of the Neue Zeitschrift für Musik,
+[00:30:06 -> 00:30:08]  the New Journal for Music,
+[00:30:08 -> 00:30:12]  with text by Johannes Kreitel, myself, and others.
+[00:30:12 -> 00:30:13]  In my contribution,
+[00:30:13 -> 00:30:16]  I introduced the distinction
+[00:30:16 -> 00:30:20]  between digital and historical conceptual music
+[00:30:20 -> 00:30:22]  and also developed the argument
+[00:30:22 -> 00:30:25]  why there has been a systematic exclusion
+[00:30:25 -> 00:30:27]  of historical conceptual music
+[00:30:27 -> 00:30:32]  from the new music scene in the 20th century.
+[00:30:32 -> 00:30:33]  Until a decade ago,
+[00:30:33 -> 00:30:38]  conceptual music lacked an adequate storage
+[00:30:38 -> 00:30:40]  and distribution medium.
+[00:30:40 -> 00:30:42]  That is the main argument.
+[00:30:42 -> 00:30:47]  And this adequate storage and distribution medium
+[00:30:47 -> 00:30:52]  became only available with video platforms like YouTube.
+[00:30:53 -> 00:30:56]  Here is an example where you can see the difference
+[00:30:56 -> 00:31:01]  between historical and digital conceptual music in one piece.
+[00:31:01 -> 00:31:06]  Johannes Kreitel's Kinect 3D Sensor Studies No. 2
+[00:31:07 -> 00:31:11]  also includes a reenactment of a Fluxus piece,
+[00:31:11 -> 00:31:14]  the Fluxus piece by Robert Bozzi from 1966.
+[00:31:22 -> 00:31:27]  ♪♪♪
+[00:31:28 -> 00:31:33]  ♪♪♪
+[00:31:33 -> 00:31:38]  ♪♪♪
+[00:31:41 -> 00:31:46]  ♪♪♪
+[00:31:46 -> 00:31:51]  ♪♪♪
+[00:31:51 -> 00:31:56]  ♪♪♪
+[00:31:56 -> 00:31:59]  ♪♪♪
+[00:31:59 -> 00:32:02]  Bozzi's piece was a radical concept piece
+[00:32:02 -> 00:32:06]  created solely in the imagination of the reader
+[00:32:06 -> 00:32:08]  and could not be performed until now
+[00:32:08 -> 00:32:12]  if only because of the health risk involved.
+[00:32:12 -> 00:32:16]  In 2011, Kreitel came up with the idea
+[00:32:16 -> 00:32:18]  of actually performing the piece
+[00:32:18 -> 00:32:21]  with the help of trigger lines,
+[00:32:21 -> 00:32:23]  thus transferring a prime example
+[00:32:23 -> 00:32:25]  of historical conceptual music
+[00:32:25 -> 00:32:30]  into a genre of digital conceptual music.
+[00:32:31 -> 00:32:35]  The plastic bucket as a substitute for a helmet
+[00:32:35 -> 00:32:38]  makes it clear that Bozzi's concept piece
+[00:32:38 -> 00:32:40]  is not simply realized,
+[00:32:40 -> 00:32:43]  but that Kreitel makes an ironic comment
+[00:32:43 -> 00:32:48]  on the historical conceptual music.
+[00:32:48 -> 00:32:51]  The best-known characteristic of postmodern art
+[00:32:51 -> 00:32:54]  is the deliberate crossing of boundaries
+[00:32:54 -> 00:32:58]  from high culture to popular culture.
+[00:32:58 -> 00:33:01]  In comparison with postmodernism in the visual arts,
+[00:33:01 -> 00:33:06]  this border crossing in new music was only half-hearted
+[00:33:06 -> 00:33:09]  so that no real musical postmodernism
+[00:33:09 -> 00:33:11]  has developed in the 20th century.
+[00:33:11 -> 00:33:15]  As examples of postmodernism in art music,
+[00:33:15 -> 00:33:18]  musicologists usually cite pieces
+[00:33:18 -> 00:33:21]  like the First Symphony of Alfred Schnittke,
+[00:33:21 -> 00:33:25]  the Third String Quartet im Innersten by Wolfgang Grimm,
+[00:33:25 -> 00:33:29]  or the ensemble piece for four voices
+[00:33:29 -> 00:33:31]  de-styled by Louis Andriessen.
+[00:33:31 -> 00:33:36]  All these pieces break with an avant-garde taboo
+[00:33:36 -> 00:33:37]  in one way or another,
+[00:33:37 -> 00:33:42]  partly by moving back into the tonal system.
+[00:33:42 -> 00:33:45]  But this half-hearted postmodern new music
+[00:33:45 -> 00:33:48]  does not really bridge the gap to popular music
+[00:33:48 -> 00:33:49]  and popular culture,
+[00:33:49 -> 00:33:52]  but rather, quote,
+[00:33:52 -> 00:33:56]  classical music or highbrow jazz.
+[00:33:56 -> 00:33:59]  Postmodern art works with kitsch,
+[00:33:59 -> 00:34:03]  pornography, and with travel genres,
+[00:34:03 -> 00:34:06]  which cannot be found in the new music of the 20th century
+[00:34:06 -> 00:34:10]  with its strong affinity to classical music.
+[00:34:10 -> 00:34:14]  If you want to develop a theory of musical postmodernism,
+[00:34:14 -> 00:34:17]  a good test question is,
+[00:34:17 -> 00:34:22]  who is the Jeff Koons and the Andy Warhol of new music?
+[00:34:22 -> 00:34:25]  In 2016, Norris Eggert's piece Muzak
+[00:34:25 -> 00:34:30]  was premiered with the Bavarian Radio Symphony Orchestra,
+[00:34:31 -> 00:34:33]  a piece which is comparable
+[00:34:33 -> 00:34:36]  to the postmodernism of Koons and Warhol.
+[00:34:36 -> 00:34:38]  In this essay titled Muzak,
+[00:34:38 -> 00:34:42]  or How Postmodernism Has Afflicted New Music,
+[00:34:42 -> 00:34:45]  I presented a corresponding theory
+[00:34:45 -> 00:34:47]  of musical postmodernism.
+[00:34:47 -> 00:34:49]  The essay has two parts.
+[00:34:49 -> 00:34:52]  The first part is a theoretical part
+[00:34:52 -> 00:34:56]  in which I present a notion of postmodern art.
+[00:34:56 -> 00:34:59]  Postmodern art has three criteria.
+[00:34:59 -> 00:35:02]  It is popular, ironic,
+[00:35:02 -> 00:35:07]  and postmodern art has a double coding.
+[00:35:07 -> 00:35:10]  In the second part, I discuss Moritz Eggert's piece,
+[00:35:10 -> 00:35:12]  which is a collage of popular music.
+[00:35:12 -> 00:35:16]  So you can hear Elvis, Louis Armstrong,
+[00:35:16 -> 00:35:18]  Lou Reed, Tom Weitz, David Bowie,
+[00:35:18 -> 00:35:20]  John Lennon, and much, much more.
+[00:35:22 -> 00:35:28]  SEE ME?
+[00:35:28 -> 00:35:31]  and now I see you, and you can really see me
+[00:35:31 -> 00:35:35]  and now I can see you, and you can really see me
+[00:35:35 -> 00:35:39]  and now I can really see you, and you can really see me
+[00:35:39 -> 00:35:43]  and now I can see you, and you can really see me
+[00:35:43 -> 00:35:48]  and now I see you, and you can really see me
+[00:35:48 -> 00:35:51]  And now I can really see you
+[00:35:51 -> 00:35:53]  And you can really see me
+[00:35:53 -> 00:35:59]  And now I can see you
+[00:35:59 -> 00:36:01]  And you can really see me
+[00:36:01 -> 00:36:03]  And now I see
+[00:36:03 -> 00:36:10]  Just one more time
+[00:36:10 -> 00:36:13]  Baby, baby
+[00:36:13 -> 00:36:17]  Baby, baby
+[00:36:17 -> 00:36:24]  Just one more time
+[00:36:24 -> 00:36:26]  Baby, baby
+[00:36:26 -> 00:36:28]  Baby, baby
+[00:36:28 -> 00:36:32]  Baby, baby
+[00:36:32 -> 00:36:42]  Just one more time
+[00:36:47 -> 00:36:50]  Hey, all you people all around the city
+[00:36:50 -> 00:36:52]  Saturday night is a-coming
+[00:36:52 -> 00:36:55]  And the kids are all right
+[00:36:55 -> 00:37:02]  And the kids are all right
+[00:37:02 -> 00:37:05]  Hey, everybody, listen to the music
+[00:37:05 -> 00:37:07]  Saturday night is a-coming
+[00:37:07 -> 00:37:16]  And the kids are all right
+[00:37:16 -> 00:37:22]  And the kids are all right
+[00:37:22 -> 00:37:32]  Oh, baby, I can't stop loving you
+[00:37:32 -> 00:37:42]  Oh, baby, I can't stop loving you
+[00:37:42 -> 00:37:49]  Will you smile when I tell you
+[00:37:49 -> 00:37:51]  Mozart is not only a half-hearted,
+[00:37:51 -> 00:37:54]  but a real example of musical postmodernism
+[00:37:54 -> 00:37:58]  that uncompromisingly crosses the border
+[00:37:58 -> 00:38:01]  to popular music, as you could hear.
+[00:38:01 -> 00:38:03]  Eggert's piece fulfills
+[00:38:03 -> 00:38:06]  all three postmodernism criteria
+[00:38:06 -> 00:38:07]  at the same time.
+[00:38:07 -> 00:38:08]  And it's important to say
+[00:38:08 -> 00:38:10]  that this performance took place
+[00:38:10 -> 00:38:12]  at the New Music Festival.
+[00:38:12 -> 00:38:15]  First, the piece is popular.
+[00:38:15 -> 00:38:17]  It is a well-composed,
+[00:38:17 -> 00:38:19]  trivial pop music potpourri
+[00:38:19 -> 00:38:21]  with many love songs.
+[00:38:21 -> 00:38:24]  Secondly, the piece is very ironic.
+[00:38:24 -> 00:38:25]  The New Music composer,
+[00:38:25 -> 00:38:27]  Morris Eggert himself,
+[00:38:27 -> 00:38:29]  is on stage and sings
+[00:38:29 -> 00:38:31]  with the large symphony orchestra
+[00:38:31 -> 00:38:33]  like a pop music star,
+[00:38:33 -> 00:38:37]  as you could see on the photo.
+[00:38:37 -> 00:38:40]  And thirdly, the piece is double-coated.
+[00:38:40 -> 00:38:42]  The pop music audience can enjoy
+[00:38:42 -> 00:38:43]  the sound and the performance
+[00:38:43 -> 00:38:45]  on the one hand.
+[00:38:45 -> 00:38:46]  And on the other hand,
+[00:38:46 -> 00:38:48]  the insider of art music
+[00:38:48 -> 00:38:49]  can perceive the piece
+[00:38:49 -> 00:38:52]  as a contribution to the discourse
+[00:38:52 -> 00:38:55]  on musical postmodernism.
+[00:38:55 -> 00:38:56]  In recent years,
+[00:38:56 -> 00:38:58]  the false borderline
+[00:38:58 -> 00:39:00]  between new music and classical music
+[00:39:00 -> 00:39:03]  has also become porous.
+[00:39:03 -> 00:39:04]  But not because of the
+[00:39:04 -> 00:39:07]  postmodern quotation.
+[00:39:07 -> 00:39:10]  This borderline is now being bridged
+[00:39:10 -> 00:39:13]  with the help of digital technology.
+[00:39:13 -> 00:39:16]  Virtual orchestras such as East-West
+[00:39:16 -> 00:39:18]  or the Vienna Symphonic Library
+[00:39:18 -> 00:39:21]  have been around for over 10 years.
+[00:39:21 -> 00:39:23]  In art music, however,
+[00:39:23 -> 00:39:26]  virtual instruments are not only used
+[00:39:26 -> 00:39:28]  to record scores,
+[00:39:28 -> 00:39:30]  but they are becoming
+[00:39:30 -> 00:39:33]  a new medium of composition.
+[00:39:33 -> 00:39:35]  Because of this functional change
+[00:39:35 -> 00:39:36]  of virtual instruments,
+[00:39:36 -> 00:39:38]  I have suggested to name
+[00:39:38 -> 00:39:40]  this kind of art music differently
+[00:39:40 -> 00:39:45]  and to speak of e-player music here.
+[00:39:45 -> 00:39:47]  An example of such e-player composition
+[00:39:47 -> 00:39:50]  would be Thomas Hummel's ensemble piece
+[00:39:50 -> 00:39:53]  Zinaida Karbaljenka for six instruments
+[00:39:53 -> 00:39:56]  and e-player orchestra from 2014.
+[00:39:56 -> 00:40:00]  Thomas Hummel is the creator of Contembra,
+[00:40:00 -> 00:40:01]  a virtual orchestra
+[00:40:01 -> 00:40:04]  with extended playing techniques,
+[00:40:04 -> 00:40:08]  which also includes a Contembra e-player.
+[00:40:08 -> 00:40:11]  The piece contains sound surfaces
+[00:40:11 -> 00:40:14]  as they can be heard, for instance,
+[00:40:14 -> 00:40:16]  in Ligeti's Atmospheres,
+[00:40:16 -> 00:40:18]  for which you would normally need
+[00:40:18 -> 00:40:20]  15 musicians to create them.
+[00:40:20 -> 00:40:22]  But here they have been composed
+[00:40:22 -> 00:40:24]  with e-players.
+[00:40:24 -> 00:40:26]  There is even a passage
+[00:40:26 -> 00:40:29]  for 30 e-player bass trumpets
+[00:40:29 -> 00:40:31]  with bassoon mouthpieces
+[00:40:31 -> 00:40:33]  that could never be recorded
+[00:40:33 -> 00:40:35]  with a real orchestra.
+[00:40:51 -> 00:40:55]  There is a passage for 60 e-player trumpets
+[00:40:55 -> 00:40:58]  with bassoon mouthpieces
+[00:40:58 -> 00:41:01]  that could never be recorded
+[00:41:01 -> 00:41:04]  with a real orchestra.
+[00:41:04 -> 00:41:06]  There is even a passage
+[00:41:06 -> 00:41:09]  for 30 e-player bass trumpets
+[00:41:09 -> 00:41:12]  with bassoon mouthpieces
+[00:41:12 -> 00:41:15]  that could never be recorded
+[00:41:15 -> 00:41:17]  with a real orchestra.
+[00:41:17 -> 00:41:20]  There is even a passage
+[00:41:20 -> 00:41:23]  for 60 e-player bass trumpets
+[00:41:23 -> 00:41:26]  with bassoon mouthpieces
+[00:41:26 -> 00:41:29]  that could never be recorded
+[00:41:29 -> 00:41:32]  with a real orchestra.
+[00:41:32 -> 00:41:35]  There is even a passage
+[00:41:35 -> 00:41:38]  for 60 e-player bass trumpets
+[00:41:38 -> 00:41:41]  with bassoon mouthpieces
+[00:41:41 -> 00:41:44]  that could never be recorded
+[00:41:44 -> 00:41:46]  with a real orchestra.
+[00:41:46 -> 00:41:49]  There is even a passage
+[00:41:49 -> 00:41:52]  for 60 e-player bass trumpets
+[00:41:52 -> 00:41:55]  with bassoon mouthpieces
+[00:41:55 -> 00:41:58]  that could never be recorded
+[00:41:58 -> 00:42:01]  with a real orchestra.
+[00:42:01 -> 00:42:04]  There is even a passage
+[00:42:04 -> 00:42:07]  for 60 e-player bass trumpets
+[00:42:07 -> 00:42:10]  with bassoon mouthpieces
+[00:42:10 -> 00:42:13]  that could never be recorded
+[00:42:13 -> 00:42:15]  with a real orchestra.
+[00:42:15 -> 00:42:18]  There is even a passage
+[00:42:18 -> 00:42:21]  for 60 e-player bass trumpets
+[00:42:21 -> 00:42:24]  with bassoon mouthpieces
+[00:42:24 -> 00:42:27]  that could never be recorded
+[00:42:27 -> 00:42:30]  with a real orchestra.
+[00:42:30 -> 00:42:33]  There is even a passage
+[00:42:33 -> 00:42:36]  for 60 e-player bass trumpets
+[00:42:36 -> 00:42:39]  with bassoon mouthpieces
+[00:42:39 -> 00:42:42]  that could never be recorded
+[00:42:42 -> 00:42:45]  with a real orchestra.
+[00:42:45 -> 00:42:48]  There is even a passage
+[00:42:48 -> 00:42:51]  for 60 e-player bass trumpets
+[00:42:51 -> 00:42:54]  with bassoon mouthpieces
+[00:42:54 -> 00:42:57]  that could never be recorded
+[00:42:57 -> 00:43:00]  with a real orchestra.
+[00:43:00 -> 00:43:03]  There is even a passage
+[00:43:03 -> 00:43:06]  for 60 e-player bass trumpets
+[00:43:06 -> 00:43:09]  with bassoon mouthpieces
+[00:43:09 -> 00:43:12]  that could never be recorded
+[00:43:12 -> 00:43:15]  with a real orchestra.
+[00:43:15 -> 00:43:18]  There is even a passage
+[00:43:18 -> 00:43:21]  for 60 e-player bass trumpets
+[00:43:21 -> 00:43:24]  with bassoon mouthpieces
+[00:43:24 -> 00:43:27]  that could never be recorded
+[00:43:27 -> 00:43:30]  with a real orchestra.
+[00:43:30 -> 00:43:33]  There is even a passage
+[00:43:33 -> 00:43:36]  for 60 e-player bass trumpets
+[00:43:36 -> 00:43:39]  with bassoon mouthpieces
+[00:43:39 -> 00:43:42]  that could never be recorded
+[00:43:42 -> 00:43:45]  with a real orchestra.
+[00:43:45 -> 00:43:48]  There is even a passage
+[00:43:48 -> 00:43:51]  for 60 e-player bass trumpets
+[00:43:51 -> 00:43:54]  with bassoon mouthpieces
+[00:43:54 -> 00:43:57]  that could never be recorded
+[00:43:57 -> 00:44:00]  with a real orchestra.
+[00:44:00 -> 00:44:03]  There is even a passage
+[00:44:03 -> 00:44:06]  for 60 e-player bass trumpets
+[00:44:06 -> 00:44:09]  with bassoon mouthpieces
+[00:44:09 -> 00:44:12]  that could never be recorded
+[00:44:12 -> 00:44:15]  with a real orchestra.
+[00:44:15 -> 00:44:18]  There is even a passage
+[00:44:18 -> 00:44:21]  for 60 e-player bass trumpets
+[00:44:21 -> 00:44:24]  with bassoon mouthpieces
+[00:44:24 -> 00:44:27]  that could never be recorded
+[00:44:27 -> 00:44:30]  with a real orchestra.
+[00:44:30 -> 00:44:33]  There is even a passage
+[00:44:33 -> 00:44:36]  for 60 e-player bass trumpets
+[00:44:36 -> 00:44:39]  with bassoon mouthpieces
+[00:44:39 -> 00:44:42]  that could never be recorded
+[00:44:42 -> 00:44:45]  with a real orchestra.
+[00:44:45 -> 00:44:48]  There is even a passage
+[00:44:48 -> 00:44:51]  for 60 e-player bass trumpets
+[00:44:51 -> 00:44:54]  with bassoon mouthpieces
+[00:44:54 -> 00:44:57]  that could never be recorded
+[00:44:57 -> 00:45:00]  with a real orchestra.
+[00:45:00 -> 00:45:03]  There is even a passage
+[00:45:03 -> 00:45:06]  for 60 e-player bass trumpets
+[00:45:06 -> 00:45:09]  with bassoon mouthpieces
+[00:45:09 -> 00:45:12]  that could never be recorded
+[00:45:12 -> 00:45:15]  with a real orchestra.
+[00:45:15 -> 00:45:18]  There is even a passage
+[00:45:18 -> 00:45:21]  for 60 e-player bass trumpets
+[00:45:21 -> 00:45:24]  with bassoon mouthpieces
+[00:45:24 -> 00:45:27]  that could never be recorded
+[00:45:27 -> 00:45:30]  with a real orchestra.
+[00:45:30 -> 00:45:33]  There is even a passage
+[00:45:33 -> 00:45:36]  for 60 e-player bass trumpets
+[00:45:36 -> 00:45:39]  with bassoon mouthpieces
+[00:45:39 -> 00:45:42]  that could never be recorded
+[00:45:42 -> 00:45:45]  with a real orchestra.
+[00:45:45 -> 00:45:48]  There is even a passage
+[00:45:48 -> 00:45:51]  for 60 e-player bass trumpets
+[00:45:51 -> 00:45:54]  with bassoon mouthpieces
+[00:45:54 -> 00:45:57]  that could never be recorded
+[00:45:57 -> 00:46:00]  with a real orchestra.
+[00:46:00 -> 00:46:03]  There is even a passage
+[00:46:03 -> 00:46:06]  for 60 e-player bass trumpets
+[00:46:06 -> 00:46:09]  with bassoon mouthpieces
+[00:46:09 -> 00:46:12]  that could never be recorded
+[00:46:12 -> 00:46:15]  with a real orchestra.
+[00:46:15 -> 00:46:18]  There is even a passage
+[00:46:18 -> 00:46:21]  for 60 e-player bass trumpets
+[00:46:21 -> 00:46:24]  with bassoon mouthpieces
+[00:46:24 -> 00:46:27]  that could never be recorded
+[00:46:27 -> 00:46:30]  with a real orchestra.
+[00:46:30 -> 00:46:33]  There is even a passage
+[00:46:33 -> 00:46:36]  for 60 e-player bass trumpets
+[00:46:36 -> 00:46:39]  with bassoon mouthpieces
+[00:46:39 -> 00:46:42]  that could never be recorded
+[00:46:42 -> 00:46:45]  with a real orchestra.
+[00:46:45 -> 00:46:48]  There is even a passage
+[00:46:48 -> 00:46:51]  for 60 e-player bass trumpets
+[00:46:51 -> 00:46:54]  with bassoon mouthpieces
+[00:46:54 -> 00:46:57]  that could never be recorded
+[00:46:57 -> 00:47:00]  with a real orchestra.
+[00:47:00 -> 00:47:03]  There is even a passage
+[00:47:03 -> 00:47:06]  for 60 e-player bass trumpets
+[00:47:06 -> 00:47:09]  with bassoon mouthpieces
+[00:47:09 -> 00:47:12]  that could never be recorded
+[00:47:12 -> 00:47:15]  with a real orchestra.
+[00:47:15 -> 00:47:18]  There is even a passage
+[00:47:18 -> 00:47:21]  for 60 e-player bass trumpets
+[00:47:21 -> 00:47:24]  with bassoon mouthpieces
+[00:47:24 -> 00:47:27]  that could never be recorded
+[00:47:27 -> 00:47:30]  with a real orchestra.
+[00:47:30 -> 00:47:33]  There is even a passage
+[00:47:33 -> 00:47:36]  for 60 e-player bass trumpets
+[00:47:36 -> 00:47:39]  with bassoon mouthpieces
+[00:47:39 -> 00:47:42]  that could never be recorded
+[00:47:42 -> 00:47:45]  with a real orchestra.
+[00:47:45 -> 00:47:48]  There is even a passage
+[00:47:48 -> 00:47:51]  for 60 e-player bass trumpets
+[00:47:51 -> 00:47:54]  with bassoon mouthpieces
+[00:47:54 -> 00:47:57]  that could never be recorded
+[00:47:57 -> 00:48:00]  with a real orchestra.
+[00:48:00 -> 00:48:03]  There is even a passage
+[00:48:03 -> 00:48:06]  for 60 e-player bass trumpets
+[00:48:06 -> 00:48:09]  with bassoon mouthpieces
+[00:48:09 -> 00:48:12]  that could never be recorded
+[00:48:12 -> 00:48:15]  with a real orchestra.
+[00:48:36 -> 00:48:39]  piano only, no vocals
+[00:49:06 -> 00:49:09]  piano only, no vocals
+[00:49:30 -> 00:49:33]  I would like to show you
+[00:49:33 -> 00:49:36]  a clip from the film
+[00:49:36 -> 00:49:39]  that was shown during the concert.
+[00:49:39 -> 00:49:42]  You will first see how the pianist
+[00:49:42 -> 00:49:45]  plays through the entire repertoire
+[00:49:45 -> 00:49:48]  of modern piano music
+[00:49:48 -> 00:49:51]  from Debussy to Stockhausen
+[00:49:51 -> 00:49:54]  to come up with new ideas.
+[00:49:54 -> 00:49:57]  Then she takes a cat
+[00:49:57 -> 00:50:00]  to the composer's studio
+[00:50:00 -> 00:50:03]  and the time for the empty set appears
+[00:50:03 -> 00:50:06]  which in this context means
+[00:50:06 -> 00:50:09]  that all assumptions and values
+[00:50:09 -> 00:50:12]  of new music should be suspended.
+[00:50:12 -> 00:50:15]  The piano concert makes a clear sweep
+[00:50:15 -> 00:50:18]  and seeks a radical new beginning.
+[00:50:18 -> 00:50:21]  The pianist searches together
+[00:50:21 -> 00:50:24]  with three trolls for a way out
+[00:50:24 -> 00:50:27]  of the so-called postmodern march.
+[00:50:27 -> 00:50:30]  These are pure e-player compositions
+[00:50:30 -> 00:50:33]  in which all vocal parts
+[00:50:33 -> 00:50:36]  were by Franz Heinrichson himself
+[00:50:36 -> 00:50:39]  sung and edited on the computer.
+[00:50:57 -> 00:51:00]  piano only, no vocals
+[00:51:27 -> 00:51:30]  piano only, no vocals
+[00:51:57 -> 00:52:00]  piano only, no vocals
+[00:52:27 -> 00:52:30]  piano only, no vocals
+[00:52:49 -> 00:52:52]  piano only, no vocals
+[00:56:27 -> 00:56:37]  ♪♪
+[00:56:37 -> 00:56:45]  ♪♪
+[00:56:45 -> 00:56:56]  Of course, one will have to wait and see which new self-description of art music will actually prevail in a digital music culture,
+[00:56:56 -> 00:57:06]  but I see the greatest innovation potential in this reflexive art music that operates in a content-aesthetic way.

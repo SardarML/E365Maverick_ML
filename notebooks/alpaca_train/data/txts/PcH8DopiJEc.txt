@@ -1,0 +1,327 @@
+[00:00:00 -> 00:00:05]  Welcome to Talking Tuesday.
+[00:00:05 -> 00:00:08]  I am your host, Fancy Quant, and today we are going to talk about the perspective of
+[00:00:08 -> 00:00:13]  being a manager, and just more specifically, me being a manager.
+[00:00:13 -> 00:00:20]  So I've done this over the years, past firms, you know, you do the typical growth progression
+[00:00:20 -> 00:00:22]  or at least you should.
+[00:00:22 -> 00:00:26]  If you don't, you miss out on a lot of, I think, perspectives as you grow up, but you
+[00:00:26 -> 00:00:31]  start typically as an individual contributor, so you're the person that's actually doing
+[00:00:31 -> 00:00:32]  the work.
+[00:00:32 -> 00:00:38]  So you start your job, you're just an employee just getting stuff assigned to you, and you
+[00:00:38 -> 00:00:41]  just do what they tell you to do, and hopefully if you work somewhere good, you have a really
+[00:00:41 -> 00:00:47]  good learning curve, and you learn a lot in the first few years, and then as you probably
+[00:00:47 -> 00:00:53]  get into about five years, you're probably doing project management or team management,
+[00:00:53 -> 00:00:57]  and from a quant perspective, this is not what most people think.
+[00:00:57 -> 00:01:01]  So the way that I view this, the way I think it should be done, the way it's been done
+[00:01:01 -> 00:01:06]  at most of the firms I'm at, you're an individual contributor, and then as you become like a
+[00:01:06 -> 00:01:12]  manager essentially, you don't really have direct reports in this kind of gray area here,
+[00:01:12 -> 00:01:17]  you're like a vice president-ish, I don't know what you want to call it in other terms,
+[00:01:17 -> 00:01:21]  but you're going to be in a position where essentially you're running teams on projects.
+[00:01:21 -> 00:01:25]  So originally you were working for someone on projects and just getting stuff done.
+[00:01:25 -> 00:01:29]  Now you have like a managing director who just gives you projects, and you just need
+[00:01:29 -> 00:01:35]  to complete them, and you're assigned typically one or two junior employees to help you with
+[00:01:35 -> 00:01:37]  a lot of analytical work and a lot of the model development work here.
+[00:01:37 -> 00:01:42]  So I think it's a good spot to be in, in the sense that you actually have to still do the
+[00:01:42 -> 00:01:43]  work.
+[00:01:43 -> 00:01:45]  You don't get to just tell people what to do, which I think a lot of people think like,
+[00:01:45 -> 00:01:49]  oh, as soon as I'm going to be a manager, I'm just going to tell people what to do,
+[00:01:49 -> 00:01:50]  and that's not what's happening.
+[00:01:50 -> 00:01:55]  You actually still have to do the work, and you have to manage, which doing both of them
+[00:01:55 -> 00:01:59]  is extremely challenging, but that's really what the job entails.
+[00:01:59 -> 00:02:04]  People in those positions, again, should have that backing of like five years of actual
+[00:02:04 -> 00:02:08]  hands-on individual contributor work doing that exact task.
+[00:02:08 -> 00:02:12]  So if you come from a different area and you're coming in, you probably should do it for a
+[00:02:12 -> 00:02:16]  while before you get going in that kind of middle ground of doing management management.
+[00:02:16 -> 00:02:18]  And then above that, you have more or less like team leads.
+[00:02:18 -> 00:02:20]  So I was the director.
+[00:02:20 -> 00:02:23]  So let me just lay out banking real quick for those of you that don't know.
+[00:02:23 -> 00:02:27]  Banking is typically analysts, associate, junior vice president, vice president, senior
+[00:02:27 -> 00:02:29]  vice president.
+[00:02:29 -> 00:02:33]  And you can argue perhaps once you get into like senior vice presidents where they fit.
+[00:02:33 -> 00:02:37]  But then typically you have like directors and like managing directors.
+[00:02:37 -> 00:02:41]  So I was an associate director, which was this weird gray area at the one firm.
+[00:02:41 -> 00:02:43]  I was managing employees on projects.
+[00:02:43 -> 00:02:47]  They would just offload entire things on me, and then I would get a few resources, which
+[00:02:47 -> 00:02:49]  was employees.
+[00:02:49 -> 00:02:53]  And you request specific ones that are better than others, and you just manage projects
+[00:02:53 -> 00:02:56]  and get the work done on that front.
+[00:02:56 -> 00:03:02]  Then when I started managing actual teams on the director level, that was a little bit
+[00:03:02 -> 00:03:06]  challenging, a little bit different now, because now you're more in the planning mastermind
+[00:03:06 -> 00:03:12]  phases of trying to get all the pieces in the right place, make sure everybody's working,
+[00:03:12 -> 00:03:14]  make sure things are getting done.
+[00:03:14 -> 00:03:18]  And then you start worrying about more or less like employee health.
+[00:03:18 -> 00:03:24]  So even now I'm running an entire department trying to build a quant department at a fintech
+[00:03:24 -> 00:03:26]  firm here.
+[00:03:26 -> 00:03:30]  And it's similar to this in the sense that I'm still having to mastermind everything
+[00:03:30 -> 00:03:31]  together.
+[00:03:31 -> 00:03:35]  But now there is a lot more in the sense that I'm having to interact with all of the other
+[00:03:35 -> 00:03:37]  departments outside of me.
+[00:03:37 -> 00:03:42]  So I was doing this somewhat before and I was a director.
+[00:03:42 -> 00:03:46]  And the fact that I would work with the data quality and data governance team, I worked
+[00:03:46 -> 00:03:51]  a lot with the model development team, we'd meet with business units that would need models
+[00:03:51 -> 00:03:52]  validated or developed.
+[00:03:52 -> 00:03:57]  And so I was spending quite a bit of time on that side, kind of putting all the pieces
+[00:03:57 -> 00:04:03]  together, writing really boring, tedious things like risk management policies, risk procedures,
+[00:04:03 -> 00:04:10]  frameworks for validations, work plans, documentation that you have to follow for validation procedures
+[00:04:10 -> 00:04:13]  and all that, employee training.
+[00:04:13 -> 00:04:16]  And so it starts to get a little more dicey in the sense that now when you had your true
+[00:04:16 -> 00:04:22]  love of doing math and stats, it starts to slip away from you and you can still kind
+[00:04:22 -> 00:04:24]  of do it when you have time.
+[00:04:24 -> 00:04:26]  You typically can throw a project error in there.
+[00:04:26 -> 00:04:27]  In real quants, we still want to do it.
+[00:04:27 -> 00:04:31]  So we don't just like offload everything and say like, good luck.
+[00:04:31 -> 00:04:35]  I'm just going to manage everything and I'm going to tell everyone what to do.
+[00:04:35 -> 00:04:37]  You actually still like to do it somewhat.
+[00:04:37 -> 00:04:41]  And it's part of the emotional battle of quants.
+[00:04:41 -> 00:04:45]  I agree with Steve Jobs in the sense that those that are the best managers are those
+[00:04:45 -> 00:04:47]  who don't want to be managers.
+[00:04:47 -> 00:04:52]  Like for me, I didn't get an MBA or like a business degree and I'm like, I'm going to
+[00:04:52 -> 00:04:55]  be a manager here and I'm going to tell people what to do.
+[00:04:55 -> 00:04:57]  And I think I'm really good at planning.
+[00:04:57 -> 00:05:01]  No, the best managers are those that actually know how to do the work because then you can
+[00:05:01 -> 00:05:05]  start figuring out how much time it actually takes to do it and you can better allocate
+[00:05:05 -> 00:05:06]  the work.
+[00:05:06 -> 00:05:10]  Now, one of the big struggles here with allocating work, which a lot of employees I don't think
+[00:05:10 -> 00:05:14]  see is that every employee often thinks they can do everything.
+[00:05:14 -> 00:05:16]  Unfortunately, that's not really how it is.
+[00:05:16 -> 00:05:19]  It's typically everybody has strengths.
+[00:05:19 -> 00:05:22]  So I'd have like managing directors ask you to do what projects have you done?
+[00:05:22 -> 00:05:27]  What types of you know, have you ever done a mortgage default model before?
+[00:05:27 -> 00:05:30]  Have you ever done like a and they're like going through these questions?
+[00:05:30 -> 00:05:33]  And I always thought like, it's a model, I can build anything.
+[00:05:33 -> 00:05:37]  But when you get into the management levels, you realize a lot of times you don't have
+[00:05:37 -> 00:05:41]  time to hands on manage each and every employee and train them.
+[00:05:41 -> 00:05:47]  And so to do that, you need to have those middle layers like the, you know, vice presidents
+[00:05:47 -> 00:05:51]  and all that and associate directors and those sorts of things doing that.
+[00:05:51 -> 00:05:55]  But you need to be able to match up the skill levels with the teams because it makes the
+[00:05:55 -> 00:05:57]  projects go a lot smoother.
+[00:05:57 -> 00:06:00]  You end up with a lot more quality work.
+[00:06:00 -> 00:06:04]  And so it's easier just to give teams that are qualified to do the work to work.
+[00:06:04 -> 00:06:07]  And then also you have to balance the fact that employees want to grow and do something
+[00:06:07 -> 00:06:11]  different and new and try to figure out, you know, how do you set those sorts of teams
+[00:06:11 -> 00:06:12]  up as well.
+[00:06:12 -> 00:06:16]  So maybe I have an associate director or a, you know, vice president who's stellar, is
+[00:06:16 -> 00:06:21]  a rock star at, I don't know, let's say see car modeling.
+[00:06:21 -> 00:06:24]  And I'm going to take this individual, I'm going to put someone new that's coming from
+[00:06:24 -> 00:06:27]  a background like market risk, and I'm going to throw them underneath of them.
+[00:06:27 -> 00:06:32]  And they're going to do time series applications within like a regulatory stress testing framework.
+[00:06:32 -> 00:06:36]  And so it gives them an opportunity to learn and grow and put all that together.
+[00:06:36 -> 00:06:40]  So these are the things you start to struggle with as you get more to a manager level is
+[00:06:40 -> 00:06:45]  how do you look at the work and review the work without being in the weeds every single
+[00:06:45 -> 00:06:46]  day.
+[00:06:46 -> 00:06:51]  And that is an extremely challenging aspect if you don't have a really, really good qualified
+[00:06:51 -> 00:06:53]  team around you.
+[00:06:53 -> 00:06:58]  Now, my new job in the fintech world has been wanting me to talk more about it.
+[00:06:58 -> 00:07:01]  We're a super, super small team.
+[00:07:01 -> 00:07:05]  There's only three of us, myself included at the time of this recording.
+[00:07:05 -> 00:07:08]  And so we are doing all of the model development.
+[00:07:08 -> 00:07:14]  We'll eventually be putting a model validation model risk management team into that structure.
+[00:07:14 -> 00:07:19]  We will also be doing like economic and scenario forecasting and some other things again, it's
+[00:07:19 -> 00:07:21]  kind of fall that model development side.
+[00:07:21 -> 00:07:25]  And really anything that falls under risk at this time is kind of falling under myself.
+[00:07:25 -> 00:07:31]  So again, having a small team, though, it is extremely challenging in that sense that
+[00:07:31 -> 00:07:35]  you have to kind of be able to do more multiple roles here.
+[00:07:35 -> 00:07:39]  We don't have a lot of layers and I'm currently trying to bring in people in that middle layer
+[00:07:39 -> 00:07:45]  here where they can actually train and do hands on training with the employees.
+[00:07:45 -> 00:07:49]  But doing that plan, I think that's the struggle part as a manager is how do you find people
+[00:07:49 -> 00:07:51]  to fit in the right roles?
+[00:07:51 -> 00:07:55]  When employees don't fit the correct roles that they want to be in, how do you train
+[00:07:55 -> 00:07:58]  them and get them up to that speed?
+[00:07:58 -> 00:08:03]  I know that's why a lot of businesses require like master's and PhDs over undergrads, even
+[00:08:03 -> 00:08:11]  at a master's and PhD level, there is a massive amount of training that goes into employees.
+[00:08:11 -> 00:08:14]  If they're not employing you, they're just throwing work at you and you're just doing
+[00:08:14 -> 00:08:19]  work and you have no feedback, if it's good or bad, you're not in a good spot.
+[00:08:19 -> 00:08:22]  It's a big investment and it's a huge challenge.
+[00:08:22 -> 00:08:28]  For me, the worst part of any management job is all the planning pieces of it.
+[00:08:28 -> 00:08:32]  Unfortunately, I don't trust other people doing that for me because I need to be able
+[00:08:32 -> 00:08:37]  to see how the pieces are moving and who's going where and the quality of the work and
+[00:08:37 -> 00:08:39]  being able to line these things out.
+[00:08:39 -> 00:08:44]  But the goal, as I kind of mentioned in another episode, maybe before or after this one, I
+[00:08:44 -> 00:08:45]  don't remember.
+[00:08:45 -> 00:08:49]  The goal, though, is to get that quant pipeline built out where it's like your employees are
+[00:08:49 -> 00:08:54]  coming in to do quant work and they're super excited to build models and validate models
+[00:08:54 -> 00:08:58]  and they just love data and modeling and that is what they're going to do.
+[00:08:58 -> 00:09:02]  As a manager, part of your job is how do you strip away all the nonsensical layers and
+[00:09:02 -> 00:09:06]  pieces around them, as I've kind of mentioned in there, like the meetings and the other
+[00:09:06 -> 00:09:09]  departments that are coming and saying, hey, I know you're really good at this.
+[00:09:09 -> 00:09:11]  Could you help me with this other side project?
+[00:09:11 -> 00:09:15]  And then hopefully they can say no and if not, as a manager, I'm having to step in and
+[00:09:15 -> 00:09:18]  say, you know, oh, you can't use my employees to do this, that and the other.
+[00:09:18 -> 00:09:20]  They're kind of busy on these other projects.
+[00:09:20 -> 00:09:24]  And so keeping them in line is a challenging piece.
+[00:09:24 -> 00:09:28]  And once you can get that dialed in, though, it's pure bliss.
+[00:09:28 -> 00:09:32]  But getting to that point is going to be a real challenge here in the current world,
+[00:09:32 -> 00:09:35]  just because it's a new firm and a new startup in a new department.
+[00:09:35 -> 00:09:38]  This is one of those things where I really miss the banking side.
+[00:09:38 -> 00:09:41]  I miss having these massive teams.
+[00:09:41 -> 00:09:49]  And even in my one of my previous jobs, we had a validation team of 30 people as validation.
+[00:09:49 -> 00:09:52]  So the actual validators and the governance people all in one team.
+[00:09:52 -> 00:09:55]  This was a large, massive bank.
+[00:09:55 -> 00:09:59]  It was a U.S. division of a global bank.
+[00:09:59 -> 00:10:05]  And we had essentially on my team, four people that only did an entire business section,
+[00:10:05 -> 00:10:09]  which was like 84 models, I believe, I recall off the top of my head.
+[00:10:09 -> 00:10:13]  So there's 84 models in this business and there's only four validators.
+[00:10:13 -> 00:10:18]  And we were mean and lean and we were just getting things done left and right.
+[00:10:18 -> 00:10:20]  And of course, everyone is complaining we were always behind.
+[00:10:20 -> 00:10:23]  But then when you looked at other teams, they'd have like six or eight or 10 people.
+[00:10:23 -> 00:10:27]  And they had like 20 to 30 models between those teams.
+[00:10:27 -> 00:10:30]  So again, I want to get back to that lean, mean team.
+[00:10:30 -> 00:10:32]  I want to be able to get people in these pipelines.
+[00:10:32 -> 00:10:36]  As a manager, things start moving a lot faster.
+[00:10:36 -> 00:10:38]  You start getting a lot more success.
+[00:10:38 -> 00:10:41]  You start getting a lot more happiness out of this as the employees.
+[00:10:41 -> 00:10:48]  As a manager, when people start hitting their stride, like back in 2000 and probably the
+[00:10:48 -> 00:10:55]  fall and spring of 2014, I was just churning like, man, it was beautiful.
+[00:10:55 -> 00:10:56]  It was the dream days.
+[00:10:56 -> 00:10:58]  It was when I was just working constantly.
+[00:10:58 -> 00:11:00]  I had minimal projects lined up.
+[00:11:00 -> 00:11:05]  I was working for a few directors in economics, implementation and model development all at
+[00:11:05 -> 00:11:06]  the same time.
+[00:11:06 -> 00:11:10]  Again, not doing validation because that'd be a violation of the SR 11.7.
+[00:11:10 -> 00:11:11]  But it was beautiful.
+[00:11:11 -> 00:11:15]  And then I went into another bank, worked there a few years, took me a few years to
+[00:11:15 -> 00:11:16]  get my feet under me.
+[00:11:16 -> 00:11:18]  And then I had a good managing director.
+[00:11:18 -> 00:11:23]  And again, the strides were coming and it was just churning out the work, doing the
+[00:11:23 -> 00:11:25]  models faster and better than everybody else.
+[00:11:25 -> 00:11:29]  And our team is, again, the cohesion between the team members.
+[00:11:29 -> 00:11:32]  We were just one unit.
+[00:11:32 -> 00:11:36]  At least two of us on the team were just in lockstep and everything that was coming through
+[00:11:36 -> 00:11:40]  the door, big projects, super important projects, small projects, anything coming through was
+[00:11:40 -> 00:11:42]  just getting churned out really fast.
+[00:11:42 -> 00:11:46]  And so as a manager, that's what you're hoping to get to.
+[00:11:46 -> 00:11:51]  But how do you get there is a lot harder than just hire right people or just train them
+[00:11:51 -> 00:11:53]  for a month.
+[00:11:53 -> 00:11:58]  It takes a lot of effort on the cultural side of getting everyone to fit together correctly.
+[00:11:58 -> 00:12:01]  Not everyone's going to get along, which is always a challenge.
+[00:12:01 -> 00:12:04]  And then assigning the work correctly and the progress and making sure everybody's happy
+[00:12:04 -> 00:12:06]  with what they're getting.
+[00:12:06 -> 00:12:11]  And then again, putting all this together so that it's a nice functional process here.
+[00:12:11 -> 00:12:16]  And my absolute favorite part here of being a manager, basically everywhere I've worked,
+[00:12:16 -> 00:12:21]  any projects I've worked on, even at the bottom, is always education and training.
+[00:12:21 -> 00:12:24]  I absolutely love it.
+[00:12:24 -> 00:12:28]  So I currently have a new hire that came straight out of the grad program, and we are building
+[00:12:28 -> 00:12:30]  models together.
+[00:12:30 -> 00:12:34]  And I'm acting like that VP layer where it's like they have a project.
+[00:12:34 -> 00:12:37]  I assign them the task, they need to go just build this model.
+[00:12:37 -> 00:12:41]  But I've, of course, broken it down up into the processes of how I go through the documentation
+[00:12:41 -> 00:12:42]  and my workflow.
+[00:12:42 -> 00:12:46]  And I say, OK, work on this piece first, and then they start working on that and they're
+[00:12:46 -> 00:12:49]  running with it and they're excited and they're getting a lot of stuff done.
+[00:12:49 -> 00:12:52]  And then, you know, they have all these questions or they give me feedback on this is what I
+[00:12:52 -> 00:12:53]  did.
+[00:12:53 -> 00:12:54]  This is what's coming out of it.
+[00:12:54 -> 00:12:55]  And I'm looking at it.
+[00:12:55 -> 00:12:58]  I'm like, OK, you know, I'm getting all excited in my head.
+[00:12:58 -> 00:13:00]  I mean, they don't see this probably, but I'm like all jazzed up.
+[00:13:00 -> 00:13:04]  And if I get on the whiteboard, like, you know, you're doing something right.
+[00:13:04 -> 00:13:08]  But we have meetings that get together and I'm in the office and I get on the whiteboard
+[00:13:08 -> 00:13:12]  and I'm writing out like explaining, you know, populations and samples and distributions
+[00:13:12 -> 00:13:15]  and why this is coming into here and how this data plays into this.
+[00:13:15 -> 00:13:18]  And then you have these metrics that come off of this and they don't teach you this
+[00:13:18 -> 00:13:19]  at school.
+[00:13:19 -> 00:13:23]  I'm getting really excited about the teaching part and I just absolutely love it.
+[00:13:23 -> 00:13:27]  So this has been like the biggest win and reward here at the Fintech so far is the fact
+[00:13:27 -> 00:13:32]  that I haven't just resorted to bringing in a bunch of experienced hires.
+[00:13:32 -> 00:13:35]  I've brought in so far one junior hire.
+[00:13:35 -> 00:13:38]  I would like to bring in more again.
+[00:13:38 -> 00:13:45]  I have a very, very specific individual that I want and need to come in at the senior level
+[00:13:45 -> 00:13:49]  and help me do the training and help me get the processes done so I can spend more time
+[00:13:49 -> 00:13:52]  probably on the not so fun parts.
+[00:13:52 -> 00:13:55]  But again, that training piece is just that's where I strive.
+[00:13:55 -> 00:13:56]  Like, I love it.
+[00:13:56 -> 00:14:00]  I love being in the teaching position and I love it a lot more than doing YouTube in
+[00:14:00 -> 00:14:06]  the sense that YouTube, I can explain things sometimes when people can't ask questions,
+[00:14:06 -> 00:14:07]  which is why online learning sucks.
+[00:14:07 -> 00:14:10]  And then also the other piece is like, I don't have a real problem.
+[00:14:10 -> 00:14:12]  I can give you on the Internet.
+[00:14:12 -> 00:14:16]  Like I can't say here's this awesome data and it's for a real company and we're building
+[00:14:16 -> 00:14:17]  this model.
+[00:14:17 -> 00:14:21]  And by the way, like you see how this thing isn't working correctly and you see how this
+[00:14:21 -> 00:14:24]  doesn't work and you're like, you know, you're frustrated as the developer and I'm showing
+[00:14:24 -> 00:14:28]  you cool things like this is why these exist and this is how you fix problems.
+[00:14:28 -> 00:14:30]  I would love to be able to do those on the Internet.
+[00:14:30 -> 00:14:34]  But the problem is you can't because all those actual real world problems on real data sets
+[00:14:34 -> 00:14:37]  one take a lot of time.
+[00:14:37 -> 00:14:41]  So again, new employees a lot of times think they're going to build things really quickly
+[00:14:41 -> 00:14:46]  or those that transfer from other departments or, you know, other banks, institutions that
+[00:14:46 -> 00:14:48]  aren't used to doing this very well.
+[00:14:48 -> 00:14:52]  You should be on a problem for months because it takes at least a few months to really get
+[00:14:52 -> 00:14:56]  into the nitty gritty details in the weeds on this and doing these teaching parts.
+[00:14:56 -> 00:14:58]  But it has been a blast guy.
+[00:14:58 -> 00:15:03]  This is probably the most rewarding piece of the entire process is really twofold.
+[00:15:03 -> 00:15:07]  One if you can get a team up and you can get it running and processing and everything clicking
+[00:15:07 -> 00:15:09]  along and you have results coming out the door.
+[00:15:09 -> 00:15:11]  I am nowhere near that right now.
+[00:15:11 -> 00:15:16]  And the other piece is just the intermediary piece of just being able to teach and build
+[00:15:16 -> 00:15:21]  people's careers and help them kind of get going, which is what I just I love doing.
+[00:15:21 -> 00:15:26]  It's why I like to go to university so much and talk to students and do presentations.
+[00:15:26 -> 00:15:27]  I just love teaching.
+[00:15:27 -> 00:15:30]  It's my absolute favorite thing.
+[00:15:30 -> 00:15:33]  One because I just nerd out and get real detailed about things.
+[00:15:33 -> 00:15:37]  And then I find out people just don't know things which I just assume, you know, and
+[00:15:37 -> 00:15:40]  then it just gets me all excited to explain and teach it.
+[00:15:40 -> 00:15:42]  It's also great to to see these in the long run.
+[00:15:42 -> 00:15:46]  So I've had some students I've worked with, again, not professionally, but those on the
+[00:15:46 -> 00:15:47]  YouTube channel.
+[00:15:47 -> 00:15:53]  And they've had just a lot of questions and it's a detailed and it's very to the point
+[00:15:53 -> 00:15:56]  and their intellectual questions and they're smart.
+[00:15:56 -> 00:15:59]  And then I see these individuals and they graduate and they leave and they go into the
+[00:15:59 -> 00:16:00]  industry.
+[00:16:00 -> 00:16:04]  And then they're starting to get these really good jobs and they're learning more and more
+[00:16:04 -> 00:16:05]  and more.
+[00:16:05 -> 00:16:09]  And then they write me a letter, an email or the message on LinkedIn like, Dimitri,
+[00:16:09 -> 00:16:11]  this one to thank you for helping me with, you know, my career and stuff.
+[00:16:11 -> 00:16:12]  I'm here.
+[00:16:12 -> 00:16:14]  I'm doing this and explain everything that's going on.
+[00:16:14 -> 00:16:18]  And they thank me for my time, for helping train them and teach them.
+[00:16:18 -> 00:16:23]  That is the most rewarding piece of everything out of the podcast, the YouTube channel.
+[00:16:23 -> 00:16:26]  It's really seeing like the impact of it, right?
+[00:16:26 -> 00:16:29]  They're doing all the work, just like when I have employees working for me, they're doing
+[00:16:29 -> 00:16:31]  all the work.
+[00:16:31 -> 00:16:35]  But it's, it's the teaching and the guidance piece that's just really like, it just makes
+[00:16:35 -> 00:16:36]  me excited.
+[00:16:36 -> 00:16:37]  It's the piece that drives me guys.
+[00:16:37 -> 00:16:41]  It's not really coming in and I get, this is where my big frustration comes in with
+[00:16:41 -> 00:16:43]  those of you that I want to be a trader.
+[00:16:43 -> 00:16:46]  All you care about is money and I just don't care.
+[00:16:46 -> 00:16:50]  Like people can talk about finances and money and it's like, yeah, I can explain this.
+[00:16:50 -> 00:16:52]  And yes, I have a finance degree.
+[00:16:52 -> 00:16:56]  So I've gone through all the traditional finance routes.
+[00:16:56 -> 00:17:00]  I've taken financial engineering courses and quantitative finance and statistics.
+[00:17:00 -> 00:17:05]  But the math and stats like in the model building and like the data and gleaning the, the cool
+[00:17:05 -> 00:17:09]  details and information that you just don't learn in school or they're not easy things
+[00:17:09 -> 00:17:13]  to figure out, like teaching that to someone else so that they can apply it and then seeing
+[00:17:13 -> 00:17:16]  them succeed, that's, that's like the gold for me.
+[00:17:16 -> 00:17:20]  So being a manager, guys, it's a lot more challenging than you think.
+[00:17:20 -> 00:17:23]  I had an old colleague that used to say, you know, managers just look at charts and read
+[00:17:23 -> 00:17:25]  charts and anybody can do that.
+[00:17:25 -> 00:17:29]  But individual contributors are, they're the ones that are really slaving away.
+[00:17:29 -> 00:17:32]  You don't see behind the scenes.
+[00:17:32 -> 00:17:37]  So all the work that goes into employee development, uh, dealing with other departments, uh, planning,
+[00:17:37 -> 00:17:40]  training and everything else that kind of stacks into that.
+[00:17:40 -> 00:17:44]  Like I wish like my best days are days when I can just shut down sometimes and I, I turn
+[00:17:44 -> 00:17:49]  off my slack and I turn off my email and people can't get ahold of me and they're probably
+[00:17:49 -> 00:17:50]  wondering why.
+[00:17:50 -> 00:17:53]  Uh, I'm actually coding cause I want to build models and there's a piece of me that loves
+[00:17:53 -> 00:17:54]  doing that still.
+[00:17:54 -> 00:17:59]  But as you get up into the management layers, uh, doing the hiring process takes a bunch
+[00:17:59 -> 00:18:00]  of effort.
+[00:18:00 -> 00:18:01]  If you have to fire anybody, it is a nightmare.
+[00:18:01 -> 00:18:03]  It is not a fun process to do.
+[00:18:03 -> 00:18:07]  And then planning and getting all the pieces all put together again is just a boring, tedious
+[00:18:07 -> 00:18:08]  process of doing all that.
+[00:18:08 -> 00:18:13]  And then when you have employees that are mad about not being on the right projects,
+[00:18:13 -> 00:18:14]  it's just a nightmare.
+[00:18:14 -> 00:18:18]  So again, the training and teaching piece, that's where the reward comes from.
+[00:18:18 -> 00:18:20]  Uh, again, being able to still touch projects.
+[00:18:20 -> 00:18:25]  I still believe that every quant, no matter your level, uh, should be still programming
+[00:18:25 -> 00:18:26]  and modeling to some respect.
+[00:18:27 -> 00:18:32]  Again, even if you became like a chief risk officer, uh, I would expect you would have,
+[00:18:32 -> 00:18:37]  you know, some insights, some time in with the developers or the validators really digging
+[00:18:37 -> 00:18:39]  into the problems and the issues and making sure it's done correctly.
+[00:18:39 -> 00:18:43]  Um, but again, you're the higher up you go, you just don't have time to do all the nitty
+[00:18:43 -> 00:18:48]  gritty details, which seemed tedious at the time, but they are the most fun part of being
+[00:18:48 -> 00:18:49]  a quant.
+[00:18:49 -> 00:18:50]  So anyways, thanks for listening.
+[00:18:50 -> 00:18:51]  Thanks for watching.
+[00:18:51 -> 00:18:52]  And as always, until next time.

@@ -1,0 +1,378 @@
+[00:00:00 -> 00:00:01]  Hey Econ students, this is Jacob Clifford.
+[00:00:01 -> 00:00:03]  If you're enrolled in an AP
+[00:00:03 -> 00:00:05]  or a college introductory macroeconomics class,
+[00:00:05 -> 00:00:07]  this is probably the most important video
+[00:00:07 -> 00:00:08]  that you're ever gonna watch.
+[00:00:08 -> 00:00:11]  I'm gonna cover every single graph that you need to know
+[00:00:11 -> 00:00:13]  and explain how they interact with each other.
+[00:00:13 -> 00:00:18]  The first graph that you learn in any economics class
+[00:00:19 -> 00:00:22]  is the production possibilities curve or frontier.
+[00:00:22 -> 00:00:24]  It's super easy, it shows you an economy
+[00:00:24 -> 00:00:26]  that can produce either consumer goods or capital goods,
+[00:00:26 -> 00:00:29]  and this line represents the total amount of goods
+[00:00:29 -> 00:00:31]  we can produce using all of our resources.
+[00:00:31 -> 00:00:33]  So any point outside the curve is impossible.
+[00:00:33 -> 00:00:35]  We can't produce it because we don't have enough resources,
+[00:00:35 -> 00:00:37]  and any point on the curve is efficient
+[00:00:37 -> 00:00:40]  because we're using all of our resources to the max.
+[00:00:40 -> 00:00:43]  Any point inside the curve is inefficient.
+[00:00:43 -> 00:00:44]  We could be producing more
+[00:00:44 -> 00:00:46]  and we're not utilizing our resources,
+[00:00:46 -> 00:00:48]  and that shows the concept of unemployment.
+[00:00:48 -> 00:00:50]  And in unit two, you expand on this,
+[00:00:50 -> 00:00:52]  you learn there's actually three types of unemployment.
+[00:00:52 -> 00:00:55]  There's frictional, structural, and cyclical.
+[00:00:55 -> 00:00:57]  Even when the economy is doing great,
+[00:00:57 -> 00:00:59]  you're still gonna have two types of unemployment.
+[00:00:59 -> 00:01:01]  You're gonna have people between jobs,
+[00:01:01 -> 00:01:02]  frictionally unemployed,
+[00:01:02 -> 00:01:03]  and you have people being replaced by robots,
+[00:01:03 -> 00:01:05]  so structural unemployment.
+[00:01:05 -> 00:01:07]  So this line represents the idea of full employment.
+[00:01:07 -> 00:01:09]  No matter what, even if the economy is doing great,
+[00:01:09 -> 00:01:12]  we're still gonna have something like 5% unemployment.
+[00:01:12 -> 00:01:13]  But if the economy were to tank
+[00:01:13 -> 00:01:15]  and there'd be a decrease in consumer spending
+[00:01:15 -> 00:01:17]  and we have more unemployment, that would put us here.
+[00:01:17 -> 00:01:21]  We'd have frictional, structural, and cyclical unemployment.
+[00:01:21 -> 00:01:24]  And this represents the idea of a recession.
+[00:01:24 -> 00:01:26]  Okay, but what if the economy is doing really well
+[00:01:27 -> 00:01:29]  and we have something like only 2% unemployment?
+[00:01:29 -> 00:01:31]  To show that concept, let's add another line.
+[00:01:31 -> 00:01:32]  Now, this is not a shift
+[00:01:32 -> 00:01:34]  in the production possibilities curve.
+[00:01:34 -> 00:01:37]  This just represents 0% unemployment.
+[00:01:37 -> 00:01:38]  There's no frictional, there's no structural.
+[00:01:38 -> 00:01:40]  Everyone is working.
+[00:01:40 -> 00:01:41]  So if there's a whole lot of economic activity
+[00:01:41 -> 00:01:44]  and unemployment falls from 5% to only 2%,
+[00:01:44 -> 00:01:46]  that would be a move right here.
+[00:01:46 -> 00:01:47]  We're producing a lot of stuff
+[00:01:47 -> 00:01:48]  and we're here in the short run,
+[00:01:48 -> 00:01:50]  but it can't stay there in the long run.
+[00:01:50 -> 00:01:52]  It's not sustainable.
+[00:01:52 -> 00:01:53]  I'll talk more about that later.
+[00:01:53 -> 00:01:55]  For now, the important thing is to see
+[00:01:55 -> 00:01:56]  that this graph shows the economy
+[00:01:56 -> 00:01:58]  can only be in one of three places.
+[00:01:58 -> 00:02:01]  We can have a recession, we can have full employment,
+[00:02:01 -> 00:02:03]  or we can have an inflationary gap
+[00:02:03 -> 00:02:04]  with the economy overheating.
+[00:02:04 -> 00:02:06]  And all those concepts can be shown
+[00:02:06 -> 00:02:08]  on the second graph you learn, the business cycle.
+[00:02:08 -> 00:02:10]  Now, this is not one of those graphs
+[00:02:10 -> 00:02:12]  that your teacher or professor is gonna make you draw,
+[00:02:12 -> 00:02:14]  but it is gonna help you understand the concepts.
+[00:02:14 -> 00:02:16]  The economy goes down and up over time
+[00:02:16 -> 00:02:18]  and it creates a trend line
+[00:02:18 -> 00:02:20]  and that represents the idea of full employment.
+[00:02:20 -> 00:02:22]  When the economy experiences a recession,
+[00:02:22 -> 00:02:24]  there's a decrease in GDP and unemployment increases.
+[00:02:24 -> 00:02:26]  So we have frictional, structural,
+[00:02:26 -> 00:02:28]  and cyclical unemployment.
+[00:02:28 -> 00:02:29]  Then there's a recovery.
+[00:02:29 -> 00:02:31]  Unemployment starts to go down.
+[00:02:31 -> 00:02:33]  We end up at full employment
+[00:02:33 -> 00:02:35]  with only frictional and structural.
+[00:02:35 -> 00:02:36]  And if there's even more spending,
+[00:02:36 -> 00:02:39]  we can end up up here where we have frictional and structural
+[00:02:39 -> 00:02:42]  but just really small and we have a inflationary gap.
+[00:02:42 -> 00:02:44]  There's super low unemployment
+[00:02:44 -> 00:02:46]  and the economy is overheating.
+[00:02:46 -> 00:02:47]  And again, notice the economy
+[00:02:47 -> 00:02:49]  can only be in one of three places.
+[00:02:49 -> 00:02:50]  We can have a recessionary gap,
+[00:02:50 -> 00:02:52]  full employment, or an inflationary gap.
+[00:02:52 -> 00:02:54]  Now let's do that all over again
+[00:02:54 -> 00:02:56]  with the most important graph you need to know
+[00:02:56 -> 00:02:58]  for your macroeconomics class,
+[00:02:58 -> 00:03:00]  aggregate demand and aggregate supply.
+[00:03:00 -> 00:03:02]  This graph shows you the demand for everything
+[00:03:02 -> 00:03:03]  and the supply for everything.
+[00:03:03 -> 00:03:04]  And it sets the real GDP,
+[00:03:04 -> 00:03:07]  the amount we're gonna produce in the economy.
+[00:03:07 -> 00:03:09]  Let's start by saying we're producing at full employment.
+[00:03:09 -> 00:03:11]  We only have frictional and structural unemployment,
+[00:03:11 -> 00:03:13]  no cyclical unemployment.
+[00:03:13 -> 00:03:15]  If consumer spending were to fall,
+[00:03:15 -> 00:03:16]  then aggregate demand would shift to the left
+[00:03:16 -> 00:03:18]  and unemployment would increase.
+[00:03:18 -> 00:03:20]  So now we have frictional, structural,
+[00:03:20 -> 00:03:21]  and cyclical unemployment
+[00:03:21 -> 00:03:23]  and we're producing an output that's less
+[00:03:23 -> 00:03:25]  than our full employment output.
+[00:03:25 -> 00:03:28]  That's why this is called a negative output gap.
+[00:03:28 -> 00:03:29]  Now the government might come in
+[00:03:29 -> 00:03:31]  to use fiscal policy to close the gap
+[00:03:31 -> 00:03:33]  or the central bank might come in and use monetary policy,
+[00:03:33 -> 00:03:35]  but let's just assume we wait it out.
+[00:03:35 -> 00:03:37]  Over time, the economy self-adjusts.
+[00:03:37 -> 00:03:39]  The price of all these unused resources
+[00:03:39 -> 00:03:41]  and unused workers will eventually fall.
+[00:03:41 -> 00:03:43]  That'll mean producers can produce more stuff.
+[00:03:43 -> 00:03:45]  So the aggregate supply will shift to the right,
+[00:03:45 -> 00:03:47]  putting us back at full employment.
+[00:03:47 -> 00:03:49]  Let me show you that again
+[00:03:49 -> 00:03:51]  on the three graphs that we've covered so far.
+[00:03:51 -> 00:03:52]  We start at full employment
+[00:03:52 -> 00:03:54]  where there's only frictional and structural unemployment,
+[00:03:54 -> 00:03:56]  but then consumer spending falls,
+[00:03:56 -> 00:03:57]  there's a decrease in GDP,
+[00:03:57 -> 00:04:00]  and an increase in unemployment,
+[00:04:00 -> 00:04:02]  and we end up with a recessionary gap
+[00:04:02 -> 00:04:03]  or a negative output gap.
+[00:04:03 -> 00:04:05]  But that's just the short run.
+[00:04:05 -> 00:04:07]  In the long run, eventually, over time,
+[00:04:07 -> 00:04:10]  wages and resource prices will fall,
+[00:04:10 -> 00:04:11]  aggregate supply will increase,
+[00:04:11 -> 00:04:14]  and we'll end up here back in the long run.
+[00:04:14 -> 00:04:16]  And that explains why the long run
+[00:04:16 -> 00:04:17]  aggregate supply curve is vertical.
+[00:04:17 -> 00:04:19]  The economy can move around in the short run,
+[00:04:19 -> 00:04:21]  but eventually it's gonna end up right here
+[00:04:21 -> 00:04:24]  in the long run at full employment.
+[00:04:24 -> 00:04:25]  Okay, let's do the other side.
+[00:04:25 -> 00:04:26]  Let's assume we're at full employment
+[00:04:26 -> 00:04:28]  and there's an increase in consumer spending.
+[00:04:28 -> 00:04:30]  So now aggregate demand increases,
+[00:04:30 -> 00:04:32]  unemployment starts to fall,
+[00:04:32 -> 00:04:35]  and we end up with a positive output gap
+[00:04:35 -> 00:04:36]  or an inflationary gap.
+[00:04:36 -> 00:04:37]  But that's just showing the short run.
+[00:04:37 -> 00:04:39]  Eventually, over time, in the long run,
+[00:04:39 -> 00:04:41]  with all that inflation,
+[00:04:41 -> 00:04:43]  the price of resources, the price of workers
+[00:04:43 -> 00:04:45]  is gonna increase, and that means less production.
+[00:04:45 -> 00:04:47]  So the supply is gonna shift to the left,
+[00:04:47 -> 00:04:50]  and in the long run, put us at full employment
+[00:04:50 -> 00:04:52]  at the long run aggregate supply.
+[00:04:52 -> 00:04:55]  So these same concepts can be shown on three graphs,
+[00:04:55 -> 00:04:56]  but there's actually one more.
+[00:04:56 -> 00:04:58]  You learn it in unit five.
+[00:04:58 -> 00:04:59]  It's called the Phillips curve.
+[00:04:59 -> 00:05:00]  The graph shows the relationship
+[00:05:00 -> 00:05:02]  between inflation and unemployment,
+[00:05:02 -> 00:05:04]  and the vertical long run Phillips curve
+[00:05:04 -> 00:05:06]  represents the idea of full employment,
+[00:05:06 -> 00:05:09]  only frictional and structural unemployment.
+[00:05:09 -> 00:05:10]  So we're gonna end up there in the long run,
+[00:05:10 -> 00:05:12]  but in the short run, we can have an economy
+[00:05:12 -> 00:05:14]  that's doing really bad with high unemployment,
+[00:05:14 -> 00:05:15]  but also low inflation,
+[00:05:15 -> 00:05:17]  and that would be a negative output gap,
+[00:05:17 -> 00:05:18]  a recessionary gap,
+[00:05:18 -> 00:05:20]  or we can have an economy with very low unemployment,
+[00:05:20 -> 00:05:21]  except more higher prices,
+[00:05:21 -> 00:05:23]  and have an inflationary gap, which is right here.
+[00:05:23 -> 00:05:25]  When you connect those dots,
+[00:05:25 -> 00:05:27]  you get the short run Phillips curve.
+[00:05:27 -> 00:05:28]  So again, the graph shows the economy
+[00:05:28 -> 00:05:30]  can only be in one of three places.
+[00:05:30 -> 00:05:32]  We can have a negative output gap, full employment,
+[00:05:32 -> 00:05:35]  or a positive output gap, inflationary gap.
+[00:05:35 -> 00:05:36]  Okay, now let's put all the graphs together
+[00:05:36 -> 00:05:39]  and show an economy at full employment.
+[00:05:39 -> 00:05:41]  If there's a decrease in consumer spending
+[00:05:41 -> 00:05:42]  or business spending or government spending,
+[00:05:42 -> 00:05:44]  the aggregate demand would decrease,
+[00:05:44 -> 00:05:47]  and we'd end up with a negative output gap
+[00:05:47 -> 00:05:48]  with high unemployment.
+[00:05:48 -> 00:05:49]  But that's just the short run.
+[00:05:49 -> 00:05:52]  Eventually, over time, the economy self-adjusts,
+[00:05:52 -> 00:05:54]  prices of resources and wages will fall,
+[00:05:54 -> 00:05:56]  aggregate supply will shift to the right,
+[00:05:56 -> 00:05:58]  putting us back at the long run.
+[00:05:58 -> 00:05:59]  But notice what happened on the Phillips curve.
+[00:05:59 -> 00:06:02]  When aggregate supply shifted to the right,
+[00:06:02 -> 00:06:03]  the price level fell and GDP increased,
+[00:06:03 -> 00:06:06]  and that ended up with less unemployment.
+[00:06:06 -> 00:06:08]  So that means the entire short run Phillips curve
+[00:06:08 -> 00:06:09]  had to shift.
+[00:06:09 -> 00:06:11]  Now, here's a tip that might help you.
+[00:06:11 -> 00:06:14]  Anytime there's an increase or a decrease in aggregate demand
+[00:06:14 -> 00:06:16]  that's gonna move along the short run Phillips curve,
+[00:06:17 -> 00:06:19]  but if the aggregate supply shifts,
+[00:06:19 -> 00:06:21]  that's going to shift the short run Phillips curve.
+[00:06:21 -> 00:06:23]  Boom, awesome.
+[00:06:23 -> 00:06:24]  You got it?
+[00:06:24 -> 00:06:25]  These four graphs are the most important
+[00:06:25 -> 00:06:27]  because they show you where the economy is
+[00:06:27 -> 00:06:29]  and how it changes,
+[00:06:29 -> 00:06:31]  and it's what your teacher or professor
+[00:06:31 -> 00:06:32]  is gonna make you draw.
+[00:06:32 -> 00:06:35]  And that's why I just added brand new free responses
+[00:06:35 -> 00:06:37]  for each unit in my ultimate review package.
+[00:06:37 -> 00:06:38]  Now, of course, I gave you the answer keys
+[00:06:38 -> 00:06:39]  so you can check your answers,
+[00:06:39 -> 00:06:42]  but I also made exclusive videos
+[00:06:42 -> 00:06:43]  to explain each one of the questions
+[00:06:43 -> 00:06:46]  and give you tips to make sure you totally get it.
+[00:06:46 -> 00:06:48]  Again, these are all inside my ultimate review packet.
+[00:06:48 -> 00:06:50]  The link is below.
+[00:06:50 -> 00:06:51]  The point here is make sure you can draw
+[00:06:51 -> 00:06:54]  each one of these graphs and show changes
+[00:06:54 -> 00:06:57]  of what happened in the short run and the long run.
+[00:06:57 -> 00:06:58]  But we're not done.
+[00:06:58 -> 00:07:00]  Let's take a look at this.
+[00:07:00 -> 00:07:01]  This is the money market graph.
+[00:07:01 -> 00:07:04]  It shows you the demand and supply for money.
+[00:07:04 -> 00:07:06]  Now, this is nothing like the other graphs you've learned.
+[00:07:06 -> 00:07:08]  We can't show you on this graph
+[00:07:08 -> 00:07:11]  where is a negative output gap or a positive output gap.
+[00:07:11 -> 00:07:12]  This is a policy graph.
+[00:07:12 -> 00:07:16]  Changes on this graph affect the other four graphs
+[00:07:16 -> 00:07:17]  that we already talked about.
+[00:07:17 -> 00:07:20]  And the key here is to understand the role of interest rates
+[00:07:20 -> 00:07:21]  and how it affects spending.
+[00:07:21 -> 00:07:23]  That vertical supply of money
+[00:07:23 -> 00:07:24]  is set by the country's central bank
+[00:07:24 -> 00:07:27]  and increasing it or decreasing it
+[00:07:27 -> 00:07:29]  to affect the interest rate is called monetary policy.
+[00:07:29 -> 00:07:32]  For example, let's assume the economy is in a recession,
+[00:07:32 -> 00:07:33]  there's high unemployment,
+[00:07:33 -> 00:07:34]  and we have a negative output gap.
+[00:07:34 -> 00:07:36]  The central bank wants to speed up the economy
+[00:07:36 -> 00:07:39]  so they increase the money supply by buying bonds.
+[00:07:39 -> 00:07:41]  This would mean there's more money out there
+[00:07:41 -> 00:07:42]  for banks to loan out
+[00:07:42 -> 00:07:44]  and that would drive down the nominal interest rate.
+[00:07:44 -> 00:07:46]  So now interest rates are lower
+[00:07:46 -> 00:07:48]  so it's easier for businesses and consumers
+[00:07:48 -> 00:07:49]  to take out loans.
+[00:07:49 -> 00:07:50]  That would mean more spending
+[00:07:50 -> 00:07:52]  and an increase in aggregate demand
+[00:07:52 -> 00:07:54]  that would close that negative output gap
+[00:07:54 -> 00:07:55]  putting us at full employment.
+[00:07:55 -> 00:07:57]  But again, notice we're not showing
+[00:07:57 -> 00:07:59]  the idea of a recession on this graph.
+[00:07:59 -> 00:08:01]  We're showing the changes in this graph
+[00:08:01 -> 00:08:03]  how they affect that graph.
+[00:08:03 -> 00:08:04]  Okay, let's do that over again,
+[00:08:04 -> 00:08:06]  except this time assume we have a positive output gap
+[00:08:06 -> 00:08:08]  so we have really low unemployment,
+[00:08:08 -> 00:08:10]  except high inflation, and we're here.
+[00:08:10 -> 00:08:13]  The central bank comes in, realizes it's got a problem,
+[00:08:13 -> 00:08:15]  it'll decrease the money supply,
+[00:08:15 -> 00:08:18]  which will cause the interest rate to increase.
+[00:08:18 -> 00:08:19]  Higher interest rate means less borrowing,
+[00:08:19 -> 00:08:22]  less spending consumers and businesses
+[00:08:22 -> 00:08:24]  that would decrease the aggregate demand,
+[00:08:24 -> 00:08:26]  fight inflation, and put us back at full employment.
+[00:08:26 -> 00:08:30]  This is the idea of monetary policy.
+[00:08:30 -> 00:08:31]  Again, this is called the money market graph
+[00:08:31 -> 00:08:33]  and it shows you the supply and demand for money
+[00:08:33 -> 00:08:35]  and it sets the nominal interest rate.
+[00:08:35 -> 00:08:37]  But there's another graph you have to know
+[00:08:37 -> 00:08:38]  called the loanable funds market,
+[00:08:38 -> 00:08:40]  which sets the real interest rate.
+[00:08:41 -> 00:08:43]  This graph shows the demand of loans set by borrowers
+[00:08:43 -> 00:08:46]  and the supply of loans set by savers.
+[00:08:46 -> 00:08:48]  The main difference between the money market graph
+[00:08:48 -> 00:08:49]  and the loanable funds market
+[00:08:49 -> 00:08:51]  is that this one focuses on the short run
+[00:08:51 -> 00:08:53]  and sets the nominal interest rate,
+[00:08:53 -> 00:08:56]  whereas this one focuses on the long run
+[00:08:56 -> 00:08:57]  and sets the real interest rate.
+[00:08:57 -> 00:08:59]  Now, of course, there's more to it than that,
+[00:08:59 -> 00:09:00]  but I'm not gonna cover it now.
+[00:09:00 -> 00:09:02]  Instead, if you wanna learn more about that,
+[00:09:02 -> 00:09:03]  take a look in the link in the description.
+[00:09:03 -> 00:09:04]  One of the things you gotta know
+[00:09:04 -> 00:09:05]  about the loanable funds market
+[00:09:05 -> 00:09:08]  is that changes here can affect the economy
+[00:09:08 -> 00:09:09]  in the long run.
+[00:09:09 -> 00:09:10]  For example, assume that foreigners
+[00:09:11 -> 00:09:12]  wanna put a lot of money into your economy.
+[00:09:12 -> 00:09:14]  That would increase the supply of loanable funds
+[00:09:14 -> 00:09:17]  and decrease the real interest rate.
+[00:09:17 -> 00:09:19]  That means that consumers and businesses
+[00:09:19 -> 00:09:20]  are gonna take out more loans,
+[00:09:20 -> 00:09:24]  it's gonna increase consumer spending, and investment.
+[00:09:24 -> 00:09:25]  More investment means more factories
+[00:09:25 -> 00:09:27]  and tools and physical capital,
+[00:09:27 -> 00:09:29]  so we can produce more than we did before.
+[00:09:29 -> 00:09:31]  So a decrease in the real interest rate
+[00:09:31 -> 00:09:33]  means there's an increase in business spending
+[00:09:33 -> 00:09:35]  and investment, so aggregate demand goes up,
+[00:09:35 -> 00:09:38]  and because we have more tools, aggregate supply goes up,
+[00:09:38 -> 00:09:40]  and that means we also have an increase
+[00:09:40 -> 00:09:42]  in the long-run aggregate supply.
+[00:09:42 -> 00:09:43]  The economy is growing.
+[00:09:43 -> 00:09:46]  This shows the idea of economic growth.
+[00:09:46 -> 00:09:48]  And of course, you can show that same concept
+[00:09:48 -> 00:09:50]  on the production possibilities curve.
+[00:09:50 -> 00:09:52]  When the long-run aggregate supply curve shifts to the right,
+[00:09:52 -> 00:09:54]  we can produce more than we ever could before.
+[00:09:54 -> 00:09:56]  That's like this curve shifting outward,
+[00:09:56 -> 00:09:58]  making points over what's impossible, possible.
+[00:09:58 -> 00:10:00]  Again, the loanable funds market
+[00:10:00 -> 00:10:01]  doesn't show you where the economy is.
+[00:10:01 -> 00:10:03]  You can't draw a negative output gap
+[00:10:03 -> 00:10:05]  or a full employment on this graph,
+[00:10:05 -> 00:10:08]  but changes on this graph affect the other graphs
+[00:10:08 -> 00:10:11]  that show you where the economy is and how it's changing.
+[00:10:11 -> 00:10:12]  Okay, we talked about four graphs
+[00:10:12 -> 00:10:14]  that show where the economy is,
+[00:10:14 -> 00:10:16]  another graph that shows you how the central bank
+[00:10:16 -> 00:10:17]  affects the overall economy,
+[00:10:17 -> 00:10:20]  and another graph that shows you the effect of changes
+[00:10:20 -> 00:10:22]  in lending and borrowing.
+[00:10:22 -> 00:10:24]  Now it's time to look at other countries
+[00:10:24 -> 00:10:26]  buying your currency in the foreign exchange market.
+[00:10:26 -> 00:10:30]  This graph shows you the demand and supply of any currency,
+[00:10:30 -> 00:10:33]  let's say dollars, and it sets the exchange rate.
+[00:10:33 -> 00:10:35]  To keep it simple, the demand for dollars
+[00:10:35 -> 00:10:37]  is set by foreigners,
+[00:10:37 -> 00:10:40]  and the supply for dollars is set by residents.
+[00:10:40 -> 00:10:42]  And again, this graph doesn't show you where the economy is.
+[00:10:42 -> 00:10:44]  You can't draw a negative output gap
+[00:10:44 -> 00:10:46]  or full employment on this graph,
+[00:10:46 -> 00:10:49]  but changes on this graph affect net exports,
+[00:10:49 -> 00:10:51]  and that affects the overall economy.
+[00:10:51 -> 00:10:53]  For example, let's assume that Europeans
+[00:10:53 -> 00:10:54]  wanna buy more U.S. products.
+[00:10:54 -> 00:10:56]  They need dollars to pay for them,
+[00:10:56 -> 00:10:58]  that's gonna increase the demand for dollars.
+[00:10:58 -> 00:10:59]  The price of the dollar is gonna increase,
+[00:10:59 -> 00:11:02]  so the dollar appreciated relative to the euro.
+[00:11:02 -> 00:11:05]  But what's gonna happen now if the dollar appreciates
+[00:11:06 -> 00:11:07]  how's that gonna affect the overall economy?
+[00:11:07 -> 00:11:09]  Let's assume that the economy is at full employment.
+[00:11:09 -> 00:11:10]  If the dollar appreciates
+[00:11:10 -> 00:11:12]  and is now more expensive for Europeans,
+[00:11:12 -> 00:11:15]  Europeans can't buy as many American exports,
+[00:11:15 -> 00:11:17]  so the aggregate demand is gonna fall
+[00:11:17 -> 00:11:18]  because net exports falls.
+[00:11:18 -> 00:11:19]  Aggregate demand would go down,
+[00:11:19 -> 00:11:22]  and we end up here at a negative output gap.
+[00:11:22 -> 00:11:24]  Now there's a bunch of things that can change the supply
+[00:11:24 -> 00:11:26]  or the demand for your currency,
+[00:11:26 -> 00:11:29]  changes to inflation or income or interest rates.
+[00:11:29 -> 00:11:30]  Those all shift this curve,
+[00:11:30 -> 00:11:32]  but most importantly, you're gonna have to practice.
+[00:11:32 -> 00:11:33]  You have to sit down,
+[00:11:33 -> 00:11:35]  do a practice free response question
+[00:11:36 -> 00:11:37]  that says, okay, show an economy using the Phillips curve
+[00:11:37 -> 00:11:38]  or aggregate demand supply
+[00:11:38 -> 00:11:40]  or the production possibilities curve,
+[00:11:40 -> 00:11:41]  showing an economy with a recession,
+[00:11:41 -> 00:11:42]  then this event happens,
+[00:11:42 -> 00:11:45]  or there's a change in the money market graph
+[00:11:45 -> 00:11:46]  or the loanable funds market
+[00:11:46 -> 00:11:47]  or the foreign exchange market,
+[00:11:47 -> 00:11:50]  be able to show all those changes on all the graphs.
+[00:11:50 -> 00:11:53]  But there's still one more graph you might see,
+[00:11:53 -> 00:11:54]  it's right here,
+[00:11:54 -> 00:11:57]  it's called the aggregate expenditures model.
+[00:11:57 -> 00:11:59]  This graph is not part of the AP curriculum,
+[00:11:59 -> 00:12:01]  so if you're an AP class, do not learn this graph,
+[00:12:01 -> 00:12:03]  it might be in your book, just ignore it.
+[00:12:03 -> 00:12:05]  If you're in a college level,
+[00:12:06 -> 00:12:07]  university class, you might see this graph,
+[00:12:07 -> 00:12:10]  but I'm not gonna cover it in this video.
+[00:12:10 -> 00:12:11]  If you want me to make a separate video
+[00:12:11 -> 00:12:12]  talking about that graph,
+[00:12:12 -> 00:12:13]  let me know in the comments below
+[00:12:13 -> 00:12:15]  and let me know if this video helped you
+[00:12:15 -> 00:12:17]  and be sure to like and subscribe.
+[00:12:17 -> 00:12:20]  Thanks for watching this video until next time.

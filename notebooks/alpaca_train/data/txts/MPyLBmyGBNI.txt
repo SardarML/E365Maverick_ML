@@ -1,0 +1,472 @@
+[00:00:00 -> 00:00:06]  An insurance company determines vehicle insurance premiums based on known risk
+[00:00:06 -> 00:00:12]  factors and then charges accordingly. And interestingly, one of those factors
+[00:00:12 -> 00:00:17]  is the color of your car. the insurance company believes that
+[00:00:17 -> 00:00:22]  people with some color cars are more likely to get into accidents.
+[00:00:22 -> 00:00:26]  And so, to research this, they examine police reports for total loss
+[00:00:26 -> 00:00:32]  collisions and they find this data. and so, this is what's called a frequency
+[00:00:32 -> 00:00:35]  table. And we're working here with categorical
+[00:00:35 -> 00:00:40]  data, or in other words, qualitative data, data that is categories but it's not
+[00:00:40 -> 00:00:45]  numerical data. And so, there, this frequency table tells
+[00:00:45 -> 00:00:50]  me that there were 25 reports that involved a blue car.
+[00:00:50 -> 00:00:55]  And so, from this large collection of reports, the frequency or the count of
+[00:00:55 -> 00:00:58]  reports for each of these colors was recorded.
+[00:00:58 -> 00:01:02]  And that's what a frequency table is. And so, the first thing we're going to do
+[00:01:02 -> 00:01:05]  is try to create a graphical representation of this data.
+[00:01:05 -> 00:01:09]  and one, first one we're going to do is called a bar graph.
+[00:01:09 -> 00:01:14]  A bar graph is, is reasonably simple. The idea is we have a horizontal and our
+[00:01:14 -> 00:01:19]  vertical axis. and along the vertical is going to be our
+[00:01:19 -> 00:01:23]  frequency. actually, let me write this a little
+[00:01:23 -> 00:01:26]  differently. I'm going to actually write, try to write
+[00:01:26 -> 00:01:28]  it sideways here. Frequency.
+[00:01:28 -> 00:01:30]  I didn't write that very well. Okay.
+[00:01:30 -> 00:01:35]  And, and then we're going to create bars for each of our colors.
+[00:01:35 -> 00:01:40]  so this vertical axis is going to be an actual numerical axis and it's going to
+[00:01:40 -> 00:01:47]  have to go up at least past 50 in order for me to be able to fit all this data in.
+[00:01:47 -> 00:01:56]  So I think I'm going to go 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, and then I'm going
+[00:01:56 -> 00:02:02]  to need to go at least one more. So there's 55.
+[00:02:02 -> 00:02:08]  and I'll go ahead and toss 60 in here. So now we can draw a bar for each of our
+[00:02:08 -> 00:02:13]  colors. so our blue cars have a frequency of 25.
+[00:02:13 -> 00:02:19]  So I'm going to draw a bar, and that bar is going to have a height of 25.
+[00:02:19 -> 00:02:22]  Right? And so this is going to correspond to
+[00:02:22 -> 00:02:26]  blue cars. So now I'm going to draw a bar for green
+[00:02:26 -> 00:02:30]  cars. And it needs to have a height of 52, which
+[00:02:30 -> 00:02:34]  is right around here. And I'm just sort of estimating here.
+[00:02:35 -> 00:02:41]  Typically, software packages like Excel is a common one or even something like
+[00:02:41 -> 00:02:46]  Google Docs is used to create these graphs rather than trying to draw them by
+[00:02:46 -> 00:02:49]  hand. but, you know, for the sake of
+[00:02:49 -> 00:02:54]  illustration here, we'll go ahead and we'll try to draw this by hand.
+[00:02:54 -> 00:02:58]  And so there's our red cars, which have a height of 41.
+[00:02:58 -> 00:03:03]  and then you would continue this on for the other colors.
+[00:03:03 -> 00:03:08]  And our resulting bar graph will look something like this.
+[00:03:08 -> 00:03:13]  Now, you can tell that it's kind of hard to tell where the you know, where the bars
+[00:03:13 -> 00:03:17]  are here. And so one solution to that would be to
+[00:03:17 -> 00:03:22]  put in grid lines, which would look something like, like that.
+[00:03:22 -> 00:03:27]  and you'll put those every, you know, five or ten spaces.
+[00:03:27 -> 00:03:31]  so that, that'd be one option. Ooh, I did not mean to do that.
+[00:03:31 -> 00:03:36]  There we are. so that would be one option for dealing
+[00:03:36 -> 00:03:41]  with the, ah, sorry, for dealing with this issue.
+[00:03:41 -> 00:03:43]  There we go. Good enough.
+[00:03:43 -> 00:03:48]  another option, and probably a little simpler, would be to just put at the top
+[00:03:48 -> 00:03:52]  of each bar what the corresponding frequency is.
+[00:03:52 -> 00:03:57]  And that way, somebody reading the graph could easily identify the, the, the
+[00:03:57 -> 00:04:03]  frequency of each of the bars without having to you know, look horizontally.
+[00:04:03 -> 00:04:09]  Now, the, the advantage of the graphical display, of course, is that it makes it
+[00:04:09 -> 00:04:14]  very clear visually what the relative sizes of these quantities are.
+[00:04:14 -> 00:04:18]  And so this would be a bar graph for categorical data.
+[00:04:18 -> 00:04:30]  So this was a bar graph for this frequency table of car colors.
+[00:04:30 -> 00:04:34]  so now we're going to try to create something called a Pareto chart.
+[00:04:34 -> 00:04:38]  Now, a Pareto chart is really the same idea as a bar graph.
+[00:04:38 -> 00:04:43]  It's just a specific type of bar graph. So we're going to start it the same way.
+[00:04:43 -> 00:04:49]  5, 10, 15, 20, 25, 30, 35, 40. Now, of course, if I really wanted to do
+[00:04:49 -> 00:04:54]  a, a really high quality graph, I would not just be free handing this.
+[00:04:54 -> 00:04:59]  I would be using some either graph paper, or use a pencil, or like I said, use a
+[00:04:59 -> 00:05:03]  computer. but it'll, this'll be okay for now.
+[00:05:03 -> 00:05:08]  So, the idea of a Pareto chart is that we're going to do a bar graph, but we're
+[00:05:08 -> 00:05:13]  going to list, we're going to arrange the bars in decreasing frequency order.
+[00:05:13 -> 00:05:18]  So in other words, we're going to put first the first color we're going to draw,
+[00:05:18 -> 00:05:23]  or sorry, the first bar we're going to draw is for the category with the highest
+[00:05:23 -> 00:05:28]  frequency, which is, which is 52 here for the green cars.
+[00:05:28 -> 00:05:34]  so that's our green cars. And then our next highest frequency
+[00:05:34 -> 00:05:38]  is going to be the, the red cars with a frequency of 41.
+[00:05:38 -> 00:05:46]  And so we could draw in our red car bar. and the next one is our black cars with a,
+[00:05:46 -> 00:05:55]  with a frequency of 39. And so on.
+[00:05:55 -> 00:06:00]  And there's our completed Pareto chart. Now, the advantage of a Pareto chart over
+[00:06:00 -> 00:06:04]  our original bar graph is that here, at least without the numbers listed, it
+[00:06:04 -> 00:06:08]  would have been hard to tell the difference between, say, the red cars and
+[00:06:08 -> 00:06:12]  the black cars. But by creating a Pareto chart, you can
+[00:06:12 -> 00:06:16]  the bars that are similar height are going to be right next to each other, and
+[00:06:16 -> 00:06:20]  so it's easier to see the difference between the heights.
+[00:06:22 -> 00:06:27]  So, sometimes we're interested in not so much the, the, you know, the size of each
+[00:06:27 -> 00:06:32]  of these categories, but rather their relative sizes.
+[00:06:32 -> 00:06:37]  and so we're going to talk about relative frequencies and then try to, try to create
+[00:06:37 -> 00:06:41]  a pie chart. So first thing we're going to do is talk
+[00:06:41 -> 00:06:44]  about relative frequ, relative frequencies.
+[00:06:44 -> 00:06:49]  and so this would be computing the percentage of all cars that fit into each
+[00:06:49 -> 00:06:54]  of these categories. and so first thing we need to do is add
+[00:06:54 -> 00:06:59]  up our total frequencies. so let's see, if I pull out my calculator
+[00:06:59 -> 00:07:04]  and add these up, I get 216 is the total number of reports that were read.
+[00:07:04 -> 00:07:11]  And so the relative frequency is what is the percentage, so 25 out of 216.
+[00:07:11 -> 00:07:19]  So that would be 25 divided by 216 comes out to be about 0.1157, or about 11.
+[00:07:19 -> 00:07:27]  Let's just say 11.6%. so that means 11.6% of all of these reports
+[00:07:27 -> 00:07:33]  were blue cars. we could do the same thing here for green
+[00:07:33 -> 00:07:40]  cars. 52 out of 216 is about 0.2407, or about
+[00:07:40 -> 00:07:46]  24.1%. And we could find the relative frequencies
+[00:07:46 -> 00:07:50]  for all of these colors. So I'm going to do that real quick.
+[00:07:50 -> 00:07:53]  And there's our, all of our relative frequencies.
+[00:07:53 -> 00:07:58]  So the idea of a pie chart now is that we're going to create a graph where we
+[00:07:58 -> 00:08:04]  have a circle that we're going to divide up into pie slices.
+[00:08:04 -> 00:08:09]  and so the idea is that the size of a pie slice should correspond to the relative
+[00:08:09 -> 00:08:14]  percentage. So for example, if I saw a slice like
+[00:08:14 -> 00:08:19]  this that looks like it's about a quarter of the circle, so that should be
+[00:08:19 -> 00:08:24]  about 25%. Now if you're getting really technical
+[00:08:24 -> 00:08:30]  here and want to very precisely create a pie chart, you can take each of these
+[00:08:30 -> 00:08:36]  percentages and multiply it times 360 degrees.
+[00:08:36 -> 00:08:41]  Well, of course you would need to convert the percentage into a decimal first.
+[00:08:41 -> 00:08:48]  and if you do that, you would come up with a number of, it's about 38 degrees.
+[00:08:48 -> 00:08:52]  And then you could use a protractor to come up with the graph.
+[00:08:52 -> 00:08:57]  But the reality is that most of the time, people don't bother doing that anymore
+[00:08:57 -> 00:09:01]  because, you know, we usually use computers nowadays to create pie charts.
+[00:09:01 -> 00:09:05]  But just for the fun of it, let's see if we can freehand one pretty close.
+[00:09:05 -> 00:09:10]  So I'm going to start with the green here, because 24% is awfully close to 25%.
+[00:09:10 -> 00:09:15]  So I would expect that to be just slightly less than a quarter circle.
+[00:09:15 -> 00:09:20]  So that's my green, which is, you know, 24%, not 24.1%.
+[00:09:20 -> 00:09:26]  Okay, so let's maybe go to red now, because red is going to be 19%.
+[00:09:26 -> 00:09:31]  And so that's going to be even less than 25%, right?
+[00:09:31 -> 00:09:36]  let's see here. If I divide this into five pieces, each
+[00:09:36 -> 00:09:41]  one would be another 5%, so it needs to be about one-fifth less than that.
+[00:09:41 -> 00:09:46]  Okay, so maybe like that. Let's call that red, and that's about 19%.
+[00:09:46 -> 00:09:51]  and then white is going to be 18%, so that's going to be even a little bit less
+[00:09:51 -> 00:09:54]  than that one. That's pretty good.
+[00:09:54 -> 00:09:58]  I know that's not white, but white wouldn't show up that very well, now
+[00:09:58 -> 00:10:04]  would it? and so we got about 16.7% there.
+[00:10:04 -> 00:10:09]  and black is going to be similar, but a little bit bigger than white, a little
+[00:10:09 -> 00:10:13]  less than red. So maybe right around there.
+[00:10:13 -> 00:10:18]  So we'll call that black, and that one's 18.1%.
+[00:10:18 -> 00:10:25]  And now we have blue and gray left, both of which are going to be it's here.
+[00:10:25 -> 00:10:29]  Gray is going to be about half of that one.
+[00:10:29 -> 00:10:36]  So, eh, let's go with that. So there's blue, 11.6%, and then we got
+[00:10:36 -> 00:10:45]  gray here with 10.6%. Now this is a pretty lousy pie chart.
+[00:10:45 -> 00:10:51]  like I said, we'd be a lot better off using a computer, but at least you get the
+[00:10:51 -> 00:10:57]  idea of how we form a pie chart by hand. the idea is we want the relative
+[00:10:57 -> 00:11:04]  proportions percentages of the circle to correspond with the relative frequencies
+[00:11:04 -> 00:11:10]  of our data. So here's the, a slightly nicer looking
+[00:11:10 -> 00:11:16]  pie chart that shows the percentage of voters supporting each candidate running
+[00:11:16 -> 00:11:23]  for a local senate seat. so we can see here that Douglas has 43%
+[00:11:23 -> 00:11:28]  of the voter support. Reeves has 11% and Ellison 46%.
+[00:11:28 -> 00:11:33]  So if there were 20,000 voters in the district, about how many voters would be
+[00:11:33 -> 00:11:38]  supporting Reeves? so to answer this question, we're going
+[00:11:38 -> 00:11:42]  to use our percentages here to help us out.
+[00:11:42 -> 00:11:48]  This is telling me that 11% of voters are supporting, supporting Reeves.
+[00:11:48 -> 00:11:56]  So to find 11%, so we want 11% of the 20,000 voters, we just need to multiply
+[00:11:56 -> 00:12:07]  20,000 times 11% written as a decimal. So we're finding 11% of 20,000, which is
+[00:12:07 -> 00:12:14]  about 2,200 voters. So it's really easy on a computer to do
+[00:12:14 -> 00:12:19]  all kinds of cool graphics graphical displays, but that doesn't always mean
+[00:12:19 -> 00:12:23]  that you should. So we're going to take a minute and talk
+[00:12:23 -> 00:12:26]  about some bad graphical representations of data.
+[00:12:26 -> 00:12:30]  So here is the car color data we were looking at earlier.
+[00:12:30 -> 00:12:36]  And, and here it's done in a 3D bar graph. the problem with this graph is that
+[00:12:36 -> 00:12:41]  because of the perspective of it, it's almost impossible to read now.
+[00:12:41 -> 00:12:46]  I mean, it's really hard to tell which of these bars is actually larger when it is
+[00:12:46 -> 00:12:51]  on this slant like this. And so this is really a bad graphical
+[00:12:51 -> 00:12:54]  representation. Now, it's really hard to read.
+[00:12:54 -> 00:12:58]  Now, here's another situation. So suppose a labor union produces this
+[00:12:58 -> 00:13:03]  graphic designed to show the difference between the average manager's salary and
+[00:13:03 -> 00:13:08]  the average worker's salary. Now, it could be, I mean, if I was to look
+[00:13:08 -> 00:13:12]  at this, I'd say, okay, if I was to imagine this as, you know, the, the
+[00:13:12 -> 00:13:18]  worker's salary, then let's hear that. Ooh, ooh, wow, that, this one's like four
+[00:13:18 -> 00:13:21]  of those. And so, if I was to look at this, I might
+[00:13:21 -> 00:13:25]  think that, wow, those manager's salaries are four times bigger than the worker's
+[00:13:25 -> 00:13:28]  salaries. But it's sometimes hard to tell,
+[00:13:28 -> 00:13:32]  because, because not everyone, you know, does things that way.
+[00:13:32 -> 00:13:36]  It could be that the manager's salaries are only twice as big as the worker's
+[00:13:36 -> 00:13:39]  salaries. And the you know, the person creating
+[00:13:39 -> 00:13:43]  this representation said, oh look, it's only twice as big.
+[00:13:43 -> 00:13:46]  Right? And so that, that visual distortion of
+[00:13:46 -> 00:13:51]  area versus a length really makes this hard to tell based on the graphic what's
+[00:13:51 -> 00:13:56]  really going on. So this, so this type of pictogram is
+[00:13:56 -> 00:14:02]  not a good representation. Now, there are some representations
+[00:14:02 -> 00:14:07]  that say you would use like some kind of picture like a dollar sign to represent
+[00:14:07 -> 00:14:10]  money. And then you use a certain number of
+[00:14:10 -> 00:14:14]  them to represent relative sizes. And that's a lot more acceptable,
+[00:14:14 -> 00:14:18]  because then it really is the length of the picture that corresponds with the
+[00:14:18 -> 00:14:21]  quantities. Let's look at one more.
+[00:14:21 -> 00:14:24]  And this is a big problem with bar graphs.
+[00:14:24 -> 00:14:29]  Notice these two graphs here. these are two graphs from a poll about
+[00:14:29 -> 00:14:33]  same sex marriage rights taken in December 2008.
+[00:14:33 -> 00:14:40]  and they look quite different, right? Which, which of these is misleading?
+[00:14:40 -> 00:14:44]  The one that's misleading is this one. This is a bad graph.
+[00:14:44 -> 00:14:48]  It's a bad graph because this vertical axis is condensed.
+[00:14:48 -> 00:14:54]  it's condensed from 40 to 60. And so it creates a misleadingly large
+[00:14:54 -> 00:14:58]  disparity, right? This bar now looks three times bigger than
+[00:14:58 -> 00:15:02]  this bar. Whereas, if we actually look at it
+[00:15:02 -> 00:15:07]  measured from zero, we can see that the difference is much smaller than, than
+[00:15:07 -> 00:15:12]  this graphic would, would lead us to believe.
+[00:15:16 -> 00:15:21]  So a teacher records scores on a 20 point quiz for 30 students in his class.
+[00:15:21 -> 00:15:25]  And the scores are shown here. Let's try to create a frequency table for
+[00:15:25 -> 00:15:29]  this data. And so, we're going to create a chart,
+[00:15:29 -> 00:15:34]  and we're going to have our data value and our, our frequency data.
+[00:15:34 -> 00:15:39]  Now, this is no longer qualitative data, but it's now quantitative data, right?
+[00:15:39 -> 00:15:43]  Because we're looking at numbers. but we're still going to treat it
+[00:15:43 -> 00:15:46]  similarly. We're going to look at each score as our
+[00:15:46 -> 00:15:51]  data, and then the frequency of that, of that corresponding score.
+[00:15:51 -> 00:15:54]  Maybe I'll even change this to say, score.
+[00:15:54 -> 00:15:59]  so for example, a score of zero. Looks like we've got two of those.
+[00:15:59 -> 00:16:04]  How about a score of five? Looks like we only have one of those.
+[00:16:04 -> 00:16:07]  kind of want to do this from smallest to biggest.
+[00:16:07 -> 00:16:12]  So what's my next smallest number? Oh, looks like I got a 12 here, and I've
+[00:16:12 -> 00:16:18]  got one of those. and then, let's see, next smallest, I've
+[00:16:18 -> 00:16:21]  got a, ooh, a 15 here, and another one there.
+[00:16:21 -> 00:16:26]  So it looks like I've got two 15s. and I would go down the line doing the
+[00:16:26 -> 00:16:29]  same thing for each of the possible scores.
+[00:16:29 -> 00:16:35]  And the resulting table would end up looking something like, like this.
+[00:16:35 -> 00:16:40]  now, it might be nice to create a graphical representation of our data.
+[00:16:40 -> 00:16:45]  and so, one option would be to try to create a bar graph like we did before.
+[00:16:45 -> 00:16:49]  And, you know, that one might end up looking something like this.
+[00:16:49 -> 00:16:54]  But this is somewhat misleading, because because these are numerical data, it's
+[00:16:54 -> 00:16:59]  kind of weird to have 0 and 5 here, and like 19 and 20 here.
+[00:16:59 -> 00:17:03]  These are five apart, and these are only one apart.
+[00:17:03 -> 00:17:08]  and so this isn't the best representation for this type of data.
+[00:17:08 -> 00:17:12]  and so for that, we're going to need something called a histogram.
+[00:17:12 -> 00:17:17]  Now, a histogram is very similar to a bar graph in that we're going to have
+[00:17:17 -> 00:17:23]  again, frequency frequency along the vertical.
+[00:17:23 -> 00:17:27]  I'm just going to write it up here, because there, frequency along the
+[00:17:27 -> 00:17:31]  vertical. we can see here we're going to need to
+[00:17:31 -> 00:17:35]  go up to 8. So 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, we'll
+[00:17:35 -> 00:17:38]  do that. the difference is now the horizontal
+[00:17:38 -> 00:17:41]  axis is also going to be a number line.
+[00:17:41 -> 00:17:45]  so we have scores ranging from 0 to 20 here.
+[00:17:45 -> 00:17:57]  So we'll go 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20.
+[00:17:57 -> 00:18:00]  And of course, that should be nice and evenly spaced.
+[00:18:00 -> 00:18:05]  And so now, for each of our score, we're going to create a bar.
+[00:18:05 -> 00:18:11]  And when we create a bar the value on the left side of the bar is included but
+[00:18:11 -> 00:18:15]  we're not including the value on the right side.
+[00:18:15 -> 00:18:24]  So for example, for a score of 0 our bar will start at 0 and go up to 1.
+[00:18:24 -> 00:18:30]  and so this is really a bar corresponding to a score of 0 here which is on the left
+[00:18:30 -> 00:18:35]  side of the bar. different books and different software
+[00:18:35 -> 00:18:40]  does this differently, but this is the approach that we're going to use.
+[00:18:40 -> 00:18:45]  and so our next score here has a frequency of 1, but it has a score of 5.
+[00:18:45 -> 00:18:49]  So it's way over here. There's a big empty space here in our
+[00:18:49 -> 00:18:54]  graph corresponding to all those scores that never, you know, didn't show up.
+[00:18:54 -> 00:18:58]  Our next is a score of 12, also with a frequency of 1.
+[00:18:58 -> 00:19:04]  And then we've got a score of 15 with a frequency of 2.
+[00:19:04 -> 00:19:07]  And then a score of 16 with a frequency of 2.
+[00:19:07 -> 00:19:13]  So this is going to start at 16 and extend up to, but not quite including 17.
+[00:19:13 -> 00:19:17]  And then at 17, we're going to have a bar of height 4.
+[00:19:17 -> 00:19:22]  And then 18, we're going to have a bar of height 8.
+[00:19:22 -> 00:19:26]  It's about 8. And then at 19, we're going to have a
+[00:19:26 -> 00:19:34]  score of a score of 4. And notice that because we start at the
+[00:19:34 -> 00:19:41]  value that we that's on the left, our score of 20 here with a height of 6 is
+[00:19:41 -> 00:19:47]  actually going to start at 20 and go up to 21, even though we don't actually have
+[00:19:47 -> 00:19:53]  any scores of 21, because this bar includes values starting at 20.
+[00:19:53 -> 00:19:58]  And this is our corresponding histogram. Notice that we get a better idea of the
+[00:19:58 -> 00:20:04]  overall layout of the data from this than we did from the bar graph.
+[00:20:09 -> 00:20:15]  Now, suppose we've collected a lot of data, like 100 people's 100 men's weights
+[00:20:15 -> 00:20:21]  as part of a nutrition study. And they range in value from 121 to, you
+[00:20:21 -> 00:20:25]  know, a high of 263 for a total span of 142.
+[00:20:25 -> 00:20:28]  And these scores might be all over the place.
+[00:20:28 -> 00:20:33]  We might have 100 different weights. And if we tried to create a frequency
+[00:20:33 -> 00:20:38]  table for each, showing each individual weight and the frequency, we'd probably
+[00:20:38 -> 00:20:42]  get a lot of frequencies of 1. In fact, almost all of our values would
+[00:20:42 -> 00:20:47]  probably have a frequency of 1. And so what we're going to do is group
+[00:20:47 -> 00:20:50]  them into something called classes or class intervals.
+[00:20:50 -> 00:20:53]  And so this is going to be a range of values.
+[00:20:53 -> 00:20:58]  And then we can create a frequency table based on the range of values.
+[00:20:58 -> 00:21:04]  And so, there's a, it, there's a lot of sort of decisions we have to make here,
+[00:21:04 -> 00:21:08]  one of which is, is how many classes we want to have.
+[00:21:08 -> 00:21:14]  And usually we want we want somewhere in the range of 5 to 20 classes or groupings
+[00:21:15 -> 00:21:21]  depending upon sort of how much data we have or how big the the data set is.
+[00:21:21 -> 00:21:27]  And so, so, and then often times it's nice to have the value, the, the ranges
+[00:21:27 -> 00:21:32]  sort of start at nice values, though that's not necessary.
+[00:21:32 -> 00:21:37]  and we, but it is important that each interval be the same size.
+[00:21:37 -> 00:21:43]  And so we could say, you know, with our, with our 142 values here, you know, we,
+[00:21:43 -> 00:21:48]  we would have a lot of options. let's consider a couple.
+[00:21:48 -> 00:21:55]  So, for example, I could have let's see. So, I mean, like one option would be if I
+[00:21:55 -> 00:22:00]  used ten classes. so actually, let's do 14 classes.
+[00:22:00 -> 00:22:04]  then the width of each one would be around ten.
+[00:22:04 -> 00:22:11]  So I could create a class like 100 to 129 and 130 to 139, and I'd end up with 14
+[00:22:11 -> 00:22:16]  classes that way. and so that'd be one option.
+[00:22:16 -> 00:22:20]  I'm, I think I'm going to go for a slightly different approach here, and I'm
+[00:22:20 -> 00:22:26]  going to make my classes a little wider. I'm going to use a class width of 15.
+[00:22:26 -> 00:22:31]  So, I'm going to start at 120, even though my data starts at 121, just because it's
+[00:22:31 -> 00:22:36]  a nice number. and so, my first class, my first class
+[00:22:36 -> 00:22:43]  interval will be 120 to 134. my next one will start at the next value
+[00:22:43 -> 00:22:50]  up, so 135 up to 149. just as a, as a point of clarification, if
+[00:22:50 -> 00:22:55]  my data included decimals, like, you know, if people reported their weights as like
+[00:22:55 -> 00:23:03]  135.5 then this class would need to go all the way up to like, you know, 140, 34.99
+[00:23:03 -> 00:23:10]  in order to cover those decimals. but we're going to assume for the
+[00:23:10 -> 00:23:15]  simplicity for now that, that that, that's not the case.
+[00:23:15 -> 00:23:23]  and, and so my classes would continue developing something something like this.
+[00:23:23 -> 00:23:28]  So, here's the rest of our, our, our class intervals.
+[00:23:28 -> 00:23:33]  and, and then I put in some frequencies. Of course, this would come from the
+[00:23:33 -> 00:23:37]  actual data. This would tell us that four students
+[00:23:37 -> 00:23:42]  weights were in the range of 120 to 134, and 14 students weights were in this
+[00:23:42 -> 00:23:46]  interval. and now that we have this, we can create
+[00:23:46 -> 00:23:51]  our, our histogram. so our histogram here would start at,
+[00:23:51 -> 00:24:02]  let's say 120 and then maybe 135, and 150, and 165, and so on and so forth.
+[00:24:02 -> 00:24:08]  and so our first bar here would start, would have a height of 4 and would start
+[00:24:08 -> 00:24:15]  at 120 and go up to, but not include well again, not include.
+[00:24:15 -> 00:24:19]  So it goes up to 135 because we're going up to 135.
+[00:24:19 -> 00:24:24]  My next category would have a height of 14, which I don't think I left enough room
+[00:24:24 -> 00:24:28]  here for. So we'll just pretend 14 and extend out to
+[00:24:28 -> 00:24:31]  150. Right, so it's including this entire
+[00:24:31 -> 00:24:35]  range of values. Let me show you what this is supposed to
+[00:24:35 -> 00:24:38]  look like. This is what that that histogram would
+[00:24:38 -> 00:24:42]  end up looking like. And this very nicely shows the
+[00:24:42 -> 00:24:47]  distribution of, of weights. Now some, some software doesn't let you
+[00:24:47 -> 00:24:52]  put the values along the axis like this. And if that's the case, you can create a
+[00:24:52 -> 00:24:56]  bar graph where the title of the bar is the range of values.
+[00:24:56 -> 00:25:00]  And that does a pretty good job at capturing the same idea.
+[00:25:06 -> 00:25:12]  If we have a set of class intervals and frequencies like we had for our weight
+[00:25:12 -> 00:25:17]  data, one option for representing that was the histogram that we created.
+[00:25:17 -> 00:25:21]  Another option would be to create a, a pie chart.
+[00:25:21 -> 00:25:27]  We could do that by, again, calculating out relative frequencies.
+[00:25:29 -> 00:25:32]  And these would be percentages. So we'd have to add our total number of
+[00:25:32 -> 00:25:37]  frequencies and divide each of these by that to find a corresponding percentage.
+[00:25:37 -> 00:25:40]  And then we could use that to create a pie chart.
+[00:25:40 -> 00:25:43]  And that pie chart would end up looking something like this.
+[00:25:43 -> 00:25:48]  And as you can tell this is really hard to read, right?
+[00:25:48 -> 00:25:52]  I mean, even if we were to put these labels directly on the pie chart, this is
+[00:25:52 -> 00:25:56]  probably not a particularly useful representation of the data.
+[00:25:56 -> 00:26:01]  Certainly not in comparison to, say, our histogram that we had earlier.
+[00:26:01 -> 00:26:07]  And so, when you have a large number of, of categories or classes doing pie charts
+[00:26:07 -> 00:26:13]  is probably not the best idea. So sometimes we need to compare two
+[00:26:13 -> 00:26:18]  different groups of data. And so, for example, this data comes from
+[00:26:18 -> 00:26:23]  a task in which the goal is to move a computer mouse on the, to, to a target on
+[00:26:23 -> 00:26:28]  the screen as fast as possible. So you have to move the mouse and click
+[00:26:28 -> 00:26:31]  on a target. And it was done twice with a small
+[00:26:31 -> 00:26:36]  rectangle and a large rectangle, so two different targets.
+[00:26:36 -> 00:26:41]  And we've collected frequency data and we've created class intervals each of
+[00:26:41 -> 00:26:46]  width 100 milliseconds. And so, this is our data.
+[00:26:46 -> 00:26:50]  And so, to create a graphical representation, one option would be to
+[00:26:50 -> 00:26:56]  create a histograms of each of these data on top of each other.
+[00:26:56 -> 00:27:01]  This is called a comparative histogram. And it would look something like this.
+[00:27:01 -> 00:27:07]  Now, this particular graph is done as a bar graph where the the class intervals
+[00:27:07 -> 00:27:12]  are the bar labels. And, and that's mainly because of the
+[00:27:12 -> 00:27:17]  limitations of the software I was using. But you can see that the, the lighter
+[00:27:17 -> 00:27:22]  blue here is representing the times for the small target.
+[00:27:22 -> 00:27:27]  And the darker reddish color purple color is showing the times for the, for the
+[00:27:27 -> 00:27:32]  large target. And we can start analyzing the, the, the
+[00:27:32 -> 00:27:38]  behaviors here using a graph like this. For example, we can tell that the large
+[00:27:38 -> 00:27:42]  target scores seem to sort of on average be smaller.
+[00:27:42 -> 00:27:47]  And, and that they're, they tend to be more clustered, whereas the small target
+[00:27:47 -> 00:27:50]  scores tend to be more, appear to be more spread out.
+[00:27:50 -> 00:27:54]  Now, this is still not a great representation of the data.
+[00:27:54 -> 00:27:59]  And so, another option here would be something called a, a frequency polygram
+[00:27:59 -> 00:28:05]  sorry, polygon, frequency polygon. And the idea is, is basically the same
+[00:28:05 -> 00:28:11]  except we put a dot at each interval basically at the same height that the
+[00:28:11 -> 00:28:16]  histogram would be. And then we sort of connect the dots.
+[00:28:16 -> 00:28:21]  Now, this is a little misleading because there's, we're not suggesting that this
+[00:28:21 -> 00:28:28]  actually, you know, increases that way. but it gets the idea of, of trend perhaps
+[00:28:28 -> 00:28:34]  a little bit more than, than, than the histogram does.
+[00:28:34 -> 00:28:39]  and this is what that ends up looking like. Now, this again sort of gets that
+[00:28:39 -> 00:28:44]  idea that the large target values are a little smaller and a little more compact,
+[00:28:44 -> 00:28:49]  whereas the small target scores are a little more spread out and appear to be
+[00:28:49 -> 00:28:55]  slightly larger. So next, we're going to talk about
+[00:28:55 -> 00:29:00]  numerical summaries of the data, of data, and we're going to look at a few of them.
+[00:29:00 -> 00:29:04]  first, we're going to start with measures of what's called measures of center.
+[00:29:04 -> 00:29:08]  now, you may have heard of averages before, and we don't, we try to avoid the
+[00:29:08 -> 00:29:13]  use of the word average in statistics because it's a bit ambiguous.
+[00:29:13 -> 00:29:18]  and instead, we're going to use the word mean, the arithmetic mean, more
+[00:29:18 -> 00:29:23]  specifically, which is what we're going to use to calculate what you've probably
+[00:29:23 -> 00:29:29]  heard called average before. And, and so the mean, we calculate by
+[00:29:29 -> 00:29:37]  finding the sum of the scores and dividing by the number of scores.
+[00:29:37 -> 00:29:44]  So the mean is simply this, sum of scores. So there's our sum of scores, and we're
+[00:29:44 -> 00:29:48]  going to divide it by the number of scores.
+[00:29:48 -> 00:29:53]  We have four scores here. And pulling out my calculator, I get 85.25.
+[00:29:53 -> 00:29:58]  So we can say that Marcy's mean exam score is 85.25.
+[00:29:58 -> 00:30:03]  Let's look at another one. here's the number of touchdown passes
+[00:30:03 -> 00:30:07]  thrown by each of the 31 teams in the National Football League in the 2000
+[00:30:07 -> 00:30:10]  season. and we could find the mean number of
+[00:30:10 -> 00:30:14]  passes thrown. So if we're going to do that, we're going
+[00:30:14 -> 00:30:19]  to need to add all of these up. So we're going to find this plus that,
+[00:30:19 -> 00:30:23]  plus that, plus that, plus that, plus that, so on and so forth.
+[00:30:23 -> 00:30:29]  And it turns out those add up to 634. then to find the mean, we're going to take
+[00:30:29 -> 00:30:34]  that sum and divide it by how many scores there are.
+[00:30:34 -> 00:30:41]  There's 31 different counts here. and we divide that, and we get 20.4516.
+[00:30:41 -> 00:30:46]  now, it would be appropriate here, because all of this data has no decimal
+[00:30:46 -> 00:30:51]  places attached to it, it would be appropriate here for us to round this to,
+[00:30:51 -> 00:30:57]  to one decimal place. It's common to round means to one decimal
+[00:30:57 -> 00:31:03]  place more than the data originally had. so it would be most correct here for us
+[00:31:03 -> 00:31:08]  to say the mean number of touchdown passes thrown in the NFL season in, in the
+[00:31:08 -> 00:31:14]  2000 season was 20.5 passes. but it's certainly not uncommon to hear
+[00:31:14 -> 00:31:20]  the word average used in place of mean, at least in common language.
+[00:31:21 -> 00:31:29]  So in addition to the mean, another measure of center is called the median.
+[00:31:29 -> 00:31:33]  And we'll get to the actual question here in a second.
+[00:31:33 -> 00:31:39]  so the median is the middle value from a set of data.
+[00:31:39 -> 00:31:43]  and so, for example, it, sorry, middle value in order.
+[00:31:43 -> 00:31:48]  So if we list our data in order, the median will be the middle value.
+[00:31:48 -> 00:31:57]  So if my data was 1, 3, 7, 10, 15, the middle value would be 7.
+[00:31:57 -> 00:32:07]  7 would be the median of that data. If my data was 1, 3, 7, 8, 10, 15.
+[00:32:07 -> 00:32:12]  Notice now the middle is right between two values.
+[00:32:12 -> 00:32:18]  and so when that happens, we find the mean of those two values.
+[00:32:18 -> 00:32:24]  In other words, we add them up and divide by 2 and we get 7.5 as the median.
+[00:32:24 -> 00:32:31]  So if we have an odd number of data, then it, the median will be fairly easy to
+[00:32:31 -> 00:32:35]  find. It will be in the middle.
+[00:32:35 -> 00:32:41]  and if we have an even number, number of data, then we're going to need to split
+[00:32:41 -> 00:32:45]  the difference. Now, the way that we can find where the
+[00:32:45 -> 00:32:48]  median is, is using something called a locator.
+[00:32:48 -> 00:32:51]  and so we're going to take the number of data.
+[00:32:51 -> 00:32:57]  In this case, we had five pieces of data. And we're going to divide it in half.
+[00:32:57 -> 00:33:03]  So 5 divided by 2 is 2.5. Now, if this number comes out to be a, not
+[00:33:03 -> 00:33:09]  a whole number, which will happen whenever we have an odd number of data,
+[00:33:09 -> 00:33:13]  then we go up to the next whole number up.
+[00:33:13 -> 00:33:17]  So it's going to be the third piece of data.
+[00:33:17 -> 00:33:20]  Third piece of data. Right?
+[00:33:20 -> 00:33:24]  So in our order, 1, 2, 3, third piece of data.
+[00:33:24 -> 00:33:31]  In this case 6 divided by 2 is 3. And so this already is a whole number.
+[00:33:31 -> 00:33:38]  when that happens, then we, then we find the mean of, in this case, the third and
+[00:33:38 -> 00:33:41]  fourth. So we start at the third value.
+[00:33:41 -> 00:33:46]  so we find the mean of the third and fourth pieces of data.
+[00:33:46 -> 00:33:51]  But for small sets of data, you can use this visual approach, which usually works
+[00:33:51 -> 00:33:54]  pretty well. So here we have a set of data.
+[00:33:54 -> 00:33:58]  I have 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 pieces of data.
+[00:33:58 -> 00:34:03]  So again, we use the letter n to represent the number of data.
+[00:34:03 -> 00:34:06]  And so this is the even case. Right?
+[00:34:06 -> 00:34:12]  So I can say 10 divided by 2 is 5. And so we're going to need the mean of the
+[00:34:12 -> 00:34:19]  fifth and sixth data values here. But, most importantly, we first need to
+[00:34:19 -> 00:34:23]  put our data in order from smallest to biggest.
+[00:34:23 -> 00:34:28]  or biggest to smallest, doesn't really matter, but we're going to go small to
+[00:34:28 -> 00:34:34]  big here. So we've got 2, 4, 5, 5, 6, 7, 7, 8, 8,
+[00:34:34 -> 00:34:38]  8, 10. Let me double check I've got everything.
+[00:34:38 -> 00:34:41]  1, 2, 3, 4, 5, 6, 7, 8, 9, 10 pieces of data.
+[00:34:41 -> 00:34:45]  Good. And, and really you can see that this
+[00:34:45 -> 00:34:52]  point here splits the data in half. this is the 1, 2, 3, 4, 5th piece of data.
+[00:34:52 -> 00:34:57]  So the 5th and the 6th piece of data here we need to find the mean of.
+[00:34:57 -> 00:35:04]  6 plus 7 divided by 2 is 6.5. And it is, so that is our median of this,
+[00:35:04 -> 00:35:09]  of this data. So let's look at another example.
+[00:35:09 -> 00:35:14]  So here is a set of touchdown passes. And this time, they've been arranged in
+[00:35:14 -> 00:35:20]  order for us, which is awfully nice. and so, notice there are 31 pieces of
+[00:35:20 -> 00:35:25]  data. If I divide 31 by 2, I get 15.5, which is
+[00:35:25 -> 00:35:33]  a decimal value. And so I go up to 16th 16th data value.
+[00:35:33 -> 00:35:39]  Right, because we have an odd number of data, we know that the median is going to
+[00:35:39 -> 00:35:44]  be a single value. So now I can just find the 16th piece of
+[00:35:44 -> 00:35:47]  data, because it's already listed in order.
+[00:35:47 -> 00:35:53]  So 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16.
+[00:35:53 -> 00:36:08]  So my median is 20. So here again is our income data from 100
+[00:36:08 -> 00:36:12]  families. We have income and frequencies here, so
+[00:36:12 -> 00:36:19]  we're working off of a frequency table. So we have here 100 pieces of data.
+[00:36:19 -> 00:36:26]  So that's even, so we know that the median will be in between the, in this
+[00:36:26 -> 00:36:37]  case, 50th and 51st piece of data. So piece of data.
+[00:36:37 -> 00:36:41]  Okay, so between the 50th and 51st piece of data.
+[00:36:41 -> 00:36:45]  So now we need to figure out where that is.
+[00:36:46 -> 00:36:52]  So our first six pieces of data are here. So we've counted up six pieces of data
+[00:36:52 -> 00:36:56]  so far. And then we have another eight pieces of
+[00:36:56 -> 00:37:00]  data here. So all together, that would be six, six
+[00:37:00 -> 00:37:03]  pieces of data there, eight pieces of data there.
+[00:37:03 -> 00:37:09]  We've now counted up to 14. So together, these make 14 pieces of data.
+[00:37:09 -> 00:37:13]  So we have 14 pieces, and then we add in 11 more.
+[00:37:13 -> 00:37:17]  and now we have a total of 25 pieces of data.
+[00:37:17 -> 00:37:21]  So all of these together is 25 pieces of data.
+[00:37:21 -> 00:37:26]  And then, let's see, if we add in another 17, that's going to get us up to, let's
+[00:37:26 -> 00:37:31]  see, 42. And so all together, this is 42 pieces of
+[00:37:31 -> 00:37:35]  data. And then add that to 19, and that gets us
+[00:37:35 -> 00:37:40]  up to 61. And so all together, this is 61 pieces of
+[00:37:40 -> 00:37:44]  data. So now that we're up to 61, we've passed
+[00:37:44 -> 00:37:49]  50 and 51, which means where were pieces of data 50 and 51?
+[00:37:49 -> 00:37:54]  Well, they weren't here. They weren't up to 30, which means pieces
+[00:37:54 -> 00:38:01]  of data 50 and 51 must have been here. And so both the 50th and 51st pieces of
+[00:38:01 -> 00:38:13]  data were 35,000, and the mean of 35,000 and 35,000 is also 35,000.
+[00:38:13 -> 00:38:21]  And so here, the median, the median income in this neighborhood is 35,000.
+[00:38:21 -> 00:38:26]  Now interestingly, look what happens when we add another family.
+[00:38:26 -> 00:38:30]  So we're going to add another family to our, our, our, our mix here.
+[00:38:30 -> 00:38:35]  again, we're going to add this, this family who makes $5 million a year.
+[00:38:35 -> 00:38:41]  So now we have 101 families. and from that, we know that the median
+[00:38:41 -> 00:38:46]  is going to be a single value, in this case, the 51st value.
+[00:38:46 -> 00:38:51]  and just like we did before, we can start counting up from the bottom.
+[00:38:51 -> 00:38:56]  And since the bottom part of the data didn't change, we already know that the
+[00:38:56 -> 00:39:04]  51st piece of data is in this category. And so the 55th, 51st piece of data is
+[00:39:04 -> 00:39:10]  35,000. So notice that with the median, the median
+[00:39:10 -> 00:39:16]  income in this neighborhood has not changed with the addition of this very
+[00:39:16 -> 00:39:21]  rich family. so this is one of the features of the
+[00:39:21 -> 00:39:29]  median, is that it is not swayed by outliers nearly as much as the mean is.
+[00:39:34 -> 00:39:39]  When we have quantitative data, numerical data, we usually find the mean or the
+[00:39:39 -> 00:39:44]  median of the data. That's usually the most useful measure of
+[00:39:44 -> 00:39:47]  center. However, when we have categorical data,
+[00:39:47 -> 00:39:52]  like these car colors with relative, with corresponding frequencies, then finding
+[00:39:52 -> 00:39:58]  numerical measures is, isn't possible. and so for that, we have something called
+[00:39:58 -> 00:40:02]  the mode. the mode is another measure of center, and
+[00:40:02 -> 00:40:06]  it is a measure of the most typical value in the set.
+[00:40:06 -> 00:40:09]  In other words, it's the value that shows up the most often.
+[00:40:09 -> 00:40:13]  and for that, we simply look at our frequencies here and say, that's my
+[00:40:13 -> 00:40:17]  biggest frequency. And so the mode here is green.
+[00:40:17 -> 00:40:21]  Green is the color that shows up the most often.

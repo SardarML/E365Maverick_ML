@@ -1,0 +1,134 @@
+[00:00:00 -> 00:00:06]  If you use a desktop PC or laptop in 2020, the chances are you're either using Windows 10,
+[00:00:06 -> 00:00:10]  macOS or maybe one of the many Linux distros that are out there.
+[00:00:11 -> 00:00:16]  But despite what many people believe, there are actually more choices out there than just
+[00:00:16 -> 00:00:21]  the main three operating systems. And in this video, we'll be taking a look at 12
+[00:00:21 -> 00:00:25]  amazingly alternative operating systems that you can use today.
+[00:00:26 -> 00:00:30]  Now the first OS on our list is actually one of the most interesting operating systems that
+[00:00:30 -> 00:00:36]  we'll be talking about. Haiku came out of a revolutionary computer and OS that was born
+[00:00:36 -> 00:00:42]  in the early 90s. Originally designed for a platform called the BBOX, BOS was an operating
+[00:00:42 -> 00:00:48]  system that threw out the years of legacy code and backwards compatibility of macOS and Windows
+[00:00:49 -> 00:00:55]  and focused on delivering fast multimedia features. Despite being a very robust and
+[00:00:55 -> 00:01:00]  efficient platform and even at one point looking like it could be the next operating system for
+[00:01:00 -> 00:01:06]  the Mac before Apple did a deal with Steve Jobs' next computers company, BOS failed to
+[00:01:06 -> 00:01:13]  generate a significant market share and copyrights were sold to Palm in 2001. Several projects used
+[00:01:13 -> 00:01:20]  parts of the BOS code after but Haiku is a fully open source re-implementation of BOS that aims to
+[00:01:20 -> 00:01:26]  bring the operating system, its concepts and ideas into the 21st century. And it retains
+[00:01:26 -> 00:01:32]  backwards compatibility with BOS programs. Development has been somewhat slow with work
+[00:01:32 -> 00:01:38]  starting in 2001 and the current version, Beta 1, having been released in September 2018.
+[00:01:38 -> 00:01:43]  But as it stands, it's a fun and usable operating system and it's completely free.
+[00:01:46 -> 00:01:51]  One of the main criticisms of Windows over the years has been that it's a closed source
+[00:01:51 -> 00:01:56]  operating system and controlled by just Microsoft. ReactOS aims to change that.
+[00:01:58 -> 00:02:04]  Work started just after the release of Windows 95 and the aim is to eventually have a drop-in
+[00:02:04 -> 00:02:10]  replacement open source operating system that can fully replace Windows. Their mission statement
+[00:02:10 -> 00:02:16]  on their website says, the main goal of the ReactOS project is to provide an operating system
+[00:02:16 -> 00:02:21]  which is binary compatible with Windows, such that people accustomed to the familiar user
+[00:02:21 -> 00:02:27]  interface of Windows would find using ReactOS straightforward. The ultimate goal of ReactOS
+[00:02:27 -> 00:02:32]  is to allow you to remove Windows and install ReactOS without the end user noticing the change.
+[00:02:34 -> 00:02:39]  After 21 years of development, it is still considered alpha software that is currently
+[00:02:39 -> 00:02:44]  feature incomplete. But today, you will find that a lot of Windows software will work just fine
+[00:02:44 -> 00:02:52]  within ReactOS. Friend realizes a vision that many industry leaders had, including Steve Jobs.
+[00:02:52 -> 00:02:58]  He was talking about this back in the 90s, a time when hardware would no longer be important
+[00:02:58 -> 00:03:02]  and users wouldn't have to worry about things such as updating their own systems,
+[00:03:02 -> 00:03:08]  and it could all be taken care of on a server. Friend is an open source cloud-based operating
+[00:03:08 -> 00:03:13]  system that can be accessed on any device that has a modern web browser, and brings them into a new
+[00:03:13 -> 00:03:20]  concept called Sky Computing. Applications, documents, file systems, and the GUI all run
+[00:03:20 -> 00:03:27]  within a tab in your browser via the Friend workspace, an HTML5 and JavaScript-based user
+[00:03:27 -> 00:03:32]  interface, meaning it can be run on any device from a smartphone to a high-end workstation.
+[00:03:33 -> 00:03:39]  Interestingly, Friend also borrows some desktop and file system concepts from AmigaOS
+[00:03:39 -> 00:03:44]  and the Tripos portable operating system that was born at Cambridge University and ran on the
+[00:03:44 -> 00:03:49]  Cambridge Distributed Computing System. Now a little disclaimer, I have been involved in the
+[00:03:49 -> 00:03:53]  Friend project for a few years now, but if you'd like to try it out for yourself, you can sign up
+[00:03:53 -> 00:03:58]  for a free online account or download the source code and run your own server by heading to their
+[00:03:58 -> 00:04:08]  website friendos.com. Standing for Atari running on any machine, Arunim is actually a virtual machine
+[00:04:08 -> 00:04:14]  similar to something like VirtualBox or VMware that's designed to run operating systems designed
+[00:04:14 -> 00:04:20]  for the Atari ST and Falcon line of retro computers. This does include the native Atari TOS
+[00:04:20 -> 00:04:28]  and also newer third-party operating systems like Freemint, Magic, and the Motorola 68k distros of
+[00:04:28 -> 00:04:34]  Linux. They do state that it's not meant to be an emulator for the Atari machines, even though it
+[00:04:34 -> 00:04:40]  does have a pretty high compatibility rate with classic applications and even contains the Falcon
+[00:04:40 -> 00:04:46]  custom chips in software. The latest release came out in 2017 and can be downloaded as a free live
+[00:04:46 -> 00:04:52]  CD image from GitHub, which boots on a small Linux core, which means it should work with pretty much
+[00:04:52 -> 00:04:59]  any PC. Anyone who went to school in Britain in the early to mid 90s will probably be familiar
+[00:04:59 -> 00:05:06]  with this next operating system. RISC OS started life on Acorn's range of Archimedes computers,
+[00:05:06 -> 00:05:11]  which were the standard computer platform in the British education sector until the mid to late 90s.
+[00:05:12 -> 00:05:19]  First released in 1987, it was designed to be the native operating system of the then new ARM
+[00:05:19 -> 00:05:26]  chipset, and yes that is the same ARM platform that's in your smartphone today. Acorn were often
+[00:05:26 -> 00:05:31]  referred to as the British Apple and they were a very innovative company, giving lots of British
+[00:05:31 -> 00:05:38]  kids their first taste of computers with the Acorn BBC Micro. RISC OS shipped with all Acorn
+[00:05:38 -> 00:05:46]  ARM-based machines from 1987 to 1998. When Acorn exited the personal computer market and renamed
+[00:05:46 -> 00:05:53]  themselves to Element 14, RISC OS was forked into different projects and companies. The open source
+[00:05:53 -> 00:05:59]  version, maintained by the RISC OS open team, is available for several modern ARM platforms,
+[00:05:59 -> 00:06:04]  but it was a release a few years ago on the popular Raspberry Pi platform that really reinvigorated
+[00:06:04 -> 00:06:09]  mainstream interest in RISC OS. And if you've got a Raspberry Pi and you'd like to try it out,
+[00:06:09 -> 00:06:14]  it is part of the Pi Noobs installer, or you can get an image from their official website.
+[00:06:15 -> 00:06:20]  MorphOS is the first of the updated Amiga-influenced operating systems on this list.
+[00:06:21 -> 00:06:27]  Originally intended to be a new version of the Amiga OS, written for the then new PowerPC
+[00:06:27 -> 00:06:33]  architecture. MorphOS updates many of the Amiga's best features for the 21st century,
+[00:06:33 -> 00:06:36]  and also retains compatibility with many legacy applications.
+[00:06:38 -> 00:06:43]  The OS originally ran on classic Amiga computers with PowerPC accelerator cards,
+[00:06:43 -> 00:06:49]  but today it can also run on standalone PowerPC platforms, such as older PowerPC Macs. So if
+[00:06:49 -> 00:06:54]  you've got a spare Mac Mini G4 or a PowerMac G5 kicking around, it can really breathe new life
+[00:06:54 -> 00:07:00]  into those systems. Now it should be noted that MorphOS is a paid for operating system, but you
+[00:07:00 -> 00:07:08]  can download a live CD and run a 30 minute time demo to try it out. Future development of MorphOS
+[00:07:08 -> 00:07:17]  includes it being ported to modern x64 hardware. Once upon a time, in the late 1980s, Windows had
+[00:07:17 -> 00:07:23]  a competitor which many believed could go on to become the new default OS for PCs. The team who
+[00:07:23 -> 00:07:30]  gave us the original hardware and software for the PC platform, Microsoft and IBM, teamed up to
+[00:07:30 -> 00:07:39]  release Operating System 2, or OS2, as it was abbreviated. Very soon, seeing it as a competitor
+[00:07:39 -> 00:07:46]  to their Windows 3.1 platform, Microsoft dropped out, leaving OS2 in the hands of IBM. It added
+[00:07:46 -> 00:07:52]  some very nice features for the time, and by the time OS2 Warp was released in 1995, it offered
+[00:07:52 -> 00:07:59]  excellent compatibility with DOS and Windows 3.1. In fact, it was often referred to as a better DOS
+[00:07:59 -> 00:08:07]  than DOS, and a better Windows than Windows. After an estimated $990 million being spent per year on
+[00:08:07 -> 00:08:13]  development, OS2 just couldn't topple the Microsoft dominance, and at its peak, it never reached higher
+[00:08:13 -> 00:08:20]  than a 5% market share of PC operating systems. Despite finding uses in embedded applications,
+[00:08:20 -> 00:08:28]  such as cache machines, OS2 was phased out by IBM in the mid-2000s. Step forward to 2017,
+[00:08:28 -> 00:08:37]  and finally, a new OS2-derived operating system arrived called ArcaOS. This is a closed-source
+[00:08:37 -> 00:08:44]  commercial operating system that brings OS2 into the modern age. It can run legacy 16 and 32-bit
+[00:08:44 -> 00:08:51]  OS2 applications, 16-bit Windows apps, DOS programs, and lots more, plus bringing modern benefits such
+[00:08:51 -> 00:08:57]  as big hard disk support, multi-core support, and huge amounts of RAM. But this is really designed
+[00:08:57 -> 00:09:02]  for companies who are tied to legacy OS2 applications, and want a more modern way of
+[00:09:02 -> 00:09:08]  continuing to use those systems without starting over. But from what I've read on forums, it does
+[00:09:08 -> 00:09:17]  have fans in longtime OS2 users as well. AROS, the AROS Research Operating System, or originally
+[00:09:17 -> 00:09:23]  the Amiga Research Operating System, or Amiga Replacement Operating System, is a free open-source
+[00:09:23 -> 00:09:30]  update of the Amiga OS designed for multiple platforms. Starting life back in 1995, the goal
+[00:09:30 -> 00:09:36]  was to create a free, more modern replacement for the Commodore Amiga Workbench 3.1. And today,
+[00:09:36 -> 00:09:42]  AROS can be installed on many platforms, including standard PCs, Macs, there are ARM versions for
+[00:09:42 -> 00:09:49]  systems like the Raspberry Pi, and even a port to the classic 68K Amiga. The Icarus desktop build
+[00:09:49 -> 00:09:55]  of AROS has lots of useful pre-bundled programs and settings all in place, and you can actually
+[00:09:55 -> 00:10:02]  run it from a live image. Solaris is a Unix-based operating system that dates back to 1992.
+[00:10:02 -> 00:10:07]  Originally developed by the mighty Sun Microsystems to replace their earlier Sun OS,
+[00:10:07 -> 00:10:12]  Sun were acquired by Oracle in 2010, and the operating system continues to this day.
+[00:10:13 -> 00:10:18]  Now despite a few years as an open-source project under Sun, when they forked Solaris into the
+[00:10:18 -> 00:10:24]  OpenSolaris project, Oracle discontinued this, essentially turning Solaris back into a
+[00:10:24 -> 00:10:29]  closed-source commercial product. The open-source code went on to be developed into a Solaris-based
+[00:10:29 -> 00:10:38]  OS called Illumos. The main Solaris OS is now up to version 11.4, and supports the Spark architecture
+[00:10:38 -> 00:10:44]  as well as standard x86 and 64 machines. Before there was Linux, there was Minix,
+[00:10:45 -> 00:10:52]  a Unix-like operating system designed for use on microcomputers. Originally started in 1987,
+[00:10:52 -> 00:10:57]  it has been ported to pretty much any platform you can think of, including standard PCs,
+[00:10:57 -> 00:11:05]  the Atari ST, Classic Macs, Spark Stations, Amiga, ARM, and lots more. Minix has been free
+[00:11:05 -> 00:11:10]  and open-source since the year 2000, and the current version stands at 3.0.
+[00:11:10 -> 00:11:17]  Our third and final Amiga-inspired operating system on the list is AmigaOS 4.1. Now this is
+[00:11:17 -> 00:11:23]  a proprietary commercial operating system designed for custom PowerPC machines, and based on the
+[00:11:23 -> 00:11:31]  classic AmigaOS 3.1 from Commodore. Development started on AmigaOS 4 in the early 2000s,
+[00:11:31 -> 00:11:36]  as a way to bring the Amiga operating system to the more powerful PowerPC platform, with the
+[00:11:37 -> 00:11:44]  latest version being released in 2016. It retains an updated version of the Amiga Workbench as its
+[00:11:44 -> 00:11:49]  user interface, and brings with it many modern features such as network updating, support for
+[00:11:49 -> 00:11:54]  more modern graphic cards, and higher RAM and disk capabilities than the old Commodore version.
+[00:11:55 -> 00:12:01]  Versions of AmigaOS 4 are available for custom Amiga 1 hardware, and a version for classic
+[00:12:01 -> 00:12:07]  Amiga machines with PowerPC accelerators, and this version can also be run under the WinUAE
+[00:12:07 -> 00:12:13]  emulation platform. The last and possibly most bizarre operating system on the list
+[00:12:13 -> 00:12:20]  is TempleOS. A free public domain 64-bit operating system, this was designed by Terry
+[00:12:20 -> 00:12:27]  Davis. Now Terry was a programmer who worked on VAC systems after graduating from Arizona State
+[00:12:27 -> 00:12:34]  University, and he got his start by learning 6510 assembly on the Commodore 64. Terry grew
+[00:12:34 -> 00:12:40]  up as a Catholic, and in the mid-1990s he began experiencing some manic episodes, eventually
+[00:12:40 -> 00:12:48]  leading to a diagnosis of schizophrenia. TempleOS is a very lightweight biblical-themed operating
+[00:12:48 -> 00:12:54]  system, and Terry claimed the design of it was instructed to him by God himself. The user
+[00:12:54 -> 00:13:02]  interface is very reminiscent of 80s systems with a 640x480 16-color display. Terry claimed
+[00:13:02 -> 00:13:07]  that the limited resolution was to make it easier for children to draw illustrations for God.
+[00:13:07 -> 00:13:13]  Terry passed away after being hit by a train in 2018, but the OS in its finished state can still
+[00:13:13 -> 00:13:19]  be downloaded today. It is a very bizarre insight into the workings of his mind, but looking at it,
+[00:13:19 -> 00:13:24]  it is also an impressive feat that this entire project was created by one person.
+[00:13:26 -> 00:13:30]  If you'd like to download and try any of these operating systems, I will put more information
+[00:13:30 -> 00:13:35]  in the video description. And if you've enjoyed this video, you might want to check out my weekly
+[00:13:35 -> 00:13:40]  Retro Gaming and Technology podcast, available every Friday from Spotify, Apple Podcasts, Google,
+[00:13:40 -> 00:13:44]  wherever you normally get your podcasts from, or you can download it directly from our website
+[00:13:44 -> 00:13:49]  at theretrohour.com. And while you're on YouTube, why not check out a few more of my videos and
+[00:13:49 -> 00:13:52]  maybe hit that subscribe button. I'll see you in the next one.

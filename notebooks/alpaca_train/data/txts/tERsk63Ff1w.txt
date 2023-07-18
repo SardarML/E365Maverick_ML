@@ -1,0 +1,1007 @@
+[00:00:00 -> 00:00:07]  Hi guys, in this video we're going to deploy a web app to Azure and we're going to configure
+[00:00:07 -> 00:00:14]  an Azure Pipeline DevOps process so that we have a continuous integration and continuous
+[00:00:14 -> 00:00:21]  deployment which essentially means that on every GitHub commit and every push we trigger
+[00:00:21 -> 00:00:28]  on GitHub or every repository, it doesn't matter, our web app will going to be built
+[00:00:28 -> 00:00:35]  automatically, its tests will going to be automatically run and validated and if that
+[00:00:35 -> 00:00:45]  passes we're going to have an automatic deployment to an Azure App Service.
+[00:00:45 -> 00:00:56]  Just to let you know, the process of building and deploying is a little bit slow so at times
+[00:00:56 -> 00:01:03]  during the video I'm going to hit the pause because I don't want to have some empty minutes
+[00:01:03 -> 00:01:09]  on my video and when everything is done I'm going to continue the video so if you see
+[00:01:09 -> 00:01:17]  some sort of flickering or if the video is cut it's because there is actually no need
+[00:01:17 -> 00:01:22]  to sit and wait and not talking about anything.
+[00:01:22 -> 00:01:33]  Also I would like to mention that I have a lot of experience with other DevOps websites
+[00:01:33 -> 00:01:41]  and portals like Appware, like Travis CI, like Octopus Deploy so if you want to see
+[00:01:41 -> 00:01:48]  how to deploy an app using a different service than Azure Pipelines let me know and I'm going
+[00:01:48 -> 00:01:51]  to create a video about it.
+[00:01:51 -> 00:01:59]  But the thing is that all of these systems are quite the same, it doesn't matter whether
+[00:01:59 -> 00:02:06]  you're going to use Travis CI or Azure Pipelines, it's the same.
+[00:02:06 -> 00:02:14]  The only difference is a little bit of configuration here and there but that's usually copied from
+[00:02:14 -> 00:02:22]  some sort of documentation or you just need to turn on some options for example to make
+[00:02:22 -> 00:02:24]  the thing work.
+[00:02:24 -> 00:02:31]  So essentially the principles we are going to see here in this video apply to every other
+[00:02:31 -> 00:02:36]  platform which provides DevOps operations.
+[00:02:36 -> 00:02:40]  So first things first, what is continuous integration?
+[00:02:40 -> 00:02:48]  Continuous integration means that your code is validated on a standalone server, it's
+[00:02:48 -> 00:02:52]  built and its tests are run.
+[00:02:52 -> 00:02:56]  These are two common tasks that you can see in almost every project.
+[00:02:56 -> 00:03:04]  So essentially what I can do is I can instead of running all my tests locally I can trigger
+[00:03:04 -> 00:03:07]  a build.
+[00:03:07 -> 00:03:14]  If I have too many tests and I don't want to wait for 15 minutes for example I can just
+[00:03:14 -> 00:03:19]  push my code and wait for the continuous integration service to report results.
+[00:03:19 -> 00:03:21]  That's one thing.
+[00:03:21 -> 00:03:29]  Also another positive side of using continuous integration is that usually when you develop
+[00:03:29 -> 00:03:36]  alone you won't have that much problems, you won't have that much changes to your system,
+[00:03:36 -> 00:03:41]  you won't have that much issues or bugs or whatever.
+[00:03:41 -> 00:03:46]  But when you work in a team, when you work with more than five people for example and
+[00:03:46 -> 00:03:54]  everybody is merging code in the same repository, in the same place, bad things happen because
+[00:03:54 -> 00:04:02]  you may change a module which is required by someone else's work but he didn't reflect
+[00:04:02 -> 00:04:08]  the change in his part of the system and everything will work correctly on your machine but when
+[00:04:08 -> 00:04:15]  you merge the code and upload it, it will show that you have some bugs, you have some
+[00:04:15 -> 00:04:16]  problems and so on.
+[00:04:16 -> 00:04:25]  So the main idea is to make sure that the team and the whole source code that the team
+[00:04:25 -> 00:04:33]  is building is working correctly every time on a separated, isolated environment.
+[00:04:33 -> 00:04:38]  Because you know that it works on my machine but it doesn't work on the production, that's
+[00:04:38 -> 00:04:46]  a common problem and part of the problem is that you are working in a team environment.
+[00:04:46 -> 00:04:49]  So continuous integration will help you with that.
+[00:04:49 -> 00:04:56]  If you have automatic builds of your source code or automatic tests, you will be sure
+[00:04:56 -> 00:05:04]  that your code is completely fine or is having some problems.
+[00:05:04 -> 00:05:10]  But nevertheless, that's the main part of continuous integration.
+[00:05:10 -> 00:05:18]  Of course, you can do other tasks, for example, minify CSS, minify JavaScript, combine all
+[00:05:18 -> 00:05:20]  the JavaScript files and so on and so on.
+[00:05:20 -> 00:05:27]  You can do a lot of different tasks on a continuous integration server but usually the most important
+[00:05:27 -> 00:05:34]  ones are restore the dependencies, build the project, run the tests.
+[00:05:34 -> 00:05:39]  If everything passes, you're good to go.
+[00:05:39 -> 00:05:50]  About continuous delivery or continuous deployment, because usually it's CI and CD, CI is continuous
+[00:05:50 -> 00:06:00]  integration but CD is, people normally refer to CD with the term continuous delivery but
+[00:06:00 -> 00:06:05]  you may also see it as continuous deployment, it's the same thing.
+[00:06:05 -> 00:06:11]  What is important about continuous delivery is that you have your code deployed every
+[00:06:11 -> 00:06:18]  time a change is pushed to the repository, which is a very nice thing because your customers
+[00:06:18 -> 00:06:24]  will have the latest version of your app directly deployed every day.
+[00:06:24 -> 00:06:28]  So you make your clients happier this way.
+[00:06:28 -> 00:06:34]  Additionally, you no longer will need to have development cycles.
+[00:06:34 -> 00:06:37]  We are going to release this day and so on.
+[00:06:37 -> 00:06:44]  Of course, that process with automatic delivery is not applicable to every single project.
+[00:06:44 -> 00:06:47]  First, you need to have tests.
+[00:06:47 -> 00:06:54]  If you don't have tests, it's a little bit risky to deploy every push, that's understandable.
+[00:06:54 -> 00:06:59]  But if you have a lot of tests and if your code coverage is good enough, you may trigger
+[00:06:59 -> 00:07:02]  a deploy on every push.
+[00:07:02 -> 00:07:05]  Stack Overflow is using this strategy.
+[00:07:05 -> 00:07:11]  They have everything automated from the coding to the deployment.
+[00:07:11 -> 00:07:18]  So when the developer codes something and decides to push it, everything is automatic
+[00:07:18 -> 00:07:19]  from here on.
+[00:07:19 -> 00:07:24]  So every push triggers a deployment to the Stack Overflow system.
+[00:07:24 -> 00:07:29]  The only thing they do manually is database migration.
+[00:07:29 -> 00:07:35]  I know that because I haven't worked at Stack Overflow, obviously, but I've read a lot of
+[00:07:35 -> 00:07:44]  blogs where they share what are their processes, what are their infrastructures.
+[00:07:44 -> 00:07:49]  If you haven't read these articles, I suggest you take a look at them because they have
+[00:07:49 -> 00:07:51]  a lot of valuable information.
+[00:07:51 -> 00:07:58]  But if Stack Overflow, which is a huge system with a huge number of users, can afford to
+[00:07:58 -> 00:08:06]  risk to have a continuous delivery process, then it's applicable to everyone.
+[00:08:06 -> 00:08:11]  As long as you have some integration tests going on, as long as you have some unit tests
+[00:08:11 -> 00:08:14]  written, you should be fine.
+[00:08:14 -> 00:08:19]  Okay, so this application here is a simple block system.
+[00:08:19 -> 00:08:21]  It has tests.
+[00:08:21 -> 00:08:31]  You may find it in my GitHub profile, Vyval Kenov, and in my test.asp.net core.mvc tools,
+[00:08:31 -> 00:08:38]  which essentially, you know, you may know that these tools are for fluent testing and
+[00:08:38 -> 00:08:47]  easier assertion of web applications written with asp.net core.
+[00:08:47 -> 00:08:51]  If you go to samples, if you go to block, this is essentially the project we are going
+[00:08:51 -> 00:08:53]  to use.
+[00:08:53 -> 00:08:58]  We have 73 tests.
+[00:08:58 -> 00:09:04]  These are written with my tool, but never mind that.
+[00:09:04 -> 00:09:12]  Actually, if they pass or if they fail, everything is correct in terms of the process.
+[00:09:12 -> 00:09:14]  So we're going to fail some tests.
+[00:09:14 -> 00:09:18]  We are going to make some tests run smoothly and so on.
+[00:09:18 -> 00:09:23]  Okay, first things first, we need to deploy the application.
+[00:09:23 -> 00:09:26]  So I'm going to deploy to Azure.
+[00:09:26 -> 00:09:30]  So let's go to azure.microsoft.com.
+[00:09:30 -> 00:09:31]  Let's sign in.
+[00:09:31 -> 00:09:39]  I'm already signed in, so I'm going to hit portal.
+[00:09:39 -> 00:09:46]  So in the portal, what I need to do is I need to create a new app service.
+[00:09:46 -> 00:09:55]  Essentially an app service is a web application you can deploy.
+[00:09:55 -> 00:10:01]  For example, asp.net core app, Node.js app or whatever, actually.
+[00:10:01 -> 00:10:06]  So the easiest way to deploy a web app to Azure is by using app services.
+[00:10:06 -> 00:10:15]  So I'm going to create a new app service.
+[00:10:15 -> 00:10:22]  So first things first, because you may not have an Azure account, it's easy to create
+[00:10:22 -> 00:10:23]  one.
+[00:10:23 -> 00:10:28]  They require you to put a credit card, but they have three tiers.
+[00:10:28 -> 00:10:34]  So if you decide to follow this tutorial or if you decide to deploy an app there, you
+[00:10:34 -> 00:10:38]  have three options, so it's completely fine.
+[00:10:38 -> 00:10:47]  Also, if you just do the tutorial for educational purposes, you can delete the app afterwards.
+[00:10:47 -> 00:10:49]  It won't cost you a thing.
+[00:10:49 -> 00:10:58]  So if you register on Azure and enter your credentials, there's a lot of free goodies
+[00:10:58 -> 00:10:59]  you can use.
+[00:10:59 -> 00:11:06]  I suggest if you're an active.net core developer and haven't used Azure yet, just go and try
+[00:11:06 -> 00:11:07]  it.
+[00:11:07 -> 00:11:08]  It's very simple.
+[00:11:08 -> 00:11:10]  It's very easy to create new apps.
+[00:11:10 -> 00:11:13]  I really like it, actually.
+[00:11:13 -> 00:11:16]  So I need to specify a resource group.
+[00:11:16 -> 00:11:26]  Resources in Azure are essentially different kinds of services you are using for your app.
+[00:11:26 -> 00:11:33]  For example, a database, for example, a web app, for example, some sort of message broker,
+[00:11:33 -> 00:11:34]  whatever.
+[00:11:34 -> 00:11:41]  These are resources, and in order to be easier for you to navigate in your resources, you
+[00:11:41 -> 00:11:51]  may provide a resource group, which is a group of resources, like a namespace in the C-sharp
+[00:11:51 -> 00:11:52]  code.
+[00:11:52 -> 00:11:58]  So I'm going to create a new one, and I'm going to specify Azure pipelines blog.
+[00:11:58 -> 00:11:59]  Good.
+[00:11:59 -> 00:12:01]  So I'm creating a new one.
+[00:12:01 -> 00:12:08]  I'm going to create Azure pipelines blog to be the app name.
+[00:12:08 -> 00:12:10]  It's available, so I'm going to continue with that.
+[00:12:10 -> 00:12:12]  I'm going to publish codes.
+[00:12:12 -> 00:12:19]  I'm not going to use Docker images for now, but if you want me to create a video with
+[00:12:19 -> 00:12:23]  publishing Docker images, I can create that too.
+[00:12:23 -> 00:12:24]  Good.
+[00:12:24 -> 00:12:33]  So I'm going to choose .NET Core 3.1 because my project is .NET Core 3.1.
+[00:12:33 -> 00:12:38]  I'm going to, it doesn't matter whether I'm going to use a Windows or a Linux.
+[00:12:38 -> 00:12:40]  Let's stick with Windows.
+[00:12:40 -> 00:12:43]  Good.
+[00:12:43 -> 00:12:50]  Let's choose Europe because I'm located in Europe, but you can choose your location,
+[00:12:50 -> 00:12:58]  and I want to have app service plan, which is the most important part here if you don't
+[00:12:58 -> 00:13:04]  want to have any costs on your credit card.
+[00:13:04 -> 00:13:11]  So the S1 tier is paid, so I need to create a new one.
+[00:13:12 -> 00:13:22]  Azure pipelines blog plan, something like that.
+[00:13:22 -> 00:13:23]  Okay.
+[00:13:23 -> 00:13:32]  Let's create a new one, and I'm going to change the size of this thing because I want to be
+[00:13:32 -> 00:13:34]  completely free.
+[00:13:34 -> 00:13:41]  They changed the UI here, so I need a little bit of, I need to recognize what is what,
+[00:13:41 -> 00:13:44]  but we're going to do it nevertheless.
+[00:13:44 -> 00:13:56]  Also what's important is I haven't prepared this lecture in terms of, I haven't tested
+[00:13:56 -> 00:13:58]  the Azure pipelines with this project.
+[00:13:58 -> 00:14:03]  So that's at the same time a good and a bad thing.
+[00:14:03 -> 00:14:12]  A good thing is because for you, you will see any problems I encounter, which is kind
+[00:14:12 -> 00:14:16]  of nice because you're going to see how I'm going to solve them, but essentially it's
+[00:14:16 -> 00:14:19]  bad because it will take us a little bit more time.
+[00:14:19 -> 00:14:27]  But I believe that live debugging and live issues are fine when teaching because it's
+[00:14:27 -> 00:14:33]  really frustrating to see your teacher doing everything, working correctly.
+[00:14:33 -> 00:14:35]  It's fine.
+[00:14:35 -> 00:14:36]  Everything is fine.
+[00:14:36 -> 00:14:37]  It's perfect.
+[00:14:37 -> 00:14:42]  Then you try it yourself and you run and you see all kinds of problems.
+[00:14:42 -> 00:14:46]  So that's essentially not a good thing.
+[00:14:46 -> 00:14:47]  Okay.
+[00:14:47 -> 00:14:54]  So on DevTest, there's a free app service tier, which allows you 16 minutes per day
+[00:14:54 -> 00:14:56]  computing time.
+[00:14:56 -> 00:15:00]  This is more than enough, more than enough.
+[00:15:00 -> 00:15:07]  If you want to test apps to just educate yourself, so choose it.
+[00:15:07 -> 00:15:13]  If you want to have a website, which is used by not many people, you may choose the shared
+[00:15:13 -> 00:15:17]  infrastructure, which is something like eight years a month.
+[00:15:17 -> 00:15:25]  There are cheaper ASP.NET core hostings, but essentially if you decide to, if your
+[00:15:25 -> 00:15:36]  website becomes more popular, you may choose very easily a more expensive pricing tier.
+[00:15:36 -> 00:15:42]  So I can suggest to you that you may use Azure for simple sites.
+[00:15:42 -> 00:15:48]  For example, this MyTestedASP.NET website is hosted on Azure.
+[00:15:48 -> 00:15:50]  The whole thing is hosted on Azure.
+[00:15:50 -> 00:15:51]  It has a database.
+[00:15:51 -> 00:15:57]  It has a lot of things here, like an email service and something like that.
+[00:15:57 -> 00:16:07]  And because Microsoft is giving away a lot of free goodies, this site costs me something
+[00:16:07 -> 00:16:15]  like two to three euros a month, and it has more than 5,000 views every month.
+[00:16:15 -> 00:16:19]  So it's okay for simple apps too.
+[00:16:19 -> 00:16:21]  So I'm going to choose the free tier.
+[00:16:21 -> 00:16:26]  I'm going to hit apply, and I'm going to hit review and create.
+[00:16:26 -> 00:16:31]  I don't want to have any monitoring or all that advanced stuff.
+[00:16:31 -> 00:16:32]  Good.
+[00:16:32 -> 00:16:37]  So .NET Core 3.1, Windows Westero 3 should be fine.
+[00:16:37 -> 00:16:41]  Let's create that.
+[00:16:41 -> 00:16:46]  The Azure will start to deploy this service.
+[00:16:46 -> 00:16:54]  So when it's ready, I'm going to use it in my Visual Studio Publishing.
+[00:16:54 -> 00:17:02]  Then I'm going to use it in the Azure pipelines.
+[00:17:02 -> 00:17:07]  What we'll need also is, yep, that's good.
+[00:17:07 -> 00:17:09]  Go to resource.
+[00:17:09 -> 00:17:10]  Nice.
+[00:17:10 -> 00:17:11]  Okay.
+[00:17:11 -> 00:17:14]  So I created the app service from here.
+[00:17:14 -> 00:17:22]  I will need the database because this system has a SQL Server database, but I will try
+[00:17:22 -> 00:17:27]  to create it through Visual Studio so that you can see the other process because the
+[00:17:27 -> 00:17:35]  same thing we did here, the same thing, creating an app service can be done by Visual Studio
+[00:17:35 -> 00:17:36]  directly.
+[00:17:36 -> 00:17:43]  So how to do that, how to publish the app, you need to hit the right mouse button on
+[00:17:43 -> 00:17:46]  your web app and hit publish.
+[00:17:46 -> 00:17:47]  It's here.
+[00:17:47 -> 00:17:56]  So when we hit publish, first things first, we need to choose Azure because yeah, we don't
+[00:17:56 -> 00:17:59]  want to publish the app anywhere else.
+[00:17:59 -> 00:18:03]  Then we need to choose the app service.
+[00:18:03 -> 00:18:07]  I already created the Windows one, so let's use that one.
+[00:18:07 -> 00:18:15]  And here you can log in in your account and Visual Studio will automatically show all
+[00:18:15 -> 00:18:18]  the resources you have, all the app services.
+[00:18:18 -> 00:18:22]  You can see the Catstagram if you are familiar with that from my YouTube account.
+[00:18:22 -> 00:18:28]  You can see the mytestedsp.net website I showed you earlier, this one.
+[00:18:28 -> 00:18:32]  So Visual Studio will show you everything here.
+[00:18:32 -> 00:18:44]  So I can choose Azure pipeline block, but I can also create a new app service from here.
+[00:18:44 -> 00:18:49]  I'm not sure whether you can choose the free tier from here, whether you can create a free
+[00:18:49 -> 00:18:50]  tier.
+[00:18:50 -> 00:18:51]  Yeah, you can create it.
+[00:18:51 -> 00:18:55]  OK, it's fine, but nevertheless, essentially, it's the same.
+[00:18:55 -> 00:18:59]  So I'm going to choose the Azure pipeline and I'm going to hit finish.
+[00:19:02 -> 00:19:13]  Good, so it's cool that Microsoft or Visual Studio for that matter, so that I have a database
+[00:19:13 -> 00:19:16]  here, I have some default connection.
+[00:19:16 -> 00:19:26]  I have, let's change that, the database can be azure.pipelines.block or something like
+[00:19:26 -> 00:19:27]  that.
+[00:19:27 -> 00:19:28]  Let's remove the dots.
+[00:19:28 -> 00:19:32]  It's strange for a SQL server database to have dots.
+[00:19:32 -> 00:19:41]  So essentially, Visual Studio saw that I have a database and my app needs a SQL server database.
+[00:19:41 -> 00:19:48]  So let's hit configure and let's choose a database.
+[00:19:48 -> 00:19:53]  If I choose, I can choose a SQL server database, which I already have.
+[00:19:53 -> 00:20:01]  For example, if I purchased somewhere or I have a server with a SQL server installed
+[00:20:01 -> 00:20:10]  on it or whatever, but I can choose Azure SQL database if I want to use the Azure database.
+[00:20:10 -> 00:20:17]  So here are all my databases for the catstagram, for the mytest.asp.net website, and for some
+[00:20:17 -> 00:20:24]  random game that I don't even remember, but nevertheless, OK, I need to create a database.
+[00:20:24 -> 00:20:27]  So I'm going to specify the name.
+[00:20:27 -> 00:20:45]  The database will be called azure.pipelines.block database or something like that.
+[00:20:45 -> 00:20:46]  What's the problem here?
+[00:20:46 -> 00:20:49]  Yeah, the database server is required.
+[00:20:49 -> 00:20:54]  It's a little bit strange because you first choose the database name and then you choose
+[00:20:54 -> 00:20:56]  the database server.
+[00:20:56 -> 00:20:59]  OK, I'm going to create a new server.
+[00:20:59 -> 00:21:03]  I'm going to choose West Europe.
+[00:21:03 -> 00:21:07]  I need to specify some administrator username.
+[00:21:07 -> 00:21:09]  So let's administrator.
+[00:21:13 -> 00:21:20]  OK, so azure.pipelines.block seems fine.
+[00:21:20 -> 00:21:23]  I'm going to choose a password.
+[00:21:26 -> 00:21:46]  OK, let's.
+[00:21:46 -> 00:21:48]  It should be hard to remember password.
+[00:21:48 -> 00:21:51]  I'm trying because it's an educational content.
+[00:21:51 -> 00:21:57]  I try to have something more easy to follow.
+[00:21:57 -> 00:21:59]  I won't need that password, but nevertheless.
+[00:22:03 -> 00:22:04]  OK.
+[00:22:06 -> 00:22:16]  This is fine and database server, resource group, pricing, create.
+[00:22:16 -> 00:22:24]  So I created the database, make sure that after you create the database from here, because
+[00:22:24 -> 00:22:33]  I didn't choose a pricing plan, make sure that you go to the Azure portal and see whether
+[00:22:33 -> 00:22:40]  the pricing plan of the SQL server is a little bit too much for you, because usually the
+[00:22:40 -> 00:22:48]  app services are cheaper and the database, the databases are that are more expensive.
+[00:22:48 -> 00:22:52]  So let's wait a bit.
+[00:22:52 -> 00:22:54]  It should be ready soon.
+[00:22:58 -> 00:23:05]  If I hit resource group, I can see all the different resource group which I used, and
+[00:23:05 -> 00:23:15]  if I go to azure.pipelines.block, I would, I guess I would see the SQL server too here
+[00:23:15 -> 00:23:19]  besides my plan and my app service.
+[00:23:19 -> 00:23:24]  Azure automatically creates an application insights, which is a reporting service for
+[00:23:24 -> 00:23:29]  your app, whether it's healthy, whether it's working correctly, how many requests it received
+[00:23:29 -> 00:23:31]  and so on.
+[00:23:31 -> 00:23:33]  So that's automatic and it's free.
+[00:23:35 -> 00:23:41]  Okay, I'm going to pause the video now because it usually takes a few minutes and I'm going
+[00:23:41 -> 00:23:47]  to continue afterwards.
+[00:23:47 -> 00:23:51]  So the database was created, we can see it here.
+[00:23:51 -> 00:23:59]  Let's go through the Azure portal and check whether it's an expensive database.
+[00:23:59 -> 00:24:20]  So this SQL server, let's see whether it has some sort of a plan, SQL databases, pricing
+[00:24:20 -> 00:24:23]  tier.
+[00:24:23 -> 00:24:36]  Good, so every time I use the Azure portal, something has changed, but nevertheless, I'm
+[00:24:36 -> 00:24:46]  going to find it.
+[00:24:46 -> 00:25:03]  Pricing tier standard, 10 DTUs, this should be, this should be fairly free.
+[00:25:03 -> 00:25:13]  So currently I cannot choose, I cannot choose a free database.
+[00:25:13 -> 00:25:15]  I will have some costs here.
+[00:25:22 -> 00:25:26]  Let me see whether I can choose something more.
+[00:25:30 -> 00:25:33]  Okay, let's, let's create this database.
+[00:25:34 -> 00:25:35]  It's not that much.
+[00:25:36 -> 00:25:40]  This is essentially not high performance database.
+[00:25:40 -> 00:25:47]  You can choose how many DTUs your database will have.
+[00:25:47 -> 00:25:57]  A DTU essentially means how, how your database computement is calculated.
+[00:25:58 -> 00:26:03]  So, and of course, it means that you have a lot more.
+[00:26:07 -> 00:26:08]  Let's put it this way.
+[00:26:08 -> 00:26:14]  If you have more DTUs, you have more performance and more costs.
+[00:26:14 -> 00:26:19]  So let's choose the, the most simple one.
+[00:26:20 -> 00:26:30]  Keep in mind that even though I've chosen a database, which is paid, by default, Azure
+[00:26:30 -> 00:26:36]  gives you some free dollars, free credits you can use if you didn't.
+[00:26:36 -> 00:26:38]  So here, here they are.
+[00:26:38 -> 00:26:44]  I have a subscription, which has free credits, something like 50 euros a month.
+[00:26:44 -> 00:26:46]  They give that to everybody.
+[00:26:48 -> 00:26:52]  And for the first 12 months or something like that.
+[00:26:52 -> 00:26:57]  So if you decide to test the database, it won't be a problem because you have a lot
+[00:26:57 -> 00:27:06]  of, a lot of credits you can use to test your app, but make sure that you delete
+[00:27:06 -> 00:27:14]  the app afterwards, because if you, if you forget it, you may hit the problem that in
+[00:27:14 -> 00:27:18]  one or two years, it may start charging you.
+[00:27:19 -> 00:27:23]  Check it, check it for yourself, but nevertheless, it doesn't matter.
+[00:27:24 -> 00:27:28]  This database here, I'm going to leave on one gigabyte.
+[00:27:29 -> 00:27:32]  This database here will not exceed my credit.
+[00:27:32 -> 00:27:33]  So it doesn't matter.
+[00:27:34 -> 00:27:35]  Okay.
+[00:27:36 -> 00:27:38]  So I have the database.
+[00:27:38 -> 00:27:39]  I checked it.
+[00:27:39 -> 00:27:45]  If you, if you want to delete the database and the app service afterwards, you can do
+[00:27:45 -> 00:27:47]  it from the delete button here.
+[00:27:48 -> 00:27:49]  I'm not going to do that.
+[00:27:50 -> 00:27:51]  Good.
+[00:27:51 -> 00:27:54]  So I'm going to choose Azure Pipeline database.
+[00:27:54 -> 00:27:55]  Let's hit refresh.
+[00:27:55 -> 00:27:57]  Azure Pipeline, next.
+[00:27:57 -> 00:27:58]  Next.
+[00:28:02 -> 00:28:04]  Database connection.
+[00:28:16 -> 00:28:17]  Azure.
+[00:28:18 -> 00:28:22]  Problem is, is I don't remember.
+[00:28:27 -> 00:28:30]  Yeah, this is the ID, Azure Pipelines block.
+[00:28:31 -> 00:28:32]  Luckily, I remember the password.
+[00:28:32 -> 00:28:42]  So the password, I don't care about the password, but somebody may decide to hack
+[00:28:42 -> 00:28:47]  into this database and it may overcharge me.
+[00:28:49 -> 00:28:51]  I guess you won't do that, but nevertheless.
+[00:28:51 -> 00:28:52]  Okay.
+[00:28:52 -> 00:28:55]  So project changes for dependency.
+[00:28:55 -> 00:28:56]  Okay.
+[00:28:56 -> 00:28:59]  NuGet packages, good secret stuff.
+[00:28:59 -> 00:28:59]  Okay.
+[00:29:00 -> 00:29:01]  I don't care about that.
+[00:29:02 -> 00:29:03]  I don't have NuGet packages.
+[00:29:07 -> 00:29:11]  So this will take a while, I guess.
+[00:29:13 -> 00:29:14]  Oh no, it's ready.
+[00:29:14 -> 00:29:15]  Okay.
+[00:29:18 -> 00:29:18]  Done.
+[00:29:18 -> 00:29:20]  So I have a database.
+[00:29:20 -> 00:29:22]  I have a web app.
+[00:29:23 -> 00:29:25]  So what I need to do now is hit publish.
+[00:29:26 -> 00:29:27]  I will hit publish.
+[00:29:27 -> 00:29:30]  You need to wait for the build to complete.
+[00:29:30 -> 00:29:33]  I believe it will be a matter of seconds.
+[00:29:33 -> 00:29:34]  So let's wait it.
+[00:29:36 -> 00:29:45]  Then if everything is published correctly, if I go to the website, which is this one
+[00:29:45 -> 00:29:52]  here, azurepipelinesblog.azurewebsites.net, my blog should be working.
+[00:29:53 -> 00:29:57]  So let's wait a little bit.
+[00:30:00 -> 00:30:01]  The app is now deployed.
+[00:30:04 -> 00:30:05]  Database is migrating.
+[00:30:05 -> 00:30:11]  The app service is a free one, so we can't expect it to be fast enough.
+[00:30:12 -> 00:30:13]  And here it is.
+[00:30:13 -> 00:30:14]  The blog is live.
+[00:30:15 -> 00:30:17]  We have the seeded data.
+[00:30:18 -> 00:30:19]  Nice.
+[00:30:19 -> 00:30:19]  Okay.
+[00:30:19 -> 00:30:23]  So you saw how easy it is to use Azure.
+[00:30:23 -> 00:30:30]  I created and deployed an app, which is available to the whole world in, what, 20
+[00:30:30 -> 00:30:30]  minutes.
+[00:30:31 -> 00:30:33]  So it's very easy to use Azure.
+[00:30:33 -> 00:30:35]  It has free plans.
+[00:30:35 -> 00:30:36]  It has free credits.
+[00:30:36 -> 00:30:38]  So make sure you check it out as well.
+[00:30:39 -> 00:30:44]  And guys, Azure is not a sponsor or Microsoft is not a sponsor.
+[00:30:44 -> 00:30:46]  I just like the cloud.
+[00:30:46 -> 00:30:50]  It's every time I used it, it was a piece of cake.
+[00:30:51 -> 00:30:53]  This is why I'm recommending it that much.
+[00:30:54 -> 00:30:54]  Okay.
+[00:30:54 -> 00:31:02]  So we deployed the app, but you know, that's not very, that's not very convenient to
+[00:31:02 -> 00:31:04]  deploy it manually.
+[00:31:04 -> 00:31:04]  Yeah.
+[00:31:05 -> 00:31:10]  After the first configuration, every time I need to deploy the app again, I need just
+[00:31:10 -> 00:31:13]  to hit publish and everything is configured here.
+[00:31:13 -> 00:31:16]  I just need to hit the button and it's done.
+[00:31:16 -> 00:31:21]  But still, if I want to have continuous deployment, I need to set up the Azure
+[00:31:21 -> 00:31:21]  pipelines.
+[00:31:21 -> 00:31:26]  So let's go to, I'm going to leave that for now.
+[00:31:27 -> 00:31:29]  Let's go to Azure.
+[00:31:30 -> 00:31:32]  Actually, it's dev.azure.com.
+[00:31:32 -> 00:31:33]  This is the one.
+[00:31:33 -> 00:31:36]  And we are going to now create our first project.
+[00:31:36 -> 00:31:39]  First, you need to log in and all that stuff, but that doesn't matter.
+[00:31:40 -> 00:31:45]  So I'm going to create the project Azure Pipelines blog.
+[00:31:45 -> 00:31:47]  I want to have a description.
+[00:31:47 -> 00:31:48]  I want it to be public.
+[00:31:49 -> 00:31:49]  Wait a minute.
+[00:31:49 -> 00:31:53]  Before doing that, we need to create a GitHub repository for this project.
+[00:31:53 -> 00:31:55]  So I'm going to create a GitHub repository.
+[00:31:56 -> 00:31:56]  Wait a minute.
+[00:31:56 -> 00:32:00]  Before doing that, we need to create a GitHub repository for it.
+[00:32:00 -> 00:32:04]  You may use a repository on Azure directly.
+[00:32:05 -> 00:32:06]  It doesn't matter.
+[00:32:06 -> 00:32:10]  You can choose a GitHub repository.
+[00:32:10 -> 00:32:12]  Also, you can choose an Azure repository.
+[00:32:13 -> 00:32:13]  It doesn't matter.
+[00:32:14 -> 00:32:17]  But I'm going to create a new repository on GitHub.
+[00:32:17 -> 00:32:19]  I'm going to use GitHub.
+[00:32:20 -> 00:32:28]  So let's hit Azure Pipelines blog.
+[00:32:28 -> 00:32:29]  Good.
+[00:32:29 -> 00:32:34]  If you want to have a public repository, your project here should be public too.
+[00:32:35 -> 00:32:39]  If you want to have a private repository, your repository should be private too.
+[00:32:40 -> 00:32:42]  So let's have a readme.
+[00:32:42 -> 00:32:59]  Let's have Gitignore for Visual Studio and some GPL license or creative commons, whatever.
+[00:33:02 -> 00:33:06]  So let's clone the repo somewhere.
+[00:33:06 -> 00:33:12]  I'm going to create a new folder just to clone the repo there.
+[00:33:20 -> 00:33:21]  Good.
+[00:33:21 -> 00:33:27]  Then I'm going to move everything inside it.
+[00:33:31 -> 00:33:33]  Yeah, but I need to close that.
+[00:33:33 -> 00:33:36]  Yeah, but I need to close the solution first.
+[00:33:42 -> 00:33:42]  I'm done.
+[00:33:43 -> 00:33:43]  Good.
+[00:33:43 -> 00:33:47]  Then I'm going to move that outside of that.
+[00:33:49 -> 00:33:55]  Oh, I didn't move the blog solution or Visual Studio just created a new one for me.
+[00:33:57 -> 00:33:58]  Let's move that.
+[00:34:03 -> 00:34:13]  Just to make sure that everything is fine and I'm going to move the repo into the here.
+[00:34:13 -> 00:34:18]  I'm going to remove that folder, which I create temporary for Git.
+[00:34:19 -> 00:34:19]  Good.
+[00:34:19 -> 00:34:20]  So Git commit.
+[00:34:21 -> 00:34:28]  The whole problem and why I did that temporary folder is because Git is not happy when the
+[00:34:28 -> 00:34:29]  folder is not empty.
+[00:34:30 -> 00:34:30]  That's the reason.
+[00:34:31 -> 00:34:32]  That's the reason.
+[00:34:32 -> 00:34:33]  Okay.
+[00:34:33 -> 00:34:41]  So I added the initial blog.
+[00:34:43 -> 00:34:45]  So let's commit, push.
+[00:34:53 -> 00:34:58]  And now our code should be available here.
+[00:34:59 -> 00:34:59]  Great.
+[00:35:00 -> 00:35:00]  Good.
+[00:35:00 -> 00:35:04]  So let's choose public on advanced.
+[00:35:04 -> 00:35:07]  I will choose Git and I'll choose Agile.
+[00:35:07 -> 00:35:09]  Agile is a little bit better.
+[00:35:09 -> 00:35:11]  It has more options.
+[00:35:11 -> 00:35:12]  So choose it.
+[00:35:13 -> 00:35:14]  I'm going to create a project.
+[00:35:18 -> 00:35:27]  The most difficult part of Azure pipelines is the YAML or WML.
+[00:35:27 -> 00:35:29]  I'm not sure how to read that.
+[00:35:29 -> 00:35:37]  The YAML configuration, but this is why I prepared a lot of documentation links, which
+[00:35:37 -> 00:35:47]  I'm going to copy later just to, because you will find a lot of useful examples here, which
+[00:35:47 -> 00:35:48]  you can use.
+[00:35:49 -> 00:35:49]  Okay.
+[00:35:49 -> 00:36:00]  So the Azure DevOps essentially gives you a lot of things.
+[00:36:00 -> 00:36:04]  For example, Kanban board, GitHub repository.
+[00:36:04 -> 00:36:13]  You can use this instead of GitHub pipelines, which is the continuous integration, continuous
+[00:36:13 -> 00:36:16]  delivery, test plans, and so on and so on.
+[00:36:16 -> 00:36:19]  So I'm going to hit pipelines because we are going to use that.
+[00:36:19 -> 00:36:24]  We don't care about Kanban boards and I'm going to create a pipeline.
+[00:36:25 -> 00:36:28]  So it will ask me what I'm going to use.
+[00:36:28 -> 00:36:30]  I'm going to use GitHub.
+[00:36:30 -> 00:36:36]  If you decide to commit to Azure, you need to choose the Azure.
+[00:36:36 -> 00:36:37]  So I'm going to choose GitHub.
+[00:36:38 -> 00:36:43]  You need to authorize GitHub to have access to your repositories because you want to have
+[00:36:43 -> 00:36:46]  a trigger when you push the code.
+[00:36:46 -> 00:36:50]  So you need, we need to authorize Azure pipelines.
+[00:36:50 -> 00:37:03]  I'm going to put my password here and now I should be able to choose all my repositories,
+[00:37:03 -> 00:37:06]  but this is Azure pipelines blog.
+[00:37:06 -> 00:37:16]  Yeah, I would like to give access to this blog, these permissions.
+[00:37:16 -> 00:37:24]  Cool.
+[00:37:24 -> 00:37:28]  This was strange, but okay.
+[00:37:28 -> 00:37:32]  I was already logged in.
+[00:37:33 -> 00:37:35]  I was already logged in.
+[00:37:37 -> 00:37:37]  Good.
+[00:37:37 -> 00:37:43]  So it will ask me what kind of project I have here.
+[00:37:44 -> 00:37:47]  So essentially I have an ASP.NET Core project.
+[00:37:48 -> 00:37:53]  You may choose the old ASP.NET ones, but I have ASP.NET Core.
+[00:37:54 -> 00:37:57]  So this is the tricky part.
+[00:37:57 -> 00:38:01]  Once you configure this YAML file, everything will be fine.
+[00:38:02 -> 00:38:13]  Initially we have some configuration.
+[00:38:13 -> 00:38:21]  For example, we need to, our project will be built in release mode and it will be run
+[00:38:21 -> 00:38:24]  on Ubuntu, which is kind of, it's okay.
+[00:38:25 -> 00:38:31]  Then what are going to be the steps for our continuous integration process?
+[00:38:33 -> 00:38:35]  It will just run .NET build.
+[00:38:36 -> 00:38:41]  That will be our initial process.
+[00:38:41 -> 00:38:42]  I'm going to save that.
+[00:38:43 -> 00:38:46]  Commit message, set up CI with Azure pipelines.
+[00:38:46 -> 00:38:46]  Okay.
+[00:38:46 -> 00:38:48]  Commit directly to the master branch.
+[00:38:48 -> 00:38:49]  Sure.
+[00:38:49 -> 00:38:54]  So I'm creating the pipeline now with the initial configurations.
+[00:38:54 -> 00:38:56]  I'm going to add more.
+[00:38:59 -> 00:39:05]  So what we have now, we have a job, which is Qt to run.
+[00:39:08 -> 00:39:15]  This job means that every time you push a new code to your repository,
+[00:39:16 -> 00:39:21]  a new job is triggered.
+[00:39:22 -> 00:39:30]  Then some agent will get the code and will restore the packages and it will build your
+[00:39:30 -> 00:39:31]  solution.
+[00:39:33 -> 00:39:37]  So essentially currently this is still running.
+[00:39:37 -> 00:39:44]  So it takes one to two minutes to, because the job needs to clone.
+[00:39:46 -> 00:39:51]  It needs to clone the repository.
+[00:39:51 -> 00:39:53]  Then it needs to restore packages.
+[00:39:53 -> 00:39:56]  Then it needs to build the project.
+[00:39:56 -> 00:40:00]  So as a matter of fact, it was run successfully.
+[00:40:02 -> 00:40:03]  Good.
+[00:40:03 -> 00:40:05]  That's good enough.
+[00:40:05 -> 00:40:06]  Let's try something.
+[00:40:06 -> 00:40:10]  Let's break our app and commit a broken app.
+[00:40:10 -> 00:40:13]  Let's go to the block solution.
+[00:40:17 -> 00:40:19]  Let's make it unbuildable.
+[00:40:20 -> 00:40:30]  I'm going to choose startup.cs and I'm going to remove this semicolon.
+[00:40:31 -> 00:40:34]  This should make the solution not buildable.
+[00:40:37 -> 00:40:40]  Yep, there is an error.
+[00:40:41 -> 00:40:46]  So let's commit it and let's see whether Azure pipelines will trigger a new job.
+[00:40:47 -> 00:40:49]  And let's see whether it will fail.
+[00:40:50 -> 00:40:51]  Intentional.
+[00:40:53 -> 00:40:54]  Intentional fail.
+[00:40:55 -> 00:40:56]  Let's commit that.
+[00:40:56 -> 00:41:02]  Push.
+[00:41:08 -> 00:41:13]  Yeah, I needed to pull the Azure pipelines YAML because Azure created that for me.
+[00:41:13 -> 00:41:19]  It's essentially the same YAML file we had earlier.
+[00:41:19 -> 00:41:23]  So let's push our failing build.
+[00:41:27 -> 00:41:27]  Good.
+[00:41:27 -> 00:41:30]  So let's hit pipelines.
+[00:41:30 -> 00:41:32]  Let's see what's going on.
+[00:41:32 -> 00:41:40]  And we will see that there's a second push going on, which is queued for now.
+[00:41:40 -> 00:41:42]  Then it will start running.
+[00:41:43 -> 00:41:47]  And finally, after some seconds, it should fail.
+[00:41:47 -> 00:41:49]  So let's wait a bit to see.
+[00:41:49 -> 00:41:56]  And after we see how it fails, we are going to fix our code, of course, and then we are
+[00:41:56 -> 00:41:59]  going to configure our pipelines.
+[00:42:00 -> 00:42:02]  How to configure the pipelines?
+[00:42:02 -> 00:42:11]  We need to just edit the Azure pipelines configuration and we need to specify different tasks here.
+[00:42:11 -> 00:42:19]  So what we want to build also, we are going to want to, for example,
+[00:42:19 -> 00:42:25]  run .NET test to see whether it's working correctly.
+[00:42:26 -> 00:42:27]  So it's failing.
+[00:42:27 -> 00:42:29]  We can see that it's failing.
+[00:42:33 -> 00:42:34]  .NET build.
+[00:42:34 -> 00:42:37]  You can see the different parts of the job here.
+[00:42:37 -> 00:42:38]  Initialize job.
+[00:42:38 -> 00:42:40]  Check out the repository.
+[00:42:40 -> 00:42:46]  Build, which is the task I tried to run, which is actually a task defined here.
+[00:42:46 -> 00:42:52]  Display name .NET build release configuration, which means exactly that.
+[00:42:52 -> 00:43:02]  So .NET build is not working correctly and we can see here that something is not quite
+[00:43:02 -> 00:43:02]  right.
+[00:43:02 -> 00:43:09]  We can see that the startup file, there's an error in it and a missing symbol here.
+[00:43:10 -> 00:43:16]  So Azure pipelines helped us identify a very difficult error.
+[00:43:17 -> 00:43:17]  Good.
+[00:43:18 -> 00:43:34]  I'm going to recommit again.
+[00:43:34 -> 00:43:46]  And the next thing we need to do is we need to configure the testing.
+[00:43:47 -> 00:43:48]  So how to do that?
+[00:43:50 -> 00:43:54]  We need to go and edit the Azure pipelines YAML file.
+[00:43:57 -> 00:44:03]  I'm just going to, because it will be a waste of time for you to watch me how I type
+[00:44:04 -> 00:44:05]  some comments.
+[00:44:05 -> 00:44:06]  So I'm going to pause the video.
+[00:44:06 -> 00:44:11]  I'm going to set up the comments and then I'm going to explain what we did.
+[00:44:13 -> 00:44:13]  Okay.
+[00:44:13 -> 00:44:21]  So essentially you can copy that these comments from the build, test and deploy .NET Core
+[00:44:21 -> 00:44:23]  apps on Azure DevOps.
+[00:44:23 -> 00:44:30]  But nevertheless, I'm going to leave links in the video description.
+[00:44:30 -> 00:44:36]  So you're going to, you can see these code snippets because it's very troublesome to
+[00:44:36 -> 00:44:37]  write them by hand.
+[00:44:38 -> 00:44:38]  Okay.
+[00:44:38 -> 00:44:50]  So what this means here, first we have this script says run the following, which essentially
+[00:44:50 -> 00:44:53]  builds the app .NET build.
+[00:44:53 -> 00:44:57]  Then we add the task, another task.
+[00:44:57 -> 00:44:59]  What is a task?
+[00:44:59 -> 00:45:04]  A task is a predefined process on Azure pipelines.
+[00:45:05 -> 00:45:12]  So if you go to .NET Core CLI documentation, this is the .NET Core CLI task, you will see
+[00:45:12 -> 00:45:20]  that this task allow you to do different things with .NET projects, run tests, publish them,
+[00:45:20 -> 00:45:23]  whatever, a lot of stuff.
+[00:45:23 -> 00:45:26]  You may pack, you get packages and so on.
+[00:45:27 -> 00:45:31]  So essentially we say we want to use the built-in task.
+[00:45:31 -> 00:45:32]  We can use the script too.
+[00:45:32 -> 00:45:41]  You can use a script and specify something like .NET test, but it's more appropriate to
+[00:45:41 -> 00:45:42]  use tasks.
+[00:45:43 -> 00:45:47]  We can also use a task for building our app.
+[00:45:47 -> 00:45:49]  So let's use that too.
+[00:45:49 -> 00:46:02]  So if I want to build an app, I can copy this task like here, like that.
+[00:46:03 -> 00:46:09]  The order of the tasks matter because these tasks will be run one after another.
+[00:46:09 -> 00:46:20]  So if I say build, then I'm going to say here display name test like this, and I'm
+[00:46:20 -> 00:46:21]  going to remove that.
+[00:46:21 -> 00:46:38]  So my initial steps and tasks will be build the project, but I'm going to specify a solution
+[00:46:38 -> 00:46:39]  file here.
+[00:46:39 -> 00:46:44]  I don't want to build the csproj files individually.
+[00:46:44 -> 00:46:46]  I want to build the whole solution.
+[00:46:46 -> 00:46:59]  So the whole solution should be, if I go to GitHub, not this one apparently, should be
+[00:46:59 -> 00:47:03]  Azure pipelines block, block.sln.
+[00:47:03 -> 00:47:09]  So I'm going to just write block.sln.
+[00:47:09 -> 00:47:12]  I'm going to see whether I need to provide a full path.
+[00:47:12 -> 00:47:13]  I'm not sure about that.
+[00:47:13 -> 00:47:16]  Okay, so my first task will be build.
+[00:47:17 -> 00:47:25]  My second task will be test, and I say that I want to run tests in every project which
+[00:47:25 -> 00:47:27]  has a test suffix.
+[00:47:27 -> 00:47:34]  In every directory, every project which has a test suffix, again with the release configuration.
+[00:47:34 -> 00:47:42]  Let's see, but there's a bit of a difference here because my projects are called in a single
+[00:47:42 -> 00:47:44]  form, so it's test only.
+[00:47:46 -> 00:47:54]  So these tasks are the building steps of your pipelines, what you need to do step after
+[00:47:54 -> 00:47:56]  step to validate your project.
+[00:47:57 -> 00:47:59]  First, I need to build my project.
+[00:47:59 -> 00:48:03]  It will run .NET restore for me, so this is why I don't restore packages initially.
+[00:48:05 -> 00:48:14]  Then I want to have a test here, which I just say run the test command on the .NET Core
+[00:48:14 -> 00:48:15]  CLI task.
+[00:48:15 -> 00:48:24]  You can see the different commands written here, build, test, and so on, push, whatever.
+[00:48:25 -> 00:48:29]  Build it, build it, and use this configuration.
+[00:48:29 -> 00:48:32]  So let's save that, and let's commit it.
+[00:48:34 -> 00:48:36]  Let's commit the master branch.
+[00:48:36 -> 00:48:40]  Of course, you can also specify the trigger here.
+[00:48:40 -> 00:48:44]  We only trigger when there is a change in the master branch, but you can configure it
+[00:48:44 -> 00:48:49]  to use all kinds of branches, even with regular expressions.
+[00:48:49 -> 00:48:50]  It doesn't matter.
+[00:48:50 -> 00:48:51]  It doesn't matter.
+[00:48:52 -> 00:49:01]  Okay, so Azure Pipelines added tests to the Azure Pipelines.
+[00:49:01 -> 00:49:01]  Good.
+[00:49:02 -> 00:49:03]  Let's commit that.
+[00:49:03 -> 00:49:13]  Let's push, and let's see whether the app is going to be built and whether the tests
+[00:49:13 -> 00:49:14]  are going to be run, of course.
+[00:49:15 -> 00:49:20]  So hitting Pipelines, a new job is started.
+[00:49:20 -> 00:49:21]  Here it is.
+[00:49:22 -> 00:49:32]  It's still queued, so I'm going to hit pause because tests made a little bit of time, and
+[00:49:33 -> 00:49:35]  we're going to continue after it's done.
+[00:49:37 -> 00:49:42]  So all the tests, I guess, are working fine.
+[00:49:42 -> 00:49:44]  The duration was quite small.
+[00:49:44 -> 00:49:47]  I'm impressed, usually, on other services.
+[00:49:48 -> 00:49:54]  I'm waiting a lot more, of course, for more tests, but still, it's fast enough.
+[00:49:54 -> 00:49:56]  Okay, so let's check the job.
+[00:49:56 -> 00:49:58]  These are all the tasks we defined.
+[00:49:58 -> 00:50:03]  You can see that built-in tests are the same as the display name we showed here.
+[00:50:06 -> 00:50:07]  So the build was successful.
+[00:50:08 -> 00:50:10]  So the build was successful.
+[00:50:10 -> 00:50:16]  The tests, we can see the log that the test run was successful.
+[00:50:16 -> 00:50:24]  It runs 73 tests, so everything should be fine, but let's just check whether the pipeline
+[00:50:24 -> 00:50:25]  is working correctly.
+[00:50:25 -> 00:50:34]  I'm just going to change that the privacy action should return, for example, bad requests
+[00:50:35 -> 00:50:36]  like this.
+[00:50:37 -> 00:50:41]  If I run the tests, they should fail now, and the job should fail too.
+[00:50:54 -> 00:51:01]  Yep, this test is not working, so let's commit it and see how the Azure pipelines
+[00:51:02 -> 00:51:04]  Intentional
+[00:51:07 -> 00:51:10]  No, test fail.
+[00:51:21 -> 00:51:27]  Good, let's see that there's a new job queued.
+[00:51:27 -> 00:51:28]  Here it is.
+[00:51:28 -> 00:51:29]  It's queued.
+[00:51:29 -> 00:51:38]  It should start running any second now, and then it should start failing hard.
+[00:51:40 -> 00:51:41]  Yeah, it's now running.
+[00:51:42 -> 00:51:42]  Good.
+[00:51:44 -> 00:51:52]  So basically, all the continuous integration and continuous delivery services give you
+[00:51:52 -> 00:51:58]  a some sort of configuration like this one, where you want to
+[00:52:00 -> 00:52:07]  on what kind of operational system you want to run your project, what kind of release,
+[00:52:07 -> 00:52:09]  what tasks you want to define.
+[00:52:09 -> 00:52:16]  I'm going to show you a sample YAML file I'm using for one of my projects in Appvr and
+[00:52:17 -> 00:52:23]  Travis CI so that you can see that they're similar.
+[00:52:23 -> 00:52:31]  The process is similar to configure a pipeline on another service, not Azure DevOps.
+[00:52:32 -> 00:52:34]  It's pretty much the same.
+[00:52:34 -> 00:52:36]  So intentional test fail.
+[00:52:36 -> 00:52:39]  You can see that something is not right.
+[00:52:40 -> 00:52:48]  If we hit the test here, you can see that there's a failed test.
+[00:52:49 -> 00:52:52]  And here is the test.
+[00:52:52 -> 00:52:57]  When calling privacy action in home controller, expected result to be bad request, but instead
+[00:52:57 -> 00:53:02]  received view result, which is exactly what we changed.
+[00:53:02 -> 00:53:09]  So let's return it and make sure that it's running correctly.
+[00:53:10 -> 00:53:13]  I'm going to commit.
+[00:53:16 -> 00:53:19]  Fixed the failing test.
+[00:53:20 -> 00:53:23]  I'm going to push that button again.
+[00:53:27 -> 00:53:28]  Good.
+[00:53:28 -> 00:53:37]  Next thing we need to do is we need to deploy our app.
+[00:53:40 -> 00:53:46]  To publish our app, we need to configure the publishing, which is described again here
+[00:53:46 -> 00:53:47]  in this article.
+[00:53:49 -> 00:53:53]  We just need to specify these commands.
+[00:53:54 -> 00:54:03]  I already copied them here and let's now see them and decide whether we want to change
+[00:54:03 -> 00:54:04]  something.
+[00:54:04 -> 00:54:07]  So first we need a build.
+[00:54:07 -> 00:54:08]  Then we need a test.
+[00:54:08 -> 00:54:22]  I'm going to add display name to the other tasks and this one is a publishing task.
+[00:54:23 -> 00:54:30]  It says publish the web project, publish all the projects with the build configuration,
+[00:54:30 -> 00:54:32]  which is again release.
+[00:54:32 -> 00:54:37]  If you're not familiar with all that dash dash configuration arguments and so on, that's
+[00:54:37 -> 00:54:46]  essentially the .NET Core CLI and you will see all the commands here.
+[00:54:46 -> 00:54:48]  So essentially it's the same command.
+[00:54:49 -> 00:54:58]  When you decide to use, for example, .NET build, you can see that there's a configuration
+[00:54:58 -> 00:55:00]  argument you can pass.
+[00:55:00 -> 00:55:06]  So if you're not familiar with it, essentially we're doing just that.
+[00:55:06 -> 00:55:11]  We're specifying that we want to run the publish command from the .NET CLI and want
+[00:55:11 -> 00:55:13]  to specify the configuration.
+[00:55:13 -> 00:55:24]  We also specify that the output here is in some directory, which Azure provides.
+[00:55:24 -> 00:55:26]  Artifact staging directory.
+[00:55:26 -> 00:55:27]  What's an artifact?
+[00:55:27 -> 00:55:36]  Artifact is essentially a component which is ready for release.
+[00:55:37 -> 00:55:47]  So an artifact in this context will be the web application built and ready for release.
+[00:55:47 -> 00:55:49]  That's the artifact.
+[00:55:49 -> 00:55:56]  And we also specify zip after publish because that's easier to deploy afterwards.
+[00:55:56 -> 00:56:01]  Keep in mind that publishing does not mean deployment.
+[00:56:01 -> 00:56:07]  Publishing means that you prepare your app for deployment.
+[00:56:07 -> 00:56:17]  So you publish the app as a zip file and the files in that zip file are completely OK and
+[00:56:17 -> 00:56:21]  completely ready, optimized and whatever for deployment.
+[00:56:22 -> 00:56:25]  So publishing will not deploy our code to Azure.
+[00:56:25 -> 00:56:30]  As you can see, we don't specify where we want to deploy the app.
+[00:56:31 -> 00:56:35]  We just say publish it to an output directory.
+[00:56:36 -> 00:56:48]  So this command should publish our web project to a final and we'll get it ready to be released.
+[00:56:49 -> 00:57:11]  Then I have another task here, which says I want to save the artifact in Azure pipelines.
+[00:57:11 -> 00:57:16]  And you can go to the artifacts page and download the ready to be used app.
+[00:57:16 -> 00:57:18]  Ready to be used app.
+[00:57:18 -> 00:57:24]  This is useful when you want to check what kind of files are going to be uploaded to
+[00:57:24 -> 00:57:27]  the production server, for example.
+[00:57:27 -> 00:57:31]  So it's a good idea to have that configured too.
+[00:57:31 -> 00:57:37]  I'm just going to say Azure pipe just block is OK.
+[00:57:37 -> 00:57:38]  I'm just going to say block.
+[00:57:39 -> 00:57:45]  OK, so let's commit that and see whether the configuration is OK.
+[00:57:46 -> 00:58:02]  Let's push it and we're going to wait a bit.
+[00:58:03 -> 00:58:09]  While we wait, I'm going to again show you the different tasks we have built.
+[00:58:10 -> 00:58:15]  All of these tasks essentially have the release configuration because we want to deploy to
+[00:58:15 -> 00:58:16]  the production server.
+[00:58:16 -> 00:58:19]  So we want the release configuration.
+[00:58:19 -> 00:58:25]  So we have a built a test then publish, which prepares our app in a folder for deployment.
+[00:58:26 -> 00:58:33]  Publishing does not mean deployment here because publishing in Visual Studio is similar to
+[00:58:33 -> 00:58:34]  deployment.
+[00:58:34 -> 00:58:40]  But here we just specify deploy my app in an output directory.
+[00:58:40 -> 00:58:46]  And then we say, please save this artifact so that I can analyze it later.
+[00:58:47 -> 00:58:49]  Let's return to the pipelines.
+[00:58:49 -> 00:58:51]  Let's see what's going on.
+[00:58:51 -> 00:58:54]  It should be still building, running.
+[00:58:54 -> 00:58:59]  Let's see the tests are here.
+[00:59:20 -> 00:59:22]  OK, it's run OK.
+[00:59:23 -> 00:59:24]  So.
+[00:59:26 -> 00:59:32]  One artifact produced, 100% tests passed, looks kind of OK.
+[00:59:35 -> 00:59:35]  Good.
+[00:59:36 -> 00:59:41]  What we need to do now is we need to release our app.
+[00:59:41 -> 00:59:47]  Releasing means deployed to the production app service we had earlier.
+[00:59:47 -> 00:59:52]  Let me just check where I can see my artifact.
+[00:59:54 -> 00:59:55]  Here it is.
+[00:59:58 -> 01:00:05]  Azure pipelines block artifacts like this.
+[01:00:06 -> 01:00:07]  Great.
+[01:00:18 -> 01:00:27]  OK, if we won't be able to see the artifacts here, this is useful for NuGet packages.
+[01:00:29 -> 01:00:30]  Or something like that.
+[01:00:30 -> 01:00:33]  Universal packages, pip, yeah.
+[01:00:34 -> 01:00:39]  These artifacts here are more useful for NuGet packages and packages in general,
+[01:00:39 -> 01:00:44]  where you can go and download your NuGet package, for example, just to see it.
+[01:00:45 -> 01:00:47]  OK, one more thing.
+[01:00:51 -> 01:00:52]  Let's see the artifact.
+[01:00:52 -> 01:00:54]  Here it is in the pipelines.
+[01:00:54 -> 01:00:57]  If you go to your pipelines job.
+[01:00:59 -> 01:01:00]  And you can click.
+[01:01:03 -> 01:01:09]  Tests to see the test summary, which is kind of a nice dashboard.
+[01:01:09 -> 01:01:16]  You can put that dashboard on some TV in your team's room.
+[01:01:16 -> 01:01:22]  And you can always see whether a test is failing with the latest build.
+[01:01:25 -> 01:01:30]  Good, so that dashboard is quite nice, actually.
+[01:01:30 -> 01:01:31]  I really like it.
+[01:01:32 -> 01:01:38]  And yeah, I know teams that have a lot of TVs constantly showing
+[01:01:38 -> 01:01:42]  the state of the app currently with a lot of health checks and so on.
+[01:01:43 -> 01:01:51]  It's a nice addition, so to speak, to a team so that you will always know whether there's a problem.
+[01:01:52 -> 01:01:59]  If you hit artifacts, you will be able to download the app ready for development.
+[01:01:59 -> 01:02:05]  If I hit the zip file and decide to download it somewhere.
+[01:02:06 -> 01:02:11]  Then, for example, and if I open that.
+[01:02:12 -> 01:02:16]  It should contain all the DOLs from my source code.
+[01:02:17 -> 01:02:24]  All the CSS and JavaScript files, essentially everything needed for this app to be published.
+[01:02:24 -> 01:02:30]  This is if we didn't specify the last step, publish build artifact, this artifact.
+[01:02:31 -> 01:02:33]  Wouldn't be fine here.
+[01:02:33 -> 01:02:39]  So you can always see what went wrong because you can download your artifacts locally,
+[01:02:39 -> 01:02:42]  run them and see why the app is not working, for example.
+[01:02:44 -> 01:02:47]  Good, so finally we need to release.
+[01:02:48 -> 01:02:52]  I'm going to say I want a new release pipeline.
+[01:02:53 -> 01:02:54]  It's a bit tricky.
+[01:02:55 -> 01:03:02]  Oh, I have an Azure app service, so I want to deploy here.
+[01:03:04 -> 01:03:08]  Then I need to specify the name of this.
+[01:03:11 -> 01:03:15]  Keep in mind that a stage essentially means an environment where you deploy.
+[01:03:16 -> 01:03:22]  So if I have a QA environment, staging environment, production environment,
+[01:03:22 -> 01:03:24]  I'm going to create multiple stages here.
+[01:03:25 -> 01:03:34]  But since this is my production, I'm going to name it production.
+[01:03:34 -> 01:03:39]  And here it's a bit UX unfriendly here because you need to hit the X here.
+[01:03:41 -> 01:03:43]  That won't cancel our changes.
+[01:03:43 -> 01:03:47]  As you can see, everything is fine.
+[01:03:47 -> 01:03:55]  So then I need to configure that.
+[01:03:59 -> 01:04:03]  I need to say where I want to be.
+[01:04:06 -> 01:04:11]  I can say here if I want the release to be triggered on every commit
+[01:04:12 -> 01:04:16]  or if I want to manually deploy by hitting a button.
+[01:04:17 -> 01:04:21]  But I want to deploy continuously, so I'm going to say after release.
+[01:04:22 -> 01:04:25]  Still, I don't have any artifacts.
+[01:04:26 -> 01:04:31]  Scheduling pull request deployment, prior deployment approvals.
+[01:04:32 -> 01:04:36]  You can set different settings here.
+[01:04:36 -> 01:04:38]  For example, you can schedule to deploy every week.
+[01:04:39 -> 01:04:46]  You can set that pull request will be deployed, for example, to a QA environment.
+[01:04:46 -> 01:04:51]  Pre-deployment approvals if you want somebody to approve that the deployment is happening.
+[01:04:51 -> 01:04:53]  A lot of cool stuff actually.
+[01:04:57 -> 01:05:04]  Okay, so what I need to do finally is I need to go to releases.
+[01:05:05 -> 01:05:07]  Really, it didn't save.
+[01:05:09 -> 01:05:11]  Okay, let's do that again quickly this time.
+[01:05:12 -> 01:05:13]  Production.
+[01:05:18 -> 01:05:20]  I'm going to specify after release.
+[01:05:23 -> 01:05:26]  I don't have any other conditions.
+[01:05:27 -> 01:05:33]  I need to hit the tasks here so that I can specify which is my Azure subscription.
+[01:05:34 -> 01:05:58]  I need to hit authorize because apparently the two systems are different.
+[01:05:59 -> 01:06:04]  You need to authorize the one system, the Azure portal to the Azure DevOps.
+[01:06:05 -> 01:06:06]  But that doesn't matter.
+[01:06:06 -> 01:06:11]  So I authorized my account.
+[01:06:11 -> 01:06:12]  I'm going to wait a bit.
+[01:06:14 -> 01:06:15]  Good.
+[01:06:15 -> 01:06:17]  Web app on Windows.
+[01:06:18 -> 01:06:20]  Let me see whether there's something else here.
+[01:06:23 -> 01:06:24]  No.
+[01:06:25 -> 01:06:25]  No.
+[01:06:26 -> 01:06:30]  App service is Azure pipelines blog.
+[01:06:30 -> 01:06:44]  So I specified that I want to deploy the artifacts from the DevOps process to this app service.
+[01:06:45 -> 01:06:46]  So let's hit save.
+[01:06:46 -> 01:06:54]  And it should be ready.
+[01:06:55 -> 01:06:59]  Finally, I need to add an artifact which will be deployed.
+[01:06:59 -> 01:07:07]  So I'm going to say that I want to use the Azure pipelines blog project.
+[01:07:07 -> 01:07:10]  And the source is the Azure pipelines blog.
+[01:07:10 -> 01:07:11]  The same.
+[01:07:11 -> 01:07:13]  I'm going to use latest.
+[01:07:14 -> 01:07:19]  I can specify here which versions to be deployed of my app.
+[01:07:19 -> 01:07:24]  So I can say that I want to deploy something at a specific time.
+[01:07:24 -> 01:07:27]  I want to deploy only specific versions.
+[01:07:27 -> 01:07:33]  For example, versions which are less than 5.0 and so on.
+[01:07:33 -> 01:07:36]  If I am building a NuGet package, this is useful.
+[01:07:36 -> 01:07:38]  For a web app, I can use latest.
+[01:07:38 -> 01:07:51]  Okay, latest version, which means every single trigger after a push to the GitHub should be
+[01:07:51 -> 01:07:54]  released if everything is running fine.
+[01:07:54 -> 01:07:56]  So let's hit add.
+[01:07:57 -> 01:07:58]  Let's hit save.
+[01:08:01 -> 01:08:03]  And I guess that should be it.
+[01:08:04 -> 01:08:13]  So, if I trigger a new commit, it should be released.
+[01:08:14 -> 01:08:21]  Let's first try to change the web app.
+[01:08:21 -> 01:08:24]  I'm going to go to use home index.
+[01:08:25 -> 01:08:30]  And I'm going to say welcome to our Azure blog.
+[01:08:30 -> 01:08:31]  Azure blog.
+[01:08:32 -> 01:08:36]  This will be the indication that the app was deployed.
+[01:08:36 -> 01:08:45]  Then I'm going to break a test so that we can see that failing builds are not deployed.
+[01:08:46 -> 01:08:47]  And I'm going to.
+[01:08:54 -> 01:09:00]  Failing builds should not be deployed.
+[01:09:00 -> 01:09:07]  And let's push that.
+[01:09:11 -> 01:09:15]  And let's wait a bit to see what will happen.
+[01:09:15 -> 01:09:17]  I'm going to pipelines.
+[01:09:18 -> 01:09:20]  A new pipeline is queued.
+[01:09:22 -> 01:09:24]  The job will start running any second.
+[01:09:31 -> 01:09:35]  I'm going to pause the video.
+[01:09:35 -> 01:09:36]  We don't need to wait it.
+[01:09:38 -> 01:09:44]  So we see that the build failed.
+[01:09:44 -> 01:09:49]  If I go to the job, I will see that publish and artifact did not occur.
+[01:09:50 -> 01:09:53]  They didn't happen because the testing failed.
+[01:09:54 -> 01:09:57]  So this is very super useful.
+[01:09:59 -> 01:10:04]  Because it automatically validates that nothing works.
+[01:10:04 -> 01:10:06]  If nothing works, it won't be deployed.
+[01:10:06 -> 01:10:14]  If my project is not building or the tests are failing, it won't be deployed.
+[01:10:14 -> 01:10:19]  Okay, so now let's go and fix our problem.
+[01:10:20 -> 01:10:32]  And then I'm going to fix failing tests for deployment.
+[01:10:34 -> 01:10:35]  Let's commit that, push it.
+[01:10:41 -> 01:10:47]  And if we go to the pipelines, a new job should start soon.
+[01:10:50 -> 01:10:55]  And I'm going to wait this one on the video because it's the final one.
+[01:10:55 -> 01:10:59]  What I wanted also to specify is that we are deploying on a Windows environment.
+[01:11:00 -> 01:11:13]  And our Azure pipelines configuration is using Ubuntu, which of course can be changed.
+[01:11:13 -> 01:11:18]  What we need to do is just search for all the Azure DevOps.
+[01:11:20 -> 01:11:30]  So we can see all the different environments on which we can deploy.
+[01:11:30 -> 01:11:40]  Also, you can test and assert that your program is working correctly on multiple environments.
+[01:11:40 -> 01:11:41]  This is how it's done.
+[01:11:41 -> 01:11:45]  You specify strategy, matrix, Linux, Mac, Windows.
+[01:11:46 -> 01:11:51]  Specify the different environments, which are essentially what is written here.
+[01:11:51 -> 01:11:54]  Windows latest, Ubuntu latest, and so on.
+[01:11:54 -> 01:12:01]  And you specify that the virtual machine image should be extracted from here.
+[01:12:02 -> 01:12:12]  This will run your pipeline on all different scenarios.
+[01:12:13 -> 01:12:17]  This is useful if you deploy, for example, a NuGet package,
+[01:12:17 -> 01:12:22]  and you need to make sure that all tests are passing on every environment.
+[01:12:22 -> 01:12:30]  For web apps, I guess it's not that mandatory because if my production environment is on Linux,
+[01:12:30 -> 01:12:36]  I'm going to run my DevOps pipeline again on Linux.
+[01:12:36 -> 01:12:42]  If it's Windows, like it's here, we should run it on Windows.
+[01:12:42 -> 01:12:46]  So we're going to change that in a minute.
+[01:12:46 -> 01:12:49]  So I guess everything is fine now.
+[01:12:50 -> 01:12:53]  Artifact, everything should be okay.
+[01:12:53 -> 01:12:55]  Let's go to releases.
+[01:12:57 -> 01:12:58]  Let's create a release.
+[01:12:59 -> 01:13:05]  The artifacts version.
+[01:13:14 -> 01:13:19]  So one release was cute.
+[01:13:20 -> 01:13:26]  We can also...
+[01:13:29 -> 01:13:38]  It was not cute automatically because I need to specify when the release should be done.
+[01:13:38 -> 01:13:47]  But let's see whether the release was good enough.
+[01:13:47 -> 01:13:50]  Manually triggered, not deployed.
+[01:13:51 -> 01:13:53]  I'm going to hit deploy.
+[01:13:54 -> 01:13:55]  It's cute.
+[01:13:55 -> 01:13:57]  It's in progress right now.
+[01:14:02 -> 01:14:13]  So in a matter of seconds, the app should be deployed to Azure.
+[01:14:14 -> 01:14:20]  Guys, if you have any questions, leave them down below in the comments.
+[01:14:20 -> 01:14:23]  I'll be more than happy to answer them.
+[01:14:23 -> 01:14:25]  And I hope this video is useful for you.
+[01:14:29 -> 01:14:31]  Deploying to the app service.
+[01:14:36 -> 01:14:37]  Succeeded.
+[01:14:37 -> 01:14:40]  Let's refresh our website and see what's happening.
+[01:14:41 -> 01:14:44]  It will take a while to restart the whole app.
+[01:14:45 -> 01:14:46]  After all, it's a free tier.
+[01:14:46 -> 01:14:55]  But we saw that everything was deployed by my pipelines, which is very nice.
+[01:14:57 -> 01:15:05]  Again, so what I'm going to do is I'm going to use Windows latest for my final tests
+[01:15:06 -> 01:15:08]  before we finish the video.
+[01:15:09 -> 01:15:15]  Also, I'm going to show you other configuration files for other systems.
+[01:15:15 -> 01:15:21]  So I'm going to use Windows latest and then I'm going to set up the release to be automatic.
+[01:15:21 -> 01:15:28]  Let's go to releases, edit my release and schedule how to release.
+[01:15:29 -> 01:15:35]  So, but I want to be automatic.
+[01:15:35 -> 01:15:40]  Yeah, here, not the schedule not set, but here.
+[01:15:40 -> 01:15:43]  You can schedule that you want to release every week.
+[01:15:43 -> 01:15:48]  But you can also say I want to have a continuous deployment trigger.
+[01:15:48 -> 01:15:49]  Let's enable that.
+[01:15:50 -> 01:15:56]  And yeah, creates a release every time a new build is available.
+[01:15:56 -> 01:15:57]  This is more than enough.
+[01:15:57 -> 01:16:01]  I can, of course, specify different branches.
+[01:16:02 -> 01:16:08]  For example, the build pipelines default branch, but it doesn't matter.
+[01:16:10 -> 01:16:14]  So if there is a new build, the app should be deployed.
+[01:16:17 -> 01:16:19]  I'm not sure whether I should.
+[01:16:20 -> 01:16:22]  Yeah, OK, let's leave it like that.
+[01:16:22 -> 01:16:23]  Let's hit save.
+[01:16:24 -> 01:16:25]  Let's hit save.
+[01:16:27 -> 01:16:35]  When you hit save, you may also add comments to know what kind of
+[01:16:39 -> 01:16:42]  changes you did to the release configuration.
+[01:16:42 -> 01:16:44]  OK, Windows latest.
+[01:16:44 -> 01:16:49]  Let's change the view to have welcome to our cool Azure block.
+[01:16:49 -> 01:16:52]  And let's commit it and wait for it to be deployed.
+[01:16:54 -> 01:17:01]  So final deployment or automatic deployment.
+[01:17:01 -> 01:17:07]  So I configured Azure pipelines to deploy automatically.
+[01:17:07 -> 01:17:10]  So that should happen in less than a minute.
+[01:17:11 -> 01:17:19]  A new job was started here in the releases.
+[01:17:19 -> 01:17:22]  It should trigger a new release.
+[01:17:22 -> 01:17:29]  And of course, if you want, you can always schedule releases, not make them automatic.
+[01:17:29 -> 01:17:31]  So let's wait for that.
+[01:17:31 -> 01:17:41]  And while we're waiting, I'm going to show you how an up there configuration works.
+[01:17:42 -> 01:17:44]  It's essentially the same thing.
+[01:17:45 -> 01:17:45]  Look.
+[01:17:47 -> 01:17:52]  I have some version, but I'm specifying branches only master development and version.
+[01:17:52 -> 01:17:55]  I want to use Visual Studio 2019.
+[01:17:56 -> 01:17:58]  It's pretty much similar.
+[01:17:58 -> 01:17:59]  Trigger only the master branch.
+[01:18:00 -> 01:18:06]  Then I'm saying I want configuration release and I want to run dotnet restore.
+[01:18:07 -> 01:18:08]  Before build.
+[01:18:09 -> 01:18:15]  Then I want to build this project and then I'm specifying which tests I want to run.
+[01:18:15 -> 01:18:18]  There was a reason to run the tests one by one.
+[01:18:18 -> 01:18:28]  There was some problem, I believe, with my solution, the asynchronous nature of the solution.
+[01:18:29 -> 01:18:32]  So I needed to specify them one by one, but it doesn't matter.
+[01:18:34 -> 01:18:37]  It was just an exception for my solution.
+[01:18:37 -> 01:18:40]  So this is an up there YAML file.
+[01:18:40 -> 01:18:46]  It's pretty much similar with different keywords, but it does the same.
+[01:18:47 -> 01:18:51]  Let's see whether it's still running.
+[01:18:51 -> 01:18:52]  Okay.
+[01:18:54 -> 01:18:57]  And let's see the Travis CI.
+[01:18:57 -> 01:19:00]  The Travis CI is similar.
+[01:19:00 -> 01:19:03]  I said I have a C sharp language.
+[01:19:04 -> 01:19:10]  I want to do required because this is for Linux and Mac OS.
+[01:19:10 -> 01:19:12]  I want to have dotnet 3.1.
+[01:19:12 -> 01:19:20]  This is the solution I want to run on Linux and Mac OS on these distributions.
+[01:19:20 -> 01:19:24]  I want these branches and run again only these tests.
+[01:19:25 -> 01:19:33]  So these different configuration files do the same thing with different keywords.
+[01:19:33 -> 01:19:34]  That's the whole difference.
+[01:19:35 -> 01:19:41]  And when you create your first pipeline, okay, that was good.
+[01:19:42 -> 01:19:46]  The second release is currently queued, so it should be the point.
+[01:19:46 -> 01:19:47]  I'm not doing anything.
+[01:19:47 -> 01:19:48]  I'm not doing anything.
+[01:19:49 -> 01:19:56]  When you create your pipelines on whatever system, you can put these badges.
+[01:19:56 -> 01:20:01]  For example, an app there and on Travis CI, I have these two badges.
+[01:20:02 -> 01:20:08]  Here it is that the final, the last built was successful for Windows.
+[01:20:08 -> 01:20:13]  And here it is that the last built was successful for Mac OS and Linux.
+[01:20:13 -> 01:20:16]  So very, it's very useful.
+[01:20:18 -> 01:20:26]  Uh, I had numerous problems, which I catched in my solutions because of the continuous
+[01:20:26 -> 01:20:27]  integration.
+[01:20:27 -> 01:20:31]  It's so helpful and super easy to set up.
+[01:20:31 -> 01:20:36]  I'm wondering why, uh, lots of teams are not doing it.
+[01:20:36 -> 01:20:37]  It's super helpful.
+[01:20:38 -> 01:20:45]  I really catched more than 100 problems in this solution alone, which is quite a lot
+[01:20:45 -> 01:20:48]  just because I had a continuous integration.
+[01:20:48 -> 01:20:53]  Everything was working fine locally on my Windows machine, then on Linux, it was failing.
+[01:20:53 -> 01:20:55]  So it's very, very helpful.
+[01:20:55 -> 01:21:00]  And these packages are, uh, cross platform.
+[01:21:00 -> 01:21:06]  So I needed them to run successfully on Windows, Linux, and Mac OS.
+[01:21:06 -> 01:21:07]  Okay.
+[01:21:07 -> 01:21:09]  So here it is.
+[01:21:09 -> 01:21:11]  The release was successful.
+[01:21:11 -> 01:21:14]  So if I refresh the app, I will see.
+[01:21:15 -> 01:21:17]  Welcome to our cool Azure blog.
+[01:21:22 -> 01:21:23]  Nice.
+[01:21:23 -> 01:21:28]  Everything was done automatically and it was super easy.
+[01:21:28 -> 01:21:31]  It was super easy to set up the Azure environment.
+[01:21:31 -> 01:21:35]  Initially, the app service, it was like 20 minutes or something like that.
+[01:21:35 -> 01:21:39]  And my app is now available worldwide.
+[01:21:39 -> 01:21:44]  And it was super easy to set up these pipelines so that I have.
+[01:21:46 -> 01:21:53]  Very, very, uh, nice pipeline and process to deploy my app automatically.
+[01:21:54 -> 01:22:01]  These things, these comments are just pretty much copy paste from documentation, but it's
+[01:22:01 -> 01:22:04]  important to understand what every task does.
+[01:22:04 -> 01:22:08]  This is why I spent some time explaining it.
+[01:22:08 -> 01:22:13]  But for a normal web app, you need to build, test, publish, and artifact tasks.
+[01:22:13 -> 01:22:17]  From there on, you need to configure your release and it's done.
+[01:22:17 -> 01:22:20]  I'm going to leave a link to.
+[01:22:22 -> 01:22:28]  All these, uh, all these articles I use throughout this tutorial.
+[01:22:30 -> 01:22:33]  And I hope you guys like this video.
+[01:22:33 -> 01:22:38]  If you have any suggestions for me, for my content, for my future topics, leave them
+[01:22:38 -> 01:22:39]  down below.
+[01:22:39 -> 01:22:47]  If you have questions again, you can, um, add a comment below the video.
+[01:22:47 -> 01:22:54]  And finally, make sure you try yourself a continuous integration and continuous deployment
+[01:22:54 -> 01:22:55]  process.
+[01:22:56 -> 01:22:58]  A lot of options available up there.
+[01:22:58 -> 01:23:03]  Octopus deploy, uh, JetBrains had a two team CD.
+[01:23:04 -> 01:23:09]  Azure pipelines is very nice and it's free for public repos and open source repos.
+[01:23:09 -> 01:23:11]  So you can start adding it.
+[01:23:12 -> 01:23:14]  Uh, one last thing.
+[01:23:15 -> 01:23:16]  I'm not sure how to do that.
+[01:23:16 -> 01:23:18]  Azure pipelines.
+[01:23:19 -> 01:23:27]  Badge.
+[01:23:31 -> 01:23:41]  So apparently if I, um, if I copied this one.
+[01:23:41 -> 01:23:53]  And fill in my data here, organization, which I'm not sure.
+[01:23:54 -> 01:23:57]  This is the project, I believe.
+[01:23:58 -> 01:24:07]  Yeah, the project organization.
+[01:24:08 -> 01:24:10]  What's my organization.
+[01:24:10 -> 01:24:14]  I guess if I will kind of lead is my organization.
+[01:24:16 -> 01:24:20]  And API built repos, repo type.
+[01:24:20 -> 01:24:22]  What's the repo type?
+[01:24:26 -> 01:24:27]  That's interesting.
+[01:24:27 -> 01:24:30]  Let me try to find out.
+[01:24:40 -> 01:24:43]  Azure DevOps repo type.
+[01:24:55 -> 01:24:56]  Maybe it's Git.
+[01:24:57 -> 01:24:59]  Let's try with Git.
+[01:25:01 -> 01:25:02]  It's a bit.
+[01:25:02 -> 01:25:08]  Yes.
+[01:25:08 -> 01:25:10]  Value cannot be no branch name.
+[01:25:12 -> 01:25:22]  Okay.
+[01:25:26 -> 01:25:30]  Git branch name.
+[01:25:32 -> 01:25:33]  Equal master.
+[01:25:38 -> 01:25:42]  There's a badge, but it does not indicate my build.
+[01:25:42 -> 01:25:45]  It says set up now for some reason.
+[01:25:47 -> 01:25:47]  One moment.
+[01:25:48 -> 01:25:49]  Let me pause the video.
+[01:25:50 -> 01:25:52]  Okay, I found it.
+[01:25:52 -> 01:25:54]  It's very easy, actually.
+[01:25:55 -> 01:25:56]  So we need to go to the pipelines.
+[01:25:58 -> 01:26:01]  Then choose our pipeline.
+[01:26:01 -> 01:26:03]  And then here it is a status badge.
+[01:26:04 -> 01:26:07]  There is a sample markdown, which we can use.
+[01:26:09 -> 01:26:10]  So I'm going to copy that.
+[01:26:10 -> 01:26:23]  I'm going to go to my GitHub repository, and I'm just going to update the readme.
+[01:26:28 -> 01:26:30]  And done.
+[01:26:30 -> 01:26:34]  Now we have a build badge, whether it succeeded or not.
+[01:26:35 -> 01:26:36]  Cool, guys.
+[01:26:36 -> 01:26:37]  Thank you very much for watching.
+[01:26:38 -> 01:26:41]  And I hope you like this video.
+[01:26:41 -> 01:26:45]  Again, if you have any suggestions down below in the comments.
+[01:26:45 -> 01:26:46]  Bye.

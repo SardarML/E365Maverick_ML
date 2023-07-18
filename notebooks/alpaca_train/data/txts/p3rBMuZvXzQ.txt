@@ -1,0 +1,36 @@
+[00:00:00 -> 00:00:07]  In this problem we're given an isosceles trapezoid and a circle that just fits
+[00:00:07 -> 00:00:12]  inside it, and the circle touches at the top and the bottom, but not left to right,
+[00:00:12 -> 00:00:18]  and we're told to find the area of the shaded region. That's this area over here
+[00:00:18 -> 00:00:24]  and over here together. Now to find that area, we will find the area of the
+[00:00:24 -> 00:00:31]  trapezoid and subtract the area of the circle, and what we get, what we have left
+[00:00:31 -> 00:00:35]  after subtracting the circle will be the answer, what we're looking for. So we'll
+[00:00:35 -> 00:00:41]  start by finding the area of the trapezoid, and the formula for the area of
+[00:00:41 -> 00:00:47]  the trapezoid is the average of the two bases times the height, and we need to
+[00:00:47 -> 00:00:51]  draw in the height, and the height is going to be perpendicular to the bases.
+[00:00:51 -> 00:00:58]  So draw that in, we'll call it H. Go ahead and draw it in on both sides. That's H in
+[00:00:58 -> 00:01:03]  both places. Now notice that this forms two little right triangles, one on each
+[00:01:03 -> 00:01:08]  side, and this bottom edge, let's give it a name, we'll call it X, and that will be
+[00:01:08 -> 00:01:20]  the same on both sides. Now we can find X pretty easily. Look at this. This is
+[00:01:20 -> 00:01:29]  length 10 all the way across, and look at this 7.2. If this is 7.2 up here, then from
+[00:01:29 -> 00:01:40]  this point across to this point, that will be 7.2 also. So this means that X
+[00:01:40 -> 00:01:50]  plus 7.2 plus X has to add up to 10. So let's write that. I'll write it like this.
+[00:01:50 -> 00:01:58]  2X plus 7.2 equals 10, and then we'll do a little bit of algebra. Subtract 7.2
+[00:01:58 -> 00:02:09]  from each side, and you get 2X is equal to 2.8, so X is equal to 1.4. Then we can
+[00:02:09 -> 00:02:14]  take one of these small triangles and apply the Pythagorean theorem. I can
+[00:02:14 -> 00:02:25]  write H squared plus 1.4 squared is equal to 5 squared. So H squared, just
+[00:02:25 -> 00:02:31]  rearranging this, will be 5 squared minus 1.4 squared, and we can figure that out.
+[00:02:31 -> 00:02:41]  Let's pull up the calculator. 5 squared minus 1.4 squared is 23.04.
+[00:02:41 -> 00:02:55]  So H will be the square root of that. So the square root of 23.04 is 4.8. So the
+[00:02:55 -> 00:03:01]  height is 4.8. That's my height, H. Now I can find the area of the trapezoid.
+[00:03:01 -> 00:03:17]  That's the area of the trapezoid, and that will be the average of the bases. So that's 7.2 plus 10
+[00:03:17 -> 00:03:28]  divided by 2 times the height, and the height is 4.8. And so we work that out.
+[00:03:28 -> 00:03:43]  7.2 plus 10 divided by 2 times 4.8. I got 41.28 for the area of the trapezoid.
+[00:03:43 -> 00:04:00]  And then the area of the circle, area of a circle, is just pi r squared. Ok now, how do we find the
+[00:04:00 -> 00:04:06]  radius here? Let's draw it in the center to one edge. If you look at the diagram, you can see
+[00:04:06 -> 00:04:14]  that the radius here will be half the height. And that's pretty easy. You can do this in your head.
+[00:04:14 -> 00:04:27]  The height is 4.8, so the radius is 2.4. So the area of the circle will be pi times that radius, 2.4, squared.
+[00:04:27 -> 00:04:41]  So let's calculate that, pi times 2.4 squared. Pi times 2.4 squared comes out to 18. I'll round that to 18.1.
+[00:04:41 -> 00:04:53]  So the area of the circle is equal to 18.1, and so then the area of the shaded region
+[00:04:53 -> 00:05:03]  will be the area of the trapezoid, that's 41.28, minus the area of the circle, minus 18.1.
+[00:05:03 -> 00:05:21]  41.28 minus 18.1 comes out to 23.18. And we're told to round to one decimal place, so that's
+[00:05:21 -> 00:05:24]  23.2.

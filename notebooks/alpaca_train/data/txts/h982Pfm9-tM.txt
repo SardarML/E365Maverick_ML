@@ -1,0 +1,65 @@
+[00:00:00 -> 00:00:04]  Moin Leute, zur Chemie gehören einfach Fällungsreaktionen.
+[00:00:04 -> 00:00:09]  Also man gibt z.B. zwei klare Lösungen zusammen und auf einmal werden sie trüb.
+[00:00:09 -> 00:00:15]  Genau das passiert, wenn wir eine Lösung mit Calcium-Ionen und mit Schwefelsäure versetzen.
+[00:00:15 -> 00:00:19]  Warum das so ist, was das Lösigkeitsprodukt ist und wie man damit rechnet, das klären
+[00:00:19 -> 00:00:20]  wir jetzt.
+[00:00:20 -> 00:00:32]  Betrachten wir zuerst mal ein Salz, das sich nur zum Teil in Wasser lösen soll.
+[00:00:32 -> 00:00:36]  Da Kochsalz sich sehr gut löst, ist das hier nicht unbedingt das beste Beispiel.
+[00:00:36 -> 00:00:39]  Deshalb betrachten wir Silberchlorid AGCL.
+[00:00:39 -> 00:00:44]  Das geben wir als Feststoff ins Wasser und es kann sich auflösen.
+[00:00:44 -> 00:00:47]  Hier werden Silber- und Chlorid-Ionen vom Wasser gelöst.
+[00:00:47 -> 00:00:54]  Damit heißt unsere Gleichung AGCL mit einem kleinen S für solid, also fest, reagiert
+[00:00:54 -> 00:00:58]  zu Silber-Ionen AG plus und zu Chlorid-Ionen CL minus.
+[00:00:58 -> 00:01:05]  Beide Ionen liegen im Wasser gelöst vor, bekommen also ein Aq als Index für Aquatisiert.
+[00:01:05 -> 00:01:11]  Wichtig ist jetzt, diese Reaktion ist ein Gleichgewicht, also es kann auch in die andere
+[00:01:11 -> 00:01:14]  Richtung ablaufen, weshalb wir Gleichgewichts-Pfeile verwenden.
+[00:01:15 -> 00:01:21]  Jetzt kommen wir zu dem Löslichkeitsprodukt, das berechnet sich ähnlich wie die Gleichgewichtskonstante
+[00:01:21 -> 00:01:23]  bei Gleichgewichtsreaktionen.
+[00:01:23 -> 00:01:30]  Also Löslichkeitsprodukt KL ist gleich Konzentration von Silber-Ionen mal Konzentration von Chlorid-Ionen.
+[00:01:30 -> 00:01:32]  Das war es dann schon.
+[00:01:32 -> 00:01:37]  Anders als bei der Gleichgewichtskonstanten betrachten wir hier die Edukte nicht.
+[00:01:37 -> 00:01:44]  Die Löslichkeit ist jetzt temperaturabhängig, hat aber für einen Stoff und eine feste Temperatur
+[00:01:44 -> 00:01:47]  immer den gleichen Wert.
+[00:01:47 -> 00:01:53]  Also beispielsweise für Silberchlorid den Wert 1,6 mal 10 hoch minus 10 mol Quadrat
+[00:01:53 -> 00:01:54]  durch Liter Quadrat.
+[00:01:54 -> 00:01:59]  Das ist der höchste Wert des Produktes, bei dem das Salz noch gelöst vorliegt.
+[00:01:59 -> 00:02:05]  Wenn wir die Konzentration von AG plus und CL minus multiplizieren und unser Wert ist
+[00:02:05 -> 00:02:09]  größer, dann fällt das Salz aus und unsere Lösung trübt sich dadurch.
+[00:02:10 -> 00:02:14]  So können wir jetzt auch berechnen, wie viel Silberchlorid sich maximal lösen kann.
+[00:02:14 -> 00:02:20]  Wenn wir also nur Silberchlorid lösen, dann gilt, dass die Konzentration von Silber-Ionen
+[00:02:20 -> 00:02:23]  gleich der Konzentration der Chlorid-Ionen ist.
+[00:02:23 -> 00:02:28]  Demnach können wir das Löslichkeitsprodukt auch als Konzentration von Silber-Ionen ins
+[00:02:28 -> 00:02:29]  Quadrat schreiben.
+[00:02:29 -> 00:02:36]  Nach Wurzelziehen erhalten wir mit 1,3 mal 10 hoch minus 5 mol pro Liter die maximale
+[00:02:36 -> 00:02:37]  Konzentration.
+[00:02:38 -> 00:02:43]  Wenn wir hier ein bisschen mehr Chlorid-Ionen oder Silber-Ionen hinzugeben, fällt festes
+[00:02:43 -> 00:02:44]  Silberchlorid aus.
+[00:02:44 -> 00:02:50]  Je größer der Wert des Löslichkeitsproduktes, desto besser ist der Stoff löslich.
+[00:02:50 -> 00:02:53]  Betrachten wir allgemein das Löslichkeitsprodukt nochmal.
+[00:02:53 -> 00:02:58]  Wichtig für Salze, die anders zusammengesetzt sind, müssen wir auch die stoichiometrischen
+[00:02:58 -> 00:03:00]  Vorfaktoren beachten.
+[00:03:00 -> 00:03:07]  Allgemein, wenn sich ein Salz AXBY löst und damit zu X-Kationen und Y-Anionen reagiert,
+[00:03:08 -> 00:03:14]  dann lautet die Gleichung für das Löslichkeitsprodukt KL ist gleich Konzentration AN plus hoch X
+[00:03:14 -> 00:03:17]  mal Konzentration BM minus hoch Y.
+[00:03:17 -> 00:03:25]  Also betrachten wir das am Beispiel von Calciumchlorid, das sich zu Calcium 2 plus und 2 Chlorid-Ionen
+[00:03:25 -> 00:03:26]  löst.
+[00:03:26 -> 00:03:32]  Löslichkeitsprodukt ist die Konzentration von Calcium 2 plus Ionen mal die Konzentration
+[00:03:32 -> 00:03:34]  der Chlorid-Ionen ins Quadrat.
+[00:03:35 -> 00:03:39]  Bei der Formel des Löslichkeitsproduktes also aufpassen, wenn man keine einfachen Salze
+[00:03:39 -> 00:03:40]  hat.
+[00:03:40 -> 00:03:44]  Das Calciumchlorid ist wieder ein sehr gut lösliches Salz.
+[00:03:44 -> 00:03:49]  Hier kann man das Löslichkeitsprodukt berechnen, jedoch macht das eher bei schwerlöslichen
+[00:03:49 -> 00:03:50]  Salzen Sinn.
+[00:03:50 -> 00:03:53]  Ganz anders hier das Calciumsulfat.
+[00:03:53 -> 00:03:59]  Das besitzt ein Löslichkeitsprodukt von 6,2 mal 10 hoch minus 5 mol im Quadrat durch Liter
+[00:03:59 -> 00:04:00]  im Quadrat.
+[00:04:00 -> 00:04:06]  Wenn wir also zu unserer Calciumchlorid-Lösung Schwefelsäure geben, haben wir sowohl Calcium
+[00:04:06 -> 00:04:11]  2 plus als auch Sulfat-Ionen SO42 minus in unserer Lösung.
+[00:04:11 -> 00:04:16]  Hierdurch wird das Löslichkeitsprodukt von Calciumsulfat überschritten und das schwerlösliche
+[00:04:16 -> 00:04:17]  Salz fällt aus.
+[00:04:17 -> 00:04:23]  Da das ganze eng mit dem Massenwirkungsgesetz und der Gleichgewichtskonstanten zusammenhängt,
+[00:04:23 -> 00:04:25]  habt ihr hier nochmal das Video dazu.
+[00:04:25 -> 00:04:26]  Einfach mal reinklicken.
+[00:04:26 -> 00:04:30]  Lasst ein Abo und ein Like da, wenn euch das Video gefallen hat und besucht auch unbedingt
+[00:04:30 -> 00:04:32]  die anderen Channels von TheSimpleClub.
+[00:04:32 -> 00:04:34]  Haut rein Leute, bis dann und ciao!

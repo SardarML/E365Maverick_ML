@@ -1,0 +1,668 @@
+[00:00:00 -> 00:00:28]  All right, I often ask who is more excited the first day of class, the students or the
+[00:00:28 -> 00:00:29]  teacher?
+[00:00:29 -> 00:00:30]  What do you think?
+[00:00:30 -> 00:00:32]  Do you get excited coming to class?
+[00:00:32 -> 00:00:34]  I get excited coming to class.
+[00:00:34 -> 00:00:37]  Do you start by saying hi?
+[00:00:37 -> 00:00:40]  Do you start by saying hello?
+[00:00:40 -> 00:00:43]  Or do you start by saying good morning?
+[00:00:43 -> 00:00:46]  I usually like good morning.
+[00:00:46 -> 00:00:48]  And why?
+[00:00:48 -> 00:00:59]  Because it conveys a positive thought to open the thalamic gates to the cortex.
+[00:00:59 -> 00:01:00]  What do you think of that?
+[00:01:00 -> 00:01:06]  You'll learn more about the thalamic gates when we study the nervous system, but that's
+[00:01:06 -> 00:01:07]  an introduction to them.
+[00:01:07 -> 00:01:12]  How many of you have studied anatomy before?
+[00:01:12 -> 00:01:15]  Just a few of you, all right.
+[00:01:15 -> 00:01:21]  And when you studied anatomy, did you introspect?
+[00:01:21 -> 00:01:24]  Because that's the way we study this course.
+[00:01:24 -> 00:01:28]  You're going to look at each other differently from now on.
+[00:01:28 -> 00:01:30]  Introspect.
+[00:01:30 -> 00:01:34]  Learn who you are beneath the surface.
+[00:01:34 -> 00:01:40]  Because the knowledge that you'll gain here in Wheeler Auditorium in the fall of 2005
+[00:01:40 -> 00:01:44]  can last you your full 100 years.
+[00:01:44 -> 00:01:48]  By then, will you geneticists extend that to 120 years?
+[00:01:48 -> 00:01:51]  Who knows?
+[00:01:51 -> 00:01:56]  But you will always have your anatomy with you wherever you are.
+[00:01:56 -> 00:02:01]  So learn it well while you're here so you can take care of yourself.
+[00:02:01 -> 00:02:09]  So we'll cut those big health care bills the latter quarter of those 100 years.
+[00:02:09 -> 00:02:14]  Be healthy for the whole time.
+[00:02:14 -> 00:02:18]  Now each year I have to find out if my class is really necessary.
+[00:02:18 -> 00:02:23]  So I ask three questions, different questions, every year.
+[00:02:23 -> 00:02:31]  So this time, how many of you know the structural and functional unit of the lung without which
+[00:02:31 -> 00:02:33]  you cannot breathe?
+[00:02:33 -> 00:02:38]  One, two, three, four.
+[00:02:38 -> 00:02:42]  I guess we need the class for my first question.
+[00:02:42 -> 00:02:47]  Second question, how many of you know the structural and functional unit of compact
+[00:02:47 -> 00:02:51]  bone without which your bones would collapse?
+[00:02:51 -> 00:02:57]  You'd just be a puddle of protoplasm there.
+[00:02:57 -> 00:03:01]  How many know the structural and functional unit of compact bone?
+[00:03:01 -> 00:03:04]  We do need a class, don't we?
+[00:03:04 -> 00:03:08]  One person doesn't.
+[00:03:08 -> 00:03:16]  Now third question, how many of you know the structural and functional unit of the most
+[00:03:16 -> 00:03:22]  complex mass of protoplasm on this Earth?
+[00:03:22 -> 00:03:26]  How many know the structural and functional unit?
+[00:03:26 -> 00:03:33]  Do you know what the most complex mass of protoplasm on this Earth is?
+[00:03:33 -> 00:03:36]  What do you think it would be?
+[00:03:36 -> 00:03:38]  A brain, sure, without a doubt.
+[00:03:38 -> 00:03:46]  Can anybody tell me anything more complex than the human brain?
+[00:03:46 -> 00:03:50]  How many have never seen a human brain before?
+[00:03:50 -> 00:03:52]  Just a few of you by now.
+[00:03:52 -> 00:03:56]  I remember once we took one in second grade and the children said, we already saw it in
+[00:03:56 -> 00:03:58]  first grade.
+[00:03:58 -> 00:04:02]  We have a program where we teach in the schools, but at least they were learning about the
+[00:04:02 -> 00:04:03]  human brain.
+[00:04:03 -> 00:04:09]  But I want you to appreciate what you carry in the top of your heads, because this mass
+[00:04:09 -> 00:04:17]  only weighs three pounds, and yet it has the capacity to conceive of a universe a
+[00:04:17 -> 00:04:20]  billion light years across.
+[00:04:20 -> 00:04:24]  Now isn't that phenomenal?
+[00:04:24 -> 00:04:27]  A mass of protoplasm can do that.
+[00:04:27 -> 00:04:34]  And yet at the same time, it can turn around and be mad or sad or glad or any kind of emotional
+[00:04:34 -> 00:04:37]  expression you'd like to think about.
+[00:04:37 -> 00:04:40]  It is a phenomenal mass.
+[00:04:40 -> 00:04:42]  And it's housed in a human body.
+[00:04:42 -> 00:04:44]  They have a symbiotic relationship.
+[00:04:44 -> 00:04:46]  The brain affects the body.
+[00:04:46 -> 00:04:48]  The body affects the brain.
+[00:04:48 -> 00:04:53]  So I love teaching human anatomy to give you the whole picture.
+[00:04:53 -> 00:04:57]  And then next semester, we concentrate only on the brain.
+[00:04:57 -> 00:04:59]  But I want you to appreciate your brains.
+[00:04:59 -> 00:05:01]  And you say, why do you put on your gloves?
+[00:05:01 -> 00:05:03]  Well, you've always heard of formaldehyde.
+[00:05:03 -> 00:05:05]  We used to store them in formaldehyde.
+[00:05:05 -> 00:05:08]  We fix them in formaldehyde to initially preserve them.
+[00:05:08 -> 00:05:16]  And then you transfer them to 70% alcohol, because alcohol will preserve the brain.
+[00:05:16 -> 00:05:18]  Need I say more?
+[00:05:22 -> 00:05:26]  My message is clear, right?
+[00:05:26 -> 00:05:31]  All right, so let's enjoy this unique educational journey today.
+[00:05:31 -> 00:05:36]  You see, every day I'll put up an outline of what we intend to cover.
+[00:05:36 -> 00:05:40]  And we put up the vocabulary that we use.
+[00:05:40 -> 00:05:43]  And you are responsible for the vocabulary, because I'll be using it.
+[00:05:43 -> 00:05:47]  But students requested a long time ago that we write it up there
+[00:05:47 -> 00:05:50]  so they'd have it spelled correctly to begin with.
+[00:05:50 -> 00:05:52]  I do not give you handouts.
+[00:05:52 -> 00:05:56]  I want you to use kinesthetic sense.
+[00:05:56 -> 00:05:57]  This is why I stay.
+[00:05:57 -> 00:05:59]  It's not old fashioned.
+[00:05:59 -> 00:06:04]  It's through years and years of studying education and how you learn.
+[00:06:04 -> 00:06:07]  And you learn with kinesthetic sense when you write.
+[00:06:07 -> 00:06:08]  I don't want you reading papers.
+[00:06:08 -> 00:06:10]  You can just get a book, all right?
+[00:06:12 -> 00:06:17]  So I want you to copy what we have up here so it's in your handwriting.
+[00:06:17 -> 00:06:20]  And I got a letter from one of my students who's a professor at Johns Hopkins.
+[00:06:20 -> 00:06:26]  And she said she still has her notes, and they're very clear, and she uses them.
+[00:06:26 -> 00:06:28]  So it was very encouraging.
+[00:06:28 -> 00:06:33]  So let's begin first by meeting somebody you don't know in class.
+[00:06:33 -> 00:06:36]  So turn to somebody you don't know.
+[00:06:36 -> 00:06:39]  And pretend like they have no hair.
+[00:06:39 -> 00:06:41]  Pretend like they have no skull.
+[00:06:41 -> 00:06:44]  You're gonna be talking brain to brain, right?
+[00:06:44 -> 00:06:46]  A unique experience.
+[00:06:46 -> 00:06:48]  You wanted that here, didn't you?
+[00:06:48 -> 00:06:50]  You've never done that before, I'm sure.
+[00:06:50 -> 00:06:54]  So find out where the person sitting next to you is from, what their name is.
+[00:06:54 -> 00:06:55]  And a little about them.
+[00:06:55 -> 00:06:58]  I'll give you two minutes.
+[00:06:59 -> 00:07:03]  Hi, since you're down here, I'll get you.
+[00:07:03 -> 00:07:03]  What's your name?
+[00:07:03 -> 00:07:04]  My name's Cynthia.
+[00:07:04 -> 00:07:06]  Cynthia, where are you from?
+[00:07:06 -> 00:07:08]  I'm from the Bay Area, from Lafayette.
+[00:07:08 -> 00:07:10]  Lafayette, not too far away.
+[00:07:10 -> 00:07:11]  What are you studying?
+[00:07:11 -> 00:07:14]  I'm studying molecular environmental biology.
+[00:07:14 -> 00:07:15]  And what do you want to do with it?
+[00:07:15 -> 00:07:19]  I might go to medical school, but I haven't decided yet.
+[00:07:19 -> 00:07:21]  I might go into politics, too.
+[00:07:21 -> 00:07:22]  Wow.
+[00:07:22 -> 00:07:23]  Yeah.
+[00:07:23 -> 00:07:24]  I prefer medical school.
+[00:07:24 -> 00:07:25]  Yeah.
+[00:07:26 -> 00:07:29]  But you have to be serious, right?
+[00:07:29 -> 00:07:30]  Okay, good luck.
+[00:07:39 -> 00:07:41]  Your two minutes are up.
+[00:07:41 -> 00:07:43]  But I hope you've made a new friend.
+[00:07:43 -> 00:07:46]  We consider ourselves a big family here.
+[00:07:46 -> 00:07:48]  We want you to get to know each other.
+[00:07:48 -> 00:07:51]  And you'll find it's very useful to find a study buddy,
+[00:07:51 -> 00:07:55]  somebody to study with after you've done the original studying
+[00:07:55 -> 00:07:58]  because that helps you speak the language, work together,
+[00:07:58 -> 00:08:00]  see it from a different perspective.
+[00:08:00 -> 00:08:04]  So after maybe a week or two, if you don't have one, let me know
+[00:08:04 -> 00:08:07]  and we'll ask all those who want a study buddy to meet out
+[00:08:07 -> 00:08:11]  on the right side of the entrance here.
+[00:08:11 -> 00:08:13]  All right?
+[00:08:13 -> 00:08:17]  Now, you see I've got two names on the board over here.
+[00:08:18 -> 00:08:23]  And I just wonder if Kathleen Abania is here.
+[00:08:23 -> 00:08:24]  There she is.
+[00:08:24 -> 00:08:25]  Great.
+[00:08:25 -> 00:08:28]  How about Stephen Smug?
+[00:08:28 -> 00:08:30]  Is it Smug or Smug?
+[00:08:30 -> 00:08:31]  Perfect.
+[00:08:31 -> 00:08:32]  It's Smug?
+[00:08:32 -> 00:08:33]  Great.
+[00:08:33 -> 00:08:34]  Do you know why your name's there?
+[00:08:34 -> 00:08:35]  You do not.
+[00:08:35 -> 00:08:38]  Well, every week I take two students to lunch,
+[00:08:38 -> 00:08:41]  and I pick the name at random.
+[00:08:41 -> 00:08:44]  So you can tell that this has been picked at random.
+[00:08:44 -> 00:08:45]  All right?
+[00:08:45 -> 00:08:46]  No.
+[00:08:46 -> 00:08:55]  Well, it's a way I can keep up with what you're doing
+[00:08:55 -> 00:08:58]  because I catch all the new ones coming in every year,
+[00:08:58 -> 00:09:02]  but this way I get an idea of what's popular amongst the students.
+[00:09:02 -> 00:09:07]  So after class today, come here and we'll find a time where we go
+[00:09:07 -> 00:09:11]  at noon to the faculty club for lunch.
+[00:09:11 -> 00:09:12]  At 1 o'clock we stop.
+[00:09:12 -> 00:09:13]  Right?
+[00:09:13 -> 00:09:15]  So come up quick.
+[00:09:15 -> 00:09:16]  All right?
+[00:09:16 -> 00:09:20]  Now, we have the format of this class.
+[00:09:20 -> 00:09:31]  My name is Marion Diamond.
+[00:09:31 -> 00:09:34]  And I've been teaching here for many decades
+[00:09:34 -> 00:09:38]  because I love to awaken students to anatomy.
+[00:09:38 -> 00:09:41]  They so seldom have appreciated their bodies,
+[00:09:41 -> 00:09:42]  and I just love it.
+[00:09:42 -> 00:09:44]  So that's why I continue.
+[00:09:44 -> 00:09:45]  I have worked at Harvard.
+[00:09:45 -> 00:09:47]  I've taught at Cornell for four years.
+[00:09:47 -> 00:09:48]  I've taught at UCSF.
+[00:09:48 -> 00:09:49]  I've taught all over the world.
+[00:09:49 -> 00:09:52]  But I come back to Berkeley.
+[00:09:52 -> 00:09:54]  I like my Berkeley students.
+[00:09:54 -> 00:09:56]  All right?
+[00:09:57 -> 00:10:10]  So I have office hours from 11 to 1 on Tuesday, Thursday,
+[00:10:10 -> 00:10:16]  in room 5120 VLSB.
+[00:10:16 -> 00:10:19]  And with so many of us, we have to sign up.
+[00:10:19 -> 00:10:21]  So if you really want an appointment,
+[00:10:21 -> 00:10:31]  I put up the list on Friday to sign up.
+[00:10:31 -> 00:10:33]  I should just say sheet, not list.
+[00:10:33 -> 00:10:35]  It'll be a list after you sign.
+[00:10:35 -> 00:10:38]  And then you'll have your appointments
+[00:10:38 -> 00:10:40]  on the following week.
+[00:10:40 -> 00:10:46]  So this is essential from experience in the past.
+[00:10:46 -> 00:10:49]  Now, as we know, this class is 131.
+[00:10:49 -> 00:10:51]  It's going to be human anatomy.
+[00:10:51 -> 00:10:55]  And it will be three hours a week for 15 weeks.
+[00:10:55 -> 00:10:58]  How long is that?
+[00:10:58 -> 00:11:00]  45 hours.
+[00:11:00 -> 00:11:03]  How many hours in two days?
+[00:11:03 -> 00:11:04]  48.
+[00:11:04 -> 00:11:08]  So we have class less than two days.
+[00:11:08 -> 00:11:09]  Right?
+[00:11:09 -> 00:11:13]  Those who signed up for 131L, you'll
+[00:11:13 -> 00:11:17]  have class for four hours a week, so 60 hours.
+[00:11:17 -> 00:11:21]  But for a structure that's taken millions of years to evolve,
+[00:11:21 -> 00:11:26]  you could see we're just touching the surface.
+[00:11:26 -> 00:11:28]  We have another class, 131A.
+[00:11:28 -> 00:11:31]  Have you heard of 131A?
+[00:11:31 -> 00:11:33]  That's applied anatomy.
+[00:11:33 -> 00:11:36]  That's a one-unit course.
+[00:11:36 -> 00:11:39]  131A, those who have already signed up for lab,
+[00:11:39 -> 00:11:42]  before I go to 131A, let me give you the name of the head
+[00:11:42 -> 00:11:43]  GSI for the lab.
+[00:11:43 -> 00:11:46]  OK?
+[00:11:46 -> 00:11:51]  So if you have anything to do with lab, you contact him.
+[00:11:51 -> 00:11:54]  This is Matt Brandley.
+[00:11:58 -> 00:12:07]  And his email is brandley at berkeley.edu.
+[00:12:07 -> 00:12:13]  So he'll take care of anything to do with 131L.
+[00:12:14 -> 00:12:21]  131A is applied anatomy, where we have former students who
+[00:12:21 -> 00:12:24]  are professionals, one way or another,
+[00:12:24 -> 00:12:26]  in the medical field and health field.
+[00:12:26 -> 00:12:29]  And they come and talk about their field,
+[00:12:29 -> 00:12:31]  how they applied, what they did, and what
+[00:12:31 -> 00:12:32]  they do as a profession.
+[00:12:32 -> 00:12:34]  I mean, we have neurosurgeons, we have neuro,
+[00:12:34 -> 00:12:40]  we have radiologists, forensic medicine, healthy buildings,
+[00:12:40 -> 00:12:45]  all sorts of people coming to talk for 131A.
+[00:12:45 -> 00:12:48]  It does not begin until September 17.
+[00:12:51 -> 00:13:01]  And it will be Friday at noon in 10 Davis Hall.
+[00:13:03 -> 00:13:04]  But the students love it.
+[00:13:04 -> 00:13:06]  There's no exam.
+[00:13:06 -> 00:13:11]  You write a paper at the end of two pages long, and that's it.
+[00:13:11 -> 00:13:15]  But I want you to know the personal lives of people
+[00:13:15 -> 00:13:18]  in health-related careers to help you
+[00:13:18 -> 00:13:21]  choose what you want to do.
+[00:13:21 -> 00:13:24]  Now, the books that we require for this course,
+[00:13:24 -> 00:13:27]  there are two that we require.
+[00:13:37 -> 00:13:51]  We have one for gross anatomy, which is by Mariab.
+[00:13:51 -> 00:13:54]  Mariab, you'll find I repeat a lot,
+[00:13:54 -> 00:13:57]  because that helps with your protein synthesis
+[00:13:57 -> 00:13:59]  and remembering.
+[00:13:59 -> 00:14:02]  So I do it purposely.
+[00:14:02 -> 00:14:05]  So Mariab et al.
+[00:14:05 -> 00:14:07]  It's called Human Anatomy.
+[00:14:15 -> 00:14:17]  And it's the fourth edition.
+[00:14:17 -> 00:14:20]  Students are already asking, can they use the third?
+[00:14:20 -> 00:14:23]  Sure, you can use the third, but the fourth is more updated.
+[00:14:23 -> 00:14:26]  So make your choice.
+[00:14:26 -> 00:14:29]  The other one is Microscopic Anatomy.
+[00:14:36 -> 00:14:50]  And this one is Wheater's Functional Histology.
+[00:14:57 -> 00:15:00]  And that's also a fourth edition, a superb book.
+[00:15:00 -> 00:15:02]  I don't know that it has a peer.
+[00:15:02 -> 00:15:06]  So those two are required.
+[00:15:06 -> 00:15:12]  Recommended may sound strange to you, just one of them.
+[00:15:12 -> 00:15:16]  It's called the Human Anatomy Coloring Book.
+[00:15:16 -> 00:15:18]  You said you colored in kindergarten.
+[00:15:18 -> 00:15:21]  But again, it's the kinesthetic sense
+[00:15:21 -> 00:15:23]  of coloring in the muscles, where they originate,
+[00:15:23 -> 00:15:25]  where they attach.
+[00:15:25 -> 00:15:27]  It helps embed the knowledge.
+[00:15:27 -> 00:15:37]  So it's the Human Brain Coloring Book.
+[00:15:42 -> 00:15:44]  And that's the third edition.
+[00:15:47 -> 00:15:50]  And there are many of these out, but by far the one that
+[00:15:50 -> 00:15:57]  has the best text is Capet and Elson.
+[00:15:57 -> 00:16:00]  Elson was a former student here.
+[00:16:00 -> 00:16:02]  Guess how many copies this has sold?
+[00:16:02 -> 00:16:05]  How would you like to be author of a book that
+[00:16:05 -> 00:16:08]  has sold 4 million copies?
+[00:16:08 -> 00:16:10]  That's what Larry's book has done.
+[00:16:10 -> 00:16:11]  It's good.
+[00:16:11 -> 00:16:13]  Students enjoy it all over the world.
+[00:16:14 -> 00:16:16]  All right?
+[00:16:16 -> 00:16:19]  So now we have our exams.
+[00:16:27 -> 00:16:35]  We have three exams, each worth 30%, 33%, we should say.
+[00:16:35 -> 00:16:37]  Or let's just say a third.
+[00:16:37 -> 00:16:47]  Each worth one third of points, total points.
+[00:16:52 -> 00:16:58]  And the exams will only cover what I give in lecture.
+[00:16:58 -> 00:17:00]  There is so much work.
+[00:17:00 -> 00:17:04]  You use your books to enrich, to understand,
+[00:17:04 -> 00:17:06]  to see other dimensions.
+[00:17:06 -> 00:17:11]  But I'll only cover on exam what I give in lecture.
+[00:17:11 -> 00:17:17]  Only exams cover lecture.
+[00:17:22 -> 00:17:25]  And we grade by percentage.
+[00:17:25 -> 00:17:29]  And we've never had any problems over the years.
+[00:17:29 -> 00:17:34]  If you get 90% and above, you get an A.
+[00:17:34 -> 00:17:42]  You get 80% and above, a B, 70%, and so forth.
+[00:17:42 -> 00:17:46]  But it's a very clear way, and it's lasted us well.
+[00:17:46 -> 00:17:50]  We do consider growth curves, because frequently many of you
+[00:17:50 -> 00:17:54]  have had a lot of biology, and some of you have had none.
+[00:17:54 -> 00:17:56]  So you don't do too well on the first exam.
+[00:17:56 -> 00:17:59]  But say you do poorly, but then you do very well.
+[00:17:59 -> 00:18:06]  Then you do very well, and you get something like a 79% total.
+[00:18:06 -> 00:18:09]  If I see that growth curve, we look at all of your grades,
+[00:18:09 -> 00:18:11]  all 750 of you.
+[00:18:11 -> 00:18:14]  We look at every single grade at grading time and final
+[00:18:14 -> 00:18:16]  to see whether you've improved.
+[00:18:16 -> 00:18:20]  If you get a 79, then we'll take you up to the 80%.
+[00:18:20 -> 00:18:26]  It has to be on the margin between the two to move you.
+[00:18:26 -> 00:18:27]  But we do consider it.
+[00:18:27 -> 00:18:31]  Doesn't mean that means you can slack for the first exam.
+[00:18:31 -> 00:18:35]  But in case that happens, you could work it up.
+[00:18:35 -> 00:18:41]  Now, many people say anatomy is only vocabulary.
+[00:18:41 -> 00:18:44]  So we look at terminology now.
+[00:18:44 -> 00:18:46]  But when you take a French course,
+[00:18:46 -> 00:18:50]  do you say that French is only vocabulary?
+[00:18:50 -> 00:18:51]  Sure it is.
+[00:18:51 -> 00:18:53]  If you're going to speak the language of the body,
+[00:18:53 -> 00:18:59]  you need to know the terminology.
+[00:18:59 -> 00:19:02]  Because no two cells in the brain are alike.
+[00:19:02 -> 00:19:04]  Clusters of cells have different names.
+[00:19:04 -> 00:19:06]  We need to learn them.
+[00:19:06 -> 00:19:08]  But that's the fun of it.
+[00:19:08 -> 00:19:13]  Because most of the tissues and structures of the body
+[00:19:13 -> 00:19:15]  are from either Greek or Latin.
+[00:19:15 -> 00:19:19]  How many have had Greek and Latin?
+[00:19:19 -> 00:19:21]  Isn't that amazing?
+[00:19:21 -> 00:19:26]  My mother had nine years of Greek and eight years of Latin
+[00:19:26 -> 00:19:31]  way back when she went to Cal in the early 1900s.
+[00:19:31 -> 00:19:34]  How it's just been removed from the system almost.
+[00:19:34 -> 00:19:36]  It's amazing.
+[00:19:36 -> 00:19:39]  So we're going to go back and learn a little.
+[00:19:39 -> 00:19:42]  But first, what is the meaning of the word anatomy?
+[00:19:42 -> 00:19:43]  It's a Greek word.
+[00:19:51 -> 00:20:03]  If you've ever asked yourself, what does anatomy mean,
+[00:20:03 -> 00:20:05]  we break it up.
+[00:20:05 -> 00:20:07]  It's Greek.
+[00:20:07 -> 00:20:13]  And ana deals with up.
+[00:20:13 -> 00:20:20]  And tome is from Tymnean, just to give the Greek word.
+[00:20:20 -> 00:20:25]  It's not the same, but that's what it comes from.
+[00:20:25 -> 00:20:26]  And that just means to dissect.
+[00:20:30 -> 00:20:34]  So essentially, one is going to dissect the body
+[00:20:34 -> 00:20:36]  to see the various parts.
+[00:20:36 -> 00:20:38]  But you'll find that looking at terminology
+[00:20:38 -> 00:20:42]  and finding the derivation can be fun.
+[00:20:42 -> 00:20:53]  So terminology, derivation, it helps you remember.
+[00:20:53 -> 00:20:56]  So we're going to just take six words.
+[00:20:56 -> 00:20:57]  Let's take artery.
+[00:21:00 -> 00:21:02]  Everybody's heard of an artery.
+[00:21:02 -> 00:21:05]  What does your artery do for you?
+[00:21:05 -> 00:21:07]  Carries oxygenated blood, right?
+[00:21:13 -> 00:21:20]  But in Latin, what does artery mean?
+[00:21:20 -> 00:21:24]  It means air holder.
+[00:21:24 -> 00:21:25]  Air holder.
+[00:21:25 -> 00:21:26]  Why?
+[00:21:26 -> 00:21:31]  Because with the last contraction of the heart,
+[00:21:31 -> 00:21:34]  the blood goes out through all the arteries.
+[00:21:34 -> 00:21:39]  So the cadaver has no blood in the arteries.
+[00:21:39 -> 00:21:42]  So the early individuals looked at this
+[00:21:43 -> 00:21:45]  and said, well, it must hold air.
+[00:21:45 -> 00:21:46]  Interesting.
+[00:21:46 -> 00:21:49]  Makes an artery dynamic for you when you see
+[00:21:49 -> 00:21:51]  an empty artery in a cadaver.
+[00:21:51 -> 00:21:56]  So in Latin, artery means air holder.
+[00:22:00 -> 00:22:02]  Let's take another word.
+[00:22:02 -> 00:22:04]  Genitals.
+[00:22:04 -> 00:22:06]  Genitals.
+[00:22:06 -> 00:22:08]  You can figure that one out.
+[00:22:08 -> 00:22:09]  Genitals.
+[00:22:13 -> 00:22:17]  Where did that name come from?
+[00:22:17 -> 00:22:19]  From Genesis.
+[00:22:19 -> 00:22:21]  What does Genesis mean?
+[00:22:21 -> 00:22:22]  Birth.
+[00:22:32 -> 00:22:35]  Let's take another one.
+[00:22:35 -> 00:22:37]  Just want to make it fun when you look at words
+[00:22:37 -> 00:22:42]  and try to figure out how they came about.
+[00:22:42 -> 00:22:47]  They only had dead bodies to look at to see blood flow
+[00:22:47 -> 00:22:49]  or anything in those days.
+[00:22:49 -> 00:22:50]  What's another one?
+[00:22:50 -> 00:22:51]  Let's take carotid.
+[00:22:57 -> 00:22:58]  What's a carotid?
+[00:22:58 -> 00:23:00]  Does anybody know?
+[00:23:00 -> 00:23:04]  The arteries in your neck taking the blood to your brain.
+[00:23:04 -> 00:23:11]  The carotid arteries in neck.
+[00:23:11 -> 00:23:16]  Take blood to brain.
+[00:23:20 -> 00:23:23]  What's carotid mean?
+[00:23:23 -> 00:23:26]  It means stupor.
+[00:23:26 -> 00:23:26]  Stupor.
+[00:23:36 -> 00:23:38]  So if you press on your carotids,
+[00:23:38 -> 00:23:40]  you reduce the blood flow to your brain
+[00:23:40 -> 00:23:44]  and you go into a stupor.
+[00:23:44 -> 00:23:49]  So never take your pulse from your carotid arteries.
+[00:23:49 -> 00:23:52]  Take it from your radial artery here.
+[00:23:52 -> 00:23:55]  Don't cut the brain supply.
+[00:23:55 -> 00:23:57]  But that's fun of carotid.
+[00:24:00 -> 00:24:02]  Let's take the uterus.
+[00:24:02 -> 00:24:04]  What does uterus mean?
+[00:24:04 -> 00:24:07]  How many here have a uterus?
+[00:24:07 -> 00:24:09]  How many have ever asked what does
+[00:24:09 -> 00:24:11]  the word uterus mean?
+[00:24:24 -> 00:24:26]  Uterus means hysteria.
+[00:24:29 -> 00:24:32]  That's what the early anatomists thought.
+[00:24:32 -> 00:24:35]  Isn't that fascinating how far we've come?
+[00:24:40 -> 00:24:45]  Hysteria means excess anxiety.
+[00:24:55 -> 00:24:56]  So much for that.
+[00:24:56 -> 00:24:59]  What's the uterus do, really?
+[00:24:59 -> 00:25:03]  Do you think it causes you all that excess anxiety?
+[00:25:03 -> 00:25:08]  Or do you think it houses the growing individual?
+[00:25:08 -> 00:25:09]  The baby grows.
+[00:25:12 -> 00:25:14]  Baby develops.
+[00:25:18 -> 00:25:19]  Let's try another one.
+[00:25:19 -> 00:25:20]  We said we had six.
+[00:25:20 -> 00:25:21]  Let's try five.
+[00:25:21 -> 00:25:22]  Let's take femur.
+[00:25:22 -> 00:25:24]  Most of you have heard of femur.
+[00:25:27 -> 00:25:28]  What is the femur?
+[00:25:30 -> 00:25:32]  It's the largest bone in your body.
+[00:25:32 -> 00:25:34]  Where is it?
+[00:25:34 -> 00:25:36]  It's your thigh bone, sure.
+[00:25:36 -> 00:25:40]  So femur means thigh.
+[00:25:40 -> 00:25:42]  So you know immediately we're in this.
+[00:25:42 -> 00:25:44]  We'll study it in detail.
+[00:25:44 -> 00:25:48]  But right now, we're just seeing its derivation.
+[00:25:48 -> 00:25:52]  And since we've taken one organ associated with reproduction
+[00:25:52 -> 00:25:56]  from the female, let's take one from the male.
+[00:25:56 -> 00:25:57]  Let's take the penis.
+[00:26:02 -> 00:26:03]  What does penis mean?
+[00:26:07 -> 00:26:10]  No guesses?
+[00:26:10 -> 00:26:13]  You'll be really surprised.
+[00:26:13 -> 00:26:14]  Tail.
+[00:26:19 -> 00:26:24]  Sort of had their directions mixed, didn't they?
+[00:26:24 -> 00:26:26]  Gives you something to think about.
+[00:26:26 -> 00:26:29]  But I bet you you won't find anybody at lunch
+[00:26:29 -> 00:26:32]  who knows what penis means.
+[00:26:32 -> 00:26:36]  All right, but the fun of learning terminology.
+[00:26:36 -> 00:26:38]  Look it up if you don't know and want to know.
+[00:26:38 -> 00:26:42]  Because once you know, you never forget it.
+[00:26:42 -> 00:26:46]  Now, what kind of techniques do we use to study anatomy?
+[00:26:55 -> 00:27:01]  As we've said, we use gross anatomy and we use histology.
+[00:27:01 -> 00:27:17]  Techniques to study gross anatomy,
+[00:27:17 -> 00:27:24]  and that is studying the body with the naked eye.
+[00:27:24 -> 00:27:27]  And you'll learn we have lots of shorthand.
+[00:27:27 -> 00:27:32]  In medical terms, a C with a line over it means with.
+[00:27:32 -> 00:27:35]  We use it all the time, and we'll be using shorthand.
+[00:27:35 -> 00:27:39]  So gross anatomy with naked eye.
+[00:27:43 -> 00:27:55]  With microscopic anatomy, we can study
+[00:27:55 -> 00:28:02]  with a light microscope up to 1,000 times magnification.
+[00:28:02 -> 00:28:17]  A light microscope, 1,000 times mag.
+[00:28:17 -> 00:28:31]  Or with an electron microscope, over 30,000 times
+[00:28:31 -> 00:28:33]  magnification.
+[00:28:33 -> 00:28:36]  And there are different kinds of electron microscopes
+[00:28:36 -> 00:28:38]  to help study the body.
+[00:28:40 -> 00:28:45]  We have what's called a transmission EM.
+[00:28:45 -> 00:28:49]  Please abbreviate electron microscope, just EM.
+[00:28:53 -> 00:29:06]  So we have a transmission EM, where the electrons
+[00:29:06 -> 00:29:09]  pass through the tissue.
+[00:29:09 -> 00:29:14]  The electrons pass through tissue.
+[00:29:23 -> 00:29:25]  And I write things on the board because it gives you
+[00:29:25 -> 00:29:27]  a chance to think.
+[00:29:27 -> 00:29:28]  If I just flash a slide up there,
+[00:29:28 -> 00:29:30]  you have no time to put it in what we
+[00:29:30 -> 00:29:34]  call your association cortex.
+[00:29:34 -> 00:29:38]  So by the time you write it out, you can remember it.
+[00:29:38 -> 00:29:40]  Then we have scanning EM.
+[00:29:48 -> 00:29:54]  And scanning EM, in contrast, transmission EM is just TEM.
+[00:29:54 -> 00:29:58]  When you see that abbreviation, scanning EM is SEM.
+[00:30:02 -> 00:30:05]  And it just scans the surface of the tissue.
+[00:30:05 -> 00:30:08]  It's beautiful.
+[00:30:08 -> 00:30:12]  I'll show some pictures of your taste buds of scanning EM.
+[00:30:12 -> 00:30:15]  Beautiful.
+[00:30:15 -> 00:30:20]  Scans surface of tissue.
+[00:30:25 -> 00:30:30]  So lots of equipment has been developed over the year
+[00:30:30 -> 00:30:34]  to keep refinding our approach to studying.
+[00:30:34 -> 00:30:38]  And these techniques, which I've mentioned here,
+[00:30:38 -> 00:30:42]  are all used with dead tissue.
+[00:30:42 -> 00:30:44]  This is all dead tissue here.
+[00:30:54 -> 00:30:57]  And with light EM, these are all dead tissue.
+[00:31:02 -> 00:31:06]  But more recently, all of the technology
+[00:31:06 -> 00:31:10]  has been dealing with living tissue.
+[00:31:10 -> 00:31:14]  So we have what's called the nuclear magnetic resonance
+[00:31:14 -> 00:31:27]  imaging with live tissue, an NMR,
+[00:31:27 -> 00:31:36]  nuclear magnetic resonance.
+[00:31:41 -> 00:31:45]  And that will give you the anatomy of your body.
+[00:31:45 -> 00:31:49]  They do the leg bones, skull, whatever.
+[00:31:49 -> 00:31:50]  This is for anatomy.
+[00:31:51 -> 00:31:56]  But then we can have what's called
+[00:31:56 -> 00:32:09]  functional nuclear magnetic resonance, functional NMR.
+[00:32:09 -> 00:32:12]  What is that, then?
+[00:32:12 -> 00:32:17]  It's combining the physiology and the anatomy.
+[00:32:17 -> 00:32:19]  Physiology and anatomy.
+[00:32:19 -> 00:32:19]  The function.
+[00:32:28 -> 00:32:35]  And they can do that by picking up the amount of oxygen
+[00:32:35 -> 00:32:35]  in the vessels.
+[00:32:39 -> 00:32:42]  So if you have a very active, for me
+[00:32:42 -> 00:32:46]  to be speaking to you now, my motor speech area is firing.
+[00:32:46 -> 00:32:48]  It will have much more oxygen going
+[00:32:48 -> 00:32:54]  through it than the area where I'm supposed to be sleeping.
+[00:32:54 -> 00:32:58]  So that's for a functional NMR.
+[00:32:58 -> 00:33:02]  And I'll give one more pet.
+[00:33:02 -> 00:33:06]  Pet is positron emission tomography.
+[00:33:06 -> 00:33:23]  Positron emission tomography.
+[00:33:29 -> 00:33:33]  So those of you who are in bioengineering
+[00:33:33 -> 00:33:38]  are interested in these pieces of equipment,
+[00:33:38 -> 00:33:40]  designing better ones so we can get
+[00:33:40 -> 00:33:44]  better images of our anatomy.
+[00:33:47 -> 00:33:51]  And in pet, you're using radioactive material
+[00:33:51 -> 00:34:08]  to localize whatever you're looking for.
+[00:34:08 -> 00:34:10]  I'll just leave it at that.
+[00:34:10 -> 00:34:14]  How many had a pet scan?
+[00:34:14 -> 00:34:16]  Note one.
+[00:34:16 -> 00:34:18]  Was it glucose?
+[00:34:18 -> 00:34:23]  Glucose, what radioactivity did they give you?
+[00:34:23 -> 00:34:25]  You don't know?
+[00:34:25 -> 00:34:26]  No, you'll find out.
+[00:34:26 -> 00:34:28]  Then you tell us.
+[00:34:28 -> 00:34:29]  Then we all learn.
+[00:34:29 -> 00:34:33]  No, if you find things that you know we don't know,
+[00:34:33 -> 00:34:34]  we're a class, right?
+[00:34:34 -> 00:34:36]  We talk.
+[00:34:36 -> 00:34:42]  So now we have structural planes and directions.
+[00:34:42 -> 00:34:47]  We're going through this at a superficial but rapid rate.
+[00:34:47 -> 00:34:53]  And it's important to know the terms for positions
+[00:34:53 -> 00:34:59]  so you can tell relationships of structures one to another.
+[00:34:59 -> 00:35:01]  You will learn these directions in the body.
+[00:35:09 -> 00:35:13]  So let's call these, what terms did we use to give this group?
+[00:35:13 -> 00:35:16]  We call it structural planes and directions.
+[00:35:34 -> 00:35:38]  First, we have to know the anatomical position of the body
+[00:35:38 -> 00:35:40]  that we're going to be referring to.
+[00:35:40 -> 00:35:42]  So the anatomical position of the body
+[00:35:43 -> 00:35:46]  is face forward, palms forward.
+[00:35:46 -> 00:35:48]  So when we start doing relationships,
+[00:35:48 -> 00:35:50]  we have to be in this position.
+[00:35:50 -> 00:35:53]  Not this position, not this position,
+[00:35:53 -> 00:35:56]  but face forward, palms forward.
+[00:35:56 -> 00:35:57]  The anatomical position.
+[00:36:01 -> 00:36:04]  And as we learn, you'll see why this is so important.
+[00:36:05 -> 00:36:13]  So face forward and palms up.
+[00:36:13 -> 00:36:25]  So let's make a cartoon.
+[00:36:25 -> 00:36:37]  Head, neck, shoulders, trunk, take an arm out here.
+[00:36:43 -> 00:36:50]  This is the general idea.
+[00:36:50 -> 00:37:02]  If we make a line straight through the body,
+[00:37:02 -> 00:37:06]  that's called a midline cut.
+[00:37:06 -> 00:37:07]  Midline.
+[00:37:13 -> 00:37:15]  And if we're talking about a structure that's
+[00:37:15 -> 00:37:19]  going to be here versus a structure that's
+[00:37:19 -> 00:37:29]  going to be here, we will say that A is medial to B.
+[00:37:29 -> 00:37:33]  It's closer to the midline.
+[00:37:33 -> 00:37:43]  A is medial to B.
+[00:37:43 -> 00:37:56]  We will say that B is lateral to A. B is lateral to A.
+[00:37:56 -> 00:37:58]  So if you're describing some of the GI tract
+[00:37:58 -> 00:38:02]  and you've got the tissues that you want to be talking about,
+[00:38:02 -> 00:38:06]  you use medial and lateral to help orient you.
+[00:38:06 -> 00:38:10]  Then we use the terms proximal and distal.
+[00:38:11 -> 00:38:15]  Proximal, proximal, and distal.
+[00:38:21 -> 00:38:25]  And this part of my body is the trunk.
+[00:38:25 -> 00:38:27]  These are my extremities.
+[00:38:27 -> 00:38:32]  So proximal is closer to the trunk.
+[00:38:32 -> 00:38:36]  Closer to trunk.
+[00:38:37 -> 00:38:43]  Distal, then, is away from trunk.
+[00:38:49 -> 00:38:52]  So these are terms we'll be using all the time
+[00:38:52 -> 00:38:55]  with these appendages that we attach to this trunk.
+[00:38:55 -> 00:39:05]  So if I have a C here at the shoulder
+[00:39:05 -> 00:39:13]  and a D down here, I will say that C
+[00:39:13 -> 00:39:15]  is proximal to the midline.
+[00:39:15 -> 00:39:19]  D, which would be out here, is distal to the midline.
+[00:39:19 -> 00:39:21]  When we go to put on muscles, we're
+[00:39:21 -> 00:39:23]  going to have insertions and origins.
+[00:39:23 -> 00:39:28]  You're going to have the insertions are proximal.
+[00:39:28 -> 00:39:29]  Excuse me.
+[00:39:29 -> 00:39:30]  The origin is proximal.
+[00:39:30 -> 00:39:32]  The insertion is distal.
+[00:39:32 -> 00:39:37]  So we'll be using these terms all the time.
+[00:39:37 -> 00:39:38]  I have a few slides I'd like to show.
+[00:39:38 -> 00:39:43]  I have a few words, but I'll cover those later.
+[00:39:43 -> 00:39:45]  But let's try to review some of the things we've
+[00:39:45 -> 00:39:50]  said with slides each day.
+[00:39:50 -> 00:39:51]  Whoops.
+[00:39:51 -> 00:39:55]  Do I have my pointer?
+[00:39:59 -> 00:40:01]  Is this it?
+[00:40:01 -> 00:40:03]  They get fancier and smaller all the time.
+[00:40:03 -> 00:40:05]  Let's see what this does.
+[00:40:05 -> 00:40:06]  This may be a clock.
+[00:40:06 -> 00:40:07]  It may be a radio.
+[00:40:07 -> 00:40:07]  I don't know.
+[00:40:07 -> 00:40:09]  We'll see.
+[00:40:09 -> 00:40:10]  There we go.
+[00:40:10 -> 00:40:10]  It's got one.
+[00:40:15 -> 00:40:18]  We had mentioned an artery.
+[00:40:18 -> 00:40:23]  This we'll learn, our thoracic aorta coming down.
+[00:40:23 -> 00:40:27]  This is as we'll see it from a structural point of view.
+[00:40:27 -> 00:40:32]  This is gross anatomy of this vessel.
+[00:40:32 -> 00:40:35]  If we look at it histologically, we look at the next slide.
+[00:40:41 -> 00:40:44]  This is what it looks like histologically.
+[00:40:44 -> 00:40:46]  We look at its wall.
+[00:40:46 -> 00:40:48]  This is its opening where the blood flows.
+[00:40:48 -> 00:40:49]  But this is its wall.
+[00:40:49 -> 00:40:53]  These wavy little things are what we call elastic fibers.
+[00:40:53 -> 00:40:57]  Every time your heart contracts, your blood vessel's
+[00:40:57 -> 00:40:59]  coming from it will expand.
+[00:40:59 -> 00:41:01]  And then they recoil.
+[00:41:01 -> 00:41:03]  So we'll get the principle of what's
+[00:41:03 -> 00:41:06]  going on by looking at the gross structure and then
+[00:41:06 -> 00:41:09]  the microscopic structure to understand
+[00:41:09 -> 00:41:11]  the dynamics at this level.
+[00:41:11 -> 00:41:14]  In the next slide.
+[00:41:14 -> 00:41:17]  Now, we were talking about medial and lateral.
+[00:41:17 -> 00:41:19]  Anybody know what muscle this is?
+[00:41:19 -> 00:41:21]  Pectoralis major.
+[00:41:21 -> 00:41:24]  Well, this will be the origin.
+[00:41:24 -> 00:41:25]  It's medial.
+[00:41:25 -> 00:41:27]  It's close to the midline.
+[00:41:27 -> 00:41:31]  It will insert over here on the humerus, which is distal.
+[00:41:31 -> 00:41:33]  Here's your deltoid.
+[00:41:33 -> 00:41:35]  It originates here.
+[00:41:35 -> 00:41:38]  That's closer to the midline.
+[00:41:38 -> 00:41:40]  And we'll insert down here.
+[00:41:40 -> 00:41:47]  So we need to know medial, lateral, proximal, distal.
+[00:41:47 -> 00:41:48]  This is closer.
+[00:41:48 -> 00:41:50]  This is proximal, distal.
+[00:41:50 -> 00:41:55]  So we'll be using these terms all the time in bones, muscles,
+[00:41:55 -> 00:41:56]  and so forth.
+[00:41:56 -> 00:41:59]  In the next one.
+[00:41:59 -> 00:42:01]  Well, this is a bone.
+[00:42:01 -> 00:42:03]  Would you call it a long bone or a short bone?
+[00:42:06 -> 00:42:07]  Good for you.
+[00:42:07 -> 00:42:09]  It's a long bone.
+[00:42:09 -> 00:42:12]  When you look at the femur, you know that's really a long bone.
+[00:42:12 -> 00:42:15]  But the characteristics of it are the same.
+[00:42:15 -> 00:42:17]  Short bones have different characteristics
+[00:42:17 -> 00:42:18]  from long bones.
+[00:42:18 -> 00:42:21]  So I put this one in just to show you
+[00:42:21 -> 00:42:27]  that these metacarpals forming the palm of your hand,
+[00:42:27 -> 00:42:28]  these are long bones.
+[00:42:28 -> 00:42:30]  But now, if you want to look at a beautiful picture,
+[00:42:30 -> 00:42:33]  look at them histologically.
+[00:42:33 -> 00:42:36]  Next one.
+[00:42:36 -> 00:42:37]  Isn't that gorgeous?
+[00:42:37 -> 00:42:38]  The art of science.
+[00:42:38 -> 00:42:41]  That's one reason I loved anatomy,
+[00:42:41 -> 00:42:42]  because I like the art.
+[00:42:42 -> 00:42:46]  But this is taking a section through that bone.
+[00:42:46 -> 00:42:48]  And this is what you have millions
+[00:42:48 -> 00:42:53]  of these in your long bones, with the blood vessel here,
+[00:42:53 -> 00:42:54]  the bone cells here.
+[00:42:54 -> 00:42:57]  They've got to get nutrients.
+[00:42:57 -> 00:43:00]  Some people think that anatomy is dead.
+[00:43:00 -> 00:43:01]  In our class, where we go off and teach
+[00:43:01 -> 00:43:03]  the little kids kindergarten to seventh grade,
+[00:43:03 -> 00:43:05]  we tell them to teach their parents.
+[00:43:05 -> 00:43:07]  So this little kid went home and told his mother
+[00:43:07 -> 00:43:09]  that bones were alive.
+[00:43:09 -> 00:43:11]  Mother said, no, they're not.
+[00:43:11 -> 00:43:14]  So little kid came crying back and said to my student,
+[00:43:14 -> 00:43:15]  you told me wrong.
+[00:43:15 -> 00:43:18]  So we had to Xerox out of the book
+[00:43:18 -> 00:43:23]  so the parent could see that bones are alive.
+[00:43:23 -> 00:43:24]  Very much alive.
+[00:43:24 -> 00:43:26]  They grow with use.
+[00:43:26 -> 00:43:28]  They shrink with disuse.
+[00:43:28 -> 00:43:30]  Muscles grow with use, shrink with disuse.
+[00:43:30 -> 00:43:32]  What other structure, very important structure,
+[00:43:32 -> 00:43:35]  grows with use and shrinks with disuse?
+[00:43:35 -> 00:43:38]  The one in the hot box.
+[00:43:38 -> 00:43:40]  That's why we teach.
+[00:43:40 -> 00:43:43]  Now, here's a picture cut through the skull.
+[00:43:43 -> 00:43:46]  Have you ever seen your body like this before?
+[00:43:46 -> 00:43:48]  Isn't that an interesting trip?
+[00:43:48 -> 00:43:52]  You can imagine, look this evening, open your mouth,
+[00:43:52 -> 00:43:55]  look in your mirror, go back and see your uvula.
+[00:43:55 -> 00:43:58]  Know that if you go through your vertebral column,
+[00:43:58 -> 00:43:59]  you'll come to the spinal cord.
+[00:43:59 -> 00:44:01]  Then you go up your spinal cord and imagine
+[00:44:01 -> 00:44:06]  your cerebellum, your pons, all your brain structures,
+[00:44:06 -> 00:44:08]  your big corpus callosum.
+[00:44:08 -> 00:44:09]  We're going to learn all of this.
+[00:44:09 -> 00:44:14]  But see, it took a dead body to get this picture.
+[00:44:14 -> 00:44:16]  Let's look at an NMR.
+[00:44:16 -> 00:44:19]  Next one.
+[00:44:19 -> 00:44:21]  They do pretty well, don't they?
+[00:44:21 -> 00:44:25]  This is what we call the MRIs, magnetic resonance imaging.
+[00:44:25 -> 00:44:28]  It's the same, but it's a sagittal section through.
+[00:44:28 -> 00:44:30]  Here's your corpus callosum, just as you saw it with death.
+[00:44:30 -> 00:44:31]  Here's the cerebellum.
+[00:44:31 -> 00:44:33]  Here's the pons.
+[00:44:33 -> 00:44:35]  Here is the spinal cord.
+[00:44:35 -> 00:44:36]  Isn't that good?
+[00:44:36 -> 00:44:42]  But they're trying to improve the resolution at all times.
+[00:44:42 -> 00:44:44]  But they've done very well at the present time.
+[00:44:44 -> 00:44:49]  So that, I think, gives you an introduction.

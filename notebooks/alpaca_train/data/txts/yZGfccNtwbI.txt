@@ -1,0 +1,123 @@
+[00:00:00 -> 00:00:06]  Hi und herzlich willkommen bei Lehrer Schmidt.
+[00:00:06 -> 00:00:11]  In diesem Video werden wir uns heute einmal durch das Rechnen mit Klammern arbeiten.
+[00:00:11 -> 00:00:16]  Wie immer ist das natürlich gar nicht so schwierig und wir fangen wie immer ganz einfach
+[00:00:16 -> 00:00:17]  an.
+[00:00:17 -> 00:00:23]  Als erstes rechnen wir 5 plus 4 und das kennen wir schon, das ist 9.
+[00:00:24 -> 00:00:27]  Okay, jetzt schreibe ich es anders auf.
+[00:00:27 -> 00:00:36]  Plus 5, weil die 5 ist ja auch positiv, plus 4 ist plus 9.
+[00:00:36 -> 00:00:38]  Sind wir uns einig, oder?
+[00:00:38 -> 00:00:40]  Ich habe es nur ein bisschen anders aufgeschrieben.
+[00:00:40 -> 00:00:41]  Jetzt schreibe ich es nochmal anders auf.
+[00:00:42 -> 00:00:55]  In Klammern plus 5 plus, in Klammern plus 4 ist gleich plus 9.
+[00:00:55 -> 00:01:07]  Okay, also nochmal komplizierter, plus 5 in Klammern plus plus 4 in Klammern ist also
+[00:01:07 -> 00:01:13]  nichts anderes als 5 plus 4 und das ist 9.
+[00:01:13 -> 00:01:20]  Soweit ist es doch ganz einfach und zusammengefasst kann man jetzt sagen, also Klammer auf plus
+[00:01:20 -> 00:01:28]  A plus Klammer auf plus B ist nichts anderes als A plus B.
+[00:01:28 -> 00:01:29]  Richtig?
+[00:01:29 -> 00:01:30]  Das ist alles?
+[00:01:30 -> 00:01:31]  So starten wir.
+[00:01:31 -> 00:01:33]  Machen wir weiter.
+[00:01:33 -> 00:01:42]  Als nächstes 5 minus 3, kennen wir alle, 5 minus 3 sind 2.
+[00:01:42 -> 00:01:50]  Okay, bisschen komplizierter, plus 5 minus 3, okay, auch 2.
+[00:01:50 -> 00:02:01]  Ich schreibe es noch ein bisschen anders auf, plus 5, maletwegen in Klammern, plus minus
+[00:02:01 -> 00:02:02]  3.
+[00:02:02 -> 00:02:06]  Das ist genau das gleiche, aber hier kommen immer viele durcheinander.
+[00:02:06 -> 00:02:13]  Also hier rechne ich ja 5 minus 3 und das kann auch plus 5 minus 3 sein, aber ein Minus
+[00:02:13 -> 00:02:20]  ist eben auch nichts anderes als 5 und jetzt plus eine negative Zahl.
+[00:02:20 -> 00:02:21]  So und was steht da dann?
+[00:02:21 -> 00:02:29]  Tja, da steht nichts anderes als 5 minus 3, weil nämlich dieses Plus und dieses Minus
+[00:02:29 -> 00:02:33]  zusammen wieder ein Minus ergeben und 5 minus 3 ist 2.
+[00:02:33 -> 00:02:35]  So, wie kann man das vereinfachen?
+[00:02:35 -> 00:02:46]  Wir können sagen, plus A in Klammern plus minus B ist nichts anderes als A minus B.
+[00:02:46 -> 00:02:49]  Okay, machen wir weiter.
+[00:02:49 -> 00:02:50]  Schauen wir uns das nächste an.
+[00:02:50 -> 00:03:03]  Minus 5 plus 7, okay, ich habe sozusagen 5 Schulden, es kommen 7 dazu, also ist die
+[00:03:03 -> 00:03:04]  Antwort 2.
+[00:03:04 -> 00:03:13]  Ich könnte auch sagen, minus 5 plus 7, seht ihr das?
+[00:03:13 -> 00:03:14]  Wie gerade eben.
+[00:03:14 -> 00:03:15]  Was kommt raus?
+[00:03:15 -> 00:03:16]  2.
+[00:03:16 -> 00:03:19]  Okay, ich könnte es noch anders aufschreiben.
+[00:03:19 -> 00:03:31]  Ich könnte sagen, minus 5 in Klammern plus Klammer auf plus 7 ist nichts anderes als
+[00:03:31 -> 00:03:36]  minus 5 plus 7 und das ist 2.
+[00:03:36 -> 00:03:49]  Okay, zusammengefasst, minus A plus B ist nichts anderes als minus A plus B.
+[00:03:49 -> 00:03:50]  Okay?
+[00:03:50 -> 00:03:53]  Okay, weiter geht's.
+[00:03:53 -> 00:03:57]  Jetzt kommt das, was häufig falsch gemacht wird.
+[00:03:57 -> 00:04:00]  Minus 5 minus 3.
+[00:04:00 -> 00:04:05]  Ich habe 5 Schulden, es kommen 3 dazu, also minus 8.
+[00:04:06 -> 00:04:09]  Okay, wie kann ich das aufschreiben, damit das verständlicher ist?
+[00:04:09 -> 00:04:17]  Ich kann sagen, minus 5, maletwegen in Klammern, plus minus 3 und jetzt ist es für viele viel
+[00:04:17 -> 00:04:18]  einfacher.
+[00:04:18 -> 00:04:27]  Jetzt steht hier also 5, zwar negativ, plus 3 und 5 plus 3 sind 8 und jetzt, Achtung,
+[00:04:27 -> 00:04:28]  negatives Vorzeichen.
+[00:04:28 -> 00:04:32]  Deswegen ist diese Schreibweise für viele viel, viel einfacher.
+[00:04:32 -> 00:04:34]  Schauen wir uns das Ganze nochmal an.
+[00:04:34 -> 00:04:47]  Minus 5 plus minus 3 ist also nichts anderes als minus 5 minus 3 und minus 5 minus 3 ist
+[00:04:47 -> 00:04:49]  minus 8.
+[00:04:49 -> 00:05:00]  Okay, oder vereinfacht, minus A oder verallgemeinert plus minus B ist nichts anderes als minus
+[00:05:00 -> 00:05:02]  A minus B.
+[00:05:02 -> 00:05:04]  Okay, hätten wir das auch.
+[00:05:04 -> 00:05:06]  Weiter machen wir mit dem Multiplizieren.
+[00:05:06 -> 00:05:15]  Also, passt auf, plus 5 mal plus 3.
+[00:05:15 -> 00:05:22]  Das ist nichts anderes als 5 mal 3, sind ja beide positiv und das ist 15.
+[00:05:22 -> 00:05:24]  Okay, das war einfach.
+[00:05:24 -> 00:05:31]  Schreibe ich das anders auf, dann kann da auch stehen, plus A in Klammern mal plus B
+[00:05:31 -> 00:05:36]  ist nichts anderes als Klammer auf A mal B, Klammer zu.
+[00:05:36 -> 00:05:45]  Okay, jetzt nehmen wir die erste Zahl ins Minus, minus 5 mal plus 3 ist nichts anderes
+[00:05:45 -> 00:05:50]  als minus 5 mal 3 und das sind minus 15.
+[00:05:50 -> 00:05:55]  Auch klar, hier ist ein Minus, minus mal plus ergibt Minus.
+[00:05:55 -> 00:05:56]  Kennt ihr.
+[00:05:56 -> 00:05:58]  Wie können wir es aufschreiben?
+[00:05:58 -> 00:06:06]  Minus A in Klammern mal plus B ist nichts anderes als minus Klammer auf A mal B, Klammer
+[00:06:06 -> 00:06:07]  zu.
+[00:06:07 -> 00:06:08]  Da kommt das Minus her.
+[00:06:08 -> 00:06:17]  Oder, und das gilt natürlich auch andersrum, plus 5 in Klammern mal minus 3 ist nichts
+[00:06:17 -> 00:06:22]  anderes als 5 mal minus 3 und das ist auch minus 15.
+[00:06:23 -> 00:06:32]  Oder, wie gerade eben, plus A mal minus B ist nichts anderes als minus Klammer auf A
+[00:06:32 -> 00:06:33]  mal B.
+[00:06:33 -> 00:06:36]  So, sieht kompliziert aus, ist aber ganz einfach.
+[00:06:36 -> 00:06:38]  Okay, machen wir weiter.
+[00:06:38 -> 00:06:43]  Ein bisschen anders sieht es aus, wenn wir zwei negative Zahlen haben.
+[00:06:43 -> 00:06:55]  Minus 5 in Klammern mal minus 3, das wandelt sich um zu 5 mal 3 und das sind 15.
+[00:06:55 -> 00:06:59]  Minus mal Minus ergibt am Ende Plus.
+[00:06:59 -> 00:07:00]  Wie sieht das aus?
+[00:07:00 -> 00:07:11]  Naja, also minus A mal minus B ist nichts anderes als plus A mal B, wobei man das Plus
+[00:07:11 -> 00:07:12]  natürlich auch weglassen könnte.
+[00:07:13 -> 00:07:30]  Okay, und ihr kennt diesen Riesensatz dazu, merke, Minus mal Minus ergibt Plus, so, kennt
+[00:07:30 -> 00:07:31]  ihr ja.
+[00:07:31 -> 00:07:32]  Okay, hätten wir das auch.
+[00:07:32 -> 00:07:35]  Zum Schluss noch das Dividieren.
+[00:07:35 -> 00:07:42]  Also, plus 15 geteilt durch plus 3.
+[00:07:42 -> 00:07:47]  Beide Zahlen sind positiv und das kennen wir ja, das ist nichts anderes wie 15 geteilt
+[00:07:47 -> 00:07:50]  durch 3 und das sind 5.
+[00:07:50 -> 00:07:51]  Klar, okay.
+[00:07:51 -> 00:07:59]  Oder, wenn ich es verallgemeinern will, dann könnte ich sagen, plus A geteilt durch plus
+[00:07:59 -> 00:08:05]  B ist nichts anderes als plus A geteilt durch B.
+[00:08:06 -> 00:08:07]  Natürlich in Klammern.
+[00:08:07 -> 00:08:11]  Okay, jetzt machen wir den ersten negativ, den ersten Ausdruck.
+[00:08:11 -> 00:08:23]  Also, minus 15 geteilt durch plus 3 ist also nichts anderes als minus, Klammer auf, 15
+[00:08:23 -> 00:08:27]  geteilt durch 3 und das sind dann minus 5.
+[00:08:27 -> 00:08:30]  Ihr seht, das Minuszeichen geht mit.
+[00:08:30 -> 00:08:31]  Okay, gut.
+[00:08:32 -> 00:08:40]  Also ist das nichts anderes als minus A, in Klammern, geteilt durch plus B, in Klammern
+[00:08:40 -> 00:08:46]  und das ist gleich minus und dann A geteilt durch B.
+[00:08:46 -> 00:08:49]  Okay, weiter, jetzt drehen wir es einmal um.
+[00:08:49 -> 00:08:57]  Jetzt machen wir plus 15 geteilt durch minus 3 und das ist dann ja nichts anderes als
+[00:08:57 -> 00:09:03]  genauso wie gerade eben hier auch wieder minus, Klammer auf, 15 geteilt durch 3 und
+[00:09:03 -> 00:09:06]  dann kommt da auch minus 5 raus.
+[00:09:06 -> 00:09:18]  Okay, oder plus A in Klammern geteilt durch minus B in Klammern ist eben minus, Klammer
+[00:09:18 -> 00:09:22]  auf, A geteilt durch B und ihr seht, das hier ist identisch.
+[00:09:22 -> 00:09:24]  Okay, machen wir weiter.
+[00:09:24 -> 00:09:35]  Zum Schluss beim Dividieren das doppelte Minus, also minus 15 geteilt durch minus 3, zweimal
+[00:09:35 -> 00:09:45]  ein Minus und daraus wird plus 15 geteilt durch 3 und das sind dann 5.
+[00:09:45 -> 00:09:54]  Oder minus A in Klammern geteilt durch minus B in Klammern ist nichts anderes als plus
+[00:09:54 -> 00:10:11]  und das dürfte man weglassen, A geteilt durch B und wie gerade eben gilt, merke, minus geteilt
+[00:10:11 -> 00:10:19]  durch minus ergibt plus.
+[00:10:19 -> 00:10:25]  So, das war eine schnelle Übersicht über das Rechnen mit Klammern und besonders haben
+[00:10:25 -> 00:10:28]  wir uns natürlich in diesem Zusammenhang die Vorzeichen angeguckt.
+[00:10:28 -> 00:10:32]  Und wenn ihr euch das einmal mit Verstand anguckt, dann ist das alles gar nicht mehr
+[00:10:32 -> 00:10:33]  so schwierig.
+[00:10:33 -> 00:10:41]  Ihr merkt euch hierbei, minus mal minus ergibt plus oder minus geteilt durch minus ergibt
+[00:10:41 -> 00:10:42]  auch plus.
+[00:10:42 -> 00:10:44]  Okay, das war's.

@@ -1,0 +1,75 @@
+[00:00:00 -> 00:00:15]  Goal-Orientated Action Planning, or GOAP for short, is an AO technique that was devised
+[00:00:15 -> 00:00:18]  by Jeff Orkin of MIT in the early 2000s.
+[00:00:18 -> 00:00:24]  It was successfully applied in the game F.E.A.R. to control the behaviour of the NPCs.
+[00:00:24 -> 00:00:27]  If you want to learn more about it, you can read through the research papers available
+[00:00:27 -> 00:00:29]  at this address.
+[00:00:30 -> 00:00:35]  GOAP has all the elements of a finite state machine, but works with them very differently.
+[00:00:35 -> 00:00:40]  For example, the finite state machines, as you have seen before, define behaviours and
+[00:00:40 -> 00:00:44]  conditions to drive the NPC at fulfilling some goal.
+[00:00:44 -> 00:00:48]  To achieve this with a finite state machine, you could have one massive graph, or divide
+[00:00:48 -> 00:00:50]  it up into smaller units.
+[00:00:50 -> 00:00:55]  GOAP also uses graphs for its processing, but differs from finite state machines in
+[00:00:55 -> 00:00:58]  that the actions and goals are decoupled.
+[00:00:58 -> 00:01:03]  Actions are free elements within the system that are mixed and matched to meet goals when
+[00:01:03 -> 00:01:04]  they are presented.
+[00:01:04 -> 00:01:09]  Instead of having a set list of actions that need to be performed to achieve a goal, GOAP
+[00:01:09 -> 00:01:12]  allows for numerous solutions to be chosen from.
+[00:01:12 -> 00:01:17]  So instead of a system that looks like this, in GOAP all the links are removed.
+[00:01:17 -> 00:01:22]  Then when a goal is presented, an appropriate course of action can be chosen from all of
+[00:01:22 -> 00:01:26]  the available tasks based on the state of the agent and the world.
+[00:01:26 -> 00:01:31]  For example, if an agent were asked to kill an enemy, and it didn't have a weapon, it
+[00:01:31 -> 00:01:33]  could choose a physical fight.
+[00:01:33 -> 00:01:40]  However, if it did have a weapon, a different set of actions would become available.
+[00:01:40 -> 00:01:43]  Every action in GOAP has a precondition and an effect.
+[00:01:43 -> 00:01:48]  The precondition is a state that must be met before the action can take place.
+[00:01:48 -> 00:01:54]  The effect is how the action leaves the state of the agent or the world after it has occurred.
+[00:01:54 -> 00:01:59]  A set of actions forms a kind of puzzle, or set of dominoes, where the preconditions
+[00:01:59 -> 00:02:05]  can be matched with effects, and the effects match with preconditions to create action chains.
+[00:02:05 -> 00:02:08]  Let's look at an example.
+[00:02:08 -> 00:02:09]  Consider this set of actions.
+[00:02:09 -> 00:02:13]  If you take a close look, you will see they focus on eating.
+[00:02:13 -> 00:02:19]  If you take a closer look, you might be able to see two plans that you could form yourself.
+[00:02:19 -> 00:02:22]  One for ordering pizza, and one for baking.
+[00:02:22 -> 00:02:27]  An agent with these actions won't do anything until presented with a goal.
+[00:02:27 -> 00:02:31]  In this case, let's trigger the goal hungry equals false.
+[00:02:31 -> 00:02:36]  The goal is the end state of the agent, not the starting state.
+[00:02:36 -> 00:02:43]  If you think about it, a recurring human goal is to have hungry equal false as often as possible.
+[00:02:43 -> 00:02:48]  Plans can generally only occur when the world and or the agent are in a particular state.
+[00:02:48 -> 00:02:51]  For this example, let's add two.
+[00:02:51 -> 00:02:55]  Has ingredients is true, and has phone number is true.
+[00:02:55 -> 00:03:00]  The planning stage in GOAP always works backwards from the goal to see if it is achievable.
+[00:03:00 -> 00:03:05]  It does this by matching the effects with preconditions into a chain.
+[00:03:05 -> 00:03:07]  It works all the way back to the world states.
+[00:03:07 -> 00:03:12]  If it can't find a matching world state at the end, the plan is abandoned.
+[00:03:12 -> 00:03:16]  In this example, there are two possible plans available.
+[00:03:16 -> 00:03:19]  Order a pizza, and bake something to eat.
+[00:03:19 -> 00:03:21]  Notice the reuse of the eat action.
+[00:03:21 -> 00:03:27]  It fits into both plans, and illustrates how actions can be mixed and matched to form different plans.
+[00:03:27 -> 00:03:32]  As long as the preconditions and effects fit together, any actions can be chained together.
+[00:03:32 -> 00:03:36]  Now that we have two plans that will achieve the goal, which one do we choose?
+[00:03:36 -> 00:03:38]  Simple, we add a cost to the plans.
+[00:03:38 -> 00:03:41]  We might assign each action a monetary cost.
+[00:03:41 -> 00:03:48]  In this case, the pizza plan works out dearer, assuming we already have the ingredients for baking.
+[00:03:48 -> 00:03:51]  We might instead opt for a time-based cost as well.
+[00:03:51 -> 00:03:54]  This would make the baking option more costly.
+[00:03:54 -> 00:04:01]  With costs assigned to each plan, when there are multiple, the cheapest one can be selected first.
+[00:04:01 -> 00:04:07]  If there are multiple plans with the same lowest cost, then one can be pricked at random.
+[00:04:07 -> 00:04:13]  A conceptualisation of a GOAP system looks like this, with actions, goals and world states
+[00:04:13 -> 00:04:15]  being fed into a planner.
+[00:04:15 -> 00:04:20]  The planner chains the actions together according to the goals and starting states to determine
+[00:04:20 -> 00:04:22]  which plans are achievable.
+[00:04:22 -> 00:04:29]  The planner uses the ASTAR algorithm to find the best plan using the cost values.
+[00:04:29 -> 00:04:34]  Once a plan has been generated, the agent goes about achieving it using a very, very
+[00:04:34 -> 00:04:39]  simple finite state machine that basically moves the agent to where the action needs
+[00:04:39 -> 00:04:42]  to take place, and then performs the action.
+[00:04:42 -> 00:04:47]  The agent works its way along the chain of actions until a goal has been achieved.
+[00:04:47 -> 00:04:51]  Before each action is performed, it is always checked to see if it is still valid.
+[00:04:51 -> 00:04:55]  If not, the entire plan is discarded and another one is generated.
+[00:04:55 -> 00:05:00]  The beauty of GOAP is that more and more actions can be added to the pool available to the
+[00:05:00 -> 00:05:03]  agent and these will automatically be picked up by the planner.
+[00:05:03 -> 00:05:08]  This means very little extra programming to recognise graphs like the ones in complete
+[00:05:08 -> 00:05:14]  setups of finite state machines, as the graphs are generated on the fly by the planner.
+[00:05:14 -> 00:05:20]  This makes GOAP a very powerful and flexible option for programming the behaviours of your NPCs.
+[00:05:20 -> 00:05:22]  Thanks for watching.
+[00:05:22 -> 00:05:26]  Please support the development of more superb online learning content by subscribing and
+[00:05:26 -> 00:05:32]  as always visit holistic3d.com to learn more about awesome games development books and tutorials.

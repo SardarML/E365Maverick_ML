@@ -1,0 +1,272 @@
+[00:00:00 -> 00:00:04]  Hi, welcome in another video of Cloud in 5 Minutes.
+[00:00:04 -> 00:00:08]  Today, I want to talk about the Azure Resource Manager,
+[00:00:08 -> 00:00:09]  the ARM template.
+[00:00:09 -> 00:00:12]  You heard about it, but you don't know how to get started.
+[00:00:12 -> 00:00:14]  Today is your lucky day because I will share with you
+[00:00:14 -> 00:00:19]  my five tips to get a clean ARM template every time.
+[00:00:19 -> 00:00:21]  Aussi, si vous préférez,
+[00:00:21 -> 00:00:23]  j'ai une version en français de ce vidéo.
+[00:00:23 -> 00:00:25]  Cliquez juste ici dans le coin en haut à droite.
+[00:00:25 -> 00:00:36]  Hello again, let me introduce myself.
+[00:00:36 -> 00:00:38]  I'm Franck Boucher, Microsoft Azure
+[00:00:38 -> 00:00:40]  MVP based in Montreal in Canada.
+[00:00:40 -> 00:00:43]  Today, I will be talking about ARM template.
+[00:00:43 -> 00:00:45]  Those are JSON file.
+[00:00:45 -> 00:00:47]  You could be building them from scratch
+[00:00:47 -> 00:00:49]  with your favorite text editor.
+[00:00:49 -> 00:00:52]  But if you're just getting started,
+[00:00:52 -> 00:00:53]  building your script from scratch
+[00:00:53 -> 00:00:55]  could be a little bit hard.
+[00:00:55 -> 00:00:58]  So what you could do is go in the Azure portal,
+[00:00:58 -> 00:01:03]  create your deployment by using the UI interface.
+[00:01:03 -> 00:01:06]  But then before creating the Create button,
+[00:01:06 -> 00:01:07]  just look on the side,
+[00:01:07 -> 00:01:10]  the Download Template and Parameters.
+[00:01:10 -> 00:01:11]  Click on that link.
+[00:01:11 -> 00:01:14]  It will open a new blade with everything you need,
+[00:01:14 -> 00:01:18]  the parameter files and the ARM template.
+[00:01:18 -> 00:01:21]  Just click the Download button and you're good to go.
+[00:01:22 -> 00:01:25]  If your solution is already running in Azure,
+[00:01:25 -> 00:01:27]  you could go in the Azure portal,
+[00:01:27 -> 00:01:29]  open the resource group blade,
+[00:01:29 -> 00:01:31]  and then on the left panel,
+[00:01:31 -> 00:01:34]  look for the automation script.
+[00:01:34 -> 00:01:37]  Click on that and you will be able to
+[00:01:37 -> 00:01:40]  download your script just like that.
+[00:01:40 -> 00:01:42]  In today's demo, what I want to do is use
+[00:01:42 -> 00:01:45]  the ARM template that was generated when we were
+[00:01:45 -> 00:01:49]  creating a VM and clean it and apply the best practices.
+[00:01:49 -> 00:01:51]  Let's get started.
+[00:01:51 -> 00:01:53]  I download the code generated from
+[00:01:53 -> 00:01:57]  the Azure portal and unzip it in a folder.
+[00:01:57 -> 00:02:00]  I will be working in Visual Studio Code.
+[00:02:00 -> 00:02:03]  I like it. You could use whatever tool you like.
+[00:02:03 -> 00:02:06]  I really like Visual Studio Code to play with ARM template.
+[00:02:06 -> 00:02:08]  In the zip file we download,
+[00:02:08 -> 00:02:12]  of course, we have the template and the parameter file,
+[00:02:12 -> 00:02:15]  but we have also a bunch of deployment scripts.
+[00:02:15 -> 00:02:18]  In PowerShell, Bash, Ruby,
+[00:02:18 -> 00:02:23]  and C Sharp that could help us deploying this template.
+[00:02:23 -> 00:02:25]  But today, we won't play with those.
+[00:02:25 -> 00:02:29]  We only focus on the parameter files and the template files.
+[00:02:29 -> 00:02:34]  Step number 1, use Git.
+[00:02:34 -> 00:02:39]  Even if it's only locally, use Git.
+[00:02:39 -> 00:02:43]  That will give you an infinite Control Z option.
+[00:02:43 -> 00:02:46]  You will always be able to return to
+[00:02:46 -> 00:02:48]  a point where your script was
+[00:02:48 -> 00:02:53]  working and will keep everything clean. Use Git.
+[00:02:53 -> 00:02:56]  Since I'm in Visual Studio Code,
+[00:02:56 -> 00:02:57]  it's super easy for me.
+[00:02:57 -> 00:03:01]  I just go in the source control tab and I
+[00:03:01 -> 00:03:05]  click this button here and I initialize my repo.
+[00:03:06 -> 00:03:08]  I can do my first commit.
+[00:03:08 -> 00:03:13]  Step number 2, validate, validate, validate.
+[00:03:13 -> 00:03:16]  When your validation pass,
+[00:03:16 -> 00:03:20]  then you commit and you validate often.
+[00:03:20 -> 00:03:23]  To validate today, I will use Azure CLI.
+[00:03:23 -> 00:03:27]  You could be using Azure PowerShell also if you like.
+[00:03:27 -> 00:03:32]  The command to validate is azuregroupdeploymentvalidate,
+[00:03:32 -> 00:03:33]  and you pass a resource group.
+[00:03:33 -> 00:03:35]  If you don't have one, it's time to create one.
+[00:03:35 -> 00:03:39]  You could use azgroupcreate,
+[00:03:39 -> 00:03:42]  and then you pass the name and the location of your user group.
+[00:03:42 -> 00:03:45]  Then for the validation,
+[00:03:45 -> 00:03:49]  we pass the template file and the parameter file.
+[00:03:49 -> 00:03:53]  We hit Enter, take just a few seconds.
+[00:03:53 -> 00:03:56]  When we get a long script like that,
+[00:03:56 -> 00:03:59]  it's the ARM template populated with
+[00:03:59 -> 00:04:02]  every real resource name that will be used,
+[00:04:02 -> 00:04:04]  resource ID, means it's good.
+[00:04:04 -> 00:04:06]  If it was an error,
+[00:04:06 -> 00:04:08]  it would have been super short.
+[00:04:08 -> 00:04:12]  Perfect. Step number 3.
+[00:04:12 -> 00:04:19]  Nobody likes an ARM template with 51 parameters.
+[00:04:19 -> 00:04:25]  Step 3, reduce the number of parameters as much as possible.
+[00:04:25 -> 00:04:27]  We cannot just delete them, of course.
+[00:04:27 -> 00:04:31]  We need to move them to the variables and then play from there.
+[00:04:31 -> 00:04:34]  The way I do that is I go back in
+[00:04:34 -> 00:04:38]  the parameter files and I bubble up every parameter that I want to keep.
+[00:04:38 -> 00:04:40]  For in this sample,
+[00:04:40 -> 00:04:41]  I will keep only four,
+[00:04:41 -> 00:04:43]  so location, virtual machine name,
+[00:04:43 -> 00:04:45]  admin name, and admin password.
+[00:04:45 -> 00:04:48]  Everything else, I want to remove it.
+[00:04:48 -> 00:04:54]  I will just select everything that I want to remove,
+[00:04:54 -> 00:04:57]  remove it, remove the last comma.
+[00:04:57 -> 00:04:59]  That will be my new parameter file.
+[00:04:59 -> 00:05:03]  Now I paste that in a new document, just like this.
+[00:05:03 -> 00:05:08]  What's nice in Visual Studio Code is I have a multi-select cursor.
+[00:05:08 -> 00:05:13]  For example, if I click here and then I hit the Ctrl F2,
+[00:05:13 -> 00:05:16]  I now have a multi-selection and I can just
+[00:05:16 -> 00:05:20]  continue and select everything until that.
+[00:05:20 -> 00:05:23]  If I delete, voila.
+[00:05:23 -> 00:05:26]  Now I could do the same thing in here,
+[00:05:26 -> 00:05:30]  Ctrl F2, and voila.
+[00:05:30 -> 00:05:34]  I have now everything that is ready to be used in my template file.
+[00:05:35 -> 00:05:39]  I will use that and paste it in my template.
+[00:05:39 -> 00:05:43]  In my template, I will go in the section variables.
+[00:05:43 -> 00:05:49]  Here, I will keep just an empty line to make it clear that those are new.
+[00:05:49 -> 00:05:57]  Perfect. Now I can remove all the parameter I'm not using anymore,
+[00:05:57 -> 00:06:00]  just like that.
+[00:06:01 -> 00:06:06]  Perfect. However, now in my file,
+[00:06:06 -> 00:06:08]  it's using parameter that doesn't exist.
+[00:06:08 -> 00:06:14]  I need to change every time I was using a parameter and a name,
+[00:06:14 -> 00:06:16]  that I change it to a variables.
+[00:06:16 -> 00:06:20]  I need to change it for variables here.
+[00:06:20 -> 00:06:26]  You just need to pass and do that every time.
+[00:06:30 -> 00:06:45]  Once you think you're done cleaning the parameters,
+[00:06:45 -> 00:06:47]  now it's time to validate.
+[00:06:47 -> 00:06:52]  Don't forget to save and go save your parameter files also.
+[00:06:52 -> 00:06:56]  Now it's time to validate.
+[00:06:56 -> 00:06:58]  Perfect. It worked.
+[00:06:58 -> 00:07:00]  Now, we commit.
+[00:07:00 -> 00:07:01]  A little tips here,
+[00:07:01 -> 00:07:04]  if you're using a template that was generated from
+[00:07:04 -> 00:07:07]  a solution that is already running in Azure,
+[00:07:07 -> 00:07:09]  you will have a little bit of noise,
+[00:07:09 -> 00:07:11]  a lot of information in fact,
+[00:07:11 -> 00:07:14]  regarding what's already running.
+[00:07:14 -> 00:07:15]  In the ARM template,
+[00:07:15 -> 00:07:20]  you will have the full IDs and the states of all the resources.
+[00:07:20 -> 00:07:22]  You will need to clean that also.
+[00:07:22 -> 00:07:24]  For example, in here,
+[00:07:24 -> 00:07:25]  I have comments.
+[00:07:25 -> 00:07:28]  Don't hesitate, you can remove that.
+[00:07:28 -> 00:07:29]  You won't need it.
+[00:07:29 -> 00:07:31]  Also, for multiple resources,
+[00:07:31 -> 00:07:35]  you will have provisioning state and unique identifier.
+[00:07:35 -> 00:07:37]  You don't need those also.
+[00:07:37 -> 00:07:40]  Don't hesitate and remove them.
+[00:07:40 -> 00:07:44]  It will help you a lot to have a clean ARM template.
+[00:07:44 -> 00:07:47]  Step 4, use a unique string,
+[00:07:47 -> 00:07:52]  a suffix or a unique identifier to add to your deployment.
+[00:07:52 -> 00:07:57]  Why? Because if you're trying to deploy the same VM over and over,
+[00:07:57 -> 00:08:01]  you will get some problem because some names may already be used.
+[00:08:01 -> 00:08:03]  A good way to do that is use
+[00:08:03 -> 00:08:09]  a unique identifier and add it to your names or your resources.
+[00:08:09 -> 00:08:14]  For example, you could add a suffix just like that,
+[00:08:14 -> 00:08:19]  and that suffix is use the function unique string that
+[00:08:19 -> 00:08:22]  will build a hash based on the parameter you pass.
+[00:08:22 -> 00:08:25]  Right now, what I'm using as a parameter are
+[00:08:25 -> 00:08:29]  the resource group ID and the location.
+[00:08:29 -> 00:08:32]  By doing so, if you're deploying in another location,
+[00:08:32 -> 00:08:34]  the hash will be also different.
+[00:08:34 -> 00:08:38]  Now, for example, if I want to use that in the virtual machine name,
+[00:08:38 -> 00:08:42]  what I want to do is I will create a new variable called VMName,
+[00:08:42 -> 00:08:45]  and I will concatenate the parameter
+[00:08:45 -> 00:08:49]  virtual machine and the variable suffix.
+[00:08:49 -> 00:08:53]  Now, what I want to do is I want to change where
+[00:08:53 -> 00:08:56]  everywhere with parameter a virtual name was used,
+[00:08:56 -> 00:09:01]  and instead use the variable VMName,
+[00:09:04 -> 00:09:07]  just like that. Of course,
+[00:09:07 -> 00:09:09]  in this first one,
+[00:09:09 -> 00:09:11]  I don't want to change it, so we'll skip it,
+[00:09:11 -> 00:09:13]  and I will do the others.
+[00:09:14 -> 00:09:18]  Now, you guessed it, let's validate.
+[00:09:21 -> 00:09:26]  It passed. Before going to the next step, we commit.
+[00:09:26 -> 00:09:30]  Step 5, use the variables.
+[00:09:30 -> 00:09:34]  Of course, it's in this step that we will spend a lot of time,
+[00:09:34 -> 00:09:40]  because we want to remove all the static value and put something more dynamic.
+[00:09:40 -> 00:09:44]  For example, if I look here to my virtual network name,
+[00:09:44 -> 00:09:47]  I use Cloud five minutes in the name,
+[00:09:47 -> 00:09:49]  because it was the name of my resource group,
+[00:09:49 -> 00:09:51]  that's why the Azure portal generated like that.
+[00:09:51 -> 00:09:54]  But if I'm deploying in another resource group,
+[00:09:54 -> 00:09:56]  I don't want that name to be there,
+[00:09:56 -> 00:09:58]  so I want something a little bit more dynamic.
+[00:09:58 -> 00:10:00]  Let's replace that.
+[00:10:00 -> 00:10:04]  We'll create another variable just under so you could see it,
+[00:10:04 -> 00:10:08]  and I will be concatenating the variable resource group name,
+[00:10:08 -> 00:10:12]  the variable resource group name with VName.
+[00:10:12 -> 00:10:17]  Why use the resource group name while I have the object and I could just point to it?
+[00:10:17 -> 00:10:20]  Well, I will explain.
+[00:10:20 -> 00:10:23]  First, let's create that variable,
+[00:10:23 -> 00:10:24]  so resource group name here,
+[00:10:24 -> 00:10:26]  and I put a two lower,
+[00:10:26 -> 00:10:28]  because sometime when we create resource group name,
+[00:10:28 -> 00:10:31]  we are allowed to have uppercase and lowercase,
+[00:10:31 -> 00:10:33]  so it's great, it's easy to read.
+[00:10:33 -> 00:10:34]  But for some value,
+[00:10:34 -> 00:10:37]  having uppercase won't work.
+[00:10:37 -> 00:10:41]  That's why I do that to minimize the issue.
+[00:10:41 -> 00:10:45]  Another example here will be my network interface name,
+[00:10:45 -> 00:10:47]  where the name of the VM is used.
+[00:10:47 -> 00:10:49]  I don't want to use that name.
+[00:10:49 -> 00:10:53]  Maybe the name of the VM I'm creating right now is different,
+[00:10:53 -> 00:10:55]  so I want something dynamic.
+[00:10:55 -> 00:10:58]  Instead, I could be using something like that.
+[00:10:58 -> 00:10:59]  Again, two lower,
+[00:10:59 -> 00:11:03]  and I will concatenate the virtual machine name that I have.
+[00:11:03 -> 00:11:05]  I will put Nick as a role,
+[00:11:05 -> 00:11:09]  so it will help me to identify in a suffix.
+[00:11:09 -> 00:11:14]  Another example here will be that diagnostic storage account name.
+[00:11:14 -> 00:11:17]  If I'm trying to use the same pattern,
+[00:11:17 -> 00:11:18]  it will be too long,
+[00:11:18 -> 00:11:23]  because the name must be shorter than 24 character.
+[00:11:23 -> 00:11:25]  What I can do is use the same pattern,
+[00:11:25 -> 00:11:28]  but use the function substring,
+[00:11:28 -> 00:11:33]  but only keep the 24 first characters.
+[00:11:33 -> 00:11:35]  You just need to continue like that,
+[00:11:35 -> 00:11:37]  parameter, power parameter,
+[00:11:37 -> 00:11:40]  and try to remove everything that is static or
+[00:11:40 -> 00:11:44]  too precise for this specific instance.
+[00:11:44 -> 00:11:48]  Step number 6, because I have something more for you.
+[00:11:48 -> 00:11:51]  Use t-shirt size.
+[00:11:51 -> 00:11:57]  What it mean is you're using something simple for complex stuff.
+[00:11:57 -> 00:11:59]  For example, as a developer,
+[00:11:59 -> 00:12:03]  I don't really know what size of machine I need.
+[00:12:03 -> 00:12:05]  Is it standard? Is it epic?
+[00:12:05 -> 00:12:07]  Is it like, I don't know,
+[00:12:07 -> 00:12:08]  it's too much information for me.
+[00:12:08 -> 00:12:12]  What I know is what I will be doing on it.
+[00:12:12 -> 00:12:16]  The idea is to create a parameter where you will
+[00:12:16 -> 00:12:19]  pass a word that means something for the developer or
+[00:12:19 -> 00:12:22]  the person that will be consuming and deploying your ARM template,
+[00:12:22 -> 00:12:24]  and inside the ARM template,
+[00:12:24 -> 00:12:28]  you translate that in something more specific.
+[00:12:28 -> 00:12:35]  For example, here I create a new parameter called environment size.
+[00:12:35 -> 00:12:39]  It's a string, and the default value is medium,
+[00:12:39 -> 00:12:43]  and I allow only a certain type of value.
+[00:12:43 -> 00:12:44]  Right now, it's only two,
+[00:12:44 -> 00:12:46]  it could be large and it could be medium.
+[00:12:46 -> 00:12:49]  No small, no dev one small machine.
+[00:12:49 -> 00:12:54]  Of course, to keep the best practices, I pass metadata.
+[00:12:55 -> 00:13:01]  Now, what I want to do is create a variable that leverage that information.
+[00:13:01 -> 00:13:04]  Instead of virtual machine size,
+[00:13:04 -> 00:13:06]  I won't need that one anymore.
+[00:13:06 -> 00:13:09]  I will delete it and I will paste that one.
+[00:13:09 -> 00:13:13]  T-shirt size, now I have two object in it,
+[00:13:13 -> 00:13:17]  I have the object medium and I have the object large.
+[00:13:17 -> 00:13:21]  Those object could contain a much detail information
+[00:13:21 -> 00:13:27]  and one specific parameter could have a lot of values in it.
+[00:13:27 -> 00:13:31]  I could reuse that and have a lot of impact.
+[00:13:31 -> 00:13:35]  Right now, I'm just specifying two different size of VM.
+[00:13:35 -> 00:13:37]  Now, I just need to use it.
+[00:13:37 -> 00:13:41]  I'll go in my virtual machine when it's created and I will
+[00:13:41 -> 00:13:46]  change this variable value by a new one,
+[00:13:46 -> 00:13:50]  and it will be my variable t-shirt size
+[00:13:50 -> 00:13:53]  with the parameter environment size.
+[00:13:53 -> 00:13:54]  Then I will be navigating,
+[00:13:54 -> 00:13:59]  so it will be t-shirt size.parameterEnvironment.vmsize.
+[00:13:59 -> 00:14:02]  That way, I will be using the good value.
+[00:14:02 -> 00:14:08]  To be sure, the best way is to validate the template.
+[00:14:08 -> 00:14:11]  Probably be on the top,
+[00:14:11 -> 00:14:12]  so I search here,
+[00:14:12 -> 00:14:15]  I see the VM size is perfect.
+[00:14:15 -> 00:14:17]  It's exactly what I was expecting.
+[00:14:17 -> 00:14:19]  I didn't pass any new parameter,
+[00:14:19 -> 00:14:21]  so I choose the default value.
+[00:14:21 -> 00:14:23]  If I pass a parameter large,
+[00:14:23 -> 00:14:25]  then it will use the good one.
+[00:14:25 -> 00:14:29]  If I pass small or extra large,
+[00:14:29 -> 00:14:30]  this value is not supported,
+[00:14:30 -> 00:14:33]  so the person will have an error and
+[00:14:33 -> 00:14:36]  the ARM template won't get executed.
+[00:14:36 -> 00:14:38]  I hope it will help you.
+[00:14:38 -> 00:14:41]  It helped me a lot when I'm doing ARM template development.
+[00:14:41 -> 00:14:44]  If you have questions or any suggestion about
+[00:14:44 -> 00:14:46]  the best practices that we should be using,
+[00:14:46 -> 00:14:48]  write it down in the comment.
+[00:14:48 -> 00:14:51]  I hope that you like this video and I hope it was useful.
+[00:14:51 -> 00:14:52]  See you next time.
+[00:14:52 -> 00:14:54]  You

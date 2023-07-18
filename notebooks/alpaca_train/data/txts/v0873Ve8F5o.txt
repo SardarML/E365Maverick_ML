@@ -1,0 +1,337 @@
+[00:00:00 -> 00:00:08]  Greetings. This presentation is about novel structures and architectures for future communication
+[00:00:08 -> 00:00:12]  systems. My name is Ali Hajimiri, and I will give you, in this presentation, three examples
+[00:00:12 -> 00:00:18]  really of these novel architectures and how, you know, we believe that this future communication
+[00:00:18 -> 00:00:24]  systems will evolve and some of the new aspects that we will see in such systems. Okay, so
+[00:00:24 -> 00:00:27]  there are some long-term trends, so we can start with those. I mean, if you think about
+[00:00:27 -> 00:00:32]  today's phased arrays, what you have is that you have plane, usually planar phased arrays
+[00:00:32 -> 00:00:37]  that are rigid, centralized, everything goes to a centralized node of controlling the data
+[00:00:37 -> 00:00:42]  coming in and data coming out, fixed aperture, and static installation. Once it's installed,
+[00:00:42 -> 00:00:46]  you know you don't change it. Now, we think in the future systems that things will be
+[00:00:46 -> 00:00:50]  a lot different. If you think about it, we expect them to be shape-changing. We would
+[00:00:50 -> 00:00:54]  like them to be, we would think that they would be flexible in general, both mechanically
+[00:00:54 -> 00:01:00]  as well as functionally. They would be distributed and autonomous, meaning that they are decentralized
+[00:01:00 -> 00:01:07]  and they can operate independently, and they have a, they can be variable in terms of the
+[00:01:07 -> 00:01:13]  function and behavior and shape, and it would be highly deployable. So, if you think about
+[00:01:13 -> 00:01:19]  it, this transition is happening, and there are basically, what is making this transition
+[00:01:19 -> 00:01:22]  happen, and there are some of the features of this thing, is that the ability to make
+[00:01:22 -> 00:01:28]  them decentralized, meaning that the elements of the array do not have to be in high-speed
+[00:01:28 -> 00:01:32]  communication with each other, and also, as we will see, they may not even need their
+[00:01:32 -> 00:01:39]  architectures that allow us to do this without even having timing synchronization among them.
+[00:01:39 -> 00:01:43]  And that leads to node autonomy, the ability to make sure that the nodes of the system
+[00:01:43 -> 00:01:48]  operate autonomously. Now, you also have the flexibility that comes either in mechanical
+[00:01:48 -> 00:01:55]  shape or functional shape, and deployability, and as well as mechanical shape changing,
+[00:01:55 -> 00:01:58]  and of course, all of this is combined with operational higher frequency, which brings
+[00:01:58 -> 00:02:05]  an intertwined circuit system and physical design and optimization, if you will.
+[00:02:05 -> 00:02:08]  So let's start with the first example of these three examples that we're talking about. The
+[00:02:08 -> 00:02:16]  first example is what we call a scalable decentralized router or scalable arrays, scalable routers.
+[00:02:16 -> 00:02:21]  The idea here is that if you have an array symbolically shown on the left-hand side,
+[00:02:21 -> 00:02:26]  if you have an array of elements that are independently, but individually can receive
+[00:02:26 -> 00:02:32]  and transmit data, and they can be even non-uniform distributed space, they can operate in concert
+[00:02:32 -> 00:02:37]  to provide a way of receiving, amplifying, and rerouting the signal. So in this case,
+[00:02:37 -> 00:02:43]  you can see it, for example, an incoming signal that's kind of transmitted and received in
+[00:02:43 -> 00:02:48]  different directions. Now, the such systems, of course, can have applications in many situations.
+[00:02:48 -> 00:02:53]  So the one, the picture on the right shows that the practical applications in a terrestrial
+[00:02:53 -> 00:02:59]  setting where you can actually have these devices all around the systems in an environment,
+[00:02:59 -> 00:03:02]  you know, outside and inside the buildings, and they can reroute the signal. So the idea
+[00:03:02 -> 00:03:07]  here is that you're transmitting a burst of data, and it's intended for a particular receiver,
+[00:03:07 -> 00:03:11]  which is not in your line of sight. And these guys, through a single or multiple pops of
+[00:03:11 -> 00:03:16]  these systems, they can route it and send it in a direction desirable, reroute it in
+[00:03:16 -> 00:03:20]  the right direction and get it to the destination that you want automatically and seamlessly.
+[00:03:20 -> 00:03:24]  Also, you can think about a situation where this such system would be used in space, you
+[00:03:24 -> 00:03:33]  can have an array of, again, mechanically unconnected, and basically, elements and relay
+[00:03:33 -> 00:03:38]  elements that are basically in formation flying, and they receive, they have their own sources
+[00:03:38 -> 00:03:42]  of power and all those things, and they basically receive the signal and reroute it and balance
+[00:03:42 -> 00:03:47]  it in the right direction. Now, and they need to be dynamically able to dynamically do this
+[00:03:47 -> 00:03:51]  and do this at a high band. So the question is that how can we achieve something like this?
+[00:03:52 -> 00:03:57]  So let's talk about, let's go through the evolution of this concept. And let's take
+[00:03:57 -> 00:04:01]  you through some several steps of how this can evolve. So for example, if you think about a
+[00:04:01 -> 00:04:07]  classical relay, called sometimes bent pipe relay, the idea here is that you've seen probably
+[00:04:07 -> 00:04:12]  these things on in both rural and urban areas, particularly nowadays, you see them more in
+[00:04:12 -> 00:04:16]  rural areas, when you go on a long drive, you see these like the stations on top of the hills and
+[00:04:16 -> 00:04:21]  mountains that basically have an antenna point at one or multiple antennas pointed in one direction,
+[00:04:21 -> 00:04:24]  and one of multiple antennas pointed in the other direction, and they are relay stations,
+[00:04:24 -> 00:04:29]  basically just receive, amplify and pass. So this is basically a direct pass through with
+[00:04:29 -> 00:04:34]  reamplification of the signal, maybe reconditioning. There's one receiver and one transmitter and the
+[00:04:34 -> 00:04:38]  directions are preset, so it's basically static in that sense. So that's the picture you see on
+[00:04:38 -> 00:04:44]  the upper left. Now, you could make this out of an array, so you can have a receiver array and a
+[00:04:44 -> 00:04:50]  transmitter array. And the idea here is that it's still centralized, your receiver array aggregates
+[00:04:50 -> 00:04:55]  the signal, collects it, sum it, and perhaps amplifies it, and then sends it to an array
+[00:04:55 -> 00:04:59]  of transmitters where you control the relative timing and phase of each one of the elements.
+[00:04:59 -> 00:05:03]  And you create a beam that goes from one direction to another. Now, the advantage,
+[00:05:03 -> 00:05:08]  obviously, for something like this, compared to a static one made with like fixed antennas,
+[00:05:08 -> 00:05:12]  like a parabolic antennas or something like that, is that you can actually change the direction
+[00:05:12 -> 00:05:15]  electronically without any mechanical change to the system. So you can actually
+[00:05:16 -> 00:05:20]  receive signal from one direction, and then you can change the direction to another direction.
+[00:05:21 -> 00:05:25]  Now, if you think about this clearly, if you look at this picture, you may always kind of like,
+[00:05:25 -> 00:05:29]  you may also kind of like think about this picture, which is that basically, if you don't
+[00:05:29 -> 00:05:34]  aggregate, and if you take the signals and individually scale, take each one of the signals,
+[00:05:34 -> 00:05:41]  and amplify it, and condition it, and control the timing and everything. Now, what happens is that
+[00:05:42 -> 00:05:48]  in this case, you can actually also create a receive beam and a transmit beam. And you can
+[00:05:48 -> 00:05:53]  actually control them independently by controlling the relative timing and phases of the signal
+[00:05:54 -> 00:05:58]  that goes in. Now, of course, if you want to get modulated signal process through this thing,
+[00:05:58 -> 00:06:02]  and with bandwidth, you need to control both the phase and timing of the system,
+[00:06:02 -> 00:06:08]  of individual routes. But this way, you can do electronically steering, and you can basically
+[00:06:08 -> 00:06:13]  have a direct transmission, direct connection between individual receiver and individual
+[00:06:13 -> 00:06:18]  transmitters. So, but this is a direct moving in the direction of this, but this does allow you to
+[00:06:18 -> 00:06:23]  basically move in the direction of separating the elements from each other, that can do not have to
+[00:06:23 -> 00:06:29]  be mechanically aggregating, and electronically aggregating the signal, and mechanically attached.
+[00:06:29 -> 00:06:35]  Now, of course, there is a hybrid, which basically, what happens, where you have basically
+[00:06:35 -> 00:06:40]  multiple signals. You can have this concept, but you don't have to do it on an individual element
+[00:06:40 -> 00:06:45]  level. You can do it on subarray level, and each one of these subarrays can actually have its own
+[00:06:46 -> 00:06:52]  summation and redistribution. But from one subarray to the other one, they can be operating
+[00:06:52 -> 00:06:58]  independently. And the question is that, how would something like that work, and can you use it as a
+[00:06:58 -> 00:07:04]  intelligence router and scalable relay? So here is one way to think about it. You can actually
+[00:07:04 -> 00:07:10]  think about it as a programmable mirror. So imagine that you have two signals, one
+[00:07:10 -> 00:07:16]  incident signal shown in green here, and one return, basically the transmitted signal,
+[00:07:16 -> 00:07:20]  just shown in blue. So now, the way we've constructed our individual elements, at least
+[00:07:20 -> 00:07:24]  symbolically here, you can see that they are in opposite polarization. So that's one of the things
+[00:07:24 -> 00:07:28]  that actually helps with the isolation of the transmitted receiver, and we'll talk a little bit
+[00:07:28 -> 00:07:32]  more about that. But the idea here is that you can actually have a synthesized mirror surface.
+[00:07:32 -> 00:07:36]  So on the left, you can see that this mirror is basically receiving something that's broadside,
+[00:07:36 -> 00:07:41]  and reflecting it broadside, basically just receiving, amplifying, processing, and sending
+[00:07:41 -> 00:07:46]  it back. And then on the right, what you see is actually a situation where, by controlling the
+[00:07:46 -> 00:07:50]  relative timing of what you receive and when you transmit it back, you can actually
+[00:07:50 -> 00:07:54]  create a situation that you receive a signal from one direction and transmit it to another.
+[00:07:54 -> 00:07:59]  And in general, you can actually create a situation where you can receive, you can take
+[00:07:59 -> 00:08:03]  the signal that comes from an arbitrary direction and route it to another arbitrary direction by
+[00:08:03 -> 00:08:08]  controlling the timing and phases of individual elements. So let's look at it a little more
+[00:08:08 -> 00:08:12]  carefully. So what happens here is the picture on the left shows that these elements do not even
+[00:08:12 -> 00:08:17]  need to be in a regular pattern or a regular array. So they can actually be spread three
+[00:08:17 -> 00:08:22]  dimensionally in space. And you can have a receive and transmit waveform coming in.
+[00:08:23 -> 00:08:31]  And so what happens is that you receive it in some direction, and you can retransmit
+[00:08:31 -> 00:08:36]  in a different direction that's programmable, but by individual elements, without them having
+[00:08:36 -> 00:08:42]  to actually aggregate the data and retransmit. You can actually write the expressions for this,
+[00:08:42 -> 00:08:46]  and the details of that can be found in the paper below, but the idea here is that you can
+[00:08:46 -> 00:08:52]  actually have a situation where you can control the direction of the phi of transmit and phi
+[00:08:52 -> 00:08:58]  of receive. So the angle from which you receive and the angle to which you transmit through this
+[00:08:58 -> 00:09:04]  equation. So by controlling the time delay of the mth branch, and this expression particularly here
+[00:09:04 -> 00:09:09]  shown is for a regular one-dimensional array, you can generalize it to a three-dimensional
+[00:09:09 -> 00:09:14]  irregular array, but this is like just to show the concept here. And you can see that if you
+[00:09:14 -> 00:09:19]  have a regular one-dimensional array, there's a fixed relationship between the transmit and
+[00:09:19 -> 00:09:25]  receive angle, the receiving angle and the transmitting angle that is determined and
+[00:09:25 -> 00:09:30]  controlled by the time delay of each one of the elements. So if you program each one of
+[00:09:30 -> 00:09:37]  these elements for a given phi tx and phi rx to this value, you will indeed receive a signal from
+[00:09:37 -> 00:09:41]  a direction and retransmit it in a different direction, which is programmable. Now by
+[00:09:41 -> 00:09:46]  controlling and reprogramming the tm, you can actually change that direction. So this picture
+[00:09:46 -> 00:09:50]  basically shows a picture on the left, shows that this pattern is this. So basically what you have
+[00:09:50 -> 00:09:56]  here, you know that shows in this example, yet you have a receive pattern, which shows how
+[00:09:56 -> 00:10:04]  effectively power is received, and the transmit pattern that basically shows that how effectively
+[00:10:04 -> 00:10:09]  the power that's received is retransmitted in a different direction. So in this example, we are
+[00:10:09 -> 00:10:15]  receiving from negative 30 degree and retransmitting to plus 60 degree. And in this
+[00:10:15 -> 00:10:20]  example, we are doing a one-dimensional array actually here to simplify the situation. So you
+[00:10:20 -> 00:10:24]  can actually see that it's an eight-branch array that receives in one direction. So you can think
+[00:10:24 -> 00:10:30]  about it as a programmable mirror. So you actually can bounce it in a desired direction. And you can
+[00:10:30 -> 00:10:34]  imagine this could be useful because you can imagine an environment where there's a large
+[00:10:34 -> 00:10:38]  number of these in the same environment. And by receiving and retransmitting signal, you can
+[00:10:38 -> 00:10:43]  actually route it through different pathways and get it to places where we basically do not have
+[00:10:43 -> 00:10:49]  visibility. And they do not even need to be working. They don't need to be attached, as we'll
+[00:10:49 -> 00:10:55]  see later on, mechanically or electronics. So there are some interesting questions about something
+[00:10:55 -> 00:11:00]  like this. When you make something like this, one of the interesting properties that we'll have is
+[00:11:01 -> 00:11:05]  the so-called peripheral vision, because it also will amplify and retransmit signals coming from
+[00:11:05 -> 00:11:10]  other directions, because there's more than one combination of VTX and PRX in this example
+[00:11:10 -> 00:11:18]  simple equation that would satisfy this equation for any given TM. Now, this peripheral vision
+[00:11:18 -> 00:11:23]  issue can be actually sort of basically the routers also the scale of a router sees in directions
+[00:11:23 -> 00:11:32]  other than where it looks. But basically, the element placement can significantly help with
+[00:11:32 -> 00:11:39]  the direction, with this peripheral vision issue. And you can actually suppress it significantly,
+[00:11:39 -> 00:11:45]  as shown on the plot on the left, that this is actually possible. Now, it can go a little bit
+[00:11:45 -> 00:11:49]  deeper into the architecture. So at a very high level, the architecture is shown on the lower
+[00:11:49 -> 00:11:53]  left. What you see here is that each one of these branches, what we call a branch,
+[00:11:53 -> 00:11:59]  which is basically as an input, it's a receiver and a transmitter, is independently operating.
+[00:11:59 -> 00:12:04]  It has no high speed, there's no high speed inter-branch connection. Basically, there's
+[00:12:04 -> 00:12:09]  no digital high speed data exchange between them. There's some programming that can be done either
+[00:12:09 -> 00:12:14]  wirelessly or through some digital programming lines in this example, but there's no high speed.
+[00:12:14 -> 00:12:20]  Now, even more importantly, there's no need for a shared timing reference in this architecture,
+[00:12:20 -> 00:12:26]  meaning that each one of these branches can have its own timing reference for down-conversion
+[00:12:26 -> 00:12:31]  and up-conversion. And essentially, it goes back to the fact that if you're using the same signal
+[00:12:31 -> 00:12:36]  for down-conversion and up-conversion, that timing error will cancel out itself the first order. And
+[00:12:36 -> 00:12:41]  then you can do your processing in baseband, which is shown here in the center as tau, and we'll talk
+[00:12:41 -> 00:12:46]  about that, to achieve this. Now, of course, for something like this to work, you need to control
+[00:12:46 -> 00:12:51]  both the phase. You need to have phase alignment and timing alignment if there's modulated data.
+[00:12:51 -> 00:12:55]  And both of these are achieved through these blocks, fee, variable fees, that's shown here,
+[00:12:55 -> 00:13:00]  and the variable tau. Now, let's go a little bit deeper into why you don't really need a timing
+[00:13:00 -> 00:13:06]  synchronization among the elements of this array. Because what you can see here is that if there is
+[00:13:06 -> 00:13:13]  any uncertainty on the LOP, it appears both on the up-conversion and down-conversion, up-conversion
+[00:13:13 -> 00:13:17]  path. And you can actually see if you do it the right way, they would cancel each other out. So
+[00:13:17 -> 00:13:23]  not only that that cancels out, and there's no need for an accurate timing synchronization, but
+[00:13:23 -> 00:13:30]  also to the first order, the phase noise of your local oscillator is canceled. And what happens is
+[00:13:30 -> 00:13:36]  that in such case, it allows you to use much lower cost reference signals inside each one of these
+[00:13:36 -> 00:13:40]  branches. So you can actually think about using free running oscillators or inexpensive crystal
+[00:13:40 -> 00:13:46]  oscillators within each branch. And that is significant because then you have also removed,
+[00:13:46 -> 00:13:51]  not only you've removed the high speed data requirement, but also you have removed the need
+[00:13:51 -> 00:13:56]  for a centralized timing reference for all of this. And this plot basically on the left shows
+[00:13:56 -> 00:14:01]  an experimental verification of how the actual desired signal, the phase noise of the oscillator
+[00:14:01 -> 00:14:06]  is not entering it and it's canceled out. As you can see, it's very clean, unlike the other side
+[00:14:06 -> 00:14:11]  band, which is the undesirable one. So now there are other questions about something like this.
+[00:14:11 -> 00:14:15]  For example, one is that what happens if you transmit and receive, you have a full duplex
+[00:14:15 -> 00:14:19]  system, right? You're transmitting and receiving within the same frequency and in close proximity
+[00:14:19 -> 00:14:23]  to each other. So you have to create sufficient isolation. And you can see if you don't have
+[00:14:23 -> 00:14:28]  sufficient isolation, and if you have too much gain, what happens is that your normalized magnitude
+[00:14:28 -> 00:14:31]  and phase of the signal that you generated, the output starts kind of getting degraded,
+[00:14:31 -> 00:14:36]  and that can have an impact on the effectiveness of the system and so on and so forth. Now,
+[00:14:36 -> 00:14:41]  there are several remedies. One, of course, is using polarizations. The other one is using a
+[00:14:42 -> 00:14:45]  structure where you can receive from one side and transmit from the other side. They're isolated
+[00:14:45 -> 00:14:49]  from ground plane, and they are also active cancellation. And some of these methods,
+[00:14:49 -> 00:14:55]  and particularly active cancellation, are methods that are also used in other situations. For
+[00:14:55 -> 00:15:00]  example, when you are dealing with other full duplex systems. And this is a very common thing
+[00:15:00 -> 00:15:06]  to deal with. And yes, and the system needs to be dealing with that. But it is something that's
+[00:15:06 -> 00:15:13]  important to pay attention to, but still definitely not insurmountable. Now, so here's an example of
+[00:15:13 -> 00:15:17]  this implementation of something like that. So this chip basically implements the functions of
+[00:15:18 -> 00:15:22]  that one single branch. And within that, so the architecture is shown on the lower left. So
+[00:15:22 -> 00:15:28]  there's a downconversion processing. And then this is what we call hybrid analog digital time delay.
+[00:15:28 -> 00:15:37]  So delay unit. And this basically allows you to control the timing, which is very important if
+[00:15:37 -> 00:15:43]  you're dealing with data. Because as you know, probably, is that in an array, it's not sufficient
+[00:15:43 -> 00:15:48]  if you're dealing with data, it's not sufficient to be dealing just with the phase. And also,
+[00:15:48 -> 00:15:53]  you have to deal with the actual timing of data to avoid creating distortion in the system.
+[00:15:53 -> 00:15:57]  And this system, actually, in this example, we are operating with a free running oscillator
+[00:15:57 -> 00:16:02]  in the system. So now, the question is that how do you achieve this time delay? The challenge is
+[00:16:02 -> 00:16:06]  that you need a fair amount of time delay. If you're not talking about systems that are on
+[00:16:06 -> 00:16:12]  the range of several meters or higher, you're talking about 10 nanoseconds of delay range.
+[00:16:12 -> 00:16:20]  So you require that. But you also need to find precision of setting that. So obviously,
+[00:16:20 -> 00:16:23]  this is not something that you want to get from a transmission line, because there's two
+[00:16:23 -> 00:16:28]  areas in terms of the power hungry, as well, on chip and things like that. And purely digital
+[00:16:28 -> 00:16:32]  solutions are not sufficient, because the clock periods are too long. So you have to come up with
+[00:16:32 -> 00:16:36]  some sort of a hybrid solution. And you can imagine that you can have, basically, a switch
+[00:16:36 -> 00:16:41]  capacitor solution. And here's a little bit more details about that. So we are constantly going
+[00:16:41 -> 00:16:48]  through a loop and storing the value of the received signal, the in, on these capacitors.
+[00:16:48 -> 00:16:53]  And we are resampling and reading them off with an adjustable controllable delay. So basically,
+[00:16:53 -> 00:17:00]  that the relative timing of when you store and when you read off of a capacitor can be controlled.
+[00:17:00 -> 00:17:04]  And that would basically correspond to the delay. So it's basically an adjustable buffer. If you
+[00:17:04 -> 00:17:10]  read right after you wrote, basically, what happens is that you will get very little delay.
+[00:17:10 -> 00:17:16]  And if you wait, and you're running behind to the point that you're reading right before you
+[00:17:16 -> 00:17:20]  write the next sample, you get the maximum delay. So this is basically where we get the coarse delay.
+[00:17:20 -> 00:17:26]  There's a medium delay, which is provided by additional signal, basically, additional delay,
+[00:17:26 -> 00:17:32]  digital delay lines. And there's a fine control delay, which is basically a voltage control delay
+[00:17:32 -> 00:17:36]  line that's used. So the system, basically, the way we implement it has three different levels
+[00:17:36 -> 00:17:41]  of relay, fine, medium, and coarse. And these are some of the measurement results associated with
+[00:17:41 -> 00:17:47]  this. So what you can see here is that, basically, on the top, the three plots show the accuracy of
+[00:17:47 -> 00:17:53]  the phase variations and the delays that you can actually obtain by controlling the signal
+[00:17:53 -> 00:17:59]  at different frequencies. So you can actually see you can have a variable delay over a broad range.
+[00:17:59 -> 00:18:03]  And you can have, basically, the coarse, medium, and fine delay. And on the bottom,
+[00:18:03 -> 00:18:07]  you basically see that this performance of the LNA and the power amplifier and all these things.
+[00:18:07 -> 00:18:13]  And the phase rotators that we have here, basically, on the down conversion and up conversion,
+[00:18:13 -> 00:18:20]  allow you to cover the full 360 degrees of the signal in the down and up conversion system.
+[00:18:20 -> 00:18:25]  So you basically have independent control of carrier phase as well as the delay that the
+[00:18:25 -> 00:18:31]  actual data stream, the modulation, experiences using these combinations. So now, here's a little
+[00:18:31 -> 00:18:36]  bit more about the performance and the results of this thing. So what you see here, if you look
+[00:18:36 -> 00:18:42]  in the picture on the upper left, there are, you see, basically, you see four router branches.
+[00:18:42 -> 00:18:47]  Two of them are placed closer, which you see bigger on the lower left part of, I mean,
+[00:18:47 -> 00:18:52]  we are still looking at the upper left picture. There are two that are closer. And if you look carefully
+[00:18:52 -> 00:18:57]  on the lower right corner of that picture, you see two that are far away.
+[00:18:57 -> 00:19:01]  So these two ones, the two that are closer, about one meter, and those two that are
+[00:19:01 -> 00:19:05]  farther away, they are 2.5 meters. And what you're doing is that you're testing them with,
+[00:19:05 -> 00:19:09]  we are sending and transmitting with two polarizations that are generated by these four antennas,
+[00:19:09 -> 00:19:13]  and each one of these branch elements has a transmit and receive antenna that are in two
+[00:19:13 -> 00:19:17]  different polarizations. So basically, we are transmitting and receiving the signal,
+[00:19:17 -> 00:19:25]  and we are asking this relay that's distributed in space to send it in a certain direction.
+[00:19:25 -> 00:19:30]  In this case, basically sending it back directly to us in this experiment. So in this experiment,
+[00:19:30 -> 00:19:33]  we are basically transmitting and receiving, and what you can see that you can actually control
+[00:19:33 -> 00:19:38]  things. If you just do the phase control, obviously you will not get constant group delay
+[00:19:38 -> 00:19:42]  because you have basically different distances and phase is not sufficient.
+[00:19:42 -> 00:19:48]  But with using our hybrid delay line methodology, you can overcome an offset of
+[00:19:48 -> 00:19:53]  about 10 nanoseconds in this case. And as you can see on the lower right plot, you basically have
+[00:19:53 -> 00:19:59]  constant same group delay achieved for all four of these elements. And this is demonstrated more
+[00:19:59 -> 00:20:04]  clearly perhaps in this picture, where basically you are transmitting 16-QAM and 64-QAM through the
+[00:20:04 -> 00:20:09]  system. So what you see on the upper right plot is that for 16-QAM before and after,
+[00:20:10 -> 00:20:15]  applicate turning the programmable time delay on, the hybrid time delay. And you can see that
+[00:20:15 -> 00:20:20]  it improves the quality of the constellation. And for 64-QAM, you can see that the constellation is
+[00:20:20 -> 00:20:28]  completely scrambled, and it's completely useless as is. But what you can see is that when you
+[00:20:28 -> 00:20:34]  actually apply the controllable time delay, this system, although it's distributed over a broad
+[00:20:34 -> 00:20:41]  range of spatial positions, it can recover and reconstruct the actual signal constellation.
+[00:20:42 -> 00:20:47]  So and then basically, but on top of that, the other thing is that now we can also use
+[00:20:47 -> 00:20:52]  this degree of freedom, not only to adjust for this, but you can actually create two different
+[00:20:52 -> 00:20:57]  themes at the same time. So you can actually have two different frequencies,
+[00:20:57 -> 00:21:01]  slightly different frequencies. You can create two beams that are pointing in different directions.
+[00:21:01 -> 00:21:06]  And basically, this is symbolic. This is shown here also, you can see it from the phase plot
+[00:21:06 -> 00:21:10]  on the upper right. And where the arrows point are basically where the frequency at which we are
+[00:21:10 -> 00:21:14]  trying to make sure that everything lines up. And you can see, you can do it for two different
+[00:21:14 -> 00:21:21]  frequencies at two different positions, or basically two different bearings, two different angles.
+[00:21:21 -> 00:21:26]  And this plot basically shows the ability to do that on a dynamic basis and programmability. So
+[00:21:26 -> 00:21:33]  for example, in the upper left plot, what you see is that you're both the 25 gigahertz and 24.9
+[00:21:33 -> 00:21:38]  gigahertz beams are sent to the same direction. Now, by reprogramming the timing and the phase
+[00:21:38 -> 00:21:44]  control, you basically can see that you can create maintain one beam at this pointing straight up,
+[00:21:44 -> 00:21:47]  but the other beam is basically steered to the left. And then the other one, you basically steer
+[00:21:47 -> 00:21:51]  the beam to the right. So this shows that you have the ability to reprogram the direction
+[00:21:52 -> 00:22:00]  and how the programmable relay works. So this is one example of some of the kind of things
+[00:22:00 -> 00:22:04]  that we think that are interesting and could be useful in future communication systems.
+[00:22:04 -> 00:22:09]  So the next example goes back to what we call shape-changing arrays and shape-changing antennas.
+[00:22:09 -> 00:22:13]  So shape-changing antennas have been discussed mechanically. Some of them are used for
+[00:22:13 -> 00:22:19]  deployability, reconfigurability of the frequency, changing the frequency. Some of them basically are
+[00:22:19 -> 00:22:24]  used to change the radiation pattern or polarization control and things of that.
+[00:22:24 -> 00:22:29]  Now, also arrays have been considered, although they are passive arrays. Basically,
+[00:22:29 -> 00:22:32]  if you think about them, people have thought about shape-changing arrays
+[00:22:34 -> 00:22:39]  or as like some sort of a meta-service, but these are passive structures. So the question is that,
+[00:22:39 -> 00:22:45]  can we create an active one? And I'll show you an example of the active one. So here's an example of
+[00:22:45 -> 00:22:51]  an origami-inspired array, which basically can change its shape. In the middle, you can see it's
+[00:22:51 -> 00:22:57]  kind of more or less in a flat configuration. And this array can go into a cylindrical configuration,
+[00:22:57 -> 00:23:03]  for example, as shown on the left, or it can go into a semi-spherical configuration, which is
+[00:23:03 -> 00:23:08]  shown on the right-hand side. Now, these configurations are supported. So the way
+[00:23:08 -> 00:23:15]  this is implemented is that basically, you have a mechanical backbone, and we have this
+[00:23:15 -> 00:23:20]  tile of arrays. Each one of them controls the behavior of one element, which has its own
+[00:23:20 -> 00:23:27]  radiators. And they're controlled through flexible cables and signal distribution. And what this
+[00:23:27 -> 00:23:33]  allows you is that basically to create this structure and program the behavior of it. So
+[00:23:33 -> 00:23:37]  this basically shows what is in there. There's a chip that is actually an RFIC that's developed
+[00:23:38 -> 00:23:41]  sitting on each one of them. If you look at it in the center of the lower left picture,
+[00:23:41 -> 00:23:45]  you can see that basically that's where the IC is that generates the RF and controls the phase
+[00:23:45 -> 00:23:50]  shifting. And there's some supporting additional circuitry. And what these do is that basically,
+[00:23:50 -> 00:23:54]  you can actually generate different kinds of aperture at different angles. And we'll see
+[00:23:54 -> 00:24:02]  how that works. So this is basically a test setup. So it's mounted on this part of the range. And
+[00:24:02 -> 00:24:08]  what it does, basically, it rotates it in azimuth and elevation. And you can, by controlling that,
+[00:24:08 -> 00:24:12]  you can actually measure the behavior of the system while these elements work in concert,
+[00:24:12 -> 00:24:16]  and they're locked to each other to generate signals. So what you see in this picture is the
+[00:24:16 -> 00:24:22]  beam patterns that you can generate for different configurations, for a flat configuration,
+[00:24:22 -> 00:24:29]  for a cylindrical X, cylindrical Y, and a spherical one. So what you see here, for example,
+[00:24:29 -> 00:24:34]  is an interesting aspect so that you can, by changing the actual mechanical conformation and
+[00:24:34 -> 00:24:40]  shape of the array, you can get around some of the issues that are challenging in a planar array.
+[00:24:40 -> 00:24:45]  So for example, what you see here is the maximum EIRP achievable by a planar array is higher,
+[00:24:45 -> 00:24:51]  obviously, but it drops faster at the steeper angles. But if you go, if you change the configuration
+[00:24:51 -> 00:24:56]  and conformation of the array, the mechanical conformation, what it does, it allows you,
+[00:24:56 -> 00:25:00]  for example, at steeper angles, you can see that the cylindrical, associate the proper axis
+[00:25:00 -> 00:25:08]  cylindrical and the spherical provide a much higher maximum EIRP at very steep angles that
+[00:25:08 -> 00:25:12]  those do not. And this is useful because in situations where you need to adjust, the system
+[00:25:12 -> 00:25:18]  needs to adjust and address to a large number, address a large number of directions and a broad
+[00:25:18 -> 00:25:24]  range of directions, this can be quite useful. There's another example. So the third example
+[00:25:24 -> 00:25:28]  we're talking about is like flexible arrays. So the idea here is that can you make flexible
+[00:25:28 -> 00:25:34]  arrays that can be deployed, can be opened up, rolled up. And especially if you're thinking
+[00:25:34 -> 00:25:38]  about airborne and spaceborne applications, they're lightweight and they can be actually
+[00:25:38 -> 00:25:43]  used. So you can think about it as an active fabric. And people have talked about flexible
+[00:25:43 -> 00:25:47]  electronics, lower frequencies, and all those things. And we are talking about flexible arrays
+[00:25:47 -> 00:25:53]  that are implemented at very high frequency than RF circuitry here. So this is an example of the
+[00:25:53 -> 00:25:57]  kind of flexible systems that we're talking about. You can see that they're very flexible
+[00:25:57 -> 00:26:02]  and they're very lightweight. So we made some of these things and you can actually see that
+[00:26:02 -> 00:26:08]  you can create these power transfer and as well as the communication system within the systems.
+[00:26:08 -> 00:26:15]  So this is an example of a 256 element transfer array that has 16 RFICs. Each one of them
+[00:26:15 -> 00:26:20]  addresses 16 of the antennas. And this system is quite flexible. As you can see, for example,
+[00:26:20 -> 00:26:24]  it's bent here. And in conjunction with the algorithms that are developed to deal with this,
+[00:26:24 -> 00:26:30]  this can actually not only operate under proper confirmation, but it can correct for its shape
+[00:26:30 -> 00:26:36]  change and make an adjustment accordingly. And this basically, we expect these to produce things
+[00:26:36 -> 00:26:41]  that are much, much lighter than the current system, in addition to being flexible. And
+[00:26:41 -> 00:26:46]  you know, we are thinking the target systems we're talking about are in the range of
+[00:26:46 -> 00:26:55]  basically 50 grams per meters or less. And this is very, very light. If you think about it,
+[00:26:55 -> 00:27:00]  the gramage of a sheet of paper is actually 80 grams per meter. So right now we are about,
+[00:27:01 -> 00:27:06]  in terms of gramage, we are about like five times higher than the gramage of a sheet of paper,
+[00:27:06 -> 00:27:11]  but we are actually moving in the direction of making these active phase arrays fully operational
+[00:27:12 -> 00:27:16]  at gramages that are comfortable to sheets of paper. So there's, when you have something like
+[00:27:16 -> 00:27:20]  this, there's this shape correction, right? And you have to think about the fact that when
+[00:27:20 -> 00:27:25]  something is flexible, it becomes floppy and flimsy, and you need to deal with that. So one
+[00:27:25 -> 00:27:31]  of the things you can do is that use the system itself to measure its own confirmation and make
+[00:27:31 -> 00:27:36]  corrections for that. So one of the ways it can do that, you can look at the near field coupling
+[00:27:36 -> 00:27:42]  of the antennas and individual radiators and try to determine from that the actual shape that it's
+[00:27:42 -> 00:27:46]  forming. So these are examples of some of the work that we've done. We've developed these algorithms
+[00:27:46 -> 00:27:52]  and systems that enable you to do this. And what they do is essentially they would, and this is a
+[00:27:52 -> 00:27:58]  paper actually in this year's IMS that I encourage you to look at. So is that basically what they do
+[00:27:58 -> 00:28:03]  is that you can see from these measurements on the right-hand side that they can actually
+[00:28:03 -> 00:28:10]  reconstruct the exact shape of the array from measurements to a very kind of interesting way
+[00:28:10 -> 00:28:15]  of looking at the measurement data and extract it from that. And they work both for concave and
+[00:28:15 -> 00:28:20]  convex settings. So even if they don't have line of sight, you can still get pretty accurate results
+[00:28:20 -> 00:28:25]  about the shape of the system. So this is done for a passive array. And then this is an active
+[00:28:25 -> 00:28:29]  array at 10 gigahertz, but each one of the elements is actually an active, it has an associated chip
+[00:28:29 -> 00:28:34]  that kind of has a receiver and transmitter. And these are the measurements associated with that.
+[00:28:35 -> 00:28:39]  And of course, when you combine these things, you can make this apparatus that constantly changes
+[00:28:39 -> 00:28:44]  the shape of the array. And in real time, you can see that you can actually do a dynamic shape
+[00:28:44 -> 00:28:49]  measurement and correction that leads to much better transmission of power and much better
+[00:28:49 -> 00:28:56]  focusing and beamforming capabilities for the system. So with this, let me just come to the
+[00:28:56 -> 00:29:02]  conclusion. And basically, we think that some of the future architectures of these systems
+[00:29:02 -> 00:29:09]  are going to be decentralized, shape-changing, distributed, flexible, and lightweight and low-cost.
+[00:29:09 -> 00:29:16]  And I hope that these examples give you some, I guess, ways to think about some
+[00:29:16 -> 00:29:22]  other additional ways of dealing with these new emerging applications, and hopefully
+[00:29:22 -> 00:29:26]  can be of some use to you in the future. Thank you.

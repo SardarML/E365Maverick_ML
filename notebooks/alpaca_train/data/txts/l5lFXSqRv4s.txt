@@ -1,0 +1,88 @@
+[00:00:00 -> 00:00:13]  I think one of the good new applications of data science is in the medical field, like
+[00:00:13 -> 00:00:15]  in drug delivery or cancer treatment.
+[00:00:15 -> 00:00:21]  I think a very interesting one is how now companies can use all the information they
+[00:00:21 -> 00:00:29]  are gathering from their customers to actually develop new products that respond to the needs
+[00:00:29 -> 00:00:30]  of the customers.
+[00:00:30 -> 00:00:37]  A good new application of data science was the high-trained news of Pokemon Go.
+[00:00:37 -> 00:00:43]  So they use the Ingress, they use the data of the Ingress app, the last app of the same
+[00:00:43 -> 00:00:51]  company and they choose the locations for Pokemons and gems according to data from the
+[00:00:51 -> 00:00:55]  last app, so they learn with their errors.
+[00:00:55 -> 00:00:59]  Google search is an application of data science.
+[00:00:59 -> 00:01:05]  The Google search, whenever we want to search anything, so I think it's all because of data
+[00:01:05 -> 00:01:06]  science.
+[00:01:06 -> 00:01:09]  Whatever Google is now, it's all because of data science.
+[00:01:09 -> 00:01:17]  Augmented reality is my favorite new implementation of data science.
+[00:01:17 -> 00:01:22]  I think you can't look at a new technology and not see data science in there, but augmented
+[00:01:22 -> 00:01:26]  reality is the one I'm just the most excited about.
+[00:01:26 -> 00:01:32]  The ability to walk around and see things on walls or around us that aren't really there.
+[00:01:32 -> 00:01:34]  Pokemon's just the start.
+[00:01:34 -> 00:01:39]  So what has happened is that now the tools are available and the data sets are available.
+[00:01:39 -> 00:01:45]  People are applying them with not much diligence and I think one of the strange cases which
+[00:01:45 -> 00:01:50]  got reported in the newspapers is about the story of a father walking into a Target store
+[00:01:50 -> 00:01:56]  in the U.S. and complaining about the fact that the Target was sending mails to his teenage
+[00:01:56 -> 00:02:01]  daughter about diapers and milk, baby formula, and he was angry with them.
+[00:02:01 -> 00:02:06]  He said, why would you like me for my teenage daughter to have a baby?
+[00:02:06 -> 00:02:12]  And he was obviously disturbed by this mail or the ad campaign and they obviously apologized,
+[00:02:12 -> 00:02:16]  but then the father returned two weeks later and he apologized to them saying he didn't
+[00:02:16 -> 00:02:18]  know his daughter was pregnant.
+[00:02:18 -> 00:02:23]  Now the question is, how did Target know this thing before the father knew?
+[00:02:23 -> 00:02:27]  And what has happened is that they would look at the purchasing behavior of individuals.
+[00:02:27 -> 00:02:32]  So if you're buying some sort of supplements or vitamins, then you know that this is the
+[00:02:32 -> 00:02:35]  first trimester of pregnancy.
+[00:02:35 -> 00:02:41]  So they know what products to send to you, assuming that the person who bought those
+[00:02:41 -> 00:02:42]  supplements were pregnant.
+[00:02:42 -> 00:02:47]  Now this is a great story about data science and how data science can forecast and predict
+[00:02:47 -> 00:02:53]  these consumer behaviors even before the family would find out.
+[00:02:53 -> 00:02:56]  And I find it disturbing and strange and odd for a variety of reasons.
+[00:02:56 -> 00:03:00]  First of all, for every correct prediction, you have hundreds of incorrect predictions,
+[00:03:00 -> 00:03:02]  which we call the false positives.
+[00:03:02 -> 00:03:06]  And no data scientist actually advertises his or her false positives.
+[00:03:06 -> 00:03:11]  We only advertise and promote what we got it right, but when we got it wrong hundreds
+[00:03:11 -> 00:03:12]  of times, we don't tell it.
+[00:03:12 -> 00:03:14]  The second thing is, that's an abuse of data.
+[00:03:14 -> 00:03:18]  It's basically not really giving you much insight.
+[00:03:18 -> 00:03:22]  You've just found a correlation, but someone could be purchasing the same material for
+[00:03:22 -> 00:03:23]  someone else.
+[00:03:23 -> 00:03:28]  And then the odds of getting it wrong and the odds of getting false positives is much
+[00:03:28 -> 00:03:29]  higher.
+[00:03:29 -> 00:03:33]  So I find it strange, and I think it gives this false sense of our ability to predict
+[00:03:33 -> 00:03:34]  the future.
+[00:03:34 -> 00:03:38]  The reality is about data science, and the most important thing for budding data scientists
+[00:03:38 -> 00:03:41]  to know, that all forecasts are wrong.
+[00:03:41 -> 00:03:44]  They're useful, but they're wrong.
+[00:03:44 -> 00:03:48]  And so one should not put their faith into the fact that now that we can do predictive
+[00:03:48 -> 00:03:50]  analytics that we can solve all problems.
+[00:03:50 -> 00:03:55]  I think a good example is the Google search, and Google published a paper saying that they
+[00:03:55 -> 00:03:59]  can predict flu epidemics before the Center for Disease Control.
+[00:03:59 -> 00:04:03]  And what they did is they were looking at what people were searching on Google for flu
+[00:04:03 -> 00:04:08]  symptoms, so Google saw the flu symptoms searches before that, and before anybody else, and
+[00:04:08 -> 00:04:09]  they were able to predict it.
+[00:04:09 -> 00:04:14]  The thing is, these searches are good, and they are correlated with some outcomes, but
+[00:04:14 -> 00:04:16]  not necessarily all the time.
+[00:04:16 -> 00:04:20]  So at that time, when Google announced it, it was a big thing, and everybody really liked
+[00:04:20 -> 00:04:24]  it, and said, well, that's a new era of predictive analytics.
+[00:04:24 -> 00:04:28]  Only that a few years later, they realized that Google started to predict false positives.
+[00:04:28 -> 00:04:31]  They were predicting things that were not really there, or their predictions were not
+[00:04:31 -> 00:04:34]  that accurate for a variety of reasons.
+[00:04:34 -> 00:04:38]  They changed probably their algorithms, and the data sets were not really correlated with
+[00:04:38 -> 00:04:39]  the outcome.
+[00:04:39 -> 00:04:45]  So what's the lesson to learn here is one has to avoid what we call the data hubris,
+[00:04:45 -> 00:04:50]  that you should not believe in your models too much, because they can lead you astray.
+[00:04:50 -> 00:04:55]  Data science has tremendous potential to bring change in parts of the world, in parts of
+[00:04:55 -> 00:04:58]  our society that have been disenfranchised for years.
+[00:04:58 -> 00:05:03]  One sees great examples of data science, especially in developing countries, where they are targeting
+[00:05:03 -> 00:05:04]  relief efforts.
+[00:05:04 -> 00:05:13]  They are targeting food and other aid to individuals, to places that have not been targeted in the
+[00:05:13 -> 00:05:14]  past.
+[00:05:14 -> 00:05:19]  And the reason it is happening now is because of the greater availability of data, and our
+[00:05:19 -> 00:05:24]  models and analytics to be able to pinpoint where the greatest needs are.
+[00:05:24 -> 00:05:30]  The ability to design and conduct experiments to see if one were to give microcredit small
+[00:05:30 -> 00:05:36]  loans to very poor households in developing parts of the world, to see how they affect
+[00:05:36 -> 00:05:42]  the individual household's ability to get out of poverty, and also the local community's
+[00:05:42 -> 00:05:49]  ability to collectively improve their economic well-being by just very small infusions of
+[00:05:49 -> 00:05:51]  cash or credit.
+[00:05:51 -> 00:05:56]  So these experiments happening all over the world are allowing, and that is a direct result
+[00:05:56 -> 00:06:03]  of our ability to analyze data and be able to design experiments and then roll out humongous
+[00:06:03 -> 00:06:08]  efforts in providing relief, providing credit, providing an opportunity to those who have
+[00:06:08 -> 00:06:14]  been disenfranchised in the past, an opportunity to join the rest of the world in prosperity
+[00:06:14 -> 00:06:15]  and happiness and health.

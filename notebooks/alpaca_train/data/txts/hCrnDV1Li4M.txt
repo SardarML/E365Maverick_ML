@@ -1,0 +1,35 @@
+[00:00:00 -> 00:00:13]  Hi, I'm Jack Buffington for RobotBrigade.com. This is another video in my series of videos
+[00:00:13 -> 00:00:19]  about digital logic, and in this one I'm going to talk about multiplexers. Let's see what
+[00:00:19 -> 00:00:31]  a multiplexer is. A multiplexer is a logic device that has 2 to the n inputs that are
+[00:00:31 -> 00:00:54]  data inputs, it has n inputs that are select inputs, and it has one output line. Alright,
+[00:00:54 -> 00:01:03]  let's see how one of these guys is built internally. Now, if you've been watching these videos
+[00:01:03 -> 00:01:09]  in sequence, you'll remember the decoder, and the decoder works like this, where we
+[00:01:09 -> 00:01:25]  have, I'm going to do a 4 input multiplexer, and I'm going to draw it like this, well I'm
+[00:01:25 -> 00:01:45]  going to do the decoder first. Alright, and the decoder part is a bunch of AND gates,
+[00:01:45 -> 00:02:05]  so the 0 output connects up like this, and the 1 output, this will be my low bit, and
+[00:02:05 -> 00:02:29]  this will be my high bit, my 1 output will be like this, and my 2 is like this, and
+[00:02:29 -> 00:02:43]  my 3 is like this. Okay, now this is a decoder, it has 2 select inputs, 4 data outputs, or
+[00:02:43 -> 00:02:58]  4 outputs. In order to turn this into a multiplexer, what I do is I have one more line coming into
+[00:02:58 -> 00:03:25]  those AND gates, and then they all go into a OR gate. So, I can select which input is
+[00:03:25 -> 00:03:34]  going to be routed to the output. Okay, so that's great, but there's more. I'm going
+[00:03:34 -> 00:03:45]  to show you how you can make any logic function using a multiplexer. Let's say I have a truth
+[00:03:45 -> 00:04:01]  table that looks like this. Alright, and actually I'm going to, I'll make this a 4,
+[00:04:01 -> 00:04:23]  or a 3-bit truth table.
+[00:04:23 -> 00:04:42]  Okay. Alright, and just randomly I'm going to assign some outputs. Alright, and let's
+[00:04:42 -> 00:05:01]  say we have a multiplexer with A, B, and C, and 4, 5, 6, 7, 8 inputs, and 1 output. Alright,
+[00:05:01 -> 00:05:14]  we can implement this by saying, okay, if this is my 0 input, 1, 2, 4, 5, 6, 7, output
+[00:05:14 -> 00:05:32]  here is 1, and we'll just look at the 1 inputs for now. So, 2, 3, and 6. 2, 3, and 6, I'm
+[00:05:32 -> 00:05:39]  just going to connect those all to my positive rail, and all of the rest are going to be
+[00:05:39 -> 00:05:53]  connected to ground. And this implements that logic function. But wait, there's more. Alright,
+[00:05:53 -> 00:06:04]  let's say I only have a 2 input multiplexer. Well, you might think that that's not enough
+[00:06:04 -> 00:06:12]  to implement this function, but you'd be wrong. What we can do is we divide it, I'll
+[00:06:12 -> 00:06:26]  make some thicker lines here, into 2 count chunks. And we say, okay, A and B are right
+[00:06:26 -> 00:06:32]  here. Now let's look at what our output is doing in relationship to C. So, when A and
+[00:06:32 -> 00:06:43]  B select 0, the output is the inverse of C. So, I'm going to have C over here, and
+[00:06:43 -> 00:06:57]  for 0, I'm going to have C-bar connected to there. And here, well, I have 1 always, so
+[00:06:57 -> 00:07:06]  this one's just going to go to my positive rail. This one is always 0, so that one's
+[00:07:06 -> 00:07:14]  going to go to ground. And let's just change it so that I have 1 of everything. This one
+[00:07:14 -> 00:07:21]  is doing the same thing as C, and so I'm going to connect that over there like that. And
+[00:07:21 -> 00:07:30]  so now, by using my A, B, and C inputs, I can still, using a 4 input multiplexer, realize
+[00:07:30 -> 00:07:40]  a 8 value truth table. So, hopefully you found this video useful. If you like it, take a
+[00:07:40 -> 00:07:46]  look at my YouTube channel where I have other videos. For RobotBrigade.com, I'm Jack Buffington.

@@ -1,0 +1,239 @@
+[00:00:00 -> 00:00:06]  Hello, this is Bruce from ELIM.org, Risk Management Framework, and a few other sites.
+[00:00:06 -> 00:00:11]  Today we're going to talk about system security plans, also known as an SSP.
+[00:00:11 -> 00:00:13]  So what is a system security plan?
+[00:00:13 -> 00:00:19]  Well, the reason why you have a system security plan on an important system is
+[00:00:19 -> 00:00:24]  because if you don't document what you have on your very important assets,
+[00:00:24 -> 00:00:30]  then essentially you don't have very good security and possibly no baseline at all.
+[00:00:30 -> 00:00:35]  What I mean by baseline is what is the inventory on your system?
+[00:00:35 -> 00:00:37]  What is your system comprised of?
+[00:00:37 -> 00:00:40]  What are the software components? What are the hardware components?
+[00:00:40 -> 00:00:43]  What does the network look like? What are the security controls?
+[00:00:43 -> 00:00:50]  All of those things come together to make a baseline that you need to monitor.
+[00:00:50 -> 00:00:54]  And if anything changes in that baseline, if the network changes,
+[00:00:54 -> 00:00:59]  if there's significant additions to the software or the hardware or anything like that,
+[00:00:59 -> 00:01:02]  then it always has to be documented.
+[00:01:02 -> 00:01:05]  And the reason why it's very important to document it is because
+[00:01:05 -> 00:01:08]  otherwise you don't know what's going on with your system.
+[00:01:08 -> 00:01:11]  If something changes, you don't even know when it got there.
+[00:01:11 -> 00:01:16]  You can't track the life cycle of your network or your system.
+[00:01:16 -> 00:01:18]  And so that's a huge problem.
+[00:01:18 -> 00:01:21]  If you really have no baseline, if you have no documentation,
+[00:01:21 -> 00:01:23]  you really don't have any security.
+[00:01:23 -> 00:01:26]  And there's lots of different ways to actually do the documentation.
+[00:01:26 -> 00:01:29]  There's different formats of the system security plan.
+[00:01:29 -> 00:01:33]  But what you'll find, no matter what format that this system security plan takes,
+[00:01:33 -> 00:01:38]  it always has some of the main ingredients, such as a description of the system,
+[00:01:38 -> 00:01:42]  a title of the system, and then a breakdown of all the security controls
+[00:01:42 -> 00:01:46]  of how the system meets those particular security controls.
+[00:01:46 -> 00:01:49]  That's pretty much what a system security plan is.
+[00:01:49 -> 00:01:56]  So first of all, system security plan, it comes from the NIST SP-818.
+[00:01:56 -> 00:01:59]  If you want to know more information about how this is all broke down,
+[00:01:59 -> 00:02:04]  how it looks, all the things that should go into a typical system security plan,
+[00:02:04 -> 00:02:08]  you can just go to 800-18 and that will tell you everything you need to know
+[00:02:08 -> 00:02:10]  in pretty good detail.
+[00:02:10 -> 00:02:14]  Now there's lots of different formats of the system security plan.
+[00:02:14 -> 00:02:18]  Lately, it's been going mostly digital, meaning basically it's a database.
+[00:02:18 -> 00:02:21]  You add all the information that you need in there,
+[00:02:21 -> 00:02:25]  and then the database cranks out a sort of PDF report
+[00:02:25 -> 00:02:27]  that has everything that you put into the database.
+[00:02:27 -> 00:02:29]  That's the way things are going.
+[00:02:29 -> 00:02:35]  You'll see that in eMASS and RiskArcher and many other formats out there.
+[00:02:35 -> 00:02:37]  That's what they do.
+[00:02:37 -> 00:02:41]  So what are the elements that go into this system security plan?
+[00:02:42 -> 00:02:46]  Well, the primary elements you'll see on the screen here
+[00:02:46 -> 00:02:49]  is that it is in compliance with FIPS 199,
+[00:02:49 -> 00:02:52]  meaning that the system is named and categorized.
+[00:02:52 -> 00:02:55]  There's a security categorization of the system,
+[00:02:55 -> 00:02:58]  and it has an impact level of that system.
+[00:02:58 -> 00:03:03]  So in our example, we'll have a Kepler-Hubble system.
+[00:03:03 -> 00:03:07]  In this system, what it does is it tracks the satellite movements
+[00:03:07 -> 00:03:09]  of both the Kepler and the Hubble,
+[00:03:09 -> 00:03:12]  and it gathers data from both of these,
+[00:03:12 -> 00:03:17]  and it compares that data against electromagnetic information from the Earth.
+[00:03:17 -> 00:03:19]  That's our system.
+[00:03:19 -> 00:03:23]  Now, we've got to document this system in an SSP, a system security plan.
+[00:03:23 -> 00:03:31]  So we have to make sure that FIPS 199 is implemented in our system security plan.
+[00:03:31 -> 00:03:35]  So we need a title and a description of the system.
+[00:03:36 -> 00:03:38]  Now, in addition to that,
+[00:03:38 -> 00:03:42]  we're going to actually have to document all the security controls,
+[00:03:42 -> 00:03:47]  and all those security controls actually come from the NIST 800-53.
+[00:03:49 -> 00:03:52]  We're also going to have to make sure that the CNA process,
+[00:03:52 -> 00:03:56]  or also known as the risk management process, is followed.
+[00:03:56 -> 00:03:59]  All the steps are followed, and all of that is going to be documented
+[00:03:59 -> 00:04:01]  in our system security plan.
+[00:04:01 -> 00:04:06]  We also need to make sure that ongoing maintenance of the system is met,
+[00:04:06 -> 00:04:08]  also known as continuous monitoring.
+[00:04:08 -> 00:04:11]  We always have to monitor what changes happen in the system,
+[00:04:11 -> 00:04:16]  what hardware, software, network changes are happening,
+[00:04:16 -> 00:04:18]  what kind of new threats that we have in the system,
+[00:04:18 -> 00:04:20]  what kind of new vulnerabilities, do we need new patches?
+[00:04:20 -> 00:04:24]  All of those things go into our system security plan.
+[00:04:24 -> 00:04:28]  So let's go into the system security plan itself.
+[00:04:28 -> 00:04:30]  Now, we already talked about a title.
+[00:04:30 -> 00:04:31]  Pretty easy.
+[00:04:31 -> 00:04:35]  We're going to call our system the Kepler Hubble System.
+[00:04:35 -> 00:04:37]  That's the name of the system.
+[00:04:39 -> 00:04:43]  And we need also a categorization.
+[00:04:43 -> 00:04:46]  Now, we've determined that it's system security categorization.
+[00:04:46 -> 00:04:49]  We've gone through the whole process of system security categorization,
+[00:04:49 -> 00:04:52]  and we've determined that it's a high.
+[00:04:52 -> 00:04:57]  It's a high-impact system, meaning if this system gets taken out by attackers,
+[00:04:57 -> 00:04:59]  let's say they do a denial-of-service attack on it,
+[00:04:59 -> 00:05:05]  it actually is going to negatively impact the National Science Foundation,
+[00:05:05 -> 00:05:09]  and they won't be able to send critical data out to different agencies
+[00:05:09 -> 00:05:16]  that really, really need this Kepler and Hubble data for their research.
+[00:05:16 -> 00:05:20]  And it's very important research, so that's why it's a high-impact system.
+[00:05:20 -> 00:05:22]  So what we're also going to do is we're going to document
+[00:05:22 -> 00:05:26]  the types of information that we need for this system.
+[00:05:26 -> 00:05:30]  So what we have is we've got administrative data that is required
+[00:05:30 -> 00:05:33]  to get on and off the system and create accounts and all that kind of stuff.
+[00:05:33 -> 00:05:35]  We'll set that to moderate.
+[00:05:35 -> 00:05:37]  And we also have operator data.
+[00:05:37 -> 00:05:41]  So people get on the system, and they just basically see the data,
+[00:05:41 -> 00:05:45]  and then they have to make some sort of an analysis based on what they've got.
+[00:05:45 -> 00:05:47]  And let's say we've got some specialized data.
+[00:05:47 -> 00:05:52]  It's special satellite positioning data
+[00:05:53 -> 00:05:59]  and another satellite that collects the electromagnetic spectrum of the Earth,
+[00:05:59 -> 00:06:04]  and it does some kind of a cool algorithm that calculates
+[00:06:04 -> 00:06:08]  how planets outside of our solar system affect our solar system
+[00:06:08 -> 00:06:10]  and affect us directly.
+[00:06:10 -> 00:06:13]  This is pseudoscience. I'm just making this stuff off the top of my head.
+[00:06:13 -> 00:06:15]  But let's say it's very critical information.
+[00:06:15 -> 00:06:19]  If that got into the hands of the competitors,
+[00:06:19 -> 00:06:22]  then it could actually damage not only the National Science Foundation
+[00:06:22 -> 00:06:25]  but all the people that they send the data to.
+[00:06:25 -> 00:06:29]  So we've documented the name of the system, the impact level of the system,
+[00:06:29 -> 00:06:33]  and all the information types that we have on the system.
+[00:06:33 -> 00:06:38]  Now, what we also need to do is identify all the stakeholders in the SSP,
+[00:06:38 -> 00:06:42]  which means we need to identify people like the information system owner.
+[00:06:42 -> 00:06:48]  We need to know their name, their title, even their phone number, their email, everything.
+[00:06:48 -> 00:06:50]  We need to know how to contact them.
+[00:06:50 -> 00:06:53]  We also need to identify the authorizing official.
+[00:06:53 -> 00:06:57]  This is the person who's going to actually sign the document once it's all approved,
+[00:06:57 -> 00:07:00]  if it's approved. They may even reject it.
+[00:07:00 -> 00:07:04]  So we also need to have the information system security officer.
+[00:07:04 -> 00:07:07]  Typically, this is the person who writes the document or prepares the document,
+[00:07:07 -> 00:07:11]  gathers the evidence. Yes, there's evidence involved with this.
+[00:07:11 -> 00:07:16]  It's not just a matter of filling out these things you see here.
+[00:07:16 -> 00:07:19]  It's also evidence, or also known as artifacts,
+[00:07:19 -> 00:07:24]  that prove that you have system security controls on the system.
+[00:07:24 -> 00:07:29]  Other people that might be documented as stakeholders would be administrators.
+[00:07:29 -> 00:07:31]  You might also have auditors.
+[00:07:31 -> 00:07:34]  But the main people are going to be the document preparer,
+[00:07:34 -> 00:07:37]  which is the information system security officer,
+[00:07:37 -> 00:07:41]  the information system owner, who's really their main focus is going to be,
+[00:07:41 -> 00:07:45]  does the system still work after you apply all of these patches and stuff on it?
+[00:07:45 -> 00:07:49]  And then also the authorizing official. Those are the main people.
+[00:07:49 -> 00:07:52]  But there's lots of different stakeholders you can actually add.
+[00:07:52 -> 00:07:54]  I'm sure there's some people I'm missing.
+[00:07:54 -> 00:07:56]  But let's keep going.
+[00:07:56 -> 00:07:59]  We've documented the name of the system, the impact level of the system,
+[00:07:59 -> 00:08:04]  and the roles of the stakeholders that are involved.
+[00:08:04 -> 00:08:09]  Now we need to move on to the actual system description.
+[00:08:09 -> 00:08:14]  So the system description is going to be like an overview of what our system does.
+[00:08:14 -> 00:08:17]  So for our system, we can say exactly what it does.
+[00:08:17 -> 00:08:24]  We'll just explain that it is comprised of data that comes from the Kepler satellite
+[00:08:24 -> 00:08:26]  and the Hubble satellite.
+[00:08:26 -> 00:08:29]  It collects this information, it combines it,
+[00:08:29 -> 00:08:34]  and does an analysis with the electromagnetosphere,
+[00:08:34 -> 00:08:40]  and that data gets disseminated to all of our allies.
+[00:08:41 -> 00:08:46]  And so we would explain all the major components of the system at a high level.
+[00:08:46 -> 00:08:54]  Like maybe if we had a very complex Cisco network, we'd probably want to describe that.
+[00:08:54 -> 00:08:58]  We'd also want to describe that if they had subnetworks,
+[00:08:58 -> 00:09:02]  we'd explain here's the subnetworks, here's how they're protected by firewalls,
+[00:09:02 -> 00:09:09]  and then we'd want to explain that that data is collected onto a MySQL database
+[00:09:09 -> 00:09:12]  with a network-attached storage area back in.
+[00:09:12 -> 00:09:16]  All of those things would be explained at a very high level,
+[00:09:16 -> 00:09:20]  so that by the end, a system owner would be able to understand it.
+[00:09:20 -> 00:09:23]  You don't want to get too technical in the system description.
+[00:09:23 -> 00:09:27]  You just want to keep it high level and explain what's going on
+[00:09:27 -> 00:09:29]  and all the major components that are on the system.
+[00:09:29 -> 00:09:33]  Now next you want to do something a little bit more technical
+[00:09:33 -> 00:09:36]  where you explain the system's behavior.
+[00:09:36 -> 00:09:38]  The focus here is components.
+[00:09:38 -> 00:09:41]  So we want to explain what components are there
+[00:09:41 -> 00:09:45]  and then maybe go into even deeper detail of what these components do
+[00:09:45 -> 00:09:47]  and what they're composed of.
+[00:09:47 -> 00:09:52]  Next we want to make sure that we describe any kind of system interconnections.
+[00:09:52 -> 00:09:58]  So let's say that our Kepler Hubble data is sent to multiple organizations.
+[00:09:58 -> 00:10:01]  One of those is like the University of Chicago
+[00:10:01 -> 00:10:06]  because the University of Chicago does some extra research on the Kepler data in particular.
+[00:10:06 -> 00:10:11]  And so we want to make sure that we've documented that interconnection
+[00:10:11 -> 00:10:13]  because that's outside of our network
+[00:10:13 -> 00:10:16]  and we want to make sure that there is a secure agreement
+[00:10:16 -> 00:10:20]  between our organization, National Science Foundation,
+[00:10:20 -> 00:10:22]  and the University of Chicago.
+[00:10:22 -> 00:10:27]  So the next thing we want to cover is the related laws and policies.
+[00:10:27 -> 00:10:31]  All we're doing is listing the actual policies and laws that we're referring to.
+[00:10:32 -> 00:10:36]  So in our case, we'd have to be in compliance with, say, FISMA
+[00:10:36 -> 00:10:38]  because it's a federal system.
+[00:10:38 -> 00:10:44]  So the FISMA Act of 2002 or 2014,
+[00:10:44 -> 00:10:46]  we'd say that we're in compliance with that.
+[00:10:46 -> 00:10:51]  We'd also have to be in compliance with, say, the Privacy Act of 1974.
+[00:10:51 -> 00:10:53]  And let's say if it was a health system,
+[00:10:53 -> 00:10:56]  you'd have to be compliant with something like HIPAA.
+[00:10:56 -> 00:11:01]  Now last, but certainly not least, is the actual system security controls themselves.
+[00:11:01 -> 00:11:03]  This is really the longest pole in the tent.
+[00:11:03 -> 00:11:05]  It's going to take the longest amount of time
+[00:11:05 -> 00:11:08]  because not only do you have to document all your security controls,
+[00:11:08 -> 00:11:13]  like if we, let's say our system, being a high-impact system,
+[00:11:13 -> 00:11:17]  has 250 controls on it.
+[00:11:17 -> 00:11:20]  That's reasonable, 250 controls for a high.
+[00:11:20 -> 00:11:22]  Or more, let's say 300.
+[00:11:22 -> 00:11:23]  Let's say there's 300 controls on it.
+[00:11:23 -> 00:11:27]  That means we have to document each one of those controls.
+[00:11:27 -> 00:11:29]  Not only do we have to document them,
+[00:11:29 -> 00:11:36]  but we have to provide evidence that each one of these controls is being met at a certain level.
+[00:11:36 -> 00:11:38]  Let me give you a specific example.
+[00:11:38 -> 00:11:42]  AU Control 2 has to do with audit logs.
+[00:11:42 -> 00:11:45]  We have to, first of all, explain how we're doing the audit logs.
+[00:11:45 -> 00:11:47]  Let's say we collect the data on a Windows system.
+[00:11:48 -> 00:11:54]  So we have to explain that we meet this system security control
+[00:11:54 -> 00:12:02]  by configuring each Windows 2008 R2 system to collect security events, event logs.
+[00:12:02 -> 00:12:10]  That is what we would explain in the description of that particular AU 2 through AU 5 control.
+[00:12:10 -> 00:12:12]  And then we would actually go a step further.
+[00:12:12 -> 00:12:18]  We provide evidence in the form of maybe screenshots from the network attached storage area.
+[00:12:18 -> 00:12:20]  Say, here's the logs right here.
+[00:12:20 -> 00:12:21]  Here's what they look like.
+[00:12:21 -> 00:12:22]  That would be one of our artifacts.
+[00:12:22 -> 00:12:26]  Then we say, okay, we've got Windows 2008 R2 controls.
+[00:12:26 -> 00:12:28]  Here's a sample of it.
+[00:12:28 -> 00:12:33]  We upload that into our database, our system security plan database.
+[00:12:33 -> 00:12:35]  Or if you don't have a system security plan database,
+[00:12:35 -> 00:12:43]  you would just take a snapshot of it and include that into the soft copy or the hard copy of your system security plan.
+[00:12:43 -> 00:12:48]  But what I'm trying to get at is you have to have evidence of each one of these things.
+[00:12:48 -> 00:12:53]  So that's why this is the longest poll in the tent.
+[00:12:53 -> 00:12:54]  And it takes a very long time.
+[00:12:54 -> 00:12:59]  And the better it's documented, the actual easier it's going to be going forward
+[00:12:59 -> 00:13:04]  when you have to have things like audits or if you want to know what's the current status of the system
+[00:13:04 -> 00:13:08]  or for continuous monitoring, if you have to change a component.
+[00:13:08 -> 00:13:11]  How did we do this security control?
+[00:13:11 -> 00:13:13]  Because this stuff changes all the time.
+[00:13:13 -> 00:13:14]  It's like a river.
+[00:13:14 -> 00:13:16]  It's constantly changing.
+[00:13:16 -> 00:13:17]  You know this.
+[00:13:17 -> 00:13:20]  If you've been in IT for some time, you know that systems always change.
+[00:13:20 -> 00:13:23]  And that's why it's very important to have continuous monitoring,
+[00:13:23 -> 00:13:29]  which is something you also need to document in this system security plan.
+[00:13:29 -> 00:13:35]  Those are all the things that need to be constantly documented on your system security plan.
+[00:13:35 -> 00:13:41]  Now what I'll do for you is I'll provide a link to system security plans that you can actually use right away.
+[00:13:41 -> 00:13:45]  If you're just doing this on Word, then you just want the template of how they look.
+[00:13:45 -> 00:13:50]  Not only can you use 818 system security plan guidance,
+[00:13:50 -> 00:13:53]  but you can also just use a template from the government,
+[00:13:53 -> 00:13:58]  and it'll break each one of the controls down and all the sections that I've been talking about so you can just feel it out.
+[00:13:58 -> 00:13:59]  Anyway, so that's it.
+[00:13:59 -> 00:14:01]  I hope that this was helpful.
+[00:14:01 -> 00:14:05]  Lots of other things we could have covered, like continuous monitoring, CA-7.
+[00:14:05 -> 00:14:09]  There's so many different aspects that we could cover on system security plans.
+[00:14:09 -> 00:14:15]  I just wanted to give you a very high overview of what it is, why you need it, and what are the components of it.
+[00:14:15 -> 00:14:16]  See you later.
+[00:14:16 -> 00:14:19]  Hey guys, if you like this video and other videos like it,
+[00:14:19 -> 00:14:27]  if you want to get more information about risk management process, system security plans, continuous monitoring,
+[00:14:27 -> 00:14:31]  make sure you subscribe, like, share it, give it to your friends, your buddies.
+[00:14:31 -> 00:14:32]  Comment on it.
+[00:14:32 -> 00:14:34]  If you see I'm wrong, please let me know.
+[00:14:34 -> 00:14:35]  I'll correct it.
+[00:14:35 -> 00:14:36]  This is learning for me too.
+[00:14:36 -> 00:14:38]  I've been doing this for a very long time.
+[00:14:38 -> 00:14:41]  However, I love to learn, and let's have a conversation about it.
+[00:14:41 -> 00:14:42]  See you later.

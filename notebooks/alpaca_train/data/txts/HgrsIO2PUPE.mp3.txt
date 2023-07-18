@@ -1,0 +1,852 @@
+[00:00:00 -> 00:00:07]  Good morning, good afternoon, or good evening, depending on where you are, and welcome to
+[00:00:07 -> 00:00:09]  this Tech Strong Learning experience.
+[00:00:09 -> 00:00:13]  My name is Cody, and I'm the host of Tech Strong Learning, and we have an exciting panel
+[00:00:13 -> 00:00:14]  ahead.
+[00:00:14 -> 00:00:18]  Before we kick things off, I do need to cover just a couple of housekeeping notes.
+[00:00:18 -> 00:00:19]  Today's session is being recorded.
+[00:00:19 -> 00:00:23]  If you miss any of our discussion, maybe you'd like to rewatch or share with a friend.
+[00:00:23 -> 00:00:28]  You'll be receiving an email with a link to access this on demand shortly after we conclude
+[00:00:28 -> 00:00:30]  our live session today.
+[00:00:30 -> 00:00:33]  If you look over on the right side of your screen, you'll see there are a couple options
+[00:00:33 -> 00:00:37]  to engage with our panel, the first of which is the chat tab, so I'd like you to start
+[00:00:37 -> 00:00:41]  warming that up for me by letting us know from where you are joining.
+[00:00:41 -> 00:00:45]  For any questions that you may have, we'd like you to direct those to the Q&A panel
+[00:00:45 -> 00:00:48]  to the right side of that chat tab.
+[00:00:48 -> 00:00:52]  And if you click the handouts tab, you'll see that we have the top five Kubernetes mistakes
+[00:00:52 -> 00:00:53]  you're probably making.
+[00:00:53 -> 00:00:56]  It's a white paper provided by Fairwinds.
+[00:00:56 -> 00:01:00]  And as a follow-up from the event, you will be receiving the how to identify security
+[00:01:00 -> 00:01:04]  and reliability misconfigurations in Kubernetes.
+[00:01:04 -> 00:01:10]  And as always, before we close out, we are giving away four $25 Amazon gift cards.
+[00:01:10 -> 00:01:13]  The topic of our discussion today is Kubernetes security.
+[00:01:13 -> 00:01:19]  And I'm joined once again by Robert Brinden, Vice President of Product Development at Fairwinds,
+[00:01:19 -> 00:01:26]  Neil Carpenter, Principal Technical Evangelist at Orca Security, Nung Badel, CRE and SRE
+[00:01:26 -> 00:01:27]  at Fairwinds.
+[00:01:27 -> 00:01:31]  And leading our conversation today is our very own Mike Bizzard, Chief Content Officer
+[00:01:31 -> 00:01:32]  at TechStrong.
+[00:01:32 -> 00:01:36]  So I'd like to thank everyone for joining us once again today.
+[00:01:36 -> 00:01:39]  Mike, do you want to go ahead and get this conversation going?
+[00:01:39 -> 00:01:40]  Great.
+[00:01:40 -> 00:01:41]  Hey, everybody.
+[00:01:41 -> 00:01:43]  Good to see you again.
+[00:01:43 -> 00:01:48]  I think it's fair to say that security was something of an afterthought when it came
+[00:01:48 -> 00:01:51]  to Kubernetes, and we've been kind of plugging our way at it ever since.
+[00:01:52 -> 00:01:59]  I think Kubernetes itself is maybe six, seven years old, but I guess not everybody's entirely
+[00:01:59 -> 00:02:02]  clear what is the current state of security for Kubernetes.
+[00:02:02 -> 00:02:04]  So Neil, maybe we'll start with you.
+[00:02:04 -> 00:02:09]  But what's your sense of where are we and how far have we come in this journey?
+[00:02:09 -> 00:02:13]  And what comes in the box versus what do I got to figure out myself?
+[00:02:13 -> 00:02:16]  So I'm really cautiously optimistic about where we are.
+[00:02:16 -> 00:02:21]  But as I think about it, there are two distinct problems that we throw together.
+[00:02:22 -> 00:02:24]  One is Kubernetes as a platform.
+[00:02:24 -> 00:02:31]  When I set the thing up, do I have API endpoints exposed to the world, unauthenticated?
+[00:02:31 -> 00:02:33]  That sort of problem.
+[00:02:33 -> 00:02:37]  The second problem is what do I bring and run on top of it, and how do I configure it
+[00:02:37 -> 00:02:40]  and build that stuff and all of those things?
+[00:02:40 -> 00:02:46]  The first problem, I think Kubernetes has had a reputation as being somewhat insecure
+[00:02:46 -> 00:02:49]  by default, and deservedly so.
+[00:02:49 -> 00:02:54]  But the good news is I don't think, statistically speaking, I don't think anybody is running
+[00:02:54 -> 00:02:58]  vanilla Kubernetes today, at least not for important workloads.
+[00:02:58 -> 00:03:04]  They're running one of the cloud service providers, EKS, GKE, AKS, one of the other ones, or they're
+[00:03:04 -> 00:03:07]  running OpenShift, or they're running Rancher.
+[00:03:07 -> 00:03:11]  And the good news is all of these sort of, I don't know what we would call them, all
+[00:03:11 -> 00:03:18]  of these Kubernetes platforms have a really strong incentive to get that stuff right.
+[00:03:18 -> 00:03:22]  And so if I go install, let's say, I spent a year at Red Hat, so I'm fairly familiar
+[00:03:22 -> 00:03:23]  with OpenShift.
+[00:03:23 -> 00:03:27]  If I go install OpenShift, the platform is pretty much secure by default.
+[00:03:27 -> 00:03:29]  They've done a great job with that.
+[00:03:29 -> 00:03:34]  If I install one of the cloud service providers, Kubernetes distributions, they're secure by
+[00:03:34 -> 00:03:41]  default out of the box, unless I go make changes to break something and do something foolish.
+[00:03:41 -> 00:03:44]  I'm typically not going to see a lot of problems there, regardless of how many switches there
+[00:03:44 -> 00:03:47]  are in Kubernetes itself.
+[00:03:47 -> 00:03:52]  If I'm setting it up right, or if I'm setting it up using one of those platforms, I'm getting
+[00:03:52 -> 00:03:56]  it right by default out of the box.
+[00:03:56 -> 00:04:01]  What really worries me, then, is what people are bringing and running on top of.
+[00:04:01 -> 00:04:06]  The applications they're building, how they're configuring them, where they're doing things
+[00:04:06 -> 00:04:12]  that they're not looking at appropriate guardrails, and introducing risk by running applications
+[00:04:12 -> 00:04:14]  as root on top of Kubernetes.
+[00:04:14 -> 00:04:18]  There's a million different misconfigurations there, but that's the space that I think is
+[00:04:18 -> 00:04:20]  really interesting to take.
+[00:04:20 -> 00:04:25]  Doubly so, one of the other things that I've seen happen over about the last two years
+[00:04:25 -> 00:04:31]  is that software is starting to be distributed to people as helm charts, or as something
+[00:04:31 -> 00:04:34]  to run on top of Kubernetes.
+[00:04:34 -> 00:04:37]  Now you have this problem of, how do I know what I'm getting from my vendor is in good
+[00:04:37 -> 00:04:38]  shape as well?
+[00:04:38 -> 00:04:39]  How do I approach that?
+[00:04:40 -> 00:04:44]  I'll just throw out one of the first place I saw this, and it's a fascinating space,
+[00:04:44 -> 00:04:49]  but if you don't know this, all of the infrastructure underneath the 5G networks for cell phones
+[00:04:49 -> 00:04:53]  runs on top of Kubernetes.
+[00:04:53 -> 00:05:00]  Your telecoms are getting these packages of container images and configurations from the
+[00:05:00 -> 00:05:05]  upstream vendors like Nokia, that they're then figuring out how to run securely on their
+[00:05:05 -> 00:05:07]  Kubernetes clusters.
+[00:05:07 -> 00:05:13]  It's a whole frontier, and now you're seeing cloud packs from IBM coming in this same format.
+[00:05:13 -> 00:05:18]  All sorts of other things starting to be deployed, starting to be delivered as, here's something
+[00:05:18 -> 00:05:21]  you can run on top of Kubernetes.
+[00:05:21 -> 00:05:23]  That's where I think the problems are today.
+[00:05:23 -> 00:05:28]  Those are the ones that are most interesting to me, but Nung, Robert, what do you guys
+[00:05:28 -> 00:05:29]  think?
+[00:05:29 -> 00:05:32]  Go ahead, Nung.
+[00:05:32 -> 00:05:35]  Yeah, I agree.
+[00:05:35 -> 00:05:39]  One thing is, since Kubernetes is the new word and the new thing on the block, people
+[00:05:39 -> 00:05:42]  tend to just want to focus on the name.
+[00:05:42 -> 00:05:43]  It sounds strange.
+[00:05:43 -> 00:05:44]  It's new.
+[00:05:44 -> 00:05:50]  Therefore, it has new vulnerabilities, but in I think most of the sense, it's back to
+[00:05:50 -> 00:05:52]  container security.
+[00:05:52 -> 00:05:59]  If you have insecure containers that you're delivering, whether you deliver them in ECS
+[00:05:59 -> 00:06:03]  or any other container management system or in Kubernetes, you are still exposing yourself
+[00:06:03 -> 00:06:08]  to the very similar type of attack vectors.
+[00:06:08 -> 00:06:11]  Just put in chat as well, you mentioned Helm charts.
+[00:06:11 -> 00:06:19]  Today we've made aware of CVE that it's targeting Helm charts, so how apropos.
+[00:06:19 -> 00:06:25]  And we didn't even pay them to do that, which is great.
+[00:06:26 -> 00:06:34]  Robert, one of the issues that people run into, I think, when their perception is that
+[00:06:34 -> 00:06:38]  Kubernetes is insecure by default, is that the people who built Kubernetes assume that
+[00:06:38 -> 00:06:42]  there's going to be platforms on top of this and you weren't really going to be playing
+[00:06:42 -> 00:06:48]  with these lower level APIs and yet, surprise, surprise, folks played with the lower level
+[00:06:48 -> 00:06:53]  APIs because they have DevOps teams that were messing around with this, that, and the other.
+[00:06:53 -> 00:06:58]  But do we really need more of a higher level of abstraction to manage Kubernetes security
+[00:06:58 -> 00:07:05]  and what does that look like and is that something that makes the whole security equation more
+[00:07:05 -> 00:07:07]  accessible to mere mortals?
+[00:07:07 -> 00:07:09]  Yeah, no, it's a great question.
+[00:07:09 -> 00:07:13]  I think the companies we've seen be the most successful with Kubernetes do put together
+[00:07:13 -> 00:07:15]  that platform on top of Kubernetes.
+[00:07:15 -> 00:07:20]  So you have a core infrastructure team, a core platform team, essentially setting up
+[00:07:20 -> 00:07:21]  guardrails.
+[00:07:21 -> 00:07:25]  And the word guardrails, I think that's a great word to describe it, that gives their
+[00:07:25 -> 00:07:28]  development teams the levers that they need in order to get their application running
+[00:07:28 -> 00:07:34]  and it allows them to push the responsibility for setting up things like environment variables
+[00:07:34 -> 00:07:38]  and CPU and memory settings onto the development teams.
+[00:07:38 -> 00:07:42]  But those platform teams can control whether things are running as root, whether images
+[00:07:42 -> 00:07:45]  with known CVEs are allowed, things like that.
+[00:07:45 -> 00:07:50]  And it allows a lot of the responsibility to be put onto the devs without giving them
+[00:07:50 -> 00:07:57]  all the, you know, foot guns that come with that.
+[00:07:57 -> 00:08:01]  And we're starting to get a pile of questions going already, so guys, keep them coming.
+[00:08:01 -> 00:08:07]  We will get to them all soon if Neil and Nung want to answer them in the text, great.
+[00:08:07 -> 00:08:11]  If not, we'll keep it going audio or we may do both because not everybody's reading the
+[00:08:11 -> 00:08:15]  text and everybody wants to hear the questions as well.
+[00:08:15 -> 00:08:19]  I guess the next question I would have, and maybe I'll throw this at Nung, because you
+[00:08:19 -> 00:08:24]  brought up this vulnerability, but we are starting to see more Kubernetes clusters being
+[00:08:24 -> 00:08:26]  deployed in production environments.
+[00:08:26 -> 00:08:30]  Do you think the bad guys have figured this out and they're starting to look for these
+[00:08:30 -> 00:08:36]  things and, you know, what's your sense of how savvy are the adversaries these days about
+[00:08:36 -> 00:08:39]  what's going on with Kubernetes and security?
+[00:08:39 -> 00:08:46]  Yeah, I think, yeah, the bad guys are definitely out there and they're the bad guys and gals.
+[00:08:47 -> 00:08:50]  They're figuring out different attack vectors.
+[00:08:50 -> 00:08:57]  They have, you know, they're first trying to figure out if you are running your containers,
+[00:08:57 -> 00:09:02]  where you're running it, and then once they identify that you have Kubernetes, that gives
+[00:09:02 -> 00:09:10]  them a whole other list of things to check off and test for, you know, if any of your
+[00:09:10 -> 00:09:16]  containers and your clusters are privileged and, you know, if they can somehow gain root
+[00:09:16 -> 00:09:24]  level access, you know, and escape the Docker, you know, runtime and then get into a node
+[00:09:24 -> 00:09:25]  and compromise a node.
+[00:09:25 -> 00:09:31]  Because then once they compromise one node, they can do things like, you know, in a large
+[00:09:31 -> 00:09:40]  cluster, start dropping Bitcoin mining agents in there and, you know, utilize all your resources
+[00:09:40 -> 00:09:45]  to fatten their purses.
+[00:09:45 -> 00:09:48]  And as you mentioned that, sorry, I had to go back and look.
+[00:09:48 -> 00:09:56]  So the first publicly acknowledged Kubernetes incident that I'm aware of was in 2018.
+[00:09:56 -> 00:09:57]  And it was Tesla.
+[00:09:57 -> 00:10:03]  There was a ton of coverage of it before GKS, before GKE, before all of the managed Kubernetes
+[00:10:03 -> 00:10:06]  platforms.
+[00:10:06 -> 00:10:11]  They had split up a couple of Kubernetes platforms in AWS, accidentally exposed unauthenticated
+[00:10:11 -> 00:10:16]  API endpoints to the internet, and somebody came along and dropped a bunch of cryptocurrency
+[00:10:16 -> 00:10:18]  miners on them.
+[00:10:18 -> 00:10:26]  Yeah, which I think is sort of the base, you know, using somebody else's CPU to mint money
+[00:10:26 -> 00:10:30]  for you is a very quick way to monetize a compromise like that.
+[00:10:30 -> 00:10:34]  You know, I think we are going to see attackers get better at this.
+[00:10:34 -> 00:10:38]  I think I talked about early in the year when people were asking me for predictions
+[00:10:38 -> 00:10:40]  for 2023.
+[00:10:40 -> 00:10:48]  I suspect this is the year we'll see ransomware affecting cloud properties and Kubernetes
+[00:10:48 -> 00:10:51]  in particular.
+[00:10:51 -> 00:10:58]  I haven't seen a ransomware incident on Kubernetes yet, but, you know, it's an ongoing, it's
+[00:10:58 -> 00:11:01]  the way that attacks are being leveraged.
+[00:11:01 -> 00:11:08]  I think we'll also see over time more targeted attackers going after data that Kubernetes
+[00:11:08 -> 00:11:14]  is managing and using it as a springboard to interesting data being processed in applications.
+[00:11:14 -> 00:11:15]  So all this stuff is coming.
+[00:11:15 -> 00:11:23]  The same things we've seen happen on-prem, we've seen happen against SaaS applications.
+[00:11:23 -> 00:11:27]  It's all, attackers are going to go wherever the money and the data is.
+[00:11:28 -> 00:11:36]  Robert, to follow up on that and to what Noong was saying, do we take the current attacks
+[00:11:36 -> 00:11:37]  seriously enough?
+[00:11:37 -> 00:11:41]  And I'm asking the question because a lot of people think that crypto jacking is a nuisance
+[00:11:41 -> 00:11:42]  crime, right?
+[00:11:42 -> 00:11:47]  It's not really, you know, a serious threat and they probably, you know, ignore it.
+[00:11:47 -> 00:11:52]  And yet it does show that the environment has been breached and more than likely it
+[00:11:52 -> 00:11:56]  seems to me that somebody is going to start selling that backdoor that they created.
+[00:11:56 -> 00:12:00]  So, you know, is there more adventure to come?
+[00:12:00 -> 00:12:01]  Yeah.
+[00:12:01 -> 00:12:04]  And I mean, there's plenty more you can do beyond crypto mining, right?
+[00:12:04 -> 00:12:09]  It's the easiest way to monetize, as Neil pointed out, but, you know, if they can find
+[00:12:09 -> 00:12:13]  data and, you know, sell that data or just sell their access, like you pointed out, Mike,
+[00:12:13 -> 00:12:17]  I think that's all stuff that we should be worried about, right?
+[00:12:17 -> 00:12:21]  You know, Noong said, you know, if they get access to one of those nodes, they can start
+[00:12:21 -> 00:12:23]  mining Bitcoin.
+[00:12:23 -> 00:12:24]  That's definitely true.
+[00:12:24 -> 00:12:26]  You can also see all your secrets that are stored in your Kubernetes clusters.
+[00:12:26 -> 00:12:29]  So your database credentials are in there.
+[00:12:29 -> 00:12:34]  You know, any credentials for cloud providers, cloud integrations, things like that.
+[00:12:34 -> 00:12:37]  You know, they basically have the keys to the kingdom.
+[00:12:37 -> 00:12:42]  So it's there's a lot more to worry about in terms of data loss, in terms of, you know,
+[00:12:42 -> 00:12:43]  consumer privacy, things like that.
+[00:12:43 -> 00:12:44]  All right.
+[00:12:44 -> 00:12:50]  We have a question from one of our attendees about the notion of the base image security.
+[00:12:50 -> 00:12:54]  I'm not sure that we all have a good handle on exactly what the question is, but it seems
+[00:12:54 -> 00:12:59]  to be about whether or not the base image is secure and what's the criteria for choosing
+[00:12:59 -> 00:13:01]  the base image.
+[00:13:01 -> 00:13:05]  And I was just waiting for one of you to raise your hand and Noong was there.
+[00:13:05 -> 00:13:09]  Yeah, I have thought about it.
+[00:13:09 -> 00:13:18]  And I think what the participant is wondering is base image in the sense of code scanning.
+[00:13:18 -> 00:13:27]  You're scanning your repos for any type of vulnerabilities identified by log CVEs.
+[00:13:27 -> 00:13:33]  Then those get compiled into Docker base images or you're grabbing base images from a repo
+[00:13:33 -> 00:13:39]  and you don't necessarily want to just trust the maintainer of the repo that they've covered
+[00:13:39 -> 00:13:43]  all the bases with regard to known vulnerabilities.
+[00:13:43 -> 00:13:45]  So you want to scan those things.
+[00:13:45 -> 00:13:46]  And those are great.
+[00:13:46 -> 00:13:58]  They're proactive, but they still don't protect you against zero day events.
+[00:13:58 -> 00:14:06]  And having implemented a zero trust policy is another tool that you can have in your
+[00:14:06 -> 00:14:16]  toolbox to prevent zero day attacks that image scanning is not going to protect you
+[00:14:16 -> 00:14:20]  against because zero days are they just discovered a new vulnerability.
+[00:14:20 -> 00:14:23]  It's not in your library that you can reference.
+[00:14:23 -> 00:14:25]  So therefore you are vulnerable.
+[00:14:25 -> 00:14:32]  And the only thing to protect you is a best practice implementation in your cluster and
+[00:14:32 -> 00:14:33]  in your processes.
+[00:14:33 -> 00:14:34]  Yeah.
+[00:14:34 -> 00:14:35]  Sorry, go ahead, Robert.
+[00:14:35 -> 00:14:39]  I was going to say, I totally agree there.
+[00:14:39 -> 00:14:46]  And just in terms of, I think the participant asked for criteria for choosing a base image.
+[00:14:46 -> 00:14:50]  We like to go with Alpine because it's much smaller than say Ubuntu image or something
+[00:14:50 -> 00:14:52]  like that.
+[00:14:52 -> 00:14:55]  The big thing I would recommend though is just being consistent, right?
+[00:14:55 -> 00:14:59]  Throughout your organization, use the same base image so that when a CVE gets announced,
+[00:14:59 -> 00:15:02]  you know exactly where to go, what version to update to, et cetera.
+[00:15:02 -> 00:15:03]  So we use Alpine everywhere.
+[00:15:04 -> 00:15:07]  There was a recent vulnerability that showed up in the Alpine image and it took us two
+[00:15:07 -> 00:15:12]  seconds to just run one script, update the Alpine image everywhere, cut new releases
+[00:15:12 -> 00:15:13]  of every image and we were done with it.
+[00:15:13 -> 00:15:17]  Whereas if we were using Ubuntu in half the places, it would have been a lot more tricky
+[00:15:17 -> 00:15:21]  to figure out what version do we need to be on, et cetera.
+[00:15:21 -> 00:15:26]  And I was sort of wondering if maybe that was part of the question as well, was base
+[00:15:26 -> 00:15:28]  OS image.
+[00:15:28 -> 00:15:33]  And you know, I think it is an interesting conversation about sort of Alpine versus Debian
+[00:15:33 -> 00:15:36]  Ubuntu versus CentOS and RHEL.
+[00:15:36 -> 00:15:41]  And I think Red Hat has done some interesting sort of minimal images lately as well.
+[00:15:41 -> 00:15:46]  There's a lot to think about in there because I probably don't, I have the opposite of an
+[00:15:46 -> 00:15:53]  affinity for Alpine because vulnerability scanning in Alpine has been not as perfect
+[00:15:53 -> 00:15:59]  and not as sort of well-documented in my experience as say Debian or RHEL.
+[00:15:59 -> 00:16:04]  So you know, I'm sort of looking at which images do I feel like I can, I can get the
+[00:16:04 -> 00:16:10]  best vulnerability data, the best scanning, the best information about.
+[00:16:10 -> 00:16:13]  And then of course, on top of that, you have some people who go with distro-less images
+[00:16:13 -> 00:16:16]  where you're building from essentially a blank slate.
+[00:16:16 -> 00:16:18]  There's a trade-off there.
+[00:16:18 -> 00:16:27]  That is incredibly minimal and that's sort of one of those, you know, microservices approaches,
+[00:16:27 -> 00:16:32]  but I think it makes it much more difficult to troubleshoot and to maintain and to figure
+[00:16:32 -> 00:16:35]  out what's going on with those images.
+[00:16:35 -> 00:16:41]  So yeah, I don't have a single answer, but I think these are important questions to consider
+[00:16:41 -> 00:16:45]  as you build something and probably to build something like Robert said, that's standardized
+[00:16:45 -> 00:16:52]  across your org so that you're not fixing a lot of problems.
+[00:16:52 -> 00:16:55]  Why is it that Alpine doesn't seem to get that kind of love?
+[00:16:55 -> 00:17:00]  Because I, you know, when I was working closer with developers, it feels like we like the
+[00:17:00 -> 00:17:03]  Alpine image because it is so minimal.
+[00:17:03 -> 00:17:04]  And yeah.
+[00:17:04 -> 00:17:05]  All right.
+[00:17:05 -> 00:17:09]  I think we're taking a memo and sending it to somebody.
+[00:17:09 -> 00:17:10]  Hold on.
+[00:17:10 -> 00:17:11]  Yeah.
+[00:17:11 -> 00:17:15]  I mean, I'll give you an example.
+[00:17:15 -> 00:17:22]  I was working on a comparison recently where two different vulnerability scanners, one
+[00:17:22 -> 00:17:28]  of them came up with an image or with a CVE in an Alpine image and the other one didn't.
+[00:17:28 -> 00:17:32]  And it was an argument over whether it actually applied to that image or not.
+[00:17:32 -> 00:17:37]  And we had to dig into, we had to dig really deep to come up with an answer.
+[00:17:37 -> 00:17:41]  And some of the documentation seemed to suggest that this vuln applied.
+[00:17:41 -> 00:17:45]  Some of it seemed to suggest it didn't.
+[00:17:46 -> 00:17:47]  And we finally came to the right answer.
+[00:17:47 -> 00:17:51]  And the right answer was it didn't apply because anyway, they didn't include this particular
+[00:17:51 -> 00:17:55]  module in BusyBox, thus it didn't actually apply.
+[00:17:55 -> 00:17:59]  But the data was not consistent on it.
+[00:17:59 -> 00:18:02]  So it was just, it was difficult to answer that question.
+[00:18:02 -> 00:18:06]  And that's the stress that kills everybody because of that amount of time when you don't
+[00:18:06 -> 00:18:11]  know for certain what's going on and you don't know what the response should be and you're
+[00:18:11 -> 00:18:15]  in limbo and that's when everybody's kind of starts losing their mind, right?
+[00:18:15 -> 00:18:16]  Yeah.
+[00:18:16 -> 00:18:22]  Robert, let me ask you this though.
+[00:18:22 -> 00:18:29]  We talked about zero-day vulnerabilities and my question to you is, in a platform like
+[00:18:29 -> 00:18:33]  this that's relatively new, should I expect the unexpected in the sense that there are
+[00:18:33 -> 00:18:40]  going to be more zero-day events because it just is a new platform and it's kind of part
+[00:18:40 -> 00:18:43]  of the ride that I bought the ticket for?
+[00:18:43 -> 00:18:44]  Yeah.
+[00:18:44 -> 00:18:48]  I mean, Kubernetes itself at this point is fairly stable.
+[00:18:48 -> 00:18:53]  I don't think we've had a major Kubernetes, like core Kubernetes vulnerability in the
+[00:18:53 -> 00:18:58]  last year or two, at least a critical level one.
+[00:18:58 -> 00:19:03]  And it is nice that the cloud providers do, if you are using EKS, GKE, et cetera, the
+[00:19:03 -> 00:19:05]  cloud providers take care of a lot of that for you.
+[00:19:05 -> 00:19:06]  They can upgrade for you.
+[00:19:06 -> 00:19:11]  They kind of force you through upgrades a little bit, which is nice.
+[00:19:11 -> 00:19:15]  The place you should be worried about those zero-days popping up is inside your container
+[00:19:15 -> 00:19:17]  images more than anything.
+[00:19:17 -> 00:19:19]  There's a lot going on inside each of those container images.
+[00:19:19 -> 00:19:23]  And yeah, I mean, there's new vulnerabilities being announced every day, like today with
+[00:19:23 -> 00:19:31]  Helm, vulnerabilities in Git and all your dependencies for your application.
+[00:19:31 -> 00:19:35]  If you've got a bunch of different containers running in prod, which every Kubernetes cluster
+[00:19:35 -> 00:19:41]  has at least a few dozen, there's vulnerabilities popping up all the time and staying on top
+[00:19:41 -> 00:19:42]  of those could be really hard.
+[00:19:42 -> 00:19:43]  All right.
+[00:19:43 -> 00:19:49]  We're going to go around Robin in a minute for your pet peeves for Kubernetes securities
+[00:19:49 -> 00:19:53]  and things you wish people wouldn't do, but I'm going to take one off the table immediately
+[00:19:53 -> 00:19:58]  because mine is the assumption that the container is only going to be running for a few seconds
+[00:19:58 -> 00:19:59]  and no one's ever going to see it.
+[00:19:59 -> 00:20:04]  And therefore I don't have to worry about its security because meanwhile, we're going
+[00:20:04 -> 00:20:09]  to re-instantiate that same insecure container five seconds later, right?
+[00:20:09 -> 00:20:11]  But that's just my favorite.
+[00:20:11 -> 00:20:13]  Nung, we'll start with you.
+[00:20:13 -> 00:20:17]  What's your kind of favorite pet peeve of the day that you wish people would kind of
+[00:20:17 -> 00:20:23]  think about more and so you wouldn't run into it as often in terms of help calls and support?
+[00:20:23 -> 00:20:28]  I guess I'll take the one I mentioned earlier, just running as root and not developing your
+[00:20:28 -> 00:20:33]  container to run as a user, fundamental.
+[00:20:34 -> 00:20:39]  Can you explain or do you have any insight as to why do people keep running stuff at
+[00:20:39 -> 00:20:40]  root?
+[00:20:40 -> 00:20:43]  I mean, we've been telling them not to do it forever and a day and it still happens.
+[00:20:43 -> 00:20:48]  Well, it's easy to develop as super user.
+[00:20:48 -> 00:20:53]  You can do anything you want without any system telling you, nope, you don't have access to
+[00:20:53 -> 00:20:54]  this.
+[00:20:54 -> 00:21:01]  So yeah, I think it's a habit that some people form right from the beginning because you
+[00:21:01 -> 00:21:07]  develop it on your computer and you run it there and it worked on my computer, so it
+[00:21:07 -> 00:21:10]  should work anywhere else.
+[00:21:10 -> 00:21:15]  And yeah, they don't get around to hardening it or testing it.
+[00:21:15 -> 00:21:22]  Just a second thought, ship it, feature, get that out the door.
+[00:21:22 -> 00:21:26]  I want to be done, winds up being the most troublesome thing there is.
+[00:21:26 -> 00:21:27]  Neil, what are your thoughts?
+[00:21:27 -> 00:21:31]  Is there anything out there that you look at and you go, wow, this is just, we're better
+[00:21:31 -> 00:21:32]  than this.
+[00:21:32 -> 00:21:37]  Yeah, this may not be a single pet peeve, but I find that security architects when they
+[00:21:37 -> 00:21:44]  approach Kubernetes focus on complex solutions and they forget about the simple.
+[00:21:44 -> 00:21:49]  So I've talked to a lot of people as an example who were really super focused on like Istio
+[00:21:49 -> 00:21:56]  and service mesh and things that are a 18 month journey for a reasonably strong organization,
+[00:21:56 -> 00:22:02]  but they didn't have vulnerability scanning and sort of posture management in place, right?
+[00:22:02 -> 00:22:07]  So generally speaking, I want people to focus on those simple wins first.
+[00:22:07 -> 00:22:12]  Build up, get 80% of stuff covered before you worry about the most 20%, the most complex
+[00:22:12 -> 00:22:13]  20%.
+[00:22:13 -> 00:22:17]  Right, because the bad guys aren't going to do any more than they have to do.
+[00:22:17 -> 00:22:18]  Right.
+[00:22:18 -> 00:22:20]  I mean, most of them, it's running from the bear, right?
+[00:22:20 -> 00:22:22]  I don't have to run faster than the bear.
+[00:22:22 -> 00:22:25]  I have to run faster than you.
+[00:22:25 -> 00:22:27]  There you go.
+[00:22:27 -> 00:22:30]  Robert, any pet peeves?
+[00:22:30 -> 00:22:36]  Yeah, I would say my big one is, you know, as a developer, I really want to see, you
+[00:22:36 -> 00:22:40]  know, the platform team put guardrails in place to help me understand, you know, what
+[00:22:40 -> 00:22:44]  I need to do in order to get my app running securely, right?
+[00:22:44 -> 00:22:47]  So don't mention like developers, they just want to run it as root because that's the
+[00:22:47 -> 00:22:49]  easiest thing to do, right?
+[00:22:49 -> 00:22:52]  What I want are guardrails in place that say, no, you're not allowed to do that.
+[00:22:52 -> 00:22:56]  You can't ship your application until you fix X, Y, and Z.
+[00:22:56 -> 00:23:00]  Because that helps me, because I, you know, I mean, I, since I'm a Kubernetes developer,
+[00:23:00 -> 00:23:03]  I understand Kubernetes well, but your average developer doesn't really know what it means
+[00:23:03 -> 00:23:05]  to run as root versus non-root.
+[00:23:05 -> 00:23:07]  They don't know about running as privileged, things like that.
+[00:23:07 -> 00:23:09]  We don't know what we don't know.
+[00:23:09 -> 00:23:13]  So having a platform in place that's going to give us warnings or block our deployments
+[00:23:13 -> 00:23:17]  when we're trying to do things that aren't secure is super helpful because I don't need
+[00:23:17 -> 00:23:21]  to go, you know, reading all the Kubernetes documentation and become the Kubernetes expert
+[00:23:21 -> 00:23:24]  in order to get my application running.
+[00:23:24 -> 00:23:29]  We have a question from the audience who wants to know if there's any specific security concerns
+[00:23:29 -> 00:23:33]  about accessing Kubernetes from a browser that they might want to be thinking about.
+[00:23:33 -> 00:23:39]  Is there anything in particular, Neil, that comes to mind there when you look at that or?
+[00:23:39 -> 00:23:46]  You know, I think sort of all of the typical concerns are going to apply there, right?
+[00:23:46 -> 00:23:51]  If I'm getting to Kubernetes and they said CLE, I'm not sure if they mean CLI,
+[00:23:51 -> 00:23:56]  like using, you know, using, I don't know, Google console and opening up the CLI
+[00:23:56 -> 00:23:59]  and starting to type kubectl, you know, I mean, first of all,
+[00:23:59 -> 00:24:01]  authentication is a big deal there, right?
+[00:24:01 -> 00:24:05]  If I can access, if I can get to the control plane through a browser,
+[00:24:05 -> 00:24:10]  I want to make sure I'm properly authenticating and authorizing the people who are doing that.
+[00:24:10 -> 00:24:17]  And, you know, I mean, typically, like I use lots of cloud services in a fairly insecure way
+[00:24:17 -> 00:24:21]  because I'm an architect, I'm not, or I'm an evangelist now.
+[00:24:21 -> 00:24:23]  I'm not doing anything production ready.
+[00:24:23 -> 00:24:25]  I'm just demonstrating stuff, right?
+[00:24:25 -> 00:24:30]  So I have a Google cloud account right now that doesn't have MFA turned on.
+[00:24:30 -> 00:24:34]  I shouldn't announce that out loud, but I don't have anything risky there.
+[00:24:34 -> 00:24:39]  All of my ops people and developers and engineers absolutely have MFA
+[00:24:39 -> 00:24:48]  and have everything properly locked down to make sure that that access is valid.
+[00:24:48 -> 00:24:53]  Typically, I would take that a step further.
+[00:24:53 -> 00:24:59]  I would only want to ever be able to access clusters that were not production directly.
+[00:24:59 -> 00:25:03]  If it's dev, if it's test, that stuff is great.
+[00:25:03 -> 00:25:06]  Pound at it, you know, make sure it's properly authorized and authenticated.
+[00:25:06 -> 00:25:13]  But, you know, in a perfect world, I think production clusters should never be touched directly.
+[00:25:13 -> 00:25:17]  They should all be behind pipelines that manage everything.
+[00:25:17 -> 00:25:24]  And it should all be sort of rational and automated and not have human hands touching it.
+[00:25:24 -> 00:25:27]  All right, Robert's head is going up and down in violent agreement.
+[00:25:27 -> 00:25:29]  So you want to add something here?
+[00:25:29 -> 00:25:36]  Yeah, no, the thing I'll add to build on that is utilizing role-based access control.
+[00:25:36 -> 00:25:40]  So making sure that the right people have access to the right stuff and only what they need access to to do their job.
+[00:25:40 -> 00:25:47]  Right. So, you know, you may you may give, you know, one or two SREs access to those production clusters.
+[00:25:47 -> 00:25:50]  But you don't want to give that to every single one of your devs. Right.
+[00:25:50 -> 00:25:57]  Those devs should maybe have read-only access to production or they should have, you know, access to certain resources, but not others.
+[00:25:57 -> 00:25:59]  You don't want them modifying things in Kube system.
+[00:25:59 -> 00:26:02]  You only want them modifying things in their namespaces.
+[00:26:02 -> 00:26:10]  So it's kind of up to you how you want to partition out all that, all those roles, but making sure you have separate roles for devs versus SREs,
+[00:26:10 -> 00:26:14]  making sure you're, you know, tightening down the admin role as much as possible.
+[00:26:14 -> 00:26:18]  Things like that are super helpful.
+[00:26:18 -> 00:26:21]  Now, who's in charge of Kubernetes security these days?
+[00:26:21 -> 00:26:26]  And I'm asking the question because we got a movement to shift left.
+[00:26:26 -> 00:26:32]  We got a movement to shift right to put more of the responsibility on the IT operations team.
+[00:26:32 -> 00:26:34]  And then, of course, there's the security people.
+[00:26:34 -> 00:26:41]  And sometimes I feel like I'm watching a baseball game where the left field and the center field and the shortstop are all screaming, I got it.
+[00:26:41 -> 00:26:47]  And the ball just drops in the middle. So what's your sense of who's in charge of this thing?
+[00:26:47 -> 00:26:53]  Well, yeah, it's kind of funny as you talk to the infrastructure, me coming from the SRE side, right.
+[00:26:53 -> 00:26:56]  I'm pointing over to or down to the developer.
+[00:26:56 -> 00:27:01]  And then when Robert gets the question, he points up to infrastructure with guardrails.
+[00:27:01 -> 00:27:03]  And yeah, you're asking shift left, right.
+[00:27:03 -> 00:27:07]  So the first line of code gets written by developers.
+[00:27:07 -> 00:27:09]  That's as far left as you can go.
+[00:27:09 -> 00:27:21]  But maybe you can go further left with possibly, you know, the business design and everything like the management getting behind putting in guardrails.
+[00:27:21 -> 00:27:25]  So that's the infrastructure team being involved.
+[00:27:25 -> 00:27:26]  And then back to developers.
+[00:27:26 -> 00:27:40]  But I think the responsibility is the entire company, because you can't just leave it up to one team to think of all of everything.
+[00:27:40 -> 00:27:46]  Let the developers focus on their code, their delivery product, the container.
+[00:27:46 -> 00:27:55]  But then have the infrastructure team to get their back by putting in guardrails, implementing policy tools, you know,
+[00:27:55 -> 00:28:05]  an open policy agent admission controller so they can't put in containers that have vulnerabilities or leave back doors open.
+[00:28:05 -> 00:28:08]  Check for those things, because you're going to do that anyway.
+[00:28:08 -> 00:28:15]  So might as well create some kind of automated or utilize an automated tool that does that in your cluster.
+[00:28:16 -> 00:28:20]  And again, you're going to do this whether you're using Kubernetes or not.
+[00:28:20 -> 00:28:28]  So it's just I think the whole thing just shifted where folks were looking at all the different cloud services.
+[00:28:28 -> 00:28:30]  And remember when cloud was new?
+[00:28:30 -> 00:28:35]  Well, cloud's not secure, because cloud was the new buzzword.
+[00:28:35 -> 00:28:42]  And everybody was like, well, how do you make cloud just as secure as on-premises, bare metal?
+[00:28:42 -> 00:28:48]  The same attack vectors are there, maybe more, and you're discovering them.
+[00:28:48 -> 00:28:55]  And same thing with Kubernetes is you go through that whole list of existing attack vectors and services,
+[00:28:55 -> 00:28:58]  and you're identifying them in Kubernetes.
+[00:28:58 -> 00:29:09]  And then comes where the big money is, is thinking like a hacker and discovering what are the new services that can be exploited.
+[00:29:09 -> 00:29:12]  Neil, what's your sense of the state of the art on the shift left?
+[00:29:12 -> 00:29:20]  Because frankly, most of the developers that I know, if they got any exposure to security, it was an elective and they didn't take it.
+[00:29:20 -> 00:29:25]  And then we're surprised when we give these guys tools and there's misconfigurations.
+[00:29:25 -> 00:29:27]  So what's real here?
+[00:29:27 -> 00:29:31]  Yeah, and honestly, I hope that's not the case anymore.
+[00:29:31 -> 00:29:35]  The SDLC is what, like 20 years old now?
+[00:29:35 -> 00:29:45]  So hopefully our developers have started to be exposed to security every day and as part of their process.
+[00:29:45 -> 00:29:51]  The state of the art for shift left for me, and this ties into the question you asked, Nung, and Nung's response is,
+[00:29:51 -> 00:29:56]  for me, DevSecOps is a marketing term, but it's a very real place that we've ended up.
+[00:29:56 -> 00:30:03]  As we've moved from a world, 20 years ago, we used to launch software every 18 months or two years.
+[00:30:03 -> 00:30:08]  And there was lots of time for development and then security to come in and do things.
+[00:30:09 -> 00:30:16]  We've now gone to the point where I talk to people who are launching new software, new updates daily, sometimes every few hours.
+[00:30:17 -> 00:30:19]  And so that cycle is shortened.
+[00:30:19 -> 00:30:22]  We've got to get security into it to stay ahead of it.
+[00:30:22 -> 00:30:28]  We don't want to ship things that get compromised, right?
+[00:30:29 -> 00:30:33]  So for me, the state of the art and shift left, tying this all back to your question.
+[00:30:33 -> 00:30:42]  The state of the art and shift left is where my security checks, my guardrails show up in the same way as I'm doing other automated testing in that pipeline.
+[00:30:43 -> 00:30:52]  So I check something into GitHub and there are a bunch of things that run, you know, it might run a linter to make sure I'm not writing terrible Golang,
+[00:30:53 -> 00:30:56]  which I would because I'm not a developer, but, you know, or whatever else.
+[00:30:56 -> 00:31:06]  But at the same time, we start running security tests to say, oh, well, in your go.mod, you've got this package, which has these known vulnerabilities.
+[00:31:06 -> 00:31:09]  You need to update to this and then integrating that all the way along.
+[00:31:09 -> 00:31:23]  When I build my container image as part of my, you know, CI CD as part of delivering that into dev test prod, I'm going to have integration testing and unit testing and performance testing and all these sorts of things.
+[00:31:23 -> 00:31:33]  And as a developer, I know if I, I don't know, if I ship something and it breaks my test, I'm going to have to go fix that before I can actually push to production.
+[00:31:33 -> 00:31:36]  Where I see this work is security shows up in the same way.
+[00:31:37 -> 00:31:45]  If I ship it and my container is running as root because I haven't included a user directive in it, it breaks and I have to fix that before it ships.
+[00:31:46 -> 00:31:55]  And so now we're, we're taking all of these security concepts, we're taking policy and we're turning it into automation that works in a way developers understand.
+[00:31:56 -> 00:31:57]  And so for me, that's, that's powerful.
+[00:31:57 -> 00:31:59]  That's where we really get to where we're going.
+[00:32:00 -> 00:32:06]  Um, and, and I saw, I saw a company that did this, they started on this journey about two years ago.
+[00:32:07 -> 00:32:14]  They did such a great job of building it into it that all the developers now just understand this is, this is the way it works.
+[00:32:14 -> 00:32:19]  I have to pass these security checks to deliver something in the same way.
+[00:32:19 -> 00:32:26]  I have to use spaces, not tabs or tabs, not spaces or whatever, whatever your, your thing is right.
+[00:32:26 -> 00:32:28]  It just, it's just automatic.
+[00:32:28 -> 00:32:30]  It's built in, it's right there.
+[00:32:30 -> 00:32:34]  And it's very clear what you've done and what you have to do to fix it.
+[00:32:35 -> 00:32:53]  Robert, do you think that the adoption of Kubernetes and the complexity and the awareness of what's required for securing software supply chains is in some ways helping to force the DevSecOps conversation a little more aggressively than you might've seen in the past?
+[00:32:53 -> 00:33:03]  We've been talking about that for some time now, but, you know, organizations are running into a range of technical and cultural issues to try to make all that work.
+[00:33:03 -> 00:33:10]  But, you know, does this become the place where we actually kind of, where that proverbial rubber meets the road, right?
+[00:33:10 -> 00:33:11]  Yeah.
+[00:33:11 -> 00:33:21]  I mean, one of the, one of the really nice things about, you know, the Kubernetes world is that Kubernetes provides a uniform interface for doing things like scanning for vulnerabilities and things like that, both Kubernetes and containers, right?
+[00:33:21 -> 00:33:28]  So it's a lot easier to automate some of this process, to get scanning set up, you know, in a way that's consistent.
+[00:33:28 -> 00:33:33]  You see, you know, so the same open source tools getting deployed across organizations.
+[00:33:33 -> 00:33:39]  So it's becoming easier to kind of push that feedback in a uniform way back to developers.
+[00:33:40 -> 00:33:42]  So I think it is helping things quite a bit.
+[00:33:44 -> 00:33:45]  Neil, we got a question from a participant.
+[00:33:45 -> 00:33:47]  I'm going to kick it back to you.
+[00:33:47 -> 00:34:01]  It says, you know, what advice can you give for setting up a secure supply chain to pull basic images to protect the organization's software development from using insecure, vulnerable, third party container basic images?
+[00:34:01 -> 00:34:04]  Which I think would account for 80% of them.
+[00:34:05 -> 00:34:07]  Yeah, Alex, that's a great question.
+[00:34:07 -> 00:34:09]  And sorry, it was Alex who asked the question.
+[00:34:09 -> 00:34:10]  I was looking at it as well.
+[00:34:10 -> 00:34:12]  But Mike, that is also a great question.
+[00:34:13 -> 00:34:14]  You know, I think there are a couple of basic things, right?
+[00:34:14 -> 00:34:17]  The first one is it starts with policy.
+[00:34:17 -> 00:34:24]  It starts with security architects, security leadership, writing this down and saying, here's how we're going to manage this.
+[00:34:24 -> 00:34:25]  Here's what we're going to use.
+[00:34:25 -> 00:34:30]  We're going to use only Alpine based images, or we're going to use only RHEL based images or whatever that is.
+[00:34:30 -> 00:34:31]  Start there.
+[00:34:32 -> 00:34:43]  Figure out, OK, that gets you so far because you're going to want, you know, a standard Python image or a standard Golang image or a standard, you know, whatever you're whatever you're building on top of.
+[00:34:44 -> 00:34:44]  Make a decision.
+[00:34:44 -> 00:34:48]  Are you going to build those things internally and take on the test burden of doing that?
+[00:34:48 -> 00:34:50]  Or are you going to use something externally?
+[00:34:50 -> 00:34:54]  And if so, identify how you can trust that external image.
+[00:34:54 -> 00:34:59]  And so now we've got policy down to a place I can start putting technical controls in, right?
+[00:34:59 -> 00:35:11]  I can start saying, if I'm scanning, say, my Docker files before I ever build, I can say the from, you know, the from directive has to be in this list.
+[00:35:11 -> 00:35:18]  It has to come from this registry, this repo, so that I can't even build something that comes from an image outside of the images I'm deciding on.
+[00:35:19 -> 00:35:33]  You know, I can I can potentially, as I sort of scale up in complexity, I may be using something like Artifactory where I can start creating essentially a proxy for even pulling images and putting a control in place.
+[00:35:33 -> 00:35:41]  Even if somebody builds something outside of outside of where I can enforce my checks at the edge of the network, I can say, hey, you can't pull that.
+[00:35:41 -> 00:35:44]  It's not in our list of approved approved bases.
+[00:35:45 -> 00:35:54]  And then I think, you know, once again, as you write that policy out, it's a matter of figuring out what the right checks are, where you build them into that pipeline to find those things.
+[00:35:54 -> 00:35:57]  All right, Nung, do you want to add to that?
+[00:35:57 -> 00:36:03]  Because you're having a little sidebar conversation here about the Codalorian or the Mandalorian, I think, or some variation of that.
+[00:36:03 -> 00:36:14]  So are patterns starting to emerge that we can think about here in terms of how to institute DevSecOps in a way that people will not resist?
+[00:36:15 -> 00:36:27]  Yeah, working off of Neil's discussion, putting in those tools to do to scan your art, you mentioned Artifactory.
+[00:36:27 -> 00:36:37]  And that's exactly what I was thinking, is do you have all your images pulled in to a place that you can control and you can install those image scanning tools, code scanning tools?
+[00:36:38 -> 00:36:44]  And someone participating in 706 asked it, what is the best way to integrate security in a Kubernetes pipeline?
+[00:36:44 -> 00:36:48]  And you think about your code pipeline to get into those clusters.
+[00:36:48 -> 00:37:02]  And that's exactly one way to do that is to have in your build server, all those governance tools that can scan your code.
+[00:37:02 -> 00:37:10]  You have a build pipeline already prearranged, and someone goes through and has a control on that.
+[00:37:10 -> 00:37:15]  It's on a secured server, but your build server is protected.
+[00:37:15 -> 00:37:24]  And the products that it builds, the images, go into a repo that you can control, and then you have something that governs that as well.
+[00:37:24 -> 00:37:29]  And then, of course, the predefined pipeline to ship it to your environments.
+[00:37:29 -> 00:37:41]  And locking down your QA and your staging environments in a similar fashion as your production environment, so that way, when you ship these containers, they're going to behave in the same manner that you want them to in production.
+[00:37:41 -> 00:37:59]  And if you have those same guardrails in QA, you're able to identify them right away so that there are no surprises that perhaps you were trying to do something in your container that is not going to be allowed in the more secure environments.
+[00:38:00 -> 00:38:07]  Robert, what makes it hard to create these perfect development chains and pipelines?
+[00:38:07 -> 00:38:13]  Because, you know, Nung and Neil made it sound real simple, and yet it doesn't seem like many people are able to accomplish that.
+[00:38:13 -> 00:38:16]  So from your perspective, what is it that hangs everybody up?
+[00:38:17 -> 00:38:23]  Yeah, so I would say that the real issue is that you have several different points along the pipeline where you need to integrate.
+[00:38:23 -> 00:38:25]  So at Fairwinds, we like to think of it in three pieces.
+[00:38:26 -> 00:38:31]  One is at the time of CI, so scanning every pull request for the infrastructure as code and what's changing there.
+[00:38:32 -> 00:38:33]  Next would be the time of admission.
+[00:38:33 -> 00:38:38]  So as things are coming into the Kubernetes cluster, being able to check them there and kind of stop them at the door.
+[00:38:39 -> 00:38:43]  That way, if somebody bypasses your CI-CD pipeline, you know, maybe they're trying to edit something directly in the cluster.
+[00:38:44 -> 00:38:47]  You know, maybe it's a break glass situation, and they're trying to like fix something.
+[00:38:47 -> 00:38:52]  You have a chance to say, no, this is insecure, you're trying to run as root, you can stop it at the door.
+[00:38:52 -> 00:39:09]  But then in addition to that, you want to be scanning your live production environment kind of continuously so that, you know, if, say, you roll out a new policy or a new vulnerability gets announced and you've got a container running in production that may be passed in CI, passed in admission, but now this new vulnerability has been announced a day later.
+[00:39:09 -> 00:39:13]  You want to be able to catch that and say, oh, I know I'm running this vulnerability in production.
+[00:39:13 -> 00:39:18]  I need to re-trigger that pipeline and make sure that it rebuilds without that vulnerability and I can stop that.
+[00:39:18 -> 00:39:22]  So the big issue is that you need to be integrating in three different spots.
+[00:39:23 -> 00:39:30]  And it seems like the goal should be that I'm trying to get to some sort of zero trust nirvana.
+[00:39:30 -> 00:39:38]  And yet a lot of people feel like the term zero trust isn't feasible because there's a million dependencies everywhere.
+[00:39:38 -> 00:39:48]  So Neil, what's your sense of, you know, what's real and what's not real about zero trust and especially in an environment where there are more APIs than I can shake a stick at?
+[00:39:48 -> 00:39:50]  Yeah, I mean, I think so.
+[00:39:50 -> 00:39:56]  Zero trust, the term is certainly overused and applied to everything and slapped on like a label.
+[00:39:56 -> 00:40:00]  We could in the security industry and in technology, we could come up with a million examples of that.
+[00:40:00 -> 00:40:05]  All the single panes of glass I've worked with over time, you know, et cetera.
+[00:40:06 -> 00:40:08]  But the concept is very, very solid.
+[00:40:08 -> 00:40:15]  And the concept is just, you know, everything to some extent, I have to think of everything as public.
+[00:40:15 -> 00:40:17]  I have to think of everything as accessible.
+[00:40:18 -> 00:40:27]  And so I have to figure out, I can't just automatically assume because a request is coming from something else inside what we used to call the moat, the castle, right?
+[00:40:27 -> 00:40:28]  I can't just assume that's OK.
+[00:40:28 -> 00:40:33]  I have to figure out at every step of the way, how do I make sure this is a valid request?
+[00:40:33 -> 00:40:34]  This is a valid command.
+[00:40:34 -> 00:40:35]  This is a valid action.
+[00:40:36 -> 00:40:56]  And I think, honestly, as you move into Kubernetes, containers, cloud native, microservices, all of these things, it's the perfect place to do it because you've broken it down into these components now and you can start really setting those boundaries and figuring out where they are and codifying them and building them up.
+[00:40:57 -> 00:41:03]  You know, ultimately, once again, this is, you know, I said earlier, focus on simplicity.
+[00:41:03 -> 00:41:05]  You don't have to solve every one of these things at a time.
+[00:41:06 -> 00:41:11]  It's OK to have 20% trust before you get to 0% trust, right?
+[00:41:11 -> 00:41:25]  But let's knock out, let's knock these things out and let's focus on the philosophy of how we want to approach it rather than on the specific products or on having to accomplish this and crush the whole thing all at once.
+[00:41:25 -> 00:41:27]  Now, what's your thought on this?
+[00:41:27 -> 00:41:30]  Yeah, one more.
+[00:41:30 -> 00:41:31]  Yeah, go ahead.
+[00:41:31 -> 00:41:37]  There's also two ways of understanding, like the term zero trust, right?
+[00:41:37 -> 00:41:40]  Zero trust being absolutely no trust.
+[00:41:40 -> 00:41:48]  Then there's also zero trust where we're addressing zero day, meaning the immediate threat that just showed up, right?
+[00:41:48 -> 00:42:12]  The one that you didn't prepare for or you couldn't think of, but hopefully you did prepare for it because that's what zero trust is, is it's that journey to getting that perfection of absolute, you know, ask question everything, you know, don't trust, but verify all your applications that they are communicating in the way that you designed them to communicate.
+[00:42:12 -> 00:42:28]  They're delivering the packets that you want them to deliver and they're expecting and implementing policies that give these services and these workloads the least amount of privilege in order for them to accomplish their work.
+[00:42:29 -> 00:42:40]  And I think one thing is practicing, you know, assume that you have been breached and then going through drills and understanding, having a runbook for a breach.
+[00:42:40 -> 00:42:41]  What do you do?
+[00:42:41 -> 00:42:47]  Rather than waiting for an actual breach to happen, you know, you've got your data compromised.
+[00:42:47 -> 00:42:48]  What is your first course of action?
+[00:42:49 -> 00:42:50]  Do you know what that is?
+[00:42:50 -> 00:42:51]  Have you practiced it?
+[00:42:52 -> 00:42:54]  And I think, you know, it's a good point.
+[00:42:54 -> 00:43:00]  To me, the real purpose of zero trust is to limit the impact of a compromise.
+[00:43:01 -> 00:43:09]  Zero trust doesn't stop a compromise on the edge of my network, but it reduces the ability of the attacker to move from that initial compromise to what's really interesting.
+[00:43:11 -> 00:43:14]  And so that's why I think of it as a philosophy and not a single thing.
+[00:43:14 -> 00:43:20]  It's how do I start limiting if I compromise any single asset in the environment?
+[00:43:20 -> 00:43:27]  How do I limit the ability of that attacker to make use of that and move further into the environment and get to more interesting things?
+[00:43:27 -> 00:43:32]  And that's a key, like, you've got to be doing that.
+[00:43:32 -> 00:43:43]  I almost never used the term zero day vulnerability because my previous life was as an incident response investigator, and I did 13 years of looking at when things went wrong.
+[00:43:44 -> 00:43:50]  And in that time, there was maybe once that a zero day vulnerability was one of the root causes of it.
+[00:43:51 -> 00:43:57]  People get compromised via unpatched known vulnerabilities, poor configurations, bad decisions,
+[00:43:58 -> 00:44:05]  a thousand times more frequently than they get compromised by something that wasn't previously known.
+[00:44:06 -> 00:44:09]  But once again, those things are trade-offs, right?
+[00:44:09 -> 00:44:17]  Things aren't patched because it's hard to patch or you can't reboot that or you don't have a window or you don't have the right tools or whatever else to configure it.
+[00:44:17 -> 00:44:20]  All of these things, you've got to plan ahead and think, all right, I have these.
+[00:44:20 -> 00:44:22]  I have these vulnerabilities.
+[00:44:22 -> 00:44:23]  I have these misconfigurations.
+[00:44:24 -> 00:44:28]  What do I do to limit the impact of any individual one of them?
+[00:44:28 -> 00:44:31]  And how do I architect with that in mind across everything I'm deploying?
+[00:44:32 -> 00:44:35]  Yeah, a three-month-old vulnerability isn't sexy.
+[00:44:37 -> 00:44:37]  Yeah.
+[00:44:40 -> 00:44:45]  Is it embarrassing to be compromised by a known vulnerability these days?
+[00:44:45 -> 00:44:51]  I mean, to what degree do people feel a certain amount of, I don't know if I want to use the word,
+[00:44:51 -> 00:45:00]  but I will shame about the fact that they got breached by the same SQL injection breach that's been going on for two decades?
+[00:45:01 -> 00:45:05]  Yeah, it probably is embarrassing, but it shouldn't be.
+[00:45:05 -> 00:45:08]  It should be like what Neil just said.
+[00:45:11 -> 00:45:16]  The zero days are the catch word and the scary thing because we're talking about it now,
+[00:45:16 -> 00:45:19]  but three months from now, we're not talking about it anymore.
+[00:45:19 -> 00:45:20]  So did you fix it?
+[00:45:21 -> 00:45:27]  Or you didn't even use that service or that technology that was vulnerable,
+[00:45:27 -> 00:45:30]  and then you're just getting around to using it,
+[00:45:30 -> 00:45:36]  and you're not aware that that CVE was published 30 days, 90 days ago.
+[00:45:38 -> 00:45:40]  Of course, that's where your scanning tools should hopefully pick it up.
+[00:45:41 -> 00:45:44]  Yeah, I just have too many scanning tools,
+[00:45:44 -> 00:45:46]  and they're all sending me alerts that I can't sort through, right?
+[00:45:46 -> 00:45:48]  That's generally part of the issue.
+[00:45:49 -> 00:45:55]  Robert, do we need to walk away as part of the zero trust mindset from this castle and moat mindset?
+[00:45:55 -> 00:46:00]  Because I always thought we had these great moats and castles with high walls,
+[00:46:00 -> 00:46:04]  but the roof was wide open and the bad guys are just throwing rocks over the wall.
+[00:46:06 -> 00:46:11]  So what's your sense of do we need a better metaphor to think about security going forward?
+[00:46:11 -> 00:46:16]  Because I think maybe part of our issue is we've kind of just wedded ourselves to
+[00:46:17 -> 00:46:18]  an obsolete construct.
+[00:46:19 -> 00:46:22]  Yeah, no, I absolutely think so.
+[00:46:22 -> 00:46:27]  Neil pointed out, just because something's past your moat doesn't mean you can trust it, right?
+[00:46:30 -> 00:46:33]  A lot of what we talk about when we talk about Kubernetes security,
+[00:46:33 -> 00:46:35]  it's about limiting the blast radius.
+[00:46:35 -> 00:46:38]  It's about assuming that somebody got into a vulnerable container
+[00:46:38 -> 00:46:40]  and figuring out how do we lock them into that container
+[00:46:40 -> 00:46:42]  so they can't spread throughout the cluster, right?
+[00:46:43 -> 00:46:46]  I wish I could think of a good metaphor off the top of my head,
+[00:46:46 -> 00:46:50]  I think limiting the blast radius is the best I can come up with.
+[00:46:51 -> 00:46:54]  I guess micro-segmentation wherever we can find it.
+[00:46:54 -> 00:47:01]  Hey, like it or not, but the compliance people have played a large role in
+[00:47:01 -> 00:47:05]  at least incentivizing us all to do some level of security.
+[00:47:05 -> 00:47:11]  And we can argue it's checkbox security, but it's something and usually better than nothing.
+[00:47:11 -> 00:47:16]  But I guess, do you think that Neil, the compliance people are starting
+[00:47:16 -> 00:47:18]  to figure out this whole Kubernetes thing
+[00:47:18 -> 00:47:20]  and they're going to start asking some tougher questions soon?
+[00:47:20 -> 00:47:24]  And maybe even the insurance guys will show up behind them saying,
+[00:47:24 -> 00:47:29]  hey, this isn't going to suffice and we'll get better.
+[00:47:29 -> 00:47:31]  Yeah, I think we've seen great movement.
+[00:47:31 -> 00:47:32]  First of all, on the platform, right?
+[00:47:32 -> 00:47:36]  We had CIS Kubernetes and I'm trying to think, I don't know,
+[00:47:36 -> 00:47:40]  2019-ish, that was really difficult because we had EKS, GKE,
+[00:47:40 -> 00:47:42]  OpenShift, all these other things coming.
+[00:47:42 -> 00:47:47]  What's happened in the intervening years is we've seen CIS GKE, CIS EKS,
+[00:47:47 -> 00:47:51]  CIS for all of these platforms getting much, much more specific
+[00:47:51 -> 00:47:55]  so that we have good benchmarks for the specific Kubernetes platform
+[00:47:55 -> 00:47:57]  that I'm running on, good compliance.
+[00:47:58 -> 00:48:04]  So that, I mentioned early at the start, I said, if I deploy say EKS,
+[00:48:04 -> 00:48:07]  I'm in good shape unless I go and do something stupid.
+[00:48:07 -> 00:48:10]  CIS gives me a set of guardrails for that
+[00:48:11 -> 00:48:13]  so that I can hopefully in an automated way,
+[00:48:13 -> 00:48:17]  hopefully I have tooling that goes and does this and returns back and says,
+[00:48:17 -> 00:48:22]  oh, you've drifted out of desired compliance, you're not doing this and this.
+[00:48:23 -> 00:48:27]  On top of that, I think a lot of the more specific sort of frameworks
+[00:48:27 -> 00:48:31]  are now focused on some of the application security pieces.
+[00:48:31 -> 00:48:34]  The second category, if you will, that I talked about,
+[00:48:35 -> 00:48:38]  about how do I manage securing and deploying this thing
+[00:48:38 -> 00:48:39]  and am I doing that appropriately?
+[00:48:40 -> 00:48:43]  So yeah, I think compliance sometimes is a checkbox,
+[00:48:43 -> 00:48:47]  but I think if you're doing it right, if you're doing it effectively,
+[00:48:48 -> 00:48:53]  compliance is a canary that tells you if there's a gas leak in your coal mine,
+[00:48:53 -> 00:48:56]  so to speak, and that was a really tortured metaphor.
+[00:48:56 -> 00:49:00]  But it is going to show me,
+[00:49:00 -> 00:49:05]  hopefully I'm doing things to secure the environment and the applications properly
+[00:49:06 -> 00:49:10]  and compliance standards and benchmarks are going to show me when I get out of that
+[00:49:10 -> 00:49:13]  versus I'm doing things to meet the compliance benchmarks
+[00:49:13 -> 00:49:17]  and not caring about the actual security.
+[00:49:18 -> 00:49:21]  Robert, we hear a lot about compliance as code.
+[00:49:21 -> 00:49:22]  Can we get to that?
+[00:49:22 -> 00:49:24]  Is that the guardrail that you were talking about?
+[00:49:24 -> 00:49:27]  But it'll just be kind of part of the overall system.
+[00:49:28 -> 00:49:31]  Yeah, I mean, so one of the things that we've actually done at Fairwinds
+[00:49:31 -> 00:49:33]  as part of our offering around Kubernetes
+[00:49:33 -> 00:49:38]  is mapping Kubernetes security controls back to compliance standards like SOC2 and HIPAA.
+[00:49:39 -> 00:49:43]  And it's definitely a lot of it is centered around,
+[00:49:43 -> 00:49:46]  you know, do you have these kinds of guardrails in place
+[00:49:46 -> 00:49:49]  to make sure that your developers aren't running containers as root,
+[00:49:49 -> 00:49:51]  to make sure that you're scanning every container image
+[00:49:51 -> 00:49:52]  that goes into your production environment.
+[00:49:53 -> 00:49:56]  So there is a lot of like compliance as code, as you said,
+[00:49:56 -> 00:49:58]  it comes down to a lot of policy as code.
+[00:49:59 -> 00:50:04]  Actually, one of the checks we make sure is that you're using a policy as code setup
+[00:50:04 -> 00:50:07]  so that, you know, all your policy changes are being checked in,
+[00:50:07 -> 00:50:09]  that they're being tracked, things like that.
+[00:50:10 -> 00:50:14]  So I think it is very important to have a lot of this encoded in a Git repository.
+[00:50:16 -> 00:50:19]  All right, folks, now we're going to play Mike's favorite game.
+[00:50:19 -> 00:50:21]  It's called King for a Day.
+[00:50:22 -> 00:50:25]  Nung, you have been made king for the day
+[00:50:25 -> 00:50:30]  for the entire Kubernetes Technical Oversight Committee.
+[00:50:30 -> 00:50:32]  Everybody has to bend to your will immediately.
+[00:50:33 -> 00:50:36]  What is that one security thing that you would like to see fixed
+[00:50:36 -> 00:50:38]  that would be at the top of your list that would be like,
+[00:50:38 -> 00:50:42]  guys, let's make this our focal point and fix this thing now?
+[00:50:45 -> 00:50:47]  Ah, I struggled with this one.
+[00:50:48 -> 00:50:53]  I guess an auto generation of security policies.
+[00:50:54 -> 00:50:58]  Maybe implement it, go the reverse way,
+[00:50:58 -> 00:51:03]  deny all and then make your developers start to open,
+[00:51:03 -> 00:51:07]  deliberately open ports and communications between workloads.
+[00:51:10 -> 00:51:12]  That's pretty good. I like that.
+[00:51:12 -> 00:51:13]  Neil, what are you thinking?
+[00:51:14 -> 00:51:16]  Well, so that was one on my list.
+[00:51:16 -> 00:51:22]  So the one I'm going to throw out is partially fixed at this point.
+[00:51:22 -> 00:51:26]  It's partially done, but I think uptake has been slow.
+[00:51:26 -> 00:51:32]  I want to see image signing happening across the board as the default for everybody.
+[00:51:33 -> 00:51:37]  Because there are so many, when we talk about supply chain
+[00:51:37 -> 00:51:40]  and sort of all of that stuff, there's so many benefits we can mine there
+[00:51:41 -> 00:51:43]  that I think we're just starting to get to.
+[00:51:43 -> 00:51:49]  It's image signing has been problematic in Docker images for a long time.
+[00:51:49 -> 00:51:52]  I think co-sign is a really strong solution.
+[00:51:52 -> 00:51:53]  People are starting to embrace it.
+[00:51:54 -> 00:51:56]  I want to see that go to 100%.
+[00:51:56 -> 00:51:58]  I want to see that to be the default.
+[00:51:58 -> 00:52:00]  And you have to break glass to not sign an image.
+[00:52:02 -> 00:52:04]  Awesome. Robert, what do you think?
+[00:52:05 -> 00:52:09]  I would love to see a real clear first class distinction
+[00:52:09 -> 00:52:12]  between application namespaces and infrastructure namespaces.
+[00:52:12 -> 00:52:14]  There are a lot of tools that have to run in Kubernetes
+[00:52:14 -> 00:52:17]  that A, have a reduced attack surface
+[00:52:17 -> 00:52:20]  because they're not exposing ingresses to the internet.
+[00:52:20 -> 00:52:23]  And they need a higher degree of permissions to do their jobs,
+[00:52:23 -> 00:52:26]  things like ingress controllers and certificate managers,
+[00:52:26 -> 00:52:28]  money to edit resources and other namespaces, things like that.
+[00:52:28 -> 00:52:31]  So kind of segregating those from your application namespaces,
+[00:52:31 -> 00:52:33]  which shouldn't need very much permissions within the cluster
+[00:52:33 -> 00:52:35]  and which have a higher attack surface
+[00:52:35 -> 00:52:37]  because they're accepting traffic from the internet.
+[00:52:37 -> 00:52:40]  I think having that distinction in Kubernetes would be really helpful.
+[00:52:41 -> 00:52:42]  All right.
+[00:52:43 -> 00:52:44]  Noam, you kind of touched on this,
+[00:52:44 -> 00:52:48]  but I'm going to throw it out here in a little more far-fetched kind of way.
+[00:52:48 -> 00:52:51]  But you cannot walk down the street these days
+[00:52:51 -> 00:52:53]  without somebody talking about generative AI,
+[00:52:53 -> 00:52:55]  this, that, and the other and chat GPT.
+[00:52:55 -> 00:52:58]  So I guess my question to you guys is,
+[00:52:58 -> 00:53:02]  do you think that we might be able to use these platforms
+[00:53:02 -> 00:53:04]  to first automate the writing of the controls
+[00:53:04 -> 00:53:08]  because we can just use the AI to read the regulation
+[00:53:08 -> 00:53:09]  and generate the control?
+[00:53:09 -> 00:53:12]  And then maybe do some of the things that Noam was talking about
+[00:53:12 -> 00:53:15]  in terms of enforcing those policies.
+[00:53:15 -> 00:53:15]  Robert, what do you think?
+[00:53:16 -> 00:53:17]  Yeah.
+[00:53:17 -> 00:53:19]  So I actually, you know, I'm a former data scientist.
+[00:53:19 -> 00:53:21]  I'm, my degree is in AI.
+[00:53:21 -> 00:53:23]  So I'm all over this stuff.
+[00:53:24 -> 00:53:26]  You're a recovering data scientist.
+[00:53:26 -> 00:53:26]  Exactly. Yeah.
+[00:53:29 -> 00:53:32]  So we, one of the policy languages we work with is Rego,
+[00:53:32 -> 00:53:35]  which is super powerful, but also like really hard to write.
+[00:53:36 -> 00:53:37]  It confuses a lot of people.
+[00:53:37 -> 00:53:40]  So we've actually done some experimenting with chat GPT,
+[00:53:40 -> 00:53:41]  getting it to generate Rego code.
+[00:53:41 -> 00:53:42]  And it does a really good job.
+[00:53:42 -> 00:53:46]  If you say, I want to require label X on every deployment,
+[00:53:46 -> 00:53:47]  but only in these namespaces,
+[00:53:47 -> 00:53:49]  it will write you the Rego policy to do it.
+[00:53:50 -> 00:53:53]  So it is actually, it's, I think, potentially a very powerful tool.
+[00:53:53 -> 00:53:55]  Obviously, you know, it makes bugs.
+[00:53:55 -> 00:53:56]  You have to second check its work.
+[00:53:56 -> 00:53:58]  You have to make sure you're viewing that code,
+[00:53:58 -> 00:53:59]  but it does a surprisingly good job.
+[00:54:01 -> 00:54:02]  Neil, what do you think?
+[00:54:02 -> 00:54:04]  I feel like you're throwing me a softball
+[00:54:04 -> 00:54:11]  because in Orca, we released a chat or a GPT-3 driven feature recently
+[00:54:11 -> 00:54:13]  to help people author remediations for alerts.
+[00:54:14 -> 00:54:17]  So it's quite literally that, okay, I've got an alert.
+[00:54:17 -> 00:54:18]  I don't know how to fix it.
+[00:54:19 -> 00:54:23]  Give me some ideas on how to fix this in the CLI or in Terraform
+[00:54:23 -> 00:54:24]  or sort of in however I want to do that.
+[00:54:25 -> 00:54:26]  Yeah. And I think it's incredibly powerful.
+[00:54:26 -> 00:54:31]  That's the sort of tightly constrained problem
+[00:54:31 -> 00:54:34]  that I think generative AI is really good at solving today.
+[00:54:35 -> 00:54:36]  It's not perfect.
+[00:54:36 -> 00:54:38]  I still have to, like, look at it and rationalize it
+[00:54:38 -> 00:54:41]  and make sure it hasn't decided to, you know,
+[00:54:41 -> 00:54:43]  FDisk and format every machine in my environment.
+[00:54:43 -> 00:54:46]  But it does a reasonably good job of, you know,
+[00:54:46 -> 00:54:50]  hey, I need to tighten the permissions on this S3 bucket.
+[00:54:50 -> 00:54:52]  Okay, here's how you might do that in Terraform.
+[00:54:52 -> 00:54:53]  Or here's how you might do that in the CLI.
+[00:54:54 -> 00:54:57]  So yeah, I'm really bullish on the possibility
+[00:54:57 -> 00:54:58]  of what we can build on top of it.
+[00:54:59 -> 00:55:02]  All right. Somebody wants a hoodie like Robert's there.
+[00:55:02 -> 00:55:04]  I don't know if we can figure out how to do that,
+[00:55:04 -> 00:55:05]  but there's a thought.
+[00:55:05 -> 00:55:10]  Now, do you think that AI will save us from ourselves?
+[00:55:10 -> 00:55:12]  Because part of these issues are things that we've just,
+[00:55:12 -> 00:55:14]  as humans, made too complex.
+[00:55:14 -> 00:55:15]  So maybe the machines need to save us.
+[00:55:17 -> 00:55:19]  Yeah. It could help us, definitely.
+[00:55:19 -> 00:55:20]  There's just too much.
+[00:55:20 -> 00:55:22]  There's too much to keep track of.
+[00:55:22 -> 00:55:25]  And if you break all these things down
+[00:55:25 -> 00:55:27]  into little parts, yes, you can identify them.
+[00:55:27 -> 00:55:30]  You can go back to when, you know,
+[00:55:30 -> 00:55:35]  the community addressed the particular problem
+[00:55:35 -> 00:55:38]  and wrote some kind of code around it
+[00:55:38 -> 00:55:39]  or came up with a process around that.
+[00:55:39 -> 00:55:42]  But then it just gets put on the pile
+[00:55:42 -> 00:55:44]  of everything that we're supposed to know
+[00:55:44 -> 00:55:49]  as a developer or as a DevOps.
+[00:55:49 -> 00:55:52]  And yeah, now we have DevSecOps.
+[00:55:52 -> 00:55:54]  And, you know, just keep adding.
+[00:55:54 -> 00:55:59]  Now we'll have to have the DevSecAI or MLOps
+[00:55:59 -> 00:56:01]  because we're going to start generating
+[00:56:01 -> 00:56:02]  machine learning patterns
+[00:56:02 -> 00:56:05]  and we'll start throwing in scenarios
+[00:56:05 -> 00:56:08]  because part of using chat GPT
+[00:56:08 -> 00:56:13]  is knowing how to ask it the questions you want answered.
+[00:56:13 -> 00:56:14]  Not just, oh, it's here,
+[00:56:14 -> 00:56:16]  and just plug in a few words and go.
+[00:56:16 -> 00:56:19]  If you know how to ask it the right questions,
+[00:56:19 -> 00:56:22]  you're going to get a pretty good model out of it
+[00:56:22 -> 00:56:24]  that's going to be that robust
+[00:56:25 -> 00:56:31]  or that scaffold for your next security policy generator.
+[00:56:31 -> 00:56:34]  All right, Robert, last one to you.
+[00:56:35 -> 00:56:37]  Besides the fact that you are now
+[00:56:37 -> 00:56:38]  dictating IT fashion out there
+[00:56:38 -> 00:56:40]  and people are going shopping with your hoodie,
+[00:56:41 -> 00:56:42]  what's your sense of,
+[00:56:45 -> 00:56:47]  are we optimistic about security these days?
+[00:56:47 -> 00:56:49]  And for that matter,
+[00:56:49 -> 00:56:51]  do I need to know as much as I know today
+[00:56:51 -> 00:56:52]  or, you know, by this time next year,
+[00:56:52 -> 00:56:54]  is it going to be such a high level of automation
+[00:56:54 -> 00:56:58]  and abstractions that I should just focus on the end result
+[00:56:58 -> 00:56:59]  rather than, you know,
+[00:56:59 -> 00:57:01]  the test tubes that were used to make the television?
+[00:57:02 -> 00:57:03]  Yeah, yeah, that's a great question.
+[00:57:04 -> 00:57:05]  Yeah, I think we're seeing things
+[00:57:05 -> 00:57:07]  get more and more automated.
+[00:57:07 -> 00:57:08]  Like I said before, you know,
+[00:57:08 -> 00:57:10]  the fact that we have increasingly
+[00:57:10 -> 00:57:13]  a like well-defined API
+[00:57:13 -> 00:57:15]  for doing the scanning and things like that,
+[00:57:15 -> 00:57:16]  container scanning, you know,
+[00:57:16 -> 00:57:19]  we've got Terraform scanning.
+[00:57:19 -> 00:57:21]  You can look through the cloud provider's API.
+[00:57:21 -> 00:57:23]  So it's much easier to deploy the same tools
+[00:57:23 -> 00:57:24]  across organizations to understand
+[00:57:24 -> 00:57:26]  each of those organizations' security profile.
+[00:57:27 -> 00:57:29]  So you are seeing a lot more and more automation.
+[00:57:29 -> 00:57:31]  And I think automating this as much as possible.
+[00:57:31 -> 00:57:33]  The big thing I think we still have to do
+[00:57:33 -> 00:57:34]  is automated remediation,
+[00:57:34 -> 00:57:36]  which I think some of the AI stuff
+[00:57:36 -> 00:57:38]  comes along that line.
+[00:57:39 -> 00:57:40]  A lot of different companies,
+[00:57:40 -> 00:57:42]  including Fairwinds are working along those lines.
+[00:57:42 -> 00:57:44]  So once we get to automated remediation,
+[00:57:44 -> 00:57:46]  I think we'll be in a much better place security-wise.
+[00:57:47 -> 00:57:50]  All right, things are better than they look.
+[00:57:50 -> 00:57:52]  Gentlemen, thank you for being on the show
+[00:57:52 -> 00:57:54]  and sharing your knowledge and expertise.
+[00:57:54 -> 00:57:55]  I hope everybody got a lot out of it.
+[00:57:55 -> 00:57:57]  And with that, I'm going to hand it back to Cody.
+[00:57:59 -> 00:58:00]  Thank you, Mike.
+[00:58:00 -> 00:58:02]  And also thank you to Robert, Neil,
+[00:58:02 -> 00:58:03]  and Nung for joining us today.
+[00:58:04 -> 00:58:06]  So I'd like to remind our audience
+[00:58:06 -> 00:58:07]  that this session was recorded.
+[00:58:07 -> 00:58:09]  You will be receiving an email
+[00:58:09 -> 00:58:11]  with a link to access this recording on demand.
+[00:58:11 -> 00:58:12]  Or of course you can find it
+[00:58:12 -> 00:58:14]  living on the Container Journal website
+[00:58:14 -> 00:58:17]  at containerjournal.com slash webinars.
+[00:58:17 -> 00:58:21]  The four winners of our $25 Amazon gift card drawing
+[00:58:21 -> 00:58:27]  are Fabrice K., Balaji M., Vivian X., and Roshan K.
+[00:58:28 -> 00:58:30]  So to our four winners, congratulations.
+[00:58:30 -> 00:58:33]  Keep an eye on your inbox for that email.
+[00:58:33 -> 00:58:35]  You should be receiving it in about 48 hours.
+[00:58:35 -> 00:58:37]  But if you don't happen to see that email,
+[00:58:37 -> 00:58:40]  do check your spam folder in case it gets filtered out.
+[00:58:41 -> 00:58:44]  And so to everyone who has joined us for the last hour,
+[00:58:44 -> 00:58:45]  thank you for being here.
+[00:58:45 -> 00:58:47]  We really appreciate your time.
+[00:58:47 -> 00:58:50]  There will be a survey that pops up as soon as we close out.
+[00:58:50 -> 00:58:51]  So feel free to fill that out for us
+[00:58:51 -> 00:58:53]  and let us know what you thought about our program
+[00:58:53 -> 00:58:56]  or maybe what you'd like to see on an upcoming program.
+[00:58:56 -> 00:58:58]  But either way, we would like to see everyone
+[00:58:58 -> 00:59:00]  at a future TechStrong learning experience.
+[00:59:00 -> 00:59:02]  Have a great rest of your day.
+[00:59:02 -> 00:59:07]  And to our entire panel, thank you all once more.

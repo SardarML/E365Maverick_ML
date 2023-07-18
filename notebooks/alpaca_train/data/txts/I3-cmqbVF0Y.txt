@@ -1,0 +1,75 @@
+[00:00:00 -> 00:00:09]  Hi und herzlich willkommen bei Lehrer Schmidt. Ich bin in der letzten Woche bei den Wunschvideos
+[00:00:09 -> 00:00:14]  gebeten worden, ob ich nicht mal das Dualsystem oder das Binärsystem erklären kann und wie
+[00:00:14 -> 00:00:20]  man das ins Dezimalsystem, also ins normale Zahlensystem oder in unser Zahlensystem umrechnen
+[00:00:20 -> 00:00:25]  kann. So, das zeige ich euch gerne. Allerdings schaffe ich das tatsächlich nicht in zwei
+[00:00:25 -> 00:00:29]  Minuten, das dauert ein bisschen länger. Dafür, wenn man es einmal verstanden hat,
+[00:00:29 -> 00:00:34]  dann hat man dann aber nicht nur das Dualsystem verstanden, sondern auch andere, weil das
+[00:00:34 -> 00:00:39]  Prinzip, das ist immer das gleiche. Und das hat was mit diesen Hochzahlen zu tun. So,
+[00:00:39 -> 00:00:43]  und wie das genau funktioniert, das zeige ich euch jetzt. Und in ein paar Minuten habt
+[00:00:43 -> 00:00:48]  ihr das verstanden. Also, an die Arbeit. So, obwohl es in diesem Video um das Dual- oder
+[00:00:48 -> 00:00:54]  Binärsystem geht, fangen wir trotzdem mit dem Dezimalsystem, also mit unseren normalen
+[00:00:54 -> 00:00:58]  Zahlensystemen an. Und wir fangen auch in der Grundschule an. Ihr alle kennt noch dieses
+[00:00:58 -> 00:01:07]  hier. Einer, Zehner, Hunderter und Tausender. Und irgendwann in eurer Schulkarriere habt
+[00:01:07 -> 00:01:13]  ihr diese ganzen Zahlen mal aufsortiert. Die Einer, die Zehner, die Hunderter und die Tausender.
+[00:01:13 -> 00:01:18]  Und das brauchen wir heute im Dualsystem wieder. Wir müssen aber noch was aufschreiben.
+[00:01:18 -> 00:01:24]  Und zwar können wir sagen, die Einer oder die Eins, die kann ich darstellen als 10 hoch
+[00:01:24 -> 00:01:34]  0, also als Hochzahl oder Potenzzahl. Und die Zehner, das ist 10 hoch 1. Die Hunderter
+[00:01:34 -> 00:01:41]  ist 10 hoch 2. Und die Tausender, das ist 10 hoch 3. Schreiben wir das nochmal eben
+[00:01:41 -> 00:01:50]  auf. 10 hoch 0, das könnt ihr in den Taschenrechner eingeben, das ist 1. Alles hoch 0 ist immer
+[00:01:50 -> 00:02:09]  1. 10 hoch 1 ist 10. 10 hoch 2, das ist 10 mal 10 und das ist 100. Und 10 hoch 3, das
+[00:02:09 -> 00:02:21]  ist 10 mal 10 mal 10, also eine 1 mit drei Nullen, also 1000. Okay? Soweit, so gut. Und
+[00:02:21 -> 00:02:28]  jetzt schreiben wir mal ein paar Zahlen auf. Alles nur zur Vorbereitung. So, wenn wir die
+[00:02:28 -> 00:02:43]  Zahl 1.237 aufschreiben, dann haben wir 7 Einer, 3 Zehner, 2 Hunderter und 1 Tausender.
+[00:02:43 -> 00:02:53]  Logisch. Nochmal. Wir nehmen die Zahl 1.406. Wie viele Einer haben wir? 6. Wie viele Zehner
+[00:02:53 -> 00:03:03]  haben wir? 0. 4 Hunderter, also Hunderter und 1 Tausender. So, ich glaube, das Prinzip ist klar,
+[00:03:03 -> 00:03:09]  oder? Jetzt merken wir uns noch eine Sache. Und zwar, wenn wir eine Zahl schreiben, wie zum
+[00:03:09 -> 00:03:16]  Beispiel diese hier, 1.406, dann müssten wir eigentlich dazu schreiben, in welchem System wir
+[00:03:16 -> 00:03:22]  das machen. Und wenn wir im Dezimalsystem sind, dann müssten wir hier unten eigentlich eine kleine
+[00:03:22 -> 00:03:28]  10 hinschreiben. Die lassen wir aber weg, weil wir eigentlich immer im Dezimalsystem schreiben. Nur,
+[00:03:28 -> 00:03:34]  damit ihr es mal gesehen habt. Das brauchen wir am Ende für unsere Übungen. So, das kennt ihr
+[00:03:34 -> 00:03:39]  alles und jetzt habt ihr das Grundprinzip gesehen. Und jetzt fangen wir mit dem Dualsystem an. Im
+[00:03:39 -> 00:03:48]  Dualsystem dreht sich alles um Dual, also 2. Die 2, das ist die Basis, um die geht es. Und jetzt
+[00:03:48 -> 00:04:00]  schreiben wir es genauso wie gerade eben auf. 2 hoch 0, 2 hoch 1, 2 hoch 2, 2 hoch 3. Weiter machen
+[00:04:00 -> 00:04:07]  wir mal nicht. So, jetzt könnten wir das Ganze einmal ausrechnen. Nur für uns. Ich nehme mal
+[00:04:07 -> 00:04:23]  eben eine andere Farbe. 2 hoch 0 ist 1. 2 hoch 1 ist 2. 2 hoch 2 ist 2 mal 2, also 4. Und 2 hoch 3
+[00:04:23 -> 00:04:37]  ist 2 mal 2 mal 2, also 8. Okay? Soweit auch ganz einfach. Ich mache kurz den Strich darunter. Und
+[00:04:37 -> 00:04:52]  ihr erinnert euch? Nur noch mal zur Erinnerung. 2 hoch 0 ist 1. 2 hoch 1 ist 2. 2 hoch 2 ist
+[00:04:52 -> 00:05:03]  gleich 2 mal 2 und das ist 4. Und 2 hoch 3 ist gleich 2 mal 2 mal 2. 2 mal 2 ist 4, mal 2 ist 8.
+[00:05:03 -> 00:05:10]  Und so weiter und so weiter. Okay, so. Und im Dualsystem gibt es nur Nullen und Einsen. Und
+[00:05:10 -> 00:05:15]  jetzt fangen wir mal an. Wollen wir die Zahl 1 aufschreiben? Moment, ich mache noch mal einen
+[00:05:15 -> 00:05:25]  Strich. Wenn wir die Zahl 1 aufschreiben wollen, dann müssen wir überlegen, was haben wir hier
+[00:05:25 -> 00:05:33]  zur Auswahl? Die 1, die 2, die 4, die 8. Was brauchen wir also, um eine 1 aufzuschreiben? Wir
+[00:05:33 -> 00:05:37]  brauchen nur diese Stelle. Das heißt, hier setzen wir eine 1 hin und dann könnten wir sagen, hier
+[00:05:37 -> 00:05:44]  ist eine 0, hier ist eine 0, hier ist eine 0. Und im Dezimal- oder Dualsystem wäre jetzt die
+[00:05:44 -> 00:05:55]  Bezeichnung 0 0 0 1 wäre die 1. Schauen wir uns die 2 an. So, da brauchen wir nur dieses hier. Also
+[00:05:55 -> 00:06:07]  könnten wir sagen, 0 1 0 0, das ist die 2. Schauen wir uns die Zahl 7 an. Jetzt müssen wir uns erst
+[00:06:07 -> 00:06:16]  überlegen, wie setzen wir die 7 zusammen? 1 plus 2 sind 3, plus 4 sind 7. Alles klar. Also wir brauchen die
+[00:06:16 -> 00:06:26]  1, wir brauchen die 2, wir brauchen die 4, aber die 8 brauchen wir nicht. Und das ist jetzt immer das
+[00:06:26 -> 00:06:32]  gleiche Prinzip. Das heißt, wir addieren uns die richtigen Zahlen zusammen. Schauen wir mal, ob wir
+[00:06:32 -> 00:06:40]  zusammen die 11 hinkommen. Überlegt mal kurz, wie könnten wir auf 11 kommen? Habt das? Wir nehmen die 1,
+[00:06:40 -> 00:06:54]  tun weiter, die 2 und die 8, macht zusammen 11. Habt das gesehen? Also 1 3, die brauchen wir nicht, aber wir
+[00:06:54 -> 00:07:04]  brauchen die 8. Und im Dualsystem ist 1 0 1 1 eben das gleiche wie 11 im Dezimal-System. So, machen wir noch
+[00:07:04 -> 00:07:20]  einen. 28. So, kriegen wir den auch hin? Habt ihr eine Idee? Überlegen wir mal. Was können wir machen? Also wir
+[00:07:20 -> 00:07:29]  haben zusammen 1 3 7 15. Kommen wir nicht mit hin. Das heißt, wir müssen erweitern. Wir müssten jetzt hier noch
+[00:07:29 -> 00:07:42]  2 hoch 4 haben. Und 2 hoch 4, überlegen wir mal kurz. 2 mal 2 sind 4, mal 2 sind 8, mal 2 sind 16. Ah, okay. So, wie kommen wir
+[00:07:42 -> 00:07:55]  jetzt auf 28? Also 16 und 8 sind 24 und 4 dazu sind 28. Dann haben wir es. Wir brauchen also, dieses brauchen wir nicht,
+[00:07:55 -> 00:08:08]  dieses brauchen wir nicht, aber wir brauchen jetzt 4, 8 und 16. Rechnen wir nochmal nach. 16 plus 8 sind 24, plus 4 sind 28.
+[00:08:08 -> 00:08:25]  Also ist als Dezimalzahl 28 ausgedrückt im Dualsystem 1 1 1 0 0 eben 28. Okay? Jetzt machen wir als nächstes Aufgaben, die gerne in
+[00:08:25 -> 00:08:42]  Mathearbeiten drankommen. In der Mathearbeit gibt es ganz häufig diese Aufgaben hier, wie zum Beispiel, was nehmen wir mal? 0 1 0 0 0. Und da schreibt
+[00:08:42 -> 00:08:50]  ihr dann eine 2 dran. Daran erkennst du, aha, das soll also eine Dualzahl oder eine Binärzahl sein. Und die sollst du jetzt
+[00:08:50 -> 00:09:00]  umwandeln auf die Basis 10, also auf eine Dezimalzahl. So, und jetzt müssen wir wieder überlegen. Und was ich euch immer empfehlen würde, ist, wenn ihr das
+[00:09:00 -> 00:09:14]  nicht so gut im Kopf habt, dann schreibt euch das eben kurz hin. Also, das hier wäre 2 hoch 0 und das wäre eben eine 1. Das hier wäre 2 hoch 1 und das wäre eine 2.
+[00:09:15 -> 00:09:35]  Das hier wäre 2 hoch 2, also eine 4. 2 hoch 3, eine 8. 2 hoch 4, 16. Und jetzt ist es schon wieder ganz einfach. Das heißt also, keine 1, keine 2, keine 4, sondern nur die 8.
+[00:09:35 -> 00:09:51]  Also ist 0 1 0 0 0 im Dualsystem das gleiche wie 8 im Dezimalsystem. Okay? Sonst noch mal kurz zurückspulen und euch die Liste angucken. Noch eine Aufgabe.
+[00:09:52 -> 00:10:13]  0 0 0 1 0. Schreibt der Lehrer wieder die kleine 2 dran. Und der will von dir wissen, was bedeutet das im Dualsystem, ach, im Dezimalsystem. So, und da guckst du wieder. Aha, eine 2. Also eine 2.
+[00:10:14 -> 00:10:28]  Und wenn ihr euch die kleinen Zahlen drüber schreibt, dann ist das eigentlich ganz einfach. So, jetzt machen wir es noch mal richtig kompliziert. Also, dieses Mal haben wir 1 1 1 1 im Dualsystem.
+[00:10:28 -> 00:10:49]  Und jetzt müssen wir gucken. 1 plus 2 sind 3, plus 4 sind 7, plus 8 macht 15 im Dezimalsystem. Und eine letzte Aufgabe noch. 1 0 1 0 1. Die kommt so häufig dran, die Aufgabe.
+[00:10:49 -> 00:11:12]  So, und wenn wir die umwandeln sollen, dann müssen wir gucken. Also, 1 steht für 1. Keine 2, also eine 4 macht zusammen schon mal 5. 1 und 4 sind 5. Keine 8, aber dafür eine 16. 16 und 4 sind 20, plus 1 sind 21. Also 21 im Dezimalsystem.
+[00:11:13 -> 00:11:19]  So, und das Ganze funktioniert natürlich auch andersrum. Das schauen wir uns jetzt an.
+[00:11:20 -> 00:11:38]  Dieses Mal sollst du die 11 im Dezimalsystem ins Dualsystem umwandeln. Und jetzt müssen wir überlegen, was brauchen wir. Also, wir brauchen. Tja, was nehmen wir denn am besten?
+[00:11:38 -> 00:12:04]  Ich schlage vor, wir nehmen die 1, die 2 und die 8. Also, die 1, die 2, dann brauchen wir die 4 nicht, und die 8. Und das sind dann 11. Machen wir noch ein Beispiel. Die 7 im Dezimalsystem.
+[00:12:05 -> 00:12:19]  Dann überlegen wir wieder kurz, aus was besteht die? Und die besteht aus der 1, der 2 und der 4. Also, aus 1, 1, 1 und meinetwegen noch eine 0 davor, aber im Dualsystem.
+[00:12:19 -> 00:12:39]  Und wenn ihr das nicht so schnell im Kopf hinbekommt, ist das überhaupt kein Problem. Ihr schreibt euch dann einfach diese kleine Tabelle eben ins Heft. Und eine letzte Zahl noch. Wir nehmen mal die Zahl 28. Und die Zahl 28, da müssen wir jetzt kurz überlegen, wie kriegen wir die zusammen?
+[00:12:40 -> 00:12:58]  16 plus 8 sind 24, plus 4 sind 28. Also wunderbar. Also 1, 1, 1. Und wir brauchen nicht die 2 und nicht die 1. Und das Ganze im Dualsystem. So, und jetzt sind wir fertig.
+[00:12:59 -> 00:13:08]  Wir haben uns jetzt angeguckt, das Dual- oder Binärsystem. Ich habe euch gezeigt, wie das Ganze aufgebaut wird. Wir haben das mit dem Dezimalsystem verglichen und wir haben es in beide Richtungen umgewandelt.
+[00:13:09 -> 00:13:15]  Wenn ihr das jetzt verstanden habt, dann kann euch in der nächsten Mathearbeit nichts passieren. Okay? Das war's.

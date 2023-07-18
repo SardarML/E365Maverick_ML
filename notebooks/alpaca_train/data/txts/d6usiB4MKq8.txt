@@ -1,0 +1,223 @@
+[00:00:00 -> 00:00:04]  Hello guys, welcome back. This is Adam and in this episode of Azure Fundamentals,
+[00:00:04 -> 00:00:08]  we're covering one of the most important processes when starting with the cloud,
+[00:00:08 -> 00:00:12]  which is cloud adoption and how Microsoft helps us on this journey. Stay tuned.
+[00:00:16 -> 00:00:21]  Today we will learn about cloud adoption framework in the context of Azure platform.
+[00:00:21 -> 00:00:27]  As part of this exam and this episode, you should be able to understand and describe
+[00:00:27 -> 00:00:32]  the key elements of cloud adoption framework and how does it help with the adoption process itself.
+[00:00:33 -> 00:00:37]  Before we move to the framework itself, well, let's start with what cloud adoption is.
+[00:00:38 -> 00:00:42]  Cloud adoption is simply a strategic move by your organization, your company,
+[00:00:42 -> 00:00:47]  in order to leverage cloud in their current business. And this is done simply because
+[00:00:47 -> 00:00:53]  cloud has a lot of things to offer to accelerate your business and allow you to innovate and build
+[00:00:53 -> 00:01:00]  solutions faster, therefore provide more value to your customers. And cloud adoption framework is a
+[00:01:00 -> 00:01:06]  set of tools, best practices, guidelines, and documentation created by Microsoft to help
+[00:01:06 -> 00:01:12]  companies like yours with this journey. This framework is what I will be focusing on today,
+[00:01:12 -> 00:01:19]  but please know that I've spent over 40 hours trying to compress this very lengthy, very complex
+[00:01:19 -> 00:01:26]  process into high-level overview. So sometimes I might oversimplify some topics, but if any topic
+[00:01:26 -> 00:01:32]  will pique your interest during this episode, feel free to dive into the details. I will include a lot
+[00:01:32 -> 00:01:38]  of links in the video description and on my website. That said, let's start with the framework itself.
+[00:01:39 -> 00:01:44]  Cloud adoption framework is divided into stages and the first stage that we'll look at today
+[00:01:44 -> 00:01:51]  is called strategy. Strategy is simply building organizational alignment for moving to the cloud
+[00:01:51 -> 00:01:57]  to begin the cloud adoption. The first step in the strategy is called motivations. During this step,
+[00:01:57 -> 00:02:03]  you want to answer the question, why move? As such, you want to meet with your key stakeholders
+[00:02:03 -> 00:02:09]  and executives in your company to document what are the motivations behind the cloud adoption.
+[00:02:10 -> 00:02:13]  And to do that, you need to understand what are your motivation triggers.
+[00:02:13 -> 00:02:19]  The most common motivation triggers are either migration triggers, so moving your current
+[00:02:19 -> 00:02:25]  infrastructure to the cloud so that you can gain some cost savings, you can reduce the complexity
+[00:02:25 -> 00:02:30]  of your current infrastructure, maybe you want to optimize your current operations or increase
+[00:02:30 -> 00:02:37]  business agility by having more flexible approach to managing infrastructure. Another motivation
+[00:02:37 -> 00:02:43]  trigger is called innovation. In this category, you want to leverage the cloud and its features
+[00:02:43 -> 00:02:50]  to provide some improvements to your company. For example, maybe reaching a global scale or
+[00:02:50 -> 00:02:55]  improving customer experience. Maybe you want to disrupt new markets or create new products and
+[00:02:55 -> 00:03:02]  services. All of those are easier to do if you start using the cloud with all of its features.
+[00:03:03 -> 00:03:08]  Of course, it is up to you to decide which kind of features would be useful to you, your products,
+[00:03:08 -> 00:03:14]  and your customers. Once we understand why move, the next thing that you need to do is so-called
+[00:03:14 -> 00:03:20]  business outcomes. In the business outcomes, you want to answer the question, what to measure? So
+[00:03:20 -> 00:03:27]  what would be your criteria of success that would support your move to the cloud? And this measure
+[00:03:27 -> 00:03:33]  has to be a defined, concise, observable outcome for your company. Typical things might include
+[00:03:33 -> 00:03:40]  an increase in revenue and profit, or a cost reduction, or maybe something more business-oriented
+[00:03:40 -> 00:03:46]  like having a global access and reaching new markets. But it is important that this measure
+[00:03:46 -> 00:03:51]  can be calculated and can be observed so that you can define it and track it. In this process, you
+[00:03:51 -> 00:03:56]  will want to meet with your business leaders from the finance, IT infrastructure, and application
+[00:03:56 -> 00:04:02]  groups. When we know what to measure and why do we move to the cloud, next thing is business
+[00:04:02 -> 00:04:08]  justification. During this step, we need to understand what is my return of investment,
+[00:04:08 -> 00:04:13]  because your company is there to make money, and it is important to track it, and this is what this
+[00:04:13 -> 00:04:18]  step is all about. As part of the business justification, you will want to develop a
+[00:04:18 -> 00:04:23]  business case that will create a financial model that supports both motivations and the outcomes.
+[00:04:24 -> 00:04:30]  So this business justification will use the input from the two previous steps. There are many tools
+[00:04:30 -> 00:04:35]  provided by Microsoft that support you in the process of building this financial model. For
+[00:04:35 -> 00:04:42]  example, a person like a chief financial officer in your company might want to use Azure TCO, which
+[00:04:42 -> 00:04:49]  stands for Total Cost of Ownership Calculator, to calculate the cost of your current on-premise
+[00:04:49 -> 00:04:56]  infrastructure. With Azure Pricing Calculator, you can estimate the monthly cost of Azure infrastructure.
+[00:04:57 -> 00:05:03]  And once you start deploying things to Azure, Azure Cost Management will give you a full visibility
+[00:05:03 -> 00:05:09]  on the existing resources and their cost. Those three tools that you see here will be covered in
+[00:05:09 -> 00:05:14]  more detail in future episodes, but this might be a question on the exam, so make sure to remember
+[00:05:14 -> 00:05:21]  that those are the key elements used in the business justification phase. And lastly, as part
+[00:05:21 -> 00:05:27]  of the strategy, we want to decide on the first project. This first project will help you align
+[00:05:27 -> 00:05:32]  your motivations and technical efforts. And to choose the right first project, you need to follow
+[00:05:32 -> 00:05:39]  two criterias. First criteria is so-called business criteria. In here, you want to find the project
+[00:05:39 -> 00:05:44]  that is first of all currently operating, so the project that is currently working in your company
+[00:05:44 -> 00:05:50]  and has a dedicated owner. But this is very important that this owner and this application
+[00:05:50 -> 00:05:55]  has a strong motivation to move to the cloud because it sees its benefits. This is important
+[00:05:55 -> 00:06:01]  because the engagement of the owner will be very important across every single step of the process.
+[00:06:02 -> 00:06:07]  And additionally, there are technical criteria. You want to find a project that has minimum amount
+[00:06:07 -> 00:06:12]  of dependencies and assets. This is because if you choose a project that is too big, it will take you
+[00:06:12 -> 00:06:19]  too long to validate your strategy. In summary, our first stage strategy is about defining business
+[00:06:19 -> 00:06:24]  justification and the outcomes. Once this stage is completed, we move to the planning phase.
+[00:06:25 -> 00:06:32]  In the planning phase, there are again few steps that we need to follow. The first step is digital
+[00:06:32 -> 00:06:37]  estate. This is so-called inventory of assets. You want to review what you currently have in your
+[00:06:37 -> 00:06:44]  company and what you should do with it. And that decision, that rationalization is so-called
+[00:06:44 -> 00:06:51]  decided based on this five R's of rationalization rule. So for each digital asset that you will find
+[00:06:51 -> 00:07:00]  in your company, you want to assign one R. First, we have rehost. Rehost means that we take existing
+[00:07:00 -> 00:07:07]  application and we move it to the cloud without any changes. This typically means move existing
+[00:07:07 -> 00:07:13]  applications into infrastructure as a service. So deploy this into virtual machine or a container.
+[00:07:13 -> 00:07:19]  Another R is for refactor. So you want to make a small changes to your existing application code
+[00:07:19 -> 00:07:26]  base in order to fit it into existing platform as a service offerings in Azure. For example, if you
+[00:07:26 -> 00:07:32]  have a web application running on a virtual machine and this web application uses SQL Server,
+[00:07:32 -> 00:07:39]  maybe with a little bit changes in your code, you can fit it to Azure App Service and Azure SQL
+[00:07:39 -> 00:07:44]  to take advantage of the platform as a service offering in Azure. Another option is called
+[00:07:44 -> 00:07:51]  re-architect. For the re-architect, you will need to make complex changes to your code base. This is
+[00:07:51 -> 00:07:56]  used if you want to introduce new services in your application. For example, you might see that
+[00:07:56 -> 00:08:01]  a key vault is very good service in Azure and you want to introduce it in your application.
+[00:08:01 -> 00:08:07]  Therefore, you might want to re-architect existing ones to take advantage of those security services
+[00:08:07 -> 00:08:12]  in Azure. But another reason for re-architecture is when your application strongly depends on the
+[00:08:12 -> 00:08:19]  physical infrastructure in your company, so it is incompatible with the cloud. So in short, you use
+[00:08:19 -> 00:08:26]  re-architect to implement new features or fix incompatible applications. Another one is rebuild.
+[00:08:26 -> 00:08:32]  For this rationale, we create application from scratch. This could be also called new. So we look
+[00:08:32 -> 00:08:38]  at existing application, we see that effort of introducing this in the cloud is too big or maybe
+[00:08:38 -> 00:08:44]  the code is too old and we decide to rebuild this from scratch to take full advantage of what cloud
+[00:08:44 -> 00:08:51]  has to offer. And the last one is called replace. In replace, you want to look at every single
+[00:08:51 -> 00:08:57]  application that you have and see what cloud has to offer already. Maybe not only Azure but Office
+[00:08:57 -> 00:09:04]  365 has a lot of software as a service offerings. Maybe there's offering that completely replaces
+[00:09:04 -> 00:09:08]  the functionality that your current application provides, in which case you might want to drop
+[00:09:08 -> 00:09:15]  the current application and take this software as a service offering. So basically, in your company,
+[00:09:15 -> 00:09:20]  go through every project that you have, assign one of those Rs for every project that you can,
+[00:09:21 -> 00:09:28]  and then create a plan out of this. Next step is initial organization alignment. During this,
+[00:09:28 -> 00:09:34]  when the plan is being established, you want to meet with the key stakeholders in your organization
+[00:09:34 -> 00:09:40]  to make sure that everyone is aligned and every key person supports this adoption plan. During this
+[00:09:40 -> 00:09:46]  step, the alignment of people who will make this plan a reality is very important. It is also a
+[00:09:46 -> 00:09:52]  step where you map your people to the capabilities, so you know who should be engaged when. And once
+[00:09:52 -> 00:09:58]  your organization is aligned, you will create skills readiness plan. During this stage, you want
+[00:09:58 -> 00:10:05]  to review your current skill sets in your company and create a plan that will address the gaps,
+[00:10:05 -> 00:10:10]  because in the cloud, you will need to have a lot of new skills in your company across
+[00:10:10 -> 00:10:15]  different teams and different people, and this plan will take care of that. And once you do all
+[00:10:15 -> 00:10:22]  those things, simply put it into so-called cloud adoption plan. This plan will be used to manage
+[00:10:22 -> 00:10:28]  the change across your digital estate, skills, and the organization and the processes. To summarize,
+[00:10:28 -> 00:10:34]  in the planning stage, we want to create actionable plan for our cloud adoption. From there, we move to
+[00:10:34 -> 00:10:41]  the next stage called ready. So readiness stage is all about preparing your first Azure environment.
+[00:10:41 -> 00:10:48]  To do that, you start with Azure setup guide. So you read Azure documentation on how the initial
+[00:10:48 -> 00:10:53]  environment should look like. You want to become familiar with the tools and approaches that
+[00:10:53 -> 00:10:58]  will help you create this first Azure environment. Also, at this stage, you will want to choose
+[00:10:58 -> 00:11:04]  which type of Azure subscription should you use and which is the best for your company. And once
+[00:11:04 -> 00:11:09]  you have everything prepared, you start creating your first Azure environment. This is so-called
+[00:11:09 -> 00:11:15]  Azure landing zone. This will be your first Azure environment. It will be completely created out of
+[00:11:15 -> 00:11:21]  Microsoft guidelines and it will allow you to set up a code base for future improvements.
+[00:11:21 -> 00:11:28]  An advice here is to use infrastructure as a code approach so that everything can be later changed,
+[00:11:28 -> 00:11:34]  expanded, updated, but everything will be consistent and very easy to redeploy if needed.
+[00:11:34 -> 00:11:40]  And once the landing zone is created, you want to extend it even further to match your organizational
+[00:11:40 -> 00:11:46]  needs and allow for the smooth cloud transition. One important thing is that, and this will be
+[00:11:46 -> 00:11:51]  shown across this entire process and a lot of places in Cloud Adoption Framework, is
+[00:11:52 -> 00:11:57]  as you go through those stages, always check the best practices. You just want to be sure that
+[00:11:57 -> 00:12:04]  this initial landing zone and the expansion goes according to the best practices, because later on
+[00:12:04 -> 00:12:11]  it's very hard to change things if you will create bad platform architecture. To summarize the ready
+[00:12:11 -> 00:12:18]  stage, we want to prepare Azure environment. Since we have the plan to adopt the cloud, our next step
+[00:12:18 -> 00:12:23]  is adopt. Because all our previous stages were preparing us to move to the cloud,
+[00:12:23 -> 00:12:29]  adopt is where we start doing that. In the adoption, we again have few steps.
+[00:12:30 -> 00:12:37]  But adoption splits into two separate streams. One is called migrate. When we were talking about
+[00:12:37 -> 00:12:43]  motivations, one of the most common motivation triggers was migrations. And this is why adoption
+[00:12:43 -> 00:12:49]  is also split into migrations and innovations. The first step that you want to do in this stage
+[00:12:49 -> 00:12:56]  is do your first migration. During this step, you want to migrate your first project to the cloud.
+[00:12:56 -> 00:13:01]  This is so that you can read all the guides that Microsoft prepared for the migration paths.
+[00:13:02 -> 00:13:08]  You want to familiarize yourself with the native tools and approaches in Azure that will help you
+[00:13:08 -> 00:13:14]  to do that migration. But the important part here is not only the migration, but also the learning
+[00:13:14 -> 00:13:21]  curve. Because after this first migration, you need to familiarize yourself with a migration scenarios.
+[00:13:21 -> 00:13:25]  When moving to the cloud, you will see that there's plenty of different scenarios, different
+[00:13:25 -> 00:13:30]  workload that needs to be migrated. For example, migrating virtual machines is completely different
+[00:13:30 -> 00:13:37]  from migrating data services, or maybe web applications. Microsoft has plenty guides that
+[00:13:37 -> 00:13:42]  are available for you to use during this process. So you need to familiarize yourself with those
+[00:13:42 -> 00:13:47]  and prepare migration scenarios for your own company. Just like with the previous step,
+[00:13:47 -> 00:13:53]  remember to also check best practices. Because migrating is one thing, but also setting everything
+[00:13:53 -> 00:14:00]  up is another. So make sure that your architectural decision will follow the best practices for each
+[00:14:00 -> 00:14:05]  tool that you decided to use in the tool chain. Because all those tools and decisions that you
+[00:14:05 -> 00:14:10]  make will accelerate other migrations in your own company. That's why it's so important. And lastly,
+[00:14:11 -> 00:14:19]  remember about process improvements. Migration is very process-heavy activity, so it will take a
+[00:14:19 -> 00:14:25]  very long time to migrate everything to the cloud. Therefore, being able to evaluate how your current
+[00:14:25 -> 00:14:30]  migration is going, what are the things that should be improved, is a very important aspect of this
+[00:14:30 -> 00:14:36]  process. And besides migration, you also have innovation. In the innovation part of the adoption
+[00:14:36 -> 00:14:43]  process, you want to make so-called business value consensus. So it's a decision that you need to make
+[00:14:43 -> 00:14:50]  on a technical solution and identify a hypothetical customer need and map it to a business value that
+[00:14:50 -> 00:14:57]  you can provide by building this solution. And then match it and map that value to your cloud strategy.
+[00:14:58 -> 00:15:04]  Once you map this value to a strategy, the next part is the innovation guide. In the innovation
+[00:15:04 -> 00:15:09]  guide, you will decide on the tools that are available in the cloud to accelerate development
+[00:15:09 -> 00:15:16]  of this solution and build this minimum valuable product, MVP. Similarly to migration, remember
+[00:15:16 -> 00:15:22]  about best practices, because your architectural decisions should follow them, because they will
+[00:15:22 -> 00:15:28]  be your solid foundation for the other applications. Again, similarly to migration, remember about
+[00:15:28 -> 00:15:34]  process improvements. You want to go through each iteration where you create this application
+[00:15:34 -> 00:15:40]  to make sure that your customers and your teams provide feedback. In Azure, there's a lot of tools
+[00:15:40 -> 00:15:47]  like Azure DevOps or GitHub, which help you with these processes. In summary, adopt stage is about
+[00:15:47 -> 00:15:54]  implementing existing plan and either migrating or innovating, or maybe both. One thing that I want
+[00:15:54 -> 00:16:01]  to note here is that those three stages, plan, ready, and adopt, are the key stages that define
+[00:16:01 -> 00:16:07]  cloud adoption according to cloud adoption framework. So if there will be a question during
+[00:16:07 -> 00:16:13]  the exam, what are the three main stages that the cloud adoption helps with? Are those three, because
+[00:16:13 -> 00:16:18]  all of the other stages that we'll be talking about are the supporting processes and supporting
+[00:16:18 -> 00:16:24]  stages for this entire framework. Speaking of which, the next two processes that we need to talk
+[00:16:24 -> 00:16:31]  about are governance and management. And those processes span across all those three stages,
+[00:16:31 -> 00:16:37]  because regardless of what is your current stage, you need to start to govern and manage your
+[00:16:37 -> 00:16:44]  environment from the earlier stages until the very end. For the governance and management part, there
+[00:16:44 -> 00:16:50]  are two main things that you need to do. First of all, you need to define what are the governance
+[00:16:50 -> 00:16:57]  solutions. But for the solutions here, remember about three important things. First of all, the
+[00:16:57 -> 00:17:03]  solutions that you decide needs to meet your business needs. But at the same time, they need
+[00:17:03 -> 00:17:08]  to provide the agility so you can easily adopt the cloud. You don't want to constrain yourself.
+[00:17:09 -> 00:17:16]  But while providing the agility, the most important part here is you need to control the risks.
+[00:17:16 -> 00:17:22]  So you need to make sure that your environment will stay compliant and stay secure at all times.
+[00:17:23 -> 00:17:28]  And once the solutions are defined and the platform is ready, you can hand it over to cloud
+[00:17:28 -> 00:17:35]  operations, whose responsibilities are to provide the stability and manage the cost of the platform.
+[00:17:35 -> 00:17:40]  This is very important because those two need to work together, because you want your environment
+[00:17:40 -> 00:17:45]  to be stable, but also you want to control the costs, because you want to meet your business
+[00:17:45 -> 00:17:52]  commitments as part of your financial model. So in summary, governance is about making sure that
+[00:17:52 -> 00:17:58]  your environment stays compliant, it will be controlled and secure, whereas management is about
+[00:17:58 -> 00:18:04]  ongoing operation and optimizations of your current environment. But I want to talk about
+[00:18:04 -> 00:18:11]  one more thing here, which is called organize. It's not a stage per se, but it is an alignment
+[00:18:11 -> 00:18:18]  that needs to go across this entire process. So you need to be sure that across this entire process
+[00:18:18 -> 00:18:24]  people will have assigned roles and responsibilities. This is because this entire cloud adoption
+[00:18:24 -> 00:18:31]  framework will involve a lot of people, a lot of stakeholders, a lot of teams. So you need to make
+[00:18:31 -> 00:18:38]  sure that everyone knows what to do. One of the ways to achieve that is to create this RICI matrix,
+[00:18:38 -> 00:18:44]  which stands for Responsible, Accountable, Consulted and Informed, so that every team knows what to do
+[00:18:44 -> 00:18:49]  and when during this entire process. In the documentation for cloud adoption framework,
+[00:18:49 -> 00:18:55]  every single step is laid out very nicely. You can scroll through this documentation to find this
+[00:18:55 -> 00:19:02]  lifecycle and this diagram that we've been talking about today. And notice that for every single stage
+[00:19:02 -> 00:19:08]  on this diagram, you will find a section on the left-hand side, which goes from the overview, giving
+[00:19:08 -> 00:19:14]  you high-level overview of the current stage, and then goes through each single point that is required
+[00:19:14 -> 00:19:21]  for you to do. There's plenty of links, plenty of guidelines and references to reference architectures
+[00:19:21 -> 00:19:27]  for Azure to help you with this adoption process. Remember that this is a living document, so it'll
+[00:19:27 -> 00:19:32]  be constantly changing. As soon as you will start adopting the cloud for your company, definitely go
+[00:19:32 -> 00:19:38]  back to this document and check it again. To summarize, cloud adoption framework is a set of
+[00:19:38 -> 00:19:45]  tools, best practices, guidelines and documentation prepared by Microsoft to help customers with the
+[00:19:45 -> 00:19:52]  cloud adoption process in the context of Azure platform. This framework is divided into multiple
+[00:19:52 -> 00:19:58]  stages. The first stage is called strategy. During this stage, you want to understand why you want to
+[00:19:58 -> 00:20:04]  move to the cloud and how do you provide the business value from that move. Then you move to
+[00:20:04 -> 00:20:09]  the planning phase, where you prepare actionable plan based on your current digital assets in your
+[00:20:09 -> 00:20:15]  company, so the current project base and current solution base in your company. But also, this plan
+[00:20:15 -> 00:20:22]  needs to support the current strategy. Next stage is called ready. In this stage, you prepare your
+[00:20:22 -> 00:20:28]  Azure environment, so-called Azure landing zone, but you also want to prepare and align both users
+[00:20:28 -> 00:20:35]  and processes in order to start adopting the cloud, because your next stage is adopt. This is the point
+[00:20:35 -> 00:20:42]  where you start adopting moving to the cloud and either migrate, innovate or both. But make sure to
+[00:20:42 -> 00:20:48]  do it based on existing plan, so this is simply an implementation of existing plan created in the
+[00:20:48 -> 00:20:54]  previous stage. As those three stages, plan, ready and adopt are happening, make sure to govern your
+[00:20:54 -> 00:21:01]  Azure environment, so align compliance and security standards, but also the tools that will support
+[00:21:01 -> 00:21:07]  you in this process. But at the same time, make sure to manage your environment, so manage, monitor, but
+[00:21:07 -> 00:21:14]  also optimize the environment, when it comes to stability, but also cost. And the organized part is
+[00:21:14 -> 00:21:19]  not a stage per se, but make sure that everyone knows what to do and when to do it. One of the
+[00:21:19 -> 00:21:26]  best ways to implement that is using RACI matrix. One thing that I didn't mention, because it would
+[00:21:26 -> 00:21:33]  have to be on every single slide and every single point, is that documentation and proper communication
+[00:21:33 -> 00:21:40]  of every single stage here is critical requirement for this process. So make sure that as you move
+[00:21:40 -> 00:21:47]  along, everyone knows what to do and everything is very well documented. Lastly, as I mentioned,
+[00:21:48 -> 00:21:53]  Microsoft Documentation for Cloud Adoption Framework is a living document, that means it
+[00:21:53 -> 00:21:59]  will be constantly changing. Therefore, if you are going through the cloud adoption process in your
+[00:21:59 -> 00:22:05]  company, at every stage, every now and then, make sure to go back there and check if anything has been
+[00:22:05 -> 00:22:11]  changed. Most of the time, the changes are not because something was bad, but because there were
+[00:22:11 -> 00:22:17]  new good practices that were found or maybe new tools that will support you even further. So it
+[00:22:17 -> 00:22:23]  is only advantageous for you to check it out. All the materials for this episode can be found on
+[00:22:23 -> 00:22:29]  episode 33 on my website. But please remember that this episode is just an essence of what cloud
+[00:22:29 -> 00:22:34]  adoption really is. There's plenty more to learn, so if your company is migrating to the cloud,
+[00:22:34 -> 00:22:40]  definitely check the available documentation and available tools. If you like my work, if you like
+[00:22:40 -> 00:22:50]  those tutorials, support the channel by subscribing. And as always, see you in the next one.

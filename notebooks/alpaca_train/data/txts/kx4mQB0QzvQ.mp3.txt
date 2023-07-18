@@ -1,0 +1,84 @@
+[00:00:00 -> 00:00:10]  Hi, this is Tom from ZeroToFinals.com. In this video I'm going to be talking about vertigo
+[00:00:10 -> 00:00:16]  and specifically trying to understand the causes of vertigo. Vertigo is a descriptive
+[00:00:16 -> 00:00:21]  term for a sensation that there's movement between the patient and their environment.
+[00:00:21 -> 00:00:26]  So they may describe that they're moving or that the room is moving and often this is
+[00:00:26 -> 00:00:31]  a horizontal spinning sensation, similar to the sensation you'd get when spinning on a
+[00:00:31 -> 00:00:37]  swing and then abruptly stopping and the environment continues to feel like it's moving around
+[00:00:37 -> 00:00:44]  you. Vertigo is often associated with nausea, vomiting, maybe a sweating sensation and generally
+[00:00:44 -> 00:00:53]  feeling unwell. So let's go through the pathophysiology of vertigo. Vertigo is caused by a mismatch
+[00:00:53 -> 00:00:59]  between the sensory inputs that are responsible for maintaining your posture and these inputs
+[00:00:59 -> 00:01:07]  are vision from your eyes, proprioception from your joints and signals from the vestibular
+[00:01:07 -> 00:01:13]  system. The vestibular system is the most important sensory system to understand when
+[00:01:13 -> 00:01:24]  we're learning about vertigo. The vestibular apparatus is located on the inner ear. It
+[00:01:24 -> 00:01:30]  consists of three loops called the semicircular canals that are filled with a fluid called
+[00:01:30 -> 00:01:38]  endolymph. These semicircular canals are oriented in different directions to detect different
+[00:01:38 -> 00:01:48]  movements of the head. So as the head turns, the fluid shifts within the canals. This shift
+[00:01:48 -> 00:01:54]  in fluid is detected by small hairs called stereocilia that are found in a section of
+[00:01:54 -> 00:02:01]  the canals called the ampulla. This sensory input of shifting fluid is transmitted to
+[00:02:01 -> 00:02:07]  the brain by the vestibular nerve and it lets the brain know that the head is moving in
+[00:02:07 -> 00:02:13]  a particular direction. So essentially this vestibular system is important for detecting
+[00:02:13 -> 00:02:18]  movement of the head. The vestibular nerve carries signals from the vestibular apparatus
+[00:02:18 -> 00:02:25]  to the vestibular nucleus in the brainstem and also to the cerebellum. The vestibular
+[00:02:25 -> 00:02:32]  nucleus then sends signals to the oculomotor, the trochlear and abducens nuclei which are
+[00:02:32 -> 00:02:38]  responsible for controlling eye movements and also to the thalamus, the spinal cord
+[00:02:38 -> 00:02:44]  and the cerebellum. The cerebellum is responsible for coordinating movement throughout the body.
+[00:02:44 -> 00:02:51]  So therefore the vestibular signals help the central nervous system coordinate eye movements
+[00:02:51 -> 00:02:58]  and movements throughout the body. Vertigo can be caused by either a peripheral problem
+[00:02:58 -> 00:03:04]  usually affecting the vestibular system or by a central problem usually affecting the
+[00:03:04 -> 00:03:10]  brainstem or the cerebellum. So first let's talk about vestibular problems and there's
+[00:03:10 -> 00:03:16]  a number of vestibular causes of vertigo. The three most common causes to be familiar
+[00:03:16 -> 00:03:24]  with are benign paroxysmal positional vertigo, Meniere's disease and vestibular neuritis.
+[00:03:25 -> 00:03:32]  First let's talk about benign paroxysmal positional vertigo or BPPV. This is caused
+[00:03:32 -> 00:03:39]  by crystals of calcium carbonate which are called otoconia that become displaced into
+[00:03:39 -> 00:03:47]  the semicircular canals. They may be displaced by a viral infection, head trauma, ageing
+[00:03:47 -> 00:03:52]  or without any clear cause at all. These crystals disrupt the normal flow through the canals
+[00:03:52 -> 00:03:58]  and therefore disrupt the function of the system. The symptoms are usually positional
+[00:03:58 -> 00:04:04]  because movement is required to confuse the system and when the patient becomes completely
+[00:04:04 -> 00:04:10]  still there's no disruption to that movement of fluid so they're symptom free. Therefore
+[00:04:10 -> 00:04:14]  the attacks of vertigo are triggered by movement and they can last around a minute before the
+[00:04:14 -> 00:04:21]  symptoms settle. Often symptoms occur over several weeks and then resolve but they can
+[00:04:21 -> 00:04:27]  reoccur weeks or months later. A special test called the Hall-Pike manoeuvre can be
+[00:04:27 -> 00:04:33]  used to diagnose BPPV. Next let's talk about Meniere's disease and this is thought to be
+[00:04:33 -> 00:04:39]  caused by an excessive build up of endolymph in the semicircular canals causing a higher
+[00:04:39 -> 00:04:45]  pressure than normal which disrupts the sensory signals. It causes attacks of hearing loss,
+[00:04:45 -> 00:04:52]  tinnitus, vertigo and a sensation of fullness in the ear. These attacks typically last several
+[00:04:52 -> 00:04:58]  hours before they settle down and it often occurs in middle-aged adults and is not associated
+[00:04:58 -> 00:05:05]  with movement so the symptoms are not positional. Patients will have spontaneous nystagmus during
+[00:05:05 -> 00:05:11]  the attacks where the eyes flicker backwards and forwards. Over time the patient's hearing
+[00:05:11 -> 00:05:17]  will gradually deteriorate between attacks. Finally let's talk about acute vestibular
+[00:05:17 -> 00:05:24]  neuronitis which describes inflammation of the vestibular nerve and this is usually attributed
+[00:05:24 -> 00:05:30]  to a viral infection. However it can occur without any other symptoms of the viral infection.
+[00:05:30 -> 00:05:35]  The disruption to the function of vestibular nerve leads to a mismatch in signals to the
+[00:05:35 -> 00:05:42]  brain causing vertigo. Usually the history is of an acute onset vertigo that lasts for
+[00:05:42 -> 00:05:48]  several weeks before gradually resolving. There are several other peripheral causes
+[00:05:48 -> 00:05:55]  of nystagmus and these are trauma to the vestibular nerve, vestibular nerve tumours, particularly
+[00:05:55 -> 00:06:03]  acoustic neuromas, otosclerosis, hyperviscosity syndromes and herpes zoster infection which
+[00:06:03 -> 00:06:07]  often occurs with facial nerve weakness and vesicles around the ear which is known as
+[00:06:07 -> 00:06:15]  Ramsey-Hunt syndrome. Next let's talk about central causes of vertigo. Pathology that
+[00:06:15 -> 00:06:21]  affects the cerebellum or the brainstem disrupts the signals from the vestibular system and
+[00:06:21 -> 00:06:27]  causes vertigo. The most common cause of pathology that results in a central cause of vertigo
+[00:06:27 -> 00:06:35]  are posterior circulation infarction which is basically a stroke in this area, tumours,
+[00:06:35 -> 00:06:42]  multiple sclerosis and vestibular migraine. All of the central causes of vertigo will
+[00:06:42 -> 00:06:49]  cause a sustained non-positional vertigo because they aren't caused by disruption to the movement
+[00:06:49 -> 00:06:54]  of fluid within the semicircular canals, they're caused by disruption to the interpretation
+[00:06:54 -> 00:06:59]  of signals within the central nervous system itself. First let's talk about posterior
+[00:06:59 -> 00:07:06]  circulation infarction and these patients will have a sudden onset of vertigo that may
+[00:07:06 -> 00:07:14]  be associated with other symptoms such as ataxia, diplopia or double vision, other cranial
+[00:07:14 -> 00:07:21]  nerve defects or limb weakness. Tumours in the cerebellum or the brainstem will have
+[00:07:21 -> 00:07:29]  a gradual onset with associated symptoms of cerebellar or brainstem dysfunction. Multiple
+[00:07:29 -> 00:07:36]  sclerosis may cause relapsing and remitting symptoms with other features of MS such as
+[00:07:36 -> 00:07:43]  optic neuritis or transverse myelitis. And vestibular migraine will cause symptoms that
+[00:07:43 -> 00:07:51]  last minutes to hours often associated with visual aura and a headache. So finally a brief
+[00:07:51 -> 00:07:57]  summary of the causes of vertigo. The top peripheral causes to remember are benign paroxysmal
+[00:07:57 -> 00:08:04]  positional vertigo, Meniere's disease and acute vestibular neuronitis. And the top central
+[00:08:04 -> 00:08:12]  causes to remember are posterior circulation infarction, tumours in the cerebellum or brainstem,
+[00:08:12 -> 00:08:20]  multiple sclerosis and vestibular migraine. Thanks for watching this video. If you found
+[00:08:20 -> 00:08:25]  it helpful please consider giving it a thumbs up and subscribing to follow the channel and
+[00:08:25 -> 00:08:30]  find out as more videos come out. You can also find written notes with illustrations
+[00:08:30 -> 00:08:36]  on the Xerodefinals website at xerodefinals.com and on the website you can also find a podcast
+[00:08:36 -> 00:08:41]  that can help you learn on the go, questions to test your knowledge and the Xerodefinals
+[00:08:41 -> 00:08:46]  books. Follow the link in the description to pick up a copy of the Xerodefinals medicine
+[00:08:46 -> 00:08:52]  book. It contains detailed and concise notes on 10 specialties in medicine and it's designed
+[00:08:52 -> 00:08:57]  specifically to contain the key facts and guidelines you need to know for your medical
+[00:08:57 -> 00:09:01]  exams. With mnemonics and tom tips to help you learn exactly what you need to know for
+[00:09:01 -> 00:09:05]  your exams without all the hassle. Follow the links to find out more.

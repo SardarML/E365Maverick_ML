@@ -1,0 +1,175 @@
+[00:00:00 -> 00:00:02]  12 steps of construction.
+[00:00:02 -> 00:00:05]  Once the construction drawings and other related documents
+[00:00:05 -> 00:00:06]  have been completed and approved
+[00:00:06 -> 00:00:09]  by the authority and jurisdiction,
+[00:00:09 -> 00:00:11]  the project will then be awarded to a contractor
+[00:00:11 -> 00:00:13]  by the client through a consultant.
+[00:00:13 -> 00:00:15]  In this period, the construction
+[00:00:15 -> 00:00:17]  of the proposed project will begin.
+[00:00:17 -> 00:00:21]  Construction can be summarized into 12 stages.
+[00:00:21 -> 00:00:23]  One, clearing of the ground.
+[00:00:23 -> 00:00:25]  To begin the actual construction,
+[00:00:25 -> 00:00:27]  the clearing of the ground from where the location
+[00:00:27 -> 00:00:29]  of the project will be built
+[00:00:29 -> 00:00:30]  is the first thing to consider.
+[00:00:30 -> 00:00:32]  The construction personnel task
+[00:00:32 -> 00:00:33]  is to free the construction site
+[00:00:33 -> 00:00:35]  for any obstruction and debris
+[00:00:35 -> 00:00:38]  that may obstruct and delay the construction.
+[00:00:38 -> 00:00:41]  The temporary facilities such as engineer's office,
+[00:00:41 -> 00:00:43]  labor's quarter, material storage room,
+[00:00:43 -> 00:00:45]  temporary water, and electric supplies
+[00:00:45 -> 00:00:48]  and other related facilities should also be constructed
+[00:00:48 -> 00:00:50]  prior to the start of work.
+[00:00:50 -> 00:00:53]  A site perimeter fence should also be constructed
+[00:00:53 -> 00:00:54]  during this period.
+[00:00:54 -> 00:00:57]  Two, site layout and staking.
+[00:00:57 -> 00:01:00]  This activity involves the setting of the reference points
+[00:01:00 -> 00:01:02]  in a form of construction grid lines
+[00:01:02 -> 00:01:04]  and marking off the gate level.
+[00:01:04 -> 00:01:06]  This is performed to ensure that the grids
+[00:01:06 -> 00:01:09]  have been set up on site according to approved plans.
+[00:01:09 -> 00:01:11]  The reference point should be marked properly
+[00:01:11 -> 00:01:13]  and should not be disturbed
+[00:01:13 -> 00:01:15]  throughout the course of the construction.
+[00:01:15 -> 00:01:17]  Grid lines according to the approved drawing
+[00:01:17 -> 00:01:19]  should be layout prior to construction.
+[00:01:19 -> 00:01:22]  Depending on the complexity and size of the project,
+[00:01:22 -> 00:01:24]  the construction grids can be layout
+[00:01:24 -> 00:01:26]  through the use of theodolite
+[00:01:26 -> 00:01:28]  or related surveying instruments.
+[00:01:28 -> 00:01:30]  A more traditional way of the layout
+[00:01:30 -> 00:01:32]  of the construction grid is popular to use
+[00:01:32 -> 00:01:34]  for small projects as through staking
+[00:01:34 -> 00:01:36]  using batter board and strings.
+[00:01:36 -> 00:01:38]  Batter board are temporary wooden frames
+[00:01:38 -> 00:01:41]  used to suspend the strings.
+[00:01:41 -> 00:01:43]  The strings are the representation of the grid lines
+[00:01:43 -> 00:01:47]  at X and Y directions according to approved plans.
+[00:01:47 -> 00:01:49]  These will serve as a guide throughout the construction,
+[00:01:49 -> 00:01:51]  so it is important to fix a reference line
+[00:01:51 -> 00:01:53]  in both directions to be used
+[00:01:53 -> 00:01:54]  once the grids have been placed
+[00:01:54 -> 00:01:56]  when needed in the construction.
+[00:01:56 -> 00:01:58]  Three, excavation.
+[00:01:58 -> 00:02:00]  Once the layouts of construction points
+[00:02:00 -> 00:02:02]  and grid lines have been completed,
+[00:02:02 -> 00:02:04]  the excavation works begin.
+[00:02:04 -> 00:02:07]  The excavation depth depends on the recommendation
+[00:02:07 -> 00:02:09]  by the soil investigation report,
+[00:02:09 -> 00:02:12]  but it is safe to say that the minimum excavation level
+[00:02:12 -> 00:02:14]  for the footing to rest should stick to one meter
+[00:02:14 -> 00:02:18]  below the gate level or the 0.00 level.
+[00:02:18 -> 00:02:20]  Excavation works is a massive activity,
+[00:02:20 -> 00:02:22]  therefore a proper caution should be observed
+[00:02:22 -> 00:02:24]  during this stage.
+[00:02:25 -> 00:02:26]  In the event that the excavation needed
+[00:02:26 -> 00:02:28]  is along with the neighbor's existing structure
+[00:02:28 -> 00:02:31]  exceeding 1.20 meter from your proposed level,
+[00:02:31 -> 00:02:34]  then shoring support is recommended.
+[00:02:34 -> 00:02:37]  Four, compacting and laying of PCC.
+[00:02:37 -> 00:02:39]  Compacting of the excavated surface
+[00:02:39 -> 00:02:43]  should perform once we reach the desired excavation level.
+[00:02:43 -> 00:02:45]  A layer of crushed gravel is then to be added
+[00:02:45 -> 00:02:47]  during the compacting.
+[00:02:47 -> 00:02:49]  In a standard compaction procedure,
+[00:02:49 -> 00:02:51]  the final compacted layer should be checked
+[00:02:51 -> 00:02:54]  in order to reach the desired degree of compaction
+[00:02:54 -> 00:02:58]  to not less than 95% of the maximum dry density.
+[00:02:58 -> 00:03:00]  It is then in this stage that an anti-termite treatment
+[00:03:00 -> 00:03:03]  on the ground should also be considered.
+[00:03:03 -> 00:03:06]  The laying of PCC or plain concrete cement
+[00:03:06 -> 00:03:09]  should follow afterward in preparation for rebar works.
+[00:03:09 -> 00:03:12]  PCC is usually composed of a 10 millimeters
+[00:03:12 -> 00:03:14]  thick lean concrete for the footing rebar
+[00:03:14 -> 00:03:16]  to be laid evenly level.
+[00:03:16 -> 00:03:20]  Five, foundation rebar and column starter bars.
+[00:03:20 -> 00:03:23]  Once the laying of PCC has been set up,
+[00:03:23 -> 00:03:24]  the rebar works for foundation
+[00:03:24 -> 00:03:28]  and any foundation beams are the next activity.
+[00:03:28 -> 00:03:30]  In this stage, the reinforcement of foundations
+[00:03:30 -> 00:03:33]  is being prepared according to the structural schedule
+[00:03:33 -> 00:03:35]  along with its formworks.
+[00:03:35 -> 00:03:37]  The proper and standard concrete cover
+[00:03:37 -> 00:03:39]  should be observed during this procedure.
+[00:03:39 -> 00:03:42]  Starter bars for columns should also be installed
+[00:03:42 -> 00:03:44]  accordingly before concrete pouring.
+[00:03:44 -> 00:03:47]  Six, concreting of foundations
+[00:03:47 -> 00:03:48]  and column rebar installation.
+[00:03:48 -> 00:03:51]  Concreting of foundations has to come next
+[00:03:51 -> 00:03:53]  after the rebar works.
+[00:03:53 -> 00:03:55]  The concrete to be poured should be properly vibrated
+[00:03:55 -> 00:03:58]  for the concrete especially the aggregates
+[00:03:58 -> 00:04:00]  to fully spread into the footing.
+[00:04:00 -> 00:04:02]  Installation of column reinforcement
+[00:04:02 -> 00:04:04]  on the previously installed column starter bars
+[00:04:04 -> 00:04:06]  should be continued.
+[00:04:06 -> 00:04:08]  A proper concrete cover should consider
+[00:04:08 -> 00:04:10]  before closing the formworks.
+[00:04:10 -> 00:04:13]  For substructure columns, an additional concrete cover
+[00:04:13 -> 00:04:16]  of at least 50 millimeters has to be considered
+[00:04:16 -> 00:04:18]  up to plinth level to protect the rebar
+[00:04:18 -> 00:04:21]  for possible corrosion due to sulfate attack.
+[00:04:21 -> 00:04:24]  Seven, concreting of column and bitumen paint applications
+[00:04:24 -> 00:04:28]  once the concreting of stub columns has been completed.
+[00:04:28 -> 00:04:30]  Give time for the concrete to dry completely
+[00:04:30 -> 00:04:32]  and apply at least two coats of bitumen paint
+[00:04:32 -> 00:04:35]  for both footing and stub columns.
+[00:04:35 -> 00:04:37]  Bitumen paint helps in absorbing moisture
+[00:04:37 -> 00:04:39]  due to the soil to prevent seepage
+[00:04:39 -> 00:04:41]  into the substructure concrete.
+[00:04:41 -> 00:04:44]  Eight, setting up perimeter blocks.
+[00:04:44 -> 00:04:46]  Install solid blocks along the perimeter
+[00:04:46 -> 00:04:49]  or the edge of the proposed project.
+[00:04:49 -> 00:04:51]  This is to establish a boundary between the inside
+[00:04:51 -> 00:04:54]  and outside edges of the project.
+[00:04:54 -> 00:04:56]  It is also helpful when the difference
+[00:04:56 -> 00:04:59]  of inside floor finish level to outside pavement
+[00:04:59 -> 00:05:01]  or ground level is significant.
+[00:05:01 -> 00:05:04]  Two coats of bitumen paints should also apply afterward.
+[00:05:04 -> 00:05:07]  In some cases, perimeter blocks are optional
+[00:05:07 -> 00:05:10]  especially for areas where the soil characteristics
+[00:05:10 -> 00:05:11]  are too firm.
+[00:05:11 -> 00:05:14]  Nine, backfilling and compacting.
+[00:05:14 -> 00:05:16]  Once the substructures like foundation structures
+[00:05:16 -> 00:05:19]  including the solid blocks have been installed completed,
+[00:05:19 -> 00:05:22]  backfilling and compacting should take place.
+[00:05:22 -> 00:05:25]  Backfilling and compacting should be done partially
+[00:05:25 -> 00:05:27]  to make sure that the required degree of compacting
+[00:05:27 -> 00:05:30]  has been met until reaching the bottom of the tie beam level.
+[00:05:30 -> 00:05:35]  10, tie beam reinforcement, grade slap, and concreting.
+[00:05:35 -> 00:05:38]  Preparation and installing the tie beam reinforcement
+[00:05:38 -> 00:05:41]  as per the approved drawing is the next step to consider
+[00:05:41 -> 00:05:43]  after the backfilling and compacting.
+[00:05:43 -> 00:05:45]  Formworks with standard concrete cover
+[00:05:45 -> 00:05:48]  are also included in this stage.
+[00:05:48 -> 00:05:50]  Once the reinforcement works have been completed,
+[00:05:50 -> 00:05:52]  we can start the concreting.
+[00:05:52 -> 00:05:55]  Installing of grade slab mesh and concrete work
+[00:05:55 -> 00:05:56]  is then to be followed.
+[00:05:56 -> 00:06:00]  11, rebar works and concreting of columns.
+[00:06:00 -> 00:06:03]  At this stage, the substructure component of our project
+[00:06:03 -> 00:06:05]  has been completed.
+[00:06:05 -> 00:06:07]  It is now time for the project to go up.
+[00:06:07 -> 00:06:10]  The next thing to consider is the rebar works,
+[00:06:10 -> 00:06:14]  shuttering or formworks and concreting to be done.
+[00:06:14 -> 00:06:16]  Prior to concreting, we see to it that the columns
+[00:06:16 -> 00:06:18]  follow the structural schedule.
+[00:06:18 -> 00:06:21]  The formworks should be vertically level and a standard.
+[00:06:21 -> 00:06:23]  Concrete cover has to maintain
+[00:06:23 -> 00:06:25]  prior to the closing of forms.
+[00:06:25 -> 00:06:28]  12, beam and slab works.
+[00:06:28 -> 00:06:31]  Once the ground floor columns have been cast,
+[00:06:31 -> 00:06:33]  it is time to prepare the project for beams
+[00:06:33 -> 00:06:36]  and suspended slab reinforcement activity.
+[00:06:36 -> 00:06:38]  Like any other structural members,
+[00:06:38 -> 00:06:42]  beams and slab reinforcement should be followed strictly.
+[00:06:42 -> 00:06:44]  Shuttering or formworks for slab and beams
+[00:06:44 -> 00:06:45]  should be properly anchored
+[00:06:45 -> 00:06:48]  and checked prior to concrete pouring.
+[00:06:48 -> 00:06:51]  Step 11 can be repeated accordingly until such time
+[00:06:51 -> 00:06:53]  that the structural frame or the core and shell
+[00:06:53 -> 00:06:55]  of the structure has been completed.
+[00:06:55 -> 00:06:59]  The architectural finishing works are then be followed.
+[00:06:59 -> 00:07:00]  Thanks for watching.
+[00:07:00 -> 00:07:02]  Please subscribe for more.

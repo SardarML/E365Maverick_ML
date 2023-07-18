@@ -1,0 +1,128 @@
+[00:00:00 -> 00:00:01]  Was ist die Ableitung?
+[00:00:01 -> 00:00:04]  Und noch wichtiger, wie macht man die Ableitung?
+[00:00:04 -> 00:00:08]  Falls euch mindestens eine von den beiden Fragen beschäftigt, dann seid ihr hier genau
+[00:00:08 -> 00:00:09]  richtig.
+[00:00:09 -> 00:00:19]  Toll wär's hier überhaupt mal zu wissen, was zum Ersch ist eigentlich eine Ableitung.
+[00:00:19 -> 00:00:22]  Wir fangen deshalb mal ganz vorne an.
+[00:00:22 -> 00:00:23]  Also fast.
+[00:00:23 -> 00:00:25]  Jan ist mit Kumpels unterwegs.
+[00:00:25 -> 00:00:28]  Sie fahren einen ziemlich krassen Berg hoch.
+[00:00:28 -> 00:00:30]  Jo, da haben die Motoren ziemlich was zu schaffen.
+[00:00:30 -> 00:00:31]  Aber warum denn?
+[00:00:31 -> 00:00:36]  Logisch, weil's steil hoch geht und nicht einfach topfeben ist.
+[00:00:36 -> 00:00:40]  Würde Jan ne Wasserwaage nehmen, würde die ihm direkt den Mittelfinger zeigen, wenn sie
+[00:00:40 -> 00:00:41]  könnte.
+[00:00:41 -> 00:00:43]  Unmöglich, dass da die Blase in der Mitte bleibt.
+[00:00:43 -> 00:00:46]  Aber wie steil ist denn steil eigentlich?
+[00:00:46 -> 00:00:48]  Jan hat gerade erst ne Mathe-Klausur geschrieben.
+[00:00:48 -> 00:00:53]  Deshalb hat er noch voll die Mathe im Kopf und sieht den Berghang direkt als Funktion
+[00:00:53 -> 00:00:54]  vor sich.
+[00:00:54 -> 00:00:59]  Fällt auf, die Steigung von der Funktion wird immer größer, je weiter sie nach rechts
+[00:00:59 -> 00:01:00]  fahren.
+[00:01:00 -> 00:01:05]  Kann er jetzt irgendwie ausrechnen, wie steil es genau da ist, wo sie gerade fahren?
+[00:01:05 -> 00:01:08]  Jap, kann er, mit der Ableitung, weil?
+[00:01:08 -> 00:01:11]  Die Ableitung ist in Mathe die Steigung von der Funktion.
+[00:01:11 -> 00:01:15]  Die gibt also an jeder Stelle an, wie steil es gerade ist.
+[00:01:15 -> 00:01:18]  Schreiben tut man die mit dem gleichen Namen wie die Funktion.
+[00:01:18 -> 00:01:20]  Nur mit so nem Strich dran.
+[00:01:20 -> 00:01:21]  Hier also F-Strich.
+[00:01:22 -> 00:01:26]  Eine kleine Sache am Rand, wenn die Funktion höher wird, wenn man nach rechts geht, dann
+[00:01:26 -> 00:01:28]  hat man ne positive Steigung.
+[00:01:28 -> 00:01:32]  Wenn die Funktionswerte kleiner, je weiter man nach rechts läuft, dann ist die Steigung
+[00:01:32 -> 00:01:33]  negativ.
+[00:01:33 -> 00:01:38]  Wichtig also immer, was macht die Funktion, wenn man nach rechts schaut auf der X-Achse?
+[00:01:38 -> 00:01:41]  Ja, dann direkt zur zweiten Frage.
+[00:01:41 -> 00:01:43]  Wie rechnet man die Ableitung denn überhaupt aus?
+[00:01:43 -> 00:01:46]  Da gibt's, mega geil, feste Regeln.
+[00:01:46 -> 00:01:48]  Wenn ihr die könnt, geht's immer gleich.
+[00:01:48 -> 00:01:52]  Wir gucken uns jetzt mal die absoluten Basics an.
+[00:01:52 -> 00:01:54]  Mehr Regeln gibt's dann in den nächsten Videos.
+[00:01:54 -> 00:01:57]  Ein Beispiel ist zum Beispiel 3x hoch 2.
+[00:01:57 -> 00:01:59]  Die Funktion sieht so aus.
+[00:01:59 -> 00:02:02]  Wenn man von links nach rechts geht, geht's erstmal runter.
+[00:02:02 -> 00:02:04]  Dann ist es bei der 0 komplett flach.
+[00:02:04 -> 00:02:06]  Und geht dann wieder hoch.
+[00:02:06 -> 00:02:11]  Aber wie berechnet man jetzt die Steigung genau, also die Ableitung F-Strich von x?
+[00:02:11 -> 00:02:15]  Die Regel ist, zuerst schaut man, welche Hochzahl beim x oben steht.
+[00:02:15 -> 00:02:17]  Wäre hier die 2.
+[00:02:17 -> 00:02:19]  Die schreibt ihr vor das x.
+[00:02:19 -> 00:02:20]  Hä?
+[00:02:20 -> 00:02:22]  Aber da steht doch schon ne 3.
+[00:02:22 -> 00:02:27]  Wenn wie hier ne Vorzahl vor dem x ist, dann lasst ihr die Zahl vor dem x stehen.
+[00:02:27 -> 00:02:30]  Und nehmt die alte Hochzahl nochmal dem ganzen.
+[00:02:30 -> 00:02:33]  Jetzt macht man von dem x die Hochzahl 1 kleiner.
+[00:02:33 -> 00:02:35]  Dann kann man das noch zusammenfassen.
+[00:02:35 -> 00:02:37]  Damit's schöner aussieht und so.
+[00:02:37 -> 00:02:39]  x hoch 1 ist einfach x.
+[00:02:39 -> 00:02:41]  Da braucht ihr die hoch 1 nicht immer dazuschreiben.
+[00:02:41 -> 00:02:45]  Die Ableitung von 3x hoch 2 ist also 6x.
+[00:02:45 -> 00:02:48]  Hier haben wir mal die beiden Funktionen nebeneinander gezeichnet.
+[00:02:48 -> 00:02:50]  Links die normale Funktion.
+[00:02:50 -> 00:02:52]  Und rechts die Ableitung.
+[00:02:52 -> 00:02:56]  Man sieht gut, links von der 0 geht es runter bei der normalen Funktion.
+[00:02:56 -> 00:02:59]  Man würde also sagen, die Steigung ist hier Minus.
+[00:02:59 -> 00:03:03]  Die Steigung haben wir am rechten Bild eingezeichnet.
+[00:03:03 -> 00:03:06]  Und Tatsache, die ist tatsächlich negativ.
+[00:03:06 -> 00:03:11]  Es wird jetzt immer flacher im linken Bild, also die Steigung wird immer weniger Minus.
+[00:03:11 -> 00:03:12]  Und stimmt wieder.
+[00:03:12 -> 00:03:14]  Das sieht man auch im rechten Bild.
+[00:03:15 -> 00:03:18]  Bei der 0 ist es dann mal ganz kurz sogar komplett flach.
+[00:03:18 -> 00:03:20]  Die Steigung ist hier 0.
+[00:03:20 -> 00:03:22]  Passt auch wieder zum rechten Bild.
+[00:03:22 -> 00:03:26]  Und wenn ihr noch nicht überzeugt seid, rechts geht's bei der normalen Funktion ja wieder
+[00:03:26 -> 00:03:28]  hoch, also wird die Steigung immer größer.
+[00:03:28 -> 00:03:31]  Auch das sieht man im rechten Bild.
+[00:03:31 -> 00:03:35]  Verdammt leicht ist es, wenn die Funktion einfach was ohne x ist.
+[00:03:35 -> 00:03:37]  Also zum Beispiel f von x gleich 5.
+[00:03:37 -> 00:03:39]  Dann ist die Ableitung nämlich einfach 0.
+[00:03:39 -> 00:03:43]  Macht auch Sinn, die Funktion ist ja einfach die ganze Zeit flach.
+[00:03:43 -> 00:03:46]  Weil y egal für welches x immer 5 ist.
+[00:03:46 -> 00:03:48]  Hat also eine Steigung von 0.
+[00:03:48 -> 00:03:50]  Nochmal zum Mitschreiben.
+[00:03:50 -> 00:03:52]  Zuerst zieht man die Hochzahl vor.
+[00:03:52 -> 00:03:55]  Wenn da schon eine Zahl steht, schreibt man sie einfach da davor.
+[00:03:55 -> 00:03:57]  Und dann verringert man die Hochzahl.
+[00:03:57 -> 00:04:01]  Wenn kein x in der Funktion vorkommt, dann ist die Ableitung 0.
+[00:04:01 -> 00:04:04]  Zwei Sachen, auf die ihr jetzt noch achten müsst.
+[00:04:04 -> 00:04:07]  Erstens, x ist ja x hoch 1.
+[00:04:07 -> 00:04:10]  Gibt dann abgeleitet, Hochzahl nach vorne, Hochzahl minus 1.
+[00:04:10 -> 00:04:13]  Gibt also insgesamt x hoch 0.
+[00:04:13 -> 00:04:17]  x hoch 0 ist 1, weil alles hoch 0, 1 ist.
+[00:04:17 -> 00:04:20]  Haben wir auch mal ein Video dazu gemacht, falls es jemanden interessiert.
+[00:04:20 -> 00:04:23]  Heißt also, x abgeleitet gibt 1.
+[00:04:23 -> 00:04:25]  Noch ne wichtige Sache.
+[00:04:25 -> 00:04:28]  2x hoch minus 1 zum Beispiel.
+[00:04:28 -> 00:04:30]  Da könnt ihr wieder das gleiche machen.
+[00:04:30 -> 00:04:33]  Hochzahl ganz vorschreiben und um 1 kleiner machen.
+[00:04:33 -> 00:04:37]  Da sind wir jetzt bei ner Sache, die man oft mal in der Hektik falsch macht.
+[00:04:37 -> 00:04:40]  Minus 1 minus 1 gibt minus 2.
+[00:04:41 -> 00:04:46]  Die Ableitung von 2x hoch minus 1 ist also minus 2x hoch minus 2.
+[00:04:46 -> 00:04:48]  Jetzt kommt ne sauwichtige Regel.
+[00:04:48 -> 00:04:50]  Wie man Summen ableitet.
+[00:04:50 -> 00:04:56]  Wenn ihr zum Beispiel die Funktion habt, 3x hoch 2 plus 5x plus x hoch minus 1 plus 2.
+[00:04:56 -> 00:05:00]  Dann leitet ihr alle Teile einzeln ab, die durch ein Plus abgetrennt sind.
+[00:05:00 -> 00:05:02]  Und zählt die dann wieder zusammen.
+[00:05:02 -> 00:05:05]  Ihr leitet also erst 3x² ab.
+[00:05:05 -> 00:05:06]  Dann schreibt ihr ein Plus.
+[00:05:06 -> 00:05:08]  Jetzt leitet ihr die 5x ab.
+[00:05:08 -> 00:05:14]  Wieder ein Plus, noch x hoch minus 1 ableiten, das letzte Plus und die Ableitung von 2.
+[00:05:14 -> 00:05:17]  Den ersten Teil haben wir vorhin schon mal abgeleitet.
+[00:05:17 -> 00:05:20]  Wieder die Hochzahl vorziehen, um 1 kleiner machen.
+[00:05:20 -> 00:05:23]  Die 5x könnt ihr genauso ableiten.
+[00:05:23 -> 00:05:25]  x hoch 0 ist dabei 1.
+[00:05:25 -> 00:05:27]  Das zählt hier grad dazu.
+[00:05:27 -> 00:05:29]  Jo, jetzt noch der dritte Teil.
+[00:05:29 -> 00:05:30]  x hoch minus 1.
+[00:05:30 -> 00:05:32]  Da zieht ihr wieder die Hochzahl vor.
+[00:05:32 -> 00:05:35]  Und zieht dann von der Hochzahl 1 ab.
+[00:05:35 -> 00:05:39]  Weil der vierte Teil ne Konstante ist ohne x, gebt die einfach 0 abgeleitet.
+[00:05:39 -> 00:05:41]  Das fasst ihr noch zusammen.
+[00:05:41 -> 00:05:45]  Passt da auf das Vorzeichen und die Hochzahl vom dritten Teil auf.
+[00:05:45 -> 00:05:47]  Die Ableitung habt ihr dann auch geschafft.
+[00:05:47 -> 00:05:51]  Die ist 6x plus 5 minus x hoch minus 2.
+[00:05:51 -> 00:05:55]  Wie immer gilt, drückt jetzt Pause, wenn's zu schnell ging und macht euch das klar.
+[00:05:55 -> 00:05:59]  Bei Summen müsst ihr euch also merken, jeden Teil einzeln ableiten.
+[00:05:59 -> 00:06:01]  Und dann wieder zusammensetzen.
+[00:06:01 -> 00:06:03]  Nur aufpassen, macht die Vorzeichen richtig.
+[00:06:03 -> 00:06:07]  Wenn euch das Video geholfen hat, sagt's auch mal allen Kumpels von euch weiter.
+[00:06:07 -> 00:06:11]  Wir sind raus, TheSimpleClub over and out, bis dann, haut rein und ciao!

@@ -1,0 +1,252 @@
+[00:00:00 -> 00:00:04]  Zu behaupten, dass das Informatikstudium leicht und gut nebenbei zu machen sei, ist falsch.
+[00:00:04 -> 00:00:08]  Dass ein Informatikstudium nur etwas für Genies sei, ist aber auch falsch.
+[00:00:08 -> 00:00:14]  Allerdings sorgen viele Fehler, die Studierende besonders in den ersten Semestern, aber auch später begehen, dafür,
+[00:00:14 -> 00:00:17]  dass das Studium schwieriger wird, als es eigentlich sein müsste.
+[00:00:17 -> 00:00:23]  In diesem Video möchte ich dir zehn klassische Fehler vorstellen, die man im Laufe seines Informatikstudiums unbedingt vermeiden sollte.
+[00:00:23 -> 00:00:27]  Einige von diesen Tipps sind auch auf andere Studiengänge übertragbar.
+[00:00:27 -> 00:00:28]  Nicht in die Vorlesung gehen.
+[00:00:28 -> 00:00:33]  Der erste Fehler ist natürlich sehr offensichtlich, doch viele Studierende denken, dass es ausreicht,
+[00:00:33 -> 00:00:38]  sich die Vorlesungsfolien im Nachgang anzuschauen oder die Mitschriften eines Kommilitonen zu verwenden.
+[00:00:38 -> 00:00:41]  Das kann man mal machen, doch es sollte nicht zur Gewohnheit werden,
+[00:00:41 -> 00:00:46]  da man dadurch quasi nur passiver Wissenskonsument ist und keine direkten Fragen stellen kann.
+[00:00:46 -> 00:00:50]  Der Spruch, wieso, weshalb, warum, wer nicht fragt, bleibt dumm, hat einen wahren Kern
+[00:00:50 -> 00:00:55]  und Interaktionen sind für den Lernprozess genauso wichtig wie Phasen des intensiven Selbststudiums.
+[00:00:55 -> 00:00:59]  Wenn du Präsenz zeigst und kritische Fragen stellst, hast du gegebenenfalls sogar Vorteile
+[00:00:59 -> 00:01:04]  bei Abnahmen von Abgaben in den Laborpraktika, da dem Professor in deinem Gesicht bekannt vorkommt
+[00:01:04 -> 00:01:08]  und sie damit einen Studenten verbinden, der sich aktiv mit dem Stoff auseinandersetzt.
+[00:01:08 -> 00:01:14]  Da ich selbst schon als Dozent tätig war, kann ich sagen, dass man diesen Effekt nicht außer Acht lassen sollte.
+[00:01:14 -> 00:01:19]  Wenn du, wie ich damals, dualer Student bist, dann erübrigt sich die Frage, hingehen oder nicht hingehen sowieso,
+[00:01:19 -> 00:01:23]  da du vertraglich dazu verpflichtet bist, in die Vorlesungen zu gehen.
+[00:01:23 -> 00:01:27]  In einigen Bundesländern, so zum Beispiel Brandenburg, gibt es sogar Anwesenheitspflichten.
+[00:01:27 -> 00:01:32]  Wenn du an der Hochschule München studierst, wirst du in den AW-Fächern ebenfalls eine Anwesenheitspflicht haben,
+[00:01:32 -> 00:01:36]  das heißt, du musst eine bestimmte Anzahl an Vorlesungen vor Ort anwesend sein.
+[00:01:36 -> 00:01:37]  Klausuren schieben
+[00:01:37 -> 00:01:43]  Klausuren solltest du nach Möglichkeit nicht schieben, da du das Problem tatsächlich nur aufschiebst und nicht wirklich behebst.
+[00:01:43 -> 00:01:48]  Im Gegenteil, wenn du einmal eine Prüfung geschoben hast, dann musst du den Aufwand für ein anderes Semester einkalkulieren
+[00:01:48 -> 00:01:50]  und wer weiß, wie deine Situation dann aussieht.
+[00:01:50 -> 00:01:55]  Außerdem musst du die Inhalte aus den Vorlesungen und gegebenenfalls des Praktikums immer wieder wiederholen
+[00:01:55 -> 00:01:59]  und hast dafür gegebenenfalls weniger geistige Kapazitäten für andere Fächer.
+[00:01:59 -> 00:02:03]  Insbesondere dann, wenn dir ein Fach schwerfällt, solltest du es nicht schieben,
+[00:02:03 -> 00:02:07]  da du dadurch gegebenenfalls später in deinem Studium exmatrikuliert wirst.
+[00:02:07 -> 00:02:11]  Einer meiner Kommilitonen ist zum Beispiel im fünften Semester exmatrikuliert worden,
+[00:02:11 -> 00:02:15]  da er Analyse so lange wie möglich aufgeschoben und dann im Drittversuch nicht bestanden hat.
+[00:02:15 -> 00:02:18]  Das ist zwar bitter, doch einen Härtefallantrag konnte er nicht stellen,
+[00:02:18 -> 00:02:22]  weil dafür nur noch die Bachelorarbeit und drei weitere Fächer ausstehen dürfen.
+[00:02:22 -> 00:02:26]  Es ist immer gut, sich seine Chancen so früh wie möglich auszurechnen
+[00:02:26 -> 00:02:29]  und das geht eben nur, wenn du die Spielregeln der jeweiligen Fächer kennst.
+[00:02:29 -> 00:02:33]  Auch der Gedanke, naja, ich mache jetzt erstmal den Schein und die Prüfung schreibe ich dann wann anders,
+[00:02:33 -> 00:02:38]  ist toxisch, da du dann von vornherein eine ganz andere Attitüde dem Fach gegenüber an den Tag legst.
+[00:02:38 -> 00:02:41]  Irgendwann bist du dann vielleicht sogar an dem Punkt, an dem du sagst,
+[00:02:41 -> 00:02:46]  naja, ich streibe die Prüfung ja sowieso erst im nächsten Semester, dann mache ich den Schein einfach dann.
+[00:02:46 -> 00:02:49]  Stelle dich der Prüfung und schau, was dabei herauskommt.
+[00:02:49 -> 00:02:54]  Die einzigen beiden Fälle, in denen du meiner Ansicht nach einen legitimen Grund hast, die Prüfung zu schieben,
+[00:02:54 -> 00:02:58]  ist eine länger anhaltende Krankheit oder das Vorziehen einer anderen Prüfung.
+[00:02:58 -> 00:03:01]  Alles andere schmälert sehr wahrscheinlich deinen Studienerfolg.
+[00:03:03 -> 00:03:07]  Speziell für das Informatikstudium solltest du dich mit dem Gedanken anfreunden,
+[00:03:07 -> 00:03:09]  nicht nur die in der Vorlesung behandelnden Sprachen zu lernen.
+[00:03:09 -> 00:03:14]  Es ist nämlich so, dass du im ersten und zweiten Semester mit allen zusammen eine Programmiersprache,
+[00:03:14 -> 00:03:18]  zum Beispiel Java, lernst und dir danach selbstständig andere Sprachen erarbeiten musst,
+[00:03:18 -> 00:03:20]  die du dann für die Laborpraktika brauchst.
+[00:03:20 -> 00:03:22]  Wir haben damals im dritten Semester nämlich gesagt bekommen,
+[00:03:22 -> 00:03:26]  dass wir für das Praktikum in Algorithmen und Datenstrukturen C++ können müssen,
+[00:03:26 -> 00:03:29]  obwohl wir zwei Semester lang nur Java gelernt haben.
+[00:03:29 -> 00:03:34]  Auch in der Vorlesung wurden alle Beispiele dann in C++ gezeigt, ohne dass wir die Sprache explizit gelernt haben.
+[00:03:34 -> 00:03:38]  Die Professoren gehen davon aus, dass wenn du eine Sprache gelernt hast,
+[00:03:38 -> 00:03:41]  du dir auch andere Sprachen und Eigenregie aneignen kannst.
+[00:03:41 -> 00:03:45]  Deshalb sind die Aufgaben auch oft sehr abstrakt gehalten, um dich eben dazu zu befähigen,
+[00:03:45 -> 00:03:48]  Programmierkonzepte in anderen Sprachen wiederzuerkennen.
+[00:03:48 -> 00:03:53]  In späteren Semestern wurde dann in einem Seminar zur Programmierung moderner Webanwendungen Django vorausgesetzt,
+[00:03:53 -> 00:03:57]  wofür man Python beherrschen musste, was bis dato in noch keiner Vorlesung thematisiert wurde.
+[00:03:57 -> 00:04:01]  Du siehst schon, dass du mit Java alleine beispielsweise nicht auskommst.
+[00:04:01 -> 00:04:05]  Das ist wieder ein Argument dafür, ein duales Studium zu absolvieren, da die Wahrscheinlichkeit sehr hoch ist,
+[00:04:05 -> 00:04:10]  dass du bei deinem Kooperationspartner eine neue Sprache lernst, die du noch nicht im Studium behandelt hast
+[00:04:10 -> 00:04:13]  und von der du in höheren Semestern profitierst.
+[00:04:13 -> 00:04:16]  Ein Video zum dualen Studium habe ich übrigens unten in der Videobeschreibung verlinkt.
+[00:04:16 -> 00:04:18]  Nur konventionelle Wege gehen
+[00:04:18 -> 00:04:23]  Wenn du dich nur an den Arbeitsauftrag und an das, was du in der Vorlesung gelernt hast, hältst,
+[00:04:23 -> 00:04:28]  dann ist das ein durchaus gangbarer Weg, doch sorgt eben auch dafür, dass du nicht aus der Masse hervorstichst.
+[00:04:28 -> 00:04:32]  Traue dich, eigene kreative Wege bei der Lösung eines Problems zu gehen.
+[00:04:32 -> 00:04:35]  Wir hatten damals beispielsweise im Fach Verteilte Systeme den Auftrag,
+[00:04:35 -> 00:04:38]  eine Anwendung auf mehrere IT-Systeme zu verteilen
+[00:04:38 -> 00:04:42]  und dabei das Dining-Philosophers-Problem bei der Belegung von Ressourcen zu lösen.
+[00:04:42 -> 00:04:46]  Statt, wie fast jeder, zwei Laborrechner zu nehmen, diese über das Netzwerk zu verbinden
+[00:04:46 -> 00:04:48]  und ein paar Konsumen-Outputs zu erzeugen,
+[00:04:48 -> 00:04:51]  haben mein Laborpartner und ich eine Unity-App programmiert,
+[00:04:51 -> 00:04:56]  die wir auf einem Smartphone, einem Tablet und zwei Laborrechner in einer VM laufen gelassen haben,
+[00:04:56 -> 00:05:00]  die das Teleportieren einzelner Tasks, die wir als Philosophen dargestellt haben,
+[00:05:00 -> 00:05:03]  von einem Gerät auf ein anderes Gerät grafisch visualisiert hat.
+[00:05:03 -> 00:05:07]  Statt mühsam aus den Debug-Logs herauszulesen, was jetzt genau passiert ist,
+[00:05:07 -> 00:05:10]  konnte man das mit einer grafischen Lösung weitaus besser zeigen.
+[00:05:10 -> 00:05:13]  Die Abnahme war dementsprechend angenehm und wir haben nebenbei gelernt,
+[00:05:13 -> 00:05:15]  wie man in Unity eine Android-App programmiert.
+[00:05:15 -> 00:05:18]  Dadurch brennt man sich ins Gedächtnis der Professoren ein
+[00:05:18 -> 00:05:22]  und hat dadurch später bei der Wahl eines Betreuers für die Bachelorarbeit leichtes Spiel.
+[00:05:22 -> 00:05:24]  Nur die Laborrechner verwenden
+[00:05:24 -> 00:05:27]  Du musst dir offiziell zwar keinen eigenen Rechner für das Studium zulegen,
+[00:05:27 -> 00:05:30]  da du in der Theorie alles auf den Laborrechner machen kannst,
+[00:05:30 -> 00:05:32]  doch es ist maximal zu empfehlen.
+[00:05:32 -> 00:05:35]  Bedenke, dass die Hochschule nur eine bestimmte Zeit geöffnet hat
+[00:05:35 -> 00:05:38]  und du vielleicht nahtlos zu Hause weiterarbeiten möchtest.
+[00:05:38 -> 00:05:41]  Zudem haben nicht alle Laborrechner dieselbe Ausstattung gegeben,
+[00:05:41 -> 00:05:43]  falls müssen Tools nachinstalliert werden,
+[00:05:43 -> 00:05:46]  was bei fehlenden Administratorrechten schwierig wird.
+[00:05:46 -> 00:05:48]  Kurzum, du bist Informatiker.
+[00:05:48 -> 00:05:50]  Schaffe dir bitte einen eigenen Rechner an.
+[00:05:50 -> 00:05:53]  Im Optimalfall einen Laptop, den du überall mit hinnehmen kannst.
+[00:05:53 -> 00:05:56]  Zur Entscheidung, ob es ein MacBook oder ein Windows-Rechner sein soll,
+[00:05:56 -> 00:05:58]  mache ich noch ein separates Video.
+[00:05:58 -> 00:06:01]  Ich persönlich habe mein Studium mit einem Windows-Rechner gemeistert
+[00:06:01 -> 00:06:04]  und immer nur im Labor gearbeitet, wenn es nötig war,
+[00:06:05 -> 00:06:08]  und den Raum unter Umständen auch mit Studierenden teilen musst,
+[00:06:08 -> 00:06:11]  die eine sehr eigene Interpretation der üblichen Verhaltensetikette besitzen.
+[00:06:11 -> 00:06:13]  Nur ein Betriebssystem verwenden
+[00:06:13 -> 00:06:16]  Gehe nicht davon aus, dass Windows oder macOS ausreicht,
+[00:06:16 -> 00:06:19]  um sein Studium erfolgreich abzuschließen.
+[00:06:19 -> 00:06:21]  Spätestens im Fach Betriebssysteme
+[00:06:21 -> 00:06:24]  wirst du vermutlich mit einer Linux-Distribution arbeiten,
+[00:06:24 -> 00:06:28]  d.h. es bietet sich an, schon im Vorfeld mal mit einem Unix-Wii-System gearbeitet zu haben.
+[00:06:28 -> 00:06:30]  Wenn du im IT-Sicherheitsumfeld unterwegs bist,
+[00:06:30 -> 00:06:33]  dann wirst du höchstwahrscheinlich auch mit Windows alleine nicht glücklich.
+[00:06:33 -> 00:06:35]  Üblicherweise verwendet man keine Linux
+[00:06:35 -> 00:06:37]  oder man setzt sich eine eigene Pentesting-Maschine auf,
+[00:06:37 -> 00:06:39]  was allerdings nur sinnvoll machbar ist,
+[00:06:39 -> 00:06:41]  wenn du dich von dem Gedanken löst,
+[00:06:41 -> 00:06:44]  dass deine einfachen Anwenderkenntnisse im Betriebssystem ausreichen,
+[00:06:44 -> 00:06:46]  um alle Laborpraktika zu schaffen.
+[00:06:46 -> 00:06:49]  Die Mac-User haben da von vornherein schon einen kleinen Vorteil,
+[00:06:49 -> 00:06:51]  weil einige Programme, die man im Studium nutzt,
+[00:06:51 -> 00:06:53]  nicht ohne erheblichen Mehraufwand auf dem Mac laufen,
+[00:06:53 -> 00:06:55]  wie z.B. der MMIX-Assembler,
+[00:06:55 -> 00:06:58]  den man an der Hochschule München im Fach IT-Systeme verwendet.
+[00:06:58 -> 00:07:01]  Auch Linux bietet nicht immer eine Out-of-the-Box-Lösung an.
+[00:07:01 -> 00:07:03]  Dadurch lernt man aber wiederum,
+[00:07:03 -> 00:07:05]  seine eigene Maschine aufzusetzen
+[00:07:05 -> 00:07:07]  und versteht mehr über das Betriebssystem,
+[00:07:07 -> 00:07:09]  als wenn alles auf dem ersten Klick funktioniert.
+[00:07:09 -> 00:07:12]  In den Praktika zur Netzwerktechnik oder Embedded Computing
+[00:07:12 -> 00:07:14]  war beispielsweise Ubuntu Pflicht.
+[00:07:14 -> 00:07:16]  Aber keine Sorge,
+[00:07:16 -> 00:07:18]  du kannst mit VirtualBox verschiedene Betriebssysteme
+[00:07:18 -> 00:07:20]  auf einem Rechner verwenden
+[00:07:20 -> 00:07:22]  und die virtualisierten Images sogar überall mit hinnehmen.
+[00:07:22 -> 00:07:24]  Es ist aber auch möglich,
+[00:07:24 -> 00:07:26]  ein Multi-Boot-System aufzusetzen.
+[00:07:26 -> 00:07:28]  Unvorbereitet in die Praktika gehen
+[00:07:28 -> 00:07:30]  Für die Praktika geht wie für die Vorlesung.
+[00:07:30 -> 00:07:32]  Du solltest ohne Vorbereitung in ein Praktikum kommen
+[00:07:32 -> 00:07:34]  und nicht auf eine Nachbereitung verzichten.
+[00:07:34 -> 00:07:36]  Die Professoren merken, wenn du nichts vorbereitet hast
+[00:07:36 -> 00:07:38]  und dementsprechend unangenehm können die Abnahmen werden.
+[00:07:38 -> 00:07:40]  Wenn du weißt, dass eine Abnahme ansteht,
+[00:07:40 -> 00:07:42]  dann solltest du dir mindestens noch einmal
+[00:07:42 -> 00:07:44]  dein Code anschauen
+[00:07:44 -> 00:07:46]  und dir gegebenenfalls im Vorfeld
+[00:07:46 -> 00:07:48]  ein paar Rückfragen überlegen.
+[00:07:48 -> 00:07:50]  Du könntest aber natürlich auch gezielt
+[00:07:50 -> 00:07:52]  bestimmte Unstimmigkeiten einbauen
+[00:07:52 -> 00:07:54]  und so Rückfragen in einem ganz speziellen Bereich provozieren,
+[00:07:54 -> 00:07:56]  auf die du dich dann sehr gut vorbereitest.
+[00:07:56 -> 00:07:58]  Gleiches geht auch für mündliche Prüfungen,
+[00:07:58 -> 00:08:00]  wo du deine Informatikübungen gezielt
+[00:08:00 -> 00:08:02]  in eine bestimmte Richtung lenken kannst.
+[00:08:02 -> 00:08:04]  Nur alleine arbeiten
+[00:08:04 -> 00:08:06]  In so vielen meiner Videos habe ich diesen Satz bereits zitiert
+[00:08:06 -> 00:08:08]  und ich mache es an dieser Stelle immer wieder gerne.
+[00:08:08 -> 00:08:10]  Im Informatikstudium werden keine autistischen Einzelkämpfer,
+[00:08:10 -> 00:08:12]  sondern Teamplayer gesucht.
+[00:08:12 -> 00:08:14]  Informatik ist ein Teamsport
+[00:08:14 -> 00:08:16]  und genauso wie du in deinem späteren Berufsleben
+[00:08:16 -> 00:08:18]  nicht um die Arbeit mit anderen herumkommst,
+[00:08:18 -> 00:08:20]  wird auch dein Studium nicht nur aus dir und deinem Computer bestehen.
+[00:08:20 -> 00:08:22]  Alleine alle Module und damit verbundene Praktika
+[00:08:22 -> 00:08:24]  bestreiten zu wollen,
+[00:08:24 -> 00:08:26]  führt in vielen Fällen zu einem vorzeitigen Studienende.
+[00:08:26 -> 00:08:28]  Wenn du in einer Gruppe oder einem Zweierteam arbeitest,
+[00:08:28 -> 00:08:30]  kannst du Aufgabenteilungen machen,
+[00:08:30 -> 00:08:32]  dir bestimmte Themen noch einmal studentenfreundlich
+[00:08:32 -> 00:08:34]  von einem Studenten, also einem deiner Kommilitonen,
+[00:08:34 -> 00:08:36]  erklären lassen und anderen etwas erklären,
+[00:08:36 -> 00:08:38]  wodurch du den Stoff vielleicht auch noch einmal
+[00:08:38 -> 00:08:40]  etwas besser verstehst und überprüfen kannst,
+[00:08:40 -> 00:08:42]  ob du ihn tatsächlich verstanden hast,
+[00:08:42 -> 00:08:44]  also die klassische Feinwellenmethode.
+[00:08:44 -> 00:08:46]  Nur den Vorlesungsstoff lernen
+[00:08:46 -> 00:08:48]  Dieser Fehler geht in dieselbe Richtung
+[00:08:48 -> 00:08:50]  wie die Thematik mit den Programmiersprachen.
+[00:08:50 -> 00:08:52]  Wenn du nur das lernst, was in der Vorlesung dran kommt,
+[00:08:52 -> 00:08:54]  dann hast du das Konzept des Lernens,
+[00:08:54 -> 00:08:56]  wo noch nicht vollumfänglich verinnerlicht.
+[00:08:56 -> 00:08:58]  Die Informatik ist kein Wissenschaftszweig,
+[00:08:58 -> 00:09:00]  den man in x-beliebige kleine Lernhäppchen unterteilt,
+[00:09:00 -> 00:09:02]  die man sich dann ohne schneiden
+[00:09:02 -> 00:09:04]  und kauen einverleiben kann.
+[00:09:04 -> 00:09:06]  Mit dieser Einstellung wirst du im besten Fall
+[00:09:06 -> 00:09:08]  zu einem mittelmäßigen Informatiker ausgebildet,
+[00:09:08 -> 00:09:10]  was vermutlich nicht in deinem Interesse ist.
+[00:09:10 -> 00:09:12]  Wenn einem etwas liegt, dann ist man oft
+[00:09:12 -> 00:09:14]  aus eigenem Antrieb heraus motiviert,
+[00:09:14 -> 00:09:16]  so viel wie möglich über das hinauszulernen,
+[00:09:16 -> 00:09:18]  was man eigentlich rein formal lernen muss.
+[00:09:18 -> 00:09:20]  Jeder Mensch hat einen angeborenen Wissensdurst,
+[00:09:20 -> 00:09:22]  den man in einigen Bereichen mehr
+[00:09:22 -> 00:09:24]  und in anderen weniger stillen möchte.
+[00:09:24 -> 00:09:26]  Wenn du in deinem Studium nach der Vorlesung
+[00:09:26 -> 00:09:28]  bereits sitt bist, ist das ein Indikator dafür,
+[00:09:28 -> 00:09:30]  dass dich dieses Studium vielleicht doch nicht so ausführt,
+[00:09:30 -> 00:09:32]  wie du es dir eigentlich wünschen würdest.
+[00:09:32 -> 00:09:34]  Code nur aus dem Internet kopieren
+[00:09:34 -> 00:09:36]  Diesen Punkt solltest du bitte nicht falsch verstehen.
+[00:09:36 -> 00:09:38]  Natürlich ist es erlaubt,
+[00:09:38 -> 00:09:40]  Code aus dem Internet zu nutzen.
+[00:09:40 -> 00:09:42]  Was ist man denn für ein Informatiker,
+[00:09:42 -> 00:09:44]  wenn man noch nie auf Stack Overflow war
+[00:09:44 -> 00:09:46]  oder in GitHub-Repositories nach Lösungen
+[00:09:46 -> 00:09:48]  für eine bestimmte Teilaufgabe gesucht hat?
+[00:09:48 -> 00:09:50]  Man muss das Rad nicht jedes Mal neu erfinden,
+[00:09:50 -> 00:09:52]  denn es ist nichts Ungewöhnliches,
+[00:09:52 -> 00:09:54]  wenn man einen Codesnippet kopiert
+[00:09:54 -> 00:09:56]  oder eine Bibliothek verwendet.
+[00:09:56 -> 00:09:58]  Bei der Bibliothek sieht man diesen Gedanken
+[00:09:58 -> 00:10:00]  vielleicht noch mehr ein,
+[00:10:00 -> 00:10:02]  doch im Prinzip verwendet man dort auch Code
+[00:10:02 -> 00:10:04]  von anderen, den man quasi kopiert.
+[00:10:04 -> 00:10:06]  Der Unterschied ist jedoch dabei,
+[00:10:06 -> 00:10:08]  dass man durch den Import anzeigt,
+[00:10:08 -> 00:10:10]  wo der Code herkommt,
+[00:10:10 -> 00:10:12]  bzw. wie die Bibliothek heißt,
+[00:10:12 -> 00:10:14]  die man verwendet hat.
+[00:10:14 -> 00:10:16]  Je nach Komplexität des kopierten Codes
+[00:10:16 -> 00:10:18]  muss man auch nicht angeben,
+[00:10:18 -> 00:10:20]  dass man in der Bibliothek
+[00:10:20 -> 00:10:22]  viele Seiten an Suchergebnissen findet,
+[00:10:22 -> 00:10:24]  die alle einen sehr ähnlichen Code verwenden.
+[00:10:24 -> 00:10:26]  Das liegt daran,
+[00:10:26 -> 00:10:28]  dass es sich hier bei einem
+[00:10:28 -> 00:10:30]  in der Informatikerszene hinlänglich bekannten
+[00:10:30 -> 00:10:32]  nicht schwer zu implementieren Algorithmus handelt,
+[00:10:32 -> 00:10:34]  von dem kein Informatiker behaupten würde,
+[00:10:34 -> 00:10:36]  dass er ihn jetzt selbst entwickelt hat.
+[00:10:36 -> 00:10:38]  Die eigentliche Implementierung
+[00:10:38 -> 00:10:40]  ist dann nur noch Handwerk.
+[00:10:40 -> 00:10:42]  Es gibt teilweise sogar Code-Generatoren,
+[00:10:42 -> 00:10:44]  die das für einen übernehmen.
+[00:10:44 -> 00:10:46]  Worauf ich eigentlich hinaus möchte,
+[00:10:46 -> 00:10:48]  ist für das flüssige Sprechen einer Programmiersprache
+[00:10:48 -> 00:10:50]  eine regelmäßige Wiederholung notwendig.
+[00:10:50 -> 00:10:52]  Andernfalls kommst du an vielen Stellen ins Stocken
+[00:10:52 -> 00:10:54]  und weißt zum Beispiel nicht mehr,
+[00:10:54 -> 00:10:56]  wie man mit Python einen String in Großbuchstaben umwandelt.
+[00:10:56 -> 00:10:58]  Natürlich kannst du das ganz einfach
+[00:10:58 -> 00:11:00]  in einer Dokumentation nachlesen,
+[00:11:00 -> 00:11:02]  genauso wie du bestimmte Wörter
+[00:11:02 -> 00:11:04]  und grammatikalische Zusammenhänge
+[00:11:04 -> 00:11:06]  in anderen Sprachen in dicken Wälzern nachschlagen kannst.
+[00:11:06 -> 00:11:08]  Doch wirklich gut ist diese Vorgehensweise nicht
+[00:11:08 -> 00:11:10]  und du solltest dir intensiv überlegen,
+[00:11:10 -> 00:11:12]  was dir wichtiger ist.
+[00:11:12 -> 00:11:14]  Quick and dirty oder sorgfältig und nachhaltig?
+[00:11:14 -> 00:11:16]  Vielen Dank fürs Zusehen!
+[00:11:16 -> 00:11:18]  Solltest du weitere Fragen haben,
+[00:11:18 -> 00:11:20]  kannst du sie gerne unten in den Kommentaren
+[00:11:20 -> 00:11:22]  oder auf meiner Fragenplattform informatikstudium.net posten.
+[00:11:22 -> 00:11:24]  Bis zum nächsten Video!

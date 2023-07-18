@@ -1,0 +1,156 @@
+[00:00:00 -> 00:00:06]  URL session is designed to access networks beyond your user's device.
+[00:00:06 -> 00:00:12]  Doing so takes time, whether to upload data or respond to a chat message.
+[00:00:12 -> 00:00:16]  That's time the user can be doing other things.
+[00:00:16 -> 00:00:18]  This is where concurrency comes into play.
+[00:00:18 -> 00:00:24]  Now, if you already have experience with concurrency and the modern concurrency features of Swift,
+[00:00:24 -> 00:00:27]  then by all means, feel free to skip this episode.
+[00:00:27 -> 00:00:33]  But if you're new to it, then I definitely recommend you follow along.
+[00:00:33 -> 00:00:39]  In a nutshell, concurrency means doing multiple things at once when you write your code.
+[00:00:39 -> 00:00:44]  That code can be translated into a single execution path.
+[00:00:44 -> 00:00:49]  You may have lots of objects communicating with each other, but if you're just following
+[00:00:49 -> 00:00:53]  the path of execution, you'll see that it follows a linear path.
+[00:00:53 -> 00:00:58]  This is evident when you set a breakpoint in the debugger and then step through each
+[00:00:58 -> 00:01:00]  line of code.
+[00:01:00 -> 00:01:04]  You can think of this path of execution as a thread.
+[00:01:04 -> 00:01:09]  In fact, you write all of your code in what is known as the main thread.
+[00:01:09 -> 00:01:15]  This is the thread that runs your code, but also the code that manages the user interface
+[00:01:15 -> 00:01:17]  as well.
+[00:01:17 -> 00:01:22]  As you add threads to your code, you actually have more paths of execution.
+[00:01:22 -> 00:01:25]  This means you can do multiple things at once.
+[00:01:25 -> 00:01:30]  One thread can be responding to user input, and another thread could be downloading files
+[00:01:30 -> 00:01:32]  across the network.
+[00:01:32 -> 00:01:35]  A thread runs on a CPU core.
+[00:01:35 -> 00:01:42]  The more cores that a device has, the more threads can run at the same time.
+[00:01:42 -> 00:01:48]  If there are more threads than resources to run them, then the CPU will switch between
+[00:01:48 -> 00:01:49]  them.
+[00:01:49 -> 00:01:54]  One moment, a thread is trucking along, drawing a circle on the screen.
+[00:01:54 -> 00:01:58]  And the next moment, it is asleep.
+[00:01:58 -> 00:02:03]  Moments later, it is awake, unaware that it was ever asleep.
+[00:02:03 -> 00:02:09]  Computers process information so fast that you can't see the process.
+[00:02:09 -> 00:02:14]  Writing synchronous code, or code that runs one step at a time, on the main thread is
+[00:02:14 -> 00:02:17]  the most straightforward way to write code.
+[00:02:17 -> 00:02:22]  All lines of code you write are performed on the main thread unless you, or the API
+[00:02:22 -> 00:02:25]  you're using, do otherwise.
+[00:02:25 -> 00:02:30]  In this scenario, if some function call or operation takes a fair bit of time to complete,
+[00:02:30 -> 00:02:35]  then your program's interface might stop responding until this finishes.
+[00:02:35 -> 00:02:41]  Unresponsive, choppy, or laggy apps are a poor user experience and should be avoided.
+[00:02:41 -> 00:02:46]  The alternative to this is to perform your time-consuming tasks asynchronously or concurrently
+[00:02:46 -> 00:02:53]  on multiple background threads in order to keep the rest of your app running smoothly.
+[00:02:53 -> 00:02:58]  Swift has always supported concurrency by using classes like NSThread or OperationQueues,
+[00:02:58 -> 00:03:04]  or on libraries like Grand Central Dispatch, or GCD for short.
+[00:03:04 -> 00:03:08]  While great at what they do and still useful if you need lower-level access or control
+[00:03:08 -> 00:03:13]  over your concurrent code, they aren't as integrated into the Swift language as its
+[00:03:13 -> 00:03:18]  newer, more modern concurrency features are, nor are they as easy and straightforward to
+[00:03:18 -> 00:03:19]  use in comparison.
+[00:03:19 -> 00:03:23]  The cool thing about Swift's concurrency features is that you don't need to worry
+[00:03:23 -> 00:03:25]  about managing threads or queues on your own.
+[00:03:25 -> 00:03:28]  It's all taken care of for you.
+[00:03:28 -> 00:03:32]  How about taking a look at Swift's concurrency features?
+[00:03:32 -> 00:03:35]  To get started, open this episode's Starter Playground.
+[00:03:35 -> 00:03:39]  The first thing you'll do is create an unstructured task or an object that can help
+[00:03:39 -> 00:03:43]  encapsulate a concurrent piece of work.
+[00:03:43 -> 00:03:58]  Write the following code.
+[00:03:58 -> 00:04:02]  Run your code.
+[00:04:02 -> 00:04:05]  Task takes a trailing closure containing the work to perform.
+[00:04:05 -> 00:04:10]  In this case, you print a message inside the task, and you also print a message outside
+[00:04:10 -> 00:04:12]  of the task.
+[00:04:12 -> 00:04:17]  This outer print statement is being performed on the main actor or main thread.
+[00:04:17 -> 00:04:22]  In Swift concurrency, the term main actor is often used in place of main thread.
+[00:04:22 -> 00:04:25]  But what is an actor?
+[00:04:25 -> 00:04:30]  From the Swift programming language guide, we have that actors are a reference type like
+[00:04:30 -> 00:04:31]  classes.
+[00:04:31 -> 00:04:36]  Unlike classes, however, actors allow only one task to access their mutable state at
+[00:04:36 -> 00:04:41]  the same time, making it safe for code and multiple tasks to interact with the same instance
+[00:04:41 -> 00:04:43]  of an actor.
+[00:04:43 -> 00:04:48]  The main actor is a globally unique actor that performs tasks exclusively on the main
+[00:04:48 -> 00:04:50]  thread.
+[00:04:50 -> 00:04:53]  Expand upon the previous example by replacing the code with the following.
+[00:05:11 -> 00:05:21]  The expected output here is that you got first, last, and then second, meaning the
+[00:05:21 -> 00:05:26]  statements executed out of order if looked at from top to bottom.
+[00:05:26 -> 00:05:31]  Run your code and look at the results.
+[00:05:31 -> 00:05:33]  Not what you were expecting, perhaps?
+[00:05:33 -> 00:05:35]  Or perhaps it was.
+[00:05:35 -> 00:05:38]  This is the main challenge of concurrent programming.
+[00:05:38 -> 00:05:42]  The order of operations can change depending on many factors like how fast the device's
+[00:05:42 -> 00:05:47]  processor is, how intensive the task is, or how the operating system scheduler schedules
+[00:05:47 -> 00:05:49]  your tasks.
+[00:05:49 -> 00:05:52]  What if you want to cancel a task?
+[00:05:52 -> 00:06:05]  Once again, replace your code with the following.
+[00:06:05 -> 00:06:08]  Run your code.
+[00:06:08 -> 00:06:13]  This code creates a task with some work in it, and it gets stored in the task variable.
+[00:06:13 -> 00:06:17]  It then calls cancel on the task in order to cancel it.
+[00:06:17 -> 00:06:22]  One important change to the task itself is the try task check cancellation statement.
+[00:06:22 -> 00:06:28]  It checks a boolean flag, task.isCanceled, and throws an error that causes the task to
+[00:06:28 -> 00:06:31]  unwind in case it was canceled.
+[00:06:31 -> 00:06:35]  Since you cancel a task in this scenario, the last print statement inside your task
+[00:06:35 -> 00:06:37]  never executes.
+[00:06:37 -> 00:06:41]  The important takeaway in this example is that you need to do a bit of extra work, using
+[00:06:41 -> 00:06:47]  check cancellation in order to tell your code when and how cancellation should work.
+[00:06:47 -> 00:06:52]  Suspending a task is also possible for when you want some time to pass between operations.
+[00:06:52 -> 00:06:56]  As an example, this can be useful if you want to show a view in your app or game for a few
+[00:06:56 -> 00:06:59]  seconds and then dismiss it.
+[00:06:59 -> 00:07:18]  Replace your code with the following.
+[00:07:18 -> 00:07:21]  Run your code.
+[00:07:21 -> 00:07:25]  Two new keywords are being used in this task when compared to the previous one.
+[00:07:25 -> 00:07:30]  A try that indicates the function called to sleep can fail and a wait that indicates
+[00:07:30 -> 00:07:36]  the sleep operation is performed asynchronously and can suspend and resume execution later.
+[00:07:36 -> 00:07:40]  For now, you've been performing these operations on their own in your playground.
+[00:07:40 -> 00:07:45]  But what if you want to move this task's functionality into a function?
+[00:07:45 -> 00:08:01]  Replace the code in your playground with the following.
+[00:08:01 -> 00:08:03]  You get a couple of errors.
+[00:08:03 -> 00:08:07]  Functions that can throw an error need to be marked with throws, so update your function
+[00:08:07 -> 00:08:12]  to indicate that.
+[00:08:12 -> 00:08:18]  The second error is because your function in its current form does not support concurrency,
+[00:08:18 -> 00:08:22]  but the sleep call does and you will wait for its execution.
+[00:08:22 -> 00:08:27]  To fix the issue, add the async keyword before the throws.
+[00:08:27 -> 00:08:36]  Next, add this code to asynchronously call your function.
+[00:08:36 -> 00:08:41]  And run your code.
+[00:08:41 -> 00:08:46]  You might have noticed some similarity between throwing functions and async functions.
+[00:08:46 -> 00:08:51]  You need to indicate either or both in the declaration and then, when called, use try
+[00:08:51 -> 00:08:53]  or wait.
+[00:08:53 -> 00:08:57]  This is an intentional pattern to keep things consistent between your function declarations
+[00:08:57 -> 00:08:59]  and how you call them.
+[00:08:59 -> 00:09:05]  Tasks are pretty cool, as you have seen, but how about we jump a few steps ahead and download
+[00:09:05 -> 00:09:07]  some JSON from the internet?
+[00:09:07 -> 00:09:12]  In the next example, you'll asynchronously download and decode all of the learning domains
+[00:09:12 -> 00:09:13]  on the site.
+[00:09:13 -> 00:09:18]  This will entail asynchronously downloading data from a URL and decoding the data from
+[00:09:18 -> 00:09:22]  JSON into your own Swift types.
+[00:09:22 -> 00:09:32]  Replace the code in your playground with the following.
+[00:09:32 -> 00:09:37]  You declare a function that indicates it might take some time to perform and thus can
+[00:09:37 -> 00:09:43]  suspend, indicated by the async keyword, and that it can fail, indicated by the throws
+[00:09:43 -> 00:09:44]  keyword.
+[00:09:44 -> 00:09:48]  If successful, this function will return a list of domain values.
+[00:09:48 -> 00:09:53]  The starter playground contains the domains.swift file that has created Swift types to match
+[00:09:53 -> 00:09:56]  the JSON response and its hierarchy.
+[00:09:56 -> 00:10:21]  Next, replace the contents of your function with the following.
+[00:10:21 -> 00:10:27]  With just a few keywords sprinkled across your code, you get asynchronous functionality.
+[00:10:27 -> 00:10:32]  Looking at what each line of code inside the function does, first, you create the URL that
+[00:10:32 -> 00:10:34]  you want to download data from.
+[00:10:34 -> 00:10:38]  As this is a trusted URL we know about, and to simplify the code for this example, it's
+[00:10:38 -> 00:10:40]  force unwrapped.
+[00:10:40 -> 00:10:45]  Next, you get your first taste of URLSession in order to download the data from the URL
+[00:10:45 -> 00:10:47]  and receive its response.
+[00:10:47 -> 00:10:52]  Since this method is asynchronous in the URLSession API, you call it with a wait.
+[00:10:52 -> 00:10:56]  This will free up your program to do other things while it waits for the network operation
+[00:10:56 -> 00:10:58]  to complete.
+[00:10:58 -> 00:11:01]  Since this call can also throw errors, you mark it with try.
+[00:11:01 -> 00:11:05]  This call returns a tuple containing the data and response.
+[00:11:05 -> 00:11:09]  Since the response is not going to be used, you ignore it with the underscore.
+[00:11:09 -> 00:11:15]  Finally, use JSONDecoder to decode the data that was returned from the URL and then grab
+[00:11:15 -> 00:11:18]  the list of domains stored in the data property.
+[00:11:18 -> 00:11:23]  If you're coming from the world of GCD or queues, this code might look surprisingly
+[00:11:23 -> 00:11:26]  simple and clean in comparison.
+[00:11:26 -> 00:11:29]  Add the following code after your function declaration in order to test it.
+[00:11:45 -> 00:12:13]  Run your code.
+[00:12:13 -> 00:12:17]  This should look familiar to you, but let's run through things once more.
+[00:12:17 -> 00:12:23]  You create a task context that you can await or use to perform asynchronous calls.
+[00:12:23 -> 00:12:27]  Next up, you create a do catch block to try and catch any potential errors.
+[00:12:27 -> 00:12:30]  Inside the do block, you perform the actual download.
+[00:12:30 -> 00:12:36]  The await keyboard recognizes that the task can suspend while other things are happening.
+[00:12:36 -> 00:12:41]  With your domains downloaded, you print out the list of learning domains.
+[00:12:41 -> 00:12:42]  And there you have it.
+[00:12:42 -> 00:12:47]  You've now had an introduction to Swift's modern concurrency features and also seen
+[00:12:47 -> 00:12:50]  a brief example of how to work with URL session.
+[00:12:50 -> 00:12:55]  In the next episode, you'll continue looking at Swift's modern concurrency features.
+[00:12:55 -> 00:12:56]  See you there.

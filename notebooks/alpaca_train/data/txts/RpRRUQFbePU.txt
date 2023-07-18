@@ -1,0 +1,1144 @@
+[00:00:00 -> 00:00:12]  Sorry, I was just running around getting some cables, but we don't need them any more.
+[00:00:12 -> 00:00:15]  So that was just a fun thing to do.
+[00:00:15 -> 00:00:17]  Hello everyone, sorry I'm late.
+[00:00:17 -> 00:00:20]  My name's Richard.
+[00:00:20 -> 00:00:23]  We'll be together for 1927.
+[00:00:23 -> 00:00:24]  Is that your name written on your shirt?
+[00:00:24 -> 00:00:26]  That is my name written on the shirt.
+[00:00:26 -> 00:00:28]  If you can decode it, you'll get it.
+[00:00:28 -> 00:00:29]  Oh, hello.
+[00:00:29 -> 00:00:31]  Hi, are there other people here I know?
+[00:00:31 -> 00:00:35]  Is there anyone here who I've talked to before?
+[00:00:35 -> 00:00:36]  No, just the one.
+[00:00:36 -> 00:00:38]  Do you guys find this room very hot and stuffy?
+[00:00:38 -> 00:00:39]  Yes.
+[00:00:39 -> 00:00:40]  Yes, it's unpleasant, isn't it?
+[00:00:40 -> 00:00:43]  I've turned the air conditioning on.
+[00:00:43 -> 00:00:44]  Who was in here before?
+[00:00:44 -> 00:00:45]  Does anyone know?
+[00:00:45 -> 00:00:46]  Banking and finance.
+[00:00:46 -> 00:00:51]  Banking and finance.
+[00:00:51 -> 00:00:52]  Let's see if it cools down.
+[00:00:52 -> 00:00:53]  If it doesn't, we'll start fooling around with the drawers.
+[00:00:53 -> 00:00:55]  Just give me one second to collect my thoughts.
+[00:00:55 -> 00:00:58]  I've literally run through the building stealing everyone's firewire cable.
+[00:00:58 -> 00:01:00]  I've knocked at the door and said, firewire cable?
+[00:01:00 -> 00:01:01]  Yes.
+[00:01:01 -> 00:01:02]  Out of the way.
+[00:01:02 -> 00:01:03]  Thanks.
+[00:01:03 -> 00:01:06]  So, could everyone bring a firewire cable tomorrow?
+[00:01:06 -> 00:01:09]  That would be a great help.
+[00:01:09 -> 00:01:12]  Give me one second to log in.
+[00:01:12 -> 00:01:14]  No, no, no cereal.
+[00:01:14 -> 00:01:16]  Well, no, bring it in.
+[00:01:16 -> 00:01:17]  Who knows?
+[00:01:17 -> 00:01:21]  We never know when we'll need one.
+[00:01:21 -> 00:01:23]  Give me one second.
+[00:01:52 -> 00:02:00]  All right, I think it's turning on.
+[00:02:00 -> 00:02:09]  It appears to be turning on.
+[00:02:09 -> 00:02:10]  Ah, fantastic.
+[00:02:10 -> 00:02:11]  We're in.
+[00:02:11 -> 00:02:19]  So, let's start with our course homepage as you'll get to type this.
+[00:02:19 -> 00:02:20]  Now, guys, come on.
+[00:02:20 -> 00:02:21]  I've done my part.
+[00:02:21 -> 00:02:23]  I'm here on time and organized.
+[00:02:23 -> 00:02:27]  The least you could do is just, you know.
+[00:02:27 -> 00:02:39]  Let's go tilde cs1927.
+[00:02:39 -> 00:02:42]  Let's go, and this is the course.
+[00:02:42 -> 00:02:46]  And has anyone already checked out this page?
+[00:02:46 -> 00:02:48]  Yes, some of you have.
+[00:02:48 -> 00:02:49]  Well done.
+[00:02:49 -> 00:02:51]  If you haven't, make sure you go.
+[00:02:51 -> 00:03:02]  Basically, the normal CSE beginning www.cse.unsw.edu.au slash tilde 1927.
+[00:03:02 -> 00:03:08]  So, welcome to 1927.
+[00:03:08 -> 00:03:18]  With layer upon layer of protection.
+[00:03:18 -> 00:03:23]  Just to make sure there's no accidental learning going on.
+[00:03:23 -> 00:03:28]  Let's make that bigger.
+[00:03:28 -> 00:03:29]  That's as big as we can get.
+[00:03:29 -> 00:03:31]  There we go.
+[00:03:31 -> 00:03:32]  All right.
+[00:03:32 -> 00:03:33]  Now, who can read that in the back?
+[00:03:33 -> 00:03:34]  Is that fine?
+[00:03:34 -> 00:03:36]  It's quite a bright room, but the slide's still bright enough.
+[00:03:36 -> 00:03:38]  Is it cooling down a bit, or is it still hot?
+[00:03:38 -> 00:03:41]  It's still too bright.
+[00:03:41 -> 00:03:53]  Let me see what we can do.
+[00:03:53 -> 00:03:54]  Ta-da.
+[00:03:54 -> 00:03:55]  How's that?
+[00:03:55 -> 00:03:57]  Much better.
+[00:03:57 -> 00:03:58]  So, welcome, everyone.
+[00:03:58 -> 00:04:02]  It'll take me a second to calm down, because when things go wrong at the beginning, you know, you get a bit flustered.
+[00:04:02 -> 00:04:09]  And you'll probably find this yourselves when you're programming or when you're in an exam, that sometimes things do go wrong.
+[00:04:09 -> 00:04:12]  And if you're all like me, once things go wrong, you put off your stride.
+[00:04:12 -> 00:04:14]  So, what's the best thing to do?
+[00:04:14 -> 00:04:20]  For example, if you're trying to work on your program and something goes wrong and you're stressed and cross, what's the best thing to do?
+[00:04:20 -> 00:04:22]  Work on something else.
+[00:04:22 -> 00:04:23]  Take a break.
+[00:04:23 -> 00:04:24]  What's your name?
+[00:04:24 -> 00:04:25]  Hossam?
+[00:04:25 -> 00:04:26]  Sam.
+[00:04:26 -> 00:04:27]  Just Sam.
+[00:04:27 -> 00:04:28]  Yep.
+[00:04:28 -> 00:04:29]  Sam's right.
+[00:04:29 -> 00:04:30]  So, basically, that's my advice.
+[00:04:30 -> 00:04:33]  Don't freak out, but calmly switch to something else.
+[00:04:33 -> 00:04:51]  In fact, my overall theory about computing is that although we initially approached computing as an exercise in syntax, in learning how a language works, or in understanding how to use a particular operating system, the computing is really more a mental discipline, I think.
+[00:04:51 -> 00:04:53]  And being a successful programmer is really a state of mind.
+[00:04:53 -> 00:04:57]  And it's a state of mind that involves sort of calmness and focus.
+[00:04:57 -> 00:05:02]  And when things go wrong, as things always do go wrong, we don't give up and we don't freak out.
+[00:05:02 -> 00:05:04]  We carefully try and try again.
+[00:05:04 -> 00:05:07]  And hopefully that's a message you've already got in 1.9.1.7.
+[00:05:07 -> 00:05:09]  In 1.9.2.7, we want to hone that message down a bit.
+[00:05:09 -> 00:05:14]  When things go wrong or you don't know what to do, don't just mindlessly try and try again.
+[00:05:14 -> 00:05:19]  In this course, we're going to suggest that you should adopt an attitude of systematically try, try again.
+[00:05:19 -> 00:05:26]  And we're going to try and now introduce some sort of methodology and systematization of the process of writing programs and dealing with problems.
+[00:05:31 -> 00:05:33]  Well, actually that's not strictly true.
+[00:05:33 -> 00:05:35]  You don't have to have come from 1.9.1.7.
+[00:05:35 -> 00:05:37]  Who here has come from another course?
+[00:05:37 -> 00:05:39]  Who here hasn't done 1.9.1.7?
+[00:05:44 -> 00:05:45]  Fantastic.
+[00:05:45 -> 00:05:46]  Okay, so you've all done 1.9.1.7.
+[00:05:46 -> 00:05:49]  I've been checking out 1.9.1.7 as it was running last semester.
+[00:05:49 -> 00:05:51]  I really like Morrie.
+[00:05:51 -> 00:05:53]  So you're very lucky to have him.
+[00:05:53 -> 00:05:55]  And I was enjoying watching what you're doing.
+[00:05:55 -> 00:06:02]  And some tutors mailed me, some of your tutors mailed me with pride at some of the assignments that you guys did, especially towards the end.
+[00:06:02 -> 00:06:06]  And I was just checking out the projects again just before I came here.
+[00:06:06 -> 00:06:09]  Let me just show you some of the projects that you guys did last semester.
+[00:06:09 -> 00:06:11]  Made me very happy.
+[00:06:12 -> 00:06:20]  Now, I've only previously looked at the ones that people sent me, and this morning I was going through looking at them all.
+[00:06:20 -> 00:06:22]  They're very slick.
+[00:06:22 -> 00:06:24]  Oh, I mean, this one's got a screen size problem.
+[00:06:24 -> 00:06:29]  But it's, that's, you know, that's a display.
+[00:06:29 -> 00:06:31]  It's on 140%.
+[00:06:31 -> 00:06:34]  That's what you're supposed to be getting in this course.
+[00:06:34 -> 00:06:38]  That's the speed at which I'll be talking and the expected mark to pass the course.
+[00:06:39 -> 00:06:41]  Yeah, yeah, you can't see it 140%.
+[00:06:41 -> 00:06:45]  Well, everyone, you'll have to get glasses that are 40% bigger to see.
+[00:06:47 -> 00:06:49]  So this is, this is awesomely good.
+[00:06:49 -> 00:06:55]  But you were struck with the constraints of the game that it wasn't a very visual game.
+[00:06:55 -> 00:06:57]  But this was just very impressive.
+[00:06:57 -> 00:07:01]  Did anyone write one which involved photographs?
+[00:07:01 -> 00:07:05]  I'm sure I saw one with photographs around the uni, but I haven't, I haven't seen it flipping through today.
+[00:07:06 -> 00:07:08]  Is that one of the ones here?
+[00:07:08 -> 00:07:10]  Which one is it?
+[00:07:13 -> 00:07:15]  Who's Ricky? Wave at me, whoever Ricky is.
+[00:07:18 -> 00:07:20]  Who's Ricky? Ricky, wave at me.
+[00:07:22 -> 00:07:24]  Ricky, Ricky's not waving. Oh, Ricky's further across.
+[00:07:24 -> 00:07:26]  Oh, there, you're Ricky? Hello, Ricky.
+[00:07:26 -> 00:07:28]  It's an excellent name.
+[00:07:29 -> 00:07:31]  What tutor were you in last semester?
+[00:07:32 -> 00:07:34]  Day...
+[00:07:34 -> 00:07:36]  What day was your tutorial?
+[00:07:38 -> 00:07:40]  Thursday at nine o'clock?
+[00:07:41 -> 00:07:43]  Oh, that's an H, isn't it? Thursday...
+[00:07:43 -> 00:07:45]  Oh, there's only one. There we are.
+[00:07:45 -> 00:07:47]  Is this it? Is this yours?
+[00:07:47 -> 00:07:49]  No, no. It's not up there.
+[00:07:57 -> 00:07:59]  Is this it? Is this yours?
+[00:07:59 -> 00:08:01]  Oh, okay. Alright, alright.
+[00:08:01 -> 00:08:03]  Well, that's an aborted attempt.
+[00:08:03 -> 00:08:05]  No, show it to me. I'll put it up next...
+[00:08:05 -> 00:08:07]  Just tell me at the end. I'll put it up next lecture.
+[00:08:07 -> 00:08:09]  Next pair of lectures on Thursday.
+[00:08:09 -> 00:08:12]  But I was very impressed with your guys' design ability,
+[00:08:12 -> 00:08:14]  and the games were fun,
+[00:08:14 -> 00:08:16]  and I enjoyed looking at them, and it was very good.
+[00:08:16 -> 00:08:19]  Here's my hope as to what you've already...
+[00:08:24 -> 00:08:27]  Now, that's spectacular.
+[00:08:29 -> 00:08:32]  Does anyone know Microsoft's phone number?
+[00:08:37 -> 00:08:39]  Look, I'm using Internet Explorer.
+[00:08:39 -> 00:08:41]  You wouldn't believe it.
+[00:08:44 -> 00:08:46]  I can't believe I'm using Internet Explorer.
+[00:08:46 -> 00:08:48]  Let's just fix that up.
+[00:08:51 -> 00:08:53]  Secondary market.
+[00:08:54 -> 00:08:56]  No.
+[00:08:56 -> 00:08:58]  Let's do this all in Firefox.
+[00:09:05 -> 00:09:07]  Let's go.
+[00:09:24 -> 00:09:26]  Yeah, we're going to get to...
+[00:09:28 -> 00:09:30]  Now, I'll have to start again at the beginning.
+[00:09:30 -> 00:09:32]  I am sorry about that.
+[00:09:32 -> 00:09:35]  Hello, everyone. Welcome to 197.
+[00:09:45 -> 00:09:48]  Okay, and make it... What was that, 140?
+[00:09:49 -> 00:09:51]  Hold on.
+[00:09:52 -> 00:09:54]  Oh, please turn your mobile phones off,
+[00:09:54 -> 00:09:56]  if you have a mobile phone.
+[00:09:58 -> 00:10:00]  Yes, Thurston, we have a problem.
+[00:10:02 -> 00:10:04]  Don't worry. It's just rebooting.
+[00:10:04 -> 00:10:06]  Everything's okay.
+[00:10:06 -> 00:10:08]  So, yeah, so, 1-9-1-7.
+[00:10:08 -> 00:10:10]  Here's what I expect you to get out of 1-9-1-7,
+[00:10:10 -> 00:10:12]  and here's what I hope you have...
+[00:10:12 -> 00:10:15]  No, here's what I hope you've got out of 1-9-1-7,
+[00:10:15 -> 00:10:18]  and what I'm expecting you to come to me with.
+[00:10:18 -> 00:10:21]  I'm assuming by now you can program in C.
+[00:10:22 -> 00:10:25]  I'm assuming you can deal with loops,
+[00:10:25 -> 00:10:27]  and nested loops,
+[00:10:27 -> 00:10:29]  and one-dimensional arrays,
+[00:10:29 -> 00:10:31]  and two-dimensional arrays.
+[00:10:31 -> 00:10:33]  Yeah, yeah, arrays to any dimension.
+[00:10:33 -> 00:10:35]  I'm assuming that you can...
+[00:10:35 -> 00:10:38]  You understand pointers and memory allocation,
+[00:10:38 -> 00:10:40]  that you understand how to use malloc,
+[00:10:40 -> 00:10:43]  that you can construct and traverse a linked list,
+[00:10:43 -> 00:10:45]  that you can construct and traverse a tree,
+[00:10:45 -> 00:10:47]  a binary tree.
+[00:10:47 -> 00:10:50]  I'm expecting that if I asked you to create a ring,
+[00:10:50 -> 00:10:52]  which is a list where the beginning attaches to the end,
+[00:10:52 -> 00:10:54]  that you'd be able to have a fair whack at doing it,
+[00:10:54 -> 00:10:56]  even if you hadn't already seen it.
+[00:10:56 -> 00:10:59]  In other words, I'm assuming you have a basic competency in C,
+[00:10:59 -> 00:11:01]  and in this course we'll be using C,
+[00:11:01 -> 00:11:03]  rather than teaching C.
+[00:11:03 -> 00:11:05]  If you are not up to speed with C,
+[00:11:05 -> 00:11:08]  if your C is not exactly spot-on,
+[00:11:08 -> 00:11:12]  then we'll be running a small prac exam next week in the lab,
+[00:11:12 -> 00:11:16]  which will give you an indication as to the level we expect.
+[00:11:16 -> 00:11:20]  If you don't manage to do the prac exam,
+[00:11:20 -> 00:11:22]  or if you do manage to do the prac exam,
+[00:11:22 -> 00:11:24]  but still feel there are weaknesses in your C,
+[00:11:24 -> 00:11:26]  can I encourage you, as quickly as possible,
+[00:11:26 -> 00:11:28]  to brush them up in your own time,
+[00:11:28 -> 00:11:30]  because we won't be spending any time on them in this course.
+[00:11:30 -> 00:11:32]  If you're worried about your programming ability,
+[00:11:32 -> 00:11:34]  please speak to your tutor,
+[00:11:34 -> 00:11:36]  and I'm sure they'll give you extra programming exercises,
+[00:11:36 -> 00:11:38]  and we might even run some remedial classes
+[00:11:38 -> 00:11:40]  for people who need an extra brush-up or reminder.
+[00:11:41 -> 00:11:43]  Just be aware that from now on,
+[00:11:43 -> 00:11:45]  I'm assuming everyone can program,
+[00:11:45 -> 00:11:46]  and we're going to do things with C,
+[00:11:46 -> 00:11:48]  rather than talk about C itself.
+[00:11:50 -> 00:11:52]  That's called a precondition.
+[00:11:52 -> 00:11:54]  Does everyone understand how preconditions work?
+[00:11:56 -> 00:11:58]  Let me show you on the board.
+[00:11:58 -> 00:12:02]  I want you to think of 1927 as being like a black box.
+[00:12:05 -> 00:12:07]  I'll give you some light.
+[00:12:11 -> 00:12:13]  I don't know how to turn that light on.
+[00:12:26 -> 00:12:28]  What do you think?
+[00:12:28 -> 00:12:30]  It's not plugged in?
+[00:12:30 -> 00:12:33]  No one's used this in hundreds of years.
+[00:12:34 -> 00:12:36]  There we go.
+[00:12:40 -> 00:12:43]  1927 I like to think of as a function,
+[00:12:43 -> 00:12:45]  and it takes in some students,
+[00:12:47 -> 00:12:50]  and it puts out some students.
+[00:12:52 -> 00:12:54]  It's a function,
+[00:12:54 -> 00:12:56]  and it's a function,
+[00:12:56 -> 00:12:58]  and it's a function,
+[00:12:58 -> 00:13:00]  and it's a function,
+[00:13:00 -> 00:13:02]  and it's a function,
+[00:13:03 -> 00:13:05]  so it's a function from students to students.
+[00:13:07 -> 00:13:11]  If you enter this course already knowing how to program,
+[00:13:11 -> 00:13:14]  my job is to put you out the other end of the course
+[00:13:14 -> 00:13:16]  as computer scientist.
+[00:13:17 -> 00:13:20]  So what do we call this thing that I said then,
+[00:13:20 -> 00:13:22]  if you already know how to program?
+[00:13:22 -> 00:13:24]  What's the jargon word for that?
+[00:13:24 -> 00:13:26]  It's a precondition.
+[00:13:28 -> 00:13:30]  Something that must be satisfied.
+[00:13:30 -> 00:13:32]  Have you learned this already in 1917?
+[00:13:33 -> 00:13:35]  Yes? No? Yes? No?
+[00:13:35 -> 00:13:37]  No? No? Okay.
+[00:13:37 -> 00:13:39]  Now you've learned it in 1927.
+[00:13:39 -> 00:13:41]  The things that you have to satisfy before starting
+[00:13:41 -> 00:13:43]  are called the preconditions.
+[00:13:43 -> 00:13:45]  The qualities that you can rely on after finishing
+[00:13:45 -> 00:13:47]  are called postconditions.
+[00:13:47 -> 00:13:49]  And a function is something that goes from preconditions
+[00:13:49 -> 00:13:51]  to postconditions.
+[00:13:51 -> 00:13:53]  In C, when you write a function
+[00:13:53 -> 00:13:55]  that has preconditions,
+[00:13:56 -> 00:13:58]  how do we deal with that?
+[00:13:58 -> 00:14:01]  If you're writing a function to divide a number by zero...
+[00:14:04 -> 00:14:05]  Excellent.
+[00:14:05 -> 00:14:07]  You're writing a function to take two numbers in,
+[00:14:07 -> 00:14:09]  divide one by the other,
+[00:14:09 -> 00:14:11]  and the precondition is that the number that goes on the bottom
+[00:14:11 -> 00:14:13]  is not zero.
+[00:14:13 -> 00:14:15]  How do you write that function?
+[00:14:15 -> 00:14:17]  And your output is the answer.
+[00:14:21 -> 00:14:23]  Assert. Yeah, that's right.
+[00:14:23 -> 00:14:25]  If you used an if statement,
+[00:14:25 -> 00:14:27]  you'd be using the logic of your program.
+[00:14:27 -> 00:14:29]  My program would be doing overhead,
+[00:14:29 -> 00:14:31]  and the actual flow of your function
+[00:14:31 -> 00:14:33]  would be trying to deal with the problem
+[00:14:33 -> 00:14:35]  of when an assertion is not met.
+[00:14:35 -> 00:14:37]  And it's not your program's problem
+[00:14:37 -> 00:14:39]  to deal with input
+[00:14:39 -> 00:14:41]  which doesn't meet the criteria.
+[00:14:41 -> 00:14:43]  So the idea is that we can assume
+[00:14:43 -> 00:14:45]  the input coming in is completely correct.
+[00:14:45 -> 00:14:47]  We don't have to put program and logic in
+[00:14:47 -> 00:14:49]  to deal with it not being correct.
+[00:14:49 -> 00:14:51]  Nonetheless, being paranoid programmers,
+[00:14:51 -> 00:14:53]  we know that sometimes it won't be correct,
+[00:14:53 -> 00:14:55]  so the standard way of dealing with that
+[00:14:55 -> 00:14:57]  is we put an assert at the beginning of your program
+[00:14:57 -> 00:14:59]  that asserts the preconditions.
+[00:14:59 -> 00:15:01]  So you would assert...
+[00:15:03 -> 00:15:05]  I can never remember which is on the bottom.
+[00:15:05 -> 00:15:07]  Is that the divisor or the dividend?
+[00:15:07 -> 00:15:09]  Or the...
+[00:15:09 -> 00:15:11]  Dividee?
+[00:15:11 -> 00:15:13]  The denominator.
+[00:15:17 -> 00:15:19]  That'll work for integers.
+[00:15:19 -> 00:15:21]  We might have to do something a bit fancier
+[00:15:21 -> 00:15:23]  for floating-point numbers. Can you read that?
+[00:15:23 -> 00:15:25]  No, it's actually quite glary.
+[00:15:29 -> 00:15:31]  No?
+[00:15:31 -> 00:15:33]  We get reflected light.
+[00:15:33 -> 00:15:35]  There we are, there are my shoes.
+[00:15:37 -> 00:15:39]  Okay, so
+[00:15:39 -> 00:15:41]  in this course,
+[00:15:43 -> 00:15:45]  if you were designing a course,
+[00:15:45 -> 00:15:47]  how would you ensure the preconditions
+[00:15:47 -> 00:15:49]  are met?
+[00:15:49 -> 00:15:51]  Prerequisites, yeah,
+[00:15:51 -> 00:15:53]  you can specify the preconditions,
+[00:15:53 -> 00:15:55]  but you can be sure that
+[00:15:55 -> 00:15:57]  somehow, as a programmer, you can be sure
+[00:15:57 -> 00:15:59]  that sometimes your function is going to be called
+[00:15:59 -> 00:16:01]  with data that doesn't satisfy the preconditions.
+[00:16:01 -> 00:16:03]  And you've got an assert at the beginning
+[00:16:03 -> 00:16:05]  to do it, and what am I putting in that's my equivalent
+[00:16:05 -> 00:16:07]  of an assert?
+[00:16:07 -> 00:16:09]  A PRAC exam.
+[00:16:09 -> 00:16:11]  Yeah, yeah, yeah.
+[00:16:11 -> 00:16:13]  If you don't pass the PRAC exam, I don't mind.
+[00:16:13 -> 00:16:15]  It's only worth a lab mark or something.
+[00:16:15 -> 00:16:17]  It's not irrelevant, but the reason is it's to flag that you're not
+[00:16:17 -> 00:16:19]  meeting the preconditions and to give you an indication to go on.
+[00:16:19 -> 00:16:21]  This is a bit depressing, isn't it? Let's talk about something more interesting than that.
+[00:16:25 -> 00:16:27]  Forty years ago,
+[00:16:27 -> 00:16:29]  almost to the day,
+[00:16:31 -> 00:16:33]  back in my day,
+[00:16:33 -> 00:16:35]  Neil Armstrong
+[00:16:35 -> 00:16:37]  landed on the moon.
+[00:16:37 -> 00:16:39]  And he said,
+[00:16:39 -> 00:16:41]  one small step for man,
+[00:16:41 -> 00:16:43]  one giant leap for mankind.
+[00:16:43 -> 00:16:45]  Which is a pretty cool thing to say.
+[00:16:45 -> 00:16:47]  And actually I heard an interviewer
+[00:16:47 -> 00:16:49]  interviewing him recently.
+[00:16:49 -> 00:16:51]  Recently I heard an interviewer interviewing him.
+[00:16:51 -> 00:16:53]  The interview actually happened 20 years ago.
+[00:16:53 -> 00:16:55]  And the interviewer said,
+[00:16:55 -> 00:16:57]  before you went up, I asked you at the press conference,
+[00:16:57 -> 00:16:59]  what were you going to say when you landed on the moon?
+[00:16:59 -> 00:17:01]  Did you have anything thought out?
+[00:17:01 -> 00:17:03]  And you looked at me blankly and said, no.
+[00:17:03 -> 00:17:05]  And yet when you landed, you had this beautiful thing to say.
+[00:17:05 -> 00:17:07]  When did it come to you?
+[00:17:07 -> 00:17:09]  When did you suddenly realise what you were going to say?
+[00:17:09 -> 00:17:11]  And Neil Armstrong said,
+[00:17:11 -> 00:17:13]  prevaricate. He didn't really answer.
+[00:17:13 -> 00:17:15]  But I was struck by that.
+[00:17:15 -> 00:17:17]  He wrote in such a short period of time, what a profound person.
+[00:17:17 -> 00:17:19]  And then I thought, probably not, because he was doing a profound thing.
+[00:17:19 -> 00:17:21]  And the phrase might have even suggested itself to him.
+[00:17:21 -> 00:17:23]  So let's look at this.
+[00:17:23 -> 00:17:25]  One small step for man, literally what he was doing
+[00:17:25 -> 00:17:27]  was a small step.
+[00:17:27 -> 00:17:29]  What was the giant leap?
+[00:17:31 -> 00:17:33]  The achievement, space.
+[00:17:35 -> 00:17:37]  In what sense,
+[00:17:37 -> 00:17:39]  if you were trying to explain it, I've got a five year old girl.
+[00:17:39 -> 00:17:41]  If I was trying to explain to her, Neil Armstrong said this.
+[00:17:41 -> 00:17:43]  He said, one small step for man,
+[00:17:43 -> 00:17:45]  one giant leap for mankind.
+[00:17:45 -> 00:17:47]  She'd go, she'd probably say,
+[00:17:47 -> 00:17:49]  she's very literal, did he leap? I don't understand.
+[00:17:49 -> 00:17:51]  How would I explain to her? What would I say?
+[00:17:53 -> 00:17:55]  On the moon, gravity's law, a small step could turn into a leap.
+[00:17:59 -> 00:18:01]  Yeah, I could. I could say that.
+[00:18:01 -> 00:18:03]  So what's the, I mean you know.
+[00:18:03 -> 00:18:05]  Can someone articulate?
+[00:18:07 -> 00:18:09]  Yeah, yeah.
+[00:18:09 -> 00:18:11]  What it's meaning is essentially,
+[00:18:11 -> 00:18:13]  the act itself is trivial,
+[00:18:13 -> 00:18:15]  the meaning of the act is quite profound.
+[00:18:15 -> 00:18:17]  Because he knew that once we'd done that,
+[00:18:17 -> 00:18:19]  within ten or twenty years,
+[00:18:19 -> 00:18:21]  we'd have colonies on the moon.
+[00:18:21 -> 00:18:23]  We'd be in Mars.
+[00:18:23 -> 00:18:25]  We'd be, you know, truly extraterrestrial.
+[00:18:25 -> 00:18:27]  It was a very exciting beginning.
+[00:18:27 -> 00:18:29]  I'd like you to think of 1917 as being
+[00:18:31 -> 00:18:33]  looking at the small steps.
+[00:18:33 -> 00:18:35]  1917 is about what we do.
+[00:18:35 -> 00:18:37]  The mechanics of a program.
+[00:18:37 -> 00:18:39]  Writing the program.
+[00:18:39 -> 00:18:41]  I think in computing, what's interesting for me,
+[00:18:41 -> 00:18:43]  is what it means when we write a program.
+[00:18:43 -> 00:18:45]  Thinking about a program in a more profound way.
+[00:18:45 -> 00:18:47]  You need to be able to write them
+[00:18:47 -> 00:18:49]  to get to this state.
+[00:18:49 -> 00:18:51]  You need to be able to take that step for it to be a giant leap.
+[00:18:51 -> 00:18:53]  But gee, if you were just talking about small steps all the time,
+[00:18:53 -> 00:18:55]  life wouldn't be that much fun.
+[00:18:55 -> 00:18:57]  So let's sort of have that as a motto for the course,
+[00:18:57 -> 00:18:59]  that this course in a way is about meaning.
+[00:18:59 -> 00:19:01]  Now I have three letters up here,
+[00:19:01 -> 00:19:03]  that's just my sort of mnemonic for remembering
+[00:19:05 -> 00:19:07]  the central sort of breakdown of the course.
+[00:19:09 -> 00:19:11]  So,
+[00:19:13 -> 00:19:15]  in computing we have
+[00:19:15 -> 00:19:17]  a problem.
+[00:19:17 -> 00:19:19]  We solve the problem
+[00:19:19 -> 00:19:21]  with
+[00:19:23 -> 00:19:25]  an algorithm.
+[00:19:27 -> 00:19:29]  We implement the algorithm
+[00:19:29 -> 00:19:31]  and produce a
+[00:19:31 -> 00:19:33]  program.
+[00:19:33 -> 00:19:35]  We run the program
+[00:19:35 -> 00:19:37]  and we get a
+[00:19:39 -> 00:19:41]  problem.
+[00:19:43 -> 00:19:45]  We get a process.
+[00:19:45 -> 00:19:47]  So this is a static thing,
+[00:19:47 -> 00:19:49]  this is a C source code,
+[00:19:49 -> 00:19:51]  this is the code in motion, it's called a process.
+[00:19:51 -> 00:19:53]  So this is
+[00:19:53 -> 00:19:55]  computing.
+[00:19:55 -> 00:19:57]  When you're learning
+[00:19:57 -> 00:19:59]  programming, like I'll use 1.9.1.7
+[00:19:59 -> 00:20:01]  over and over again, I hope you don't get sick of me saying
+[00:20:01 -> 00:20:03]  1.9.1.7, I'm just trying to contrast
+[00:20:03 -> 00:20:05]  what we're doing with what we've been doing before.
+[00:20:05 -> 00:20:07]  In 1.9.1.7 you've been interested
+[00:20:07 -> 00:20:09]  in which step,
+[00:20:09 -> 00:20:11]  or steps.
+[00:20:13 -> 00:20:15]  I think you will
+[00:20:15 -> 00:20:17]  generally have been given an algorithm.
+[00:20:17 -> 00:20:19]  Not always,
+[00:20:19 -> 00:20:21]  but generally given an algorithm
+[00:20:21 -> 00:20:23]  and you will produce a program to
+[00:20:23 -> 00:20:25]  implement that algorithm.
+[00:20:25 -> 00:20:27]  Sometimes for fun you might have had to think of your own algorithms.
+[00:20:27 -> 00:20:29]  So, hopefully you are
+[00:20:29 -> 00:20:31]  now very competent at this step in the process.
+[00:20:33 -> 00:20:35]  Given an algorithm, you can render
+[00:20:35 -> 00:20:37]  it into C.
+[00:20:37 -> 00:20:39]  Hopefully also in 1.9.1.7 you have learnt
+[00:20:39 -> 00:20:41]  what a program looks like
+[00:20:41 -> 00:20:43]  when it's running. Hopefully you now understand
+[00:20:43 -> 00:20:45]  the structure and organisation of memory,
+[00:20:45 -> 00:20:47]  you understand a little bit about the CPU,
+[00:20:47 -> 00:20:49]  you understand what's happening step by
+[00:20:49 -> 00:20:51]  step inside the computer.
+[00:20:51 -> 00:20:53]  So when you get a stack overflow,
+[00:20:53 -> 00:20:55]  hopefully you know what that means. When you get a segment fault,
+[00:20:55 -> 00:20:57]  hopefully you know what that means.
+[00:20:57 -> 00:20:59]  What happens if you get a segment fault?
+[00:20:59 -> 00:21:01]  What's probably happened?
+[00:21:01 -> 00:21:03]  It will crash,
+[00:21:03 -> 00:21:05]  but what does it mean?
+[00:21:05 -> 00:21:07]  You are accessing some memory
+[00:21:07 -> 00:21:09]  you shouldn't be accessing.
+[00:21:09 -> 00:21:11]  How could your program access memory it shouldn't be accessing?
+[00:21:17 -> 00:21:19]  Yeah, that's right.
+[00:21:19 -> 00:21:21]  If you are following pointers, you are doing some sort of pointer chasing thing,
+[00:21:21 -> 00:21:23]  is that what you mean?
+[00:21:23 -> 00:21:25]  If you are following pointers,
+[00:21:25 -> 00:21:27]  maybe moving along a linked list,
+[00:21:27 -> 00:21:29]  and one of your pointers points off into outer space,
+[00:21:29 -> 00:21:31]  it's just got random rubbish in it.
+[00:21:31 -> 00:21:33]  You jump to that spot and try and read from it,
+[00:21:33 -> 00:21:35]  and it's an area of memory, a segment,
+[00:21:35 -> 00:21:37]  that the computer is not expecting you to be able to read from.
+[00:21:37 -> 00:21:39]  It's not in the data segment.
+[00:21:41 -> 00:21:43]  Oh yeah, in an array, the same thing can happen too.
+[00:21:43 -> 00:21:45]  In an array,
+[00:21:45 -> 00:21:47]  the array might be located
+[00:21:47 -> 00:21:49]  near the end of a data segment.
+[00:21:49 -> 00:21:51]  Heck, it could be anywhere, couldn't it?
+[00:21:51 -> 00:21:53]  Let's suppose it's even at the beginning of a data segment,
+[00:21:53 -> 00:21:55]  and you've got a while loop that's scanning through the array,
+[00:21:55 -> 00:21:57]  and you don't terminate the while loop properly,
+[00:21:57 -> 00:21:59]  so you read beyond the bounds of the array.
+[00:21:59 -> 00:22:01]  You'll eventually start reading into another segment,
+[00:22:01 -> 00:22:03]  and you'll get a segfault.
+[00:22:03 -> 00:22:05]  Does it become a problem when you hit the segfault?
+[00:22:05 -> 00:22:07]  When is the actual problem, if we're looking at an array?
+[00:22:07 -> 00:22:09]  This is just quick super revision.
+[00:22:09 -> 00:22:11]  We're reading through an array.
+[00:22:11 -> 00:22:13]  Read, read, read, read, read.
+[00:22:13 -> 00:22:15]  I hit the end of the array, I keep reading.
+[00:22:15 -> 00:22:17]  Read, read, read, read, read.
+[00:22:17 -> 00:22:19]  When's it a problem?
+[00:22:19 -> 00:22:21]  Read, read, read, I now hit the end of the segment,
+[00:22:21 -> 00:22:23]  I'm in the next segment, now I get a segfault.
+[00:22:23 -> 00:22:25]  When did it become a problem?
+[00:22:25 -> 00:22:27]  What's that?
+[00:22:27 -> 00:22:29]  As soon as I pass the boundary, the end of the array.
+[00:22:31 -> 00:22:33]  What's the problem with reading or writing
+[00:22:33 -> 00:22:35]  beyond the bounds of an array?
+[00:22:39 -> 00:22:41]  You could attack other variables and damage the variables
+[00:22:41 -> 00:22:43]  in operating of your program?
+[00:22:43 -> 00:22:45]  That's one bad thing that could happen.
+[00:22:45 -> 00:22:47]  What's another even more bad thing that might happen?
+[00:22:49 -> 00:22:51]  You could set off a chain reaction?
+[00:22:51 -> 00:22:53]  You could?
+[00:22:53 -> 00:22:55]  You could?
+[00:22:57 -> 00:22:59]  You could have a sort of meltdown or something like that?
+[00:23:03 -> 00:23:05]  Yes, yes.
+[00:23:05 -> 00:23:07]  By changing the value of one variable,
+[00:23:07 -> 00:23:09]  it might change it in such a way that the program
+[00:23:09 -> 00:23:11]  keeps soldering on regardless,
+[00:23:11 -> 00:23:13]  but now one of the variables is skewif,
+[00:23:13 -> 00:23:15]  and that might cause it to muck up another variable.
+[00:23:15 -> 00:23:17]  Maybe the first variable it mucked up was the size of another array.
+[00:23:17 -> 00:23:19]  Now your other array...
+[00:23:19 -> 00:23:21]  Thank you.
+[00:23:21 -> 00:23:23]  Security's the problem.
+[00:23:23 -> 00:23:25]  Every time you turn on Windows and it starts saying
+[00:23:25 -> 00:23:27]  Microsoft apologises, Microsoft apologises,
+[00:23:27 -> 00:23:29]  Microsoft apologises for a little while,
+[00:23:29 -> 00:23:31]  what are they apologising for?
+[00:23:31 -> 00:23:33]  While it's downloading.
+[00:23:33 -> 00:23:35]  They're apologising for their programmers
+[00:23:35 -> 00:23:37]  writing programs which read
+[00:23:37 -> 00:23:39]  or wrote beyond the bounds of an array.
+[00:23:39 -> 00:23:41]  And hopefully in 1.9.1.7
+[00:23:41 -> 00:23:43]  you were chastised about doing that
+[00:23:43 -> 00:23:45]  and driven to not do that, is that right?
+[00:23:45 -> 00:23:47]  It's my personal bugbear because I teach security as well
+[00:23:47 -> 00:23:49]  and there is no fault,
+[00:23:49 -> 00:23:51]  there's no excuse for most of the security
+[00:23:51 -> 00:23:53]  vulnerabilities that
+[00:23:53 -> 00:23:55]  common software has these days,
+[00:23:55 -> 00:23:57]  it's simply because people are writing and reading beyond the ends of the arrays.
+[00:23:57 -> 00:23:59]  So one thing if you really want to annoy me ever
+[00:23:59 -> 00:24:01]  is just read or write
+[00:24:01 -> 00:24:03]  beyond the end of an array.
+[00:24:03 -> 00:24:05]  Every time you do that, somewhere
+[00:24:05 -> 00:24:07]  a fairy dies.
+[00:24:07 -> 00:24:09]  So,
+[00:24:09 -> 00:24:11]  please don't do that.
+[00:24:11 -> 00:24:13]  Okay, so hopefully
+[00:24:13 -> 00:24:15]  in 1.9.1.7 you've done these two parts.
+[00:24:15 -> 00:24:17]  The P and the P.
+[00:24:17 -> 00:24:19]  Well, the parts are actually moving.
+[00:24:19 -> 00:24:21]  So you've moved
+[00:24:21 -> 00:24:23]  from A to P.
+[00:24:23 -> 00:24:25]  Now in this course
+[00:24:25 -> 00:24:27]  we're in the other
+[00:24:27 -> 00:24:29]  half of the world.
+[00:24:31 -> 00:24:33]  We'll be looking
+[00:24:33 -> 00:24:35]  a bit at
+[00:24:35 -> 00:24:37]  problems
+[00:24:37 -> 00:24:39]  and we'll be looking a bit at algorithms.
+[00:24:39 -> 00:24:41]  We'll be
+[00:24:41 -> 00:24:43]  talking a bit
+[00:24:43 -> 00:24:45]  about moving from problems to algorithms
+[00:24:45 -> 00:24:47]  and the relationship between them.
+[00:24:47 -> 00:24:49]  In the course that follows this, 2.9.1.1
+[00:24:49 -> 00:24:51]  that's all
+[00:24:51 -> 00:24:53]  I talk about.
+[00:24:53 -> 00:24:55]  This arrow here.
+[00:24:55 -> 00:24:57]  2.9.1.1 is all about, given a problem,
+[00:24:57 -> 00:24:59]  how do I come up with an appropriate algorithm?
+[00:24:59 -> 00:25:01]  And by algorithm I actually mean algorithm and data structure.
+[00:25:01 -> 00:25:03]  They sort of go together normally.
+[00:25:03 -> 00:25:05]  So in this course, just to give us a context,
+[00:25:05 -> 00:25:07]  we're looking at problems and we're looking at algorithms.
+[00:25:09 -> 00:25:11]  Now I've got some admin stuff to do
+[00:25:11 -> 00:25:13]  because we always do that at the start of a course,
+[00:25:13 -> 00:25:15]  don't we?
+[00:25:15 -> 00:25:17]  Except we're so hot and stuffy
+[00:25:17 -> 00:25:19]  and we got here late and we're all stressed
+[00:25:19 -> 00:25:21]  that I think rather than doing the admin stuff
+[00:25:23 -> 00:25:25]  because how a course normally goes
+[00:25:25 -> 00:25:27]  as you know is
+[00:25:27 -> 00:25:29]  the first lecture you just talk about admin all the time
+[00:25:29 -> 00:25:31]  and then for most of the rest of the course
+[00:25:31 -> 00:25:33]  you learn stuff
+[00:25:33 -> 00:25:35]  and then for the last week or two the lecture just talks about movies.
+[00:25:37 -> 00:25:39]  I thought, why don't we just run it backwards?
+[00:25:39 -> 00:25:41]  So let's just talk about movies.
+[00:25:41 -> 00:25:43]  Because I happen to have some movies here that I've brought in.
+[00:25:43 -> 00:25:45]  Let me show you
+[00:25:45 -> 00:25:47]  these awesome movies.
+[00:25:51 -> 00:25:53]  Alright, I have here
+[00:25:55 -> 00:25:57]  I'm trying to
+[00:25:57 -> 00:25:59]  I've got some girls
+[00:25:59 -> 00:26:01]  and I'm trying to teach them about science fiction.
+[00:26:01 -> 00:26:03]  I think science fiction is very important.
+[00:26:03 -> 00:26:05]  I think science is very important.
+[00:26:07 -> 00:26:09]  So yeah, they like Hannah Montana
+[00:26:09 -> 00:26:11]  which is okay
+[00:26:11 -> 00:26:13]  but I'd like to show them real science.
+[00:26:13 -> 00:26:15]  So I started looking for science fiction movies
+[00:26:15 -> 00:26:17]  and I noticed this terrible thing
+[00:26:17 -> 00:26:19]  that in modern day science fiction movies
+[00:26:19 -> 00:26:21]  it's not about science anymore.
+[00:26:21 -> 00:26:23]  There's magic
+[00:26:23 -> 00:26:25]  and superstition
+[00:26:25 -> 00:26:27]  and it's like fantasy novels.
+[00:26:27 -> 00:26:29]  Notice the genre of science fiction has changed over the years.
+[00:26:29 -> 00:26:31]  It used to be hardcore physics
+[00:26:31 -> 00:26:33]  and now it's all magical
+[00:26:33 -> 00:26:35]  and we used to be that thick a book.
+[00:26:35 -> 00:26:37]  Now it's that thick to read one book
+[00:26:37 -> 00:26:39]  because there's too many characters
+[00:26:39 -> 00:26:41]  and they're all having magical experiences
+[00:26:41 -> 00:26:43]  and I hate magic
+[00:26:43 -> 00:26:45]  and stuff like that.
+[00:26:45 -> 00:26:47]  So let's not start talking about Harry Potter.
+[00:26:47 -> 00:26:49]  So I just like science
+[00:26:49 -> 00:26:51]  so I thought I'll show them some real hardcore science fiction.
+[00:26:51 -> 00:26:53]  So I got
+[00:26:53 -> 00:26:55]  The Invaders from Mars
+[00:26:57 -> 00:26:59]  The Invisible Man
+[00:26:59 -> 00:27:01]  Plan 9 from Outer Space
+[00:27:03 -> 00:27:05]  Them. Has anyone seen the movie Them?
+[00:27:05 -> 00:27:07]  It's about giant ants
+[00:27:07 -> 00:27:09]  affected by a nuclear
+[00:27:09 -> 00:27:11]  not because of magic
+[00:27:11 -> 00:27:13]  but because of a power station leakage
+[00:27:13 -> 00:27:15]  and the ants walk around all the time just going
+[00:27:15 -> 00:27:17]  eee eee eee
+[00:27:17 -> 00:27:19]  which is completely non-scary
+[00:27:19 -> 00:27:21]  but somehow very scary. It's called Them.
+[00:27:21 -> 00:27:23]  Queen? Oh! Queen!
+[00:27:23 -> 00:27:25]  There's nothing scarier than Queen.
+[00:27:25 -> 00:27:27]  The Invasion of the Body Snatchers
+[00:27:29 -> 00:27:31]  Countess Dracula
+[00:27:31 -> 00:27:33]  There's an overlooked classic.
+[00:27:34 -> 00:27:36]  Now that's a weird thing isn't it?
+[00:27:36 -> 00:27:38]  Because science, when it started off
+[00:27:38 -> 00:27:40]  the very first science fiction
+[00:27:40 -> 00:27:42]  the very first science fiction book I know of
+[00:27:42 -> 00:27:44]  I was going to say the very first science fiction
+[00:27:44 -> 00:27:46]  but I might have got it wrong.
+[00:27:46 -> 00:27:48]  Well no!
+[00:27:48 -> 00:27:50]  You think of Tempest or something? Now that's magic!
+[00:27:50 -> 00:27:52]  No, we're not going that way.
+[00:27:52 -> 00:27:54]  I was going to say the very first science fiction
+[00:27:54 -> 00:27:56]  was Mary Shelley
+[00:27:56 -> 00:27:58]  writing Frankenstein
+[00:27:58 -> 00:28:00]  which is essentially science and horror sort of combined
+[00:28:00 -> 00:28:02]  but I'm wondering what about Jules Verne?
+[00:28:02 -> 00:28:04]  Was he before Mary Shelley or after?
+[00:28:04 -> 00:28:06]  He was before.
+[00:28:06 -> 00:28:08]  Okay, yeah, yeah. Good old, the French
+[00:28:08 -> 00:28:10]  they're first every time.
+[00:28:10 -> 00:28:12]  It's H.G. Wells? He was there.
+[00:28:12 -> 00:28:14]  I don't know when H.G. Wells was.
+[00:28:14 -> 00:28:16]  He was at lots of different times because he had this machine.
+[00:28:16 -> 00:28:18]  Yeah, that's right.
+[00:28:18 -> 00:28:20]  So anyway, very early on
+[00:28:20 -> 00:28:22]  science fiction started to degenerate
+[00:28:22 -> 00:28:24]  into horror and themes of horror
+[00:28:24 -> 00:28:26]  and things like that. So I thought I'd show them
+[00:28:26 -> 00:28:28]  some horror films.
+[00:28:28 -> 00:28:30]  The Day of the Triffids, The Day the Earth Stood Still
+[00:28:30 -> 00:28:32]  the original version, I understand there is a new one
+[00:28:32 -> 00:28:34]  and I married a monster from
+[00:28:34 -> 00:28:36]  outer space, just to give them
+[00:28:36 -> 00:28:38]  some sort of advice.
+[00:28:38 -> 00:28:40]  So these are the movies I wanted
+[00:28:40 -> 00:28:42]  them to see. Now, actually I
+[00:28:42 -> 00:28:44]  love movies and I have about a bazillion movies at home
+[00:28:44 -> 00:28:46]  and so I was hunting for
+[00:28:46 -> 00:28:48]  the movies to show the girls and I knew which ones I wanted to show
+[00:28:48 -> 00:28:50]  them.
+[00:28:50 -> 00:28:52]  And I realised I
+[00:28:52 -> 00:28:54]  was able to find them more easily
+[00:28:54 -> 00:28:56]  because how do you think
+[00:28:56 -> 00:28:58]  I had arranged my DVDs at home?
+[00:28:58 -> 00:29:00]  You didn't really arrange them.
+[00:29:00 -> 00:29:02]  Thermonuclearly?
+[00:29:02 -> 00:29:04]  Alphabetically?
+[00:29:04 -> 00:29:06]  Alphabetically, yeah.
+[00:29:06 -> 00:29:08]  I arranged them in a known order.
+[00:29:08 -> 00:29:10]  What's the advantage in me when I search through my
+[00:29:10 -> 00:29:12]  magnificently vast DVD collection?
+[00:29:12 -> 00:29:14]  Possibly not.
+[00:29:14 -> 00:29:16]  What's the advantage of me
+[00:29:16 -> 00:29:18]  having my DVDs in order?
+[00:29:18 -> 00:29:20]  Why?
+[00:29:20 -> 00:29:22]  Why though?
+[00:29:22 -> 00:29:24]  We're not going to be doing superstition in this course.
+[00:29:24 -> 00:29:26]  We're going to be doing science. We're going to need to know reasons
+[00:29:26 -> 00:29:28]  for things and evidence and facts.
+[00:29:28 -> 00:29:30]  Why is it faster to find it if I've got everything sorted?
+[00:29:30 -> 00:29:32]  You can associate it with an index
+[00:29:32 -> 00:29:34]  or something like a letter or something.
+[00:29:34 -> 00:29:36]  So why is that faster though?
+[00:29:36 -> 00:29:38]  Because you don't have to keep searching through
+[00:29:38 -> 00:29:40]  every single DVD. You just need to say
+[00:29:40 -> 00:29:42]  my DVD starts with the letter Z
+[00:29:42 -> 00:29:44]  so I just go all the way around.
+[00:29:44 -> 00:29:46]  So I can quickly have a rough idea about where to start
+[00:29:46 -> 00:29:48]  looking rather than say if I had a list starting at the beginning
+[00:29:48 -> 00:29:50]  scanning along I can think Z is probably
+[00:29:50 -> 00:29:52]  near the end of the bookshelf rather than the beginning
+[00:29:52 -> 00:29:54]  sort of thing. That's right.
+[00:29:54 -> 00:29:56]  So I thought
+[00:29:56 -> 00:29:58]  we could do some algorithms on these
+[00:29:58 -> 00:30:00]  and I've actually mucked up the ordering.
+[00:30:00 -> 00:30:02]  Can I have a volunteer please?
+[00:30:02 -> 00:30:04]  Someone who's
+[00:30:04 -> 00:30:06]  really, really keen to
+[00:30:06 -> 00:30:08]  dob in the person sitting next to them.
+[00:30:08 -> 00:30:10]  Put up your hand if you'd like the person
+[00:30:10 -> 00:30:12]  next to you to sort these DVDs into order for me.
+[00:30:12 -> 00:30:14]  Thank you very much.
+[00:30:14 -> 00:30:16]  And who's the person next to you? Oh I know you, don't I?
+[00:30:16 -> 00:30:18]  I did a 1917 review
+[00:30:18 -> 00:30:20]  but I had a motorbike accident.
+[00:30:20 -> 00:30:22]  I can't remember your name.
+[00:30:22 -> 00:30:24]  Dylan. Hello Dylan. Welcome back.
+[00:30:24 -> 00:30:26]  Were you nominating you or the poor person sitting next to you?
+[00:30:26 -> 00:30:28]  Do you know this person?
+[00:30:30 -> 00:30:32]  This is the attitude I like to see.
+[00:30:32 -> 00:30:34]  He's not afraid.
+[00:30:34 -> 00:30:36]  He's fearlessly going on and dobbing in a
+[00:30:36 -> 00:30:38]  complete stranger. You'll never sit next to him again will you?
+[00:30:40 -> 00:30:42]  So Dylan I actually did trick you. Would you mind
+[00:30:42 -> 00:30:44]  coming up here?
+[00:30:44 -> 00:30:46]  And sorting them into order because I just mucked up the order then.
+[00:30:46 -> 00:30:48]  Somehow I just sort them into order.
+[00:30:48 -> 00:30:50]  Now I want to tell you about
+[00:30:50 -> 00:30:52]  the way I sort. Yeah the. You've spotted the the problem.
+[00:30:52 -> 00:30:54]  It's tradition
+[00:30:54 -> 00:30:56]  in English that if any string begins with the
+[00:30:56 -> 00:30:58]  we subtract that which means them
+[00:30:58 -> 00:31:00]  for example we're going to classify
+[00:31:00 -> 00:31:02]  under M.
+[00:31:02 -> 00:31:04]  If you could do that.
+[00:31:04 -> 00:31:06]  So
+[00:31:06 -> 00:31:08]  if you could just put them in order that'd be cool.
+[00:31:08 -> 00:31:10]  Now I'm going to show you something neat that we can
+[00:31:10 -> 00:31:12]  do
+[00:31:12 -> 00:31:14]  with things when they're sorted and I thought why not
+[00:31:14 -> 00:31:16]  do it on DVDs.
+[00:31:16 -> 00:31:18]  But we're just all
+[00:31:18 -> 00:31:20]  just going to wait a little bit.
+[00:31:20 -> 00:31:22]  What if there's two the's?
+[00:31:22 -> 00:31:24]  No it's only the first the. The algorithm is
+[00:31:24 -> 00:31:26]  if the string begins
+[00:31:26 -> 00:31:28]  with T H E remove T H E and then
+[00:31:28 -> 00:31:30]  continue. So if the band was the the
+[00:31:30 -> 00:31:32]  as a band was once upon a time to try
+[00:31:32 -> 00:31:34]  and destroy indexing systems around the world
+[00:31:34 -> 00:31:36]  we would classify it under
+[00:31:36 -> 00:31:38]  the.
+[00:31:40 -> 00:31:42]  It's weird because a lot of them start with I
+[00:31:42 -> 00:31:44]  isn't it? I never realised most science fiction
+[00:31:44 -> 00:31:46]  yeah no leave the I in there but most science fiction movies
+[00:31:46 -> 00:31:48]  seem to start with I.
+[00:31:48 -> 00:31:50]  Space yeah ignore spaces
+[00:31:50 -> 00:31:52]  let's suppose we're compressing
+[00:31:52 -> 00:31:54]  our strings and
+[00:31:54 -> 00:31:56]  if it starts with a semicolon
+[00:31:56 -> 00:31:58]  we'll ignore all non we'll just look
+[00:31:58 -> 00:32:00]  at alphabetic characters
+[00:32:00 -> 00:32:02]  and we'll assume everything's uppercase
+[00:32:02 -> 00:32:04]  and we'll remove the first three letters if they're
+[00:32:04 -> 00:32:06]  T H E. A Playstation game
+[00:32:06 -> 00:32:08]  that's Sing Star Queen that would go
+[00:32:08 -> 00:32:10]  under S.
+[00:32:10 -> 00:32:14]  Yep
+[00:32:14 -> 00:32:16]  it's going very slowly but you're doing
+[00:32:16 -> 00:32:18]  very no no it's absolutely fine
+[00:32:22 -> 00:32:24]  Yep
+[00:32:28 -> 00:32:30]  awesomely good
+[00:32:30 -> 00:32:32]  thank you very much
+[00:32:32 -> 00:32:34]  absolutely perfect
+[00:32:34 -> 00:32:36]  oh okay
+[00:32:36 -> 00:32:38]  well done. Now I need ten volunteers
+[00:32:38 -> 00:32:40]  so one two
+[00:32:40 -> 00:32:42]  three four five six
+[00:32:42 -> 00:32:44]  seven eight nine
+[00:32:44 -> 00:32:46]  ten
+[00:32:46 -> 00:32:48]  is that okay? Okay. Can you guys come down
+[00:32:48 -> 00:32:50]  here
+[00:32:50 -> 00:32:52]  and stand out the front
+[00:32:52 -> 00:32:54]  thank you very much. It was Dylan?
+[00:32:54 -> 00:32:56]  Thanks. That's awesome. Oh well done
+[00:32:56 -> 00:32:58]  that's very good. Come and stand here and line up along in front
+[00:32:58 -> 00:33:00]  of the board. I just need this bag
+[00:33:00 -> 00:33:02]  it's very important
+[00:33:02 -> 00:33:04]  now what I'm going to do is I'm going to give each of you
+[00:33:04 -> 00:33:06]  oh
+[00:33:06 -> 00:33:08]  Dylan
+[00:33:08 -> 00:33:10]  Dylan
+[00:33:10 -> 00:33:12]  can I ask
+[00:33:12 -> 00:33:14]  can I ask you to help me a bit
+[00:33:14 -> 00:33:16]  so what we're going to do is Dylan
+[00:33:16 -> 00:33:18]  is going to give each of you
+[00:33:18 -> 00:33:20]  the DVDs just give them to them
+[00:33:20 -> 00:33:22]  in the right order if you can
+[00:33:22 -> 00:33:24]  sorry
+[00:33:24 -> 00:33:26]  and I'd like you
+[00:33:26 -> 00:33:28]  to mark your DVD
+[00:33:28 -> 00:33:30]  with a number
+[00:33:30 -> 00:33:32]  just because it's going to be hard for everyone to see the letters
+[00:33:32 -> 00:33:34]  from so far away to see when they're ordered
+[00:33:34 -> 00:33:36]  there's going to be cards here with numbers on so you'll be the lowest one
+[00:33:36 -> 00:33:38]  one two
+[00:33:38 -> 00:33:40]  if you just put it in
+[00:33:40 -> 00:33:42]  yeah if you can put it in order
+[00:33:42 -> 00:33:44]  so give him the lowest alphabetically ordered one
+[00:33:44 -> 00:33:46]  and if you could just insert
+[00:33:46 -> 00:33:48]  that in the bottom
+[00:33:48 -> 00:33:50]  that's brilliant
+[00:33:50 -> 00:33:52]  if you put it all the way up it's actually quite hard to get out
+[00:33:52 -> 00:33:54]  oh I know you too. What's your name?
+[00:33:54 -> 00:33:56]  Hello Cliff. I've forgotten your surname
+[00:33:56 -> 00:33:58]  very nice to see you again
+[00:33:58 -> 00:34:00]  hello there you go
+[00:34:00 -> 00:34:02]  there you go. I don't recognise you at all
+[00:34:02 -> 00:34:04]  thank you
+[00:34:04 -> 00:34:06]  oh
+[00:34:14 -> 00:34:16]  thank you
+[00:34:16 -> 00:34:18]  okay
+[00:34:20 -> 00:34:22]  now
+[00:34:22 -> 00:34:24]  I'll just move this
+[00:34:24 -> 00:34:26]  interrogator out of the way
+[00:34:28 -> 00:34:30]  we'll see if we can trap him
+[00:34:32 -> 00:34:34]  there we go
+[00:34:34 -> 00:34:36]  there we go
+[00:34:36 -> 00:34:38]  thank you
+[00:34:38 -> 00:34:40]  alright so what have we got? We've got Countess Dracula
+[00:34:40 -> 00:34:42]  we have The Day of the Triffids
+[00:34:42 -> 00:34:44]  we have The Day the Earth Stood Still
+[00:34:44 -> 00:34:46]  the original version
+[00:34:46 -> 00:34:48]  I Married a Monster from Outer Space
+[00:34:48 -> 00:34:50]  Invaders from Mars
+[00:34:50 -> 00:34:52]  Invasion of the Body Snatchers
+[00:34:52 -> 00:34:54]  The Invisible Man
+[00:34:54 -> 00:34:56]  Plan Nine from Outer Space
+[00:34:56 -> 00:34:58]  Them and Queen Singstar
+[00:34:58 -> 00:35:00]  thank you very much
+[00:35:00 -> 00:35:02]  now
+[00:35:02 -> 00:35:04]  can you just hold them up so everyone can see the number
+[00:35:04 -> 00:35:06]  when it's in there
+[00:35:06 -> 00:35:08]  can you slip it inside because we might be moving the discs around
+[00:35:08 -> 00:35:10]  we want it to sort of attach
+[00:35:10 -> 00:35:12]  so if you could slip it somehow between the plastic and the cover
+[00:35:12 -> 00:35:14]  yeah awesome
+[00:35:14 -> 00:35:16]  thank you
+[00:35:16 -> 00:35:18]  now I don't know if you were watching
+[00:35:18 -> 00:35:20]  while Dylan was doing that but I was watching him
+[00:35:20 -> 00:35:22]  and he did
+[00:35:22 -> 00:35:24]  different things both times
+[00:35:24 -> 00:35:26]  two times you had to sort it
+[00:35:26 -> 00:35:28]  but I noticed you did
+[00:35:28 -> 00:35:30]  different things both times
+[00:35:30 -> 00:35:32]  what did you do the first time? Do you remember how you sorted it?
+[00:35:32 -> 00:35:34]  was everyone watching what he was doing? It was very interesting
+[00:35:34 -> 00:35:36]  what did you do?
+[00:35:36 -> 00:35:38]  I was trying to say the alphabet
+[00:35:38 -> 00:35:40]  you were saying the alphabet but how did you arrange them?
+[00:35:44 -> 00:35:46]  yeah I'm not articulating it very well
+[00:35:46 -> 00:35:48]  and I'm picking on you now for a third time I'm sorry
+[00:35:48 -> 00:35:50]  so let's say your name's Dylan
+[00:35:50 -> 00:35:52]  I'm going to ask you
+[00:35:52 -> 00:35:54]  we have a problem, what's the problem?
+[00:35:54 -> 00:35:56]  we lost the firewire cable
+[00:35:56 -> 00:35:58]  we lost the firewire cable
+[00:35:58 -> 00:36:00]  but what's the problem in this situation?
+[00:36:00 -> 00:36:02]  we need to sort
+[00:36:02 -> 00:36:04]  the numbers
+[00:36:04 -> 00:36:06]  so that's the problem, sorting the DVDs
+[00:36:06 -> 00:36:08]  the algorithm
+[00:36:08 -> 00:36:10]  is the what?
+[00:36:10 -> 00:36:12]  how's an algorithm different to a program?
+[00:36:14 -> 00:36:16]  the steps it needs to do
+[00:36:16 -> 00:36:18]  independent of any language or particular realisation
+[00:36:18 -> 00:36:20]  or use of memory or anything like that
+[00:36:20 -> 00:36:22]  what's that?
+[00:36:22 -> 00:36:24]  hang on I'm going to hold the microphone up so everyone can hear what you're saying
+[00:36:26 -> 00:36:28]  because he's actually, his eyes lit up
+[00:36:28 -> 00:36:30]  you've just remembered what you did
+[00:36:30 -> 00:36:32]  because often, I mean all the time
+[00:36:32 -> 00:36:34]  when we do things, we just do them
+[00:36:34 -> 00:36:36]  and often we don't reflect on what we're doing
+[00:36:36 -> 00:36:38]  your body does clever things and your brain does clever things
+[00:36:38 -> 00:36:40]  but often unless we take a step back and look at it
+[00:36:40 -> 00:36:42]  we don't notice what we're doing
+[00:36:42 -> 00:36:44]  so yeah tell us, speak into the mic
+[00:36:46 -> 00:36:48]  sorry to be a pain
+[00:36:48 -> 00:36:50]  I can't hear that, can anyone hear that?
+[00:36:50 -> 00:36:52]  oh yeah
+[00:36:52 -> 00:36:54]  I think the mic's just turned way down
+[00:36:56 -> 00:36:58]  go
+[00:37:02 -> 00:37:04]  yep
+[00:37:04 -> 00:37:06]  so you got the first DVD from the pile, from the unsorted pile
+[00:37:10 -> 00:37:12]  yes
+[00:37:12 -> 00:37:14]  thank you very much
+[00:37:14 -> 00:37:16]  that's exactly what you did, thank you, well done
+[00:37:16 -> 00:37:18]  what he did the first time was
+[00:37:18 -> 00:37:20]  he pulled the DVDs out of the unsorted pile
+[00:37:20 -> 00:37:22]  one at a time
+[00:37:22 -> 00:37:24]  and he placed them into a sorted pile
+[00:37:24 -> 00:37:26]  and as he did
+[00:37:26 -> 00:37:28]  took each new one out, he inserted it
+[00:37:28 -> 00:37:30]  into the right spot in the sorted pile
+[00:37:30 -> 00:37:32]  does anyone know
+[00:37:32 -> 00:37:34]  what that algorithm is called?
+[00:37:34 -> 00:37:36]  no
+[00:37:36 -> 00:37:38]  insertion sort
+[00:37:38 -> 00:37:40]  insertion sort is, we start with unsorted data
+[00:37:40 -> 00:37:42]  we pick
+[00:37:42 -> 00:37:44]  go through the unsorted data one element at a time
+[00:37:44 -> 00:37:46]  and we put it into the correct spot
+[00:37:46 -> 00:37:48]  so far
+[00:37:48 -> 00:37:50]  ignoring the remaining unsorted data
+[00:37:50 -> 00:37:52]  so when you've only got one thing, there's only one right spot for it
+[00:37:52 -> 00:37:54]  it's at the beginning
+[00:37:54 -> 00:37:56]  then you pick the next thing up, now you've got two things
+[00:37:56 -> 00:37:58]  so you make a decision, does this go before that one or after that one
+[00:37:58 -> 00:38:00]  you make a decision by comparing them
+[00:38:00 -> 00:38:02]  put it down, then you pick up the third one
+[00:38:02 -> 00:38:04]  and you think, oh where can I put that, how many spots have you got to put the third one
+[00:38:04 -> 00:38:06]  three spots, so you do a couple of comparisons
+[00:38:06 -> 00:38:08]  best case, how many comparisons do you have to do
+[00:38:08 -> 00:38:10]  one comparison
+[00:38:10 -> 00:38:12]  the first comparison tells you it goes right at the end
+[00:38:12 -> 00:38:14]  or you might do another comparison
+[00:38:14 -> 00:38:16]  that's called insertion sort
+[00:38:16 -> 00:38:18]  it's a beautiful sort
+[00:38:18 -> 00:38:20]  it's actually what I do whenever I'm playing cards
+[00:38:20 -> 00:38:22]  without even thinking about it
+[00:38:22 -> 00:38:24]  as I pick up my cards and insert them into my hand
+[00:38:24 -> 00:38:26]  I'm always doing insertion sort
+[00:38:26 -> 00:38:28]  if anyone plays cards
+[00:38:28 -> 00:38:30]  but the second time
+[00:38:30 -> 00:38:32]  describe again what you did the second time
+[00:38:32 -> 00:38:34]  I tried to find the next letter
+[00:38:34 -> 00:38:36]  yes
+[00:38:36 -> 00:38:38]  so he came to the first position
+[00:38:38 -> 00:38:40]  what's your name?
+[00:38:40 -> 00:38:42]  Shogun
+[00:38:42 -> 00:38:44]  Shogun
+[00:38:44 -> 00:38:46]  that's an excellent name
+[00:38:46 -> 00:38:48]  he came to Shogun
+[00:38:48 -> 00:38:50]  and he said
+[00:38:50 -> 00:38:52]  instead of giving you one and then
+[00:38:52 -> 00:38:54]  picking the next one and working out if you guys have got to swap
+[00:38:54 -> 00:38:56]  he wanted to put the first one in the
+[00:38:56 -> 00:38:58]  exactly correct spot first time through
+[00:38:58 -> 00:39:00]  so he wouldn't ever have to go back to it again
+[00:39:00 -> 00:39:02]  so he gave it to you and he moved on
+[00:39:02 -> 00:39:04]  and he never came back to you again and never did any more comparisons
+[00:39:04 -> 00:39:06]  he did all the comparisons in his head first and gave you the right one
+[00:39:06 -> 00:39:08]  then he took the next smallest one and gave it
+[00:39:08 -> 00:39:10]  then he took the next smallest one and so on
+[00:39:10 -> 00:39:12]  who knows what that is called?
+[00:39:12 -> 00:39:14]  selection sort
+[00:39:14 -> 00:39:16]  that's not shell sort
+[00:39:16 -> 00:39:18]  but as punishment for
+[00:39:18 -> 00:39:20]  Jarrah
+[00:39:20 -> 00:39:22]  punishment for Jarrah, come down here Jarrah
+[00:39:22 -> 00:39:24]  we're about to do
+[00:39:24 -> 00:39:26]  a bubble sort
+[00:39:26 -> 00:39:28]  Jarrah
+[00:39:28 -> 00:39:30]  tell everyone the algorithm for bubble sort
+[00:39:30 -> 00:39:32]  you take
+[00:39:32 -> 00:39:34]  you go through
+[00:39:34 -> 00:39:36]  oh man
+[00:39:36 -> 00:39:38]  don't even tell us
+[00:39:38 -> 00:39:40]  no we'll do it
+[00:39:40 -> 00:39:42]  that's how we'll do it
+[00:39:42 -> 00:39:44]  yes
+[00:39:44 -> 00:39:46]  it's a series of swaps
+[00:39:46 -> 00:39:48]  can you guys just move into a different order
+[00:39:48 -> 00:39:50]  you can't look there
+[00:39:50 -> 00:39:52]  just pass the DVDs
+[00:39:52 -> 00:39:54]  jumble your DVDs
+[00:39:58 -> 00:40:00]  alright good
+[00:40:00 -> 00:40:02]  you've got two
+[00:40:02 -> 00:40:04]  well done
+[00:40:04 -> 00:40:06]  this is what we call
+[00:40:06 -> 00:40:08]  the sorting hat
+[00:40:08 -> 00:40:10]  so I'm going to put that on you
+[00:40:14 -> 00:40:16]  can you see anything Jarrah?
+[00:40:16 -> 00:40:18]  I can see perfectly
+[00:40:22 -> 00:40:24]  he can actually see
+[00:40:24 -> 00:40:26]  now I want you to ask
+[00:40:26 -> 00:40:28]  two people, your name is person one
+[00:40:28 -> 00:40:30]  your name is person two, your name is person three
+[00:40:30 -> 00:40:32]  four, five, six, seven, eight
+[00:40:32 -> 00:40:34]  nine, ten, they're not your names they're your indexes
+[00:40:34 -> 00:40:36]  does everyone remember their index?
+[00:40:36 -> 00:40:38]  alright ask some people
+[00:40:38 -> 00:40:40]  by index number to compare their
+[00:40:40 -> 00:40:42]  cards and we're going to
+[00:40:42 -> 00:40:44]  carry out a bubble sort
+[00:40:46 -> 00:40:48]  do you mind standing there with a hat on?
+[00:40:48 -> 00:40:50]  it's ok, you don't look silly
+[00:40:50 -> 00:40:52]  there's a mic
+[00:40:52 -> 00:40:54]  Jarrah I've got a mic, hold it up
+[00:40:54 -> 00:40:56]  there you go, have you got it?
+[00:40:56 -> 00:40:58]  that's right, it's a tiny little one
+[00:40:58 -> 00:41:00]  if you hold that inside
+[00:41:00 -> 00:41:02]  the reason I've got him blindfolded is
+[00:41:02 -> 00:41:04]  I want you to see an algorithm
+[00:41:04 -> 00:41:06]  is something that's carried out completely mindlessly
+[00:41:06 -> 00:41:08]  as human beings if we look
+[00:41:08 -> 00:41:10]  at what we're doing our brain makes little
+[00:41:10 -> 00:41:12]  shortcuts and we just think oh I can skip that step
+[00:41:12 -> 00:41:14]  because of that, but because Jarrah now
+[00:41:14 -> 00:41:16]  has no notion of the data
+[00:41:16 -> 00:41:18]  he's oblivious to the way the data is actually sorted
+[00:41:18 -> 00:41:20]  he will give us a precise execution
+[00:41:20 -> 00:41:22]  of the algorithm
+[00:41:24 -> 00:41:26]  you can ask say for example
+[00:41:26 -> 00:41:28]  index one is your card bigger or smaller than
+[00:41:28 -> 00:41:30]  index three
+[00:41:30 -> 00:41:32]  no, no, no
+[00:41:32 -> 00:41:34]  you're always index one
+[00:41:38 -> 00:41:40]  am I sorting in ascending?
+[00:41:40 -> 00:41:42]  don't mind
+[00:41:42 -> 00:41:44]  might as well make it ascending
+[00:41:44 -> 00:41:46]  index two
+[00:41:46 -> 00:41:48]  is your card bigger or smaller than
+[00:41:48 -> 00:41:50]  index three
+[00:41:50 -> 00:41:52]  no it's not bigger
+[00:41:52 -> 00:41:54]  oh I like it, well done
+[00:41:54 -> 00:41:56]  that's very good
+[00:41:56 -> 00:41:58]  we can't say is it smaller or bigger
+[00:41:58 -> 00:42:00]  because if we say smaller or bigger
+[00:42:00 -> 00:42:02]  what else do we have to allow for?
+[00:42:02 -> 00:42:04]  equals, in this case we've got data without repetition
+[00:42:04 -> 00:42:06]  so it's irrelevant, but computers can't do three way
+[00:42:06 -> 00:42:08]  comparisons, so yeah, is it bigger?
+[00:42:08 -> 00:42:10]  we can only ask yes no questions
+[00:42:10 -> 00:42:12]  index three is your card
+[00:42:14 -> 00:42:16]  is your card bigger than index four
+[00:42:18 -> 00:42:20]  can you swap with index four
+[00:42:20 -> 00:42:22]  that's right, just swap
+[00:42:22 -> 00:42:24]  well done, excellent
+[00:42:24 -> 00:42:26]  index two, are you bigger than index three
+[00:42:26 -> 00:42:28]  bubble sort
+[00:42:28 -> 00:42:30]  so you've got to keep going
+[00:42:30 -> 00:42:32]  keep going all the way to the end
+[00:42:40 -> 00:42:42]  your dad said
+[00:42:42 -> 00:42:44]  can you pay, I'll give you 100 bucks
+[00:42:44 -> 00:42:46]  if you get my son to sit down on the floor
+[00:42:46 -> 00:42:48]  with 200 people looking at him with a bag on his head
+[00:42:48 -> 00:42:50]  and just whenever he says something say it's wrong
+[00:42:50 -> 00:42:52]  so man I owe you big time
+[00:42:52 -> 00:42:54]  but you're doing absolutely fine, but don't forget
+[00:42:54 -> 00:42:56]  bubble sort keeps going the whole way along
+[00:42:56 -> 00:42:58]  I feel like I'm back in undergrad
+[00:42:58 -> 00:43:00]  index four
+[00:43:00 -> 00:43:02]  are you bigger than index five
+[00:43:02 -> 00:43:04]  can you swap
+[00:43:04 -> 00:43:06]  well done
+[00:43:06 -> 00:43:08]  index five, are you bigger than index six
+[00:43:08 -> 00:43:10]  no
+[00:43:10 -> 00:43:12]  good, stay that way
+[00:43:12 -> 00:43:14]  are you bigger than index seven
+[00:43:14 -> 00:43:16]  yes
+[00:43:16 -> 00:43:18]  swap
+[00:43:18 -> 00:43:20]  index seven, are you bigger than index eight
+[00:43:20 -> 00:43:22]  no
+[00:43:22 -> 00:43:24]  index eight, are you bigger than index nine
+[00:43:24 -> 00:43:26]  yes
+[00:43:26 -> 00:43:28]  swap
+[00:43:28 -> 00:43:30]  index, how many are there
+[00:43:30 -> 00:43:32]  ten
+[00:43:32 -> 00:43:34]  nine, ten, bigger
+[00:43:34 -> 00:43:36]  swap
+[00:43:36 -> 00:43:38]  well done
+[00:43:42 -> 00:43:44]  he's thinking hard
+[00:43:44 -> 00:43:46]  by the way the prac exam is
+[00:43:46 -> 00:43:48]  can everyone bring a Woolworths bag
+[00:43:48 -> 00:43:50]  you're doing very well Jarrah
+[00:43:50 -> 00:43:52]  are you ready to keep going with the next round
+[00:43:56 -> 00:43:58]  do I just start from one again
+[00:43:58 -> 00:44:00]  no, you could
+[00:44:00 -> 00:44:02]  I think I was up to three
+[00:44:02 -> 00:44:04]  it's a bubble sort, it's oblivious
+[00:44:06 -> 00:44:08]  one, are you bigger than two
+[00:44:08 -> 00:44:10]  no
+[00:44:10 -> 00:44:12]  two, are you bigger than three
+[00:44:12 -> 00:44:14]  swap
+[00:44:14 -> 00:44:16]  three, are you bigger than four
+[00:44:16 -> 00:44:18]  four, are you bigger than five
+[00:44:18 -> 00:44:20]  no
+[00:44:20 -> 00:44:22]  good, five, are you bigger than six
+[00:44:22 -> 00:44:24]  swap
+[00:44:24 -> 00:44:26]  six, are you bigger than seven
+[00:44:26 -> 00:44:28]  good, seven, are you bigger than eight
+[00:44:28 -> 00:44:30]  swap
+[00:44:30 -> 00:44:32]  eight, are you bigger than nine
+[00:44:32 -> 00:44:34]  swap
+[00:44:34 -> 00:44:36]  nine, are you bigger than ten
+[00:44:36 -> 00:44:38]  good, you're bigger than two
+[00:44:38 -> 00:44:40]  two, are you bigger than three
+[00:44:40 -> 00:44:42]  sorry
+[00:44:42 -> 00:44:44]  go
+[00:44:44 -> 00:45:11]  Oh, hang on, do you have to do any more comparisons now?
+[00:45:11 -> 00:45:16]  I don't remember.
+[00:45:16 -> 00:45:22]  Notice that, as a result of the first pass-through, Jarrah successfully put the biggest one in the end position.
+[00:45:22 -> 00:45:26]  So he never has to do a comparison with the end one ever again.
+[00:45:26 -> 00:45:29]  He'll still be doing it anyway, because he's not going to be able to figure out...
+[00:45:29 -> 00:45:32]  No, no, you will always...
+[00:45:32 -> 00:45:35]  The biggest one will be in position 10 after the first pass-through.
+[00:45:35 -> 00:45:36]  Thank you.
+[00:45:36 -> 00:45:42]  After the first pass-through, you are guaranteed that the biggest one is now in the correct spot.
+[00:45:42 -> 00:45:44]  But everyone else, who knows? They've all jumbled up a bit.
+[00:45:44 -> 00:45:48]  After the second pass, which you did successfully, that's already in the right spot.
+[00:45:48 -> 00:45:53]  So now on your third pass-through, once you get to the third last position, you don't need to keep going.
+[00:45:53 -> 00:45:59]  And I think we can do one more round and then maybe stop.
+[00:45:59 -> 00:46:00]  Why are you bigger than 2?
+[00:46:00 -> 00:46:01]  Yes.
+[00:46:01 -> 00:46:02]  What?
+[00:46:02 -> 00:46:03]  Swap.
+[00:46:03 -> 00:46:06]  When did you do that?
+[00:46:06 -> 00:46:07]  2, bigger than 3?
+[00:46:07 -> 00:46:08]  No.
+[00:46:08 -> 00:46:09]  3, bigger than 4?
+[00:46:09 -> 00:46:10]  No.
+[00:46:10 -> 00:46:11]  4, bigger than 5?
+[00:46:11 -> 00:46:12]  No.
+[00:46:12 -> 00:46:13]  5, bigger than 6?
+[00:46:13 -> 00:46:14]  No.
+[00:46:14 -> 00:46:15]  6, bigger than 7?
+[00:46:15 -> 00:46:16]  Yep.
+[00:46:16 -> 00:46:17]  Swap.
+[00:46:17 -> 00:46:18]  7, bigger than 8?
+[00:46:18 -> 00:46:20]  No, you're done now.
+[00:46:20 -> 00:46:21]  Thank you.
+[00:46:21 -> 00:46:26]  Can everyone give Jarrah a big hand?
+[00:46:26 -> 00:46:28]  Jarrah, look at the data.
+[00:46:28 -> 00:46:35]  You've got it completely sorted now, except there's only one who's out of order, which is the original version.
+[00:46:35 -> 00:46:40]  Notice each pass from now on, that's just going to move down one.
+[00:46:40 -> 00:46:43]  Can you see that?
+[00:46:43 -> 00:46:44]  What did we do?
+[00:46:44 -> 00:46:47]  We did a bubble sort.
+[00:46:47 -> 00:46:48]  Can you hear?
+[00:46:48 -> 00:46:51]  Oh no, I had fly spray in here.
+[00:46:51 -> 00:46:53]  It's supposed to have neurological effects.
+[00:46:53 -> 00:46:56]  Can you hear?
+[00:46:57 -> 00:47:01]  Can everyone give Jarrah another hand?
+[00:47:01 -> 00:47:03]  Guys, just stay there one second.
+[00:47:03 -> 00:47:06]  That was the most humiliating thing I've ever done to anyone before.
+[00:47:06 -> 00:47:07]  I'm very sorry.
+[00:47:07 -> 00:47:09]  And you did that magnificently well.
+[00:47:09 -> 00:47:13]  Notice now, it's still going to take us...
+[00:47:13 -> 00:47:16]  Oh, I can hear something now.
+[00:47:16 -> 00:47:23]  It's still going to take us a couple more passes, because in each pass, this 4 is just going to move down one.
+[00:47:23 -> 00:47:27]  All the other numbers got into position quite quickly, except the 4.
+[00:47:27 -> 00:47:32]  By the way, do you remember at the beginning when we jumbled up the numbers?
+[00:47:32 -> 00:47:36]  Who had the 4?
+[00:47:36 -> 00:47:39]  No, who took the 4 and jumbled it up?
+[00:47:39 -> 00:47:41]  I did.
+[00:47:41 -> 00:47:44]  Everyone else jumbled locally with their neighbours.
+[00:47:44 -> 00:47:47]  A bubble sort creates local order really quite quickly.
+[00:47:47 -> 00:47:50]  I wanted to have one that's way out of whack, so I took 4 right up to the end.
+[00:47:50 -> 00:47:52]  That's going to take that many passes to get it down to this end.
+[00:47:52 -> 00:47:54]  Thank you very much, everyone.
+[00:47:54 -> 00:47:57]  Can we give them all a hand, because you did magnificently well.
+[00:47:57 -> 00:48:00]  Thank you.
+[00:48:00 -> 00:48:02]  We'll take a break now.
+[00:48:02 -> 00:48:04]  I'll try and fix up this fire alarm.
+[00:48:04 -> 00:48:06]  We'll meet again in 10 minutes' time.
+[00:48:06 -> 00:48:07]  Thank you very much.
+[00:48:07 -> 00:48:08]  Thank you, everyone.

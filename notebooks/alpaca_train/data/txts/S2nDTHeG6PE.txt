@@ -1,0 +1,100 @@
+[00:00:00 -> 00:00:04]  Hallo und willkommen zu Projekte leicht gemacht. Heute geht es mal wieder um Ziele.
+[00:00:04 -> 00:00:08]  Ja, trotz Smartformel tun sich viele unheimlich schwer damit,
+[00:00:08 -> 00:00:13]  ihre Ziele knapp und dennoch unmissverständlich und präzise aufzuschreiben.
+[00:00:13 -> 00:00:18]  Daher gibt es jetzt von uns sechs einfache Tipps, mit denen die Zielformulierung wie
+[00:00:18 -> 00:00:21]  im Schlaf gelingen wird. Also bleiben sie dran, gleich geht's los.
+[00:00:31 -> 00:00:38]  Da liest man in der Projektdokumentation unter Ziele so gruselige Sätze wie
+[00:00:38 -> 00:00:43]  die Entwicklungsabteilung soll zusammen mit der Produktion an einem neuen Druckbehälter
+[00:00:43 -> 00:00:49]  arbeiten. Abgesehen davon, dass da jetzt mal so gar nichts smart formuliert ist.
+[00:00:49 -> 00:00:54]  Das ist nicht mal ein Ziel. Ja, was soll denn da überhaupt erreicht werden?
+[00:00:54 -> 00:00:58]  Ich vermute ja mal, es soll ein neuer Druckbehälter entwickelt werden.
+[00:00:58 -> 00:01:03]  Aber das steht da so nicht. Das muss ich mir jetzt denken, oder wie?
+[00:01:03 -> 00:01:10]  An etwas arbeiten. Was soll das sein? Leute, so geht das nicht.
+[00:01:10 -> 00:01:15]  Ich sag doch dem Taxifahrer auch nicht, fahren sie mal so ein bisschen auf der A7 rum.
+[00:01:15 -> 00:01:20]  Nee, ich sag dem um 10 Uhr. Da muss ich am Flughafen Hamburg sein.
+[00:01:20 -> 00:01:25]  Das ist ein Ziel. Und nicht sowas wie auf der A7 fahren.
+[00:01:25 -> 00:01:33]  An einem Druckbehälter arbeiten. Also, von smarten Zielen spricht ja jeder.
+[00:01:33 -> 00:01:36]  Dazu gab es ja auch schon eine ganz eigene Folge bei uns. Unbedingt mal reinschauen.
+[00:01:36 -> 00:01:42]  Aber erfahrungsgemäß stellt die Zielformulierung trotz Kenntnis der Smartformel Projektmanager
+[00:01:42 -> 00:01:48]  immer wieder vor Probleme. Darum jetzt von uns sechs einfache Tipps zur Zielformulierung.
+[00:01:48 -> 00:01:54]  Das ersetzt nicht die Smartformel, aber es ergänzt sie. Also, auf geht's.
+[00:01:54 -> 00:02:04]  Erstens. Einen Zustand beschreiben. Das Wichtigste an einem Vorhaben ist in der Regel das Ergebnis.
+[00:02:04 -> 00:02:10]  Was will ich am Ende erreicht haben? Genau das müssen Sie als Ziel formulieren.
+[00:02:10 -> 00:02:15]  Und das beschreibt sich am besten als Zustand. Beschreiben Sie keine Tätigkeiten,
+[00:02:15 -> 00:02:22]  keine Aktivitäten, sondern das Endergebnis, den Endzustand, den Sie erreichen wollen.
+[00:02:23 -> 00:02:29]  Einfaches Beispiel vom Anfang. Sie wollen nicht Taxi fahren. Nein, Ihr Ziel ist es,
+[00:02:29 -> 00:02:34]  dass Sie pünktlich am Flughafen sind. Den Zustand wollen Sie. Die Fahrt dahin,
+[00:02:34 -> 00:02:40]  die ist nur Mittel zum Zweck. Sie wollen auch nicht, dass jemand einen Druckbehälter entwickelt.
+[00:02:40 -> 00:02:46]  Nee, Ihr Ziel ist es, am Ende des Projekts einen funktionierenden Prototypen des
+[00:02:46 -> 00:02:51]  Druckbehälters in den Händen zu halten. Solche Ziele wie die zwei nennen sich
+[00:02:51 -> 00:02:58]  Ergebnisziele. Aber Achtung, jetzt kommt's. Gleich bei diesem ersten Tipp muss ich da
+[00:02:58 -> 00:03:03]  schon eine kleine Ausnahme nennen. Manchmal zählt nicht nur das Ergebnis,
+[00:03:03 -> 00:03:08]  sondern auch der Weg zu diesem. Der kann vorgegeben sein oder er hat
+[00:03:08 -> 00:03:11]  irgendwelche harten Randbedingungen. Nehmen wir mal wieder den Druckbehälter.
+[00:03:11 -> 00:03:18]  Wenn es dem Auftraggeber nun sehr wichtig ist, dass bei der Entwicklung der potenzielle Kunde
+[00:03:18 -> 00:03:26]  ganz eng mit eingebunden wird, dann wird das vielleicht als eigenes Ziel formuliert. Zusätzlich
+[00:03:26 -> 00:03:34]  zum Ergebnisziel. Es finden während der Entwicklung regelmäßig Abstimmungsrunden
+[00:03:34 -> 00:03:41]  mit dem Kunden statt. Das könnte so eine Vorgabe sein. Das ist dann ein Vorgehensziel. Und
+[00:03:41 -> 00:03:47]  Vorgehensziele, die können Sie nicht so gut als Zustand beschreiben. Also merken,
+[00:03:47 -> 00:03:56]  es gibt Ausnahmen und das sind die Vorgehensziele. Zweitens, in die Zukunft versetzen. Wenn Sie
+[00:03:56 -> 00:04:01]  den Zielzustand gut beschreiben wollen, dann geht das besonders leicht, wenn Sie sich gedanklich
+[00:04:01 -> 00:04:06]  in die Zukunft versetzen. Hier ist jetzt Fantasie gefragt. Stellen Sie sich vor,
+[00:04:06 -> 00:04:14]  das Projekt ist zu Ende und Sie schauen auf das Ergebnis. Was wollen Sie dann sehen? Beschreiben
+[00:04:14 -> 00:04:20]  Sie diesen Zielzustand aus genau dieser Perspektive. Ein simpler Trick hilft aber ungemein.
+[00:04:20 -> 00:04:30]  Drittens, in der Gegenwartsform beschreiben. Wenn Sie sich schon gedanklich in die Zukunft
+[00:04:30 -> 00:04:35]  versetzt haben, dann sollten Sie aus dieser Perspektive auch in der Gegenwart schreiben.
+[00:04:36 -> 00:04:44]  Also, wie beschreibt Ihr Ich in der Zukunft den erreichten Zustand? Na, in der Zukunft,
+[00:04:44 -> 00:04:49]  da werden Sie nicht sagen, XYZ soll erreicht werden. Nee, da heißt es dann hoffentlich,
+[00:04:49 -> 00:04:58]  XYZ liegt vor, ist erreicht und so weiter. Also nicht, wir wollen im nächsten Jahr den Umsatz
+[00:04:58 -> 00:05:05]  auf 10 Millionen erhöhen. Nein, Zustand und Gegenwart. Also, stattdessen, der Jahresumsatz
+[00:05:05 -> 00:05:13]  beträgt 10 Millionen, in Klammern, im nächsten Jahr. Tja, der ein oder andere, der denkt jetzt
+[00:05:13 -> 00:05:19]  bestimmt, der Blumenau, der spinnt doch, was reitet der so drauf rum? Zustand, Perspektive
+[00:05:19 -> 00:05:24]  in der Zukunft, Gegenwartsform. Na, da sag ich nur, diese spezielle Art zu formulieren,
+[00:05:24 -> 00:05:32]  die hilft Ihnen. Zum einen hilft es dabei, nicht immer wieder in diese elendwagen Absichtserklärungen
+[00:05:32 -> 00:05:38]  und Tätigkeitsbeschreibungen zu verfallen. Die sind ja gar keine Ziele. Und zum anderen,
+[00:05:38 -> 00:05:46]  na, ich gebe Ihnen mal drei Sätze. Ich will nächstes Jahr mit dem Rauchen aufhören. Ich
+[00:05:46 -> 00:05:56]  werde nächstes Jahr mit dem Rauchen aufhören. Ich bin ab dem 1. Januar 100%iger Nichtraucher.
+[00:05:56 -> 00:06:05]  Na, welcher dieser drei Sätze ist wohl der stärkste? Na klar, Sie sehen ja die Steigerung
+[00:06:05 -> 00:06:11]  von der wagen Absichtserklärung, ich will irgendwas machen, über ich werde irgendwas
+[00:06:11 -> 00:06:16]  machen hin zum stärksten. Ich habe zu einem Zeitpunkt in der Zukunft etwas erreicht.
+[00:06:16 -> 00:06:23]  Die letzte Variante, die mag ja sprachlich nicht ganz sauber sein, aber der Satz, der
+[00:06:23 -> 00:06:29]  stellt das Erreichen des Ziels in keinster Weise infrage. Das motiviert. Und außerdem
+[00:06:29 -> 00:06:35]  ist es präzise auf den Punkt und lässt keine Diskussionen zu. Das ist die Kraft von Zustand,
+[00:06:35 -> 00:06:44]  Zukunftsperspektive und Gegenwartsform. Viertens, positiv formulieren. Okay,
+[00:06:44 -> 00:06:50]  das klingt jetzt trivial und das ist es irgendwo auch. Positiv formulierte Aussagen,
+[00:06:50 -> 00:06:55]  die fühlen sich einfach besser an als Verbote, als negative Aussagen. Das motiviert einfach mehr.
+[00:06:55 -> 00:07:03]  Ein ganz einfacher psychologischer Trick. Ich bin Nichtraucher, das klingt besser als
+[00:07:03 -> 00:07:10]  ich rauche nicht mehr. Bei ich bin Nichtraucher, da habe ich einen schönen neuen Zustand erreicht.
+[00:07:10 -> 00:07:19]  Bei ich rauche nicht mehr, da habe ich mir was verboten. Vielleicht was, womit sogar viele schöne
+[00:07:19 -> 00:07:26]  Erinnerungen verbunden sind. Etwas zu unterlassen, das ist immer viel negativer belegt als etwas zu
+[00:07:26 -> 00:07:34]  erreichen. Das Budget einzuhalten, das klingt nach Erfolg. Das Budget nicht zu überschreiten,
+[00:07:35 -> 00:07:43]  das klingt nach Einschränkung. Und dabei bedeutet beides ja absolut das Gleiche. Also,
+[00:07:43 -> 00:07:48]  positiv formulieren, vielleicht nur eine Feinheit, aber eine, mit der man sich vieles
+[00:07:48 -> 00:07:56]  einfacher macht und sich einfach besser fühlt. Kommen wir zum Nächsten. Vergleiche vermeiden.
+[00:07:56 -> 00:08:04]  Höhere Kundenzufriedenheit, geringere Ausfallraten, höherer Umsatz, alles schön und gut. Klingt
+[00:08:04 -> 00:08:12]  sogar motivierend und positiv. Aber ist das griffig? Ist da wirklich klar, was genau erreicht
+[00:08:12 -> 00:08:18]  werden soll? Nee, absolut nicht. Selbst wenn wir dazusagen, im Vergleich zu was wir das meinen,
+[00:08:18 -> 00:08:27]  also höherer Umsatz als im Vorjahr zum Beispiel. Ich meine, was soll denn das heißen? Mehr. Höher.
+[00:08:27 -> 00:08:37]  Einen Cent mehr? 100.000 Euro mehr? 10 Millionen mehr? Und was war überhaupt der Umsatz im Vorjahr?
+[00:08:37 -> 00:08:46]  Also, machen Sie es konkret. Machen Sie es einfach. Wer das Ziel liest, der soll nicht
+[00:08:46 -> 00:08:52]  erst nachforschen müssen, wie hoch der Umsatz im Vorjahr war. Nein, ganz eindeutig und einfach
+[00:08:52 -> 00:08:58]  muss es sein. Der Umsatz im nächsten Jahr beträgt mindestens 60 Millionen Euro. Das ist ein Ziel,
+[00:08:58 -> 00:09:08]  das erfasst jeder sofort. Da braucht es dann keine Diskussion. So, der letzte Tipp. Sechstens,
+[00:09:08 -> 00:09:14]  hilfreiche Fragen stellen. Das ist jetzt im Grunde eine Hilfestellung zu den fünf
+[00:09:14 -> 00:09:24]  Tipps davor. Fragen Sie, was wurde erreicht und nicht, was wurde getan? Was ist das Ergebnis? Was
+[00:09:24 -> 00:09:33]  ist der positive Endzustand, der erreicht werden soll? Zu welchem Zeitpunkt soll dieser Zielzustand
+[00:09:33 -> 00:09:42]  erreicht sein? Und welche Aussagen und Zahlen beschreiben den Zielzustand eindeutig? Schauen
+[00:09:42 -> 00:09:48]  Sie sich die Fragen nochmal an. Wenn Ihre Ziele darauf die Antworten geben, dann haben Sie sie
+[00:09:48 -> 00:09:55]  gut formuliert. Und jetzt fragt sich der eine oder andere, sind die Ziele dann auch smart?
+[00:09:55 -> 00:10:04]  Na, spezifisch, messbar und terminiert? Auf jeden Fall. S, M und T haben Sie also schon. Ganz ohne
+[00:10:04 -> 00:10:13]  große Mühe. Also, zum Schluss nochmal ein Überblick. Unsere Tipps zur Zielformulierung.
+[00:10:13 -> 00:10:23]  Einen Zustand beschreiben. In die Zukunft versetzen. In der Gegenwartsform beschreiben.
+[00:10:23 -> 00:10:31]  Positiv formulieren. Vergleiche vermeiden. Und zum Schluss hilfreiche Fragen stellen.
+[00:10:32 -> 00:10:38]  Wie eingangs gesagt, das ersetzt jetzt nicht die Smartformel, aber es hilft bei der Formulierung
+[00:10:38 -> 00:10:45]  und macht Ihnen das Leben hoffentlich ein bisschen leichter. So, habe ich Sie mit diesem Video
+[00:10:45 -> 00:10:49]  neugierig gemacht? Na, dann haben wir eine komplette Ausbildung im Projektmanagement für
+[00:10:49 -> 00:10:57]  Sie. Darin allein zwei ganze Kurse nur zum Thema Ziele und Risiken. Alles flexibel, 100% online
+[00:10:57 -> 00:11:04]  und nach den Standards der IBMA. Den Link, den gibt es unterm Video. Wir machen Sie fit fürs
+[00:11:04 -> 00:11:10]  Projekt. Wir machen Sie fit für die Zertifizierung. Ach ja. Und hat Ihnen das Video gefallen? Dann
+[00:11:10 -> 00:11:15]  geben Sie uns einen Daumen hoch, abonnieren Sie unseren Kanal. Wir sehen uns wieder. Bleiben Sie
+[00:11:15 -> 00:11:15]  dran.

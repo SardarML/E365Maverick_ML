@@ -1,0 +1,694 @@
+[00:00:00 -> 00:00:08]  Good afternoon, ladies and gentlemen.
+[00:00:08 -> 00:00:10]  My name is Kevin Heintz.
+[00:00:10 -> 00:00:16]  As she mentioned, I am a content manager and senior editor at Wordvice, and we are a global
+[00:00:16 -> 00:00:18]  editing company.
+[00:00:18 -> 00:00:23]  I'm very honored to be here speaking with you today at the Transplantation Society of
+[00:00:23 -> 00:00:24]  Taiwan.
+[00:00:24 -> 00:00:29]  My presentation is going to be quite a bit different than the ones you've seen prior.
+[00:00:29 -> 00:00:35]  This isn't going to be about medical techniques or innovations.
+[00:00:35 -> 00:00:40]  It's going to be about manuscripts, and something you're probably all very familiar with.
+[00:00:40 -> 00:00:45]  Specifically, I want to bring your attention to ways in which you as an author of a manuscript
+[00:00:45 -> 00:00:51]  can self-edit your work, and thereby increase your chance of being published in journals
+[00:00:51 -> 00:00:53]  to what you're applying.
+[00:00:53 -> 00:00:57]  And I know that publishing in journals is extremely important, especially if you work
+[00:00:57 -> 00:01:03]  in academic environments or at many professional companies, drug companies, you want to have
+[00:01:03 -> 00:01:05]  a higher profile.
+[00:01:05 -> 00:01:11]  So in the world of clinical research writing, rejection by journals is not the exception,
+[00:01:11 -> 00:01:12]  but the norm.
+[00:01:12 -> 00:01:18]  Probably everybody in this room has been rejected at some point from a journal.
+[00:01:18 -> 00:01:22]  So it's not something to be ashamed about or lose sleep over, but if we really want
+[00:01:22 -> 00:01:27]  to get our work published in a scientific journal, then the question we have to ask
+[00:01:27 -> 00:01:32]  is why exactly are our manuscripts being rejected?
+[00:01:32 -> 00:01:36]  So one answer that we have to this question is that there is a deficiency in the quality
+[00:01:36 -> 00:01:41]  of writing in a great many of the manuscripts that are submitted.
+[00:01:41 -> 00:01:48]  So there's thousands of manuscripts submitted to scientific journals, and while the scientific
+[00:01:48 -> 00:01:55]  research is in many ways novel, provides a contribution, has extreme quality of research,
+[00:01:55 -> 00:01:58]  the quality of writing parameter sometimes is lacking.
+[00:01:58 -> 00:02:02]  So that's what I want to focus on today.
+[00:02:02 -> 00:02:05]  So what exactly do we mean by quality of writing?
+[00:02:05 -> 00:02:09]  It's not an equal meaning to quality of research, but rather refers to the way in which the
+[00:02:09 -> 00:02:15]  research is presented in the words and explanation in the manuscript.
+[00:02:15 -> 00:02:20]  We want to divide this today into two categories, and I'll be talking about manuscript content
+[00:02:20 -> 00:02:24]  as well as writing and composition.
+[00:02:24 -> 00:02:30]  When I talk about manuscript content issues, I mean consistency of material.
+[00:02:30 -> 00:02:34]  Is the material consistent and logical in its exposition?
+[00:02:34 -> 00:02:38]  Does the title match the actual topic that you're writing about?
+[00:02:38 -> 00:02:42]  Is the abstract up to date with all the findings in the paper?
+[00:02:42 -> 00:02:49]  When we discuss inclusion of appropriate content, it's self-explanatory, but do the introductions,
+[00:02:49 -> 00:02:54]  the methods, results, and discussion section include all of the necessary information?
+[00:02:54 -> 00:02:56]  Do they include too much information?
+[00:02:56 -> 00:02:58]  So we'll be looking at those.
+[00:02:58 -> 00:03:03]  In the second part of my presentation, we'll discuss writing and composition issues.
+[00:03:03 -> 00:03:09]  This refers to using correct grammar and writing style, effective writing style.
+[00:03:09 -> 00:03:14]  Since style affects the readability, the comprehension, and engagement with readers
+[00:03:14 -> 00:03:20]  of a particular journal, this is extremely important to journal editors and publishers
+[00:03:20 -> 00:03:26]  for the ultimate goal of the journal is to have it be read by a wide readership.
+[00:03:26 -> 00:03:30]  So the whole purpose of this presentation is to give you practical ways to improve the
+[00:03:30 -> 00:03:33]  quality of your writing.
+[00:03:33 -> 00:03:39]  What I want to convince you is that by acting in the role of researcher, author, and editor,
+[00:03:39 -> 00:03:43]  all three of those, manuscript writers can take control when it comes to getting their
+[00:03:43 -> 00:03:46]  work published.
+[00:03:46 -> 00:03:51]  So to add to this evidence that quality of writing does play a role in our journal acceptance
+[00:03:51 -> 00:03:58]  or rejection, I want to show you a 2013 study of papers that were submitted to medical journals.
+[00:03:58 -> 00:04:02]  These were papers based in African and Asian countries.
+[00:04:02 -> 00:04:05]  Some of the journals you may even be familiar with.
+[00:04:05 -> 00:04:11]  In this study, there were 42 papers analyzed, and they found crucial flaws in every section
+[00:04:11 -> 00:04:13]  of the manuscripts.
+[00:04:13 -> 00:04:15]  Just a few stats from this.
+[00:04:15 -> 00:04:19]  Nearly 68% had problems in the introduction and results section.
+[00:04:19 -> 00:04:23]  So almost 70% introduction and results.
+[00:04:23 -> 00:04:30]  86% had flaws in material and methods section, and 71% in the discussion section.
+[00:04:30 -> 00:04:35]  So as you can see, the errors are manifold and various throughout the essay.
+[00:04:35 -> 00:04:38]  But what do we mean by flaws?
+[00:04:38 -> 00:04:42]  The author gives some details about this in the results.
+[00:04:42 -> 00:04:47]  They discuss that there's insufficient background information, inappropriate review of literature,
+[00:04:47 -> 00:04:53]  a lack of a clear problem statement and research objectives, an introduction whose lengths
+[00:04:53 -> 00:04:56]  were inappropriate, and there's actually quite a bit more.
+[00:04:56 -> 00:04:59]  I thought this was particularly interesting.
+[00:04:59 -> 00:05:00]  The end of the results here.
+[00:05:00 -> 00:05:06]  The authors say that a large proportion of the reviewed articles lacked good grammatical
+[00:05:06 -> 00:05:07]  writing.
+[00:05:07 -> 00:05:11]  So since that's a central issue we're talking about today, I hope you can take it to heart
+[00:05:11 -> 00:05:13]  and pay attention to this.
+[00:05:13 -> 00:05:17]  Well, a minority lacked scientific validity or originality.
+[00:05:17 -> 00:05:24]  So basically, that means that regardless of the quality of research, methodology, etc.,
+[00:05:24 -> 00:05:30]  if the quality of writing wasn't up to snuff, the manuscript was rejected.
+[00:05:30 -> 00:05:35]  So there's ample evidence to suggest that this is a serious concern for all researchers
+[00:05:35 -> 00:05:41]  who wish to get published, especially in leading journals.
+[00:05:41 -> 00:05:45]  One more excerpt from this is in the conclusion section.
+[00:05:45 -> 00:05:48]  The authors say that manuscripts had remarkable errors.
+[00:05:48 -> 00:05:53]  There is a need for attention to detail in study design, manuscript preparation, and
+[00:05:53 -> 00:05:57]  that further training of medical scientists and the techniques for manuscript writing
+[00:05:57 -> 00:05:59]  for journal publication is needed.
+[00:05:59 -> 00:06:02]  So that is exactly what we're discussing today.
+[00:06:02 -> 00:06:09]  So how can manuscript authors be aware of where they are making the mistakes in content?
+[00:06:09 -> 00:06:12]  I want you to think about this as a checklist.
+[00:06:12 -> 00:06:17]  So this is some common content errors by section, but we won't go into great detail.
+[00:06:17 -> 00:06:22]  Just using it as a checklist while you edit and revise your manuscript, you can ask yourself
+[00:06:22 -> 00:06:26]  whether your paper has any of these deficiencies.
+[00:06:26 -> 00:06:30]  So let's just go through each section and we'll give a couple examples for each.
+[00:06:30 -> 00:06:33]  So the first is misleading or obscure titles.
+[00:06:33 -> 00:06:38]  A title that does not set the limits of the study right at the beginning is a serious
+[00:06:38 -> 00:06:39]  error.
+[00:06:39 -> 00:06:45]  For example, a basic investigation that uses an animal model should mention in its title
+[00:06:45 -> 00:06:48]  that the study is an animal study.
+[00:06:48 -> 00:06:53]  You might think that's kind of an odd example, but as an editor, we see this a lot.
+[00:06:53 -> 00:07:01]  We see that the title is way off base, and we realize that the majority of manuscripts
+[00:07:01 -> 00:07:05]  that we edit are from non-native English speakers.
+[00:07:05 -> 00:07:11]  And because most of the international journals are written in English, this is a disadvantage
+[00:07:11 -> 00:07:14]  for non-native speakers.
+[00:07:14 -> 00:07:17]  But there are ways that you can correct for this, and we will show you that.
+[00:07:18 -> 00:07:21]  The second section is inaccurate abstract.
+[00:07:21 -> 00:07:27]  Abstracts are written sometimes several months before the paper is written, so there is often
+[00:07:27 -> 00:07:32]  a discrepancy between the abstract and the content within the manuscript.
+[00:07:32 -> 00:07:38]  So if you are about to be submitting your manuscript for publication, you should always
+[00:07:38 -> 00:07:43]  check the abstract and make sure it's updated with the recently acquired data that you have
+[00:07:43 -> 00:07:46]  in the body of your paper.
+[00:07:46 -> 00:07:49]  The next section that has errors is the introduction.
+[00:07:49 -> 00:07:52]  The introduction should follow the form of an outline.
+[00:07:52 -> 00:07:58]  It should contain the study question, hypothesis, and study objectives.
+[00:07:58 -> 00:08:04]  If all of this information is not specified, if the importance of the study is not shown,
+[00:08:04 -> 00:08:06]  it's considered a major error.
+[00:08:06 -> 00:08:11]  So you want to make sure you have all of the required elements listed in your introduction.
+[00:08:11 -> 00:08:14]  We'll go through these quickly since we're a little short on time today.
+[00:08:14 -> 00:08:16]  Careless methods.
+[00:08:17 -> 00:08:22]  The authors will have the same methods in a previous study as they do for a current
+[00:08:22 -> 00:08:27]  study, and they will copy those methods and paste them into their manuscript.
+[00:08:27 -> 00:08:33]  This is actually self-plagiarism, and it's a serious problem, so you want to make sure
+[00:08:33 -> 00:08:39]  to write your section every time you have a new manuscript.
+[00:08:39 -> 00:08:42]  Next section is omitted results.
+[00:08:42 -> 00:08:45]  The results section, as with most, adhere to a word limit.
+[00:08:45 -> 00:08:53]  So authors will often leave some information out, either intentionally or unintentionally.
+[00:08:53 -> 00:08:57]  For example, not all the study subjects might be accounted for in the study, or the names
+[00:08:57 -> 00:09:01]  are not provided for specific analysis.
+[00:09:01 -> 00:09:06]  So you need to make sure and write out all your results as well.
+[00:09:06 -> 00:09:08]  And last is the discussion section.
+[00:09:08 -> 00:09:12]  So there's many common errors in the discussion section.
+[00:09:12 -> 00:09:16]  For instance, the flow of ideas is disconnected or not supported.
+[00:09:16 -> 00:09:20]  The content is too expansive and wanders from the results.
+[00:09:20 -> 00:09:25]  Key results are poorly explained, and the study's limitations are not described.
+[00:09:25 -> 00:09:32]  So again, I want you to look at this as a checklist, looking at each section and analyzing
+[00:09:32 -> 00:09:33]  it during the editing process.
+[00:09:33 -> 00:09:39]  And a good way to do that is not only look at it on your own, but always, a good rule
+[00:09:39 -> 00:09:45]  of thumb is to always have a peer, whether someone working on the study with you or someone
+[00:09:45 -> 00:09:51]  in an unrelated field even, so you have an objective view and to make sure that everything
+[00:09:51 -> 00:09:55]  is complete in these sections.
+[00:09:55 -> 00:10:00]  Today we're just going to look at titles and abstract in a little greater detail.
+[00:10:00 -> 00:10:06]  So I want to drive home this point about the beginning of your manuscript being essential
+[00:10:06 -> 00:10:12]  and how you present and using quality of writing as a crucial criteria.
+[00:10:12 -> 00:10:19]  So Dr. Paul T. Wong assesses seven common reasons why submissions are rejected, and
+[00:10:19 -> 00:10:24]  he talks about quality of writing being a crucial criteria.
+[00:10:24 -> 00:10:28]  So he writes some simple suggestions that you might follow.
+[00:10:28 -> 00:10:33]  Simply by, let's see, an editor or reviewer can decide whether a manuscript is good simply
+[00:10:33 -> 00:10:37]  by reading the abstract or the first couple paragraphs.
+[00:10:37 -> 00:10:43]  Because this is the first chunk of the manuscript that editors and reviewers see, they're going
+[00:10:43 -> 00:10:48]  to base their judgment upon the quality of the research and the quality of the writing
+[00:10:48 -> 00:10:52]  and the importance of the writing based upon these first sections.
+[00:10:52 -> 00:10:57]  So he advises that you pay a special attention to the quality of writing in the abstract
+[00:10:57 -> 00:10:59]  as well as the first paragraph.
+[00:10:59 -> 00:11:03]  And he doesn't mention this explicitly, but we're going to throw in the title.
+[00:11:03 -> 00:11:09]  Because the title is the most visible part of the manuscript to researchers, to anybody
+[00:11:09 -> 00:11:14]  that is looking through a database for a manuscript.
+[00:11:14 -> 00:11:16]  So let's start with the title.
+[00:11:16 -> 00:11:19]  I want to give you some tips for crafting an appropriate title, and again, this will
+[00:11:19 -> 00:11:21]  be in a checklist form.
+[00:11:21 -> 00:11:24]  So there's no hard and fast rules.
+[00:11:24 -> 00:11:32]  The rule of thumb is to read through the journals that you want to submit to and see what their
+[00:11:32 -> 00:11:41]  guidelines are and see what the sort of structure that they follow.
+[00:11:41 -> 00:11:44]  So tip number one is keep it short.
+[00:11:44 -> 00:11:49]  Avoid filler words like the effects of, a comparison of, a case study of.
+[00:11:49 -> 00:11:53]  And this is pretty par for the course in manuscripts.
+[00:11:53 -> 00:11:56]  You can see these a lot, these terms.
+[00:11:56 -> 00:11:58]  The fact is that they're not essential.
+[00:11:58 -> 00:12:03]  If they're not essential, if your study has a very long title already, you want to get
+[00:12:03 -> 00:12:08]  rid of these because the longer your title, the harder it is to search for.
+[00:12:08 -> 00:12:11]  Don't use questions or complete sentences in the title.
+[00:12:11 -> 00:12:15]  A phrase is often the best way to go.
+[00:12:15 -> 00:12:17]  Don't use abbreviations in your title.
+[00:12:17 -> 00:12:24]  There are some exceptions to this, such as if you are using an acronym that is widely
+[00:12:24 -> 00:12:29]  known, interdisciplinary, such as DNA.
+[00:12:29 -> 00:12:33]  But otherwise, don't use too specific abbreviations within the title.
+[00:12:33 -> 00:12:38]  Save that for after the abstract.
+[00:12:38 -> 00:12:41]  You want to narrow the scope of what is in your paper.
+[00:12:41 -> 00:12:53]  So if you have a paper that is about the gastrointestinal diseases in 70-year-olds in Seville, Spain,
+[00:12:53 -> 00:12:58]  writing a title that reads, Disorders of the Stomach in Elderly Spanish People is
+[00:12:58 -> 00:13:00]  too broad, right?
+[00:13:00 -> 00:13:07]  It's definitely too broad for what your paper is about, so you need to keep it narrow.
+[00:13:07 -> 00:13:11]  But you also want to use keywords that other researchers will use.
+[00:13:11 -> 00:13:19]  So the balance of narrowing your scope and using general keywords to have a greater chance
+[00:13:19 -> 00:13:25]  of hitting upon your manuscript in the database is the real trick of the title.
+[00:13:25 -> 00:13:29]  And one way to do that is to put important terms at the beginning and at the end of your
+[00:13:29 -> 00:13:30]  title.
+[00:13:30 -> 00:13:34]  So if you have a case study at the beginning, it's less likely to get a hit.
+[00:13:34 -> 00:13:41]  If you have the content, the real focus of your study at the beginning, it's easier to
+[00:13:41 -> 00:13:44]  see and it's more likely to result in a keyword hit.
+[00:13:44 -> 00:13:48]  And last on this list, again, research the journal database.
+[00:13:48 -> 00:13:55]  You really need to do your homework before you submit to any publication.
+[00:13:55 -> 00:14:03]  Nature is a different magazine than psychology, is a different publication than medical publications,
+[00:14:03 -> 00:14:07]  so you really need to know your readership, you really need to know what the reviewers
+[00:14:07 -> 00:14:09]  of the journals are looking for.
+[00:14:09 -> 00:14:15]  So you have to really think about this holistically, think about how you're presenting your manuscript
+[00:14:16 -> 00:14:20]  to the audience that reads those journals.
+[00:14:20 -> 00:14:24]  So let's look at some explicit ways how we can revise our title.
+[00:14:24 -> 00:14:30]  So here I have written, I've actually taken this from a publication, but changed it just
+[00:14:30 -> 00:14:31]  a little bit.
+[00:14:31 -> 00:14:34]  We have quite a long title, as you can see.
+[00:14:34 -> 00:14:39]  A case study that assesses the impact of program volume and composition on waiting list outcomes
+[00:14:39 -> 00:14:42]  in pediatric kidney transplantation.
+[00:14:42 -> 00:14:46]  So if you can tell, there's a couple things wrong with this.
+[00:14:46 -> 00:14:53]  One, it's really long, and two, it has a lot of extra words we don't need.
+[00:14:53 -> 00:15:06]  So the first thing you might do to change this title is to eliminate the case study.
+[00:15:06 -> 00:15:08]  As we mentioned, that's not the most important.
+[00:15:08 -> 00:15:12]  And next, that assesses, right, because you're referring to the case study, you don't need
+[00:15:12 -> 00:15:16]  to talk about what it does.
+[00:15:16 -> 00:15:21]  So a more straightforward and active looking title would read like this, assessing the
+[00:15:21 -> 00:15:23]  impact of program volume, etc.
+[00:15:23 -> 00:15:30]  So at the beginning you have the physical, a powerful word about what your study is doing,
+[00:15:30 -> 00:15:38]  and at the end you have the content, the important term, pediatric kidney transplantation.
+[00:15:38 -> 00:15:42]  Another example, the associations between bleeding and thrombosis and ventricular assist
+[00:15:42 -> 00:15:46]  device therapy, a four-year longitudinal study.
+[00:15:46 -> 00:15:51]  I want you to look at it for five seconds and see which parts you might trim to make
+[00:15:51 -> 00:15:54]  it look nicer and leaner.
+[00:15:54 -> 00:16:01]  Again, the beginning, the associations between, when you have two ideas, we already assume
+[00:16:01 -> 00:16:07]  that there are associations between them, and the structure of the study, the methodology
+[00:16:07 -> 00:16:14]  of a four-year longitudinal study, it's interesting information, it's not essential in the title.
+[00:16:14 -> 00:16:18]  So we can make it a little bit tighter and write the focus at the beginning, bleeding
+[00:16:18 -> 00:16:23]  and thrombosis, associated with ventricular assist device therapy.
+[00:16:23 -> 00:16:30]  Looks a lot nicer and the manuscripts, the journals that you send it to will undoubtedly
+[00:16:30 -> 00:16:32]  think so as well.
+[00:16:32 -> 00:16:34]  So let's move on to the abstract.
+[00:16:34 -> 00:16:39]  The abstract is the pivot point of a paper, because many journal editorial boards screen
+[00:16:39 -> 00:16:42]  their manuscripts based only on the abstract.
+[00:16:42 -> 00:16:48]  Even though you're paying the publisher's money to read your work, these people are
+[00:16:48 -> 00:16:53]  human, they have thousands of manuscripts to read, and if the abstract doesn't do it
+[00:16:53 -> 00:16:59]  for them, does not tell them what they need, your manuscript might end up in the garbage.
+[00:16:59 -> 00:17:00]  You don't want that, right?
+[00:17:00 -> 00:17:05]  So again, let's think about these suggestions as a practical checklist.
+[00:17:05 -> 00:17:07]  Number one, completeness.
+[00:17:07 -> 00:17:10]  How do you know when you have enough information in your abstract?
+[00:17:10 -> 00:17:14]  A simple rule of thumb is to imagine that you are another researcher.
+[00:17:14 -> 00:17:21]  You're doing a search for a similar study, but it's not the exact same study.
+[00:17:21 -> 00:17:23]  You come upon your abstract.
+[00:17:23 -> 00:17:28]  You should ask yourself if this abstract was the only part of the paper that you can access,
+[00:17:29 -> 00:17:34]  if you don't have a membership to Scribd, would you be happy with the amount of information
+[00:17:34 -> 00:17:35]  presented here?
+[00:17:35 -> 00:17:38]  Does it tell the whole story about your study?
+[00:17:38 -> 00:17:42]  If the answer is no, then the abstract needs to be revised, and you need to spend a lot
+[00:17:42 -> 00:17:45]  of time on your abstract, of course.
+[00:17:45 -> 00:17:53]  Whether the abstract is structured or unstructured is very important, and again, you can find
+[00:17:53 -> 00:17:58]  this out by looking at the guidelines of the journal, looking at other manuscripts that
+[00:17:58 -> 00:18:00]  a journal has published.
+[00:18:00 -> 00:18:06]  If it calls for explicit structure, you certainly want to write that out.
+[00:18:06 -> 00:18:07]  Don't overlook these things.
+[00:18:07 -> 00:18:17]  It's a good way to weed out your paper from the field.
+[00:18:17 -> 00:18:20]  Next, writing style.
+[00:18:20 -> 00:18:27]  So you want to, I want to say this with a caveat, use the active voice whenever possible,
+[00:18:27 -> 00:18:28]  for the content of the given journals.
+[00:18:28 -> 00:18:33]  I might say this a few more times, for the content of the given journal.
+[00:18:33 -> 00:18:41]  Active voice conveys a clearer message of subject and predicates.
+[00:18:41 -> 00:18:47]  However, in many journals, throughout the last 20 or 30 years, the passive voice has
+[00:18:47 -> 00:18:51]  sort of been the de rigueur, the way to go in manuscripts.
+[00:18:51 -> 00:18:56]  This doesn't necessarily mean it's the best way to write, but if your journal that you're
+[00:18:56 -> 00:19:03]  submitting to tends to use a lot more passive, you might consider using that.
+[00:19:03 -> 00:19:08]  But keep in mind that if your entire manuscript is written in the passive voice, it's much
+[00:19:08 -> 00:19:10]  harder to read, even for native speakers.
+[00:19:10 -> 00:19:15]  It's not as readable, and therefore, usually not as interesting.
+[00:19:15 -> 00:19:18]  You want to, again, write the abstract last.
+[00:19:18 -> 00:19:23]  Avoid all abbreviations, excessive jargon, or confusing terms.
+[00:19:23 -> 00:19:25]  Think about your abstract similarly to the title.
+[00:19:25 -> 00:19:29]  You want it to be understood by a wider audience.
+[00:19:29 -> 00:19:34]  And last, your abstract should not contain these things, lengthy background information.
+[00:19:34 -> 00:19:41]  If you are doing a study on the bottlenose dolphin in the Caribbean, you don't want to
+[00:19:41 -> 00:19:46]  write about the entire history of the bottlenose dolphin in your abstract.
+[00:19:46 -> 00:19:49]  A simple summary, one-sentence summary, will suffice.
+[00:19:49 -> 00:19:54]  You do not want to reference other literature explicitly in your abstract.
+[00:19:54 -> 00:19:59]  You do not want to use ellipses or incomplete sentences, and this seems obvious, but again,
+[00:19:59 -> 00:20:06]  as editors, we see this a lot, and changing the abstract is a bit touchy as an editor,
+[00:20:06 -> 00:20:11]  because we do not want to change your intended meaning and your important content, because
+[00:20:11 -> 00:20:13]  the abstract is so important.
+[00:20:13 -> 00:20:18]  And last, don't reference visual aids and make reference to them in the abstract.
+[00:20:18 -> 00:20:22]  It's simply a waste of time and space.
+[00:20:22 -> 00:20:29]  So in 2016, our company, Wordvice, analyzed several million words on the papers we received
+[00:20:29 -> 00:20:34]  in the previous year, and we did this to find out exactly where the most errors occurred,
+[00:20:34 -> 00:20:36]  and to help our clients understand these errors.
+[00:20:36 -> 00:20:40]  The more they understand, the easier our job becomes as well.
+[00:20:40 -> 00:20:46]  So we broke these down into several categories.
+[00:20:46 -> 00:20:55]  We have style at 32%, word choice, 22%, and grammar at 21% of the edits we make in total.
+[00:20:55 -> 00:21:00]  So these are the lion's share of the errors that we see in our manuscripts.
+[00:21:00 -> 00:21:08]  And to look further at grammar, which we will be looking at first, we found that there's
+[00:21:08 -> 00:21:12]  definitely some that are more prevalent than others.
+[00:21:12 -> 00:21:13]  Word forms were 6%.
+[00:21:13 -> 00:21:17]  These are a little tricky to analyze.
+[00:21:17 -> 00:21:23]  There's lots of algorithms that we use, but subject-verb agreement at 12%, prepositions
+[00:21:23 -> 00:21:29]  12%, and determiners were 62% of the edits that we made.
+[00:21:29 -> 00:21:39]  Now determiners refers to articles, A and the, this, that, really small, seemingly non-important
+[00:21:39 -> 00:21:43]  elements in your paper, but when you add them up, they're extremely important, and they
+[00:21:43 -> 00:21:47]  affect quality of writing tremendously.
+[00:21:47 -> 00:21:52]  So let's discuss three of these top issues that we found, these problems that we found.
+[00:21:52 -> 00:21:56]  The first we're going to discuss is verb tense.
+[00:21:56 -> 00:22:01]  As you probably all know, the purpose of the verb tense is to indicate the timing or action
+[00:22:01 -> 00:22:03]  of a condition's existence.
+[00:22:03 -> 00:22:05]  That's the definition of a verb.
+[00:22:05 -> 00:22:11]  Surprisingly, many researchers are confused about which tense to use when they describe
+[00:22:11 -> 00:22:13]  their research, and I don't blame them.
+[00:22:13 -> 00:22:19]  There's specific rules for the different style of formatting guides, so you have to be careful
+[00:22:19 -> 00:22:20]  of which to use.
+[00:22:20 -> 00:22:25]  But here's a quick guide of which tenses you should generally use.
+[00:22:25 -> 00:22:29]  Generally speaking, you use the past tense when you're discussing prior research.
+[00:22:30 -> 00:22:37]  Dr. Watson asserted that the mice in group B would be blind, so this is a prior research,
+[00:22:37 -> 00:22:39]  not in this study.
+[00:22:39 -> 00:22:44]  You use the past tense when discussing the result or observation made during your study.
+[00:22:44 -> 00:22:50]  When you're observing the mice in group B, the mice in group B developed tumors in their
+[00:22:50 -> 00:22:51]  parietal lobes.
+[00:22:51 -> 00:22:56]  Okay, so these are real, you talk about these as you would a real event in life, right?
+[00:22:56 -> 00:22:57]  It's your observations.
+[00:22:57 -> 00:23:02]  In the present tense, you want to use present tense for general facts, such as the earth
+[00:23:02 -> 00:23:06]  revolves around the sun, scientific laws, et cetera.
+[00:23:06 -> 00:23:12]  The subject of a sentence, when the subject of a sentence is your paper or your study,
+[00:23:12 -> 00:23:18]  our study demonstrates, our work focuses on.
+[00:23:18 -> 00:23:23]  You want to use present tense when discussing a conclusion or interpretation of current
+[00:23:23 -> 00:23:24]  findings.
+[00:23:24 -> 00:23:28]  So this is, again, your findings or another's, your speculation.
+[00:23:28 -> 00:23:32]  Entropy may be involved in this phenomenon.
+[00:23:32 -> 00:23:35]  Let's look more closely at some examples.
+[00:23:35 -> 00:23:39]  Again, these are past tense and these are general rules.
+[00:23:39 -> 00:23:42]  So here's some examples of using prior research.
+[00:23:42 -> 00:23:46]  The Bowen group hypothesized that there would be an increase in air pressure.
+[00:23:46 -> 00:23:51]  Many studies have done throughout the 20th century have confirmed this affinity between
+[00:23:51 -> 00:23:52]  carbon and nitrogen.
+[00:23:52 -> 00:23:56]  This is not your research, other's research.
+[00:23:56 -> 00:24:01]  Observations in your study, we observed that mice in B group who were exposed to radiation
+[00:24:01 -> 00:24:03]  developed parietal lobe tumors.
+[00:24:03 -> 00:24:10]  Tumor cells in test group C metastasized upon exposure to this chemical.
+[00:24:10 -> 00:24:13]  Let's look at some present tense examples.
+[00:24:13 -> 00:24:15]  General facts, air pressure decreases with altitude.
+[00:24:15 -> 00:24:21]  If you were to use the past tense here, your readership might confuse it with an observation
+[00:24:21 -> 00:24:27]  that you made in your study and certainly you're not trying to break a law of physics
+[00:24:27 -> 00:24:29]  or examine a general law.
+[00:24:29 -> 00:24:34]  So if you're stating a fact, air pressure decreases with altitude.
+[00:24:34 -> 00:24:36]  It's a general fact.
+[00:24:36 -> 00:24:40]  The average human skeleton contains 270 bones at birth.
+[00:24:40 -> 00:24:45]  This number decreases to 206 bones in adulthood.
+[00:24:45 -> 00:24:50]  When the subject of your sentence is your work, this study confirms previous findings.
+[00:24:50 -> 00:24:55]  Our research indicates that a majority of healthy kidney donors, and notice as a side
+[00:24:55 -> 00:24:59]  note here, this is an active voice.
+[00:24:59 -> 00:25:04]  To change this, you might write, our previous findings were confirmed by this study.
+[00:25:04 -> 00:25:09]  This takes a lot fewer words and we'll talk more about that.
+[00:25:09 -> 00:25:11]  Interpretation of current findings.
+[00:25:11 -> 00:25:13]  Comorbidity appears to be a factor.
+[00:25:13 -> 00:25:19]  These are implications or your interpretations of what your study is revealing.
+[00:25:19 -> 00:25:23]  The results of past studies tend to corroborate this evidence.
+[00:25:23 -> 00:25:28]  I could give you a million more examples, but let's move on to article use.
+[00:25:28 -> 00:25:36]  Because article use was such an enormous component, I don't want to insult you by thinking that
+[00:25:36 -> 00:25:40]  I'm assuming you do not understand how to use articles.
+[00:25:40 -> 00:25:46]  However, because there's so many mistakes in this section, I want to start by giving
+[00:25:46 -> 00:25:48]  you a quiz.
+[00:25:48 -> 00:25:56]  So which article should you use, A or N, the indefinite article, the, the definite
+[00:25:56 -> 00:25:58]  article, or no article?
+[00:25:58 -> 00:26:03]  So I'll give you a couple seconds for each and you can choose in your mind which one
+[00:26:03 -> 00:26:06]  you think should be applied here.
+[00:26:06 -> 00:26:10]  We analyzed a variety of tissue samples.
+[00:26:10 -> 00:26:13]  I'll let you answer in your mind as well.
+[00:26:13 -> 00:26:14]  You don't have to shout it out.
+[00:26:14 -> 00:26:19]  We analyzed a variety of tissue samples.
+[00:26:19 -> 00:26:27]  Experts identified lakes surrounding the compound as a source of infection in question.
+[00:26:27 -> 00:26:29]  Answer?
+[00:26:29 -> 00:26:33]  Experts identified the lake surrounding the compound as the source of the infections in
+[00:26:33 -> 00:26:35]  question.
+[00:26:35 -> 00:26:43]  Third, colors affect our perception of reality.
+[00:26:43 -> 00:26:45]  We do not need an article for this.
+[00:26:45 -> 00:26:51]  You may be wondering if you missed any of these what the reasons are and let me tell
+[00:26:51 -> 00:26:58]  you for time purposes I'm going to skip these next quiz questions and move to this chart
+[00:26:58 -> 00:27:04]  which shows how to use uncountable nouns, how to apply articles to uncountable nouns.
+[00:27:04 -> 00:27:09]  A noun is countable if, as the word suggests, the noun can be counted.
+[00:27:09 -> 00:27:12]  Apples are countable.
+[00:27:12 -> 00:27:14]  Chairs are countable.
+[00:27:14 -> 00:27:20]  A noun is uncountable if it is not counted such as liquids, water, or is broken down
+[00:27:20 -> 00:27:23]  into too many parts, sand.
+[00:27:23 -> 00:27:29]  So you do not say one water, two water, three waters, four waters, simply water.
+[00:27:29 -> 00:27:31]  So let's first look at these uncountable.
+[00:27:31 -> 00:27:38]  When it comes to uncountable nouns the articles A and N cannot be used with the nouns.
+[00:27:38 -> 00:27:45]  So the only choice you have is really using the definite article or no article at all.
+[00:27:45 -> 00:27:51]  So let's see when you should use the or when you should use no article.
+[00:27:51 -> 00:27:56]  So when you're referring to any of the countable noun use the noun with no articles.
+[00:27:56 -> 00:27:59]  Drinking water has many benefits.
+[00:27:59 -> 00:28:01]  Love is a strong emotion.
+[00:28:01 -> 00:28:05]  You're referring to any of the noun, right?
+[00:28:05 -> 00:28:09]  So you're not referring to this love or that love or this water.
+[00:28:09 -> 00:28:11]  You're talking about all water.
+[00:28:11 -> 00:28:18]  When you're referring to one specific noun in space and time you will use the.
+[00:28:18 -> 00:28:19]  It's a bit confusing.
+[00:28:19 -> 00:28:22]  Sometimes you wish English didn't have articles at all.
+[00:28:22 -> 00:28:24]  So let's look at example one.
+[00:28:24 -> 00:28:26]  The water is blue.
+[00:28:26 -> 00:28:32]  Well, what's the difference between simply water is blue and the water is blue?
+[00:28:32 -> 00:28:38]  We know with this definite article the that we're referring to a specific water and perhaps
+[00:28:38 -> 00:28:45]  we've referred to it earlier in our study so we know which water we are pointing to.
+[00:28:45 -> 00:28:47]  We examined the water bordering the town.
+[00:28:47 -> 00:28:53]  So here you have the same structure except here you have a modifier that shows where
+[00:28:53 -> 00:28:57]  it is, a prepositional phrase, bordering the town.
+[00:28:58 -> 00:29:02]  Let's move on to countable nouns.
+[00:29:02 -> 00:29:04]  So countable nouns you have a bit more options.
+[00:29:04 -> 00:29:09]  We must look at whether we are talking generally about the countable noun or about a specific
+[00:29:09 -> 00:29:11]  example of the countable noun.
+[00:29:11 -> 00:29:14]  Similar rule to uncountable.
+[00:29:14 -> 00:29:17]  So let's start with when we are looking at one member of that noun.
+[00:29:17 -> 00:29:20]  You use a or a with that noun.
+[00:29:20 -> 00:29:26]  This is when you're not referring to any specific member but any amongst the members to be abstract
+[00:29:26 -> 00:29:28]  about it.
+[00:29:28 -> 00:29:32]  Maybe your son or daughter has said, dad, mom, I want a car.
+[00:29:32 -> 00:29:37]  They don't say I want the car unless perhaps they're a little too spoiled and they can
+[00:29:37 -> 00:29:39]  choose whichever car they want.
+[00:29:39 -> 00:29:41]  They say I want a car.
+[00:29:41 -> 00:29:46]  Want one amongst many for the purposes of driving.
+[00:29:46 -> 00:29:50]  Let's move down to all members of the noun generally.
+[00:29:50 -> 00:29:52]  Use the noun with no articles.
+[00:29:52 -> 00:29:55]  Colors can affect our perception.
+[00:29:56 -> 00:30:01]  If you look back to the uncountable nouns, drinking water has many benefits.
+[00:30:01 -> 00:30:02]  Love is a strong emotion.
+[00:30:02 -> 00:30:03]  It's the same principle.
+[00:30:03 -> 00:30:04]  It's the same rule, right?
+[00:30:04 -> 00:30:06]  But it's pluralized.
+[00:30:06 -> 00:30:11]  Colors can affect our emotion because colors is countable.
+[00:30:11 -> 00:30:14]  Scientists have been researching this issue for decades.
+[00:30:14 -> 00:30:15]  All scientists.
+[00:30:15 -> 00:30:17]  We're not talking about specific scientists.
+[00:30:17 -> 00:30:25]  Again, if you were to say the scientist, the reader will imagine you're referring to a
+[00:30:25 -> 00:30:27]  specific group of scientists.
+[00:30:27 -> 00:30:34]  The cardiac specialists at this hospital have been researching this issue for decades.
+[00:30:34 -> 00:30:37]  Then you would use the definite, the.
+[00:30:37 -> 00:30:41]  Last one, the countable noun as a whole group, use the.
+[00:30:41 -> 00:30:42]  The elephant is a large animal.
+[00:30:42 -> 00:30:45]  The harp is a difficult instrument to learn.
+[00:30:45 -> 00:30:52]  So you're referring to the entire group that that noun belongs in.
+[00:30:52 -> 00:30:59]  Let's move on to the third element of grammar that we will discuss, and that is parallelism.
+[00:30:59 -> 00:31:07]  To give you a brief summary of what parallelism is, it's having the same sections of a sentence
+[00:31:07 -> 00:31:10]  that contains more than one component.
+[00:31:10 -> 00:31:15]  Having them be the same setup, using the same verb or the same number.
+[00:31:15 -> 00:31:18]  And I'll show you what we mean.
+[00:31:18 -> 00:31:28]  Many native speakers as well tend to use parallel, nonparallel structures, and this creates awkward.
+[00:31:28 -> 00:31:32]  It's very awkward to read, in addition to being grammatically wrong.
+[00:31:32 -> 00:31:37]  So when we use strings of words, we want to make sure each part has equal value.
+[00:31:37 -> 00:31:38]  Okay.
+[00:31:38 -> 00:31:42]  So in each of these examples, there is a mistake.
+[00:31:42 -> 00:31:45]  And I wonder if you can try to guess that mistake in your head.
+[00:31:45 -> 00:31:50]  I like apples, oranges, and going to the zoo.
+[00:31:50 -> 00:31:51]  Let's just check these first.
+[00:31:51 -> 00:31:56]  So the nonparallel part of the sentence is going to the zoo.
+[00:31:56 -> 00:32:01]  Because apples and oranges are simply objective case, right?
+[00:32:01 -> 00:32:03]  I like apples.
+[00:32:03 -> 00:32:07]  Whereas going to the zoo is a verbal phrase.
+[00:32:07 -> 00:32:10]  So you have noun, noun, verbal phrase.
+[00:32:10 -> 00:32:12]  So it's nonparallel.
+[00:32:12 -> 00:32:17]  And number two, the coach advised that I should eat healthily, exercise regularly, and that
+[00:32:17 -> 00:32:20]  joining a gym would make this easier.
+[00:32:20 -> 00:32:22]  So the nonparallel item is in red here.
+[00:32:22 -> 00:32:24]  Why is it nonparallel?
+[00:32:24 -> 00:32:32]  Well, you have eat healthily, so you have this verb and adverb combination.
+[00:32:32 -> 00:32:33]  Exercise regularly.
+[00:32:33 -> 00:32:37]  And here you have a relative phrase, relative pronoun phrase.
+[00:32:37 -> 00:32:40]  That going, that joining a gym would make this easier.
+[00:32:40 -> 00:32:43]  So it's not, it doesn't match with the others.
+[00:32:43 -> 00:32:48]  Last, Mary is a celebrated author, dancer, and writes great songs.
+[00:32:48 -> 00:32:50]  Here you have the word is.
+[00:32:50 -> 00:32:55]  And we see this the most often of any of the nonparallel sentences.
+[00:32:55 -> 00:33:00]  In my experience, I would say we see this with the linking verb is.
+[00:33:00 -> 00:33:05]  Mary is an author, she is a dancer, and she is a, no, she's not a great song.
+[00:33:05 -> 00:33:06]  She writes great songs.
+[00:33:06 -> 00:33:09]  It's not parallel with the others.
+[00:33:09 -> 00:33:12]  So let's talk about how we can fix these phrases.
+[00:33:12 -> 00:33:16]  There's a lot, I want to say there's a lot of resources on the internet.
+[00:33:16 -> 00:33:25]  It's very obvious, but I would find whichever paradigm, whichever resource that you can
+[00:33:25 -> 00:33:32]  use the most simply and which makes sense to you and look through your manuscript and
+[00:33:32 -> 00:33:36]  apply these rules, as tedious as that is.
+[00:33:36 -> 00:33:42]  So method one, you should make the grammatically nonconforming parts match the other parts.
+[00:33:42 -> 00:33:44]  So and here's the nonparallel sentence.
+[00:33:44 -> 00:33:49]  The coach advised that I should eat healthily, exercise regularly, and that joining a gym
+[00:33:49 -> 00:33:51]  would make this easier.
+[00:33:51 -> 00:33:55]  So we're going to just change part three so it matches the other two.
+[00:33:55 -> 00:34:00]  The coach advised that I should eat healthily, exercise regularly, and join a gym.
+[00:34:00 -> 00:34:02]  So we have eat, exercise, join.
+[00:34:02 -> 00:34:04]  It reads better.
+[00:34:04 -> 00:34:05]  It's nicer.
+[00:34:05 -> 00:34:06]  It makes more sense.
+[00:34:06 -> 00:34:10]  The editor doesn't have to do it for you if you can do it yourself.
+[00:34:10 -> 00:34:16]  Method two, make the other parts match the grammatically nonparallel part.
+[00:34:16 -> 00:34:17]  So opposite.
+[00:34:17 -> 00:34:21]  You have the first two parts changing to part three.
+[00:34:21 -> 00:34:23]  So I like apples, oranges, and going to the zoo.
+[00:34:23 -> 00:34:28]  If you want to make your sentence more active, you would switch it to that verb form.
+[00:34:28 -> 00:34:31]  I like eating apples, eating oranges, and going to the zoo.
+[00:34:31 -> 00:34:33]  Either one is acceptable.
+[00:34:33 -> 00:34:38]  It depends on which component of the phrase you want to focus on.
+[00:34:38 -> 00:34:45]  You like the object or you like the action of doing these things.
+[00:34:45 -> 00:34:49]  Method three, split the sentence.
+[00:34:49 -> 00:34:56]  From a reader's perspective, in scientific manuscripts, often we see sentences that are
+[00:34:56 -> 00:34:59]  five or six lines long.
+[00:34:59 -> 00:35:05]  And as much punctuation as you use, as many commas as you can use, that often makes reading
+[00:35:05 -> 00:35:12]  extremely difficult, even for the smartest and most well-educated and immersed scientists
+[00:35:12 -> 00:35:13]  and reviewers.
+[00:35:13 -> 00:35:18]  So splitting the sentence really just makes it shorter and easier to digest.
+[00:35:18 -> 00:35:22]  The coach advised that I should eat healthily, exercise regularly, and that joining a gym
+[00:35:22 -> 00:35:24]  would make this easier.
+[00:35:24 -> 00:35:27]  So let's make it a second sentence here.
+[00:35:27 -> 00:35:31]  The coach advised that I should eat healthily and exercise regularly, period.
+[00:35:31 -> 00:35:36]  He also told me that joining a gym would make this working out easier.
+[00:35:36 -> 00:35:43]  You are adding a couple words, but it's much easier to read, and you can add another element
+[00:35:43 -> 00:35:48]  of meaning if you have a second sentence.
+[00:35:48 -> 00:35:52]  I'm going to skip this section for the sake of time, but let's look at just some examples.
+[00:35:52 -> 00:35:59]  There's other ways that your sentence can be non-parallel, and there's ways to fix it.
+[00:35:59 -> 00:36:01]  Dozens of them, so let's just look at a couple.
+[00:36:01 -> 00:36:06]  I like the big house built in 1910 and features two great living rooms.
+[00:36:06 -> 00:36:08]  That gives me a headache just reading it.
+[00:36:08 -> 00:36:12]  I like the big house built in 1910 that features two great living rooms, right?
+[00:36:12 -> 00:36:15]  So this is the same thing.
+[00:36:15 -> 00:36:20]  Part A, the big house, and the house, the big house features two great living rooms.
+[00:36:20 -> 00:36:23]  Use the relative pronoun that.
+[00:36:23 -> 00:36:28]  I not only like to play the violin, but also dancing, right?
+[00:36:28 -> 00:36:32]  Here we have just a regular infinitive verb.
+[00:36:32 -> 00:36:38]  I not only like to play the violin, but I also like to dance, or I like to not only
+[00:36:38 -> 00:36:40]  play the violin, but also dance.
+[00:36:40 -> 00:36:42]  The verb form is the same.
+[00:36:42 -> 00:36:46]  I prefer to go on a vacation than a bonus.
+[00:36:46 -> 00:36:49]  We're missing the infinitive here, right, and the verb.
+[00:36:49 -> 00:36:54]  I prefer to go on a vacation than to receive a bonus.
+[00:36:54 -> 00:36:59]  One way you can check for these manually in your manuscript would be to underline all
+[00:36:59 -> 00:37:07]  the nouns that you use and make sure that the corresponding, if you have a longer sentence
+[00:37:07 -> 00:37:11]  with more than two parts, that they are all parallel.
+[00:37:11 -> 00:37:18]  So look at each noun themselves and the accompanying verbs that go with them.
+[00:37:18 -> 00:37:21]  Okay, next we're going to talk about writing style.
+[00:37:21 -> 00:37:28]  So in our breakdown of these papers, we found that overwhelmingly the passive voice and
+[00:37:28 -> 00:37:31]  wordiness accounted for the majority of style issues.
+[00:37:31 -> 00:37:37]  And I want to reiterate what I had said earlier, that this is not a hard and fast rule to say
+[00:37:37 -> 00:37:41]  don't use the passive voice, only use the active.
+[00:37:41 -> 00:37:42]  Far from it.
+[00:37:42 -> 00:37:48]  And editors have a difficult time discerning when the author would like us to use the passive
+[00:37:48 -> 00:37:49]  and active.
+[00:37:49 -> 00:37:55]  It's simply, regardless of how good the editor is, they have to make that call and it could
+[00:37:55 -> 00:37:58]  change your meaning, your intended meaning to some extent.
+[00:37:58 -> 00:38:02]  So you want to be able to make that decision for yourself.
+[00:38:02 -> 00:38:10]  So regarding the use of active passive voice, it's advisable to use the active if you can
+[00:38:10 -> 00:38:12]  with an agent.
+[00:38:12 -> 00:38:16]  So again, you want to research the journal that you're going to be submitting to.
+[00:38:16 -> 00:38:23]  So with that being said, let's see how style affects your manuscript's readability.
+[00:38:23 -> 00:38:27]  So active and passive voice.
+[00:38:27 -> 00:38:31]  So here we have a sentence that includes a combination of active, sorry, a paragraph
+[00:38:31 -> 00:38:36]  that includes a combination of active and passive voice sentences.
+[00:38:36 -> 00:38:41]  And I think ultimately that is the way to go, because then you have a different sentence
+[00:38:41 -> 00:38:47]  length, you're varying your style, and that is ultimately making it more readable for
+[00:38:47 -> 00:38:49]  your readers as well.
+[00:38:49 -> 00:38:54]  So here we have next generation sequencing studies have tremendously advanced our understanding
+[00:38:54 -> 00:38:55]  of the genes.
+[00:38:55 -> 00:38:58]  In the green we have the active voice.
+[00:38:58 -> 00:39:06]  Because you want to focus on, this is your focus content, it's the next generation sequencing
+[00:39:06 -> 00:39:11]  studies are the central part of the study, I assume.
+[00:39:11 -> 00:39:14]  So start with that, and then use the active voice.
+[00:39:14 -> 00:39:20]  It really shows what the importance of this element is.
+[00:39:20 -> 00:39:25]  These efforts have identified core sets of driver genes that are frequently mutated.
+[00:39:25 -> 00:39:30]  So here it's clear why we would use the active voice, because the efforts are the important
+[00:39:30 -> 00:39:31]  element.
+[00:39:31 -> 00:39:34]  The efforts have identified core sets of values.
+[00:39:34 -> 00:39:38]  So here the genes are frequently mutated, we don't have an agent.
+[00:39:38 -> 00:39:42]  We can't say nature mutates the genes, it just doesn't make sense.
+[00:39:42 -> 00:39:49]  So when we don't have an agent present to give active voice, it's better to use the
+[00:39:49 -> 00:39:51]  passive voice.
+[00:39:51 -> 00:39:53]  Genes are mutated.
+[00:39:53 -> 00:39:55]  Cancers were largely resolved.
+[00:39:55 -> 00:39:56]  Resolved by whom?
+[00:39:56 -> 00:40:02]  We don't have an agent to say, Dr. X resolved the cancers, so it's much better to use passive
+[00:40:02 -> 00:40:05]  in those instances.
+[00:40:05 -> 00:40:07]  Let's keep moving on here.
+[00:40:07 -> 00:40:13]  So how do you change the passive voice to the active voice?
+[00:40:13 -> 00:40:18]  You need to identify the true subject and reorder your sentence to establish the subject-verb-object
+[00:40:18 -> 00:40:20]  order.
+[00:40:20 -> 00:40:22]  So here we have, the speech was given by the mayor.
+[00:40:22 -> 00:40:24]  The agent is the mayor, right?
+[00:40:24 -> 00:40:31]  So simply put the predicate here and switch it with the original subject, the original
+[00:40:31 -> 00:40:32]  noun one.
+[00:40:32 -> 00:40:34]  The mayor gave the speech.
+[00:40:34 -> 00:40:46]  It reads better and there's no need for a passive voice in this sort of structure.
+[00:40:46 -> 00:40:49]  So moving on to prepositions.
+[00:40:49 -> 00:40:54]  When you're trying to stay within a specific word limit, eliminating grammar constructions
+[00:40:54 -> 00:40:56]  with prepositions helps tremendously.
+[00:40:56 -> 00:41:03]  It counts, it deletes a lot of the words if you can delete the little prepositions
+[00:41:03 -> 00:41:05]  that occur in your manuscripts.
+[00:41:05 -> 00:41:09]  So that's the biggest issue with them, is they create wordiness.
+[00:41:09 -> 00:41:14]  So often stronger and more succinct verbs can replace these phrasal verbs, these verbal
+[00:41:14 -> 00:41:18]  phrases that incorporate prepositions.
+[00:41:18 -> 00:41:21]  So let's see what happens.
+[00:41:21 -> 00:41:26]  This sentence, he got to the finish line, not only is it elementary, got to, you actually
+[00:41:26 -> 00:41:27]  have more words.
+[00:41:27 -> 00:41:30]  He reached the finish line, stronger.
+[00:41:30 -> 00:41:36]  And you may at times need a thesaurus for these depending on your vocabulary level,
+[00:41:36 -> 00:41:42]  but this is a pretty common verb, so there's no reason why you wouldn't use that stronger
+[00:41:42 -> 00:41:46]  verb and replace these two, got to with reached.
+[00:41:46 -> 00:41:48]  It's much more professional.
+[00:41:48 -> 00:41:51]  He made a decision about what he will do next year.
+[00:41:51 -> 00:41:53]  He decided what he will do next year.
+[00:41:53 -> 00:41:56]  You only need one verb, right?
+[00:41:56 -> 00:42:01]  Okay, here we have the genitive or possessive.
+[00:42:01 -> 00:42:06]  The approval of the Food and Drug Administration was received yesterday.
+[00:42:06 -> 00:42:08]  Who's your agent?
+[00:42:08 -> 00:42:15]  The Food and Drug Administration is the agent, so let's make it active and get rid of the
+[00:42:15 -> 00:42:16]  of.
+[00:42:16 -> 00:42:18]  The Food and Drug Administration's approval was received yesterday.
+[00:42:19 -> 00:42:28]  Using that possessive case is another way to get rid of the preposition.
+[00:42:28 -> 00:42:31]  The studies were conducted at Max Laboratories in Chicago.
+[00:42:31 -> 00:42:35]  The studies were conducted at Chicago's Max Laboratories.
+[00:42:35 -> 00:42:40]  You've kept the passive tense, the passive voice, but you've eliminated the preposition
+[00:42:40 -> 00:42:45]  again.
+[00:42:45 -> 00:42:49]  So I want to see if you can look at these and make a suggestion.
+[00:42:49 -> 00:42:50]  It might be difficult.
+[00:42:50 -> 00:42:54]  There's a few ways to do it, but what do you think?
+[00:42:54 -> 00:42:55]  Here's the original.
+[00:42:55 -> 00:43:00]  The aim of our research was to assess the correlation between variable A and DNA replication
+[00:43:00 -> 00:43:01]  rates.
+[00:43:01 -> 00:43:06]  Does anybody want to try for a revision?
+[00:43:06 -> 00:43:07]  What's that?
+[00:43:07 -> 00:43:08]  You can say it loud.
+[00:43:08 -> 00:43:11]  Okay, let's see.
+[00:43:11 -> 00:43:12]  Our research aimed.
+[00:43:12 -> 00:43:14]  Oh, I want to give him a round of applause.
+[00:43:15 -> 00:43:16]  Perfect.
+[00:43:16 -> 00:43:20]  Our research aimed to assess how variable A affects DNA replication rates.
+[00:43:20 -> 00:43:22]  It's stronger, right?
+[00:43:22 -> 00:43:27]  You can tell where all the important parts are in that sentence.
+[00:43:27 -> 00:43:30]  To get back to you, we are looking back on what was done to figure out what we can do
+[00:43:30 -> 00:43:32]  moving forward.
+[00:43:32 -> 00:43:38]  This looks like an exercise in how to use prepositions annoyingly.
+[00:43:38 -> 00:43:40]  How can we change it?
+[00:43:40 -> 00:43:42]  Use the stronger verb.
+[00:43:42 -> 00:43:45]  We are examining the past to determine how we should proceed.
+[00:43:45 -> 00:43:46]  It's tighter.
+[00:43:46 -> 00:43:52]  It uses far fewer words and less prepositions as well.
+[00:43:52 -> 00:43:54]  Last I want to look at nominalizations.
+[00:43:54 -> 00:43:55]  These are very similar.
+[00:43:55 -> 00:43:57]  Actually, we've seen some examples.
+[00:43:57 -> 00:44:03]  This is a fancy word for using nouns that were formed from verbs.
+[00:44:03 -> 00:44:05]  We want fewer nominalizations.
+[00:44:05 -> 00:44:09]  It is clunky and it takes up space.
+[00:44:09 -> 00:44:14]  As I said, a nominalization is what occurs when you change a verb into a noun and add
+[00:44:14 -> 00:44:16]  a meaningless verb to it.
+[00:44:16 -> 00:44:17]  What is meaningless?
+[00:44:17 -> 00:44:23]  It's a verb that you see all the time that does nothing to help the main verb.
+[00:44:23 -> 00:44:28]  Joe will conduct research on the impact of the recent drought on local wildlife.
+[00:44:28 -> 00:44:32]  I'm sure we've all written these in our manuscripts several hundred times.
+[00:44:32 -> 00:44:33]  Conducting research.
+[00:44:33 -> 00:44:34]  Why do we need conduct?
+[00:44:34 -> 00:44:35]  It's meaningless.
+[00:44:35 -> 00:44:39]  Research the recent drought's impact on local wildlife.
+[00:44:39 -> 00:44:45]  The board will make a decision next week about whether to accept you next week.
+[00:44:45 -> 00:44:48]  The board will decide next week whether to accept you.
+[00:44:48 -> 00:44:50]  So, make a decision.
+[00:44:50 -> 00:44:51]  Decide is stronger.
+[00:44:51 -> 00:44:53]  A decision is nominalized.
+[00:44:53 -> 00:44:56]  Decide is the verb from which it's nominalized.
+[00:44:56 -> 00:45:02]  Use the verb instead.
+[00:45:02 -> 00:45:05]  Here's another way to change the nominalization.
+[00:45:05 -> 00:45:10]  When the nominalization is the subject of a passive voice, identify the true subject
+[00:45:10 -> 00:45:13]  and convert the nominalization to a verb.
+[00:45:13 -> 00:45:18]  The approval of the plan was given by the committee yesterday.
+[00:45:18 -> 00:45:25]  Much leaner and cleaner, the committee approved the plan yesterday.
+[00:45:25 -> 00:45:26]  We see these.
+[00:45:26 -> 00:45:32]  I wouldn't be giving you examples if these weren't very common writing clunky style that
+[00:45:32 -> 00:45:34]  we see when we edit manuscripts.
+[00:45:34 -> 00:45:39]  Their interpretation of the implementation of, already I'm lost, right?
+[00:45:39 -> 00:45:44]  If a journal reviewer is reading this, they probably don't want to finish reading it.
+[00:45:44 -> 00:45:50]  Their interpretation of the implementation of the institute's program was insightful.
+[00:45:50 -> 00:45:54]  They insightfully interpreted how the institute implemented its program.
+[00:45:54 -> 00:45:59]  You can change insightful to an adverb and eliminate these of's.
+[00:45:59 -> 00:46:05]  First was their introduction of, their analysis of dreams by the trauma patients.
+[00:46:05 -> 00:46:06]  Where's the action?
+[00:46:06 -> 00:46:07]  Focus on the action.
+[00:46:07 -> 00:46:08]  What did they do?
+[00:46:08 -> 00:46:12]  First, they introduced how they analyzed the trauma patient's dreams.
+[00:46:12 -> 00:46:18]  I think all of us can agree which one is easier to read of the two.
+[00:46:18 -> 00:46:20]  Okay.
+[00:46:20 -> 00:46:25]  I want to give you just a couple more examples and see if you can work them out for yourself
+[00:46:25 -> 00:46:30]  and maybe shout out how you think these should be revised.
+[00:46:30 -> 00:46:33]  They reached the conclusion that we should run a new cohort study.
+[00:46:33 -> 00:46:37]  What's that?
+[00:46:37 -> 00:46:38]  All together.
+[00:46:38 -> 00:46:39]  Yeah.
+[00:46:39 -> 00:46:40]  Good.
+[00:46:40 -> 00:46:45]  So, even though you know this when you're shown the structure and shown how to change
+[00:46:45 -> 00:46:51]  it, when you're in the writing process, you might still have the habit of make a conclusion.
+[00:46:51 -> 00:46:58]  So, when you're editing is when you can really focus on how you have these extra words.
+[00:46:58 -> 00:47:04]  You can really change the style and the grammar issues when you're editing.
+[00:47:04 -> 00:47:09]  The undertaking of building the new company was complicated by their lack of experience.
+[00:47:09 -> 00:47:15]  There's a few ways to do it, so I won't ask you to shout it, but they lacked experience,
+[00:47:15 -> 00:47:18]  which complicated how they built the new company.
+[00:47:18 -> 00:47:21]  Or their inexperience complicated how they built the new company.
+[00:47:21 -> 00:47:30]  You have a straight subject, verb, predicate.
+[00:47:30 -> 00:47:32]  Okay.
+[00:47:32 -> 00:47:35]  That is my presentation.
+[00:47:35 -> 00:47:39]  Today we've looked at a lot of ways at which authors can improve their manuscripts, and
+[00:47:39 -> 00:47:43]  I really hope I've impressed upon you the importance of you as an author creating a
+[00:47:43 -> 00:47:45]  polished manuscript.
+[00:47:45 -> 00:47:50]  And if you're in the market for a reputable editing service who can, after you're done
+[00:47:50 -> 00:47:56]  self-editing, can provide editing services, please check out our company, Wordvice.
+[00:47:56 -> 00:48:03]  We have hundreds of well-qualified, experienced editors in various academic fields, and that
+[00:48:03 -> 00:48:05]  includes academic editing as one of our services.
+[00:48:05 -> 00:48:09]  We do have pamphlets in the back, somewhere back there, if you're interested.
+[00:48:09 -> 00:48:11]  Feel free to take one.
+[00:48:11 -> 00:48:12]  Thank you very much.

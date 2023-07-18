@@ -1,0 +1,18 @@
+[00:00:00 -> 00:00:17]  Composers often include signs that control the volume at which the player executes a
+[00:00:17 -> 00:00:19]  certain part of the music or the whole piece.
+[00:00:19 -> 00:00:22]  These volume indications are called dynamics.
+[00:00:22 -> 00:00:27]  Traditionally, we use Italian words handed down to us from centuries of classical composers
+[00:00:27 -> 00:00:32]  based in Italy to show how loudly or softly to play a passage.
+[00:00:32 -> 00:00:37]  The most basic dynamic indications include piano meaning soft.
+[00:00:37 -> 00:00:42]  Yes, this is the same word as the instrument, and part of the reason the piano got its name
+[00:00:42 -> 00:00:47]  was that it could play loudly and softly, something most earlier keyboard instruments
+[00:00:47 -> 00:00:49]  couldn't do.
+[00:00:49 -> 00:01:02]  Now dynamic indications are shown in most scores with an italicized bold P.
+[00:01:02 -> 00:01:05]  Forte means loud or strong.
+[00:01:05 -> 00:01:11]  It comes from the same Latin root as the English word for force or forceful.
+[00:01:11 -> 00:01:21]  It will be shown in scores with an italicized bold F.
+[00:01:21 -> 00:01:28]  For in-between dynamics, we can add an M for mezzo or middle before the F or P to indicate
+[00:01:28 -> 00:01:42]  mezzo forte or mezzo piano.
+[00:01:42 -> 00:01:49]  And you can even make a piano or forte more extreme by piling on the P's and F's.
+[00:01:49 -> 00:02:01]  So two P's like this will indicate pianissimo or whispery soft.
+[00:02:01 -> 00:02:20]  And if you want something very, very loud, you can write fortissimo or two F's.

@@ -1,0 +1,59 @@
+[00:00:00 -> 00:00:05]  Unser heutiges Thema Gleichung mit Klammern lösen. Gleichung mit Klammern
+[00:00:05 -> 00:00:09]  sehen vielleicht auf den ersten Blick etwas schwierig aus, sind aber eigentlich
+[00:00:09 -> 00:00:14]  ganz einfach zu lösen, wenn man weiß, wie man an die Sache herangehen soll.
+[00:00:14 -> 00:00:18]  Ich möchte euch hier ein paar Beispiele zeigen, wie man ganz einfach Gleichung
+[00:00:18 -> 00:00:21]  mit Klammern lösen kann. Fangen wir direkt mit einem Beispiel an.
+[00:00:21 -> 00:00:26]  Wir haben hier eine Gleichung. Auf jeder Seite des Gleichheitszeichen ist eine
+[00:00:26 -> 00:00:32]  Klammer. Links 2 mal x plus 3 und rechts 4 und den Klammern x minus 2.
+[00:00:32 -> 00:00:37]  Das Erste, was man jetzt hier machen muss, ist einfach die Klammern aufzulösen.
+[00:00:37 -> 00:00:43]  Das bedeutet, wir müssen die Zahl, die vor der Klammer steht, mit den Zahlen und
+[00:00:43 -> 00:00:47]  Buchstaben, die in der Klammer drinstehen, multiplizieren.
+[00:00:47 -> 00:00:52]  Das ist eigentlich ganz einfach. Wir müssen also hier die 2 mit dem x
+[00:00:52 -> 00:00:58]  multiplizieren. Heraus kommt 2x und wir müssen die 2 im nächsten Schritt mit
+[00:00:58 -> 00:01:05]  plus 3 hier multiplizieren und das ist dann einfach plus 6.
+[00:01:05 -> 00:01:08]  Jetzt haben wir die Klammer auf der linken Seite aufgelöst. Das Gleiche
+[00:01:08 -> 00:01:13]  machen wir jetzt mit der Klammer auf der rechten Seite. Wir multiplizieren die
+[00:01:13 -> 00:01:19]  Zahl vor der Klammer, also die 4 mit dem x. 4 mal x ist einfach 4x und im nächsten
+[00:01:19 -> 00:01:23]  Schritt müssen wir die 4 mit der 2 hier multiplizieren.
+[00:01:23 -> 00:01:28]  Wir müssen aber darauf achten, dass hier ein Minus vor der 2 steht. Deswegen können
+[00:01:28 -> 00:01:34]  wir das als minus 2 hier betrachten und minus 2 mal 4 ist einfach
+[00:01:34 -> 00:01:37]  minus 8. Jetzt haben wir auf beiden Seiten die
+[00:01:37 -> 00:01:41]  Klammern aufgelöst und jetzt haben wir eine ganz normale Gleichung ohne
+[00:01:41 -> 00:01:45]  Klammern und die ist ganz einfach zu lösen.
+[00:01:45 -> 00:01:49]  Wir eliminieren jetzt einfach das kleinere von den beiden x, also die
+[00:01:49 -> 00:01:56]  2x hier auf der linken Seite wird eliminiert mit minus 2x, sodass
+[00:01:56 -> 00:02:01]  auf der linken Seite 6 übrig bleibt. Auf der rechten Seite habe ich 4x minus 2x
+[00:02:01 -> 00:02:08]  sind 2x minus 8. Ich muss jetzt auf der rechten Seite minus 8 auf die andere
+[00:02:08 -> 00:02:15]  Seite bringen. Das mache ich mit plus 8. Das ist dann 14 gleich 2x geteilt
+[00:02:15 -> 00:02:21]  durch 2 sind 7 gleich x. Damit habe ich die Gleichung gelöst. Das war jetzt eine
+[00:02:21 -> 00:02:28]  sehr einfache Aufgabe. Jetzt machen wir mal eine etwas schwierigere Aufgabe.
+[00:02:28 -> 00:02:32]  Hier die nächste Aufgabe. Wir haben hier wieder auf beiden Seiten eine Klammer.
+[00:02:32 -> 00:02:35]  Die Klammer muss zuerst aufgelöst werden. Das ist immer das Erste was wir
+[00:02:35 -> 00:02:41]  machen, wenn wir Gleichungen lösen. Also als erstes immer die Gleichungen
+[00:02:41 -> 00:02:46]  beziehungsweise die Klammern auflösen. 3 mal x ist hier 3x. Dann müssen wir die 3
+[00:02:46 -> 00:02:54]  noch mit minus 2 hier multiplizieren. Das ist minus 6 und plus 15 auf der linken
+[00:02:54 -> 00:02:59]  Seite. Jetzt kommen wir auf die rechte Seite. Die 4 vor der Klammer mal x das
+[00:02:59 -> 00:03:10]  sind 4x und die 4 mit 3 multipliziert mit plus 3 macht plus 12 und rechts steht
+[00:03:10 -> 00:03:15]  noch 2x. Jetzt haben wir die Klammer als erstes aufgelöst. Als nächstes können
+[00:03:15 -> 00:03:22]  wir die Zahlen oder Terme die zusammenpassen zusammenfassen.
+[00:03:22 -> 00:03:27]  Auf der linken Seite lassen sich die Zahlen ohne x zusammenfassen. Also minus
+[00:03:27 -> 00:03:35]  6 und plus 15 macht zusammen plus 9. Die 3x bleiben. Auf der rechten Seite kann
+[00:03:35 -> 00:03:44]  man jetzt die 4x und die 2x zusammenfassen, weil beide ein x haben und
+[00:03:44 -> 00:03:52]  das ergibt dann zusammen 6x plus 12. So jetzt kann man ganz einfach wieder die
+[00:03:52 -> 00:03:55]  einfachen Schritte durchführen um die Gleichung zu lösen.
+[00:03:55 -> 00:04:00]  Wir müssen als erstes das kleinere von den beiden xen eliminieren. Das kleinere
+[00:04:00 -> 00:04:06]  von den beiden xen ist die 3x hier links und das kann man eliminieren mit
+[00:04:06 -> 00:04:12]  minus 3x. Hier bleiben dann übrig 9. Man kann auch plus 9 davor schreiben, muss
+[00:04:12 -> 00:04:22]  man aber nicht. Auf der rechten Seite ergeben 6x minus 3x dann 3x plus 12.
+[00:04:22 -> 00:04:25]  Jetzt müssen wir die plus 12 von der rechten Seite auf die linke Seite
+[00:04:25 -> 00:04:30]  bringen mit minus 12. Das macht minus 3 auf der linken Seite und rechts bleiben
+[00:04:30 -> 00:04:38]  nur 3x übrig. Wenn ich das ganze durch 3 teile, dann habe ich minus 1 ist gleich x.
+[00:04:38 -> 00:04:44]  So jetzt habe ich diese Gleichung auch gelöst. Man sieht, wenn man Gleichungen
+[00:04:44 -> 00:04:50]  mit Klammern hat, muss man als erstes immer die Klammer auflösen. Wie das geht
+[00:04:50 -> 00:04:52]  habt ihr hoffentlich jetzt in diesem Video verstanden.
+[00:04:52 -> 00:04:56]  Nachdem man die Klammer aufgelöst hat, muss man dann Zahlen, die sich
+[00:04:56 -> 00:05:01]  zusammenfassen lassen, zusammenfassen und dann muss man also die einfachen
+[00:05:01 -> 00:05:06]  Schritte dann alle durchgehen, um eine normale Gleichung dann zu lösen.
+[00:05:06 -> 00:05:10]  Das war es bis hierhin. Ich hoffe es ist jetzt einiges klarer geworden.
+[00:05:10 -> 00:05:14]  Falls es noch Fragen gibt, die euch interessieren, könnt ihr mich ja
+[00:05:14 -> 00:05:18]  anschreiben. Danke fürs Zusehen. Bis zum nächsten Video.

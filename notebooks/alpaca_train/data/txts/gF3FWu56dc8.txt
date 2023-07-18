@@ -1,0 +1,371 @@
+[00:00:00 -> 00:00:06]  Hi, it's James Clark here. This is a PowerPoint presentation looking at how to share your
+[00:00:06 -> 00:00:11]  scientific research. Essentially it's some advice about presenting your data, how to
+[00:00:11 -> 00:00:18]  lay out your slides, and how to arrange your content. So it's about 25-30 minutes long
+[00:00:18 -> 00:00:24]  and I hope it helps when preparing for your research project presentations.
+[00:00:24 -> 00:00:27]  So to start with, what are we going to talk about? We're going to talk about how to structure
+[00:00:27 -> 00:00:32]  a good presentation. We're going to talk about the simple do's and don'ts of presenting
+[00:00:32 -> 00:00:37]  using PowerPoint or Keynote on a computer. We're going to look at some specific research
+[00:00:37 -> 00:00:43]  project hints, in other words how to present your data, which data to include, which data
+[00:00:43 -> 00:00:48]  not to include. And then there's time for discussion, but of course this is a narrated
+[00:00:48 -> 00:00:54]  PowerPoint presentation so it's just me talking and no time for questions at the end unfortunately.
+[00:00:54 -> 00:01:00]  So let's start with some general guidelines for a presentation. Blaise Pascal was a scientist
+[00:01:00 -> 00:01:06]  in the 1600s. He was actually responsible for inventing the Pascaline, which was the
+[00:01:06 -> 00:01:11]  first calculator. And he came up with an amazing quote which is still used quite often today.
+[00:01:11 -> 00:01:16]  And he said that I've made this letter longer than usual because I lack the time to make
+[00:01:16 -> 00:01:21]  it shorter. This applies to all walks of life. It applies to writing abstracts for conferences,
+[00:01:21 -> 00:01:26]  it applies to writing discussions in papers, and it certainly applies when it comes to
+[00:01:26 -> 00:01:31]  giving a presentation. If you have to waffle for hours and hours and hours to get your
+[00:01:31 -> 00:01:38]  point across, you clearly need to spend more time preparing your talk. Most Physiological
+[00:01:38 -> 00:01:44]  Society talks are ten minutes, and this could be ten minutes to summarise a one-week project
+[00:01:44 -> 00:01:50]  or ten minutes to summarise a five-year research grant. So you have to be able to make your
+[00:01:50 -> 00:01:55]  information concise and get your point across. So always keep that in the back of your head
+[00:01:55 -> 00:02:03]  when you're writing your talk. Of course, things happen. You need to be prepared for
+[00:02:03 -> 00:02:10]  everything. When I started research, we were using slides, and we used to have these kind
+[00:02:10 -> 00:02:14]  of things sitting in our back pockets when we turned up to conferences, and we'd give
+[00:02:14 -> 00:02:18]  them to a projectionist, and often the projectionist would project them upside down or back to
+[00:02:18 -> 00:02:23]  the front, and you'd have to be ready to explain what you can see on the screen. We
+[00:02:23 -> 00:02:28]  now all take laptops with us to our meetings, and we just expect to be able to plug a laptop
+[00:02:28 -> 00:02:33]  in and go. Always take everything you've got with you on a memory stick as well. Don't
+[00:02:33 -> 00:02:39]  rely on your laptop to work, and always take a spare laser pointer. Never rely on a speaker
+[00:02:39 -> 00:02:43]  or a chairman to give you their laser pointer. If you need a laser pointer, take it with
+[00:02:43 -> 00:02:49]  you. If you don't need it, don't. Here's just a little cartoon which you may want to
+[00:02:49 -> 00:02:57]  pause and read. So you need to prepare the content. You need to make sure that the content
+[00:02:57 -> 00:03:04]  you're presenting is suitable for the talk you're giving. These three words, audience,
+[00:03:04 -> 00:03:11]  action, and argument, should be considered. Who are your audience? What is their background?
+[00:03:11 -> 00:03:16]  What is their level of understanding? Therefore, how much detail do you need to give them?
+[00:03:16 -> 00:03:21]  Also, are you going to give them enough detail so that they ask you questions? There's nothing
+[00:03:21 -> 00:03:25]  worse than a ten-minute talk finishing and the audience just sitting there staring at
+[00:03:25 -> 00:03:31]  you, so maybe you should be a little bit provocative in your data and entice them to ask you a
+[00:03:31 -> 00:03:36]  few questions. What are the actions of the talk? What is the take-home message? It's
+[00:03:36 -> 00:03:40]  a term that I hate. It's a term that most lecturers hate as well, but to be honest,
+[00:03:40 -> 00:03:46]  we all have take-home messages. What is yours? Does your final slide have a final statement
+[00:03:46 -> 00:03:51]  on it? Does it increase the understanding of the audience so we know what their level
+[00:03:51 -> 00:03:56]  of understanding is? Does your talk increase that understanding or does it make it more
+[00:03:56 -> 00:04:01]  confusing? And have you got any way during your talk to assess whether the audience have
+[00:04:01 -> 00:04:06]  understood what you're saying? There's nothing wrong with presenting a talk and asking questions
+[00:04:06 -> 00:04:11]  of your audience just to see if they understand what it is that you're talking about. And
+[00:04:11 -> 00:04:15]  of course, your argument needs to be structured. You need to start with a clear and concise
+[00:04:15 -> 00:04:20]  introduction to your talk, explaining what the current level of knowledge is, explaining
+[00:04:20 -> 00:04:24]  where we are in the literature, for instance. Use a literature review that you've written
+[00:04:24 -> 00:04:30]  for your project and explain to the audience where we currently are, and then develop on
+[00:04:30 -> 00:04:36]  those ideas by talking about the methodology that you're going to be talking about in your
+[00:04:36 -> 00:04:42]  talk. Show the data, summarise your data, and then give a list of recommendations of
+[00:04:42 -> 00:04:47]  where either the field is going or what further research might be needed to fully answer the
+[00:04:47 -> 00:04:53]  questions. It's very unlikely that a talk, given at undergraduate or postgraduate level,
+[00:04:53 -> 00:04:59]  will be able to fulfil all of these arguments simply because we don't have time often in
+[00:04:59 -> 00:05:04]  the lab to be able to make recommendations for future research. Often, your recommendations
+[00:05:04 -> 00:05:08]  might be actually just to repeat the study again with more numbers and trying to develop
+[00:05:08 -> 00:05:13]  some statistical significance. But obviously, bear those in mind when you're trying to prepare
+[00:05:13 -> 00:05:18]  the content, map it out, create far too many slides than you actually need, and then cut
+[00:05:18 -> 00:05:25]  down the slides that are irrelevant and only show those relevant slides. Be interesting.
+[00:05:25 -> 00:05:28]  Maintain eye contact with your audience. There's nothing worse than having a speaker at the
+[00:05:28 -> 00:05:32]  front of the room who's just talking to the blackboard or talking to the PowerPoint presentation
+[00:05:32 -> 00:05:37]  or worse still, talking to their notes. Look at the audience, smile at them, see if they're
+[00:05:37 -> 00:05:43]  smiling back. A tired and uncooperative audience is a very bad audience to have to deal with
+[00:05:43 -> 00:05:48]  so try and perk them up by giving them a smile from time to time and maintain some eye contact.
+[00:05:48 -> 00:05:55]  Make sure you can be heard. There's nothing worse than mumbling into a microphone and
+[00:05:55 -> 00:05:59]  not being heard over a conference room so make sure you either speak into the mic if
+[00:05:59 -> 00:06:04]  you've got a microphone or maintain a nice loud volume so that people can see you and
+[00:06:04 -> 00:06:10]  hear you at the back of the room. Try and vary your pitch. It's not nice to be boring
+[00:06:10 -> 00:06:14]  and monotonous so, you know, pitch things up when they're interesting, pitch things
+[00:06:14 -> 00:06:19]  down when they're a take-home message, and increase the volume if you get enthusiastic.
+[00:06:19 -> 00:06:23]  You know, there's nothing wrong with getting excited about your own research and being
+[00:06:23 -> 00:06:29]  enthusiastic. You'll be remembered for that. Make sure you speak with good articulation.
+[00:06:29 -> 00:06:34]  A lot of students, especially at King's College, aren't from the UK and maybe English isn't
+[00:06:34 -> 00:06:38]  their first language so if you're one of those, you know, take time to practice your talk
+[00:06:38 -> 00:06:42]  and make sure that some of the words that you're not, maybe not used to saying, you're
+[00:06:42 -> 00:06:47]  used to saying for this talk because to be articulate is very important in a presentation.
+[00:06:47 -> 00:06:52]  And make sure you pronounce words correctly. I'm one for this. I make awful mistakes
+[00:06:52 -> 00:06:55]  in talk sometimes where I just mispronounce a word that I should be able to say. It's
+[00:06:55 -> 00:06:59]  not a difficult word to say but just make sure you do pronounce them correctly and be
+[00:06:59 -> 00:07:03]  consistent in your pronunciation so at least people in the audience, if they're not watching
+[00:07:03 -> 00:07:07]  your slides, will understand what you're talking about.
+[00:07:07 -> 00:07:12]  Don't be frightened of pausing. A lot can be said for a thoughtful presenter who every
+[00:07:12 -> 00:07:16]  so often stops talking and allows the audience to just take in what's on the wall in front
+[00:07:16 -> 00:07:22]  of them, to understand the slides, to peruse the data and maybe try and interpret the data
+[00:07:22 -> 00:07:26]  before you just waffle over it and tell them what you're doing.
+[00:07:26 -> 00:07:32]  Try and avoid overusing expressions. Again, we all do this. I use the word again quite
+[00:07:32 -> 00:07:38]  a lot. A lot of us use the word um between every sentence and some people start every
+[00:07:38 -> 00:07:44]  sentence with the word so. Try and avoid that. It does get monotonous and your audience really
+[00:07:44 -> 00:07:49]  want to keep on track and on your side and not get them staring at you and wishing you'd
+[00:07:49 -> 00:07:52]  just shut up and get off the stage.
+[00:07:52 -> 00:07:57]  Be careful with your grammar. Try and avoid colloquialisms. Try and avoid slang in your
+[00:07:57 -> 00:08:03]  presentation, not only on the slide itself but in what you say. You know, don't, do not,
+[00:08:03 -> 00:08:08]  that's fine but try and avoid other slang words that you may not be expecting to hear
+[00:08:08 -> 00:08:10]  at a conference.
+[00:08:10 -> 00:08:16]  What is the focus of your presentation? It's clearly you and your presentation. If you
+[00:08:16 -> 00:08:20]  are the researcher, you're the academic presenting your data, you need to make sure the audience
+[00:08:20 -> 00:08:25]  can see you, you need to make sure the audience will look at you. There is no point in presenting
+[00:08:25 -> 00:08:31]  a PowerPoint presentation and then sanding 20 feet away from your slides so that the
+[00:08:31 -> 00:08:35]  audience have to keep moving their heads to look at you and look at your slides.
+[00:08:35 -> 00:08:39]  If your slides aren't too busy, there's nothing wrong with standing in front of your projection
+[00:08:40 -> 00:08:44]  and staring at the audience into the bright light but equally there's nothing wrong with
+[00:08:44 -> 00:08:49]  standing slightly to the side or moving around. You know, you may not want to use a laser
+[00:08:49 -> 00:08:53]  pointer, you may want to jump in front of the board and point at things with your finger.
+[00:08:53 -> 00:08:57]  There's nothing wrong with that but make sure that you and your presentation can be seen.
+[00:08:57 -> 00:09:02]  A lot of conferences I've been to, they insist you stand behind the podium and they insist
+[00:09:02 -> 00:09:07]  that you stand well away from your presentation and I often buck the system, step away from
+[00:09:07 -> 00:09:10]  the podium and actually get out there and jump up and down in front of the slides. It
+[00:09:10 -> 00:09:14]  does make a great deal of difference.
+[00:09:14 -> 00:09:19]  Practice. Practice your presentation. I can't say that enough times. Sit down with your
+[00:09:19 -> 00:09:25]  slides and go through them. I'm using Camtasia Studio to record this but PowerPoint has its
+[00:09:25 -> 00:09:30]  own narration recording built in so there's nothing wrong with sitting there in your living
+[00:09:30 -> 00:09:34]  room with your laptop on your lap and just practice your talk. Record your talk, listen
+[00:09:34 -> 00:09:41]  back to it, see if it makes any sense. This is theatre, okay? Presenting your presentation
+[00:09:41 -> 00:09:46]  is theatre, it's not improvisation. Please don't make up ten slides, put them in a filing
+[00:09:46 -> 00:09:49]  cabinet, come back a month later and expect to remember what they've got on them. The
+[00:09:49 -> 00:09:54]  next slide won't be what you expect it to be and you'll be just talking nonsense so
+[00:09:54 -> 00:09:59]  try not to improvise. Try and prepare what you need to say before you say it. Obviously
+[00:09:59 -> 00:10:04]  if you've given a talk many times this will come very naturally. If you've never given
+[00:10:04 -> 00:10:08]  this particular talk before you will need to practice again and again and again. Even
+[00:10:08 -> 00:10:12]  if you just top and tail each slide you can see what's on the screen and you know what's
+[00:10:12 -> 00:10:18]  coming next. Run through from start to finish. Don't just go, yeah I know this slide, I know
+[00:10:18 -> 00:10:21]  this slide, I know this slide, I know this slide, because you won't know how long your
+[00:10:21 -> 00:10:27]  talk is going to last for. Speak out loud. March up and down your living room saying
+[00:10:27 -> 00:10:31]  your talk. Don't sit in your bedroom with your headphones on speaking to yourself in
+[00:10:31 -> 00:10:37]  your head because it won't run as quickly. I'm sat here in my office talking to a microphone
+[00:10:37 -> 00:10:41]  and I know how long this talk is going to last because I'm speaking at the speed I normally
+[00:10:41 -> 00:10:46]  speak so just make sure you do practice it. If you have to, stare into a mirror or use
+[00:10:46 -> 00:10:52]  your webcam. See what you look like. You know, record yourself both visually and the audio
+[00:10:52 -> 00:10:57]  because you'll be surprised how boring you can look or how dull you can sound despite
+[00:10:57 -> 00:11:01]  the fact you think you're actually quite interesting to look at. So, you know, practice
+[00:11:01 -> 00:11:07]  those aspects of it. And be prepared for sudden changes. You know, we all use different operating
+[00:11:07 -> 00:11:12]  systems, we're all used to different things, so make sure that if you are going to practice
+[00:11:12 -> 00:11:16]  and record on your system, check you can do it on another system as well. And I know that's
+[00:11:16 -> 00:11:20]  a very daft thing to say and we all just turn up, and I've said previously we turn up with
+[00:11:20 -> 00:11:25]  a memory stick and expect it to work, but I know for a fact if you prepare a presentation
+[00:11:25 -> 00:11:29]  on a Mac and then try and load on a PC, the first thing that won't work is your fonts
+[00:11:29 -> 00:11:32]  and you'll find that your font sizes are different and then maybe words won't fit on the screen.
+[00:11:32 -> 00:11:36]  So practice yourself on a computer that you own that you're going to take with you, but
+[00:11:36 -> 00:11:40]  then also find another computer and practice on that too. If you're lucky to own both a
+[00:11:40 -> 00:11:45]  PC and a Mac, brilliant, practice on both. So when you get to the presentation, how do
+[00:11:45 -> 00:11:49]  you actually set out a presentation? Well, first of all you have to choose a title, and
+[00:11:49 -> 00:11:54]  I would suggest choosing a title that is short and informative. Quite often cute or
+[00:11:54 -> 00:12:00]  sexy titles are very poor titles. It may sound really funny when you're sat at home and think,
+[00:12:00 -> 00:12:04]  yeah, that would be a great title, but in reality it's quite likely to be a rather naff
+[00:12:04 -> 00:12:08]  title and the audience may not fully understand what it is you're actually talking about until
+[00:12:08 -> 00:12:13]  you get into the nitty gritty of the talk. So choose a title that explains what it is
+[00:12:13 -> 00:12:17]  you're going to be talking about. As I said before, determine the level of knowledge,
+[00:12:17 -> 00:12:21]  you know, who did the research? Was it you? Are you presenting a library project? Are
+[00:12:21 -> 00:12:26]  you presenting a summary of the literature? Don't overestimate the audience, but at the
+[00:12:26 -> 00:12:32]  same time don't underestimate the audience. Quite often, and I've had this done to myself,
+[00:12:32 -> 00:12:36]  you give a presentation at a large conference and actually find that the person you are
+[00:12:36 -> 00:12:42]  citing the most in your talk is sat in the front row of the audience. So don't assume
+[00:12:42 -> 00:12:46]  that the audience know everything, but equally don't assume the audience know nothing about
+[00:12:46 -> 00:12:53]  your topic. You may be preaching to the choir, as they say. And don't include too much information.
+[00:12:54 -> 00:12:58]  We generally have a one minute rule. One minute per slide. You know, if you've got a ten minute
+[00:12:58 -> 00:13:04]  talk, ten slides. Maybe one title and one acknowledgement slide. Try and be very careful
+[00:13:04 -> 00:13:09]  with your technical terms. If you're introducing a new concept, you're introducing a new hypothesis,
+[00:13:09 -> 00:13:14]  you may be using new equipment, make sure you explain what it is that you're describing.
+[00:13:14 -> 00:13:18]  Don't just say I used a pneumotachograph if you don't think the audience knows what
+[00:13:18 -> 00:13:23]  one of these devices is. Often in biomedical science and molecular science, it's quite
+[00:13:23 -> 00:13:28]  nice to have a simple slide just explaining the technique you're doing. Gene cloning.
+[00:13:28 -> 00:13:33]  How do I get a gene to express in a mouse, for instance. Explain it very briefly and
+[00:13:33 -> 00:13:37]  then talk about the data and the audience will be a lot happier for that. And limit
+[00:13:37 -> 00:13:40]  the amount of text you put on the screen. Three or four bullet points is normally quite
+[00:13:40 -> 00:13:47]  enough on a single page. Don't include huge reams of paragraphs of text.
+[00:13:47 -> 00:13:51]  So the format of the presentation is fairly simple. Follow the same format you would use
+[00:13:51 -> 00:13:58]  for any written report. Start with an introduction. Then have your methods and either detail your
+[00:13:59 -> 00:14:03]  methods or show pictures of the equipment you used to do your methods. You have the
+[00:14:03 -> 00:14:08]  advantage with a PowerPoint presentation that you can use your laser pointer or use your
+[00:14:08 -> 00:14:12]  finger and point at various things to attract the attention of the audience. So you can
+[00:14:12 -> 00:14:17]  show your equipment and go here you can see this and here you can see that. Show your
+[00:14:17 -> 00:14:23]  results section. Describe your data. Summarise your data. Don't just show all the graphs.
+[00:14:23 -> 00:14:27]  Here's a graph showing, here's a graph showing. Show maybe one or two graphs and then summarise
+[00:14:27 -> 00:14:34]  the other data that aren't quite the most important data. Please discuss your data.
+[00:14:34 -> 00:14:39]  Don't just say here's the data, here's a summary, this is what I've shown, good night.
+[00:14:39 -> 00:14:43]  Discuss the data you've shown, have a chat about it, say where it fits into the context
+[00:14:43 -> 00:14:48]  of the literature. Obviously if you're giving a presentation of a report, you've already
+[00:14:48 -> 00:14:52]  written the report, this is going to be a lot easier than it is if you're just presenting
+[00:14:52 -> 00:14:56]  data which you have not already prepared as a written report. So make sure you do read
+[00:14:56 -> 00:15:01]  around the literature and be able to discuss what you've got in context of the published
+[00:15:01 -> 00:15:05]  data. And then of course summarise. Maybe one take home message, maybe a couple of
+[00:15:05 -> 00:15:12]  bullet points, we have shown that, X, Y and Z and there we are. Do not overrun. That's
+[00:15:12 -> 00:15:19]  a really big important thing. You may get 10 minutes to present and 5 minutes for questions
+[00:15:19 -> 00:15:23]  and the chairperson may be very nice and if you're overrun to 12 or 13 minutes the chairman
+[00:15:23 -> 00:15:28]  or chairwoman may say yeah fine off you go, you've got another 2 minutes. It may be in
+[00:15:28 -> 00:15:32]  the old days of the FISSOC, you go to a FISSOC meeting and there'd be a traffic light system
+[00:15:32 -> 00:15:39]  with a green and amber and a red light. The green light would stay on for about 8 minutes
+[00:15:39 -> 00:15:43]  and at 8 minutes the amber light would turn on and at 10 minutes the red light would turn
+[00:15:43 -> 00:15:49]  on and your slide projector would be shut down. So essentially if you overran your 10
+[00:15:49 -> 00:15:53]  minute slot you may not get as far as giving your discussion or your summary, in which
+[00:15:53 -> 00:15:59]  case it's a pointless presentation. So don't overrun and allow time for those important
+[00:15:59 -> 00:16:04]  questions. You run to 15 minutes, it may be a Nobel Prize winning presentation but if
+[00:16:04 -> 00:16:08]  nobody can answer any questions and you can't have time to answer them, that's not going
+[00:16:08 -> 00:16:12]  to be a very good presentation. So just check that you're not going to overrun. It's always
+[00:16:12 -> 00:16:17]  worth again, if you've got an invited speaker, make sure that they know exactly what you
+[00:16:17 -> 00:16:23]  expect from them because you will expect to know what they expect from you. So if you're
+[00:16:23 -> 00:16:27]  giving a 40 minute presentation, drop them a line the week before and say, it's definitely
+[00:16:27 -> 00:16:32]  a 40 minute presentation, isn't it? At least you know what's going on, which is good. Don't
+[00:16:32 -> 00:16:36]  give handouts at the beginning. General rule of thumb with research presentations, if you're
+[00:16:36 -> 00:16:39]  going to give handouts, give them at the end, give them a summary, you know, if you're going
+[00:16:39 -> 00:16:43]  to present a paper, give them a copy of the paper at the end. If you give them a copy
+[00:16:43 -> 00:16:48]  of the paper at the beginning, mostly, in my experience, the average scientist would
+[00:16:48 -> 00:16:52]  just sit there and read your paper rather than watching your presentation unless your
+[00:16:52 -> 00:16:56]  presentation includes something which is not on the paper, which is very unlikely.
+[00:16:56 -> 00:17:00]  So save those handouts to the end of the presentation and they can take them home with them and
+[00:17:00 -> 00:17:04]  read them later if they want to, or come and ask you questions about them in a break or
+[00:17:04 -> 00:17:10]  after your talk. So simple formatting rules now, let's have a look at what kind of text
+[00:17:10 -> 00:17:17]  we need to use on our slide. Big rule of thumb, big. Big text is good text. Simple text is
+[00:17:17 -> 00:17:24]  what you want to show and clear text. So big, simple and clear. Can you see me at the
+[00:17:24 -> 00:17:31]  back? Can your audience at the back of the room read your text? 28, 32 point font is
+[00:17:31 -> 00:17:35]  about right, depending on what kind of font you're using, you know, Arial or Times New
+[00:17:35 -> 00:17:40]  Roman or whatever. Around that kind of size is about the right size for bullet points
+[00:17:40 -> 00:17:45]  or key points you want to show in your talk. And try and keep all your font sizes the same.
+[00:17:45 -> 00:17:49]  It's a really daft comment, but really, you know, you don't want to be reading paragraphs
+[00:17:49 -> 00:17:53]  where the fonts get progressively smaller as the page goes down or vice versa, get progressively
+[00:17:53 -> 00:17:57]  bigger as the page goes down. It just takes your mind away from what you're trying to
+[00:17:57 -> 00:18:03]  read. So keep your font sizes the same. You do need to keep your slides simple. More than
+[00:18:03 -> 00:18:09]  six lines with bullet points is probably too much. So try and keep it below about six lines
+[00:18:09 -> 00:18:15]  and try and keep between seven or so words per line. You see here, avoid trying to squeeze
+[00:18:15 -> 00:18:19]  too much, you know, you sit there with your laser pointer printing all this key, avoid
+[00:18:19 -> 00:18:22]  trying to squeeze too much information on the slide, bullet points, the audience, you
+[00:18:22 -> 00:18:26]  know, all of this information here is totally irrelevant. You can save this kind of information.
+[00:18:26 -> 00:18:32]  So do avoid trying to put too many words on a line. If you put too much, as I've got here,
+[00:18:32 -> 00:18:38]  you end up reading it. So what's the point? This will be very distracting. So use keywords.
+[00:18:38 -> 00:18:43]  Put keywords down on the page and when you want to elaborate on that keyword, it's going
+[00:18:43 -> 00:18:47]  to trigger your mind and say, yep, I want to talk about keywords. This is my keyword.
+[00:18:47 -> 00:18:53]  Off we go. Keeping your slides clear is actually really, really quite hard. You can see I've
+[00:18:53 -> 00:18:59]  chosen a very simple template for this presentation. It's got a big blue title, a big white page
+[00:18:59 -> 00:19:05]  and a footer that remains the same on every slide. Sit in the kind of the fonts like Arial
+[00:19:05 -> 00:19:10]  and Helvetica. They're easier to read, frankly. Times New Roman's okay, but to be honest,
+[00:19:10 -> 00:19:14]  the sans serif fonts like Arial and Helvetica are the best fonts to read. Try and avoid
+[00:19:14 -> 00:19:21]  mixing fonts between slides or within slides. We do this a lot. We present all over the
+[00:19:21 -> 00:19:25]  place and we prepare slideshows for different meetings and, you know, maybe one week we're
+[00:19:25 -> 00:19:29]  having an Arial week and the next week we're having a Times New Roman week and you think,
+[00:19:29 -> 00:19:32]  well, I'll just botch all these slides together and put them into one presentation and it
+[00:19:32 -> 00:19:36]  does look messy. And, again, it detracts from the message you're trying to get across.
+[00:19:36 -> 00:19:40]  The audience is spending most of their time trying to read what you've written. Don't
+[00:19:40 -> 00:19:46]  use scripted fonts. They are really tough to read, you know, unless you're trying to
+[00:19:46 -> 00:19:51]  make a point and be all arty-farty. You know, try and avoid using scripted text. They tend
+[00:19:51 -> 00:19:57]  not to work. And use a simple background, single color or gradient or a simple picture.
+[00:19:57 -> 00:20:02]  Try not to be too flashy by having multiple colored super graphics with animated logos
+[00:20:02 -> 00:20:07]  and God knows what on them. Again, it detracts from the message and will probably not work
+[00:20:07 -> 00:20:13]  anyway when you go somewhere to present it on somebody else's computer. Avoid animations
+[00:20:13 -> 00:20:19]  unless they are really, really essential. And check your spelling. I cannot spell. I'm
+[00:20:19 -> 00:20:24]  useless at spelling. I spend most of my time trying to proofread my own poor spelling.
+[00:20:24 -> 00:20:30]  But do check that what you've written on your slide is spelled correctly and makes sense.
+[00:20:30 -> 00:20:35]  These days we have very clever computers with lots of clever effects, fonts, fills,
+[00:20:35 -> 00:20:41]  fantastic bits and bobs. You know, it may be your favorite color but some colors are
+[00:20:41 -> 00:20:46]  actually quite hard to read and other combinations of color just look terrible. Pink on yellow
+[00:20:46 -> 00:20:51]  for instance here isn't the best combination of colors. Although clever text formatting
+[00:20:51 -> 00:20:56]  is very nice and you can do all sorts of things like shadows and reflections and all sorts
+[00:20:56 -> 00:21:02]  of three-dimensional effects, they don't tend to work. They tend to again detract from
+[00:21:02 -> 00:21:07]  the point of the talk. Unless you're trying to be clever, I would avoid using them at
+[00:21:07 -> 00:21:12]  all costs. And use traditional color schemes. There's nothing wrong with black on white
+[00:21:12 -> 00:21:17]  or white on black or yellow on blue. You know, a classic slide combination is the way to
+[00:21:17 -> 00:21:22]  go frankly. If you've got all your graphs sorted out on white backgrounds, well put
+[00:21:22 -> 00:21:27]  everything on white. It makes life a lot easier and a lot easier for you then to combine
+[00:21:27 -> 00:21:33]  many presentations to make maybe a longer presentation later. In PowerPoint there's
+[00:21:33 -> 00:21:38]  a thing called a master layout. Use it. If you use a master layout, you can then set
+[00:21:38 -> 00:21:42]  on the screen what the different fonts you can see here are. They all stay the same.
+[00:21:42 -> 00:21:46]  Every slide has the same format. You can see here this is the format I'm using for this
+[00:21:46 -> 00:21:51]  presentation. It's got everything the same. So every slide will look with the same format.
+[00:21:51 -> 00:21:55]  And of course in PowerPoint you can set different slides to have different formats with pictures,
+[00:21:55 -> 00:22:00]  images, graphs or whatever on them. And this will really help your presentation look slick
+[00:22:00 -> 00:22:05]  and also help you to navigate through it easily. And once you've done all that, start filling
+[00:22:05 -> 00:22:07]  your slides with the information you've prepared elsewhere.
+[00:22:07 -> 00:22:12]  Okay, so you've prepared the text you want to include in your presentation. You've sorted
+[00:22:12 -> 00:22:18]  your formatting, your fonts, your color scheme. What do you do about pictures, graphics and
+[00:22:18 -> 00:22:23]  videos? Well, in certain graphics there's no really hard and fast rules. But if you
+[00:22:23 -> 00:22:28]  are going to insert graphics like this, where you're trying to explain, let's say in this
+[00:22:28 -> 00:22:34]  case kinase signaling, and your kinase of interest is this little one here, and you're
+[00:22:34 -> 00:22:39]  showing everything else is not relevant, including some pathways that are not relevant to the
+[00:22:39 -> 00:22:42]  path that you're interested in, you know, you've got to think about what might be wrong
+[00:22:42 -> 00:22:47]  with the picture. Is that the right schematic to show? Maybe you could draw your own one
+[00:22:47 -> 00:22:52]  that would fit in better. Showing all this extraneous stuff really isn't that relevant.
+[00:22:52 -> 00:22:59]  This is a classic presentation style picture that we see in many student presentations
+[00:22:59 -> 00:23:05]  and actually, sadly, in the professional presentations we see as well. Clearly somebody has downloaded
+[00:23:05 -> 00:23:10]  a PDF file from the internet with some figures in it, has seen the page on the screen, done
+[00:23:10 -> 00:23:15]  a little screen capture, and then blown up the picture to fit into a PowerPoint presentation.
+[00:23:16 -> 00:23:21]  I don't know about you, but I certainly can't read most of what's on this slide. So if the
+[00:23:21 -> 00:23:23]  presenter is sitting there at the front of the screen saying, yes, as you can see, you
+[00:23:23 -> 00:23:27]  can see this, and blah, blah, blah, you won't understand a word they're talking about because
+[00:23:27 -> 00:23:31]  you cannot see the picture. So, you know, if you're giving this as a presentation, work
+[00:23:31 -> 00:23:36]  out what the message is. Maybe it's this first part up here, part A and part B and part C
+[00:23:36 -> 00:23:43]  aren't relevant. So zoom in on your PDF file, get a higher resolution capture of it, or
+[00:23:43 -> 00:23:49]  draw your own. I mean, this is the zoomed in version from the PDF file. Hide the bits
+[00:23:49 -> 00:23:53]  that aren't relevant. There was a letter A in the original slide. I've just cropped that
+[00:23:53 -> 00:23:58]  out and cut it out using a little white square. So hide the bits that aren't important. And
+[00:23:58 -> 00:24:02]  probably the most important thing is make sure you put a citation. You can see here
+[00:24:02 -> 00:24:09]  I've cited Chris Proud for this drawing in his 2001 publication, and there's no harm
+[00:24:09 -> 00:24:14]  in mentioning that when you see the little caption pop up, just in case Professor Proud
+[00:24:14 -> 00:24:19]  is in the audience. Make your own figures, of course, is a great way of doing it. Here
+[00:24:19 -> 00:24:26]  is a picture I drew earlier. This is one of our mouse models we use in our lab. It's clear,
+[00:24:26 -> 00:24:32]  it's concise, it doesn't give you any information you don't need to know, and you can emphasize
+[00:24:32 -> 00:24:36]  that by zooming in on the section of interest and showing a more anatomical view, which
+[00:24:36 -> 00:24:41]  the audience may understand or may need more explaining. So, you know, it doesn't take
+[00:24:41 -> 00:24:46]  long to draw a picture like this, but it can help maybe two or three slides worth of rather
+[00:24:46 -> 00:24:51]  dull text in explaining the technique. You can point at that with your laser pointer
+[00:24:51 -> 00:24:57]  and explain what's going on. Of course, sometimes you need to explain quite a complicated concept
+[00:24:57 -> 00:25:03]  or a complicated piece of equipment. This is Ross over in Shepard's house with a rather
+[00:25:03 -> 00:25:10]  complicated setup, and Tony Christopher from the CHAPS team has spent a fair bit of time
+[00:25:12 -> 00:25:18]  here drawing all of these various bits of equipment, and you can see what he's done
+[00:25:18 -> 00:25:24]  is he's ignored things like this little table with the laptop on it. He hasn't put the skirting
+[00:25:24 -> 00:25:28]  board in. There are some bits of kit hovering around the background here, and this rack
+[00:25:28 -> 00:25:33]  looks rather messy, so what Tony has done is he's tidied up the rack. He's removed all
+[00:25:33 -> 00:25:37]  the bits in the background and redrawn this picture. This is no longer a photograph, of
+[00:25:37 -> 00:25:41]  course. It's a sketch which you can play with. You can shade your own colours. So if you've
+[00:25:41 -> 00:25:46]  got time, it might be worth it. This would take a heck of a long time and maybe isn't
+[00:25:46 -> 00:25:50]  worth it for a ten-minute presentation unless also you're including this picture in a thesis
+[00:25:50 -> 00:25:56]  or a report, but bear in mind that spending some time drawing a picture might also increase
+[00:25:56 -> 00:26:00]  your ability to understand the technique or technology you're trying to explain, so it
+[00:26:00 -> 00:26:06]  might help. Presenting data, again, no hard and fast rules, but do avoid putting too much
+[00:26:06 -> 00:26:13]  data on one slide. Here I've got part A and C and D. I've clearly missed off part B because
+[00:26:14 -> 00:26:19]  I didn't think part B was relevant, and I might want to edit the A, C and D letters
+[00:26:19 -> 00:26:25]  so they actually read A, B and C, so it makes the audience follow you through a little bit
+[00:26:25 -> 00:26:31]  better. Try and spread themed graphs over multiple slides, so if you're showing a series
+[00:26:31 -> 00:26:37]  of datasets, show them over many slides. Avoid boring the audience by showing them 20 slides
+[00:26:37 -> 00:26:41]  on a page and going, as you can see from, as you can see from, if your attention is
+[00:26:41 -> 00:26:46]  drawn to, etc. Show one graph and go, yep, this is a graph. Now we're moving on to the
+[00:26:46 -> 00:26:52]  next graph. Keep your colours simple. Limit the shading patterns. Don't have 27 different
+[00:26:52 -> 00:26:59]  shading patterns and crosshatches because they may not come out very well on the projector.
+[00:26:59 -> 00:27:03]  Avoid many, many shades of grey, certainly, because overhead projectors and slide projectors
+[00:27:03 -> 00:27:08]  don't show these very well, and you may actually be able to get yourself confused by going,
+[00:27:08 -> 00:27:13]  hang on, which one of these bars am I supposed to be pointing at? Avoid shadows and three-dimensional
+[00:27:13 -> 00:27:17]  graphs. Excel does three-dimensional graphs very nicely, but try and avoid them. Make
+[00:27:17 -> 00:27:23]  everything 2D, flat, nice and easy to explain and easy to understand. And if you have to,
+[00:27:23 -> 00:27:27]  use larger than usual fonts. Don't restrict yourself to a graph that you've already made
+[00:27:27 -> 00:27:32]  for a research presentation report or whatever. You know, blow it up, make it bigger. There's
+[00:27:32 -> 00:27:37]  nothing wrong with using a really, really big figure on a page. If your point of interest
+[00:27:37 -> 00:27:42]  is to say that these data points are significantly different, for instance, it's nice to have
+[00:27:42 -> 00:27:46]  it nice and big and you can say, look, it's gone from here down to here, and you can see
+[00:27:46 -> 00:27:50]  it very big on the screen. So if it makes complex data easy to understand, make the
+[00:27:50 -> 00:27:55]  graphs nice and big, cut out any stuff you don't need to show, and just show the essential
+[00:27:55 -> 00:28:03]  data. If you're going to use video, which I have done here, make sure the video works.
+[00:28:03 -> 00:28:09]  This was a video I recorded on my iPhone and just assumed it would work in PowerPoint.
+[00:28:09 -> 00:28:12]  It took about four attempts to transcode it to various different formats before it finally
+[00:28:12 -> 00:28:19]  worked, and here it is working. So if you're going to use video, use them, but if you can't
+[00:28:19 -> 00:28:24]  rely on them, use photographs or describe it instead. There's nothing worse than travelling
+[00:28:24 -> 00:28:27]  half way across the world to a conference with your memory stick and then realising
+[00:28:27 -> 00:28:32]  that the video file doesn't work and you've not got the resources to edit it or do anything
+[00:28:32 -> 00:28:39]  with it. So you've reached the end of your presentation, and now it's over. Or is it?
+[00:28:39 -> 00:28:42]  Questions. There's always going to be questions from the audience, and if there aren't any
+[00:28:42 -> 00:28:46]  questions from the audience, there will be questions from the chairperson. That is their
+[00:28:46 -> 00:28:52]  obligation to at least ask one question of you to try and help you out. It's very embarrassing
+[00:28:52 -> 00:28:56]  at the end of a talk to have no questions at all, so the chair will normally step in
+[00:28:56 -> 00:29:01]  and go, here's an obvious question. If you're really desperate, you could also prompt the
+[00:29:01 -> 00:29:08]  chair into asking you a question at the beginning of the talk. So answering questions, be honest.
+[00:29:08 -> 00:29:12]  Hopefully you'll know the answer to all the questions, but if you don't know, you just
+[00:29:12 -> 00:29:17]  don't know. So don't answer it. Don't say, I'm sorry, I'm going to answer this and talk
+[00:29:17 -> 00:29:21]  nonsense at you. Just say, I don't know the answer to that, but I'll get back to you.
+[00:29:21 -> 00:29:24]  You know, what's your name, give me an email address and I'll contact you when I've found
+[00:29:24 -> 00:29:31]  out the answer. Please avoid avoiding. You know, don't just say, I'll speak around the
+[00:29:31 -> 00:29:36]  subject for five minutes and hopefully this question will shut up and leave me alone.
+[00:29:36 -> 00:29:40]  Don't avoid answering. Just say, look, I don't know the answer or answer the question quite
+[00:29:41 -> 00:29:47]  concisely. Don't waffle. Questions normally are, do you think it's a good idea that? The
+[00:29:47 -> 00:29:52]  answer will be yes or no. Or what's the likelihood that? Just say, I don't know what the likelihood
+[00:29:52 -> 00:29:57]  is. I'll get back to you. Or this is the answer. Try not to waffle too much. Have backup slides.
+[00:29:57 -> 00:30:03]  Have a few extra little slides here and there on the end of your presentation that may explain
+[00:30:03 -> 00:30:07]  some of the obvious questions. You know, you may have provoked the audience into asking
+[00:30:07 -> 00:30:12]  a really obvious question. Have a slide and go, funny, you should ask that question. Here's
+[00:30:12 -> 00:30:16]  a schematic I've prepared that explains my answer and then talk through it. Don't embark
+[00:30:16 -> 00:30:21]  on a completely new presentation, but just show one slide maybe that answers it. Maybe
+[00:30:21 -> 00:30:27]  expanded information about a technique or a method that you've devised specially for
+[00:30:27 -> 00:30:32]  this. You might have glossed over slightly in your method section to make life easier,
+[00:30:32 -> 00:30:36]  but you may have an extra slide that just explains that method a little bit better.
+[00:30:36 -> 00:30:40]  So hopefully you'll answer all your questions right. You'll get some good questions and
+[00:30:40 -> 00:30:44]  you'll give a good presentation. I'd love to accept questions myself right now, but
+[00:30:44 -> 00:30:49]  since I'm in my office and this is an online presentation, please feel free to email me
+[00:30:49 -> 00:30:53]  at the address shown on the bottom of the screen here. I'll be very happy to talk to
+[00:30:53 -> 00:30:57]  you about presentations of any shape or form. Thank you.

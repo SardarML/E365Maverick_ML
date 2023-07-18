@@ -1,0 +1,71 @@
+[00:00:00 -> 00:00:05]  Hi, I'm William Spaniel. Today we're going to start a new series of lectures,
+[00:00:05 -> 00:00:09]  this time entitled International Relations 101. You might think that I'm
+[00:00:09 -> 00:00:12]  an economist because I do all of these game theory videos, but that's actually
+[00:00:12 -> 00:00:16]  not the case. I am a political scientist and I specialize within political
+[00:00:16 -> 00:00:21]  science in formal models in relation to international relations. So rather than
+[00:00:21 -> 00:00:24]  doing pure mathematics in this series of videos, we'll be actually looking at
+[00:00:24 -> 00:00:28]  applying these sorts of theories into the realm of international relations. In
+[00:00:28 -> 00:00:34]  this video in particular, we'll focus on what we'll be covering in the next few
+[00:00:34 -> 00:00:37]  dozen videos over the next month or two months or three months, however long it
+[00:00:37 -> 00:00:41]  takes. So let's start talking about those things. So first we're going to start
+[00:00:41 -> 00:00:45]  with asking ourselves, what is international about international
+[00:00:45 -> 00:00:50]  relations? So we'll touch on concepts of sovereignty and anarchy, which separate
+[00:00:50 -> 00:00:55]  interstate action with intrastate action. And we're going to ask ourselves
+[00:00:56 -> 00:01:00]  specifically, why is international relations so strategic? And because it's
+[00:01:00 -> 00:01:04]  so strategic, it allows us to use these formal models, these game theoretical
+[00:01:04 -> 00:01:07]  models, to help us analyze it. But first we need to understand why we're able to
+[00:01:07 -> 00:01:11]  do that and why these things are so great for studying international
+[00:01:11 -> 00:01:14]  relations. And to do that, we need to understand sovereignty and anarchy. So
+[00:01:14 -> 00:01:17]  that's what we're going to start out with. Then we're going to move on to big
+[00:01:17 -> 00:01:22]  broad questions about conflict versus cooperation, and why is it so difficult
+[00:01:22 -> 00:01:25]  for states to work together, given the framework that we live in in
+[00:01:25 -> 00:01:29]  international relations, in this state of anarchy, as we'll call it. And
+[00:01:29 -> 00:01:32]  you'll see what that means shortly. And we're also going to see how future
+[00:01:32 -> 00:01:37]  punishment induces cooperative behavior today. This relates directly to the
+[00:01:37 -> 00:01:40]  concept of the prisoner's dilemma and repeated prisoner's dilemmas, and we'll
+[00:01:40 -> 00:01:44]  see that in action. Then we'll actually start talking about more specific things.
+[00:01:44 -> 00:01:47]  We'll get to the big, big thing that sort of overtook international
+[00:01:47 -> 00:01:51]  relations in 1995, which was an article by a professor at Stanford named James
+[00:01:51 -> 00:01:56]  Fearon, who wrote an article called Rationalist Explanations for War. And he
+[00:01:56 -> 00:01:59]  just asked a very simple question. If war is costly, why can't states settle their
+[00:01:59 -> 00:02:02]  differences at the bargaining table, given that it's going to cost both sides
+[00:02:02 -> 00:02:06]  something to fight a war? And in this article, he lays out this big
+[00:02:06 -> 00:02:10]  research question and then provides a few answers. He talks about preventative
+[00:02:10 -> 00:02:14]  war and preemptive war, and how asymmetric information incentives to
+[00:02:14 -> 00:02:18]  misrepresent can cause war and issue indivisibility. So we'll talk about this
+[00:02:18 -> 00:02:23]  war's inefficiency puzzle, as it's termed now, and how these four things at the
+[00:02:23 -> 00:02:28]  bottom of the bullet points can lead to states fighting over conflicts
+[00:02:28 -> 00:02:32]  rather than bargaining over them. Then we'll move and segue into international
+[00:02:32 -> 00:02:37]  trade and talk about why states should bother trading, why there is so much
+[00:02:37 -> 00:02:42]  trade going on in the world today, and why tariffs are hard to avoid, and how
+[00:02:42 -> 00:02:46]  does this international trade reduce the likelihood of war? So a little bit of a
+[00:02:46 -> 00:02:50]  mixed bag in dealing with international trade, but all very important issues.
+[00:02:50 -> 00:02:54]  We'll talk about how regime type matters. A lot of international relations work
+[00:02:54 -> 00:02:59]  does not focus on actually what goes on inside of a country, but just how states
+[00:02:59 -> 00:03:04]  should interact in a strategic setting without looking into those sorts of
+[00:03:04 -> 00:03:08]  things. But while that first avenue of research is very useful and very
+[00:03:08 -> 00:03:12]  relevant, it's also important to actually look within the state and see how
+[00:03:12 -> 00:03:16]  democracies might act differently than autocracies and so forth. And so just
+[00:03:16 -> 00:03:18]  the big broad question is how do domestic institutions affect
+[00:03:18 -> 00:03:23]  international outcomes? Speaking of institutions,
+[00:03:23 -> 00:03:27]  we'll also look at international institutions like the United Nations and
+[00:03:27 -> 00:03:30]  the World Trade Organization and the International Monetary Fund. We're going
+[00:03:30 -> 00:03:34]  to ask ourselves what these things do, and if they do anything at all, and what
+[00:03:34 -> 00:03:38]  sort of obstacles they have towards actually getting things done in the
+[00:03:38 -> 00:03:42]  international realm. We'll look at nuclear weapons. This is a big thing
+[00:03:42 -> 00:03:46]  going on right now with Iran and North Korea. We'll ask ourselves, is nuclear
+[00:03:46 -> 00:03:50]  proliferation actually a good thing? This is something that was debated heavily
+[00:03:50 -> 00:03:53]  during the Cold War, but it still continues to be an issue today. We'll
+[00:03:53 -> 00:03:56]  talk about mutually assured destruction, which was a doctrine that was also big
+[00:03:56 -> 00:04:01]  during the Cold War. And we'll go into depth about bargaining over nuclear
+[00:04:01 -> 00:04:03]  weapons, because after all, that's what's going on right now between the United
+[00:04:03 -> 00:04:09]  States and Israel and Iran, and also the United States and North Korea. We'll
+[00:04:09 -> 00:04:14]  conclude things with terrorism, which became something that was not too much
+[00:04:14 -> 00:04:18]  studied back before 2001, and then of course the September 11th attacks that
+[00:04:18 -> 00:04:22]  happened, and all of a sudden it became a really hot-button issue in international
+[00:04:22 -> 00:04:26]  relations. So we'll ask ourselves, can terrorists be rational, and why does
+[00:04:26 -> 00:04:31]  terrorism work? So that wraps up this summary of what we'll be covering in the
+[00:04:31 -> 00:04:35]  next few weeks, and I hope you'll join me in these videos, which will go into depth
+[00:04:35 -> 00:04:39]  and we'll use these formal models that we've been talking about in the past in
+[00:04:39 -> 00:04:42]  the game theory videos, and actually apply them to something relevant. So I
+[00:04:42 -> 00:04:47]  hope you join me then, and until then, take care. Bye.

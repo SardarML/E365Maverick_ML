@@ -1,0 +1,170 @@
+[00:00:00 -> 00:00:02]  Hallo und willkommen zu Projekte leicht gemacht.
+[00:00:02 -> 00:00:07]  Heute geht es um die fünf häufigsten und schlimmsten Fehler im Stakeholder-Management.
+[00:00:07 -> 00:00:12]  Ja, wie überlebenswichtig Stakeholder in jedem Projekt, in jedem Vorhaben sind,
+[00:00:12 -> 00:00:14]  das hat sich zum Glück herumgesprochen.
+[00:00:14 -> 00:00:18]  Umso schlimmer, dass im Umgang mit eben diesen Stakeholdern
+[00:00:18 -> 00:00:21]  immer noch die schlimmsten Fehler gemacht werden.
+[00:00:21 -> 00:00:24]  Also, da meine ich Kardinalfehler.
+[00:00:24 -> 00:00:26]  Richtig dicke Dinger.
+[00:00:26 -> 00:00:31]  Da wird dann alles teurer, dauert länger oder aber wird komplett an die Wand gefahren.
+[00:00:31 -> 00:00:34]  Das können Sie besser.
+[00:00:34 -> 00:00:36]  Bleiben Sie dran, gleich geht's los.
+[00:00:47 -> 00:00:51]  Fünf schlimme Fehler im Stakeholder-Management habe ich eingangs versprochen
+[00:00:51 -> 00:00:53]  und genau die will ich jetzt vorstellen.
+[00:00:53 -> 00:00:57]  Gleich vorweg, hier geht es nicht um Spitzfindigkeiten,
+[00:00:57 -> 00:00:59]  nicht um Details oder kleine Optimierungen.
+[00:00:59 -> 00:01:05]  Nein, hier geht es um die groben Dinge, die eigentlich selbstverständlich sein sollten.
+[00:01:05 -> 00:01:07]  Aber unsere Erfahrung hat uns gezeigt,
+[00:01:07 -> 00:01:11]  diese Fehler passieren nicht nur Onkel Erwin, der eine neue Garage an sein Haus bauen will.
+[00:01:11 -> 00:01:18]  Nein, das passiert selbst in Großkonzernen, bei Projektbudgets von vielen Millionen Euro.
+[00:01:18 -> 00:01:21]  Also gehen wir mal durch unsere besten Liste.
+[00:01:22 -> 00:01:26]  Fehler 1. Es existiert kein Stakeholder-Management.
+[00:01:26 -> 00:01:29]  Ja, richtig gehört. Und gelesen.
+[00:01:29 -> 00:01:31]  Das gibt es häufiger, als man denkt.
+[00:01:31 -> 00:01:35]  Und das, obwohl Stakeholder so verdammt wichtig sind.
+[00:01:35 -> 00:01:39]  Da gibt es die Stakeholder, die die Ziele vorgeben.
+[00:01:39 -> 00:01:41]  Die, die helfen können.
+[00:01:41 -> 00:01:43]  Die, die ihnen im Weg stehen.
+[00:01:43 -> 00:01:48]  Die, die sie fördern wollen und die, die sie vielleicht sabotieren wollen.
+[00:01:48 -> 00:01:50]  Denken Sie nur an Onkel Erwin.
+[00:01:50 -> 00:01:53]  Der will seine Garage nah an der Grundstücksgrenze bauen.
+[00:01:53 -> 00:01:57]  Da bekommen dann aber die Erdbeeren vom Nachbarn nun mal keine Sonne mehr.
+[00:01:57 -> 00:01:59]  Tja, der Nachbar.
+[00:01:59 -> 00:02:01]  Der ist hier ein wichtiger Stakeholder.
+[00:02:01 -> 00:02:04]  Und an den, an den hat Erwin nie gedacht.
+[00:02:04 -> 00:02:08]  Die Garage steht und das Kriegsbeiheil ist ausgegraben.
+[00:02:08 -> 00:02:11]  Viel Spaß, Onkel Erwin.
+[00:02:11 -> 00:02:13]  Oder mal ein bisschen ernsthafter.
+[00:02:13 -> 00:02:15]  Nehmen Sie ein Projekt im Konzern.
+[00:02:15 -> 00:02:18]  Da gibt es im Vorstand den Dr. Giefers.
+[00:02:18 -> 00:02:22]  Der hat alles von Anfang an schon abgelehnt.
+[00:02:22 -> 00:02:24]  Mit dem werden Sie Freude haben.
+[00:02:24 -> 00:02:29]  Der zersägt Ihnen das ganze schöne Projekt, wenn Sie nicht aufpassen.
+[00:02:29 -> 00:02:33]  Wenn Sie den Dr. Giefers aber zum Beispiel auf Ihre Seite ziehen
+[00:02:33 -> 00:02:38]  oder, ganz anderer Ansatz, sich Verbündete gegen ihn suchen,
+[00:02:38 -> 00:02:40]  ihn kaltstellen,
+[00:02:40 -> 00:02:44]  dann ist genau das Stakeholder-Management.
+[00:02:44 -> 00:02:47]  Das ist lebensnotwendig für Ihr Projekt.
+[00:02:47 -> 00:02:51]  Also, um die Stakeholder müssen Sie sich kümmern.
+[00:02:51 -> 00:02:55]  Kein Stakeholder-Management zu betreiben, ist grob fahrlässig.
+[00:02:55 -> 00:03:00]  Klar, das muss jetzt nicht bei jedem kleinen Projekt ein komplexer Prozess werden.
+[00:03:00 -> 00:03:04]  Aber Sie sollten in jedem Fall Ihre wichtigen Stakeholder identifizieren.
+[00:03:04 -> 00:03:06]  Wer will Ihnen helfen?
+[00:03:06 -> 00:03:08]  Wer will Ihnen vielleicht schaden?
+[00:03:08 -> 00:03:10]  Von wem sind Sie abhängig?
+[00:03:10 -> 00:03:15]  Und dann müssen Sie sich überlegen, wie Sie mit diesen Stakeholdern umgehen wollen.
+[00:03:23 -> 00:03:28]  Ganz oft beginnt das mit dem Stakeholder-Management ganz, ganz vorbildlich.
+[00:03:28 -> 00:03:33]  Man hat die wichtigsten Stakeholder identifiziert, hat sich Maßnahmen überlegt.
+[00:03:33 -> 00:03:38]  Die einen werden zum Beispiel regelmäßig informiert, um deren Neugier zu stillen.
+[00:03:38 -> 00:03:43]  Bei den anderen gibt es einen offenen Dialog oder Diskurs, damit sie einbezogen werden usw.
+[00:03:43 -> 00:03:46]  All das ist angestoßen und läuft.
+[00:03:46 -> 00:03:50]  Super. Ich meine, da ist schon viel erreicht.
+[00:03:50 -> 00:03:54]  Aber meist läuft es dann einfach so vor sich hin.
+[00:03:54 -> 00:03:57]  So, wie es anfangs mal geplant wurde.
+[00:03:57 -> 00:04:02]  In der alltäglichen Projekttaktik, da ist halt wenig Zeit.
+[00:04:02 -> 00:04:07]  Da wird oft schlichtweg vergessen, immer wieder mal bewusst hinzuschauen.
+[00:04:07 -> 00:04:10]  Funktionieren denn die Maßnahmen überhaupt?
+[00:04:10 -> 00:04:14]  Hat sich was an der Stakeholder-Situation geändert?
+[00:04:14 -> 00:04:18]  Hat sich vielleicht die Einstellung des einen oder anderen zum Projekt verändert?
+[00:04:18 -> 00:04:21]  Zum Guten oder zum Schlechten?
+[00:04:21 -> 00:04:24]  Na, da müssen Sie doch reagieren.
+[00:04:24 -> 00:04:28]  Und das können Sie nur, wenn Sie die Situation weiter beobachten.
+[00:04:28 -> 00:04:31]  Also ein Monitoring betreiben.
+[00:04:32 -> 00:04:36]  Aber kommen wir zum nächsten Fehler.
+[00:04:36 -> 00:04:38]  Nummer drei.
+[00:04:38 -> 00:04:41]  Die falsche Strategie wird gewählt.
+[00:04:41 -> 00:04:44]  Zurück zu Dr. Giefers aus dem Vorstand.
+[00:04:44 -> 00:04:48]  Der steht Ihrem Projekt ja ziemlich skeptisch gegenüber.
+[00:04:48 -> 00:04:54]  Wenn Sie jetzt ein Hitzkopf sind und wenn Sie das außerdem alles noch persönlich nehmen,
+[00:04:54 -> 00:04:57]  dann stürzen Sie sich vielleicht wütend in die Schlacht.
+[00:04:57 -> 00:05:01]  Sie drohen ihm mit Konsequenzen, fahren eine repressive Strategie.
+[00:05:01 -> 00:05:03]  Mutig.
+[00:05:03 -> 00:05:09]  Aber haben Sie als kleiner Projektleiter denn überhaupt genug Macht und Einfluss,
+[00:05:09 -> 00:05:12]  damit das jetzt nicht voll nach hinten losgeht?
+[00:05:12 -> 00:05:18]  Vielleicht hätten Sie ja lieber besser mal mit einer Diskussion oder mit Argumenten es versuchen sollen.
+[00:05:18 -> 00:05:24]  Zum Thema Strategiewahl gibt es dann übrigens noch ein ganzes Video von uns.
+[00:05:24 -> 00:05:28]  Aber hier jetzt nochmal ein anderes Beispiel.
+[00:05:28 -> 00:05:31]  Vielleicht diskutieren Sie einfach gern.
+[00:05:31 -> 00:05:36]  Beziehen gern andere ein und setzen sich gern mit anderen Meinungen auseinander.
+[00:05:36 -> 00:05:42]  Dann laufen Sie vielleicht Gefahr, das auch mit den Stakeholdern zu tun,
+[00:05:42 -> 00:05:46]  die kaum Einfluss haben, vielleicht sogar unwichtig sind.
+[00:05:46 -> 00:05:51]  Wenn Sie das machen, dann verzetteln Sie sich.
+[00:05:52 -> 00:05:57]  Also, die Strategie sollte nicht nach persönlichen Vorlieben gewählt werden,
+[00:05:57 -> 00:06:00]  sondern nach der Bewertung des jeweiligen Stakeholders.
+[00:06:00 -> 00:06:04]  Was hat er für eine Einstellung zum Projekt und wie viel Macht und Einfluss hat er?
+[00:06:04 -> 00:06:06]  Kann er schaden, kann er helfen?
+[00:06:08 -> 00:06:15]  So, Fehler 4. Ein zu offener Umgang mit den Stakeholder-Daten.
+[00:06:16 -> 00:06:18]  Denken Sie immer dran.
+[00:06:18 -> 00:06:25]  Viele Daten im Projekt sind vermutlich, zumindest innerhalb Ihrer Organisation, öffentlich.
+[00:06:25 -> 00:06:30]  Anderes, das wird spätestens dann bekannt, wenn Sie das Projekt an jemanden übergeben
+[00:06:30 -> 00:06:33]  und sei es nur für Ihren Urlaub.
+[00:06:33 -> 00:06:39]  Überlegen Sie sich daher ganz genau, was Sie in welchen Dokumenten über Ihre Stakeholder so aufschreiben.
+[00:06:39 -> 00:06:41]  Ich meine, überlegen Sie mal.
+[00:06:41 -> 00:06:45]  Anfangs, wenn Sie sich die ersten Gedanken über die Stakeholder machen,
+[00:06:45 -> 00:06:48]  dann ist vermutlich alles noch recht unverfänglich.
+[00:06:48 -> 00:06:51]  Wer hat Einfluss auf das Projekt? Welche Erwartungen haben die Stakeholder?
+[00:06:51 -> 00:06:53]  Das darf ja jeder wissen.
+[00:06:53 -> 00:07:00]  Aber spätestens, wenn Sie Macht und Einfluss bewerten, Konfliktpotenzial,
+[00:07:00 -> 00:07:03]  und das vielleicht sogar auf einer persönlichen Ebene.
+[00:07:03 -> 00:07:08]  Ich sage nur, Frau Müller vom Einkauf gilt als schwieriger Mensch.
+[00:07:09 -> 00:07:14]  Oder denen von der IT muss man nur das Gefühl von Wichtigkeit geben.
+[00:07:14 -> 00:07:21]  Also, wenn Sie das so in Dokumenten festhalten und das liest der Falsche,
+[00:07:21 -> 00:07:25]  ich meine, das müssen nicht mal die Betroffenen selbst sein,
+[00:07:25 -> 00:07:30]  da reicht es schon, wenn jemand anders das liest und das denen oder deren Chefs dann zuspielt.
+[00:07:30 -> 00:07:33]  Das kann richtig Ärger geben.
+[00:07:33 -> 00:07:40]  Darum, eindringlicher Rat, überlegen Sie sich ganz genau, was in welche Dokumente kommt.
+[00:07:40 -> 00:07:43]  Formulieren Sie sachlich.
+[00:07:43 -> 00:07:46]  Vermeiden Sie in jedem Fall Personennamen.
+[00:07:46 -> 00:07:48]  Nehmen Sie stattdessen Rollen.
+[00:07:48 -> 00:07:51]  Reden Sie vom Einkauf, nicht von Frau Müller.
+[00:07:51 -> 00:07:54]  Auch wenn Sie persönlich vielleicht gleich ein Gesicht vor Augen haben.
+[00:07:56 -> 00:08:01]  Anderes Beispiel, ich erinnere mich noch sehr gut an eine Vorstudie zu einem Projekt.
+[00:08:02 -> 00:08:06]  Darin stand dann auch, dass mit Protesten der lokalen Bevölkerung
+[00:08:06 -> 00:08:09]  und von Umweltorganisationen zu rechnen sei.
+[00:08:10 -> 00:08:14]  Und dahinter dann gleich die Stakeholder-Strategie.
+[00:08:14 -> 00:08:17]  Wie man mit denen schon fertig werden würde.
+[00:08:17 -> 00:08:19]  So weit, so gut.
+[00:08:19 -> 00:08:24]  Das Unternehmen, börsennotiert, hat diese Studie veröffentlicht,
+[00:08:24 -> 00:08:27]  um die Anleger positiv zu stimmen.
+[00:08:28 -> 00:08:32]  Ja, dummerweise, also jeder konnte das Ding im Netz herunterladen.
+[00:08:32 -> 00:08:36]  Auch die Anwohner und die Umweltorganisationen.
+[00:08:36 -> 00:08:39]  Das ging nach hinten los, kann ich Ihnen sagen.
+[00:08:39 -> 00:08:42]  Darum, seien Sie wachsam.
+[00:08:49 -> 00:08:52]  Tja, mitunter hat so ein Projekt verdammt viele Stakeholder.
+[00:08:52 -> 00:08:57]  Geschäftsführer, IT-Verantwortliche, Lieferanten, Kunden, Auftraggeber,
+[00:08:57 -> 00:09:03]  der Ansprechpartner in der Personalabteilung, Anwohner, Behördenvertreter usw.
+[00:09:04 -> 00:09:07]  Und all denen muss man es recht machen.
+[00:09:07 -> 00:09:10]  Ein riesen Aufwand.
+[00:09:10 -> 00:09:13]  Aber das muss wohl so sein, denn das ist eben Stakeholder-Management.
+[00:09:14 -> 00:09:18]  Falsch. Das muss nicht sein.
+[00:09:19 -> 00:09:22]  Stakeholder-Management heißt nicht, es allen recht zu machen.
+[00:09:22 -> 00:09:26]  Es wird immer Entscheidungen geben, die nicht von allen geliebt werden.
+[00:09:26 -> 00:09:31]  Klar, Sie müssen alle wichtigen Stakeholder kennen, Sie müssen deren Interessen kennen.
+[00:09:31 -> 00:09:35]  Idealerweise können Sie auch die Reaktionen der wichtigen Stakeholder vorhersagen.
+[00:09:35 -> 00:09:39]  Aber Sie können es nie allen recht machen.
+[00:09:39 -> 00:09:43]  Wenn Sie das versuchen, kommen Sie mit Ihrem Projekt nicht mehr von der Stelle.
+[00:09:43 -> 00:09:45]  Denken Sie also dran.
+[00:09:45 -> 00:09:51]  Das Ziel des Stakeholder-Managements ist nicht, dass alle mit allem zufrieden sind.
+[00:09:51 -> 00:09:58]  Nein, das Ziel ist in erster Linie, dass Sie von wertvollen Stakeholdern Unterstützung erfahren
+[00:09:58 -> 00:10:02]  und dass kritische Stakeholder dem Projekt nicht zum Verhängnis werden.
+[00:10:02 -> 00:10:10]  Tja, und das waren sie dann schon, die nach unserer Erfahrung häufigsten schweren Fehler,
+[00:10:10 -> 00:10:12]  über die man immer wieder stolpert.
+[00:10:12 -> 00:10:15]  Erstens, es gibt kein Stakeholder-Management.
+[00:10:15 -> 00:10:18]  Zweitens, es gibt kein Monitoring.
+[00:10:18 -> 00:10:21]  Drittens, es wird die falsche Strategie gewählt.
+[00:10:21 -> 00:10:24]  Viertens, zu offener Umgang mit den Daten.
+[00:10:24 -> 00:10:28]  Und fünftens, es allen recht machen wollen.
+[00:10:28 -> 00:10:33]  Gewiss, über den Umfang Ihres Stakeholder-Managements, da kann man sich streiten,
+[00:10:33 -> 00:10:35]  auch über einzelne Maßnahmen.
+[00:10:35 -> 00:10:40]  Aber, wenn Sie diese fünf Fehler vermeiden, dann haben Sie schon eine Menge richtig gemacht.
+[00:10:40 -> 00:10:42]  Das verspreche ich Ihnen.
+[00:10:42 -> 00:10:47]  So, habe ich Sie mit diesem Video neugierig gemacht?
+[00:10:47 -> 00:10:50]  Dann haben wir eine komplette Ausbildung im Projektmanagement für Sie.
+[00:10:50 -> 00:10:55]  Darin allein zwei ganze Kurse nur zum Thema Umfeld und Stakeholder.
+[00:10:55 -> 00:11:00]  Alles flexibel, 100% online und nach den Standards der IPMA.
+[00:11:00 -> 00:11:02]  Den Link, den gibt's unterm Video.
+[00:11:02 -> 00:11:07]  Wir machen Sie fit fürs Projekt. Wir machen Sie fit für die Zertifizierung.
+[00:11:08 -> 00:11:11]  Ach ja, hat Ihnen das Video gefallen?
+[00:11:11 -> 00:11:13]  Dann geben Sie uns einen Daumen hoch.
+[00:11:13 -> 00:11:15]  Abonnieren Sie unseren Kanal.
+[00:11:15 -> 00:11:17]  Wir sehen uns wieder. Bleiben Sie dran!

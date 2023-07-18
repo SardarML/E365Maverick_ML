@@ -1,0 +1,2078 @@
+[00:00:00 -> 00:00:12]  What is going on guys, Vanity here, back with my complete guide to mastering audio.
+[00:00:12 -> 00:00:15]  The contents of this tutorial will be as follows.
+[00:00:15 -> 00:00:19]  We'll start with a quick disclaimer and then move into what mastering actually is.
+[00:00:19 -> 00:00:22]  Chapter one will be the art of dynamic range.
+[00:00:22 -> 00:00:24]  Chapter two, loudness normalization.
+[00:00:24 -> 00:00:26]  Three, compression.
+[00:00:26 -> 00:00:27]  Four, equalization.
+[00:00:28 -> 00:00:30]  Five, depth and dimension.
+[00:00:30 -> 00:00:32]  Six, loudness metering.
+[00:00:32 -> 00:00:36]  And finally, seven will be clipping, soft clipping, and oversample clipping.
+[00:00:36 -> 00:00:40]  Each of the chapters contains several subsections within.
+[00:00:40 -> 00:00:44]  Times for both are listed and linked in the pinned comments below.
+[00:00:44 -> 00:00:48]  This is obviously a fairly long tutorial, and it's definitely going to get technical
+[00:00:48 -> 00:00:52]  in a few places, predominantly the first couple of chapters.
+[00:00:52 -> 00:00:53]  Think of this video as a buffet.
+[00:00:53 -> 00:00:57]  Browse the list of chapters below, pick the ones that are most relevant,
+[00:00:57 -> 00:00:59]  and discard the rest for now.
+[00:00:59 -> 00:01:01]  If you're looking for the minimum effective dose,
+[00:01:01 -> 00:01:05]  I'd recommend the compression, equalization, depth and dimension,
+[00:01:05 -> 00:01:07]  and loudness metering chapters.
+[00:01:07 -> 00:01:12]  A quick side note too, for recently surpassing 10,000 subscribers,
+[00:01:12 -> 00:01:15]  I wanted to give something away just to show my appreciation
+[00:01:15 -> 00:01:17]  and say thank you to you all.
+[00:01:17 -> 00:01:20]  I'm running a giveaway with a first, second, and third prize,
+[00:01:20 -> 00:01:24]  ranging from an audio interface, a pair of headphones, and a MIDI controller.
+[00:01:24 -> 00:01:26]  The link for which is in the description below.
+[00:01:26 -> 00:01:30]  And yes, the competition is free to enter.
+[00:01:30 -> 00:01:32]  Just a disclaimer, right at the start of this video,
+[00:01:32 -> 00:01:35]  this tutorial is heavily researched,
+[00:01:35 -> 00:01:38]  which in itself does seem to be rare on YouTube these days.
+[00:01:38 -> 00:01:41]  I do not claim to own anything in this video as my own,
+[00:01:41 -> 00:01:44]  as it's simply a collection of research and information
+[00:01:44 -> 00:01:47]  taken mainly from books, fellow engineers,
+[00:01:47 -> 00:01:49]  and a little bit of my own experiences.
+[00:01:49 -> 00:01:52]  Much of the foundational information in this tutorial,
+[00:01:52 -> 00:01:54]  such as the definitions and principles,
+[00:01:54 -> 00:01:57]  have been taken from Bob Katz's brilliant book,
+[00:01:57 -> 00:01:58]  The Art and Science of Mastering,
+[00:01:58 -> 00:02:01]  which I'll definitely recommend you all read.
+[00:02:01 -> 00:02:03]  I wanted to base this tutorial around the book,
+[00:02:03 -> 00:02:07]  as Bob Katz has already written the complete guide to mastering,
+[00:02:07 -> 00:02:09]  but it's largely unheard of among producers.
+[00:02:09 -> 00:02:12]  Perhaps this is because it contains a lot of information
+[00:02:12 -> 00:02:14]  that only applies to mastering engineers,
+[00:02:14 -> 00:02:16]  as opposed to music producers.
+[00:02:16 -> 00:02:17]  The book is, of course, written for the former.
+[00:02:17 -> 00:02:21]  With this tutorial, I've tried to take what I deemed as relevant
+[00:02:22 -> 00:02:25]  and condensed it into a shortened version of the book
+[00:02:25 -> 00:02:27]  that goes into more detail in certain sections
+[00:02:27 -> 00:02:30]  to cater for all levels of experience.
+[00:02:30 -> 00:02:32]  Anyone looking to become a mastering engineer
+[00:02:32 -> 00:02:34]  should therefore read the book in its entirety,
+[00:02:34 -> 00:02:36]  after, of course, watching this tutorial.
+[00:02:36 -> 00:02:39]  This whole video is also in written format over on my blog,
+[00:02:39 -> 00:02:42]  which is, again, listed and linked in the description.
+[00:02:42 -> 00:02:44]  I've included a couple of extra chapters in the blog post
+[00:02:44 -> 00:02:46]  for some of the more technical details,
+[00:02:46 -> 00:02:48]  as I couldn't find a chapter to place them in
+[00:02:48 -> 00:02:49]  within this video.
+[00:02:49 -> 00:02:51]  I will be following this tutorial up
+[00:02:51 -> 00:02:54]  with a practical mastering guide inside of Ableton Live,
+[00:02:54 -> 00:02:56]  using only free and stock plugins.
+[00:02:56 -> 00:02:59]  But this tutorial covers everything I think you need to know
+[00:02:59 -> 00:03:02]  about the subject in order to effectively master
+[00:03:02 -> 00:03:03]  your own compositions.
+[00:03:03 -> 00:03:05]  So, without further ado,
+[00:03:05 -> 00:03:08]  please enjoy this complete guide to mastering audio.
+[00:03:08 -> 00:03:09]  What is mastering?
+[00:03:09 -> 00:03:13]  In a sentence, mastering is the art of compromise.
+[00:03:13 -> 00:03:14]  What do I mean by this?
+[00:03:14 -> 00:03:17]  Well, changing anything in mastering affects everything,
+[00:03:17 -> 00:03:21]  as any processing is applied across the entire mix.
+[00:03:21 -> 00:03:23]  This makes mastering the art of compromise,
+[00:03:23 -> 00:03:25]  of knowing what is sonically possible
+[00:03:25 -> 00:03:27]  and then making informed decisions
+[00:03:27 -> 00:03:29]  about what is the most important for the music.
+[00:03:29 -> 00:03:32]  A mastering engineer requires the same ear training
+[00:03:32 -> 00:03:33]  as a mixing engineer.
+[00:03:33 -> 00:03:36]  Though, the mastering engineer becomes expert
+[00:03:36 -> 00:03:39]  in the techniques for improving complete mixes,
+[00:03:39 -> 00:03:42]  while the mixing engineer specializes in improving the mix
+[00:03:42 -> 00:03:45]  at the level of the individual events that make up the whole.
+[00:03:45 -> 00:03:48]  Mastering requires us to develop new skills
+[00:03:48 -> 00:03:51]  since it is concerned with overall mixes
+[00:03:51 -> 00:03:53]  rather than individual instruments.
+[00:03:53 -> 00:03:56]  Chapter one, the art of dynamic range.
+[00:03:56 -> 00:03:59]  Before we can dive into the specifics of mastering,
+[00:03:59 -> 00:04:02]  it's important we understand the most critical factor
+[00:04:02 -> 00:04:04]  in the subject, dynamic range.
+[00:04:04 -> 00:04:07]  Even if you know and understand what dynamic range is,
+[00:04:07 -> 00:04:09]  I guarantee that you'll learn something new
+[00:04:09 -> 00:04:10]  in the next few minutes.
+[00:04:10 -> 00:04:13]  Any experienced mastering engineer will tell you
+[00:04:13 -> 00:04:14]  that they begin mastering
+[00:04:14 -> 00:04:16]  with the loudest part of the song.
+[00:04:16 -> 00:04:17]  Why?
+[00:04:17 -> 00:04:19]  Because loud passages accentuate those peaks
+[00:04:19 -> 00:04:21]  that the ear is most sensitive to.
+[00:04:21 -> 00:04:23]  Equalization choices that are pleasing
+[00:04:23 -> 00:04:26]  during a soft passage may sound harsh during a loud one.
+[00:04:26 -> 00:04:29]  The term dynamic range refers to the difference
+[00:04:29 -> 00:04:33]  between the loudest and the softest passages of a recording.
+[00:04:33 -> 00:04:34]  It should not be confused with loudness
+[00:04:34 -> 00:04:36]  or a program's average level.
+[00:04:36 -> 00:04:39]  Ironically, it wasn't until the year 2012
+[00:04:39 -> 00:04:42]  that we officially agreed on how to measure dynamic range.
+[00:04:42 -> 00:04:44]  Before that, we had no measurement method
+[00:04:44 -> 00:04:46]  to deal with the following issues.
+[00:04:46 -> 00:04:47]  If a song fades out to silence,
+[00:04:47 -> 00:04:51]  can we claim it has 90 decibels of dynamic range?
+[00:04:51 -> 00:04:54]  Does adding a spoken word introduction to a hard rock song
+[00:04:54 -> 00:04:58]  give it 40 decibels of dynamic range instead of only five?
+[00:04:58 -> 00:05:00]  Does a 10 second soft passage in a pop song
+[00:05:00 -> 00:05:03]  negate the effect of its otherwise constant loudness?
+[00:05:03 -> 00:05:06]  The answer to all three of these questions is of course not.
+[00:05:06 -> 00:05:08]  So how can we judge the effectiveness
+[00:05:08 -> 00:05:10]  of a brief soft passage
+[00:05:10 -> 00:05:12]  in the middle of a highly compressed song?
+[00:05:13 -> 00:05:15]  The answers lie in two groundbreaking developments.
+[00:05:15 -> 00:05:18]  The first is the International Audio Standard
+[00:05:18 -> 00:05:23]  for Measuring Loudness, ITU's BS 1770-3,
+[00:05:23 -> 00:05:24]  which tells us how to measure
+[00:05:24 -> 00:05:27]  both our program's integrated loudness,
+[00:05:27 -> 00:05:30]  also known as program loudness, and its true peak level.
+[00:05:30 -> 00:05:34]  It's set by the International Telecommunication Union,
+[00:05:34 -> 00:05:35]  or ITU for short.
+[00:05:35 -> 00:05:36]  The second breakthrough
+[00:05:36 -> 00:05:41]  is the European Broadcasting Union's recommendation R-128,
+[00:05:41 -> 00:05:43]  which defines our program's loudness range.
+[00:05:43 -> 00:05:45]  This is the first formal definition
+[00:05:45 -> 00:05:47]  for how to measure dynamic range.
+[00:05:47 -> 00:05:48]  In this tutorial,
+[00:05:48 -> 00:05:51]  I'm going to refer to dynamic range as the latter,
+[00:05:51 -> 00:05:55]  EBU's R-128 definition of loudness range.
+[00:05:55 -> 00:05:58]  A musical work that includes soft and loud passages
+[00:05:58 -> 00:06:00]  usually sound more natural,
+[00:06:00 -> 00:06:02]  and it can sound more exciting than one that does not.
+[00:06:02 -> 00:06:06]  The typical measured LRA of a popular music recording
+[00:06:06 -> 00:06:07]  is only six to eight decibels.
+[00:06:07 -> 00:06:11]  In fact, in 2012, Rudolf Altner,
+[00:06:11 -> 00:06:13]  a master's student in audio at the time,
+[00:06:13 -> 00:06:15]  produced a comprehensive thesis
+[00:06:15 -> 00:06:17]  that measured and statistically analyzed
+[00:06:17 -> 00:06:20]  over 10,000 charting popular music recordings
+[00:06:20 -> 00:06:23]  made between 1951 and 2011.
+[00:06:23 -> 00:06:26]  Altner determined that the medium LRA of popular music
+[00:06:26 -> 00:06:29]  has constantly been around six decibels,
+[00:06:29 -> 00:06:31]  plus one decibel, minus two decibels,
+[00:06:31 -> 00:06:34]  for each of the past 60 years.
+[00:06:34 -> 00:06:36]  This means that popular music producers
+[00:06:36 -> 00:06:38]  have been very consistent in the dynamic range
+[00:06:38 -> 00:06:40]  that they judge to be suitable.
+[00:06:40 -> 00:06:42]  But it does not mean that there was no loudness race.
+[00:06:42 -> 00:06:45]  On the contrary, other statistics uncovered by Altner
+[00:06:45 -> 00:06:48]  reveal the shocking extent of this race.
+[00:06:48 -> 00:06:50]  Furthermore, Altner determined that producers
+[00:06:50 -> 00:06:53]  have held soft passages of popular music
+[00:06:53 -> 00:06:56]  around five to seven decibels below the program level
+[00:06:56 -> 00:06:58]  with some variances.
+[00:06:58 -> 00:07:01]  Macrodynamics and Microdynamics.
+[00:07:01 -> 00:07:04]  Dynamics can be divided further into two categories.
+[00:07:04 -> 00:07:07]  Macrodynamics, which is the loudness differences
+[00:07:07 -> 00:07:09]  between sections of a song or song cycle
+[00:07:09 -> 00:07:12]  measured by LRA, and Microdynamics,
+[00:07:12 -> 00:07:15]  which is the music's rhythmical expression,
+[00:07:15 -> 00:07:17]  transient quality, or bounce,
+[00:07:17 -> 00:07:19]  which involves the music's short-term peaks.
+[00:07:19 -> 00:07:22]  Dynamic processes, such as compressors,
+[00:07:22 -> 00:07:23]  expanders, et cetera,
+[00:07:23 -> 00:07:25]  can affect the music's Microdynamics
+[00:07:25 -> 00:07:27]  as well as its Macrodynamics.
+[00:07:27 -> 00:07:29]  Manual gain riding can only affect
+[00:07:29 -> 00:07:31]  the music's Macrodynamics
+[00:07:31 -> 00:07:33]  since we can't move a fader fast enough
+[00:07:33 -> 00:07:35]  to affect the short-term peaks.
+[00:07:35 -> 00:07:37]  But we can affect Microdynamics
+[00:07:37 -> 00:07:39]  by editing very short movements.
+[00:07:39 -> 00:07:42]  The micro and macro manipulations work hand-in-hand
+[00:07:42 -> 00:07:44]  and many good compositions incorporate
+[00:07:44 -> 00:07:46]  both Microdynamic changes,
+[00:07:46 -> 00:07:49]  such as percussive hits or instantaneous changes,
+[00:07:49 -> 00:07:53]  as well as Macrodynamic, like crescendos and decrescendos.
+[00:07:53 -> 00:07:55]  Think of a music album as a four-course meal.
+[00:07:55 -> 00:07:58]  The progression from soup to appetizer
+[00:07:58 -> 00:08:01]  to main course and dessert is the Macrodynamics.
+[00:08:01 -> 00:08:04]  We'll now further explore on the Macrodynamics.
+[00:08:04 -> 00:08:07]  The art of reducing, or compressing, dynamic range.
+[00:08:07 -> 00:08:10]  The dynamics of a song or song cycle
+[00:08:10 -> 00:08:13]  are critical to creative musicians and composers.
+[00:08:13 -> 00:08:14]  Our quality reference
+[00:08:14 -> 00:08:17]  should be the sound of a live performance.
+[00:08:17 -> 00:08:18]  We should be able to tell by listening
+[00:08:18 -> 00:08:21]  if a recording will be helped or hurt
+[00:08:21 -> 00:08:23]  by modifying its dynamics.
+[00:08:23 -> 00:08:26]  Even when mastering largely constricted dramas like hip hop,
+[00:08:26 -> 00:08:29]  using the dynamics of live performance
+[00:08:29 -> 00:08:30]  should be your standard.
+[00:08:30 -> 00:08:31]  In a natural performance,
+[00:08:31 -> 00:08:34]  the choruses should sound louder than the verses,
+[00:08:34 -> 00:08:36]  ensembles louder than soloists,
+[00:08:36 -> 00:08:39]  and the climax meaningfully louder than the rest.
+[00:08:39 -> 00:08:40]  Many recordings have gone through
+[00:08:40 -> 00:08:43]  several stages of compression of dynamic range,
+[00:08:43 -> 00:08:46]  and indiscriminate or further dynamic reduction
+[00:08:46 -> 00:08:49]  can easily push the clarity and the impact downhill.
+[00:08:49 -> 00:08:51]  However, usually the recording medium
+[00:08:51 -> 00:08:53]  and intended listening environment
+[00:08:53 -> 00:08:56]  simply cannot keep up with the full dynamic range
+[00:08:56 -> 00:08:56]  of real life.
+[00:08:56 -> 00:08:59]  So the mastering engineer is often called upon
+[00:08:59 -> 00:09:01]  to raise the level of soft passages
+[00:09:01 -> 00:09:03]  and or reduce loud passages,
+[00:09:03 -> 00:09:05]  which can be done by manual compression,
+[00:09:05 -> 00:09:06]  moving a fader up or down,
+[00:09:06 -> 00:09:08]  or manipulating gain in a door.
+[00:09:08 -> 00:09:10]  We may reduce dynamic range
+[00:09:10 -> 00:09:12]  when the original range is too large
+[00:09:12 -> 00:09:13]  for the typical home environment,
+[00:09:13 -> 00:09:16]  or to help make the mix sound more exciting,
+[00:09:16 -> 00:09:18]  fatter, more coherent,
+[00:09:18 -> 00:09:19]  to bring out inner details
+[00:09:19 -> 00:09:22]  or even out dynamic changes within a song
+[00:09:22 -> 00:09:23]  if they sound excessive,
+[00:09:23 -> 00:09:26]  which is definitely a subjective judgment.
+[00:09:26 -> 00:09:29]  Experience tells us when a passage is too soft.
+[00:09:29 -> 00:09:31]  The ears sensitivity changes with the context.
+[00:09:31 -> 00:09:33]  So a soft introduction located
+[00:09:33 -> 00:09:36]  immediately after a loud song may have to be raised,
+[00:09:36 -> 00:09:38]  but a similar soft passage in the middle of a song
+[00:09:38 -> 00:09:40]  may be just fine.
+[00:09:40 -> 00:09:42]  Meter readings are fairly useless in this regard.
+[00:09:42 -> 00:09:44]  How soft is too soft?
+[00:09:44 -> 00:09:45]  As case in point,
+[00:09:45 -> 00:09:47]  the engineers at Lucasfilm discovered
+[00:09:47 -> 00:09:49]  that having a calibrated monitor gain
+[00:09:49 -> 00:09:51]  and a dubbing stage with a very low noise floor
+[00:09:51 -> 00:09:53]  does not guarantee that a film's mix
+[00:09:53 -> 00:09:55]  will translate to the theater.
+[00:09:55 -> 00:09:57]  During theater test screenings,
+[00:09:57 -> 00:10:00]  some very delicate dialogue scenes were being eaten up
+[00:10:00 -> 00:10:01]  by the air conditioning rumble
+[00:10:01 -> 00:10:04]  and audience noise in a real theater.
+[00:10:04 -> 00:10:06]  So they created a calibrated noise generator
+[00:10:06 -> 00:10:07]  labeled popcorn noise,
+[00:10:07 -> 00:10:10]  which could be turned on and added to the monitor mix
+[00:10:10 -> 00:10:14]  whenever they wanted to check a particularly soft passage.
+[00:10:14 -> 00:10:16]  The art of increasing dynamic range.
+[00:10:16 -> 00:10:19]  Increasing dynamic range can also make a song
+[00:10:19 -> 00:10:21]  sound more exciting by using contrast
+[00:10:21 -> 00:10:23]  or by increasing the intensity of a peak.
+[00:10:23 -> 00:10:25]  The key to success here
+[00:10:25 -> 00:10:28]  is to recognize when an enhancement has become a defect.
+[00:10:28 -> 00:10:30]  Musical interest can be enhanced by variety,
+[00:10:30 -> 00:10:34]  but too much variety is just as bad as too much similarity.
+[00:10:34 -> 00:10:36]  Passages that are too loud compared to the average
+[00:10:36 -> 00:10:38]  can disturb listeners,
+[00:10:38 -> 00:10:40]  especially those playing music quietly as background,
+[00:10:40 -> 00:10:42]  which sadly seems to be becoming more the norm.
+[00:10:42 -> 00:10:44]  Another reason to increase dynamic range
+[00:10:44 -> 00:10:47]  is to restore or attempt to restore
+[00:10:47 -> 00:10:49]  the excitement of dynamics that were lost
+[00:10:49 -> 00:10:51]  due to multiple generations of compression
+[00:10:51 -> 00:10:53]  or tape saturation.
+[00:10:53 -> 00:10:56]  The four varieties of dynamic range modification.
+[00:10:56 -> 00:10:58]  We always use the term compression
+[00:10:58 -> 00:11:00]  for the reduction of dynamic range
+[00:11:00 -> 00:11:02]  and expansion for its increase.
+[00:11:02 -> 00:11:04]  There are two varieties of each,
+[00:11:04 -> 00:11:06]  downward compression and upward compression
+[00:11:06 -> 00:11:08]  and downward expansion and upward expansion.
+[00:11:08 -> 00:11:11]  Downward compression is the most popular form
+[00:11:11 -> 00:11:12]  of dynamic modification.
+[00:11:12 -> 00:11:14]  It brings high level passages down.
+[00:11:14 -> 00:11:16]  Limiting is a special case.
+[00:11:16 -> 00:11:19]  It is downward compression, but with a very high ratio.
+[00:11:19 -> 00:11:21]  Examples include just about every compressor
+[00:11:21 -> 00:11:23]  or limiter you have ever used.
+[00:11:23 -> 00:11:25]  Downward compression can easily be done manually
+[00:11:25 -> 00:11:28]  by simply lowering the level of loud passages
+[00:11:28 -> 00:11:31]  without introducing the artifacts of compression processors.
+[00:11:31 -> 00:11:35]  Note that compression processors can decrease micro dynamics
+[00:11:35 -> 00:11:36]  while manual compression does not.
+[00:11:36 -> 00:11:40]  Upward compression raises the level of loud passages.
+[00:11:40 -> 00:11:42]  This too can be done manually or through a processor.
+[00:11:42 -> 00:11:45]  For example, the automatic gain control,
+[00:11:45 -> 00:11:47]  which some broadcasters use to make things louder.
+[00:11:47 -> 00:11:49]  It's a type of compressor frequently used
+[00:11:49 -> 00:11:51]  in consumer camcorders,
+[00:11:51 -> 00:11:53]  while pumping and breathing artifacts
+[00:11:53 -> 00:11:55]  have given automatic gain control a bad name.
+[00:11:55 -> 00:11:58]  Downward expansion is the most commonly used
+[00:11:58 -> 00:11:59]  type of expansion.
+[00:11:59 -> 00:12:01]  It brings low level passages down further.
+[00:12:01 -> 00:12:04]  Most downward expanders are processors
+[00:12:04 -> 00:12:06]  employed to reduce noise, hiss or leakage.
+[00:12:06 -> 00:12:09]  A delicate noise gate is a special case.
+[00:12:09 -> 00:12:12]  That is downward expansion with a very high ratio.
+[00:12:12 -> 00:12:14]  Upward expansion takes high level passages
+[00:12:14 -> 00:12:16]  and brings them up even further.
+[00:12:16 -> 00:12:18]  This can be done manually,
+[00:12:18 -> 00:12:20]  thereby increasing macro dynamics
+[00:12:20 -> 00:12:22]  or with a processor cord and upward expander,
+[00:12:22 -> 00:12:25]  which can increase both macro and micro dynamics.
+[00:12:25 -> 00:12:27]  Upward expanders are relatively rare.
+[00:12:27 -> 00:12:30]  In skilled hands, they can be used to enhance dynamics,
+[00:12:30 -> 00:12:34]  increase musical excitement or restore lost dynamics.
+[00:12:34 -> 00:12:36]  The art of manual gain riding,
+[00:12:36 -> 00:12:38]  macro dynamic manipulation.
+[00:12:38 -> 00:12:41]  During mixing, it is difficult to simultaneously
+[00:12:41 -> 00:12:43]  pay attention to the internal balances
+[00:12:43 -> 00:12:45]  and the dynamic movement of the music
+[00:12:45 -> 00:12:46]  from section to section.
+[00:12:46 -> 00:12:48]  For example, verses and choruses.
+[00:12:48 -> 00:12:52]  Sometimes engineers inadvertently lower the master fader
+[00:12:52 -> 00:12:54]  during the mix to keep it from overloading.
+[00:12:54 -> 00:12:55]  If performed during a build,
+[00:12:55 -> 00:12:58]  this will strip the climax of his impact.
+[00:12:58 -> 00:13:02]  In mastering, we can enhance a well-balanced rock or pop mix
+[00:13:02 -> 00:13:04]  by taking the dynamic movement of the music
+[00:13:04 -> 00:13:05]  where it would like to go.
+[00:13:05 -> 00:13:08]  Delicate level changes can make a big difference.
+[00:13:08 -> 00:13:10]  It's amazing what a single decibel can accomplish.
+[00:13:10 -> 00:13:12]  It's also important to make sure
+[00:13:12 -> 00:13:14]  that the client's own level change
+[00:13:14 -> 00:13:17]  was not intentional before attempting a correction.
+[00:13:17 -> 00:13:20]  The art of changing internal levels of a song.
+[00:13:20 -> 00:13:22]  How and when to move the fader.
+[00:13:22 -> 00:13:25]  Artistic level changes can really improve a production,
+[00:13:25 -> 00:13:27]  but they need to be made in the most musical way.
+[00:13:27 -> 00:13:31]  To this end, internal level changes are at least intrusive
+[00:13:31 -> 00:13:34]  when performed manually by raising or lowering the fader
+[00:13:34 -> 00:13:37]  as little as a quarter of a decibel at a time,
+[00:13:37 -> 00:13:39]  as opposed to using processors,
+[00:13:39 -> 00:13:41]  such as compressors or expanders,
+[00:13:41 -> 00:13:43]  which tend to expose that action.
+[00:13:43 -> 00:13:44]  When riding the gain,
+[00:13:44 -> 00:13:47]  aim to just augment the natural dynamic flow.
+[00:13:47 -> 00:13:49]  If the musicians are trying for upward impact,
+[00:13:49 -> 00:13:52]  pulling the fader back during a crescendo
+[00:13:52 -> 00:13:54]  can be detrimental since it will
+[00:13:54 -> 00:13:55]  diminish the intended impact.
+[00:13:55 -> 00:13:58]  Extra soft passages require special attention.
+[00:13:58 -> 00:13:59]  If the highest point in the song
+[00:13:59 -> 00:14:02]  sounds just right after processing,
+[00:14:02 -> 00:14:03]  but the intro sounds too soft,
+[00:14:03 -> 00:14:05]  it's best to simply raise the intro,
+[00:14:05 -> 00:14:08]  finding just the right way to restore the gain
+[00:14:08 -> 00:14:10]  using one or more of these approaches.
+[00:14:10 -> 00:14:13]  A quick edit and level change at a transition
+[00:14:13 -> 00:14:16]  between the raised level intro and the normal level body.
+[00:14:16 -> 00:14:19]  This can have a nice effect and be the least intrusive.
+[00:14:19 -> 00:14:20]  If that doesn't sound good,
+[00:14:20 -> 00:14:23]  try a long gradual lowering of the gain,
+[00:14:23 -> 00:14:24]  which might occur at the end of the intro
+[00:14:24 -> 00:14:27]  or slowly during the first verse of the body.
+[00:14:27 -> 00:14:30]  If that doesn't work, then after the raised intro,
+[00:14:30 -> 00:14:34]  try a series of quarter or one decibels downward edits,
+[00:14:34 -> 00:14:37]  taking the sound down step-by-step at critical moments.
+[00:14:37 -> 00:14:39]  This is useful when we don't want the listener
+[00:14:39 -> 00:14:42]  to notice that we're cheating the gain back down
+[00:14:42 -> 00:14:45]  and we may be forced to work against the natural dynamics.
+[00:14:45 -> 00:14:49]  Retaining dynamic impact while reducing dynamic range.
+[00:14:49 -> 00:14:51]  Some soft passages must be raised,
+[00:14:51 -> 00:14:52]  but if the musicians are trying
+[00:14:52 -> 00:14:54]  to play something delicately,
+[00:14:54 -> 00:14:56]  pushing the fader too far can ruin the effect.
+[00:14:56 -> 00:14:59]  The art is to know how far to raise it
+[00:14:59 -> 00:15:01]  without losing the feeling of being soft
+[00:15:01 -> 00:15:04]  and to find the ideal speed to move the fader
+[00:15:04 -> 00:15:05]  without it being noticed.
+[00:15:05 -> 00:15:09]  In a door, physical fader moves are replaced by crossfades
+[00:15:09 -> 00:15:12]  or by drawing gain changes on an automation curve.
+[00:15:12 -> 00:15:14]  The mastering engineer's aim is to be invisible.
+[00:15:14 -> 00:15:17]  If the sound is being orderly manipulated,
+[00:15:17 -> 00:15:18]  the job has not been done properly.
+[00:15:18 -> 00:15:20]  A technique for decreasing dynamic range
+[00:15:20 -> 00:15:23]  in the least damaging way is to lower the gain
+[00:15:23 -> 00:15:25]  at the end of the preceding soft passage
+[00:15:25 -> 00:15:27]  before the loud part begins.
+[00:15:27 -> 00:15:30]  This is, of course, if we need to take a loud passage down.
+[00:15:30 -> 00:15:33]  Look for a natural dip or decrease in energy
+[00:15:33 -> 00:15:36]  and apply the gain drop during the end of the soft passage
+[00:15:36 -> 00:15:39]  before the crescendo into the loud part.
+[00:15:39 -> 00:15:42]  In other words, take down the level during a decrescendo,
+[00:15:42 -> 00:15:44]  not during the loud passage that follows.
+[00:15:44 -> 00:15:46]  That way, the loud passage
+[00:15:46 -> 00:15:48]  will not lose its comparative impact
+[00:15:48 -> 00:15:50]  for the ear-judged loud passages
+[00:15:50 -> 00:15:52]  in the context of the soft ones.
+[00:15:52 -> 00:15:55]  Before I dig into the compression, equalization,
+[00:15:55 -> 00:15:58]  and depth and dimension tips and tricks,
+[00:15:58 -> 00:15:59]  there's one more important concept
+[00:15:59 -> 00:16:01]  that we need to first understand
+[00:16:01 -> 00:16:04]  as it will influence our choices in these categories,
+[00:16:04 -> 00:16:06]  and it's loudness normalization.
+[00:16:06 -> 00:16:09]  What is loudness normalization?
+[00:16:09 -> 00:16:11]  Loudness normalization is the process
+[00:16:11 -> 00:16:13]  of correcting the level of a program
+[00:16:13 -> 00:16:15]  to a standardized target level.
+[00:16:15 -> 00:16:18]  It is a simple gain or attenuation value,
+[00:16:18 -> 00:16:21]  a level control which can be applied on broadcast
+[00:16:21 -> 00:16:23]  or in the case of a media player like iTunes
+[00:16:23 -> 00:16:27]  just before hitting play on the selected song or movie.
+[00:16:27 -> 00:16:30]  For example, the EBU has defined the standard target
+[00:16:30 -> 00:16:34]  for program loudness for both European radio and television
+[00:16:34 -> 00:16:38]  as minus 23 LUFS plus one dB.
+[00:16:38 -> 00:16:43]  The ATSC has defined a minus 23 LUFS plus two decibels.
+[00:16:44 -> 00:16:47]  So the two standards are reasonably compatible.
+[00:16:47 -> 00:16:48]  The target is drama neutral.
+[00:16:48 -> 00:16:52]  It applies to all dramas from spoken word to heavy metal.
+[00:16:52 -> 00:16:55]  A standardized measure of loudness.
+[00:16:55 -> 00:16:56]  The loudness revolution has arrived,
+[00:16:56 -> 00:16:58]  and it's widely implemented
+[00:16:58 -> 00:17:00]  throughout European broadcast networks
+[00:17:00 -> 00:17:04]  and after December 13th, 2012 on US television.
+[00:17:04 -> 00:17:07]  This will eventually affect all recorded sound
+[00:17:07 -> 00:17:08]  in specific ways.
+[00:17:08 -> 00:17:11]  In Europe, both TV and radio sound levels
+[00:17:11 -> 00:17:14]  are measured by the international ITU standard,
+[00:17:14 -> 00:17:18]  BS.1770-3 and are regulated
+[00:17:18 -> 00:17:22]  by the European Broadcast Union's recommendation, R128.
+[00:17:22 -> 00:17:24]  In the US, levels are regulated
+[00:17:24 -> 00:17:27]  by the Advanced Television Systems Committee,
+[00:17:27 -> 00:17:31]  ATSC for short, A85 specification.
+[00:17:31 -> 00:17:33]  The European standard was adopted
+[00:17:33 -> 00:17:35]  to obtain more consistent sound levels
+[00:17:35 -> 00:17:37]  and encourage better sound quality
+[00:17:37 -> 00:17:40]  by requiring much less dynamic processing.
+[00:17:40 -> 00:17:42]  In the US, however, the driving factor
+[00:17:42 -> 00:17:45]  has been to eliminate loud television commercials
+[00:17:45 -> 00:17:47]  via the CARM Act, which was passed by the US Congress,
+[00:17:47 -> 00:17:50]  Commercial Advertisement Loudness Migration Act.
+[00:17:50 -> 00:17:52]  But the result is similar,
+[00:17:52 -> 00:17:54]  provided that stations do not cut corners
+[00:17:54 -> 00:17:55]  and implement shocking processing
+[00:17:55 -> 00:17:57]  instead of regulating levels.
+[00:17:57 -> 00:17:59]  Some of the measures defined by these standards
+[00:17:59 -> 00:18:02]  appear on this diagram of a recorded audio file.
+[00:18:02 -> 00:18:05]  The purple area represents the loudness range
+[00:18:05 -> 00:18:08]  of this recording from the softest to the loudest passage
+[00:18:08 -> 00:18:11]  with its average loudness, also known as program loudness,
+[00:18:11 -> 00:18:13]  in LUFS at the marked line.
+[00:18:13 -> 00:18:17]  Its crest factor, which is the peak to average ratio,
+[00:18:17 -> 00:18:19]  is measured from its average loudness
+[00:18:19 -> 00:18:20]  to the highest peak of the material,
+[00:18:20 -> 00:18:22]  which is at the top of this yellow area.
+[00:18:22 -> 00:18:24]  Its headroom, as it could be defined,
+[00:18:24 -> 00:18:27]  is the maximum potential crest factor,
+[00:18:27 -> 00:18:30]  the distance between its average loudness and full scale.
+[00:18:30 -> 00:18:33]  For example, if a recording's average loudness
+[00:18:33 -> 00:18:37]  is minus 23 LUFS and its maximum peak level
+[00:18:37 -> 00:18:39]  is minus three dBFS,
+[00:18:39 -> 00:18:41]  then it has a 20 decibel crest factor
+[00:18:41 -> 00:18:44]  and 23 decibels of headroom.
+[00:18:44 -> 00:18:46]  Until now, headroom has been defined
+[00:18:46 -> 00:18:48]  as the distance between the highest peak level
+[00:18:48 -> 00:18:50]  and the full scale, or peak headroom.
+[00:18:50 -> 00:18:52]  But now that the ITU
+[00:18:52 -> 00:18:54]  has defined the standardized average loudness,
+[00:18:54 -> 00:18:58]  it makes sense to define headroom in relation to loudness.
+[00:18:58 -> 00:18:59]  The ratio between the average
+[00:18:59 -> 00:19:01]  and the peak level of a recording
+[00:19:01 -> 00:19:03]  directly affects its sonic character,
+[00:19:03 -> 00:19:06]  but the effect depends on the style of music.
+[00:19:06 -> 00:19:07]  In percussive music, for example,
+[00:19:07 -> 00:19:09]  having a relatively large distance
+[00:19:09 -> 00:19:12]  between the average and the peak level is important
+[00:19:12 -> 00:19:14]  because percussive music includes not only drums,
+[00:19:14 -> 00:19:16]  but also the tap of a guitarist's hand
+[00:19:16 -> 00:19:19]  on his guitar body for musical emphasis.
+[00:19:19 -> 00:19:21]  But peak-to-average ratio is not that important
+[00:19:21 -> 00:19:23]  in non-percussive music,
+[00:19:23 -> 00:19:25]  which includes everything from string quartets
+[00:19:25 -> 00:19:27]  to solo vocal recordings.
+[00:19:27 -> 00:19:29]  Engineers manipulate peak-to-average ratio,
+[00:19:29 -> 00:19:33]  or crest factor, for special effect by using compressors.
+[00:19:33 -> 00:19:36]  Sample drum sets using hip-hop are often highly compressed,
+[00:19:36 -> 00:19:39]  with little peak energy above the average energy,
+[00:19:39 -> 00:19:41]  so they can be made to sound very loud,
+[00:19:41 -> 00:19:42]  and the subsequent distortion
+[00:19:42 -> 00:19:46]  is part of the language associated with that musical drama.
+[00:19:46 -> 00:19:50]  Peak normalization exaggerates loudness differences.
+[00:19:50 -> 00:19:52]  It is natural to have programs and musical styles
+[00:19:52 -> 00:19:56]  with different peak-to-average ratios and different sound.
+[00:19:56 -> 00:19:58]  The prelim is that ever since the CD was invented
+[00:19:58 -> 00:20:01]  in Ciara 1980, engineers have been trying
+[00:20:01 -> 00:20:04]  to peak all recordings to digital full scale,
+[00:20:04 -> 00:20:06]  which causes extreme loudness differences
+[00:20:06 -> 00:20:09]  between percussive and non-percussive recordings,
+[00:20:09 -> 00:20:12]  and between processed and unprocessed recordings.
+[00:20:12 -> 00:20:15]  This diagram compares the level of a string quartet
+[00:20:15 -> 00:20:17]  and a symphony orchestra,
+[00:20:17 -> 00:20:20]  both adjusted until their peaks hit full scale,
+[00:20:20 -> 00:20:22]  which is called peak normalization.
+[00:20:22 -> 00:20:25]  The symphony orchestra needs much more peak headroom
+[00:20:25 -> 00:20:27]  to accommodate all of the momentary transients
+[00:20:27 -> 00:20:28]  in the material,
+[00:20:28 -> 00:20:31]  so peak normalization exaggerates the loudness difference.
+[00:20:31 -> 00:20:35]  It makes the string quartet sound 10 to 14 decibels
+[00:20:35 -> 00:20:36]  louder than the symphony.
+[00:20:36 -> 00:20:38]  This is especially problematic
+[00:20:38 -> 00:20:40]  when constructing playlists in iTunes.
+[00:20:40 -> 00:20:44]  Peak normalization encourages over-processing.
+[00:20:44 -> 00:20:47]  Peak normalization also encourages program producers
+[00:20:47 -> 00:20:49]  to compare or limit material
+[00:20:49 -> 00:20:51]  in order to gain a loudness advantage.
+[00:20:51 -> 00:20:53]  Even classical music producers
+[00:20:53 -> 00:20:55]  have asked mastering engineers to peak limit
+[00:20:55 -> 00:20:57]  and raise the level of their program
+[00:20:57 -> 00:21:00]  so it won't sound quieter than a competing product.
+[00:21:00 -> 00:21:02]  Peak limiting can easily cause
+[00:21:02 -> 00:21:04]  the sound quality to deteriorate.
+[00:21:04 -> 00:21:07]  Small amounts of peak limiting may be inaudible to some,
+[00:21:07 -> 00:21:09]  but critical listeners will notice
+[00:21:09 -> 00:21:11]  the deterioration of the clarity,
+[00:21:11 -> 00:21:12]  the increase in the distortion,
+[00:21:12 -> 00:21:14]  and the softening of the transients.
+[00:21:14 -> 00:21:16]  Hard rock, metal, pop music,
+[00:21:16 -> 00:21:18]  and other heavy processed genres
+[00:21:18 -> 00:21:20]  have suffered during the loudness race.
+[00:21:20 -> 00:21:22]  Drums, particularly snare and bass drums in hip hop,
+[00:21:22 -> 00:21:24]  have lost their punch.
+[00:21:24 -> 00:21:26]  There's just not enough room in this tiny yellow area
+[00:21:26 -> 00:21:28]  to properly express the transients,
+[00:21:28 -> 00:21:30]  as you can see on the diagram here.
+[00:21:30 -> 00:21:32]  Loudness normalization.
+[00:21:32 -> 00:21:35]  Radio and TV have always regulated sound levels
+[00:21:35 -> 00:21:38]  to produce a more consistent consumer experience.
+[00:21:38 -> 00:21:40]  They have also engaged in loudness wars
+[00:21:40 -> 00:21:42]  to gain higher ratings.
+[00:21:42 -> 00:21:44]  In the past, broadcast loudness regulation
+[00:21:44 -> 00:21:46]  was done by using SOFIA processing
+[00:21:46 -> 00:21:49]  and very strong compressors and limiters
+[00:21:49 -> 00:21:52]  that squashed the sound, causing SOFIA distortion.
+[00:21:52 -> 00:21:54]  The distortion multiplies when already distorted,
+[00:21:54 -> 00:21:57]  hyper compressed CDs are played on the radio.
+[00:21:57 -> 00:21:59]  During the days of analog broadcasting,
+[00:21:59 -> 00:22:01]  there was probably no way to stop the practice
+[00:22:01 -> 00:22:02]  of SOFIA processing,
+[00:22:02 -> 00:22:05]  but digital techniques permit all broadcast audio,
+[00:22:05 -> 00:22:07]  except obviously for live broadcasts,
+[00:22:07 -> 00:22:09]  to be stored in computer files,
+[00:22:09 -> 00:22:10]  which can be analyzed ahead of time
+[00:22:10 -> 00:22:12]  and adjusted to the consistent loudness
+[00:22:12 -> 00:22:15]  by simply adjusting their gain without further processing.
+[00:22:15 -> 00:22:18]  Sonically, this offers a big advantage over the old way.
+[00:22:18 -> 00:22:20]  Once the standard organizations
+[00:22:20 -> 00:22:22]  defined a loudness measurement standard
+[00:22:22 -> 00:22:24]  and regulations came into place,
+[00:22:25 -> 00:22:27]  true loudness normalization was underway in broadcast.
+[00:22:27 -> 00:22:30]  For example, the classical and pop recordings
+[00:22:30 -> 00:22:32]  the diagram is showing here can be loudness normalized
+[00:22:32 -> 00:22:35]  by placing each of their average loudness points
+[00:22:35 -> 00:22:39]  at the same target level as this diagram shows.
+[00:22:39 -> 00:22:41]  The influence of radio broadcasting
+[00:22:41 -> 00:22:43]  on music production techniques.
+[00:22:43 -> 00:22:46]  Radio broadcasting has always had a profound influence
+[00:22:46 -> 00:22:49]  on the sound of music and how we produce it.
+[00:22:49 -> 00:22:52]  It is believed that the advent of loudness normalization
+[00:22:52 -> 00:22:53]  radio production in Europe
+[00:22:53 -> 00:22:55]  is starting to have an effect
+[00:22:55 -> 00:22:57]  on how we all produce and engineer music.
+[00:22:57 -> 00:22:59]  Consider this scenario.
+[00:22:59 -> 00:23:02]  Whether you are producing popular or classical music,
+[00:23:02 -> 00:23:05]  EBU digital broadcasts normalize all recordings
+[00:23:05 -> 00:23:10]  to minus 23 LUFS, if they are not already at this level.
+[00:23:10 -> 00:23:12]  A well-managed US TV
+[00:23:12 -> 00:23:14]  or European digital broadcast network
+[00:23:14 -> 00:23:16]  does not need to change the sound of your recordings.
+[00:23:16 -> 00:23:18]  They maintain its crest factor
+[00:23:18 -> 00:23:20]  since they use very little processing.
+[00:23:20 -> 00:23:24]  For example, let's imagine that an acoustic music song
+[00:23:24 -> 00:23:27]  was originally mastered with a crest factor of 11 decibels,
+[00:23:27 -> 00:23:29]  which you can see here is figure A.
+[00:23:29 -> 00:23:31]  And everyone is happy with the sound.
+[00:23:31 -> 00:23:32]  One contributing factor
+[00:23:32 -> 00:23:34]  is that the relatively high crest factor
+[00:23:34 -> 00:23:36]  influences its clarity and impact.
+[00:23:36 -> 00:23:39]  However, artist management decides it sounds too low
+[00:23:39 -> 00:23:40]  compared to the competition.
+[00:23:40 -> 00:23:42]  Keep in mind that the management need not be concerned
+[00:23:42 -> 00:23:45]  about how loud the song will sound on the radio,
+[00:23:45 -> 00:23:47]  which broadcasts everything at the same average loudness.
+[00:23:47 -> 00:23:51]  But they do want to impress the radio program's directors
+[00:23:51 -> 00:23:54]  their loudness when the program directors audition the CD
+[00:23:54 -> 00:23:55]  for the first time.
+[00:23:55 -> 00:23:58]  So they ask the mastering engineer to make it louder.
+[00:23:58 -> 00:24:00]  He adds two decibels of peak limiting,
+[00:24:00 -> 00:24:02]  which raises the average level two decibels
+[00:24:02 -> 00:24:04]  and reduces its crest factor, figure B.
+[00:24:04 -> 00:24:07]  For better or worse, this becomes the release CD,
+[00:24:07 -> 00:24:10]  not just for the program directors to hear one time,
+[00:24:10 -> 00:24:11]  but for posterity.
+[00:24:11 -> 00:24:14]  When this CD is broadcast on US radio,
+[00:24:14 -> 00:24:16]  its hot level interacts with the extreme processing,
+[00:24:16 -> 00:24:18]  creating strong distortion
+[00:24:18 -> 00:24:20]  and the song loses impact and clarity,
+[00:24:20 -> 00:24:22]  especially on typical car speakers.
+[00:24:22 -> 00:24:25]  But it sounds no worse than any other hot CD
+[00:24:25 -> 00:24:26]  on popular US stations.
+[00:24:26 -> 00:24:29]  However, in European digital broadcasting,
+[00:24:29 -> 00:24:30]  the song is not processed.
+[00:24:30 -> 00:24:33]  The station simply lowers its average level
+[00:24:33 -> 00:24:38]  to match that loudness standard of minus 23 LUFS, figure C.
+[00:24:38 -> 00:24:41]  And the sound is as lacking like that of the release CD.
+[00:24:41 -> 00:24:44]  Soon the producers discover that on European radio,
+[00:24:44 -> 00:24:45]  their song doesn't sound as good
+[00:24:45 -> 00:24:47]  as some of the competing songs.
+[00:24:47 -> 00:24:49]  It has less impact and is less clear on the radio
+[00:24:49 -> 00:24:52]  than some of its competitors with a lower CD level.
+[00:24:52 -> 00:24:55]  In response, the producers released the original master
+[00:24:55 -> 00:24:57]  as a new radio version, figure D,
+[00:24:57 -> 00:24:59]  which sounds much better on the digital radio
+[00:24:59 -> 00:25:01]  without the extra peak limiting.
+[00:25:01 -> 00:25:02]  There's more transient clarity,
+[00:25:02 -> 00:25:06]  it's louder, bigger and better than its competition.
+[00:25:06 -> 00:25:09]  All this because European radio has not processed the sound
+[00:25:09 -> 00:25:11]  other than to normalize its loudness.
+[00:25:11 -> 00:25:14]  Note that example to A and D should sound the same
+[00:25:14 -> 00:25:16]  if the playback level is adjusted to be the same.
+[00:25:16 -> 00:25:19]  But example D shows that a loudness normalized medium
+[00:25:19 -> 00:25:20]  gives the producer the freedom
+[00:25:20 -> 00:25:22]  to decide the sound quality he wants
+[00:25:22 -> 00:25:25]  without causing an increased crest factor
+[00:25:25 -> 00:25:26]  to run into the top of the medium.
+[00:25:26 -> 00:25:29]  I'm not claiming that crest factor is the only
+[00:25:29 -> 00:25:30]  or the most important influence
+[00:25:30 -> 00:25:32]  on the sound character of any recording.
+[00:25:32 -> 00:25:35]  It's just that in the ultimate days of the loudness race,
+[00:25:35 -> 00:25:37]  crest factor has been reduced so much
+[00:25:37 -> 00:25:39]  that it cannot help being a strong limiter.
+[00:25:39 -> 00:25:42]  Incidentally, this new radio version
+[00:25:42 -> 00:25:44]  also sounds better on US radio
+[00:25:44 -> 00:25:46]  because it does not push the processor as far.
+[00:25:46 -> 00:25:49]  Essentially, the producers have done an end run
+[00:25:49 -> 00:25:52]  around the radio program director who picked their product
+[00:25:52 -> 00:25:54]  when they gave him that hot CD.
+[00:25:54 -> 00:25:56]  Now they can make it sound better on the radio.
+[00:25:56 -> 00:25:59]  This experience reveals one thorn in the side of the effort
+[00:25:59 -> 00:26:01]  to end the loudness race,
+[00:26:01 -> 00:26:05]  the manner in which program directors evaluate artist CDs.
+[00:26:05 -> 00:26:08]  They often put in one CD, listen for a very short time
+[00:26:08 -> 00:26:10]  and then put in another with little attention
+[00:26:10 -> 00:26:12]  to its musicality or dynamics.
+[00:26:12 -> 00:26:15]  Under those conditions, there's no question
+[00:26:15 -> 00:26:17]  they are influenced by the loudest disc,
+[00:26:17 -> 00:26:20]  forgetting that the loudest disc sounds worse on radio.
+[00:26:20 -> 00:26:21]  It loses the race.
+[00:26:21 -> 00:26:23]  If the disc is not loud enough
+[00:26:23 -> 00:26:25]  to meet their preconceptions, they reject it.
+[00:26:25 -> 00:26:28]  So the program director becomes a major influence
+[00:26:28 -> 00:26:30]  on the sound quality of our recorded product.
+[00:26:30 -> 00:26:33]  If program directors switch to evaluating music
+[00:26:33 -> 00:26:35]  using iTunes Soundcheck,
+[00:26:35 -> 00:26:38]  that would make all the difference in the world.
+[00:26:38 -> 00:26:41]  iTunes Soundcheck technology.
+[00:26:41 -> 00:26:45]  The cross-genre iTunes playlist exhibits big loudness jumps,
+[00:26:45 -> 00:26:47]  especially between older and newer material.
+[00:26:47 -> 00:26:50]  The solution for iTunes as for broadcast
+[00:26:50 -> 00:26:52]  is loudness normalization.
+[00:26:52 -> 00:26:56]  Soundcheck is iTunes' loudness normalization technology.
+[00:26:56 -> 00:26:58]  It can be enabled in the iTunes preference settings.
+[00:26:58 -> 00:27:02]  From there on, it will work transparently and seamlessly.
+[00:27:02 -> 00:27:05]  Upon playback, the gain of each file is adjusted
+[00:27:05 -> 00:27:08]  to eliminate sudden increases or decreases
+[00:27:08 -> 00:27:10]  in track-to-track sound level as you listen.
+[00:27:11 -> 00:27:13]  The music files themselves are not altered in any way
+[00:27:13 -> 00:27:15]  by this process, which is reversible.
+[00:27:15 -> 00:27:17]  With Soundcheck activated,
+[00:27:17 -> 00:27:19]  modern hip-hop can play next to classic rock,
+[00:27:19 -> 00:27:22]  and dynamic material can sit effectively
+[00:27:22 -> 00:27:26]  next to compressed material in any tailor-made playlist.
+[00:27:26 -> 00:27:28]  Soundcheck, on by default.
+[00:27:28 -> 00:27:30]  I believe Soundcheck will be turned on by default
+[00:27:30 -> 00:27:34]  in future versions of iTunes and Apple iOS devices,
+[00:27:34 -> 00:27:36]  though Apple has made no announcements about this
+[00:27:36 -> 00:27:38]  as of the upload date of this video.
+[00:27:38 -> 00:27:41]  Soundcheck, on by default, will be a game-changer.
+[00:27:41 -> 00:27:42]  Although producers have no control
+[00:27:42 -> 00:27:44]  over the playback loudness of their product,
+[00:27:44 -> 00:27:46]  they can create a new product
+[00:27:46 -> 00:27:48]  with much more control over its clarity,
+[00:27:48 -> 00:27:53]  macrodynamics, microdynamics, and spatial characteristics.
+[00:27:53 -> 00:27:56]  The word competition takes on a whole new meaning
+[00:27:56 -> 00:27:57]  with loudness normalization.
+[00:27:57 -> 00:28:00]  Life in the music world just gets better.
+[00:28:00 -> 00:28:02]  When producers listen to their song on iTunes
+[00:28:02 -> 00:28:03]  with Soundcheck turned on,
+[00:28:03 -> 00:28:06]  they discover that over-processed material sounds worse.
+[00:28:06 -> 00:28:08]  Neither your music playback platforms
+[00:28:08 -> 00:28:11]  are capable of loudness normalization.
+[00:28:11 -> 00:28:13]  New cars come equipped with aux connections,
+[00:28:13 -> 00:28:16]  and the aux and iTunes are rapidly replacing
+[00:28:16 -> 00:28:19]  the compact disc player in the car and at home.
+[00:28:19 -> 00:28:22]  Other playback systems and some digital music services,
+[00:28:22 -> 00:28:24]  such as Spotify, are also using
+[00:28:24 -> 00:28:27]  loudness normalization technology.
+[00:28:27 -> 00:28:29]  The benefits of Soundcheck.
+[00:28:29 -> 00:28:31]  During the mastering session,
+[00:28:31 -> 00:28:33]  producers can rest assured that Soundcheck
+[00:28:33 -> 00:28:35]  will maintain their albums as loud
+[00:28:35 -> 00:28:36]  as any of its competitors.
+[00:28:36 -> 00:28:38]  Soundcheck offers many advantages
+[00:28:38 -> 00:28:40]  for both producers and consumers,
+[00:28:40 -> 00:28:42]  such as producers can make choices
+[00:28:42 -> 00:28:45]  about how much distortion or dynamic manipulation
+[00:28:45 -> 00:28:47]  they want to apply without worrying
+[00:28:47 -> 00:28:49]  that their recordings will sound softer
+[00:28:49 -> 00:28:50]  than the competition.
+[00:28:50 -> 00:28:52]  The mastering engineer does not have to combat
+[00:28:52 -> 00:28:55]  severe compression by over-equalizing.
+[00:28:55 -> 00:28:57]  Bass drums in hip-hop recover their boom,
+[00:28:57 -> 00:28:58]  punch, and crack.
+[00:28:58 -> 00:29:00]  Peak limiting and clipping
+[00:29:00 -> 00:29:02]  return to optional creative tools,
+[00:29:02 -> 00:29:05]  allowing drums to sound louder and more effective,
+[00:29:05 -> 00:29:08]  since excessive processing can be avoided.
+[00:29:08 -> 00:29:11]  Snare drums and snappy instruments sound lively again.
+[00:29:11 -> 00:29:14]  The word headroom finally means something.
+[00:29:14 -> 00:29:16]  Choruses sound louder than verses once again.
+[00:29:16 -> 00:29:19]  Space and depth are restored,
+[00:29:19 -> 00:29:20]  and music lovers can rediscover
+[00:29:20 -> 00:29:22]  the sound of classic recordings,
+[00:29:22 -> 00:29:24]  which no longer sound much too soft
+[00:29:24 -> 00:29:27]  compared to contemporary pop recordings.
+[00:29:27 -> 00:29:29]  Listeners play hip-hop and metal loudly,
+[00:29:29 -> 00:29:31]  because that's how these genres are meant to be played.
+[00:29:31 -> 00:29:35]  But over-compressing a modern hip-hop or metal album
+[00:29:35 -> 00:29:37]  to make it sound louder is just band-aid.
+[00:29:37 -> 00:29:39]  As soon as Soundchecker is engaged,
+[00:29:39 -> 00:29:41]  severely compressed pop material
+[00:29:41 -> 00:29:43]  is revealed as sounding flat and lifeless,
+[00:29:43 -> 00:29:47]  and all the weaknesses of over-processing become exposed.
+[00:29:47 -> 00:29:49]  Once the efforts of hyper-compression are uncovered,
+[00:29:49 -> 00:29:51]  a lot of producers and engineers
+[00:29:51 -> 00:29:53]  will be scrambling to make music sound good again,
+[00:29:53 -> 00:29:54]  not just loud.
+[00:29:54 -> 00:29:56]  The only way to restore dynamic excitement
+[00:29:56 -> 00:29:59]  is by remixing and or remastering.
+[00:29:59 -> 00:30:01]  So to protect your precious catalog
+[00:30:02 -> 00:30:03]  every time you have an album mastered,
+[00:30:03 -> 00:30:04]  remember to produce an archive
+[00:30:04 -> 00:30:06]  of high-resolution dynamic masters
+[00:30:06 -> 00:30:09]  that can benefit from iTunes' Soundcheck.
+[00:30:09 -> 00:30:11]  Everything loud, then everything else.
+[00:30:11 -> 00:30:14]  The intent of loudness normalization systems
+[00:30:14 -> 00:30:16]  is to regulate loudness for the consumer,
+[00:30:16 -> 00:30:18]  as well as eliminate a loudness war.
+[00:30:18 -> 00:30:20]  But don't bother to ask a producer
+[00:30:20 -> 00:30:22]  to voluntarily make his production sound equal
+[00:30:22 -> 00:30:24]  to its competition if he can make it sound louder.
+[00:30:24 -> 00:30:26]  Loudness normalization systems
+[00:30:26 -> 00:30:29]  store the loudness information of a song in metadata,
+[00:30:29 -> 00:30:31]  which, in Dolby's Dynorm system,
+[00:30:31 -> 00:30:33]  is in the hands of its producers.
+[00:30:33 -> 00:30:37]  So any program producer can literally hack the metadata
+[00:30:37 -> 00:30:39]  to make a song apparently louder.
+[00:30:39 -> 00:30:42]  This includes discs encoded in Dolby Digital
+[00:30:42 -> 00:30:43]  and Dolby True HD,
+[00:30:43 -> 00:30:47]  resulting in a perversion of Dynorm's entire intent.
+[00:30:47 -> 00:30:50]  Nearly all music DVDs and Blu-ray discs
+[00:30:50 -> 00:30:52]  have been given a Dynorm value of 31,
+[00:30:52 -> 00:30:55]  the highest gain, by their program producers.
+[00:30:55 -> 00:30:56]  For all of these discs,
+[00:30:56 -> 00:30:59]  the playback system applies the maximum possible gain,
+[00:31:00 -> 00:31:02]  which makes a mockery of loudness normalization.
+[00:31:02 -> 00:31:03]  There's no turning back the clocks
+[00:31:03 -> 00:31:06]  once a single competing disc has been pressed and released
+[00:31:06 -> 00:31:08]  with incorrect Dynorm.
+[00:31:08 -> 00:31:09]  It sets off the wall
+[00:31:09 -> 00:31:11]  and lets the loudness genie out of the bottle.
+[00:31:11 -> 00:31:14]  For these reasons, many popular music video discs
+[00:31:14 -> 00:31:16]  have been produced with as much distortion
+[00:31:16 -> 00:31:18]  as the hottest pop CDs.
+[00:31:18 -> 00:31:20]  Soundcheck means no cheating.
+[00:31:20 -> 00:31:22]  There's only one way to put the genie back in the bottle,
+[00:31:22 -> 00:31:25]  use a secure normalization system.
+[00:31:25 -> 00:31:26]  This marks an important distinction
+[00:31:26 -> 00:31:29]  between Apple's Soundcheck and other systems.
+[00:31:29 -> 00:31:31]  Soundcheck means no cheating.
+[00:31:31 -> 00:31:33]  Soundcheck is a closed system,
+[00:31:33 -> 00:31:35]  putting loudness normalization securely
+[00:31:35 -> 00:31:38]  under the control of an independent third party.
+[00:31:38 -> 00:31:41]  Apple is securely in control of the integrity of audio
+[00:31:41 -> 00:31:42]  from delivery of the masters.
+[00:31:42 -> 00:31:45]  A unique vendor encodes all the loudness metadata,
+[00:31:45 -> 00:31:49]  protects that data, securely distributes, sells,
+[00:31:49 -> 00:31:52]  and in the case of streaming, broadcasts the material.
+[00:31:52 -> 00:31:53]  Big Brother may be watching,
+[00:31:53 -> 00:31:55]  but his intentions are beneficial,
+[00:31:55 -> 00:31:57]  protecting the interests of all music producers
+[00:31:57 -> 00:32:01]  who might otherwise forge loudness data to their advantage.
+[00:32:01 -> 00:32:03]  Apple does provide tools for producers
+[00:32:03 -> 00:32:05]  to evaluate Soundcheck metadata in advance.
+[00:32:05 -> 00:32:07]  Engineers can make test encoders,
+[00:32:07 -> 00:32:10]  see how the material sounds in comparison to the competition
+[00:32:10 -> 00:32:12]  and inspect the Soundcheck values
+[00:32:12 -> 00:32:14]  that will be given to their material.
+[00:32:14 -> 00:32:16]  But this metadata cannot be submitted to Apple.
+[00:32:16 -> 00:32:18]  They control the final encode
+[00:32:18 -> 00:32:21]  and securely compute the loudness metadata.
+[00:32:21 -> 00:32:22]  The Soundcheck value Apple gets
+[00:32:22 -> 00:32:24]  will be the same as the one you get
+[00:32:24 -> 00:32:26]  by importing your music into iTunes.
+[00:32:26 -> 00:32:28]  Noise is not a problem.
+[00:32:28 -> 00:32:30]  With loudness normalization,
+[00:32:30 -> 00:32:32]  system noise does not come up perceptibly,
+[00:32:32 -> 00:32:34]  even though the audio levels of some products
+[00:32:34 -> 00:32:35]  have been lowered.
+[00:32:35 -> 00:32:37]  That's because listeners keep their volume controls
+[00:32:37 -> 00:32:39]  at a reasonable constant gain.
+[00:32:39 -> 00:32:42]  It's a myth to say that we have to up all the bits,
+[00:32:42 -> 00:32:44]  since peak bits have little or nothing to do
+[00:32:44 -> 00:32:47]  with perceived loudness or signal-to-noise ratio.
+[00:32:47 -> 00:32:50]  Album normalization now.
+[00:32:50 -> 00:32:51]  Producers and mastering engineers
+[00:32:51 -> 00:32:53]  adjust the levels of songs in an album
+[00:32:53 -> 00:32:55]  according to how they feel.
+[00:32:55 -> 00:32:58]  They do not regulate them to the same measured loudness.
+[00:32:58 -> 00:33:01]  Adjusting all songs to the same loudness will be silly.
+[00:33:01 -> 00:33:02]  Ballads would be the same level as rockers,
+[00:33:02 -> 00:33:05]  and the slow, relaxed movements of symphonies
+[00:33:05 -> 00:33:08]  would be just as loud as the final bombastic movement.
+[00:33:08 -> 00:33:11]  Even when a soft movement from an album
+[00:33:11 -> 00:33:13]  is placed into a playlist with loud material,
+[00:33:13 -> 00:33:16]  it's usually better to respect the original relationship
+[00:33:16 -> 00:33:18]  of the soft piece to the loud numbers.
+[00:33:18 -> 00:33:20]  When Frank Sinatra sings a ballad,
+[00:33:20 -> 00:33:22]  it's supposed to sound a little softer.
+[00:33:22 -> 00:33:24]  He can mix quite well in the same playlist with rockers
+[00:33:24 -> 00:33:26]  in an album-normalized system,
+[00:33:26 -> 00:33:28]  as can be seen by this diagram.
+[00:33:28 -> 00:33:29]  The dashed line here
+[00:33:29 -> 00:33:31]  represents the average loudness of a song.
+[00:33:31 -> 00:33:34]  In figure A, we combined Frank with the Beatles
+[00:33:34 -> 00:33:36]  without any loudness normalization.
+[00:33:36 -> 00:33:37]  Without normalization,
+[00:33:37 -> 00:33:40]  the loudest song on this Sinatra album
+[00:33:40 -> 00:33:42]  is as soft as the softest song on the Beatles album,
+[00:33:42 -> 00:33:45]  because the albums have previously been peak-normalized.
+[00:33:45 -> 00:33:48]  Each album plays fine within itself,
+[00:33:48 -> 00:33:49]  but in a mixed playlist,
+[00:33:49 -> 00:33:50]  either Frank has to be turned up
+[00:33:50 -> 00:33:52]  or the Beatles have to be turned down.
+[00:33:52 -> 00:33:55]  So this mixed drama playlist doesn't work at all.
+[00:33:55 -> 00:33:58]  In figure B, we perform a per-track normalization,
+[00:33:58 -> 00:34:01]  which adjusts each song level to the same loudness,
+[00:34:01 -> 00:34:03]  the target level line.
+[00:34:03 -> 00:34:05]  But the soft songs now sound way too loud.
+[00:34:05 -> 00:34:07]  In fact, the album sounds compressed
+[00:34:07 -> 00:34:10]  because songs that are intended to be soft are made loud.
+[00:34:10 -> 00:34:13]  Consequently, the loud numbers aren't swinging as they should
+[00:34:13 -> 00:34:14]  compared to the soft numbers.
+[00:34:14 -> 00:34:16]  Frank and the Beatles perform together
+[00:34:16 -> 00:34:18]  without any musicality.
+[00:34:18 -> 00:34:21]  In figure C, we perform album normalization,
+[00:34:21 -> 00:34:23]  which adjusts the loudest song of each album
+[00:34:23 -> 00:34:24]  to the target level.
+[00:34:24 -> 00:34:27]  Now the loud songs of both performances are set the same,
+[00:34:27 -> 00:34:30]  and the soft songs fall into blissful proportion.
+[00:34:30 -> 00:34:32]  Notice that the Sinatra loud song
+[00:34:32 -> 00:34:34]  has a larger peak-to-loudness ratio
+[00:34:34 -> 00:34:36]  than the Beatles loud song,
+[00:34:36 -> 00:34:38]  so it proudly sounds more lively and open.
+[00:34:38 -> 00:34:41]  The Beatles producers compressed the song
+[00:34:41 -> 00:34:43]  to that degree for artistic purpose,
+[00:34:43 -> 00:34:45]  but assuredly, once loudness normalization
+[00:34:45 -> 00:34:46]  becomes a default,
+[00:34:46 -> 00:34:47]  many producers will regret
+[00:34:47 -> 00:34:50]  some of the compression choices they had made
+[00:34:50 -> 00:34:53]  as a lack of impact becomes painfully obvious.
+[00:34:53 -> 00:34:55]  Now that we understand the art of dynamic range
+[00:34:55 -> 00:34:56]  and loudness normalization,
+[00:34:56 -> 00:34:58]  as well as how it will affect our masters,
+[00:34:58 -> 00:35:00]  I'd like to move into what I'd consider
+[00:35:00 -> 00:35:03]  as the main body of this tutorial, compression.
+[00:35:03 -> 00:35:06]  For the first two or three years of my journey
+[00:35:06 -> 00:35:09]  as a music producer, I, as many do,
+[00:35:09 -> 00:35:11]  fail to really grasp the topic of compression.
+[00:35:11 -> 00:35:13]  More specifically, when to deploy the tool
+[00:35:13 -> 00:35:16]  and what the controls contained within one actually did.
+[00:35:16 -> 00:35:17]  Compression is a tool
+[00:35:17 -> 00:35:19]  that can change the inner dynamics of music
+[00:35:20 -> 00:35:22]  by enlivening low and mid-level passages,
+[00:35:22 -> 00:35:24]  enhancing rhythmic movement,
+[00:35:24 -> 00:35:27]  or producing a stronger musical message.
+[00:35:27 -> 00:35:29]  There's a great quote from Einstein that reads,
+[00:35:29 -> 00:35:31]  if you can't explain it simply,
+[00:35:31 -> 00:35:32]  you don't understand it well enough.
+[00:35:32 -> 00:35:34]  I've deployed this quote
+[00:35:34 -> 00:35:36]  into the philosophy of these definitions.
+[00:35:36 -> 00:35:38]  The harder ones will have the most simplistic definition
+[00:35:38 -> 00:35:39]  I could come up with,
+[00:35:39 -> 00:35:42]  followed by the complex, more technical explanation.
+[00:35:42 -> 00:35:44]  Controls of the compressor.
+[00:35:44 -> 00:35:45]  We'll start with threshold.
+[00:35:45 -> 00:35:49]  Simply, the threshold is one word, level.
+[00:35:49 -> 00:35:51]  The threshold of a compressor is the level
+[00:35:51 -> 00:35:53]  at which gain reduction begins.
+[00:35:53 -> 00:35:54]  Ratio.
+[00:35:54 -> 00:35:55]  The ratio is the amount.
+[00:35:55 -> 00:35:58]  A compressor's ratio describes the relationship
+[00:35:58 -> 00:36:01]  between input and output above the threshold.
+[00:36:01 -> 00:36:03]  For example, a simple compressor
+[00:36:03 -> 00:36:07]  with a fairly gentle 2.5 to 1 compression ratio
+[00:36:07 -> 00:36:10]  and a threshold at around minus 40 dBFS.
+[00:36:10 -> 00:36:14]  2.5 to 1 means that an increase in the input signal
+[00:36:14 -> 00:36:17]  of 2.5 decibels will yield an increase
+[00:36:17 -> 00:36:19]  in the output of only 1 decibel.
+[00:36:19 -> 00:36:21]  Or for an input rise of 5 decibels,
+[00:36:21 -> 00:36:24]  the output will rise only 2 decibels.
+[00:36:24 -> 00:36:28]  Try to remember threshold as level and ratio as amount.
+[00:36:28 -> 00:36:29]  Gain makeup.
+[00:36:29 -> 00:36:32]  The gain makeup is a simple gain amplifier
+[00:36:32 -> 00:36:34]  after the compression section
+[00:36:34 -> 00:36:37]  that allows the average level of the material to be raised
+[00:36:37 -> 00:36:39]  while the loudest passages are still brought down.
+[00:36:39 -> 00:36:41]  Gain reduction.
+[00:36:41 -> 00:36:43]  The gain reduction meter in a compressor
+[00:36:43 -> 00:36:45]  tells us when the signal has exceeded the threshold
+[00:36:45 -> 00:36:47]  and how much the compressor
+[00:36:47 -> 00:36:49]  is reducing the gain of the signal.
+[00:36:49 -> 00:36:50]  Knee.
+[00:36:50 -> 00:36:52]  The portion of the curve near the threshold
+[00:36:52 -> 00:36:53]  is called the knee,
+[00:36:53 -> 00:36:56]  which marks a transition between unity gain
+[00:36:56 -> 00:36:57]  and compressed output.
+[00:36:57 -> 00:37:00]  In limiters, the knee should be very sharp.
+[00:37:00 -> 00:37:02]  Compressors can have hard or soft knees.
+[00:37:02 -> 00:37:04]  Soft knee refers to the rounded knee shape
+[00:37:04 -> 00:37:06]  or a gentle transition,
+[00:37:06 -> 00:37:08]  and hard knee refers to a sharper shape
+[00:37:08 -> 00:37:11]  where the compressor reaches full ratio
+[00:37:11 -> 00:37:12]  immediately above the threshold.
+[00:37:12 -> 00:37:15]  A soft knee can also sweeten the sound of a compressor
+[00:37:15 -> 00:37:16]  near the threshold.
+[00:37:16 -> 00:37:19]  For those models of compressors that have only hard knees,
+[00:37:19 -> 00:37:22]  some of the effects of a soft knee can be simulated
+[00:37:22 -> 00:37:24]  by reducing the ratio or raising the threshold,
+[00:37:24 -> 00:37:27]  which will result in less action by the compressor.
+[00:37:27 -> 00:37:28]  Attack time.
+[00:37:28 -> 00:37:31]  Attack time is the time it takes for a compressor
+[00:37:31 -> 00:37:33]  to implement a full gain reduction
+[00:37:33 -> 00:37:35]  after the signal has crossed the threshold.
+[00:37:35 -> 00:37:38]  Because digital compressors can react
+[00:37:38 -> 00:37:40]  with essentially infinite speed,
+[00:37:40 -> 00:37:43]  a digital compressor set to 100 milliseconds
+[00:37:43 -> 00:37:45]  may sound similar to an analog compressor set,
+[00:37:45 -> 00:37:47]  say to 40 milliseconds.
+[00:37:47 -> 00:37:50]  The method the designer uses to define attack
+[00:37:50 -> 00:37:51]  is not standardized,
+[00:37:51 -> 00:37:55]  so it is not possible to compare specific attack times
+[00:37:55 -> 00:37:56]  between brands.
+[00:37:56 -> 00:37:58]  It's better to remove all labels
+[00:37:58 -> 00:38:00]  besides slow and fast and just listen.
+[00:38:00 -> 00:38:02]  With digital compressors,
+[00:38:02 -> 00:38:04]  typical attack times used in music for mastering
+[00:38:04 -> 00:38:08]  can range from 30 milliseconds to 300 milliseconds
+[00:38:08 -> 00:38:10]  or even longer on some occasions,
+[00:38:10 -> 00:38:11]  with the average time used
+[00:38:11 -> 00:38:13]  being probably around 100 milliseconds.
+[00:38:13 -> 00:38:15]  But go by your ears, not the numbers.
+[00:38:15 -> 00:38:17]  To help set your attack time,
+[00:38:17 -> 00:38:20]  listen to the percussive and transient quality of the music.
+[00:38:20 -> 00:38:23]  Shorter attack times soften transients
+[00:38:23 -> 00:38:25]  and produce the more closed sound.
+[00:38:25 -> 00:38:28]  Longer attack times let the music breathe
+[00:38:28 -> 00:38:31]  and reveal more of the percussive transients.
+[00:38:31 -> 00:38:32]  Release time.
+[00:38:32 -> 00:38:35]  Release time or recovery time is how long it takes
+[00:38:35 -> 00:38:37]  for the signal to return to unity gain
+[00:38:37 -> 00:38:39]  after it has dropped below the threshold.
+[00:38:39 -> 00:38:42]  Typical release times used in music
+[00:38:42 -> 00:38:44]  range from 50 to 500 milliseconds
+[00:38:44 -> 00:38:46]  or as much as a second or two,
+[00:38:46 -> 00:38:48]  with the average being somewhere around
+[00:38:48 -> 00:38:51]  150 to 250 milliseconds.
+[00:38:51 -> 00:38:54]  The terms short or fast with attack or release times
+[00:38:54 -> 00:38:56]  are used interchangeably,
+[00:38:56 -> 00:38:59]  as are slow and long attack and release times.
+[00:38:59 -> 00:39:03]  Manufacturers may measure times to 90% of gain reduction
+[00:39:03 -> 00:39:06]  or use another empirical approach to define them.
+[00:39:06 -> 00:39:07]  Release time is probably
+[00:39:07 -> 00:39:08]  the single most influential setting
+[00:39:08 -> 00:39:11]  affecting the sound of a compressor.
+[00:39:11 -> 00:39:14]  Super fast release times can help to make the sound appear
+[00:39:14 -> 00:39:15]  unrelentingly loud and aggressive,
+[00:39:15 -> 00:39:18]  and slow release times are more gentle on the sound.
+[00:39:18 -> 00:39:21]  Analog optical compressors have a fast initial release
+[00:39:21 -> 00:39:23]  and then a slow final release,
+[00:39:23 -> 00:39:27]  which yields a more gentle aspect and a bloom to the sound.
+[00:39:27 -> 00:39:29]  VCA compressors produce the reverse effect,
+[00:39:29 -> 00:39:32]  which can aid in producing a more aggressive sound quality.
+[00:39:32 -> 00:39:34]  Digital compressors attempt to emulate
+[00:39:34 -> 00:39:37]  one or the other of these analog characteristics,
+[00:39:37 -> 00:39:39]  or to be switchable to do either.
+[00:39:39 -> 00:39:41]  A good starting point for a digital compressor
+[00:39:41 -> 00:39:43]  on mixed music is to set the attack time
+[00:39:43 -> 00:39:45]  to about 100 milliseconds
+[00:39:45 -> 00:39:48]  and the release to about 250 milliseconds,
+[00:39:48 -> 00:39:50]  then listen and adjust.
+[00:39:50 -> 00:39:52]  If you want a more punchy, aggressive sound,
+[00:39:52 -> 00:39:54]  shorten the release slightly,
+[00:39:54 -> 00:39:57]  and if useful, shorten the attack from there.
+[00:39:57 -> 00:40:00]  Higher ratios, harder knees, and greater gain reduction
+[00:40:00 -> 00:40:02]  also contribute to a more aggressive sound,
+[00:40:02 -> 00:40:05]  but be careful, when a parameter is turned too far,
+[00:40:05 -> 00:40:08]  the sound loses its definition and punch.
+[00:40:08 -> 00:40:10]  As with any process, less is more.
+[00:40:10 -> 00:40:14]  With digital limiters, release time is very important.
+[00:40:14 -> 00:40:15]  The faster the release time,
+[00:40:15 -> 00:40:17]  the more invisible the limiter can be.
+[00:40:17 -> 00:40:20]  It jumps in, quickly controls the transients,
+[00:40:20 -> 00:40:21]  then gets out of the way.
+[00:40:21 -> 00:40:23]  The fastest digital limiters have a release time
+[00:40:23 -> 00:40:25]  of only one millisecond.
+[00:40:25 -> 00:40:27]  However, super fast release times
+[00:40:27 -> 00:40:28]  can cause significant distortion.
+[00:40:28 -> 00:40:31]  This is why most successful digital limiters
+[00:40:31 -> 00:40:32]  have an auto release control,
+[00:40:32 -> 00:40:34]  which slows down the release time
+[00:40:34 -> 00:40:35]  if the duration of the limiting
+[00:40:35 -> 00:40:37]  is greater than a few milliseconds.
+[00:40:37 -> 00:40:40]  The effective release time of an auto release circuit
+[00:40:40 -> 00:40:42]  can be as short as a couple of milliseconds
+[00:40:42 -> 00:40:46]  or as long as 50 to 500 milliseconds.
+[00:40:46 -> 00:40:48]  All of this is intended to make the digital limiter
+[00:40:48 -> 00:40:50]  as invisible as possible.
+[00:40:50 -> 00:40:53]  Part of the sonic aggressiveness of a fast release time
+[00:40:53 -> 00:40:55]  comes from the distortion at low frequencies
+[00:40:55 -> 00:40:58]  that can occur if the release time is too fast.
+[00:40:58 -> 00:40:59]  Look ahead.
+[00:40:59 -> 00:41:01]  The preview or look ahead function
+[00:41:01 -> 00:41:04]  allows very fast or even instantaneous attack time,
+[00:41:04 -> 00:41:07]  which is especially useful in a peak limiter
+[00:41:07 -> 00:41:08]  to prevent overloads.
+[00:41:08 -> 00:41:11]  This unit can effectively react to the transients
+[00:41:11 -> 00:41:13]  before it has even occurred.
+[00:41:13 -> 00:41:14]  This requires a delay line,
+[00:41:14 -> 00:41:17]  so analog processors do not have a look ahead.
+[00:41:17 -> 00:41:18]  When there is a look ahead,
+[00:41:18 -> 00:41:21]  the attack time can be as short as we desire,
+[00:41:21 -> 00:41:23]  controlling any peak that concerns us.
+[00:41:23 -> 00:41:24]  Look ahead is only relevant
+[00:41:24 -> 00:41:26]  when we want a short attack time,
+[00:41:26 -> 00:41:28]  since if we want a long attack time,
+[00:41:28 -> 00:41:29]  then we probably also want to let
+[00:41:29 -> 00:41:31]  the initial transients pass through.
+[00:41:31 -> 00:41:33]  So look ahead is probably unnecessary
+[00:41:33 -> 00:41:36]  for attack times longer than about 10 milliseconds.
+[00:41:36 -> 00:41:37]  Crest factor control.
+[00:41:37 -> 00:41:40]  Some compressors provide a crest factor control
+[00:41:40 -> 00:41:44]  expressing decibels or a range from RMS or full average
+[00:41:44 -> 00:41:46]  to quantity peak through full peak.
+[00:41:46 -> 00:41:49]  This means that the compressor can be set to act
+[00:41:49 -> 00:41:51]  on the average parts of the music,
+[00:41:51 -> 00:41:53]  the peak parts, or somewhere in between.
+[00:41:53 -> 00:41:56]  Compressors with RMS characteristics sound more natural
+[00:41:56 -> 00:41:59]  because they correspond with the ear's sense of loudness.
+[00:41:59 -> 00:42:01]  But one of the best sounding compressors out there
+[00:42:01 -> 00:42:02]  is peak sensing.
+[00:42:02 -> 00:42:05]  When the crest factor control is set to peak,
+[00:42:05 -> 00:42:07]  short transients tend to control the action,
+[00:42:07 -> 00:42:11]  and at RMS, more continuous sounds control it.
+[00:42:11 -> 00:42:13]  Compressors with unique characteristics.
+[00:42:13 -> 00:42:15]  A subject I see discussed online
+[00:42:15 -> 00:42:18]  mainly by producers who are new to music production
+[00:42:18 -> 00:42:20]  is the difference between different compressors.
+[00:42:20 -> 00:42:22]  Perhaps they've seen a masterclass
+[00:42:22 -> 00:42:24]  in where an engineer may use different digital
+[00:42:24 -> 00:42:26]  or analog compressors throughout a mix,
+[00:42:26 -> 00:42:28]  and they're unsure as to why this is the case.
+[00:42:29 -> 00:42:30]  Part of the fun in using compressors
+[00:42:30 -> 00:42:32]  is discovering the specialties
+[00:42:32 -> 00:42:34]  of different brands and models.
+[00:42:34 -> 00:42:36]  Even with the same settings,
+[00:42:36 -> 00:42:38]  some are smooth, some are punchy,
+[00:42:38 -> 00:42:40]  some nicely fatten the sound,
+[00:42:40 -> 00:42:43]  and others make it brighter, harder, or more percussive.
+[00:42:43 -> 00:42:45]  This is often due to the differences
+[00:42:45 -> 00:42:48]  in the curve or acceleration of the time constants,
+[00:42:48 -> 00:42:49]  the attack and release times,
+[00:42:49 -> 00:42:51]  how the device recovers from gain reduction,
+[00:42:51 -> 00:42:53]  and whether the gain returns to unity
+[00:42:53 -> 00:42:57]  on a linear, logarithmic, or even a irregular curve.
+[00:42:57 -> 00:42:58]  Analog compressor designers
+[00:42:58 -> 00:43:01]  choose from several styles of gain manipulation.
+[00:43:01 -> 00:43:05]  The most common are FET, Field Effect Transistor,
+[00:43:05 -> 00:43:07]  Optical, abbreviated Opto,
+[00:43:07 -> 00:43:10]  VCA, Voltage Controlled Amplifier,
+[00:43:10 -> 00:43:14]  Vari-MU, PWM, Pulse Width Modulation,
+[00:43:14 -> 00:43:16]  and their various subcategories.
+[00:43:16 -> 00:43:19]  Digital designers may emulate their characteristics
+[00:43:19 -> 00:43:22]  as in the Wave Renaissance series of digital compressors
+[00:43:22 -> 00:43:25]  that have both Opto and Electro models.
+[00:43:25 -> 00:43:26]  As mentioned before, in Opto,
+[00:43:26 -> 00:43:28]  the release time slows down
+[00:43:28 -> 00:43:30]  for the last portion of the release,
+[00:43:30 -> 00:43:32]  while in Electro, it accelerates.
+[00:43:32 -> 00:43:35]  Electro can yield a more aggressive sound,
+[00:43:35 -> 00:43:38]  while Opto is good for gentle, easygoing purposes.
+[00:43:38 -> 00:43:40]  Analog optical compressors are great on vocals
+[00:43:40 -> 00:43:41]  in tracking or mixing,
+[00:43:41 -> 00:43:44]  but not as good for aggressive mastering
+[00:43:44 -> 00:43:46]  of overall program material
+[00:43:46 -> 00:43:48]  because they are generally too slow.
+[00:43:48 -> 00:43:50]  However, digital Opto models can be faster
+[00:43:50 -> 00:43:52]  than their analog counterparts.
+[00:43:52 -> 00:43:54]  Generally, analog optical models
+[00:43:54 -> 00:43:56]  are more suitable for gentle mastering.
+[00:43:56 -> 00:43:58]  Multiband processing.
+[00:43:58 -> 00:44:00]  For most downward compression purposes,
+[00:44:00 -> 00:44:02]  multibands are rarely needed.
+[00:44:02 -> 00:44:04]  One or two bands are usually enough.
+[00:44:04 -> 00:44:07]  However, splitting our compressor's signal
+[00:44:07 -> 00:44:10]  into multiple bands avoids the problem of modulation
+[00:44:10 -> 00:44:11]  with a single sidechain,
+[00:44:11 -> 00:44:13]  since compression in one band
+[00:44:13 -> 00:44:15]  will not affect another band.
+[00:44:15 -> 00:44:17]  For example, the vocal will not pull down the bass drum
+[00:44:17 -> 00:44:18]  or vice versa.
+[00:44:18 -> 00:44:21]  This is perhaps the biggest selling point of multiband
+[00:44:21 -> 00:44:23]  because with the same amount of gain reduction,
+[00:44:23 -> 00:44:25]  it can sound superior to wideband
+[00:44:25 -> 00:44:27]  or sidechain equalization.
+[00:44:27 -> 00:44:29]  The action can be made very invisible.
+[00:44:29 -> 00:44:31]  Also, a higher amount of compression
+[00:44:31 -> 00:44:33]  and average level can be achieved in a multiband
+[00:44:33 -> 00:44:37]  with fewer interaction or clamping artifacts.
+[00:44:37 -> 00:44:39]  Another advantage is that high frequency transients
+[00:44:39 -> 00:44:41]  can be left unaffected
+[00:44:41 -> 00:44:43]  while compressing the midrange more strongly,
+[00:44:43 -> 00:44:45]  producing a brighter, snappier sound
+[00:44:45 -> 00:44:47]  than a single band unit.
+[00:44:47 -> 00:44:49]  But when the thresholds are set aggressively,
+[00:44:49 -> 00:44:51]  loud action in one frequency band
+[00:44:51 -> 00:44:54]  can dynamically change the overall tonality,
+[00:44:54 -> 00:44:55]  producing a non-cohesive sound,
+[00:44:55 -> 00:44:58]  especially if all bands are moving different amounts
+[00:44:58 -> 00:44:59]  throughout the song.
+[00:44:59 -> 00:45:01]  The multiband device's virtues
+[00:45:01 -> 00:45:04]  permit louder average levels
+[00:45:04 -> 00:45:05]  than were previously achievable,
+[00:45:05 -> 00:45:07]  making it the most powerful,
+[00:45:07 -> 00:45:09]  but also potentially the most deadly
+[00:45:09 -> 00:45:11]  audio process ever invented.
+[00:45:11 -> 00:45:15]  Deadly because multiband compression fuels the loudness race.
+[00:45:15 -> 00:45:18]  The technique has been hyped as a cure for all ills,
+[00:45:18 -> 00:45:19]  which it is not,
+[00:45:19 -> 00:45:22]  and can easily produce a very unmusical sound
+[00:45:22 -> 00:45:24]  or take a mix where it doesn't want to go.
+[00:45:24 -> 00:45:26]  When multiband processing is used,
+[00:45:26 -> 00:45:28]  the line between equalization
+[00:45:28 -> 00:45:30]  and dynamic processing becomes nebulous
+[00:45:30 -> 00:45:33]  because the output levels of each band
+[00:45:33 -> 00:45:34]  form a basic equalizer,
+[00:45:34 -> 00:45:36]  and if the bands have different thresholds,
+[00:45:36 -> 00:45:38]  then they affect the tonality dynamically.
+[00:45:38 -> 00:45:40]  Use standard equalization
+[00:45:40 -> 00:45:43]  when instruments at all levels need alteration
+[00:45:43 -> 00:45:45]  or use multiband compression
+[00:45:45 -> 00:45:48]  to provide spectral balancing at different levels.
+[00:45:48 -> 00:45:51]  This is a form of dynamic equalization,
+[00:45:51 -> 00:45:53]  so depending on one's point of view,
+[00:45:53 -> 00:45:55]  a multiband compressor can be looked upon
+[00:45:55 -> 00:45:57]  as a dynamic equalizer.
+[00:45:57 -> 00:45:59]  Use multibands as a last resort.
+[00:45:59 -> 00:46:01]  Fix the disease at its source,
+[00:46:01 -> 00:46:04]  not with a multi-band aid in mastering.
+[00:46:04 -> 00:46:05]  Limiters.
+[00:46:05 -> 00:46:07]  Just a quick side note in case anyone is wondering
+[00:46:07 -> 00:46:09]  why limiters do not have their own chapter.
+[00:46:09 -> 00:46:11]  Limiting is a type of compression.
+[00:46:11 -> 00:46:13]  A limiter is a compressor.
+[00:46:13 -> 00:46:15]  However, not all compressors are limiters.
+[00:46:15 -> 00:46:17]  Limiters have a very high ratio,
+[00:46:17 -> 00:46:20]  typically 20 to one all the way to infinity to one.
+[00:46:20 -> 00:46:22]  Moving on to equalization.
+[00:46:22 -> 00:46:25]  Introduction to EQ in mastering.
+[00:46:25 -> 00:46:27]  As far as music production is concerned,
+[00:46:27 -> 00:46:31]  equalization is really just a fancy word for tone control,
+[00:46:31 -> 00:46:33]  a device that can cut or boost
+[00:46:33 -> 00:46:35]  particular parts of the audio spectrum.
+[00:46:35 -> 00:46:37]  EQ can be used to create new tonalities
+[00:46:37 -> 00:46:39]  and to help correct or equalize problems
+[00:46:39 -> 00:46:41]  that occurred in the recording chain,
+[00:46:41 -> 00:46:43]  though you should always strive
+[00:46:43 -> 00:46:45]  to fix such problems first.
+[00:46:45 -> 00:46:47]  There are three main controls you'll be using
+[00:46:47 -> 00:46:48]  on an equalizer.
+[00:46:48 -> 00:46:49]  Gain.
+[00:46:49 -> 00:46:50]  Once you've pushed in a band,
+[00:46:50 -> 00:46:53]  the first control you should tweak is the gain control.
+[00:46:53 -> 00:46:56]  The EQ has no effect without some gain reduction or addition
+[00:46:56 -> 00:46:59]  no matter what you do with the other controls.
+[00:46:59 -> 00:47:01]  Gain determines how much of a certain frequency
+[00:47:01 -> 00:47:03]  is added or removed.
+[00:47:03 -> 00:47:06]  It is the vertical axis on the EQ graph
+[00:47:06 -> 00:47:07]  and the taller it is,
+[00:47:07 -> 00:47:09]  the more that frequency is being added.
+[00:47:09 -> 00:47:10]  Q.
+[00:47:10 -> 00:47:14]  Q determines how wide or narrow the EQ band is.
+[00:47:14 -> 00:47:16]  A setting of zero will pretty much encompass
+[00:47:17 -> 00:47:19]  the entire spectrum depending on your gain amount,
+[00:47:19 -> 00:47:21]  while a setting of 10 will only affect
+[00:47:21 -> 00:47:24]  a very small range of frequencies.
+[00:47:24 -> 00:47:26]  The third control is frequency.
+[00:47:26 -> 00:47:29]  This determines which frequency the band affects.
+[00:47:29 -> 00:47:31]  How we use an equalizer in the mastering stage
+[00:47:31 -> 00:47:34]  can differ greatly from how one is used during mixing.
+[00:47:34 -> 00:47:37]  I'd now like to look at some equalization principles
+[00:47:37 -> 00:47:39]  and techniques that are common in mastering.
+[00:47:39 -> 00:47:41]  An EQ technique used in mastering
+[00:47:41 -> 00:47:43]  can be crucially different
+[00:47:43 -> 00:47:46]  from an apparently similar technique used in mixing.
+[00:47:46 -> 00:47:47]  For example,
+[00:47:47 -> 00:47:48]  when mastering,
+[00:47:48 -> 00:47:50]  adjusting the low bass of a mix
+[00:47:50 -> 00:47:53]  will affect the perception of extreme highs.
+[00:47:53 -> 00:47:53]  Similarly,
+[00:47:53 -> 00:47:55]  if a snare drum sounds dull,
+[00:47:55 -> 00:47:56]  but the vocal sounds good,
+[00:47:56 -> 00:47:58]  then the voice may suffer
+[00:47:58 -> 00:48:00]  when you try to equalize for the snare.
+[00:48:00 -> 00:48:02]  These problems occur even between different elements
+[00:48:02 -> 00:48:04]  in the same frequency range.
+[00:48:04 -> 00:48:05]  During mixing,
+[00:48:05 -> 00:48:08]  bass range instruments that exhibit problems
+[00:48:08 -> 00:48:10]  in their harmonic range can be treated individually.
+[00:48:10 -> 00:48:11]  But in mastering,
+[00:48:11 -> 00:48:13]  their harmonic range overlaps
+[00:48:13 -> 00:48:15]  with the range of other instruments.
+[00:48:15 -> 00:48:16]  Another key to effective mastering
+[00:48:16 -> 00:48:18]  is that everything starts with the mid-range.
+[00:48:18 -> 00:48:20]  The fundamentals of the vocal,
+[00:48:20 -> 00:48:21]  guitar, piano,
+[00:48:21 -> 00:48:23]  and other instruments must be correct
+[00:48:23 -> 00:48:25]  or nothing else can be made right.
+[00:48:25 -> 00:48:28]  Parametric and shelving.
+[00:48:28 -> 00:48:30]  There are two basic types of equalizers,
+[00:48:30 -> 00:48:32]  parametric and shelving,
+[00:48:32 -> 00:48:34]  named after their characteristic curves.
+[00:48:34 -> 00:48:36]  Parametric EQ,
+[00:48:36 -> 00:48:39]  invented by George Mason Berg in 1967,
+[00:48:39 -> 00:48:40]  is the most flexible curve,
+[00:48:40 -> 00:48:42]  providing three controls,
+[00:48:42 -> 00:48:43]  center frequency,
+[00:48:43 -> 00:48:44]  bandwidth,
+[00:48:44 -> 00:48:45]  level boost,
+[00:48:45 -> 00:48:46]  or cut.
+[00:48:46 -> 00:48:47]  The parametric curve,
+[00:48:47 -> 00:48:49]  also known as the peaking or bow curve,
+[00:48:49 -> 00:48:51]  is also the most popular EQ shape
+[00:48:51 -> 00:48:52]  used in mastering
+[00:48:52 -> 00:48:54]  because it can be used surgically
+[00:48:54 -> 00:48:56]  to remove certain defects,
+[00:48:56 -> 00:48:59]  such as an overly resonant bass instrument
+[00:48:59 -> 00:49:01]  or enhance narrow ranges of frequencies.
+[00:49:01 -> 00:49:02]  By comparison,
+[00:49:02 -> 00:49:04]  shelving equalizers are more popular
+[00:49:04 -> 00:49:05]  in mastering than in mixing,
+[00:49:05 -> 00:49:07]  since they provide boosts or cuts
+[00:49:07 -> 00:49:09]  to the entire spectrum
+[00:49:09 -> 00:49:10]  below or above a selected frequency
+[00:49:10 -> 00:49:14]  and can alter the tonality of the entire mix.
+[00:49:14 -> 00:49:15]  Gentle equalizer slopes
+[00:49:15 -> 00:49:17]  almost always sound more natural
+[00:49:17 -> 00:49:19]  and less harsh than sharp ones.
+[00:49:19 -> 00:49:23]  So Q values of 0.6 and 0.7
+[00:49:23 -> 00:49:26]  are therefore very popular in bow shapes
+[00:49:26 -> 00:49:28]  and gentle slopes in shelving shapes.
+[00:49:28 -> 00:49:29]  Higher or sharper Qs,
+[00:49:29 -> 00:49:30]  greater than two,
+[00:49:30 -> 00:49:32]  are used surgically
+[00:49:32 -> 00:49:34]  to deal with narrow band resonances
+[00:49:34 -> 00:49:35]  or discrete frequency noises,
+[00:49:35 -> 00:49:37]  though we must listen for artifacts
+[00:49:37 -> 00:49:38]  of high Qs,
+[00:49:38 -> 00:49:40]  such as ringing.
+[00:49:40 -> 00:49:42]  Finding the right EQ frequency
+[00:49:42 -> 00:49:44]  for dipping resonant notes.
+[00:49:44 -> 00:49:45]  There are two techniques
+[00:49:45 -> 00:49:46]  for finding a problem frequency
+[00:49:46 -> 00:49:49]  that is resonating and must be dipped.
+[00:49:49 -> 00:49:50]  The classic approach
+[00:49:50 -> 00:49:52]  is to focus the equalizer directly,
+[00:49:52 -> 00:49:53]  starting with a large boost
+[00:49:53 -> 00:49:56]  and a fairly wide or low value Q.
+[00:49:56 -> 00:49:57]  Sweep through the frequencies
+[00:49:57 -> 00:50:00]  until the resonant is most exaggerated.
+[00:50:00 -> 00:50:03]  Then narrow the Q to be surgical
+[00:50:03 -> 00:50:05]  and finally dip the EQ the amount desired.
+[00:50:05 -> 00:50:06]  It is, however,
+[00:50:06 -> 00:50:09]  very difficult to sweep in the bass region
+[00:50:09 -> 00:50:12]  because the distance between F sharp and G
+[00:50:12 -> 00:50:13]  is only three Hertz,
+[00:50:13 -> 00:50:14]  while in the mid range,
+[00:50:14 -> 00:50:16]  the distance is 22 Hertz.
+[00:50:16 -> 00:50:19]  We've all heard the phrase one note bass
+[00:50:19 -> 00:50:21]  and there's a reason why this problem occurs.
+[00:50:21 -> 00:50:24]  Many rooms have standing wave problems in the bass
+[00:50:24 -> 00:50:26]  that give the mix engineer the wrong impression
+[00:50:26 -> 00:50:28]  that a note is too weak.
+[00:50:28 -> 00:50:29]  So we boost it unnecessarily.
+[00:50:29 -> 00:50:32]  The cure for one note bass on the mastering side
+[00:50:32 -> 00:50:33]  is quite delicate.
+[00:50:33 -> 00:50:35]  We have to construct a bow filter
+[00:50:35 -> 00:50:36]  that's only a few Hertz wide.
+[00:50:36 -> 00:50:38]  Narrow filters can ring,
+[00:50:38 -> 00:50:39]  so be exceptionally careful.
+[00:50:39 -> 00:50:41]  EQ yin and yang.
+[00:50:42 -> 00:50:44]  As I stated in the introduction of this video,
+[00:50:44 -> 00:50:46]  mastering is a compromise.
+[00:50:46 -> 00:50:48]  With equalization using the mastering stage,
+[00:50:48 -> 00:50:51]  it's important to remember the yin and the yang.
+[00:50:51 -> 00:50:54]  Contrasting ranges have an interactive effect.
+[00:50:54 -> 00:50:55]  For example,
+[00:50:55 -> 00:50:58]  adding low frequencies makes the sound seem duller
+[00:50:58 -> 00:51:00]  and reducing them makes it seem brighter.
+[00:51:00 -> 00:51:04]  Adding extreme highs between 15 and 20 kilohertz
+[00:51:04 -> 00:51:06]  makes the sound seem thinner in the bass
+[00:51:06 -> 00:51:08]  and lower mid range and vice versa.
+[00:51:08 -> 00:51:12]  A slight dip in the lower mid range around 250 Hertz
+[00:51:12 -> 00:51:15]  reduces warmth and has a similar effect
+[00:51:15 -> 00:51:19]  to boosting in the presence range around five kilohertz.
+[00:51:19 -> 00:51:20]  A thick vocal can be helped
+[00:51:20 -> 00:51:22]  either by reducing the lower mid range
+[00:51:22 -> 00:51:24]  or by adding presence or both.
+[00:51:24 -> 00:51:27]  Yin and yang considerations allows to work
+[00:51:27 -> 00:51:30]  in either or both contrasting ranges,
+[00:51:30 -> 00:51:31]  whichever is most effective.
+[00:51:31 -> 00:51:33]  When the overall level is too high,
+[00:51:33 -> 00:51:35]  pick the range you need to reduce.
+[00:51:35 -> 00:51:38]  When an instrument exhibits upper mid range harshness,
+[00:51:39 -> 00:51:41]  pick the frequency range that will have the least effect
+[00:51:41 -> 00:51:44]  on other instruments playing at the same time.
+[00:51:44 -> 00:51:46]  Using Baxnodal for air.
+[00:51:46 -> 00:51:48]  The air band is the range of frequencies
+[00:51:48 -> 00:51:51]  between about 15 and 20 kilohertz,
+[00:51:51 -> 00:51:53]  the highest frequencies we can hear.
+[00:51:53 -> 00:51:55]  The third and important shape
+[00:51:55 -> 00:51:58]  that's extremely useful in mastering is the Baxnodal.
+[00:51:58 -> 00:52:02]  Hi-fi tone controls are usually modeled around this curve.
+[00:52:02 -> 00:52:03]  Like shelving equalizers,
+[00:52:03 -> 00:52:06]  a Baxnodal curve is applied to low
+[00:52:06 -> 00:52:08]  or high frequency boost or cuts.
+[00:52:09 -> 00:52:10]  However, instead of reaching a shelf,
+[00:52:10 -> 00:52:12]  the Baxnodal continues to rise
+[00:52:12 -> 00:52:14]  or dips if cutting instead of boosting.
+[00:52:14 -> 00:52:16]  This gentle shape often meets the ear's desires
+[00:52:16 -> 00:52:18]  better than a standard shelf,
+[00:52:18 -> 00:52:19]  especially for whole mixes,
+[00:52:19 -> 00:52:22]  which is why the Baxnodal is very popular in mastering.
+[00:52:22 -> 00:52:25]  Be careful when making high frequency boosts.
+[00:52:25 -> 00:52:26]  They are initially seductive,
+[00:52:26 -> 00:52:28]  but can easily become fatiguing.
+[00:52:28 -> 00:52:30]  The principle of yin and yang reminds us
+[00:52:30 -> 00:52:33]  that the ear interprets a high frequency boost
+[00:52:33 -> 00:52:36]  as a thinning of the lower mid range or bottom end.
+[00:52:36 -> 00:52:38]  In addition, when the highs come up,
+[00:52:38 -> 00:52:41]  the cymbals, triangles, and tambourines become louder,
+[00:52:41 -> 00:52:44]  which changes the balance of rhythm to melody
+[00:52:44 -> 00:52:45]  for better or worse.
+[00:52:45 -> 00:52:48]  High-pass and low-pass filters.
+[00:52:48 -> 00:52:49]  Although pass filters can be used
+[00:52:49 -> 00:52:51]  to solve noise problems in mastering,
+[00:52:51 -> 00:52:53]  they can also introduce problems of their own
+[00:52:53 -> 00:52:56]  because they affect everything above or below
+[00:52:56 -> 00:52:58]  a certain frequency range.
+[00:52:58 -> 00:53:00]  High-pass filters can reduce rumble,
+[00:53:00 -> 00:53:03]  thumps, peep-ops, and similar noises.
+[00:53:03 -> 00:53:06]  Low-pass filters are sometimes used to reduce hiss,
+[00:53:07 -> 00:53:08]  but since the ear is most sensitive
+[00:53:08 -> 00:53:10]  to hiss in the three kilohertz range,
+[00:53:10 -> 00:53:13]  a paramedic dip around that frequency is more effective
+[00:53:13 -> 00:53:15]  than a radical low-pass filter.
+[00:53:15 -> 00:53:17]  For hiss removal, we usually prefer
+[00:53:17 -> 00:53:21]  specialized noise reduction solutions over static filters.
+[00:53:21 -> 00:53:25]  The limitations and the potential of the recording.
+[00:53:25 -> 00:53:27]  If you wait until the mastering stage
+[00:53:27 -> 00:53:30]  to fix certain problems, this invites compromise
+[00:53:30 -> 00:53:31]  because there is only so much
+[00:53:31 -> 00:53:33]  that can be done in mastering.
+[00:53:33 -> 00:53:36]  But sometimes mix engineers try to fix things
+[00:53:36 -> 00:53:39]  that don't need repair or over-process a recording,
+[00:53:39 -> 00:53:41]  only making it sound worse.
+[00:53:41 -> 00:53:44]  They do this because the tool is available
+[00:53:44 -> 00:53:45]  and it's tempting to use,
+[00:53:45 -> 00:53:46]  their monitoring is misleading,
+[00:53:46 -> 00:53:48]  or because of lack of experience.
+[00:53:48 -> 00:53:50]  The same thing can happen
+[00:53:50 -> 00:53:52]  to an inexperienced mastering engineer too.
+[00:53:52 -> 00:53:54]  This is where it plays for the mixing engineer
+[00:53:54 -> 00:53:57]  to consult with an experienced mastering engineer
+[00:53:57 -> 00:53:58]  before the mix is done.
+[00:53:58 -> 00:54:00]  There is little we can do to fix a recording
+[00:54:00 -> 00:54:02]  where one instrument or voice
+[00:54:02 -> 00:54:04]  requires one type of equalization
+[00:54:04 -> 00:54:06]  and the rest require others.
+[00:54:06 -> 00:54:08]  Cone filtering is a complex problem
+[00:54:08 -> 00:54:11]  that is not easily cured with an equalizer.
+[00:54:11 -> 00:54:14]  Besides, in mastering, EQ affects the entire mix,
+[00:54:14 -> 00:54:17]  not just the offending instrument or voice.
+[00:54:17 -> 00:54:18]  It's best to first discuss the problem
+[00:54:18 -> 00:54:20]  with the mix engineer to see if he can address
+[00:54:20 -> 00:54:23]  the offending track and remix it.
+[00:54:23 -> 00:54:26]  If that's not possible, then possibly ask for a stem
+[00:54:26 -> 00:54:29]  or as a last resort, try an overall mastering EQ.
+[00:54:29 -> 00:54:32]  For example, a lower mid-range EQ boost
+[00:54:32 -> 00:54:34]  to help a vocal that sounds thin
+[00:54:34 -> 00:54:35]  due to cone filtering,
+[00:54:35 -> 00:54:38]  even if it only touches one band of the cone filter.
+[00:54:38 -> 00:54:41]  A perfect mix needs no mastering processing at all.
+[00:54:41 -> 00:54:45]  Because of this, don't automatically begin equalizing,
+[00:54:45 -> 00:54:47]  but listen and evaluate first.
+[00:54:47 -> 00:54:48]  Many recordings that sound great
+[00:54:48 -> 00:54:50]  leave the mastering studio
+[00:54:50 -> 00:54:53]  with no equalization or processing.
+[00:54:53 -> 00:54:56]  Linear phase equalizers, the theory.
+[00:54:56 -> 00:54:58]  All current analog equalizer designers
+[00:54:58 -> 00:55:01]  and nearly all current digital equalizers
+[00:55:01 -> 00:55:04]  produce phase shift when boosted or cut.
+[00:55:04 -> 00:55:07]  That is, signal delay varies with frequency.
+[00:55:07 -> 00:55:10]  The higher the Q, the more phase shift.
+[00:55:10 -> 00:55:12]  This kind of filter will always alter
+[00:55:12 -> 00:55:14]  the musical timing and wave shape,
+[00:55:14 -> 00:55:16]  also known as phase distortion.
+[00:55:16 -> 00:55:18]  Whenever you have to equalize,
+[00:55:18 -> 00:55:20]  you will always alter the signal
+[00:55:20 -> 00:55:22]  in both the time and frequency domains.
+[00:55:22 -> 00:55:24]  There will always be a time artifact.
+[00:55:24 -> 00:55:26]  In the analog-styled equalizer,
+[00:55:26 -> 00:55:29]  which is usually mathematically termed minimum phase,
+[00:55:29 -> 00:55:31]  the alteration will be primarily
+[00:55:31 -> 00:55:33]  to spread the signal downstream,
+[00:55:33 -> 00:55:36]  i.e. it does not lead the original signal by much.
+[00:55:36 -> 00:55:38]  A downstream modification translates
+[00:55:38 -> 00:55:40]  into different delays at different frequencies,
+[00:55:40 -> 00:55:42]  dispersing the original signal.
+[00:55:42 -> 00:55:45]  In some cases, this effect is quite audible.
+[00:55:45 -> 00:55:47]  If one uses a digital approach,
+[00:55:47 -> 00:55:49]  one can either mimic the analog behavior
+[00:55:49 -> 00:55:52]  or use a linear phase, aka constant delay filter.
+[00:55:52 -> 00:55:55]  This filter will equally proceed and follow the signal.
+[00:55:55 -> 00:55:58]  Part of the filter may create a pre-echo effect,
+[00:55:58 -> 00:56:00]  modifying the leading edge of the transients
+[00:56:00 -> 00:56:02]  and signal changes.
+[00:56:02 -> 00:56:04]  A high Q linear phase filter
+[00:56:04 -> 00:56:06]  can introduce audible pre-echo
+[00:56:06 -> 00:56:08]  in the short millisecond range.
+[00:56:08 -> 00:56:09]  It's exactly like a floor bounce,
+[00:56:09 -> 00:56:11]  but without the cone filtering.
+[00:56:11 -> 00:56:13]  Anytime that a high Q filter is used,
+[00:56:13 -> 00:56:16]  careful listening with both types of equalization
+[00:56:16 -> 00:56:19]  may be necessary to decide which choice is best.
+[00:56:19 -> 00:56:21]  If you're looking for an aggressive sound,
+[00:56:21 -> 00:56:23]  perhaps minimum phase is your best choice.
+[00:56:23 -> 00:56:25]  But if you're looking for a natural sound,
+[00:56:25 -> 00:56:27]  particularly at high frequencies,
+[00:56:27 -> 00:56:28]  linear phase is your best choice.
+[00:56:28 -> 00:56:30]  Narrow band peaks and dips
+[00:56:30 -> 00:56:32]  can be accomplished in linear phase,
+[00:56:32 -> 00:56:33]  avoiding the smeary quality
+[00:56:33 -> 00:56:36]  that occurs in minimum phase with sharp bands.
+[00:56:36 -> 00:56:39]  The majority is still out on which type of equalizer
+[00:56:39 -> 00:56:41]  is best for low frequencies.
+[00:56:41 -> 00:56:43]  Mid-side mastering.
+[00:56:43 -> 00:56:45]  The mid-side technique can be used
+[00:56:45 -> 00:56:46]  to gain a bit more control
+[00:56:46 -> 00:56:49]  over the separate elements in our recording.
+[00:56:49 -> 00:56:52]  MS stands for mid-side or mono stereo.
+[00:56:52 -> 00:56:53]  Mid-side recording techniques
+[00:56:53 -> 00:56:55]  are favored by many engineers
+[00:56:55 -> 00:56:57]  for a number of reasons during the recording,
+[00:56:57 -> 00:56:59]  mixing, and mastering stages,
+[00:56:59 -> 00:57:02]  and it's the last that we'll look at here.
+[00:57:02 -> 00:57:03]  With some very simple maths,
+[00:57:03 -> 00:57:05]  it's possible to encode the standard
+[00:57:05 -> 00:57:08]  left-right stereo mixes to mid-side.
+[00:57:08 -> 00:57:09]  You'll still have two channels,
+[00:57:09 -> 00:57:11]  but instead of left and right,
+[00:57:11 -> 00:57:13]  you'll now have control over the mid,
+[00:57:13 -> 00:57:15]  that's anything panned centrally,
+[00:57:15 -> 00:57:18]  and the sides, anything to the left or right,
+[00:57:18 -> 00:57:19]  lumped together.
+[00:57:19 -> 00:57:22]  After independently processing or level balancing,
+[00:57:22 -> 00:57:25]  the mid-side signal can be decoded back to left and right.
+[00:57:25 -> 00:57:28]  Mid-side gives you a very different type of control
+[00:57:28 -> 00:57:29]  during the mastering stage
+[00:57:29 -> 00:57:31]  because new opportunities emerge.
+[00:57:31 -> 00:57:34]  You could EQ or compress wide-panned elements,
+[00:57:34 -> 00:57:36]  such as guitars, or effect returns,
+[00:57:36 -> 00:57:40]  without affecting typically central panned elements,
+[00:57:40 -> 00:57:42]  such as the kick, snare, bass,
+[00:57:42 -> 00:57:44]  or the lead vocal, for example.
+[00:57:44 -> 00:57:46]  Listen carefully for mid-side trade-offs
+[00:57:46 -> 00:57:47]  with experienced ears.
+[00:57:47 -> 00:57:50]  When raising the mid-channel to increase the vocal,
+[00:57:50 -> 00:57:52]  the stereo width narrows, and vice versa.
+[00:57:52 -> 00:57:54]  Changing the width alters the mids.
+[00:57:54 -> 00:57:57]  Mix engineers who rely largely on near-field monitors
+[00:57:57 -> 00:58:00]  often produce stereo-compromised mixes
+[00:58:00 -> 00:58:02]  because listening on near-fields
+[00:58:02 -> 00:58:04]  is like having a big set of headphones,
+[00:58:04 -> 00:58:06]  which exaggerates the stereo separation.
+[00:58:06 -> 00:58:08]  Using mid-side to increase the width
+[00:58:08 -> 00:58:09]  is initially attractive,
+[00:58:09 -> 00:58:11]  but can easily produce an unfocused,
+[00:58:11 -> 00:58:13]  phasy, or vague stereo image.
+[00:58:13 -> 00:58:17]  Therefore, more than about one decibel of mid-side variation
+[00:58:17 -> 00:58:18]  is usually a bad idea.
+[00:58:18 -> 00:58:20]  The Fletcher-Munson curve.
+[00:58:20 -> 00:58:23]  I'd like to quickly mention the Fletcher-Munson curve
+[00:58:23 -> 00:58:25]  as to apply effective equalization,
+[00:58:25 -> 00:58:27]  it's critical that we understand
+[00:58:27 -> 00:58:29]  this interesting phenomena of human hearing.
+[00:58:29 -> 00:58:32]  The Fletcher-Munson effect dictates
+[00:58:32 -> 00:58:35]  that high-frequency energy produces more loudness
+[00:58:35 -> 00:58:38]  than low frequencies at the same sound pressure level.
+[00:58:38 -> 00:58:40]  As the actual loudness changes,
+[00:58:40 -> 00:58:42]  the perceived loudness our brains hear
+[00:58:42 -> 00:58:44]  will change at a different rate,
+[00:58:44 -> 00:58:45]  depending on the frequency.
+[00:58:45 -> 00:58:48]  For example, at low listening volumes,
+[00:58:49 -> 00:58:51]  mid-range frequencies sound more prominent,
+[00:58:51 -> 00:58:53]  while the low and high-frequency ranges
+[00:58:53 -> 00:58:54]  seem to fall into the background.
+[00:58:54 -> 00:58:57]  And at high listening volumes, the opposite is true.
+[00:58:57 -> 00:58:59]  The lows and highs sound more prominent,
+[00:58:59 -> 00:59:02]  while the mid-range seems comparatively softer.
+[00:59:02 -> 00:59:04]  Yet, in reality, the overall tonal balance of the sound
+[00:59:04 -> 00:59:07]  remains the same, no matter what the listening volume.
+[00:59:07 -> 00:59:09]  Here's a graph that illustrates the concept
+[00:59:09 -> 00:59:11]  of the Fletcher-Munson curve.
+[00:59:11 -> 00:59:12]  This is also in the blog post
+[00:59:12 -> 00:59:14]  if you wish to get a better look at it,
+[00:59:14 -> 00:59:16]  the link for which is again in the description.
+[00:59:16 -> 00:59:19]  Using some of the techniques we've just gone over
+[00:59:19 -> 00:59:21]  will definitely help you to achieve depth and dimension
+[00:59:21 -> 00:59:22]  in your masters.
+[00:59:22 -> 00:59:25]  But this subject requires its own chapter
+[00:59:25 -> 00:59:26]  to really grasp what's possible
+[00:59:26 -> 00:59:29]  and how to achieve it in the mastering stage.
+[00:59:29 -> 00:59:31]  Depth and dimension.
+[00:59:31 -> 00:59:33]  Depth, the front-to-back dimension in your mix,
+[00:59:33 -> 00:59:36]  is another area where your mastering engineer
+[00:59:36 -> 00:59:39]  can coax out a lot of hidden magic.
+[00:59:39 -> 00:59:41]  But, as always, we can do the most
+[00:59:41 -> 00:59:43]  to enhance the sense of depth in our mixes
+[00:59:43 -> 00:59:45]  when there is some there to begin with.
+[00:59:45 -> 00:59:47]  To bake plenty of depth into your mix,
+[00:59:47 -> 00:59:50]  you first have to realize that not every sound
+[00:59:50 -> 00:59:52]  should feel like it's glued to the front edge
+[00:59:52 -> 00:59:53]  of the speakers.
+[00:59:53 -> 00:59:57]  And once again, contrast is key to crafting a bold mix
+[00:59:57 -> 00:59:58]  that feels like it lives and breathes
+[00:59:58 -> 01:00:00]  in all three dimensions.
+[01:00:00 -> 01:00:02]  Because when every sound is up front,
+[01:00:02 -> 01:00:04]  nothing gets to take center stage.
+[01:00:04 -> 01:00:06]  Once you've internalized this idea,
+[01:00:06 -> 01:00:09]  the second step is to master the specific tools
+[01:00:09 -> 01:00:11]  and techniques that will allow you
+[01:00:11 -> 01:00:14]  to bring some sounds closer and push others back.
+[01:00:14 -> 01:00:17]  Use of reverbs, delays, compression, and EQ
+[01:00:17 -> 01:00:19]  can all be crucial in making some elements
+[01:00:19 -> 01:00:22]  seem to step back while allowing other,
+[01:00:22 -> 01:00:24]  more central elements to step forward.
+[01:00:24 -> 01:00:27]  The perception of depth.
+[01:00:27 -> 01:00:29]  At first thought, it may seem that depth
+[01:00:29 -> 01:00:32]  in our recording is achievable by increasing the ratio
+[01:00:32 -> 01:00:35]  of reverberant to direct sound,
+[01:00:35 -> 01:00:37]  but it is a much more involved process.
+[01:00:37 -> 01:00:41]  Our binaural hearing apparatus is largely responsible
+[01:00:41 -> 01:00:43]  for the perception of depth.
+[01:00:43 -> 01:00:45]  But recording engineers were concerned
+[01:00:45 -> 01:00:48]  with achieving depth even in the days of monophonic sound.
+[01:00:48 -> 01:00:52]  In the monophonic days, many whores for orchestral recording
+[01:00:52 -> 01:00:54]  were deader than those of today.
+[01:00:54 -> 01:00:56]  Why do monophonic recording and dead rooms
+[01:00:56 -> 01:00:57]  seem to go well together?
+[01:00:57 -> 01:01:00]  The answer is involved in two principles
+[01:01:00 -> 01:01:01]  that work hand in hand.
+[01:01:01 -> 01:01:03]  The first is the masking principle,
+[01:01:03 -> 01:01:05]  and the second, the Hass effect.
+[01:01:05 -> 01:01:06]  The masking principle.
+[01:01:06 -> 01:01:09]  The masking principle says that a louder sound
+[01:01:09 -> 01:01:12]  will tend to cover or mask a softer sound,
+[01:01:12 -> 01:01:14]  especially if the two sounds lie
+[01:01:14 -> 01:01:16]  in the same frequency range.
+[01:01:16 -> 01:01:19]  If these two sounds happen to be the direct sound
+[01:01:19 -> 01:01:22]  from a musical instrument and the reverberation
+[01:01:22 -> 01:01:25]  from that instrument, then the initial reverberation
+[01:01:25 -> 01:01:27]  can appear to be covered by that direct sound.
+[01:01:27 -> 01:01:29]  When the direct sound ceases,
+[01:01:29 -> 01:01:32]  the reverberant hangover is finally perceived.
+[01:01:32 -> 01:01:36]  In concert halls, our two ears sense reverberation
+[01:01:36 -> 01:01:38]  as coming diffusely from all around us,
+[01:01:38 -> 01:01:42]  and the direct sound as having a distinct single location.
+[01:01:42 -> 01:01:45]  Thus, in whores, the masking effect is somewhat reduced
+[01:01:45 -> 01:01:47]  by the ear's ability to sense direction.
+[01:01:47 -> 01:01:51]  In monophonic recordings, the reverberation is produced
+[01:01:51 -> 01:01:54]  from the same source speaker as the direct sound,
+[01:01:54 -> 01:01:57]  and so we may perceive the room as deader than it really is
+[01:01:57 -> 01:01:59]  because of the directional masking.
+[01:01:59 -> 01:02:01]  Furthermore, if we choose a recording hall
+[01:02:01 -> 01:02:04]  that is very live, then the reverberation
+[01:02:04 -> 01:02:07]  will tend to intrude our perception of the direct sound,
+[01:02:07 -> 01:02:10]  since both will be reproduced from the same location,
+[01:02:10 -> 01:02:11]  the single speaker.
+[01:02:11 -> 01:02:13]  So there is a limit to how much reverberation
+[01:02:13 -> 01:02:15]  can be used in mono.
+[01:02:15 -> 01:02:18]  This is one explanation for the incompatibility
+[01:02:18 -> 01:02:20]  of many stereophonic recordings
+[01:02:20 -> 01:02:21]  with monophonic reproduction.
+[01:02:21 -> 01:02:25]  The larger amounts of reverberation tolerable in stereo
+[01:02:25 -> 01:02:27]  becomes less acceptable in mono
+[01:02:27 -> 01:02:29]  due to the directional masking.
+[01:02:29 -> 01:02:32]  As we extend our recording techniques to two-channel
+[01:02:32 -> 01:02:33]  and eventually multi-channel,
+[01:02:33 -> 01:02:35]  we can overcome directional masking
+[01:02:35 -> 01:02:37]  by spreading reverberation spatially
+[01:02:37 -> 01:02:39]  away from the direct source,
+[01:02:39 -> 01:02:43]  achieving both a clear and warm recording at the same time.
+[01:02:43 -> 01:02:44]  The Haas effect.
+[01:02:44 -> 01:02:47]  The Haas effect can be used to overcome directional masking.
+[01:02:47 -> 01:02:50]  Haas says that in general, echoes occurring
+[01:02:50 -> 01:02:54]  within approximately 40 milliseconds of the direct sound
+[01:02:54 -> 01:02:56]  become fused with the direct sound.
+[01:02:56 -> 01:02:59]  We say that the echo becomes one with the direct sound
+[01:02:59 -> 01:03:02]  and only a loudness enhancement occurs.
+[01:03:02 -> 01:03:05]  A very important corollary to the Haas effect
+[01:03:05 -> 01:03:07]  says that the fusion and loudness enhancement
+[01:03:07 -> 01:03:10]  will occur even if the closely timed echo
+[01:03:10 -> 01:03:13]  comes from a different direction than the original source.
+[01:03:13 -> 01:03:15]  However, the brain will continue to recognize
+[01:03:15 -> 01:03:17]  the location of the original sound
+[01:03:17 -> 01:03:19]  as the proper direction of the source.
+[01:03:19 -> 01:03:21]  The Haas effect allows nearby echoes
+[01:03:21 -> 01:03:24]  up to approximately 40 milliseconds delay
+[01:03:24 -> 01:03:26]  to enhance an original sound
+[01:03:26 -> 01:03:28]  without confusing its directionality.
+[01:03:28 -> 01:03:30]  We can take advantage of the Haas effect
+[01:03:30 -> 01:03:32]  to naturally and effectively convert
+[01:03:32 -> 01:03:34]  an existing two-channel recording
+[01:03:34 -> 01:03:36]  to a four-channel or surround medium.
+[01:03:36 -> 01:03:39]  When remixing, place a discrete delay
+[01:03:39 -> 01:03:41]  in the surround speakers to enhance and extract
+[01:03:41 -> 01:03:44]  the original ambience from a previously recorded source.
+[01:03:44 -> 01:03:47]  No artificial reverberator is needed
+[01:03:47 -> 01:03:50]  if there is sufficient reverberation in the original source.
+[01:03:50 -> 01:03:51]  Here's how it works.
+[01:03:51 -> 01:03:52]  Because of the Haas effect,
+[01:03:52 -> 01:03:55]  the ear fuses the delayed with the original sound
+[01:03:55 -> 01:03:57]  and still perceives the direct of the sound
+[01:03:57 -> 01:03:59]  as coming from the front speakers.
+[01:03:59 -> 01:04:01]  But this does not apply to ambience.
+[01:04:01 -> 01:04:02]  Ambience will be spread,
+[01:04:02 -> 01:04:05]  diffused between the location of the original sound
+[01:04:05 -> 01:04:08]  and the delayed sound in the surround speakers.
+[01:04:08 -> 01:04:11]  Thus, the Haas effect only works for correlated material.
+[01:04:11 -> 01:04:14]  Uncorrelated material, such as natural reverberation,
+[01:04:14 -> 01:04:17]  is extracted, enhanced, and spread directionally.
+[01:04:17 -> 01:04:21]  Dolby laboratories call this effect the magic surround,
+[01:04:21 -> 01:04:23]  for they discovered that natural reverberation
+[01:04:23 -> 01:04:25]  was extracted to the rear speakers
+[01:04:25 -> 01:04:27]  when a delay was applied to them.
+[01:04:27 -> 01:04:30]  Dolby also uses a left minus R matrix
+[01:04:30 -> 01:04:32]  to further enhance the separation.
+[01:04:32 -> 01:04:35]  The wider the bandwidth of the surround system
+[01:04:35 -> 01:04:36]  and the more diffused its character,
+[01:04:36 -> 01:04:40]  the more effective the psychoacoustic extraction of ambience
+[01:04:40 -> 01:04:41]  to the surround speakers.
+[01:04:41 -> 01:04:45]  Using frequency response to simulate depth.
+[01:04:45 -> 01:04:47]  Another contributor to the sense of distance
+[01:04:47 -> 01:04:49]  in a natural acoustic environment
+[01:04:49 -> 01:04:52]  is the absorption qualities of air.
+[01:04:52 -> 01:04:54]  As the distance from a sound source increases,
+[01:04:54 -> 01:04:57]  the apparent high frequency response is reduced.
+[01:04:57 -> 01:04:58]  This provides another tool
+[01:04:58 -> 01:05:01]  which the recording engineer can use to simulate distance,
+[01:05:01 -> 01:05:04]  as our ears have been trained to associate distance
+[01:05:04 -> 01:05:05]  with high frequency roll-off.
+[01:05:05 -> 01:05:08]  An interesting experiment is to alter our treble control
+[01:05:08 -> 01:05:10]  while playing back a good orchestral recording.
+[01:05:10 -> 01:05:13]  Notice how the apparent front to back depth of the orchestra
+[01:05:13 -> 01:05:17]  changes considerably as you manipulate the high frequencies.
+[01:05:17 -> 01:05:18]  Another important tool
+[01:05:18 -> 01:05:20]  for the measurement of depth and dimension,
+[01:05:20 -> 01:05:23]  as well as several other important characteristics
+[01:05:23 -> 01:05:25]  of your composition, are loudness meters.
+[01:05:25 -> 01:05:27]  Loudness metering.
+[01:05:27 -> 01:05:29]  In this chapter, we'll take a look at loudness meters,
+[01:05:29 -> 01:05:31]  how to use and interpret them,
+[01:05:31 -> 01:05:33]  and their relevance to music production.
+[01:05:33 -> 01:05:37]  The revolution in loudness normalized digital radio and TV
+[01:05:37 -> 01:05:40]  has inspired a plethora of loudness meters
+[01:05:40 -> 01:05:43]  in every shape and size to fit every taste.
+[01:05:43 -> 01:05:46]  But because the ear and brain are complex,
+[01:05:46 -> 01:05:49]  no meter can anticipate our ears' perceptions
+[01:05:49 -> 01:05:50]  at every moment in time.
+[01:05:50 -> 01:05:53]  For example, when mastering an album
+[01:05:53 -> 01:05:55]  that has a tune with a soft, delicate ending,
+[01:05:55 -> 01:05:59]  the beginning of the next tune usually sounds too loud.
+[01:05:59 -> 01:06:01]  But if you play the middle of the latter tune for a moment,
+[01:06:01 -> 01:06:03]  it doesn't sound too loud.
+[01:06:03 -> 01:06:05]  And when you play its beginning again, it also sounds fine.
+[01:06:05 -> 01:06:08]  You feel no need to turn it down.
+[01:06:08 -> 01:06:10]  What's happening is that, in general,
+[01:06:10 -> 01:06:12]  the ear does not react to absolutes,
+[01:06:12 -> 01:06:15]  but it is very sensitive to contrasts.
+[01:06:15 -> 01:06:16]  And because the ear says so,
+[01:06:16 -> 01:06:18]  the beginning of the following tune is too loud,
+[01:06:18 -> 01:06:20]  regardless of what the meter says.
+[01:06:20 -> 01:06:22]  One solution is to try to increase
+[01:06:22 -> 01:06:24]  the space between the tunes.
+[01:06:24 -> 01:06:26]  Another solution is to slightly turn down
+[01:06:26 -> 01:06:28]  the introduction of the next tune,
+[01:06:28 -> 01:06:31]  just enough to reduce the disturbance on the ear,
+[01:06:31 -> 01:06:33]  making sure that you can lead the listener
+[01:06:33 -> 01:06:36]  on an upward journey through the next tune.
+[01:06:36 -> 01:06:38]  This is why it is important to use meters,
+[01:06:38 -> 01:06:40]  but not to depend on them.
+[01:06:40 -> 01:06:43]  Your ears should always be your last port of call.
+[01:06:43 -> 01:06:45]  Audio meter weaknesses.
+[01:06:45 -> 01:06:48]  Because of the aural sensitivity to contrast,
+[01:06:48 -> 01:06:52]  a sudden burst of loud sound in the midst of soft sounds
+[01:06:52 -> 01:06:55]  has a much greater impact than something of equal intensity
+[01:06:55 -> 01:06:58]  in the middle of other loud sounds.
+[01:06:58 -> 01:07:00]  No meter can make this type of loudness judgment
+[01:07:00 -> 01:07:04]  or substitute for a set of trained audio engineer's ears.
+[01:07:04 -> 01:07:07]  Also, meters do not take into account
+[01:07:07 -> 01:07:08]  the listening sound pressure level.
+[01:07:08 -> 01:07:10]  Our ears are not flat,
+[01:07:10 -> 01:07:12]  and depending on how loudly we're listening,
+[01:07:12 -> 01:07:14]  meters may over or underestimate
+[01:07:14 -> 01:07:18]  our sensitivity of low frequency sounds.
+[01:07:18 -> 01:07:19]  Audio meter strengths.
+[01:07:19 -> 01:07:22]  However, despite these shortcomings,
+[01:07:22 -> 01:07:24]  meters are absolutely necessary.
+[01:07:24 -> 01:07:26]  Our ears can be temporarily reset
+[01:07:26 -> 01:07:29]  by listening to a loud passage for a long time,
+[01:07:29 -> 01:07:31]  but a meter can help us verify
+[01:07:31 -> 01:07:34]  that the soft part of an album is not too soft.
+[01:07:34 -> 01:07:36]  Meters are very good at detecting a domino effect,
+[01:07:36 -> 01:07:40]  wherein a tune becomes slightly louder than the previous one,
+[01:07:40 -> 01:07:42]  and the ear gets accustomed to the escalation.
+[01:07:42 -> 01:07:44]  We must learn to work with the audio meter
+[01:07:44 -> 01:07:46]  to take advantage of its strengths
+[01:07:46 -> 01:07:48]  and to understand its weaknesses.
+[01:07:48 -> 01:07:51]  In general, audio metering has matured greatly.
+[01:07:51 -> 01:07:52]  It is far more effective now
+[01:07:52 -> 01:07:55]  than it has been since the time of Dawn for audio recording.
+[01:07:55 -> 01:07:57]  Learning how to read loudness meters
+[01:07:57 -> 01:07:59]  when both mixing and mastering your tracks
+[01:07:59 -> 01:08:02]  can make the biggest difference to the overall balance,
+[01:08:02 -> 01:08:04]  especially if you haven't got
+[01:08:04 -> 01:08:06]  the best monitoring system in the world.
+[01:08:06 -> 01:08:08]  I'm going to cover some of the most important terms
+[01:08:08 -> 01:08:09]  you'll find on meters now,
+[01:08:09 -> 01:08:12]  but I've made a much bigger list over on the blog post
+[01:08:12 -> 01:08:13]  to go with this tutorial.
+[01:08:13 -> 01:08:16]  It's listed and linked in the description below.
+[01:08:16 -> 01:08:18]  Voxengo Span Controls.
+[01:08:18 -> 01:08:20]  Because this plugin is free,
+[01:08:20 -> 01:08:21]  as well as it being one of the best,
+[01:08:21 -> 01:08:23]  I'm going to use it as the example.
+[01:08:23 -> 01:08:26]  It's called Span, and it's made by Voxengo.
+[01:08:26 -> 01:08:28]  The plugin is listed and linked in the description.
+[01:08:28 -> 01:08:29]  I'd like to take you through
+[01:08:29 -> 01:08:32]  some of the statistical information that Span displays
+[01:08:32 -> 01:08:35]  so you can better understand what's going on
+[01:08:35 -> 01:08:37]  in your own compositions.
+[01:08:37 -> 01:08:38]  RMS.
+[01:08:38 -> 01:08:39]  The RMS indicator here
+[01:08:39 -> 01:08:44]  displays an unweighted RMS signal power estimation.
+[01:08:44 -> 01:08:46]  In simple terms, it displays the average level.
+[01:08:46 -> 01:08:49]  It does this by taking an average of the level
+[01:08:49 -> 01:08:51]  over a short window of time.
+[01:08:51 -> 01:08:53]  RMS level gives us information
+[01:08:53 -> 01:08:55]  that relates to our perception of volume.
+[01:08:56 -> 01:08:57]  Our brain processes information
+[01:08:57 -> 01:08:59]  during a short window of time
+[01:08:59 -> 01:09:02]  to evaluate how loud something is in our environment.
+[01:09:02 -> 01:09:04]  An RMS level is a way to attempt
+[01:09:04 -> 01:09:06]  to give feedback about that.
+[01:09:06 -> 01:09:09]  However, RMS doesn't relate directly to perception
+[01:09:09 -> 01:09:11]  in the case that it doesn't take frequency content
+[01:09:11 -> 01:09:13]  and balance it into account.
+[01:09:13 -> 01:09:15]  I'll come back to RMS in just a second
+[01:09:15 -> 01:09:18]  as it will tie in with the peak level display.
+[01:09:18 -> 01:09:19]  I guess the clue is in the name.
+[01:09:19 -> 01:09:22]  The peak level will display the level of signal
+[01:09:22 -> 01:09:24]  from moment to moment.
+[01:09:24 -> 01:09:25]  In the case of Span,
+[01:09:26 -> 01:09:29]  the peak indicator displays a one sample output peak level.
+[01:09:29 -> 01:09:31]  Both the RMS and peak readings are important,
+[01:09:31 -> 01:09:33]  but for different reasons.
+[01:09:33 -> 01:09:36]  Peak level tells us how close the signal is
+[01:09:36 -> 01:09:37]  to the point of distortion.
+[01:09:37 -> 01:09:39]  It's a way of helping us understand
+[01:09:39 -> 01:09:42]  whether we have any headroom to bring the signal up
+[01:09:42 -> 01:09:44]  without changing anything else about it
+[01:09:44 -> 01:09:46]  and staying below the point of distortion.
+[01:09:46 -> 01:09:49]  The relationship between the peak level and RMS level
+[01:09:49 -> 01:09:52]  will vary widely depending on the dynamics of the mix
+[01:09:52 -> 01:09:54]  and the drama of the music.
+[01:09:54 -> 01:09:56]  That makes it hard to generalize too much.
+[01:09:56 -> 01:09:58]  However, if I had to give you a general idea
+[01:09:58 -> 01:10:00]  about where the RMS level should be sitting
+[01:10:00 -> 01:10:03]  in respect to zero dBFS,
+[01:10:03 -> 01:10:07]  I would recommend minus 10 for any electronic music,
+[01:10:07 -> 01:10:09]  certainly nothing under minus 12.
+[01:10:09 -> 01:10:11]  But of course, if you can get it louder than minus 10,
+[01:10:11 -> 01:10:13]  do by all means.
+[01:10:13 -> 01:10:15]  I myself will usually aim for no more
+[01:10:15 -> 01:10:19]  than minus three decibels of gain reduction on my limiter.
+[01:10:19 -> 01:10:20]  Crest factor.
+[01:10:20 -> 01:10:22]  This list is in no particular order,
+[01:10:22 -> 01:10:25]  although I do regard peak and RMS
+[01:10:25 -> 01:10:27]  as the two most important readings
+[01:10:27 -> 01:10:28]  you should be paying attention to.
+[01:10:28 -> 01:10:31]  The next in the list is crest factor, perhaps my favorite.
+[01:10:31 -> 01:10:33]  The display you're looking at on the span here
+[01:10:33 -> 01:10:35]  is the max crest factor,
+[01:10:35 -> 01:10:38]  which shows the maximum crest factor difference
+[01:10:38 -> 01:10:41]  between the RMS and peak RMS values reached.
+[01:10:41 -> 01:10:44]  Peak RMS value is not displayed anywhere
+[01:10:44 -> 01:10:45]  on the user interface.
+[01:10:45 -> 01:10:47]  There is also a 50 millisecond time window
+[01:10:47 -> 01:10:50]  used to estimate the peak RMS value.
+[01:10:50 -> 01:10:54]  You can add the RMS and the max crest factor values together
+[01:10:54 -> 01:10:57]  to obtain a peak RMS value.
+[01:10:57 -> 01:10:58]  But please note that when comparing
+[01:10:58 -> 01:11:02]  the max crest factor value in span to other plugins,
+[01:11:02 -> 01:11:04]  the peak RMS time windows
+[01:11:04 -> 01:11:06]  should be matched in the plugin comparison,
+[01:11:06 -> 01:11:09]  or otherwise the readings will be different.
+[01:11:09 -> 01:11:10]  Correlation meter.
+[01:11:10 -> 01:11:12]  This panel contains a meter
+[01:11:12 -> 01:11:15]  that shows average real-time correlation
+[01:11:15 -> 01:11:17]  between two first input channels.
+[01:11:17 -> 01:11:20]  A correlation meter, also known as a phase meter,
+[01:11:21 -> 01:11:22]  can tell that something is amiss,
+[01:11:22 -> 01:11:25]  and even indicate that some information in the left channel
+[01:11:25 -> 01:11:29]  is out of time or out of phase with that in the right.
+[01:11:29 -> 01:11:32]  The meter is marked from minus one at the left
+[01:11:32 -> 01:11:35]  through to zero in the middle and plus one at the right.
+[01:11:35 -> 01:11:38]  Zero means random correlation.
+[01:11:38 -> 01:11:40]  This means that the left and right channels
+[01:11:40 -> 01:11:42]  are only randomly related to each other.
+[01:11:42 -> 01:11:44]  A zero reading can occur
+[01:11:44 -> 01:11:47]  when the sound consists of stereo ambience, delay,
+[01:11:47 -> 01:11:50]  or if there are two entirely different programs
+[01:11:51 -> 01:11:51]  in the channels.
+[01:11:51 -> 01:11:53]  Plus one means that the sound is completely mono,
+[01:11:53 -> 01:11:57]  and that there is 100% correlation to all frequencies
+[01:11:57 -> 01:11:59]  between the left and right channels.
+[01:11:59 -> 01:12:01]  A constant reading of minus one
+[01:12:01 -> 01:12:03]  means that the channels are correlated,
+[01:12:03 -> 01:12:06]  but one channel is out of polarity with the other.
+[01:12:06 -> 01:12:08]  In that case, it is also correct to say
+[01:12:08 -> 01:12:10]  that all the elements in one channel
+[01:12:10 -> 01:12:12]  are 180 degrees out of phase
+[01:12:12 -> 01:12:15]  with the elements in the other at all frequencies.
+[01:12:15 -> 01:12:17]  If the channels are partially out of phase,
+[01:12:17 -> 01:12:20]  the meter would be to the right of the minus one position.
+[01:12:20 -> 01:12:23]  Meter movement towards the middle is desirable.
+[01:12:23 -> 01:12:25]  It tells you that there is a lot of random phase information
+[01:12:25 -> 01:12:27]  in the stereo field,
+[01:12:27 -> 01:12:28]  and that the stereo image
+[01:12:28 -> 01:12:30]  will likely sound rich and spacious.
+[01:12:30 -> 01:12:32]  If the meter is slightly off its extremes,
+[01:12:32 -> 01:12:34]  you'll know that there is some phase shift
+[01:12:34 -> 01:12:35]  between the channels.
+[01:12:35 -> 01:12:38]  But don't try to correct time and information
+[01:12:38 -> 01:12:40]  unless all of the information in the left channel
+[01:12:40 -> 01:12:43]  is out of time with that in the right.
+[01:12:43 -> 01:12:45]  Additional metering jargon.
+[01:12:45 -> 01:12:46]  When mastering, there will be other terms
+[01:12:46 -> 01:12:47]  that you will come across
+[01:12:47 -> 01:12:49]  when using different types of plugins
+[01:12:49 -> 01:12:51]  to measure and analyze your composition.
+[01:12:51 -> 01:12:55]  These will include sample peak versus true peak.
+[01:12:55 -> 01:12:58]  The maximum possible sample peak or digital peak
+[01:12:58 -> 01:13:01]  of a recording is defined as zero dBFS,
+[01:13:01 -> 01:13:04]  the level that real world digital audio samples
+[01:13:04 -> 01:13:05]  cannot exceed.
+[01:13:05 -> 01:13:07]  This is why we call it full scale.
+[01:13:07 -> 01:13:11]  Sample peak, the actual peak numerical value of the samples
+[01:13:11 -> 01:13:14]  was the traditional method of peak metering until recently.
+[01:13:14 -> 01:13:16]  But sample peak is not a very effective measure
+[01:13:17 -> 01:13:19]  of judging overloads because real world devices
+[01:13:19 -> 01:13:22]  such as digital audio converters,
+[01:13:22 -> 01:13:25]  filtered processors such as sample rate converters
+[01:13:25 -> 01:13:27]  and any kind of lossy codec
+[01:13:27 -> 01:13:30]  produce higher output levels than their input.
+[01:13:30 -> 01:13:33]  Thus, a PCM signal can represent a signal
+[01:13:33 -> 01:13:36]  that has higher amplitude than the highest PCM value.
+[01:13:36 -> 01:13:39]  A more effective measure of protecting from overloads
+[01:13:39 -> 01:13:44]  specified in BS 1770-3 is called true peak,
+[01:13:44 -> 01:13:46]  achieved by upsampling methods.
+[01:13:46 -> 01:13:49]  True peak is a measure, well, actually an estimate
+[01:13:49 -> 01:13:53]  of inter-sample peaks, literally peaks between the samples,
+[01:13:53 -> 01:13:56]  which will occur after some kinds of filtering.
+[01:13:56 -> 01:13:59]  In practice, this means that recordings
+[01:13:59 -> 01:14:02]  whose sample peak is at or below full scale
+[01:14:02 -> 01:14:05]  may overload after further conversion or encoding.
+[01:14:05 -> 01:14:07]  These over full scale peaks
+[01:14:07 -> 01:14:10]  are known as zero dBFS plus fields.
+[01:14:10 -> 01:14:12]  In the absence of true peak metering,
+[01:14:12 -> 01:14:17]  it is wise to keep sample peaks at or below minus one dBFS.
+[01:14:17 -> 01:14:20]  If mastering studios ignore true peak,
+[01:14:20 -> 01:14:22]  they will soon discover that the PMC recordings
+[01:14:22 -> 01:14:24]  that sounded so good in the studio
+[01:14:24 -> 01:14:27]  become congested or distorted after conversion,
+[01:14:27 -> 01:14:29]  especially to a lossy format.
+[01:14:29 -> 01:14:31]  A true peak meter does an effective job
+[01:14:31 -> 01:14:34]  of predicting the output level of filtered processes
+[01:14:34 -> 01:14:38]  such as digital audio converters and sample rate converters,
+[01:14:38 -> 01:14:40]  but lossy formats are a special case.
+[01:14:40 -> 01:14:43]  Lossy formats not only filter, but also add noise,
+[01:14:43 -> 01:14:46]  which increases the sample peak level
+[01:14:46 -> 01:14:47]  and the inter-sample peak.
+[01:14:47 -> 01:14:49]  Because of this, a true peak meter
+[01:14:49 -> 01:14:52]  cannot predict what a codec will do.
+[01:14:52 -> 01:14:55]  So be sure to measure the true peak level of the codec.
+[01:14:55 -> 01:14:57]  The lower the bit rate of the lossy medium,
+[01:14:57 -> 01:14:59]  the higher the amount of overload distortion.
+[01:14:59 -> 01:15:02]  So be mindful of those lower bit rate broadcasters
+[01:15:02 -> 01:15:05]  like satellite radio and some streaming services.
+[01:15:05 -> 01:15:09]  Integrated momentary short-term loudness.
+[01:15:09 -> 01:15:12]  Integrated loudness is the same as program level,
+[01:15:12 -> 01:15:14]  which is the quantity you should be aiming for
+[01:15:14 -> 01:15:17]  when taking a measurement of the whole program.
+[01:15:17 -> 01:15:20]  The EBU has defined two other timescales
+[01:15:20 -> 01:15:22]  for use with loudness meters.
+[01:15:22 -> 01:15:25]  The first is momentary loudness, abbreviated M,
+[01:15:25 -> 01:15:27]  which is the loudness you hear now.
+[01:15:27 -> 01:15:30]  M is averaged over a 400 millisecond period,
+[01:15:30 -> 01:15:34]  which corresponds well with the VU meters many of us use.
+[01:15:34 -> 01:15:37]  The second is short-term loudness, abbreviated S,
+[01:15:37 -> 01:15:39]  with a time window of three seconds.
+[01:15:39 -> 01:15:41]  They perhaps should have come up with a different term
+[01:15:41 -> 01:15:43]  because it is not obvious that short-term
+[01:15:43 -> 01:15:45]  is longer than momentary.
+[01:15:45 -> 01:15:47]  Loudness range.
+[01:15:47 -> 01:15:49]  Loudness range, abbreviated LRA,
+[01:15:49 -> 01:15:52]  is a well-defined statistical measure of dynamic range.
+[01:15:52 -> 01:15:55]  Essentially, the difference between the highest
+[01:15:55 -> 01:15:56]  and the lowest gated loudness values
+[01:15:56 -> 01:15:58]  in a particular program.
+[01:15:58 -> 01:15:59]  True peak level.
+[01:15:59 -> 01:16:02]  Another term newly standardized by the ITU
+[01:16:02 -> 01:16:05]  is an estimate of the peak level that will be encountered
+[01:16:05 -> 01:16:09]  at the output of a DAC or any other filtered process,
+[01:16:09 -> 01:16:11]  such as a sample rate converter, or SRC.
+[01:16:11 -> 01:16:14]  It's abbreviated DBTP.
+[01:16:14 -> 01:16:16]  Compare this to sample peak level,
+[01:16:16 -> 01:16:18]  which is the peak value of the digital sample
+[01:16:18 -> 01:16:20]  measured by traditional digital meters,
+[01:16:20 -> 01:16:23]  but traditional digital peak meters
+[01:16:23 -> 01:16:26]  are no longer recommended for program measurements.
+[01:16:26 -> 01:16:27]  Headroom.
+[01:16:27 -> 01:16:30]  The ITU standard permits us to define headroom
+[01:16:30 -> 01:16:32]  in a more usable way than ever before.
+[01:16:32 -> 01:16:34]  Headroom is the difference between the program loudness
+[01:16:34 -> 01:16:37]  and the peak level capability of the medium.
+[01:16:37 -> 01:16:39]  Zero dBFS.
+[01:16:39 -> 01:16:41]  Peak to loudness ratio.
+[01:16:41 -> 01:16:44]  Peak to loudness ratio, or PLR for short,
+[01:16:44 -> 01:16:46]  is the ratio between the highest true peak,
+[01:16:46 -> 01:16:49]  not exceeding zero dBTP,
+[01:16:49 -> 01:16:51]  and the long-term average loudness of the song
+[01:16:51 -> 01:16:53]  or album in LUFS.
+[01:16:53 -> 01:16:54]  There will be many more,
+[01:16:54 -> 01:16:57]  but I feel these are the most essential.
+[01:16:57 -> 01:17:00]  I've included the full list in the blog post for this video.
+[01:17:00 -> 01:17:03]  Clipping, soft clipping, and oversample clipping.
+[01:17:03 -> 01:17:06]  I'd like to finish this tutorial on the last element
+[01:17:06 -> 01:17:10]  in the mastering signal processing chain, distortion.
+[01:17:10 -> 01:17:12]  Distortion has been part of the language of music
+[01:17:12 -> 01:17:15]  ever since the electric guitar was invented in 1931.
+[01:17:15 -> 01:17:18]  It's important to realize that distortion and compression
+[01:17:18 -> 01:17:20]  are tightly interrelated.
+[01:17:20 -> 01:17:22]  More compression means more distortion.
+[01:17:22 -> 01:17:24]  More distortion means more compression.
+[01:17:24 -> 01:17:27]  A distorted waveform has a higher average level
+[01:17:27 -> 01:17:29]  with the sample peak level than a pure sine wave tone.
+[01:17:29 -> 01:17:32]  Higher average level indicates more compression.
+[01:17:32 -> 01:17:34]  The relationship between the two
+[01:17:34 -> 01:17:37]  is called peak-to-average ratio, or crest factor.
+[01:17:37 -> 01:17:38]  The more compressed the sound,
+[01:17:38 -> 01:17:40]  the lower the peak-to-average ratio.
+[01:17:40 -> 01:17:42]  Peak-to-average ratio is an indicator
+[01:17:42 -> 01:17:45]  of a recording's compression, clarity,
+[01:17:45 -> 01:17:47]  microdynamics, and impact.
+[01:17:47 -> 01:17:49]  The higher the peak-to-average ratio,
+[01:17:49 -> 01:17:52]  the more headroom we leave for its peaks above the average,
+[01:17:52 -> 01:17:53]  which means there's more room
+[01:17:53 -> 01:17:55]  for the percussion to sound natural.
+[01:17:55 -> 01:17:58]  However, the distorted recording sounds much louder
+[01:17:58 -> 01:18:00]  because the average level of a recording
+[01:18:00 -> 01:18:02]  governs its perceived loudness.
+[01:18:03 -> 01:18:05]  Distortion usually generates more high-frequency information
+[01:18:05 -> 01:18:07]  which the ear perceives as louder.
+[01:18:07 -> 01:18:09]  Digital clipping is the result of attempting
+[01:18:09 -> 01:18:12]  to raise the level higher than zero dBFS,
+[01:18:12 -> 01:18:16]  producing a square wave, a severe form of distortion,
+[01:18:16 -> 01:18:18]  also known as clipping the medium.
+[01:18:18 -> 01:18:21]  Analog clipping is the result of overdriving
+[01:18:21 -> 01:18:24]  an analog processor beyond its peak headroom.
+[01:18:24 -> 01:18:26]  Analog clipping generally comes on gradually,
+[01:18:26 -> 01:18:29]  while digital clipping becomes quite severe rapidly.
+[01:18:29 -> 01:18:32]  Therefore, analog clipping sounds easier on the ear
+[01:18:33 -> 01:18:34]  than digital clipping,
+[01:18:34 -> 01:18:36]  but they are both forms of distortion.
+[01:18:36 -> 01:18:37]  Clippers are specialized devices
+[01:18:37 -> 01:18:40]  that electronically cut off momentary peaks
+[01:18:40 -> 01:18:42]  out of the waveform to allow the overall loudness
+[01:18:42 -> 01:18:45]  to be raised, which is a better-sounding approach
+[01:18:45 -> 01:18:46]  than just clipping the medium.
+[01:18:46 -> 01:18:49]  Soft clipping attempts to do this only a little bit
+[01:18:49 -> 01:18:50]  with less distortion.
+[01:18:50 -> 01:18:52]  Digital peak limiting.
+[01:18:52 -> 01:18:54]  Keep in mind that if every mastering engineer
+[01:18:54 -> 01:18:56]  is already using peak limiting,
+[01:18:56 -> 01:18:59]  every runner in the race has already taken steroids,
+[01:18:59 -> 01:19:01]  so there is no performance advantage.
+[01:19:01 -> 01:19:03]  One or perhaps two decibels of limiting
+[01:19:03 -> 01:19:05]  may get the program level up
+[01:19:05 -> 01:19:07]  without taking in sound quality downhill.
+[01:19:07 -> 01:19:10]  More than that can easily produce wimpy, unclear,
+[01:19:10 -> 01:19:12]  less effective sound quality.
+[01:19:12 -> 01:19:14]  Carefully compare with less limiting,
+[01:19:14 -> 01:19:15]  and you may be surprised.
+[01:19:15 -> 01:19:17]  When raising the level, listen,
+[01:19:17 -> 01:19:19]  don't look at the loudness meter.
+[01:19:19 -> 01:19:22]  Does this raised version actually sound louder
+[01:19:22 -> 01:19:23]  or just measure louder?
+[01:19:23 -> 01:19:25]  Carefully compare this with less limiting,
+[01:19:25 -> 01:19:27]  and you may be surprised.
+[01:19:27 -> 01:19:28]  Clipping.
+[01:19:28 -> 01:19:29]  Clipping can add an edge,
+[01:19:29 -> 01:19:31]  increasing apparent loudness and definition,
+[01:19:31 -> 01:19:33]  but it can also have the opposite effect.
+[01:19:33 -> 01:19:35]  Since clipping is a form of limiting
+[01:19:35 -> 01:19:37]  without a defined attack or release time,
+[01:19:37 -> 01:19:40]  it can be a lesser evil with less clamping effect
+[01:19:40 -> 01:19:41]  than a peak limiter.
+[01:19:41 -> 01:19:44]  But like limiting, it can rob a recording of impact
+[01:19:44 -> 01:19:46]  and important microdynamics.
+[01:19:46 -> 01:19:49]  At double sample rates, digital clipping produces
+[01:19:49 -> 01:19:51]  less mid-band distortion and artifacts
+[01:19:51 -> 01:19:53]  than at single sample rates.
+[01:19:53 -> 01:19:55]  Be aware, though, that what sounds loud
+[01:19:55 -> 01:19:57]  due to clipping in the control room
+[01:19:57 -> 01:20:00]  will sound very harsh once it hits the codec
+[01:20:00 -> 01:20:02]  or FM radio station processor.
+[01:20:02 -> 01:20:04]  You can't vault the laws of physics.
+[01:20:04 -> 01:20:07]  Make sure you audition clipping through the codec.
+[01:20:07 -> 01:20:10]  All right, that concludes this complete mastering tutorial.
+[01:20:10 -> 01:20:12]  Without a doubt, I'm sure to have forgotten
+[01:20:12 -> 01:20:13]  to include something.
+[01:20:13 -> 01:20:15]  I did my best to cover the essentials
+[01:20:15 -> 01:20:17]  while giving you the philosophy
+[01:20:17 -> 01:20:19]  and the why behind everything we've gone through.
+[01:20:19 -> 01:20:21]  Learning how to do something is important,
+[01:20:21 -> 01:20:24]  but the why is what ingrains it in your brain
+[01:20:24 -> 01:20:25]  and allows you to recall it
+[01:20:25 -> 01:20:27]  when you next need that piece of information.
+[01:20:28 -> 01:20:29]  I'll be around in the comments,
+[01:20:29 -> 01:20:30]  so leave any questions you have down below
+[01:20:30 -> 01:20:32]  and I'll do my best to answer them all.
+[01:20:32 -> 01:20:35]  As always, I hope you learned something new
+[01:20:35 -> 01:20:37]  and until next time, I'm out, peace.
+[01:20:37 -> 01:20:42]  ♪ Ooh, ooh, yeah, woo, yeah ♪
+[01:20:42 -> 01:20:46]  ♪ I'm a machine like the beyond, yeah ♪
+[01:20:46 -> 01:20:50]  ♪ I'm a machine like the beyond, yeah ♪

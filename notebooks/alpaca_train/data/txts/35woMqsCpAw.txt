@@ -1,0 +1,106 @@
+[00:00:00 -> 00:00:05]  Hi guys, today I'm coming to you with a much requested video, namely a day in the life
+[00:00:05 -> 00:00:07]  of a data person.
+[00:00:07 -> 00:00:15]  So today I'd like to show you how my typical day looks like.
+[00:00:15 -> 00:00:21]  I wake up, I pick up my phone and I check any comments you might have left on my channel.
+[00:00:21 -> 00:00:29]  I also check my Gmail, Discord, Instagram for any DMs and Messenger to see if any friends
+[00:00:29 -> 00:00:30]  message to me.
+[00:00:30 -> 00:00:38]  It does sound like a lot, but honestly it's just a quick one minute scan for anything
+[00:00:38 -> 00:00:40]  urgent or important.
+[00:00:40 -> 00:00:44]  Then I go to brush my teeth and wash my face.
+[00:00:44 -> 00:00:47]  That makes me ready for coffee.
+[00:00:47 -> 00:00:53]  I don't exist without coffee.
+[00:00:53 -> 00:01:00]  I'm obsessed to the point that I even bought myself a coffee atlas to learn about various
+[00:01:00 -> 00:01:23]  coffee varieties and learn about the production process and everything, you know?
+[00:01:23 -> 00:01:28]  Having said that, I don't actually drink any fancy specialty coffee on a daily basis.
+[00:01:28 -> 00:01:34]  Firstly, because it's pricey and secondly, it's hard to get the brewing right.
+[00:01:34 -> 00:01:39]  And if you don't get the brewing right, it defeats the whole purpose of having a specialty
+[00:01:39 -> 00:01:40]  coffee.
+[00:01:40 -> 00:01:43]  Now I'm finally ready to get to work.
+[00:01:43 -> 00:01:50]  Of course I can't show you any details of what I do at work, but I can show you some
+[00:01:50 -> 00:01:56]  sort of high-level overview of what kind of tasks I typically do in a day.
+[00:01:56 -> 00:01:59]  First thing in the morning, of course, I read my emails.
+[00:01:59 -> 00:02:05]  I scan them for any warnings about broken pipelines, messages from my colleagues about
+[00:02:05 -> 00:02:10]  the things that I've messed up that need fixing, compliance team pestering me about compulsory
+[00:02:10 -> 00:02:16]  anti-financial crime training, and on a typical day, thankfully, there aren't actually many
+[00:02:16 -> 00:02:19]  such emails in my inbox.
+[00:02:19 -> 00:02:25]  My inbox is typically cluttered with some status emails and automatic reports for which
+[00:02:25 -> 00:02:33]  I should have set up rules and separate folders in my inbox, but I didn't.
+[00:02:33 -> 00:02:34]  My bad.
+[00:02:34 -> 00:02:39]  After I confirm that all is good and I didn't mess anything up, I sip my coffee in blissful
+[00:02:39 -> 00:02:46]  serenity while waiting for the stand-up meeting, which usually runs daily at 9.30.
+[00:02:46 -> 00:02:49]  Good morning.
+[00:02:49 -> 00:02:54]  During the stand-up, I talk about what I did in the previous day, what I'm planning to
+[00:02:54 -> 00:02:58]  do today, and if I face any blockers.
+[00:02:58 -> 00:03:07]  Yeah, so yesterday I worked on this, um, ticket, but unfortunately I didn't manage to make
+[00:03:07 -> 00:03:09]  much progress.
+[00:03:09 -> 00:03:12]  For example, I might be missing access to a specific database.
+[00:03:12 -> 00:03:18]  If I say it during the stand-up meeting in the morning, there is a chance that someone
+[00:03:18 -> 00:03:25]  from my team has already gone through a similar process and they have some useful tips, some
+[00:03:25 -> 00:03:27]  useful contacts for me to pester.
+[00:03:27 -> 00:03:31]  Yeah, if you could please, that'd be great.
+[00:03:31 -> 00:03:34]  After the stand-up, I crack on with my work.
+[00:03:34 -> 00:03:39]  That might involve a number of things, but on the engineering side of data in particular,
+[00:03:39 -> 00:03:43]  that will involve solving some sort of a problem.
+[00:03:43 -> 00:03:50]  Let's say we have a web app and a stakeholder wants us to add a specific piece of functionality
+[00:03:50 -> 00:03:51]  to the web app.
+[00:03:51 -> 00:03:58]  In order to add that piece of functionality, we first need to have a specific dataset in
+[00:03:58 -> 00:04:00]  a specific database.
+[00:04:00 -> 00:04:04]  So my job will be to figure out how to put that data there.
+[00:04:04 -> 00:04:11]  So what I'll probably do is, well, first I'll locate the data, like where is it at the moment.
+[00:04:11 -> 00:04:16]  Then I'll probably need to raise some access requests to be able to access and view the
+[00:04:16 -> 00:04:21]  data and after that, well, figure out how to move it around to the place where I need it.
+[00:04:21 -> 00:04:27]  By that time, I also feel like my bum is hurting from all the sitting, but this should no longer
+[00:04:27 -> 00:04:28]  be my problem.
+[00:04:28 -> 00:04:35]  This is because I've just received the Flexispot Adjustable Standing Desk Pro Series E7.
+[00:04:35 -> 00:04:38]  And I must say, I love this desk.
+[00:04:38 -> 00:04:43]  Basically, it allows you to alternate between standing and sitting heights.
+[00:04:43 -> 00:04:48]  So whenever I feel like standing up and stretching my legs a little bit, I can do it with one
+[00:04:48 -> 00:04:49]  press of a button.
+[00:04:49 -> 00:04:54]  What really surpassed my expectations is the quality of this desk.
+[00:04:54 -> 00:04:56]  The movement mechanism is so smooth.
+[00:04:56 -> 00:05:02]  You can see my coffee is perfectly still when it goes up and down.
+[00:05:02 -> 00:05:04]  The frame is also really solid.
+[00:05:04 -> 00:05:10]  I chose a white frame color, but you can choose also gray or black, which, by the way, is
+[00:05:10 -> 00:05:12]  another cool feature of this desk.
+[00:05:12 -> 00:05:14]  It's fully customizable.
+[00:05:14 -> 00:05:17]  You can also choose different desktop colors.
+[00:05:17 -> 00:05:22]  I chose bamboo because I think it goes well with my bedroom.
+[00:05:22 -> 00:05:27]  And of course, unlike my old desk, this is real wood, real bamboo.
+[00:05:27 -> 00:05:30]  So it's really just a super high quality product.
+[00:05:30 -> 00:05:32]  I am linking it in the description below.
+[00:05:32 -> 00:05:34]  So go check it out.
+[00:05:34 -> 00:05:38]  I think it's really going to make a difference to my working from home day.
+[00:05:38 -> 00:05:42]  Okay, time for lunch.
+[00:05:42 -> 00:05:47]  I always cook fresh lunch every day, but I only have a few typical meals that I cook.
+[00:05:47 -> 00:05:50]  So I became very efficient at making them.
+[00:05:50 -> 00:05:54]  And I'm usually done in around 20 minutes.
+[00:05:54 -> 00:06:00]  My signature meal is a stir fry with tofu and some fresh vegetables that I have in the
+[00:06:00 -> 00:06:01]  fridge.
+[00:06:01 -> 00:06:04]  Broccoli, green beans, onion.
+[00:06:04 -> 00:06:06]  I cut them slowly.
+[00:06:06 -> 00:06:10]  Slow life is good.
+[00:06:10 -> 00:06:15]  In the meantime, I write in my journal and I practice gratefulness.
+[00:06:15 -> 00:06:19]  Okay, I'm joking.
+[00:06:19 -> 00:06:20]  I'm not so cool.
+[00:06:20 -> 00:06:25]  Sometimes, but probably not today, given the weather and given the fact that I'm in quarantine,
+[00:06:25 -> 00:06:29]  I go for a walk around my neighborhood during lunch.
+[00:06:29 -> 00:06:34]  Even if my lunch break stretches to an hour and a half, it's fine because my employer
+[00:06:34 -> 00:06:36]  promotes flexible working.
+[00:06:36 -> 00:06:42]  So if I take a longer lunch break, I can basically stay longer at work.
+[00:06:42 -> 00:06:45]  And you know, as long as I do my work, no questions asked.
+[00:06:45 -> 00:06:52]  After lunch, I will probably either carry on with my work or I will jump on some other
+[00:06:52 -> 00:07:02]  Zoom calls like team demos, coffee catch ups with managers and buddies and all sorts
+[00:07:02 -> 00:07:04]  of meetings that you can imagine.
+[00:07:04 -> 00:07:08]  By 3 p.m., I really feel that 3 p.m. slump.
+[00:07:08 -> 00:07:10]  My glucose levels are dipping.
+[00:07:10 -> 00:07:19]  I need either coffee or sugar, but you only live once, so I usually take both.
+[00:07:19 -> 00:07:24]  I typically work on my YouTube channel in the evenings, unless I'm doing something different
+[00:07:24 -> 00:07:31]  such as getting ready for the new job or just chilling and watching Netflix sometimes.
+[00:07:31 -> 00:07:36]  But no, typically I actually work on my YouTube channel and that might involve either writing
+[00:07:36 -> 00:07:46]  a script for the new video or editing some existing footage or replying to comments or
+[00:07:46 -> 00:07:53]  basically sitting still and contemplating what I'm doing.
+[00:07:53 -> 00:07:56]  Is this aligned with who I am?
+[00:07:56 -> 00:08:02]  Am I happy or am I getting further away from my true desires?
+[00:08:02 -> 00:08:06]  What can I do to prevent the feeling of regret in the future?
+[00:08:06 -> 00:08:10]  So those are the questions that I ask myself before I go to sleep.
+[00:08:10 -> 00:08:11]  Good night.

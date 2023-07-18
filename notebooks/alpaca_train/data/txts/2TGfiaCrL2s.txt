@@ -1,0 +1,62 @@
+[00:00:00 -> 00:00:13]  Hi, I'm Jack Buffington for RobotBrigade.com. This is another video in my series of videos
+[00:00:13 -> 00:00:21]  about digital logic. In this one, I'm going to start in on talking about state machines,
+[00:00:21 -> 00:00:30]  and I'm going to talk about state diagrams and state tables for these state machines.
+[00:00:30 -> 00:00:44]  What is a state machine? A state machine is a circuit that can be in different states.
+[00:00:44 -> 00:00:50]  There are two different types of state machine, at least as I'm classifying it. You've got
+[00:00:50 -> 00:00:57]  counters, and you have everything else. I suspect that that's not that clear yet, so
+[00:00:57 -> 00:01:07]  let me show you a counter. A counter could look like this, where it has five states,
+[00:01:07 -> 00:01:15]  and at any one time, it's in only one of these states. The counter has a predetermined pattern
+[00:01:15 -> 00:01:31]  that it never deviates from. It always goes from state A to B to C to D to E. You can
+[00:01:31 -> 00:01:35]  design this to have any number of states. It could have two states, it could have a
+[00:01:35 -> 00:01:40]  hundred. As long as it always goes through the exact same pattern each time, it is a
+[00:01:40 -> 00:01:50]  counter. A counter, despite what we're calling it, doesn't actually have to be counting.
+[00:01:50 -> 00:01:58]  This wouldn't necessarily be 1, 2, 3, 4, 5, 1, 2, 3, 4, 5. It could be outputting a value
+[00:01:58 -> 00:02:08]  of 17, 12, 6, negative 4, and 50. It just doesn't matter as long as you have it wired
+[00:02:08 -> 00:02:13]  so that it goes through the same states in the same sequence every time, then it is a
+[00:02:13 -> 00:02:25]  counter. The more common state machine that you're going to see, or at least the more
+[00:02:25 -> 00:02:33]  complex that you're going to be doing more study with, is the everything else type. I'm
+[00:02:33 -> 00:02:43]  going to show you one type and we're going to work out a state diagram for it. I'm going
+[00:02:43 -> 00:02:55]  to have four different states, so A, B, C, D. I'm just making this up as I go, so bear
+[00:02:55 -> 00:03:03]  with me. There's a reason that I'm going to be taking a little while on this. A state
+[00:03:03 -> 00:03:11]  machine can have input and it can have output. Counters do not have input because they need
+[00:03:11 -> 00:03:19]  to go through the same sequence every time. An everything else kind can allow you to choose
+[00:03:19 -> 00:03:27]  which state it moves to based on your input. I guess technically you could have an up-down
+[00:03:27 -> 00:03:32]  counter which does have input, but it still goes through the same sequence every time.
+[00:03:32 -> 00:03:40]  It doesn't just necessarily jump from A to C. It gets more complex from that. Then it's
+[00:03:40 -> 00:03:47]  maybe not even in the same league if it has a reset or a load. Anyway, I'm getting ahead
+[00:03:47 -> 00:03:57]  of myself. A to B, let's say if I give it an input of 0, it will go to B. If I give
+[00:03:57 -> 00:04:09]  it an input of 1, it goes to A. If I look at the state diagram the way it is right now,
+[00:04:09 -> 00:04:17]  you couldn't tell me which state it goes to based on its input. We need to indicate that.
+[00:04:17 -> 00:04:23]  This is the way that I'm going to draw it. I'm going to have my input and then I'm going
+[00:04:23 -> 00:04:30]  to have my output. You can have any number of inputs and any number of outputs, but I'm
+[00:04:30 -> 00:04:36]  going to stick with just one bit of input and one bit of output just to keep things
+[00:04:36 -> 00:04:45]  simple. I said that this is a 0, takes it over to B, and let's just give it an output
+[00:04:45 -> 00:04:55]  value of 1 if it has that. Here, if it has an input of 1, it might still have an output
+[00:04:55 -> 00:05:06]  of 1. Alright, we're all done with A. B, maybe I'm going to say it goes to C. It's very important
+[00:05:06 -> 00:05:11]  to draw these arrowheads so you know which way it's going. If it's 0 and its output will
+[00:05:11 -> 00:05:25]  be 0 and D, 1 slash 0. We're done with B. C is going to go to D if it's 0 slash 0 and
+[00:05:25 -> 00:05:41]  around to itself, 1 slash 1. D is going to go to B.
+[00:05:41 -> 00:05:48]  This is a complete state diagram for a circuit. I won't tell you right now how this is actually
+[00:05:48 -> 00:05:55]  implemented. I'll get to that in another video. I'm going to show you now an equivalent way
+[00:05:55 -> 00:06:01]  of describing this circuit. This is a state diagram. Now I'm going to show you a state
+[00:06:01 -> 00:06:10]  table. A state table gets a little bit more complex. We can't name our states exactly
+[00:06:10 -> 00:06:20]  like this. We need to, well we could, but I'm not going to. I'm going to just tell you
+[00:06:20 -> 00:06:27]  right now, and we'll get to that why later, that this is going to require two flip-flops
+[00:06:27 -> 00:06:36]  to be able to have four different states. Alright, and I'm going to have the, A is going
+[00:06:36 -> 00:06:46]  to be represented by the value of the Q outputs on those flip-flops being 0, 0. B is 0, 1.
+[00:06:46 -> 00:06:59]  D is 1, 0. And D is 1, 1. Okay, so this is our little secret decoder pin. Whatever. Alright,
+[00:06:59 -> 00:07:22]  so let's take state A. If I have 0, 0, this is our current state. This is my input. Next
+[00:07:22 -> 00:07:36]  state. And output. And this is one of two different ways to draw a state table. I'll
+[00:07:36 -> 00:07:44]  show another one in future videos. This one is, this way is better for going to a synthesized
+[00:07:44 -> 00:07:49]  circuit, and the other way is better for state reduction, which I will also talk about in
+[00:07:49 -> 00:08:03]  a future video. So, if I have input of 0 and 1. So if my input for A is 0, then I go
+[00:08:03 -> 00:08:12]  to state B. And state B we can see is 0, 1. And if I have my current state is A, and my
+[00:08:12 -> 00:08:24]  input is 1, my next state is A. And if my input is 0, my output is 1, and 1. Okay? And
+[00:08:24 -> 00:08:38]  then, going with state B, if my input is 0, I go to state C, which is 1, 0, and my output
+[00:08:38 -> 00:08:46]  is 0. And bear with me, I think I maybe am going to speed it up at this point, because
+[00:08:46 -> 00:08:54]  it's pretty boring to watch me work my way through it, but I will stop speeding up in
+[00:08:54 -> 00:09:11]  just a second. Okay, so this is our completed state table for this state diagram. And you
+[00:09:11 -> 00:09:16]  can maybe pause it, take a look at how it looks. I'll see if I can get out of your way
+[00:09:16 -> 00:09:25]  so I'm not blocking your view of it. These two are equivalent. So, that is state tables
+[00:09:25 -> 00:09:30]  and state diagrams. If you've enjoyed this video, you might take a look at my YouTube
+[00:09:30 -> 00:09:37]  channel where I have more videos, or visit me at my website, which is robotbrigade.com.

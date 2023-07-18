@@ -1,0 +1,282 @@
+[00:00:00 -> 00:00:06]  Alright, these are the answers to the chapter 5 packet and this video will cover sections
+[00:00:06 -> 00:00:10]  5.1 to 5.4.
+[00:00:10 -> 00:00:14]  Section 5.1 is entitled The Nature of Energy.
+[00:00:14 -> 00:00:18]  The study of energy and its transformations is known as thermodynamics.
+[00:00:18 -> 00:00:23]  The study of the relationships between chemical reactions and energy changes that involve
+[00:00:23 -> 00:00:27]  heat is known as thermochemistry.
+[00:00:27 -> 00:00:34]  Energy is commonly defined as the capacity to do work or to transfer heat.
+[00:00:34 -> 00:00:40]  Work is the energy used to cause an object to move against a force and heat is the energy
+[00:00:40 -> 00:00:45]  used to cause the temperature of an object to increase.
+[00:00:45 -> 00:00:49]  Again this information is from your textbook.
+[00:00:49 -> 00:00:51]  Kinetic energy is the energy of motion.
+[00:00:51 -> 00:00:57]  All other kinds of energy are classified as potential energy.
+[00:00:57 -> 00:01:02]  When a ball rolls down a hill we can talk about gravitational forces but no, gravitational
+[00:01:02 -> 00:01:08]  forces do not play a significant role in the way that atoms and molecules interact with
+[00:01:08 -> 00:01:10]  one another.
+[00:01:10 -> 00:01:14]  So on page 161 they give you an equation that looks like this.
+[00:01:14 -> 00:01:19]  The E represents the electrostatic potential energy.
+[00:01:19 -> 00:01:24]  Q1 and Q2 are electrical charges on two different objects.
+[00:01:24 -> 00:01:30]  D is the distance that separates those objects and K is just a proportionality constant.
+[00:01:30 -> 00:01:35]  It has units of joules meters per square coulomb.
+[00:01:35 -> 00:01:41]  As the distance between two charged particles approaches infinity, the electrostatic potential
+[00:01:41 -> 00:01:46]  energy between the particles approaches zero.
+[00:01:46 -> 00:01:50]  Now for this next question, actually for both 6 and 7, it would be helpful to look at your
+[00:01:50 -> 00:01:51]  textbook.
+[00:01:51 -> 00:02:00]  The diagram shows you in figure 5.3 that if you take two charges that would normally repel
+[00:02:00 -> 00:02:07]  each other and you bring them closer together, you are going to increase the potential energy.
+[00:02:07 -> 00:02:13]  But if they are going to attract each other, then as they get closer together, the potential
+[00:02:13 -> 00:02:16]  energy decreases.
+[00:02:16 -> 00:02:22]  So in number 6, what's going on here is that you have like charges which repel.
+[00:02:22 -> 00:02:27]  So as they are brought closer together, the potential energy increases because the repulsive
+[00:02:27 -> 00:02:29]  forces try to push them apart.
+[00:02:29 -> 00:02:34]  But if they were opposite charges, as you brought them closer together, the potential
+[00:02:34 -> 00:02:40]  energy would decrease because attractive forces pull them toward each other.
+[00:02:40 -> 00:02:47]  The SI unit of energy is the joule and when we analyze energy changes, we focus on the
+[00:02:47 -> 00:02:53]  portion that we single out for study, which is called the system, and everything else
+[00:02:53 -> 00:02:56]  is called the surroundings.
+[00:02:56 -> 00:03:01]  You can have an open system in which both matter and energy can be exchanged with the
+[00:03:01 -> 00:03:02]  surroundings.
+[00:03:02 -> 00:03:10]  We often see examples of a closed system in which energy can be exchanged but not matter.
+[00:03:10 -> 00:03:18]  And this figure, 5.4, is an example of a closed system.
+[00:03:18 -> 00:03:23]  If a person throws a baseball and the baseball is the system, then the surroundings are doing
+[00:03:23 -> 00:03:25]  work on the system.
+[00:03:25 -> 00:03:30]  If that baseball breaks a window, then the system is doing work on the surroundings.
+[00:03:30 -> 00:03:36]  The mathematical equation for work is work equals force times distance.
+[00:03:36 -> 00:03:41]  Heat is defined as the energy transferred from a hotter object to a colder one.
+[00:03:41 -> 00:03:47]  And in chemistry, we normally define the substances involved in the chemical reaction as the system
+[00:03:47 -> 00:03:52]  and everything else is the surroundings.
+[00:03:52 -> 00:03:59]  Section 5.2 is entitled the first law of thermodynamics and we can define the first law as the law
+[00:03:59 -> 00:04:05]  of conservation of energy, which states that energy can neither be created nor destroyed
+[00:04:05 -> 00:04:09]  or that energy is conserved in various processes.
+[00:04:09 -> 00:04:14]  The internal energy of a system is the sum of all the kinetic and potential energies
+[00:04:14 -> 00:04:17]  of the components of the system.
+[00:04:17 -> 00:04:22]  And even though we generally can't determine the actual values of the internal energy,
+[00:04:22 -> 00:04:28]  final and initial, for any system, we only need the value of delta E, the change in energy
+[00:04:28 -> 00:04:31]  to apply the first law.
+[00:04:31 -> 00:04:34]  It's important to know that delta E has both a number and a unit.
+[00:04:34 -> 00:04:39]  Together, these values tell us the magnitude of the energy change, but delta E also has
+[00:04:39 -> 00:04:45]  a sign, which tells us the direction of the energy change.
+[00:04:45 -> 00:04:50]  If the energy at the end is greater than the energy at the beginning, then the sign of
+[00:04:50 -> 00:04:56]  delta E is positive, indicating that the system has gained energy from its surroundings.
+[00:04:56 -> 00:05:02]  Conversely, if the final energy is less than the initial, the sign of delta E is negative,
+[00:05:02 -> 00:05:07]  indicating that the system has lost energy to its surroundings.
+[00:05:07 -> 00:05:12]  In a chemical reaction, the initial state refers to the reactants and the final state
+[00:05:12 -> 00:05:16]  refers to the products.
+[00:05:16 -> 00:05:23]  For figure 5.6, they are going to show you the synthesis of water.
+[00:05:23 -> 00:05:30]  The initial state for the synthesis of water is that you start with hydrogen gas and oxygen
+[00:05:30 -> 00:05:34]  gas and then you end with liquid water.
+[00:05:34 -> 00:05:42]  The down arrow implies that energy is being lost to the surroundings and delta E is negative.
+[00:05:42 -> 00:05:47]  If we were to draw a similar diagram for the decomposition of water, the initial state
+[00:05:47 -> 00:05:53]  would be liquid water, the final state would be hydrogen gas and oxygen gas, the arrow
+[00:05:53 -> 00:05:59]  would not be down, it would be up, and instead of losing energy to the surroundings, we are
+[00:05:59 -> 00:06:02]  actually gaining energy from the surroundings.
+[00:06:02 -> 00:06:08]  This would be electrolysis of water, for example, where you have to supply energy in the form
+[00:06:08 -> 00:06:15]  of electricity to split the water into its elements.
+[00:06:15 -> 00:06:19]  In a closed system, the system may exchange energy with its surroundings in two general
+[00:06:19 -> 00:06:23]  ways, either as heat or as work.
+[00:06:23 -> 00:06:29]  The change in internal energy can be summarized with equation 5.5, delta E equals Q, which
+[00:06:29 -> 00:06:33]  stands for heat, and W stands for work.
+[00:06:33 -> 00:06:36]  If Q is positive, then the system is gaining heat.
+[00:06:36 -> 00:06:39]  If Q is negative, the system loses heat.
+[00:06:39 -> 00:06:43]  If W is positive, then work is being done on the system.
+[00:06:43 -> 00:06:47]  If W is negative, work is being done by the system.
+[00:06:47 -> 00:06:52]  If delta E is positive, then there is a net gain of energy by the system.
+[00:06:52 -> 00:07:00]  If delta E is negative, then there is a net loss of energy by the system.
+[00:07:00 -> 00:07:05]  If we have a piece of dry ice, so solid CO2 in a cylinder and piston arrangement similar
+[00:07:05 -> 00:07:13]  to the diagram on page 162, warming that cylinder is going to create a positive Q because the
+[00:07:13 -> 00:07:16]  system absorbs heat.
+[00:07:16 -> 00:07:21]  If it pushes the piston upward, then W is negative because now work is being done by
+[00:07:21 -> 00:07:24]  the system on the surroundings.
+[00:07:24 -> 00:07:31]  If we have absorbing heat, which is positive 250 joules, but we have negative 90 because
+[00:07:31 -> 00:07:37]  we are doing work on the surroundings, then positive 250 and negative 90 would give us
+[00:07:37 -> 00:07:43]  a delta E of positive 160.
+[00:07:43 -> 00:07:49]  During an endothermic process, such as the melting of ice, heat flows from the surroundings
+[00:07:49 -> 00:07:51]  into the system.
+[00:07:51 -> 00:07:56]  During an exothermic process, such as the combustion of gasoline, heat flows from the
+[00:07:56 -> 00:07:59]  system into the surroundings.
+[00:07:59 -> 00:08:03]  Now in the following situation, we have the temperature of the water increasing when it's
+[00:08:03 -> 00:08:06]  placed on a hot plate.
+[00:08:06 -> 00:08:11]  But then we have the temperature of our skin decreasing as water evaporates on our skin.
+[00:08:11 -> 00:08:16]  Now in both cases, we have evaporation of water, but we have a difference in the change
+[00:08:16 -> 00:08:18]  of temperature.
+[00:08:18 -> 00:08:23]  How do we reconcile the fact that in one case, it seems like the temperature goes up, but
+[00:08:23 -> 00:08:25]  in the other case, the temperature goes down?
+[00:08:25 -> 00:08:31]  The trick here is to decide, are you part of the system or are you part of the surroundings?
+[00:08:31 -> 00:08:38]  In both situations, evaporation is an endothermic process, but in situation A, the hot plate,
+[00:08:38 -> 00:08:44]  which is part of the surroundings, is transferring heat into the system, which is the water in
+[00:08:44 -> 00:08:45]  the beaker.
+[00:08:45 -> 00:08:49]  And the water in the beaker is getting hotter until it boils.
+[00:08:49 -> 00:08:54]  But in situation B, the skin or the body is part of the surroundings, so the temperature
+[00:08:54 -> 00:08:59]  on the skin surface is decreasing because it is losing heat.
+[00:08:59 -> 00:09:04]  The water molecules are still absorbing heat in both cases.
+[00:09:04 -> 00:09:10]  So just pay attention to whether or not the thermometer is part of the system or the surroundings.
+[00:09:10 -> 00:09:14]  You can learn more about regulation of body temperature on page 180, where it talks about
+[00:09:14 -> 00:09:19]  how perspiration cools the body.
+[00:09:19 -> 00:09:27]  Section 5.3 deals with enthalpy, and equation 5.6, the mathematical equation for enthalpy
+[00:09:27 -> 00:09:33]  is H, which stands for enthalpy, is equal to the internal energy plus pressure times
+[00:09:33 -> 00:09:34]  volume.
+[00:09:34 -> 00:09:40]  The work involved in either expansion or compression of gases is called pressure-volume work.
+[00:09:40 -> 00:09:46]  When pressure is constant, then the equation for this type of work becomes work equals
+[00:09:46 -> 00:09:53]  negative P times delta V. But since most of the chemical processes that we study in chemistry
+[00:09:53 -> 00:10:01]  occur at constant pressure, then the change in enthalpy is essentially the change in heat.
+[00:10:01 -> 00:10:06]  So in chemistry, the change in enthalpy is more useful to us than the change in internal
+[00:10:06 -> 00:10:13]  energy, and for our purposes, there is no difference between enthalpy and internal energy.
+[00:10:13 -> 00:10:20]  You can think of the change in enthalpy as simply the change in heat.
+[00:10:20 -> 00:10:27]  If liquid water freezes, we're going from liquid to solid, we are decreasing the overall
+[00:10:27 -> 00:10:28]  energy.
+[00:10:28 -> 00:10:30]  Energy is lost.
+[00:10:30 -> 00:10:36]  That's exothermic, negative delta H. The opposite of freezing, melting, would be an endothermic
+[00:10:36 -> 00:10:43]  process, positive delta H. Burning propane would be an exothermic reaction, negative
+[00:10:43 -> 00:10:48]  delta H. Converting mercury oxide into its elements
+[00:10:48 -> 00:10:51]  requires heat to be added.
+[00:10:51 -> 00:10:56]  That is an endothermic process, positive delta H.
+[00:10:56 -> 00:11:00]  Section 5.4 is entitled Enthalpies of Reaction.
+[00:11:00 -> 00:11:07]  The mathematical equation for the enthalpy change, delta H, is the enthalpy of the products
+[00:11:07 -> 00:11:10]  minus the enthalpy of the reactants.
+[00:11:10 -> 00:11:16]  If you see RXn, that just stands for the word reaction.
+[00:11:16 -> 00:11:20]  Now the delta H of the reaction would be either positive or negative.
+[00:11:20 -> 00:11:28]  A positive delta H is an endothermic process, a negative delta H is an exothermic process.
+[00:11:28 -> 00:11:33]  When you write a balanced chemical equation and you show the delta H next to that balanced
+[00:11:33 -> 00:11:39]  equation, we call that a thermochemical equation.
+[00:11:39 -> 00:11:44]  Enthalpy is an extensive property, which means that the magnitude of delta H is proportional
+[00:11:44 -> 00:11:49]  to the amount, or the number of moles, of reactant consumed.
+[00:11:49 -> 00:11:54]  The enthalpy change for a certain chemical reaction is equal in magnitude but opposite
+[00:11:54 -> 00:11:57]  in sign to the delta H for the reverse.
+[00:11:57 -> 00:12:01]  So when you reverse a reaction, you are changing the sign of delta H.
+[00:12:01 -> 00:12:08]  And the enthalpy change for a reaction depends on the states for the reactants and products.
+[00:12:08 -> 00:12:15]  So when you change from solid to liquid to gas, you are affecting the enthalpy numbers.
+[00:12:15 -> 00:12:20]  Here we have problem 5.399, found at the end of the chapter.
+[00:12:20 -> 00:12:22]  The combustion of ethanol.
+[00:12:22 -> 00:12:28]  First we're going to write a balanced thermochemical equation, starting with ethanol.
+[00:12:28 -> 00:12:32]  It is burned, so it reacts with oxygen gas.
+[00:12:32 -> 00:12:37]  And it produces carbon dioxide and water, those are both gases.
+[00:12:37 -> 00:12:43]  We'll balance the equation by first balancing the carbon, and then we'll balance the six
+[00:12:43 -> 00:12:46]  atoms of hydrogen.
+[00:12:46 -> 00:12:51]  Finally we have seven atoms of oxygen on the right, so we balance the oxygen.
+[00:12:51 -> 00:12:58]  And now the last thing to do is to decide if the delta H is positive or negative.
+[00:12:58 -> 00:13:01]  We know it's 1235 kilojoules.
+[00:13:01 -> 00:13:07]  It does say that heat is released, so the delta H is negative 1235.
+[00:13:07 -> 00:13:08]  And look at the units there.
+[00:13:08 -> 00:13:12]  I have kilojoules per mole of reaction.
+[00:13:12 -> 00:13:17]  That is a standard notation, especially when you have different coefficients.
+[00:13:17 -> 00:13:22]  That is not per mole of oxygen, it's actually per three moles of oxygen.
+[00:13:22 -> 00:13:29]  So mole of reaction means whatever the coefficients are in that equation, the negative 1235 goes
+[00:13:29 -> 00:13:32]  with all of those coefficients.
+[00:13:32 -> 00:13:38]  For an enthalpy diagram, we have, starting with ethanol and oxygen, they would be on
+[00:13:38 -> 00:13:40]  a higher level.
+[00:13:40 -> 00:13:45]  We're falling down to a lower level, because the products have less energy or enthalpy
+[00:13:45 -> 00:13:47]  than the reactants.
+[00:13:47 -> 00:13:55]  And the delta H again is negative 1235 kilojoules per mole of reaction.
+[00:13:55 -> 00:14:06]  In our next example, we have the decomposition of solid calcium hydroxide into solid calcium
+[00:14:06 -> 00:14:08]  oxide and water vapor.
+[00:14:08 -> 00:14:17]  The delta H is going to be positive, because it says it requires the addition of 109 kilojoules
+[00:14:17 -> 00:14:18]  of heat.
+[00:14:18 -> 00:14:23]  So this is definitely an endothermic reaction in which heat is absorbed.
+[00:14:23 -> 00:14:30]  In our energy diagram, we're starting with the solid calcium hydroxide on the lower level,
+[00:14:30 -> 00:14:38]  and then after adding 109 kilojoules of heat, we end with solid calcium oxide and water
+[00:14:38 -> 00:14:44]  vapor at a higher enthalpy level.
+[00:14:44 -> 00:14:50]  In number 9, they talk about the thermite reaction, which involves aluminum and iron
+[00:14:50 -> 00:14:51]  3 oxide.
+[00:14:51 -> 00:15:00]  So aluminum reacting with iron 3 oxide produces aluminum oxide and iron.
+[00:15:00 -> 00:15:05]  Now we just have to balance this equation by putting a 2 in front of the aluminum and
+[00:15:05 -> 00:15:07]  the iron.
+[00:15:07 -> 00:15:11]  And here is what the picture looks like in your textbook.
+[00:15:11 -> 00:15:18]  So clearly this is an exothermic reaction, so the sign of delta H is negative.
+[00:15:18 -> 00:15:25]  Now we're going to do some calculations based on this thermochemical equation.
+[00:15:25 -> 00:15:32]  Part A of number 11 says how much heat is released when 1 gram of iron 3 oxide reacts
+[00:15:32 -> 00:15:34]  with excess aluminum.
+[00:15:34 -> 00:15:40]  So we're going to start by going from grams of iron 3 oxide into moles, and we can just
+[00:15:40 -> 00:15:47]  calculate the molar mass of iron 3 oxide from the information on the periodic table.
+[00:15:47 -> 00:15:53]  Then this problem also mentions that 848 kilojoules of heat are released for every
+[00:15:53 -> 00:15:57]  1 mole of iron 3 oxide.
+[00:15:57 -> 00:16:03]  So the correct answer, based on 3 significant figures, would be 5.31 kilojoules of heat
+[00:16:03 -> 00:16:04]  released.
+[00:16:04 -> 00:16:09]  We do not have to use a negative sign in our answer, because they are simply asking for
+[00:16:09 -> 00:16:12]  the amount of heat that is released.
+[00:16:12 -> 00:16:16]  They are not asking us to calculate the delta H value.
+[00:16:16 -> 00:16:24]  In part B, we start with 1750 kilojoules of heat, and we have to convert this into grams
+[00:16:24 -> 00:16:26]  of iron metal.
+[00:16:26 -> 00:16:33]  So first we're going to convert this from kilojoules into moles of iron 3 oxide.
+[00:16:33 -> 00:16:39]  Then we remember that the stoichiometry of this balanced equation is a 2 to 1 ratio between
+[00:16:39 -> 00:16:42]  moles of iron and moles of iron 3 oxide.
+[00:16:42 -> 00:16:46]  And then finally we go to grams using the molar mass of iron.
+[00:16:46 -> 00:16:55]  Again, 3 significant figures, and we get 231 grams of iron produced.
+[00:16:55 -> 00:17:02]  In number 12, this is just a reminder that when you multiply all of the coefficients
+[00:17:02 -> 00:17:09]  in an equation by some number, you must also multiply the value of delta H by that number.
+[00:17:09 -> 00:17:15]  And when you reverse a chemical reaction, you must change the sign of delta H. So in
+[00:17:15 -> 00:17:22]  number 12A, everything has been doubled, so the value of delta H is doubled as well.
+[00:17:22 -> 00:17:32]  And in letter B, we just flipped the equation around, so now the delta H is positive 890.
+[00:17:32 -> 00:17:39]  In number 13, it looks like it's the exact same equation, except for one slight change.
+[00:17:39 -> 00:17:46]  Instead of writing 2 moles of liquid water as a product, we have written 2 moles of water
+[00:17:46 -> 00:17:47]  vapor.
+[00:17:47 -> 00:17:53]  So in this reaction, since 2 moles of H2O liquid have been replaced with 2 moles of
+[00:17:53 -> 00:17:59]  H2O gas, and we know that states of matter are important in determining the enthalpy
+[00:17:59 -> 00:18:05]  change for a chemical reaction, the value of delta H is not going to be equal to negative
+[00:18:05 -> 00:18:07]  890.
+[00:18:07 -> 00:18:13]  So is it going to be larger or smaller in terms of the magnitude of delta H?
+[00:18:13 -> 00:18:18]  Well recall that we would do this kind of diagram starting with reactants at a higher
+[00:18:18 -> 00:18:23]  enthalpy level, and then going down to products at a lower enthalpy level.
+[00:18:23 -> 00:18:27]  That difference is 890 kilojoules.
+[00:18:27 -> 00:18:35]  When we replace liquid water with water vapor, we're going to have a higher enthalpy level
+[00:18:35 -> 00:18:41]  because gaseous water molecules are going to be farther apart and traveling faster and
+[00:18:41 -> 00:18:45]  have a higher enthalpy than liquid water molecules.
+[00:18:45 -> 00:18:53]  So the magnitude of the delta H is going to be less than 890 because the enthalpy of water
+[00:18:53 -> 00:19:00]  vapor is higher than the enthalpy of liquid water.
+[00:19:00 -> 00:19:04]  In number 15, we're going to write a balanced chemical equation for the decomposition of
+[00:19:04 -> 00:19:06]  hydrogen peroxide.
+[00:19:06 -> 00:19:14]  We start with H2O2, liquid, and we end with water and oxygen gas.
+[00:19:14 -> 00:19:20]  To balance the equation, we put in coefficients of 2 in front of the hydrogen peroxide and
+[00:19:20 -> 00:19:21]  the water.
+[00:19:21 -> 00:19:26]  So at this point what we're doing is we're calculating the delta H for this reaction
+[00:19:26 -> 00:19:30]  that was written in part A. So let's take a look at our given information.
+[00:19:30 -> 00:19:38]  We have 14.4 kilojoules of heat released for every 5 grams of hydrogen peroxide.
+[00:19:38 -> 00:19:44]  If we did this calculation, that would give us units of kilojoules per gram.
+[00:19:44 -> 00:19:49]  We would actually prefer to get kilojoules per mole, so to get rid of grams, since grams
+[00:19:49 -> 00:19:54]  are already on the bottom, we'll multiply by a conversion factor that puts grams on
+[00:19:54 -> 00:19:59]  top and one mole of hydrogen peroxide on the bottom.
+[00:19:59 -> 00:20:04]  34.016 is simply the molar mass of hydrogen peroxide.
+[00:20:04 -> 00:20:09]  If we do this math, we get 98.0 kilojoules per mole.
+[00:20:09 -> 00:20:16]  Now is 98.0 the value of delta H for the reaction written in part A?
+[00:20:16 -> 00:20:18]  No it is not, and for several reasons.
+[00:20:18 -> 00:20:24]  Number one, the sign of delta H should be negative because it says in this problem that
+[00:20:24 -> 00:20:26]  heat is released.
+[00:20:26 -> 00:20:32]  But more importantly, take a look at the fact that this is 98.0 kilojoules for every one
+[00:20:32 -> 00:20:35]  mole of hydrogen peroxide.
+[00:20:35 -> 00:20:41]  The coefficients in the balanced chemical equation clearly show that there are two moles
+[00:20:41 -> 00:20:43]  of hydrogen peroxide.
+[00:20:43 -> 00:20:50]  So therefore, the correct answer for the delta H for that reaction as written would be negative
+[00:20:50 -> 00:20:55]  196 kilojoules per mole of reaction.
+[00:20:55 -> 00:21:01]  If we had divided all of the coefficients by two, so we had coefficients of one, one
+[00:21:01 -> 00:21:07]  and one half for oxygen, then the delta H would be negative 98.0.
+[00:21:07 -> 00:21:13]  So just pay close attention to your coefficients and which moles you're talking about.
+[00:21:13 -> 00:21:16]  Alright this is problem number 16 in the packet.
+[00:21:16 -> 00:21:18]  This is found at the end of your chapter.
+[00:21:18 -> 00:21:20]  This is number 5.48.
+[00:21:20 -> 00:21:26]  We have a balanced chemical equation starting with liquid benzene and ending with gaseous
+[00:21:26 -> 00:21:27]  acetylene.
+[00:21:27 -> 00:21:32]  The delta H is positive 630 kilojoules.
+[00:21:32 -> 00:21:37]  The enthalpy change for the reverse reaction would be negative 630.
+[00:21:37 -> 00:21:42]  And since there is a three next to acetylene, that means that there are three moles of acetylene
+[00:21:42 -> 00:21:43]  produced.
+[00:21:43 -> 00:21:50]  The delta H for the formation of one mole of acetylene would be taking 630 divided by
+[00:21:50 -> 00:21:51]  three.
+[00:21:51 -> 00:21:54]  So positive 210 kilojoules.
+[00:21:54 -> 00:21:59]  In terms of the reaction being favored, either the forward or the reverse, think of it like
+[00:21:59 -> 00:22:00]  this.
+[00:22:00 -> 00:22:07]  A ball rolling down a hill would be energetically favored as opposed to rolling a ball up a
+[00:22:07 -> 00:22:09]  hill that requires the input of energy.
+[00:22:09 -> 00:22:16]  So in general, we would assume that the reverse reaction, the one that is exothermic, is more
+[00:22:16 -> 00:22:22]  likely to occur and would be more thermodynamically favored.
+[00:22:22 -> 00:22:30]  In part D, they want to know what would happen if instead of using liquid benzene as a reactant,
+[00:22:30 -> 00:22:34]  what if we had used gaseous benzene?
+[00:22:34 -> 00:22:37]  Recall we've seen diagrams like this before.
+[00:22:37 -> 00:22:42]  Here I'm starting with liquid benzene at the bottom and the arrow is pointing up because
+[00:22:42 -> 00:22:48]  it is an endothermic reaction, so positive 630 kilojoules.
+[00:22:48 -> 00:22:56]  If we had started with gaseous benzene, we would be starting at a higher level and therefore
+[00:22:56 -> 00:23:01]  the delta H would be somewhat less than 630.
+[00:23:01 -> 00:23:07]  So because the enthalpy of gaseous benzene is greater than the enthalpy of liquid benzene,
+[00:23:07 -> 00:23:13]  the magnitude of delta H for that reaction would be less than 630.
+[00:23:13 -> 00:23:19]  Alright well, there is more chapter 5, but this marks the end of sections 5.1 through
+[00:23:19 -> 00:23:20]  5.4.
+[00:23:20 -> 00:23:23]  I hope those explanations were helpful.
+[00:23:23 -> 00:23:24]  Thanks for watching.

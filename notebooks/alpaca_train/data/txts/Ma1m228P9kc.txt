@@ -1,0 +1,87 @@
+[00:00:00 -> 00:00:09]  Hey guys! Hello! So for the last few weeks I've been teasing you that I've been working
+[00:00:09 -> 00:00:14]  on something in the background and well we're going to show you some construction photos
+[00:00:14 -> 00:00:22]  here while we talk about it. I had this idea a while back. Jason Totic from Totic.com had
+[00:00:22 -> 00:00:29]  given us a bunch of breadboards and when we were at Parallax Robotics Expo, Roy Eltham
+[00:00:29 -> 00:00:35]  also gave us another huge pile of them. So we're awash in breadboards and I was trying
+[00:00:35 -> 00:00:41]  to think of a good project for them and this great idea popped into my head. I was thinking
+[00:00:41 -> 00:00:49]  that wouldn't it be great if there was a synthesizer that had breadboards just built into the face
+[00:00:49 -> 00:00:57]  of it. The idea of a modular synth but going past the module stage down into the prototyping
+[00:00:57 -> 00:01:04]  of module stage so I could build things custom from the ground up. I thought that was a pretty
+[00:01:04 -> 00:01:08]  cool idea and there's a lot of different ways to sort of approach that but most of them
+[00:01:08 -> 00:01:16]  were very sloppy. Then Roy came up with this great idea of hacking the backs of the breadboards
+[00:01:16 -> 00:01:25]  and actually soldering to the leads on the inside of the boards so that I could hide
+[00:01:25 -> 00:01:30]  all of the wires that connect to the keyboards and the jacks and all of that inside the case
+[00:01:30 -> 00:01:41]  and just have the circuit that I'd want to change be on the actual surface of the breadboard.
+[00:01:41 -> 00:01:48]  So I went about getting into Google SketchUp and sort of designing a case for this thing
+[00:01:48 -> 00:01:53]  and I went through a couple of iterations and mostly it was designed around the size
+[00:01:53 -> 00:02:00]  of the keyboard that I had laying around which is 25 keys and the closest that I could
+[00:02:00 -> 00:02:07]  get to that with some breadboards stretched across and the maximum length of material
+[00:02:07 -> 00:02:14]  that I could cut with the tools that we have here. So this shape is sort of based on all
+[00:02:14 -> 00:02:23]  of that. The inside is about 13 5 8ths width and that was the closest I could get. It's
+[00:02:23 -> 00:02:28]  not perfect for both of them but you know when you're working with existing materials
+[00:02:28 -> 00:02:33]  you kind of have to use what's there. We didn't buy anything to do this project. We did it
+[00:02:33 -> 00:02:45]  all with scrap material and scavenged resources. We used a Todic.com power supply, an MGH propeller
+[00:02:45 -> 00:02:55]  ASC. That's Arduino shield compatible propeller. Just some shift registers we had laying around
+[00:02:55 -> 00:03:03]  and a couple of capacitors and a bunch of wires and resistors and stuff. So basically
+[00:03:03 -> 00:03:08]  we've got keys and I've hacked the board so that each key is completely separate from
+[00:03:08 -> 00:03:16]  all of the others and they feed into 32 inputs on this daisy chain of shift registers and
+[00:03:16 -> 00:03:22]  that gets pulled into the propeller and it's just using them to control SIDCOG at the moment
+[00:03:22 -> 00:03:29]  which is a Commodore 64 SID chip emulator. Can I ask a question? Go ahead. So if I put
+[00:03:29 -> 00:03:34]  like a whole bunch of resistors and capacitors on this breadboard and somehow connect them
+[00:03:34 -> 00:03:40]  to each other I can make a different kind of sound? Yeah. Right now I'm just using the
+[00:03:40 -> 00:03:44]  propeller to sort of generate my tones for me but what I'd like to be able to do is do
+[00:03:44 -> 00:03:48]  something like have you know this going into a propeller and the propeller doing sort of
+[00:03:48 -> 00:03:58]  a pulse width modulation to get a voltage out that controls like a 555 timer. Okay.
+[00:03:58 -> 00:04:03]  And that'll just generate a square wave. So does this require a microcontroller or can
+[00:04:03 -> 00:04:09]  it actually do it without microcontroller? You can do it without because the behind each of these
+[00:04:09 -> 00:04:16]  pins where the keys come into these shift registers there's a wire that literally runs
+[00:04:16 -> 00:04:23]  down to the switches inside the keys so you don't have to use the shift registers into a
+[00:04:23 -> 00:04:29]  microcontroller you can actually use voltage off those lines as they come up to control stuff up
+[00:04:29 -> 00:04:34]  here. Now we've only got so much breadboard space so that's only so practical but you could
+[00:04:34 -> 00:04:39]  definitely put together something that allowed you to have different voltages for different
+[00:04:39 -> 00:04:46]  keys and then those would feed something like a 555 timer or any sort of voltage controlled
+[00:04:46 -> 00:04:50]  oscillator where the amount of voltage going into it changes the frequency that comes out
+[00:04:50 -> 00:04:58]  of it. So the synth could either be purely analog or in this case analog and digital? Yeah and we've
+[00:04:58 -> 00:05:05]  got four sets running down the middle here these are actually connected to the speakers the line
+[00:05:05 -> 00:05:10]  outputs on the back of the unit and I left enough room here to sort of be able to build a synth
+[00:05:10 -> 00:05:15]  here and be able to build some filter stuff here and we'll get to that another time. For today I
+[00:05:15 -> 00:05:23]  just want to sort it to demonstrate what it can sound like with just a prop and some some shift
+[00:05:24 -> 00:05:31]  registers. Are we gonna be able to take it apart? Yeah it's not these aren't glued down yet okay and
+[00:05:31 -> 00:05:36]  nor is this screwed in yet I still need to finish the case. Okay. There's still some sharp edges and
+[00:05:36 -> 00:05:42]  we need to put a final coat of something on there. I mean on this video. Are we gonna be able to take
+[00:05:42 -> 00:05:49]  it apart? No no no no okay it's too sensitive that's why I took pictures during assembly. Okay
+[00:05:49 -> 00:06:00]  yeah all right so that's like monophonic and what you'd expect but I did this fancy. You can
+[00:06:00 -> 00:06:05]  actually play up to three notes at a time because it said chip had three voices now this keyboard
+[00:06:05 -> 00:06:11]  supports full polyphony which means you could hold on every single key and have it make notes if you
+[00:06:11 -> 00:06:22]  had the right sort of tone generating circuit up there in the top. Okay. Runs out on four like so.
+[00:06:22 -> 00:06:46]  Cool. Awesome. Yeah I haven't written any pieces for ProtoSynth yet but yeah we just got this
+[00:06:46 -> 00:06:53]  working like I don't know 20 minutes ago. Yeah it's been a lot of late nights. So yeah that's the
+[00:06:53 -> 00:06:58]  basic idea here and you could do any number of things like instead of it just being controlled
+[00:06:58 -> 00:07:03]  by the keyboard you could build a sequencer over here and have your sequencer being controlling
+[00:07:03 -> 00:07:10]  your tones making them come out. You could build sort of a drum machine on this and have the
+[00:07:10 -> 00:07:16]  sequencer cue off the drums while you're playing. It's actually has four outputs so you could
+[00:07:16 -> 00:07:26]  actually do multi-channel recording of a drum machine, bass loop thing, and a synthesizer you
+[00:07:26 -> 00:07:31]  know harmony and melody sort of stuff going on all at the same time and they could have discrete
+[00:07:31 -> 00:07:37]  outputs or you could use these to sort of bring signals in from the outside run it through a
+[00:07:37 -> 00:07:42]  filter circuit or something that you built here and then run it back out to your recording system.
+[00:07:42 -> 00:07:52]  You could do sort of a combination of both right where you've got your synthesizer here is actually
+[00:07:52 -> 00:07:57]  controlling an effect like you build a filter circuit and what keys you're pushing changes
+[00:07:57 -> 00:08:01]  like its filter frequency or something like that and that could be affecting a signal that comes
+[00:08:01 -> 00:08:06]  in through the back and then goes back out to your equipment. Can you explain a little how you
+[00:08:06 -> 00:08:11]  hooked everything up? Well I did show construction photos of that I mean it's it's solder and wires.
+[00:08:12 -> 00:08:21]  Oh so you soldered I mean that's an oxygenate keyboard right and then that's it was soldered
+[00:08:21 -> 00:08:31]  to the backs of this these red boards right? Yep. Okay to the to where the shift registers are? Yep.
+[00:08:32 -> 00:08:38]  And then these are soldered to where the the jacks are. Where the jacks are okay and you have
+[00:08:38 -> 00:08:45]  how many jacks four jacks and they're all the same? Quarter inch jacks. Oh. But they each have
+[00:08:45 -> 00:08:54]  their own dedicated bus line there. I see so then so for instance right now since you only have one
+[00:08:54 -> 00:09:03]  bus line attached or being touched or whatever being addressed you only have one jack going out.
+[00:09:03 -> 00:09:10]  Right. I see but you don't have to you could put everything to that one bus line. Yeah and I could
+[00:09:10 -> 00:09:14]  I could be running four Sidcogs in here and get it up to the point where I would have 12 notes
+[00:09:14 -> 00:09:19]  that I could play at the same time with Sidcogs and they could just go out to all four channels
+[00:09:19 -> 00:09:25]  and then my mixer could deal with mixing them together outboard or you could build a mixer here
+[00:09:25 -> 00:09:31]  and put them onto one. That's that's the idea you can you can do what you want to do and not have to
+[00:09:31 -> 00:09:36]  build something new to do it you can just you know I mean case wise keyboard wise you know it's
+[00:09:36 -> 00:09:42]  all arranged and then you can just be creative here and not have to worry about wires everywhere.
+[00:09:42 -> 00:09:47]  Cool. All right well that's my project. Good project. We will be back building circuits on
+[00:09:47 -> 00:09:54]  this very soon. Yep. That's it for us. Bye. Bye. We post videos all the time so don't forget to
+[00:09:54 -> 00:09:59]  subscribe and follow us on Twitter at TYMKRS.

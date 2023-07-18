@@ -1,0 +1,146 @@
+[00:00:00 -> 00:00:05]  Not good, not good.
+[00:00:08 -> 00:00:11]  We thought it was time to bring things back to the basics.
+[00:00:11 -> 00:00:14]  Whether you're a novice or a seasoned home barista,
+[00:00:14 -> 00:00:15]  we're here to guide you through
+[00:00:15 -> 00:00:17]  how to pull the perfect shot of espresso.
+[00:00:18 -> 00:00:21]  Hi, I'm August with Clive Coffee.
+[00:00:21 -> 00:00:23]  Today we'll be discussing the tried
+[00:00:23 -> 00:00:25]  and true fundamentals of espresso,
+[00:00:25 -> 00:00:27]  answering some of the most frequently asked questions,
+[00:00:27 -> 00:00:30]  busting myths, and telling you what's important.
+[00:00:30 -> 00:00:31]  Ready?
+[00:00:31 -> 00:00:33]  Let's get started.
+[00:00:33 -> 00:00:36]  An espresso recipe consists of three things,
+[00:00:36 -> 00:00:39]  dose, yield, and time.
+[00:00:39 -> 00:00:42]  Using a scale and measuring these elements in a recipe
+[00:00:42 -> 00:00:43]  will help you replicate a great shot
+[00:00:43 -> 00:00:46]  and quickly troubleshoot when issues arise.
+[00:00:47 -> 00:00:49]  First, we'll set the dose.
+[00:00:49 -> 00:00:50]  Our dose is how much ground coffee
+[00:00:50 -> 00:00:52]  we're putting into our basket.
+[00:00:52 -> 00:00:55]  Choose your dose based on the basket in your portafilter.
+[00:00:55 -> 00:00:56]  For single baskets, use a dose
+[00:00:56 -> 00:00:59]  between seven to 10 grams of ground coffee,
+[00:00:59 -> 00:01:02]  16 to 18 grams for double baskets,
+[00:01:02 -> 00:01:04]  and 20 to 22 grams for a triple.
+[00:01:04 -> 00:01:07]  Always grind into a clean and dry basket.
+[00:01:08 -> 00:01:10]  To ensure your dose is accurate,
+[00:01:10 -> 00:01:12]  set the portafilter onto the scale,
+[00:01:12 -> 00:01:14]  tear the scale, grind into the basket,
+[00:01:14 -> 00:01:16]  and then place your portafilter back onto the scale
+[00:01:16 -> 00:01:18]  to confirm that your dose is within
+[00:01:18 -> 00:01:20]  a tenth of a gram of your target.
+[00:01:20 -> 00:01:22]  Today, I'm using a bottomless portafilter
+[00:01:22 -> 00:01:25]  with a triple basket aiming for a dose of 20 grams.
+[00:01:25 -> 00:01:28]  We'll talk more about this in a minute.
+[00:01:28 -> 00:01:30]  Once your dose is set, you'll choose your yield.
+[00:01:30 -> 00:01:33]  This is going to be the total weight in grams
+[00:01:33 -> 00:01:34]  of your shot of espresso.
+[00:01:34 -> 00:01:37]  We always recommend weighing coffee in grams,
+[00:01:37 -> 00:01:39]  not measuring by volume.
+[00:01:39 -> 00:01:42]  The volume of a shot changes based on the coffee used
+[00:01:42 -> 00:01:43]  and when it was roasted.
+[00:01:43 -> 00:01:45]  Fresh coffee will have lots of crema
+[00:01:45 -> 00:01:48]  and weigh less than a shot using older beans.
+[00:01:48 -> 00:01:49]  Make sure the coffee you're using
+[00:01:49 -> 00:01:53]  is between five to 14 days off its roast date
+[00:01:53 -> 00:01:54]  and measure the yield in grams
+[00:01:54 -> 00:01:56]  to be able to replicate a great shot.
+[00:01:57 -> 00:02:01]  You'll often see dose and yield written as a ratio.
+[00:02:01 -> 00:02:04]  This specific formula measures ground coffee input
+[00:02:04 -> 00:02:07]  to liquid espresso output.
+[00:02:07 -> 00:02:10]  A ratio sets the strength of your shot.
+[00:02:10 -> 00:02:12]  Ratios for espresso typically range
+[00:02:12 -> 00:02:14]  from one to one to one to three.
+[00:02:14 -> 00:02:18]  The general rule of using smaller ratios for darker roasts
+[00:02:18 -> 00:02:21]  and larger ratios for lighter roasts.
+[00:02:21 -> 00:02:24]  Clive's signature recipe is one to 1.5.
+[00:02:24 -> 00:02:26]  That's what we'll be following today.
+[00:02:26 -> 00:02:29]  20 grams of ground coffee in our bottomless portafilter
+[00:02:29 -> 00:02:31]  to 30 grams of liquid espresso.
+[00:02:33 -> 00:02:36]  Time is what ties everything together.
+[00:02:36 -> 00:02:38]  This is the total number of seconds a shot takes,
+[00:02:38 -> 00:02:39]  including drop time,
+[00:02:39 -> 00:02:42]  from the moment you engage the machine's pump
+[00:02:42 -> 00:02:45]  until the last drop of your yield.
+[00:02:45 -> 00:02:47]  A one to 1.5 ratio can taste very different
+[00:02:48 -> 00:02:49]  at varying amounts of time.
+[00:02:49 -> 00:02:52]  For a rich and full-bodied flavor,
+[00:02:52 -> 00:02:55]  aim your shot to pull between 25 and 30 seconds.
+[00:02:55 -> 00:02:57]  To make this happen, look to your grinder.
+[00:02:57 -> 00:03:00]  We'll manipulate the grind size to change how long it takes
+[00:03:00 -> 00:03:03]  for the water to flow through the coffee bed.
+[00:03:03 -> 00:03:05]  Think of coarse coffee like stones
+[00:03:05 -> 00:03:08]  and fine coffee like sand.
+[00:03:08 -> 00:03:10]  If you were to pour water over the top,
+[00:03:10 -> 00:03:13]  the water would make its way through the rocks much quicker.
+[00:03:13 -> 00:03:15]  Changing your grind will allow you
+[00:03:15 -> 00:03:17]  to fine-tune the time of your shot.
+[00:03:17 -> 00:03:19]  Coffee changes day to day.
+[00:03:19 -> 00:03:22]  You'll most likely need to change your grind daily too.
+[00:03:22 -> 00:03:24]  As coffee ages, your shots will pull faster,
+[00:03:24 -> 00:03:27]  encouraging you to grind finer.
+[00:03:27 -> 00:03:29]  Now that our recipe is set,
+[00:03:29 -> 00:03:32]  let's focus on the technique to make this work.
+[00:03:32 -> 00:03:35]  To pull an even shot, you'll need a level coffee bed.
+[00:03:35 -> 00:03:38]  Once you grind your dose into your portafilter,
+[00:03:38 -> 00:03:40]  gently tap the sides of the portafilter a few times
+[00:03:40 -> 00:03:43]  to distribute the coffee until it appears flat.
+[00:03:43 -> 00:03:45]  Keep this to a minimum
+[00:03:45 -> 00:03:47]  as you don't want to cause a crack in the coffee bed.
+[00:03:47 -> 00:03:50]  Once it looks level, it's time to tamp.
+[00:03:50 -> 00:03:53]  As with distribution, a level tamp is vital for success.
+[00:03:53 -> 00:03:56]  Hold your tamper between your index finger and thumb,
+[00:03:56 -> 00:03:58]  almost like grabbing a doorknob.
+[00:03:58 -> 00:04:00]  Stand perpendicular to the portafilter
+[00:04:00 -> 00:04:03]  and place your tamper into the basket.
+[00:04:03 -> 00:04:06]  Your arm should be at about a 90-degree angle.
+[00:04:06 -> 00:04:07]  Lightly lean into the tamp,
+[00:04:07 -> 00:04:10]  applying slow and gentle pressure.
+[00:04:10 -> 00:04:12]  The amount of pressure is not as important
+[00:04:12 -> 00:04:15]  as repeatability and consistency.
+[00:04:15 -> 00:04:18]  Once you feel resistance, remove the tamper carefully
+[00:04:18 -> 00:04:20]  to avoid disrupting the coffee bed.
+[00:04:20 -> 00:04:22]  Now that our coffee bed is leveled and tamped,
+[00:04:22 -> 00:04:24]  we are ready to pull a shot.
+[00:04:24 -> 00:04:26]  No matter which machine you use,
+[00:04:26 -> 00:04:29]  make sure that it's warmed up and ready to go.
+[00:04:29 -> 00:04:31]  Flush some water through the group head for a few seconds
+[00:04:31 -> 00:04:34]  to guarantee that it's hot and clean.
+[00:04:34 -> 00:04:36]  Insert your portafilter into the group
+[00:04:36 -> 00:04:39]  and tighten it into place until it feels snug and tight,
+[00:04:39 -> 00:04:40]  but don't over-tighten.
+[00:04:40 -> 00:04:42]  Place your scale and cup on the drip tray
+[00:04:42 -> 00:04:44]  and then start your shot and timer.
+[00:04:46 -> 00:04:50]  Once you reach your yield, stop your shot and note the time.
+[00:04:50 -> 00:04:53]  Remember, we're looking for our 1 to 1.5 ratio
+[00:04:53 -> 00:04:55]  to pull in 30 seconds.
+[00:04:55 -> 00:04:57]  If your shot takes well over 30 seconds,
+[00:04:57 -> 00:04:59]  you'll need to coarsen your grind.
+[00:04:59 -> 00:05:02]  If your shot time is under 25 seconds,
+[00:05:02 -> 00:05:04]  you need to adjust your grind finer.
+[00:05:04 -> 00:05:06]  Try tasting every shot you pull,
+[00:05:06 -> 00:05:08]  even the ones that aren't perfect.
+[00:05:08 -> 00:05:10]  You might discover another recipe
+[00:05:10 -> 00:05:12]  that's more pleasant to you.
+[00:05:12 -> 00:05:14]  That's the beauty of espresso at home.
+[00:05:14 -> 00:05:17]  You're the barista and the consumer.
+[00:05:17 -> 00:05:20]  Like, old towel kind of vibes.
+[00:05:21 -> 00:05:22]  Not good.
+[00:05:22 -> 00:05:23]  Smell it.
+[00:05:23 -> 00:05:25]  Not so bad, right?
+[00:05:25 -> 00:05:27]  Perfecting the art of espresso at home
+[00:05:27 -> 00:05:31]  takes time, patience, and lots of practice.
+[00:05:31 -> 00:05:33]  If you don't get it right the first time,
+[00:05:33 -> 00:05:35]  no harm done, just keep trying.
+[00:05:35 -> 00:05:38]  Hopefully, this video gives you some new tips and tricks
+[00:05:39 -> 00:05:41]  to take back to your machine to improve those shots.
+[00:05:41 -> 00:05:43]  If you have any thoughts or questions,
+[00:05:43 -> 00:05:45]  feel free to drop them in the comments below.
+[00:05:45 -> 00:05:47]  As always, like this video
+[00:05:47 -> 00:05:49]  and subscribe for more coffee know-how.
+[00:05:49 -> 00:05:50]  Thanks for watching.
+[00:05:56 -> 00:05:57]  Not so bad, right?
+[00:05:57 -> 00:05:59]  You little baby.
+[00:06:00 -> 00:06:02]  Adjust the grind, please.
+[00:06:02 -> 00:06:03]  Don't call me.

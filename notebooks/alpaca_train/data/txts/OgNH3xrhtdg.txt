@@ -1,0 +1,132 @@
+[00:00:00 -> 00:00:07]  Introduction to Geometry, Level 1 Geometry is extremely useful for engineers,
+[00:00:07 -> 00:00:15]  architects, painters, carpenters, teachers, electricians, machinists, home builders, and
+[00:00:15 -> 00:00:16]  many more.
+[00:00:16 -> 00:00:20]  Geometric principles are important in the construction of buildings and roads, the design
+[00:00:20 -> 00:00:27]  and use of machinery, the creation of three-dimensional visuals and effects, and to better understand
+[00:00:27 -> 00:00:30]  and unlock the secrets of the universe itself.
+[00:00:30 -> 00:00:34]  Like any language and mathematics course, the important ideas in geometry must be developed
+[00:00:34 -> 00:00:38]  gradually with understanding, practice, and effort.
+[00:00:38 -> 00:00:41]  Alright, let's get started with the basics.
+[00:00:41 -> 00:00:46]  The simplest figure studied in geometry is called a point.
+[00:00:46 -> 00:00:50]  Although a point doesn't have any size, it is often represented by a dot, which does
+[00:00:50 -> 00:00:56]  have some size, but keep in mind that for the most part they do not have a size.
+[00:00:56 -> 00:01:00]  We use a dot to visually represent a figure that lacks size.
+[00:01:00 -> 00:01:04]  We usually name points by using capital letters.
+[00:01:04 -> 00:01:11]  For example, the following five points are called point A, point B, point C, point D,
+[00:01:11 -> 00:01:15]  and point E. All geometric figures consist of points.
+[00:01:15 -> 00:01:18]  Another familiar geometric figure is called a line.
+[00:01:18 -> 00:01:22]  Lines are made up of points and are straight.
+[00:01:22 -> 00:01:26]  The arrows on the end of the figures show that the lines extend infinitely far in both
+[00:01:26 -> 00:01:27]  directions.
+[00:01:27 -> 00:01:30]  They extend forever and ever.
+[00:01:30 -> 00:01:35]  Although a picture of a line has some thickness, the line itself has no measurable thickness,
+[00:01:35 -> 00:01:40]  so keep that in mind, unless it is explicitly stated, lines have no thickness.
+[00:01:40 -> 00:01:43]  The following figures are examples of lines.
+[00:01:43 -> 00:01:45]  There are two different ways we can name lines.
+[00:01:45 -> 00:01:50]  The first way is by using a single lower case letter, such as line M. The alternative way
+[00:01:50 -> 00:01:55]  to name lines is by using their points, for example, the line on the right contains the
+[00:01:55 -> 00:02:00]  points A and B, so we can call the line AB.
+[00:02:00 -> 00:02:06]  Using symbols we can denote it like this, AB with a line on top, or as follows, line
+[00:02:06 -> 00:02:07]  BA.
+[00:02:07 -> 00:02:11]  Both ways are acceptable, but for the most part we denote the letters in alphabetical
+[00:02:11 -> 00:02:15]  order, so AB will be the typical way to denote this line.
+[00:02:15 -> 00:02:19]  To talk about the next geometric figure we need to remember a concept learned in algebra
+[00:02:19 -> 00:02:20]  1.
+[00:02:20 -> 00:02:24]  In algebra you learn that a number line is formed when a numerical value is assigned
+[00:02:24 -> 00:02:30]  to each point on a line, for example the following line represents a number line, and point A
+[00:02:30 -> 00:02:37]  is located at negative 1, likewise point B is located at 1 and a half, or written another
+[00:02:37 -> 00:02:39]  way as 1.5.
+[00:02:39 -> 00:02:45]  We need to understand number lines in order to understand line segments, or simply segments.
+[00:02:45 -> 00:02:49]  Like lines, segments are made up of points and are straight.
+[00:02:49 -> 00:02:55]  What distinguishes them from lines is the fact that line segments have a definite beginning
+[00:02:55 -> 00:03:00]  and end, in other words they are measurable, they do not extend forever and ever in both
+[00:03:00 -> 00:03:02]  directions like lines do.
+[00:03:02 -> 00:03:04]  The following are examples of line segments.
+[00:03:04 -> 00:03:11]  The line segment on the left can be denoted as AB or segment BA.
+[00:03:11 -> 00:03:14]  Notice that we add a segment on top of the letters in order to distinguish it from that
+[00:03:14 -> 00:03:18]  of a line which contains arrows in both ends.
+[00:03:18 -> 00:03:22]  Also notice that a segment is named in terms of its two end points because a segment has
+[00:03:22 -> 00:03:25]  a definite beginning and end.
+[00:03:25 -> 00:03:30]  The figure in the middle contains two line segments, the vertical up and down segment
+[00:03:30 -> 00:03:38]  can be called RS or segment SR, once again we usually denote them in alphabetical order.
+[00:03:38 -> 00:03:47]  The horizontal crosswise or from left to right can be named as segment ST or segment TS.
+[00:03:47 -> 00:03:51]  In the following number line, the segment whose end point is located at the coordinate
+[00:03:51 -> 00:04:00]  of negative 1 and 1 is denoted as line segment BD or segment DB, likewise a segment that
+[00:04:00 -> 00:04:09]  has a coordinate at negative 2 and 2 is denoted as segment AE or segment EA.
+[00:04:09 -> 00:04:13]  So we learned about lines which extend forever and ever in both directions and we learned
+[00:04:13 -> 00:04:18]  about segments which have a definite length and do not go on forever and ever.
+[00:04:18 -> 00:04:21]  Is it possible to create a figure that contains both of these characteristics?
+[00:04:21 -> 00:04:23]  The answer is yes.
+[00:04:23 -> 00:04:25]  These hybrids are called rays.
+[00:04:25 -> 00:04:30]  Rays like lines and segments are made up of points and are straight.
+[00:04:30 -> 00:04:36]  A ray differs from a line or segment in that it begins at an end point and then extends
+[00:04:36 -> 00:04:38]  infinitely far in one direction only.
+[00:04:38 -> 00:04:43]  Segments extend in two directions, rays extend in one direction only, so make sure you keep
+[00:04:43 -> 00:04:45]  that in mind.
+[00:04:45 -> 00:04:47]  The following are examples of rays.
+[00:04:47 -> 00:04:51]  Now when it comes to denoting them, we actually need to be careful and make sure we start
+[00:04:51 -> 00:04:57]  denoting a ray by naming its end point first, this way it becomes clear where the ray begins.
+[00:04:57 -> 00:05:04]  So the ray in the left is denoted as ray AB, notice that we add a ray on top going from
+[00:05:04 -> 00:05:08]  left to right, this is the appropriate way to denote rays, it would be completely wrong
+[00:05:08 -> 00:05:14]  to denote the ray as ray BA, remember we want to start with the end point first.
+[00:05:14 -> 00:05:20]  The ray in the right can be called ray RS or ray RT, as long as the end point is given
+[00:05:20 -> 00:05:24]  first any other point on the ray can be used to denote the ray.
+[00:05:24 -> 00:05:31]  Now that we know about points, lines, segments and rays we can now talk about angles.
+[00:05:31 -> 00:05:36]  In essence an angle is made up of two rays with a common end point, this point is called
+[00:05:36 -> 00:05:38]  the vertex of the angle.
+[00:05:38 -> 00:05:41]  The rays are called sides of the angle.
+[00:05:41 -> 00:05:44]  There are various ways that angles can be described and denoted.
+[00:05:44 -> 00:05:49]  For example if we place the number 1 inside the angle near the vertex like this, we would
+[00:05:49 -> 00:05:52]  denote this angle as angle 1.
+[00:05:52 -> 00:05:57]  The symbol that we use to denote angles is drawn as follows, it's essentially a picture
+[00:05:57 -> 00:05:58]  of an angle.
+[00:05:58 -> 00:06:04]  If the angle only contains one letter in the vertex then you denote it as angle A.
+[00:06:04 -> 00:06:09]  When you denote the angle using one letter, make sure you name the point on the vertex.
+[00:06:09 -> 00:06:14]  An alternative way is needed if the angle is described in terms of three points.
+[00:06:14 -> 00:06:20]  For example if this angle has a vertex labeled as A and the other points are B and C respectively
+[00:06:20 -> 00:06:27]  then we need to denote the angle as follows, angle BAC or angle CAB, notice that when we
+[00:06:27 -> 00:06:33]  use three letters the vertex in this case A must be named in the middle, make sure you
+[00:06:33 -> 00:06:34]  always do this.
+[00:06:34 -> 00:06:40]  If we take the same angle and draw another ray from point A to point D we would end up
+[00:06:40 -> 00:06:43]  with three new angles, make sure you can see them.
+[00:06:43 -> 00:06:52]  The first angle is formed by points BAD and is denoted as angle BAD or angle DAB.
+[00:06:52 -> 00:07:00]  The second angle is denoted as angle DAC or angle CAD and the third angle is denoted as
+[00:07:00 -> 00:07:05]  angle BAC or angle CAB.
+[00:07:05 -> 00:07:09]  Notice that if we try to denote any of the angles by using only one letter such as angle
+[00:07:09 -> 00:07:14]  A we would be totally confused what angle we are referring to because all the angles
+[00:07:14 -> 00:07:18]  share the same vertex so in this case it is really convenient to use three letters to
+[00:07:18 -> 00:07:20]  name the angles.
+[00:07:20 -> 00:07:25]  Alright the final figure we will talk about is formed by using three segments and combining
+[00:07:25 -> 00:07:27]  them in the following way.
+[00:07:27 -> 00:07:33]  The figure that we just created is called a triangle and we denote it as follows, triangle
+[00:07:33 -> 00:07:46]  ABC or triangle ACB or triangle CBA or triangle CAB or triangle BAC or triangle BCA.
+[00:07:46 -> 00:07:51]  Notice that the letters need to start at one point and move either clockwise or counterclockwise
+[00:07:51 -> 00:07:52]  when denoting them.
+[00:07:52 -> 00:07:56]  The convenient way is once again by using letters that are in alphabetical order whenever
+[00:07:57 -> 00:08:02]  possible so triangle ABC would be the best way to describe this triangle.
+[00:08:02 -> 00:08:06]  Notice that a triangle has three segments as its sides.
+[00:08:06 -> 00:08:10]  Notice that there seems to be three angles but they contain no rays nevertheless this
+[00:08:10 -> 00:08:16]  figure contains three angles they are angle A, angle B, and angle C.
+[00:08:16 -> 00:08:21]  If you recall from your algebra class we often talked about sets, well it turns out we can
+[00:08:21 -> 00:08:27]  think of a triangle as being a union of three segments and can be denoted using set notation
+[00:08:27 -> 00:08:35]  as follows, triangle ABC is equal to segment AB union with segment BC union with segment
+[00:08:35 -> 00:08:37]  AC.
+[00:08:37 -> 00:08:43]  Likewise the intersection of any two segments or sides forms the vertex of a triangle and
+[00:08:43 -> 00:08:50]  can be denoted using set notation as follows, vertex A is equal to segment BA intersected
+[00:08:50 -> 00:08:58]  with segment AC, vertex B is equal to segment AB intersected with segment BC, and vertex
+[00:08:58 -> 00:09:04]  C is equal to segment AC intersected with segment CB.
+[00:09:04 -> 00:09:08]  Alright and there you have it, these are the basic building blocks of geometry and this
+[00:09:08 -> 00:09:10]  is only the beginning.
+[00:09:10 -> 00:09:15]  To recap we learned about points which have no sides but we draw a point to visually represent
+[00:09:15 -> 00:09:20]  them, we also learned about lines which contain points and extend infinitely in both directions
+[00:09:20 -> 00:09:24]  this is represented by the arrows that point in both directions, we also learned about
+[00:09:24 -> 00:09:30]  segments which have a definite length in other words they are measurable as a consequence
+[00:09:30 -> 00:09:35]  they have a beginning and an end which are called the end points of the segment, we also
+[00:09:35 -> 00:09:40]  learned about rays which share the characteristics of a line and a segment it contains an end
+[00:09:40 -> 00:09:46]  point in one side and contains an arrow in the other side which extends infinitely in
+[00:09:46 -> 00:09:51]  the direction it is facing, when we have two or more rays that share a common point called
+[00:09:51 -> 00:09:56]  a vertex we form angles, and finally when we connect three line segments together forming
+[00:09:56 -> 00:10:00]  three distinct vertex we create a triangle.
+[00:10:00 -> 00:10:05]  Ok make sure you are familiar with all these figures and the appropriate way to denote
+[00:10:05 -> 00:10:06]  and name them.
+[00:10:06 -> 00:10:11]  In our next video we will practice denoting and naming figures with various examples.

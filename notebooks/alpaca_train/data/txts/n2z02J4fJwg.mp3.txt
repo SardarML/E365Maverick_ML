@@ -1,0 +1,161 @@
+[00:00:00 -> 00:00:04]  I was never really taught music theory, at least not in a classroom setting.
+[00:00:04 -> 00:00:09]  My music theory knowledge is completely self-taught, mostly by watching videos online just like you're doing right now.
+[00:00:09 -> 00:00:14]  So while I may not possess the same knowledge as someone with a formal education,
+[00:00:14 -> 00:00:17]  I do know what it's like to be someone with no prior knowledge looking to learn,
+[00:00:17 -> 00:00:19]  and maybe just not knowing where to start.
+[00:00:19 -> 00:00:23]  So I'm here to hopefully guide some of you beginners out there as a fellow peer,
+[00:00:23 -> 00:00:26]  and attempt to teach you the basics of music theory.
+[00:00:26 -> 00:00:30]  To do this, I'm going to split this video up into four main sections,
+[00:00:30 -> 00:00:33]  where I'll cover what I believe to be the most important aspects
+[00:00:33 -> 00:00:35]  someone with little music theory knowledge should learn.
+[00:00:35 -> 00:00:40]  Whether you're looking to write your own music, play an instrument, or produce your own songs,
+[00:00:40 -> 00:00:44]  I think this video may help you learn a little bit more about music theory.
+[00:00:44 -> 00:00:46]  So to begin, let's talk about...
+[00:00:46 -> 00:00:47]  Tempo!
+[00:00:47 -> 00:00:49]  Tempo is the pace of a song.
+[00:00:49 -> 00:00:51]  Is it fast or is it slow?
+[00:00:51 -> 00:00:54]  A beat is a standard unit of time of music.
+[00:00:54 -> 00:00:57]  Whenever you tap your feet along to a song, or whenever a metronome ticks,
+[00:00:57 -> 00:00:58]  that lands on a beat.
+[00:00:58 -> 00:01:01]  The tempo is then measured in BPM, or beats per minute,
+[00:01:01 -> 00:01:03]  which determines how many... you get it.
+[00:01:03 -> 00:01:07]  In general, a higher BPM means more beats more frequently, resulting in a faster song.
+[00:01:07 -> 00:01:10]  Slower BPM makes for a slower song.
+[00:01:10 -> 00:01:13]  Generally, you'll work with anywhere from 40 to 250 BPM.
+[00:01:13 -> 00:01:14]  These numbers are completely arbitrary,
+[00:01:14 -> 00:01:19]  but the point is, you won't ever really have a need for anything outside that range.
+[00:01:19 -> 00:01:22]  Time signatures expand upon this, and determine how the music is to be counted.
+[00:01:22 -> 00:01:24]  These are often written like fractions,
+[00:01:24 -> 00:01:27]  with the top number representing how many beats will lie within a bar,
+[00:01:27 -> 00:01:30]  and the bottom number determining the length of note to count.
+[00:01:30 -> 00:01:32]  The most common time signature is 4-4.
+[00:01:32 -> 00:01:34]  This means we count four beats in a bar,
+[00:01:34 -> 00:01:38]  and the lengths of notes within this bar must add up to the equivalent of four quarter notes.
+[00:01:38 -> 00:01:40]  Granted, we can use any combination of notes,
+[00:01:40 -> 00:01:43]  and any combination of rests to fill up this space,
+[00:01:43 -> 00:01:46]  as long as they add up to the equivalent of four quarter notes.
+[00:01:46 -> 00:01:47]  Sound confusing?
+[00:01:47 -> 00:01:48]  That's because it is.
+[00:01:48 -> 00:01:50]  If we were in the time signature 3-4,
+[00:01:50 -> 00:01:54]  we would count three beats in a bar that are the length of three quarter notes.
+[00:01:54 -> 00:01:56]  But if we were to double both of these numbers and use 6-8,
+[00:01:56 -> 00:01:58]  that's actually different than 3-4,
+[00:01:58 -> 00:02:02]  because remember, we're musicians and not mathematicians.
+[00:02:02 -> 00:02:06]  If any of this went over your head, just use 4-4.
+[00:02:06 -> 00:02:07]  Frequencies
+[00:02:07 -> 00:02:08]  This is a note.
+[00:02:08 -> 00:02:10]  A note is comprised of a pitch and a duration.
+[00:02:10 -> 00:02:14]  Pitch is the particular frequency of a sound, measured in Hertz.
+[00:02:14 -> 00:02:16]  This determines how high or low a note is.
+[00:02:16 -> 00:02:20]  Someone somewhere then decided to assign arbitrary names to pleasant-sounding
+[00:02:20 -> 00:02:23]  frequency values as the first seven letters of the alphabet.
+[00:02:23 -> 00:02:27]  Any frequency value that is an exact multiple of one of these notes
+[00:02:27 -> 00:02:31]  is also considered the same pitch, just played either slower or faster.
+[00:02:31 -> 00:02:35]  For example, 440 Hertz corresponds to the note A.
+[00:02:35 -> 00:02:40]  But so does 880 Hertz, since this is the same pitch, just played twice as fast.
+[00:02:40 -> 00:02:43]  The gap between these two notes is called an octave.
+[00:02:43 -> 00:02:45]  So, to distinguish between these two notes,
+[00:02:45 -> 00:02:48]  we often call them by their letter name and octave number.
+[00:02:48 -> 00:02:52]  440 Hertz, in this case, is called A4,
+[00:02:52 -> 00:02:55]  and is often used as the reference for tuning instruments.
+[00:02:55 -> 00:02:56]  Notes
+[00:02:56 -> 00:02:59]  A piano is a good way to visually represent notes,
+[00:02:59 -> 00:03:02]  which is often why a piano roll is used in electronic music software
+[00:03:02 -> 00:03:07]  as a way to draw in your notes, even if a piano isn't the instrument you're playing.
+[00:03:08 -> 00:03:12]  The lowest note on a standard 88-key piano is A0.
+[00:03:12 -> 00:03:18]  From there, every white note follows the pattern of B, C, D, E, F, G,
+[00:03:18 -> 00:03:22]  and then the next octaves, A, repeating until the end.
+[00:03:22 -> 00:03:24]  The black keys are named according to their location,
+[00:03:24 -> 00:03:27]  compared to the key either to their left or right.
+[00:03:27 -> 00:03:31]  To handle this, we use fancy terms called sharps and flats.
+[00:03:31 -> 00:03:33]  Sharp means we go up to the next closest key,
+[00:03:33 -> 00:03:36]  and a flat means we go down to the next closest key.
+[00:03:36 -> 00:03:41]  The gap between each key on a piano is called either a half-step or a semitone.
+[00:03:41 -> 00:03:46]  For example, the black key directly to the right of C is one semitone above C,
+[00:03:46 -> 00:03:48]  and therefore called C-sharp.
+[00:03:48 -> 00:03:50]  However, as if this weren't confusing enough already,
+[00:03:50 -> 00:03:53]  the same exact note is also called D-flat,
+[00:03:53 -> 00:03:56]  because it lies one semitone below D.
+[00:03:56 -> 00:04:01]  So now, to really hit it home, let's quickly recap all the notes in any given octave,
+[00:04:01 -> 00:04:10]  starting with C, C-sharp, D, D-sharp, E, F, F-sharp, G, G-sharp, A, A-sharp, B,
+[00:04:10 -> 00:04:15]  bringing us to a grand total of 12 semitones in a single octave.
+[00:04:15 -> 00:04:16]  Scales.
+[00:04:16 -> 00:04:20]  Scales are a collection of notes that sound good when played together.
+[00:04:20 -> 00:04:24]  This note may sound fine by itself, but when played in succession with these other notes,
+[00:04:28 -> 00:04:29]  not so much.
+[00:04:29 -> 00:04:32]  This is because it's not in the same scale as the other notes,
+[00:04:32 -> 00:04:34]  and therefore is considered off-key.
+[00:04:34 -> 00:04:37]  The two most common types of scales are major and minor.
+[00:04:37 -> 00:04:41]  Major scales generally sound happy, while minor scales sound sad.
+[00:04:41 -> 00:04:43]  A scale has a root note, which it's named after.
+[00:04:43 -> 00:04:47]  For example, C-major, arguably the most popular scale,
+[00:04:47 -> 00:04:50]  is a major scale starting at C.
+[00:04:50 -> 00:04:54]  This is popular because a C-major scale uses only the white keys on the piano.
+[00:04:54 -> 00:04:56]  You will recognize this as your Do-Re-Mi's.
+[00:04:56 -> 00:05:00]  However, a major scale can be placed on any root note.
+[00:05:00 -> 00:05:04]  A nifty trick to quickly write any major scale is to draw in notes on all the white keys
+[00:05:04 -> 00:05:07]  starting from C and ending at C.
+[00:05:07 -> 00:05:10]  Then, drag that to your desired root note.
+[00:05:10 -> 00:05:14]  For example, this is a C-major scale, and now this is an E-major scale.
+[00:05:14 -> 00:05:18]  Similarly, writing a minor scale is as simple as drawing in all the notes on all the white keys
+[00:05:18 -> 00:05:21]  starting from A and ending at A.
+[00:05:21 -> 00:05:23]  Then, drag that to your desired root note.
+[00:05:23 -> 00:05:27]  This is an A-minor scale, and now this is a G-minor scale.
+[00:05:27 -> 00:05:30]  Your gut may be telling you that there's no difference between these two scales,
+[00:05:30 -> 00:05:33]  since all I did was draw in the white notes, so they're the exact same.
+[00:05:33 -> 00:05:36]  The crucial difference here is where I started.
+[00:05:36 -> 00:05:40]  The gaps between the white notes will be offset depending on what note I started from.
+[00:05:40 -> 00:05:42]  This process can be repeated for each root note.
+[00:05:42 -> 00:05:48]  For example, drawing in all the white notes from D to D results in what's called a Dorian scale.
+[00:05:48 -> 00:05:53]  But if you're just starting off, I'd recommend sticking with only major and minor scales for now.
+[00:05:53 -> 00:05:54]  Chords!
+[00:05:54 -> 00:05:57]  Chords are multiple notes played in harmony at the same time.
+[00:05:57 -> 00:06:02]  The most common type of chord consists of three notes, and therefore is called a triad.
+[00:06:02 -> 00:06:04]  A chord is named after its root note and its quality.
+[00:06:04 -> 00:06:06]  For example, this is a C-major chord.
+[00:06:08 -> 00:06:12]  An easy way to remember how to make major chords is to pick your root note
+[00:06:12 -> 00:06:15]  and draw in another note four semitones above that.
+[00:06:15 -> 00:06:21]  And then finally, one more three semitones above that note, or a total of seven above your root.
+[00:06:21 -> 00:06:25]  Another, even quicker way to remember major triads is to draw in a major scale.
+[00:06:25 -> 00:06:29]  Using the trick previously described, let's pretend I want to be in F-major.
+[00:06:29 -> 00:06:33]  Now, pick any note to be the root of my chord, let's say A-sharp.
+[00:06:33 -> 00:06:37]  From here, draw in a note at every other key in the scale, moving upwards.
+[00:06:37 -> 00:06:41]  In this case, we skip over C, the next highest note in the F-major scale,
+[00:06:41 -> 00:06:46]  draw in a note at D, skip over E, and draw in a note at F.
+[00:06:46 -> 00:06:50]  For this reason, the major chord is referred to having the pattern of 1-3-5,
+[00:06:50 -> 00:06:53]  since our root is the first note, and from here,
+[00:06:53 -> 00:06:56]  we use the third and fifth notes in the scale, respectively.
+[00:06:56 -> 00:06:58]  We now have an A-sharp major chord.
+[00:06:58 -> 00:07:03]  And, just like magic, it also follows the pattern we previously described,
+[00:07:03 -> 00:07:06]  where the gap between the root and the second note is four semitones,
+[00:07:06 -> 00:07:09]  and the gap between the root and the third is seven.
+[00:07:09 -> 00:07:12]  And making minor triad chords is also very similar.
+[00:07:12 -> 00:07:18]  In fact, the only difference from a major triad is you drop the second note down by one semitone.
+[00:07:18 -> 00:07:22]  So, to make a B-minor chord, for example, draw in your root note at B,
+[00:07:22 -> 00:07:26]  move up by three semitones, again, rather than four in a major chord,
+[00:07:26 -> 00:07:28]  and then your third note four semitones above that.
+[00:07:28 -> 00:07:32]  Again, this is still a total of seven semitones above your root.
+[00:07:32 -> 00:07:35]  From here, we have a B-minor chord.
+[00:07:35 -> 00:07:39]  And, yes, this is still the 1-3-5 pattern if you're in a minor scale.
+[00:07:39 -> 00:07:42]  The difference between major and minor chords is small,
+[00:07:42 -> 00:07:44]  in terms of only being off by one semitone,
+[00:07:44 -> 00:07:47]  but they make a world of difference in the tone they create.
+[00:07:47 -> 00:07:50]  From here, chords can be expanded upon to be spiced up a little bit.
+[00:07:50 -> 00:07:55]  For example, a C-major triad has the notes C, E, G.
+[00:07:55 -> 00:07:58]  Recall, these are the 1, 3, and 5 notes in the major scale.
+[00:07:58 -> 00:08:03]  If I were to add the note B, this is now a C-major 7th chord,
+[00:08:03 -> 00:08:07]  since I added in the 7th note in the scale in addition to my triad.
+[00:08:07 -> 00:08:09]  From here, you can use the tricks covered in this video
+[00:08:09 -> 00:08:14]  to write chord progressions or melodies that are in key and sound good together,
+[00:08:14 -> 00:08:15]  and you'll know why.
+[00:08:15 -> 00:08:17]  I think that's the best part about music theory.
+[00:08:17 -> 00:08:19]  I used to be able to cobble something together when producing music
+[00:08:19 -> 00:08:21]  when I didn't even know any music theory,
+[00:08:21 -> 00:08:24]  but it would just take way too long and ultimately not even sound that good.
+[00:08:24 -> 00:08:27]  However, once I took the time to pick up the basics of music theory,
+[00:08:27 -> 00:08:29]  my songwriting improved tenfold.
+[00:08:29 -> 00:08:33]  So hopefully this video helped you gain a little bit of knowledge in some sort of aspect.
+[00:08:33 -> 00:08:35]  If you want to catch future videos I make just like this one,
+[00:08:35 -> 00:08:36]  feel free to subscribe.
+[00:08:36 -> 00:08:38]  Otherwise, best of luck.
+[00:08:38 -> 00:08:38]  Thanks for watching.

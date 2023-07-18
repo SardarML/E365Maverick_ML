@@ -1,0 +1,44 @@
+[00:00:00 -> 00:00:20]  In order to grow, cells need very specific environmental conditions, food, energy, proper
+[00:00:20 -> 00:00:22]  temperature and humidity.
+[00:00:22 -> 00:00:27]  When growing cells in the lab, we have to create these conditions using culture media.
+[00:00:27 -> 00:00:33]  Agriculture media is a mixture of agar and nutrients poured into petri dishes.
+[00:00:33 -> 00:00:38]  In this exercise, we'll demonstrate the steps for preparing brain-heart infusion agar.
+[00:00:38 -> 00:00:41]  Always check the lot number and expiration date.
+[00:00:41 -> 00:00:46]  The right panel lists the composition of the media and the final pH.
+[00:00:46 -> 00:00:52]  First, add 100 milliliters of deionized water to a graduated cylinder.
+[00:00:52 -> 00:00:56]  Place a stir bar in a 250 milliliter flask.
+[00:00:56 -> 00:00:59]  For the next step, we need an analytical balance.
+[00:00:59 -> 00:01:02]  Place a weigh boat onto the balance pan.
+[00:01:02 -> 00:01:05]  Press the tear key to zero out the weigh boat.
+[00:01:05 -> 00:01:11]  Use a lab scoop to add 5.2 grams of brain-heart infusion agar to the weigh boat.
+[00:01:11 -> 00:01:15]  Now add the powder to the flask.
+[00:01:15 -> 00:01:20]  Add about 75 milliliters of deionized water.
+[00:01:20 -> 00:01:22]  Place the flask onto a stir plate.
+[00:01:22 -> 00:01:27]  If you're using a combination hot plate and stir plate, be sure that the heat is turned
+[00:01:27 -> 00:01:28]  off.
+[00:01:28 -> 00:01:35]  After about 2 minutes, add the remaining 25 milliliters of water from the graduated cylinder.
+[00:01:35 -> 00:01:39]  Stir the solution until all of the visible clumps have been broken down.
+[00:01:39 -> 00:01:42]  Cover the flask with aluminum foil.
+[00:01:42 -> 00:01:46]  We're using foil cupcake wrappers because they're the perfect size.
+[00:01:46 -> 00:01:51]  Place a piece of autoclave tape over the foil and label it with the media name.
+[00:01:51 -> 00:01:55]  Next, use the autoclave to sterilize the media.
+[00:01:55 -> 00:02:00]  The heat from the autoclave will also help the agar to properly dissolve in the water.
+[00:02:00 -> 00:02:04]  Power on the autoclave and make sure the drain valve is closed.
+[00:02:04 -> 00:02:10]  Add deionized water to the level indicator line.
+[00:02:10 -> 00:02:13]  Place the flask of culture media into the basket.
+[00:02:13 -> 00:02:20]  Insert the basket, close the lid, and turn the handle to create an airtight seal.
+[00:02:20 -> 00:02:22]  Use the control panel to set the mode to sterilize.
+[00:02:22 -> 00:02:28]  The temperature to 121 degrees Celsius will run this cycle for 17 minutes.
+[00:02:28 -> 00:02:35]  While it's running, enter the date and time and the operation details in the log and initial.
+[00:02:35 -> 00:02:40]  Once the cycle ends and the pressure gauge reads 0 psi, use heat-resistant gloves to
+[00:02:40 -> 00:02:44]  slowly open the lid and remove the sterilized flask.
+[00:02:44 -> 00:02:49]  Back at the bench, place the flask onto the stir plate and stir the media very gently
+[00:02:49 -> 00:02:53]  and allow it to cool to about 45 degrees Celsius.
+[00:02:53 -> 00:02:56]  Pour the media into the Petri dishes.
+[00:02:56 -> 00:03:01]  The amounts don't have to be exact, but be sure to cover the entire bottom surface, which
+[00:03:01 -> 00:03:06]  is about 20 milliliters for standard-size Petri dishes.
+[00:03:06 -> 00:03:09]  Once the media has cooled, it will solidify and turn opaque.
+[00:03:09 -> 00:03:11]  Here you can see the difference.
+[00:03:11 -> 00:03:15]  The Petri dish on the left has set up properly.
+[00:03:15 -> 00:03:19]  Turn the plates upside down to prevent moisture from condensing on the agar surface and store
+[00:03:19 -> 00:03:22]  them in a plastic bag until you're ready to use them.

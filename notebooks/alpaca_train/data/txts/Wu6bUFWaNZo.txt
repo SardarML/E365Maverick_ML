@@ -1,0 +1,88 @@
+[00:00:00 -> 00:00:09]  Hi, this is your instructor, Craig Pence. I'd like to begin by congratulating you on your decision to take this class.
+[00:00:09 -> 00:00:20]  The Department of Labor ranks accounting and bookkeeping as two occupations that are likely to experience greater than average growth in coming years.
+[00:00:20 -> 00:00:28]  The salary levels in accounting and bookkeeping also compare very favorably to other equivalent occupations.
+[00:00:28 -> 00:00:39]  Not everybody, of course, is going to become a CPA or a bookkeeper, but accounting and a knowledge of accounting is fundamental to the management of any type of operation.
+[00:00:39 -> 00:00:51]  Whether it be a nonprofit organization, a governmental agency, or a business firm, the manager needs to know basic accounting concepts and procedures.
+[00:00:51 -> 00:00:57]  This video is the first of several that I've made for our course.
+[00:00:57 -> 00:01:06]  I've taught accounting for many years, and in the process, I think I've discovered some approaches that are effective in helping you to learn accounting.
+[00:01:06 -> 00:01:17]  By producing these videos, I can share them with you, and in fact, you have one advantage. I don't come equipped with a rewind button in the on-campus classroom.
+[00:01:17 -> 00:01:27]  The goal of these videos and the modules that are written out for you is to make the learning process more effective for you and easier for you, too.
+[00:01:27 -> 00:01:33]  Having said all that, let's now talk about a few concepts that lie at the heart of accounting.
+[00:01:33 -> 00:01:42]  Let's focus on understanding why it is we're going to be doing what we do when we finally get down to the nitty-gritty and begin working accounting problems.
+[00:01:43 -> 00:01:49]  Accounting is viewed as being a pretty complicated area, but it's really at heart quite simple.
+[00:01:49 -> 00:01:57]  The process of doing accounting involves keeping track of only two things, assets and equities.
+[00:01:57 -> 00:02:02]  Since accountants keep track of assets and equities, we need to understand what they are.
+[00:02:02 -> 00:02:06]  Let's look at the definition for assets.
+[00:02:06 -> 00:02:15]  An asset is something that the business owns, and this generally means that the owner of the business holds legal title to the asset.
+[00:02:15 -> 00:02:25]  An asset is something that is needed in order to operate the business, and it's going to provide benefits to the business over a long period of time.
+[00:02:25 -> 00:02:29]  Not just today, but also tomorrow and the day after.
+[00:02:29 -> 00:02:39]  Examples of assets would be things like buildings, furnishings in the building, such as shelving and carpet and desks and chairs and so on.
+[00:02:39 -> 00:02:45]  Equipment, such as cash registers and office computers and adding machines.
+[00:02:45 -> 00:02:51]  Supplies, such as paper and pencils and envelopes that are used in the office and so on.
+[00:02:51 -> 00:02:57]  These are all items that will benefit the business both today and tomorrow.
+[00:02:57 -> 00:03:06]  Now eventually the supplies become used up, and eventually the equipment becomes obsolete or wears away to the point that it can't be used anymore,
+[00:03:06 -> 00:03:10]  and eventually the building wears away and falls down.
+[00:03:10 -> 00:03:16]  But as long as these items can still provide their benefits to the business, then they are assets.
+[00:03:16 -> 00:03:25]  When we say that the owner has to own these items in order to count them as assets, we don't mean that the owner has to have 100% ownership of them.
+[00:03:25 -> 00:03:30]  We only require that the legal title to the asset be in the owner's name.
+[00:03:30 -> 00:03:36]  A $5 million building will probably not be purchased entirely by the owner.
+[00:03:36 -> 00:03:44]  Instead there will be a mortgage on it, and a mortgage lender will have given the business some of the cash that was used to acquire the building.
+[00:03:44 -> 00:03:48]  But the legal title will still be in the owner's name.
+[00:03:48 -> 00:03:55]  There will be a lien against that legal title, and it will represent the creditor's interest in the asset.
+[00:03:55 -> 00:03:59]  The same is true of delivery vans and automobiles.
+[00:03:59 -> 00:04:03]  They're often financed through a business finance company or a bank.
+[00:04:03 -> 00:04:08]  But as long as legal title is in the name of the owner, they still count as a business asset.
+[00:04:08 -> 00:04:12]  Now that was a long and windy discussion, but bear with me when I do things like this.
+[00:04:12 -> 00:04:16]  I think it's better to say too much to you than not enough.
+[00:04:16 -> 00:04:23]  Anyway, if you can recall, we mentioned that there was another thing that accountants keep track of, and that's equity.
+[00:04:25 -> 00:04:28]  Equity just represents ownership.
+[00:04:28 -> 00:04:35]  In the case of the building, the owner would have made a down payment on the building and then borrowed the rest through the mortgage lender.
+[00:04:35 -> 00:04:43]  The owner then has an ownership interest in the building, but so does the creditor, that is, the mortgage lender.
+[00:04:43 -> 00:04:53]  If the building cost $1 million and the owner put down 20%, then the owner has a $200,000 interest in the building.
+[00:04:53 -> 00:04:57]  The creditor has an $800,000 interest in the building.
+[00:04:57 -> 00:05:00]  The same thing is true of auto loans.
+[00:05:00 -> 00:05:05]  When you finance the next car you purchase through the credit union, then you make a down payment,
+[00:05:05 -> 00:05:11]  which means you have ownership interest in the automobile, but the credit union does as well.
+[00:05:11 -> 00:05:18]  You hold legal title to the car, but the credit union is shown on the title as a lien holder.
+[00:05:18 -> 00:05:22]  You would both have equity in the car.
+[00:05:22 -> 00:05:30]  Well, we said that the process of accounting requires us to keep track of the business assets and the equity in those assets.
+[00:05:30 -> 00:05:32]  Let's look at a more concrete example.
+[00:05:32 -> 00:05:36]  Here we have a business and the owner of the business.
+[00:05:36 -> 00:05:43]  The owner of the business is pictured on the right side of the screen here, and the business is represented by the basket.
+[00:05:43 -> 00:05:47]  Let me encourage you to think of the business as a basket.
+[00:05:47 -> 00:05:50]  And right now, the business doesn't exist.
+[00:05:50 -> 00:05:53]  It's only an idea in the mind of the owner.
+[00:05:53 -> 00:05:58]  In order for the business to be started, it has to have assets with which to operate.
+[00:05:58 -> 00:06:02]  And one place that the business can obtain assets is from the owner.
+[00:06:02 -> 00:06:09]  So in order to start up the business, the owner may make a contribution of assets to the business,
+[00:06:09 -> 00:06:14]  things like cash, equipment, buildings, and other types of assets.
+[00:06:14 -> 00:06:23]  When the owner makes a contribution to the business, then there are assets placed in the basket that weren't there previously.
+[00:06:23 -> 00:06:28]  In fact, there was nothing there previously, but now the business has assets.
+[00:06:28 -> 00:06:32]  We as accountants would need to keep track of these business assets.
+[00:06:32 -> 00:06:39]  So to record this transaction, we would need to record an increase in business assets.
+[00:06:39 -> 00:06:43]  And then, since the assets were contributed by the owner,
+[00:06:43 -> 00:06:53]  we'd record an increase in the owner's ownership interest in the assets that are in the business by recording an increase in the owner's equity.
+[00:06:53 -> 00:06:55]  So there now, we've done accounting.
+[00:06:55 -> 00:06:58]  We've accounted for a business transaction.
+[00:06:58 -> 00:07:04]  A transaction is something that causes assets and or equities to change.
+[00:07:04 -> 00:07:08]  There is another way, though, that the company might obtain assets.
+[00:07:08 -> 00:07:13]  A creditor might contribute them to the business instead of the owner.
+[00:07:13 -> 00:07:19]  The most obvious example would be the company goes to the bank and arranges for a loan.
+[00:07:19 -> 00:07:30]  The bank provides cash to the business, and the owner of the business signs a promissory note agreeing to pay back the amount of the loan with interest at some future date.
+[00:07:30 -> 00:07:39]  Or, equipment or a building might be purchased, and a portion of the purchase cost might be financed through a bank loan.
+[00:07:39 -> 00:07:44]  In any event, assets are now going into the basket that weren't there before.
+[00:07:44 -> 00:07:54]  And this time, a creditor has made the contribution to the business, and the creditor, therefore, has the ownership interest in these assets.
+[00:07:54 -> 00:08:04]  To record this transaction in our notebook, we would need to record an increase in assets along with an increase in creditor's equity in the business,
+[00:08:04 -> 00:08:08]  which we refer to as a business liability.
+[00:08:08 -> 00:08:20]  Later, if anyone asks us about the business assets and wants to know what they are, we can always refer back to our notebook and prepare a report from the information that we've recorded there.
+[00:08:20 -> 00:08:31]  And this report would tell the interested party exactly what the business has in assets and exactly who has the ownership interest in those assets.
+[00:08:31 -> 00:08:37]  Now, since assets have to be owned by someone, either the business owner or by creditors,
+[00:08:37 -> 00:08:48]  then whatever we have in assets in the basket has to be equal to the ownership claims of creditors and the business owner against those assets.
+[00:08:48 -> 00:08:54]  Well, this discussion is leading up to a very fundamental fact that underlies all of accounting,
+[00:08:54 -> 00:09:02]  and that is that the assets in the business have to equal the liabilities and the owner equity in the business.
+[00:09:02 -> 00:09:12]  What is in the basket on the left side of the screen has to be owned by some party on the right side of the screen, either a creditor or the owner of the business.
+[00:09:12 -> 00:09:18]  Therefore, assets have to be equal to liabilities plus owner equity.
+[00:09:18 -> 00:09:25]  This basic equation, assets equal liabilities plus owner equity, is called the accounting equation.
+[00:09:25 -> 00:09:33]  And in doing accounting, all we ever do is keep track of what the business assets are and who owns them.
+[00:09:33 -> 00:09:43]  People often refer to accountants as bean counters, but I think you understand now that really accountants are asset and equity counters.
+[00:09:43 -> 00:09:54]  There is another video that I've done that you'll run into later in the module that demonstrates exactly how you'll record these transactions when you do the assigned problems.

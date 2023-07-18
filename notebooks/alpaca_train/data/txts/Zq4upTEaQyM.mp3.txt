@@ -1,0 +1,240 @@
+[00:00:00 -> 00:00:05]  Okay, so to be honest, I kind of didn't have a plan for this video, but I was thinking
+[00:00:05 -> 00:00:07]  what topics could we address?
+[00:00:07 -> 00:00:11]  And I mean, one of my favorite topics and one topic that a lot of people have questions
+[00:00:11 -> 00:00:18]  about is the topic of backtracking and utilizing recursion to express a certain decision space
+[00:00:18 -> 00:00:21]  or express possibilities.
+[00:00:21 -> 00:00:25]  So what I really want to do with this is give you the toolkits, give you the blueprint that
+[00:00:25 -> 00:00:30]  I, somehow, I don't know how this came to me, but it just came to me from doing a bunch
+[00:00:30 -> 00:00:36]  of these problems, the toolkit and the patterns you can apply to these problems.
+[00:00:36 -> 00:00:41]  And I mean, it's recursion in general, but specifically for backtracking problems, the
+[00:00:41 -> 00:00:43]  blueprint you need to apply.
+[00:00:43 -> 00:00:47]  So what I thought up was something I always call the three keys of backtracking.
+[00:00:47 -> 00:00:53]  I've done many, many backtracking videos right there, there, there, there, there, and also
+[00:00:53 -> 00:00:55]  here and here and here.
+[00:00:55 -> 00:00:59]  So I've done a good amount of backtracking videos, I mean, but they're a while back and
+[00:00:59 -> 00:01:05]  I mean, my video quality was pretty bad, I didn't have a mic and I kind of want to re-dive
+[00:01:05 -> 00:01:07]  into this and actually explain it again.
+[00:01:07 -> 00:01:08]  So why not?
+[00:01:08 -> 00:01:09]  So what are the three keys to backtracking?
+[00:01:09 -> 00:01:14]  I actually addressed this in my, I think my favorite video, my end Queens video, which
+[00:01:14 -> 00:01:15]  is a while back.
+[00:01:15 -> 00:01:19]  I also did not have a mic, the quality wasn't the best, but that was one of those original
+[00:01:19 -> 00:01:21]  videos that goes a while back.
+[00:01:21 -> 00:01:26]  What I talked about is the fundamental keys to backtracking problems.
+[00:01:26 -> 00:01:27]  It goes like this.
+[00:01:27 -> 00:01:34]  You make choices, you have constraints on those choices, and at the end, you're going
+[00:01:34 -> 00:01:38]  and you're going to converge towards a goal.
+[00:01:38 -> 00:01:40]  You have a decision space you can choose from.
+[00:01:40 -> 00:01:45]  Your decisions are restricted somehow, and your goal is somewhere.
+[00:01:45 -> 00:01:47]  Your goal is to do something.
+[00:01:47 -> 00:01:49]  Maybe it's to fill a string.
+[00:01:49 -> 00:01:51]  Maybe it's to fill N slots.
+[00:01:51 -> 00:01:53]  Maybe it's to solve a Sudoku board.
+[00:01:53 -> 00:01:55]  Our goal would be to solve this.
+[00:01:55 -> 00:02:00]  And what we need to do is see how each of these influence how we shape our code, how
+[00:02:00 -> 00:02:05]  we shape our approach and the way we think about these problems and see how we can decompose
+[00:02:05 -> 00:02:09]  something that's intimidating, like solving a Sudoku board, which is the example we'll
+[00:02:09 -> 00:02:10]  do.
+[00:02:10 -> 00:02:14]  I already did a video on solving Sudoku, but we'll, we'll run through this as an example
+[00:02:14 -> 00:02:18]  to demonstrate these concepts that I'm trying to get across.
+[00:02:18 -> 00:02:20]  So why don't we get into it?
+[00:02:20 -> 00:02:21]  We have our choice.
+[00:02:21 -> 00:02:23]  We have our constraints and we have our goal.
+[00:02:23 -> 00:02:26]  So what we need to do is we need to see what each means.
+[00:02:26 -> 00:02:30]  And also, as always, there's a code sample in the description.
+[00:02:30 -> 00:02:33]  You can see that, but I'll go through a little code snippets here.
+[00:02:33 -> 00:02:35]  I'll put them right there so you can see them.
+[00:02:35 -> 00:02:40]  Um, but yeah, so let's look at our first concept, the choice.
+[00:02:40 -> 00:02:46]  So what I see here is I see a Sudoku board and my interviewer says, okay, uh, write me
+[00:02:46 -> 00:02:47]  an algorithm that solves this.
+[00:02:47 -> 00:02:49]  I have no idea how to do this.
+[00:02:49 -> 00:02:50]  Do I use two for loops or something?
+[00:02:50 -> 00:02:52]  Do I just go through this?
+[00:02:52 -> 00:02:59]  So what we need to fundamentally think about is the core choice, the core choice that we
+[00:02:59 -> 00:03:01]  are making at each step.
+[00:03:01 -> 00:03:07]  This is how we can craft, we can craft a recursive function to solve a problem like this.
+[00:03:07 -> 00:03:10]  So we have a Sudoku board and yes, that's a Sudoku board.
+[00:03:10 -> 00:03:11]  It's a lot of stuff.
+[00:03:11 -> 00:03:16]  We, we, we don't know how to start with this, but I would say that we do know how to start
+[00:03:16 -> 00:03:19]  with it because we know the choices we're making.
+[00:03:19 -> 00:03:22]  What we need to do is we need to fill these cells.
+[00:03:22 -> 00:03:24]  We need to fill those cells, right?
+[00:03:24 -> 00:03:27]  And we need to fill those cells by making choices.
+[00:03:27 -> 00:03:30]  So I said a key word there, I said a cell.
+[00:03:30 -> 00:03:34]  So our key choice will be made on a cell.
+[00:03:34 -> 00:03:37]  So okay, where does a cell sit?
+[00:03:37 -> 00:03:41]  Well a cell sits in a row and it sits in a column.
+[00:03:41 -> 00:03:43]  So okay, I have a lead.
+[00:03:43 -> 00:03:45]  I have a lead on how I can draw a function.
+[00:03:45 -> 00:03:50]  So I'll call my function solve and I'll pass in a row and a column and the job of the function
+[00:03:50 -> 00:03:54]  will be to solve that specific row and column.
+[00:03:54 -> 00:03:59]  Well my next question is how do I solve a, how do I solve a cell?
+[00:03:59 -> 00:04:01]  How do I actually do the process?
+[00:04:01 -> 00:04:04]  So let's reduce our decision space.
+[00:04:04 -> 00:04:05]  We have a big Sudoku board.
+[00:04:05 -> 00:04:09]  Why don't we get rid of every row except the first row?
+[00:04:09 -> 00:04:14]  So the way we need to think about this is we need to think about this compartmentalizing
+[00:04:14 -> 00:04:16]  into subproblems.
+[00:04:16 -> 00:04:22]  So we want to solve cells and when we solve all the cells in a row, then we focus on the
+[00:04:22 -> 00:04:24]  next row and the next row.
+[00:04:24 -> 00:04:28]  And by the time we finish every row, we will have finished, but we'll get to the goal part later.
+[00:04:28 -> 00:04:34]  So our choice at every single cell is going to be to place a number.
+[00:04:34 -> 00:04:36]  What are the numbers we're able to choose?
+[00:04:36 -> 00:04:38]  We can choose these guys.
+[00:04:38 -> 00:04:41]  We can choose numbers from one through nine.
+[00:04:41 -> 00:04:48]  So our decision space that we can choose from is going to be from one to nine.
+[00:04:48 -> 00:04:49]  So let's bring back that code snippet.
+[00:04:49 -> 00:04:51]  We're working on that code snippet right there.
+[00:04:51 -> 00:04:55]  We're trying to solve for the row and column, but what do we do inside?
+[00:04:55 -> 00:04:57]  Well, I know I have a decision space.
+[00:04:57 -> 00:05:03]  I can place numbers one through nine in the cell if it's empty.
+[00:05:03 -> 00:05:07]  If it already has a number, then I don't want to place a number there, but if it's an empty
+[00:05:07 -> 00:05:09]  cell, why don't we run a for loop?
+[00:05:09 -> 00:05:14]  So let's put a for loop right there and there's our for loop.
+[00:05:14 -> 00:05:15]  It runs from one to nine.
+[00:05:15 -> 00:05:17]  I express my decision space.
+[00:05:17 -> 00:05:18]  We're making progress.
+[00:05:18 -> 00:05:19]  We're not lost anymore.
+[00:05:19 -> 00:05:22]  We know what we're doing so far.
+[00:05:22 -> 00:05:24]  So we saw a large Sudoku board.
+[00:05:24 -> 00:05:26]  We broke the problem down into solving a cell.
+[00:05:26 -> 00:05:30]  We're slowly crafting our recursive function and we're slowly getting there.
+[00:05:30 -> 00:05:36]  So what we now need to think about is when I solve a cell, I can place an item.
+[00:05:36 -> 00:05:39]  So once I place an item, it would kind of look like that.
+[00:05:39 -> 00:05:44]  So if I place an item, it's going to look like that and we're going to put an item in
+[00:05:44 -> 00:05:45]  the cell.
+[00:05:45 -> 00:05:51]  And so now I've made a choice and now I need to express my constraints.
+[00:05:51 -> 00:05:53]  What are my constraints?
+[00:05:53 -> 00:05:58]  So the thing is when we place an item, I could validate the whole Sudoku board, but that's
+[00:05:58 -> 00:05:59]  a waste of time.
+[00:05:59 -> 00:06:02]  That would be to the order of N squared and we don't want to do that.
+[00:06:02 -> 00:06:06]  All we need to do is we need to validate the row.
+[00:06:06 -> 00:06:09]  We need to validate the column.
+[00:06:09 -> 00:06:14]  We need to validate the subgrid that the number we just placed sits in.
+[00:06:14 -> 00:06:20]  So if I place a two here, if I, if in my for loop, my for loop says, okay, put a two there.
+[00:06:20 -> 00:06:23]  All I need to know is does the two break the row?
+[00:06:23 -> 00:06:27]  Does it break the column and does it break the subgrid?
+[00:06:27 -> 00:06:31]  So again, I already have a video on the Sudoku solver stuff, so I don't really want to go
+[00:06:31 -> 00:06:32]  into those logistics.
+[00:06:32 -> 00:06:35]  I really want to talk only about backtracking here.
+[00:06:35 -> 00:06:36]  So, okay.
+[00:06:36 -> 00:06:44]  So the key here is what we need to do is if that was a valid placement, I recurse on it.
+[00:06:44 -> 00:06:47]  So why don't we put our recursion right now?
+[00:06:47 -> 00:06:48]  Do you see that?
+[00:06:48 -> 00:06:50]  We recurse on our decision.
+[00:06:50 -> 00:06:51]  So we recurse on our decision.
+[00:06:51 -> 00:06:56]  We'll do some exploration, but do you see what I called it with?
+[00:06:56 -> 00:06:58]  Why did I say a column plus one?
+[00:06:58 -> 00:07:00]  Well, I mean, think about it.
+[00:07:00 -> 00:07:03]  If we solve this column, what's the next logical step?
+[00:07:03 -> 00:07:06]  We solve the next column and then the next.
+[00:07:06 -> 00:07:09]  So my function is a policy.
+[00:07:09 -> 00:07:16]  My function is a policy that is going to know what to do based on the state that it gets
+[00:07:16 -> 00:07:18]  input.
+[00:07:18 -> 00:07:19]  So imagine this.
+[00:07:19 -> 00:07:24]  If I am at the end of this row right over here, if you pass me a column that is out
+[00:07:24 -> 00:07:31]  of bounds and I am not at the final row, what is the natural decision of the recursion?
+[00:07:31 -> 00:07:35]  Well, the recursion is going to say, well, just solve this cell over here, go to the
+[00:07:35 -> 00:07:38]  next row, start in the first column.
+[00:07:38 -> 00:07:40]  So that crafts a base case.
+[00:07:40 -> 00:07:44]  So this gets me to our goal.
+[00:07:44 -> 00:07:47]  So our goal here is to reach our base cases.
+[00:07:47 -> 00:07:55]  So one base case is where we finished a row and we overbound, we out of index on the row
+[00:07:55 -> 00:07:57]  and we need to go to the next row.
+[00:07:57 -> 00:07:59]  That's one base case.
+[00:07:59 -> 00:08:01]  And the final base case is when we're down here.
+[00:08:01 -> 00:08:06]  The final base case is when I out of bounds on the final row.
+[00:08:06 -> 00:08:11]  When I go out of bounds on the final row, that means every row is finished.
+[00:08:11 -> 00:08:15]  If I go out of bounds here, then that means there's more rows to finish.
+[00:08:15 -> 00:08:16]  It's not our final row.
+[00:08:16 -> 00:08:21]  But if it's our final row and we just finished it, that means we finished and that crafts
+[00:08:21 -> 00:08:22]  our base case.
+[00:08:22 -> 00:08:27]  So let's move all our decision space stuff down a little and let's put our base cases
+[00:08:27 -> 00:08:28]  right there.
+[00:08:28 -> 00:08:34]  So what we need to see here is we're slowly understanding sub-problem down, craft my decision
+[00:08:34 -> 00:08:41]  space, adhere to my constraints, converge to a base case, and now what we need to do
+[00:08:41 -> 00:08:44]  is we need to keep in mind, what if a decision doesn't work out?
+[00:08:44 -> 00:08:50]  So if a decision does not work out, once we come back from our exploration, we need
+[00:08:50 -> 00:08:56]  to eject our decision and we can put that right there and it's right there.
+[00:08:56 -> 00:08:57]  That's how we remove our decision.
+[00:08:57 -> 00:09:00]  We just remove it from the cell we placed on.
+[00:09:00 -> 00:09:01]  So this is how it works.
+[00:09:01 -> 00:09:04]  We craft our function based on our choice.
+[00:09:04 -> 00:09:06]  We have base cases we converge to.
+[00:09:06 -> 00:09:12]  We have a decision space and we undo our decisions after we explore on them.
+[00:09:12 -> 00:09:17]  And what we do is at each of these calls, each of these calls has a goal and it tells
+[00:09:17 -> 00:09:23]  us was the Sudoku solvable given the placements that we just did.
+[00:09:23 -> 00:09:26]  So these are the keys to backtracking.
+[00:09:26 -> 00:09:28]  The choice you make.
+[00:09:28 -> 00:09:30]  What is the fundamental sub-problem?
+[00:09:30 -> 00:09:33]  What is the core, core, core decision space?
+[00:09:33 -> 00:09:35]  This is our decision space for a cell.
+[00:09:35 -> 00:09:42]  Our fundamental choice is choosing from this decision space what we want to express in
+[00:09:42 -> 00:09:43]  the cell.
+[00:09:43 -> 00:09:47]  Once we express that, we recurse on that decision.
+[00:09:47 -> 00:09:52]  If the decision doesn't work, we come back and we undo it and we make another choice.
+[00:09:52 -> 00:09:55]  We explore, we undo, we make another choice.
+[00:09:55 -> 00:09:58]  So bring the code back right there.
+[00:09:58 -> 00:09:59]  That's what our for loop is for.
+[00:09:59 -> 00:10:04]  Our for loop is for exploration within the stack frame.
+[00:10:04 -> 00:10:06]  This cell needs to explore one through nine.
+[00:10:06 -> 00:10:08]  This cell explores one through nine.
+[00:10:08 -> 00:10:10]  This cell explores nothing.
+[00:10:10 -> 00:10:11]  It already has a number.
+[00:10:11 -> 00:10:13]  This cell explores one through nine.
+[00:10:13 -> 00:10:15]  So this is one approach to solving the Sudoku problem.
+[00:10:15 -> 00:10:20]  I don't know if there's a way faster than this because this is pretty exponential in
+[00:10:20 -> 00:10:21]  time.
+[00:10:21 -> 00:10:25]  But anyway, this is how backtracking works.
+[00:10:25 -> 00:10:27]  This is how it pans out in my mind.
+[00:10:27 -> 00:10:28]  We make a choice.
+[00:10:28 -> 00:10:32]  We adhere to constraints and we have a goal.
+[00:10:32 -> 00:10:37]  So again, I've done many, many videos on this channel.
+[00:10:37 -> 00:10:39]  Super cool effects going on right there.
+[00:10:39 -> 00:10:44]  I've done many videos on this, but they were a while back and I wanted to kind of retouch
+[00:10:44 -> 00:10:51]  on this topic and give a kind of brief overlook into how backtracking works.
+[00:10:51 -> 00:10:57]  And a lot of times I get questions like, how do you know when you have a backtracking problem?
+[00:10:57 -> 00:11:04]  So you'll know you have a backtracking problem when it's easy to express the answer recursively.
+[00:11:04 -> 00:11:09]  And that's kind of hard to notice unless you have experience using backtracking often,
+[00:11:09 -> 00:11:10]  but you'll just know.
+[00:11:10 -> 00:11:17]  Like if it's, if it says generate all, if it says compute all, if it says, if it says
+[00:11:17 -> 00:11:22]  generate or compute, or I can't really think of other words, but if it says words that
+[00:11:22 -> 00:11:29]  are exhaustive, they're words implying exhaustion of a decision space, then you have a really
+[00:11:29 -> 00:11:33]  good chance that backtracking is going to be one of your solutions.
+[00:11:33 -> 00:11:38]  The only problem with backtracking for exhausting decision spaces is often they are exponential
+[00:11:38 -> 00:11:44]  in time and there may be a more, there may be a smarter way to go about things, but this
+[00:11:44 -> 00:11:45]  is what backtracking is about.
+[00:11:45 -> 00:11:51]  We reduced to our fundamental sub problem here and yeah, that's how the Sudoku solver
+[00:11:51 -> 00:11:52]  works.
+[00:11:52 -> 00:11:53]  And again, I already have a video on that.
+[00:11:53 -> 00:11:58]  I don't think the video is that good, like a lot of my old videos, but yeah, this is,
+[00:11:58 -> 00:11:59]  this is how backtracking works.
+[00:11:59 -> 00:12:02]  This is the fundamental gist behind it.
+[00:12:02 -> 00:12:04]  And I, I didn't have a script for this.
+[00:12:04 -> 00:12:07]  I kind of just went with it and just talked a lot.
+[00:12:07 -> 00:12:09]  So that is all for this video.
+[00:12:09 -> 00:12:14]  This was a kind of briefer one and less in depth into an actual question because I didn't
+[00:12:14 -> 00:12:18]  really have notes for today, but yeah, this is backtracking.
+[00:12:18 -> 00:12:22]  And if you ever get a question like this, I mean, practice helps, but really knowing
+[00:12:22 -> 00:12:27]  what's going on and being comfortable with recursion really helps make these decisions
+[00:12:27 -> 00:12:30]  and making crafting these recursive functions easier.
+[00:12:30 -> 00:12:31]  It's very difficult.
+[00:12:31 -> 00:12:34]  And I honestly, I'm not the best at it either.
+[00:12:34 -> 00:12:40]  I still get stumped on very simple problems, but the more you do it, it becomes more straightforward
+[00:12:40 -> 00:12:42]  and comfortable.
+[00:12:42 -> 00:12:43]  So that's all for this video.
+[00:12:43 -> 00:12:47]  If you like this video, hit the like button, subscribe to this channel.
+[00:12:47 -> 00:12:51]  My goal is to make this one of the world's largest resources for software engineering
+[00:12:51 -> 00:12:52]  interviews.
+[00:12:52 -> 00:12:57]  And until that happens, I don't think I'm going to stop because I think it's a necessity.
+[00:12:57 -> 00:13:04]  I think there just needs to be people aggressively tackling these, these, just this space of
+[00:13:04 -> 00:13:05]  issues.
+[00:13:05 -> 00:13:10]  And I mean, this, this interviewing system is kind of weird, especially in software engineering
+[00:13:10 -> 00:13:12]  because a lot of people have complaints about it.
+[00:13:12 -> 00:13:16]  But I mean, if we don't tackle it head on, I mean, nothing's going to get better if we
+[00:13:16 -> 00:13:17]  just complain about it.
+[00:13:17 -> 00:13:18]  But yeah.
+[00:13:18 -> 00:13:19]  Yeah.
+[00:13:19 -> 00:13:20]  Yeah.
+[00:13:20 -> 00:13:21]  Yeah.
+[00:13:21 -> 00:13:21]  Yeah.

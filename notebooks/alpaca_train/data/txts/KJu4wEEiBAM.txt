@@ -1,0 +1,62 @@
+[00:00:00 -> 00:00:06]  Welcome to Premath. In this video lesson we have got this exponential equation x
+[00:00:06 -> 00:00:13]  power x minus 1 whole square equals to 2x plus 1 and now we are going to find
+[00:00:13 -> 00:00:19]  the value of x minus 1 over x. Please don't forget to give a thumbs up and
+[00:00:19 -> 00:00:24]  subscribe. So let's go ahead and get started with the solution and here's the
+[00:00:24 -> 00:00:28]  very first thing we are going to do. Let's go ahead and take care of the left
+[00:00:28 -> 00:00:33]  hand side of this given equation and here I have copied down this left hand
+[00:00:33 -> 00:00:40]  side of this given equation. Now let's focus on this part x minus 1 whole
+[00:00:40 -> 00:00:46]  square and we are going to use this binomial formula a minus b square so
+[00:00:46 -> 00:00:53]  this could be written as x power this x minus 1 square could be written as x
+[00:00:53 -> 00:01:03]  square minus 2x and then plus 1 and now let's focus on this exponent part x
+[00:01:03 -> 00:01:08]  square minus 2x plus 1 and here I have copied it down and let's go ahead and
+[00:01:08 -> 00:01:16]  manipulate this one. I can write this 1 as I can write 2 minus 1 so therefore
+[00:01:16 -> 00:01:25]  this could be written as x square minus 2x and then plus 2 minus 1. Now I'm
+[00:01:25 -> 00:01:30]  gonna rearrange these one I'm gonna put these one together and these one
+[00:01:30 -> 00:01:37]  together as well so I can write x square and then a plus 2 and then minus 2x
+[00:01:37 -> 00:01:44]  and then minus 1. Now let's go ahead and simplify furthermore x square then plus
+[00:01:45 -> 00:01:51]  2 and here I can take this negative sign outside so this could be written as
+[00:01:51 -> 00:01:56]  negative outside 2x and then plus 1 inside the parentheses therefore we can
+[00:01:56 -> 00:02:02]  write this one x power I'm going to replace this one by this different form
+[00:02:02 -> 00:02:14]  so I can write x square and then plus 2 and then minus 2x and then plus 1 and
+[00:02:14 -> 00:02:20]  now we are going to use this product rule according to this rule I can put
+[00:02:20 -> 00:02:26]  this part and this part separately so therefore I can write this one as x
+[00:02:26 -> 00:02:37]  power x square and then plus 2 and then times x power negative and in parentheses
+[00:02:38 -> 00:02:47]  2x and then plus 1 and now let's focus on this factor x power this negative
+[00:02:47 -> 00:02:54]  exponent negative 2x plus 1 we are going to use this fact and we can write as a
+[00:02:54 -> 00:03:00]  positive exponent when we bring it down to the denominator. Let's go ahead and
+[00:03:00 -> 00:03:07]  write it down this part is going to stay same so x power x square plus 2 at the
+[00:03:07 -> 00:03:14]  numerator divided by this part is going to come to the denominator so this could
+[00:03:14 -> 00:03:22]  be written as 2 power with the 2x plus 1 and now we can see that this our left
+[00:03:22 -> 00:03:28]  hand side has been transformed into this form so we are going to replace this
+[00:03:28 -> 00:03:35]  left hand side by this and now in this next step our left hand side is this new
+[00:03:35 -> 00:03:41]  part and this right hand side is exactly the same 2x plus 1 and now let's go
+[00:03:41 -> 00:03:47]  ahead and remove this fraction by multiplying both side by x power 2x plus
+[00:03:47 -> 00:03:59]  1 on this side and times x power 2x plus 1 on this side as well and here we can
+[00:03:59 -> 00:04:04]  see that this thing cancels out with this one so we ended up on the left hand
+[00:04:04 -> 00:04:15]  side as x power x square and then plus 2 equals to here I can see that I can
+[00:04:15 -> 00:04:27]  write this one 2x and then plus 1 inside parentheses times x power 2x and then
+[00:04:27 -> 00:04:34]  plus 1. Now let's focus on this left hand side we're going to be using this
+[00:04:34 -> 00:04:39]  product rule once again I'm going to write these two parts of this exponents
+[00:04:39 -> 00:04:47]  separately so the left hand side could be written as x power x square and then
+[00:04:47 -> 00:04:56]  times x power 2 and on the right hand side this thing is exactly same 2x plus
+[00:04:56 -> 00:05:05]  1 and then times x power 2x plus 1 and now in the next step I am going to
+[00:05:05 -> 00:05:12]  commute their positions of these two factors so I can rearrange them I can
+[00:05:12 -> 00:05:20]  write x square first and then times x power x square and the right hand side
+[00:05:20 -> 00:05:25]  is going to be exactly same and now in this next step I have wrote down this
+[00:05:25 -> 00:05:30]  part in parentheses as you can see over here and this exponent x square in
+[00:05:30 -> 00:05:35]  parentheses as well and the right hand side is exactly same now in this next
+[00:05:35 -> 00:05:42]  step we are going to use this rule according to this rule we can see that
+[00:05:42 -> 00:05:50]  this x square and this x square is going to be our a this 2x plus 1 and this 2x
+[00:05:50 -> 00:05:56]  plus 1 is going to be our b then according to this rule this could be
+[00:05:56 -> 00:06:07]  written as a equals to b that means x square equals to 2x and plus 1 and
+[00:06:07 -> 00:06:12]  since we are running out of space on the left hand side I just copied down this
+[00:06:12 -> 00:06:18]  one right as you can see and now we have this thing x square equals to 2x plus 1
+[00:06:18 -> 00:06:23]  let's go ahead and move this one on the left hand so we can write this thing as
+[00:06:23 -> 00:06:33]  x square minus 1 equals to 2x go ahead and divide both side by x I'm gonna
+[00:06:33 -> 00:06:40]  divide this one by x this one by x and this one by x across the board and now
+[00:06:40 -> 00:06:46]  we can see x square divided by x is simply is going to give us x minus this
+[00:06:46 -> 00:06:54]  thing becomes 1 over x equals to here x and x they cross each other out so we
+[00:06:54 -> 00:07:02]  got 2 so therefore our x minus 1 over x value turns out to be 2 which is going
+[00:07:02 -> 00:07:08]  to be this is what we are looking for so thus our x minus 1 over x value turns
+[00:07:08 -> 00:07:12]  out to be 2 thanks for watching and please don't forget to subscribe to my
+[00:07:12 -> 00:07:16]  channel for more exciting videos. Bye!

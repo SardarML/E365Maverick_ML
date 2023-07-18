@@ -1,0 +1,613 @@
+[00:00:00 -> 00:00:02]  Coming up on Garden Talk.
+[00:00:30 -> 00:00:34]  So like it has to be L-Amino acids or your plants not going to be able to utilize them at all.
+[00:00:34 -> 00:00:40]  They actually make compounds that help the plant be able to have a more like fibrous and dense root system.
+[00:00:41 -> 00:00:49]  The bacillus and the different types of trichoderma fungi that can be in there are going to be the ones that are doing the majority of the work for everything while mycorrhizae gets all the fame.
+[00:00:55 -> 00:00:56]  What's up, everybody?
+[00:00:56 -> 00:01:01]  If you that don't know me, my name is Chris, a.k.a. Mr. Grow It, and you're tuned into the Garden Talk podcast.
+[00:01:01 -> 00:01:03]  This is episode number 27.
+[00:01:03 -> 00:01:06]  In this episode, I talk with Guru from the Do Grow Show.
+[00:01:06 -> 00:01:16]  He has been gardening for 11 years and grows a variety of plants such as tomatoes, cucumbers, blueberries, blackberries, medicinal varieties, beets and more.
+[00:01:16 -> 00:01:18]  In this episode, we talk all about microbes.
+[00:01:18 -> 00:01:22]  He talks about several different types of microbes and how they benefit plant growth.
+[00:01:22 -> 00:01:25]  Thanks to all of you that support this podcast through Patreon.
+[00:01:25 -> 00:01:30]  If you'd like to support, you can do so by going to patreon.com slash Mr. Grow It.
+[00:01:30 -> 00:01:38]  Before I go any further, I want to acknowledge that this podcast is part of my desire and effort to bring zero cost for information about gardening to the general public.
+[00:01:38 -> 00:01:42]  In keeping with that theme, I'd like to thank the sponsors of today's podcast.
+[00:01:43 -> 00:01:45]  A big supporter of this podcast is Spider Farmer.
+[00:01:45 -> 00:01:49]  They sponsored this podcast and I use their LED grow lights.
+[00:01:49 -> 00:01:52]  Spider Farmer now has a bar style series of LED grow lights.
+[00:01:53 -> 00:01:58]  They have the SE3000, a four bar fixture for a three foot by three foot grow space.
+[00:01:59 -> 00:02:04]  The SE5000, a six bar fixture for a four foot by four foot grow space.
+[00:02:04 -> 00:02:09]  And the SE7000, a six bar fixture for a five foot by five foot grow space.
+[00:02:10 -> 00:02:13]  I will leave a link to Spider Farmer down in the description section below.
+[00:02:14 -> 00:02:19]  And you can use discount code MrGrowIt5 during checkout for discount on their products.
+[00:02:19 -> 00:02:22]  Thanks to AC Infinity for sponsoring this podcast.
+[00:02:22 -> 00:02:29]  They sent me over their grow tent, which has a canvas density of 2000D, making them the thickest grow tent on the market today.
+[00:02:29 -> 00:02:35]  It has an aluminum plate that mounts your controller to the grow tent with a light proof pass through for cable routing.
+[00:02:35 -> 00:02:41]  The frame has 50% thicker steel poles and carries two times more weight than the standard grow tents.
+[00:02:41 -> 00:02:45]  Coupon code MrGrowIt will get you a discount on their products.
+[00:02:45 -> 00:02:48]  And I'll leave a link to their website down in the description section below.
+[00:02:49 -> 00:02:51]  Dutch Pro is a sponsor of the podcast.
+[00:02:51 -> 00:02:55]  Coupon code MrGrowIt10DP will get you a discount on their products.
+[00:02:55 -> 00:02:59]  They are a plant fertilizer company that has been around for over 30 years.
+[00:03:00 -> 00:03:04]  They originated in Amsterdam and their nutrients are available in several countries across the world.
+[00:03:04 -> 00:03:10]  They have everything needed for proper plant nutrition from base nutrients, additives and pH regulators.
+[00:03:11 -> 00:03:15]  I will leave a link to Dutch Pro's Amazon store down in the description section below.
+[00:03:15 -> 00:03:19]  And don't forget to use coupon code MrGrowIt10DP for a discount on their products.
+[00:03:20 -> 00:03:22]  All right, now let's get into the episode.
+[00:03:23 -> 00:03:24]  All right, we are back.
+[00:03:25 -> 00:03:26]  Welcome to the Garden Talk podcast.
+[00:03:26 -> 00:03:31]  I am here joined with the Grow Guru from the Dude Grow Show.
+[00:03:31 -> 00:03:31]  How you doing today?
+[00:03:32 -> 00:03:33]  What's going on, man?
+[00:03:33 -> 00:03:33]  How you doing?
+[00:03:33 -> 00:03:34]  Happy to be here.
+[00:03:35 -> 00:03:37]  Super excited to have you on, man.
+[00:03:37 -> 00:03:41]  I mean, I've been watching the Dude Grow Show for a very long time and you came on.
+[00:03:41 -> 00:03:48]  I know you came on like three, four hundred episodes deep or whatever, and you just add so much value to the show.
+[00:03:48 -> 00:03:52]  And it's your knowledge is extensive in so many different areas.
+[00:03:53 -> 00:03:56]  And yeah, it's definitely really fun watching you.
+[00:03:56 -> 00:04:01]  And it's an honor to kind of have you on here and pick your brain even deeper.
+[00:04:01 -> 00:04:02]  So I'm excited.
+[00:04:02 -> 00:04:03]  Pick away.
+[00:04:03 -> 00:04:09]  But before we get into microbes, which is the topic today, we'll get all into microbes.
+[00:04:09 -> 00:04:10]  So many different microbes.
+[00:04:10 -> 00:04:11]  So much to talk about.
+[00:04:12 -> 00:04:14]  Tell us a little bit about yourself and how you got into gardening.
+[00:04:15 -> 00:04:18]  So, I mean, it started when I was really young.
+[00:04:18 -> 00:04:24]  My grandmother got me into gardening and one of my grandfathers was also a master gardener growing up.
+[00:04:24 -> 00:04:26]  So, I mean, it just plants were always around.
+[00:04:26 -> 00:04:31]  My mom has a beautiful garden and it was just always something that interests me a lot.
+[00:04:32 -> 00:04:33]  Plants are really cool.
+[00:04:33 -> 00:04:41]  And I specifically like to take a much more science-approached or science-backed approach to medicinal herb gardening, for sure.
+[00:04:41 -> 00:04:42]  Nice.
+[00:04:42 -> 00:04:45]  And so you decided to join the Dude Grows show.
+[00:04:45 -> 00:04:47]  How did that all come about, if you don't mind me asking?
+[00:04:47 -> 00:04:48]  How did you kind of join the team there?
+[00:04:48 -> 00:04:50]  And that was in 2017, right?
+[00:04:51 -> 00:04:52]  2016.
+[00:04:53 -> 00:04:57]  When I first moved out to Colorado, I had met up with Scott a couple years earlier.
+[00:04:58 -> 00:05:04]  They had been talking about Black Dog LED and saying that there's no good LEDs out there.
+[00:05:04 -> 00:05:05]  They're all blurples and stuff.
+[00:05:05 -> 00:05:12]  And at the time, I was in school and designing and building my own LED lights and selling them to some people.
+[00:05:12 -> 00:05:15]  Ended up not going along that path.
+[00:05:15 -> 00:05:21]  But I got in touch with Scott and was like, hey, you guys are giving people really bad advice about this.
+[00:05:21 -> 00:05:22]  LEDs are the future.
+[00:05:23 -> 00:05:25]  HPS is like a thing of the past.
+[00:05:25 -> 00:05:26]  This is something you need to talk about.
+[00:05:26 -> 00:05:30]  You need to let people know that there's good information on this out there.
+[00:05:30 -> 00:05:34]  And there are good LEDs out there that far surpass what HPS could do.
+[00:05:34 -> 00:05:38]  So Scott flew me out to one of the cups.
+[00:05:38 -> 00:05:40]  Came, hung out with him for a while.
+[00:05:40 -> 00:05:42]  Decided I was going to move out to Colorado.
+[00:05:42 -> 00:05:45]  I was still in school at the time and moved out.
+[00:05:45 -> 00:05:49]  And then Scott had a job for me right away and started getting rolling with the Dude Grow Show.
+[00:05:50 -> 00:05:50]  That's awesome.
+[00:05:50 -> 00:05:53]  I think you guys really complement each other.
+[00:05:53 -> 00:05:55]  You know, you all have different personalities.
+[00:05:55 -> 00:05:57]  You know, you, Dude, Scotty.
+[00:05:57 -> 00:06:00]  And you guys just flow so well together.
+[00:06:00 -> 00:06:00]  It's pretty cool.
+[00:06:00 -> 00:06:05]  I actually hear that a lot with on my podcast, From the Stash, with me, Rob,
+[00:06:05 -> 00:06:07]  Conhenders Lifestyle TV, and Pigeons420.
+[00:06:07 -> 00:06:08]  I feel like it's similar.
+[00:06:08 -> 00:06:10]  You guys just flow so well together.
+[00:06:10 -> 00:06:11]  It's awesome.
+[00:06:11 -> 00:06:17]  And actually, I was going to say we're all, and you guys too, we're all really good foils for each other.
+[00:06:17 -> 00:06:19]  Everyone has different approaches to things.
+[00:06:20 -> 00:06:29]  And it's cool to get those different ideas for as a listener to be able to listen to that and be able to make your own decision off of stuff and hear just a variety of ideas.
+[00:06:30 -> 00:06:30]  Well said.
+[00:06:30 -> 00:06:31]  I do have a few numbers here.
+[00:06:31 -> 00:06:41]  You guys have on the Dude Grows channel over 67,000 subscribers, 1,892 videos, over 9.3 million views combined.
+[00:06:41 -> 00:06:45]  So you guys have been very successful and definitely thank you for your efforts there.
+[00:06:45 -> 00:06:47]  And I'm excited to see what you guys got in the future.
+[00:06:47 -> 00:06:48]  Thank you.
+[00:06:48 -> 00:06:55]  Yeah, it was really cool to be able to, like, I grew up in Virginia where, I mean, everything related to medicinal gardening was super hush-hush.
+[00:06:56 -> 00:07:05]  And getting out here and being able to be on a YouTube show and share some knowledge with people and get everyone just growing better has been really cool.
+[00:07:06 -> 00:07:07]  Living the dream.
+[00:07:07 -> 00:07:08]  Right?
+[00:07:08 -> 00:07:14]  And helping people, which is, like, one of my favorite things to do and educating them and helping them at the same time.
+[00:07:15 -> 00:07:25]  And then, like, my favorite thing is hearing a new grower get back in touch with us, say they found the podcast or the YouTube show and they got their first harvest and it was awesome and how happy they are.
+[00:07:25 -> 00:07:27]  That fucking gets me.
+[00:07:28 -> 00:07:29]  Super rewarding.
+[00:07:29 -> 00:07:30]  Oh, yeah.
+[00:07:30 -> 00:07:38]  Before we get deep into specific microbes, tell us, what are microbial inoculants and how are they beneficial in the garden?
+[00:07:39 -> 00:07:43]  So there's a couple different ways that those microbial inoculants are going to be beneficial in the garden.
+[00:07:43 -> 00:07:53]  First and foremost, they act as root growth promoting rhizobacteria, where they actually make compounds that help the plant be able to have a more, like, fibrous and dense root system.
+[00:07:54 -> 00:08:03]  Which, I mean, we've all heard it before, more roots, more fruits and just an overall healthier plant that can absorb more nutrition because plants can only absorb nutrition from the tips of the root.
+[00:08:04 -> 00:08:13]  And these plant growth, plant growth promoting rhizobacteria are able to get more tips around by growing out more tertiary and secondary roots.
+[00:08:13 -> 00:08:33]  But at the same time, those bacteria have evolved over millions of years in a symbiotic relationship with the plant, where not only do they do that, the plant puts out carbohydrates as exudates to feed them and kind of control the microbial population that's there so that it can exponentially increase the surface area of its root zone.
+[00:08:34 -> 00:08:41]  And just those microbes are able to break down nutrient, get it into an ionic form and hold on to it until the plant signals that it needs it.
+[00:08:41 -> 00:08:42]  And then they can get it to the plant.
+[00:08:43 -> 00:08:48]  And none of that is, that's all as far as, like, plant nutrition and plant growth.
+[00:08:49 -> 00:08:52]  They also put up, like, a no vacancy sign to pathogens.
+[00:08:53 -> 00:08:57]  They would normally get into your garden and there'd be room for them to grow and expand.
+[00:08:57 -> 00:09:03]  And that's when you end up with something like Pythium or Phytophthora, those really bad root diseases.
+[00:09:03 -> 00:09:12]  But when you have good beneficial microbes in there, they are making compounds that make it not a hospitable environment for those bad actors.
+[00:09:13 -> 00:09:17]  And also just puts up the no vacancy sign telling them, like, hey, there's no room for you here, man.
+[00:09:17 -> 00:09:18]  Go somewhere else.
+[00:09:18 -> 00:09:19]  That's pretty cool.
+[00:09:19 -> 00:09:20]  That makes sense.
+[00:09:20 -> 00:09:23]  Now, some folks, I think it's pretty well known.
+[00:09:23 -> 00:09:33]  You know, if you're a beginner, you might not know this, but a lot of folks that are above the beginner stage, intermediate stage, know that there are synthetic nutrients that are plant available.
+[00:09:33 -> 00:09:35]  They're already in a form that the plant can uptake.
+[00:09:35 -> 00:09:40]  Then there are organic nutrients, which need to be broken down by microbes first.
+[00:09:40 -> 00:09:43]  And that's where microbes are especially important.
+[00:09:43 -> 00:09:50]  You know, having these different microbial inoculants, adding them into the medium to help with that breakdown process is key on the organic side of things.
+[00:09:50 -> 00:09:58]  Now, there's some folks out there that are going to say, well, I'm using synthetic bottled nutrients or mineral based, salt based, whatever you want to call it.
+[00:10:00 -> 00:10:02]  Microbes aren't going to be beneficial for me at all.
+[00:10:03 -> 00:10:04]  Can you give us your thoughts on that?
+[00:10:04 -> 00:10:05]  Is that true or not?
+[00:10:06 -> 00:10:08]  Oh, first and foremost, definitely not true.
+[00:10:08 -> 00:10:15]  I hear this all the time and it's one of the big myths in gardening, especially in that synthetic style of gardening.
+[00:10:16 -> 00:10:24]  Those nutrients, there's a big problem with them just washing away or they're being like pH lockout in the soil.
+[00:10:24 -> 00:10:34]  Microbes are able to act like a buffer and they're able to deliver nutrition at much wider ranges of pH, especially when you have a good consortia or breakdown of the different microbes that are in there.
+[00:10:36 -> 00:10:48]  So, yeah, I mean, microbes are key and in synthetic, it is important to note that like endogenous microorganisms, ones that are just in your yard, in the backyard or in your compost when you brew a compost tea.
+[00:10:49 -> 00:10:54]  Most of those don't persist that great in like an agricultural or horticultural system.
+[00:10:55 -> 00:11:00]  Just the higher salinity environments, it's much more environmental stress on those microbial populations.
+[00:11:01 -> 00:11:10]  But one of the cool things about microbes is you can go through successive generations of breeding them really quickly and kind of select for the environment that you want to be in.
+[00:11:10 -> 00:11:12]  And not all microbes are created equal.
+[00:11:12 -> 00:11:16]  You can kind of think of them like technology products where someone's Bacillus subtilis.
+[00:11:17 -> 00:11:29]  It might say this exact same thing on the label that it's Bacillus subtilis, but there can be a wide variety of different strains of them and how the different environments that they're able to operate in are.
+[00:11:29 -> 00:11:48]  So, I mean, you can have one thing on one label, one on another, but like one might work way better because it's been designed to operate in like that higher salinity environment, containerized gardening, like high turnover crops where like you really want to get the best growth you possibly can as early on and through the entire life cycle of the plant.
+[00:11:48 -> 00:11:55]  So it's definitely still beneficial, even if you're using synthetic nutrients in an ionized form.
+[00:11:55 -> 00:11:58]  It's still beneficial to have microbes to use microbial inoculants.
+[00:11:58 -> 00:12:03]  Oh, most definitely because another cool thing they're able to do, it's called adsorbing.
+[00:12:04 -> 00:12:10]  The microbes do kind of the same thing soil particles do when ionic nutrients flow through it.
+[00:12:10 -> 00:12:19]  Those nutrients adsorb onto soil particles and then are kind of stuck there until a root comes along with a higher affinity to that ion that's stuck to the soil particle.
+[00:12:20 -> 00:12:29]  Microbes kind of act like in that same way where they can adsorb this nutrition and then be able to hold on to it in a plant available form and deliver it to the plant.
+[00:12:29 -> 00:12:37]  So you don't, you can, when you're using good microbes, you're able to cut back on your nutrients too, just because you're more efficiently and effectively getting that into the plant.
+[00:12:37 -> 00:12:38]  That's so cool.
+[00:12:39 -> 00:12:40]  That's really interesting.
+[00:12:40 -> 00:12:47]  So, yeah, I mean, the big, big myth that we hear all the time and it's taken a lot of education for people to be like, no, no, no, no.
+[00:12:47 -> 00:12:48]  Like you still need to use it.
+[00:12:48 -> 00:12:51]  And that's just talking about it in terms of plant nutrition.
+[00:12:52 -> 00:12:58]  As a bioprotectant in the soil and prevent, especially if you're in hydroponics, preventing Pythium and Phyphothora.
+[00:12:58 -> 00:13:00]  I don't know if you've ever had those in a garden.
+[00:13:00 -> 00:13:01]  No.
+[00:13:01 -> 00:13:12]  If you're in a hydroponic system and it's connected together like on a central reservoir that can wipe out an entire garden in a day and a half where it turns all your roots, your pearly white roots to just mush.
+[00:13:13 -> 00:13:21]  And a good way around not ever having to deal with that is using good microbes in there that act as a bioprotectant in the soil or in whatever media you're using.
+[00:13:22 -> 00:13:35]  So the idea is kind of like pest management, but with these pathogens where get the good microbes in there inhabiting the root zone so that when Pythium or Phyphothora shows up, it never has a chance to even take hold.
+[00:13:35 -> 00:13:39]  The good microbes are just there and outcompete it for the same resources in the same space.
+[00:13:39 -> 00:13:41]  What about hydrogen peroxide?
+[00:13:41 -> 00:13:43]  I heard that is a remedy for it.
+[00:13:44 -> 00:13:46]  That is one of the remedies.
+[00:13:46 -> 00:13:49]  Kind of going with the old style of thinking on things.
+[00:13:49 -> 00:13:55]  We're like, I need to keep everything as sterile as I possibly can, like a operating room at a hospital.
+[00:13:56 -> 00:13:59]  And I mean, the same thing kind of happens in operating rooms and hospitals.
+[00:14:00 -> 00:14:06]  They have pan-resistant bacteria that just like no antibiotics work on.
+[00:14:07 -> 00:14:11]  You get into that where like if you're just always sterilizing things, nature is not sterile.
+[00:14:11 -> 00:14:16]  And it's really hard, really, really hard to keep things sterile, especially a plant.
+[00:14:16 -> 00:14:24]  And you're losing all of the good like bioprotective features of good microbial consortia living in the root zone.
+[00:14:24 -> 00:14:28]  Because hydrogen peroxide is going to kill whatever microorganisms you have in there.
+[00:14:28 -> 00:14:29]  Good and bad, right?
+[00:14:29 -> 00:14:30]  Good and bad.
+[00:14:30 -> 00:14:32]  It'll just murk them all.
+[00:14:33 -> 00:14:34]  And it's kind of the same thing.
+[00:14:34 -> 00:14:37]  Have you ever noticed people that like go on really heavy antibiotics?
+[00:14:38 -> 00:14:41]  They're not the same like initially afterwards.
+[00:14:41 -> 00:14:45]  You have to eat a lot of yogurt and probiotics where like it just wiped out your gut microbiome.
+[00:14:46 -> 00:14:49]  70% of your immune system is in your gut microbiome.
+[00:14:49 -> 00:14:54]  And like it's extremely necessary for your health and everything.
+[00:14:54 -> 00:14:55]  There's a direct connection.
+[00:14:56 -> 00:14:58]  Just to analogize people to plants.
+[00:14:59 -> 00:15:01]  Our intestines are like our root system.
+[00:15:02 -> 00:15:05]  Where they're inhabited by our microbiome that lives in there.
+[00:15:05 -> 00:15:08]  They help break stuff down and deliver the nutrition to us.
+[00:15:08 -> 00:15:14]  Your gut is connected directly to your vagus nerve all the way straight to your brain.
+[00:15:14 -> 00:15:24]  And they're starting to find more and more that the consortia or the proportions of different microbes that are in your gut can have a huge turn on effect for more than just like your gut health.
+[00:15:24 -> 00:15:35]  Like there are certain ones that like they're starting to find like might have more to do with like anxiety and depression or different middle disorders are really just an imbalance in your gut microbiome.
+[00:15:36 -> 00:15:37]  Wow, that's really interesting.
+[00:15:37 -> 00:15:40]  And then kind of sticking to the topic of the amount of microbes.
+[00:15:41 -> 00:15:43]  Let's talk about CFU colony forming unit.
+[00:15:43 -> 00:15:45]  So I've got some recharge right here.
+[00:15:45 -> 00:15:47]  I've got a microbial inoculant recharge.
+[00:15:48 -> 00:15:50]  It says what the microbe is and then next to it.
+[00:15:50 -> 00:15:55]  It says for example, 6.4 CFU slash G.
+[00:15:55 -> 00:15:57]  So what is what does that mean?
+[00:15:57 -> 00:15:58]  What is a colony?
+[00:15:58 -> 00:15:59]  What is CFU colony forming unit?
+[00:16:00 -> 00:16:03]  Why should growers care about it when they're shopping for microbial inoculants?
+[00:16:03 -> 00:16:10]  So colony colony colony forming units or CFUs that's in a per gram ratio.
+[00:16:11 -> 00:16:17]  So that's how many different like actual spores of that and generally is just used for the mycorrhizae that's in there.
+[00:16:17 -> 00:16:25]  But how many active growing spores are in each gram and are able to start to inoculate and grow along the route.
+[00:16:25 -> 00:16:35]  So the more the higher the number of CFUs you have the more of the actual spores that are in there and it's not usually a like necessary thing to be on there.
+[00:16:35 -> 00:16:40]  So like when you look at soils or like pro-mix HP the pro-mix high porosity with mycorrhizae.
+[00:16:41 -> 00:16:47]  It has almost no mycorrhizae in it because they put it in it like a per yard rate and it's really small to begin with but they have mycorrhizae on the label.
+[00:16:48 -> 00:16:58]  Where something else like recharge we have a ton of mycorrhizae in there and not just it is a blend of endo and ecto for short day flowering plants.
+[00:16:59 -> 00:17:07]  We do run into ecto is really meant for trees like Christmas trees is a really good example where it branches out away from the plant.
+[00:17:07 -> 00:17:15]  Ecto meaning it's it's outside of they've had different studies and stuff where they had like a whole commercial Christmas tree farm.
+[00:17:16 -> 00:17:22]  And they decided to put a fence around it that fence when they did it they like cut through the ground.
+[00:17:24 -> 00:17:31]  It was surrounded by a forest they cut off that Christmas tree farm from its mycorrhizal network to the force that's around it.
+[00:17:32 -> 00:17:43]  And when it did that it put the whole Christmas tree into the Christmas tree farm and decline because that mycorrhizal network was using the forest around it to support those trees growing there.
+[00:17:43 -> 00:17:48]  Not necessarily that they had all the nutrients they needed right where they were but the force was able to support that.
+[00:17:48 -> 00:17:57]  And when they put that fence in it cut it off from everything and they like drastically noticed that their force was going or that their Christmas tree farm was going into decline.
+[00:17:58 -> 00:17:59]  That's insane.
+[00:17:59 -> 00:18:00]  That's so crazy.
+[00:18:01 -> 00:18:07]  I want to bring it back to what you said, which you had mentioned that there was a product that has mycorrhizal on it, but it's like barely anything right?
+[00:18:08 -> 00:18:19]  So I've actually interviewed somebody on this podcast before and this person had said that some products on the market today don't have enough CFUs to actually be effective.
+[00:18:19 -> 00:18:28]  I want to kind of highlight that point that there could be some products out there where they're on the label, but there's really not enough amount to be effective.
+[00:18:28 -> 00:18:31]  Now when we go through these individual microbes here, I don't know.
+[00:18:31 -> 00:18:34]  I'm kind of kind of putting you under the gun here.
+[00:18:34 -> 00:18:43]  If you have any information on what CFU should be for each of these microbes as we go through of it, please, you know, let us know so we're not getting ripped off here.
+[00:18:43 -> 00:18:44]  Oh for sure.
+[00:18:45 -> 00:18:52]  But generally it's look for the highest numbers you can find just in my opinion having more good microbes in there.
+[00:18:52 -> 00:19:02]  Like those populations will figure themselves out once they're in the soil and into that environment where they actually start to get selected for the environment that they're in.
+[00:19:03 -> 00:19:06]  But yeah, generally just a bigger number is better in this case.
+[00:19:07 -> 00:19:09]  And so we don't really need to worry about like a balance.
+[00:19:09 -> 00:19:16]  We don't have to like look at the back of the label and say, well, this only has this CFUs, but this has a lot higher and it might throw off the diversity.
+[00:19:16 -> 00:19:17]  Do we have to worry about that?
+[00:19:18 -> 00:19:24]  So that's so like labeling with things is a big game that you have to play.
+[00:19:25 -> 00:19:26]  The back of labels.
+[00:19:26 -> 00:19:31]  It's almost always even your fertilizers that you buy where it'll have like 20-20-20 on the side of it.
+[00:19:32 -> 00:19:34]  That's a guaranteed minimum.
+[00:19:34 -> 00:19:38]  That's not necessarily saying like the exact proportion of everything that's in there.
+[00:19:40 -> 00:19:43]  So it's it's so hard and like soil.
+[00:19:43 -> 00:19:46]  They don't have to list the ingredients in order of what's in there the most.
+[00:19:46 -> 00:19:51]  They put mycorrhizae first and list everything else because they think people will just think it's the same rules for food.
+[00:19:51 -> 00:19:54]  We're like the thing that's in there and the highest amount is in there.
+[00:19:55 -> 00:20:04]  So I mean, it's kind of hard without actually trying stuff or getting it tested is even better to see like what it actually tests out at.
+[00:20:04 -> 00:20:05]  Wow.
+[00:20:05 -> 00:20:06]  I didn't know that about.
+[00:20:06 -> 00:20:06]  Yeah.
+[00:20:06 -> 00:20:08]  I thought the order was in just like food.
+[00:20:08 -> 00:20:10]  I thought the order it was in was the most amount.
+[00:20:11 -> 00:20:11]  Yeah.
+[00:20:11 -> 00:20:15]  No, it's it's all a game of guaranteed minimums on those things.
+[00:20:15 -> 00:20:20]  So that makes it like as the end consumer I could deal with it all the time with regulatory bodies and stuff.
+[00:20:20 -> 00:20:31]  But the end consumer it's really hard to look at something and just like by the back of it be able to know if like one if that is completely truthful or yeah, it's it just makes it really difficult.
+[00:20:32 -> 00:20:37]  I can't say with recharge everything is in there far exceeds what we have on the label.
+[00:20:37 -> 00:20:41]  That was like we just put a lower number on there to be safe with everything.
+[00:20:41 -> 00:20:45]  There's a lot more of those microbes in there when you actually get it tested.
+[00:20:46 -> 00:20:46]  Gotcha.
+[00:20:46 -> 00:20:48]  And just a touch on recharge real quick.
+[00:20:48 -> 00:20:50]  So that's a microbial inoculant.
+[00:20:50 -> 00:20:59]  It's got a whole bunch of different things in there along bunch of beneficial microbes along with like help molasses humic acids fulvic acids amino acids.
+[00:21:00 -> 00:21:02]  We we really like to think about that more.
+[00:21:03 -> 00:21:05]  There's a lot of microbial inoculants out there.
+[00:21:05 -> 00:21:15]  This one comes together like a really good instant compost tea where not only does it have the wide range of bacillus in there that are targeted at horticulture and agricultural systems.
+[00:21:15 -> 00:21:20]  It's got the trichoderma fungi molasses is a food stock for everything.
+[00:21:20 -> 00:21:21]  They're built on kelp as a carrier.
+[00:21:21 -> 00:21:27]  It's got the L amino acids and a lot of people don't realize with amino acids if they're not in their L form.
+[00:21:27 -> 00:21:29]  They are not plant available at all.
+[00:21:30 -> 00:21:35]  So like it has to be L amino acids or your plants not going to be able to utilize them at all.
+[00:21:35 -> 00:21:38]  And then humic and fulvic acids which just act as like key laters.
+[00:21:39 -> 00:21:44]  So they help the micros be able to do their job a little bit more effectively.
+[00:21:44 -> 00:21:57]  So not only are the key laters they act as kind of catalyst for biological reactions to where they lower the energy of activation needed to start a reaction so that it's just a more efficient metabolism going on in there.
+[00:21:57 -> 00:21:58]  Gotcha.
+[00:21:58 -> 00:22:02]  And just for Trump's transparency purposes, what's your affiliation with recharge?
+[00:22:03 -> 00:22:06]  I am an operations manager over at recharge.
+[00:22:06 -> 00:22:11]  So yeah, I do have gotcha represent just being just being transparent.
+[00:22:11 -> 00:22:12]  Yeah, exactly.
+[00:22:12 -> 00:22:13]  Yeah, I do work for them.
+[00:22:13 -> 00:22:13]  Yep.
+[00:22:13 -> 00:22:14]  Yep.
+[00:22:14 -> 00:22:15]  No, it makes sense.
+[00:22:15 -> 00:22:24]  But it is a great product something I use in my garden off and on like I mentioned in Scotty's episode is like I try to switch things up for my viewers, you know, and I have to do the same thing over and over again.
+[00:22:24 -> 00:22:25]  Viewers get bored.
+[00:22:25 -> 00:22:29]  So every once in a while, I'll kick in some recharge, but I love it.
+[00:22:29 -> 00:22:30]  So it's good.
+[00:22:30 -> 00:22:31]  Very nice.
+[00:22:32 -> 00:22:36]  Now, let's get into some of the individual microbes.
+[00:22:36 -> 00:22:39]  You have knowledge on quite a bit of them.
+[00:22:39 -> 00:22:42]  Let's start with trichoderma want to talk to us about that?
+[00:22:42 -> 00:22:45]  Okay, trichoderma is one of my favorite ones.
+[00:22:46 -> 00:22:48]  It is a voracious decomposer.
+[00:22:48 -> 00:22:59]  It's probably the class I would put it in like it's origin story of where trichoderma actually started comes from a single point of contact in the South Pacific during World War Two.
+[00:22:59 -> 00:23:06]  Um, they had set up camp somewhere like in the monsoon season in the South Pacific believe in the Philippines.
+[00:23:06 -> 00:23:07]  They had wax canvas tents everywhere.
+[00:23:07 -> 00:23:08]  Like at that time.
+[00:23:08 -> 00:23:10]  That's what everyone was using.
+[00:23:10 -> 00:23:18]  They had set up camp within three days their wax canvas tents, which are extremely waterproof and just resistant to anything going on.
+[00:23:18 -> 00:23:28]  Environmentally started literally melting away and it's because they had come into contact with some trichoderma fungi that was collected as a sample.
+[00:23:28 -> 00:23:32]  Brought back to labs and then a lot of work has been done with it since then.
+[00:23:32 -> 00:23:36]  It's used in a lot of industrial processes that like never really get mentioned.
+[00:23:36 -> 00:23:38]  It's used in stone washing jeans.
+[00:23:40 -> 00:23:41]  Trying to think of something else.
+[00:23:41 -> 00:23:55]  It's used in but in gardening they found out that it is able to really really really quickly break down those organic nutrients that you'd be putting into your soil so that they are able to get to a plant available form much faster.
+[00:23:56 -> 00:24:07]  And yeah, I mean it also is very competitive with other fun guys that are around and is able to outcompete most of the pathogenic ones that it's going to come into contact with.
+[00:24:07 -> 00:24:11]  And so there are different strains of it.
+[00:24:12 -> 00:24:13]  Just kind of looking at recharge.
+[00:24:14 -> 00:24:15]  It's a let's see.
+[00:24:15 -> 00:24:15]  What do you got?
+[00:24:15 -> 00:24:17]  You got trichoderma resea.
+[00:24:18 -> 00:24:20]  I'm going to butcher these names by the way.
+[00:24:20 -> 00:24:21]  So fair warning.
+[00:24:21 -> 00:24:24]  These names are easily be able to be butchered.
+[00:24:25 -> 00:24:26]  Trichoderma horizontal.
+[00:24:27 -> 00:24:28]  Horizontal.
+[00:24:28 -> 00:24:30]  Horizontal.
+[00:24:31 -> 00:24:33]  Sorry, I struggle with that one too.
+[00:24:34 -> 00:24:38]  Do you have anything to add like on those specific types of strains?
+[00:24:38 -> 00:24:46]  It's not it's not super necessary to go into like the specific strains of those just that trichoderma is like a class.
+[00:24:47 -> 00:24:51]  It is very quick at breaking stuff down, especially organic nutrients.
+[00:24:52 -> 00:24:54]  It's like a single celled.
+[00:24:54 -> 00:24:55]  Fungi.
+[00:24:55 -> 00:25:07]  So it's not where it's going to have like mushrooms growing off of the top of it or anything like that, but it really is able to get in there and it's good for bioprotection and preventing any of those root pathogens from popping up.
+[00:25:07 -> 00:25:07]  Okay.
+[00:25:07 -> 00:25:08]  Gotcha.
+[00:25:08 -> 00:25:11]  Another one that bacillus, you know, let's move on to that.
+[00:25:11 -> 00:25:19]  I see the bacillus in almost every single one of the micro products that I that I have and looks like you guys got three different strains of it.
+[00:25:19 -> 00:25:20]  Is that right?
+[00:25:20 -> 00:25:22]  Strains different strains of them?
+[00:25:22 -> 00:25:22]  Yeah.
+[00:25:23 -> 00:25:23]  Yeah.
+[00:25:23 -> 00:25:24]  Strains of them.
+[00:25:25 -> 00:25:26]  Talk to us about bacillus.
+[00:25:26 -> 00:25:28]  So bacillus is really cool.
+[00:25:28 -> 00:25:34]  It is one of the like real turn-on effects in microbial inoculants.
+[00:25:35 -> 00:25:40]  Most people give the credit to mycorrhizae and that's been like a buzzword for years in gardening.
+[00:25:40 -> 00:25:48]  Most people don't realize that ectomycorrhizae can even infect short-day flowering plants or the medicinal plants people like to grow.
+[00:25:48 -> 00:25:57]  It just doesn't have enough time to get in there and start to build up that network where the endomycorrhizae is actually the one that is able to do stuff in there.
+[00:25:58 -> 00:26:02]  But those have been buzzwords and don't really do that much in my opinion.
+[00:26:02 -> 00:26:12]  Bacillus are really the like main turn-on effect for root growth promotion in the soil where they're able to make like endogenously inside of themselves.
+[00:26:12 -> 00:26:19]  IBA to help plants root out and get more root shoots and secondary and tertiary rooting.
+[00:26:19 -> 00:26:23]  So it has like exponentially more root tips to be able to absorb nutrition from.
+[00:26:24 -> 00:26:25]  Bacillus are really cool.
+[00:26:26 -> 00:26:31]  They're also really easy to start selecting for different environments that you want them to be able to persist better in.
+[00:26:32 -> 00:26:34]  And then my favorite fact about them.
+[00:26:35 -> 00:26:41]  It's all called a consortia when you have like a population of different microorganisms.
+[00:26:41 -> 00:26:46]  And when you have the right proportions of the right ones you get an effect.
+[00:26:46 -> 00:26:51]  It's like much more than the sum of their parts where it's not just like an additive effect where they're going together.
+[00:26:52 -> 00:26:59]  It's like exponentially making it better and able to have a more turn-on effect for the plant.
+[00:26:59 -> 00:27:01]  What about Geobacillus?
+[00:27:01 -> 00:27:04]  So that's one I'm not super familiar with.
+[00:27:05 -> 00:27:14]  I know that it was discovered inside of like geysers or hot water vents like at the bottom of the seabed where these Bacillus.
+[00:27:14 -> 00:27:23]  I don't think they have too much use in plants just where they're like preferred environment is over like 95 Celsius.
+[00:27:23 -> 00:27:26]  So like right near the boiling point of water.
+[00:27:27 -> 00:27:28]  But really cool microbes.
+[00:27:29 -> 00:27:37]  I know in industry they're going to start to use those a lot more just be in the type of applications that they're in like higher heat environments and stuff.
+[00:27:38 -> 00:27:41]  And I think they also live in like your hot water heater.
+[00:27:41 -> 00:27:53]  They'll find them in a hot water heater sometimes just because it's a place where it's like right around a hundred degrees Celsius all the time and they are basically the only thing that lives in that type of environment and can thrive there.
+[00:27:54 -> 00:27:55]  What about Glowmus?
+[00:27:55 -> 00:27:57]  I see that on a lot of products.
+[00:27:57 -> 00:27:59]  So Glowmus is mycorrhizae.
+[00:28:00 -> 00:28:02]  So there's an endo and an ecto form of it.
+[00:28:02 -> 00:28:06]  Ecto is on the outside of the root and grows like out into the soil.
+[00:28:06 -> 00:28:10]  And in an effect, it does exponentially increase the surface area of the soil.
+[00:28:10 -> 00:28:13]  It helps the plant deal with environmental stresses better.
+[00:28:14 -> 00:28:20]  Just endogenously it is able to kind of handle those stresses better.
+[00:28:20 -> 00:28:35]  The microbes can help elicit a like acquired resistance response from the plant where it knows like, hey, I need to close up my pores because I need to conserve water in like a time of drought.
+[00:28:36 -> 00:28:36]  They're pretty cool.
+[00:28:37 -> 00:28:46]  Again, so like CFUs just kind of going back to that when somebody's, you know, this right here has, you know, 6.4 CFUs per gram.
+[00:28:47 -> 00:28:48]  Just the more the better, huh?
+[00:28:48 -> 00:28:50]  Like can you overdo mycorrhizae at all?
+[00:28:50 -> 00:28:51]  The more the better.
+[00:28:52 -> 00:28:54]  Generally, no, you're not going to be able to overdo it.
+[00:28:55 -> 00:28:58]  I mean, I guess you could in a like financial sense.
+[00:28:58 -> 00:28:58]  Yeah, okay.
+[00:28:58 -> 00:29:01]  Where you're just throwing money away at some point.
+[00:29:02 -> 00:29:10]  I generally don't think of the mycorrhizae that's in most microbial products as being something that's really doing all that much.
+[00:29:10 -> 00:29:15]  Just because you have to get it on super early in the growth of the plant when there's not that many roots.
+[00:29:16 -> 00:29:19]  So that it is able to grow alongside the root as it grows.
+[00:29:20 -> 00:29:33]  In microbial inoculants and in microbiology and soils, the bacillus and the different types of trichoderma fungi that can be in there are going to be the ones that are doing the majority of the work for everything while mycorrhizae gets all the fame.
+[00:29:33 -> 00:29:43]  Now, mycorrhizae, I heard that it's a lot like significantly less effective watering in mycorrhizae versus sprinkling onto the roots.
+[00:29:44 -> 00:29:47]  Oh, most definitely.
+[00:29:47 -> 00:29:57]  That's one of the things a lot of people don't realize with it is that for that colony forming unit to be able to actually infect a root, a root has to come in direct contact with it.
+[00:29:58 -> 00:30:00]  It can't just pass by it or anything.
+[00:30:00 -> 00:30:03]  It has to directly make contact with the root.
+[00:30:03 -> 00:30:07]  That's why with recharge, water is always the carrier for it.
+[00:30:08 -> 00:30:10]  It gets it evenly and thoroughly through the soil.
+[00:30:10 -> 00:30:13]  And if there's a root in there, some mycorrhizae is going to make contact with it.
+[00:30:14 -> 00:30:19]  With just a pure mycoproduct or something like that, powdering the roots is what you're going to want to do.
+[00:30:19 -> 00:30:23]  Just because in that case, at least you know you're making contact with the roots.
+[00:30:23 -> 00:30:28]  Like we were talking about PRO-MIX earlier where they have the PRO-MIX with mycorrhizae in there.
+[00:30:28 -> 00:30:31]  There's not that much mycorrhizae in there to begin with.
+[00:30:31 -> 00:30:41]  And just the odds are not stacked in your favor that a root is actually going to make contact with the one colony forming unit that's around in a pot once you've planted something in there.
+[00:30:42 -> 00:30:53]  So yeah, I mean making sure that it gets contact with a root is definitely going to help it be more effective at infecting that root and being able to give you those beneficial effects of it.
+[00:30:53 -> 00:30:58]  Now would you go so far as to say that you shouldn't water it in?
+[00:30:59 -> 00:31:02]  No, I wouldn't go that far.
+[00:31:02 -> 00:31:09]  I mean there's definitely times where like you're just not going to be able to pull out a plant and powder the roots with it.
+[00:31:10 -> 00:31:16]  So yeah, I mean if you have a high enough CFU like what's in Recharge, you definitely can water it in.
+[00:31:17 -> 00:31:21]  Although we really just have the mycorrhizae in there to be able to say like, yeah, it's in there too.
+[00:31:21 -> 00:31:28]  We have that, but we're really proud of the consortia of the different bacillus and trichoderma that are in Recharge.
+[00:31:28 -> 00:31:35]  Yeah, I'm really curious to know like for example, Gray White is one of those products that is known for mycorrhizae.
+[00:31:35 -> 00:31:43]  I'm really curious to know like of that scoop of Gray White you're mixing into water and putting in there, what percentage is actually going to be hitting the roots?
+[00:31:43 -> 00:31:44]  You know what I mean?
+[00:31:44 -> 00:31:46]  I think that's probably an answer you don't have.
+[00:31:46 -> 00:32:00]  Yeah, not one I have off the top of my head and just want to admit like I greatly respect Gray White and what they did started to bring like a premium microbe consortia out to the public and getting it out there.
+[00:32:01 -> 00:32:05]  But a lot of innovation has gone on recently in microbiology.
+[00:32:05 -> 00:32:09]  It's the biggest expanding field in agriculture and horticulture.
+[00:32:10 -> 00:32:21]  It's just gonna, it's like the big next thing in agriculture where people are starting to realize that like just dumping fertilizer, especially in commercial agriculture out in fields and everything.
+[00:32:21 -> 00:32:29]  That just dumping fertilizer on your land was killing off all the endogenous microorganisms that you had and making it really, really hard to garden there.
+[00:32:29 -> 00:32:33]  Where it's more treating it like hydroponics at that point.
+[00:32:33 -> 00:32:34]  The soil is just your media.
+[00:32:34 -> 00:32:36]  It's completely dead and inert.
+[00:32:37 -> 00:32:43]  But yeah, getting back to bringing the life into your soil is good.
+[00:32:43 -> 00:32:50]  I mean, it helps everybody and just getting being more efficient at the fertilizer that you do use.
+[00:32:51 -> 00:32:52]  It's pretty cool.
+[00:32:52 -> 00:32:55]  I'm excited to be in this field.
+[00:32:55 -> 00:32:58]  Kind of piggybacking off of what you just said.
+[00:32:58 -> 00:33:00]  Synthetic fertilizers.
+[00:33:00 -> 00:33:04]  Do they really kill off microbes or do the microbes feed off of some of them?
+[00:33:04 -> 00:33:06]  Or what's your take on that?
+[00:33:07 -> 00:33:08]  It like we were talking about earlier.
+[00:33:08 -> 00:33:10]  It depends on what microbes you're using.
+[00:33:10 -> 00:33:16]  If you're brewing up a compost tea with some like soil from the force that you've gone and collected.
+[00:33:17 -> 00:33:23]  Yeah, the different chemical fertilizers and synthetic fertilizers are gonna kill some of your microbes.
+[00:33:23 -> 00:33:28]  But if you're using ones that have been selected and bred for their virulency.
+[00:33:28 -> 00:33:32]  And they're able to their ability to persist in those horticulture and agricultural systems.
+[00:33:32 -> 00:33:38]  Like we as medicinal gardeners use they are they thrive in that situation.
+[00:33:39 -> 00:33:44]  Where they are able to adsorb and hold on to nutrition act as a bioprotectant.
+[00:33:44 -> 00:33:46]  They don't really care that the salts are around them.
+[00:33:47 -> 00:33:52]  They've been selected to live in that environment and been be able to thrive there.
+[00:33:52 -> 00:33:56]  So no, if you're using the right microbes, then no.
+[00:33:56 -> 00:34:01]  There's no issue with using being in like a higher salinity environment using synthetics or anything like that.
+[00:34:01 -> 00:34:04]  Now, how about pH up and pH down?
+[00:34:04 -> 00:34:07]  I know there's a lot of people they'll get their water.
+[00:34:07 -> 00:34:08]  They'll need to pH adjust their water.
+[00:34:08 -> 00:34:12]  Maybe the original water that they have is coming in too high.
+[00:34:12 -> 00:34:15]  For example, as sodium bicarbonate says high pH.
+[00:34:15 -> 00:34:19]  So I needed to add in a couple drops of pH down which normal pH down.
+[00:34:19 -> 00:34:22]  I believe most of them are phosphoric acid, right?
+[00:34:22 -> 00:34:26]  And so they think that those couple drops all really takes us a couple drops to three drops.
+[00:34:26 -> 00:34:30]  Maybe a milliliter to bring that down to the acceptable range.
+[00:34:30 -> 00:34:35]  Now, there are people out there that use that phosphoric acid mix in get their water adjusted.
+[00:34:36 -> 00:34:39]  But then when they water their plants like you're killing off microbes.
+[00:34:40 -> 00:34:40]  What's your know?
+[00:34:41 -> 00:34:48]  So once you actually dilute the pH up and pH down, it's not going to have any effect on the microbes.
+[00:34:48 -> 00:34:52]  Like I was saying earlier, they're able to operate at a real wide range of pHs.
+[00:34:53 -> 00:34:59]  And just a pretty good point to make the water when you're doing that is not their native environment.
+[00:34:59 -> 00:35:07]  We want to get them out of the water and into the soil as soon as we possibly can to prevent selecting for a waterborne environment.
+[00:35:07 -> 00:35:10]  These are root growth or root-borne microorganisms.
+[00:35:10 -> 00:35:12]  They're meant to be in the root zone.
+[00:35:12 -> 00:35:14]  We don't want to keep them in the water too long.
+[00:35:14 -> 00:35:21]  It's just meant to be a really good even thorough carrier to get them all the way through the soil instead of just having like pockets of it here and there.
+[00:35:21 -> 00:35:24]  Now, what about adding pH up and pH down directly?
+[00:35:24 -> 00:35:25]  I know we're kind of getting off topic here.
+[00:35:25 -> 00:35:28]  We're talking about microbes, but this kind of follows up here.
+[00:35:28 -> 00:35:40]  So when you're adding pH up and pH down directly to a nutrient mix, I've heard that that's going to bind with some of those nutrients and potentially make them an unusable form.
+[00:35:41 -> 00:35:44]  So it was recommended that you should be diluting down, right?
+[00:35:44 -> 00:35:47]  Mixing your pH up and down in water first.
+[00:35:47 -> 00:35:51]  So it bonds to that and then putting it into your nutrient solution.
+[00:35:51 -> 00:35:53]  Is that a true story or is that not?
+[00:35:53 -> 00:35:54]  True, true, true story.
+[00:35:54 -> 00:36:10]  In general chemistry, that's going to be the way that you would want to do that just to where you're not adding concentrated acid or concentrated base to your solution that already has nutrients in it just because it is fairly easy for some chemical reactions to happen there.
+[00:36:10 -> 00:36:17]  And you have some like fallout or precipitate is what it's called in chemistry where I don't know if you've ever mixed up.
+[00:36:17 -> 00:36:25]  The main one people see is silica where they'll mix up their nutrients first and then put silica in and you just see it get all cloudy.
+[00:36:25 -> 00:36:29]  And then there's like silicate at the bottom of your reservoir.
+[00:36:29 -> 00:36:35]  And that's just where that silica can't go in a concentrated form, can't go in with anything else.
+[00:36:35 -> 00:36:43]  It needs to get diluted first so that when you mix the other stuff in it's not in that high concentration that's going to cause a precipitate or anything like that.
+[00:36:44 -> 00:36:47]  Most of the time with microbes when you're watering them in.
+[00:36:48 -> 00:36:50]  You want to mix your nutrients how you normally do.
+[00:36:50 -> 00:37:03]  So if you're mixing silica mix that first go ahead and mix up your A or B pH how you normally do and then go ahead and add the microbes in is like the last thing so that they're not experiencing a huge pH change or anything.
+[00:37:04 -> 00:37:09]  When they get into the water they do raise the pH just as a function of their biology.
+[00:37:09 -> 00:37:12]  Water is not their native environment like we were talking about.
+[00:37:12 -> 00:37:16]  We want to get them in the soil as soon as they get in the soil which is their native environment.
+[00:37:16 -> 00:37:24]  They start to make carbonic acid and carboxylic acid like there's a whole group of acids that they're able to make.
+[00:37:24 -> 00:37:30]  And that's how they buffer and regulate the pH around themselves and where they inhabit the root zone.
+[00:37:30 -> 00:37:38]  So it kind of makes it to where pH doesn't matter as much anymore because a much more natural system is taking care of that for you.
+[00:37:38 -> 00:37:38]  Gotcha.
+[00:37:39 -> 00:37:52]  I'm glad you confirm that dilute the pH up and pH down because I actually made a video on that and it has over 100,000 views and you know that's what I learned and I wanted to confirm it with people and you kind of confirm that one.
+[00:37:52 -> 00:37:56]  So there was people in the comments section like no way this is bullshit useless blah blah blah blah blah.
+[00:37:57 -> 00:38:14]  And just want to clarify too that you can still put pH up or pH down directly into your nutrient solution especially if it's being stirred the whole time because it's only going to be super concentrated as like the couple of seconds of that drop hits the water and then it gets diluted right away.
+[00:38:14 -> 00:38:22]  And there's not really that much opportunity for like a precipitate to form or you start to change what's going on in that nutrient solution.
+[00:38:22 -> 00:38:23]  So it's not detrimental.
+[00:38:24 -> 00:38:25]  No not not super detrimental.
+[00:38:25 -> 00:38:27]  The main one is silica.
+[00:38:27 -> 00:38:32]  Mix your silica up with plain water first and then start mixing in your nutrients and everything.
+[00:38:32 -> 00:38:33]  Gotcha.
+[00:38:33 -> 00:38:33]  Okay.
+[00:38:33 -> 00:38:34]  Let me go.
+[00:38:34 -> 00:38:39]  Let's get back on the individual micros kind of off course a little bit but I think it's it all relates and it's really good information.
+[00:38:39 -> 00:38:53]  So yeah this next one I'm going to have trouble pronouncing pan bacillus pan pan bacillus pan bacillus is just another one of like classification of different bacillus that are out there.
+[00:38:54 -> 00:38:56]  And it acts like a root growth promoting rise of bacteria.
+[00:38:57 -> 00:38:57]  They're in there.
+[00:38:57 -> 00:39:17]  They make IAA into acetic acid some other root growth promotion enzymes and stuff and I think that they're able to elicit somewhat of a SARS response from the plant to where it kind of just gets it ready for if there was going to be some type of pathogen or bug coming around.
+[00:39:17 -> 00:39:23]  It's just going to be better able to deal with those stresses and better able to trigger its immune response.
+[00:39:23 -> 00:39:24]  Coming from them.
+[00:39:24 -> 00:39:24]  Okay.
+[00:39:25 -> 00:39:27]  How about pseudonymous?
+[00:39:27 -> 00:39:36]  I pronounce that one right pseudomonas pseudomonas that's going to be one that lives much more like on plant surfaces.
+[00:39:36 -> 00:39:48]  I'm pretty sure so that would be the one you'll see in like foliar microbial products a lot not one that I'm super familiar with that's something I need to do a little bit more research on myself.
+[00:39:49 -> 00:39:53]  Okay, the last one I have on the list here is streptomyces.
+[00:39:53 -> 00:39:54]  I get that one right?
+[00:39:55 -> 00:39:56]  Streptomyces.
+[00:39:59 -> 00:40:00]  I told you I was gonna be butchering names.
+[00:40:01 -> 00:40:18]  The pseudomonas streptomyces like all are pretty much just like plant growth promoters make some substances that kind of outcompete pathogens that could be coming around and then can kind of help make the trigger the plant to start making its own.
+[00:40:19 -> 00:40:25]  Like root growth promotion substances that it makes in their IAA, IBA other stuff like that.
+[00:40:25 -> 00:40:33]  Okay, is there any other microbes that I didn't list off that you think we should cover or is that pretty much the most of it?
+[00:40:34 -> 00:40:36]  I think we pretty much got most of it.
+[00:40:37 -> 00:40:38]  Okay, cool.
+[00:40:38 -> 00:40:46]  Now, how about I got a couple other things for you amino acids you touched on them a little bit earlier you mentioned that have to be in the L form.
+[00:40:46 -> 00:40:48]  Is there anything else you could talk to us about amino acids?
+[00:40:49 -> 00:40:50]  Oh, definitely.
+[00:40:50 -> 00:40:53]  So L amino acids are necessary for all life.
+[00:40:53 -> 00:40:56]  Not just plants like we need amino acids.
+[00:40:56 -> 00:40:58]  Our body makes amino acids.
+[00:40:58 -> 00:41:13]  They're like the building blocks for enzymes enzymes act as catalysts for chemical reactions where they make them like the soil has to exert less energy to get a chemical reaction to happen.
+[00:41:13 -> 00:41:17]  So it's just kind of overall optimizing the entire system.
+[00:41:17 -> 00:41:21]  It helps plants translocate nutrients better there.
+[00:41:21 -> 00:41:38]  I mean, they're huge especially in when people in synthetics are trying to grow high bricks plants one of their like limiting factors and being able to get to like a higher bricks level which corresponds with a higher plant health and resistant to pathogens and bugs and everything.
+[00:41:40 -> 00:41:44]  Like the the main thing that they're missing when they're trying to do that is having those amino acids.
+[00:41:45 -> 00:41:55]  And amino acids aren't just like just singular things to they can be complexed with other things where it can help nitrogen get into the plant better.
+[00:41:55 -> 00:41:59]  It can help just about anything get into the plant better.
+[00:42:00 -> 00:42:04]  It's just one of the big things in like the newer.
+[00:42:05 -> 00:42:14]  Trying to think bio fertilizers that are coming out that the use of those amino acids and using them for their intended purpose.
+[00:42:14 -> 00:42:19]  For their intended purpose to help nutrients get into the plant and help the plant just overall optimize its metabolism.
+[00:42:19 -> 00:42:26]  Better has helped a lot of people get to like another yield threshold in their garden or get over a certain yield limiting factor.
+[00:42:26 -> 00:42:29]  Sometimes those L amino acids are going to be the limiting factor there.
+[00:42:30 -> 00:42:32]  So like you mentioned amino acids has multiple uses one thing.
+[00:42:32 -> 00:42:35]  I learned actually from Harley Smith shout out to him.
+[00:42:35 -> 00:42:37]  I took his master grows course last year.
+[00:42:39 -> 00:42:41]  Specifically for hydroponic growers.
+[00:42:41 -> 00:42:43]  Now correct me if I'm wrong here, right?
+[00:42:43 -> 00:42:50]  So hydroponic growers some of the calcium you'll get like like the ring around the calcium deposits.
+[00:42:50 -> 00:42:58]  Basically, it's basically calcium carbonate is what it turns into if using hard water, for example, right?
+[00:42:58 -> 00:43:07]  Yeah, that that calcium is bonding to like dissolve carbon dioxide in the water and making that calcium carbonate and a little trick to avoid.
+[00:43:07 -> 00:43:13]  That is what he had mentioned is sprinkle a little bit of amino acids in that water and it will actually bind to the amino acid.
+[00:43:13 -> 00:43:14]  We'll prevent that ring.
+[00:43:14 -> 00:43:17]  Yeah, those rings from occurring which I thought was super interesting.
+[00:43:17 -> 00:43:34]  That's what I was talking about with like amino complex nutrients where yeah, it makes it 100% just more bioavailable to the plant and prevents any type of lockout going on there just because it will have a much higher affinity to that calcium than the carbonate.
+[00:43:34 -> 00:43:38]  It's a it's dissolved or the co2 that's dissolved into the water.
+[00:43:38 -> 00:43:39]  Okay, gotcha.
+[00:43:39 -> 00:43:43]  Another thing that I wanted to bring up is dextrose.
+[00:43:43 -> 00:43:47]  So we kind of briefly talked about this before we started recording dextrose.
+[00:43:47 -> 00:43:55]  It's something that I mean, I got a another micro product here is blue planet nutrients root magic rhizome mix and it says 20% dextrose.
+[00:43:55 -> 00:43:57]  Can you explain to us what it is?
+[00:43:58 -> 00:44:02]  So dextrose is just a type of sugar that's made by plants.
+[00:44:03 -> 00:44:05]  I mean, that's what plants do.
+[00:44:05 -> 00:44:16]  They photosynthesize sunlight co2 and water and turn that into carbohydrates and sugars for themselves to be able to use for energy to make the medicinal flowers that we like.
+[00:44:16 -> 00:44:21]  So dextrose is one of those like sucrose fructose glucose.
+[00:44:22 -> 00:44:24]  I mean, there's a whole range of sugars.
+[00:44:24 -> 00:44:27]  I'm never going to be one to say more diversity in something is a bad thing.
+[00:44:27 -> 00:44:34]  So like if you're trying to do the best you possibly can using a variety of sugar sources is not the worst idea in the world.
+[00:44:34 -> 00:44:43]  But molasses it generally acts as like the one of the better food sources for microorganisms just where it is.
+[00:44:43 -> 00:44:44]  It's a complete sugar.
+[00:44:45 -> 00:44:51]  It has everything they need and yeah, I mean you can use like some people use honey.
+[00:44:51 -> 00:45:04]  Some people use like high fructose corn syrup if they're crazy like there's lots of different options brown sugar brown sugar out there and the different types of sugars can actually bloom
+[00:45:04 -> 00:45:09]  out different types of microbes will prefer different types of sugar sources.
+[00:45:10 -> 00:45:24]  So yeah, you using a wide variety of you're trying to have the most diversity you possibly can or with something like recharge using the molasses is in there is meant for the the microbes that are in there as their food source molasses.
+[00:45:24 -> 00:45:26]  Little only get a little bit deeper into that.
+[00:45:26 -> 00:45:30]  I've been told that it shouldn't be used as a soul drench.
+[00:45:30 -> 00:45:38]  At least there's some people out there that say there's research that backs that it shouldn't be used as a little drench because it and I'm speaking above my head a little bit here.
+[00:45:38 -> 00:45:44]  It binds with something it clogs up the roots prevents nutrient uptake something on those lines.
+[00:45:44 -> 00:45:49]  Are you familiar with that at all or it can if you use it in really really high concentrations.
+[00:45:50 -> 00:45:57]  It can start to clog root pores and clog up root tips so that it's not able to absorb as much nutrition.
+[00:45:57 -> 00:46:08]  You kind of run into the same thing with humic acids to you have to use a ton of them like a ton a ton of them, but it can start to clog root pores and stuff like that.
+[00:46:08 -> 00:46:10]  Generally not a problem with people's gardens at all.
+[00:46:10 -> 00:46:21]  Unless they're like I dumped the whole bottle of molasses into my watering can and like try and go water that in like then you might have an issue for using it at like a teaspoon per gallon or something like that.
+[00:46:21 -> 00:46:22]  There shouldn't be an issue at all.
+[00:46:22 -> 00:46:24]  I usually use a tablespoon per gallon.
+[00:46:24 -> 00:46:27]  Tablespoon per gallon shouldn't be an issue at all either.
+[00:46:27 -> 00:46:28]  All right guru.
+[00:46:28 -> 00:46:30]  We have covered a lot.
+[00:46:30 -> 00:46:32]  I have learned so much.
+[00:46:32 -> 00:46:34]  I'm definitely watching this over and over again.
+[00:46:34 -> 00:46:37]  Tell us how can the listeners find you and what do you have upcoming in the future?
+[00:46:38 -> 00:46:45]  You can check me out on the dude grow show every Monday through Friday on YouTube or any of the podcast apps that you have.
+[00:46:46 -> 00:46:52]  My own Instagram is Sean dot Crayer SCAN dot Krayer if you guys want to check me out there.
+[00:46:53 -> 00:46:56]  I do pretty interesting person.
+[00:46:56 -> 00:47:00]  I like to think I I'm pretty big into photography and fly fishing.
+[00:47:00 -> 00:47:09]  I've got a couple dogs and stuff and just recently I've had a little hiatus from actually growing myself but getting back into that too.
+[00:47:09 -> 00:47:17]  So I'll start be starting a YouTube channel soon and going to be posting content on there pretty regularly to let me know when you launch that YouTube channel.
+[00:47:17 -> 00:47:20]  I'll link it down in the description section below in the meantime.
+[00:47:20 -> 00:47:24]  I'll link the dude grow show down in the description section below and his Instagram.
+[00:47:24 -> 00:47:27]  But let me know once you launch that channel because I'll add that in as well.
+[00:47:28 -> 00:47:29]  So hundred percent.
+[00:47:29 -> 00:47:29]  Thank you.
+[00:47:29 -> 00:47:34]  Yeah, so folks can subscribe to you and I'm definitely looking forward to your videos there.
+[00:47:34 -> 00:47:38]  You have extensive knowledge and microbes and other areas chemistry clearly.
+[00:47:38 -> 00:47:43]  So I'm looking forward to subbing up to you there and seeing what you put out for content.
+[00:47:43 -> 00:47:43]  It'll be cool.
+[00:47:43 -> 00:47:49]  Yeah, I always have fun watching your content to you get some really good guests on there all the time.
+[00:47:50 -> 00:47:50]  All right, everybody.
+[00:47:50 -> 00:47:54]  If you enjoyed this video, please click that thumbs up button subscribe to the channel.
+[00:47:54 -> 00:48:01]  If you haven't already if you're on Apple podcasts, please leave a rating and review trying to get past a hundred.
+[00:48:01 -> 00:48:03]  I think we're there almost there.
+[00:48:03 -> 00:48:10]  But thank you to everyone who takes the time to leave a rating and review on Apple podcasts share it share this video.
+[00:48:10 -> 00:48:14]  If you found value in it, if you know somebody who would benefit from this information, please share it.
+[00:48:14 -> 00:48:19]  I know there have been tons of people sharing it on Facebook groups reddit pages.
+[00:48:19 -> 00:48:21]  Individually, so anyway, you can share it.
+[00:48:21 -> 00:48:23]  It's greatly appreciated.
+[00:48:23 -> 00:48:25]  It's going to help get more viewers here.
+[00:48:25 -> 00:48:30]  It's going to help subscribers help with ranking be shown people's recommended so on and so forth.
+[00:48:30 -> 00:48:34]  So again, thank you to everyone who decides to share this podcast.
+[00:48:35 -> 00:48:36]  Well Guru, this has been awesome.
+[00:48:36 -> 00:48:42]  I am so thankful that you decided to come on here and yeah, I will leave it at that.
+[00:48:42 -> 00:48:44]  I'm super happy to be here man.
+[00:48:44 -> 00:48:45]  It's been a great time.
+[00:48:45 -> 00:48:46]  All right, man.
+[00:48:46 -> 00:48:47]  Have a great day.
+[00:48:47 -> 00:48:48]  You too.
+[00:48:49 -> 00:48:50]  Thank you.

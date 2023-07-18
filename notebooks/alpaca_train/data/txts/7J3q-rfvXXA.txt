@@ -1,0 +1,80 @@
+[00:00:00 -> 00:00:04]  Hey guys, what's up, it's Randy here from Voices and welcome back to another video.
+[00:00:04 -> 00:00:07]  In today's video, we're going to be covering audio interfaces.
+[00:00:07 -> 00:00:08]  What are they?
+[00:00:08 -> 00:00:09]  How do they work?
+[00:00:09 -> 00:00:10]  Are they necessary?
+[00:00:10 -> 00:00:12]  And how to get one set up on your computer.
+[00:00:12 -> 00:00:17]  Let's get right to it.
+[00:00:17 -> 00:00:19]  Audio interfaces have two main functions.
+[00:00:19 -> 00:00:22]  Number one, they boost the output volume of your microphone.
+[00:00:22 -> 00:00:27]  And number two, they turn the analog signal that your microphone outputs into a digital
+[00:00:27 -> 00:00:29]  signal that your computer can understand.
+[00:00:29 -> 00:00:33]  Most about all microphones are great at picking up subtleties these days, but they actually
+[00:00:33 -> 00:00:36]  output a shockingly low volume.
+[00:00:36 -> 00:00:40]  So you need a device called a preamp in order to get that volume up to a nice loud level.
+[00:00:40 -> 00:00:44]  The signal will go from a preamp into a converter and without getting into too many details,
+[00:00:44 -> 00:00:47]  it's basically turning the electrical signal from your mic into a binary signal that your
+[00:00:47 -> 00:00:49]  computer can understand.
+[00:00:49 -> 00:00:51]  Interfaces actually do both of these jobs.
+[00:00:51 -> 00:00:53]  They have a preamp and a converter built right in.
+[00:00:53 -> 00:00:57]  And you can usually recognize the preamp because it has something called gain or level on the
+[00:00:57 -> 00:00:58]  front of the box.
+[00:00:58 -> 00:01:02]  Well, if you've ever used a Blue Yeti or another USB microphone, you might be asking, why don't
+[00:01:02 -> 00:01:04]  USB microphones have preamps?
+[00:01:04 -> 00:01:05]  Well, they actually do.
+[00:01:05 -> 00:01:07]  They have converters and preamps.
+[00:01:07 -> 00:01:09]  They're just built right into the microphone.
+[00:01:09 -> 00:01:13]  A general rule of thumb, if you're using a USB cable, it's a digital signal.
+[00:01:13 -> 00:01:15]  So it's already been converted.
+[00:01:15 -> 00:01:18]  That's really the only difference between a USB microphone and a more professional XLR
+[00:01:18 -> 00:01:19]  style microphone.
+[00:01:19 -> 00:01:23]  Of course, the better the mic, the better the componentry, but functionally speaking,
+[00:01:23 -> 00:01:24]  that's the only difference.
+[00:01:24 -> 00:01:28]  A USB mic, it has the preamp and the converter built right into it.
+[00:01:28 -> 00:01:29]  So that's great, right?
+[00:01:29 -> 00:01:30]  Well, not entirely.
+[00:01:30 -> 00:01:31]  There is a catch.
+[00:01:31 -> 00:01:35]  Having all this great tech combined into one unit, while it's convenient, it does actually
+[00:01:35 -> 00:01:36]  have some limitations.
+[00:01:36 -> 00:01:41]  One problem with USB microphones is that because they're combined into one small little package,
+[00:01:41 -> 00:01:45]  all of the electrical components inside tend to talk to each other or creating basically
+[00:01:45 -> 00:01:48]  unwanted electrical noise in your audio signal.
+[00:01:48 -> 00:01:52]  Generally speaking, XLR microphones and interfaces, they tend to offer a bit more flexibility
+[00:01:52 -> 00:01:55]  and quality than a USB style microphone.
+[00:01:55 -> 00:01:57]  However, USB mic can be a bit more convenient.
+[00:01:57 -> 00:01:59]  Okay, the rant's over.
+[00:01:59 -> 00:02:01]  What mics are you guys using in your studios?
+[00:02:01 -> 00:02:04]  We're always interested to hear what you guys are using and what's popular in the community.
+[00:02:04 -> 00:02:06]  So throw it in the comments below.
+[00:02:06 -> 00:02:09]  And if you leave a like while you're down there, it'll help other people find the video.
+[00:02:09 -> 00:02:13]  Okay, let's plug this interface into our computer.
+[00:02:13 -> 00:02:14]  Now that's it.
+[00:02:14 -> 00:02:15]  It's really that simple.
+[00:02:15 -> 00:02:20]  Now we just need to tell our software that we use what microphone we have plugged in
+[00:02:20 -> 00:02:24]  and not to use the internal microphone built into the computer.
+[00:02:24 -> 00:02:25]  Most computers will default to the internal mic.
+[00:02:25 -> 00:02:28]  So you want to make sure that you don't miss this step.
+[00:02:28 -> 00:02:31]  Without doing this, you'll have a lot of great gear plugged into your computer that's doing
+[00:02:31 -> 00:02:33]  absolutely nothing.
+[00:02:33 -> 00:02:37]  In Audacity, you can change your mic source like this.
+[00:02:37 -> 00:02:42]  In GarageBand, it's right here.
+[00:02:42 -> 00:02:51]  In Pro Tools, it's right here.
+[00:02:51 -> 00:02:59]  And in Audition, it's right here.
+[00:02:59 -> 00:03:03]  If you're using another workstation, a simple Google search should figure that out for you.
+[00:03:03 -> 00:03:06]  Now let's go ahead and add phantom power if you're using a condenser microphone like I
+[00:03:06 -> 00:03:07]  am.
+[00:03:07 -> 00:03:10]  So that's this plus 48 volts here.
+[00:03:10 -> 00:03:11]  Dynamic mics won't need this.
+[00:03:11 -> 00:03:13]  And we'll also enable our track.
+[00:03:13 -> 00:03:16]  And just like that, you can see that audio is getting into our computer.
+[00:03:16 -> 00:03:19]  So let's do a quick check to make sure that we're sourcing from the microphone that I
+[00:03:19 -> 00:03:22]  have plugged in and not the internal mic.
+[00:03:22 -> 00:03:24]  The best way to do this is to scratch the microphone.
+[00:03:24 -> 00:03:28]  And I do the scratch test because it makes it sound that only this mic is going to pick
+[00:03:28 -> 00:03:31]  up and it makes it much easier to tell which one is on.
+[00:03:31 -> 00:03:33]  And that's about it for interfaces.
+[00:03:33 -> 00:03:35]  I hope that this video was helpful for you.
+[00:03:35 -> 00:03:37]  If you want to learn some more things about setting up your home studio, you can click
+[00:03:37 -> 00:03:39]  up here.
+[00:03:39 -> 00:03:40]  As always, happy auditioning.
+[00:03:40 -> 00:03:41]  We'll see in the next one.

@@ -1,0 +1,118 @@
+[00:00:00 -> 00:00:05]  In order to understand quantum mechanics, there's some basic vocabulary that I need
+[00:00:05 -> 00:00:06]  to go over.
+[00:00:06 -> 00:00:09]  So, let's talk about the key concepts in quantum mechanics.
+[00:00:09 -> 00:00:14]  Thankfully, there are only a few, there's really only three, and the first is the wave
+[00:00:14 -> 00:00:15]  function.
+[00:00:15 -> 00:00:21]  The wave function is, and always has been, written as psi, the Greek letter.
+[00:00:21 -> 00:00:25]  My handwriting gets a little lazy sometimes, and it'll end up just looking like this, but
+[00:00:25 -> 00:00:29]  technically it's supposed to look something like that.
+[00:00:29 -> 00:00:33]  Details are important, provided you recognize the symbol.
+[00:00:33 -> 00:00:41]  Psi is a function of position, potentially in three dimensions, x, y, and z, and time.
+[00:00:41 -> 00:00:52]  And the key fact here is that psi is a complex function, which means that while x, y, z,
+[00:00:52 -> 00:00:58]  and t here are real numbers, psi, evaluated at a particular point in space, will potentially
+[00:00:58 -> 00:01:04]  be a complex number with both a real and imaginary part.
+[00:01:04 -> 00:01:08]  What is subtle about the wave function, and we'll talk about this in great detail later,
+[00:01:08 -> 00:01:18]  is that while it represents the state of the system, it doesn't tell you with any certainty
+[00:01:18 -> 00:01:21]  what the observable properties of the system are.
+[00:01:21 -> 00:01:29]  It really only gives you probabilities.
+[00:01:29 -> 00:01:37]  So for instance, if I have a coordinate system, something like this, where say this is position
+[00:01:37 -> 00:01:45]  in the x direction, psi, with both real and imaginary parts, might look something like
+[00:01:45 -> 00:01:46]  this.
+[00:01:46 -> 00:01:52]  So this could be the real part of psi, and this could be, say, the complex or the imaginary
+[00:01:52 -> 00:01:56]  part of psi.
+[00:01:56 -> 00:02:00]  What is physically meaningful is the squared magnitude of psi, which might look something
+[00:02:00 -> 00:02:06]  like this in this particular case.
+[00:02:06 -> 00:02:10]  And that is related to the probability of finding the particle at a particular point
+[00:02:10 -> 00:02:12]  in space.
+[00:02:12 -> 00:02:16]  As I said, we'll talk about this later, but the key facts that you need to know about
+[00:02:16 -> 00:02:19]  the wave function is that it's complex and it describes the state of the system, but
+[00:02:19 -> 00:02:22]  not with certainty.
+[00:02:22 -> 00:02:27]  The next key concept in quantum mechanics is that of an operator.
+[00:02:27 -> 00:02:39]  Now operators are what connect psi to observable quantities.
+[00:02:39 -> 00:02:42]  That is one thing operators can do.
+[00:02:42 -> 00:02:46]  Just a bit of notation, usually we use hats for operators.
+[00:02:46 -> 00:02:53]  For instance, x-hat or p-hat are operators that you'll encounter shortly.
+[00:02:53 -> 00:02:57]  Operators act on psi.
+[00:02:57 -> 00:03:02]  So if you want to apply, for instance, the x-hat operator to psi, you would write x-hat
+[00:03:02 -> 00:03:04]  psi.
+[00:03:04 -> 00:03:07]  As if this were something that were, as it appears on the left of psi, the assumption
+[00:03:07 -> 00:03:10]  is that x acts on psi.
+[00:03:10 -> 00:03:15]  If I write psi x-hat, it doesn't necessarily mean that x-hat acts on psi.
+[00:03:15 -> 00:03:19]  You assume operators act on whatever lies to the right.
+[00:03:19 -> 00:03:23]  Likewise, of course, p-hat psi.
+[00:03:23 -> 00:03:29]  Now we'll talk about this in more detail later, but x-hat, the operator, can be thought of
+[00:03:29 -> 00:03:34]  as just multiplying by x.
+[00:03:34 -> 00:03:43]  So if I have psi as a function of x, x-hat psi is just going to be x times psi of x.
+[00:03:43 -> 00:03:49]  So if psi was a polynomial, you could multiply x by that polynomial.
+[00:03:49 -> 00:03:54]  The p-operator, p-hat, is another example, is a little bit more complicated.
+[00:03:54 -> 00:03:58]  This is just an example now, and technically this is the momentum operator, but we'll talk
+[00:03:58 -> 00:03:59]  more about that later.
+[00:03:59 -> 00:04:06]  It's equal to minus h-bar times the derivative with respect to x.
+[00:04:06 -> 00:04:14]  So this is again something that needs a function, needs the wave function, to actually give
+[00:04:14 -> 00:04:16]  you anything meaningful.
+[00:04:16 -> 00:04:20]  Now the important thing to note about the operators is that they don't give you the
+[00:04:20 -> 00:04:22]  observable quantities either.
+[00:04:22 -> 00:04:29]  But in quantum mechanics, you can't really say the momentum of the wave function.
+[00:04:29 -> 00:04:36]  For instance, p-hat psi is not, and I'll put this in quotes because you won't hear
+[00:04:36 -> 00:04:45]  this phrase very often, the momentum of psi.
+[00:04:45 -> 00:04:49]  It's the momentum operator acting on psi, and that's not the same thing as the momentum
+[00:04:49 -> 00:04:53]  of psi.
+[00:04:53 -> 00:04:59]  The final key concept in quantum mechanics is the Schrodinger equation, and this is really
+[00:04:59 -> 00:05:01]  the big equation.
+[00:05:01 -> 00:05:14]  So I'll write it big, i h-bar partial derivative of psi with respect to time is equal to h-hat,
+[00:05:14 -> 00:05:18]  that's an operator, acting on psi.
+[00:05:18 -> 00:05:33]  Now h-hat here is the Hamiltonian, which you can think of as the energy operator.
+[00:05:33 -> 00:05:39]  So the property of the physical system that h is associated with is the energy of the
+[00:05:39 -> 00:05:40]  system.
+[00:05:40 -> 00:05:47]  And the energy of the system can be thought of as a kinetic energy, so we can write a
+[00:05:47 -> 00:05:54]  kinetic energy operator plus a potential energy operator together acting on psi.
+[00:05:54 -> 00:05:56]  And it turns out the kinetic energy operator can be written down.
+[00:05:56 -> 00:06:02]  This is going to end up looking like minus h-bar squared over 2m partial derivative of
+[00:06:02 -> 00:06:10]  psi with respect to, sorry, second partial derivative of psi with respect to position
+[00:06:10 -> 00:06:14]  plus and then the potential energy operator is going to look like the potential energy
+[00:06:14 -> 00:06:19]  as a function of position just multiplied by psi.
+[00:06:19 -> 00:06:22]  So this is the Schrodinger equation.
+[00:06:22 -> 00:06:29]  Typically you'll be working with it in this form.
+[00:06:29 -> 00:06:33]  So i h-bar times the partial derivative with respect to time is related to the partial
+[00:06:33 -> 00:06:39]  derivative with respect to space and then multiplied by some function.
+[00:06:39 -> 00:06:42]  The basic quantum mechanics that we're going to learn in this course mostly revolves around
+[00:06:42 -> 00:06:48]  solving this function and interpreting the results.
+[00:06:48 -> 00:06:55]  So to put these in a bit of a road map, we have operators.
+[00:06:55 -> 00:07:02]  We have the Schrodinger equation.
+[00:07:02 -> 00:07:08]  And we have the wave function.
+[00:07:08 -> 00:07:16]  And operators act on the wave function.
+[00:07:16 -> 00:07:22]  And operators are used in the Schrodinger equation.
+[00:07:22 -> 00:07:25]  Now the wave function that actually describes the state of the system is going to be the
+[00:07:25 -> 00:07:33]  solution to the Schrodinger equation.
+[00:07:33 -> 00:07:36]  Now I mentioned operators acting on the wave function.
+[00:07:36 -> 00:07:44]  What they give you when they act on the wave function is some property of the system.
+[00:07:44 -> 00:07:48]  Some observable perhaps.
+[00:07:48 -> 00:07:51]  And the other key fact that I mentioned so far is that the wave function doesn't describe
+[00:07:51 -> 00:07:52]  the system perfectly.
+[00:07:52 -> 00:07:59]  It only gives you probabilities.
+[00:07:59 -> 00:08:02]  So that's our overall concept map.
+[00:08:02 -> 00:08:06]  To put this in the context of the course outline, the probabilities are really the
+[00:08:06 -> 00:08:08]  key feature of quantum mechanics.
+[00:08:08 -> 00:08:12]  And we're going to start this course with the discussion of probabilities.
+[00:08:12 -> 00:08:15]  We'll talk about the wave function after that and how the wave function is related to those
+[00:08:15 -> 00:08:17]  probabilities.
+[00:08:17 -> 00:08:22]  And we'll end up talking about operators and how those operators and the wave functions
+[00:08:22 -> 00:08:28]  together give you probabilities associated with observable quantities.
+[00:08:28 -> 00:08:33]  That will lead us into a discussion of the Schrodinger equation, which will be most of
+[00:08:33 -> 00:08:35]  the course really.
+[00:08:35 -> 00:08:42]  The bulk of the material before the first exam will be concerned with various examples.
+[00:08:42 -> 00:08:45]  Solution to the Schrodinger equation under various circumstances.
+[00:08:45 -> 00:08:50]  This is really the main meat of quantum mechanics in the beginning.
+[00:08:50 -> 00:08:54]  After that, we'll do some formalism.
+[00:08:54 -> 00:08:58]  And what that means is we'll learn about some advanced mathematical tools that make keeping
+[00:08:58 -> 00:09:04]  track of all the details of how all of this fits together a lot more straightforward.
+[00:09:04 -> 00:09:11]  And then we'll finish up the course by doing some applications.
+[00:09:11 -> 00:09:15]  So those are our key concepts and a general road map through the course.
+[00:09:15 -> 00:09:20]  Hopefully now you have the basic vocabulary necessary to understand phrases like the momentum
+[00:09:20 -> 00:09:25]  operator acts on the wave function or the solution to the Schrodinger equation describes
+[00:09:25 -> 00:09:29]  the state of the system and that sort of thing.
+[00:09:29 -> 00:09:33]  Don't worry too much if these concepts haven't quite clicked.
+[00:09:33 -> 00:09:36]  In order to really understand quantum mechanics, you have to get experience with them.
+[00:09:36 -> 00:09:39]  These are not things that you really have any intuition for based on anything you've
+[00:09:39 -> 00:09:41]  seen in physics so far.
+[00:09:41 -> 00:09:45]  So bear with me and this will all make sense in the end, I promise.

@@ -1,0 +1,169 @@
+[00:00:00 -> 00:00:02]  hi sabe jana lai
+[00:00:02 -> 00:00:04]  aaja mo tapaya laa ekonomics maa
+[00:00:04 -> 00:00:06]  bbs secondary ko laage
+[00:00:07 -> 00:00:09]  kainism economics maa je tapay ko
+[00:00:09 -> 00:00:11]  aaja part 2 maa je
+[00:00:12 -> 00:00:15]  haami le es maa kii gawana sakcho huu bandha kheri
+[00:00:15 -> 00:00:18]  tapay ko kaile kyain mpc nikal bhancha
+[00:00:19 -> 00:00:21]  mpc nikal bhanne bhane kii gawani
+[00:00:22 -> 00:00:24]  raa tes pachari tapay ko
+[00:00:25 -> 00:00:27]  question che 2 ta jate maa lekchu
+[00:00:27 -> 00:00:29]  और तपाईला त्याहां बटा जे
+[00:00:29 -> 00:00:31]  साल्व गरेरा देखाऊँचु है ता
+[00:00:31 -> 00:00:33]  सो योध कोईस्यन अरू
+[00:00:33 -> 00:00:35]  भनेको एक्जाम रिलेटेट छा तपारला
+[00:00:35 -> 00:00:37]  एक्जाम मा आओछा और आज़ा
+[00:00:37 -> 00:00:39]  को कोईस्यन भनेको पहला
+[00:00:39 -> 00:00:41]  हमी संग जे
+[00:00:41 -> 00:00:43]  MPC फाइन गर भन्या छा जसमा जे
+[00:00:43 -> 00:00:45]  एक्जाम देखाऊँचु
+[00:00:45 -> 00:00:47]  पहला
+[00:00:47 -> 00:00:49]  त्याहां बटा जे
+[00:00:49 -> 00:00:51]  साल्व गरेरा देखाऊँचु
+[00:00:51 -> 00:00:53]  है ता पारला
+[00:00:53 -> 00:00:55]  एक्जाम रिलेटेट छा थो
+[00:00:55 -> 00:00:57]  ता पारला
+[00:00:57 -> 00:00:59]  परबाव ने
+[00:00:59 -> 00:01:01]  चाहिए
+[00:01:01 -> 00:01:03]  स्वानिया
+[00:01:03 -> 00:01:05]  सुपर्ट
+[00:01:05 -> 00:01:07]  ब्याल
+[00:01:07 -> 00:01:09]  परबाव
+[00:01:09 -> 00:01:11]  रिलेटेट
+[00:01:11 -> 00:01:28]  when change in yd बनिको छ 50 and change in c बनिको 20 देखो छ लहनुष्ट बेला मा तपईली solution लेखनी
+[00:01:28 -> 00:01:32]  गिवन कि कि देखो छ तपईली गिवन दिन वाला
+[00:01:32 -> 00:01:43]  so change in yd बनिको छ 50 change in c बनिको 20 और amp c is equal to what
+[00:01:43 -> 00:01:51]  now y by formula दिन वाला amp c को formula change in c by change in y yd वाला
+[00:01:51 -> 00:01:55]  So, yu formula lagayaro tabay le gahana saknuncha.
+[00:01:55 -> 00:01:58]  So, 20 ra 50 divide bar dinu.
+[00:01:58 -> 00:02:01]  0.4 auncha.
+[00:02:01 -> 00:02:05]  Yu bhani ko tabay ko MPC bhayo.
+[00:02:05 -> 00:02:09]  Isto khaal ko bhani tabay ko 2 marks maocha.
+[00:02:09 -> 00:02:14]  Ra, amile 10 marks ma bhani iste iste questionnaire huncha.
+[00:02:14 -> 00:02:15]  Tara table bhala huncha.
+[00:02:15 -> 00:02:18]  Garnu bhani formula haru sabhi yuhte huncha.
+[00:02:18 -> 00:02:19]  Haitha.
+[00:02:19 -> 00:02:21]  Sabhi jana le copy karu.
+[00:02:21 -> 00:02:24]  Ra, aaja ko second question ma jai.
+[00:02:24 -> 00:02:27]  Tabay ko ma...
+[00:02:30 -> 00:02:32]  Consumption dekuchha.
+[00:02:32 -> 00:02:34]  Tesh bharache saving kasari nikalni.
+[00:02:34 -> 00:02:35]  Tabahala ma shikhaunchu.
+[00:02:35 -> 00:02:36]  Haitha.
+[00:02:36 -> 00:02:39]  Sabhi jana le yuhte copy karu.
+[00:02:49 -> 00:02:52]  So, aaja amile
+[00:02:52 -> 00:02:55]  Asmita publication ko 30 ma dekuchha.
+[00:02:55 -> 00:02:58]  Ki bhani kuchha bhanda khiri.
+[00:02:58 -> 00:03:01]  Find out
+[00:03:01 -> 00:03:04]  tabay ko saving function.
+[00:03:04 -> 00:03:07]  Saving nikalnu bhani.
+[00:03:08 -> 00:03:11]  Jasko lagi when
+[00:03:12 -> 00:03:15]  consumption
+[00:03:16 -> 00:03:19]  consumption
+[00:03:19 -> 00:03:22]  is
+[00:03:22 -> 00:03:25]  C is equals to 75 plus
+[00:03:25 -> 00:03:28]  0.8 y.
+[00:03:28 -> 00:03:30]  Ra, sabayi jana le
+[00:03:30 -> 00:03:31]  dhyan dinu.
+[00:03:31 -> 00:03:32]  Question chai yuho.
+[00:03:32 -> 00:03:36]  Yaha bharache saving function chai nikal bhani ra baniko cha.
+[00:03:36 -> 00:03:37]  Hainu.
+[00:03:37 -> 00:03:39]  Solution ghara.
+[00:03:39 -> 00:03:41]  Jasma given C deko cha.
+[00:03:41 -> 00:03:43]  C is equals to jati cha.
+[00:03:44 -> 00:03:46]  Ra, saving bhaniko
+[00:03:46 -> 00:03:48]  y minus C bhaniko dimu.
+[00:03:48 -> 00:03:50]  Saving ko as lekha.
+[00:03:50 -> 00:03:52]  Y ko y.
+[00:03:52 -> 00:03:54]  Ra, C jun thiho
+[00:03:54 -> 00:03:55]  tislai ji brackets ma lagnu.
+[00:03:55 -> 00:03:57]  Sina agari minus ha.
+[00:03:57 -> 00:03:59]  Aba brackets kholum.
+[00:03:59 -> 00:04:02]  y minus 75 plus minus
+[00:04:02 -> 00:04:05]  minus 0.8 y.
+[00:04:05 -> 00:04:08]  So, yu y matra bhanu bhaniko 1 huncha.
+[00:04:08 -> 00:04:10]  1 bata 0.8 gataunda
+[00:04:10 -> 00:04:12]  0.2
+[00:04:12 -> 00:04:15]  y minus 75.
+[00:04:15 -> 00:04:18]  So, tabay le number lagari raknu huncha bhani.
+[00:04:18 -> 00:04:20]  Minus 75 plus
+[00:04:20 -> 00:04:23]  0.2 y.
+[00:04:23 -> 00:04:25]  Yuho chai tabay ko
+[00:04:25 -> 00:04:26]  saving function bhayo.
+[00:04:26 -> 00:04:28]  Saving function
+[00:04:28 -> 00:04:30]  and consumption koi le kahi auna saksa.
+[00:04:30 -> 00:04:33]  Yaha bada hamile MPC, MPS bhani nikalnu bhani
+[00:04:33 -> 00:04:35]  bhani ra huncha.
+[00:04:35 -> 00:04:38]  So, part 2 ko lagi ekdami important cha.
+[00:04:38 -> 00:04:39]  2 marks ma.
+[00:04:40 -> 00:04:42]  Tabay le esari garnu wala.
+[00:04:42 -> 00:04:44]  Aba ma
+[00:04:44 -> 00:04:46]  tabay le consumption function deku cha.
+[00:04:46 -> 00:04:48]  Ra, yaha bada chai
+[00:04:48 -> 00:04:50]  coefficient of multiply nikalnu bhani huncha.
+[00:04:50 -> 00:04:51]  Kasari garni?
+[00:04:51 -> 00:04:53]  So, question haru ma rakte kuchu hai.
+[00:04:53 -> 00:04:56]  La, dhyaan dem sabay jana le.
+[00:04:57 -> 00:04:59]  So, aba hamile
+[00:05:01 -> 00:05:03]  tabay le 33 cha
+[00:05:03 -> 00:05:05]  Asmita ko old age gold bhada.
+[00:05:05 -> 00:05:06]  Jas ma chai
+[00:05:06 -> 00:05:08]  she is cost to tabay ko
+[00:05:08 -> 00:05:11]  200 plus 0.9 y bhaniko cha.
+[00:05:11 -> 00:05:13]  Ra, tabay le es ma chai
+[00:05:13 -> 00:05:16]  coefficient of multiply nikalnu bhani huncha.
+[00:05:16 -> 00:05:18]  Yaha bada chai
+[00:05:18 -> 00:05:20]  yaha bada chai
+[00:05:20 -> 00:05:22]  yaha bada chai
+[00:05:22 -> 00:05:24]  yaha bada chai
+[00:05:25 -> 00:05:27]  coefficient of
+[00:05:28 -> 00:05:32]  coefficient of multiply nikalnu bhani huncha.
+[00:05:33 -> 00:05:35]  La, dhyaanustha.
+[00:05:35 -> 00:05:37]  So, now
+[00:05:37 -> 00:05:40]  jaba tabay ko consumption function dincha ni
+[00:05:40 -> 00:05:43]  Teshko chai yo last ko y sangat jun huncha ni
+[00:05:43 -> 00:05:45]  Tesh lai chai hamile chai
+[00:05:45 -> 00:05:47]  MPC mannu parcha.
+[00:05:47 -> 00:05:49]  So, tabay ko multiply ko lagi
+[00:05:49 -> 00:05:51]  key bhanira denote karcha.
+[00:05:51 -> 00:05:52]  Dhyaanustha.
+[00:05:52 -> 00:05:54]  So, MPC bhaniko hamro
+[00:05:54 -> 00:05:56]  0.9 bhandinusha.
+[00:05:56 -> 00:05:58]  Tara, yehi saving bhako bhai chai
+[00:05:58 -> 00:06:01]  tabay ko chai yo y sangat jun huncha ni
+[00:06:01 -> 00:06:03]  Islai chai hamile
+[00:06:03 -> 00:06:05]  tabay ko kusto huncha
+[00:06:05 -> 00:06:07]  MPS mancha, okay.
+[00:06:07 -> 00:06:09]  Saving ma chai MPS huncha
+[00:06:09 -> 00:06:11]  ara tabay ko chai
+[00:06:11 -> 00:06:13]  consumption ma chai MPC huncha.
+[00:06:13 -> 00:06:15]  La, so, aba
+[00:06:16 -> 00:06:18]  K is cost to MPS deko bhela
+[00:06:18 -> 00:06:21]  1 upon 1 minus MPC
+[00:06:21 -> 00:06:23]  So, 1
+[00:06:23 -> 00:06:25]  1 my
+[00:06:25 -> 00:06:27]  MPC bhaniko 0.9
+[00:06:27 -> 00:06:31]  La, 1 by 0.1 bhaniko
+[00:06:31 -> 00:06:33]  10 answer aako chha.
+[00:06:37 -> 00:06:38]  So,
+[00:06:38 -> 00:06:40]  yohi tabay ko bhayo
+[00:06:40 -> 00:06:42]  MPS ko lagi.
+[00:06:42 -> 00:06:44]  Ara MPS bhaniko consumption deko chha bhane
+[00:06:44 -> 00:06:47]  yohi y sanga bhako chha MPC huncha hai.
+[00:06:47 -> 00:06:49]  Ara MPS bhaniko tabay la chai yo bhane
+[00:06:49 -> 00:06:51]  te 1 minus MPS
+[00:06:51 -> 00:06:53]  kere MPC ghar dinu
+[00:06:53 -> 00:06:55]  yaha bada MPS huncha.
+[00:06:55 -> 00:06:56]  So, 10 bhayo.
+[00:06:56 -> 00:06:58]  Ara jaba saving deko huncha
+[00:06:58 -> 00:07:00]  saving sanga jun y huncha ni
+[00:07:00 -> 00:07:02]  islai chai hami MPS mancho.
+[00:07:02 -> 00:07:04]  Raita?
+[00:07:04 -> 00:07:06]  La,
+[00:07:06 -> 00:07:08]  3 ta part 2 ma bhayo.
+[00:07:08 -> 00:07:10]  Aba part 3rd ma
+[00:07:10 -> 00:07:12]  tabay ko 10 marks question ara auncha.
+[00:07:12 -> 00:07:14]  So, kei confusion haru bhakho chha bhani
+[00:07:14 -> 00:07:16]  comment gano la.
+[00:07:16 -> 00:07:18]  Okay, thank you.
+[00:07:19 -> 00:07:21]  Thank you.

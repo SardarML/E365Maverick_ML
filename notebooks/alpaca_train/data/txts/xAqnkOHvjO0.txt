@@ -1,0 +1,177 @@
+[00:00:00 -> 00:00:11]  So I've been getting a lot of requests to cover the topic of options, which is a really
+[00:00:11 -> 00:00:17]  interesting topic and normally something that people don't really say or talk about, but
+[00:00:17 -> 00:00:22]  options have gotten a lot of press recently, particularly with the huge run-ups in stock
+[00:00:22 -> 00:00:28]  price of companies like GameStop and BlackBerry and AMC.
+[00:00:28 -> 00:00:33]  Now we're not necessarily going to get into some of the reasons why that happened, although
+[00:00:33 -> 00:00:37]  there's a lot of literature on that and so you can read up on that on your own, but we
+[00:00:37 -> 00:00:42]  are going to talk about really from a fundamental standpoint what options are at a very basic
+[00:00:42 -> 00:00:45]  level just so you can understand how they work.
+[00:00:45 -> 00:00:50]  Options are a form of a derivative, which is very, very confusing and it's designed
+[00:00:50 -> 00:00:55]  to be, but really they kind of work in a fairly simple fashion and so we're going to walk
+[00:00:55 -> 00:00:57]  through how they function.
+[00:00:57 -> 00:01:01]  So for starters, let's talk about really what options are.
+[00:01:01 -> 00:01:13]  An option in the most simplest sense is a contract and that contract gives us the option
+[00:01:13 -> 00:01:20]  to buy or sell something.
+[00:01:20 -> 00:01:23]  And more specifically though, not just anything, typically in this case we're talking about
+[00:01:23 -> 00:01:30]  a security, right, so a stock of some kind, but it doesn't necessarily have to be a security,
+[00:01:30 -> 00:01:36]  but buying something at a, buy or sell something at a specific price.
+[00:01:36 -> 00:01:41]  Now one important thing that I want to mention is that options give us the option to buy.
+[00:01:41 -> 00:01:47]  So while we have the option to, we never have to exercise our options as it's called.
+[00:01:47 -> 00:01:52]  So that's an important thing is it gives us the ability to, but not the requirement.
+[00:01:52 -> 00:01:55]  So options in a sense, again, are a contract.
+[00:01:55 -> 00:02:01]  So we think about a contract, we think about, you know, like a legal document, right, very
+[00:02:01 -> 00:02:06]  long, written by attorneys, all these different things, but the contract simply gives us the
+[00:02:06 -> 00:02:09]  ability to do something, to buy or to sell.
+[00:02:09 -> 00:02:11]  Now there are a couple different types of options.
+[00:02:11 -> 00:02:17]  The ones that more specifically were used quite a bit or discussed with regards to companies
+[00:02:17 -> 00:02:23]  like GameStop and others are what are called call options or calls.
+[00:02:23 -> 00:02:30]  And the second form of an option are called put options or puts.
+[00:02:30 -> 00:02:37]  Now calls specifically give you the option to buy.
+[00:02:37 -> 00:02:42]  Puts give you the option to sell.
+[00:02:42 -> 00:02:46]  And you can utilize these differently depending upon what your focus is for your portfolio.
+[00:02:46 -> 00:02:49]  And I'll talk about these just very simply.
+[00:02:49 -> 00:02:53]  So we'll talk about puts first very briefly.
+[00:02:53 -> 00:02:55]  So puts give you the option to sell.
+[00:02:55 -> 00:03:00]  So let's say that you purchased a stock.
+[00:03:00 -> 00:03:04]  And you can utilize these a lot of different ways, which makes them very, very complicated.
+[00:03:04 -> 00:03:08]  But really a common way that you utilize them is let's say that you purchased a security
+[00:03:08 -> 00:03:10]  of some kind.
+[00:03:10 -> 00:03:18]  So let's say you've got this stock certificate.
+[00:03:18 -> 00:03:24]  And you are kind of concerned about the future volatility of this stock certificate.
+[00:03:24 -> 00:03:28]  You want to make sure it doesn't go lower than a certain amount.
+[00:03:28 -> 00:03:33]  So this stock certificate or this put option is giving you the option to sell.
+[00:03:33 -> 00:03:40]  And so let's say that you purchased this certificate at some point in time and are just trying
+[00:03:40 -> 00:03:42]  to hedge against a market decline.
+[00:03:42 -> 00:03:44]  So the stock decreasing in value.
+[00:03:44 -> 00:03:47]  So you can purchase a put, which will give you the option to sell.
+[00:03:47 -> 00:03:54]  Let's say that option is $50.
+[00:03:54 -> 00:03:58]  And so that's the point where you can exercise your put.
+[00:03:58 -> 00:04:06]  Now in the event that the stock value goes down, let's say it drops down to within a
+[00:04:06 -> 00:04:13]  trading day, it suddenly maybe at one point is at $55.
+[00:04:13 -> 00:04:19]  And then at some point within a trading period, it drops to $45.
+[00:04:19 -> 00:04:25]  Under normal conditions, if you wanted to get rid of the stock, you would have to realize
+[00:04:25 -> 00:04:27]  this loss.
+[00:04:27 -> 00:04:29]  Especially if you bought it for let's say $60.
+[00:04:29 -> 00:04:32]  I mean it really doesn't matter for the purpose of this example.
+[00:04:32 -> 00:04:33]  But you would have to realize a loss.
+[00:04:33 -> 00:04:35]  Now there might be some advantages to doing that.
+[00:04:35 -> 00:04:38]  You can write that off and that sort of thing, which is great.
+[00:04:38 -> 00:04:44]  But if you have this option, this put, this is going to give you the ability to sell at
+[00:04:44 -> 00:04:46]  the $50.
+[00:04:46 -> 00:04:51]  So you don't really have to, you can still retain some of the earnings that you've generated
+[00:04:51 -> 00:04:56]  or some of the value of the stock from the share price appreciation.
+[00:04:56 -> 00:04:58]  So that's one way that you can do it.
+[00:04:58 -> 00:05:03]  It helps to minimize your losses because I'm establishing a floor, if you will, for how
+[00:05:03 -> 00:05:09]  much money I might lose, which works well, particularly in volatile times, particularly
+[00:05:09 -> 00:05:14]  when you have a stock that you're just not sure is where it's going to go.
+[00:05:14 -> 00:05:18]  Now I'm going to add, if you're interested in holding it for a long period of time, you
+[00:05:18 -> 00:05:21]  don't care about calls and puts.
+[00:05:21 -> 00:05:26]  Because if you're a traditional buy and hold strategy investor, you're just going to purchase
+[00:05:26 -> 00:05:31]  the stock and you're going to hang on to it and you're not going to sell it for a long
+[00:05:31 -> 00:05:32]  period of time.
+[00:05:32 -> 00:05:35]  So you're not worried about all the ups and downs and that sort of thing.
+[00:05:35 -> 00:05:42]  But if you were trading where you're more interested in not necessarily just fundamentals
+[00:05:42 -> 00:05:47]  but also the technicals of what stocks are doing at every point in time, well you might
+[00:05:47 -> 00:05:55]  use a put to hedge against some downturn volatility so that you can still maintain a certain return
+[00:05:55 -> 00:05:57]  on your investment.
+[00:05:57 -> 00:05:59]  That's what you can do.
+[00:05:59 -> 00:06:02]  Now calls work the exact opposite of puts.
+[00:06:02 -> 00:06:09]  So again, puts are more like defense if you're to use a comparison to sports.
+[00:06:09 -> 00:06:13]  So a call though is going to give you the option to buy.
+[00:06:13 -> 00:06:16]  So let's say, let's sell something different.
+[00:06:16 -> 00:06:20]  Let's kind of get out of this whole stock thing since that can be kind of confusing
+[00:06:20 -> 00:06:28]  anyway and let's sell something different.
+[00:06:28 -> 00:06:29]  So let's sell coffee.
+[00:06:29 -> 00:06:33]  I like coffee so that seems like something pretty fun to sell.
+[00:06:33 -> 00:06:39]  And so this is going to be our bag of coffee.
+[00:06:39 -> 00:06:47]  Here's our nice little label and it's got all the information on the notes and you've
+[00:06:47 -> 00:06:52]  got our logo here and this is going to be Matt's Coffee.
+[00:06:52 -> 00:06:56]  I didn't have time to think of a really good name, alright?
+[00:06:56 -> 00:06:59]  Alright, so we're going to sell coffee.
+[00:06:59 -> 00:07:02]  Let's say there's a market for this coffee, right?
+[00:07:02 -> 00:07:03]  Obviously there is.
+[00:07:03 -> 00:07:11]  There's a group of people willing to buy and the normal price for this coffee is $15.
+[00:07:11 -> 00:07:18]  Now you can use a call to acquire something at a lesser price if you think there's going
+[00:07:18 -> 00:07:20]  to be some volatility.
+[00:07:20 -> 00:07:24]  So let's say for example, under normal conditions, you can go and you can buy this coffee for
+[00:07:24 -> 00:07:28]  $15 for a bag and I didn't even specify how much coffee you're getting.
+[00:07:28 -> 00:07:31]  You're only getting 12 ounces so that's important for this.
+[00:07:31 -> 00:07:32]  Not really.
+[00:07:32 -> 00:07:36]  Now let's say that you wanted to purchase a call.
+[00:07:36 -> 00:07:41]  You want the option to buy at a certain point and you're maybe unsure about what's going
+[00:07:41 -> 00:07:43]  to happen with the price.
+[00:07:43 -> 00:07:47]  It's fluctuating and so you're going to purchase a call option and you're going to purchase
+[00:07:47 -> 00:07:53]  a call at $15.
+[00:07:53 -> 00:07:58]  Now you might be thinking this seems like a really dumb idea.
+[00:07:58 -> 00:08:05]  Why would you pay for a call option for the right to buy something at the value that it's
+[00:08:05 -> 00:08:06]  in the market right now?
+[00:08:06 -> 00:08:09]  And that's a very, very good question.
+[00:08:09 -> 00:08:13]  What it would depend upon is what you think the price is going to do.
+[00:08:13 -> 00:08:15]  What's going to happen?
+[00:08:15 -> 00:08:20]  Because it might be that all of a sudden that my coffee is in really big demand and so maybe
+[00:08:20 -> 00:08:23]  my coffee starts going up in price.
+[00:08:23 -> 00:08:30]  It starts moving up and so at some point maybe now it sells for $18.
+[00:08:30 -> 00:08:34]  Well because you purchased the call you still have the right to buy at $15 if you choose
+[00:08:34 -> 00:08:35]  to do so.
+[00:08:35 -> 00:08:42]  And that's where the option comes in because if the value of the coffee goes down, which
+[00:08:42 -> 00:08:46]  is bound to happen if I'm roasting it, then now it's going to be $13.
+[00:08:46 -> 00:08:50]  And you say well I don't want to exercise my call option because I can just buy it cheaper
+[00:08:50 -> 00:08:51]  on the market.
+[00:08:51 -> 00:08:52]  In which case you would.
+[00:08:52 -> 00:08:58]  But now if it moves up to $18, well I can buy it for $15.
+[00:08:58 -> 00:09:00]  I can exercise my option.
+[00:09:00 -> 00:09:03]  Now this is a really simple example but I'm just trying for you to understand the basic
+[00:09:03 -> 00:09:07]  idea is this just works like placing a bet almost.
+[00:09:07 -> 00:09:09]  Now there's a couple of things you've got to keep in mind.
+[00:09:09 -> 00:09:12]  One is you do pay a premium for an option.
+[00:09:12 -> 00:09:16]  So it's not free obviously and I'm sure you've probably already gathered that.
+[00:09:16 -> 00:09:18]  Now that premium is going to be based on a couple things.
+[00:09:19 -> 00:09:23]  It's going to be based upon some of the market factors, based upon the time period, and based
+[00:09:23 -> 00:09:25]  upon the price.
+[00:09:25 -> 00:09:32]  So if you are for example purchasing a call option for lower than $15, you might actually
+[00:09:32 -> 00:09:37]  pay more because the likelihood of being able to exercise it at $14 is greater than $15
+[00:09:37 -> 00:09:38]  and so on and so forth.
+[00:09:38 -> 00:09:40]  So you've got to factor that in.
+[00:09:40 -> 00:09:44]  If it's worth it, you might be paying too big of a premium that the value of it isn't
+[00:09:44 -> 00:09:46]  very significant.
+[00:09:46 -> 00:09:54]  So with the put option, same kind of thing, depending upon the value of the put or what
+[00:09:54 -> 00:09:58]  you're going to exercise it at, then that could affect your premium that you pay.
+[00:09:58 -> 00:10:02]  Also the time frame is something you have to consider.
+[00:10:02 -> 00:10:13]  So we'll say strike price which is the option that you exercise and then your kind of time
+[00:10:13 -> 00:10:15]  frame.
+[00:10:15 -> 00:10:16]  How long is it good for?
+[00:10:16 -> 00:10:18]  Is it for a week, a couple weeks, a couple months?
+[00:10:18 -> 00:10:22]  The longer the period of time, the more of a premium you're going to pay because there's
+[00:10:22 -> 00:10:27]  just a lot more uncertainty between today and whenever that is if you're talking about
+[00:10:27 -> 00:10:29]  insuring something for a month or two.
+[00:10:29 -> 00:10:31]  But those are the variables.
+[00:10:31 -> 00:10:37]  But ultimately at the end of the day, it's actually relatively cheap insurance.
+[00:10:37 -> 00:10:43]  So instead of purchasing this bag of coffee for $15, maybe I just purchase the call option,
+[00:10:43 -> 00:10:45]  the right to buy, and I pay $2.
+[00:10:45 -> 00:10:47]  That's the premium that I pay.
+[00:10:47 -> 00:10:54]  Then if it somehow works out, then I can exercise it and then it actually makes financial sense.
+[00:10:54 -> 00:10:59]  Now take this simple example that I just gave you and then think about how it would relate
+[00:10:59 -> 00:11:03]  in a bigger sense to purchasing stocks.
+[00:11:03 -> 00:11:10]  Instead of paying hundreds of dollars to actually own shares in a company, if I think that they're
+[00:11:10 -> 00:11:14]  going to go up or down and I'm not interested in holding them for a long period of time,
+[00:11:14 -> 00:11:18]  might it actually be better just to purchase the option two?
+[00:11:18 -> 00:11:23]  And then if it actually makes sense, then I can go all in and acquire it and then flip
+[00:11:23 -> 00:11:27]  it if I want, which is really what's happening with a lot of the stocks that you're seeing
+[00:11:27 -> 00:11:36]  is that in a general sense, a lot of hedge funds and different bigger institutional investors
+[00:11:36 -> 00:11:41]  have placed bets that a lot of these stocks are going to be declining in value and they
+[00:11:41 -> 00:11:46]  have for a period of time and the fundamentals of these companies, meaning their profit and
+[00:11:46 -> 00:11:51]  loss and their prospects and those kinds of things don't look great, I must admit.
+[00:11:51 -> 00:11:56]  You've got this group of ordinary investors that are banding together and are beginning
+[00:11:56 -> 00:12:03]  to place bets that it's going to go up in value and then that obviously, if we buy something,
+[00:12:03 -> 00:12:08]  more people buy, then more people sell, that causes the stock to go up in value and that
+[00:12:08 -> 00:12:13]  forces the traders or the hedge funds to then obviously buy as well and that sort of
+[00:12:13 -> 00:12:15]  thing and it causes this huge run up.
+[00:12:15 -> 00:12:18]  But from a simple standpoint, that's really how options work.
+[00:12:18 -> 00:12:21]  You're just giving you the option to buy or sell.
+[00:12:21 -> 00:12:28]  Again, you don't have to utilize it unless you feel like it's advantageous to your position.
+[00:12:28 -> 00:12:33]  So hopefully this was fairly clear and you guys enjoyed it.
+[00:12:33 -> 00:12:36]  If you've got questions, let me know.
+[00:12:36 -> 00:12:38]  I like this topic personally.
+[00:12:38 -> 00:12:42]  So if you'd like to learn more, shoot some questions down in the comments there and then
+[00:12:42 -> 00:12:44]  maybe I'll record and post another video.
+[00:12:44 -> 00:12:45]  Alright, thanks for watching.

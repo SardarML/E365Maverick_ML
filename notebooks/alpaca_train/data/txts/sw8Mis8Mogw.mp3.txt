@@ -1,0 +1,82 @@
+[00:00:00 -> 00:00:05]  Vielleicht hast du dich schon einmal gefragt, warum es in Songs sowohl Dur- als auch Moll-Akkorde gibt
+[00:00:05 -> 00:00:08]  und wie diese miteinander in Verbindung stehen.
+[00:00:08 -> 00:00:14]  Die Kombination aus verschiedenen Akkorden nennt man Akkordfolge oder auch Kadenz.
+[00:00:14 -> 00:00:21]  Als Basis zum eigenen Komponieren einer solchen Akkordfolge dient die diatonische Stufentheorie.
+[00:00:21 -> 00:00:27]  Was das ist und wie du ganz einfach eigene Akkordfolgen erfinden kannst, zeige ich dir in diesem Video.
+[00:00:31 -> 00:00:34]  Hallo und herzlich willkommen bei Musikdurchblick.
+[00:00:34 -> 00:00:39]  Mein Name ist Sebastian und heute geht es um das Thema Stufentheorie.
+[00:00:39 -> 00:00:47]  Eine beliebige Tonleiter besteht in der Regel aus sieben Tönen und somit auch aus sieben verschiedenen Tonstufen.
+[00:00:47 -> 00:00:54]  Wenn man nun auf den einzelnen Tonstufen Akkorde aufbaut, die nur aus den Tönen dieser Tonleiter bestehen,
+[00:00:54 -> 00:00:59]  erhält man eine sogenannte diatonische Reihe.
+[00:00:59 -> 00:01:01]  Diatonik bedeutet genau das.
+[00:01:01 -> 00:01:07]  Nämlich, dass man sich sozusagen am Tonmaterial einer bestimmten Tonleiter bedient
+[00:01:07 -> 00:01:11]  und daraus dann einzelne Harmoniestrukturen abgeleitet werden.
+[00:01:11 -> 00:01:16]  Die einzelnen Tonstufen der Tonleiter werden dabei mit römischen Zahlen nummeriert.
+[00:01:16 -> 00:01:19]  Nehmen wir zum Beispiel eine C-Dur-Tonleiter.
+[00:01:19 -> 00:01:22]  Zuerst markieren wir die einzelnen Tonstufen.
+[00:01:22 -> 00:01:28]  Nun bilden wir auf jeder Tonstufe ein Dreiklang, allerdings nur mit leitereigenen Tönen.
+[00:01:28 -> 00:01:34]  Das heißt, nur mit den Tönen dieser C-Dur-Tonleiter.
+[00:01:34 -> 00:01:39]  Wir schichten also über jeden Ton jeweils zwei übereinander liegende Terzen.
+[00:01:39 -> 00:01:46]  Da die C-Dur-Tonleiter keine Vorzeichen hat, kommen in diesem Fall auch keine Vorzeichen vor.
+[00:01:46 -> 00:01:50]  Dabei entstehen folgende Tonkombinationen.
+[00:01:50 -> 00:01:53]  Bei C, C, E, G.
+[00:01:53 -> 00:01:57]  Bei D, D, F, A.
+[00:01:57 -> 00:02:02]  Bei E, E, G und H.
+[00:02:02 -> 00:02:05]  Bei F, F, A, C.
+[00:02:05 -> 00:02:09]  Bei G, G, H, D.
+[00:02:09 -> 00:02:13]  Und bei A, A, C, E.
+[00:02:13 -> 00:02:17]  Zuletzt bei H, H, D und F.
+[00:02:18 -> 00:02:21]  Schaut man sich die einzelnen Akkorde genauer an, erkennt man,
+[00:02:21 -> 00:02:26]  dass sich mit diesem Vorgehen drei verschiedene Akkordtypen gebildet haben.
+[00:02:26 -> 00:02:29]  Diese lauten in aufsteigender Tonstufe wie folgt.
+[00:02:29 -> 00:02:34]  Der erste Akkord auf der Stufe 1 ist ein Dur-Akkord.
+[00:02:34 -> 00:02:38]  Der zweite auf Stufe 2 ein Moll-Akkord.
+[00:02:38 -> 00:02:43]  Der dritte auf Stufe 3 ist ebenfalls ein Moll-Akkord.
+[00:02:43 -> 00:02:47]  Der vierte auf Stufe 4 wieder ein Dur-Akkord.
+[00:02:47 -> 00:02:51]  Der fünfte auf Stufe 5 ist ein Dur-Akkord.
+[00:02:51 -> 00:02:55]  Der sechste auf Stufe 6 ein Moll-Akkord.
+[00:02:55 -> 00:02:59]  Der siebte auf Stufe 7 hat eine kleine Sonderstellung.
+[00:02:59 -> 00:03:02]  Er ist ein verminderter Dreiklang.
+[00:03:02 -> 00:03:05]  Wenn du mit den Begriffen Dur- und Moll-Dreiklang
+[00:03:05 -> 00:03:09]  oder auch vermindert noch Schwierigkeiten haben solltest,
+[00:03:09 -> 00:03:12]  kannst du dir hier unsere dazugehörigen Videos anschauen.
+[00:03:12 -> 00:03:15]  Mit den römischen Bezeichnungen der einzelnen Akkordstufen
+[00:03:15 -> 00:03:18]  kann man nun Akkordverbindungen konstruieren.
+[00:03:18 -> 00:03:21]  Es gibt etliche verschiedene Kombinationsmöglichkeiten.
+[00:03:21 -> 00:03:26]  Die bekanntesten sind aber zum Beispiel die 1-4-5-1
+[00:03:26 -> 00:03:31]  oder die 1-5-6-4-Kadenz.
+[00:03:31 -> 00:03:35]  Das Thema würde allerdings den Rahmen dieses Videos etwas sprengen,
+[00:03:35 -> 00:03:40]  weshalb ich in einem unserer nächsten Videos darauf eingehen werde.
+[00:03:40 -> 00:03:42]  Für jetzt reicht es zu wissen,
+[00:03:42 -> 00:03:45]  dass die oben genannten entstandenen Akkorde
+[00:03:45 -> 00:03:47]  beliebig miteinander kombiniert werden können
+[00:03:47 -> 00:03:52]  und damit die harmonische Grundlage eines Songs entsteht.
+[00:03:52 -> 00:03:54]  Machen wir das gleiche Spiel wie gerade eben
+[00:03:54 -> 00:03:57]  nun mal mit der D-Dur-Tonleiter.
+[00:03:57 -> 00:04:01]  Wir bilden also eine Dur-Tonleiter auf dem Ton D.
+[00:04:01 -> 00:04:09]  Diese besteht aus den Tönen D, E, Fis, G, A, H und Cis.
+[00:04:09 -> 00:04:12]  Bildet man auf jedem Ton einen Dreiklang,
+[00:04:12 -> 00:04:16]  erhält man wieder die gleichen Akkordtypen wie eben.
+[00:04:16 -> 00:04:19]  Achtung, die Vorzeichen von D-Dur nicht vergessen!
+[00:04:19 -> 00:04:22]  In diesem Fall erhöhen wir mithilfe eines Kreuzes
+[00:04:22 -> 00:04:27]  jedes F zum Fis und jedes C zum Cis.
+[00:04:27 -> 00:04:36]  Der Akkord auf dem ersten Ton D ist also ein D-Dur, die erste Stufe.
+[00:04:36 -> 00:04:42]  Auf der zweiten Stufe entsteht ein E-Moll-Dreiklang.
+[00:04:42 -> 00:04:46]  Die dritte Stufe ist ein Fis-Moll.
+[00:04:46 -> 00:04:52]  Auf der vierten Stufe entsteht ein G-Dur-Akkord.
+[00:04:52 -> 00:04:56]  Die fünfte Stufe ist ein A-Dur.
+[00:04:56 -> 00:05:00]  Die sechste Stufe ist ein H-Moll-Dreiklang
+[00:05:00 -> 00:05:03]  und die siebte Stufe wieder ein verminderter Akkord,
+[00:05:03 -> 00:05:07]  in diesem Fall Cis, vermindert.
+[00:05:07 -> 00:05:10]  Du siehst also, die diatonische Stufentheorie
+[00:05:10 -> 00:05:14]  lässt sich auf alle Dur-Tonleitern übertragen.
+[00:05:14 -> 00:05:17]  Deswegen kannst du dir das auch genauso merken.
+[00:05:17 -> 00:05:24]  Stufe 1, Dur, Stufe 2, Moll, Stufe 3, Moll,
+[00:05:24 -> 00:05:29]  Stufe 4, Dur, Stufe 5, Dur,
+[00:05:29 -> 00:05:33]  Stufe 6, Moll, Stufe 7, vermindert.
+[00:05:33 -> 00:05:38]  Mit diesem Wissen kannst du ganz leicht deine eigenen Akkordverbindungen erfinden
+[00:05:38 -> 00:05:42]  und dir dabei sicher sein, dass diese auch gut zusammenpassen.
+[00:05:42 -> 00:05:46]  Sie greifen ja immer auf das gleiche Tonmaterial zurück.
+[00:05:46 -> 00:05:50]  Wenn dir das Video gefallen hat, dann gib uns doch gerne einen Daumen hoch,
+[00:05:50 -> 00:05:55]  schreibe einen Kommentar, abonniere den Channel und bis zur nächsten Folge.
+[00:05:59 -> 00:06:02]  Copyright WDR 2021

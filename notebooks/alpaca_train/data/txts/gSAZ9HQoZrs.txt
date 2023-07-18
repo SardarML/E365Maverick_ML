@@ -1,0 +1,51 @@
+[00:00:00 -> 00:00:11]  Hi, my name is Matt Bennion, and today we're going to talk about the MyCloud.
+[00:00:11 -> 00:00:19]  The MyCloud is the latest personal cloud storage from WD, and basically it's a 2, 3, or 4 terabyte
+[00:00:19 -> 00:00:23]  hard drive, but unlike most of the traditional USB drives that we produce, you don't connect
+[00:00:23 -> 00:00:27]  this to your computer, you connect this to your home network.
+[00:00:27 -> 00:00:30]  Once you connect the MyCloud to your home network, it's now connected to the internet,
+[00:00:30 -> 00:00:34]  but it's also connected to every device that's connected to your home network, so your smart
+[00:00:34 -> 00:00:40]  TVs, game consoles, all your Macs or PCs, and including your mobile devices.
+[00:00:40 -> 00:00:44]  Now these days, a lot of these new computers and devices have such limited storage inside,
+[00:00:44 -> 00:00:46]  you end up with sort of a digital chaos.
+[00:00:46 -> 00:00:49]  Some photos on this device, some MP3s on that device.
+[00:00:49 -> 00:00:55]  With the MyCloud, you can centralize all your data in one easy to access place, and then
+[00:00:55 -> 00:00:57]  From there, you can enjoy it on any device you want.
+[00:00:57 -> 00:01:02]  The MyCloud is designed to run and stay always on and always connected to the internet.
+[00:01:02 -> 00:01:07]  Inside, we have a fanless design so it stays whisper quiet, and on the back of the MyCloud,
+[00:01:07 -> 00:01:12]  you also find a USB 3 port to either expand your personal cloud or to back it up.
+[00:01:12 -> 00:01:16]  The MyCloud gets connected to your home network using a gigabit ethernet port also located
+[00:01:16 -> 00:01:18]  on the back of the MyCloud.
+[00:01:18 -> 00:01:21]  Once the MyCloud is connected to your home network, you're able to access all the files
+[00:01:21 -> 00:01:25]  and folders stored on this wirelessly, and that also includes backup.
+[00:01:25 -> 00:01:29]  So once you come home, turn on your notebook, open it up, it'll begin backing up wirelessly
+[00:01:29 -> 00:01:31]  and automatically.
+[00:01:31 -> 00:01:34]  If you're on a Mac, the MyCloud's compatible with Time Machine, and if you're on a Windows
+[00:01:34 -> 00:01:38]  computer, we include WD Smartware to back up all your Windows PCs.
+[00:01:38 -> 00:01:42]  When you're out of the home, we have a remote access technology built right in that lets
+[00:01:42 -> 00:01:46]  you connect to the MyCloud from any internet connection anywhere in the world.
+[00:01:46 -> 00:01:48]  If you're on a mobile device, we have mobile applications.
+[00:01:48 -> 00:01:53]  We also have easy-to-use one-click apps to connect you to your MyCloud for Mac as well
+[00:01:53 -> 00:01:55]  as for Windows.
+[00:01:55 -> 00:01:59]  Once you load your music, movies, and photos on the MyCloud, it's now easy to stream that
+[00:01:59 -> 00:02:03]  to any room in the house thanks to the Twonky DLNA server inside.
+[00:02:03 -> 00:02:08]  With the DLNA server, I'm now able to connect all these media files to my smart TV, game
+[00:02:08 -> 00:02:12]  console, or media player such as the WDTV Live media player.
+[00:02:12 -> 00:02:14]  The MyCloud also has apps.
+[00:02:14 -> 00:02:18]  If you've got an iOS or Android device, you can also connect from those using the MyCloud
+[00:02:18 -> 00:02:21]  app or the WD Photos application.
+[00:02:21 -> 00:02:26]  With these applications, you can download, send links to large files, and enjoy all your
+[00:02:26 -> 00:02:29]  content on your mobile device.
+[00:02:29 -> 00:02:31]  Setting up the MyCloud is also very easy.
+[00:02:31 -> 00:02:35]  Once you connect it to your home network and plug power into the wall, it'll guide you
+[00:02:35 -> 00:02:36]  through some setup.
+[00:02:36 -> 00:02:40]  It really takes about three simple questions, first name, last name, and email address,
+[00:02:40 -> 00:02:42]  and you'll be up and running in no time.
+[00:02:42 -> 00:02:46]  If you run out of room on your two, three, or four terabyte MyCloud, getting more space
+[00:02:46 -> 00:02:47]  is easy.
+[00:02:47 -> 00:02:51]  You simply connect a USB drive to the back of the USB 3 port, and you can expand your
+[00:02:51 -> 00:02:55]  personal cloud, or you can back up the content on the MyCloud.
+[00:02:55 -> 00:02:58]  In this video series, we're going to go ahead and look through all the different features
+[00:02:58 -> 00:03:01]  of the MyCloud and try to show you how to do some neat things with it you may not have
+[00:03:01 -> 00:03:04]  intended to do when you bought it.
+[00:03:04 -> 00:03:05]  My name is Matt Benyon.
+[00:03:05 -> 00:03:05]  Thanks for joining me.

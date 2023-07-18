@@ -1,0 +1,115 @@
+[00:00:00 -> 00:00:19]  Hey everybody, and welcome to today's video in which we're going to have a bit of a different
+[00:00:19 -> 00:00:26]  format than the rest of our tutorials, namely today we're going to take a look at something
+[00:00:26 -> 00:00:33]  that's very general for anybody who's doing any sort of either 3D rendering or photography,
+[00:00:33 -> 00:00:36]  and that is understanding how to use color.
+[00:00:36 -> 00:00:41]  As rendering artists, we have a lot of tools available to us when we are creating our renders,
+[00:00:41 -> 00:00:47]  and we need to know about lighting, we need to know about exposure, and color is just
+[00:00:47 -> 00:00:52]  another one of those tools that we have to have in our arsenal.
+[00:00:52 -> 00:00:58]  So if we're going to talk about colors, we might as well start from the start.
+[00:00:58 -> 00:01:01]  There are actually three orders of color.
+[00:01:01 -> 00:01:06]  You have primary, secondary, and tertiary colors.
+[00:01:06 -> 00:01:14]  Now when working with RYB color, which is the primary colors are red, yellow, and blue,
+[00:01:14 -> 00:01:18]  and this is really different from the RGB that we use.
+[00:01:18 -> 00:01:24]  That to say is that there are only three pure colors, and for Mitch, all other colors
+[00:01:24 -> 00:01:26]  are derived.
+[00:01:26 -> 00:01:31]  So basically, we call them primary colors because they are pure colors.
+[00:01:31 -> 00:01:33]  They're not created by combining other colors.
+[00:01:33 -> 00:01:41]  At the same time, a secondary color is basically a 50-50 combination of any two primary colors.
+[00:01:41 -> 00:01:46]  An example for this would be if we mix the basic red and yellow, and we would get the
+[00:01:46 -> 00:01:47]  orange.
+[00:01:47 -> 00:01:51]  And now, at the end, we have the tertiary colors.
+[00:01:51 -> 00:02:00]  Now these can be a 25-75 mix or a 75-25 combination of a primary color and a secondary color.
+[00:02:00 -> 00:02:06]  An example for this would be if we mix up the blue and green, and we would get the turquoise
+[00:02:06 -> 00:02:08]  color.
+[00:02:08 -> 00:02:13]  But actually, colors do have a certain temperature to them.
+[00:02:13 -> 00:02:17]  Namely, if we take a look at our image above, we're going to see that they basically have
+[00:02:17 -> 00:02:21]  two types of tones, the cool tones and the warm tones.
+[00:02:21 -> 00:02:27]  The difference between these is that the warm tones or the warm colors remind us of things
+[00:02:27 -> 00:02:38]  that are like fire or the sun or wheat, and they are generally full of heightened emotion.
+[00:02:38 -> 00:02:45]  And generally, they give us more joy and they give more energy to the place.
+[00:02:45 -> 00:02:52]  While at the same time, the more cold or the cool tones will make spaces look calmer
+[00:02:52 -> 00:02:59]  and more relaxed, so to speak.
+[00:02:59 -> 00:03:04]  But knowing just the theory behind colors doesn't really mean much to us, especially
+[00:03:04 -> 00:03:11]  if we're going to want to go ahead and decorate an interior or an exterior for a scene.
+[00:03:11 -> 00:03:18]  So when we're decorating something, we choose what to do with the colors, and we choose
+[00:03:18 -> 00:03:25]  which color goes on which wall and which furniture and curtains and so on and so on.
+[00:03:25 -> 00:03:30]  So we're essentially creating a color scheme.
+[00:03:30 -> 00:03:37]  So when we're being intentional with the colors in our image, color scheme comes into play.
+[00:03:37 -> 00:03:42]  Now there are a couple of very popular color schemes, and we will take a look at all of
+[00:03:42 -> 00:03:50]  them individually, and it will help us that we're going to be looking at the RYB color
+[00:03:50 -> 00:03:54]  wheel at the same time.
+[00:03:54 -> 00:04:00]  The first color scheme that we're going to talk about is the analogous color harmony.
+[00:04:00 -> 00:04:06]  And this is a group of colors that lie directly adjacent to each other on the color wheel.
+[00:04:06 -> 00:04:12]  This group of colors can have a limited spread of just two colors, or can spread further
+[00:04:12 -> 00:04:17]  along on as much as half of the entire color wheel.
+[00:04:17 -> 00:04:21]  Although at this point or further, it will start to lose its identity as an analogous
+[00:04:21 -> 00:04:25]  harmony.
+[00:04:25 -> 00:04:28]  The second color scheme that we're going to take a look at is the complementary color
+[00:04:28 -> 00:04:30]  scheme.
+[00:04:30 -> 00:04:36]  This color scheme is comprised of two colors that lie directly across from each other on
+[00:04:36 -> 00:04:37]  the color wheel.
+[00:04:37 -> 00:04:42]  The spread of color on either side can be increased to a degree to include more colors
+[00:04:42 -> 00:04:44]  on either end.
+[00:04:44 -> 00:04:52]  Common complementary color scheme can be found in nature, and that is of warm and cool combination.
+[00:04:52 -> 00:05:01]  The cool bluish tones mixed with some warm orangey tones.
+[00:05:01 -> 00:05:05]  Next one, we're going to take a look at split complementary.
+[00:05:05 -> 00:05:12]  Now this is achieved by taking two colors that lie directly adjacent to one of the colors
+[00:05:12 -> 00:05:14]  in a complementary color harmony.
+[00:05:14 -> 00:05:17]  And you get a split complementary harmony.
+[00:05:17 -> 00:05:24]  This is a bit more difficult harmony to utilize, but can be very useful in certain situation,
+[00:05:24 -> 00:05:32]  and especially it can be useful for exteriors as you can see on the image above.
+[00:05:32 -> 00:05:39]  The monochromatic color scheme is comprised of one color with varying values.
+[00:05:39 -> 00:05:46]  This means that we can have varying degrees of brightness or varying degrees of saturation
+[00:05:46 -> 00:05:49]  in the images.
+[00:05:49 -> 00:05:59]  Most typically, this color harmony is what a modern day black and white image would be.
+[00:05:59 -> 00:06:06]  The triadic color scheme is basically combining three colors equally spaced from each other
+[00:06:06 -> 00:06:08]  on the color wheel.
+[00:06:08 -> 00:06:15]  This color scheme is very similar to a split complementary and in the context of a landscape
+[00:06:15 -> 00:06:22]  photograph where a single color in an image can often span over a slight range of that
+[00:06:22 -> 00:06:23]  color.
+[00:06:23 -> 00:06:30]  What is very interesting about this sort of a color scheme is that it can be easily
+[00:06:30 -> 00:06:38]  recognized by a very vibrant choice of colors and it's making the interiors or exteriors
+[00:06:38 -> 00:06:44]  look very, very alive and vibrant.
+[00:06:44 -> 00:06:51]  The quadratic or rectangle actually is combining four colors that have a rectangular spatial
+[00:06:51 -> 00:06:54]  relations on the color wheel.
+[00:06:54 -> 00:06:59]  This is often also referred to as a double complementary because it is a combination
+[00:06:59 -> 00:07:02]  of two complementary color harmonies.
+[00:07:02 -> 00:07:08]  Now for example, if we take a look at the image provided here, we can see that the two
+[00:07:08 -> 00:07:14]  complementary color harmonies, the blue of the sky complements the orange of the foliage
+[00:07:14 -> 00:07:23]  while the green of the brush is basically complementing the pinkish reds of the clouds.
+[00:07:23 -> 00:07:30]  The dyad combination is combining two colors that are separated by two hues of color along
+[00:07:30 -> 00:07:35]  the color wheel constituting a dyadic color harmony.
+[00:07:35 -> 00:07:42]  This harmony has some flexibility since it is difficult to quantify what exactly makes
+[00:07:42 -> 00:07:48]  up a single hue of color.
+[00:07:48 -> 00:07:58]  Knowing this, a single color can vary in two different ways, brightness and saturation.
+[00:07:58 -> 00:08:03]  Different amount of brightness and saturation will create versions of a single color that
+[00:08:03 -> 00:08:06]  exists between black and white.
+[00:08:06 -> 00:08:11]  By looking at three dimensional version of a color wheel, we can see that the top represents
+[00:08:11 -> 00:08:17]  variance in saturations whereas the middle of the circle completely white where there
+[00:08:17 -> 00:08:20]  is no color saturation.
+[00:08:20 -> 00:08:27]  At any point on the top, if you begin to remove brightness, moving down on the y-axis, the
+[00:08:27 -> 00:08:31]  color becomes darker and eventually becomes black.
+[00:08:31 -> 00:08:37]  The second image shows a typical color picker in Photoshop which represents taking a slice
+[00:08:37 -> 00:08:42]  out of the pie for any particular hue.
+[00:08:42 -> 00:08:49]  Left to right movement represent changes in saturation whereas up and down represents
+[00:08:49 -> 00:08:50]  brightness.
+[00:08:50 -> 00:08:56]  A combination of these variants of a single color are what would make a monochromatic
+[00:08:56 -> 00:09:04]  color harmony as described previously in the video.
+[00:09:04 -> 00:09:08]  One place where it's especially important to note about colors is when you get to the
+[00:09:08 -> 00:09:13]  point where you start post processing your images or your renders.
+[00:09:13 -> 00:09:18]  This is where you have total control on how a color can be presented.
+[00:09:18 -> 00:09:26]  Colors with full brightness and varying levels of saturation will feel light, airy and colorful
+[00:09:26 -> 00:09:33]  whereas colors with decreasing saturation and brightness will make the entire room feel
+[00:09:33 -> 00:09:40]  darker and eventually more muddy as they become less saturated.
+[00:09:40 -> 00:09:44]  So as we can see, color is very powerful.
+[00:09:44 -> 00:09:52]  It can make an image shine and wow a viewer and also it can ruin a good image if it is
+[00:09:52 -> 00:09:54]  not handled correctly.
+[00:09:54 -> 00:10:03]  So developing a good eye for color takes time and a lot of practice.
+[00:10:03 -> 00:10:10]  So with this we are basically finished with the color theory video.
+[00:10:10 -> 00:10:17]  So generally I hope you guys had fun and you managed to learn something new from this video.
+[00:10:17 -> 00:10:22]  If you would like to support me you can click on the join button and the direct links will
+[00:10:22 -> 00:10:24]  be in the description below.
+[00:10:24 -> 00:10:31]  And the most helpful thing you can do is click the like and subscribe buttons and comment
+[00:10:31 -> 00:10:34]  in the video below.
+[00:10:34 -> 00:10:40]  And as always, thank you very much for watching and I will see you all in the next video.
+[00:10:40 -> 00:10:41]  Bye bye.

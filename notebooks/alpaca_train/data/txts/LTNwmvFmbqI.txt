@@ -1,0 +1,174 @@
+[00:00:00 -> 00:00:04]  Viele elektrische Bauelemente basieren auf dotierten Halbleitern.
+[00:00:04 -> 00:00:09]  Bei der Dotierung wird ein intrinsischer Halbleiter sozusagen veredelt, damit er ganz bestimmte
+[00:00:09 -> 00:00:11]  Eigenschaften aufweist.
+[00:00:11 -> 00:00:16]  Mein Name ist Enrique Fernandes und in diesem Video beschäftigen wir uns mit der Dotierung.
+[00:00:16 -> 00:00:22]  Das Geheimnis, ob ein Material leitend oder nicht leitend ist, liegt in den freien Elektronen.
+[00:00:22 -> 00:00:28]  Wie der Name schon sagt, sind das Elektronen, welche sich im Material frei bewegen können
+[00:00:28 -> 00:00:30]  und so den Strom transportieren.
+[00:00:30 -> 00:00:33]  Doch woher kommen diese freien Elektronen?
+[00:00:33 -> 00:00:36]  Hierzu schauen wir uns nochmal das Atommodell an.
+[00:00:36 -> 00:00:43]  Ein Material besteht aus ganz vielen Atomen und diese besitzen jeweils einen Atomkern
+[00:00:43 -> 00:00:45]  und um diesen kreisen Elektronen auf Bahnen.
+[00:00:45 -> 00:00:50]  Hier nun die Atome vereinfacht dargestellt.
+[00:00:50 -> 00:00:53]  Blau die Außenelektronen und Orange der Atomkern.
+[00:00:54 -> 00:01:00]  Wenn man sich nun die Anordnung der Atome im Halbleiter genauer anschaut, fällt auf,
+[00:01:00 -> 00:01:02]  dass diese ein festes Gitter bilden.
+[00:01:02 -> 00:01:08]  Und tatsächlich, die Außenelektronen verbinden sich.
+[00:01:08 -> 00:01:10]  Es bildet sich ein festes Gitter.
+[00:01:10 -> 00:01:17]  Wie erklärt, durch Temperaturerhöhung lösen sich die Außenelektronen und werden zu freien
+[00:01:17 -> 00:01:18]  Elektronen.
+[00:01:18 -> 00:01:23]  Sie hinterlassen in dem festen Gitter eine Lücke bzw. eine Fehlstelle.
+[00:01:23 -> 00:01:28]  Diese werden als Defektelektron oder kurz als Loch bezeichnet.
+[00:01:28 -> 00:01:33]  Ein Elektron ist negativ geladen, ein solches Loch positiv.
+[00:01:33 -> 00:01:37]  Nun kann sich auch ein Elektron wieder in ein Loch hineinsetzen.
+[00:01:37 -> 00:01:39]  Dann spricht man von Rekombination.
+[00:01:39 -> 00:01:45]  Nun habe ich nochmal den intrinsischen Halbleiter zusammengefasst erklärt.
+[00:01:45 -> 00:01:49]  Für eine ausführliche Erklärung gibt es ein eigenes Video und auch auf der Webseite
+[00:01:49 -> 00:01:54]  www.fmh-studios.de gibt es hierzu einen Beitrag.
+[00:01:54 -> 00:01:59]  Andersrum ausgedrückt heißt es also, soll ein Halbleiter elektrisch leitend werden,
+[00:01:59 -> 00:02:03]  muss ihm Energie, beispielsweise in Form von Wärme, zugeführt werden.
+[00:02:03 -> 00:02:08]  Genau diese Eigenschaft stellt in manchen Szenarien ein Problem dar.
+[00:02:08 -> 00:02:13]  Man möchte beispielsweise den Halbleiter bereits bei Raumtemperatur leitend haben.
+[00:02:13 -> 00:02:17]  Dieses Problem kann mit der sogenannten Dotierung gelöst werden.
+[00:02:17 -> 00:02:23]  Außerdem bildet die Dotierung auch die Grundlage für aufbauende Themen.
+[00:02:23 -> 00:02:26]  Doch was ist Dotierung überhaupt?
+[00:02:26 -> 00:02:29]  Der intrinsische Halbleiter ist ganz rein.
+[00:02:29 -> 00:02:32]  Er besteht nur aus einem bestimmten Material.
+[00:02:32 -> 00:02:36]  In unserem Beispiel besteht er aus Silizium.
+[00:02:36 -> 00:02:42]  Bei der Dotierung werden nun Atome eines anderen Materials in diesen Halbleiter eingebracht.
+[00:02:42 -> 00:02:44]  Man spricht von sogenannten Fremdatomen.
+[00:02:44 -> 00:02:49]  Man verunreinigt sozusagen gezielt den intrinsischen, reinen Halbleiter.
+[00:02:49 -> 00:02:58]  Tatsächlich, wenn man sich diese reine Gitterstruktur anschaut, in diesem Fall aus Silizium, werden
+[00:02:58 -> 00:03:01]  Fremdatome in dieses Gitter eingebracht.
+[00:03:01 -> 00:03:04]  Man unterscheidet bei der Dotierung zwei Arten.
+[00:03:04 -> 00:03:08]  Der Unterschied liegt dabei in dem Material der Fremdatome, bzw.
+[00:03:08 -> 00:03:14]  konkreter liegt der Unterschied in der Anzahl der Außenelektronen der Fremdatome.
+[00:03:14 -> 00:03:21]  Das Material des reinen intrinsischen Halbleiters, beispielsweise Silizium, besitzt vier Außenelektronen.
+[00:03:21 -> 00:03:27]  Die eingesetzten Fremdatome besitzen immer mehr oder weniger Außenelektronen als die
+[00:03:27 -> 00:03:35]  Atome des reinen Halbleiters, je nachdem, ob man den Halbleiter n- oder p-dotieren möchte.
+[00:03:35 -> 00:03:41]  Beim n-dotierten Halbleiter werden als Fremdatome Elemente eingesetzt, welche mehr Außenelektronen
+[00:03:41 -> 00:03:45]  als die des intrinsischen Halbleiters aufweisen.
+[00:03:45 -> 00:03:50]  Besteht also beispielsweise der intrinsische Halbleiter aus Silizium, welches vier Außenelektronen
+[00:03:50 -> 00:03:56]  hat, wird als Fremdatom ein Element verwendet, welches fünf Außenelektronen besitzt.
+[00:03:56 -> 00:03:58]  Beispielsweise wäre das Phosphor.
+[00:03:58 -> 00:04:03]  Das Fremdatom wird im Falle der n-Dotierung als Donator bezeichnet.
+[00:04:04 -> 00:04:11]  Setzt man dieses nun in das reine Halbleitergitter ein, binden sich die Elemente zusammen.
+[00:04:11 -> 00:04:16]  Da das Silizium allerdings nur vier Außenelektronen hat, bleibt ein Elektron übrig.
+[00:04:16 -> 00:04:19]  Dieses ist nun nicht Teil des Gitters.
+[00:04:19 -> 00:04:26]  Bereits bei sehr geringer Energiezufuhr, Raumtemperatur reicht hier schon aus, löst sich dieses Elektron
+[00:04:26 -> 00:04:29]  von seinem Atom ab und ist frei beweglich.
+[00:04:30 -> 00:04:34]  Natürlich wird nicht nur ein Fremdatom bzw.
+[00:04:34 -> 00:04:39]  Donator in das Gitter eingesetzt, sondern eine Vielzahl an Donatoren.
+[00:04:39 -> 00:04:44]  Deshalb führt eine n-Dotierung zu vielen freien Elektronen, welche zum Ladungstransport
+[00:04:44 -> 00:04:45]  zur Verfügung stehen.
+[00:04:45 -> 00:04:54]  Beim p-dotierten Halbleiter werden als Fremdatome Elemente eingesetzt, welche weniger Außenelektronen
+[00:04:54 -> 00:04:57]  als die des intrinsischen Halbleiters aufweisen.
+[00:04:57 -> 00:05:03]  Besteht also beispielsweise der intrinsische Halbleiter aus Silizium, welches vier Außenelektronen
+[00:05:03 -> 00:05:09]  hat, wird als Fremdatom ein Element verwendet, welches drei Außenelektronen besitzt.
+[00:05:09 -> 00:05:11]  Beispielsweise wäre das Bohr.
+[00:05:11 -> 00:05:17]  Das Fremdatom wird im Falle der p-Dotierung als Akzeptor bezeichnet.
+[00:05:17 -> 00:05:22]  Setzt man dieses nun in das reine Halbleitergitter ein, binden sich die Elemente zusammen.
+[00:05:23 -> 00:05:27]  Das Silizium hat vier Außenelektronen, das Bohr nur drei.
+[00:05:27 -> 00:05:32]  Es verbinden sich immer zwei Außenelektronen, deshalb bleibt beim Fremdatom eine Stelle
+[00:05:32 -> 00:05:33]  frei.
+[00:05:33 -> 00:05:35]  Hier ist noch Platz für ein Elektron.
+[00:05:35 -> 00:05:43]  Wie bereits bekannt wird ein fehlendes Elektron als Defektelektron oder auch Loch bezeichnet.
+[00:05:43 -> 00:05:47]  Deshalb handelt es sich hier bei der freien Stelle um ein Loch.
+[00:05:47 -> 00:05:54]  Somit sorgt die p-Dotierung dafür, dass viele freie Löcher zur Verfügung stehen.
+[00:05:54 -> 00:06:00]  Insgesamt bei der p- und n-Dotierung sind im Halbleiter bereits bei Raumtemperatur viele
+[00:06:00 -> 00:06:01]  Ladungsträger verfügbar.
+[00:06:01 -> 00:06:08]  Nun kann man natürlich an den dotierten Halbleiter eine Energiequelle anschließen und es stellt
+[00:06:08 -> 00:06:12]  sich die Frage, wie sich der dotierte Halbleiter verhält.
+[00:06:12 -> 00:06:16]  Beim n-Dotierten Halbleiter ist das schnell und einfach erklärt.
+[00:06:16 -> 00:06:20]  Die nicht festgebundenen Elektronen sind nun frei beweglich.
+[00:06:20 -> 00:06:22]  Wir schließen eine Quelle an.
+[00:06:22 -> 00:06:29]  Die Elektronen werden vom Pluspol angezogen und vom Minuspol kommen neue Elektronen nach.
+[00:06:29 -> 00:06:34]  Es stellt sich ein Elektronenfluss ein und das ist eben unser elektrischer Strom.
+[00:06:34 -> 00:06:42]  Wer sich jetzt noch spezieller für die Leitfähigkeit von Halbleitern interessiert, habe ich hierfür
+[00:06:42 -> 00:06:47]  ein extra Video erstellt und auch auf der Webseite fmh-studios.de gibt es hierzu einen
+[00:06:47 -> 00:06:48]  Beitrag.
+[00:06:48 -> 00:06:51]  Wie sieht es nun beim p-Dotierten Halbleiter aus?
+[00:06:51 -> 00:06:56]  Vereinfacht gesagt werden die Löcher vom Minuspol der Quelle angezogen und vom Pluspol
+[00:06:56 -> 00:06:57]  kommen neue Löcher nach.
+[00:06:57 -> 00:07:03]  Wie gesagt, das Ganze habe ich jetzt hier eben vereinfacht dargestellt, denn wie bereits
+[00:07:03 -> 00:07:06]  gelernt ist das Atomgitter ein festes Gitter.
+[00:07:06 -> 00:07:08]  Es bewegt sich nicht.
+[00:07:08 -> 00:07:11]  Und die Löcher sind Fehlstellen in diesem Gitter.
+[00:07:11 -> 00:07:16]  Also sozusagen freie Elektronenplätze in diesem Gitter.
+[00:07:16 -> 00:07:20]  Und deshalb können sich die Löcher eigentlich nicht direkt bewegen.
+[00:07:20 -> 00:07:25]  Tatsächlich sieht es nämlich nur so aus, als würden sich die Löcher bewegen.
+[00:07:25 -> 00:07:28]  Was damit genau gemeint ist, möchte ich nun zeigen.
+[00:07:28 -> 00:07:32]  Wir schließen wieder eine Quelle an den p-Dotierten Halbleiter an.
+[00:07:32 -> 00:07:38]  Die Löcher der Dotieratome klauen sich die Elektronen der benachbarten Siliziumatome.
+[00:07:39 -> 00:07:43]  Sie ziehen diese Elektronen an und das Loch wird besetzt.
+[00:07:43 -> 00:07:46]  Es ist aber auch ein neues Loch entstanden.
+[00:07:46 -> 00:07:49]  Dies sorgt dann sozusagen für eine Kettenreaktion.
+[00:07:49 -> 00:07:52]  Ja, es entsteht ein neues Loch.
+[00:07:52 -> 00:07:54]  Dieses zieht wieder ein Elektron an und so weiter.
+[00:07:59 -> 00:08:01]  Wichtig ist noch die Richtung.
+[00:08:01 -> 00:08:06]  Die Elektronen werden immer von den Löchern angezogen, dass sich die Elektronen Richtung
+[00:08:06 -> 00:08:11]  Pluspol der Quelle bewegen, da sie von dort natürlich auch angezogen werden.
+[00:08:11 -> 00:08:16]  Und wenn man dieses Geschehen nun genau beobachtet, fällt auf, dass sich die Elektronen zum Pluspol
+[00:08:16 -> 00:08:21]  bewegen und es den Anschein hat, dass sich die Löcher in Richtung Minuspol der Quelle
+[00:08:21 -> 00:08:22]  bewegen.
+[00:08:22 -> 00:08:27]  Ich habe dieses Prinzip auch hier nochmal exemplarisch übertrieben dargestellt, passiert
+[00:08:27 -> 00:08:32]  in Realität natürlich nicht, aber einfach, um nochmal die Bewegungsrichtung deutlich
+[00:08:32 -> 00:08:33]  darzustellen.
+[00:08:34 -> 00:08:39]  Nun haben wir kennengelernt, wie ein dotierter Halbleiter aufgebaut ist und wie er funktioniert.
+[00:08:39 -> 00:08:44]  Ein weiterer wichtiger Punkt beim dotierten Halbleiter ist das Thema Ladung.
+[00:08:44 -> 00:08:48]  Dies ist gerade auch für aufbauende Themen von großer Wichtigkeit.
+[00:08:48 -> 00:08:55]  Wie verhält sich die Ladung im Halbleiter bzw. speziell im dotierten Halbleiter?
+[00:08:55 -> 00:08:57]  Wir betrachten zunächst ein einzelnes Atom.
+[00:08:57 -> 00:09:00]  Wie sieht es hier mit der Ladung aus?
+[00:09:00 -> 00:09:05]  Ein Atom als Ganzes betrachtet weist nach außen hin eine neutrale Ladung auf.
+[00:09:05 -> 00:09:13]  Die Anzahl bzw. Ladung der positiv geladenen Proton ist gleich hoch wie die Anzahl bzw.
+[00:09:13 -> 00:09:15]  Ladung der negativ geladenen Elektron.
+[00:09:15 -> 00:09:18]  So stellt sich ein Gleichgewicht ein.
+[00:09:18 -> 00:09:25]  Jetzt schauen wir ein ganzes Atomgetan, zunächst am enddotierten Halbleiter.
+[00:09:25 -> 00:09:28]  Und hier interessiert uns speziell das Dotieratom.
+[00:09:29 -> 00:09:30]  Wie sieht es hier mit der Ladung aus?
+[00:09:30 -> 00:09:34]  Wie erklärt, bei der Enddotierung löst sich das Elektron ab.
+[00:09:34 -> 00:09:37]  Das Elektron ist negativ geladen.
+[00:09:37 -> 00:09:40]  Hierdurch ist die Ladung nicht mehr im Gleichgewicht.
+[00:09:40 -> 00:09:46]  Man kann sich das Ganze mithilfe einer Waage vorstellen, die nun eben nicht mehr im Gleichgewicht ist.
+[00:09:46 -> 00:09:51]  Und hier auch nochmal das Dotieratom im ganzen Atommodell dargestellt.
+[00:09:51 -> 00:09:55]  Beim zurückbleibenden Fremdatom gibt es mehr Proton als Elektron.
+[00:09:56 -> 00:10:00]  Somit weist das Fremdatom eine positive Ladung auf.
+[00:10:00 -> 00:10:06]  Natürlich, der gesamte Halbleiter ist nach aussen hin immer noch neutral.
+[00:10:06 -> 00:10:07]  Warum?
+[00:10:07 -> 00:10:12]  Im gesamten Halbleiter haben wir immer noch gleich viele Protonen wie Elektronen.
+[00:10:12 -> 00:10:17]  Die Elektronen sind ja nicht verschwunden, sondern haben sich einfach vom Atom gelöst.
+[00:10:17 -> 00:10:24]  Wenn wir nun allerdings dieses Elektron entfernen würden, würde auch hier eine positive Ladung auftreten.
+[00:10:25 -> 00:10:30]  Gleiches gilt natürlich auch für den p-Halbleiter, nur eben andersherum.
+[00:10:30 -> 00:10:32]  Das Loch ist positiv geladen.
+[00:10:32 -> 00:10:36]  Vorsicht an dieser Stelle, dass es hier nicht zu Verwechslungen kommt.
+[00:10:36 -> 00:10:43]  Ein Loch ist positiv geladen, aber es ist kein Proton des Atomkerns, sondern ein fehlendes Elektron.
+[00:10:43 -> 00:10:48]  Wie sieht es nun mit der Ladung des Dotieratoms im p-dotierten Halbleiter aus?
+[00:10:48 -> 00:10:53]  Dieses positiv geladene Loch zieht ein negativ geladenes Elektron an.
+[00:10:53 -> 00:10:58]  An das Fremdatom dockt also ein negativ geladenes Elektron an.
+[00:10:58 -> 00:11:01]  Hierdurch ist die Ladung nicht mehr im Gleichgewicht.
+[00:11:05 -> 00:11:10]  Beim zurückbleibenden Fremdatom gibt es mehr Elektronen als Protonen.
+[00:11:10 -> 00:11:15]  Somit weist das Fremdatom eine negative Ladung auf.
+[00:11:15 -> 00:11:23]  Und auch hier gilt, betrachtet man den gesamten Halbleiter, ist dieser nach außen hin immer noch neutral geladen.
+[00:11:23 -> 00:11:28]  Hier nun nochmal beide Dotierarten, n- und p-Dotierung, nebeneinander.
+[00:11:28 -> 00:11:32]  Die Dotieratome sind wie gesagt im Gitter fest gebunden.
+[00:11:32 -> 00:11:39]  Entfernen sich die Ladungsträger, werden die zurückbleibenden Atome als ionisierte Störstellen bezeichnet.
+[00:11:39 -> 00:11:45]  Oder auch bei der n-Dotierung als Donatoren und bei der p-Dotierung als Akzeptoren.
+[00:11:45 -> 00:11:51]  In einem dotierten Halbleiter treten also freie Ladungsträger und ionisierte Störstellen auf.
+[00:11:51 -> 00:11:58]  Wie erklärt, beide weissen, getrennt bzw. einzeln betrachtet, eine bestimmte Ladung auf.
+[00:11:58 -> 00:12:03]  Zur Übersichtlichkeit wird gerne hier gezeigte Darstellung verwendet.
+[00:12:03 -> 00:12:09]  Dabei werden die Ladungsträger als Kreise gekennzeichnet und die ionisierten Störstellen als Quadrate.
+[00:12:09 -> 00:12:16]  Hier auch nochmal n- und p-Dotierte Halbleiter gegenübergestellt, eben mit dieser übersichtlichen Darstellung,
+[00:12:16 -> 00:12:20]  welche klar die Ladung innerhalb der Halbleiter aufzeigt.
+[00:12:20 -> 00:12:24]  Zusammenfassend lässt sich sagen, durch die Dotierung erreichen wir,
+[00:12:24 -> 00:12:27]  dass ein Halbleiter ohne großen Energieeinfluss leitend wird.
+[00:12:27 -> 00:12:33]  Hierfür wird der reine intrinsische Halbleiter durch Fremdatome gezielt verunreinigt.
+[00:12:33 -> 00:12:38]  Man unterscheidet zwischen n- und p-Dotierten Halbleiter, je nach verwendetem Dotieratom.
+[00:12:38 -> 00:12:42]  Beim n-Halbleiter haben die Fremdatome mehr Außenelektron,
+[00:12:42 -> 00:12:48]  beim p-Halbleiter weniger Außenelektron als die Atome des intrinsischen Halbleiters.
+[00:12:48 -> 00:12:53]  Die entsprechenden Ladungsträger sind nicht fest im Gitter gebunden und lösen sich deshalb leicht ab
+[00:12:53 -> 00:12:58]  und so wird der dotierte Halbleiter auch ohne großen Energieeinfluss leitend.
+[00:12:58 -> 00:13:02]  Trennen sich die entsprechenden Ladungsträger vom Dotieratom ab,
+[00:13:02 -> 00:13:09]  wird das Dotieratom als ionisierte Störstelle bezeichnet und weist nun eine Ladung auf.
+[00:13:09 -> 00:13:13]  Der dotierte Halbleiter wird deshalb oft, wie hier gezeigt, dargestellt.
+[00:13:13 -> 00:13:18]  Ich bin Enrique Fernandes, hier bei FMH Studios. Bis zum nächsten Video. Adios.

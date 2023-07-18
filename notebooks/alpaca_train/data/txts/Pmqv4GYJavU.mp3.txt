@@ -1,0 +1,38 @@
+[00:00:00 -> 00:00:07]  Every morning when I drive into work, I begin to think of what the day's challenges are going to be.
+[00:00:09 -> 00:00:12]  I'm excited about what I'm going to see, what I will learn.
+[00:00:12 -> 00:00:16]  I think about the short game of what happens in the next 10 hours,
+[00:00:16 -> 00:00:19]  and also the long game of what happens in the next decade.
+[00:00:20 -> 00:00:24]  Every patient who takes a therapeutic medicine expects it to be pure.
+[00:00:24 -> 00:00:29]  So it's our job in the process development organization to develop a manufacturing process
+[00:00:29 -> 00:00:33]  that assures that purity and quality of every batch of medicine we produce.
+[00:00:35 -> 00:00:42]  A purification process is intended to isolate single species of the protein therapeutic that we're manufacturing,
+[00:00:42 -> 00:00:46]  removing impurities, cells themselves, fragments of those cells,
+[00:00:46 -> 00:00:50]  residual nucleic acids or proteins that aren't part of the product,
+[00:00:50 -> 00:00:56]  and isolating to 99.9% purity the active pharmaceutical ingredient or the drug substance that we manufacture.
+[00:00:57 -> 00:01:02]  The process development group that contributes to the production of a novel protein medicine
+[00:01:02 -> 00:01:05]  is a group that stands out from the rest.
+[00:01:05 -> 00:01:10]  The process development group that contributes to the production of a novel protein medicine
+[00:01:10 -> 00:01:15]  is a group that stays together for years as we work through the life cycle of the product.
+[00:01:15 -> 00:01:21]  And the group builds a real camaraderie and understanding of that product and its applications to human disease.
+[00:01:21 -> 00:01:24]  The groups are driven by that opportunity.
+[00:01:25 -> 00:01:30]  The biggest challenge we face is the large size of the portfolio that we're managing.
+[00:01:30 -> 00:01:34]  Genentech manufactures over 12 recombinant protein therapeutics.
+[00:01:35 -> 00:01:40]  That's the largest product portfolio in the biologics field in the industry.
+[00:01:41 -> 00:01:48]  Our pipeline at any given moment has 40 to 60 projects at various stages of preclinical and clinical development.
+[00:01:48 -> 00:01:50]  That's a very large portfolio.
+[00:01:50 -> 00:01:57]  And the volume of the clinical programs allow us to see patterns and efficiencies and commonalities
+[00:01:57 -> 00:02:02]  that make our processes the most innovative in the field.
+[00:02:03 -> 00:02:07]  There have been just a few times in my career where I've felt I've had the opportunity to participate
+[00:02:07 -> 00:02:13]  in a technological advance that was going to change the way we develop processes.
+[00:02:13 -> 00:02:18]  One of them was high-throughput screening used for chromatographic resin optimization
+[00:02:18 -> 00:02:24]  and the ability to test thousands of combinations of pH or salt concentrations
+[00:02:24 -> 00:02:27]  that could affect the purity of our protein therapeutics.
+[00:02:27 -> 00:02:32]  By miniaturizing this and using robots on a very small scale,
+[00:02:32 -> 00:02:37]  we suddenly could test in an hour what would have taken two weeks in the laboratory.
+[00:02:37 -> 00:02:39]  It revolutionized our field.
+[00:02:40 -> 00:02:42]  The job I hold today is my dream job.
+[00:02:42 -> 00:02:45]  This was what I wanted to do when I came out of graduate school.
+[00:02:45 -> 00:02:48]  And if someone had asked me where I wanted to be in 20 years,
+[00:02:48 -> 00:02:51]  I would have said heading up the bioprocess development group at Genentech.
+[00:02:57 -> 00:02:59]  Genentech
+[00:02:59 -> 00:03:01]  www.genentech.com

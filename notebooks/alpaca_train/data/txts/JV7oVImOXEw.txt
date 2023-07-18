@@ -1,0 +1,106 @@
+[00:00:00 -> 00:00:09]  Hi und herzlich willkommen bei Lehrer Schmidt. Wir machen heute zusammen Physik und heute schauen
+[00:00:09 -> 00:00:16]  wir uns an, was Druck ist und vor allen Dingen, wie man das Ganze auch berechnet. So, fangen wir an
+[00:00:16 -> 00:00:25]  mit den Basics. Als erstes brauchen wir natürlich ein Formelzeichen und das Formelzeichen für Druck,
+[00:00:25 -> 00:00:36]  das ist das kleine p. So, dann brauchen wir eine Einheit. Druck wird gemessen in Pa und das ist
+[00:00:36 -> 00:00:47]  die Abkürzung für Pascal und manchmal auch in Bar. Kommen wir auch noch zu. Okay, was müssen wir noch
+[00:00:47 -> 00:00:57]  wissen? Pascal, das war ein französischer Mathematiker und Physiker und der lebte von
+[00:00:57 -> 00:01:09]  1623 bis 1662. Okay, soviel zur Seite 1. Steigen wir ein bisschen tiefer ein. So, als nächstes brauchen
+[00:01:09 -> 00:01:32]  wir eine Definition. Also Definition. Gut, also man kann sagen, Druck beschreibt die Wirkung von
+[00:01:32 -> 00:01:53]  einer Kraft auf eine bestimmte Fläche. Okay, hört sich total kompliziert an. Wir können es noch ein
+[00:01:53 -> 00:02:10]  bisschen einfacher machen. Wir können sagen, Druck ist gleich Kraft pro Fläche. So, viele von euch werden
+[00:02:10 -> 00:02:17]  sich das total schwer vorstellen können. Im Vorfeld habe ich überlegt, wie ich euch den Begriff Druck
+[00:02:17 -> 00:02:22]  am besten mit einem Experiment erklären kann. Und da habe ich mir gedacht, schnappe ich mir eine
+[00:02:22 -> 00:02:27]  Kiste, mache ich Sand rein, frisch vom Spielplatz, ich bringe es auch wieder zurück, versprochen,
+[00:02:27 -> 00:02:39]  und ein Stück Holz. So, und jetzt lege ich das Stück Holz auf den Sand. So, und jetzt wird das
+[00:02:39 -> 00:02:47]  Stück Holz Druck auf den Sand ausüben. Alles klar, schauen wir mal. Hm, nichts passiert. Gut,
+[00:02:47 -> 00:02:54]  also üben wir mehr Druck aus. Ich habe mir was vorbereitet. Fünf Kilogramm stelle ich jetzt
+[00:02:54 -> 00:03:04]  drauf. So, und es wird etwas passieren. So, ich lasse los. Und ihr ahnt es, klar, es gibt einen
+[00:03:04 -> 00:03:10]  Abdruck. Das heißt also, ich habe jetzt Druck ausgeübt, und das sehen wir hier. Und nun werden
+[00:03:10 -> 00:03:15]  wir noch mal Druck ausüben, aber dieses Mal werden wir die Fläche verkleinern. Hier haben wir noch
+[00:03:15 -> 00:03:22]  diese Fläche, jetzt nehmen wir diese hier. Hochkant. Ich hoffe, ihr seht gut. Und jetzt wieder die fünf
+[00:03:22 -> 00:03:29]  Kilo drauf. So, und jetzt loslassen kann ich diesmal nicht. Ich versuche es, okay. Ich nehme es wieder
+[00:03:29 -> 00:03:36]  hoch, aber ich glaube, uns allen ist klar, was passiert ist. Ihr seht es hoffentlich. Das Stück
+[00:03:36 -> 00:03:42]  Holz ist viel, viel tiefer in den Sand gedrückt worden. So, und wenn es das gleiche Stück Holz
+[00:03:42 -> 00:03:49]  war, und das gleiche Gewicht, tja, was ist dann der Unterschied? Der Unterschied ist also nicht die
+[00:03:49 -> 00:03:57]  Gewichtskraft, nicht das Stück Holz, aber sehr wohl die Fläche. Und genau darum geht es beim Druck,
+[00:03:57 -> 00:04:04]  und genau so ist auch die Formel aufgebaut, und die schauen wir uns jetzt an. Also kommen wir jetzt
+[00:04:04 -> 00:04:16]  zur Formel. Druck, abgekürzt mit klein p, ist also F. Und ihr wisst, F steht immer für eine Kraft.
+[00:04:16 -> 00:04:25]  Nennen wir es mal die wirkende Kraft. Gerade eben waren das die fünf Kilogramm, also das Gewicht,
+[00:04:25 -> 00:04:40]  und das Ganze geteilt durch Groß A. Und Groß A, das ist die Fläche, oder genauer gesagt, Fläche,
+[00:04:40 -> 00:04:52]  auf die die Kraft wirkt. Das haben wir ja gerade mit dem Abdruck gesehen. So, kurz gefasst also,
+[00:04:52 -> 00:05:06]  p ist gleich F durch A. Druck ist gleich Kraft, oder wirkende Kraft, durch Fläche, oder Fläche,
+[00:05:06 -> 00:05:17]  auf die die Kraft wirkt. Okay, die Maßeinheit ist ein Pa, ein Paskal. Und damit wir uns das Ganze
+[00:05:17 -> 00:05:23]  besser vorstellen können, habe ich hier mal eine Fläche gezeichnet. Sagen wir mal, es soll ein
+[00:05:23 -> 00:05:28]  Quadratmeter darstellen, und hier ein Pfeil, und dann wisst ihr immer, Kraft, und dann nennen wir das F,
+[00:05:28 -> 00:05:38]  die Kraft hat oder entspricht ein Newton. So, und deswegen können wir auch sagen, ein Paskal entspricht
+[00:05:38 -> 00:05:49]  ein Newton durch, oder auf, den Quadratmeter. Und jetzt erkennt ihr es wieder. Druck ist gleich
+[00:05:49 -> 00:05:58]  Kraft und Fläche, oder Kraft durch Fläche. So, dann brauchen wir ein paar Maßeinheiten. 1000
+[00:05:58 -> 00:06:16]  Paskal entsprechen einem Kilopascal, klar. Und was haben wir noch? Eine Million Paskal entspricht
+[00:06:16 -> 00:06:25]  einem Megapascal. Alles klar. Dann gibt es noch eine Besonderheit, hatten wir am Anfang. Es gibt
+[00:06:25 -> 00:06:42]  noch ein Bar, und ein Bar entspricht 100.000 Paskal, und das wiederum entspricht 100 Kilopascal.
+[00:06:42 -> 00:06:51]  Und diese Umrechnerei zwischen Bar und Paskal, das macht die Textaufgaben manchmal ganz schön
+[00:06:51 -> 00:06:57]  schwierig, aber das schauen wir uns am Ende vom Video in den Beispielen an. Bevor wir aber rechnen,
+[00:06:57 -> 00:07:02]  möchte ich nochmal eben zwei Dinge machen, damit kann man immer relativ gut überprüfen, ob man es
+[00:07:02 -> 00:07:31]  verstanden hat. So, der Druck steigt, wenn die einwirkende Kraft größer wird. Stellen wir uns
+[00:07:31 -> 00:07:37]  wieder unsere Sandkiste vor, dann ist uns doch allen klar, dass wenn wir statt eines Fünf-Kilo-Gewichts
+[00:07:37 -> 00:07:42]  wie gerade eben ein Zehn-Kilo-Gewicht nehmen, dann steigt der Druck. Man könnte auch einfach sagen,
+[00:07:42 -> 00:07:50]  dann wird dieses Stück Holz eben tiefer in den Sand gedrückt. Okay, klar. Aber der Druck steigt
+[00:07:50 -> 00:08:13]  eben auch, wenn die Fläche, auf die die Kraft wirkt, kleiner wird. Für das zweite Beispiel ist
+[00:08:13 -> 00:08:20]  ein wunderschönes Beispiel, den Finger in den Sand zu drücken. Versucht man, einen Finger in den
+[00:08:20 -> 00:08:24]  Sand zu drücken, ist das relativ einfach. Mit der Faust gelingt das nicht und das hängt natürlich
+[00:08:24 -> 00:08:29]  damit zusammen, dass die Fingerspitze eine viel kleinere Fläche hat als zum Beispiel die ganze
+[00:08:29 -> 00:08:36]  Faust. Okay, so, wenn wir das verstanden haben, dann geht's ans Rechnen. So, wir fangen ganz einfach an,
+[00:08:36 -> 00:08:50]  zum Warmwerden. Beispiel 1. So, wir, P, Druck, F und A. Wir schreiben immer auf, was haben wir,
+[00:08:50 -> 00:08:56]  was suchen wir. Und in der ersten Aufgabe ist der Druck gesucht. Wir wissen aber, wir haben eine
+[00:08:56 -> 00:09:07]  Kraft und zwar 50 Newton und wir haben eine Fläche von zwei Quadratmetern. Okay, alles klar. Nun
+[00:09:07 -> 00:09:20]  brauchen wir unsere Formel und die Formel lautet, P ist gleich F durch A. Alles klar? Also müssen
+[00:09:20 -> 00:09:40]  wir nur einsetzen. P ist gleich F, also 50 Newton geteilt durch zwei Quadratmeter. 50 durch 2 sind
+[00:09:40 -> 00:09:47]  25 und die Maßeinheit Newton durch Quadratmeter. Und wir haben ja gerade gelernt, Newton durch
+[00:09:47 -> 00:09:59]  Quadratmeter sind Pascal, also 25 Pascal. Okay, so, das war die erste Aufgabe und so wäre das ja auch
+[00:09:59 -> 00:10:06]  ganz, ganz einfach. Leider muss man sagen, ist das Problem gar nicht die Formel an sich, sondern das
+[00:10:06 -> 00:10:19]  Umrechnen der Maßeinheiten. Machen wir ein zweites Beispiel. Dieses Mal ist P gegeben und P sind 30
+[00:10:19 -> 00:10:33]  Pascal. Wir haben F und F sind 300 Newton. Das heißt, die Fläche A ist gesucht. Wir schreiben
+[00:10:33 -> 00:10:44]  wieder die Formel auf. P ist gleich F durch A und da wir dieses Mal A suchen, müssen wir die Formel
+[00:10:44 -> 00:10:56]  umstellen. Das heißt, wir rechnen als erstes mal A, dann steht da P mal A gleich F. Dann muss P noch
+[00:10:56 -> 00:11:07]  rüber, also geteilt durch P und dann steht da A gleich F durch P. Gut, dann setzen wir ein. A ist gleich F
+[00:11:07 -> 00:11:24]  durch P. F sind 300 Newton geteilt durch P. P durch 30 Pascal. Das heißt also, wir können eine Null
+[00:11:24 -> 00:11:34]  wegkürzen und dann steht da 30 durch 3 und das sind 10. Okay, und jetzt noch die Fläche, also A, also 10
+[00:11:34 -> 00:11:44]  Quadratmeter. Und schon sind wir wieder fertig. Gut, das waren jetzt zwei ganz einfache Beispiele. Jetzt
+[00:11:44 -> 00:11:53]  machen wir es ein bisschen komplizierter. Dieses Mal haben wir P gegeben und p sind 1,5 bar. Und ihr
+[00:11:53 -> 00:12:03]  seht schon, was ist denn das? Und A, die Fläche, sind vier Quadratzentimeter. Und das machen
+[00:12:03 -> 00:12:08]  Physiklehrer leider ganz gerne. Und jetzt wird es richtig knifflig, denn mit diesen Maßeinheiten
+[00:12:08 -> 00:12:15]  können wir gar nicht rechnen. Also erst mal Formel aufschreiben. So, wir haben P gegeben, wir haben A
+[00:12:15 -> 00:12:25]  gegeben. Was fehlt uns also? F. F ist gesucht. Okay, alles klar. Also schreiben wir erst mal die
+[00:12:25 -> 00:12:36]  Grundformel auf. P ist gleich F durch A. Da wir aber F suchen, können wir es jetzt einfach mal
+[00:12:36 -> 00:12:44]  abkürzen. F ist gleich P mal A. Formel einfach umgestellt. Und jetzt müssten wir eigentlich nur
+[00:12:44 -> 00:12:49]  noch einsetzen. Das Problem an der Sache ist, wir brauchen dafür aber die Maßeinheiten Pascal
+[00:12:49 -> 00:12:59]  und Quadratmeter. Das heißt, wir müssen erst bar und Quadratzentimeter umwandeln. Quadratzentimeter
+[00:12:59 -> 00:13:20]  in Meter sind 0,0004 Quadratmeter. Und bar, das waren ja 100.000, sind also 150.000 Pascal. Wer
+[00:13:20 -> 00:13:26]  also von euch Probleme hat, die Maßeinheiten zu wechseln, ich habe dazu auch Videos. Könnt ihr
+[00:13:26 -> 00:13:31]  euch da noch mal angucken. Ich blende sie auch mit ein. So, und jetzt ist es nämlich dann wieder
+[00:13:31 -> 00:13:46]  nur noch einsetzen. Also F ist gleich P mal A. Und P sind jetzt 150.000 Pascal mal 0,0004
+[00:13:46 -> 00:13:54]  Quadratmeter. Jetzt stimmen die Maßeinheiten. Und wenn ich das Ganze in den Taschenrechner eingebe,
+[00:13:54 -> 00:14:16]  150.000 mal 0,0004, dann kommt da 60 raus. Also 60 Newton, weil ist halt so. Und dann sind wir
+[00:14:16 -> 00:14:30]  fertig. Okay, machen wir noch ein letztes Beispiel. Beispiel 4. Dieses Mal haben wir P, der Druck, sind
+[00:14:30 -> 00:14:46]  4 bar. Und die Fläche A sind ein Quadratzentimeter. Okay, und F ist wieder gesucht. Heißt also, erst
+[00:14:46 -> 00:14:56]  mal die Formel aufschreiben. P ist gleich F durch A. Und wenn wir die Formel umstellen, dann ist F
+[00:14:56 -> 00:15:05]  gleich P mal A. Okay, gut. Jetzt haben wir wieder das Problem, dass hier wieder der Druck in bar
+[00:15:05 -> 00:15:12]  angegeben ist. Und wir brauchen Pascal. Und hier in Zentimetern. Und wir brauchen Meter. Also wandeln
+[00:15:12 -> 00:15:23]  wir das Ganze um. Bar, hatten wir gerade gesagt, zu Pascal ist 100.000, also 400.000 Pascal. Und
+[00:15:23 -> 00:15:38]  Quadratzentimeter in Quadratmeter sind 0,0001 Quadratmeter. Okay, und jetzt brauchen wir nur
+[00:15:38 -> 00:15:57]  einsetzen. Also P 400.000 Pascal mal 0,0001 Quadratmeter. Da können wir also fleißig Nullen
+[00:15:57 -> 00:16:11]  rauskürzen. 1, 2, 3. 1, 2, 3. Hier mal 1 und hier. Und das ergibt 40. 40 Newton. Und schon haben wir das
+[00:16:11 -> 00:16:20]  auch wieder fertig. So, jetzt habt ihr ein paar Beispiele gesehen. Und ich hoffe, dass ihr jetzt
+[00:16:20 -> 00:16:25]  eine Vorstellung von dem Begriff Druck habt. Und das, was ich euch jetzt hier vorgerechnet habe,
+[00:16:25 -> 00:16:32]  das könnte auch genau so in einer Physikarbeit rankommen. Okay, das war's. So, das Video ist
+[00:16:32 -> 00:16:37]  zu Ende. Und wenn es gut gelaufen ist, dann hast du was gelernt. Und wenn du was gelernt hast,
+[00:16:37 -> 00:16:43]  dann freut mich das und dich hoffentlich auch. Und wenn das so ist, dann lass mir doch ein
+[00:16:43 -> 00:16:47]  Gefällt mir da. Da freue ich mich drüber. Dann weiß ich, dass das Video gut ankommt. Und wenn
+[00:16:47 -> 00:16:51]  es dir richtig gut gefällt, dann darfst du meinen Kanal natürlich auch gerne abonnieren. Auch das
+[00:16:51 -> 00:16:55]  freut mich natürlich sehr. Und dann kannst du Teil von Team Schmidt, unserer Community hier
+[00:16:55 -> 00:17:00]  werden. Und das ist hier wirklich richtig toll auf dem Kanal. Hier haben wir nämlich ganz wenig
+[00:17:00 -> 00:17:05]  Knallköppe und dafür ganz viele tolle, nette Kommentatoren, wo das Diskutieren auch richtig
+[00:17:05 -> 00:17:10]  Spaß macht. Aber das sieht man ja auch unter den Kommentaren bzw. in den Kommentaren unter den
+[00:17:10 -> 00:17:15]  Videos. Das wollte ich meinen. So, und wenn du mehr Hilfe brauchst, dann findest du alles schön
+[00:17:15 -> 00:17:23]  ordentlich sortiert auf meiner Homepage www.lehrer-schmidt.de. Okay, so, das soll's
+[00:17:23 -> 00:17:25]  von mir gewesen sein. Okay, das war's.

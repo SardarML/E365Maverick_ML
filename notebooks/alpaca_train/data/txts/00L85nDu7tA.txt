@@ -1,0 +1,89 @@
+[00:00:00 -> 00:00:14]  Welcome, this review material will focus on defining and differentiating exothermic and
+[00:00:14 -> 00:00:17]  endothermic reactions.
+[00:00:17 -> 00:00:23]  Simply stated, an exothermic reaction releases energy to the surroundings, and an endothermic
+[00:00:23 -> 00:00:26]  reaction takes energy in from the surroundings.
+[00:00:26 -> 00:00:31]  This is easy to imagine when we define our reaction as the system, and everything else
+[00:00:31 -> 00:00:33]  as the surroundings.
+[00:00:33 -> 00:00:38]  For an exothermic reaction, energy is released from the system to the surroundings, and for
+[00:00:38 -> 00:00:44]  an endothermic reaction, energy flows from the surroundings to the system.
+[00:00:44 -> 00:00:49]  In an open system or constant pressure system, we may use the term enthalpy to describe this
+[00:00:49 -> 00:00:55]  change in energy as reactants form products, abbreviated capital H, which will have two
+[00:00:55 -> 00:01:01]  parts, the sign, either negative or positive, and the magnitude of change, which is usually
+[00:01:01 -> 00:01:03]  in kilojoules per mole.
+[00:01:03 -> 00:01:09]  For example, the combustion of methane has a negative enthalpy of 890 kilojoules, which
+[00:01:09 -> 00:01:16]  means 890 kilojoules of energy are released per mole of methane combusted.
+[00:01:16 -> 00:01:21]  If the sign is negative, then energy flows from the system to surroundings.
+[00:01:21 -> 00:01:26]  Conversely, in an endothermic reaction, the sign is positive when energy flows from the
+[00:01:26 -> 00:01:28]  surroundings to the system.
+[00:01:28 -> 00:01:34]  In addition, we can rewrite this combustion reaction with the 890 kilojoules of energy
+[00:01:34 -> 00:01:37]  as a product as it is released to the surroundings.
+[00:01:37 -> 00:01:44]  Thus, for every one mole of methane combusted, 890 kilojoules of energy are also formed as
+[00:01:44 -> 00:01:49]  a product, which is the basis for stoichiometric calculations with energy.
+[00:01:49 -> 00:01:54]  An example of an endothermic reaction is the synthesis of nitrogen monoxide.
+[00:01:54 -> 00:02:00]  Because the change in enthalpy has a positive value, we can think of this energy as a reactant.
+[00:02:00 -> 00:02:07]  Thus, for every two moles of nitrogen monoxide formed, 180 kilojoules of energy are required.
+[00:02:07 -> 00:02:12]  Again, it will be important to understand this relationship for stoichiometric calculations
+[00:02:12 -> 00:02:14]  with energy.
+[00:02:14 -> 00:02:19]  A third way to think of this change is to examine the average potential energies of
+[00:02:19 -> 00:02:21]  reactants and products.
+[00:02:21 -> 00:02:26]  In an exothermic reaction, the potential energy of reactants is higher than the potential
+[00:02:26 -> 00:02:27]  energy of products.
+[00:02:27 -> 00:02:32]  Thus, as reactants form products, energy is released to the surroundings.
+[00:02:32 -> 00:02:34]  How much energy?
+[00:02:34 -> 00:02:38]  The difference in potential energy between reactants and products.
+[00:02:38 -> 00:02:43]  And due to the law of conservation of matter, the energy released from the system, or reaction,
+[00:02:43 -> 00:02:48]  is equal to the amount of energy absorbed by the surroundings, and is the basis for
+[00:02:48 -> 00:02:51]  understanding calorimetry exercises.
+[00:02:51 -> 00:02:57]  For an endothermic reaction, the average potential energy of products is higher than reactants.
+[00:02:57 -> 00:03:03]  Thus, as reactants form products, energy is absorbed from the surroundings to the system,
+[00:03:03 -> 00:03:04]  or reaction.
+[00:03:04 -> 00:03:10]  However, an even better way to envision an exo- and endothermic reaction is to include
+[00:03:10 -> 00:03:14]  an ambiguous reaction pathway on the x-axis.
+[00:03:14 -> 00:03:19]  When we include the reaction pathway, we can include an energy of activation barrier, which
+[00:03:19 -> 00:03:24]  is the minimum amount of energy needed to allow the reactants to form products.
+[00:03:24 -> 00:03:30]  This representation also allows us to label the transition state, or the activated complex,
+[00:03:30 -> 00:03:34]  which is at the apex of this reaction pathway.
+[00:03:34 -> 00:03:39]  If the reaction being studied is a dynamic equilibrium, we now have another way to describe
+[00:03:39 -> 00:03:41]  an exothermic reaction.
+[00:03:41 -> 00:03:47]  The energy of activation barrier for the forward reaction is less than the energy of activation
+[00:03:47 -> 00:03:49]  barrier for the reverse reaction.
+[00:03:49 -> 00:03:54]  Conversely, if an endothermic reaction is at equilibrium, the energy of activation barrier
+[00:03:54 -> 00:03:59]  for the forward reaction is greater than the energy of activation barrier for the reverse
+[00:03:59 -> 00:04:01]  reaction.
+[00:04:01 -> 00:04:07]  This representation also allows us to better demonstrate the effect of adding a catalyst.
+[00:04:07 -> 00:04:12]  The catalyst lowers the energy of activation barrier, which allows more products to be
+[00:04:12 -> 00:04:13]  formed.
+[00:04:13 -> 00:04:18]  Conversely, one could add an inhibitor and raise the energy of activation barrier, which
+[00:04:18 -> 00:04:22]  would inhibit the formation of products.
+[00:04:22 -> 00:04:27]  To better envision these potential energy changes for an exo- and endothermic reaction,
+[00:04:27 -> 00:04:32]  let's again examine the combustion reaction of methane, and let's also include the two-dimensional
+[00:04:32 -> 00:04:36]  Lewis diagrams for the reactants and products.
+[00:04:36 -> 00:04:41]  From the balanced equation, we see that one mole of methane requires two moles of oxygen
+[00:04:41 -> 00:04:45]  to afford one mole of carbon dioxide and two moles of water.
+[00:04:45 -> 00:04:50]  Thus, each drawn molecule abstractly represents one mole of that molecule.
+[00:04:50 -> 00:04:55]  We also know the reaction is exothermic because the change in enthalpy is negative, which
+[00:04:55 -> 00:05:00]  is to say energy is exiting the system, or that energy is a product.
+[00:05:00 -> 00:05:07]  Specifically, 890 kilojoules of energy are released when one mole of methane is combusted.
+[00:05:07 -> 00:05:12]  For this reaction to proceed, carbon-hydrogen bonds will need to break, and doubly bonded
+[00:05:12 -> 00:05:16]  oxygens will need to break, which will require energy.
+[00:05:16 -> 00:05:22]  When the new carbon-oxygen double bonds form within carbon dioxide, and when the new hydrogen-oxygen
+[00:05:22 -> 00:05:28]  bonds form within the water molecules, energy will be released.
+[00:05:28 -> 00:05:33]  When we compare the change in potential energy stored in the chemical bonds, in other words,
+[00:05:33 -> 00:05:38]  the amount of energy required to break the bonds of reactants, and the amount of energy
+[00:05:38 -> 00:05:43]  released as the new bonds of the products form, we see that the amount of energy released
+[00:05:43 -> 00:05:47]  when the products formed is greater by 890 kilojoules.
+[00:05:47 -> 00:05:52]  Thus, we now have a fourth way of stating an exothermic reaction.
+[00:05:52 -> 00:05:57]  The amount of energy required to break bonds of reactants is less than the amount of energy
+[00:05:57 -> 00:06:01]  released as the new bonds of products are formed.
+[00:06:01 -> 00:06:06]  Conversely, for an endothermic reaction, the reverse is true.
+[00:06:06 -> 00:06:11]  The amount of energy to break bonds of reactants is greater than the amount of energy released
+[00:06:11 -> 00:06:14]  as the new bonds of product are formed.
+[00:06:14 -> 00:06:21]  In summary, energy either exits the system, or is absorbed from the surroundings.
+[00:06:21 -> 00:06:26]  The sign of delta H is either negative or positive.
+[00:06:26 -> 00:06:32]  The relative energy of reactants is either higher or lower when compared to products,
+[00:06:32 -> 00:06:36]  which can be represented in one of two ways.
+[00:06:36 -> 00:06:41]  Either the energy of activation barrier for the forward reaction is less or greater than
+[00:06:41 -> 00:06:47]  the energy of activation barrier for the reverse reaction, and the amount of energy required
+[00:06:47 -> 00:06:53]  to break bonds of reactants is less or more than the amount of energy released as the
+[00:06:53 -> 00:06:55]  bonds of products are formed.
+[00:06:55 -> 00:07:00]  We now have several helpful ways for thinking about exo- and endothermic reactions.

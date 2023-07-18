@@ -1,0 +1,171 @@
+[00:00:00 -> 00:00:11]  Hi, my name is Daria.
+[00:00:11 -> 00:00:15]  Welcome to Scrum Master video series where I give you practical tips on how to build
+[00:00:15 -> 00:00:16]  awesome teams.
+[00:00:16 -> 00:00:22]  In today's video, I wanted to talk about the new Scrum Guide 2020, the changes that have
+[00:00:22 -> 00:00:27]  been made, and more importantly, how does it actually affect you as a Scrum Master and
+[00:00:27 -> 00:00:33]  what you should start doing right now, given that the new changes have just been released.
+[00:00:33 -> 00:00:36]  Let me start this by saying that Scrum is still Scrum.
+[00:00:36 -> 00:00:42]  Yes, you will see a lot of changes in the new Scrum Guide, but at the end of the day,
+[00:00:42 -> 00:00:47]  the values, principles, and the foundational concepts of Scrum are still there.
+[00:00:47 -> 00:00:49]  These things didn't change.
+[00:00:49 -> 00:00:55]  What did change is that Scrum Guide became much less prescriptive and more concise, to
+[00:00:55 -> 00:00:56]  the point.
+[00:00:56 -> 00:01:02]  So, instead of having 19 pages in the Scrum Guide, now you have only 14, minus the title
+[00:01:02 -> 00:01:04]  page, of course.
+[00:01:04 -> 00:01:10]  It means that you will have much more opportunities to try and experiment with new techniques
+[00:01:10 -> 00:01:15]  that are not really part of the Scrum Guide, that are not described, meaning that the Scrum
+[00:01:15 -> 00:01:21]  Guide just gives you the framework, really much less prescriptive, and you will need
+[00:01:21 -> 00:01:27]  to figure out, with your team, how can you implement those concepts and what practices
+[00:01:27 -> 00:01:29]  and tools you want to use.
+[00:01:29 -> 00:01:35]  For example, the concept of the three questions in the Daily Scrum has been completely removed
+[00:01:35 -> 00:01:40]  from the Scrum Guide, so you no longer have an excuse of just asking the three questions
+[00:01:40 -> 00:01:45]  and you need to start thinking about what should your team be talking about in the Daily
+[00:01:45 -> 00:01:48]  Scrum to make it much more productive and effective.
+[00:01:48 -> 00:01:54]  In the same way, the recommendation around the team size from three to nine has been
+[00:01:54 -> 00:01:56]  also removed.
+[00:01:56 -> 00:02:04]  It is more about the Scrum team being small enough to reduce the complexity of coordination,
+[00:02:04 -> 00:02:10]  but also big enough to actually complete the substantial amount of work, usually less than
+[00:02:10 -> 00:02:15]  10, but the prescription around that size has been removed.
+[00:02:15 -> 00:02:20]  At the same time, the Scrum Guide now gives you more precisely the rules of the game.
+[00:02:20 -> 00:02:26]  Now, you can't really skip some elements because maybe they weren't defined as clearly before
+[00:02:26 -> 00:02:30]  or they weren't explained as key elements of Scrum.
+[00:02:30 -> 00:02:37]  Now they're clearly written down in such a way that you cannot just pass through them.
+[00:02:37 -> 00:02:44]  For example, the sprint goal is a commitment and the sprint goal is its own element, very
+[00:02:44 -> 00:02:46]  clearly defined in Scrum.
+[00:02:46 -> 00:02:48]  The same is the definition of done.
+[00:02:48 -> 00:02:53]  The definition of done is also a commitment, very, very clearly defined by Scrum.
+[00:02:53 -> 00:02:57]  So you cannot really just skip those items.
+[00:02:57 -> 00:03:03]  And if your team technically is not following with those elements, is not actually creating
+[00:03:03 -> 00:03:10]  those elements as they are implementing Scrum, then are they really doing Scrum?
+[00:03:10 -> 00:03:11]  That would be the question.
+[00:03:11 -> 00:03:16]  But I do not really want to go into the details of all of the changes that have been made
+[00:03:16 -> 00:03:17]  in the Scrum Guide.
+[00:03:17 -> 00:03:24]  You will see a lot of information about that in different resources, videos, and blog posts
+[00:03:24 -> 00:03:26]  that are coming up from trainers.
+[00:03:26 -> 00:03:32]  However, what I do want to talk about is how does this new Scrum Guide actually impact
+[00:03:32 -> 00:03:35]  what you should be doing as a Scrum Master?
+[00:03:35 -> 00:03:39]  So how does it impact you as a Scrum Master for your team?
+[00:03:39 -> 00:03:42]  And I have three key points to highlight.
+[00:03:42 -> 00:03:46]  Number one, stay up to date.
+[00:03:46 -> 00:03:51]  You are the embodiment of Scrum in your organization and for your team.
+[00:03:51 -> 00:03:57]  So you need to know Scrum to be able to be a great Scrum Master.
+[00:03:57 -> 00:04:03]  So you got to read the Scrum Guide, know the changes, do some research, read additional
+[00:04:03 -> 00:04:09]  blog posts that explain why those changes were made, and understand how does it actually
+[00:04:09 -> 00:04:11]  apply in your context?
+[00:04:11 -> 00:04:17]  Are you missing some key elements of Scrum that you quickly need to start implementing
+[00:04:17 -> 00:04:19]  in your team?
+[00:04:19 -> 00:04:21]  That will be an important point for you.
+[00:04:21 -> 00:04:27]  So you cannot just sit around and say, well, I know Scrum from 2017, and this is the Scrum
+[00:04:27 -> 00:04:29]  that I will be implementing.
+[00:04:29 -> 00:04:31]  Remember, Scrum didn't change.
+[00:04:31 -> 00:04:38]  It just became much more specific and precise while also being less prescriptive.
+[00:04:38 -> 00:04:45]  So it's an opportunity for you to go back and understand the key elements of Scrum and
+[00:04:45 -> 00:04:51]  start making sure that your team is actually following Scrum as it was intended from the
+[00:04:51 -> 00:04:52]  very start.
+[00:04:52 -> 00:04:57]  Number two, you can no longer hide behind your team.
+[00:04:57 -> 00:05:03]  The Scrum Guide version 2020 is very specific around the fact that the Scrum Master does
+[00:05:03 -> 00:05:07]  not only work with the team, but the whole organization.
+[00:05:08 -> 00:05:11]  So let me read from the Scrum Guide itself.
+[00:05:11 -> 00:05:17]  Scrum Masters are true leaders who serve the Scrum team and the larger organization.
+[00:05:17 -> 00:05:23]  And then from the next part in the Scrum Master definition, Scrum Master serves the organization
+[00:05:23 -> 00:05:30]  in several ways, including leading, training, and coaching the organization in its Scrum
+[00:05:30 -> 00:05:32]  adoption.
+[00:05:32 -> 00:05:36]  Notice the focus on the word leading here, right?
+[00:05:36 -> 00:05:44]  You are a leader that drives the Scrum adoption in the organization, planning and advising
+[00:05:44 -> 00:05:47]  Scrum implementations within the organization.
+[00:05:47 -> 00:05:53]  Once again, if it seemed like something an agile coach in your organization would usually
+[00:05:53 -> 00:05:59]  do, now it is clear here that it is the Scrum Master's role to actually do that.
+[00:05:59 -> 00:06:05]  There is no separation between someone who works with the organization and someone who
+[00:06:05 -> 00:06:06]  works with the team.
+[00:06:06 -> 00:06:08]  It's the Scrum Master.
+[00:06:08 -> 00:06:09]  It's you.
+[00:06:09 -> 00:06:14]  Helping employees and stakeholders understand and enact an empirical approach for complex
+[00:06:14 -> 00:06:15]  work.
+[00:06:15 -> 00:06:21]  This is very, very specific to you working with the stakeholders.
+[00:06:21 -> 00:06:26]  It might be management, sponsors, whether it's middle management or executives, it's
+[00:06:26 -> 00:06:27]  on you.
+[00:06:27 -> 00:06:32]  And then removing barriers between stakeholders and Scrum teams.
+[00:06:32 -> 00:06:37]  Those barriers we're talking about here are often communication barriers and misunderstandings
+[00:06:37 -> 00:06:41]  between stakeholders, often middle management, right?
+[00:06:41 -> 00:06:44]  And the team, the Scrum team doing the work.
+[00:06:44 -> 00:06:48]  So it's once again on you as a Scrum Master to jump on it.
+[00:06:48 -> 00:06:52]  And that is how the Scrum was always intended.
+[00:06:52 -> 00:06:59]  It's just much clearer now around your involvement in the organization, not only the team.
+[00:06:59 -> 00:07:04]  And number three, you are accountable.
+[00:07:04 -> 00:07:09]  This Scrum Guide is much more specific around what Scrum Master is accountable for.
+[00:07:09 -> 00:07:14]  So let me read from the Scrum Guide to be more specific.
+[00:07:14 -> 00:07:20]  The Scrum Master is accountable for the Scrum team's effectiveness.
+[00:07:20 -> 00:07:26]  They do this by enabling the Scrum team to improve its practices within the Scrum framework.
+[00:07:26 -> 00:07:31]  Here is we see the focus on the fact that the Scrum Master is not there just to coach
+[00:07:31 -> 00:07:34]  the team, create good morale or environment.
+[00:07:34 -> 00:07:39]  They are accountable for how well the Scrum team is actually doing.
+[00:07:39 -> 00:07:42]  And also their continuous improvement, right?
+[00:07:42 -> 00:07:46]  You are accountable for making sure that your team continuously improves.
+[00:07:46 -> 00:07:47]  This is not new.
+[00:07:47 -> 00:07:49]  It has always been there.
+[00:07:49 -> 00:07:51]  It's just much more specific now.
+[00:07:51 -> 00:07:54]  You can just skip through it.
+[00:07:54 -> 00:07:58]  And then another thing that I wanted to highlight that is a difference from the other Scrum
+[00:07:58 -> 00:08:01]  Guide, the previous version, is this.
+[00:08:01 -> 00:08:06]  The Scrum Master is accountable for establishing Scrum as defined in the Scrum Guide.
+[00:08:06 -> 00:08:11]  If you look at the previous version, it used to say the Scrum Master is responsible for
+[00:08:11 -> 00:08:16]  promoting and supporting Scrum as defined in the Scrum Guide.
+[00:08:16 -> 00:08:19]  You see the difference in wording here, right?
+[00:08:19 -> 00:08:20]  Responsible.
+[00:08:20 -> 00:08:22]  No longer just responsible.
+[00:08:22 -> 00:08:23]  You are accountable.
+[00:08:23 -> 00:08:27]  And no longer just promoting and supporting Scrum.
+[00:08:27 -> 00:08:28]  Establishing it.
+[00:08:28 -> 00:08:32]  Making sure that people understand and actually enact it, right?
+[00:08:32 -> 00:08:39]  So here is the important difference that makes you much more accountable for your, really
+[00:08:39 -> 00:08:43]  your role within the organization and the team.
+[00:08:43 -> 00:08:48]  If I go even a step further to look at what the Scrum Master is accountable for in the
+[00:08:48 -> 00:08:51]  Scrum Team section, it clearly says.
+[00:08:51 -> 00:08:57]  The Scrum Team is responsible for all product-related activities from stakeholder collaboration,
+[00:08:57 -> 00:09:02]  verification, maintenance, operation, experimentation, research and development, and anything else
+[00:09:02 -> 00:09:04]  that might be required.
+[00:09:04 -> 00:09:11]  Because the Scrum Master is a clear part of the Scrum Team and the whole Scrum Team is
+[00:09:11 -> 00:09:15]  responsible for those activities, you as a Scrum Master are also responsible.
+[00:09:15 -> 00:09:20]  Which ones you'll be taking on, well, that depends on your skill set, how you work with
+[00:09:20 -> 00:09:24]  the team, and what other roles you help the team fulfill.
+[00:09:24 -> 00:09:29]  If you're only really playing the Scrum Master role, for example, you're not a developer,
+[00:09:29 -> 00:09:37]  well, you still have some very important points to work with when it comes to the product-related
+[00:09:37 -> 00:09:38]  activities, right?
+[00:09:38 -> 00:09:43]  It might be related to the product quality through the definition of done and encouraging
+[00:09:43 -> 00:09:44]  the team to improve it.
+[00:09:44 -> 00:09:50]  It might be through the spirit of experimentation, making sure that the team understands how
+[00:09:50 -> 00:09:54]  to better conduct the experiments, and anything that can be there.
+[00:09:54 -> 00:09:59]  Maybe working with the stakeholders, remember, removing barriers between the stakeholders
+[00:09:59 -> 00:10:00]  and the team.
+[00:10:00 -> 00:10:06]  Once again, this is a product-related activity that would help the team be successful.
+[00:10:06 -> 00:10:14]  So you're accountable and responsible for that alongside the Scrum Team in general.
+[00:10:15 -> 00:10:21]  So here are my key points, but the question remains, is this all new?
+[00:10:21 -> 00:10:23]  Well, no.
+[00:10:23 -> 00:10:28]  As you've seen through this video, I talked about the fact that the Scrum Guide principles
+[00:10:28 -> 00:10:31]  and key concept didn't change.
+[00:10:31 -> 00:10:32]  It's still Scrum.
+[00:10:32 -> 00:10:35]  They're just much clearer now.
+[00:10:35 -> 00:10:36]  These things are not new.
+[00:10:36 -> 00:10:39]  They always have been intended.
+[00:10:39 -> 00:10:41]  Maybe they're misunderstood.
+[00:10:41 -> 00:10:43]  We had some misconceptions around some of them.
+[00:10:43 -> 00:10:48]  But at the end of the day, we still need to focus on what's really important.
+[00:10:48 -> 00:10:53]  And this is how Scrum was designed, and we need to follow through with all of those rules
+[00:10:53 -> 00:10:54]  and elements.
+[00:10:54 -> 00:10:59]  Because if we're not following the rules, are we really playing the game of Scrum?
+[00:10:59 -> 00:11:01]  Or are we playing something else?
+[00:11:01 -> 00:11:04]  You have a lot of work to do now as a Scrum Master, don't you?
+[00:11:04 -> 00:11:07]  So what are you still doing here?
+[00:11:07 -> 00:11:12]  Let's wrap up this video with some action points for you.
+[00:11:12 -> 00:11:17]  On what you know now, after this video, after reading the Scrum Guide, or understanding
+[00:11:17 -> 00:11:24]  some of the differences, what are some of the key actions, bold steps that you need
+[00:11:24 -> 00:11:32]  to take, ASAP, really, to be more successful as a Scrum Master, and to help your team and
+[00:11:32 -> 00:11:35]  organization be successful with Scrum?
+[00:11:35 -> 00:11:41]  Leave your answers to this question in the comments below so that we can share what we
+[00:11:41 -> 00:11:45]  think we should be doing with the Scrum Master community.
+[00:11:45 -> 00:11:49]  If you like this video, give this video a thumbs up and subscribe to this YouTube channel.
+[00:11:49 -> 00:11:54]  And if you're watching this at ScrumMaster.com, then make sure to subscribe to the newsletter
+[00:11:54 -> 00:12:00]  where I'm sharing additional insightful tips and personal stories, as well as some special
+[00:12:00 -> 00:12:03]  offers with my newsletter subscribers.
+[00:12:03 -> 00:12:05]  I hope to see you in the next video.
+[00:12:05 -> 00:12:07]  Cheers and Scrum on!

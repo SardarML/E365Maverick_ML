@@ -1,0 +1,319 @@
+[00:00:00 -> 00:00:02]  Hi, everyone. Welcome back to the DevOps Lab.
+[00:00:02 -> 00:00:04]  This week, I'm joined by Martina Heemstra to talk
+[00:00:04 -> 00:00:08]  about Delivery Plans 2.0 with Azure Boards.
+[00:00:08 -> 00:00:10]  It's amazing stuff. You don't want to miss this.
+[00:00:10 -> 00:00:26]  Hi, everyone.
+[00:00:26 -> 00:00:27]  Welcome back to the DevOps Lab.
+[00:00:27 -> 00:00:29]  I'm Damian Brady, and this week,
+[00:00:29 -> 00:00:31]  I am joined by Martina Heemstra.
+[00:00:31 -> 00:00:33]  Martina, thanks for joining us.
+[00:00:33 -> 00:00:35]  Happy to be here. Excited to be here.
+[00:00:35 -> 00:00:40]  Yeah, awesome. We are going to be talking about Azure Boards.
+[00:00:40 -> 00:00:44]  We usually talk a lot about CICD and
+[00:00:44 -> 00:00:47]  delivering stuff into production and all that kind of stuff.
+[00:00:47 -> 00:00:51]  But we don't as often talk about the planning stage,
+[00:00:51 -> 00:00:53]  and that's a super important part
+[00:00:53 -> 00:00:55]  of this whole DevOps story, correct?
+[00:00:55 -> 00:00:58]  It sure is. Planning is central to a lot of things,
+[00:00:58 -> 00:01:01]  and the great thing about Boards is it integrates
+[00:01:01 -> 00:01:06]  with everything in your DevOps pipelines and stuff.
+[00:01:06 -> 00:01:11]  Delivery Plans is a new feature that we've just GA'd,
+[00:01:11 -> 00:01:14]  which is a part of Boards and central to that planning.
+[00:01:14 -> 00:01:17]  We're really excited to show that part off today.
+[00:01:17 -> 00:01:20]  Yeah, that's right. Internally,
+[00:01:20 -> 00:01:22]  we use Azure Boards for everything.
+[00:01:22 -> 00:01:26]  Even planning this show is done on Azure Boards,
+[00:01:26 -> 00:01:27]  and it's not necessarily related
+[00:01:27 -> 00:01:30]  to a CICD pipeline or anything like that,
+[00:01:30 -> 00:01:32]  so it's super versatile.
+[00:01:32 -> 00:01:34]  Delivery Plans gives us
+[00:01:34 -> 00:01:37]  a few extra features that people have been asking for.
+[00:01:37 -> 00:01:38]  It sure does, yeah.
+[00:01:38 -> 00:01:41]  It gives you that timeline view of a plan.
+[00:01:41 -> 00:01:45]  There was three main scenarios that customers were asking for.
+[00:01:45 -> 00:01:47]  First one was that timeline view,
+[00:01:47 -> 00:01:50]  that roadmap view of a plan,
+[00:01:50 -> 00:01:53]  and then they also want to see what's the progress.
+[00:01:53 -> 00:01:54]  How far have I gone?
+[00:01:54 -> 00:01:56]  Am I going to hit the dates or not?
+[00:01:56 -> 00:01:58]  Delivery Plans gives that, and then of course,
+[00:01:58 -> 00:02:01]  the all-important dependency tracking.
+[00:02:01 -> 00:02:04]  You need to know what's going to be done first,
+[00:02:04 -> 00:02:05]  what's going to be done second,
+[00:02:05 -> 00:02:07]  where do I have problems in my plan?
+[00:02:07 -> 00:02:10]  Those were the three main scenarios
+[00:02:10 -> 00:02:11]  we were delivering for customers,
+[00:02:11 -> 00:02:15]  and of course, it has to work across teams and projects.
+[00:02:15 -> 00:02:18]  Yeah, okay. Absolutely. I think probably
+[00:02:18 -> 00:02:20]  the easiest way to have a look at what this can
+[00:02:20 -> 00:02:23]  deliver is maybe if you can show us what it looks like.
+[00:02:23 -> 00:02:24]  Oh, happy to do it.
+[00:02:24 -> 00:02:27]  And again, excited to announce we've made this,
+[00:02:27 -> 00:02:29]  so this is available for everyone now.
+[00:02:31 -> 00:02:35]  So I'm going to just start here with the plans.
+[00:02:35 -> 00:02:39]  So it's Delivery Plans as part of the board service here,
+[00:02:39 -> 00:02:41]  so you'll see it under the left nav.
+[00:02:41 -> 00:02:44]  It works very similar to the old plans,
+[00:02:44 -> 00:02:48]  except there's no extension you have to download anymore.
+[00:02:48 -> 00:02:50]  It's a native part of the product,
+[00:02:50 -> 00:02:52]  and you don't have to pay extra for it.
+[00:02:52 -> 00:02:55]  It's all part of the board service, which is great.
+[00:02:55 -> 00:02:58]  So you'll see this looks very similar.
+[00:02:58 -> 00:03:01]  You add a new plan here,
+[00:03:01 -> 00:03:04]  and the difference between the old one and new one
+[00:03:04 -> 00:03:07]  is you can now add up to 15 backlogs.
+[00:03:07 -> 00:03:10]  The old one, it was just 10,
+[00:03:10 -> 00:03:12]  and again, I just want to show here,
+[00:03:12 -> 00:03:15]  you can go across projects,
+[00:03:15 -> 00:03:17]  across teams,
+[00:03:18 -> 00:03:20]  and different backlogs.
+[00:03:20 -> 00:03:22]  Whatever you need to pull into that plan,
+[00:03:22 -> 00:03:27]  so you can really have that timeline view of your roadmap.
+[00:03:27 -> 00:03:31]  So I have one that's set up for us,
+[00:03:31 -> 00:03:33]  so this will make it much more interesting.
+[00:03:34 -> 00:03:38]  So what you're looking at here is an actual roadmap plan.
+[00:03:38 -> 00:03:42]  So this is called the condensed view,
+[00:03:42 -> 00:03:45]  so the cards on the plan
+[00:03:45 -> 00:03:47]  can either be expanded or condensed,
+[00:03:47 -> 00:03:49]  and I'll show you that in just a minute.
+[00:03:49 -> 00:03:51]  But the cool thing here is,
+[00:03:52 -> 00:03:54]  you can show whatever timeline you want.
+[00:03:54 -> 00:03:58]  You can freeze the bars here to get in.
+[00:03:58 -> 00:03:59]  You can zoom in
+[00:04:01 -> 00:04:05]  and out to whatever level you want it at.
+[00:04:05 -> 00:04:08]  So that's something
+[00:04:09 -> 00:04:11]  that really helps customers kind of get that view,
+[00:04:11 -> 00:04:16]  and what we're seeing here is a roadmap of epics,
+[00:04:16 -> 00:04:18]  and then you have multiple teams working on those epics.
+[00:04:18 -> 00:04:21]  So these are their feature backlogs,
+[00:04:21 -> 00:04:22]  and you see it in this all nice,
+[00:04:22 -> 00:04:25]  one condensed view of everything.
+[00:04:25 -> 00:04:27]  So we're looking at here,
+[00:04:27 -> 00:04:29]  epics needs to be done here in April,
+[00:04:29 -> 00:04:33]  another one's gonna be way far out,
+[00:04:33 -> 00:04:35]  but you can start seeing what it looks like,
+[00:04:35 -> 00:04:38]  and maybe reorganizing work as you need to go.
+[00:04:39 -> 00:04:43]  It seems like it's a great view for those project managers
+[00:04:43 -> 00:04:46]  and product managers who might be used to their Gantt charts
+[00:04:46 -> 00:04:48]  and a bit more of the,
+[00:04:48 -> 00:04:49]  almost like the waterfall planning stuff,
+[00:04:49 -> 00:04:53]  but this still ties into the backlogs
+[00:04:53 -> 00:04:55]  that the team's actually using,
+[00:04:55 -> 00:04:59]  whether they're using Scrum or Agile methods and things.
+[00:04:59 -> 00:05:00]  Correct?
+[00:05:00 -> 00:05:00]  That's right.
+[00:05:00 -> 00:05:03]  It doesn't matter which method you're using,
+[00:05:03 -> 00:05:06]  and you'll see a lot of portfolio managers,
+[00:05:06 -> 00:05:10]  and even Scrum Masters will use this,
+[00:05:10 -> 00:05:15]  but it's a lot of portfolio managers, project managers.
+[00:05:15 -> 00:05:18]  You're right, it has that kind of Gantt view of it,
+[00:05:18 -> 00:05:20]  but that's what we call that timeline view,
+[00:05:20 -> 00:05:23]  which customers have been wanting, so yeah.
+[00:05:25 -> 00:05:27]  So another thing you'll note on here
+[00:05:27 -> 00:05:30]  is these little red icons.
+[00:05:30 -> 00:05:34]  So this is what we call our dependency icon,
+[00:05:34 -> 00:05:36]  and I'm gonna show you in more detail how it all works,
+[00:05:36 -> 00:05:38]  but the cool thing here is,
+[00:05:38 -> 00:05:42]  again, within the delivery plans experience,
+[00:05:42 -> 00:05:44]  you can quickly see, ooh,
+[00:05:44 -> 00:05:46]  maybe I've got a problem here with a dependency,
+[00:05:46 -> 00:05:47]  and you'll see that right away,
+[00:05:47 -> 00:05:50]  so your eye's drawn to it, and you know what to look at,
+[00:05:50 -> 00:05:54]  and this'll go across anything
+[00:05:54 -> 00:05:56]  that has a dependency issue, it'll show up.
+[00:05:58 -> 00:06:00]  Oh, I should add, too,
+[00:06:00 -> 00:06:04]  so these delivery plans are based on iterations,
+[00:06:04 -> 00:06:08]  and the new feature is start date and target date,
+[00:06:08 -> 00:06:12]  so when we're doing that quarterly-level planning
+[00:06:12 -> 00:06:15]  or semester-level planning, whatever your cadence is,
+[00:06:16 -> 00:06:18]  a lot of customers have come back to us saying,
+[00:06:18 -> 00:06:21]  well, we just don't use iterations for EPICS,
+[00:06:21 -> 00:06:23]  we wanna use the start date and target date,
+[00:06:23 -> 00:06:25]  and so that's what you're able to use,
+[00:06:25 -> 00:06:28]  and so this backlog of EPICS here,
+[00:06:28 -> 00:06:30]  it's all based on the start date
+[00:06:30 -> 00:06:32]  and the end date of the EPIC,
+[00:06:33 -> 00:06:35]  and delivery plans works with both,
+[00:06:35 -> 00:06:37]  so what you'll see here is,
+[00:06:39 -> 00:06:40]  down here at the bottom,
+[00:06:40 -> 00:06:42]  we have a team that's working in a two-week sprint,
+[00:06:42 -> 00:06:45]  and they work off of iterations, see,
+[00:06:45 -> 00:06:49]  so, and they can continue working in it,
+[00:06:49 -> 00:06:51]  and then we have some teams that have a mix,
+[00:06:51 -> 00:06:54]  some work off of an iteration here,
+[00:06:54 -> 00:06:58]  here you've got one that's start date and end date,
+[00:06:58 -> 00:06:59]  and the reason I can tell that
+[00:06:59 -> 00:07:04]  is because they're working on a monthly iteration here, so.
+[00:07:04 -> 00:07:07]  That's really handy, it means you're not disrupting the team
+[00:07:07 -> 00:07:10]  just to fit in with your kind of rolled-up delivery plan,
+[00:07:10 -> 00:07:13]  you're just viewing what the team's
+[00:07:13 -> 00:07:15]  start dates, target dates are.
+[00:07:15 -> 00:07:18]  Exactly, teams can continue to be autonomous
+[00:07:18 -> 00:07:19]  in how they wanna work,
+[00:07:19 -> 00:07:21]  they choose what works best for them,
+[00:07:21 -> 00:07:23]  which is core at being an agile team, so.
+[00:07:23 -> 00:07:25]  Yeah, absolutely.
+[00:07:25 -> 00:07:27]  So you were gonna show me something more
+[00:07:27 -> 00:07:29]  about the dependencies as well.
+[00:07:29 -> 00:07:31]  Yeah, so one of the dependency track,
+[00:07:31 -> 00:07:34]  dependency tracking is one of the big features we have,
+[00:07:34 -> 00:07:37]  so I said the red icons here,
+[00:07:37 -> 00:07:38]  so if you click on this,
+[00:07:38 -> 00:07:42]  it brings up what we call our dependency panel,
+[00:07:42 -> 00:07:43]  and it's basically walking the tree
+[00:07:43 -> 00:07:46]  of your predecessor and successor links,
+[00:07:46 -> 00:07:49]  so you have to define those for all your work items,
+[00:07:49 -> 00:07:51]  but once you have those defined,
+[00:07:51 -> 00:07:55]  it walks that tree and lays out where you've got a problem,
+[00:07:55 -> 00:07:59]  anything with the red exclamation mark or red lettering
+[00:07:59 -> 00:08:01]  shows you, ooh, you got a problem here.
+[00:08:02 -> 00:08:06]  And here we see a problem between this feature and this epic
+[00:08:06 -> 00:08:09]  and we probably need to re-sequence some of the work.
+[00:08:09 -> 00:08:12]  So this is how you get the detail information on it,
+[00:08:12 -> 00:08:15]  now if you wanna see something really cool,
+[00:08:15 -> 00:08:17]  you can also visualize the lines,
+[00:08:17 -> 00:08:20]  so if you click on the bottom of the card,
+[00:08:20 -> 00:08:23]  you can now visualize those dependency lines,
+[00:08:23 -> 00:08:25]  how long have people been wanting that?
+[00:08:25 -> 00:08:26]  That's amazing, yeah.
+[00:08:28 -> 00:08:33]  And again, here it works across the teams and the backlogs
+[00:08:33 -> 00:08:35]  and you see there's a problem with it,
+[00:08:36 -> 00:08:38]  but it'll come with the red X here,
+[00:08:38 -> 00:08:42]  so you can see visually exactly where it is.
+[00:08:42 -> 00:08:44]  That's an amazing view actually,
+[00:08:44 -> 00:08:46]  yes, I've had a lot of people ask me
+[00:08:46 -> 00:08:48]  for that kind of thing before.
+[00:08:48 -> 00:08:51]  Yeah, this is one of those key scenarios
+[00:08:51 -> 00:08:54]  we delivered on for customers
+[00:08:54 -> 00:08:58]  and I'm sure there'll be more feedback that comes with it,
+[00:08:58 -> 00:09:01]  but this is a great way to start visualizing it,
+[00:09:01 -> 00:09:02]  and if you don't wanna see the lines,
+[00:09:02 -> 00:09:05]  you just click on the bottom of the card, so.
+[00:09:06 -> 00:09:07]  Pretty cool.
+[00:09:07 -> 00:09:10]  Yeah, and the fact that this is cross-project as well
+[00:09:10 -> 00:09:12]  is something that comes up a lot,
+[00:09:12 -> 00:09:14]  can I see the roll-up of all of the stuff
+[00:09:14 -> 00:09:16]  that I've got going on?
+[00:09:16 -> 00:09:17]  And those dependencies across projects
+[00:09:17 -> 00:09:19]  is pretty great too.
+[00:09:19 -> 00:09:22]  Yeah, well that was a key thing here,
+[00:09:22 -> 00:09:26]  it was customers were saying it's gotta be cross-team
+[00:09:26 -> 00:09:29]  because I've got all these teams
+[00:09:29 -> 00:09:33]  working on different epics and stuff and it's cross-team,
+[00:09:33 -> 00:09:38]  and gosh, we have, in our org, we have multiple projects,
+[00:09:38 -> 00:09:40]  so it has to work across that.
+[00:09:40 -> 00:09:45]  That's what our enterprises expect these days, so.
+[00:09:45 -> 00:09:46]  Yeah, absolutely.
+[00:09:46 -> 00:09:47]  It's key for us.
+[00:09:49 -> 00:09:52]  Yeah, so that's kind of dependency tracking.
+[00:09:53 -> 00:09:56]  The other key scenario we wanted to deliver on
+[00:09:56 -> 00:09:58]  was giving that progress view.
+[00:09:58 -> 00:10:01]  So if I go, again, you can toggle these,
+[00:10:01 -> 00:10:03]  so I'm gonna expand the cards here,
+[00:10:03 -> 00:10:06]  and here you can start seeing, well, what's the progress?
+[00:10:06 -> 00:10:08]  How far along am I?
+[00:10:09 -> 00:10:13]  And here, for this epic, you see it's child features
+[00:10:13 -> 00:10:17]  and then we have user stories linked to those features,
+[00:10:17 -> 00:10:19]  but you can see the progress roll-up.
+[00:10:19 -> 00:10:22]  Does it by percentage and then the item count?
+[00:10:22 -> 00:10:26]  And this works across, again, all of them.
+[00:10:27 -> 00:10:29]  Here, wherever you have links,
+[00:10:29 -> 00:10:32]  you can see it looks like we need to get busy
+[00:10:32 -> 00:10:33]  on this project.
+[00:10:33 -> 00:10:34]  There's a lot of zeros here.
+[00:10:36 -> 00:10:38]  I actually said that one of the things
+[00:10:38 -> 00:10:40]  that's really shining for me is the fact
+[00:10:40 -> 00:10:44]  that this is all just based on data that's there.
+[00:10:44 -> 00:10:48]  It's not trying to force a roll-up view
+[00:10:48 -> 00:10:53]  onto the developers or to the engineers doing the work.
+[00:10:53 -> 00:10:55]  It's just showing this information
+[00:10:55 -> 00:11:00]  in a really absorbable format, if that's even a word.
+[00:11:00 -> 00:11:03]  Yeah, no, you're absolutely right.
+[00:11:03 -> 00:11:06]  So customers don't have to do anything extra.
+[00:11:06 -> 00:11:09]  I mean, you pull together the plan, but to your point,
+[00:11:09 -> 00:11:12]  it's all based on the work item data you have
+[00:11:12 -> 00:11:13]  in Azure DevOps.
+[00:11:13 -> 00:11:18]  So when you're holding your program increment planning,
+[00:11:18 -> 00:11:21]  your planning session, defining what those work items are,
+[00:11:23 -> 00:11:25]  you're entering in all that information
+[00:11:25 -> 00:11:26]  and it's in Azure DevOps.
+[00:11:26 -> 00:11:29]  And then that just gets pulled into delivery plans
+[00:11:29 -> 00:11:30]  as you build your plan out.
+[00:11:30 -> 00:11:32]  So it's pretty cool.
+[00:11:32 -> 00:11:33]  Yeah, very.
+[00:11:33 -> 00:11:35]  Definitely something that the people
+[00:11:35 -> 00:11:36]  have been asking me for.
+[00:11:38 -> 00:11:40]  So what else should people know
+[00:11:40 -> 00:11:44]  before we provide some links and things like that?
+[00:11:44 -> 00:11:48]  Yeah, so we have the progress view here.
+[00:11:48 -> 00:11:53]  Wanted to show a couple of things with the settings.
+[00:11:54 -> 00:11:55]  We've added styling.
+[00:11:55 -> 00:11:58]  So customers who use our Kanban boards,
+[00:11:58 -> 00:12:01]  this is very similar.
+[00:12:01 -> 00:12:05]  We can, like, if I want to show architecture work here.
+[00:12:06 -> 00:12:07]  That's good.
+[00:12:07 -> 00:12:10]  Yes, we use that a lot with our Kanban boards.
+[00:12:10 -> 00:12:12]  You do, and you can pull it on.
+[00:12:14 -> 00:12:17]  Tags, whatever, you pick whatever works right for you.
+[00:12:19 -> 00:12:22]  And if this equals architecture,
+[00:12:22 -> 00:12:24]  we'll just save this really quick.
+[00:12:25 -> 00:12:29]  And again, you'll see if we go in condensed view here,
+[00:12:29 -> 00:12:30]  you can see the coloring.
+[00:12:30 -> 00:12:31]  So these are all the work items
+[00:12:31 -> 00:12:34]  that are associated with architecture type work
+[00:12:34 -> 00:12:35]  in this example.
+[00:12:35 -> 00:12:37]  So that's pretty handy there too.
+[00:12:39 -> 00:12:41]  And then the traditional filtering.
+[00:12:41 -> 00:12:45]  So this should seem pretty common to boards users.
+[00:12:45 -> 00:12:49]  We see this in our backlog and our Kanban board.
+[00:12:49 -> 00:12:51]  So we've pulled that over into delivery plans as well.
+[00:12:52 -> 00:12:54]  So the filtering works there too.
+[00:12:54 -> 00:12:56]  Definitely both things that I use a lot.
+[00:12:58 -> 00:12:59]  Definitely.
+[00:12:59 -> 00:13:04]  So yeah, I think that's pretty much the main features.
+[00:13:04 -> 00:13:08]  So, you know, I've shown you the three key scenarios here.
+[00:13:08 -> 00:13:10]  You've got that timeline view.
+[00:13:10 -> 00:13:14]  If you expand this, you can start seeing that
+[00:13:14 -> 00:13:17]  you see the progress view of work items
+[00:13:17 -> 00:13:19]  and then the dependency tracking.
+[00:13:19 -> 00:13:21]  You know, clicking on the bottom of that card
+[00:13:22 -> 00:13:25]  gives you those really helpful lines
+[00:13:25 -> 00:13:27]  and clicking on the dependency panel
+[00:13:27 -> 00:13:29]  gives you the detailed information you need.
+[00:13:31 -> 00:13:33]  That one in particular blows me away.
+[00:13:33 -> 00:13:34]  I think people-
+[00:13:34 -> 00:13:37]  The team works really hard on that.
+[00:13:37 -> 00:13:39]  We have an awesome engineering team.
+[00:13:40 -> 00:13:42]  I know enough HTML to know that that sounds
+[00:13:42 -> 00:13:44]  very, very hard too.
+[00:13:44 -> 00:13:47]  So great work from them.
+[00:13:47 -> 00:13:48]  Absolutely.
+[00:13:50 -> 00:13:52]  This is definitely going to be super useful
+[00:13:52 -> 00:13:55]  for a lot of teams and a lot of companies as well.
+[00:13:55 -> 00:13:57]  And you mentioned that this is GA
+[00:13:57 -> 00:13:58]  and it's not an addition.
+[00:13:58 -> 00:14:00]  It's not an extension or anything like that.
+[00:14:00 -> 00:14:02]  It's just part of the product?
+[00:14:02 -> 00:14:02]  That's right.
+[00:14:02 -> 00:14:04]  It's just a native part of the product now.
+[00:14:04 -> 00:14:07]  So you don't have to download an extension
+[00:14:07 -> 00:14:08]  from the marketplace.
+[00:14:08 -> 00:14:10]  That's the old plans was an extension,
+[00:14:10 -> 00:14:13]  but this new one, you don't have to.
+[00:14:13 -> 00:14:15]  I'll add too that if you have plans
+[00:14:15 -> 00:14:17]  that were built on that old extension,
+[00:14:17 -> 00:14:19]  they will work in this new one.
+[00:14:19 -> 00:14:22]  So the new delivery plans, which is native.
+[00:14:24 -> 00:14:24]  Oh, awesome.
+[00:14:24 -> 00:14:26]  Oh, look, thank you so much for showing us this.
+[00:14:26 -> 00:14:28]  This is amazing.
+[00:14:28 -> 00:14:30]  Just addition to the product
+[00:14:30 -> 00:14:33]  and definitely something that people have been wanting.
+[00:14:33 -> 00:14:35]  Yes, for a long time.
+[00:14:35 -> 00:14:36]  Yes, yeah.
+[00:14:36 -> 00:14:38]  I really appreciate you showing us
+[00:14:38 -> 00:14:40]  and great work to the team on this one as well.
+[00:14:41 -> 00:14:43]  And for everybody watching,
+[00:14:43 -> 00:14:44]  thanks so much for tuning in
+[00:14:44 -> 00:14:46]  and we'll see you at the next DevOps Lab.
+[00:14:46 -> 00:14:47]  Thank you.

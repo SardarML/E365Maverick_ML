@@ -1,0 +1,11 @@
+[00:00:00 -> 00:00:05]  Let's take a look at the data pipeline and how it works and what you can expect to happen on
+[00:00:05 -> 00:00:10]  every stage of the data pipeline. The first step is the ingestion. Here you get log files,
+[00:00:10 -> 00:00:15]  media files, generally unstructured files, and you get a lot of information from business and
+[00:00:15 -> 00:00:21]  custom applications. All of this goes into the Azure Data Factory. Now this is all being ingested
+[00:00:21 -> 00:00:26]  and brought into Azure. After you have your data, you've ingested it, you need to store that data
+[00:00:27 -> 00:00:33]  so you can store that data in the Azure Data Lake storage. From there, you can also use it
+[00:00:33 -> 00:00:38]  immediately to model and serve. If you want to do that on raw data, then you can do that
+[00:00:38 -> 00:00:43]  immediately from Azure Synapse Analytics and Azure Analysis Services, but right now this data isn't
+[00:00:43 -> 00:00:48]  processed. It's completely raw. So to process this data, we can prepare it and train it in
+[00:00:48 -> 00:00:55]  Azure Databricks. From Azure Databricks, we can send it to Power BI to send business intelligence
+[00:00:55 -> 00:01:07]  reports, and we can send it to Azure Cosmos DB for storage or to be displayed in web application.

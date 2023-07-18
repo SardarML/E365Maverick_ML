@@ -1,0 +1,160 @@
+[00:00:00 -> 00:00:04]  Heute geht es um Konflikte, genauer gesagt um das Neun-Stufen-Modell zur Konflikteskalation
+[00:00:04 -> 00:00:05]  von Friedrich Glaser.
+[00:00:05 -> 00:00:09]  Ja, man kennt das ja, diese verfahrenen Situationen.
+[00:00:09 -> 00:00:14]  Vorwürfe, böse Worte, offener Streit, verbrannte Erde und es hört einfach nicht auf.
+[00:00:14 -> 00:00:20]  Das gibt es im Privaten, das gibt es im Job und das nimmt selten ein gutes Ende.
+[00:00:20 -> 00:00:25]  So fahren Projekte vor die Wand, Teams zerbrechen, ganze Unternehmen werden vergiftet, Beziehungen
+[00:00:25 -> 00:00:26]  scheitern.
+[00:00:27 -> 00:00:31]  Wie sind Sie also da reingerutscht in den Konflikt?
+[00:00:31 -> 00:00:33]  Wie tief stecken Sie denn überhaupt drin?
+[00:00:33 -> 00:00:36]  Und vor allem, wie kommen Sie da wieder raus?
+[00:00:36 -> 00:00:40]  Genau die Fragen beantwortet das Eskalationsmodell nach Glaser.
+[00:00:40 -> 00:00:42]  Bleiben Sie dran, gleich geht's los.
+[00:00:43 -> 00:00:58]  Hallo und Willkommen zu Projekte leicht gemacht, Konflikteskalation, was ist das eigentlich?
+[00:00:58 -> 00:01:03]  Na, wenn sich der Marketingchef und der Leiter der IT in der Montagsbesprechung gegenseitig
+[00:01:03 -> 00:01:07]  anbrüllen, dann hat das garantiert eine Vorgeschichte.
+[00:01:07 -> 00:01:12]  Genauso, wenn die Frau dem Mann droht, er werde seine Kinder nie wiedersehen.
+[00:01:12 -> 00:01:14]  Na, sowas kommt doch nicht aus dem Nichts.
+[00:01:14 -> 00:01:18]  Das hat sich entwickelt, vielleicht schleichend, vielleicht schnell.
+[00:01:18 -> 00:01:23]  Klar, es gibt Ausnahmen, wenn die eine Seite plötzlich und unerwartet etwas wirklich unfassbar
+[00:01:23 -> 00:01:28]  Schlimmes getan hat, Betriebsgeheimnisse verraten, seelisch oder körperliche Gewalt und so weiter.
+[00:01:28 -> 00:01:30]  Aber da überreden wir heute nicht.
+[00:01:30 -> 00:01:35]  Und für die gibt es auch keine Konfliktlösung im eigentlichen Sinne, da geht es nur noch
+[00:01:35 -> 00:01:40]  um Schadensbegrenzung und Gefahrenabwehr, da bleibt meist nur die Abmahnung, die Entlassung,
+[00:01:40 -> 00:01:41]  die Polizei.
+[00:01:41 -> 00:01:44]  So, das nur zur Klarstellung, worum es heute nicht geht.
+[00:01:44 -> 00:01:52]  Also, bei der echten Konflikteskalation, da steht ganz am Anfang oft nur eine Meinungsverschiedenheit.
+[00:01:52 -> 00:01:56]  Oder eine Seite ist mit dem Verhalten der anderen irgendwie nicht zufrieden.
+[00:01:56 -> 00:02:02]  Also im Grunde was ganz harmloses, alltägliches und fast immer werden ja solche Problemchen
+[00:02:02 -> 00:02:03]  dann auch gelöst.
+[00:02:03 -> 00:02:07]  Aber manchmal, da schaukelt sich das auf.
+[00:02:08 -> 00:02:13]  Vielleicht ist die eine Sache noch nicht ganz geklärt und es kommt ein zweites Thema dazu.
+[00:02:13 -> 00:02:18]  Schon lenkt sich der Blick weg von der Sache und mehr auf die Person.
+[00:02:18 -> 00:02:21]  Ja, warum habe ich denn immer mit dem da Probleme?
+[00:02:21 -> 00:02:24]  So wird das Gegenüber langsam zum Gegner.
+[00:02:24 -> 00:02:30]  Und wenn sie Pech haben, dann sind sie jetzt schon mittendrin in einer Abwärtsspirale.
+[00:02:30 -> 00:02:34]  Ein Wort gibt das andere, eine Handlung die andere, man sucht sich Verbündete gegen den
+[00:02:34 -> 00:02:38]  Idioten und irgendwann sabotiert man sich gegenseitig, will dem anderen schaden.
+[00:02:38 -> 00:02:46]  Und das kann beliebig weit gehen, bis in die Katastrophe für beide.
+[00:02:46 -> 00:02:51]  Friedrich Glaser benutzte in seinem Modell das schöne Bild einer Treppe, die Stufe für
+[00:02:51 -> 00:02:54]  Stufe nach unten in die Abgründe des Konflikts führt.
+[00:02:54 -> 00:03:00]  Aber sie haben Glück, das kommt ja jetzt alles nicht zwangsläufig so.
+[00:03:00 -> 00:03:06]  Wenn sie den Mechanismus kennen und verstehen, dann können sie das verhindern.
+[00:03:06 -> 00:03:11]  Wenn sie wissen, in welcher Phase der Eskalation der Konflikt angekommen ist, dann können
+[00:03:11 -> 00:03:14]  sie richtig reagieren und passende Lösungen finden.
+[00:03:14 -> 00:03:18]  Also schauen wir uns das Modell mal genauer an.
+[00:03:18 -> 00:03:23]  Es gibt also neun Stufen auf dem Weg in den Abgrund und jeweils drei davon sind zu einer
+[00:03:23 -> 00:03:25]  Eskalationsebene zusammengefasst.
+[00:03:26 -> 00:03:29]  Fangen wir mal ganz oben an.
+[00:03:29 -> 00:03:33]  Die erste Stufe, Verhärtung genannt.
+[00:03:33 -> 00:03:39]  Da prallen erstmal nur unterschiedliche Meinungen aufeinander, ganz alltäglich, ganz harmlos.
+[00:03:39 -> 00:03:44]  Es gibt Spannungen, aber da wird nichts persönlich genommen, man redet sachlich.
+[00:03:44 -> 00:03:48]  Kein Mensch nennt das jetzt wirklich schon Konflikt.
+[00:03:49 -> 00:03:55]  Wenn sie das aber nicht gelöst bekommen, da sind sie ganz schnell eine Stufe tiefer.
+[00:03:55 -> 00:03:59]  Stufe zwei, Polarisation, Debatte.
+[00:03:59 -> 00:04:06]  Man diskutiert, versucht sich gegenseitig zu überzeugen oder auch zu überreden oder
+[00:04:06 -> 00:04:07]  unter Druck zu setzen.
+[00:04:07 -> 00:04:11]  Mein Standpunkt ist der richtige, der des anderen, der ist ganz sicher falsch.
+[00:04:11 -> 00:04:16]  Sie sehen schon, da kommt ein gewisses Schwarz-Weiß-Denken ins Spiel.
+[00:04:16 -> 00:04:19]  Gut, schlecht, richtig, falsch.
+[00:04:19 -> 00:04:22]  Der andere wird als Gegner wahrgenommen.
+[00:04:22 -> 00:04:27]  Man redet zum Beispiel selbst gern, aber hört dem anderen kaum noch zu.
+[00:04:27 -> 00:04:33]  Das fühlt sich dann manchmal schon ein bisschen an wie ein Streit und wenn der sich verschärft,
+[00:04:33 -> 00:04:38]  sind wir schon auf Stufe drei, Taten statt Worte.
+[00:04:38 -> 00:04:45]  Der Produktionsleiter hat die Schnauze voll von dem blöden Heini vom Einkauf, also bestellt
+[00:04:45 -> 00:04:49]  er einfach die Maschine von einem anderen Lieferanten, ohne das abzusprechen.
+[00:04:49 -> 00:04:52]  Taten statt Worte.
+[00:04:52 -> 00:04:56]  Argumente werden unwichtiger, die Position des anderen wird unwichtig.
+[00:04:56 -> 00:05:00]  Man schafft Fakten und stellt den anderen vor vollendete Tatsachen.
+[00:05:00 -> 00:05:05]  Statt Verständnis gibt es hier nur noch Frust und Misstrauen.
+[00:05:05 -> 00:05:07]  Schon ganz schön verfahren, oder?
+[00:05:07 -> 00:05:13]  Aber nach Glasel gibt es sogar auf Stufe drei noch die Chance, dass die beiden ohne Hilfe
+[00:05:13 -> 00:05:15]  von außen eine Lösung finden.
+[00:05:15 -> 00:05:18]  Und zwar eine, mit der beide Parteien klarkommen.
+[00:05:18 -> 00:05:26]  Daher nennt man diese erste Ebene mit ihren drei Stufen auch Win-Win-Ebene der Eskalation.
+[00:05:26 -> 00:05:31]  Wenn die beiden aber hier jetzt die Kurve nicht kriegen, dann landen sie ganz schnell
+[00:05:31 -> 00:05:34]  eine Ebene tiefer, die Win-Lose-Ebene.
+[00:05:34 -> 00:05:40]  Wie der Name schon sagt, hier gibt es maximal einen, der halbwegs unbeschadet da wieder rauskommt.
+[00:05:40 -> 00:05:42]  Es wird einen Verlierer geben.
+[00:05:43 -> 00:05:46]  Es beginnt mit Stufe vier.
+[00:05:46 -> 00:05:49]  Der Sorge um das Image. Was bedeutet das?
+[00:05:49 -> 00:05:52]  Man sucht Verbündete, Unterstützer.
+[00:05:52 -> 00:05:56]  Der Auslöser wird unwichtiger, es geht vor allem darum zu gewinnen.
+[00:05:56 -> 00:05:59]  Da geht es dann los mit der Parteienbildung.
+[00:05:59 -> 00:06:03]  Die einen halten zum Produktionsleiter, die anderen zum Einkäufer.
+[00:06:03 -> 00:06:07]  Das kann auch ganz schön unsymmetrisch werden, einseitig.
+[00:06:07 -> 00:06:13]  Dass der eine fast allein dasteht und der andere hat mit seinem Charme alle auf seine Seite gezogen.
+[00:06:13 -> 00:06:16]  Halbwahrheiten werden über den anderen verbreitet.
+[00:06:16 -> 00:06:23]  Was dieser Einkäufer unserem Unternehmen mit seinen Fehlentscheidungen schon so alles gekostet hat.
+[00:06:23 -> 00:06:26]  Und dann kommt Stufe fünf. Da wird es noch schlimmer.
+[00:06:26 -> 00:06:29]  Gesichtsverlust. Es wird persönlich.
+[00:06:29 -> 00:06:33]  Dieser unfähige Idiot, der hat nicht mal seine Ehe retten können.
+[00:06:33 -> 00:06:36]  Wie will der eine Produktion leiten?
+[00:06:36 -> 00:06:40]  Sie sehen schon, auf dieser Stufe wird es richtig unfair.
+[00:06:40 -> 00:06:43]  Der Gegner soll demontiert werden.
+[00:06:43 -> 00:06:48]  Es wird denunziert, unterstellt, übertrieben. Alles nur um dem Gegner zu schaden.
+[00:06:48 -> 00:06:51]  Anstand und Moral? Fehlanzeige.
+[00:06:51 -> 00:06:56]  Und von da geht es direkt über in Stufe sechs.
+[00:06:56 -> 00:06:59]  Es kommen offene Drohungen dazu.
+[00:06:59 -> 00:07:04]  Ich sorge dafür, dass sie in diesem Unternehmen nie wieder ein Projekt bekommen.
+[00:07:05 -> 00:07:09]  Ich meine, das muss gar nicht immer laut sein. Das geht auch ganz leise.
+[00:07:09 -> 00:07:14]  Hintenrum, ja? Ich hatte das selbst schon mal, so Anrufe. Damals noch im Großkonzern.
+[00:07:14 -> 00:07:19]  Herr Dr. Blumenau, wir wollen doch beide nicht, dass Sie hier unter die Räder kommen, oder?
+[00:07:19 -> 00:07:24]  Na, wenn sowas kommt, dann wissen Sie, Sie sind schon auf Stufe sechs.
+[00:07:24 -> 00:07:29]  Hier geht es also darum, wer hat die meiste Macht. Das Ganze ist ein Muskelspiel.
+[00:07:30 -> 00:07:38]  So, und wenn die Drohungen dann auch langsam wahrgemacht werden, dann sind wir in der nächst tieferen Ebene.
+[00:07:38 -> 00:07:44]  Die nennt sich Loose-Loose, weil sie im Grunde nur noch Verlierer kennt.
+[00:07:44 -> 00:07:50]  Ganz oben hier die Stufe sieben, der begrenzten Vernichtungsschläge.
+[00:07:50 -> 00:07:57]  Der Einkäufer verzögert eine Rohstofflieferung, nur um dem Produktionsleiter zu schaden.
+[00:07:57 -> 00:08:00]  Oder man blockiert im Lenkungsausschuss wichtige Projekte des anderen,
+[00:08:00 -> 00:08:04]  die rein gar nichts mit dem ursprünglichen Anlass des Konflikts zu tun haben.
+[00:08:04 -> 00:08:10]  Man nimmt kleineren Schaden bei sich selbst sogar in Kauf, nur um den anderen zu treffen.
+[00:08:10 -> 00:08:13]  Und von da, da geht es noch schlimmer weiter in Stufe acht.
+[00:08:16 -> 00:08:19]  Jetzt werden endgültig alle anderen mit reingezogen.
+[00:08:19 -> 00:08:22]  Wer steht alles auf der Seite meines Gegners?
+[00:08:22 -> 00:08:27]  Ich greife die alle an oder versuche ein Keil in die gegnerischen Linien zu treiben.
+[00:08:27 -> 00:08:34]  Versuche mit Drohung, Erpressung, Manipulation oder wie auch immer das Netzwerk meines Gegners zu zerstören.
+[00:08:34 -> 00:08:39]  Das ist Kriegsrhetorik. Und genau darum geht es. Krieg.
+[00:08:39 -> 00:08:46]  Solche Zustände in einem Unternehmen, das vergiftet das Klima, macht handlungsunfähig und kostet richtig richtig Geld.
+[00:08:46 -> 00:08:49]  Und es laufen bald die besten Mitarbeiter weg.
+[00:08:50 -> 00:08:53]  Aber wir können noch einen drauflegen.
+[00:08:53 -> 00:08:57]  Stufe neun. Gemeinsam in den Abgrund.
+[00:08:57 -> 00:09:02]  Da ist die Logik. Den mache ich fertig, auch wenn es mich meinen eigenen Job kostet.
+[00:09:02 -> 00:09:07]  Hier steigert sich mindestens eine Seite des Konflikts in einen Vernichtungswahn.
+[00:09:07 -> 00:09:11]  Den anderen in den Abgrund zu reißen ist das Wichtigste.
+[00:09:11 -> 00:09:14]  Völlig irrational.
+[00:09:14 -> 00:09:17]  Da gibt es dann auch meist massig Kollateralschaden.
+[00:09:17 -> 00:09:24]  Das eigene Projekt, Schäden für den Arbeitgeber, Kollegen oder im privaten Scheidungskrieg.
+[00:09:24 -> 00:09:27]  Da sind es oft die Kinder, die massiv zu leiden haben.
+[00:09:29 -> 00:09:36]  Das ist also der Weg von einer einfachen Meinungsverschiedenheit zur absoluten Katastrophe.
+[00:09:36 -> 00:09:42]  Aber, wie schon gesagt, es gibt zum Glück viele Ausstiegspunkte.
+[00:09:42 -> 00:09:46]  Je tiefer die beiden Parteien allerdings im Konfliktkeller gelandet sind,
+[00:09:46 -> 00:09:49]  desto aufwendiger wird das mit der Auflösung.
+[00:09:49 -> 00:09:53]  Irgendwann geht es auch nicht mehr ohne professionelle Hilfe.
+[00:09:53 -> 00:10:00]  Gehen wir mal kurz durch, was sich auf den einzelnen Stufen so an Instrumenten zur Deeskalation anbietet.
+[00:10:00 -> 00:10:04]  Stufe eins bis drei hatte ich schon gesagt. Selbsthilfe ist da noch möglich.
+[00:10:04 -> 00:10:10]  Stufe zwei bis drei. Hilfe aus der direkten Umgebung oder Moderation bietet sich an.
+[00:10:10 -> 00:10:14]  Stufe drei bis fünf. Externe professionelle Prozessbegleitung.
+[00:10:15 -> 00:10:20]  Stufe vier bis sechs. Externe soziotherapeutische Prozessbegleitung.
+[00:10:20 -> 00:10:25]  Stufe fünf bis sieben. Externe professionelle Mediation.
+[00:10:26 -> 00:10:31]  Stufe sechs bis acht. Zum Beispiel Schiedsgerichtsverfahren.
+[00:10:31 -> 00:10:34]  Oft muss das von außen erzwungen werden.
+[00:10:35 -> 00:10:42]  Und die letzten drei Stufen, sieben bis neun, da ist ein Machteingriff von oben nötig.
+[00:10:42 -> 00:10:45]  Da muss der Chef durchgreifen. Ganz klar.
+[00:10:46 -> 00:10:50]  Und überhaupt dabei, das Wichtigste ist, dass Sie erkennen,
+[00:10:50 -> 00:10:56]  wo Sie oder Ihre Kollegen in der Eskalation gerade stehen und welche Hilfe Sie brauchen oder geben müssen.
+[00:10:57 -> 00:11:02]  Und wenn Sie sich da dauerhaft auf den Stufen vier, fünf, sechs festfahren,
+[00:11:02 -> 00:11:05]  dann scheuen Sie um Himmelswillen keine Hilfe von außen.
+[00:11:06 -> 00:11:12]  Auch als Chef, ja, es gibt Profis, die das vermutlich besser können als Sie, die Sie da unterstützen können.
+[00:11:13 -> 00:11:17]  Also rechtzeitig erkennen und dann keine falsche Scheu oder Scham.
+[00:11:17 -> 00:11:20]  Hilfe einfordern oder Hilfe erzwingen.
+[00:11:20 -> 00:11:24]  Das ist der Schlüssel zur Konfliktlösung jenseits der dritten Stufe.
+[00:11:26 -> 00:11:29]  So, habe ich Sie mit diesem Video neugierig gemacht?
+[00:11:29 -> 00:11:32]  Dann haben wir noch eine komplette Ausbildung im Projektmanagement für Sie.
+[00:11:32 -> 00:11:37]  Alles flexibel, 100% online und nach den Standards der ePMA.
+[00:11:37 -> 00:11:39]  Den Link, den gibt's unterm Video.
+[00:11:40 -> 00:11:44]  Wir machen Sie fit fürs Projekt. Wir machen Sie fit für die Zertifizierung.
+[00:11:44 -> 00:11:47]  Und, hat Ihnen das Video gefallen?
+[00:11:47 -> 00:11:50]  Dann geben Sie uns einen Daumen hoch, abonnieren Sie unseren Kanal.
+[00:11:50 -> 00:11:52]  Wir sehen uns wieder. Bleiben Sie dran!
+[00:11:59 -> 00:12:02]  Untertitel der Amara.org-Community

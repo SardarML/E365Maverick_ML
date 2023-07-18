@@ -1,0 +1,124 @@
+[00:00:00 -> 00:00:05]  Los geht's. Ich grüße dich ganz herzlich. Und zwar geht es jetzt noch mal um das
+[00:00:05 -> 00:00:10]  Rechnen in rechtwinkligen Dreiecken. Und das kann man auch mit dem sogenannten
+[00:00:10 -> 00:00:16]  Kathetensatz. Und was das ist und wie das geht, das erkläre ich jetzt mal. Und dann
+[00:00:16 -> 00:00:21]  gibt es auch noch Übungsaufgaben. Also noch mal das wichtigste vorab. Der
+[00:00:21 -> 00:00:25]  Kathetensatz, der gilt nur in rechtwinkligen Dreiecken. Ausrufezeichen.
+[00:00:25 -> 00:00:30]  Also das ist die Grundvoraussetzung. So. Also sobald du ein rechtwinkliges
+[00:00:30 -> 00:00:34]  Dreieck vorgesetzt bekommst, musst du ab heute nicht nur an den Pythagoras
+[00:00:34 -> 00:00:39]  denken und gucken, ob da irgendwas geht, sondern den Kathetensatz und wenn du es
+[00:00:39 -> 00:00:43]  kennst, den Höhensatz auch schon. Gibt es auch ein anderes Video zum
+[00:00:43 -> 00:00:48]  Höhensatz. Aber jetzt geht es um den Kathetensatz und wir schauen uns mal die
+[00:00:48 -> 00:00:53]  Formeln an. Es gibt zwei Stück. Das ist logisch, weil rechtwinklige Dreiecke
+[00:00:53 -> 00:01:00]  haben zwei Katheten. Und die Formel für die Kathete A, die geht p mal c. Und das
+[00:01:00 -> 00:01:04]  muss ich mal kurz erklären. Die Höhe braucht man zwar beim
+[00:01:04 -> 00:01:09]  Kathetensatz nicht, aber über die Höhe erklären sich diese
+[00:01:09 -> 00:01:14]  Buchstaben p und q. Denn die Höhe, die trifft ja auf die Seite c auf und teilt
+[00:01:14 -> 00:01:19]  die ja quasi noch mal in zwei Teilstücke. Und die werden einfach so
+[00:01:19 -> 00:01:22]  benannt. Das hat sich irgendwer ausgedacht. Das rechte Teilstück, das
+[00:01:22 -> 00:01:28]  heißt p, das linke heißt q. Wenn man das nicht sich merken kann, wie man das
+[00:01:28 -> 00:01:33]  beschriften muss, ich merke es mir immer so, die dürfen sich nicht angucken, können
+[00:01:33 -> 00:01:38]  sich nicht leiden. p guckt dahin, q guckt in die andere Richtung und fertig aus.
+[00:01:38 -> 00:01:44]  Und ich lasse immer zu, dass die Leute auch eine Formelsammlung nutzen dürfen,
+[00:01:44 -> 00:01:47]  weil es geht nicht darum, Formeln auswendig zu können.
+[00:01:47 -> 00:01:53]  Aber auch da habe ich trotzdem einen Tipp. Die A²-Formel, da kommt ja
+[00:01:53 -> 00:01:59]  das p vor. Und das kann man sich eigentlich ganz einfach merken, weil das
+[00:01:59 -> 00:02:03]  ist beides auf einer Seite. A und p, die sind auf der rechten Seite. Und bei
+[00:02:03 -> 00:02:09]  der b-Katheten-Formel, da kommt das q mit drin vor in der Formel. Und die sind
+[00:02:09 -> 00:02:16]  beide links. Das sind vielleicht so ein paar Hilfen, die helfen können. So viel
+[00:02:16 -> 00:02:21]  erst mal zu den Beschriftungen, dass man sich zurecht findet. Und ja, c ist
+[00:02:21 -> 00:02:26]  natürlich immer die gesamte Seite. Das ist bei beiden Formeln gleich. Und jetzt
+[00:02:26 -> 00:02:31]  gibt es mal eine Beispielrechnung. Ich mache das jetzt mit a, das ist aber
+[00:02:31 -> 00:02:35]  egal. Mit b würde es genauso funktionieren, wenn a oder b gesucht
+[00:02:35 -> 00:02:43]  sind. Und man schaut halt, was gegeben ist. Ja, p ist gegeben, c ist gegeben. Und da
+[00:02:43 -> 00:02:48]  muss es dann klingeln, wenn ich sehe, aha, p und c. Da kann ich ja mit dem
+[00:02:48 -> 00:02:53]  Kathetensatz arbeiten. Und zwar mit dem für a². Und so läuft das Ganze
+[00:02:53 -> 00:03:01]  auch. Schreibe sie die Formel hin. Schön nach Rezept. Formel, einsetzen. Für p setze
+[00:03:01 -> 00:03:08]  ich 5 ein, für c setze ich 8 ein. Vereinfache das Ganze noch mal kurz. 5 mal 8 ist 40.
+[00:03:08 -> 00:03:13]  Quadratzentimeter. Ja, wir sollen a herausfinden. Das heißt, wir müssen hier
+[00:03:13 -> 00:03:16]  noch die Quadratwurzel ziehen.
+[00:03:16 -> 00:03:22]  Und schwuppdiwupp ist die Aufgabe gelöst. Mehr ist es nicht. In diesem Fall ein
+[00:03:22 -> 00:03:28]  Vierzeiler. Und das ist eigentlich zum Punkte sammeln.
+[00:03:28 -> 00:03:33]  Dazu natürlich ein paar ganz tolle Übungsaufgaben. Berechne die fehlende
+[00:03:33 -> 00:03:38]  Größe im rechtwinkligen Dreieck. Gamma 90 Grad, so wie es meistens ist. Wir
+[00:03:38 -> 00:03:45]  wollen es ja nicht unnötig erschweren. Und wir schauen mal eben. Aufgabe a, da ist
+[00:03:45 -> 00:03:51]  eine Kathete gesucht. Bei b ist eine Kathete gesucht. Bei c und bei d ist es
+[00:03:51 -> 00:03:56]  ein bisschen anders. Das sind also Variationen. Aber das zeige ich nachher
+[00:03:56 -> 00:04:02]  mal eben. Wir haben erst mal Ergebnisse. Du sollst die Aufgaben jetzt mal üben und ich
+[00:04:02 -> 00:04:07]  zeige die Ergebnisse, kannst du dann vergleichen. Ergebnis für a, Ergebnis für
+[00:04:07 -> 00:04:17]  b, Ergebnis für c und für d. So, und für Aufgabe c zeige ich hier mal eine kleine
+[00:04:17 -> 00:04:24]  Beispielrechnung. a² gleich c mal p. Einfach die Formel wieder richtig
+[00:04:24 -> 00:04:33]  hinschreiben und einsetzen. Für a kommt 5,6, aber Achtung, da das ja quadratisch
+[00:04:33 -> 00:04:40]  ist, bitte in Klammern setzen und dann oben dran quadrieren. Weil beides muss
+[00:04:40 -> 00:04:46]  quadriert werden, sowohl die Zahl als auch die Einheit. Auf der anderen Seite
+[00:04:46 -> 00:04:50]  setzen wir ein, was wir einsetzen können. Das hier vereinfachen wir, das macht der
+[00:04:50 -> 00:04:56]  Taschenrechner 5,6 mal 5,6. Zack, fertig, aus. Das c soll alleine stehen, also muss
+[00:04:56 -> 00:05:04]  das hier weg. Das dividieren wir weg. Ja, 31,36 durch 4,3, das ergibt diesen Wert.
+[00:05:04 -> 00:05:11]  Quadratzentimeter durch Zentimeter, das ergibt Zentimeter. Aufgabe gelöst. Und
+[00:05:11 -> 00:05:18]  dasselbe Spielchen würdest du einfach machen mit Aufgabe d. Einfach einsetzen,
+[00:05:18 -> 00:05:24]  was du einsetzen kannst und dann auflösen zum Schluss.
+[00:05:24 -> 00:05:29]  Ja, jetzt gibt es hier noch so ein paar, ein bisschen mit Skizzen, so ein paar
+[00:05:29 -> 00:05:32]  Anwendungsaufgaben. Berechne die Länge der rot gezeichneten Strecken.
+[00:05:32 -> 00:05:38]  Hier sind das zwei Rechnungen, die du machen musst. Hier sind es eins, zwei, drei
+[00:05:38 -> 00:05:46]  verschiedene. Hier musst du a herausfinden, b und p. Hier nur a und b. Und hier sind
+[00:05:46 -> 00:05:54]  eins, das ist mal im Überliegen. Ja, das Teilstück müssen wir auch ausrechnen, zwei
+[00:05:54 -> 00:06:03]  und dann noch das letzte. Okay, eben kurz, ich erkläre mal eben den Plan und dann
+[00:06:03 -> 00:06:05]  kannst du rechnen und dann kannst du vergleichen.
+[00:06:05 -> 00:06:18]  Hier kannst du natürlich mit dem Kathetensatz arbeiten, denn p mal c ist a
+[00:06:18 -> 00:06:23]  Quadrat. Das heißt, die erste Arbeit, die du machen musst, ist c ausrechnen, das sind
+[00:06:23 -> 00:06:31]  360 plus 270 und dann p mal c mal das Ganze gleich a Quadrat. Das ist die
+[00:06:31 -> 00:06:37]  Gleichung, die du aufstellen musst. Könntest natürlich auch mit b beginnen,
+[00:06:37 -> 00:06:45]  das heißt q mal c ist gleich b Quadrat. Kannst du auch. Und dann bekommst du das
+[00:06:45 -> 00:06:48]  raus und dann kannst du zum Beispiel mit dem Pythagoras arbeiten, weil dann hast
+[00:06:48 -> 00:06:52]  du die Hypotenuse, du hast eine Kathete und kannst dann die andere Kathete
+[00:06:52 -> 00:06:57]  berechnen. Kannst aber auch beide mit dem Kathetensatz berechnen. Es gibt immer
+[00:06:57 -> 00:07:04]  mehrere Möglichkeiten, meistens häufig, und das ist auch noch so eine hohe Kunst,
+[00:07:04 -> 00:07:08]  wirklich zu erkennen, was wende ich wo an, mache ich jetzt hier. Ich könnte zum
+[00:07:08 -> 00:07:11]  Beispiel auch mit einem Höhensatz arbeiten, wenn man den schon kennt, kann
+[00:07:11 -> 00:07:14]  ich die Höhe berechnen. Brauche ich zwar nicht, weil sie nicht rot eingezeichnet
+[00:07:14 -> 00:07:18]  ist, aber könnte man machen. Man kann aber auch mit dem Pythagoras arbeiten.
+[00:07:18 -> 00:07:24]  Es gibt immer meistens häufig viele verschiedene Möglichkeiten. Bei Aufgabe
+[00:07:24 -> 00:07:32]  b musst du mit dem Pythagoras anfangen, kannst dann erst mal diese Strecke
+[00:07:32 -> 00:07:38]  berechnen, weil in dem linken Teildreieck ist das die Hypotenuse und das sind die
+[00:07:38 -> 00:07:41]  beiden Katheten.
+[00:07:41 -> 00:07:50]  Könntest auch mit dem Höhensatz arbeiten, könntest dann p berechnen,
+[00:07:50 -> 00:07:53]  könntest
+[00:07:57 -> 00:08:03]  das gefällt mir jetzt. Kommen wir zur nächsten Übungsaufgabe, und zwar berechne
+[00:08:03 -> 00:08:09]  die Länge der rot gezeichneten Strecken. Bei Aufgabe a sind das dann quasi zwei
+[00:08:09 -> 00:08:16]  Ergebnisse, die man liefern soll. Bei Aufgabe b 1, 2. Drei verschiedene und bei
+[00:08:16 -> 00:08:28]  Aufgabe c 1, 2. Genau, die ganze Strecke ist ja c, die ist rot gezeichnet, aber
+[00:08:28 -> 00:08:34]  auch dieses Teilstück q, das soll man auch liefern. Also ich würde es machen,
+[00:08:34 -> 00:08:40]  sicher ist sicher. Und ja, jetzt geht es darum, sich wieder einen Plan zu machen.
+[00:08:40 -> 00:08:45]  Da das Kathetensatz Übungsaufgaben sind, braucht man jetzt über den Höhensatz,
+[00:08:45 -> 00:08:51]  falls man den schon kennt, quasi nicht nachzudenken, aber es ist trotzdem eine
+[00:08:51 -> 00:08:55]  hohe Kunst, wenn man so viele verschiedene Recheninstrumente kennt.
+[00:08:55 -> 00:09:01]  Pythagoras, Kathetensatz, Höhensatz, das ist dann wirklich auch das, worauf es
+[00:09:01 -> 00:09:06]  ankommt in Prüfungen und so, dass man dann wirklich selbst erkennt, aha, was
+[00:09:06 -> 00:09:12]  habe ich gegeben, womit kann ich arbeiten. Hier zum Beispiel, klar, kann man hier mit
+[00:09:12 -> 00:09:16]  dem Kathetensatz arbeiten, denn du hast zum Beispiel, wenn wir von dieser Kathete
+[00:09:16 -> 00:09:22]  ausgehen, von a, kannst du natürlich mit p mal c arbeiten.
+[00:09:22 -> 00:09:28]  So, denn p hast du gegeben und q, also hast du quasi auch c gegeben, brauchst
+[00:09:28 -> 00:09:34]  die beiden ja nur zusammenzurechnen, und dann hast du p mal c ist a².
+[00:09:34 -> 00:09:39]  Du könntest natürlich auch mit b anfangen, weil du hast natürlich auch q und c,
+[00:09:39 -> 00:09:44]  kannst auch hier anfangen. Also hier kannst du zweimal den Kathetensatz
+[00:09:44 -> 00:09:53]  anwenden und die Aufgabe lösen. Bei b, ja, schaue ich drauf und überlege,
+[00:09:53 -> 00:09:57]  wenn ich den Höhensatz kenne, kann ich mit dem arbeiten.
+[00:09:57 -> 00:10:02]  H, q mal p kann ich hier machen, kann ich diese Strecke berechnen.
+[00:10:02 -> 00:10:08]  Wenn ich den nicht kenne, kann ich aber sehen, aha, hier in diesem linken Teildreieck
+[00:10:08 -> 00:10:14]  habe ich beide Katheten gegeben, kann ich also diese rote Strecke, b, kann ich
+[00:10:14 -> 00:10:20]  ausrechnen mit dem Satz des Pythagoras, das ist hier die Hypotenuse. Wenn ich die
+[00:10:20 -> 00:10:28]  habe, kann ich natürlich weitermachen mit dem Kathetensatz für b. b² gleich q mal c,
+[00:10:28 -> 00:10:35]  also kann ich c ausrechnen, die gesamte Linie. Von dem Ergebnis kann ich dann q
+[00:10:35 -> 00:10:42]  abziehen und habe dann das hier, das p, und wenn ich diese habe und die gesamte,
+[00:10:42 -> 00:10:45]  dann kann ich mit dem Pythagoras schlussendlich auch wieder die
+[00:10:45 -> 00:10:50]  ausrechnen. Also, ja, man kann sich dann einen Plan machen und immer so ein
+[00:10:50 -> 00:10:53]  bisschen mehr gucken, das finde ich auch einfach das tolle an solchen Aufgaben.
+[00:10:53 -> 00:10:58]  Man geht Stück für Stück voran und wenn man dann zum Schluss alle Ergebnisse hat,
+[00:10:58 -> 00:11:04]  dann ist es einfach auch eine schöne Sache. Bei c, was können wir dann machen?
+[00:11:04 -> 00:11:10]  Wir können wieder anfangen mit dem Kathetensatz a² gleich p mal c,
+[00:11:10 -> 00:11:16]  also ich kann die gesamte Länge berechnen, dann ziehe ich einfach 250 ab von diesem
+[00:11:16 -> 00:11:21]  Endergebnis, habe dann das Teilstück und dann kann ich wieder schlussendlich mit
+[00:11:21 -> 00:11:26]  dem Pythagoras zum Beispiel, könnte ich dann dieses Stück berechnen. Könnte ich
+[00:11:26 -> 00:11:31]  auch mit dem Kathetensatz machen. Es geht alles. Auf jeden Fall pass auf,
+[00:11:31 -> 00:11:36]  probiere mal ganz viel aus, rechne mal die Aufgaben durch und das muss auch
+[00:11:36 -> 00:11:40]  nicht schnell gehen und dann vergleichst du die Ergebnisse. Ich decke die mal auf.
+[00:11:40 -> 00:11:55]  So und das finde ich reicht erst mal zum Kathetensatz und ich wünsche dir viel Spaß beim Lernen. Tschüss!

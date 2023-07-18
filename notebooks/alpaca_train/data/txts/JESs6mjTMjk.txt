@@ -1,0 +1,821 @@
+[00:00:00 -> 00:00:12]  Okay, so I'll just give maybe a quick, very, very brief intro and hand things over if that
+[00:00:12 -> 00:00:13]  works.
+[00:00:13 -> 00:00:14]  Sounds great.
+[00:00:14 -> 00:00:16]  Looks like we've started.
+[00:00:16 -> 00:00:17]  Great.
+[00:00:17 -> 00:00:27]  Thanks, everyone, for joining us on this October EGC meeting, or geo-enlightenment.
+[00:00:27 -> 00:00:36]  We have Dylan Stewart from MakePath who's joined us, and I invited Dylan after watching
+[00:00:36 -> 00:00:41]  him present at the National States Geographic Information Council, and Dylan was presenting
+[00:00:41 -> 00:00:50]  really some cutting-edge, some really interesting work, but beyond that, I think he had a lot
+[00:00:50 -> 00:00:55]  of really good energy, and he's someone who it was very apparent that he was excited to
+[00:00:55 -> 00:01:01]  share what he's learned and how others can get maybe started in dabbling in machine learning
+[00:01:01 -> 00:01:09]  and geospatial, and I thought that would be a good fit for this crew and for our geo-enlightenments.
+[00:01:09 -> 00:01:14]  So I will stop there and just hand things over to Dylan.
+[00:01:14 -> 00:01:20]  He's got a presentation, and I think we should have some time for some questions and discussion
+[00:01:20 -> 00:01:21]  afterwards.
+[00:01:21 -> 00:01:22]  Great.
+[00:01:22 -> 00:01:23]  Thanks, John.
+[00:01:23 -> 00:01:28]  So I'll just give a brief introduction of myself.
+[00:01:28 -> 00:01:29]  My name is Dylan Stewart.
+[00:01:29 -> 00:01:32]  I'm a senior machine learning engineer at MakePath.
+[00:01:32 -> 00:01:36]  I have a PhD in machine learning from the Machine Learning and Remote Sensing Lab at
+[00:01:36 -> 00:01:42]  the University of Florida, and I've been working for several years now on applying machine
+[00:01:42 -> 00:01:49]  learning not only from a theoretical perspective during my grad school studies, but mostly
+[00:01:49 -> 00:01:53]  focused on geospatial applications.
+[00:01:53 -> 00:01:58]  So today I really want to talk about how we're going to connect machine learning with geospatial
+[00:01:58 -> 00:02:04]  applications and what open source tools are out there, especially in the Python ecosystem,
+[00:02:04 -> 00:02:09]  which is where I really focus on working, that we can leverage to be able to build pipelines
+[00:02:09 -> 00:02:12]  for geospatial projects.
+[00:02:12 -> 00:02:18]  So feel free throughout the talk, if you have any questions, put them in the chat, and hopefully
+[00:02:18 -> 00:02:21]  Tim or John can pick up on them and let me know.
+[00:02:21 -> 00:02:26]  I won't be watching the chat necessarily, but I don't want this to be a long, drawn-out
+[00:02:26 -> 00:02:31]  period of me showing things and then missing questions.
+[00:02:31 -> 00:02:34]  And I'll also take a pause kind of at the end of these slides for some questions, and
+[00:02:34 -> 00:02:41]  then walk through some more technical workflows to show you some of these tools.
+[00:02:41 -> 00:02:45]  So I want to talk about a couple of examples of applying machine learning for geospatial
+[00:02:45 -> 00:02:46]  applications.
+[00:02:46 -> 00:02:51]  And one of them is really about change detection for the Austin area.
+[00:02:51 -> 00:02:53]  And I'll talk about this here in a few minutes.
+[00:02:53 -> 00:02:59]  And the one on the right here, we'll talk about how to do geo-referencing between not
+[00:02:59 -> 00:03:03]  only different time periods, but also between different modalities.
+[00:03:03 -> 00:03:09]  So we've done some work in the past year with the state of Texas, working with their archives
+[00:03:09 -> 00:03:15]  of historical imagery, of being able to match imagery from the late 70s to imagery from
+[00:03:15 -> 00:03:21]  the 90s, where some of our input imagery is grayscale images, and the images we want to
+[00:03:21 -> 00:03:25]  match to that are actually already referenced are RGB images.
+[00:03:25 -> 00:03:28]  And how did we kind of go through framing that problem and putting the tools together
+[00:03:28 -> 00:03:31]  to do so?
+[00:03:31 -> 00:03:35]  So we'll talk first about how do we think about aligning imagery?
+[00:03:35 -> 00:03:39]  How do we think about this pipeline of putting together the tools to do this problem?
+[00:03:39 -> 00:03:45]  So the state of Texas has tens of thousands of images from 1940 to now that have been
+[00:03:45 -> 00:03:47]  captured and need to be geo-referenced.
+[00:03:47 -> 00:03:51]  And they've only gone through and really geo-referenced a couple of years out of all these different
+[00:03:51 -> 00:03:52]  captures.
+[00:03:52 -> 00:03:57]  So we've talked with the group there, and they want to look at applying new machine
+[00:03:57 -> 00:04:02]  learning techniques to try and assist an analyst in geo-referencing this data.
+[00:04:02 -> 00:04:06]  So we looked at some of their hand-aligned data, and we kind of broke it up into types
+[00:04:06 -> 00:04:11]  of scenes, because the state of Texas has various different geographies throughout.
+[00:04:11 -> 00:04:14]  It's almost like its own country.
+[00:04:14 -> 00:04:18]  Looking at the metadata that's available, and also looking at some of the edge cases,
+[00:04:18 -> 00:04:22]  because we might have many, many samples that are of rural regions, but we might have a
+[00:04:22 -> 00:04:27]  few samples that are of things along the coast that can be really hard to try to register
+[00:04:27 -> 00:04:33]  across time, because things like water that are just grayscale pixels of water from the
+[00:04:33 -> 00:04:37]  70s, it's really hard to tell that that's going to be water in the 90s or exactly what
+[00:04:37 -> 00:04:41]  that is, or if it's just a flat area.
+[00:04:41 -> 00:04:45]  So what we ended up doing was putting together what I call machine learning training datasets.
+[00:04:45 -> 00:04:51]  And so this is pre-processing the image, so that way it's able to be used in a pipeline
+[00:04:51 -> 00:04:53]  to learn some features off of it.
+[00:04:53 -> 00:04:57]  That can be used for actually doing the geo-referencing.
+[00:04:57 -> 00:05:02]  And we looked at custom machine learning models, and we were able to extract domain knowledge
+[00:05:02 -> 00:05:05]  about this problem to try to carve a path forward.
+[00:05:05 -> 00:05:09]  So this was kind of a small project, just a few weeks of taking a look at some of the
+[00:05:09 -> 00:05:15]  imagery from Texas, but being able to at least carve out how we could work at putting together
+[00:05:15 -> 00:05:16]  a full pipeline.
+[00:05:16 -> 00:05:20]  So let's take a look at some of the cool data that we worked with.
+[00:05:20 -> 00:05:24]  So like I said, Texas has many different geographies.
+[00:05:24 -> 00:05:26]  We broke those up into different types of scenes.
+[00:05:26 -> 00:05:32]  One of them that we called was just rural scenes, so scenes that have not been too developed.
+[00:05:32 -> 00:05:39]  We also looked at urban scenes, coastal scenes, which can be really, really difficult to try
+[00:05:39 -> 00:05:43]  to geo-reference across time, and then also some mixture.
+[00:05:43 -> 00:05:47]  Part of this was just a question on my end of, could we use some of this data that is
+[00:05:47 -> 00:05:54]  partially included by clouds to still get some kind of feature knowledge off of it?
+[00:05:54 -> 00:05:57]  So what we ended up putting together is really a two-part solution.
+[00:05:57 -> 00:06:03]  So we have some historical imagery, and let me see if I can turn my, yeah, there we go.
+[00:06:03 -> 00:06:07]  We have some historical imagery, and we want to be able to map it to the reference imagery
+[00:06:07 -> 00:06:09]  and end up having geo-referenced imagery.
+[00:06:09 -> 00:06:11]  So we kind of broke this up into two parts.
+[00:06:11 -> 00:06:17]  The first part we'll call rough alignment, which is just trying to find overlapping patches.
+[00:06:17 -> 00:06:23]  So imagine you have an image from the 40s or the 50s or some time period long ago, and
+[00:06:23 -> 00:06:27]  you're trying to match it with some RGB image of the 90s.
+[00:06:27 -> 00:06:31]  Well, the first thing you could think about is, well, let's just find overlapping patches
+[00:06:31 -> 00:06:33]  that are of similar area.
+[00:06:33 -> 00:06:37]  And so that's where we employed this HNet model, which I won't go into all the details
+[00:06:37 -> 00:06:41]  of it now, but if you have any questions, please feel free to ask, and we can look at
+[00:06:41 -> 00:06:43]  some of the intricacies of that model.
+[00:06:43 -> 00:06:48]  What that model basically does is it takes input samples and tells you whether or not
+[00:06:48 -> 00:06:49]  they're a match.
+[00:06:49 -> 00:06:55]  The cool thing about this is that this HNet model was used in the past to do things like
+[00:06:55 -> 00:07:00]  look at an RGB image and a depth image and tell you if they're from the same spot or
+[00:07:00 -> 00:07:01]  not.
+[00:07:01 -> 00:07:05]  And so we took that model and used it to be able to tell you if a grayscale image from
+[00:07:05 -> 00:07:10]  this spot or an RGB image from this spot, although they were from different time periods
+[00:07:10 -> 00:07:17]  and different modalities, if they were a match or not, which I think was a pretty cool application.
+[00:07:17 -> 00:07:22]  And so after having this rough alignment, which is finding the tiles that overlap, but
+[00:07:22 -> 00:07:26]  maybe they're not perfectly overlapped at the output of this model, we then broke it
+[00:07:26 -> 00:07:28]  into a fine alignment step.
+[00:07:28 -> 00:07:34]  So being able to actually finely mosaic imagery from different time periods together.
+[00:07:34 -> 00:07:38]  And so through the combination of these two steps, what we were able to do is get an 80%
+[00:07:38 -> 00:07:45]  accuracy of matching between new template images that our model never seen before from
+[00:07:45 -> 00:07:54]  one county in Texas and the reference imagery that was available from that same county.
+[00:07:54 -> 00:08:00]  And so we're looking to try to improve upon this and continue working on this in the future.
+[00:08:00 -> 00:08:05]  But right now, this is just a proof of concept stage.
+[00:08:05 -> 00:08:08]  So I'm going to switch gears a little bit and talk about some of the change detection
+[00:08:08 -> 00:08:11]  work that we've been doing at MakePath.
+[00:08:11 -> 00:08:17]  So here we have a large change mask over 6,750 square miles of Austin, Texas.
+[00:08:17 -> 00:08:23]  So this grayscale image is an image from Planet, and it's three meter resolution.
+[00:08:23 -> 00:08:28]  And if you know the Austin area here, this gold star is the Texas capital.
+[00:08:28 -> 00:08:33]  And we're able to combine this change image, which we got from a deep learning model with
+[00:08:33 -> 00:08:38]  parcel data to be able to predict areas of future development in the Austin area.
+[00:08:39 -> 00:08:43]  So we can use this pipeline we've put together for things like real estate, for drought detection,
+[00:08:43 -> 00:08:46]  oil and gas, and a variety of other applications.
+[00:08:46 -> 00:08:50]  And we're currently trying to develop a product with Planet and Google partners where you
+[00:08:50 -> 00:08:57]  can select an AOI and get back the change mask that you're interested in.
+[00:08:57 -> 00:09:03]  So we used RGB data from Planet from 2017 and 2022, and we trained a deep learning model
+[00:09:03 -> 00:09:05]  to be able to predict land cover change.
+[00:09:05 -> 00:09:11]  So these green areas that are popping up here, these are all areas of the imagery where
+[00:09:11 -> 00:09:14]  we detected changes over the five year period.
+[00:09:14 -> 00:09:20]  And we scaled up our model in the cloud using open source tools in the Python ecosystem.
+[00:09:20 -> 00:09:24]  And using parcel data from ReGrid, which is a parcel data provider, we were able to find
+[00:09:24 -> 00:09:28]  new parcels within the last five years by looking at areas where parcels split.
+[00:09:28 -> 00:09:34]  And by overlaying the changes in the RGB imagery from the deep learning model and where new
+[00:09:34 -> 00:09:40]  parcels appeared, we could combine those two layers to figure out where areas have
+[00:09:40 -> 00:09:45]  been split into new parcels, but they haven't been developed yet.
+[00:09:45 -> 00:09:50]  So this is the image of combining both the deep learning output of change detection from
+[00:09:50 -> 00:09:54]  the last five years and the new parcels that have popped up in the last five years.
+[00:09:54 -> 00:09:59]  So we're able to use the high res RGB data, and we're also able to use the ReGrid parcel
+[00:09:59 -> 00:10:04]  data, combine those together, and be able to come up with this mask, which shows you
+[00:10:04 -> 00:10:08]  all the parcels that haven't been developed yet.
+[00:10:08 -> 00:10:16]  So this kind of gives you areas of the Austin region, which will be developed in the future.
+[00:10:16 -> 00:10:20]  So we can zoom in on specific neighborhoods that have been built and look at the outputs
+[00:10:20 -> 00:10:25]  from our deep learning model and where new parcels have appeared.
+[00:10:25 -> 00:10:31]  So here we can see on the left, this is an area in 2017 that hasn't really been built
+[00:10:31 -> 00:10:32]  up yet.
+[00:10:32 -> 00:10:35]  In 2022, we can see all these neighborhoods here.
+[00:10:35 -> 00:10:40]  And so this image on the right, we see the green here, which is showing the output from
+[00:10:40 -> 00:10:42]  our deep learning model.
+[00:10:42 -> 00:10:46]  So all of these green pixels were pixels that have changed.
+[00:10:46 -> 00:10:52]  And then this red layer here are all the parcels that have appeared in the last five years.
+[00:10:52 -> 00:10:57]  So this shows that from the RGB imagery, we can detect these changes.
+[00:10:57 -> 00:11:01]  These changes also line up with the parcel data that has appeared over the last five
+[00:11:01 -> 00:11:02]  years.
+[00:11:02 -> 00:11:06]  And so using these layers together, we're able to come up with really cool insights
+[00:11:06 -> 00:11:08]  for the future.
+[00:11:08 -> 00:11:10]  So we use this to validate our approach.
+[00:11:10 -> 00:11:14]  And one of the cool things that we're kind of looking at now is trying to be able to
+[00:11:14 -> 00:11:20]  track construction without having to send people out on a site, which seems to be one
+[00:11:20 -> 00:11:24]  of the stories that people are really interested in looking at.
+[00:11:24 -> 00:11:28]  So I want to talk briefly about how we're actually detecting these changes.
+[00:11:28 -> 00:11:34]  So we're using a combination of four different popular packages within the Python ecosystem.
+[00:11:34 -> 00:11:40]  And really, we use a lot of open source tools and contribute a lot to open source.
+[00:11:40 -> 00:11:46]  This visualization at the top is showing each one of these bars is a single GPU in the cloud.
+[00:11:46 -> 00:11:50]  And we're using four GPUs in the cloud in parallel to be able to run the change detection
+[00:11:50 -> 00:11:56]  over 80 gigabytes of satellite imagery in just under a couple of minutes.
+[00:11:56 -> 00:12:01]  So for this change detection specifically, we trained a deep learning model in PyTorch.
+[00:12:01 -> 00:12:05]  And PyTorch is a machine learning framework for fast research prototyping and production
+[00:12:05 -> 00:12:07]  deployment.
+[00:12:07 -> 00:12:11]  We scaled up our model using Dask and CUDA.
+[00:12:11 -> 00:12:14]  So Dask is a way to horizontally scale your code.
+[00:12:14 -> 00:12:18]  So imagine you write some code and you've got it working on your laptop, but you want
+[00:12:18 -> 00:12:22]  to be able to run it on hundreds of machines in the cloud, or even hundreds of machines
+[00:12:22 -> 00:12:25]  on a server locally if you have that.
+[00:12:25 -> 00:12:27]  So Dask is really good at horizontal scaling.
+[00:12:27 -> 00:12:31]  CUDA is used to be able to run code directly on a GPU.
+[00:12:31 -> 00:12:36]  So for things like image processing and deep learning, which is really a huge focus that
+[00:12:36 -> 00:12:41]  we work on here, and even things like tabular data, CUDA is really great at speeding up
+[00:12:41 -> 00:12:44]  code and running on the GPU.
+[00:12:44 -> 00:12:48]  And then for things like preprocessing imagery, X-ray is great because X-ray works really
+[00:12:48 -> 00:12:52]  well with raster data and adds labels so you can have easier operations.
+[00:12:52 -> 00:12:56]  So I've worked a lot with hyperspectral data in the past, which has hundreds of channels
+[00:12:56 -> 00:12:58]  and hundreds of bands.
+[00:12:58 -> 00:13:02]  So imagine coding up that I want to take the hundredth band of this image.
+[00:13:02 -> 00:13:07]  Well, if you know that hundredth band corresponds to a specific near-infrared band, it's much
+[00:13:07 -> 00:13:13]  easier just to assign that label to that image rather than saying, give me a channel 100
+[00:13:13 -> 00:13:18]  and having to worry about the actual numeric indexes.
+[00:13:18 -> 00:13:22]  So I've talked briefly about a couple of applications that are very specific in applying machine
+[00:13:22 -> 00:13:27]  learning to large-scale geo, but you may be wondering how can we use this for whatever
+[00:13:27 -> 00:13:31]  problem you're interested in that you're working on.
+[00:13:31 -> 00:13:36]  So one of the cool things that John and I spoke about at NISGIC was some of the image
+[00:13:36 -> 00:13:40]  registration stuff that he's interested in and maybe this group's interested in, but
+[00:13:40 -> 00:13:44]  there are various different problems that kind of fit in the geo area where we can look
+[00:13:44 -> 00:13:45]  at applying machine learning.
+[00:13:45 -> 00:13:49]  So I want to kind of zoom out for a few minutes and just talk about generally how do we think
+[00:13:49 -> 00:13:54]  about applying machine learning to other problems.
+[00:13:54 -> 00:13:58]  So a common scenario that we see over and over again, especially in the work that we
+[00:13:58 -> 00:14:03]  do here at MakePath is that people have a lot of data in their database and they want
+[00:14:03 -> 00:14:08]  to get started and get some insights from that data and they're not really sure exactly
+[00:14:08 -> 00:14:10]  what to do from the get-go.
+[00:14:10 -> 00:14:16]  So this data might be some raster data, it might be stored in TIFF files or cloud-optimized
+[00:14:16 -> 00:14:22]  geo-TIFF files, might have some vector data, and that vector data might be stored in Parquet
+[00:14:22 -> 00:14:25]  or CSV or Excel spreadsheets, et cetera.
+[00:14:25 -> 00:14:31]  And hopefully these are sitting on the cloud where we can access them easily and add some
+[00:14:31 -> 00:14:34]  code to be able to process them and give you some insights.
+[00:14:34 -> 00:14:37]  But our goal is really that we want to gather insights from this data.
+[00:14:37 -> 00:14:42]  We don't really want to focus so much on getting in the weeds of what exact implementation
+[00:14:42 -> 00:14:45]  we're going to use, what exact model we're going to use.
+[00:14:45 -> 00:14:49]  We just want to figure out what model should we start with so we can get to work.
+[00:14:49 -> 00:14:53]  So maybe you've heard of machine learning before, maybe you've seen some cool demos
+[00:14:53 -> 00:14:58]  and you want to get started and think about how it can help you solve your problem.
+[00:14:58 -> 00:15:02]  So if you Google around a bit and look up how to get started in machine learning, several
+[00:15:02 -> 00:15:06]  of these tools that are shown on this slide are going to start popping up.
+[00:15:06 -> 00:15:10]  You can contact someone in your state or in your team and ask around about machine
+[00:15:10 -> 00:15:13]  learning and maybe they'll find some of these tools, or maybe you assign someone on your
+[00:15:13 -> 00:15:17]  technical team to learn more about machine learning and these tools will come in handy.
+[00:15:17 -> 00:15:20]  So I just want to briefly highlight a few of them.
+[00:15:20 -> 00:15:25]  Kaggle is a really great website that has run many competitions over the years, and
+[00:15:25 -> 00:15:32]  it's great for combining a lot of experts together who compete on trying to solve some
+[00:15:32 -> 00:15:34]  new problem with a new dataset.
+[00:15:34 -> 00:15:40]  And they'll come up with really amazing workflows that really pushes people to do cutting edge,
+[00:15:40 -> 00:15:43]  not just research, but cutting edge applied research to real problems.
+[00:15:43 -> 00:15:48]  So one of the cool things that I've seen from Kaggle over the years is people that are working
+[00:15:48 -> 00:15:53]  at all the big companies that are doing great work in machine learning and even people you've
+[00:15:53 -> 00:15:58]  never heard of that are all over the world will get on here and compete and come up with
+[00:15:58 -> 00:16:03]  amazing workflows that end up being applicable for various different problems.
+[00:16:03 -> 00:16:07]  So all of these resources, before I kind of dig into the weeds of all of them, they're
+[00:16:07 -> 00:16:12]  all free and you can get online and research and really go down the rabbit hole with them
+[00:16:12 -> 00:16:14]  as much as you want.
+[00:16:14 -> 00:16:18]  Scikit-learn is great for traditional statistics and machine learning and some new computer
+[00:16:18 -> 00:16:19]  vision.
+[00:16:19 -> 00:16:24]  And it's a really well maintained toolkit in the Python ecosystem, so I recommend looking
+[00:16:24 -> 00:16:26]  at that.
+[00:16:26 -> 00:16:30]  TensorFlow and PyTorch are really great for getting into the weeds of deep learning.
+[00:16:30 -> 00:16:34]  So if you have someone on your team that is really strong technically and can really
+[00:16:34 -> 00:16:39]  dig into this, then these are where you're kind of going to go to be able to do custom
+[00:16:39 -> 00:16:43]  models and optimizing models for a specific problem.
+[00:16:43 -> 00:16:49]  But I really recommend if you're getting started in this space to look at Fast.ai and Google
+[00:16:49 -> 00:16:56]  Colab because, as I mentioned, all these tools are free, but Fast.ai has a really great set
+[00:16:56 -> 00:17:01]  of reference material and courses and forums that you can get on and ask questions and
+[00:17:01 -> 00:17:04]  the community is really, really nice.
+[00:17:04 -> 00:17:07]  And I found them to be really helpful when trying to implement things.
+[00:17:07 -> 00:17:13]  In Google Colab, although there's this pro version now that has been a bit controversial
+[00:17:13 -> 00:17:19]  with some of the pricing, if you're doing the free work of just getting started, it's
+[00:17:19 -> 00:17:20]  a great resource for that.
+[00:17:20 -> 00:17:24]  And so you can kind of have your own virtual machine and your own notebook that you can
+[00:17:24 -> 00:17:27]  work on for free.
+[00:17:27 -> 00:17:29]  So maybe you've spent some time and you've learned a little bit about machine learning
+[00:17:29 -> 00:17:33]  from these different tools and you want to apply it to your problem.
+[00:17:33 -> 00:17:36]  So we'll talk about how you can do that.
+[00:17:36 -> 00:17:41]  So one of the things I want to kind of highlight here is that, as anyone knows, if you've applied
+[00:17:41 -> 00:17:46]  models to problems, when you train a model on some domain and try to apply it to another
+[00:17:46 -> 00:17:48]  domain, it can be very difficult to get it to work.
+[00:17:49 -> 00:17:59]  And so what I mean by that is, let's take an example of doing something like detecting
+[00:17:59 -> 00:18:02]  objects within Google Street View.
+[00:18:02 -> 00:18:07]  So maybe you have some imagery from Google Street View and you have some location data
+[00:18:07 -> 00:18:11]  from Google Street View of where these things are at, and you want to be able to detect
+[00:18:11 -> 00:18:16]  something like signs on the side of the road.
+[00:18:16 -> 00:18:18]  And you train your model off of Austin, Texas.
+[00:18:18 -> 00:18:22]  So you have all this data and your training set, you're training your model.
+[00:18:22 -> 00:18:23]  It's doing great.
+[00:18:23 -> 00:18:26]  And you're really excited and you're thinking, wow, I'm going to apply this somewhere else
+[00:18:26 -> 00:18:30]  and we're going to really make some changes here.
+[00:18:30 -> 00:18:32]  And then you try it somewhere in Vermont.
+[00:18:32 -> 00:18:38]  Well, now all of a sudden your model is not doing so great because one of the problems
+[00:18:38 -> 00:18:41]  that we run into is that the training data is not representative of the area that we're
+[00:18:41 -> 00:18:42]  looking at.
+[00:18:43 -> 00:18:48]  And so it can be really difficult to do things like transferring a model from one domain
+[00:18:48 -> 00:18:49]  to another.
+[00:18:49 -> 00:18:53]  And so that could be something like training on one city and applying that model to another
+[00:18:53 -> 00:18:54]  city.
+[00:18:54 -> 00:18:56]  And there's various different examples out there.
+[00:18:56 -> 00:18:59]  So what do you do if this doesn't work?
+[00:18:59 -> 00:19:02]  There are really two things that I want to highlight that you can do that can really
+[00:19:02 -> 00:19:07]  save you a lot of time and without getting too frustrated.
+[00:19:07 -> 00:19:10]  So instead of getting stuck in the rabbit hole of trying a lot of different solutions
+[00:19:10 -> 00:19:16]  and reworking solutions, the two strategies I really recommend are team up with someone
+[00:19:16 -> 00:19:19]  who's worked on something similar to this before.
+[00:19:19 -> 00:19:24]  Just like any other problem, we need domain expertise, and especially in the geospace
+[00:19:24 -> 00:19:27]  because it comes with its own problems outside of other domains.
+[00:19:27 -> 00:19:32]  I don't know the geography of all the different states or all the different cities or all
+[00:19:32 -> 00:19:33]  the different regions.
+[00:19:33 -> 00:19:38]  But if I know how the geography can affect your model, then that can be helpful.
+[00:19:38 -> 00:19:43]  And then knowing someone who knows that geography can be extremely helpful on the team.
+[00:19:43 -> 00:19:45]  So data expertise is also really important.
+[00:19:45 -> 00:19:47]  So who knows the data the best?
+[00:19:47 -> 00:19:50]  They need to be in the room.
+[00:19:50 -> 00:19:56]  And also, if you're thinking about doing something that's really difficult technically from the
+[00:19:56 -> 00:20:00]  machine learning side, then it might be that you need someone who's an expert in that space
+[00:20:00 -> 00:20:03]  and not just someone who's dabbled with it a little bit.
+[00:20:03 -> 00:20:07]  Especially if you want to do something experimental or if you want to try to carve out some new
+[00:20:07 -> 00:20:09]  model for your problem.
+[00:20:09 -> 00:20:15]  And it's really critical to spend time communicating and learning each other's languages because
+[00:20:15 -> 00:20:20]  as someone who's trained in the machine learning space, there's a lot of terms that we use
+[00:20:20 -> 00:20:24]  around other people that have been trained in machine learning that might mean something
+[00:20:24 -> 00:20:25]  different to you.
+[00:20:25 -> 00:20:27]  And I've run into this several times.
+[00:20:27 -> 00:20:31]  And it's also really important to investigate the data that you have on hand.
+[00:20:31 -> 00:20:35]  So think about how much data do you have?
+[00:20:35 -> 00:20:36]  What type of data do you have?
+[00:20:36 -> 00:20:37]  Is it raster data?
+[00:20:37 -> 00:20:38]  Is it vector data?
+[00:20:38 -> 00:20:40]  How precise of labels do you have?
+[00:20:40 -> 00:20:41]  Do you even have labels for your data?
+[00:20:41 -> 00:20:46]  Are you trying to just solve something without having any really good training examples?
+[00:20:46 -> 00:20:48]  And how should you augment the data?
+[00:20:48 -> 00:20:50]  And how often will you need to add data?
+[00:20:50 -> 00:20:54]  Or how many models do you need to be able to solve the problems that you're wanting
+[00:20:54 -> 00:20:55]  to solve?
+[00:20:55 -> 00:21:00]  So this can get really difficult of making these decisions and working through this.
+[00:21:00 -> 00:21:05]  But ultimately, we want to be able to extract value from the data that we have.
+[00:21:05 -> 00:21:09]  So let's hypothetically say you hired an expert machine learning and geospatial applications
+[00:21:09 -> 00:21:11]  to look at your data and problem.
+[00:21:11 -> 00:21:15]  So here are really the steps that we want to think about.
+[00:21:15 -> 00:21:17]  So start from the data.
+[00:21:17 -> 00:21:21]  There's been this huge craze in the past few years about all these new models that are
+[00:21:21 -> 00:21:27]  coming out and how AGI and all of these other buzzwords that are out there.
+[00:21:27 -> 00:21:31]  But really, we're thinking about applying machine learning for a specific problem and
+[00:21:31 -> 00:21:33]  trying to get value from that.
+[00:21:33 -> 00:21:36]  We really just need to think about the data that we have.
+[00:21:36 -> 00:21:39]  Because we want to think about data-centric machine learning.
+[00:21:39 -> 00:21:44]  So if you have some data in your cloud storage, hopefully, you can create some summary of
+[00:21:44 -> 00:21:45]  that data.
+[00:21:45 -> 00:21:49]  And that summary will contain things like what type of data is in there?
+[00:21:49 -> 00:21:50]  Is it raster data?
+[00:21:50 -> 00:21:51]  Is it vector data?
+[00:21:51 -> 00:21:52]  Is it cataloged well?
+[00:21:52 -> 00:21:57]  Is it something that I can easily look up samples from regions that I'm interested in?
+[00:21:57 -> 00:21:59]  What are some of the characteristics of that raw data?
+[00:21:59 -> 00:22:01]  So how many channels are in that raster data?
+[00:22:01 -> 00:22:04]  And what kind of schema is in my vector data?
+[00:22:04 -> 00:22:07]  Are there any redundant features which could be removed?
+[00:22:07 -> 00:22:11]  Other things you might want to think about are, are there areas where I'm missing data?
+[00:22:11 -> 00:22:13]  So what kind of geographical coverage do I have?
+[00:22:13 -> 00:22:16]  Do I have gaps where I need to go get samples?
+[00:22:16 -> 00:22:20]  Or if I have gaps there, is there any way I can augment the data I have to kind of fill
+[00:22:20 -> 00:22:22]  that gap?
+[00:22:22 -> 00:22:26]  So what unique characteristics are in my data that I can leverage?
+[00:22:26 -> 00:22:30]  And what other data sets might I need to pull in to be able to make this work?
+[00:22:31 -> 00:22:33]  So like any problem, the devil's in the details.
+[00:22:33 -> 00:22:36]  And if you have good knowledge of your data set, then you can really start looking at
+[00:22:36 -> 00:22:39]  using a model that lends itself to the problem and data at hand.
+[00:22:39 -> 00:22:44]  So think about the data, then worry about trying to apply the model.
+[00:22:44 -> 00:22:48]  So I want to hit on this term data-centric machine learning, because it's extremely important
+[00:22:48 -> 00:22:53]  now, especially as we've learned over the past few years, that you can train models
+[00:22:53 -> 00:22:58]  on data set one and apply it to data set two, and really get around having to worry about
+[00:22:58 -> 00:23:04]  mixing domains, as long as you pick a model that works well for your problem.
+[00:23:04 -> 00:23:06]  So what existing models can you leverage?
+[00:23:06 -> 00:23:11]  So you have your data on hand, you've got a good idea about what it is, what's available,
+[00:23:11 -> 00:23:14]  you pulled in other data sets, you've got it ready to use for your problem.
+[00:23:14 -> 00:23:17]  So we can think of machine learning really in two categories.
+[00:23:17 -> 00:23:19]  So there's classical machine learning.
+[00:23:19 -> 00:23:24]  Classical machine learning supposes a model from heuristics or statistics, it extracts
+[00:23:24 -> 00:23:28]  features that have been put together by experts.
+[00:23:28 -> 00:23:32]  It learns a mapping from a representation that's controlled directly.
+[00:23:32 -> 00:23:37]  So imagine changing the parameters of a model and really doing some tuning of knobs.
+[00:23:37 -> 00:23:40]  That's how you can kind of get value out of this model.
+[00:23:40 -> 00:23:44]  It's usually a low cost solution and a great first approach.
+[00:23:44 -> 00:23:49]  But really, where we've been moving in the past decade has been deep learning.
+[00:23:49 -> 00:23:51]  So that's really data driven learning.
+[00:23:51 -> 00:23:55]  So imagine these two steps of feature extraction and applying a model within this box being
+[00:23:55 -> 00:23:57]  done for you.
+[00:23:57 -> 00:24:02]  So this supposes a model based on learning directly from the data for a task or a set
+[00:24:02 -> 00:24:03]  of tasks.
+[00:24:03 -> 00:24:08]  And that's multitask learning, but we don't have to talk about that and get too deep there.
+[00:24:08 -> 00:24:11]  But these features are automatically computed from the data.
+[00:24:11 -> 00:24:14]  And these can lend to improving task performance.
+[00:24:14 -> 00:24:19]  So the examples I showed previously of change detection, and doing image registration, we're
+[00:24:19 -> 00:24:24]  really learning features from the data and applying that model all in one step.
+[00:24:24 -> 00:24:28]  We're not having to extract features, figure out what features are good or bad, throw them
+[00:24:28 -> 00:24:33]  out, go pick a model, figure out what model is good or bad, throw it out.
+[00:24:33 -> 00:24:36]  We're doing these two steps together, which can really help.
+[00:24:36 -> 00:24:37]  But there are some cons.
+[00:24:37 -> 00:24:45]  It can balloon in cost because having to use GPUs and cloud resources and kind of go down
+[00:24:45 -> 00:24:50]  the search of what model and how to train the model can be difficult.
+[00:24:50 -> 00:24:55]  But it's great when we have good representative data or a pre-trained model for a similar
+[00:24:55 -> 00:24:57]  problem that's available.
+[00:24:57 -> 00:25:00]  So the rules of thumb I kind of want to hit on here is no matter what problem, always
+[00:25:00 -> 00:25:02]  start with the simplest approach.
+[00:25:02 -> 00:25:07]  So look for some classical statistical approach that makes sense.
+[00:25:07 -> 00:25:11]  And if you need deep learning, then try to consult with someone who can kind of work
+[00:25:11 -> 00:25:15]  on this or look into applying deep learning for your problem.
+[00:25:15 -> 00:25:19]  The last resort is really to try to implement something custom and go into PyTorch or go
+[00:25:19 -> 00:25:24]  into TensorFlow and these toolkits and really try to dig through that, because that can
+[00:25:24 -> 00:25:26]  take years to do.
+[00:25:26 -> 00:25:29]  So since we know a little bit about our data and we want to use machine learning, where
+[00:25:29 -> 00:25:33]  can we find good models, especially for the geocase?
+[00:25:33 -> 00:25:37]  So I want to hit on a few different resources here, and I've shown a few of these previously.
+[00:25:38 -> 00:25:42]  Each of these have different models that are really useful for various different problems.
+[00:25:42 -> 00:25:47]  So the first one I want to talk about is Planetary Computer from Microsoft.
+[00:25:47 -> 00:25:51]  And I've just heard recently that AWS is also working on their own version of this, which
+[00:25:51 -> 00:25:52]  is cool.
+[00:25:52 -> 00:25:57]  That competition hopefully will add more to this space.
+[00:25:57 -> 00:26:02]  But Planetary Computer is a free resource, which leverages many different open source
+[00:26:02 -> 00:26:03]  libraries.
+[00:26:03 -> 00:26:07]  One of them is X-Ray Spatial, which I'll talk about briefly here in a moment.
+[00:26:07 -> 00:26:14]  And it performs functions for various different large scale cloud geoanalysis.
+[00:26:14 -> 00:26:18]  So Planetary Computer has many, many different examples on there.
+[00:26:18 -> 00:26:24]  All of them you can watch by signing up for the Planetary Computer, which is a free resource.
+[00:26:24 -> 00:26:30]  And it'll set up a VM for you and work you through different notebooks in Python that
+[00:26:30 -> 00:26:35]  can really show you some of these workflows.
+[00:26:35 -> 00:26:38]  And I also want to mention a little bit here about X-Ray Spatial.
+[00:26:38 -> 00:26:43]  This is a toolkit that we work on here at MakePath a little bit, and it performs functions
+[00:26:43 -> 00:26:44]  for rasters.
+[00:26:44 -> 00:26:49]  And it's backed with scalable libraries like Numba and Dask, which I'll talk about here
+[00:26:49 -> 00:26:50]  shortly.
+[00:26:50 -> 00:26:53]  So think about running really fast code on really large raster data.
+[00:26:53 -> 00:26:57]  That's kind of the benefits of using X-Ray Spatial.
+[00:26:57 -> 00:27:01]  And then Scikit-Learn here, you know, we talked about earlier how you can train classical
+[00:27:01 -> 00:27:04]  machine learning models and computer vision models with Scikit-Learn.
+[00:27:05 -> 00:27:10]  These kind of three tools are really good for getting started with some of the large-scale
+[00:27:10 -> 00:27:11]  raster analyses.
+[00:27:11 -> 00:27:15]  So if you're interested in deep learning, I really want to recommend my friend Robin
+[00:27:15 -> 00:27:19]  Cole's GitHub page, Satellite Image Deep Learning.
+[00:27:19 -> 00:27:25]  This is just a huge library full of various different applications of applying deep learning
+[00:27:25 -> 00:27:27]  for satellite image problems.
+[00:27:27 -> 00:27:35]  So think of things like fire detection, change detection, image registration, and, you know,
+[00:27:35 -> 00:27:38]  all these different things, road detection.
+[00:27:38 -> 00:27:45]  There's various different models that are shown in this GitHub page, and they all link
+[00:27:45 -> 00:27:49]  to different GitHub pages that have the models and have training data and workflows that
+[00:27:49 -> 00:27:50]  you can use.
+[00:27:50 -> 00:27:54]  So this is a really good place to get started.
+[00:27:54 -> 00:27:59]  TorchGeo is a library that has some rough edges, and it's got limited models in it right
+[00:27:59 -> 00:28:03]  now, but it's a work in progress, and it has some pre-trained models for things like tree
+[00:28:03 -> 00:28:08]  classification or for image segmentation, et cetera.
+[00:28:08 -> 00:28:12]  And there's some great notebooks as well on Kaggle and Fast.ai.
+[00:28:12 -> 00:28:18]  These are not necessarily geared specifically towards geo problems, but they do have several
+[00:28:18 -> 00:28:21]  of them within these two tools.
+[00:28:21 -> 00:28:25]  So it's important to note, at this point, I've really talked about the fun part of applying
+[00:28:25 -> 00:28:31]  machine learning to geo, which is really my passion and what I hope to continue working
+[00:28:31 -> 00:28:36]  on, but it's a really small percentage of the work that's done.
+[00:28:36 -> 00:28:41]  So I want to show this slide because this came out of a popular machine learning conference
+[00:28:41 -> 00:28:45]  a few years ago, and it really summarizes all the pieces for trying to apply machine
+[00:28:45 -> 00:28:48]  learning code to your problem.
+[00:28:48 -> 00:28:51]  There are all these different steps, and these are all kind of scaled by the amount of time
+[00:28:51 -> 00:28:53]  that they are.
+[00:28:53 -> 00:28:59]  And here in the middle is really my passion of working with a specific model to work on
+[00:28:59 -> 00:29:07]  your data and get you some kind of insight, but that's really a tiny portion of the work.
+[00:29:07 -> 00:29:11]  So I want to wrap up this portion of the talk just with a quick summary of some of the open
+[00:29:11 -> 00:29:16]  source tools that can be leveraged to scale up machine learning solutions to geo problems.
+[00:29:16 -> 00:29:20]  So for data preparation, Stack is a really great tool, as well as X-Ray.
+[00:29:20 -> 00:29:23]  These are really great for working with raster data.
+[00:29:23 -> 00:29:31]  Stack is a way to catalog your data into a JSON that can be easily searched and filtered.
+[00:29:31 -> 00:29:38]  So imagine having millions of files in your cloud storage, and you only want to grab files
+[00:29:38 -> 00:29:41]  from a specific date or specific region.
+[00:29:41 -> 00:29:46]  There are various different tools out there that can queue a Stack catalog and be able
+[00:29:46 -> 00:29:48]  to pull down that data that you're interested in.
+[00:29:48 -> 00:29:53]  X-Ray, as I mentioned earlier, it's really great for working with raster data and adding
+[00:29:53 -> 00:29:57]  labels to your data, so it makes sense with what channel you're applying what operations to.
+[00:29:57 -> 00:30:04]  Parquet is a really great format for large tabular data or large shapefiles, and that's
+[00:30:04 -> 00:30:06]  been the recent advancements with GeoParquet.
+[00:30:06 -> 00:30:13]  So adding on that geometry column and being able to store that efficiently.
+[00:30:13 -> 00:30:16]  For feature selection, I look at Scikit-Learn and X-Ray Spatial.
+[00:30:16 -> 00:30:19]  These two toolkits are really great for that, and we're adding more features with an X-Ray
+[00:30:19 -> 00:30:23]  Spatial all the time to improve feature selection.
+[00:30:23 -> 00:30:26]  For modeling, PyTorch and TensorFlow, these are for getting into the weeds.
+[00:30:26 -> 00:30:28]  And then Fast.ai is really for getting started.
+[00:30:28 -> 00:30:33]  And I recommend everyone just check out Fast.ai if you have any interest in coding in Python
+[00:30:33 -> 00:30:35]  for machine learning.
+[00:30:35 -> 00:30:37]  It's a great tool.
+[00:30:37 -> 00:30:43]  For scaling up tool, all of your tools look at Dask for scaling across machines or GPUs.
+[00:30:43 -> 00:30:48]  NVIDIA's CUDA is great for using code on the GPU.
+[00:30:48 -> 00:30:54]  Rapids is a toolkit out of NVIDIA that has various different open source libraries where
+[00:30:54 -> 00:31:00]  imagine you're doing work in pandas on tabular data, you can use CUDF from Rapids.
+[00:31:00 -> 00:31:06]  Or if you're using GeoPandas for your shape files and to do different vector analyses,
+[00:31:06 -> 00:31:08]  you can use Cuspatial.
+[00:31:08 -> 00:31:15]  And they're working diligently to try to have a one-to-one mapping between all of the features.
+[00:31:15 -> 00:31:18]  The last one I want to mention here in this portion of the talk is Numba, which is really
+[00:31:18 -> 00:31:22]  great for speeding up code on a single worker.
+[00:31:22 -> 00:31:29]  So imagine you have some code that's in NumPy or some other mathematical code that you want
+[00:31:29 -> 00:31:30]  to run.
+[00:31:30 -> 00:31:31]  Numba is really good at speeding that up.
+[00:31:31 -> 00:31:37]  So right now, I just want to take a brief pause if there are any questions before I
+[00:31:37 -> 00:31:41]  show some notebooks and really dig into more of the tools side of things.
+[00:31:41 -> 00:31:52]  Folks, feel free to either use the chat window or raise your hand.
+[00:31:52 -> 00:31:53]  There you go.
+[00:31:53 -> 00:31:54]  Eric Engstrom's got one.
+[00:31:54 -> 00:31:55]  Go ahead, Eric.
+[00:31:56 -> 00:32:00]  I have kind of a cheeky question.
+[00:32:00 -> 00:32:08]  I'm more or less curious whether or not customers are actually coming to you saying, hey, we
+[00:32:08 -> 00:32:10]  have a problem in Texas.
+[00:32:10 -> 00:32:16]  Are they really coming and saying, oh, we want to identify where there might be future
+[00:32:16 -> 00:32:17]  development?
+[00:32:17 -> 00:32:21]  Or is it more like, hey, we have these solutions.
+[00:32:21 -> 00:32:24]  Let's see if there's a problem.
+[00:32:25 -> 00:32:26]  Yeah, that's a good question.
+[00:32:26 -> 00:32:33]  So the proof of concept work I showed for the change detection came from conversations
+[00:32:33 -> 00:32:39]  that we had with Planet and Regrid about what would be a really cool thing we could all
+[00:32:39 -> 00:32:46]  work on together that seems like would be of interest to their customers.
+[00:32:46 -> 00:32:51]  And so putting together that proof of concept over the past few months has really been geared
+[00:32:51 -> 00:32:59]  towards a few specific customers that they have that are in the real estate business.
+[00:32:59 -> 00:33:02]  And that's kind of been the start of it.
+[00:33:02 -> 00:33:09]  After working on that proof of concept, we've been showing it around to other companies
+[00:33:09 -> 00:33:11]  and other people that we've met.
+[00:33:11 -> 00:33:16]  And it seems like there's been other areas that would be of interest to develop on.
+[00:33:16 -> 00:33:23]  And so that's why now we're kind of thinking about the different user stories to help develop
+[00:33:23 -> 00:33:28]  that product.
+[00:33:28 -> 00:33:39]  And the historic imagery work, that is something that Texas approached you to help solve, right?
+[00:33:39 -> 00:33:40]  Yes.
+[00:33:41 -> 00:33:50]  Yeah, because right now in Texas, they're paying analysts to hand register these images.
+[00:33:50 -> 00:33:54]  And their goal is to really have a tool that helps them.
+[00:33:54 -> 00:34:01]  And so we're kind of doing a little bit of R&D for them on this tool.
+[00:34:01 -> 00:34:10]  And the goal is to hopefully in the next year or so have all the technical side done.
+[00:34:10 -> 00:34:15]  So then they'll be ready to kind of pull the trigger on that.
+[00:34:15 -> 00:34:24]  I just thought I would actually chime in on the change detection.
+[00:34:24 -> 00:34:27]  I used to do a little work in it.
+[00:34:27 -> 00:34:34]  And we used it a lot for looking at tree canopy change and climate change, kind of like a
+[00:34:34 -> 00:34:38]  lot of municipalities want to know how they're doing on tree plantings and what their tree
+[00:34:38 -> 00:34:44]  cover was for the future, like temperatures in their cities and how they're doing on that.
+[00:34:44 -> 00:34:47]  So I just thought I'd put another use case out there.
+[00:34:47 -> 00:34:48]  Cool.
+[00:34:48 -> 00:34:53]  Yeah, thanks for that.
+[00:34:53 -> 00:34:55]  And it looks like Colin has a question.
+[00:34:55 -> 00:34:59]  How and where are you storing the imagery that feeds into the models?
+[00:34:59 -> 00:35:00]  What works best?
+[00:35:00 -> 00:35:02]  That's a good question.
+[00:35:02 -> 00:35:10]  So most of the, well, actually all the stuff I've shown today, we're using Google Cloud
+[00:35:10 -> 00:35:16]  to host the virtual machines that I'm using to actually use these resources.
+[00:35:16 -> 00:35:24]  And then we store the imagery that we're training on locally on whatever VM that we have the
+[00:35:24 -> 00:35:28]  GPU and CPU on that we're going to use to train.
+[00:35:28 -> 00:35:35]  The IO is really the biggest bottleneck I've seen, at least from my part.
+[00:35:35 -> 00:35:37]  Most of the time people can write code that runs pretty fast.
+[00:35:37 -> 00:35:40]  It's just about having the data where the code is executing.
+[00:35:40 -> 00:35:49]  So that way you're not slowed down by that.
+[00:35:49 -> 00:36:00]  But if someone is getting started, does it make sense to host, to just have stuff, a
+[00:36:00 -> 00:36:09]  few things locally or using something like Colab and having the data in sort of any kind
+[00:36:09 -> 00:36:13]  of blob storage?
+[00:36:13 -> 00:36:19]  Just imagining if someone doesn't have access to some VMs and they're just trying to load
+[00:36:19 -> 00:36:24]  and learn this on their own time, what do you recommend?
+[00:36:24 -> 00:36:30]  I would recommend if you get on Google Colab and you have a Gmail account, get on there
+[00:36:30 -> 00:36:35]  and have some of your data in Google Drive.
+[00:36:35 -> 00:36:38]  And that should be perfectly fine to get started.
+[00:36:38 -> 00:36:45]  There are several different Kaggle competitions that you can go download their data.
+[00:36:45 -> 00:36:51]  There's also fast AI tutorials where you can download their data onto Colab, onto your
+[00:36:51 -> 00:36:55]  Google Drive and then run the notebooks in a Colab environment.
+[00:36:55 -> 00:37:01]  And I think that's really the way to think about it is wherever you're going to execute
+[00:37:01 -> 00:37:04]  the code, try to put the data there because you don't want to be reading over the network
+[00:37:04 -> 00:37:07]  trying to train something or even apply something.
+[00:37:07 -> 00:37:15]  It's just going to slow you down a lot.
+[00:37:15 -> 00:37:25]  Do we have anyone from ADS in the cloud computing arena or the shared services on this call?
+[00:37:25 -> 00:37:26]  John or Tim?
+[00:37:26 -> 00:37:36]  I know we have Josiah, who's our new state head of AI and machine learning, couldn't
+[00:37:36 -> 00:37:38]  make it and did request this be recorded.
+[00:37:38 -> 00:37:46]  I see Chris, Bringa and James from Josiah's team here.
+[00:37:46 -> 00:37:50]  I don't mean to put – call anyone on the spot, but –
+[00:37:50 -> 00:37:51]  No.
+[00:37:51 -> 00:37:56]  I was just making sure that we had some support here so that they might be able to provide
+[00:37:56 -> 00:38:02]  some input as to which environments we would actually have access to and which are supported.
+[00:38:02 -> 00:38:03]  Yep.
+[00:38:03 -> 00:38:15]  Hopefully, Chris and James, you're ready for a slew of emails that will follow up with
+[00:38:15 -> 00:38:16]  this presentation.
+[00:38:16 -> 00:38:17]  Certainly.
+[00:38:17 -> 00:38:18]  Yeah.
+[00:38:18 -> 00:38:24]  I can help out with any questions that come up afterwards.
+[00:38:24 -> 00:38:25]  Cool.
+[00:38:25 -> 00:38:28]  Well, if there's no other questions right now, I can go ahead and dive into some of
+[00:38:28 -> 00:38:34]  the tools and feel free to ask questions at any time.
+[00:38:34 -> 00:38:35]  I know we've got about 20 minutes left here.
+[00:38:35 -> 00:38:40]  I want to get through these notebooks quick here and hopefully some of it will be of interest
+[00:38:40 -> 00:38:48]  and get some more conversation going.
+[00:38:48 -> 00:38:50]  The first tool I want to talk about is called Data Shader.
+[00:38:50 -> 00:38:53]  I don't know if anyone in this group has used Data Shader before or heard of it, but I'll
+[00:38:53 -> 00:38:56]  just give a brief introduction of what it is.
+[00:38:56 -> 00:38:58]  It is a general rasterization pipeline.
+[00:38:58 -> 00:39:02]  So if you use vector and raster data, and maybe you want to plot them together on a
+[00:39:02 -> 00:39:08]  single plot, you can take the vector data and the raster data and co-register them and
+[00:39:08 -> 00:39:10]  plot them together using Data Shader.
+[00:39:10 -> 00:39:16]  And so I want to walk through just a quick example of using Data Shader.
+[00:39:16 -> 00:39:24]  So this is the 2020 census data, and in this notebook, we're defining some areas of interest.
+[00:39:24 -> 00:39:27]  And feel free, if you're interested in these notebooks, let me know and I don't mind to
+[00:39:27 -> 00:39:31]  share them at all, but I just want to quickly go through what we're doing here.
+[00:39:31 -> 00:39:35]  We're using this data set called Synthetic People.
+[00:39:35 -> 00:39:42]  So Synthetic People takes the census blocks and takes that population field and extracts
+[00:39:42 -> 00:39:47]  a single point for each person within a census block and gives them the attributes that they
+[00:39:47 -> 00:39:52]  should have based on all the properties that we have within the census data.
+[00:39:52 -> 00:39:58]  So we've stored that data into a Parquet file, and Parquet, I mentioned before, is
+[00:39:58 -> 00:40:03]  really great for storing tabular data, and it helps with fast IO.
+[00:40:03 -> 00:40:08]  So in performance, you usually break that down into compute and IO, and Parquet handles
+[00:40:08 -> 00:40:10]  the IO portion of scaling.
+[00:40:10 -> 00:40:15]  And if you add on geometry to the Parquet file, you can actually use GeoParquet now,
+[00:40:15 -> 00:40:18]  which has been one of the advances in the last couple of years, which has been really
+[00:40:18 -> 00:40:21]  great for us.
+[00:40:21 -> 00:40:25]  So you want to think about choosing a data format that supports really fast IO, and Parquet
+[00:40:25 -> 00:40:27]  is binary.
+[00:40:27 -> 00:40:29]  It supports various different compression types.
+[00:40:29 -> 00:40:31]  It's a columnar store.
+[00:40:31 -> 00:40:36]  So if you want to load data that has 300 columns, but you only want to load two of those columns,
+[00:40:36 -> 00:40:40]  you can easily load just a couple of columns at a time, just whatever is of interest at
+[00:40:40 -> 00:40:41]  the moment.
+[00:40:41 -> 00:40:43]  And it's also partitionable.
+[00:40:43 -> 00:40:48]  So you can process partitions on various workers for the entire data set.
+[00:40:48 -> 00:40:51]  So to actually produce this data set, I'll show you here in a minute on the second notebook,
+[00:40:51 -> 00:40:57]  we took the census blocks, and we used DAS to horizontally scale some processing to be
+[00:40:57 -> 00:41:01]  able to get this synthetic people data set.
+[00:41:01 -> 00:41:06]  So within this data set, we just got X, Y, and race ethnicity information, and we can
+[00:41:06 -> 00:41:11]  use DataShader to be able to produce a canvas for the entire US.
+[00:41:11 -> 00:41:15]  And what we're doing right now is we're aggregating all of the points within each one of these
+[00:41:15 -> 00:41:22]  pixels to be able to come up with the count at every single pixel based on specific resolution.
+[00:41:22 -> 00:41:26]  And this is just showing that if we just use a linear scale, we can lose a lot of information
+[00:41:26 -> 00:41:29]  from the Midwest cities.
+[00:41:29 -> 00:41:32]  And in DataShader, you can specify how you want to aggregate the data.
+[00:41:32 -> 00:41:38]  So here is using a logarithmic scale, which looks much nicer, at least to my eyes.
+[00:41:38 -> 00:41:42]  And there's various different tools you can use within the DataShader pipeline to be able
+[00:41:42 -> 00:41:45]  to improve these plots.
+[00:41:45 -> 00:41:49]  So another cool thing you can do is use things like histogram equalization to try to balance
+[00:41:49 -> 00:41:55]  out the color values, and you can color like the 99th percentile red.
+[00:41:55 -> 00:42:01]  So this just shows all the high population areas throughout the US.
+[00:42:01 -> 00:42:07]  And we can also do things like visualizing different colors for different race ethnicity
+[00:42:07 -> 00:42:10]  information within the synthetic people data set.
+[00:42:10 -> 00:42:13]  So this is just showing across the entire US, and we're just plotting different race
+[00:42:13 -> 00:42:16]  ethnicity values for different colors.
+[00:42:16 -> 00:42:19]  And we can also zoom in on different cities.
+[00:42:19 -> 00:42:24]  So this notebook is not one that we put together originally.
+[00:42:24 -> 00:42:27]  This is from the 2010 census, but we updated the data for it.
+[00:42:27 -> 00:42:32]  So I just wanted to show you kind of what DataShader can be really useful for, because
+[00:42:32 -> 00:42:39]  this is aggregating over 300 million points within a single plot here.
+[00:42:39 -> 00:42:43]  And then if you zoom in on different specific cities, you can kind of see the different
+[00:42:43 -> 00:42:48]  spread of race ethnicity, and we're using the individual points and aggregating them
+[00:42:48 -> 00:42:52]  rather than just looking at the block.
+[00:42:52 -> 00:42:55]  So I just wanted to show that here briefly.
+[00:42:55 -> 00:43:01]  And the other thing I want to show you is how we can produce that data set.
+[00:43:01 -> 00:43:06]  So using various different tools, we'll start with Pandas here.
+[00:43:06 -> 00:43:10]  Pandas is really great for using tabular data.
+[00:43:10 -> 00:43:14]  And so imagine organizing NumPy arrays with labels.
+[00:43:14 -> 00:43:17]  And if you want to use geometry with that data, you can use GeoPandas.
+[00:43:17 -> 00:43:22]  So hopefully some of you in the Geo group here have seen GeoPandas before.
+[00:43:22 -> 00:43:25]  And it's really great in-memory data structure like Pandas.
+[00:43:25 -> 00:43:29]  And then we can scale up those operations on multiple workers using Dask.
+[00:43:29 -> 00:43:33]  So imagine you write some Pandas code or you write some GeoPandas code, you can scale that
+[00:43:33 -> 00:43:34]  with Dask.
+[00:43:34 -> 00:43:40]  And if you have GeoPandas code, you can actually use a recent toolkit called Dask GeoPandas.
+[00:43:40 -> 00:43:44]  And Dask GeoPandas scales those Pandas data frames with the geometry column.
+[00:43:44 -> 00:43:49]  And you can use these abstractions from Dask to be able to run code on many different workers
+[00:43:49 -> 00:43:53]  at the same time to be able to speed up your processing.
+[00:43:53 -> 00:43:58]  So it's a little rough around the edges as some open source toolkits are, but it's really
+[00:43:58 -> 00:44:03]  useful for doing large scale vector processing.
+[00:44:03 -> 00:44:10]  And so you can use Dask GeoPandas to be able to produce the census parquet data set, which
+[00:44:10 -> 00:44:12]  is something that we've done here at Makepath.
+[00:44:12 -> 00:44:15]  So since it's parquet, feel free to check this out on GitHub.
+[00:44:15 -> 00:44:19]  This takes all the census data from 2020 and exports it into parquet files.
+[00:44:19 -> 00:44:23]  There's also utility in here to generate the synthetic people that I'm showing here.
+[00:44:23 -> 00:44:28]  And these can all be run from the command line after you do the install.
+[00:44:28 -> 00:44:30]  So we'll jump back here to the notebook.
+[00:44:30 -> 00:44:36]  So in this notebook, we're using Dask GeoPandas to be able to horizontally scale up the census
+[00:44:36 -> 00:44:41]  blocks, which we've stored in parquet, to be able to get that synthetic people data.
+[00:44:41 -> 00:44:45]  So we load those blocks using read parquet.
+[00:44:45 -> 00:44:48]  So now we've got all these different attributes that we've kept up with.
+[00:44:48 -> 00:44:54]  This is just population and race and ethnicity information and the geometry for each of the blocks.
+[00:44:54 -> 00:44:57]  Then we write some code here to do polygons to points.
+[00:44:57 -> 00:45:01]  So for each one of those blocks, we're going to sample a bunch of points.
+[00:45:01 -> 00:45:06]  We're going to make sure that they fit within that block doing this checking here.
+[00:45:06 -> 00:45:11]  And then we're going to return a pandas data frame that has all the points with all the
+[00:45:11 -> 00:45:14]  race ethnicity information that we want.
+[00:45:14 -> 00:45:21]  One of the cool things about using Dask is it's scaling up really, really, really, really
+[00:45:21 -> 00:45:27]  simple code here, but makes it run really fast across many different workers.
+[00:45:27 -> 00:45:31]  And it's doing a lot of assumptions within its processing.
+[00:45:31 -> 00:45:37]  It's creating this task graph, and it needs to know what the output is expected.
+[00:45:37 -> 00:45:40]  So sometimes it doesn't know, and the code won't work very well.
+[00:45:40 -> 00:45:46]  But what you can do is just specify, hey, this is exactly the type of output I want.
+[00:45:46 -> 00:45:50]  I want it to be a pandas data frame with these specific columns, and these columns have these
+[00:45:50 -> 00:45:52]  data types.
+[00:45:52 -> 00:45:57]  And by specifying that, we're able to scale up this processing across many different workers.
+[00:45:57 -> 00:46:01]  So here we're saying run this polygons to points function on each partition of that
+[00:46:01 -> 00:46:04]  parquet file of this blocks.
+[00:46:04 -> 00:46:09]  And we want the output to be this output data frame.
+[00:46:09 -> 00:46:13]  And the cool thing about this is we don't want all of this to come back in memory on
+[00:46:13 -> 00:46:15]  our actual machine.
+[00:46:15 -> 00:46:23]  We want to just save this out directly into a parquet format in some other, you can imagine,
+[00:46:23 -> 00:46:26]  cloud storage or wherever you want to put it.
+[00:46:26 -> 00:46:31]  So we can actually just say map for each one of these partitions, run this function.
+[00:46:31 -> 00:46:34]  It's going to have this output, and don't give me back the data.
+[00:46:34 -> 00:46:39]  Go ahead and store out that data as a parquet, and write the metadata file so it's easier
+[00:46:39 -> 00:46:41]  for downstream processing.
+[00:46:41 -> 00:46:48]  So you can have really extremely large data sets and write all the code to process them
+[00:46:48 -> 00:46:51]  in a Jupyter notebook and never load that data on your machine so you're not trying
+[00:46:51 -> 00:46:55]  to overload your memory.
+[00:46:55 -> 00:46:59]  So let's shift gears now and talk just briefly about doing some image processing for deep
+[00:46:59 -> 00:47:00]  learning.
+[00:47:00 -> 00:47:04]  This notebook here, I will show you.
+[00:47:04 -> 00:47:10]  We also have this notebook and some more further steps on GitHub repo for doing the change
+[00:47:10 -> 00:47:11]  detection.
+[00:47:12 -> 00:47:17]  But I just want to talk about how within using X-Array, we can do things like loading really
+[00:47:17 -> 00:47:24]  large data sets and doing the pre-processing of those data sets without ever loading anything
+[00:47:24 -> 00:47:26]  into memory.
+[00:47:26 -> 00:47:32]  So the first thing we do is we're calling on these two different mosaics that we have,
+[00:47:32 -> 00:47:34]  one from 2017, one from 2022.
+[00:47:34 -> 00:47:39]  We're going to load those using Resterio, and so we're specifying here we want these
+[00:47:39 -> 00:47:40]  to be co-registered.
+[00:47:40 -> 00:47:45]  We want to have the same transform on the second raster, the same height, the same width.
+[00:47:45 -> 00:47:50]  And let's just make sure that when we load them up, we can easily stack them.
+[00:47:50 -> 00:47:51]  Then we're lazily loading.
+[00:47:51 -> 00:47:56]  So we're telling, like within the code, we're knowing where this data is and how we want
+[00:47:56 -> 00:48:01]  to chunk it up whenever we load it, but we're not actually calling it into memory.
+[00:48:01 -> 00:48:07]  So this line here is saying, okay, this raster A, I know that it's got four bands because
+[00:48:07 -> 00:48:12]  it's RGB and it has a near-infrared band, and I want to chunk it up into this size of
+[00:48:12 -> 00:48:18]  blocks, and I'm doing the same thing for the second raster.
+[00:48:18 -> 00:48:22]  So another cool thing about X-Ray is you can actually visualize what does this image cube
+[00:48:22 -> 00:48:26]  look like, what does this data cube look like, and you can make sure you can kind of check
+[00:48:26 -> 00:48:29]  and debug your code easily this way.
+[00:48:29 -> 00:48:33]  So we know we don't want the fourth channel because it's the near-infrared and our model
+[00:48:33 -> 00:48:37]  is not trained with that, so we just say give us the first three.
+[00:48:37 -> 00:48:38]  We want to scale it properly.
+[00:48:38 -> 00:48:42]  It's U and eight right now, but we want it to be zero to one before we normalize it,
+[00:48:42 -> 00:48:44]  so we just divide by 255.
+[00:48:44 -> 00:48:49]  We also want to do some preprocessing of subtracting the mean divided by the standard deviation.
+[00:48:49 -> 00:48:51]  So it's really easy to compute the means.
+[00:48:51 -> 00:48:54]  So we're saying compute the mean spatially.
+[00:48:54 -> 00:48:57]  So across all the XY coordinates, let's get the mean.
+[00:48:57 -> 00:49:00]  So that means let's get the mean for the RGB value and let's get the standard deviation
+[00:49:00 -> 00:49:01]  for the RGB value.
+[00:49:01 -> 00:49:06]  So we do that for the mean standard deviation for both rasters.
+[00:49:06 -> 00:49:09]  Then we can stack these rasters together, and we're going to stack them across a new
+[00:49:09 -> 00:49:11]  dimension called time.
+[00:49:11 -> 00:49:14]  So now we have this new data cube that's time.
+[00:49:14 -> 00:49:21]  So the first one's 2017, the second one's 2022, the RGB bands, then the spatial dimensions.
+[00:49:21 -> 00:49:25]  We can stack all of these means and standard deviations together.
+[00:49:25 -> 00:49:31]  So that way, when we do the normalization, we have this normalized image, which has two
+[00:49:31 -> 00:49:38]  time slices, three bands, and the pixels that we're interested in.
+[00:49:38 -> 00:49:41]  We can also do things like cropping, and I'm just going to speed up a little bit here so
+[00:49:41 -> 00:49:46]  we don't run out of too much time here, and also do things like re-chunking the data to
+[00:49:46 -> 00:49:51]  make sure it's the exact size that we want for our model.
+[00:49:51 -> 00:49:55]  And I just want to show this really quickly, and I'll share these links if you want them
+[00:49:55 -> 00:49:56]  as well.
+[00:49:56 -> 00:50:01]  This is our awesome machine learning change detection demo, which can get you the same
+[00:50:01 -> 00:50:05]  results that we showed in that previous slide.
+[00:50:05 -> 00:50:09]  And this repo, you can feel free to use it.
+[00:50:09 -> 00:50:10]  It'll help you download all the data.
+[00:50:10 -> 00:50:18]  It'll help you run the models and everything within this notebook.
+[00:50:18 -> 00:50:24]  And the only caveat I'll say is that you need to make sure you have a GPU that can run this.
+[00:50:24 -> 00:50:31]  So as long as you have a somewhat modern GPU that has a few gigabytes of virtual RAM,
+[00:50:31 -> 00:50:36]  you should be able to run this notebook.
+[00:50:36 -> 00:50:41]  So for the sake of time, I'll just briefly say I have another notebook that uses Numba
+[00:50:41 -> 00:50:48]  and X-Ray Spatial, and like I said, I'm more than willing to share these resources if you'd
+[00:50:48 -> 00:50:50]  like to see the notebooks.
+[00:50:50 -> 00:50:55]  All we show in this notebook is how we can take some really simple code of computing
+[00:50:55 -> 00:51:03]  slope and we can get some result of doing that using NumPy.
+[00:51:03 -> 00:51:09]  And then if we use, so that's around 400 milliseconds, and then if we use Numba, which is just really
+[00:51:09 -> 00:51:14]  good at doing vertical scaling, we can break it down into about five milliseconds running
+[00:51:14 -> 00:51:22]  on a laptop and then even do further improvements of getting it into the microsecond level of
+[00:51:22 -> 00:51:23]  speed.
+[00:51:23 -> 00:51:27]  So Numba is really a great tool for if you have code that you're running, how can I make
+[00:51:27 -> 00:51:31]  the code run a lot faster on a single worker?
+[00:51:31 -> 00:51:36]  And then you can pair up code that you've written with Numba with Dask to make it run
+[00:51:36 -> 00:51:45]  really, really fast across many different workers.
+[00:51:45 -> 00:51:49]  So I wanted to save some time here just for some questions, and if there's any more interest
+[00:51:49 -> 00:51:53]  in these specific notebooks, then feel free to bring that up now.
+[00:51:53 -> 00:51:58]  And I will share the code from here as well.
+[00:51:58 -> 00:52:04]  Thanks, Dylan.
+[00:52:04 -> 00:52:08]  I just mentioned to folks in the chat, there was a request for the notebooks, and I said
+[00:52:08 -> 00:52:12]  we'd get those from you and share them with people.
+[00:52:12 -> 00:52:13]  Sure.
+[00:52:13 -> 00:52:14]  Sounds good.
+[00:52:14 -> 00:52:29]  So, are there other questions for Dylan?
+[00:52:29 -> 00:52:31]  I think that was great.
+[00:52:31 -> 00:52:43]  A few things a little over my head as a simple Canadian here, but definitely learned a lot
+[00:52:43 -> 00:52:52]  and wish there were more hours in the day for me to dive into some of this stuff as
+[00:52:52 -> 00:52:56]  it is incredibly interesting.
+[00:52:56 -> 00:53:01]  Those data shader visuals were very slick.
+[00:53:01 -> 00:53:07]  Yeah, data shaders are a really, really cool tool.
+[00:53:07 -> 00:53:14]  I wanted to just quickly show, this is a great link.
+[00:53:14 -> 00:53:15]  This is on our blog.
+[00:53:15 -> 00:53:19]  I'll share this in the chat, and this will give you all the links that you need for all
+[00:53:19 -> 00:53:24]  the change detection stuff in case you want to check out that notebook and get it running.
+[00:53:24 -> 00:53:28]  There's also a video if you want to keep hearing me talk.
+[00:53:28 -> 00:53:34]  You can watch this YouTube video where I'll walk you through all of the steps of running
+[00:53:34 -> 00:53:41]  those notebooks, and here's a link to X-Ray Spatial.
+[00:53:41 -> 00:53:49]  If you're doing any kind of raster processing and you want to use Python, X-Ray Spatial
+[00:53:49 -> 00:53:54]  is for GIS professionals to be able to speed up their analyses.
+[00:53:54 -> 00:53:57]  I just want to show that.
+[00:53:57 -> 00:54:04]  Tim, it looks like your hand is up.
+[00:54:04 -> 00:54:05]  It is.
+[00:54:05 -> 00:54:11]  Dylan, I wanted to ask you if you can leave us in parting, knowing that this is a group
+[00:54:11 -> 00:54:18]  of largely government employees whose primary function is public service.
+[00:54:18 -> 00:54:25]  What have you seen or are you expecting to see in the years ahead as means of being a
+[00:54:25 -> 00:54:31]  functional translator of highly technical skills and tools that do really useful things
+[00:54:31 -> 00:54:38]  for public policy purposes, but being able to convincingly communicate them to perhaps
+[00:54:38 -> 00:54:45]  other persons in public service who may not understand an iota of what it is that you're
+[00:54:45 -> 00:54:51]  talking about or think it too complicated to apply to problems that are pressing?
+[00:54:51 -> 00:54:56]  What do you expect, and in particular, maybe even for MakePath's sake, how do you envision
+[00:54:56 -> 00:55:03]  yourself to help the public service sector, and how can we help communicate the value
+[00:55:03 -> 00:55:06]  of some of these things to certain leadership elsewhere?
+[00:55:08 -> 00:55:12]  Yeah, that's a really good question, and I'll try to answer it as best I can.
+[00:55:14 -> 00:55:23]  I think the value that I've seen so far has been from listening to what problems people
+[00:55:23 -> 00:55:32]  are working on and are concerned with and trying to meet them with some sort of similar
+[00:55:32 -> 00:55:40]  problem that we can show some imagery or show some results from and kind of meet in the
+[00:55:40 -> 00:55:41]  middle.
+[00:55:41 -> 00:55:49]  I think it's really key just for me to be able to communicate better with various different
+[00:55:49 -> 00:55:59]  audiences to kind of listen to what they care about, because what I care about outside of
+[00:55:59 -> 00:56:09]  just trying to apply really cool tools is having a group of people that know a lot of
+[00:56:09 -> 00:56:13]  things that I don't know that we can kind of work together and I can learn from their
+[00:56:13 -> 00:56:14]  expertise as well.
+[00:56:14 -> 00:56:15]  That's what really drives me.
+[00:56:16 -> 00:56:23]  So I think as far as the public policy and the specifics of working with different groups
+[00:56:23 -> 00:56:27]  that might have various different technical backgrounds or various different interests
+[00:56:27 -> 00:56:32]  in the tools part, I think showing them these visualizations and just talking about how
+[00:56:32 -> 00:56:36]  we can do this now so much faster, we can do this much more efficiently, and kind of
+[00:56:37 -> 00:56:44]  what broader impacts that has is really the key selling point from my view.
+[00:56:44 -> 00:56:49]  So I'm thinking about things like you want to get some kind of statistics off of data
+[00:56:49 -> 00:56:54]  sets that are really large, like from the technical side, we can do that.
+[00:56:54 -> 00:56:58]  But then what kind of outcome does that actually lead to and how can that help you?
+[00:56:58 -> 00:57:01]  So some of the things I heard from Nizjik that were really, really interesting to me
+[00:57:01 -> 00:57:06]  were some of the next gen 911 things that people are talking about and all of these
+[00:57:06 -> 00:57:13]  different applications that are going to affect hundreds of millions of people.
+[00:57:13 -> 00:57:19]  And just thinking about how my side of being the applier of the tools,
+[00:57:19 -> 00:57:24]  how can I put visualizations in front of people and convey a story to them that
+[00:57:26 -> 00:57:33]  is somewhat similar to what they're actually worried about to try to find that connection.
+[00:57:34 -> 00:57:41]  And I think with that, we're at 1029, and I know we've got a meeting at 1030.
+[00:57:42 -> 00:57:46]  We covered an amazing amount of ground in one hour.
+[00:57:48 -> 00:57:50]  Thank you very much, Dylan.
+[00:57:50 -> 00:57:53]  I think this was great.
+[00:57:54 -> 00:58:01]  And we will share those notebooks and one comment in the chat.
+[00:58:02 -> 00:58:06]  Sounds like something we can use, georeference our 62 imagery.
+[00:58:08 -> 00:58:17]  And Steve has a question around georeferencing of historic imagery in the public domain,
+[00:58:17 -> 00:58:19]  and I know Eric had his hand up afterwards.
+[00:58:19 -> 00:58:28]  So we'll follow up with Dylan's contact info with folks if that's cool and go from there.
+[00:58:28 -> 00:58:33]  Yeah, and feel free to reach out, and I'll get those notebooks.
+[00:58:34 -> 00:58:38]  I can send them to John or Tim, and I'll send just a zip file.
+[00:58:38 -> 00:58:39]  It'll be easy to just share around.
+[00:58:40 -> 00:58:40]  Perfect.
+[00:58:42 -> 00:58:43]  Okay.
+[00:58:43 -> 00:58:43]  All right.
+[00:58:43 -> 00:58:47]  Well, I will see some folks in our next meeting at 1030.
+[00:58:47 -> 00:58:48]  Thank you.
+[00:58:49 -> 00:58:49]  Thanks, Dylan.
+[00:58:50 -> 00:58:50]  Thank you all.
+[00:58:50 -> 00:58:51]  Take care.

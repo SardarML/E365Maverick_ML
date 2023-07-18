@@ -1,0 +1,693 @@
+[00:00:00 -> 00:00:12]  Human resource management.
+[00:00:12 -> 00:00:17]  What is a human resource?
+[00:00:17 -> 00:00:18]  What is a resource?
+[00:00:18 -> 00:00:25]  A resource is something you need to, let's say, produce something, right?
+[00:00:25 -> 00:00:30]  Oil, money, blah, blah, blah.
+[00:00:30 -> 00:00:33]  A human resource is something special.
+[00:00:33 -> 00:00:40]  It's the resource which is somehow linked to, what, to people.
+[00:00:40 -> 00:00:46]  Human resource management is about people.
+[00:00:46 -> 00:00:47]  What people?
+[00:00:47 -> 00:00:48]  Children?
+[00:00:48 -> 00:00:49]  No.
+[00:00:49 -> 00:00:50]  Customers?
+[00:00:50 -> 00:00:51]  No.
+[00:00:51 -> 00:00:54]  People inside a company, we name these employees.
+[00:00:54 -> 00:01:04]  Okay, the problem with resources is that once you use resources, they get exhausted, okay?
+[00:01:04 -> 00:01:17]  So a better term for this is maybe human capital, because once you use capital, if you use it
+[00:01:17 -> 00:01:24]  the right way, it grows, adds value.
+[00:01:24 -> 00:01:28]  But in practice, it's not so commonly used.
+[00:01:28 -> 00:01:34]  Some companies say human capital management, but it's not so commonly used.
+[00:01:34 -> 00:01:37]  I know just a few companies who say human capital management.
+[00:01:37 -> 00:01:44]  Most companies say human resource management, so that's why we stick to this term, okay?
+[00:01:44 -> 00:01:47]  So this is what we're going to do today.
+[00:01:47 -> 00:01:48]  Three questions.
+[00:01:48 -> 00:01:54]  Of course, you must be able to answer these questions at the end of this semester.
+[00:01:54 -> 00:01:55]  What is human resource management?
+[00:01:55 -> 00:01:57]  We could talk about this.
+[00:01:57 -> 00:02:02]  Which megatrends determine future challenges in HRM?
+[00:02:02 -> 00:02:04]  There are some megatrends out there.
+[00:02:04 -> 00:02:10]  The world is changing, and this has a huge impact on what we do in human resource management.
+[00:02:10 -> 00:02:15]  And then I will show you a kind of overview about what is human resource management all
+[00:02:15 -> 00:02:16]  about.
+[00:02:17 -> 00:02:18]  Okay?
+[00:02:18 -> 00:02:20]  So, let's start with the first question.
+[00:02:20 -> 00:02:21]  Here is the definition.
+[00:02:21 -> 00:02:22]  No, I start with this.
+[00:02:22 -> 00:02:23]  Innovation.
+[00:02:23 -> 00:02:24]  This is one megatrend.
+[00:02:24 -> 00:02:25]  Okay, you know what this is?
+[00:02:25 -> 00:02:26]  The old telephone.
+[00:02:26 -> 00:02:27]  Cell phone.
+[00:02:27 -> 00:02:28]  iPhone.
+[00:02:28 -> 00:02:29]  What's next?
+[00:02:29 -> 00:02:30]  What comes after the iPhone?
+[00:02:30 -> 00:02:31]  Be sure that.
+[00:02:31 -> 00:02:52]  If Apple does not invent something which goes beyond the iPhone, Apple will lose, yeah?
+[00:02:52 -> 00:02:57]  It will be the case, definitely, yeah?
+[00:02:57 -> 00:03:01]  The iPhone or the smartphone in general, it's not the last thing.
+[00:03:02 -> 00:03:06]  In 10 years, we will have something totally different.
+[00:03:06 -> 00:03:09]  I promise you.
+[00:03:09 -> 00:03:13]  Don't think that Google is the last search engine, yeah?
+[00:03:13 -> 00:03:20]  In 10 or 20 years, we will say, oh, do you remember, we used a website called Google,
+[00:03:20 -> 00:03:21]  yeah?
+[00:03:21 -> 00:03:24]  Old stuff.
+[00:03:24 -> 00:03:27]  That was so boring.
+[00:03:27 -> 00:03:32]  You had to type in a word and then you got a list.
+[00:03:32 -> 00:03:37]  Yeah, we will laugh about it, yeah?
+[00:03:37 -> 00:03:42]  The same way as we laugh today about this telephone, I mean, it looks nice, yeah?
+[00:03:42 -> 00:03:44]  But we laugh about it.
+[00:03:44 -> 00:03:50]  We will laugh about the smartphone, for sure.
+[00:03:50 -> 00:03:52]  You will remember our words, yeah?
+[00:03:53 -> 00:04:01]  For Apple, that means that they must invent new products now, yeah?
+[00:04:01 -> 00:04:06]  For many companies, especially in the Western industry, they say that 80% of our revenue
+[00:04:06 -> 00:04:15]  Umsatz, 80% of our revenue is done with products that were invented in the last four years,
+[00:04:15 -> 00:04:16]  yeah?
+[00:04:16 -> 00:04:17]  You know what that means?
+[00:04:17 -> 00:04:24]  That means if we would not have invented these new products, we would be in deep shit
+[00:04:24 -> 00:04:29]  today, okay?
+[00:04:29 -> 00:04:39]  So innovation is really a megatrend that determines business and the world, yeah?
+[00:04:39 -> 00:04:45]  We can find a lot of other examples, but innovation is the trend, yeah?
+[00:04:45 -> 00:04:48]  But the question is, what does that mean for the people in the organizations?
+[00:04:48 -> 00:04:54]  That's the question, what does that mean, yeah?
+[00:04:54 -> 00:04:58]  People have to cope with that, yeah?
+[00:04:58 -> 00:05:00]  They have to thrive innovation.
+[00:05:00 -> 00:05:05]  They have to be leaders in technology or everything, okay?
+[00:05:05 -> 00:05:13]  Think about the car manufacturers like BMW, Daimler and so on.
+[00:05:13 -> 00:05:14]  The world is changing.
+[00:05:14 -> 00:05:18]  You think about the e-vehicle, yeah?
+[00:05:18 -> 00:05:23]  So the engineers, the people in production, everywhere, they have to change their mind.
+[00:05:23 -> 00:05:26]  They have to change their skills, their competencies.
+[00:05:26 -> 00:05:31]  They have to work with different products because things are changing.
+[00:05:31 -> 00:05:38]  So when things change or people have to change things, that matters really to the people,
+[00:05:38 -> 00:05:43]  to their work, to their skills, to their challenges in their daily life and so on.
+[00:05:43 -> 00:05:48]  So that really matters, okay?
+[00:05:48 -> 00:05:58]  And we really can see from statistics that in the last decades, there was a major shift
+[00:05:58 -> 00:06:05]  from handwork, which is a great view, to knowledge work.
+[00:06:05 -> 00:06:09]  My grandfather worked with his hands, yeah?
+[00:06:09 -> 00:06:15]  As most of your grandparents, parents did, they worked with their hands.
+[00:06:15 -> 00:06:21]  Work was moving things, combine things and so on.
+[00:06:21 -> 00:06:26]  While you, you will work with your brain, yeah?
+[00:06:26 -> 00:06:33]  Your work will be nothing else than thinking and communicating, right?
+[00:06:33 -> 00:06:43]  Of course you will need your hand, yeah, to catch your smartphone, but you think.
+[00:06:43 -> 00:06:51]  So in nowadays world, people mainly think, yeah?
+[00:06:51 -> 00:06:57]  And what they think and what they do is totally changed in the last decades, yeah?
+[00:06:57 -> 00:07:03]  You can order an employee saying, well, do this by your hand, yeah?
+[00:07:03 -> 00:07:09]  Combine these pieces 100 times an hour, do this, I pay you for this, yes, yes, yes, yeah.
+[00:07:09 -> 00:07:13]  You can order and you control, you can control.
+[00:07:13 -> 00:07:21]  But can you order an employee saying, well, come up with an idea in the next hour?
+[00:07:21 -> 00:07:23]  That's hard, yeah?
+[00:07:23 -> 00:07:25]  So the type of work totally changed.
+[00:07:25 -> 00:07:30]  We'll talk about this multiple times in this lecture, okay?
+[00:07:30 -> 00:07:35]  Another megatrend, which you probably have heard of, demographic changes.
+[00:07:35 -> 00:07:40]  You all know these pyramids, yeah, these age pyramids, show that, and we have more and
+[00:07:40 -> 00:07:45]  more older people, there's younger people, this age pyramid, which rather looks like
+[00:07:45 -> 00:07:55]  a journal, yeah, a demographic journal.
+[00:07:55 -> 00:07:57]  Here is a different slide, yeah?
+[00:07:57 -> 00:08:00]  I think this is more relevant.
+[00:08:00 -> 00:08:09]  What you can see here, this red line, these are those in the age of 25 to 34, and the
+[00:08:09 -> 00:08:18]  question is, in 2015, in 2020, and so on, how many people will we have in this age,
+[00:08:18 -> 00:08:22]  yeah, compared to 2010?
+[00:08:22 -> 00:08:31]  So here is zero, okay, and we'll see that until 2015, this population increases, so
+[00:08:31 -> 00:08:38]  we will have more people in this particular age, and then the amount of people in this
+[00:08:38 -> 00:08:47]  age will decrease, and as a rule of thumb, it's about 1% in a year, yeah?
+[00:08:47 -> 00:08:55]  It's not 1% in a decade, or 1% in a century, it's 1% in a year, and this is really true,
+[00:08:55 -> 00:08:56]  yeah?
+[00:08:56 -> 00:09:01]  I mean, who of you has been in Istanbul already?
+[00:09:01 -> 00:09:05]  You must go there, it's amazing, it's a young city, yeah?
+[00:09:05 -> 00:09:12]  You walk through Istanbul, it's really young, a crowd of young people, it's a party, yeah?
+[00:09:12 -> 00:09:16]  And then, you walk through Schwenningen, yeah?
+[00:09:16 -> 00:09:25]  Tuesday, 11 o'clock in the morning, and you will see the difference, yeah?
+[00:09:25 -> 00:09:32]  Germany gets old, yeah, and that's the same with many Western industries, okay?
+[00:09:32 -> 00:09:39]  Especially when you look at the group of 65 plus, this line, yeah?
+[00:09:39 -> 00:09:43]  It's growing steady, yeah?
+[00:09:43 -> 00:09:54]  Or look at the population 50 to 64, this one, it's growing in the next 10 years, 10, 15
+[00:09:54 -> 00:09:57]  years dramatically, what does that mean?
+[00:09:57 -> 00:10:01]  For human resource, what does that mean?
+[00:10:02 -> 00:10:07]  These people will retire, okay?
+[00:10:07 -> 00:10:13]  And when they will retire, you have to replace these people, okay?
+[00:10:13 -> 00:10:20]  Companies lose very experienced people in the next few years, a lot of them, so you
+[00:10:20 -> 00:10:23]  have to have new people, yeah?
+[00:10:23 -> 00:10:29]  But they are getting less and less, so this is the problem I'm talking about, yeah?
+[00:10:29 -> 00:10:35]  If you have a demographic change, and it's the same in many Western industries, and this
+[00:10:35 -> 00:10:41]  demographic change will lead to something that we call a talent shortage.
+[00:10:41 -> 00:10:45]  Talent shortage, fuck that, you know?
+[00:10:45 -> 00:10:50]  There are not enough people out there, okay?
+[00:10:50 -> 00:10:57]  Qualified people, and as I said, companies more and more need qualified people, because
+[00:10:58 -> 00:11:03]  the world is changing from a world where we work with the hands to the world where we
+[00:11:03 -> 00:11:07]  work with the brain, okay?
+[00:11:07 -> 00:11:11]  So these are already two trends.
+[00:11:11 -> 00:11:16]  And next trend, globalization, yeah?
+[00:11:16 -> 00:11:21]  This is the term in global trade development, yeah?
+[00:11:21 -> 00:11:27]  In the last few years, and it's dramatically increasing.
+[00:11:27 -> 00:11:34]  Global trade, so we know that Germany is a company that primarily exports products.
+[00:11:34 -> 00:11:38]  And this is not only the case for Germany, I mean, Germany is the leader in that.
+[00:11:38 -> 00:11:44]  But it's the same, you have the same pattern for most other Western industries, yeah?
+[00:11:44 -> 00:11:51]  So today, nations produce their products to export them.
+[00:11:51 -> 00:11:54]  We got a global market.
+[00:11:55 -> 00:12:01]  And this is really different today compared to, let's say, 10 or 20 years, yeah?
+[00:12:01 -> 00:12:03]  So it's really changing.
+[00:12:03 -> 00:12:06]  What does that mean for the people?
+[00:12:06 -> 00:12:13]  If you look at the company, even a small or mid-sized company here in the middle of Black Forest,
+[00:12:13 -> 00:12:20]  it might be a small company, but you can assume that even small companies in the middle of nowhere,
+[00:12:20 -> 00:12:28]  they act globally, because their customers are beyond German borders, okay?
+[00:12:28 -> 00:12:32]  So globalization is a key trend.
+[00:12:32 -> 00:12:36]  There is a book which is really great by Thomas Friedman,
+[00:12:36 -> 00:12:39]  The World is Flat.
+[00:12:39 -> 00:12:41]  And he writes about globalization.
+[00:12:41 -> 00:12:44]  And there was one story which I especially like.
+[00:12:44 -> 00:12:49]  He said, you all know McDonald's drive-in, yeah?
+[00:12:49 -> 00:12:54]  If you drive to a McDonald's drive-in in the States,
+[00:12:54 -> 00:12:59]  you come to this place where you have to make your order, right?
+[00:12:59 -> 00:13:01]  There's a person talking to you.
+[00:13:01 -> 00:13:03]  Your order, please.
+[00:13:03 -> 00:13:09]  And you assume that this person you just talk with is sitting in this restaurant.
+[00:13:09 -> 00:13:11]  No, this is probably not the case.
+[00:13:11 -> 00:13:14]  The person you talk with is sitting in India.
+[00:13:15 -> 00:13:19]  There is no need that this person,
+[00:13:19 -> 00:13:21]  which is taking the order,
+[00:13:21 -> 00:13:23]  sitting in this particular restaurant.
+[00:13:23 -> 00:13:25]  This is a person sitting in India,
+[00:13:25 -> 00:13:29]  taking order for very different McDonald's restaurants all over the States.
+[00:13:29 -> 00:13:33]  So give me one job, tell me one job,
+[00:13:33 -> 00:13:38]  which cannot be, let's say, outsourced, exported, yeah?
+[00:13:38 -> 00:13:40]  Okay, hairdresser.
+[00:13:40 -> 00:13:43]  But even butchers.
+[00:13:43 -> 00:13:44]  A lot of things.
+[00:13:44 -> 00:13:48]  And there's just a minor group of professions
+[00:13:48 -> 00:13:52]  that can't be outsourced to other countries.
+[00:13:52 -> 00:13:54]  That's really, really traumatic.
+[00:13:54 -> 00:13:59]  So, we will have globally diverse teams and companies.
+[00:14:01 -> 00:14:04]  The required skills of the employees change.
+[00:14:06 -> 00:14:11]  20 years ago, it was really not necessary for university graduates
+[00:14:12 -> 00:14:15]  that they had experience abroad.
+[00:14:16 -> 00:14:19]  When I studied, that didn't mean a thing.
+[00:14:19 -> 00:14:21]  Today, it's a must.
+[00:14:22 -> 00:14:24]  And you are on the right track,
+[00:14:24 -> 00:14:26]  because you will spend some time abroad.
+[00:14:26 -> 00:14:28]  It became so important.
+[00:14:29 -> 00:14:31]  This is something new.
+[00:14:33 -> 00:14:35]  Another mega-trend.
+[00:14:35 -> 00:14:40]  We call it Web 2.0.
+[00:14:40 -> 00:14:44]  When there is a Web 2.0,
+[00:14:44 -> 00:14:46]  probably there is also a Web 2.0.
+[00:14:46 -> 00:14:48]  What is that?
+[00:14:48 -> 00:14:49]  Oh, no, the Web.
+[00:14:49 -> 00:14:51]  It's the Internet.
+[00:14:52 -> 00:14:55]  When the Internet appeared,
+[00:14:55 -> 00:14:58]  there was a very simple model.
+[00:14:59 -> 00:15:04]  Institutions or persons, individuals,
+[00:15:04 -> 00:15:06]  they had a website.
+[00:15:06 -> 00:15:09]  It was mainly an HTML website.
+[00:15:10 -> 00:15:14]  And others could read this site.
+[00:15:17 -> 00:15:20]  One is producing the website and publishing the website.
+[00:15:20 -> 00:15:23]  And the others read the website.
+[00:15:25 -> 00:15:31]  That was the very first generation of the Web.
+[00:15:32 -> 00:15:35]  You will still find a lot of websites that work in that way.
+[00:15:36 -> 00:15:38]  The university website.
+[00:15:40 -> 00:15:43]  But it's changed.
+[00:15:44 -> 00:15:47]  It's something which we call Web 2.0.
+[00:15:48 -> 00:15:50]  The point is that,
+[00:15:51 -> 00:15:54]  let's look at websites like Wikipedia.
+[00:15:57 -> 00:16:01]  Who is producing all this content on Wikipedia?
+[00:16:01 -> 00:16:03]  Anyone can.
+[00:16:03 -> 00:16:05]  You can.
+[00:16:05 -> 00:16:07]  Everybody can write on Wikipedia
+[00:16:07 -> 00:16:09]  whatever you like.
+[00:16:09 -> 00:16:11]  Whom of you has ever written
+[00:16:11 -> 00:16:13]  written, not read,
+[00:16:13 -> 00:16:15]  written an article in Wikipedia?
+[00:16:16 -> 00:16:17]  Cool.
+[00:16:17 -> 00:16:18]  About what?
+[00:16:18 -> 00:16:19]  About a tennis player.
+[00:16:19 -> 00:16:21]  About a tennis player, yes, okay.
+[00:16:22 -> 00:16:23]  Do it.
+[00:16:23 -> 00:16:25]  It's a good experience.
+[00:16:25 -> 00:16:28]  Write an article about your home village.
+[00:16:29 -> 00:16:31]  Or about a special about your...
+[00:16:31 -> 00:16:33]  I don't know.
+[00:16:34 -> 00:16:36]  It's an interesting experience.
+[00:16:36 -> 00:16:38]  Everybody can write everything.
+[00:16:39 -> 00:16:41]  You share information on Facebook.
+[00:16:42 -> 00:16:46]  Sooner or later you will be on websites like LinkedIn.
+[00:16:48 -> 00:16:51]  You have your profiles and your contacts to others.
+[00:16:53 -> 00:16:55]  Maybe some of you will Twitter.
+[00:16:55 -> 00:16:57]  Some of you will write blogs.
+[00:16:58 -> 00:17:03]  It's no more just a few institutions who provide content.
+[00:17:03 -> 00:17:06]  It's the user who provides the content.
+[00:17:06 -> 00:17:08]  And that's a major difference.
+[00:17:10 -> 00:17:12]  You produce the content.
+[00:17:12 -> 00:17:14]  It's not Facebook that delivers the content.
+[00:17:14 -> 00:17:16]  Facebook only delivers the platform.
+[00:17:17 -> 00:17:19]  You provide the content.
+[00:17:20 -> 00:17:23]  That's why we call it user-generated content.
+[00:17:25 -> 00:17:29]  Content which is generated by the users.
+[00:17:31 -> 00:17:35]  The user became somebody
+[00:17:35 -> 00:17:37]  who really took control about the Internet.
+[00:17:37 -> 00:17:39]  About the content in the Internet.
+[00:17:40 -> 00:17:43]  And that's really relevant for human resource management.
+[00:17:43 -> 00:17:44]  Why?
+[00:17:45 -> 00:17:46]  As we will see,
+[00:17:47 -> 00:17:50]  the Web 2.0 really changed the way
+[00:17:50 -> 00:17:53]  how companies hire people.
+[00:17:54 -> 00:17:56]  We will see that social media,
+[00:17:57 -> 00:18:00]  Twitter, Facebook, LinkedIn,
+[00:18:00 -> 00:18:04]  social media got a crucial role in this.
+[00:18:05 -> 00:18:07]  We'll talk an entire session about this.
+[00:18:08 -> 00:18:12]  We learned that the way how people in companies
+[00:18:12 -> 00:18:14]  exchange ideas,
+[00:18:14 -> 00:18:16]  the way they learn,
+[00:18:16 -> 00:18:18]  the way they share their knowledge,
+[00:18:19 -> 00:18:21]  changed through Web 2.0.
+[00:18:22 -> 00:18:25]  Just think about 20 years ago,
+[00:18:25 -> 00:18:27]  we didn't have all this stuff.
+[00:18:27 -> 00:18:30]  I did study without the Internet.
+[00:18:30 -> 00:18:31]  Really.
+[00:18:32 -> 00:18:35]  I had my degree when I wrote my first email.
+[00:18:36 -> 00:18:38]  You cannot imagine.
+[00:18:38 -> 00:18:41]  I did an experiment two years ago
+[00:18:41 -> 00:18:45]  where eight students declared
+[00:18:45 -> 00:18:47]  that they will not use the Internet.
+[00:18:47 -> 00:18:52]  Neither Internet nor mobile communication
+[00:18:52 -> 00:18:53]  for one week.
+[00:18:54 -> 00:18:56]  I can recommend to do this.
+[00:18:57 -> 00:19:00]  Just skip all this for one entire week
+[00:19:00 -> 00:19:02]  and you will experience that
+[00:19:02 -> 00:19:04]  this is a different life.
+[00:19:06 -> 00:19:07]  It's hard.
+[00:19:07 -> 00:19:09]  You feel isolated.
+[00:19:10 -> 00:19:15]  You feel that you are really totally uninformed.
+[00:19:16 -> 00:19:17]  You will suffer.
+[00:19:18 -> 00:19:20]  But you will sleep more.
+[00:19:20 -> 00:19:22]  You will read more.
+[00:19:22 -> 00:19:23]  Make more sports.
+[00:19:24 -> 00:19:26]  So it's really traumatic.
+[00:19:27 -> 00:19:28]  Okay?
+[00:19:29 -> 00:19:31]  Web 2.0 changed the way
+[00:19:31 -> 00:19:34]  how we communicate with each other,
+[00:19:34 -> 00:19:36]  changed the way how we hire people,
+[00:19:36 -> 00:19:38]  how people share their knowledge.
+[00:19:38 -> 00:19:43]  It changed the way we spend our lives.
+[00:19:44 -> 00:19:47]  This is really relevant for human resource management.
+[00:19:47 -> 00:19:49]  Another megatrend, value change.
+[00:19:57 -> 00:20:00]  30 days to death, right?
+[00:20:03 -> 00:20:05]  Which one is prettier?
+[00:20:06 -> 00:20:07]  The left.
+[00:20:08 -> 00:20:09]  The right.
+[00:20:09 -> 00:20:10]  The right.
+[00:20:12 -> 00:20:14]  I think that's an old...
+[00:20:14 -> 00:20:15]  iPhone.
+[00:20:15 -> 00:20:17]  iPhone 3.
+[00:20:17 -> 00:20:20]  The role of women in society,
+[00:20:20 -> 00:20:22]  in the professional world,
+[00:20:22 -> 00:20:24]  is totally changed.
+[00:20:25 -> 00:20:27]  It's not only women.
+[00:20:28 -> 00:20:30]  It's about everything.
+[00:20:30 -> 00:20:32]  Our values change.
+[00:20:32 -> 00:20:33]  What does that mean?
+[00:20:33 -> 00:20:36]  Value is what is important to people.
+[00:20:37 -> 00:20:39]  What is important to you?
+[00:20:39 -> 00:20:40]  If I were to ask you,
+[00:20:40 -> 00:20:42]  take a piece of paper and write down
+[00:20:42 -> 00:20:44]  what is important to you.
+[00:20:45 -> 00:20:46]  If I were to ask you,
+[00:20:46 -> 00:20:48]  take a piece of paper and write down
+[00:20:48 -> 00:20:51]  three things which are important to you.
+[00:20:53 -> 00:20:55]  And then think about your parents,
+[00:20:55 -> 00:20:56]  your grandparents,
+[00:20:56 -> 00:21:01]  and think about what were important to them
+[00:21:01 -> 00:21:03]  when they were of similar age.
+[00:21:03 -> 00:21:05]  If you just do this exercise,
+[00:21:05 -> 00:21:08]  on two little pieces of paper,
+[00:21:08 -> 00:21:10]  you will immediately realize that
+[00:21:10 -> 00:21:12]  what is important to you
+[00:21:12 -> 00:21:15]  somehow differs from what was important
+[00:21:15 -> 00:21:17]  to earlier generations.
+[00:21:20 -> 00:21:23]  Work totally changed.
+[00:21:23 -> 00:21:26]  It changed what is important to the people.
+[00:21:26 -> 00:21:28]  The role of people changed.
+[00:21:29 -> 00:21:30]  The way we work,
+[00:21:30 -> 00:21:32]  the way we communicate changed.
+[00:21:35 -> 00:21:37]  Look at our university.
+[00:21:37 -> 00:21:39]  The way we build relationships
+[00:21:39 -> 00:21:41]  between students and professors
+[00:21:42 -> 00:21:43]  changed.
+[00:21:45 -> 00:21:47]  When I studied 20 years ago,
+[00:21:47 -> 00:21:49]  we would have never dared
+[00:21:49 -> 00:21:52]  to send a letter to a professor.
+[00:21:52 -> 00:21:54]  Because I was here,
+[00:21:54 -> 00:21:56]  a small, unimportant person,
+[00:21:56 -> 00:21:58]  a freckled student,
+[00:21:58 -> 00:22:00]  and then there was the professor.
+[00:22:00 -> 00:22:01]  God!
+[00:22:02 -> 00:22:05]  Today, we are more or less on the same island.
+[00:22:06 -> 00:22:07]  Hey, you have a problem?
+[00:22:07 -> 00:22:08]  Send me an email.
+[00:22:08 -> 00:22:11]  Direct communication, open door.
+[00:22:14 -> 00:22:16]  We even have a rock band.
+[00:22:17 -> 00:22:19]  Professors and students together
+[00:22:19 -> 00:22:24]  make loud and noisy and hard rock music.
+[00:22:24 -> 00:22:26]  You could not have imagined this
+[00:22:26 -> 00:22:28]  50 years ago.
+[00:22:30 -> 00:22:32]  Things change.
+[00:22:33 -> 00:22:35]  That means that
+[00:22:35 -> 00:22:38]  the way we shape our work
+[00:22:40 -> 00:22:41]  really, really changed.
+[00:22:41 -> 00:22:43]  You're going to see this.
+[00:22:44 -> 00:22:46]  Here's a kind of summary.
+[00:22:46 -> 00:22:48]  I said there are five trends
+[00:22:48 -> 00:22:50]  that really impact the world.
+[00:22:51 -> 00:22:52]  Innovation,
+[00:22:53 -> 00:22:54]  demography,
+[00:22:55 -> 00:22:56]  globalization,
+[00:22:56 -> 00:22:57]  Web 2.0,
+[00:22:57 -> 00:22:58]  value change.
+[00:22:58 -> 00:23:01]  I think these are the five major trends.
+[00:23:03 -> 00:23:04]  Of course, there are more trends
+[00:23:05 -> 00:23:06]  in the world.
+[00:23:06 -> 00:23:08]  Climate change, maybe, or some others.
+[00:23:11 -> 00:23:13]  But the important thing is that
+[00:23:13 -> 00:23:15]  all these things, as I have indicated,
+[00:23:15 -> 00:23:18]  have an impact on challenges
+[00:23:18 -> 00:23:21]  that relate to human resource management.
+[00:23:21 -> 00:23:23]  And we'll talk about these challenges
+[00:23:23 -> 00:23:25]  in much detail.
+[00:23:27 -> 00:23:29]  We will need to acquire the right talents
+[00:23:29 -> 00:23:31]  to be innovative.
+[00:23:31 -> 00:23:32]  Yeah?
+[00:23:33 -> 00:23:35]  Sorry, this is a typo.
+[00:23:35 -> 00:23:37]  Give the right rewards.
+[00:23:37 -> 00:23:38]  Yeah?
+[00:23:38 -> 00:23:40]  Maybe in terms of compensation
+[00:23:40 -> 00:23:42]  or other privileges.
+[00:23:43 -> 00:23:46]  We have to support lifelong learning.
+[00:23:47 -> 00:23:49]  It's not the case that
+[00:23:49 -> 00:23:51]  you do your education
+[00:23:51 -> 00:23:52]  and you're finished
+[00:23:52 -> 00:23:53]  and then you have
+[00:23:53 -> 00:23:55]  the entire qualification
+[00:23:55 -> 00:23:56]  that you need for the rest of your life.
+[00:23:56 -> 00:23:57]  No.
+[00:23:57 -> 00:23:59]  You will need to learn
+[00:24:00 -> 00:24:01]  for your entire life.
+[00:24:01 -> 00:24:02]  Yeah?
+[00:24:02 -> 00:24:03]  You have to leverage
+[00:24:03 -> 00:24:04]  employee potential.
+[00:24:04 -> 00:24:06]  Find their talents.
+[00:24:06 -> 00:24:07]  Yeah?
+[00:24:07 -> 00:24:09]  Support diversity.
+[00:24:09 -> 00:24:11]  Of course, we are in a global world.
+[00:24:12 -> 00:24:13]  The customers are global.
+[00:24:13 -> 00:24:15]  We have to be global.
+[00:24:17 -> 00:24:18]  We have to have women
+[00:24:18 -> 00:24:20]  in leadership positions.
+[00:24:20 -> 00:24:21]  Oh, that means we have to have
+[00:24:21 -> 00:24:23]  more diversity on the workplace.
+[00:24:24 -> 00:24:27]  Build successors for key positions.
+[00:24:27 -> 00:24:28]  We're going to talk about this
+[00:24:28 -> 00:24:29]  in much detail.
+[00:24:29 -> 00:24:30]  We have to retain
+[00:24:30 -> 00:24:31]  and share knowledge
+[00:24:31 -> 00:24:33]  because knowledge became key
+[00:24:34 -> 00:24:35]  for most companies.
+[00:24:35 -> 00:24:36]  Why?
+[00:24:36 -> 00:24:37]  Because innovation.
+[00:24:37 -> 00:24:38]  Okay?
+[00:24:39 -> 00:24:40]  We have to shape attractive
+[00:24:40 -> 00:24:41]  work conditions
+[00:24:41 -> 00:24:43]  so that you really attract
+[00:24:43 -> 00:24:44]  the right people
+[00:24:44 -> 00:24:45]  so that they apply.
+[00:24:47 -> 00:24:49]  Things change inside companies.
+[00:24:49 -> 00:24:51]  We have big strategic changes
+[00:24:51 -> 00:24:52]  which we need to manage.
+[00:24:53 -> 00:24:54]  We'll talk about this
+[00:24:54 -> 00:24:55]  for two sessions.
+[00:24:56 -> 00:24:58]  We use latest technology
+[00:24:59 -> 00:25:00]  even in HR.
+[00:25:00 -> 00:25:01]  Yeah?
+[00:25:01 -> 00:25:02]  We use iPad.
+[00:25:02 -> 00:25:03]  We use modern software
+[00:25:03 -> 00:25:05]  to do human resource management
+[00:25:05 -> 00:25:06]  related things.
+[00:25:07 -> 00:25:08]  Of course, we have to retain
+[00:25:08 -> 00:25:09]  the best talent.
+[00:25:09 -> 00:25:10]  And so on.
+[00:25:10 -> 00:25:11]  This list is not complete
+[00:25:11 -> 00:25:12]  but you can see that
+[00:25:12 -> 00:25:14]  from all these mega trends
+[00:25:15 -> 00:25:18]  we can say that
+[00:25:18 -> 00:25:20]  there are specific challenges
+[00:25:20 -> 00:25:22]  which are special today
+[00:25:23 -> 00:25:25]  which were not as big
+[00:25:25 -> 00:25:27]  10 or 20 years ago.
+[00:25:27 -> 00:25:29]  And we do all this
+[00:25:29 -> 00:25:31]  at the end
+[00:25:31 -> 00:25:34]  to ensure the competitive position,
+[00:25:34 -> 00:25:36]  the competitive advantage
+[00:25:36 -> 00:25:37]  of a company.
+[00:25:38 -> 00:25:39]  Okay?
+[00:25:41 -> 00:25:42]  So,
+[00:25:43 -> 00:25:44]  here is the definition.
+[00:25:45 -> 00:25:46]  Yeah?
+[00:25:46 -> 00:25:48]  Don't learn this by heart.
+[00:25:48 -> 00:25:49]  Yeah?
+[00:25:50 -> 00:25:51]  But,
+[00:25:51 -> 00:25:52]  if I would show you
+[00:25:52 -> 00:25:54]  this definition in the exam,
+[00:25:55 -> 00:25:56]  I could imagine
+[00:25:56 -> 00:25:57]  explain this.
+[00:25:57 -> 00:25:59]  Explain it in your own words.
+[00:26:00 -> 00:26:01]  Okay?
+[00:26:01 -> 00:26:02]  And many things
+[00:26:02 -> 00:26:04]  which I have written here
+[00:26:04 -> 00:26:06]  we have already discussed today.
+[00:26:06 -> 00:26:07]  Yeah?
+[00:26:10 -> 00:26:11]  You know,
+[00:26:11 -> 00:26:13]  the first part is easy.
+[00:26:14 -> 00:26:16]  It's about management.
+[00:26:16 -> 00:26:17]  Management,
+[00:26:17 -> 00:26:19]  it's a term which you
+[00:26:19 -> 00:26:20]  hear a lot of times
+[00:26:20 -> 00:26:21]  during your studies
+[00:26:21 -> 00:26:23]  and during your entire career.
+[00:26:23 -> 00:26:24]  Management.
+[00:26:24 -> 00:26:25]  What is management?
+[00:26:26 -> 00:26:28]  Whenever somebody says
+[00:26:28 -> 00:26:29]  management,
+[00:26:29 -> 00:26:31]  customer relationship management,
+[00:26:31 -> 00:26:32]  quality management,
+[00:26:32 -> 00:26:34]  health management,
+[00:26:34 -> 00:26:35]  facility management,
+[00:26:35 -> 00:26:36]  management,
+[00:26:36 -> 00:26:37]  management.
+[00:26:37 -> 00:26:38]  Yeah?
+[00:26:38 -> 00:26:40]  Management always means
+[00:26:40 -> 00:26:42]  planned and controlled.
+[00:26:43 -> 00:26:44]  Okay?
+[00:26:44 -> 00:26:45]  Planned and controlled.
+[00:26:45 -> 00:26:46]  So,
+[00:26:46 -> 00:26:47]  all planned and controlled
+[00:26:47 -> 00:26:48]  in brackets,
+[00:26:48 -> 00:26:49]  managed.
+[00:26:49 -> 00:26:50]  All planned and controlled
+[00:26:50 -> 00:26:51]  activities of
+[00:26:51 -> 00:26:52]  and what?
+[00:26:52 -> 00:26:53]  Organization.
+[00:26:53 -> 00:26:54]  Why do I say
+[00:26:54 -> 00:26:55]  organization
+[00:26:55 -> 00:26:56]  and not company?
+[00:26:56 -> 00:26:57]  Because,
+[00:26:57 -> 00:26:58]  I mean,
+[00:26:59 -> 00:27:00]  is
+[00:27:05 -> 00:27:06]  is the Red Cross
+[00:27:06 -> 00:27:07]  is that a company?
+[00:27:07 -> 00:27:08]  No,
+[00:27:08 -> 00:27:09]  it's an organization.
+[00:27:09 -> 00:27:10]  It's an organization.
+[00:27:10 -> 00:27:11]  This university is not a company.
+[00:27:11 -> 00:27:12]  It's an organization.
+[00:27:12 -> 00:27:13]  UNICEF,
+[00:27:13 -> 00:27:14]  it's an organization.
+[00:27:15 -> 00:27:16]  Yeah?
+[00:27:16 -> 00:27:17]  The UNO,
+[00:27:17 -> 00:27:18]  it's an organization.
+[00:27:18 -> 00:27:19]  The Christian Demographic Union,
+[00:27:19 -> 00:27:20]  CDU in Germany,
+[00:27:20 -> 00:27:21]  party,
+[00:27:21 -> 00:27:22]  is
+[00:27:22 -> 00:27:23]  an organization.
+[00:27:23 -> 00:27:24]  But every company
+[00:27:25 -> 00:27:26]  is also
+[00:27:26 -> 00:27:27]  an organization.
+[00:27:27 -> 00:27:28]  So,
+[00:27:28 -> 00:27:29]  I rather use this term
+[00:27:29 -> 00:27:30]  organization.
+[00:27:30 -> 00:27:31]  It's about
+[00:27:31 -> 00:27:32]  planned and controlled
+[00:27:32 -> 00:27:33]  activities
+[00:27:33 -> 00:27:34]  of an organization
+[00:27:34 -> 00:27:35]  to do what?
+[00:27:35 -> 00:27:36]  To build
+[00:27:36 -> 00:27:37]  and maintain
+[00:27:37 -> 00:27:38]  the relation
+[00:27:38 -> 00:27:39]  between
+[00:27:39 -> 00:27:40]  employees
+[00:27:40 -> 00:27:41]  and the company.
+[00:27:41 -> 00:27:42]  Yeah?
+[00:27:42 -> 00:27:43]  Or the organization.
+[00:27:43 -> 00:27:44]  To be more
+[00:27:44 -> 00:27:45]  concrete.
+[00:27:45 -> 00:27:46]  Relation.
+[00:27:46 -> 00:27:47]  What does that mean?
+[00:27:47 -> 00:27:48]  I mean,
+[00:27:48 -> 00:27:49]  at one point
+[00:27:49 -> 00:27:50]  of time,
+[00:27:50 -> 00:27:51]  you
+[00:27:51 -> 00:27:52]  you
+[00:27:52 -> 00:27:53]  you
+[00:27:53 -> 00:27:54]  you
+[00:27:54 -> 00:27:55]  you
+[00:27:55 -> 00:27:56]  you
+[00:27:56 -> 00:27:57]  you
+[00:27:57 -> 00:27:58]  you
+[00:27:58 -> 00:27:59]  apply,
+[00:27:59 -> 00:28:00]  yeah?
+[00:28:00 -> 00:28:01]  You
+[00:28:01 -> 00:28:02]  want to work
+[00:28:02 -> 00:28:03]  at a company.
+[00:28:03 -> 00:28:04]  This is the
+[00:28:04 -> 00:28:05]  start of a
+[00:28:05 -> 00:28:06]  relation.
+[00:28:06 -> 00:28:07]  Or maybe the company
+[00:28:07 -> 00:28:08]  wants to hire
+[00:28:08 -> 00:28:09]  you.
+[00:28:09 -> 00:28:10]  This is the
+[00:28:10 -> 00:28:11]  start of a
+[00:28:11 -> 00:28:12]  relation.
+[00:28:12 -> 00:28:13]  Then you work
+[00:28:13 -> 00:28:14]  with a company
+[00:28:14 -> 00:28:15]  or with the
+[00:28:15 -> 00:28:16]  organization.
+[00:28:16 -> 00:28:17]  You give.
+[00:28:17 -> 00:28:18]  You give your
+[00:28:18 -> 00:28:19]  health.
+[00:28:19 -> 00:28:20]  You give your
+[00:28:20 -> 00:28:21]  time.
+[00:28:21 -> 00:28:22]  You give your
+[00:28:22 -> 00:28:23]  performance.
+[00:28:23 -> 00:28:28]  And if you are strong, the company wants to retain you,
+[00:28:28 -> 00:28:30]  doesn't want to lose you.
+[00:28:30 -> 00:28:32]  So this is all about this relation
+[00:28:32 -> 00:28:37]  between the people and the organization.
+[00:28:37 -> 00:28:39]  To do what?
+[00:28:39 -> 00:28:46]  To meet objectives of the organization.
+[00:28:46 -> 00:28:52]  Could be revenue, can be profit, can be whatever, quality,
+[00:28:52 -> 00:28:54]  and so on.
+[00:28:54 -> 00:28:55]  But not only this.
+[00:28:55 -> 00:29:01]  Organizations are not only there to achieve the organization's
+[00:29:01 -> 00:29:02]  objectives.
+[00:29:02 -> 00:29:08]  The people work there to get something else,
+[00:29:08 -> 00:29:16]  to learn, to feed their children, and all this stuff.
+[00:29:16 -> 00:29:17]  So it's about both.
+[00:29:17 -> 00:29:20]  Now, we will see this through the entire lecture.
+[00:29:20 -> 00:29:22]  It's always about both.
+[00:29:22 -> 00:29:24]  Both sides.
+[00:29:24 -> 00:29:27]  And these two things must be in balance.
+[00:29:27 -> 00:29:31]  So before we make a short break, here
+[00:29:31 -> 00:29:34]  is an overview for the next two semesters.
+[00:29:37 -> 00:29:42]  I name it HR Landscape, HRM Landscape.
+[00:29:42 -> 00:29:44]  So here is the organization.
+[00:29:45 -> 00:29:48]  All right?
+[00:29:48 -> 00:29:56]  And the first thing we talk about is the HR strategy.
+[00:29:56 -> 00:30:01]  What is necessary in human resource management
+[00:30:01 -> 00:30:09]  in the upcoming years to succeed and to plan this accordingly?
+[00:30:09 -> 00:30:10]  This is a starting point.
+[00:30:10 -> 00:30:13]  We're going to talk about this.
+[00:30:13 -> 00:30:16]  Coming from there, once we know how many people we
+[00:30:16 -> 00:30:18]  need in the future, what kind of competencies
+[00:30:18 -> 00:30:21]  we need in the future, blah, blah, blah, blah, blah,
+[00:30:21 -> 00:30:24]  now we start to acquire talent.
+[00:30:24 -> 00:30:27]  Talent acquisition.
+[00:30:27 -> 00:30:29]  Recruiting.
+[00:30:29 -> 00:30:33]  How to hire people, how to find the right people,
+[00:30:33 -> 00:30:38]  how to present a company as an attractive employer.
+[00:30:38 -> 00:30:40]  This is what we're going to talk about.
+[00:30:40 -> 00:30:45]  For, I would say, two or so sessions.
+[00:30:45 -> 00:30:48]  Of course, you all know the job ad.
+[00:30:48 -> 00:30:53]  But the job ad does not work for any jobs,
+[00:30:53 -> 00:30:58]  especially for the most important jobs.
+[00:30:58 -> 00:31:02]  The job ads, job advertisements, don't work anymore.
+[00:31:02 -> 00:31:03]  Because of what?
+[00:31:03 -> 00:31:08]  Because of the talent shortage, which I have just mentioned.
+[00:31:08 -> 00:31:12]  So we have to have some different methods
+[00:31:12 -> 00:31:15]  and strategies here.
+[00:31:15 -> 00:31:22]  So once candidates apply, they will be selected.
+[00:31:22 -> 00:31:26]  Imagine you have a couple of applications.
+[00:31:26 -> 00:31:28]  You are in a lucky situation that you
+[00:31:28 -> 00:31:33]  can choose among different applicants which one is the best.
+[00:31:33 -> 00:31:37]  So for this, we do interviews, we do assessment centers,
+[00:31:37 -> 00:31:39]  tests, and all this stuff.
+[00:31:39 -> 00:31:41]  We're going to talk about this.
+[00:31:41 -> 00:31:46]  What are the commonly used methods here?
+[00:31:46 -> 00:31:54]  How can I tell whether a selection method is good or worse?
+[00:31:54 -> 00:32:00]  And then people start working and get paid.
+[00:32:00 -> 00:32:05]  So we're going to talk about money, compensation,
+[00:32:05 -> 00:32:08]  and benefits.
+[00:32:08 -> 00:32:13]  How can a company determine individual salaries,
+[00:32:13 -> 00:32:15]  for instance?
+[00:32:15 -> 00:32:18]  What are the commonly shared benefits in companies?
+[00:32:18 -> 00:32:21]  And why do companies share benefits?
+[00:32:21 -> 00:32:26]  Company car, insurances, and all this stuff.
+[00:32:26 -> 00:32:30]  So we're going to spend one or two sessions around comp
+[00:32:30 -> 00:32:34]  and ben, as we say.
+[00:32:34 -> 00:32:39]  Then we walk over here.
+[00:32:39 -> 00:32:45]  Nowadays, people in companies have to learn.
+[00:32:45 -> 00:32:49]  You will learn through your entire life.
+[00:32:49 -> 00:32:51]  You will never stop learning.
+[00:32:51 -> 00:32:56]  Once you feel that in your job you stop learning,
+[00:32:56 -> 00:32:59]  quit the job, really.
+[00:32:59 -> 00:33:01]  You have to learn every day.
+[00:33:01 -> 00:33:04]  It's so important.
+[00:33:04 -> 00:33:08]  Once you stop learning, you start to lose.
+[00:33:08 -> 00:33:09]  So learning.
+[00:33:09 -> 00:33:11]  We're going to talk about training,
+[00:33:11 -> 00:33:14]  how to set up a training, how to design a training.
+[00:33:14 -> 00:33:18]  But we also talk about some alternative ways of learning,
+[00:33:18 -> 00:33:22]  learning through the web, learning from others,
+[00:33:22 -> 00:33:24]  informal learning, and all this stuff.
+[00:33:24 -> 00:33:28]  So learning is about the short-term knowledge
+[00:33:28 -> 00:33:31]  acquisition, so to speak.
+[00:33:31 -> 00:33:35]  It's about, I learned how to use Excel.
+[00:33:35 -> 00:33:37]  I learned how to use a pivot table in Excel.
+[00:33:41 -> 00:33:45]  The other thing is your long-term development,
+[00:33:45 -> 00:33:50]  which is presented here.
+[00:33:50 -> 00:33:54]  Talent development.
+[00:33:54 -> 00:33:59]  If you are strong in the company you work for,
+[00:33:59 -> 00:34:03]  you might belong to the 5% to 10% people
+[00:34:03 -> 00:34:07]  which are considered as high potentials, the most
+[00:34:07 -> 00:34:09]  talented people in the company.
+[00:34:09 -> 00:34:12]  And once you are identified as the most talented people
+[00:34:12 -> 00:34:17]  in a company, you get some systematic support.
+[00:34:17 -> 00:34:18]  You're going to learn.
+[00:34:18 -> 00:34:21]  You will get some special challenges.
+[00:34:21 -> 00:34:26]  You might get support by a mentor, a director, and so on.
+[00:34:26 -> 00:34:29]  So we're going to talk about how companies
+[00:34:29 -> 00:34:36]  build their future leaders, and how companies support
+[00:34:36 -> 00:34:41]  the career of the most talented people.
+[00:34:41 -> 00:34:44]  And that's it for this semester.
+[00:34:49 -> 00:34:53]  In your fourth semester, we have quite a long break.
+[00:34:53 -> 00:34:56]  We're going to talk about the workplace as such,
+[00:34:56 -> 00:35:00]  how to shape the workplace in the future,
+[00:35:00 -> 00:35:02]  how to retain talented people.
+[00:35:02 -> 00:35:04]  We're going to talk about change management.
+[00:35:04 -> 00:35:08]  And here, we have all these things
+[00:35:08 -> 00:35:12]  that you need to have to run human resource
+[00:35:12 -> 00:35:14]  management successfully.
+[00:35:14 -> 00:35:18]  You have to have an organization, HR, IT.
+[00:35:19 -> 00:35:25]  Information technology, social media, and HR controlling.
+[00:35:25 -> 00:35:27]  So this is the entire picture.
+[00:35:27 -> 00:35:33]  And again, my promise is that first, this picture really
+[00:35:33 -> 00:35:36]  reflects modern human resource management.
+[00:35:36 -> 00:35:39]  And you will be able to talk about all these things.
+[00:35:39 -> 00:35:43]  And you have a modern, current understanding
+[00:35:43 -> 00:35:45]  about all these concepts.

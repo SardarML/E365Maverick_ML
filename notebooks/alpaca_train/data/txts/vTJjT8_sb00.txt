@@ -1,0 +1,76 @@
+[00:00:00 -> 00:00:06]  how you guys I'm back I'm now going to go through how to calculate distance I
+[00:00:06 -> 00:00:13]  took another map that has it's a bit bigger and I'm sure we we will be able
+[00:00:13 -> 00:00:18]  to do it now okay just to be clear I'm gonna just because it's going into the
+[00:00:18 -> 00:00:23]  next question I'm going to calculate the distance of the dark line that you see
+[00:00:23 -> 00:00:30]  there at the bottom okay I'm using a plain ruler a small one they usually
+[00:00:30 -> 00:00:33]  don't ask you something that's more than 15 centimeters but you can either use a
+[00:00:33 -> 00:00:40]  15 centimeters or a 30 centimeter ruler I prefer that it is usually clear but I
+[00:00:40 -> 00:00:45]  don't have a clear one and in home now so I'm just using the one that I that I
+[00:00:45 -> 00:00:49]  do have on hand so if we want to calculate the distance from of that line
+[00:00:49 -> 00:00:54]  there usually it will be from one line to another or from one number to another
+[00:00:54 -> 00:01:00]  if they ask you perhaps from M to E or something like that they usually will be
+[00:01:00 -> 00:01:07]  an arrow when you measure from an arrow you usually do it from the point there
+[00:01:07 -> 00:01:12]  the point of the arrow not anywhere else it's from the point of an arrow to
+[00:01:12 -> 00:01:17]  another place if it's like a trigonometry beacon it will be in the
+[00:01:17 -> 00:01:23]  middle of that but I'll do that when we do the gradient so if we calculate the
+[00:01:23 -> 00:01:29]  distance the first thing that we need to do is we need to measure from the one
+[00:01:29 -> 00:01:33]  side to the other side in this case if you measure it you will see it is seven
+[00:01:33 -> 00:01:41]  comma three centimeters so you will just start and say okay seven comma three
+[00:01:41 -> 00:01:47]  centimeters but now you need to figure out by what do I multiply this now I
+[00:01:47 -> 00:01:54]  usually told my kids and you guys are my kids now you draw yourself this table it
+[00:01:54 -> 00:02:03]  consists of three columns and three rows this row is when you take it to meter
+[00:02:03 -> 00:02:11]  and this row is when you take it to kilometer this will be a topographical
+[00:02:11 -> 00:02:18]  which is 1 to 50,000 and this will be your ortho which will be 1 to 10,000
+[00:02:18 -> 00:02:23]  okay so if they say you can start with the exam the first thing that you do on
+[00:02:23 -> 00:02:26]  the front page is you just draw yourself this block it's going to save you a
+[00:02:26 -> 00:02:33]  major a lot of time with meters you know it will be multiplied by 500 and
+[00:02:33 -> 00:02:39]  kilometers will be multiplied by 0 comma 5 on the ortho photo meters will be
+[00:02:39 -> 00:02:47]  multiplied by 100 and your kilometers will be multiplied by 0 comma 1 okay so
+[00:02:47 -> 00:02:51]  if you have this then you will know what to do well as we are working on the
+[00:02:51 -> 00:02:56]  topographical map the colored one we are going to go to meters in this case and I
+[00:02:56 -> 00:03:04]  want to calculate what is the distance of that line in actual life in meters
+[00:03:04 -> 00:03:12]  okay so we did measure it it's 7 comma 3 centimeters you just say multiply by 500
+[00:03:12 -> 00:03:16]  and you will get the answer take your calculator most of you have this one I
+[00:03:16 -> 00:03:23]  do prefer it so I'm going to use it when I do the the videos you're going to say
+[00:03:23 -> 00:03:29]  7.3 multiplied by 500 you're going to get the answer of three six five zero
+[00:03:29 -> 00:03:40]  three six five zero meters okay if it was two kilometers you would have said
+[00:03:40 -> 00:03:48]  seven comma three centimeters multiplied by zero comma five and you would have
+[00:03:48 -> 00:03:57]  gotten three comma six five kilometers all right so please just make sure what
+[00:03:57 -> 00:04:02]  does the question ask this question ask in meters or in kilometers highlighted
+[00:04:02 -> 00:04:07]  marker just make sure that you know to what do you work and please remember the
+[00:04:07 -> 00:04:12]  unit at the end if the unit is not there you're not going to get the mark okay so
+[00:04:12 -> 00:04:18]  if you know how to calculate the distance then calculating the area will
+[00:04:18 -> 00:04:26]  be very easy please remember yes the formula for this is area equals length
+[00:04:26 -> 00:04:32]  times breadth that's the easy part but you need to know what the length and
+[00:04:32 -> 00:04:38]  what the breadth are so you need to first calculate what is the length of
+[00:04:38 -> 00:04:49]  the area that you're going to do and what is the breadth okay we already did
+[00:04:49 -> 00:04:55]  calculate the breadth from that side to that side so we do have the breadth and
+[00:04:55 -> 00:05:01]  I'm just going to write it again that's when you did and you said seven comma
+[00:05:01 -> 00:05:07]  three centimeters and this one is four meters I'm going to do it in meters yes
+[00:05:07 -> 00:05:12]  I'm going to say seven comma three multiplied by 500 and that gives you
+[00:05:12 -> 00:05:21]  three six five zero meters with the length again you take your ruler and you
+[00:05:21 -> 00:05:33]  measure you will see it is six comma I think it's six in this case so you will
+[00:05:33 -> 00:05:47]  say six comma six centimeters multiplied by 500 and that will give you three
+[00:05:47 -> 00:05:53]  thousand three hundred meters this if you've watched Afrikaans one and the
+[00:05:53 -> 00:05:57]  English one you will see that there might be a measuring difference in the
+[00:05:57 -> 00:06:02]  two just how I saw it at that stage remember in the test I will give you a
+[00:06:02 -> 00:06:07]  leniency and I will give you more clarity on what you should do in the
+[00:06:07 -> 00:06:12]  test just to make sure you get your marks okay now we get back to the the
+[00:06:12 -> 00:06:16]  formula you write it again you say area equals length times breadth now you take
+[00:06:16 -> 00:06:24]  the answer and you substitute so you say three thousand three hundred meters
+[00:06:24 -> 00:06:30]  multiplied by three thousand six hundred and fifty meters and you will get the
+[00:06:30 -> 00:06:41]  answer of one two zero four five one two three do not have a heart attack when
+[00:06:41 -> 00:06:46]  you see it's a big number just write it down that is your answer you just write
+[00:06:46 -> 00:06:52]  it down if you did work with if the question was in kilometers please note
+[00:06:52 -> 00:06:58]  my unit just note the unit if you worked in kilometers your length would have
+[00:06:58 -> 00:07:02]  been six comma six multiplied by zero comma five that would have been three
+[00:07:02 -> 00:07:07]  comma three kilometers and the breadth would have been seven comma three
+[00:07:07 -> 00:07:11]  centimeters multiplied by zero comma five and that would have been three
+[00:07:11 -> 00:07:20]  comma six five kilometers when you do the substitution you will say area
+[00:07:20 -> 00:07:26]  equals length times the breadth which is three comma three kilometers multiplied
+[00:07:26 -> 00:07:35]  by three comma six five kilometers and that will give you the answer of one two
+[00:07:35 -> 00:07:40]  comma zero four five kilometers you would have seen if you did this on the
+[00:07:40 -> 00:07:47]  calculator your first answer would have been in a fraction you can't write the
+[00:07:47 -> 00:07:52]  fraction as an answer you use that button the S turn to D SD with the
+[00:07:52 -> 00:07:57]  moment that you push it it will put it into a decimal and then you can just
+[00:07:57 -> 00:08:05]  write the decimal answer now please remember that it is squared at the end

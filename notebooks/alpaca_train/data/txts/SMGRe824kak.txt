@@ -1,0 +1,50 @@
+[00:00:00 -> 00:00:19]  The scientific method is about ordinary people doing ordinary things. That includes you,
+[00:00:19 -> 00:00:24]  me, and other scientists in the world. The scientific method is just a process or steps
+[00:00:24 -> 00:00:29]  taken to produce reliable results to answer a specific question. Maybe you think you don't
+[00:00:29 -> 00:00:34]  use a scientific method in your life, but I can guarantee that you do. For example,
+[00:00:34 -> 00:00:37]  imagine you wake up on a Saturday and you couldn't find your cell phone. That's an
+[00:00:37 -> 00:00:42]  observation. Then you do a little research by thinking about the last time you had it.
+[00:00:42 -> 00:00:47]  You suspect that it might be in the pocket of your pants from yesterday. That's a hypothesis.
+[00:00:47 -> 00:00:51]  And when you check your pants, you're doing an experiment. But science and life don't
+[00:00:51 -> 00:00:55]  always go as planned, and you find no cell phone in your pants pocket. So the second
+[00:00:55 -> 00:01:00]  observation leads you to think again and recall what else you did yesterday. You remember
+[00:01:00 -> 00:01:04]  that you put your cell phone in your backpack during school. So you decide it must be there,
+[00:01:04 -> 00:01:09]  and you go and check. And lo, there it is. Life can continue, and you're so happy that
+[00:01:09 -> 00:01:13]  you share the results with your best friend and explain why it took you so long to text
+[00:01:13 -> 00:01:18]  them back. Science.
+[00:01:18 -> 00:01:23]  These are the steps of the scientific method. And at any step, you can go back and repeat
+[00:01:23 -> 00:01:28]  the process. Typically, after you conduct an experiment and conclude that your results
+[00:01:28 -> 00:01:34]  aren't answering the question, you go back and try something else. And really, truly,
+[00:01:34 -> 00:01:40]  observations and research are going on the entire time. Science is a continually ongoing
+[00:01:40 -> 00:01:45]  process. Now let's break down each of these steps into their component parts.
+[00:01:45 -> 00:01:49]  All that can be observed with the five senses are included in observations. You use your
+[00:01:49 -> 00:01:57]  sense of smell, sight, taste, touch, and hearing to make your observations in science.
+[00:01:57 -> 00:02:01]  Research is an important step in science because it may answer other questions you have and
+[00:02:01 -> 00:02:05]  help refine your experiment before you go down a path that leads to nowhere or conduct
+[00:02:05 -> 00:02:10]  an experiment that's already been done. Make sure you use reliable sources to learn background
+[00:02:10 -> 00:02:16]  information. Scientific journals and online sources that are vetted and trusted are best.
+[00:02:16 -> 00:02:20]  Avoid information from blogs and out-of-date textbooks, as the information might not be
+[00:02:20 -> 00:02:22]  reliable.
+[00:02:22 -> 00:02:26]  Once you have your research completed, you can form your hypothesis, which is a prediction
+[00:02:26 -> 00:02:31]  of what you believe will occur. It is often seen as an if-then statement and is very specific.
+[00:02:31 -> 00:02:36]  Here's an example. If gummy bears are placed in water for 24 hours, then they will swell
+[00:02:36 -> 00:02:41]  to over twice their original size. It has an if and a then, and uses specific terms
+[00:02:41 -> 00:02:45]  that make this experiment repeatable.
+[00:02:45 -> 00:02:50]  The experiment itself is made of several parts. Most experiments collect two types of data,
+[00:02:50 -> 00:02:56]  qualitative and quantitative. Qualitative data relies on descriptions, like soft, yellow,
+[00:02:56 -> 00:03:03]  shiny, or wet. Quantitative data relies on numbers, like 25 centimeters or 2.3 grams.
+[00:03:03 -> 00:03:06]  Once you know what types of data you're going to collect, you can define the variables in
+[00:03:06 -> 00:03:10]  your experiment. There is the independent variable, which is the thing you change to
+[00:03:10 -> 00:03:15]  see how it affects your dependent variable, which is the thing you measure. So in the
+[00:03:15 -> 00:03:19]  gummy bear example, the change in the experiment is that the gummy bears are being placed in
+[00:03:19 -> 00:03:23]  water. The dependent variable is the volume of the gummy bear, which is measured before
+[00:03:23 -> 00:03:25]  and after it's soaked in the water.
+[00:03:25 -> 00:03:30]  A valid experiment will have both an experimental group, where the independent variable is altered,
+[00:03:30 -> 00:03:34]  and a control group, which can be used to compare the experimental group to the normal
+[00:03:34 -> 00:03:39]  or unaltered version. In the gummy bear experiment, the bears placed in water are the experimental
+[00:03:39 -> 00:03:44]  group, and the dry gummy bears are the control, because that's how gummy bears normally are.
+[00:03:44 -> 00:03:49]  So to summarize, an experiment should have an experimental group and a control group.
+[00:03:49 -> 00:03:53]  The experimental group will have an independent variable and a dependent variable. And the
+[00:03:53 -> 00:03:59]  data that is measured and collected can be qualitative, quantitative, or both.
+[00:03:59 -> 00:04:02]  Thanks for watching this episode of Teacher's Pet. Don't forget to like and subscribe, and
+[00:04:02 -> 00:04:04]  follow me on Twitter at SciencePet.

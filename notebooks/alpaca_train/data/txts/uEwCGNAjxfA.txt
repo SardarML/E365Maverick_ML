@@ -1,0 +1,209 @@
+[00:00:00 -> 00:00:03]  Welches Betriebssystem ist das beste Betriebssystem?
+[00:00:03 -> 00:00:10]  Eine immer wiederkehrende Frage und eine Frage, die sich natürlich gerade dann stellt, wenn man gerade frisch ins Informatikstudium einsteigt.
+[00:00:10 -> 00:00:12]  Denn da will man natürlich nichts falsch machen.
+[00:00:12 -> 00:00:17]  Und da fragt man sich, womit bin ich am produktivsten mit Windows, MacOS oder Linux?
+[00:00:17 -> 00:00:21]  Oder ist das womöglich gar nicht so wichtig und man kann mit einem Betriebssystem ein erfolgreicher Informatiker werden?
+[00:00:21 -> 00:00:23]  Die Antwort ist Jein.
+[00:00:23 -> 00:00:28]  Ich gebe eine klare Empfehlung in diesem Video aus, beleuchte aber auch die Vor- und Nachteile von jedem Betriebssystem.
+[00:00:28 -> 00:00:30]  Bevor wir starten, noch eine Bitte.
+[00:00:30 -> 00:00:33]  Du hast ja gerade Zeit, zumindest guckst du ja gerade schon mein Video.
+[00:00:33 -> 00:00:37]  Sei so nett und gib einen Like unter dem Video und abonniere den Kanal.
+[00:00:37 -> 00:00:41]  Und klicke auch auf die Glocke, dann kriegst du eine Benachrichtigung, wenn das neue Video kommt.
+[00:00:41 -> 00:00:45]  Und dann kannst du als Erster, Erster unter das Video schreiben.
+[00:00:45 -> 00:00:50]  Aber genug der Einwerbung. Welches ist nun also das bestgeeignete Betriebssystem fürs Informatikstudium?
+[00:00:50 -> 00:00:53]  Man muss bei diesem Thema zunächst mal eine Warnung aussprechen.
+[00:00:53 -> 00:00:55]  Das Thema kann erstaunlich polarisiert sein.
+[00:00:56 -> 00:01:01]  Man hat manchmal den Eindruck, dass man es weniger mit Nutzern als mit Anhängern eines Betriebssystems zu tun hat.
+[00:01:01 -> 00:01:05]  Wenn dir da also so jemand begegnet und das ist besonders wichtig, wenn du neu an der Uni bist.
+[00:01:05 -> 00:01:12]  Wenn da jemand kommt und sagt, nur dieses Betriebssystem ist das Richtige, dann erinnere dich an diesen Satz.
+[00:01:12 -> 00:01:16]  Traue keinem Dogmatiker. Die Wahrheit ist ganz oft irgendwo in der Mitte.
+[00:01:16 -> 00:01:20]  Wenn jetzt jemand eine Empfehlung ausspricht, wie ich in diesem Video, mag das Hand und Fuß haben.
+[00:01:20 -> 00:01:25]  Wenn aber jemand sagt, nur das eine Betriebssystem ist das Wahre und alle anderen sind Müll, dann ist das unseriös.
+[00:01:25 -> 00:01:28]  Dann ist das jemand, der sich nicht wirklich darauf eingelassen hat.
+[00:01:28 -> 00:01:32]  Vielleicht hat er gar nicht ernsthaft praktisch alle Betriebssysteme benutzt.
+[00:01:32 -> 00:01:40]  Lass mich dich da sofort beruhigen und dir sagen, man kann auf jeden Fall mit jedem Betriebssystem gut arbeiten und ein guter Informatiker werden.
+[00:01:40 -> 00:01:45]  Und spätestens nach der Uni interessiert sich sowieso niemand dafür, was für ein Betriebssystem du benutzt.
+[00:01:45 -> 00:01:51]  Ich habe in den letzten zehn Jahren alle diese drei Hauptbetriebssysteme genutzt und nutze sie auch jetzt noch regelmäßig.
+[00:01:51 -> 00:01:55]  Gucken wir uns also mal ganz sachlich an, was für Vor- und Nachteile jedes Betriebssystem hat.
+[00:01:55 -> 00:02:00]  Ich mache das einmal allgemein und spreche hinterher dann nochmal speziell über das Informatikstudium.
+[00:02:00 -> 00:02:06]  Nummer eins Windows, der seit so langer Zeit unangefochtene Marktführer.
+[00:02:06 -> 00:02:09]  Und da kann man sich natürlich fragen, vielleicht hat das seinen Grund.
+[00:02:09 -> 00:02:13]  Vielleicht benutzen ja die meisten Leute Windows, weil es einfach das beste Betriebssystem ist.
+[00:02:14 -> 00:02:19]  Das ist aber natürlich schwierig, denn so eine starke Marktstellung wirkt ab einem gewissen Punkt auch selbsterhaltend.
+[00:02:19 -> 00:02:23]  Viele Leute, die meisten Leute benutzen Windows.
+[00:02:23 -> 00:02:26]  Also schreiben Firmen ihre Software für Windows.
+[00:02:26 -> 00:02:28]  Also gibt es für Windows die bessere Software.
+[00:02:28 -> 00:02:30]  Also benutzen mehr Leute Windows.
+[00:02:30 -> 00:02:37]  Und dazu kommt ja noch, dass weil Windows so populär ist, viele Computeranbieter ihre Geräte vorinstalliert mit Windows ausliefern.
+[00:02:37 -> 00:02:40]  Wir stecken da also so ein bisschen in einem Teufelskreis.
+[00:02:40 -> 00:02:46]  Trotzdem bleibt es ja ein valides Argument, dass es für Windows besonders viele Softwarelösungen gibt.
+[00:02:46 -> 00:02:56]  Und zu erkennen, warum das so ist und dass das nicht unbedingt deshalb so ist, weil Windows irgendwas besser gemacht hat, sondern weil Windows eben Windows ist, das hilft dir nicht.
+[00:02:56 -> 00:03:03]  Das ändert nichts daran, dass die meiste Software für Windows geschrieben wird und vielleicht gerade die Software, die du gerne benutzen möchtest, nur für Windows verfügbar ist.
+[00:03:03 -> 00:03:07]  Also Marktstatus etwas, wo Windows ganz klar die Nase vorn hat.
+[00:03:07 -> 00:03:09]  Ein gutes Beispiel sind der Computerspiele.
+[00:03:09 -> 00:03:14]  Ich kenne so manchen hartgesottenen Linux Nutzer, der zum Zocken dann doch zu einer Windows Maschine greift.
+[00:03:14 -> 00:03:16]  Was bleibt ihm auch anderes übrig?
+[00:03:16 -> 00:03:23]  Die meisten Spiele werden nun mal für Windows geschrieben, weil Windows für Spiele besser ist, weil die meisten Spiele für Windows geschrieben werden.
+[00:03:23 -> 00:03:25]  Aber was ist denn nun mit dem Betriebssystem selbst?
+[00:03:25 -> 00:03:30]  Wie gut ist Windows im Vergleich zu anderen Betriebssystemen, wenn wir jetzt mal von der Marktdominanz absehen?
+[00:03:30 -> 00:03:34]  Aber da wird es ehrlich gesagt schon schwieriger, gute Sachen über Windows zu erzählen.
+[00:03:34 -> 00:03:40]  Die Hauptattraktivität liegt letztlich immer wieder darin, dass es so viele tolle Softwarelösungen gibt.
+[00:03:40 -> 00:03:46]  Das Betriebssystem selbst kann ehrlich gesagt kaum was besser als die anderen Betriebssysteme.
+[00:03:46 -> 00:03:48]  Da ist man schon froh, wenn es Sachen mal genauso gut kann.
+[00:03:48 -> 00:03:57]  Und mit App Stores, Rolling Release und all diesen neuen Features hat man schon immer den Eindruck, dass Windows so 10 bis 20 Jahre hinter der Linux Welt herhängt.
+[00:03:57 -> 00:04:01]  Und dann diese Registry, diese zentrale Datenbank, wo alle Configs gespeichert werden.
+[00:04:01 -> 00:04:05]  Und dass man sein Computer 10 bis 12 mal neu starten soll, wenn man Updates macht.
+[00:04:05 -> 00:04:06]  Furchtbar.
+[00:04:06 -> 00:04:08]  Aber eine Konzession will ich machen.
+[00:04:08 -> 00:04:11]  Windows hat geradezu legendäre Binärkompatibilität.
+[00:04:11 -> 00:04:17]  Ja, da kannst du ein Computerspiel aus den 90ern nehmen, auf einem modernen Windows System installieren.
+[00:04:17 -> 00:04:21]  Dann machst du vielleicht Rechtsklick, Kompatibilitätsmodus und das läuft tatsächlich.
+[00:04:21 -> 00:04:23]  Das muss man sich mal vorstellen.
+[00:04:23 -> 00:04:26]  Das muss man sich mal vergegenwärtigen, wie toll das ist.
+[00:04:26 -> 00:04:34]  Dennoch kann man eben insgesamt sagen, dass Windows Stärke in Windows Software liegt und das Betriebssystem selbst eigentlich kaum Vorteile bietet.
+[00:04:34 -> 00:04:37]  Gucken wir uns auf der anderen Seite zunächst mal Linux an.
+[00:04:37 -> 00:04:38]  Das genaue Gegenteil.
+[00:04:38 -> 00:04:43]  Kleiner Marktanteil, aber das Betriebssystem selbst im Vergleich viel besser konzipiert.
+[00:04:43 -> 00:04:45]  Da werden vernünftige Dateisysteme benutzt.
+[00:04:45 -> 00:04:47]  Da gibt es überhaupt keine zentrale Registry.
+[00:04:47 -> 00:04:51]  Da kann man Software installieren und updaten, ohne jedes Mal eine Krise zu kriegen.
+[00:04:51 -> 00:04:55]  Das muss man sich mal klar machen, dass es den App Store als Prinzip in der Linux Welt schon viel länger gibt.
+[00:04:55 -> 00:04:59]  Da willst du Firefox installieren, dann sagst du deinem Computer, installiere Firefox.
+[00:04:59 -> 00:05:03]  Möchtest du Spotify installieren, sagst du deinem Computer, installiere Spotify.
+[00:05:03 -> 00:05:12]  Da gehst du nicht auf Google und suchst dir eine Executable raus, die du von irgendeiner dubiosen Seite runterlädst, dann ausführst und am Ende hast du eine Bing Toolbar.
+[00:05:12 -> 00:05:17]  Kurzum, es geht einfacher und besser, wenn es die Software denn überhaupt für Linux gibt, die du benutzen möchtest.
+[00:05:17 -> 00:05:20]  Und natürlich gibt es das Linux Betriebssystem überhaupt nicht.
+[00:05:20 -> 00:05:26]  Linux ist eine Familie von Betriebssystemen und das läuft auf Handys, das läuft auf Raspberry Pis, das läuft auf Servern.
+[00:05:26 -> 00:05:33]  Und selbst wenn wir uns jetzt nur ein bestimmtes Linux vornehmen und das auch mal nur am Computer angucken, dann sieht das ja immer noch ganz unterschiedlich aus.
+[00:05:33 -> 00:05:38]  Dein Linux, mein Linux, weil es eben so anpassbar ist, weil es völlig konfigurierbar ist.
+[00:05:38 -> 00:05:40]  Guck mal, so sieht Linux aus.
+[00:05:40 -> 00:05:42]  Oder so.
+[00:05:42 -> 00:05:44]  Oder so.
+[00:05:44 -> 00:05:48]  All das könnte gut genau der gleiche Rechner gewesen sein mit genau dem gleichen Betriebssystem.
+[00:05:48 -> 00:05:51]  Nur jeweils mit einem anderen installierten Window Manager.
+[00:05:51 -> 00:05:55]  Ein solches Level von Anpassbarkeit findet man nur unter Linux.
+[00:05:55 -> 00:05:59]  Jetzt gibt es da aber noch einen dritten sehr ernstzunehmenden Konkurrenten und das ist natürlich das macOS.
+[00:05:59 -> 00:06:03]  Ich muss sagen, dass ich Apple gar nicht so sehr mit dem Betriebssystem assoziiere.
+[00:06:03 -> 00:06:05]  Da denke ich vielmehr an die Geräte.
+[00:06:05 -> 00:06:08]  So ein neuer MacBook Pro, das ist schon ein tolles Stück Hardware.
+[00:06:08 -> 00:06:13]  Das ist wunderbar verarbeitet, da steckt die neueste Technologie drin und es sieht einfach sehr gut aus.
+[00:06:13 -> 00:06:16]  Was zugegeben natürlich auch mit einem sehr hohen Preisschild kommt.
+[00:06:16 -> 00:06:21]  Und da darf man sich keine Illusionen machen, dass man natürlich auch für den Lifestyle zahlt.
+[00:06:21 -> 00:06:26]  Wenn man sich so einen Apple Store anguckt, dann geht es da ja nicht darum, einfach nur gute Geräte zu verkaufen.
+[00:06:26 -> 00:06:28]  Da geht es darum, einen Lifestyle zu promoten.
+[00:06:28 -> 00:06:31]  Aber die Geräte sind eben trotzdem gut.
+[00:06:31 -> 00:06:36]  Was das Betriebssystem angeht, kann man das so ein bisschen als den Versuch sehen, das Beste aus zwei Welten zu kombinieren.
+[00:06:36 -> 00:06:43]  Da haben wir also wie bei Windows erstmal eine große Firma mit hochbezahlten Entwicklern und Designern, die ein Betriebssystem machen.
+[00:06:43 -> 00:06:46]  Und das merkt man schon, gerade wenn es jetzt an die Benutzeroberfläche geht.
+[00:06:46 -> 00:06:50]  Das sieht schon ein bisschen runder aus als bei so manchem Linux System.
+[00:06:50 -> 00:06:53]  Vor allem muss man als Nutzer ja selbst nicht viel machen.
+[00:06:53 -> 00:06:56]  Das ist alles schon relativ vernünftig vorkonfiguriert.
+[00:06:56 -> 00:06:58]  Und unter der Haube hat man ja trotzdem ein Unix-artiges System.
+[00:06:58 -> 00:07:00]  Da ist schon viel richtig gemacht worden.
+[00:07:00 -> 00:07:05]  Und das merkt man auch, wenn man mit der Kommandozeile arbeitet, wenn man zum Beispiel Software mit Homebrew installiert.
+[00:07:05 -> 00:07:08]  Das fühlt sich fast so an wie auf dem Linux.
+[00:07:08 -> 00:07:14]  Als Nachteil würde ich bei Apple also vor allem mal den Preis anführen und vielleicht so ein bisschen, dass man in einem Ökosystem stecken bleibt.
+[00:07:14 -> 00:07:19]  Die ganzen Geräte von Apple arbeiten super miteinander zusammen, aber nicht immer so gut mit Nicht-Apple-Produkten.
+[00:07:19 -> 00:07:22]  Und auch die Rückwärtskompatibilität ist nicht immer toll.
+[00:07:22 -> 00:07:28]  Da muss man als Apple-Nutzer schon damit rechnen und bereit sein, alle paar Jahre Geld in ein relativ teures Gerät zu investieren.
+[00:07:28 -> 00:07:31]  Insgesamt sehen wir aber, dass es überhaupt keine Schwarz-Weiß-Welt ist.
+[00:07:31 -> 00:07:33]  Alles hat seine Vor- und Nachteile.
+[00:07:33 -> 00:07:36]  Linux ist wahrscheinlich das am besten konzipierte Betriebssystem.
+[00:07:36 -> 00:07:38]  Aber Windows hat mehr Software.
+[00:07:38 -> 00:07:40]  Und Apple macht wirklich tolle Geräte.
+[00:07:40 -> 00:07:43]  Für Privatanwender würde ich daher sagen, dass es alles letztlich nicht so wild ist.
+[00:07:43 -> 00:07:48]  Nimm, womit du dich wohlfühlst, womit du dich auskennst, wo die Software läuft, die du brauchst.
+[00:07:48 -> 00:07:55]  Als ich damals 2011 angefangen habe, Informatik zu studieren, da wollte ich mir zunächst mal von meinem Ersparen einen neuen Laptop kaufen.
+[00:07:55 -> 00:07:58]  Da bin ich dann also in der Erstsemesterwoche gleich zu meinem Tutor gegangen.
+[00:07:58 -> 00:08:04]  Das war ein Student aus einem höheren Semester und hab gesagt, sag mal, was für einen Laptop kannst du mir denn so fürs Studium empfehlen?
+[00:08:04 -> 00:08:06]  Und da hat er gesagt, kauf dir einen ThinkPad.
+[00:08:06 -> 00:08:08]  Und zwar so ein X220.
+[00:08:08 -> 00:08:12]  Das war damals ein Laptop-Typ, der in der Informatikfachschaft besonders beliebt war.
+[00:08:12 -> 00:08:18]  Der galt als leistungsfähig, verlässlich und den konnte man auch relativ einfach auseinanderbauen und Sachen selbst reparieren.
+[00:08:18 -> 00:08:20]  Was für Informatik-Studenten natürlich toll ist.
+[00:08:20 -> 00:08:22]  Da hab ich mir dann also so einen ThinkPad gekauft.
+[00:08:22 -> 00:08:24]  Und dann war die nächste Frage, was für ein Betriebssystem?
+[00:08:24 -> 00:08:27]  Hab ich wiederum gefragt, bei verschiedenen höheren Semestern.
+[00:08:27 -> 00:08:31]  Und die Antwort war fast immer die gleiche, installier dir Linux.
+[00:08:31 -> 00:08:38]  Und da hab ich also mein Informatikstudium von der ersten Woche an mit einem Betriebssystem gestartet, von dem ich überhaupt keine Ahnung hatte.
+[00:08:38 -> 00:08:46]  Und auch dir möchte ich ganz warm ans Herzen legen, in deiner Informatikkarriere so früh wie möglich anzufangen, mit Linux zu arbeiten.
+[00:08:46 -> 00:08:47]  Warum sag ich das?
+[00:08:47 -> 00:08:53]  Weil es zunächst mal ein Fakt ist, dass Linux in vielen Software-Systemen eine ganz wichtige Rolle spielt.
+[00:08:53 -> 00:08:55]  Viel wichtiger als Windows oder macOS.
+[00:08:55 -> 00:08:57]  Denn Linux ist das Standardsystem für Server.
+[00:08:57 -> 00:09:00]  Die meisten Server laufen auf einer Linux-Distribution.
+[00:09:00 -> 00:09:04]  Und heutzutage findet ja selbst die Entwicklung oft auf dem Server statt.
+[00:09:04 -> 00:09:07]  Nehmen wir zum Beispiel meine Firma. Ich hab zwar ein MacBook von der Firma.
+[00:09:07 -> 00:09:09]  Und das hätte ich mir sogar aussuchen können am Anfang.
+[00:09:09 -> 00:09:11]  Da wirst du gefragt, möchtest du Windows oder Mac?
+[00:09:11 -> 00:09:14]  Aber der ganze Software-Entwicklungsprozess findet trotzdem serverseitig statt.
+[00:09:14 -> 00:09:16]  Und der Server läuft auf Linux.
+[00:09:16 -> 00:09:18]  Da hab ich dann keine Wahl mehr.
+[00:09:18 -> 00:09:22]  Da wird von mir als Entwickler erwartet, dass ich mich in so einer Linux-Kommandozeile zurecht finde.
+[00:09:22 -> 00:09:28]  Und schon deshalb lohnt es sich, so früh wie möglich anzufangen, Linux für ganz alltägliche Sachen zu benutzen.
+[00:09:28 -> 00:09:31]  Installier Linux, installier vielleicht sogar mal so einen Teil im Window-Manager.
+[00:09:31 -> 00:09:33]  Hab ich auch eine Weile benutzt als Student.
+[00:09:33 -> 00:09:35]  Wo man so richtig viel mit der Kommandozeile arbeitet.
+[00:09:35 -> 00:09:37]  Mach dir einen Spaß draus.
+[00:09:37 -> 00:09:40]  Benutz es zum Kopieren, um Ordner anzulegen, Dateien zu verschieben.
+[00:09:40 -> 00:09:44]  Und wenn du das einmal anfängst und das so ganz normal Teil deines Workflows wirst
+[00:09:44 -> 00:09:47]  und das ganz natürlich für dich wird, dann musst du es später nicht mehr lernen.
+[00:09:47 -> 00:09:49]  Das kannst du sogar in deinen Lebenslauf reinschreiben.
+[00:09:49 -> 00:09:51]  Bash-Kenntnisse, Linux-Kenntnisse.
+[00:09:51 -> 00:09:53]  Und das Informatikstudium ist dafür der beste Ort.
+[00:09:53 -> 00:09:55]  Denn da hast du ja die Community ganz automatisch.
+[00:09:55 -> 00:09:58]  Da hast du deine Kommilitonen und wenn du mal ein Problem mit deinem Computer hast,
+[00:09:58 -> 00:10:01]  dann ist da bestimmt jemand, der sich gut mit Linux auskennt und dir helfen kann.
+[00:10:01 -> 00:10:04]  Und über die Jahre wirst du buchstäblich wie im Schlaf zum Linux-Experten.
+[00:10:04 -> 00:10:07]  Einfach dadurch, dass du Linux täglich nutzt.
+[00:10:07 -> 00:10:11]  Um Filme zu gucken, um deine Aufgaben zu erledigen, um zu programmieren.
+[00:10:11 -> 00:10:14]  Und während das an und für sich, wie gesagt, schon ein wertvoller Skill ist,
+[00:10:14 -> 00:10:17]  dass man Linux kann, dass man sich mit dem Betriebssystem wohlfühlt
+[00:10:17 -> 00:10:21]  und vor allem mit der Kommandozeile, bringt es doch noch einen weiteren Vorteil.
+[00:10:21 -> 00:10:25]  Man kriegt als Linux-Nutzer nämlich allgemein viel mehr von seinem Betriebssystem mit.
+[00:10:25 -> 00:10:27]  Weil es so konfigurierbar ist.
+[00:10:27 -> 00:10:30]  Weil es dich reizt, manchmal ein bisschen tiefer zu gehen.
+[00:10:30 -> 00:10:33]  Weil eben nicht alles immer gleich automatisch funktioniert
+[00:10:33 -> 00:10:36]  und du so einige Sachen selbst tweaken musst.
+[00:10:36 -> 00:10:40]  Und wenn du dann was falsch machst, Probleme auftreten, die du lösen musst.
+[00:10:40 -> 00:10:43]  Später im Berufsleben hat man nicht unbedingt mehr die Zeit und Muße,
+[00:10:43 -> 00:10:45]  sich damit auseinanderzusetzen und unterschätzt das nicht.
+[00:10:45 -> 00:10:48]  Aber es ist unschätzbar wertvoll, als Informatikstudent
+[00:10:48 -> 00:10:51]  diese praktische Nähe zum eigenen Computer zu entwickeln.
+[00:10:51 -> 00:10:54]  Und damit diese Nähe zu Computern im Allgemeinen zu entwickeln.
+[00:10:54 -> 00:10:59]  In etlichen Modulen und Übungen wirst du im Studium ohnehin mal mit Linux arbeiten müssen.
+[00:10:59 -> 00:11:01]  Wenn es um Systeme geht, wenn es um Sicherheit geht.
+[00:11:01 -> 00:11:04]  Und das ist toll, wenn man das schon kann, weil man sowieso privat Linux nutzt.
+[00:11:04 -> 00:11:07]  Und zu guter Letzt ist es eben viel günstiger als so ein MacBook.
+[00:11:07 -> 00:11:10]  Wenn du jetzt schon ein MacBook hast, dann will ich das nicht schlechtreden.
+[00:11:10 -> 00:11:12]  Das ist ein tolles Gerät und damit kann man ganz viel machen.
+[00:11:12 -> 00:11:14]  Und damit arbeite ich auch professionell in meinem Job.
+[00:11:14 -> 00:11:18]  Aber akzeptiere eben auch, dass Linux eine ganz wichtige Rolle in der Industrie spielt.
+[00:11:18 -> 00:11:22]  Und der beste Weg, sich Linux nahezubringen, ist es einfach zu benutzen.
+[00:11:22 -> 00:11:23]  Im Alltag.
+[00:11:23 -> 00:11:26]  Das ist also letztlich meine nachdrückliche Empfehlung für jeden,
+[00:11:26 -> 00:11:29]  der Informatik studiert oder irgendeine Informatikkarriere anstrebt.
+[00:11:29 -> 00:11:32]  Nimm dir die Zeit, lass dich darauf ein, installiere dir ein Linux System.
+[00:11:32 -> 00:11:36]  Und ja, man kann zum Beispiel auch Windows und Linux nebeneinander installieren,
+[00:11:36 -> 00:11:37]  so ein Dual Boot einrichten.
+[00:11:37 -> 00:11:39]  Aber das würde ich gar nicht machen.
+[00:11:39 -> 00:11:41]  Da ist doch die Versuchung dann zu groß,
+[00:11:41 -> 00:11:44]  dass man doch immer wieder beim alten, vertrauten Betriebssystem landet.
+[00:11:44 -> 00:11:47]  Nimm dein Gerät, dein neuen, dein alten Laptop, installiere ein Linux.
+[00:11:47 -> 00:11:48]  Arbeite damit.
+[00:11:48 -> 00:11:52]  Du wirst es alles ganz schnell lernen und hast damit dann später viel mehr Möglichkeiten.
+[00:11:52 -> 00:11:55]  Da haben wir es also meiner Ansicht nach Linux ein Betriebssystem,
+[00:11:55 -> 00:11:59]  mit dem sich jeder Informatikstudent ganz intensiv auseinandersetzen sollte.
+[00:11:59 -> 00:12:04]  Obwohl später im Berufsleben, zumindest als Betriebssystem auf dem eigenen Rechner,
+[00:12:04 -> 00:12:06]  es keine große Rolle spielt, was man benutzt.
+[00:12:06 -> 00:12:09]  Für alles Serverseitige kommst du an Linux ohnehin nicht vorbei.
+[00:12:09 -> 00:12:10]  Ich hoffe, das war hilfreich.
+[00:12:10 -> 00:12:13]  Wenn irgendwelche Fragen offen geblieben sind, schreib gerne einen Kommentar.
+[00:12:13 -> 00:12:16]  Wenn du eine andere Meinung hast, und da gibt es sicher sehr viele Meinungen,
+[00:12:16 -> 00:12:19]  schreib einen Kommentar, wir diskutieren das aus.
+[00:12:19 -> 00:12:21]  Vielen Dank, dass du bis zum Ende geblieben bist.
+[00:12:21 -> 00:12:23]  Gib unbedingt einen Daumen hoch, das hilft wirklich.
+[00:12:23 -> 00:12:25]  Da wird das Video mehr Leuten angezeigt.
+[00:12:25 -> 00:12:28]  Und abonniere natürlich den Kanal für mehr solcher Videos.
+[00:12:28 -> 00:12:30]  Bis zum nächsten Mal.
+[00:12:39 -> 00:12:43]  Untertitel von Stephanie Geiges

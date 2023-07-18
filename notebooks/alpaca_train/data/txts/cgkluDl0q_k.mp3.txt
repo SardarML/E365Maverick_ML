@@ -1,0 +1,184 @@
+[00:00:00 -> 00:00:16]  Oh, one of my favorite old chestnuts here, the old history of SQL Server topic.
+[00:00:16 -> 00:00:21]  Seems like I bet I tell this story, I don't know how many times a year, a lot.
+[00:00:21 -> 00:00:24]  So let's kind of walk through the SQL Server history here.
+[00:00:24 -> 00:00:27]  It's kind of a fun trip down memory lane for a lot of us.
+[00:00:27 -> 00:00:30]  So this all started back in the 1980s.
+[00:00:30 -> 00:00:35]  Back in 1989, Microsoft was a large software company.
+[00:00:35 -> 00:00:40]  They were no IBM at the time, but they were a very large software company.
+[00:00:40 -> 00:00:44]  But they had no database product, and they saw that as a problem.
+[00:00:44 -> 00:00:46]  Now you also had Ashton Tate.
+[00:00:46 -> 00:00:50]  Ashton Tate was another company, you're probably familiar with Dbase.
+[00:00:50 -> 00:00:53]  They were the makers of Dbase.
+[00:00:53 -> 00:00:55]  And so we have three players now, we have Sybase.
+[00:00:55 -> 00:00:59]  And Sybase had their data server, which was their new product as well.
+[00:00:59 -> 00:01:04]  So Microsoft, Ashton Tate, and Sybase.
+[00:01:04 -> 00:01:07]  Microsoft hooks up with Sybase.
+[00:01:07 -> 00:01:14]  And Microsoft says, hey, give us the source code to your database product.
+[00:01:14 -> 00:01:17]  And so Sybase did, they licensed the source code.
+[00:01:17 -> 00:01:22]  And they licensed it for Microsoft to release on OS2, not for Unix.
+[00:01:22 -> 00:01:27]  So licensed it for OS2 and for the other Microsoft-based operating systems,
+[00:01:27 -> 00:01:30]  which were fairly limited at the time.
+[00:01:30 -> 00:01:35]  That license gave the Microsoft developers access to the source code.
+[00:01:35 -> 00:01:36]  This is a key, key moment.
+[00:01:36 -> 00:01:41]  I think this was like 1988.
+[00:01:41 -> 00:01:45]  So Microsoft says, OK, boom, hammer it all out.
+[00:01:45 -> 00:01:47]  And really, Microsoft, I'm not sure how much
+[00:01:47 -> 00:01:50]  that they really changed in this very first release.
+[00:01:50 -> 00:01:54]  But the first version of SQL Server comes out in 1989.
+[00:01:54 -> 00:01:58]  And Microsoft said, you know what, this is not really our milieu.
+[00:01:58 -> 00:02:00]  Let's go to Ashton Tate.
+[00:02:00 -> 00:02:02]  They know how to market databases.
+[00:02:02 -> 00:02:05]  And let's get them to help us market this.
+[00:02:05 -> 00:02:08]  So that's actually the very first name of it here
+[00:02:08 -> 00:02:12]  was Ashton Tate Microsoft SQL Server version 1.0.
+[00:02:12 -> 00:02:15]  And it started shipping in 1989.
+[00:02:15 -> 00:02:20]  OK, fast forward, 1990, 1.1 comes out.
+[00:02:20 -> 00:02:22]  But it's no longer Ashton Tate.
+[00:02:22 -> 00:02:25]  It's just Microsoft SQL Server 1.1.
+[00:02:25 -> 00:02:28]  And look at that, Windows 3.0.
+[00:02:28 -> 00:02:32]  Some of us are still young enough to remember that,
+[00:02:32 -> 00:02:35]  old enough to remember that, whichever one that is.
+[00:02:35 -> 00:02:38]  All right, so this was 1990.
+[00:02:38 -> 00:02:42]  Several years go by, no new release from Microsoft.
+[00:02:42 -> 00:02:44]  During that time, so there's no version 2.
+[00:02:44 -> 00:02:46]  There's no version 3.
+[00:02:46 -> 00:02:48]  And during that time, Sybase is loving it.
+[00:02:48 -> 00:02:49]  They go public.
+[00:02:49 -> 00:02:55]  They have just this massive initial public offering on IPO.
+[00:02:55 -> 00:02:57]  They're doing great.
+[00:02:57 -> 00:03:01]  1992, SQL Server 4.21.
+[00:03:01 -> 00:03:04]  No 2.0, no 3.0.
+[00:03:04 -> 00:03:07]  Still licensed by Sybase, by or with,
+[00:03:07 -> 00:03:09]  whichever way you want to say that.
+[00:03:09 -> 00:03:13]  Talking 16-bit here with OS 2.
+[00:03:13 -> 00:03:16]  And then we actually start coming out with Windows NT
+[00:03:16 -> 00:03:17]  about this point.
+[00:03:17 -> 00:03:21]  So NT 3.1, we have 32-bit now.
+[00:03:21 -> 00:03:22]  Sweet.
+[00:03:22 -> 00:03:25]  OK, 1993.
+[00:03:25 -> 00:03:28]  All right, now the original license with Sybase
+[00:03:28 -> 00:03:31]  did not let Microsoft add or change features
+[00:03:31 -> 00:03:33]  without Sybase's approval.
+[00:03:33 -> 00:03:35]  Well, that's no fun, right?
+[00:03:35 -> 00:03:40]  So 1994, Microsoft has been able to recruit
+[00:03:40 -> 00:03:45]  a lot of really, really smart people, some away from Sybase.
+[00:03:45 -> 00:03:47]  And so they parted ways with Sybase.
+[00:03:47 -> 00:03:51]  And Microsoft felt that they could do it on their own.
+[00:03:51 -> 00:03:57]  So SQL 95, released in spring 95, technically 6.0.
+[00:03:57 -> 00:04:02]  But it kind of coincided with Windows 95, right?
+[00:04:02 -> 00:04:06]  Replication was the killer feature there.
+[00:04:06 -> 00:04:07]  And SQL Server was actually starting
+[00:04:07 -> 00:04:10]  to gain some momentum here.
+[00:04:10 -> 00:04:13]  They were not in any way shaking the trees,
+[00:04:13 -> 00:04:15]  like Oracle wasn't really scared of them.
+[00:04:15 -> 00:04:17]  But Microsoft is a growing company.
+[00:04:17 -> 00:04:19]  Windows 95 is coming out.
+[00:04:19 -> 00:04:24]  Windows NT 3.1, soon to be NT 4.0.
+[00:04:24 -> 00:04:27]  Lots of momentum behind this company.
+[00:04:27 -> 00:04:30]  SQL Server 6.5 comes out in 1996.
+[00:04:30 -> 00:04:34]  And we'll actually die.
+[00:04:34 -> 00:04:36]  So anyway, the short release cycle,
+[00:04:36 -> 00:04:39]  we really only had a very, very short period between 6.0
+[00:04:39 -> 00:04:41]  and 6.5 here.
+[00:04:41 -> 00:04:44]  This was simply pressure from other companies,
+[00:04:44 -> 00:04:47]  pressure from Oracle with new products and other companies
+[00:04:47 -> 00:04:48]  coming out.
+[00:04:48 -> 00:04:55]  And it was actually the first to be anti-standard compliant,
+[00:04:55 -> 00:04:57]  which you need to go back to course 170
+[00:04:57 -> 00:04:59]  if you're not quite familiar with what that is.
+[00:04:59 -> 00:05:02]  Now, this is still built on top of the old Sybase code.
+[00:05:02 -> 00:05:03]  So they're taking that old Sybase code
+[00:05:03 -> 00:05:05]  and changing it up a little bit.
+[00:05:05 -> 00:05:08]  But we had a lot of fun with this one.
+[00:05:08 -> 00:05:10]  You could backup tables here.
+[00:05:10 -> 00:05:12]  You had the data transfer manager.
+[00:05:12 -> 00:05:14]  You had a lot of fun back then.
+[00:05:14 -> 00:05:17]  All right, so SQL Server 7.0 comes out in 1998.
+[00:05:17 -> 00:05:20]  And this was mind-blowing.
+[00:05:20 -> 00:05:26]  So now, while we're on NT 4.0, everything's running 32-bit.
+[00:05:26 -> 00:05:28]  And SQL Server 7.0 comes out.
+[00:05:28 -> 00:05:29]  And it's gorgeous.
+[00:05:29 -> 00:05:31]  We have the Enterprise Manager.
+[00:05:31 -> 00:05:36]  We have data transformation services,
+[00:05:36 -> 00:05:40]  so much row-level locking, so much.
+[00:05:40 -> 00:05:44]  And we had OLAP services that came out as well.
+[00:05:44 -> 00:05:46]  All right, two years later, SQL Server 2.0.
+[00:05:46 -> 00:05:47]  You can see they're kind of starting
+[00:05:47 -> 00:05:49]  to get a pattern here of every six months to two years
+[00:05:49 -> 00:05:52]  we're coming out with some rev or some major version.
+[00:05:52 -> 00:05:56]  So SQL Server 2000, it was originally
+[00:05:56 -> 00:05:59]  just going to be somewhat of a minor update to 7.0,
+[00:05:59 -> 00:06:05]  but kind of ended up being much bigger than that,
+[00:06:05 -> 00:06:06]  more powerful.
+[00:06:06 -> 00:06:09]  And we start seeing right here that they are now
+[00:06:09 -> 00:06:12]  trying to tie in the SQL Server versions with the release
+[00:06:12 -> 00:06:14]  of an operating system.
+[00:06:14 -> 00:06:17]  As the operating system evolves, they kind of
+[00:06:17 -> 00:06:19]  tag on right next to it and say, OK, we're
+[00:06:19 -> 00:06:21]  going to release ours in conjunction
+[00:06:21 -> 00:06:23]  with this latest operating system
+[00:06:23 -> 00:06:25]  so that our customers can be right on top
+[00:06:25 -> 00:06:28]  of the latest technology.
+[00:06:28 -> 00:06:32]  And 2000 was the debut of Analysis Services.
+[00:06:32 -> 00:06:35]  And it was something like Service Pack 2 or 3
+[00:06:35 -> 00:06:38]  for SQL Server 2000 when Reporting Services made
+[00:06:38 -> 00:06:40]  its debut.
+[00:06:40 -> 00:06:45]  But we go five years until the next version of SQL Server.
+[00:06:45 -> 00:06:46]  Yuck.
+[00:06:46 -> 00:06:50]  This was not happy times in the server group.
+[00:06:50 -> 00:06:54]  This was the time when Microsoft from 2000 to 2001
+[00:06:54 -> 00:06:59]  kind of made that shift into Microsoft.net.
+[00:06:59 -> 00:07:03]  That shift delayed a lot of the server products
+[00:07:03 -> 00:07:06]  at Microsoft, and SQL Server was one of those.
+[00:07:06 -> 00:07:11]  So SQL 2005 made to work with Windows Server 2003.
+[00:07:11 -> 00:07:14]  And if you kind of remember, there was no Windows Server
+[00:07:14 -> 00:07:15]  2005.
+[00:07:15 -> 00:07:18]  We had to wait until Windows Server 2008.
+[00:07:18 -> 00:07:22]  So SQL Server 2005, because we had such a long release cycle,
+[00:07:22 -> 00:07:25]  massively different in the internals.
+[00:07:25 -> 00:07:27]  We now had to support .NET in the database.
+[00:07:27 -> 00:07:29]  So that's the SQL CLR.
+[00:07:29 -> 00:07:31]  Integration Services is now here.
+[00:07:31 -> 00:07:34]  No more Data Transformation Services.
+[00:07:34 -> 00:07:36]  Reporting Services is here.
+[00:07:36 -> 00:07:39]  Database Mirroring makes its debut.
+[00:07:39 -> 00:07:42]  Better XML data types, tighter XML integration.
+[00:07:42 -> 00:07:44]  We now have Schemas.
+[00:07:44 -> 00:07:47]  Ooh, interesting.
+[00:07:47 -> 00:07:51]  All right, so 2008, now here we go.
+[00:07:51 -> 00:07:56]  Windows Server 2008 and SQL Server 2008 debut.
+[00:07:56 -> 00:08:00]  SQL Server 2008 wasn't a massive difference from 2005.
+[00:08:00 -> 00:08:03]  But, I mean, a couple of things.
+[00:08:03 -> 00:08:06]  Transparent data encryption, policy management,
+[00:08:06 -> 00:08:09]  the geospatial data makes its debut.
+[00:08:09 -> 00:08:14]  File stream, backup, compression all comes in.
+[00:08:14 -> 00:08:18]  SQL Server 2008 R2 comes out in 2010.
+[00:08:18 -> 00:08:20]  Again, no surprise, built for a server.
+[00:08:20 -> 00:08:24]  Windows Server 2008 R2.
+[00:08:24 -> 00:08:28]  Now we get Master Data Services, Stream Insight,
+[00:08:28 -> 00:08:32]  Unicode compression, Power Pivot, some BI features.
+[00:08:32 -> 00:08:36]  Again, not a ton of new features.
+[00:08:36 -> 00:08:39]  Now here we are with 2012.
+[00:08:39 -> 00:08:43]  So this is, ta-da, coming with Windows Server 2012.
+[00:08:43 -> 00:08:45]  And they have the killer features,
+[00:08:45 -> 00:08:46]  always on availability groups.
+[00:08:46 -> 00:08:50]  The most exciting new feature, certainly, I
+[00:08:50 -> 00:08:52]  think, since Integration Services.
+[00:08:52 -> 00:08:55]  Column Store Indexes, which is pretty darn exciting
+[00:08:55 -> 00:08:57]  if you're working with relational data warehouses.
+[00:08:58 -> 00:08:59]  I love it.
+[00:08:59 -> 00:09:01]  User Defined Server Roles.
+[00:09:03 -> 00:09:05]  Oh, SQL Server 2014.
+[00:09:05 -> 00:09:07]  Yes, it's already announced.
+[00:09:07 -> 00:09:10]  It is built to go with Windows Server 2012 R2.
+[00:09:10 -> 00:09:14]  And it features in-memory OLTP.
+[00:09:14 -> 00:09:16]  So now we can have our tables don't even
+[00:09:16 -> 00:09:19]  worry about accessing the disk.
+[00:09:19 -> 00:09:21]  Our Column Store Indexes, we have the ability to update.
+[00:09:21 -> 00:09:24]  We have a little more evolution of those.
+[00:09:24 -> 00:09:26]  And we can now start doing a little more
+[00:09:26 -> 00:09:29]  on the hardware side to speed up our server with respect
+[00:09:29 -> 00:09:31]  to SSD drives.
+[00:09:33 -> 00:09:35]  So lots of fun stuff.
+[00:09:35 -> 00:09:37]  Hope you enjoyed the history.
+[00:09:37 -> 00:09:39]  I'll see you in Chapter 3.

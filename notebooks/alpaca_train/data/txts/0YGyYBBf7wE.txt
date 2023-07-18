@@ -1,0 +1,1772 @@
+[00:00:00 -> 00:00:02]  So let's move in here into chapter 12.
+[00:00:02 -> 00:00:05]  This chapter is all about real estate financing.
+[00:00:05 -> 00:00:07]  And if you took our real estate principles class,
+[00:00:07 -> 00:00:09]  we have a pretty thorough discussion
+[00:00:09 -> 00:00:12]  in chapters eight and nine about financing.
+[00:00:12 -> 00:00:15]  And a lot of this might be a little bit of a review for you,
+[00:00:15 -> 00:00:16]  but it's important nonetheless.
+[00:00:16 -> 00:00:19]  Now, why do you think there are financing chapters,
+[00:00:19 -> 00:00:21]  not only in real estate principles,
+[00:00:21 -> 00:00:23]  but also in real estate practice and real estate law?
+[00:00:23 -> 00:00:26]  And if you're taking your broker's class,
+[00:00:26 -> 00:00:29]  we have a whole class really on real estate finance
+[00:00:29 -> 00:00:32]  that's required by the BRE in California.
+[00:00:32 -> 00:00:33]  And if you think about it,
+[00:00:33 -> 00:00:36]  the majority of all of our real estate transactions
+[00:00:36 -> 00:00:38]  actually have an element of finance in them.
+[00:00:38 -> 00:00:40]  The majority of transactions that we're dealing with,
+[00:00:40 -> 00:00:41]  actually, you know,
+[00:00:41 -> 00:00:44]  the buyer isn't paying cash for the property,
+[00:00:44 -> 00:00:46]  they're securing a loan from either a bank
+[00:00:46 -> 00:00:48]  or from a mortgage company
+[00:00:48 -> 00:00:50]  or from even a private individual.
+[00:00:50 -> 00:00:52]  So before we totally get into this,
+[00:00:52 -> 00:00:54]  let's look at the bottom of page number 400
+[00:00:54 -> 00:00:56]  and the top of page 401.
+[00:00:56 -> 00:00:57]  We'll talk a little bit here
+[00:00:57 -> 00:00:59]  about the Federal Reserve Bank.
+[00:00:59 -> 00:01:00]  And the Federal Reserve Bank
+[00:01:00 -> 00:01:04]  is our nation's bank throughout the United States.
+[00:01:04 -> 00:01:05]  And really, there's two ways
+[00:01:05 -> 00:01:10]  that the government could influence how our economy grows.
+[00:01:10 -> 00:01:12]  One way is through fiscal policy.
+[00:01:12 -> 00:01:15]  And fiscal policy is like through tax and spend.
+[00:01:15 -> 00:01:17]  Fiscal policy is where, you know,
+[00:01:17 -> 00:01:21]  the federal government either raises or lowers tax rates
+[00:01:21 -> 00:01:24]  in order to influence our economy.
+[00:01:24 -> 00:01:26]  Now, that's different than monetary policy.
+[00:01:26 -> 00:01:28]  And if you look at the bottom of page number 400
+[00:01:28 -> 00:01:30]  and the top of page 401,
+[00:01:30 -> 00:01:33]  these two pages really talk about monetary policy
+[00:01:33 -> 00:01:35]  that the Federal Reserve uses
+[00:01:35 -> 00:01:37]  to influence the overall economy.
+[00:01:37 -> 00:01:40]  Now, three things at the top of page 401
+[00:01:40 -> 00:01:42]  that the Fed could do to influence the economy.
+[00:01:42 -> 00:01:44]  Number one is the discount rate.
+[00:01:44 -> 00:01:46]  Now, the discount rate is the rate
+[00:01:46 -> 00:01:49]  that the Federal Reserve will charge member banks
+[00:01:49 -> 00:01:52]  for very short-term borrowing.
+[00:01:52 -> 00:01:54]  Now, don't confuse this with the prime rate.
+[00:01:54 -> 00:01:55]  The prime rate, of course,
+[00:01:55 -> 00:01:58]  is the rate that the bank might charge its best customer.
+[00:01:58 -> 00:02:01]  But the discount rate, totally different.
+[00:02:01 -> 00:02:03]  This is the rate that the Federal Reserve Bank
+[00:02:03 -> 00:02:06]  charges member banks to borrow money.
+[00:02:06 -> 00:02:08]  Now, all three of these,
+[00:02:08 -> 00:02:10]  really, if you look at the top of page 401,
+[00:02:10 -> 00:02:12]  all three of these are either gonna have
+[00:02:13 -> 00:02:15]  effect of stimulating the economy
+[00:02:15 -> 00:02:16]  or of slowing the economy.
+[00:02:16 -> 00:02:20]  So right next to discount rate at the top of page 401,
+[00:02:20 -> 00:02:22]  you might wanna write the word slow.
+[00:02:22 -> 00:02:24]  So if we wanna slow the economy,
+[00:02:24 -> 00:02:26]  we would raise the discount rate.
+[00:02:26 -> 00:02:29]  So if the government wanted to slow the economy,
+[00:02:29 -> 00:02:31]  maybe they thought inflation was on the horizon,
+[00:02:31 -> 00:02:34]  they would raise the discount rate.
+[00:02:34 -> 00:02:37]  So clearly, if it costs more money to borrow money,
+[00:02:37 -> 00:02:39]  people are less likely to wanna borrow it, right?
+[00:02:39 -> 00:02:41]  So if we raise the discount rate,
+[00:02:41 -> 00:02:44]  this'll have the effect of slowing the economy.
+[00:02:44 -> 00:02:46]  If we lower the discount rate,
+[00:02:46 -> 00:02:49]  this will have the effect of stimulating the economy.
+[00:02:49 -> 00:02:52]  So if we lower and lower and lower rates,
+[00:02:52 -> 00:02:54]  people might be more apt to borrow
+[00:02:54 -> 00:02:55]  because it's cheaper to borrow money.
+[00:02:55 -> 00:02:57]  When they borrow money, they go out and spend it
+[00:02:57 -> 00:02:58]  and it grows the economy.
+[00:02:58 -> 00:03:00]  So one way that the Federal Reserve
+[00:03:00 -> 00:03:02]  could influence our economy
+[00:03:02 -> 00:03:06]  is through monetary policy and the discount rate.
+[00:03:06 -> 00:03:07]  If we lower the discount rate,
+[00:03:07 -> 00:03:10]  this would have the effect of stimulating the economy.
+[00:03:10 -> 00:03:12]  If we raise the discount rate,
+[00:03:12 -> 00:03:14]  this would have the effect of slowing the economy.
+[00:03:14 -> 00:03:15]  And you might wanna make that note here
+[00:03:15 -> 00:03:17]  at the top of page 401.
+[00:03:17 -> 00:03:19]  The second way that the Federal Reserve
+[00:03:19 -> 00:03:23]  could influence our economy is through reserve requirements.
+[00:03:23 -> 00:03:24]  Now, reserve requirements, of course,
+[00:03:24 -> 00:03:27]  are the amount of money that a member bank
+[00:03:27 -> 00:03:30]  has to have in reserve according to the Federal Reserve.
+[00:03:30 -> 00:03:35]  So if I'm Wells Fargo Bank and I have $100 in my vault,
+[00:03:35 -> 00:03:38]  I actually cannot loan out all that 100.
+[00:03:38 -> 00:03:41]  I have to keep a certain amount of that 100 in reserve.
+[00:03:41 -> 00:03:43]  Now, that amount is actually dictated
+[00:03:43 -> 00:03:45]  by the Federal Reserve Bank.
+[00:03:45 -> 00:03:47]  As a member bank, I gotta follow their rules.
+[00:03:47 -> 00:03:50]  So if we raise the reserve requirement,
+[00:03:50 -> 00:03:51]  let's say the reserve requirement
+[00:03:51 -> 00:03:54]  is raised from 14% to 25%.
+[00:03:54 -> 00:03:58]  Now, the bank has less money to lend out.
+[00:03:58 -> 00:04:00]  If they have less money to lend out,
+[00:04:00 -> 00:04:02]  this is gonna have the effect of slowing the economy
+[00:04:02 -> 00:04:06]  because there's not enough money to lend out.
+[00:04:06 -> 00:04:08]  If we lowered the reserve requirement,
+[00:04:08 -> 00:04:11]  this would have the effect of stimulating the economy.
+[00:04:11 -> 00:04:12]  So instead of the reserve requirements,
+[00:04:12 -> 00:04:15]  let's say at 14%, we drop them to 5%,
+[00:04:15 -> 00:04:19]  now the bank only has to keep 5% in reserve.
+[00:04:19 -> 00:04:20]  This is gonna have the effect
+[00:04:20 -> 00:04:21]  of stimulating the economy
+[00:04:21 -> 00:04:23]  because there's more money to lend,
+[00:04:23 -> 00:04:25]  the more money to lend, the more money is out there,
+[00:04:25 -> 00:04:27]  and the economy is gonna grow.
+[00:04:27 -> 00:04:29]  So two ways that the Federal Reserve
+[00:04:29 -> 00:04:33]  could influence the economy through monetary policy.
+[00:04:33 -> 00:04:35]  One way is through the discount rate.
+[00:04:35 -> 00:04:37]  Another way is through reserve requirements
+[00:04:37 -> 00:04:39]  here at the top of page 401.
+[00:04:39 -> 00:04:41]  In both of these instances,
+[00:04:41 -> 00:04:42]  if we lower the discount rate
+[00:04:42 -> 00:04:45]  or lower the reserve requirement,
+[00:04:45 -> 00:04:48]  this is gonna have the effect of stimulating the economy.
+[00:04:48 -> 00:04:50]  If we raise the discount rate
+[00:04:50 -> 00:04:52]  or raise reserve requirements,
+[00:04:52 -> 00:04:55]  this is gonna have the effect of slowing the economy.
+[00:04:55 -> 00:04:56]  If we raise the discount rate,
+[00:04:56 -> 00:04:57]  it's more expensive to borrow,
+[00:04:57 -> 00:04:59]  people don't wanna borrow as much.
+[00:04:59 -> 00:05:01]  If we raise reserve requirements,
+[00:05:01 -> 00:05:02]  this is also gonna have the effect
+[00:05:02 -> 00:05:04]  of having less money to lend
+[00:05:04 -> 00:05:06]  and therefore the economy is gonna slow
+[00:05:06 -> 00:05:07]  because there's less money
+[00:05:07 -> 00:05:08]  kind of flowing through the system.
+[00:05:08 -> 00:05:11]  The third and final way here at the top of page 401
+[00:05:11 -> 00:05:14]  that the Federal Reserve could influence the economy
+[00:05:14 -> 00:05:16]  through monetary policy
+[00:05:16 -> 00:05:19]  is through something called open market operations.
+[00:05:19 -> 00:05:20]  Now, the first two,
+[00:05:20 -> 00:05:23]  we had the choice of raising or lowering, right?
+[00:05:23 -> 00:05:24]  We had the choice of up or down.
+[00:05:24 -> 00:05:26]  With open market operations,
+[00:05:26 -> 00:05:27]  this is actually different.
+[00:05:27 -> 00:05:28]  It's not gonna be up or down.
+[00:05:28 -> 00:05:31]  This is actually gonna be buy or sell.
+[00:05:31 -> 00:05:35]  So these are the purchase or sale of government bonds.
+[00:05:35 -> 00:05:36]  Now think about this for a second.
+[00:05:36 -> 00:05:38]  What's a bond?
+[00:05:38 -> 00:05:39]  A bond is like debt, right?
+[00:05:39 -> 00:05:42]  So if I'm the government and I issue a bunch of bonds,
+[00:05:42 -> 00:05:44]  I'm basically borrowing money from investors.
+[00:05:44 -> 00:05:47]  I'm basically giving out a bunch of IOUs.
+[00:05:47 -> 00:05:50]  Investors are paying me money for those IOUs
+[00:05:50 -> 00:05:52]  and I'm basically gonna go out
+[00:05:52 -> 00:05:53]  and do whatever I need to do,
+[00:05:53 -> 00:05:55]  build a bridge, build a freeway, build a park.
+[00:05:55 -> 00:05:57]  I have money now.
+[00:05:57 -> 00:05:59]  Now I gotta pay interest on those bonds though
+[00:05:59 -> 00:06:00]  to those investors.
+[00:06:00 -> 00:06:01]  So think about this for a second.
+[00:06:01 -> 00:06:04]  If you're a member of the public and I'm the government
+[00:06:05 -> 00:06:07]  and you have a bond in your pocket,
+[00:06:07 -> 00:06:09]  it's not like you could go out
+[00:06:09 -> 00:06:11]  and go to Ralph's or Trader Joe's
+[00:06:11 -> 00:06:13]  and spend that bond money.
+[00:06:13 -> 00:06:15]  You gotta convert that bond into cash
+[00:06:15 -> 00:06:16]  before you can go out and spend it.
+[00:06:16 -> 00:06:18]  That's why, quite frankly,
+[00:06:18 -> 00:06:21]  if a lot of people had all their money in bonds
+[00:06:21 -> 00:06:22]  and never spent it,
+[00:06:22 -> 00:06:24]  the economy would actually slow, right?
+[00:06:24 -> 00:06:25]  Because everybody's saving,
+[00:06:25 -> 00:06:27]  everybody's just sitting there with their cash.
+[00:06:27 -> 00:06:30]  They're not spending it causing the economy to grow.
+[00:06:30 -> 00:06:32]  So think about this for a second.
+[00:06:32 -> 00:06:34]  Let's say that I'm the government
+[00:06:34 -> 00:06:36]  and I came to you and I bought your bond.
+[00:06:36 -> 00:06:37]  So I'm gonna give you cash
+[00:06:37 -> 00:06:39]  and I'm gonna take the bond from you.
+[00:06:39 -> 00:06:42]  If the government buys your bond,
+[00:06:42 -> 00:06:44]  now you're gonna have money in your pocket.
+[00:06:44 -> 00:06:47]  You can go out there and spend it and grow the economy.
+[00:06:47 -> 00:06:50]  So right next to open market operations
+[00:06:50 -> 00:06:51]  or open market transactions,
+[00:06:51 -> 00:06:56]  I would write the words buy bonds dash stimulate.
+[00:06:56 -> 00:06:58]  If the government buys bonds,
+[00:06:58 -> 00:07:00]  this would have the effect of stimulating the economy
+[00:07:00 -> 00:07:01]  because I'm coming to you,
+[00:07:01 -> 00:07:03]  I'm taking a bond from your pocket,
+[00:07:03 -> 00:07:04]  I'm buying it from you.
+[00:07:04 -> 00:07:06]  And now you can go out and spend that money
+[00:07:06 -> 00:07:08]  that you just got from the government
+[00:07:08 -> 00:07:09]  when I bought your bond.
+[00:07:09 -> 00:07:12]  So buying bonds would stimulate the economy
+[00:07:13 -> 00:07:16]  because the government is converting those bonds into cash.
+[00:07:16 -> 00:07:18]  Now, right underneath that at the top of page 401,
+[00:07:18 -> 00:07:22]  I would write the words sell bonds slash slow.
+[00:07:22 -> 00:07:25]  Sell bonds slash slow.
+[00:07:25 -> 00:07:27]  If you sell bonds,
+[00:07:27 -> 00:07:29]  this is gonna have the effect of slowing the economy.
+[00:07:29 -> 00:07:32]  So if I'm the government and I sell you a bond,
+[00:07:32 -> 00:07:34]  I'm basically taking money from you
+[00:07:34 -> 00:07:36]  and I'm giving you a bond in return.
+[00:07:36 -> 00:07:37]  Now you're forced to save.
+[00:07:37 -> 00:07:39]  You're gonna sit there with the bond
+[00:07:39 -> 00:07:40]  and wait for it to mature,
+[00:07:40 -> 00:07:42]  live on the small coupon payments or whatever.
+[00:07:42 -> 00:07:45]  But if I'm selling a bond and I'm the government,
+[00:07:45 -> 00:07:47]  this is gonna have the effect of slowing the economy
+[00:07:47 -> 00:07:50]  because it's taking money out of the system
+[00:07:50 -> 00:07:52]  and it's forcing you to sit there with your bond.
+[00:07:52 -> 00:07:56]  So buy bonds would stimulate the economy.
+[00:07:56 -> 00:07:58]  Sell bonds would slow the economy
+[00:07:58 -> 00:08:00]  because it takes money out of the system.
+[00:08:00 -> 00:08:02]  So those are three ways,
+[00:08:02 -> 00:08:04]  just kind of a basic explanation,
+[00:08:04 -> 00:08:06]  but three ways that the Federal Reserve
+[00:08:06 -> 00:08:10]  through monetary policy can influence the economy.
+[00:08:10 -> 00:08:11]  Not through fiscal policy.
+[00:08:11 -> 00:08:13]  Remember, fiscal is tax and spend.
+[00:08:13 -> 00:08:15]  As it says here at the bottom of page 400,
+[00:08:15 -> 00:08:19]  monetary policy are the three ways at the top of page 401.
+[00:08:19 -> 00:08:22]  Either discount rate, up or down.
+[00:08:22 -> 00:08:24]  That's the rate that the Federal Reserve
+[00:08:24 -> 00:08:27]  charges a member bank for short-term borrowing.
+[00:08:27 -> 00:08:29]  We also have number two, reserve requirements.
+[00:08:29 -> 00:08:31]  This is the amount of money that a given bank
+[00:08:31 -> 00:08:33]  needs to have in reserve
+[00:08:33 -> 00:08:36]  in order to meet Federal Reserve requirements.
+[00:08:36 -> 00:08:37]  And number three, of course,
+[00:08:37 -> 00:08:38]  we have open market operations,
+[00:08:38 -> 00:08:40]  which is basically the buying and selling
+[00:08:40 -> 00:08:42]  of government bonds.
+[00:08:42 -> 00:08:45]  So here on page number 401 at the middle,
+[00:08:45 -> 00:08:46]  there's a discussion, of course,
+[00:08:46 -> 00:08:48]  about interest rates and the real estate market.
+[00:08:48 -> 00:08:53]  And it's now 2014 and interest rates, of course,
+[00:08:53 -> 00:08:54]  continue to remain low.
+[00:08:54 -> 00:08:56]  And we know that the Federal Reserve Chairman,
+[00:08:56 -> 00:08:59]  Janet Yellen, is intimating that rates
+[00:08:59 -> 00:09:01]  are gonna continue to stay low
+[00:09:01 -> 00:09:02]  over at least the next year.
+[00:09:02 -> 00:09:04]  But what's interesting is that rates are, again,
+[00:09:04 -> 00:09:06]  extremely low.
+[00:09:06 -> 00:09:07]  In the low four percents,
+[00:09:07 -> 00:09:10]  you can get a 30-year fixed conforming loan.
+[00:09:10 -> 00:09:12]  But I read this very funny blog.
+[00:09:12 -> 00:09:13]  Somebody sent it to me that said,
+[00:09:13 -> 00:09:16]  when interest rates hit 7%,
+[00:09:16 -> 00:09:19]  the real estate market is gonna just completely implode.
+[00:09:19 -> 00:09:21]  And I read that and I was like,
+[00:09:21 -> 00:09:24]  this is obviously somebody who's less than 25 years old.
+[00:09:24 -> 00:09:26]  Because if you go back historically,
+[00:09:26 -> 00:09:30]  let's say to 1979, 80, 81, 82,
+[00:09:30 -> 00:09:33]  interest rates in that Carter-Reagan transition period
+[00:09:33 -> 00:09:35]  in the early 80s really were like,
+[00:09:35 -> 00:09:36]  up in the high teens.
+[00:09:36 -> 00:09:40]  You know, 15, 16, 17, 18% in some cases
+[00:09:40 -> 00:09:42]  for home loan financing.
+[00:09:42 -> 00:09:44]  So, I mean, I think we've just been really spoiled
+[00:09:44 -> 00:09:47]  over the last 10, 15 years with interest rates,
+[00:09:47 -> 00:09:50]  you know, four, five, six, 6.5%.
+[00:09:50 -> 00:09:52]  And that's kind of, we've been conditioned
+[00:09:52 -> 00:09:55]  that interest rates sort of should be in that range
+[00:09:55 -> 00:09:56]  for real estate financing.
+[00:09:56 -> 00:09:58]  And we've really been blessed
+[00:09:58 -> 00:10:00]  by having a pretty low interest rate environment
+[00:10:00 -> 00:10:02]  over the last decade, decade and a half.
+[00:10:02 -> 00:10:04]  But if you look here at the bottom of page 401,
+[00:10:04 -> 00:10:06]  there's also a discussion here,
+[00:10:06 -> 00:10:09]  bottom of 401 and the top of 402 about loan points.
+[00:10:09 -> 00:10:11]  And, you know, this is important for the exam.
+[00:10:11 -> 00:10:14]  One loan, one point, as they say,
+[00:10:14 -> 00:10:17]  is equivalent to 1% of the loan amount.
+[00:10:17 -> 00:10:20]  So if you have a loan of 500,000
+[00:10:20 -> 00:10:22]  and the lender is charging you one point,
+[00:10:22 -> 00:10:27]  that's gonna be $500,000 in points.
+[00:10:27 -> 00:10:30]  400,000 on a loan, $4,000 if they're charging you one point.
+[00:10:30 -> 00:10:32]  Now, points can take one of two forms.
+[00:10:32 -> 00:10:35]  Points can either be called origination points
+[00:10:35 -> 00:10:38]  or they could be called discount points.
+[00:10:38 -> 00:10:39]  Now, either way, these are,
+[00:10:39 -> 00:10:41]  one point is 1% of the loan amount.
+[00:10:41 -> 00:10:44]  Now, if you look at the top of 402,
+[00:10:44 -> 00:10:47]  a discount point is a point that is paid by the borrower
+[00:10:47 -> 00:10:49]  in advance, upfront,
+[00:10:49 -> 00:10:51]  in order to lower the overall interest rate.
+[00:10:51 -> 00:10:52]  That's called a discount point.
+[00:10:52 -> 00:10:55]  So you pay a point, a 1% of the loan amount
+[00:10:55 -> 00:10:56]  as a discount point.
+[00:10:56 -> 00:10:59]  This is just gonna lower your overall rate of interest
+[00:10:59 -> 00:11:00]  on your loan.
+[00:11:00 -> 00:11:02]  Now, if you think about this though,
+[00:11:03 -> 00:11:06]  if I was gonna buy a home that I wanted to live in forever
+[00:11:06 -> 00:11:08]  and rates were pretty low today
+[00:11:08 -> 00:11:12]  and I wanted a low overall interest rate
+[00:11:12 -> 00:11:14]  over the life of the loan,
+[00:11:14 -> 00:11:15]  let's say the entire 30 years,
+[00:11:15 -> 00:11:18]  I might be willing to pay one or two discount points
+[00:11:18 -> 00:11:20]  all the way maybe to some floor
+[00:11:20 -> 00:11:23]  where even if I pay more, it can't go below that
+[00:11:23 -> 00:11:24]  because I know I'm gonna be keeping this thing
+[00:11:24 -> 00:11:26]  for let's say, my plan anyway,
+[00:11:26 -> 00:11:28]  is to keep it for let's say 30 years.
+[00:11:28 -> 00:11:29]  If you're buying a house to flip
+[00:11:29 -> 00:11:31]  or you're getting financing
+[00:11:31 -> 00:11:32]  and you plan on getting in and out
+[00:11:32 -> 00:11:34]  in the next year or two years,
+[00:11:34 -> 00:11:36]  you're probably not gonna wanna pay a ton of discount points
+[00:11:36 -> 00:11:38]  because you're gonna be selling that property
+[00:11:38 -> 00:11:41]  and paying off that loan pretty quickly here.
+[00:11:41 -> 00:11:44]  So this is kind of overall mortgage planning
+[00:11:44 -> 00:11:45]  in your own mind.
+[00:11:45 -> 00:11:48]  A borrower who is likely to keep their home
+[00:11:48 -> 00:11:50]  for an extended period of time
+[00:11:50 -> 00:11:53]  might be willing to pay more in discount points
+[00:11:53 -> 00:11:55]  to get an overall lower interest rate
+[00:11:55 -> 00:11:57]  over the life of the loan.
+[00:11:57 -> 00:12:00]  An origination point here at the top of page 402,
+[00:12:00 -> 00:12:03]  an origination point is a point that's paid upfront.
+[00:12:03 -> 00:12:04]  It's like processing.
+[00:12:04 -> 00:12:05]  It's just almost like a commission.
+[00:12:05 -> 00:12:08]  It's just a fee paid to the,
+[00:12:08 -> 00:12:10]  let's say mortgage broker or lender
+[00:12:10 -> 00:12:11]  in order to obtain that loan.
+[00:12:11 -> 00:12:14]  So either way, whether you're talking about discount points
+[00:12:14 -> 00:12:16]  or origination points,
+[00:12:16 -> 00:12:20]  one point is equivalent to 1% of the loan amount.
+[00:12:20 -> 00:12:22]  Now here at the bottom of page 402,
+[00:12:22 -> 00:12:26]  you'll see this discussion where it says sources of funds,
+[00:12:26 -> 00:12:29]  where money comes from to finance real estate.
+[00:12:30 -> 00:12:32]  Now this money can come from essentially one of two places.
+[00:12:32 -> 00:12:35]  And we'll talk about this again more later in the chapter,
+[00:12:35 -> 00:12:38]  but the money can come from either an institutional lender
+[00:12:38 -> 00:12:40]  or from a non-institutional lender,
+[00:12:40 -> 00:12:42]  institutional or non-institutional.
+[00:12:42 -> 00:12:44]  And we'll talk about the differences
+[00:12:44 -> 00:12:45]  later on in the chapter,
+[00:12:45 -> 00:12:48]  but institutional lenders are like banks,
+[00:12:48 -> 00:12:51]  life insurance companies, savings and loan organizations.
+[00:12:51 -> 00:12:53]  Those are institutional lenders.
+[00:12:53 -> 00:12:56]  Non-institutional lenders are like mortgage companies,
+[00:12:56 -> 00:13:00]  private individuals, mortgage brokers, mortgage bankers.
+[00:13:00 -> 00:13:03]  These are all considered to be non-institutional lenders.
+[00:13:03 -> 00:13:06]  Now, there's a lot more origination
+[00:13:06 -> 00:13:08]  coming from the institutional side,
+[00:13:08 -> 00:13:10]  mainly because banks and life insurance companies,
+[00:13:10 -> 00:13:13]  banks do a lot of different kinds of loans.
+[00:13:13 -> 00:13:16]  Life insurance companies generally make really big loans,
+[00:13:16 -> 00:13:18]  like $3 million and up.
+[00:13:18 -> 00:13:22]  Now, when you talk about a loan being originated initially,
+[00:13:22 -> 00:13:26]  that is known as activity at the top of page 403
+[00:13:26 -> 00:13:28]  in the primary mortgage market.
+[00:13:28 -> 00:13:31]  So the primary mortgage market is the original
+[00:13:31 -> 00:13:33]  or the initial origination of a loan.
+[00:13:33 -> 00:13:36]  That's called activity in the primary mortgage market.
+[00:13:36 -> 00:13:39]  Now, so you go to Wells Fargo to apply for a loan.
+[00:13:39 -> 00:13:42]  Wells Fargo does that loan for you.
+[00:13:42 -> 00:13:45]  That's activity in the primary mortgage market.
+[00:13:45 -> 00:13:47]  The secondary market would be if Wells Fargo
+[00:13:47 -> 00:13:50]  were to sell that loan to let's say Bank of America,
+[00:13:50 -> 00:13:52]  that would represent activity
+[00:13:52 -> 00:13:53]  in the secondary mortgage market.
+[00:13:53 -> 00:13:55]  So primary mortgage market
+[00:13:55 -> 00:13:58]  is the initial origination of the loan.
+[00:13:58 -> 00:14:01]  The secondary mortgage market is where that loan
+[00:14:01 -> 00:14:05]  is sold to another bank or another investor.
+[00:14:05 -> 00:14:07]  Now, if you look here, of course, on page 403,
+[00:14:07 -> 00:14:09]  you'll see some discussion about this.
+[00:14:09 -> 00:14:10]  Now, a lot of people, frankly,
+[00:14:10 -> 00:14:12]  if you look back at this last recession,
+[00:14:12 -> 00:14:15]  you know, 2008 and 2009, a lot of people say,
+[00:14:15 -> 00:14:18]  well, the reason that we're kind of in this,
+[00:14:18 -> 00:14:19]  the conundrum that we were in,
+[00:14:20 -> 00:14:21]  the problems we were having is because
+[00:14:21 -> 00:14:23]  a lot of the banks would just sell off these loans
+[00:14:23 -> 00:14:24]  and they wouldn't really care
+[00:14:24 -> 00:14:27]  whether or not the borrower could pay.
+[00:14:27 -> 00:14:29]  You know, that's true to some extent,
+[00:14:29 -> 00:14:30]  you know, that a bank should have
+[00:14:30 -> 00:14:31]  a little more skin in the game.
+[00:14:31 -> 00:14:33]  If you're gonna originate a loan,
+[00:14:33 -> 00:14:35]  you should vet that borrower
+[00:14:35 -> 00:14:36]  and make sure they have the credit
+[00:14:36 -> 00:14:39]  and the income necessary to, you know,
+[00:14:39 -> 00:14:40]  continue to make payments.
+[00:14:40 -> 00:14:43]  But the notion that, you know,
+[00:14:43 -> 00:14:47]  a bank selling a loan to another bank is inherently evil,
+[00:14:47 -> 00:14:48]  you know, I would encourage you to think about that
+[00:14:48 -> 00:14:51]  because imagine that Wells Fargo made,
+[00:14:51 -> 00:14:52]  let's say, a billion dollars
+[00:14:52 -> 00:14:55]  in mortgage origination this year.
+[00:14:55 -> 00:14:57]  Then next year, Wells Fargo has a meeting and says,
+[00:14:57 -> 00:15:00]  you know what, we're way too heavy into real estate loans.
+[00:15:00 -> 00:15:02]  We don't wanna make any more real estate loans anymore,
+[00:15:02 -> 00:15:05]  let's focus more on auto loans.
+[00:15:05 -> 00:15:07]  Now, borrowers that come into Wells Fargo
+[00:15:07 -> 00:15:10]  to borrow money to buy houses the next year
+[00:15:10 -> 00:15:11]  aren't gonna be able to secure financing
+[00:15:11 -> 00:15:13]  because they're otherwise qualified,
+[00:15:13 -> 00:15:15]  it's just that the bank doesn't wanna play
+[00:15:15 -> 00:15:17]  in that sandbox anymore because they have,
+[00:15:17 -> 00:15:20]  you know, they've made too many loans of that type.
+[00:15:20 -> 00:15:23]  So in order to kind of keep money flowing through the system
+[00:15:23 -> 00:15:25]  and keep credit flowing through the system
+[00:15:25 -> 00:15:27]  and make sure there's always money available
+[00:15:27 -> 00:15:29]  for real estate loans,
+[00:15:29 -> 00:15:31]  the government actually participates
+[00:15:31 -> 00:15:33]  in this secondary market
+[00:15:33 -> 00:15:36]  where these loans are purchased from other investors
+[00:15:36 -> 00:15:38]  just to free up capital
+[00:15:38 -> 00:15:41]  and make sure that money stays flowing through the system.
+[00:15:41 -> 00:15:44]  You'll see these on the bottom of page 403,
+[00:15:44 -> 00:15:45]  Fannie Mae and Freddie Mac
+[00:15:45 -> 00:15:48]  are basically quasi-governmental organizations
+[00:15:48 -> 00:15:51]  that participate in the secondary mortgage market.
+[00:15:51 -> 00:15:53]  So Fannie Mae and Freddie Mac
+[00:15:53 -> 00:15:55]  help money flow through the system
+[00:15:55 -> 00:15:58]  by buying loans from banks
+[00:15:58 -> 00:16:00]  that meet their underwriting guidelines.
+[00:16:00 -> 00:16:02]  And you'll see this actually at the bottom of page 404,
+[00:16:02 -> 00:16:03]  you'll see a couple things here.
+[00:16:03 -> 00:16:06]  First, the term conforming loan.
+[00:16:06 -> 00:16:08]  A conforming loan at the bottom of page 404
+[00:16:08 -> 00:16:11]  is a loan that meets the underwriting standards
+[00:16:11 -> 00:16:13]  for Fannie Mae and Freddie Mac
+[00:16:13 -> 00:16:16]  for purchase in the secondary market.
+[00:16:16 -> 00:16:17]  That's why if you like,
+[00:16:17 -> 00:16:18]  I'll give you an example.
+[00:16:18 -> 00:16:20]  Right now, I'm in Newport Beach.
+[00:16:20 -> 00:16:22]  If you look at high-end areas like Newport Beach,
+[00:16:22 -> 00:16:24]  Manhattan Beach, Beverly Hills,
+[00:16:24 -> 00:16:28]  a lot of transactions that are done in those communities,
+[00:16:28 -> 00:16:30]  well, first, they tend to be cash.
+[00:16:30 -> 00:16:35]  And it's not so easy to get money
+[00:16:35 -> 00:16:38]  to buy a $3 million home,
+[00:16:38 -> 00:16:41]  mainly because these are very large home loans,
+[00:16:41 -> 00:16:44]  two and a half, three, four, five, $10 million.
+[00:16:44 -> 00:16:47]  There's not a lot of secondary market activity
+[00:16:47 -> 00:16:48]  for these loans.
+[00:16:48 -> 00:16:51]  So a lot of these loans are what's called portfolio loans
+[00:16:51 -> 00:16:54]  here at the bottom of page 404.
+[00:16:54 -> 00:16:56]  A portfolio loan is a loan,
+[00:16:56 -> 00:16:58]  it is kind of what it sounds like.
+[00:16:58 -> 00:17:00]  A portfolio loan is a loan
+[00:17:00 -> 00:17:02]  that the lender intends to keep.
+[00:17:02 -> 00:17:04]  A portfolio loan is a loan
+[00:17:04 -> 00:17:06]  that the lender keeps kind of in their portfolio,
+[00:17:06 -> 00:17:09]  and the lender makes the interest on that.
+[00:17:09 -> 00:17:13]  Now, here's the challenge with a lot of large jumbo loans
+[00:17:13 -> 00:17:16]  that are portfolio loans inherently,
+[00:17:16 -> 00:17:19]  is that if a bank makes you a $4 million loan
+[00:17:19 -> 00:17:20]  and you don't pay,
+[00:17:20 -> 00:17:22]  that bank could be in a pretty tough position
+[00:17:22 -> 00:17:26]  because it's not easily sold in the secondary market.
+[00:17:26 -> 00:17:29]  They can't push that risk onto someone else easily,
+[00:17:29 -> 00:17:31]  problem number one.
+[00:17:31 -> 00:17:32]  The other thing to think about with this
+[00:17:32 -> 00:17:36]  is that a bank can either make you one $4 million loan,
+[00:17:36 -> 00:17:40]  or they can make 10 $400,000 loans,
+[00:17:40 -> 00:17:43]  spread their risk and get loan fees and origination fees
+[00:17:43 -> 00:17:44]  on every one of those deals.
+[00:17:44 -> 00:17:46]  So if the question on the exam were to say,
+[00:17:46 -> 00:17:48]  here at the bottom of 404,
+[00:17:48 -> 00:17:51]  loans that meet underwriting guidelines
+[00:17:51 -> 00:17:53]  for purchase by Fannie Mae and Freddie Mac
+[00:17:53 -> 00:17:54]  are known as what?
+[00:17:54 -> 00:17:56]  Your answer, conforming loans, right?
+[00:17:56 -> 00:17:59]  A loan that the lender does not sell
+[00:17:59 -> 00:18:02]  and intends to keep is known as what?
+[00:18:02 -> 00:18:03]  Bottom of page 404,
+[00:18:03 -> 00:18:05]  these are known as portfolio loans
+[00:18:05 -> 00:18:08]  here at the bottom of page 404.
+[00:18:08 -> 00:18:12]  Now, we talked earlier about the two types of lenders.
+[00:18:12 -> 00:18:14]  There are institutional lenders
+[00:18:14 -> 00:18:16]  and non-institutional lenders, right?
+[00:18:16 -> 00:18:19]  Institutional and non-institutional.
+[00:18:19 -> 00:18:22]  Institutional lenders, if you look here on page 405,
+[00:18:22 -> 00:18:25]  there's a couple of these that we should know for the exam.
+[00:18:25 -> 00:18:27]  One of these are commercial banks.
+[00:18:27 -> 00:18:29]  Next to commercial banks, I'd write a couple things.
+[00:18:29 -> 00:18:32]  The first thing I would write at the middle of page 405,
+[00:18:32 -> 00:18:36]  I would write the words, a wide variety of loans.
+[00:18:36 -> 00:18:39]  A commercial bank makes a wide variety of loans.
+[00:18:39 -> 00:18:42]  I mean, isn't it true that you could go to a commercial bank
+[00:18:42 -> 00:18:44]  and get, let's say, a credit card loan,
+[00:18:44 -> 00:18:46]  and a student loan, and an auto loan,
+[00:18:46 -> 00:18:47]  and a home equity loan?
+[00:18:47 -> 00:18:48]  I mean, there's all sorts of different loans
+[00:18:48 -> 00:18:50]  that you could get from a bank.
+[00:18:50 -> 00:18:54]  So a bank makes a wide variety of loans for the exam.
+[00:18:54 -> 00:18:55]  Another thing that I would note here,
+[00:18:55 -> 00:18:57]  if you look at page 405,
+[00:18:57 -> 00:18:58]  I would underline or highlight
+[00:18:58 -> 00:18:59]  kind of in the middle of the page,
+[00:18:59 -> 00:19:01]  you'll see where it says,
+[00:19:01 -> 00:19:03]  commercial banks have been a major source
+[00:19:03 -> 00:19:05]  for construction loans.
+[00:19:05 -> 00:19:07]  So if the question on the exam were to say,
+[00:19:07 -> 00:19:09]  the lender that would most likely make you
+[00:19:09 -> 00:19:11]  a construction loan is who?
+[00:19:11 -> 00:19:12]  A commercial bank, right?
+[00:19:12 -> 00:19:15]  So commercial banks are going to make construction loans,
+[00:19:15 -> 00:19:18]  and they also make a wide variety of loans here
+[00:19:18 -> 00:19:20]  at the middle of page 405.
+[00:19:20 -> 00:19:22]  Now, these are different than if you look at page 406,
+[00:19:22 -> 00:19:25]  these are different than life insurance companies.
+[00:19:25 -> 00:19:26]  Next to life insurance companies,
+[00:19:26 -> 00:19:30]  I would write the words, large loans,
+[00:19:30 -> 00:19:32]  $3 million and up.
+[00:19:32 -> 00:19:34]  Life insurance companies make large loans,
+[00:19:34 -> 00:19:35]  3 million and up.
+[00:19:35 -> 00:19:37]  So the question on the exam actually
+[00:19:37 -> 00:19:39]  kind of might be backwards on this one.
+[00:19:39 -> 00:19:41]  The question on the test might be,
+[00:19:41 -> 00:19:45]  the lender that would least likely make a small loan
+[00:19:45 -> 00:19:47]  to purchase a condominium is who?
+[00:19:47 -> 00:19:49]  That's right, life insurance companies, right?
+[00:19:49 -> 00:19:51]  Life insurance companies are least likely
+[00:19:51 -> 00:19:53]  to make those small loans.
+[00:19:53 -> 00:19:54]  They'll generally make large loans,
+[00:19:54 -> 00:19:57]  let's say $3 million and up.
+[00:19:57 -> 00:19:58]  Another thing that's pretty important
+[00:19:58 -> 00:20:00]  about life insurance companies for our test
+[00:20:00 -> 00:20:02]  is at the bottom of the page, in bold,
+[00:20:02 -> 00:20:05]  you'll see the term participation loan.
+[00:20:05 -> 00:20:09]  So a participation loan is a loan wherein the lender,
+[00:20:09 -> 00:20:12]  typically a life insurance company in this context,
+[00:20:12 -> 00:20:14]  a lender will make you the loan,
+[00:20:14 -> 00:20:17]  but they'll also take a small minority share,
+[00:20:17 -> 00:20:19]  an ownership in the project.
+[00:20:19 -> 00:20:22]  So the lender might say, look, we'll make you the loan,
+[00:20:22 -> 00:20:26]  but we also want a small equity share in the project.
+[00:20:26 -> 00:20:28]  Now, you have to be careful though as an investor
+[00:20:28 -> 00:20:30]  because a lot of the times when life insurance companies
+[00:20:30 -> 00:20:32]  make these participation loans,
+[00:20:32 -> 00:20:34]  they'll have a say in management also.
+[00:20:34 -> 00:20:37]  So if you have a gardener friend of yours or a landscaper
+[00:20:37 -> 00:20:39]  that you're pretty close with,
+[00:20:39 -> 00:20:41]  and that lender says that, hey, look,
+[00:20:41 -> 00:20:44]  this landscaper's charging too much money,
+[00:20:44 -> 00:20:47]  it's possible that that lender might be able to dictate
+[00:20:47 -> 00:20:50]  who you actually can use to landscape the project
+[00:20:50 -> 00:20:53]  because they also have an equity interest in the property.
+[00:20:53 -> 00:20:57]  So two institutional lenders, one, commercial banks, right?
+[00:20:57 -> 00:21:00]  We know these guys make a variety of loans
+[00:21:00 -> 00:21:02]  and they're active in construction lending, we know that.
+[00:21:02 -> 00:21:05]  We also know that another institutional lender
+[00:21:05 -> 00:21:07]  is a life insurance company.
+[00:21:07 -> 00:21:09]  These guys make large loans,
+[00:21:09 -> 00:21:11]  generally $3 million and up.
+[00:21:11 -> 00:21:12]  And some of these loans, quite frankly,
+[00:21:12 -> 00:21:14]  are also participation loans
+[00:21:14 -> 00:21:17]  where the lender will take an equity interest in the project
+[00:21:17 -> 00:21:19]  in addition to making the loan.
+[00:21:19 -> 00:21:23]  Now, one thing that's important at the bottom of page 405,
+[00:21:23 -> 00:21:25]  one thing that's important at the bottom of 405
+[00:21:25 -> 00:21:29]  is the term private mortgage insurance.
+[00:21:29 -> 00:21:32]  So private mortgage insurance, or PMI,
+[00:21:32 -> 00:21:35]  is a monthly fee, it's insurance,
+[00:21:35 -> 00:21:38]  that is paid when you have one loan
+[00:21:38 -> 00:21:42]  that is greater than 80% of the value of the property.
+[00:21:42 -> 00:21:44]  So generally what'll happen here
+[00:21:44 -> 00:21:45]  is let's say with an FHA deal,
+[00:21:45 -> 00:21:47]  we'll talk about FHA later in the chapter.
+[00:21:47 -> 00:21:51]  On FHA, you're typically putting about 3 1⁄2% down
+[00:21:51 -> 00:21:52]  on an FHA loan.
+[00:21:52 -> 00:21:54]  So you'll have one loan
+[00:21:54 -> 00:21:58]  that's 96.5% of the purchase price.
+[00:21:58 -> 00:22:00]  Because now you have one loan
+[00:22:00 -> 00:22:02]  greater than 80% of the value,
+[00:22:02 -> 00:22:04]  the lender will, there's a bar
+[00:22:04 -> 00:22:07]  where you're really required to pay something called PMI,
+[00:22:07 -> 00:22:09]  or private mortgage insurance,
+[00:22:09 -> 00:22:12]  each and every month at the bottom of page 405.
+[00:22:12 -> 00:22:15]  So again, what is PMI?
+[00:22:15 -> 00:22:17]  It's private mortgage insurance.
+[00:22:17 -> 00:22:19]  It's monthly premium paid
+[00:22:19 -> 00:22:21]  because you have one loan
+[00:22:21 -> 00:22:24]  greater than 80% of the value of the property.
+[00:22:24 -> 00:22:25]  And that's important to know here
+[00:22:25 -> 00:22:27]  at the bottom of page 405.
+[00:22:27 -> 00:22:29]  Now, if you look at the bottom of 406
+[00:22:29 -> 00:22:31]  and the top of 407,
+[00:22:31 -> 00:22:32]  we already talked about
+[00:22:32 -> 00:22:35]  the two important institutional lenders for the exam.
+[00:22:35 -> 00:22:38]  They are life insurance companies and commercial banks.
+[00:22:38 -> 00:22:40]  And we talked about some of the characteristics
+[00:22:40 -> 00:22:43]  associated with each one of those.
+[00:22:43 -> 00:22:46]  If you look at the bottom of 406 and the top of 407,
+[00:22:46 -> 00:22:50]  this section is about a non-institutional lenders.
+[00:22:50 -> 00:22:51]  And non-institutional lenders
+[00:22:51 -> 00:22:54]  can either take the form of mortgage bankers
+[00:22:54 -> 00:22:58]  or mortgage brokers here at the top of 407.
+[00:22:58 -> 00:22:59]  They're also private individuals.
+[00:22:59 -> 00:23:02]  If you look at that chart at the top of 407,
+[00:23:02 -> 00:23:05]  anytime you have, let's say, seller carryback financing,
+[00:23:05 -> 00:23:09]  that seller is acting as a non-institutional lender
+[00:23:09 -> 00:23:11]  or a private lender at the top of 407.
+[00:23:11 -> 00:23:15]  Now, one thing that's a pretty big change, actually,
+[00:23:15 -> 00:23:17]  that's happened over the last several years
+[00:23:17 -> 00:23:20]  in our real estate industry is the SAFE Act.
+[00:23:20 -> 00:23:23]  And the SAFE Act is a law that went into effect
+[00:23:24 -> 00:23:28]  a few years ago that basically requires now
+[00:23:28 -> 00:23:30]  that all mortgage loan originators,
+[00:23:30 -> 00:23:33]  mortgage companies, mortgage bankers, et cetera,
+[00:23:33 -> 00:23:38]  actually have to take a 20-hour class and an exam.
+[00:23:38 -> 00:23:39]  And every year,
+[00:23:39 -> 00:23:42]  they have to take an eight-hour renewal class
+[00:23:42 -> 00:23:43]  under the SAFE Act.
+[00:23:43 -> 00:23:46]  So the SAFE Act is basically a law that passed
+[00:23:46 -> 00:23:49]  that requires that mortgage loan originators
+[00:23:49 -> 00:23:52]  have basically additional education.
+[00:23:52 -> 00:23:54]  They have to take and pass another test.
+[00:23:54 -> 00:23:56]  They gotta renew this license every year.
+[00:23:56 -> 00:24:00]  And anytime you get a business card from a lender,
+[00:24:00 -> 00:24:03]  the lender, their card will always have something
+[00:24:03 -> 00:24:06]  called an NMLS number on it.
+[00:24:06 -> 00:24:08]  This NMLS concept stands
+[00:24:08 -> 00:24:11]  for National Mortgage License Systems,
+[00:24:11 -> 00:24:13]  required again here under the SAFE Act,
+[00:24:13 -> 00:24:16]  showing that they've passed the 20-hour class,
+[00:24:16 -> 00:24:17]  they've passed an exam,
+[00:24:17 -> 00:24:19]  they've passed a financial health check.
+[00:24:19 -> 00:24:22]  Now, again, this law went into effect after our recession.
+[00:24:22 -> 00:24:25]  So a lot of regulators looked at our industry and said,
+[00:24:25 -> 00:24:28]  well, who's licensing a lot of these mortgage companies?
+[00:24:28 -> 00:24:29]  And really what they found
+[00:24:29 -> 00:24:32]  was that under some regulatory structures,
+[00:24:32 -> 00:24:34]  some of the employees at those mortgage companies
+[00:24:34 -> 00:24:36]  didn't actually need to be licensed.
+[00:24:36 -> 00:24:39]  So we passed something called the SAFE Act,
+[00:24:39 -> 00:24:41]  which requires that mortgage companies
+[00:24:41 -> 00:24:45]  and people that work there need an NMLS endorsement
+[00:24:45 -> 00:24:48]  under this law called the SAFE Act
+[00:24:48 -> 00:24:51]  here on all of page number 407, really.
+[00:24:52 -> 00:24:54]  Now, another couple of things that are pretty important,
+[00:24:54 -> 00:24:56]  if you look here at the top of 408,
+[00:24:56 -> 00:25:00]  you'll see the term subprime lender at the top of 408.
+[00:25:00 -> 00:25:02]  A subprime loan, as you probably know,
+[00:25:02 -> 00:25:05]  is a loan that does not meet
+[00:25:05 -> 00:25:07]  typical underwriting guidelines.
+[00:25:07 -> 00:25:08]  Now, this might be because
+[00:25:08 -> 00:25:09]  maybe you have too many expenses
+[00:25:09 -> 00:25:12]  and your debt to income ratio is a little too high.
+[00:25:12 -> 00:25:15]  This might be because your credit score
+[00:25:15 -> 00:25:19]  isn't above 680 or 720 or 750 or whatever it is,
+[00:25:19 -> 00:25:21]  and you might need to go to a subprime lender.
+[00:25:21 -> 00:25:23]  So a subprime loan,
+[00:25:23 -> 00:25:26]  these are sometimes also called Alt-A loans
+[00:25:26 -> 00:25:29]  or loans for people that don't really fit into the box
+[00:25:29 -> 00:25:31]  of what a traditional bank
+[00:25:31 -> 00:25:33]  would consider to be a perfect borrower.
+[00:25:33 -> 00:25:35]  These are, of course, known as subprime loans
+[00:25:35 -> 00:25:37]  here at the top of page 408.
+[00:25:37 -> 00:25:39]  You're probably familiar with that concept.
+[00:25:39 -> 00:25:41]  Now, if you look at the bottom of page 408
+[00:25:41 -> 00:25:43]  and the top of 409,
+[00:25:43 -> 00:25:47]  you'll see the term seller carryback financing in bold.
+[00:25:47 -> 00:25:51]  Seller carryback financing is where the seller
+[00:25:51 -> 00:25:54]  is actually acting as a lender,
+[00:25:54 -> 00:25:56]  where the seller is actually acting as a lender.
+[00:25:56 -> 00:25:58]  Now, let me give you an example of this.
+[00:25:58 -> 00:26:00]  An example of a seller carry deal might be,
+[00:26:00 -> 00:26:03]  maybe I'm selling my house for $100,000.
+[00:26:03 -> 00:26:04]  You wanna buy my house.
+[00:26:04 -> 00:26:08]  Between your loan and your down payment,
+[00:26:08 -> 00:26:10]  you're good for like 90,000.
+[00:26:10 -> 00:26:11]  You're short 10,000.
+[00:26:11 -> 00:26:14]  Now, if you asked me to take 90,000 on my $100,000 deal,
+[00:26:14 -> 00:26:16]  I might tell you no.
+[00:26:16 -> 00:26:18]  But I might say, look, you pay me the 90.
+[00:26:18 -> 00:26:23]  I, as the seller, will carry back the remaining 10,000.
+[00:26:23 -> 00:26:25]  Meaning that you, as the buyer,
+[00:26:25 -> 00:26:27]  you're gonna make your regular mortgage payment
+[00:26:27 -> 00:26:28]  to Bank of America.
+[00:26:28 -> 00:26:30]  But additionally, every single month,
+[00:26:30 -> 00:26:31]  you're gonna pay me
+[00:26:31 -> 00:26:34]  because I'm acting as the lender on a junior loan.
+[00:26:35 -> 00:26:37]  This is known as seller carryback financing.
+[00:26:37 -> 00:26:41]  Now, the benefit to you is that now you get to buy my house.
+[00:26:41 -> 00:26:43]  The benefit to me is I get to sell my house
+[00:26:43 -> 00:26:46]  and I'll actually be secured by the property as a seller.
+[00:26:46 -> 00:26:49]  So if you don't pay me, fine, I'll just foreclose
+[00:26:49 -> 00:26:50]  just like any other lender would.
+[00:26:50 -> 00:26:52]  But the benefit to me is, number one,
+[00:26:52 -> 00:26:54]  I have a security interest in the property.
+[00:26:54 -> 00:26:57]  So if you don't pay me, I can still foreclose.
+[00:26:57 -> 00:27:00]  Another benefit is if I put that $10,000 in the bank,
+[00:27:00 -> 00:27:04]  I might get 1% or 1.2% or maybe even less
+[00:27:04 -> 00:27:06]  in terms of a rate of interest.
+[00:27:06 -> 00:27:08]  But if I'm doing a seller carry deal,
+[00:27:08 -> 00:27:10]  I'm gonna charge you 6, 6 1⁄2 or 7%.
+[00:27:10 -> 00:27:13]  So it would give me a higher rate of return
+[00:27:13 -> 00:27:17]  that I would get leaving my money at the bank.
+[00:27:17 -> 00:27:19]  Another benefit, candidly, to a seller carryback,
+[00:27:19 -> 00:27:22]  or another thing to think about is that I, as the seller,
+[00:27:22 -> 00:27:23]  this isn't really a benefit,
+[00:27:23 -> 00:27:27]  but it's just to understand the dynamics of how this works.
+[00:27:27 -> 00:27:30]  In order for this to work as a seller,
+[00:27:30 -> 00:27:32]  I have to not need that money now.
+[00:27:32 -> 00:27:36]  I have to not be relying on that $10,000 for any purpose.
+[00:27:36 -> 00:27:39]  Because if I need that 10,000 now, I can't carry, right?
+[00:27:39 -> 00:27:40]  Because I need the cash.
+[00:27:40 -> 00:27:42]  So this is a seller carry deal,
+[00:27:42 -> 00:27:45]  where the seller is actually acting
+[00:27:45 -> 00:27:47]  as the lender on a transaction.
+[00:27:47 -> 00:27:50]  And the seller is being paid a higher rate of interest
+[00:27:50 -> 00:27:52]  than they would get, for example,
+[00:27:52 -> 00:27:54]  if they left their money at the bank.
+[00:27:54 -> 00:27:58]  Now, another class of non-institutional lenders
+[00:27:58 -> 00:28:01]  is here on page number 409.
+[00:28:01 -> 00:28:03]  It's the mortgage loan broker.
+[00:28:03 -> 00:28:05]  Now, the mortgage loan broker
+[00:28:05 -> 00:28:07]  isn't actually making you the loan.
+[00:28:07 -> 00:28:11]  The mortgage loan broker is actually just introducing
+[00:28:11 -> 00:28:13]  a lender with a borrower
+[00:28:13 -> 00:28:15]  and collecting a commission for doing so.
+[00:28:15 -> 00:28:18]  So for the exam, maybe next to page 409,
+[00:28:18 -> 00:28:20]  you might wanna highlight this gray box that says,
+[00:28:20 -> 00:28:23]  mortgage brokers are strictly middlemen
+[00:28:23 -> 00:28:26]  who bring lenders and borrowers together, and that's true.
+[00:28:26 -> 00:28:28]  Another thing about mortgage brokers
+[00:28:29 -> 00:28:30]  that's pretty important to know for our test
+[00:28:30 -> 00:28:35]  is I would write the words least likely to service a loan.
+[00:28:35 -> 00:28:39]  Mortgage loan brokers are least likely to service a loan.
+[00:28:39 -> 00:28:42]  And you might wanna write that here at the top of page 409.
+[00:28:42 -> 00:28:44]  Mortgage loan brokers aren't gonna service a loan.
+[00:28:44 -> 00:28:46]  Now, what does service a loan mean?
+[00:28:46 -> 00:28:48]  That means, let's say collect payments,
+[00:28:48 -> 00:28:50]  send late statements, you know,
+[00:28:50 -> 00:28:53]  basically be a point of communication
+[00:28:53 -> 00:28:55]  between the lender and the borrower
+[00:28:55 -> 00:28:56]  during the life of the loan.
+[00:28:56 -> 00:28:58]  Mortgage brokers aren't gonna do that.
+[00:28:59 -> 00:29:01]  They're gonna introduce a lender with a borrower,
+[00:29:01 -> 00:29:03]  collect a commission for doing so,
+[00:29:03 -> 00:29:03]  and they're gonna be done.
+[00:29:03 -> 00:29:06]  So here on page number 409,
+[00:29:06 -> 00:29:07]  mortgage loan brokers, again,
+[00:29:07 -> 00:29:10]  they're strictly middlemen between a lender and a borrower.
+[00:29:10 -> 00:29:11]  Now, a lot of people hear this and say,
+[00:29:11 -> 00:29:14]  well, why would I ever go to a mortgage loan broker?
+[00:29:14 -> 00:29:15]  They're a middleman, right?
+[00:29:15 -> 00:29:17]  Admittedly, they're a middleman.
+[00:29:17 -> 00:29:20]  Anytime you have a middleman in anything,
+[00:29:20 -> 00:29:22]  they're gonna charge a fee.
+[00:29:22 -> 00:29:25]  Isn't it better to just simply, you know,
+[00:29:25 -> 00:29:27]  go straight to a bank?
+[00:29:27 -> 00:29:29]  Well, maybe if I have less than perfect credit,
+[00:29:29 -> 00:29:31]  maybe if my, maybe I'm self-employed
+[00:29:31 -> 00:29:33]  and my tax returns are really complicated,
+[00:29:33 -> 00:29:35]  and, you know, maybe I even ran a loss last year
+[00:29:35 -> 00:29:36]  on my business, but I have money,
+[00:29:36 -> 00:29:39]  I got a down payment, I got good credit,
+[00:29:39 -> 00:29:41]  but my tax returns just aren't there.
+[00:29:41 -> 00:29:43]  A mortgage broker might know someone
+[00:29:43 -> 00:29:44]  who's willing to make a loan
+[00:29:44 -> 00:29:47]  on terms that are not exactly the same
+[00:29:47 -> 00:29:51]  as what a traditional bank would require.
+[00:29:51 -> 00:29:53]  So there is a pretty big section in this book
+[00:29:53 -> 00:29:55]  or very important topic that we have to go over,
+[00:29:55 -> 00:29:57]  and it's here, if you look at page 413,
+[00:29:57 -> 00:30:00]  types of loans, 413, 414.
+[00:30:00 -> 00:30:04]  So we'll start at the top of page 414
+[00:30:04 -> 00:30:06]  with this discussion about conventional loans.
+[00:30:06 -> 00:30:09]  So a conventional loan is a loan
+[00:30:09 -> 00:30:11]  that does not involve the government.
+[00:30:11 -> 00:30:13]  So I know that term conventional
+[00:30:13 -> 00:30:15]  sounds a lot like conforming,
+[00:30:15 -> 00:30:16]  but they're actually different.
+[00:30:16 -> 00:30:18]  A conventional loan is a loan
+[00:30:18 -> 00:30:21]  that does not have any government participation.
+[00:30:21 -> 00:30:23]  Those loans are known as conventional loans.
+[00:30:23 -> 00:30:26]  Remember, a conforming loan is a loan
+[00:30:26 -> 00:30:28]  that meets the underwriting standards
+[00:30:28 -> 00:30:30]  for purchase by Fannie Mae and Freddie Mac
+[00:30:30 -> 00:30:32]  in the secondary mortgage market, right?
+[00:30:32 -> 00:30:34]  So that's a conforming loan.
+[00:30:34 -> 00:30:35]  A conventional loan is a loan
+[00:30:35 -> 00:30:38]  that simply does not involve any aspect of the government.
+[00:30:38 -> 00:30:40]  Now, typically, just one way to think about this,
+[00:30:40 -> 00:30:43]  if you look at the top of page 414,
+[00:30:43 -> 00:30:44]  one way to think about this is
+[00:30:44 -> 00:30:48]  what do you consider to be good credit in your own mind?
+[00:30:48 -> 00:30:48]  Just a credit score.
+[00:30:48 -> 00:30:50]  Man, a lot of people, if you ask someone that,
+[00:30:50 -> 00:30:54]  will say 700, 720, 760, 800, something like that.
+[00:30:54 -> 00:30:56]  Is 580 good credit?
+[00:30:56 -> 00:30:58]  I think most of us would probably agree
+[00:30:58 -> 00:31:01]  that 580 isn't the most stellar credit in the world,
+[00:31:01 -> 00:31:04]  but FHA loan will allow a borrower
+[00:31:04 -> 00:31:08]  to borrow money to buy a property with 580 credit.
+[00:31:08 -> 00:31:09]  What do you consider to be
+[00:31:09 -> 00:31:13]  a normal down payment required on a loan?
+[00:31:13 -> 00:31:14]  Now, if you ask most people that,
+[00:31:14 -> 00:31:16]  most people are gonna say 20%.
+[00:31:16 -> 00:31:16]  Now, think about this.
+[00:31:16 -> 00:31:20]  If everybody on the planet needed 20% to put down,
+[00:31:21 -> 00:31:21]  it wouldn't happen.
+[00:31:21 -> 00:31:24]  I mean, let's say in Orange County or LA County
+[00:31:24 -> 00:31:25]  or even in the Bay Area, whatever,
+[00:31:25 -> 00:31:28]  an average price home might be 500,000 or more.
+[00:31:28 -> 00:31:30]  I mean, even if you go into like Riverside
+[00:31:30 -> 00:31:33]  and San Bernardino counties, which are great areas,
+[00:31:33 -> 00:31:35]  even a $300,000 property,
+[00:31:35 -> 00:31:40]  if you needed $60,000 or 20% to buy a $300,000 property,
+[00:31:40 -> 00:31:41]  how long do you think it would take
+[00:31:41 -> 00:31:43]  most people to save up 60,000?
+[00:31:43 -> 00:31:45]  It would take a long time.
+[00:31:45 -> 00:31:48]  And for a lot of us, we might not even know where to start
+[00:31:48 -> 00:31:49]  to save up that much money.
+[00:31:50 -> 00:31:55]  But FHA will allow a borrower to put only 3 1⁄2% down
+[00:31:55 -> 00:31:58]  in order to buy a property FHA.
+[00:31:58 -> 00:32:00]  Now again, do banks like making loans to people
+[00:32:00 -> 00:32:02]  that only have 3 1⁄2% down?
+[00:32:02 -> 00:32:03]  Of course not.
+[00:32:03 -> 00:32:06]  But a bank is willing to do it because on an FHA deal,
+[00:32:06 -> 00:32:09]  the government is actually insuring the loan.
+[00:32:09 -> 00:32:12]  So again, a conventional loan is generally gonna have
+[00:32:12 -> 00:32:14]  more strict underwriting guidelines.
+[00:32:14 -> 00:32:16]  Typically gonna require, let's say a conventional loan,
+[00:32:16 -> 00:32:19]  a lot of the time 10 or 20% down or more.
+[00:32:19 -> 00:32:21]  It's gonna require really good credit.
+[00:32:21 -> 00:32:23]  It's gonna require, you don't have a long story
+[00:32:23 -> 00:32:24]  about your life.
+[00:32:24 -> 00:32:26]  You know, FHA even has a program on a side note
+[00:32:26 -> 00:32:28]  called FHA Back to Work.
+[00:32:28 -> 00:32:29]  You can look that up on Google.
+[00:32:29 -> 00:32:33]  FHA Back to Work allows a borrower to buy a home FHA
+[00:32:33 -> 00:32:36]  within one year of a foreclosure.
+[00:32:36 -> 00:32:37]  That's amazing.
+[00:32:37 -> 00:32:39]  I mean, do banks like making loans to people
+[00:32:39 -> 00:32:41]  that just foreclosed last year?
+[00:32:41 -> 00:32:42]  Of course not.
+[00:32:42 -> 00:32:44]  But they're okay to do it on this particular program
+[00:32:44 -> 00:32:47]  because FHA is insuring the lender.
+[00:32:47 -> 00:32:50]  So again, a conventional loan, top of page 414,
+[00:32:50 -> 00:32:52]  is a loan that doesn't involve the government at all.
+[00:32:52 -> 00:32:55]  If you look at page number 414, you'll see this gray box.
+[00:32:55 -> 00:32:58]  Remember, this is a real estate practice class.
+[00:32:58 -> 00:33:00]  So it's kind of the practical application of real estate,
+[00:33:00 -> 00:33:02]  how to compare loans.
+[00:33:02 -> 00:33:04]  Look at the things that we're recommending
+[00:33:04 -> 00:33:05]  you compare loans on.
+[00:33:05 -> 00:33:08]  Loan to value ratio, the ratio or LTV,
+[00:33:08 -> 00:33:11]  the ratio of the loan amount to the value of a property.
+[00:33:11 -> 00:33:13]  How much money do you need to put down
+[00:33:13 -> 00:33:15]  in order to secure the loan?
+[00:33:15 -> 00:33:17]  That's one thing to compare.
+[00:33:18 -> 00:33:19]  Look at the second thing, interest rate.
+[00:33:19 -> 00:33:20]  And can it be changed?
+[00:33:20 -> 00:33:21]  Is it fixed or adjustable?
+[00:33:21 -> 00:33:24]  Look at the third thing, loan costs and fees required.
+[00:33:24 -> 00:33:25]  We'll talk about this again,
+[00:33:25 -> 00:33:28]  but there's a law called RESPA
+[00:33:28 -> 00:33:30]  or the Real Estate Settlement Procedures Act.
+[00:33:30 -> 00:33:35]  And RESPA actually requires that a lender provide a borrower
+[00:33:36 -> 00:33:38]  with something called a good faith estimate
+[00:33:38 -> 00:33:39]  of all the fees, right?
+[00:33:39 -> 00:33:41]  So you can compare apples to apples
+[00:33:41 -> 00:33:44]  within three business days of you applying for a loan.
+[00:33:44 -> 00:33:45]  Pre-payment penalties.
+[00:33:46 -> 00:33:48]  Are you gonna be paying a big fee to pay off the loan early
+[00:33:48 -> 00:33:50]  if you sell it or refinance it?
+[00:33:50 -> 00:33:52]  Look at the next one, length of the loan.
+[00:33:52 -> 00:33:55]  Is it a 15-year or a 30-year loan?
+[00:33:55 -> 00:33:57]  Amount of fixed monthly payment, right?
+[00:33:57 -> 00:34:00]  I mean, how much is the payment comparing apples to apples?
+[00:34:00 -> 00:34:02]  Initial rate, adjustment periods, caps, index,
+[00:34:02 -> 00:34:04]  all these things if you have an adjustable rate loan
+[00:34:04 -> 00:34:06]  need to be compared.
+[00:34:06 -> 00:34:07]  So it's important.
+[00:34:07 -> 00:34:10]  Buying the right home is important.
+[00:34:10 -> 00:34:11]  But almost as important,
+[00:34:11 -> 00:34:14]  in some instances maybe even more important,
+[00:34:14 -> 00:34:16]  is the financing structure that you choose
+[00:34:16 -> 00:34:20]  on your particular loan.
+[00:34:20 -> 00:34:22]  Now, remember, a conventional loan, top of 414,
+[00:34:22 -> 00:34:25]  is a loan that doesn't involve the government.
+[00:34:25 -> 00:34:27]  At the bottom of page 414,
+[00:34:27 -> 00:34:31]  a government loan is not conventional by definition.
+[00:34:31 -> 00:34:32]  Obviously, because a conventional loan
+[00:34:32 -> 00:34:35]  is a loan that doesn't involve the government.
+[00:34:35 -> 00:34:37]  A government loan involves the government, right?
+[00:34:37 -> 00:34:38]  And there's really three types.
+[00:34:38 -> 00:34:41]  If you look at page 415, you'll see this chart.
+[00:34:41 -> 00:34:44]  FHA, VA, and CalVet.
+[00:34:44 -> 00:34:47]  FHA, VA, and CalVet are the three types
+[00:34:47 -> 00:34:49]  of government-sponsored loan types
+[00:34:49 -> 00:34:51]  that are important for us to know on the exam.
+[00:34:51 -> 00:34:54]  Now, if you look here at the bottom of page number 414,
+[00:34:54 -> 00:34:57]  bottom of 415, you'll see the term FHA.
+[00:34:57 -> 00:35:00]  FHA, of course, is Federal Housing Administration.
+[00:35:00 -> 00:35:03]  And we have a few paragraphs here on this,
+[00:35:03 -> 00:35:05]  but I'll just give you the gist of what FHA is.
+[00:35:05 -> 00:35:10]  First of all, FHA is not only for first-time buyers.
+[00:35:10 -> 00:35:11]  You can buy your second house FHA.
+[00:35:11 -> 00:35:15]  It's just that most people that go FHA
+[00:35:15 -> 00:35:16]  tend to be first-time homebuyers
+[00:35:16 -> 00:35:20]  because FHA only requires a 3.5% down payment,
+[00:35:20 -> 00:35:22]  which makes homeownership possible
+[00:35:22 -> 00:35:26]  for people that don't necessarily have a home before
+[00:35:26 -> 00:35:28]  that they're selling to buy their next one.
+[00:35:28 -> 00:35:30]  Because a lot of the time, if you own a home already
+[00:35:30 -> 00:35:33]  and you sell it, you're gonna use that down payment
+[00:35:33 -> 00:35:35]  in order to buy the next one, right?
+[00:35:35 -> 00:35:38]  So you're not gonna need the 3.5% down payment
+[00:35:39 -> 00:35:42]  that benefit that FHA provides to an FHA borrower.
+[00:35:42 -> 00:35:44]  But do you have to be a first-time buyer to go FHA?
+[00:35:44 -> 00:35:45]  No.
+[00:35:45 -> 00:35:49]  Are most FHA loans originated for first-time buyers?
+[00:35:49 -> 00:35:50]  Probably.
+[00:35:50 -> 00:35:54]  FHA is only gonna require a 3.5% down payment.
+[00:35:54 -> 00:35:57]  Now, FHA loan limits are dependent
+[00:35:57 -> 00:36:00]  on which county you're buying the property in.
+[00:36:00 -> 00:36:03]  Now, the book here on page 415 says at the middle,
+[00:36:03 -> 00:36:07]  FHA insured has a max loan amount of 625.
+[00:36:07 -> 00:36:09]  That's actually dependent on the county.
+[00:36:09 -> 00:36:11]  If you look at LA and Orange County, for example,
+[00:36:11 -> 00:36:13]  the FHA loan limit around here
+[00:36:13 -> 00:36:18]  is up to about 729,000 and change, which is great news.
+[00:36:18 -> 00:36:21]  I mean, again, today I'm in Newport Beach,
+[00:36:21 -> 00:36:24]  but you're probably not gonna buy the home of your dreams
+[00:36:24 -> 00:36:26]  in Newport Beach for 729,000.
+[00:36:26 -> 00:36:29]  But there are some areas in Orange County
+[00:36:29 -> 00:36:31]  where you can get maybe not the biggest house on the block,
+[00:36:31 -> 00:36:33]  but you can get a really nice house
+[00:36:33 -> 00:36:36]  and only put 3.5% down on your FHA deal.
+[00:36:37 -> 00:36:39]  So you can buy a $700,000 home
+[00:36:39 -> 00:36:42]  and only put $24,000, $25,000 down.
+[00:36:42 -> 00:36:44]  That $300,000 property I talked about,
+[00:36:44 -> 00:36:46]  let's say in Ontario, California,
+[00:36:46 -> 00:36:49]  you can buy that property with $11,000 down
+[00:36:49 -> 00:36:50]  or about 3.5%.
+[00:36:50 -> 00:36:53]  Now, you can save up $11,000.
+[00:36:53 -> 00:36:56]  Maybe not in a day, maybe not in a week,
+[00:36:56 -> 00:36:57]  maybe not even in a year.
+[00:36:57 -> 00:36:58]  But you could say, you know what?
+[00:36:58 -> 00:36:59]  I'm gonna buy a house in two years
+[00:36:59 -> 00:37:01]  and I'm gonna go FHA, I'm gonna buy it in the city
+[00:37:01 -> 00:37:03]  and I'm only gonna put 3.5% down.
+[00:37:03 -> 00:37:05]  That's possible, right?
+[00:37:05 -> 00:37:07]  If you needed to save up $60,000,
+[00:37:07 -> 00:37:10]  you can't just cut out beer, chocolate and cigarettes
+[00:37:10 -> 00:37:13]  and get to, you know, $60,000.
+[00:37:13 -> 00:37:14]  That's gonna take a lot,
+[00:37:14 -> 00:37:16]  it's a hell of a lot longer road
+[00:37:16 -> 00:37:17]  to save up that much money.
+[00:37:17 -> 00:37:19]  So FHA, the benefit here,
+[00:37:19 -> 00:37:23]  is that it only requires a 3.5% down payment.
+[00:37:23 -> 00:37:26]  VA, on the other hand, if you look at page number 416,
+[00:37:26 -> 00:37:27]  VA is awesome.
+[00:37:27 -> 00:37:28]  Now, VA is only for veterans,
+[00:37:28 -> 00:37:31]  but VA is awesome because it requires no money down.
+[00:37:31 -> 00:37:34]  So when we talked earlier about this concept
+[00:37:34 -> 00:37:36]  of something called loan-to-value,
+[00:37:36 -> 00:37:39]  loan-to-value ratio is a ratio of the loan amount
+[00:37:39 -> 00:37:42]  to the value of a property, right?
+[00:37:42 -> 00:37:43]  If you're putting no money down,
+[00:37:43 -> 00:37:44]  what's your loan-to-value?
+[00:37:44 -> 00:37:48]  It's 100% loan-to-value on VA on page number 416.
+[00:37:48 -> 00:37:51]  Now, you do have to have a certificate of eligibility
+[00:37:51 -> 00:37:54]  that shows that you're entitled to veterans' benefits,
+[00:37:54 -> 00:37:55]  but, you know, you should be.
+[00:37:55 -> 00:37:56]  You've served our country
+[00:37:56 -> 00:37:58]  and you're gonna be able to put zero down and buy a home.
+[00:37:58 -> 00:38:02]  So we have two government-sponsored loan types so far,
+[00:38:02 -> 00:38:03]  FHA and VA.
+[00:38:03 -> 00:38:04]  What's important to remember, though,
+[00:38:04 -> 00:38:07]  if you look back at 415,
+[00:38:07 -> 00:38:10]  who do you get an FHA and VA loan from?
+[00:38:10 -> 00:38:14]  You don't get an FHA and VA loan from FHA or VA.
+[00:38:14 -> 00:38:15]  You get it from a regular bank.
+[00:38:15 -> 00:38:17]  So you're gonna go to Wells Fargo, Bank of America,
+[00:38:17 -> 00:38:19]  you know, OneWest, JPMorgan Chase,
+[00:38:19 -> 00:38:22]  and that lender is gonna make you the loan.
+[00:38:22 -> 00:38:27]  FHA and VA are merely going to insure or guarantee
+[00:38:27 -> 00:38:30]  an FHA or VA loan made by an approved lender.
+[00:38:30 -> 00:38:33]  Now, the third type of government-sponsored loan,
+[00:38:33 -> 00:38:34]  if you look here at the bottom of 416
+[00:38:34 -> 00:38:37]  and the top of 417, is CalVet.
+[00:38:37 -> 00:38:41]  CalVet is totally different than FHA and VA.
+[00:38:41 -> 00:38:44]  On a CalVet deal, you're actually getting your loan
+[00:38:44 -> 00:38:45]  from the state of California.
+[00:38:45 -> 00:38:47]  The state is actually going out
+[00:38:47 -> 00:38:50]  and buying the house for you
+[00:38:50 -> 00:38:53]  and selling it to you on something called a land contract.
+[00:38:53 -> 00:38:56]  So a land contract does not involve a bank.
+[00:38:56 -> 00:38:58]  You might remember this from your principal's class.
+[00:38:58 -> 00:39:00]  Remember, a land contract is also called
+[00:39:00 -> 00:39:02]  a real property sales contract
+[00:39:02 -> 00:39:05]  or an installment sales contract or a land contract.
+[00:39:05 -> 00:39:08]  Not just for land, it's just there's no bank involved.
+[00:39:08 -> 00:39:11]  The best analogy for this is if you were to go buy a car,
+[00:39:11 -> 00:39:15]  like a old, you know, old kind of crappy used car
+[00:39:15 -> 00:39:17]  from a dealership, let's say it's $4,000.
+[00:39:17 -> 00:39:19]  You could go to that dealership and tell them,
+[00:39:19 -> 00:39:23]  look, I'll give you two grand as a down payment.
+[00:39:23 -> 00:39:25]  Give me the car so I can go to work.
+[00:39:25 -> 00:39:28]  Over the next year, I'll pay you $2,000
+[00:39:28 -> 00:39:31]  plus, you know, 15% interest or whatever it is,
+[00:39:31 -> 00:39:33]  and you mail me the pink slip or the title
+[00:39:33 -> 00:39:35]  when I get done paying you.
+[00:39:35 -> 00:39:37]  There is no bank involved in that story.
+[00:39:37 -> 00:39:40]  There's just the seller, the dealership,
+[00:39:40 -> 00:39:42]  and the buyer on a contract.
+[00:39:42 -> 00:39:44]  That's exactly how a CalVet loan works.
+[00:39:44 -> 00:39:48]  The state goes out and buys the house for the veteran.
+[00:39:48 -> 00:39:50]  The veteran signs a land contract.
+[00:39:50 -> 00:39:52]  The state gives them the keys.
+[00:39:52 -> 00:39:54]  The veteran gets to live there.
+[00:39:54 -> 00:39:57]  The state, though, is gonna hold on to a grant deed
+[00:39:57 -> 00:40:01]  until the veteran pays off the contract price.
+[00:40:01 -> 00:40:02]  This is a CalVet loan.
+[00:40:02 -> 00:40:05]  So three government-sponsored loans that we need to know,
+[00:40:05 -> 00:40:08]  FHA, VA, and CalVet.
+[00:40:08 -> 00:40:09]  FHA and VA are different
+[00:40:09 -> 00:40:13]  because the loans are originated by a lender.
+[00:40:13 -> 00:40:15]  They're just insured by the government.
+[00:40:15 -> 00:40:18]  On a CalVet product, the loan is actually originated,
+[00:40:18 -> 00:40:21]  the deal is done by the state of California,
+[00:40:21 -> 00:40:25]  and the state sells it to the veteran on a land contract.
+[00:40:25 -> 00:40:28]  So two types of loans, conventional on one side,
+[00:40:28 -> 00:40:30]  government-sponsored on the other.
+[00:40:30 -> 00:40:33]  FHA, VA, and CalVet are over here.
+[00:40:33 -> 00:40:35]  And the other loan types do not involve the government,
+[00:40:35 -> 00:40:37]  and they're known as conventional loans.
+[00:40:37 -> 00:40:39]  Now, another thing I do wanna share with you
+[00:40:39 -> 00:40:42]  from this chapter, if you look at 418 and 419,
+[00:40:42 -> 00:40:44]  there's a few different vocabulary terms
+[00:40:44 -> 00:40:47]  that are pretty important to know for the exam.
+[00:40:47 -> 00:40:49]  One of these is called an open-end loan
+[00:40:49 -> 00:40:52]  or open-end trust deed at the middle of 418.
+[00:40:52 -> 00:40:54]  An open-end loan is also called
+[00:40:54 -> 00:40:58]  a home equity line of credit or an open-end loan.
+[00:40:58 -> 00:41:02]  So in a home equity line of credit, also called a HELOC,
+[00:41:02 -> 00:41:06]  the amount of loan is not necessarily predetermined.
+[00:41:06 -> 00:41:08]  You're not actually taking any money today.
+[00:41:08 -> 00:41:09]  They'll just give you, let's say,
+[00:41:09 -> 00:41:11]  a $100,000 line of credit,
+[00:41:11 -> 00:41:15]  and you can draw on that line of credit over time.
+[00:41:15 -> 00:41:17]  Now, these open-end loans, candidly,
+[00:41:17 -> 00:41:19]  do tend to be adjustable-rate loans
+[00:41:19 -> 00:41:21]  because they kinda have to be, right?
+[00:41:21 -> 00:41:22]  Because if a lender gives you
+[00:41:22 -> 00:41:24]  a $100,000 line of credit today,
+[00:41:24 -> 00:41:27]  the lender doesn't know what the cost of that money
+[00:41:27 -> 00:41:29]  is gonna be at the time that you draw or borrow on it.
+[00:41:29 -> 00:41:32]  So the rate kinda floats, maybe with Prime
+[00:41:32 -> 00:41:35]  or with some LIBOR or some other kinda index,
+[00:41:35 -> 00:41:37]  and the rate kinda floats around,
+[00:41:37 -> 00:41:39]  and whatever the rate is will be what it is
+[00:41:39 -> 00:41:40]  at the time that you draw,
+[00:41:40 -> 00:41:43]  and it'll adjust over the life of the loan.
+[00:41:43 -> 00:41:45]  That's called an open-end loan.
+[00:41:45 -> 00:41:47]  How about the next one, a blanket loan?
+[00:41:47 -> 00:41:50]  A blanket loan, this is where one loan
+[00:41:50 -> 00:41:54]  is used to cover more than one parcel as collateral.
+[00:41:54 -> 00:41:56]  So if I make you a $500,000 loan,
+[00:41:56 -> 00:41:59]  and you have three properties as collateral,
+[00:41:59 -> 00:42:01]  if you don't pay me on that $500,000,
+[00:42:01 -> 00:42:02]  I'm gonna take all three.
+[00:42:02 -> 00:42:04]  Frankly, I'm gonna take all three houses.
+[00:42:04 -> 00:42:05]  That's called a blanket loan.
+[00:42:05 -> 00:42:09]  So a blanket loan is one loan secured
+[00:42:09 -> 00:42:12]  by more than one parcel of real estate.
+[00:42:12 -> 00:42:15]  Now, a blanket loan should have something
+[00:42:15 -> 00:42:17]  called a release clause in it,
+[00:42:17 -> 00:42:20]  and a release clause is basically a clause
+[00:42:20 -> 00:42:22]  in a blanket loan that would allow
+[00:42:22 -> 00:42:24]  for something called a partial reconveyance.
+[00:42:24 -> 00:42:25]  Let me explain.
+[00:42:25 -> 00:42:27]  Let's say you borrow $500,000 from me,
+[00:42:27 -> 00:42:30]  and we have three properties as collateral.
+[00:42:30 -> 00:42:33]  Now, if you get that loan down to, let's say, $100,000,
+[00:42:33 -> 00:42:36]  you might think it's unfair that you have three properties
+[00:42:36 -> 00:42:40]  in jeopardy as collateral for a small $100,000 loan.
+[00:42:40 -> 00:42:42]  So we could do a partial release clause,
+[00:42:42 -> 00:42:46]  where once you pay the loan down to certain milestones,
+[00:42:46 -> 00:42:48]  the lender will lift up the blanket
+[00:42:48 -> 00:42:50]  and take one of those properties
+[00:42:50 -> 00:42:54]  and release it out from under the blanket loan.
+[00:42:54 -> 00:42:55]  So two questions about this.
+[00:42:55 -> 00:42:58]  Number one, one loan covering multiple parcels
+[00:42:58 -> 00:42:59]  of real estate is known as what?
+[00:42:59 -> 00:43:01]  Your answer, a blanket loan.
+[00:43:01 -> 00:43:04]  A clause in a blanket loan that would allow
+[00:43:04 -> 00:43:08]  for a partial reconveyance is known as a release clause,
+[00:43:08 -> 00:43:12]  right, usually once you get it paid down to some milestone.
+[00:43:12 -> 00:43:14]  Look at the next one, a construction loan.
+[00:43:14 -> 00:43:15]  Construction loan is also called
+[00:43:15 -> 00:43:17]  an interim loan for the test.
+[00:43:17 -> 00:43:20]  You might wanna write that term interim,
+[00:43:20 -> 00:43:23]  I-N-T-E-R-I-M, interim loan.
+[00:43:23 -> 00:43:26]  This is a short-term loan made specifically
+[00:43:26 -> 00:43:27]  for the period of construction.
+[00:43:27 -> 00:43:30]  Now, these loans are generally made by commercial banks.
+[00:43:30 -> 00:43:32]  You'll remember that from earlier.
+[00:43:32 -> 00:43:34]  The lender that would most likely make you
+[00:43:34 -> 00:43:37]  a construction loan is who?
+[00:43:37 -> 00:43:38]  Commercial bank, right?
+[00:43:38 -> 00:43:40]  Now, again, these loans are also called interim loans.
+[00:43:40 -> 00:43:44]  Now, once you pay off or once you finish the construction,
+[00:43:44 -> 00:43:46]  you know, construction loans, frankly,
+[00:43:46 -> 00:43:47]  are kind of risky loans, candidly,
+[00:43:47 -> 00:43:50]  because if you don't pay, that lender might be stuck
+[00:43:50 -> 00:43:52]  with a half-finished project.
+[00:43:52 -> 00:43:55]  Anytime you have a riskier kind of loan type,
+[00:43:55 -> 00:43:57]  your rate's gonna be higher.
+[00:43:58 -> 00:44:00]  Once the construction is finished,
+[00:44:00 -> 00:44:03]  you're gonna wanna get something called a takeout loan
+[00:44:03 -> 00:44:05]  here at the bottom of page 418.
+[00:44:05 -> 00:44:08]  A takeout loan is called that because it literally
+[00:44:08 -> 00:44:10]  takes out the construction loan,
+[00:44:10 -> 00:44:14]  and the takeout loan sits as the long-term financing
+[00:44:14 -> 00:44:15]  on the project.
+[00:44:15 -> 00:44:17]  So now, think about this for a second.
+[00:44:17 -> 00:44:20]  When do you think it would be wise, as a developer,
+[00:44:20 -> 00:44:23]  to get that takeout commitment from a lender?
+[00:44:23 -> 00:44:25]  Oh, it's gonna be wise to get that takeout commitment,
+[00:44:25 -> 00:44:28]  frankly, at the same time you get your construction loan.
+[00:44:28 -> 00:44:30]  You don't wanna have your construction finished
+[00:44:30 -> 00:44:32]  and have your construction lender tapping you
+[00:44:32 -> 00:44:34]  on the shoulder and wanting their money back,
+[00:44:34 -> 00:44:36]  and you can't get a takeout loan for the life of you.
+[00:44:36 -> 00:44:39]  So you wanna get that takeout commitment from a lender
+[00:44:39 -> 00:44:43]  at the same time that you get your construction loan.
+[00:44:43 -> 00:44:46]  Now, you may have to pay something called a standby fee
+[00:44:46 -> 00:44:48]  for the privilege of having that money
+[00:44:48 -> 00:44:50]  parked for you over time,
+[00:44:50 -> 00:44:52]  but that takeout loan commitment, frankly,
+[00:44:52 -> 00:44:55]  should be secured at the same time
+[00:44:55 -> 00:44:57]  that you get your construction loan.
+[00:44:57 -> 00:44:59]  Look at the next one, a package loan.
+[00:44:59 -> 00:45:02]  A package loan is a loan, these are dirty sometimes,
+[00:45:02 -> 00:45:05]  because they combine both real property
+[00:45:05 -> 00:45:07]  and personal property simultaneously.
+[00:45:07 -> 00:45:10]  So if the collateral on your loan is like your house
+[00:45:10 -> 00:45:13]  and your car, that's called a package loan.
+[00:45:13 -> 00:45:17]  It's a loan that is secured by both personal property
+[00:45:17 -> 00:45:19]  as well as real estate.
+[00:45:19 -> 00:45:20]  Now, look at the last one here,
+[00:45:20 -> 00:45:22]  bottom of 418 and the top of 419.
+[00:45:22 -> 00:45:25]  You'll see the term wraparound trust deed.
+[00:45:25 -> 00:45:28]  Now, a wraparound trust deed is also called an AITD
+[00:45:28 -> 00:45:30]  or an all-inclusive trust deed.
+[00:45:30 -> 00:45:34]  These were really big, like in the 80s and early 90s.
+[00:45:35 -> 00:45:36]  The reason it's called a wraparound
+[00:45:36 -> 00:45:39]  or an all-inclusive trust deed at the bottom of the page
+[00:45:39 -> 00:45:41]  is because if you're buying my house
+[00:45:41 -> 00:45:44]  and I have a loan on it currently,
+[00:45:44 -> 00:45:45]  you might secure a new loan.
+[00:45:45 -> 00:45:48]  You'll leave my existing loan undisturbed.
+[00:45:48 -> 00:45:51]  And for the difference, let's say the loan is for 90,000,
+[00:45:51 -> 00:45:53]  you're gonna buy my house for 120,
+[00:45:53 -> 00:45:56]  you're gonna get another 30,000 dollar loan,
+[00:45:56 -> 00:45:57]  you'll get another loan
+[00:45:57 -> 00:46:01]  that'll wrap around the existing first.
+[00:46:01 -> 00:46:03]  So that first will stay on the title,
+[00:46:03 -> 00:46:06]  first will stay on the property undisturbed,
+[00:46:06 -> 00:46:08]  and you'll get another loan that sort of wraps around,
+[00:46:08 -> 00:46:11]  hence the term wraparound trust deed
+[00:46:11 -> 00:46:15]  or all-inclusive trust deed here on page number 418 and 419.
+[00:46:15 -> 00:46:17]  Now, here, if you look at the bottom
+[00:46:17 -> 00:46:18]  or the middle of page 400,
+[00:46:18 -> 00:46:21]  and well, actually, one thing before I forget,
+[00:46:21 -> 00:46:22]  because this is important.
+[00:46:22 -> 00:46:23]  You might hear that and say,
+[00:46:23 -> 00:46:25]  well, Karthik, you just told me
+[00:46:25 -> 00:46:29]  that you were leaving the existing loan undisturbed
+[00:46:29 -> 00:46:32]  and we're getting a new loan around it.
+[00:46:32 -> 00:46:36]  So title's being transferred to a new borrower.
+[00:46:36 -> 00:46:39]  Isn't that first bank gonna be pissed
+[00:46:39 -> 00:46:41]  that you transferred title
+[00:46:41 -> 00:46:44]  without paying off that existing loan?
+[00:46:44 -> 00:46:45]  And yeah, they might.
+[00:46:45 -> 00:46:50]  That's why these AITDs or wraparound loans
+[00:46:50 -> 00:46:54]  cannot have something at the middle of page number 419
+[00:46:54 -> 00:46:57]  called a due-on-sale clause in bold.
+[00:46:57 -> 00:47:00]  A due-on-sale clause is a clause in a loan
+[00:47:00 -> 00:47:04]  where if the lender finds out that you've sold the loan
+[00:47:04 -> 00:47:05]  or sold the property, rather,
+[00:47:05 -> 00:47:08]  that lender is gonna call the loan due.
+[00:47:08 -> 00:47:11]  So if you try to leave my loan alone
+[00:47:11 -> 00:47:12]  and you get a new loan around it
+[00:47:12 -> 00:47:14]  and you just take a grant deed from me
+[00:47:14 -> 00:47:15]  and that lender finds out,
+[00:47:15 -> 00:47:17]  this is gonna trigger a what?
+[00:47:17 -> 00:47:18]  A due-on-sale clause.
+[00:47:18 -> 00:47:20]  So again, for a wraparound loan to work,
+[00:47:20 -> 00:47:24]  the existing loan cannot have, at the middle of page 419,
+[00:47:24 -> 00:47:28]  cannot have a due-on-sale clause.
+[00:47:28 -> 00:47:32]  Also for the exam, this might be called an alienation clause
+[00:47:32 -> 00:47:35]  which is another term for due-on-sale.
+[00:47:35 -> 00:47:38]  Now, if you look at the bottom of 419,
+[00:47:38 -> 00:47:42]  you'll also see the term gap loan at the bottom of 419.
+[00:47:42 -> 00:47:44]  A gap loan is also called a bridge loan.
+[00:47:44 -> 00:47:48]  This is a loan between two projects.
+[00:47:48 -> 00:47:49]  I'll give you an example of this.
+[00:47:49 -> 00:47:52]  Let's say that I have a, let's say I have a loan,
+[00:47:52 -> 00:47:54]  I have a house that's worth a million bucks
+[00:47:54 -> 00:47:56]  and I owe 400,000 on it, right?
+[00:47:56 -> 00:47:59]  So I owe 400, it's worth a million,
+[00:47:59 -> 00:48:01]  I got 600,000 in equity, right?
+[00:48:01 -> 00:48:03]  So I'm sitting pretty, life is good.
+[00:48:03 -> 00:48:07]  I wanna sell my home and buy another house.
+[00:48:07 -> 00:48:11]  It's possible that that next seller, the house I wanna buy,
+[00:48:11 -> 00:48:14]  the guy selling me the house that I wanna buy
+[00:48:14 -> 00:48:16]  might not wanna sit around and twiddle his thumbs
+[00:48:16 -> 00:48:20]  or her thumbs waiting for me to sell my house
+[00:48:20 -> 00:48:22]  and get the equity to buy his.
+[00:48:22 -> 00:48:23]  So I could go to a lender
+[00:48:23 -> 00:48:25]  and get something called a bridge loan.
+[00:48:25 -> 00:48:29]  A bridge loan is basically a loan where I borrow money
+[00:48:29 -> 00:48:31]  against the equity in my current home,
+[00:48:31 -> 00:48:34]  use that as my down payment for my next project
+[00:48:34 -> 00:48:36]  or my next property,
+[00:48:36 -> 00:48:40]  and the lender will be paid that bridge loan back
+[00:48:40 -> 00:48:42]  when I sell the down leg.
+[00:48:42 -> 00:48:43]  When I sell my existing home,
+[00:48:43 -> 00:48:45]  he or she will get that money back.
+[00:48:45 -> 00:48:46]  That's called a bridge loan.
+[00:48:46 -> 00:48:49]  It's a loan against the equity in one property
+[00:48:49 -> 00:48:51]  as a bridge to buy the next one.
+[00:48:51 -> 00:48:54]  That's called a gap loan or a bridge loan.
+[00:48:54 -> 00:48:58]  Now here at the bottom of 419, fixed rate loans.
+[00:48:58 -> 00:49:00]  This is also something to think about,
+[00:49:00 -> 00:49:05]  especially today in 2014, 2015, rates are pretty low.
+[00:49:05 -> 00:49:08]  Somebody sent me a video here of a great friend of mine.
+[00:49:08 -> 00:49:10]  He's about 75 years old.
+[00:49:10 -> 00:49:12]  He recorded a video on YouTube.
+[00:49:12 -> 00:49:14]  I didn't even know he knew how to do that,
+[00:49:14 -> 00:49:16]  but he recorded a video on YouTube and put it up
+[00:49:16 -> 00:49:19]  and said, hey, look, today you might wanna take a hard look
+[00:49:19 -> 00:49:22]  at adjustable rate loans, not fixed.
+[00:49:22 -> 00:49:24]  Now I look at that, I listened to the whole video.
+[00:49:24 -> 00:49:26]  In fact, I watched it three times and it broke my heart
+[00:49:26 -> 00:49:31]  because to give someone advice, a blanket piece of advice
+[00:49:32 -> 00:49:35]  that adjustable rate loans are the way to go,
+[00:49:35 -> 00:49:36]  number one is not good
+[00:49:36 -> 00:49:39]  no matter what the interest rate environment is.
+[00:49:39 -> 00:49:41]  But number two, this notion that adjustable rate loans
+[00:49:41 -> 00:49:45]  are good when rates are so low, I don't understand that
+[00:49:45 -> 00:49:48]  because I might get an adjustable rate loan
+[00:49:48 -> 00:49:52]  if I'm betting that rates are gonna go down over time.
+[00:49:52 -> 00:49:54]  If I think rates are gonna go down over the next year,
+[00:49:54 -> 00:49:57]  two, three years, I might look at an adjustable rate loan
+[00:49:57 -> 00:50:00]  because I'm betting that during the life of my loan,
+[00:50:00 -> 00:50:02]  the rates are gonna go down.
+[00:50:02 -> 00:50:05]  It's hard for me today, with rates at four and a quarter,
+[00:50:05 -> 00:50:08]  four and three eighths, it's hard for me to look at this
+[00:50:08 -> 00:50:10]  and chart out three, four years into the future
+[00:50:10 -> 00:50:12]  and think to myself, I think rates are gonna go down
+[00:50:12 -> 00:50:13]  over time, I don't think rates are gonna go down,
+[00:50:13 -> 00:50:16]  I think rates are gonna go up over time.
+[00:50:16 -> 00:50:17]  So anyway, an adjustable rate loan is something
+[00:50:17 -> 00:50:20]  that might be good if it's right
+[00:50:20 -> 00:50:22]  for your personal situation
+[00:50:22 -> 00:50:24]  or your personal set of circumstances.
+[00:50:24 -> 00:50:27]  Now, another thing here, if you look at page 420,
+[00:50:27 -> 00:50:29]  you'll see a 15-year versus a 30-year loan.
+[00:50:29 -> 00:50:32]  Another thing to consider as you're shopping
+[00:50:32 -> 00:50:33]  for the right financing.
+[00:50:33 -> 00:50:35]  Of course, a 15-year loan's gonna result
+[00:50:35 -> 00:50:38]  in less interest paid over the life of the loan
+[00:50:38 -> 00:50:40]  because you're chipping away at that principle
+[00:50:40 -> 00:50:42]  a little faster, but your payment's gonna be
+[00:50:42 -> 00:50:45]  significantly higher on a 15-year loan
+[00:50:45 -> 00:50:46]  than it would be on a 30,
+[00:50:46 -> 00:50:48]  so that's also something to think about.
+[00:50:48 -> 00:50:50]  40-year loans, at the bottom of 420,
+[00:50:51 -> 00:50:53]  40-year loans kind of made a push in 2006,
+[00:50:53 -> 00:50:55]  kind of at the height of the real estate market.
+[00:50:55 -> 00:50:59]  People were saying, look, prices are so damn outrageous.
+[00:50:59 -> 00:51:02]  If we stretched out the loan term for 40 years,
+[00:51:02 -> 00:51:03]  might this be better?
+[00:51:03 -> 00:51:06]  Now, some countries, 40-year loans are common,
+[00:51:06 -> 00:51:08]  some countries have more than 40-year loans.
+[00:51:08 -> 00:51:09]  You have this generational debt, right,
+[00:51:09 -> 00:51:12]  where dad's house, so expensive,
+[00:51:13 -> 00:51:15]  son buys dad's house or son inherits that loan
+[00:51:15 -> 00:51:18]  and they have longer than 40-year loans
+[00:51:18 -> 00:51:19]  or daughter inherits that loan or whatever it is,
+[00:51:19 -> 00:51:22]  but anyway, 40-year loans are something to think about
+[00:51:22 -> 00:51:25]  because they do slice your payment a bit
+[00:51:25 -> 00:51:26]  because you're amortizing the loan
+[00:51:26 -> 00:51:28]  over a longer period, of course.
+[00:51:28 -> 00:51:29]  If you look at the bottom of 420,
+[00:51:29 -> 00:51:31]  you'll see the term interest-only loan.
+[00:51:31 -> 00:51:34]  Next to this for the exam, I would write the words
+[00:51:34 -> 00:51:37]  straight note at the bottom of page 420.
+[00:51:37 -> 00:51:40]  A straight note, now, of course, in the industry,
+[00:51:40 -> 00:51:43]  no one would call an interest-only loan a straight note.
+[00:51:43 -> 00:51:45]  They'd call it an interest-only loan,
+[00:51:45 -> 00:51:47]  but an interest-only loan is a loan
+[00:51:47 -> 00:51:49]  that doesn't have any amortization, right?
+[00:51:49 -> 00:51:52]  You're not actually paying down any of the principal.
+[00:51:52 -> 00:51:53]  All you're paying is interest-only.
+[00:51:53 -> 00:51:56]  That's, of course, known as a straight note
+[00:51:56 -> 00:51:57]  or an interest-only loan.
+[00:51:57 -> 00:52:00]  Benefit to an interest-only loan, pretty significant.
+[00:52:00 -> 00:52:02]  Benefit is that you're gonna have a lower payment.
+[00:52:02 -> 00:52:06]  Instead of paying both principal and interest,
+[00:52:06 -> 00:52:07]  in an interest-only loan, you're only paying interest,
+[00:52:07 -> 00:52:10]  right, so necessarily and obviously,
+[00:52:10 -> 00:52:14]  your payment's gonna be lower on an interest-only product.
+[00:52:14 -> 00:52:18]  Page 421 at the top, kind of a historical concept here,
+[00:52:18 -> 00:52:20]  an 80-20 loan.
+[00:52:20 -> 00:52:25]  An 80-20 loan is two loans for the entire purchase price.
+[00:52:25 -> 00:52:28]  So you have an 80% loan on the first,
+[00:52:28 -> 00:52:31]  a 20% loan on the second,
+[00:52:31 -> 00:52:33]  and you won't be putting any money down.
+[00:52:33 -> 00:52:34]  Now, one benefit to this, of course,
+[00:52:34 -> 00:52:36]  is that you're gonna avoid PMI,
+[00:52:36 -> 00:52:38]  or private mortgage insurance,
+[00:52:38 -> 00:52:40]  because you don't have any one loan
+[00:52:40 -> 00:52:42]  greater than 80% of the value, right?
+[00:52:42 -> 00:52:45]  You got an 80% first, you got a 20% second,
+[00:52:45 -> 00:52:50]  and that's the extent of the financing, right?
+[00:52:50 -> 00:52:51]  So you're not gonna have PMI,
+[00:52:51 -> 00:52:53]  because you don't have any one loan
+[00:52:53 -> 00:52:57]  greater than 80% of the value.
+[00:52:57 -> 00:53:00]  Now, how about here at the bottom of 421?
+[00:53:00 -> 00:53:03]  You'll see the term reverse mortgage at the bottom of 421.
+[00:53:04 -> 00:53:06]  A reverse mortgage is called this
+[00:53:06 -> 00:53:08]  because it's kind of in reverse.
+[00:53:08 -> 00:53:11]  Instead of you making payments to the bank,
+[00:53:11 -> 00:53:13]  the bank is actually making payments to you
+[00:53:13 -> 00:53:14]  on a reverse mortgage.
+[00:53:14 -> 00:53:15]  Now, you might hear that and say,
+[00:53:15 -> 00:53:16]  well, how does that work?
+[00:53:16 -> 00:53:19]  Well, first of all, you have to be over 62
+[00:53:19 -> 00:53:21]  in order to get a reverse mortgage, right?
+[00:53:21 -> 00:53:23]  So you have to be at least 62 years old
+[00:53:23 -> 00:53:24]  in order to make this happen.
+[00:53:24 -> 00:53:26]  You also have to have a decent amount
+[00:53:26 -> 00:53:27]  of equity in your property.
+[00:53:27 -> 00:53:30]  And then over time, either as an annuity,
+[00:53:30 -> 00:53:31]  the lender's gonna make your payments
+[00:53:31 -> 00:53:33]  over time up to some limit,
+[00:53:33 -> 00:53:35]  or you'll take a lump sum.
+[00:53:35 -> 00:53:38]  And this really is for people that are a little older
+[00:53:38 -> 00:53:41]  that are equity rich and cash poor,
+[00:53:41 -> 00:53:43]  so that you don't have to make any payments,
+[00:53:43 -> 00:53:45]  and the loan is paid off either when you pass on
+[00:53:45 -> 00:53:46]  or when your spouse passes on,
+[00:53:46 -> 00:53:49]  or there's a lot of ways you can structure these.
+[00:53:49 -> 00:53:51]  But it's called a reverse mortgage
+[00:53:51 -> 00:53:53]  because instead of you making payments to the bank,
+[00:53:53 -> 00:53:55]  the bank is making payments to you
+[00:53:55 -> 00:53:57]  cashing out a portion of your equity
+[00:53:57 -> 00:54:00]  if you're over a certain age.
+[00:54:00 -> 00:54:02]  So that's this discussion about adjustable rate loans.
+[00:54:02 -> 00:54:04]  Now, one thing that we should look at here
+[00:54:04 -> 00:54:07]  is at the bottom of 423 and the top of 424,
+[00:54:07 -> 00:54:09]  and how adjustable rate loans kind of work
+[00:54:09 -> 00:54:12]  and how the current rate is calculated.
+[00:54:13 -> 00:54:16]  Basically, how adjustable rates work are,
+[00:54:16 -> 00:54:19]  the lender generally sets something called a margin,
+[00:54:19 -> 00:54:23]  and that's some spread over an index.
+[00:54:23 -> 00:54:25]  Now, an index could be like
+[00:54:25 -> 00:54:28]  the London Interbank Offered Rate, also called LIBOR.
+[00:54:28 -> 00:54:31]  It could be the prime rate, it could be any rate.
+[00:54:31 -> 00:54:35]  And then the margin is just added to that.
+[00:54:35 -> 00:54:37]  You'll see this mathematically represented
+[00:54:37 -> 00:54:39]  on page 424 at the top.
+[00:54:39 -> 00:54:42]  We take the index plus the margin,
+[00:54:43 -> 00:54:44]  and this gives us our current rate, right?
+[00:54:44 -> 00:54:46]  So index plus the margin gives us the current rate.
+[00:54:46 -> 00:54:50]  So if the index is currently at like, let's say 2%,
+[00:54:50 -> 00:54:53]  and the margin is at 2.25%,
+[00:54:53 -> 00:54:56]  you're gonna add the index two to 2.25,
+[00:54:56 -> 00:54:57]  which is the margin,
+[00:54:57 -> 00:54:59]  and your rate's gonna be four and a quarter percent.
+[00:54:59 -> 00:55:02]  So what changes is not the margin.
+[00:55:02 -> 00:55:04]  What changes and kind of bounces around
+[00:55:04 -> 00:55:06]  that causes the overall interest rate to change,
+[00:55:06 -> 00:55:10]  of course, is the index.
+[00:55:10 -> 00:55:12]  So as the index goes up and down,
+[00:55:12 -> 00:55:13]  the margin gets added to that index,
+[00:55:13 -> 00:55:14]  and that changes your rate,
+[00:55:14 -> 00:55:17]  which has an effect on your payment.
+[00:55:17 -> 00:55:18]  Now, if you look here really quickly
+[00:55:18 -> 00:55:21]  at page number 425 at the top,
+[00:55:21 -> 00:55:23]  you'll see the term payment shock in bold
+[00:55:23 -> 00:55:25]  at the top of 425.
+[00:55:25 -> 00:55:26]  And perhaps this is appropriate
+[00:55:26 -> 00:55:31]  because if your index starts going up through the roof,
+[00:55:31 -> 00:55:32]  you're gonna get,
+[00:55:32 -> 00:55:34]  potentially you're gonna get some payment shock.
+[00:55:34 -> 00:55:35]  Now, there are caps though
+[00:55:35 -> 00:55:37]  in a lot of these adjustable rate loans.
+[00:55:37 -> 00:55:40]  There's lifetime caps on the interest rate.
+[00:55:40 -> 00:55:42]  There's yearly caps or periodic caps.
+[00:55:42 -> 00:55:44]  So this is an important thing to consider
+[00:55:44 -> 00:55:46]  as you choose which loan you're gonna get.
+[00:55:46 -> 00:55:47]  If you are gonna get a loan,
+[00:55:47 -> 00:55:48]  you wanna look at the index
+[00:55:48 -> 00:55:49]  that it's an adjustable rate loan.
+[00:55:49 -> 00:55:52]  You're gonna wanna look at the index that it's pegged to.
+[00:55:52 -> 00:55:54]  Additionally, you're also gonna want to look
+[00:55:54 -> 00:55:57]  at how that index has historically behaved.
+[00:55:57 -> 00:55:59]  If the index tends to be super volatile,
+[00:55:59 -> 00:56:02]  your payment could be pretty volatile too.
+[00:56:02 -> 00:56:05]  So that's payment shock here at the top of page 425.
+[00:56:05 -> 00:56:08]  At the bottom of 425 and the top of 426,
+[00:56:08 -> 00:56:10]  you'll see this discussion about some of these caps
+[00:56:10 -> 00:56:12]  that I talked about earlier.
+[00:56:12 -> 00:56:14]  The periodic cap at the top of page 426,
+[00:56:14 -> 00:56:17]  which dictates the maximum amount
+[00:56:17 -> 00:56:19]  that the rate could adjust in some period.
+[00:56:19 -> 00:56:20]  Let's say it's an annual cap.
+[00:56:20 -> 00:56:22]  And there's also a lifetime cap, right?
+[00:56:22 -> 00:56:24]  That sets the lifetime limit
+[00:56:24 -> 00:56:27]  that the interest rate can never go over.
+[00:56:27 -> 00:56:29]  So there's a periodic cap and a lifetime cap
+[00:56:29 -> 00:56:33]  both at the top of page 426.
+[00:56:33 -> 00:56:36]  Now, at the bottom of 426 and the top of 427,
+[00:56:36 -> 00:56:40]  there is also this discussion about negative amortization.
+[00:56:40 -> 00:56:43]  Now, amortization, as you might know,
+[00:56:43 -> 00:56:46]  is where the payment causes the balance
+[00:56:46 -> 00:56:47]  on the loan to decline.
+[00:56:47 -> 00:56:48]  So every month you make a payment,
+[00:56:48 -> 00:56:50]  your loan balance drops a little bit.
+[00:56:50 -> 00:56:52]  Every month you make a payment,
+[00:56:52 -> 00:56:54]  your loan balance drops a little bit, right?
+[00:56:54 -> 00:56:55]  That's called amortization.
+[00:56:55 -> 00:56:58]  Now, negative amortization is instead of the payment
+[00:56:58 -> 00:57:01]  causing the balance to come down,
+[00:57:01 -> 00:57:03]  in negative amortization,
+[00:57:03 -> 00:57:06]  even though you're making a payment each and every month,
+[00:57:06 -> 00:57:09]  the balance is rising over time.
+[00:57:09 -> 00:57:10]  Now, if you think about that, you might say,
+[00:57:10 -> 00:57:11]  well, that doesn't seem fair.
+[00:57:11 -> 00:57:13]  That seems like some pretty funny math
+[00:57:13 -> 00:57:16]  that you can make your payments each and every month
+[00:57:16 -> 00:57:18]  and your balance could still rise.
+[00:57:18 -> 00:57:19]  Of course, what's happening
+[00:57:19 -> 00:57:21]  in a negative amortization product
+[00:57:21 -> 00:57:25]  is that the payment that you're making
+[00:57:25 -> 00:57:28]  simply isn't enough to cover the interest due.
+[00:57:28 -> 00:57:29]  So maybe, let's say,
+[00:57:29 -> 00:57:31]  you see this sometimes with credit cards
+[00:57:31 -> 00:57:35]  where maybe I have a $4,000 visa balance
+[00:57:35 -> 00:57:37]  and my credit card statement comes
+[00:57:37 -> 00:57:39]  and they ask me for like 20 bucks.
+[00:57:39 -> 00:57:40]  I'm like, man, this is pretty cool.
+[00:57:40 -> 00:57:43]  I owe you $4,000 and all you want is 20 bucks from me.
+[00:57:43 -> 00:57:44]  Here's your 20.
+[00:57:44 -> 00:57:46]  Next month you get your statement
+[00:57:46 -> 00:57:48]  and it says payment received $20,
+[00:57:48 -> 00:57:50]  new balance $4,030.
+[00:57:50 -> 00:57:51]  And you're like, hey, what the heck?
+[00:57:51 -> 00:57:52]  I made you $20 last month
+[00:57:52 -> 00:57:54]  and my balance has gone up 30.
+[00:57:54 -> 00:57:55]  What's happened?
+[00:57:55 -> 00:57:58]  What's happened there is that mathematically,
+[00:57:58 -> 00:58:00]  the amount of interest that you owed that month
+[00:58:00 -> 00:58:02]  was, let's say, $50.
+[00:58:02 -> 00:58:04]  The difference between what you paid
+[00:58:04 -> 00:58:06]  and what you actually owed
+[00:58:06 -> 00:58:08]  simply gets added onto your loan balance,
+[00:58:08 -> 00:58:11]  causing the balance to rise over time.
+[00:58:11 -> 00:58:12]  That's called negative amortization.
+[00:58:12 -> 00:58:15]  It allows you to owe a lot of money
+[00:58:15 -> 00:58:17]  and only make very, very low payments.
+[00:58:17 -> 00:58:19]  Now, if this sounds enticing to you somehow,
+[00:58:19 -> 00:58:21]  it shouldn't, but if it does,
+[00:58:21 -> 00:58:23]  or you can live in a big house in Beverly Hills
+[00:58:23 -> 00:58:24]  and make a pretty low payment,
+[00:58:24 -> 00:58:27]  you gotta be careful because negative amortization
+[00:58:27 -> 00:58:28]  at the bottom of 426,
+[00:58:28 -> 00:58:31]  negative amortization is actually illegal.
+[00:58:31 -> 00:58:34]  As of October 11th of 2009,
+[00:58:34 -> 00:58:35]  Governor Schwarzenegger at the time
+[00:58:35 -> 00:58:38]  signed emergency legislation
+[00:58:38 -> 00:58:40]  basically banning new negative amortization
+[00:58:40 -> 00:58:42]  originations in California.
+[00:58:42 -> 00:58:44]  So you couldn't get a negative amortization loan
+[00:58:44 -> 00:58:48]  even if you wanted it today as the rules currently sit.
+[00:58:48 -> 00:58:52]  Now, if you look here really quickly at page number 428,
+[00:58:52 -> 00:58:56]  what's important on 428, it says arm checklist.
+[00:58:56 -> 00:58:58]  If you are going to take the risk
+[00:58:58 -> 00:59:00]  of an adjustable rate loan,
+[00:59:00 -> 00:59:02]  it is important to make sure that you thoroughly
+[00:59:02 -> 00:59:06]  and fully understand how that adjustable rate loan works.
+[00:59:06 -> 00:59:08]  What's the margin?
+[00:59:08 -> 00:59:10]  What's the index that it's tied to?
+[00:59:10 -> 00:59:12]  What effect are changes in that index
+[00:59:12 -> 00:59:14]  gonna have on my overall rate
+[00:59:14 -> 00:59:16]  and ultimately my monthly payment?
+[00:59:16 -> 00:59:19]  All of these things are important at the top of page 428
+[00:59:19 -> 00:59:21]  to consider if you are going to get
+[00:59:21 -> 00:59:23]  an adjustable rate loan.
+[00:59:23 -> 00:59:25]  Now, one thing that's changed actually,
+[00:59:26 -> 00:59:27]  and this is very interesting over the last,
+[00:59:27 -> 00:59:30]  let's say 20 years in underwriting,
+[00:59:30 -> 00:59:32]  or underwriting of course is defined
+[00:59:32 -> 00:59:34]  as the decision-making process
+[00:59:34 -> 00:59:37]  as to whether or not you're qualified for a loan.
+[00:59:37 -> 00:59:39]  One thing that's changed in the underwriting process
+[00:59:39 -> 00:59:43]  on page 430 is more of a shift
+[00:59:43 -> 00:59:45]  to computerized loan origination.
+[00:59:45 -> 00:59:48]  This is where a computer will look at your credit
+[00:59:48 -> 00:59:49]  and income and all this,
+[00:59:49 -> 00:59:52]  and your computer will basically approve or deny the loan.
+[00:59:52 -> 00:59:54]  So this is something that's pretty important
+[00:59:54 -> 00:59:57]  to just know that kind of there's a shift here,
+[00:59:57 -> 00:59:59]  and a lot of people are saying
+[00:59:59 -> 01:00:03]  that the computerized loan decision-making process
+[01:00:03 -> 01:00:05]  can actually or tends to be actually
+[01:00:05 -> 01:00:09]  a more reliable predictor of default and risk
+[01:00:09 -> 01:00:10]  than a manual underwriting process.
+[01:00:10 -> 01:00:12]  Now, I don't wanna be deceptive.
+[01:00:12 -> 01:00:15]  A lot of larger commercial loans and business loans
+[01:00:15 -> 01:00:17]  aren't really gonna rely so much
+[01:00:17 -> 01:00:20]  on this computerized loan origination methodology,
+[01:00:20 -> 01:00:24]  but it is semi-pervasive actually
+[01:00:24 -> 01:00:25]  in our residential world.
+[01:00:25 -> 01:00:28]  Now, if you look at page 431,
+[01:00:28 -> 01:00:30]  this financing process,
+[01:00:30 -> 01:00:33]  there are five steps to loan origination
+[01:00:33 -> 01:00:35]  and ultimately servicing the loan.
+[01:00:35 -> 01:00:37]  Look at number one, qualifying the borrower.
+[01:00:37 -> 01:00:41]  Looking at their credit, their income, their character.
+[01:00:41 -> 01:00:42]  Qualifying the property, right?
+[01:00:42 -> 01:00:44]  Making sure that the property is not gonna fall over.
+[01:00:44 -> 01:00:46]  It's not riddled with termites.
+[01:00:46 -> 01:00:49]  Making sure that the appraised value of the property
+[01:00:49 -> 01:00:52]  is enough to make sure we can do that loan.
+[01:00:52 -> 01:00:55]  Look at number three, approving and processing the loan,
+[01:00:55 -> 01:00:56]  a formal approval.
+[01:00:56 -> 01:00:57]  Number four, closing it,
+[01:00:57 -> 01:00:59]  getting the client to sign all that paperwork
+[01:00:59 -> 01:01:00]  in the processing stage,
+[01:01:00 -> 01:01:02]  and finally servicing the loan,
+[01:01:02 -> 01:01:04]  making, you know, collecting payments
+[01:01:04 -> 01:01:07]  and making sure that borrower is staying on track
+[01:01:07 -> 01:01:09]  for the duration of the loan.
+[01:01:09 -> 01:01:10]  Now, one thing that's important
+[01:01:10 -> 01:01:12]  is if you look at qualifying the borrower
+[01:01:12 -> 01:01:15]  in that concept on 432,
+[01:01:15 -> 01:01:16]  one thing that we look at, of course,
+[01:01:16 -> 01:01:19]  is the character of the borrower.
+[01:01:19 -> 01:01:21]  Looking at their late payments,
+[01:01:21 -> 01:01:23]  any negative credit information,
+[01:01:23 -> 01:01:26]  amount of credit used versus the amount of credit available.
+[01:01:26 -> 01:01:29]  Now, this is actually a commonly misunderstood concept
+[01:01:29 -> 01:01:32]  in underwriting, and that is, you know,
+[01:01:32 -> 01:01:36]  making sure that your available credit isn't maxed.
+[01:01:36 -> 01:01:38]  So you wanna try to keep those balances
+[01:01:38 -> 01:01:41]  on your credit cards below like 50%,
+[01:01:41 -> 01:01:42]  or some people say below a third
+[01:01:42 -> 01:01:44]  of the total available credit due.
+[01:01:44 -> 01:01:47]  So if you got that $1,000 credit card,
+[01:01:47 -> 01:01:50]  try not to make that balance go up for any length of time
+[01:01:50 -> 01:01:52]  more than, let's say, $400, right?
+[01:01:52 -> 01:01:55]  Because the way that the FICO system looks
+[01:01:55 -> 01:01:57]  is if you're maxing out a lot of your credit cards,
+[01:01:57 -> 01:01:59]  this might be an indication
+[01:01:59 -> 01:02:01]  that there is an impending default, right?
+[01:02:01 -> 01:02:02]  So that's important.
+[01:02:02 -> 01:02:04]  If you look at the loan application
+[01:02:04 -> 01:02:08]  on pages 433 through 439,
+[01:02:08 -> 01:02:11]  well, through 441, the font's a little big here,
+[01:02:11 -> 01:02:13]  but one thing that I do wanna show you in particular
+[01:02:13 -> 01:02:15]  is on page 440.
+[01:02:15 -> 01:02:20]  There is this section on page 440 about ethnicity.
+[01:02:20 -> 01:02:23]  Notice that it is optional.
+[01:02:23 -> 01:02:25]  The ethnicity of the borrower,
+[01:02:25 -> 01:02:28]  if I'm filling out this application on my own,
+[01:02:28 -> 01:02:30]  I don't have to put my ethnicity on there.
+[01:02:30 -> 01:02:32]  But really what's surprising to a lot of people
+[01:02:32 -> 01:02:34]  when they look at this section in the book
+[01:02:34 -> 01:02:37]  is they say, well, why the heck is this even on there?
+[01:02:37 -> 01:02:40]  Why is it that every single residential lender
+[01:02:40 -> 01:02:43]  in the United States, Wells Fargo in San Francisco,
+[01:02:43 -> 01:02:45]  J.P. Morgan Chase in San Diego,
+[01:02:45 -> 01:02:48]  you know, TD Bank in Manhattan, New York,
+[01:02:48 -> 01:02:50]  all of these lenders are using
+[01:02:50 -> 01:02:53]  the exact same loan application.
+[01:02:53 -> 01:02:56]  And all of them use a loan application
+[01:02:56 -> 01:02:57]  that asks for your race.
+[01:02:57 -> 01:02:58]  Now, a couple things here.
+[01:02:58 -> 01:02:59]  First, it's optional.
+[01:02:59 -> 01:03:03]  As a borrower, I do not have to specify my race.
+[01:03:03 -> 01:03:04]  But the reason it's on there
+[01:03:04 -> 01:03:06]  is for statistical monitoring purposes.
+[01:03:06 -> 01:03:09]  I mean, if a bank got audited,
+[01:03:09 -> 01:03:10]  I mean, think about this.
+[01:03:10 -> 01:03:14]  Is it true that a bank has to make real estate loans
+[01:03:14 -> 01:03:18]  in equal proportion to members of every race?
+[01:03:18 -> 01:03:19]  No, that's not true.
+[01:03:19 -> 01:03:20]  Come on, if that were true,
+[01:03:20 -> 01:03:21]  hey, a blue person walks in and says,
+[01:03:21 -> 01:03:24]  hey, we've met our blue quota for the day.
+[01:03:24 -> 01:03:26]  We need more purple people to make loans too.
+[01:03:26 -> 01:03:26]  No, right?
+[01:03:26 -> 01:03:27]  So that's the lenders.
+[01:03:27 -> 01:03:29]  It might sound good on the surface,
+[01:03:29 -> 01:03:33]  but lenders don't have to make equal amounts of loans
+[01:03:33 -> 01:03:35]  to members of every race.
+[01:03:35 -> 01:03:38]  But we do have to make sure that we are not making loans
+[01:03:38 -> 01:03:41]  on the basis of race, creed, religion,
+[01:03:41 -> 01:03:43]  familial status, et cetera.
+[01:03:43 -> 01:03:45]  So if a blue person walks in with good credit
+[01:03:45 -> 01:03:47]  and a red person walks in with good credit,
+[01:03:47 -> 01:03:51]  we gotta make sure that we're providing loan terms
+[01:03:51 -> 01:03:54]  regardless of ethnicity that are substantially similar.
+[01:03:54 -> 01:03:56]  Now, what might be surprising here,
+[01:03:56 -> 01:03:58]  if you look at the top of page 440,
+[01:03:58 -> 01:04:01]  if this application is being taken face-to-face
+[01:04:01 -> 01:04:04]  with the loan officer and the borrower,
+[01:04:04 -> 01:04:06]  the loan officer, as it says at the top of 440,
+[01:04:06 -> 01:04:10]  will actually have to make a reasonable guess
+[01:04:10 -> 01:04:13]  based on your appearance and your surname
+[01:04:13 -> 01:04:16]  as to what ethnicity you actually are.
+[01:04:16 -> 01:04:17]  Isn't that crazy?
+[01:04:17 -> 01:04:18]  That they're actually, they're having to guess.
+[01:04:18 -> 01:04:20]  Now, of course, this is to make sure that,
+[01:04:20 -> 01:04:23]  you know, lenders are not discriminating.
+[01:04:23 -> 01:04:25]  So again, if a lender were to be audited,
+[01:04:25 -> 01:04:26]  we wanna make sure that that lender
+[01:04:26 -> 01:04:29]  is not taking into account, let's say ethnicity or race,
+[01:04:29 -> 01:04:33]  in making a decision on whether or not to lend
+[01:04:33 -> 01:04:36]  and on the terms under which we extend credit.
+[01:04:36 -> 01:04:38]  Now, another thing that's pretty important
+[01:04:38 -> 01:04:40]  as we talk about qualifying the borrower
+[01:04:40 -> 01:04:44]  is here on 442 and 443.
+[01:04:44 -> 01:04:47]  These are qualifying ratios when we talk about capacity.
+[01:04:47 -> 01:04:51]  Capacity, of course, means like debt-to-income ratio
+[01:04:51 -> 01:04:53]  as it relates to capacity.
+[01:04:53 -> 01:04:56]  Now, debt-to-income ratio, of course, as you probably know,
+[01:04:56 -> 01:04:59]  is a ratio of the monthly payment
+[01:04:59 -> 01:05:02]  to the borrower's gross income.
+[01:05:02 -> 01:05:04]  Monthly payment to the borrower's gross income.
+[01:05:04 -> 01:05:07]  So there are two ratios that we look at here.
+[01:05:07 -> 01:05:09]  They are front-end and back-end.
+[01:05:09 -> 01:05:11]  And we talked about this in an earlier chapter
+[01:05:11 -> 01:05:12]  in real estate practice,
+[01:05:12 -> 01:05:16]  but it's probably worth repeating here at the top of 443.
+[01:05:16 -> 01:05:19]  Now again, remember, both front-end and back-end ratios
+[01:05:19 -> 01:05:22]  have to do with the borrower's gross income,
+[01:05:22 -> 01:05:23]  not net income.
+[01:05:23 -> 01:05:25]  So this is before taxes are taken out.
+[01:05:25 -> 01:05:30]  The front-end ratio is a ratio of the housing payment
+[01:05:30 -> 01:05:32]  to the borrower's gross income.
+[01:05:32 -> 01:05:35]  The back-end ratio is a ratio
+[01:05:35 -> 01:05:37]  of the borrower's housing payment
+[01:05:37 -> 01:05:42]  plus other long-term debt to the borrower's gross income.
+[01:05:42 -> 01:05:43]  So if you have a borrower
+[01:05:43 -> 01:05:46]  that you're in the middle of an escrow,
+[01:05:46 -> 01:05:47]  and that borrower says,
+[01:05:47 -> 01:05:49]  hey, look, you gotta come see my new car.
+[01:05:49 -> 01:05:51]  Now remember, the escrow hasn't closed yet.
+[01:05:51 -> 01:05:52]  You're still in escrow.
+[01:05:52 -> 01:05:54]  And the borrower says, you gotta come see my new car.
+[01:05:54 -> 01:05:57]  I got a brand new Mercedes.
+[01:05:57 -> 01:06:00]  Now, your heart's gonna start beating triple time here
+[01:06:00 -> 01:06:02]  because you're worried that this is gonna mess up
+[01:06:02 -> 01:06:04]  not your front-end ratio,
+[01:06:04 -> 01:06:05]  because remember, front-end ratio
+[01:06:05 -> 01:06:07]  is just housing to gross income.
+[01:06:07 -> 01:06:10]  This is actually gonna screw up your back-end ratio.
+[01:06:10 -> 01:06:15]  So again, the back-end ratio is a ratio of housing
+[01:06:15 -> 01:06:20]  plus other long-term debt to the borrower's gross income.
+[01:06:20 -> 01:06:22]  And this has to do with qualifying the borrower
+[01:06:22 -> 01:06:26]  here on pages 442 and 443.
+[01:06:26 -> 01:06:27]  The other thing that we're gonna need to look at
+[01:06:27 -> 01:06:29]  is if you look at 444 and 445,
+[01:06:29 -> 01:06:32]  qualifying the property, collateral.
+[01:06:32 -> 01:06:35]  The basic protection, of course, as you know,
+[01:06:35 -> 01:06:38]  the basic protection that a lender has
+[01:06:38 -> 01:06:40]  in the event that I don't pay
+[01:06:40 -> 01:06:43]  is the actual property itself, right?
+[01:06:43 -> 01:06:45]  Because that's the biggest risk, that I don't pay them.
+[01:06:45 -> 01:06:47]  The protection the lender has is the building
+[01:06:47 -> 01:06:49]  or the house that I've put up as collateral.
+[01:06:49 -> 01:06:52]  So we're gonna need to get an appraisal done on the property
+[01:06:52 -> 01:06:53]  to make sure that the property is worth
+[01:06:53 -> 01:06:55]  what we think it's worth.
+[01:06:55 -> 01:06:56]  The appraiser's gonna look to see
+[01:06:56 -> 01:06:59]  if there's any glaring problems,
+[01:06:59 -> 01:07:02]  big leaky roof or a bunch of construction being done.
+[01:07:02 -> 01:07:04]  But of course, we have to qualify the collateral
+[01:07:04 -> 01:07:06]  just like we have to qualify the borrower.
+[01:07:06 -> 01:07:10]  Now, if you look at 446 and 447,
+[01:07:10 -> 01:07:12]  couple of important things on these two pages.
+[01:07:12 -> 01:07:13]  One is at the bottom of 446,
+[01:07:13 -> 01:07:17]  you'll see the term RESPA at the bottom of 446.
+[01:07:17 -> 01:07:19]  RESPA, of course, stands for
+[01:07:19 -> 01:07:22]  the Real Estate Settlement Procedures Act.
+[01:07:22 -> 01:07:24]  And what's important to remember about RESPA,
+[01:07:24 -> 01:07:25]  there's a few things.
+[01:07:25 -> 01:07:28]  The first is that RESPA's gonna require middle of 446,
+[01:07:29 -> 01:07:31]  something called a good faith estimate.
+[01:07:31 -> 01:07:34]  This good faith estimate is originated by the lender
+[01:07:35 -> 01:07:37]  and given to the borrower
+[01:07:37 -> 01:07:41]  within three business days of you applying for a loan.
+[01:07:41 -> 01:07:44]  So within three business days of you applying for a loan,
+[01:07:44 -> 01:07:48]  RESPA says that the lender has to give the borrower
+[01:07:48 -> 01:07:49]  a good faith estimate.
+[01:07:49 -> 01:07:52]  Now, again, this isn't an estimate of your interest rate.
+[01:07:52 -> 01:07:54]  It's not an estimate of your monthly payment.
+[01:07:54 -> 01:07:58]  It's an estimate of the fees associated with the loan.
+[01:07:58 -> 01:08:01]  Now, this only applies, as it says at the middle of 446,
+[01:08:01 -> 01:08:05]  this only applies to residential one to four unit property.
+[01:08:05 -> 01:08:07]  RESPA does not apply to commercial loans.
+[01:08:07 -> 01:08:09]  So if you go get a loan
+[01:08:09 -> 01:08:11]  to buy a big office building somewhere,
+[01:08:11 -> 01:08:12]  or a 10 unit building,
+[01:08:12 -> 01:08:14]  or you get a loan to buy some land somewhere,
+[01:08:14 -> 01:08:17]  that lender is not required
+[01:08:17 -> 01:08:18]  to give you a good faith estimate
+[01:08:18 -> 01:08:20]  because who requires the GFE?
+[01:08:20 -> 01:08:23]  The good faith estimate's required under RESPA.
+[01:08:23 -> 01:08:26]  RESPA only applies to residential one to four unit property.
+[01:08:26 -> 01:08:29]  It does not apply to commercial loans.
+[01:08:29 -> 01:08:31]  Another thing that RESPA prohibits,
+[01:08:31 -> 01:08:33]  and you'll see this at the bottom of 446
+[01:08:33 -> 01:08:37]  with the term CBA, or Controlled Business Arrangement,
+[01:08:37 -> 01:08:40]  RESPA prohibits something called a kickback.
+[01:08:40 -> 01:08:43]  And a kickback is money
+[01:08:43 -> 01:08:45]  that is given from a settlement provider,
+[01:08:45 -> 01:08:48]  like a title company, or an escrow company,
+[01:08:48 -> 01:08:49]  or a mortgage company,
+[01:08:49 -> 01:08:52]  money given from that settlement provider
+[01:08:52 -> 01:08:53]  to the real estate agent
+[01:08:53 -> 01:08:57]  as kind of a bribe in exchange for title orders.
+[01:08:57 -> 01:09:00]  So a title company could not put their arm around you
+[01:09:00 -> 01:09:02]  and say, hey, you're gonna be a great real estate agent,
+[01:09:02 -> 01:09:03]  why don't we work together?
+[01:09:03 -> 01:09:05]  For every escrow you give us,
+[01:09:05 -> 01:09:06]  or every title order you give us,
+[01:09:06 -> 01:09:08]  we'll give you 50 bucks.
+[01:09:08 -> 01:09:11]  Totally illegal, a violation of RESPA,
+[01:09:11 -> 01:09:13]  and a form of something called a kickback.
+[01:09:13 -> 01:09:14]  Now, a lot of people ask,
+[01:09:14 -> 01:09:16]  well, can I give money to my client?
+[01:09:16 -> 01:09:18]  Can I give a rebate to my buyer?
+[01:09:18 -> 01:09:21]  Can I discount the commission for my seller?
+[01:09:21 -> 01:09:23]  You can do those as long as full disclosure is made,
+[01:09:24 -> 01:09:26]  because that money is not being given
+[01:09:26 -> 01:09:29]  from a settlement provider to a real estate agent.
+[01:09:29 -> 01:09:30]  That money is being given
+[01:09:30 -> 01:09:33]  from the agent back to the client, right?
+[01:09:33 -> 01:09:36]  So that's not considered a kickback.
+[01:09:36 -> 01:09:38]  You could give money to an out-of-state broker,
+[01:09:38 -> 01:09:41]  or to a California broker as a referral fee.
+[01:09:41 -> 01:09:42]  That's not a kickback.
+[01:09:42 -> 01:09:44]  A kickback, again, is money flow
+[01:09:44 -> 01:09:47]  given from the settlement provider,
+[01:09:47 -> 01:09:51]  escrow, mortgage, title, back to the real estate agent.
+[01:09:51 -> 01:09:53]  That's a violation, of course, of RESPA.
+[01:09:53 -> 01:09:56]  Now, this last section from this chapter, of course,
+[01:09:56 -> 01:09:57]  that I wanna talk about is here at the bottom
+[01:09:57 -> 01:10:00]  of page 447, and it's predatory lending.
+[01:10:00 -> 01:10:04]  Predatory lending is basically lending practices
+[01:10:04 -> 01:10:09]  that essentially seek to strip a homeowner of their equity.
+[01:10:09 -> 01:10:12]  The constant refinancing of an existing property,
+[01:10:12 -> 01:10:16]  so you can add additional fees to kind of chip away
+[01:10:16 -> 01:10:19]  at what the equity is on the project.
+[01:10:19 -> 01:10:23]  That's a practice that's sometimes known as flipping.
+[01:10:23 -> 01:10:27]  Maybe packing, where you pack a bunch of unnecessary fees
+[01:10:27 -> 01:10:29]  and costs in there, and all these weird kinds of insurance.
+[01:10:29 -> 01:10:31]  But as a practical perspective,
+[01:10:31 -> 01:10:33]  we should always be aware as borrowers
+[01:10:33 -> 01:10:35]  and real estate agents dealing with lenders
+[01:10:35 -> 01:10:37]  when we see signs of predatory lending.
+[01:10:37 -> 01:10:41]  So that's here on 447 and 448.

@@ -1,0 +1,1342 @@
+[00:00:00 -> 00:00:03]  Welcome everyone to Leveraging Data Integration
+[00:00:03 -> 00:00:06]  for Strategic GIS Governance.
+[00:00:06 -> 00:00:09]  Today, I am joined by both Leslie and Dean.
+[00:00:09 -> 00:00:12]  So Leslie, would you like to give a quick intro to yourself?
+[00:00:12 -> 00:00:14]  Sure, I'm Leslie.
+[00:00:14 -> 00:00:18]  I work for one of SAFe's partners in Canada.
+[00:00:19 -> 00:00:21]  We have been partners with SAFe
+[00:00:21 -> 00:00:24]  for at least 20 years now, I guess.
+[00:00:24 -> 00:00:28]  And we do sort of offer all services around, you know,
+[00:00:28 -> 00:00:33]  FME, FME server, development, coaching, consulting, training.
+[00:00:34 -> 00:00:35]  So we've been working,
+[00:00:35 -> 00:00:38]  and I've been working with Concertech for 18 years
+[00:00:38 -> 00:00:41]  and love FME, obviously, very much.
+[00:00:44 -> 00:00:47]  Yeah, and I'm Dean with SAFe,
+[00:00:47 -> 00:00:52]  and I've, yeah, I actually didn't realize that, Leslie.
+[00:00:52 -> 00:00:54]  I guess I've been with SAFe about the same time
+[00:00:54 -> 00:00:55]  you've been with Concertech.
+[00:00:55 -> 00:00:59]  So that's an interesting coincidence.
+[00:00:59 -> 00:01:04]  And I work with Mark Stokes in the strategic experts team.
+[00:01:05 -> 00:01:10]  And so we do everything from like pilots and prototypes,
+[00:01:11 -> 00:01:14]  sort of for knowledge transfer.
+[00:01:14 -> 00:01:15]  And the other thing that I,
+[00:01:16 -> 00:01:20]  one of my roles is product manager for open standards.
+[00:01:20 -> 00:01:23]  So I do a fair bit of liaison work with groups
+[00:01:23 -> 00:01:28]  like the OGC and over the years with Inspire
+[00:01:29 -> 00:01:31]  and Building Smart and groups like that.
+[00:01:31 -> 00:01:32]  So, yeah.
+[00:01:33 -> 00:01:35]  Awesome, and speaking of Mark Stokes,
+[00:01:35 -> 00:01:39]  Mark will be joining us on the back end for some Q&A.
+[00:01:39 -> 00:01:42]  So if you do have any questions throughout the webinar,
+[00:01:42 -> 00:01:45]  definitely leave those under the questions tab
+[00:01:45 -> 00:01:47]  on the bottom right,
+[00:01:47 -> 00:01:49]  and Mark will be keeping an eye on that.
+[00:01:49 -> 00:01:53]  And then we will also have a live Q&A session at the end.
+[00:01:54 -> 00:01:55]  Chat, you're all using it to let us know
+[00:01:55 -> 00:01:56]  where you're tuning in from.
+[00:01:56 -> 00:02:00]  So keep on doing that, we'd love to see it.
+[00:02:00 -> 00:02:02]  Share your reactions with us during the webinar as well.
+[00:02:02 -> 00:02:05]  There's a button in the middle on the bottom.
+[00:02:05 -> 00:02:08]  And then if you do have any audio issues,
+[00:02:08 -> 00:02:10]  click that button on the bottom left.
+[00:02:10 -> 00:02:12]  There's four simple steps for troubleshooting.
+[00:02:12 -> 00:02:16]  And tip, the first one is usually refreshing your page
+[00:02:16 -> 00:02:18]  if you're having any issues there.
+[00:02:20 -> 00:02:22]  If you would like to download the deck
+[00:02:22 -> 00:02:23]  and follow along with us live,
+[00:02:23 -> 00:02:27]  you can do so by clicking the top right button there.
+[00:02:27 -> 00:02:28]  And as I understand it,
+[00:02:28 -> 00:02:30]  we actually have some bonus slides in there as well.
+[00:02:30 -> 00:02:32]  Is that right, Dean?
+[00:02:32 -> 00:02:33]  That's correct.
+[00:02:33 -> 00:02:35]  Yeah, most of my decks have a bit of bonus in it.
+[00:02:36 -> 00:02:38]  Yeah, so definitely download those as a resource,
+[00:02:38 -> 00:02:41]  and we'll also send those out in the follow-up email.
+[00:02:43 -> 00:02:44]  All right, and at this point,
+[00:02:44 -> 00:02:46]  I'll get our presenters to turn off our webcam
+[00:02:46 -> 00:02:50]  so we can save on some bandwidth for some upcoming demos.
+[00:02:50 -> 00:02:53]  And I'll pass it back to Dean
+[00:02:53 -> 00:02:55]  once we've done that for the agenda.
+[00:02:57 -> 00:02:59]  Yeah, thanks, Elizabeth.
+[00:02:59 -> 00:03:01]  So yeah, this is a quick overview
+[00:03:01 -> 00:03:03]  of what we're gonna cover today.
+[00:03:03 -> 00:03:05]  First of all, we'll give you an intro
+[00:03:05 -> 00:03:07]  to what we're actually talking about
+[00:03:07 -> 00:03:10]  when we're discussing data and GIS governance
+[00:03:10 -> 00:03:14]  and why is this an important topic
+[00:03:14 -> 00:03:15]  or why you should be interested.
+[00:03:16 -> 00:03:20]  Then we'll dive into how FME supports data governance,
+[00:03:20 -> 00:03:23]  what sort of are some of the key capabilities
+[00:03:23 -> 00:03:24]  on the FME platform.
+[00:03:25 -> 00:03:30]  And then we'll look at how FME is used that way.
+[00:03:30 -> 00:03:32]  And then we'll look at a few demos
+[00:03:33 -> 00:03:36]  related to governance from FME,
+[00:03:36 -> 00:03:40]  working with metadata and other types of validation.
+[00:03:40 -> 00:03:44]  And Leslie will go into some real-world examples
+[00:03:44 -> 00:03:47]  after I talk a bit about best practices.
+[00:03:47 -> 00:03:49]  And then we'll look at some trends going forward.
+[00:03:52 -> 00:03:54]  And hopefully we'll have a bit of time there
+[00:03:54 -> 00:03:55]  for Q&A as well.
+[00:03:57 -> 00:04:01]  So why don't we have a quick poll before we dive in
+[00:04:01 -> 00:04:05]  just to get some of your impressions about governance.
+[00:04:06 -> 00:04:08]  So if everyone wants to head down
+[00:04:08 -> 00:04:10]  to that polls tab on the bottom right,
+[00:04:10 -> 00:04:11]  I've launched it there.
+[00:04:12 -> 00:04:16]  We'll give everyone a few moments here to place their votes.
+[00:04:18 -> 00:04:19]  Yeah, and there's a few options.
+[00:04:19 -> 00:04:23]  So take your time to look over those.
+[00:04:23 -> 00:04:26]  And we tried to include an agnostic option
+[00:04:26 -> 00:04:26]  at the bottom there.
+[00:04:26 -> 00:04:29]  If you're not yet convinced that governance
+[00:04:29 -> 00:04:33]  is for you yet.
+[00:04:37 -> 00:04:39]  Okay, it looks like we have the majority voted now.
+[00:04:42 -> 00:04:47]  And it looks like better data management is a key one here.
+[00:04:50 -> 00:04:54]  60% of people would say that's the primary motivation.
+[00:04:56 -> 00:04:59]  Yeah, and then I guess number two
+[00:04:59 -> 00:05:01]  would be improved decision-making.
+[00:05:01 -> 00:05:05]  So ultimately, yeah, why do we need better data
+[00:05:05 -> 00:05:06]  and better data management?
+[00:05:06 -> 00:05:10]  Ultimately that's for the end users of the data.
+[00:05:12 -> 00:05:13]  Yeah.
+[00:05:15 -> 00:05:18]  Awesome, thanks everyone for voting there.
+[00:05:18 -> 00:05:20]  And we do have a few people yet to convince
+[00:05:20 -> 00:05:21]  that governance is important.
+[00:05:21 -> 00:05:23]  So let's see if we can do that.
+[00:05:23 -> 00:05:24]  There we go.
+[00:05:25 -> 00:05:29]  Okay, so in terms of why should we bother with governance?
+[00:05:32 -> 00:05:34]  Some people might consider that governance
+[00:05:34 -> 00:05:37]  is a bit of a dry topic.
+[00:05:38 -> 00:05:42]  You know, it's like, oh, why do we need to do governance?
+[00:05:42 -> 00:05:47]  And, you know, what is, it sounds a little bit bureaucratic.
+[00:05:48 -> 00:05:53]  And, you know, I actually, if you think about it,
+[00:05:55 -> 00:05:58]  while it might not sound that exciting,
+[00:05:58 -> 00:06:00]  there's two aspects here.
+[00:06:00 -> 00:06:02]  First of all, it can save you from a lot of pain
+[00:06:02 -> 00:06:04]  because if you do have bad data,
+[00:06:05 -> 00:06:07]  you know, you can spend a lot of time
+[00:06:07 -> 00:06:09]  trying to clean that up.
+[00:06:09 -> 00:06:13]  And the other thing is good data or good data quality
+[00:06:13 -> 00:06:17]  can actually enable you to do some pretty exciting stuff.
+[00:06:17 -> 00:06:20]  So we'll see a couple of examples in a minute.
+[00:06:20 -> 00:06:25]  And another aspect is that the more data volume,
+[00:06:25 -> 00:06:28]  complexity of data, the more updates you have to do,
+[00:06:28 -> 00:06:32]  the more you need good governance and automation
+[00:06:32 -> 00:06:34]  in order to manage your data.
+[00:06:34 -> 00:06:36]  So at the end of the day,
+[00:06:36 -> 00:06:39]  kind of like some people from the poll,
+[00:06:39 -> 00:06:41]  the decision, the quality of your decisions
+[00:06:41 -> 00:06:45]  are gonna be limited by the quality of your data.
+[00:06:46 -> 00:06:50]  And here's a quote from Matthew Lewin from Esri.
+[00:06:50 -> 00:06:51]  Governance is, you know,
+[00:06:51 -> 00:06:53]  one of the most important factors determining
+[00:06:53 -> 00:06:57]  whether or not your GIS will actually be successful.
+[00:06:58 -> 00:07:02]  So let's just run this demo quick.
+[00:07:02 -> 00:07:05]  So why are we looking at an airport?
+[00:07:05 -> 00:07:08]  In this particular case, it's a digital twin.
+[00:07:08 -> 00:07:11]  And what does this have to do with data governance?
+[00:07:11 -> 00:07:14]  Well, the bottom line here is that this digital twin
+[00:07:14 -> 00:07:18]  would not be possible without good data
+[00:07:18 -> 00:07:19]  and good data governance
+[00:07:19 -> 00:07:22]  because this is not just a pretty picture.
+[00:07:23 -> 00:07:28]  It's actually a lot of built on top of a BIM.
+[00:07:28 -> 00:07:29]  So building information model,
+[00:07:29 -> 00:07:32]  which has a lot of standards itself.
+[00:07:32 -> 00:07:33]  And so it was a very rich data model
+[00:07:33 -> 00:07:37]  where you can click every single object here,
+[00:07:37 -> 00:07:40]  has schedules associated with it for maintenance,
+[00:07:40 -> 00:07:41]  it has all of the different parts
+[00:07:41 -> 00:07:44]  that went into building it.
+[00:07:44 -> 00:07:45]  And to make it a digital twin,
+[00:07:45 -> 00:07:48]  it also has a real time data feeds
+[00:07:48 -> 00:07:50]  telling you what the status
+[00:07:50 -> 00:07:52]  of all these different components are.
+[00:07:53 -> 00:07:56]  And, you know, whether they're working or not
+[00:07:56 -> 00:07:58]  or something needs maintenance,
+[00:07:58 -> 00:07:59]  which can automatically, you know,
+[00:07:59 -> 00:08:02]  generate work orders, that sort of thing.
+[00:08:03 -> 00:08:07]  So yeah, you can go to the next slide.
+[00:08:07 -> 00:08:09]  So yeah, I just wanted to give a sort of
+[00:08:09 -> 00:08:14]  a nice visual example as to why governance is important.
+[00:08:14 -> 00:08:16]  Yeah, and just to continue maybe on that
+[00:08:16 -> 00:08:18]  and maybe give a bit of a definition
+[00:08:18 -> 00:08:21]  because like we usually like to start these presentations
+[00:08:21 -> 00:08:24]  with saying, you know, what do we see by governance?
+[00:08:24 -> 00:08:27]  So we're kind of looking at data governance
+[00:08:27 -> 00:08:30]  and GIS governance overall in general.
+[00:08:30 -> 00:08:32]  So I usually like to say there is room in the sandbox
+[00:08:32 -> 00:08:33]  for all the castles,
+[00:08:33 -> 00:08:35]  but we have to agree on how to share the sand.
+[00:08:35 -> 00:08:40]  So there's all kinds of exciting projects that we can do,
+[00:08:41 -> 00:08:44]  but, you know, it does take some work
+[00:08:44 -> 00:08:46]  to keep those things going
+[00:08:46 -> 00:08:49]  and to make them live over time.
+[00:08:49 -> 00:08:53]  And then I just put two quotes that are from a blog article.
+[00:08:53 -> 00:08:54]  I don't know if the links work in them.
+[00:08:54 -> 00:08:58]  That will be something Elizabeth has to maybe check,
+[00:08:58 -> 00:09:01]  but so that, you know,
+[00:09:01 -> 00:09:03]  so these quotes are from articles from Esri
+[00:09:03 -> 00:09:06]  and stuff like that.
+[00:09:06 -> 00:09:08]  And being data governance is the idea
+[00:09:08 -> 00:09:11]  of managing the availability and the usability of our data
+[00:09:11 -> 00:09:14]  and the security and GIS governance is kind of overall,
+[00:09:14 -> 00:09:16]  like, you know, that includes not just our data,
+[00:09:16 -> 00:09:20]  but also our systems, you know,
+[00:09:20 -> 00:09:23]  even the people that are going to work with it.
+[00:09:23 -> 00:09:24]  So how does it help us?
+[00:09:24 -> 00:09:27]  I like to think of it like from this point of view,
+[00:09:27 -> 00:09:28]  because I'm kind of like Dean,
+[00:09:28 -> 00:09:30]  it's like governance doesn't always sound
+[00:09:30 -> 00:09:32]  like the most exciting idea sometimes,
+[00:09:32 -> 00:09:36]  but when you think about what it allows you to do,
+[00:09:36 -> 00:09:38]  that's what's really exciting.
+[00:09:38 -> 00:09:39]  So how does it help us?
+[00:09:39 -> 00:09:42]  Well, if you want to build something really significant
+[00:09:42 -> 00:09:44]  and, you know, and you want it to, you know,
+[00:09:44 -> 00:09:49]  last over time and in the world now,
+[00:09:50 -> 00:09:52]  that's, you know, a multi-user, multi-systems,
+[00:09:52 -> 00:09:54]  multiple platforms,
+[00:09:54 -> 00:09:57]  and where GIS data is getting kind of like integrated
+[00:09:57 -> 00:10:01]  into other business processes and lines,
+[00:10:01 -> 00:10:04]  this is where governance really comes into play
+[00:10:04 -> 00:10:06]  because this is what really allows us
+[00:10:06 -> 00:10:10]  to really build something significant and exciting.
+[00:10:12 -> 00:10:14]  And these are just some of the benefits
+[00:10:14 -> 00:10:16]  that you get from implementing governance, right?
+[00:10:16 -> 00:10:19]  I think at the end of the day,
+[00:10:19 -> 00:10:21]  customer service improvements,
+[00:10:21 -> 00:10:23]  I think that's an improved decision-making.
+[00:10:23 -> 00:10:26]  I think those ones are really key ones for me
+[00:10:26 -> 00:10:29]  because you can have all the greatest tools in the world,
+[00:10:29 -> 00:10:30]  but if the data is unreliable,
+[00:10:30 -> 00:10:33]  then you're not going to draw useful decisions from it.
+[00:10:33 -> 00:10:35]  And I think that's pretty like pretty much
+[00:10:35 -> 00:10:37]  the baseline of this, right?
+[00:10:37 -> 00:10:39]  This is from Matthew Lewin's article from Esri
+[00:10:39 -> 00:10:40]  on sort of the, you know,
+[00:10:40 -> 00:10:43]  the different domains of governance in GIS.
+[00:10:43 -> 00:10:46]  And we're not really going to speak to all of them today.
+[00:10:46 -> 00:10:48]  Obviously, like there's a few though
+[00:10:48 -> 00:10:51]  that I feel like are interesting highlights
+[00:10:51 -> 00:10:54]  for where FME helps the organization make a play.
+[00:10:54 -> 00:10:58]  And if you include FME more as a platform
+[00:10:58 -> 00:10:59]  in your organization,
+[00:10:59 -> 00:11:02]  then, you know, you can reach new levels
+[00:11:02 -> 00:11:05]  for these specific domains.
+[00:11:05 -> 00:11:08]  So one of them might be like platform, for instance.
+[00:11:09 -> 00:11:13]  We see platform, we see our enterprise GIS being,
+[00:11:13 -> 00:11:14]  you know, talked of as a platform now.
+[00:11:14 -> 00:11:17]  So we used to have software and applications.
+[00:11:17 -> 00:11:19]  Now we have platforms
+[00:11:19 -> 00:11:22]  and they live in an ecosystem with many others.
+[00:11:22 -> 00:11:25]  If we think of FME now more as a platform
+[00:11:25 -> 00:11:28]  and instead of just thinking of it as an ETL tool
+[00:11:28 -> 00:11:30]  or that sort of Swiss Army knife
+[00:11:30 -> 00:11:33]  that I can, you know, create like cool scripts with,
+[00:11:33 -> 00:11:34]  and I really think about it as something
+[00:11:34 -> 00:11:37]  that's going to be integral to my system,
+[00:11:37 -> 00:11:39]  this will allow me to do more.
+[00:11:39 -> 00:11:41]  And then the obvious one is data.
+[00:11:41 -> 00:11:43]  I mean, you know, for data,
+[00:11:43 -> 00:11:47]  FME is obviously comes easily to the forefront.
+[00:11:47 -> 00:11:50]  We have the idea of being able to make sure
+[00:11:50 -> 00:11:52]  our data is good quality.
+[00:11:52 -> 00:11:56]  FME can help us put validation measures into place.
+[00:11:56 -> 00:11:57]  Those validation measures could be
+[00:11:57 -> 00:12:00]  from data coming into systems,
+[00:12:00 -> 00:12:03]  data going out, data across systems.
+[00:12:03 -> 00:12:05]  So the same data that might appear
+[00:12:06 -> 00:12:07]  in different applications or different systems
+[00:12:07 -> 00:12:10]  and making sure they're coherent.
+[00:12:10 -> 00:12:14]  So I think FME plays obviously like a great role there.
+[00:12:14 -> 00:12:15]  And, you know, that kind of ties
+[00:12:15 -> 00:12:17]  into the idea of delivery too,
+[00:12:17 -> 00:12:19]  because delivery in GIS might include
+[00:12:19 -> 00:12:21]  like delivery of our tools, our mapping tools,
+[00:12:21 -> 00:12:24]  delivery of mapping tools integrated
+[00:12:24 -> 00:12:27]  into other applications and other business lines.
+[00:12:27 -> 00:12:29]  It might be delivering, you know, web apps,
+[00:12:29 -> 00:12:31]  field apps, things like that.
+[00:12:31 -> 00:12:33]  But delivery is also delivering data
+[00:12:33 -> 00:12:36]  and, you know, to specific groups
+[00:12:36 -> 00:12:38]  or tiers maybe for compliance.
+[00:12:38 -> 00:12:42]  And this is where we do see a really good role for FME
+[00:12:42 -> 00:12:44]  and making sure that we sort of curate
+[00:12:44 -> 00:12:46]  in a sort of predictable fashion,
+[00:12:46 -> 00:12:49]  how the data is delivered in a consistent way,
+[00:12:49 -> 00:12:51]  in a monitored way.
+[00:12:51 -> 00:12:53]  And then the last one where maybe people don't think
+[00:12:53 -> 00:12:56]  of it too much is workforce for me.
+[00:12:56 -> 00:12:58]  You know, we're kind of in a world now
+[00:12:58 -> 00:13:03]  where your GIS system might outlive a lot of your staff.
+[00:13:04 -> 00:13:06]  I think that, you know, in the last years
+[00:13:06 -> 00:13:07]  we've seen a lot of retirements,
+[00:13:07 -> 00:13:11]  but also seen a lot of people shift around.
+[00:13:11 -> 00:13:13]  And I think that you want to be able to have
+[00:13:13 -> 00:13:15]  that flexibility and that ability
+[00:13:15 -> 00:13:17]  to keep your workforce up to date
+[00:13:17 -> 00:13:20]  on all the changing technologies
+[00:13:20 -> 00:13:22]  and also be able to provide, you know,
+[00:13:22 -> 00:13:26]  fast tools like low code solutions like FME is
+[00:13:26 -> 00:13:27]  so that somebody can come in
+[00:13:27 -> 00:13:30]  and the learning curve is much lower.
+[00:13:31 -> 00:13:34]  Yeah, I like that idea of institutional knowledge
+[00:13:34 -> 00:13:36]  capturing that and formalizing it
+[00:13:36 -> 00:13:40]  so that it's not just a couple of whizzy scripts
+[00:13:40 -> 00:13:42]  that are, you know, black boxes
+[00:13:42 -> 00:13:45]  that are keeping your organization running.
+[00:13:45 -> 00:13:45]  Yeah.
+[00:13:46 -> 00:13:49]  And we have lots of examples of, you know,
+[00:13:49 -> 00:13:51]  old code and things left behind
+[00:13:51 -> 00:13:53]  and then other new people have to come in
+[00:13:53 -> 00:13:55]  and try to figure out, you know,
+[00:13:55 -> 00:13:58]  how are we going to, you know, keep the system going
+[00:13:58 -> 00:14:00]  that, you know, we don't necessarily have,
+[00:14:00 -> 00:14:02]  you know, all the information about.
+[00:14:02 -> 00:14:05]  So this is where I like that a lot too.
+[00:14:05 -> 00:14:06]  Thanks Dean.
+[00:14:06 -> 00:14:09]  In case anybody is not necessarily aware
+[00:14:09 -> 00:14:12]  of all the components of FME
+[00:14:12 -> 00:14:14]  or what makes FME now more
+[00:14:14 -> 00:14:17]  of an enterprise integration platform
+[00:14:17 -> 00:14:19]  rather than, you know, traditionally just a tool
+[00:14:19 -> 00:14:22]  to, you know, convert data between formats, let's say.
+[00:14:23 -> 00:14:24]  You know, when you think of all the tools
+[00:14:24 -> 00:14:26]  that make up the FME platform,
+[00:14:26 -> 00:14:29]  you really see that it's more of an automation tool now,
+[00:14:29 -> 00:14:33]  an integration tool, and not just a transfer of data.
+[00:14:33 -> 00:14:35]  So the main, you know, applications
+[00:14:35 -> 00:14:37]  that make up this platform,
+[00:14:37 -> 00:14:39]  I usually like to categorize them as, you know,
+[00:14:39 -> 00:14:41]  we have FME desktop.
+[00:14:41 -> 00:14:44]  So this is what allows us to build our workflow.
+[00:14:44 -> 00:14:45]  So I usually tell people,
+[00:14:45 -> 00:14:48]  you can build your data processes with FME desktop
+[00:14:48 -> 00:14:51]  and you can run them in the desktop,
+[00:14:51 -> 00:14:55]  execute them, create them, you know, develop them,
+[00:14:55 -> 00:14:59]  and this is where you're really trying to develop
+[00:14:59 -> 00:15:01]  how your data is going to be processed,
+[00:15:01 -> 00:15:04]  manipulated, written, validated, you know,
+[00:15:04 -> 00:15:05]  all the things you might,
+[00:15:05 -> 00:15:08]  depending on what kind of integration workflow
+[00:15:08 -> 00:15:09]  you're dealing with.
+[00:15:09 -> 00:15:13]  And then we sort of have the automation aspect of FME,
+[00:15:13 -> 00:15:16]  and we see that with both FME server and FME cloud.
+[00:15:16 -> 00:15:18]  So FME cloud being the SaaS version
+[00:15:18 -> 00:15:21]  and FME server being the enterprise application.
+[00:15:21 -> 00:15:23]  This graphic, I always like it
+[00:15:23 -> 00:15:24]  because it's evolved so much.
+[00:15:24 -> 00:15:28]  Like in the 18 years, like I've been at Concertech,
+[00:15:28 -> 00:15:30]  this graphic has existed yet it has evolved.
+[00:15:30 -> 00:15:35]  It used to be a graphic showing individual data formats,
+[00:15:35 -> 00:15:38]  like, oh, we support MapInfo and then we support Esri
+[00:15:38 -> 00:15:40]  and then we support, you know, CAD
+[00:15:40 -> 00:15:43]  and then we support different specific formats.
+[00:15:43 -> 00:15:46]  And now it's basically different types of data
+[00:15:46 -> 00:15:48]  and a lot that have a spatial component to them.
+[00:15:48 -> 00:15:50]  And so we kind of actually see the evolution
+[00:15:51 -> 00:15:54]  of spatial data over time in general
+[00:15:54 -> 00:15:57]  and how FME has evolved to kind of keep up
+[00:15:57 -> 00:16:00]  in those like newer spaces that we see data
+[00:16:00 -> 00:16:04]  that has, you know, 3D or a spatial component to it.
+[00:16:04 -> 00:16:06]  So, and we see that the complexity
+[00:16:06 -> 00:16:08]  is just definitely growing with time.
+[00:16:09 -> 00:16:12]  All right, so I'll take over here
+[00:16:12 -> 00:16:16]  and show a couple of demos.
+[00:16:16 -> 00:16:21]  And yeah, just quickly go over this.
+[00:16:22 -> 00:16:23]  I had a quick comment.
+[00:16:23 -> 00:16:26]  Thanks, Leslie, for that FME overview
+[00:16:26 -> 00:16:30]  and kind of setting the stage of how FME relates
+[00:16:30 -> 00:16:33]  to governance and what we mean by governance.
+[00:16:33 -> 00:16:36]  And that, I really liked that format slide too.
+[00:16:36 -> 00:16:37]  And I was just thinking, wow,
+[00:16:37 -> 00:16:41]  like if you think about the whole range of data
+[00:16:41 -> 00:16:42]  that you can access with FME,
+[00:16:44 -> 00:16:45]  that doesn't mean it's automatically
+[00:16:46 -> 00:16:47]  gonna be organized.
+[00:16:47 -> 00:16:49]  So obviously you need a good governance approach
+[00:16:49 -> 00:16:54]  to manage that degree of diversity of data and volume.
+[00:16:55 -> 00:16:58]  So one of the ways that I think is crucial
+[00:16:58 -> 00:17:02]  for data management is to have a handle
+[00:17:02 -> 00:17:04]  on what kind of data you have
+[00:17:04 -> 00:17:06]  and how to manage it as metadata.
+[00:17:06 -> 00:17:11]  Because metadata tells you where your data is,
+[00:17:11 -> 00:17:15]  how up to date it is, what's its intended use,
+[00:17:16 -> 00:17:20]  where does it come from, all that contextual information.
+[00:17:20 -> 00:17:22]  So the goal of this particular demo
+[00:17:22 -> 00:17:24]  is we have a feature service
+[00:17:26 -> 00:17:28]  which provides both data and metadata.
+[00:17:28 -> 00:17:32]  It needs to be updated based on some local metadata updates.
+[00:17:32 -> 00:17:33]  So let's say there's a local tool
+[00:17:33 -> 00:17:37]  where somebody has entered some information
+[00:17:37 -> 00:17:41]  and they need those updates to go onto the feature service.
+[00:17:41 -> 00:17:44]  The obstacle there, metadata,
+[00:17:44 -> 00:17:47]  typically in the ISO metadata
+[00:17:47 -> 00:17:49]  that we're used to working with is fairly complex.
+[00:17:49 -> 00:17:52]  It's a large nested XML document,
+[00:17:52 -> 00:17:54]  a bit difficult to work with
+[00:17:54 -> 00:17:58]  if you're used to flat GIS data.
+[00:17:58 -> 00:18:01]  So the solution is FME provides us
+[00:18:01 -> 00:18:04]  with the XML reader, writer,
+[00:18:04 -> 00:18:07]  and then tools like XML updater
+[00:18:07 -> 00:18:09]  that makes it easy to detect changes
+[00:18:09 -> 00:18:11]  and then make updates as needed.
+[00:18:11 -> 00:18:14]  So the result is feature service has metadata
+[00:18:14 -> 00:18:16]  that is automatically updated
+[00:18:16 -> 00:18:20]  according to these latest updates
+[00:18:20 -> 00:18:22]  and that merge basically happens.
+[00:18:22 -> 00:18:25]  So let me just, this is kind of cool
+[00:18:25 -> 00:18:28]  because it's actually not just a demo.
+[00:18:28 -> 00:18:31]  This particular workflow comes from Caltrans.
+[00:18:31 -> 00:18:33]  So they were kind enough to share.
+[00:18:34 -> 00:18:37]  This was kind of developed by Trent at SAFE
+[00:18:37 -> 00:18:41]  and he worked with them to build this.
+[00:18:41 -> 00:18:44]  And so this is actually being used in a production system.
+[00:18:46 -> 00:18:47]  So basically on the left side here,
+[00:18:47 -> 00:18:50]  we have the metadata,
+[00:18:50 -> 00:18:52]  the original metadata from the feature service
+[00:18:52 -> 00:18:55]  and then the updates and they flow through here
+[00:18:55 -> 00:18:57]  and I'll zoom in a little bit.
+[00:18:58 -> 00:19:00]  Read this a bit easier.
+[00:19:00 -> 00:19:04]  And we'll just pop up a couple of the key transformers.
+[00:19:04 -> 00:19:08]  So here's the change detector,
+[00:19:08 -> 00:19:10]  for changes in these attributes.
+[00:19:10 -> 00:19:15]  And we can drill into the document structure of the XML
+[00:19:16 -> 00:19:20]  using that tree control and look for changes.
+[00:19:20 -> 00:19:22]  And then based on those changes,
+[00:19:22 -> 00:19:24]  we do a number of updates here.
+[00:19:24 -> 00:19:29]  And so these are all of the different XML objects
+[00:19:30 -> 00:19:33]  that we're gonna update and merge in values
+[00:19:33 -> 00:19:37]  that are coming from the update document.
+[00:19:38 -> 00:19:39]  And then ultimately here,
+[00:19:39 -> 00:19:43]  XML updater lets us merge those values
+[00:19:43 -> 00:19:45]  right into the XML structure.
+[00:19:45 -> 00:19:47]  So why are we doing it this way
+[00:19:47 -> 00:19:51]  and not with let's say a flattener and a templater?
+[00:19:51 -> 00:19:55]  The nice thing about if you're going from XML to XML,
+[00:19:55 -> 00:19:56]  it's nice to use the updater
+[00:19:56 -> 00:19:59]  because you don't have to kind of flatten
+[00:19:59 -> 00:20:00]  and rebuild the whole structure.
+[00:20:00 -> 00:20:03]  You can more surgically just insert the values
+[00:20:03 -> 00:20:05]  where you need them to go.
+[00:20:06 -> 00:20:08]  And ultimately it goes through a validator
+[00:20:08 -> 00:20:12]  and then out the text file reader.
+[00:20:12 -> 00:20:14]  So I'll go ahead and run that quick.
+[00:20:14 -> 00:20:16]  And you can see in this particular case,
+[00:20:16 -> 00:20:18]  I'm just pushing through one update.
+[00:20:19 -> 00:20:21]  And then if I go to here,
+[00:20:21 -> 00:20:24]  you can see that this is the feature service data
+[00:20:25 -> 00:20:27]  with that linkage at the bottom.
+[00:20:27 -> 00:20:28]  This is the update,
+[00:20:28 -> 00:20:31]  which has additional information about contact information,
+[00:20:31 -> 00:20:34]  has a mod date, timestamp,
+[00:20:34 -> 00:20:37]  and it has this bounds box.
+[00:20:37 -> 00:20:40]  And then that gets merged into the output.
+[00:20:40 -> 00:20:45]  So here you have a combination of the update dates
+[00:20:45 -> 00:20:47]  and the new contact information,
+[00:20:47 -> 00:20:50]  and also the new B-box,
+[00:20:50 -> 00:20:52]  but it still has some of the old information
+[00:20:52 -> 00:20:53]  from the feature service.
+[00:20:53 -> 00:20:58]  So yeah, not super visual,
+[00:20:58 -> 00:21:01]  but it is a good example
+[00:21:02 -> 00:21:07]  of using FME to automate the metadata updates,
+[00:21:09 -> 00:21:14]  which is pretty crucial for good data governance.
+[00:21:14 -> 00:21:17]  And the next example I'll show you quickly
+[00:21:17 -> 00:21:18]  is metadata harvesting.
+[00:21:19 -> 00:21:22]  And here, again, we wanna do some automation.
+[00:21:22 -> 00:21:26]  And one of the things that people kind of eyes glaze over
+[00:21:26 -> 00:21:27]  a bit when you talk about metadata,
+[00:21:27 -> 00:21:29]  because it can be a pain if you have to go through
+[00:21:29 -> 00:21:32]  and manually enter information.
+[00:21:32 -> 00:21:35]  But in this, FME can be used to automate
+[00:21:35 -> 00:21:38]  harvesting of metadata and then doing updates that way.
+[00:21:38 -> 00:21:42]  So this is actually, I'll jump over to the workspace.
+[00:21:43 -> 00:21:48]  And what this is doing is it's reading from a geodatabase
+[00:21:48 -> 00:21:53]  and grabbing all of the values and parameters
+[00:21:53 -> 00:21:54]  from that data.
+[00:21:54 -> 00:21:57]  Here, I'll just show you what the dataset looks like.
+[00:21:57 -> 00:21:59]  So this is just a Vancouver dataset,
+[00:22:00 -> 00:22:01]  probably from the training data.
+[00:22:01 -> 00:22:05]  And you can see information about community centers,
+[00:22:05 -> 00:22:06]  transit stations, and whatnot.
+[00:22:06 -> 00:22:08]  And so what we wanna do is,
+[00:22:08 -> 00:22:10]  let's say we don't have any metadata
+[00:22:10 -> 00:22:13]  and we just wanna extract the metadata that's there.
+[00:22:13 -> 00:22:15]  And so what this workflow is doing
+[00:22:15 -> 00:22:16]  is it's reading the table names,
+[00:22:16 -> 00:22:21]  it's grabbing the update timestamp, a unique ID,
+[00:22:22 -> 00:22:25]  also auto-generating a category and a list of fields.
+[00:22:25 -> 00:22:27]  So I'm not gonna go through all of that.
+[00:22:27 -> 00:22:30]  You can see here's the bounding box accumulator
+[00:22:30 -> 00:22:32]  and the attribute exploder is what we use
+[00:22:32 -> 00:22:36]  to generate all of the field names.
+[00:22:36 -> 00:22:37]  And everything here, in this case,
+[00:22:37 -> 00:22:41]  gets merged into this XML template for the metadata.
+[00:22:42 -> 00:22:44]  And then that gets validated and written out.
+[00:22:45 -> 00:22:48]  And so if we look at the output for that,
+[00:22:48 -> 00:22:50]  go ahead and run this.
+[00:22:50 -> 00:22:51]  So it's reading all these tables,
+[00:22:51 -> 00:22:56]  but it's only writing out one record per table.
+[00:22:56 -> 00:22:58]  And then it has all the fields coming in as well
+[00:22:58 -> 00:23:00]  for keywords.
+[00:23:00 -> 00:23:04]  And so if we look at the metadata for libraries,
+[00:23:04 -> 00:23:09]  you can see we have a list of field names here
+[00:23:09 -> 00:23:12]  and we also have that dynamic bounds generated
+[00:23:12 -> 00:23:13]  from the data.
+[00:23:14 -> 00:23:17]  And the same thing goes for the community centers,
+[00:23:17 -> 00:23:22]  bounds and keywords and other information.
+[00:23:22 -> 00:23:25]  I think there was a category field too, as well.
+[00:23:25 -> 00:23:29]  So, all right, so back to the deck.
+[00:23:30 -> 00:23:34]  How can FME support your governance framework?
+[00:23:34 -> 00:23:36]  What are some best practices?
+[00:23:36 -> 00:23:38]  This is just sort of a high level snapshot
+[00:23:38 -> 00:23:40]  of a governance plan.
+[00:23:40 -> 00:23:42]  Some of the things that go into a plan
+[00:23:42 -> 00:23:43]  are your governance policy.
+[00:23:43 -> 00:23:44]  I'm not gonna go through everything.
+[00:23:44 -> 00:23:47]  But the key thing is whatever you decide on
+[00:23:47 -> 00:23:49]  for roles and responsibilities
+[00:23:49 -> 00:23:52]  and how you're gonna manage the data lifecycle,
+[00:23:52 -> 00:23:54]  data management lifecycle,
+[00:23:54 -> 00:23:58]  FME can support your ability to implement that
+[00:23:58 -> 00:23:59]  every step of the way.
+[00:24:00 -> 00:24:04]  So here's some aspects of how FME technically
+[00:24:04 -> 00:24:06]  can help you implement your governance.
+[00:24:06 -> 00:24:10]  And from, let's say, the FME Engine perspective,
+[00:24:10 -> 00:24:15]  of course, we know that FME is an ideal tool
+[00:24:15 -> 00:24:19]  to span all the different silos
+[00:24:19 -> 00:24:21]  of different types of data,
+[00:24:21 -> 00:24:24]  different subsystems across your enterprise.
+[00:24:25 -> 00:24:27]  And you can pull data from across those and manage data.
+[00:24:29 -> 00:24:31]  There's also a lot of tools in FME
+[00:24:31 -> 00:24:32]  to help you validate your data
+[00:24:32 -> 00:24:34]  in order to automate updates
+[00:24:34 -> 00:24:36]  and make sure you're not corrupting it.
+[00:24:37 -> 00:24:39]  We have very good support for standards
+[00:24:39 -> 00:24:42]  and I'll have some examples of that in a second.
+[00:24:42 -> 00:24:47]  And yeah, validation, we have a lot of tools
+[00:24:48 -> 00:24:52]  both for geometry and attribute validation.
+[00:24:52 -> 00:24:53]  And at the end of the day,
+[00:24:54 -> 00:24:57]  in order to take all this information
+[00:24:57 -> 00:24:59]  and make it easier to consume,
+[00:25:00 -> 00:25:03]  we support generating reports,
+[00:25:03 -> 00:25:07]  which might be HTML, PDF, or log, automated logging.
+[00:25:08 -> 00:25:11]  And on the server side, you take that engine
+[00:25:11 -> 00:25:13]  and now you have full automation.
+[00:25:14 -> 00:25:17]  And automation is really key for governance
+[00:25:17 -> 00:25:20]  because now you have workflows that are reliable,
+[00:25:20 -> 00:25:25]  repeatable, and you can remove that human error aspect
+[00:25:25 -> 00:25:27]  to it.
+[00:25:27 -> 00:25:31]  And when you have that automation across the enterprise,
+[00:25:31 -> 00:25:33]  so the data fusion across the enterprise,
+[00:25:33 -> 00:25:38]  you can have workflows that span those subsystems.
+[00:25:38 -> 00:25:42]  And we've talked a bit about validation and updates already
+[00:25:43 -> 00:25:45]  and Leslie mentioned data distribution.
+[00:25:45 -> 00:25:48]  So there's many aspects of data governance
+[00:25:48 -> 00:25:52]  that the server platform can support you on,
+[00:25:52 -> 00:25:54]  things like access control security.
+[00:25:54 -> 00:25:57]  And I kind of added notifications.
+[00:25:57 -> 00:25:59]  We'll see an example of that
+[00:25:59 -> 00:26:01]  in some of the customer examples.
+[00:26:04 -> 00:26:06]  So a couple of words on standards
+[00:26:06 -> 00:26:09]  before I show you my last example,
+[00:26:09 -> 00:26:10]  our last demo example,
+[00:26:10 -> 00:26:14]  and that is we really have made standards
+[00:26:15 -> 00:26:20]  a central component or a part of our planning
+[00:26:21 -> 00:26:22]  and a roadmap.
+[00:26:22 -> 00:26:26]  And so recently we had certifications,
+[00:26:26 -> 00:26:29]  got certification for a number of the OGC standards,
+[00:26:29 -> 00:26:32]  the ones that are supported by the test suite
+[00:26:33 -> 00:26:37]  and so for GML, GeoPackage, GeoTIFF, and others.
+[00:26:37 -> 00:26:41]  And we have support for more than 30 OGC standards
+[00:26:41 -> 00:26:44]  and there's more coming with the open API,
+[00:26:44 -> 00:26:46]  OGC features API, for example.
+[00:26:47 -> 00:26:51]  So yeah, I think standards are really crucial
+[00:26:51 -> 00:26:55]  because that's a way in terms of governance
+[00:26:55 -> 00:26:58]  where you can have an external standard
+[00:26:58 -> 00:27:02]  that helps define your internal standards as well.
+[00:27:02 -> 00:27:05]  And that way you can actually take tools
+[00:27:05 -> 00:27:07]  that were developed by third parties
+[00:27:07 -> 00:27:09]  and as long as they're compliant with that standard,
+[00:27:09 -> 00:27:11]  you can deploy them internally.
+[00:27:11 -> 00:27:13]  It just gives you that sort of,
+[00:27:13 -> 00:27:15]  that kind of governance just gives you
+[00:27:15 -> 00:27:17]  that extra scalability.
+[00:27:18 -> 00:27:19]  And for example, one of the benefits,
+[00:27:19 -> 00:27:22]  we are also emphasizing cloud-native,
+[00:27:22 -> 00:27:24]  so cloud-optimized GeoTIFF.
+[00:27:24 -> 00:27:26]  If you implement that standard,
+[00:27:26 -> 00:27:28]  now you have that scalability in the cloud.
+[00:27:30 -> 00:27:32]  And we've already talked about metadata,
+[00:27:32 -> 00:27:34]  but there's a number of standards there.
+[00:27:34 -> 00:27:39]  Stack is an important cloud-native data catalog
+[00:27:40 -> 00:27:44]  that lets you consume cloud-optimized GeoTIFF, for example.
+[00:27:45 -> 00:27:48]  So a couple more words about validation.
+[00:27:48 -> 00:27:51]  Mentioned we cover validation of metadata,
+[00:27:51 -> 00:27:55]  schema, and the data content itself.
+[00:27:55 -> 00:27:57]  And there's just a few transformers
+[00:27:57 -> 00:28:00]  that are really helpful.
+[00:28:00 -> 00:28:03]  Things like Attribute Validator or Geometry Validator
+[00:28:03 -> 00:28:07]  and Tester would probably be the top ones there.
+[00:28:07 -> 00:28:11]  So there's lots of tools there to support data validation,
+[00:28:11 -> 00:28:14]  and we have some really good examples
+[00:28:14 -> 00:28:15]  in on our knowledge base.
+[00:28:16 -> 00:28:20]  And just to wrap up, in terms of my demos,
+[00:28:20 -> 00:28:21]  I'll show you, I just wanted to show you
+[00:28:21 -> 00:28:24]  a quick example of the IMD validator.
+[00:28:24 -> 00:28:27]  So moving beyond metadata to data content,
+[00:28:27 -> 00:28:32]  and this really covers both geometry
+[00:28:32 -> 00:28:36]  and business rules for the attribution.
+[00:28:36 -> 00:28:38]  And so here's an example of the validation report.
+[00:28:38 -> 00:28:41]  And if I just click on this, I can go to the actual report.
+[00:28:41 -> 00:28:44]  You can see that it's got,
+[00:28:45 -> 00:28:47]  GeoFence has an interior ring.
+[00:28:47 -> 00:28:48]  That means there's a donut
+[00:28:48 -> 00:28:51]  when it's just supposed to be a single polygon,
+[00:28:51 -> 00:28:52]  area polygon.
+[00:28:52 -> 00:28:54]  So we're doing both geometry checks.
+[00:28:54 -> 00:28:56]  And if we go further down,
+[00:28:56 -> 00:29:01]  there's lots of data content checks on unique IDs
+[00:29:02 -> 00:29:06]  or missing IDs, valid start times.
+[00:29:06 -> 00:29:08]  And then if we go to the very bottom,
+[00:29:08 -> 00:29:12]  we can actually see a visual representation
+[00:29:12 -> 00:29:14]  of the Victoria Airport.
+[00:29:14 -> 00:29:17]  We can zoom in, click on a specific ID and say,
+[00:29:17 -> 00:29:20]  okay, there's a problem with that particular amenity,
+[00:29:20 -> 00:29:22]  and I can search that ID and go back
+[00:29:22 -> 00:29:25]  to that line in the table and figure out what the error was.
+[00:29:25 -> 00:29:30]  So this is just an example of a validation report
+[00:29:30 -> 00:29:33]  for a very complex standard.
+[00:29:33 -> 00:29:36]  So the IMDF standard, even the format is simple
+[00:29:36 -> 00:29:39]  based on GeoJSON, but the business rule set
+[00:29:39 -> 00:29:41]  is probably one of the most complex ones we've encountered.
+[00:29:41 -> 00:29:43]  And so you really do need automation
+[00:29:43 -> 00:29:47]  if you're gonna comply with that standard.
+[00:29:47 -> 00:29:51]  So that's basically all I was gonna say.
+[00:29:51 -> 00:29:52]  I just wanted to give that example.
+[00:29:52 -> 00:29:56]  I thought the indoor mapping does really relate
+[00:29:56 -> 00:30:00]  to data governance because it shows,
+[00:30:00 -> 00:30:04]  in this particular case, complying with that standard.
+[00:30:04 -> 00:30:06]  And it also links in a bit with Digital Twin,
+[00:30:06 -> 00:30:09]  which was our first example.
+[00:30:09 -> 00:30:11]  And I'll get back to that a little later.
+[00:30:11 -> 00:30:13]  So I'll pass it over to Leslie,
+[00:30:13 -> 00:30:16]  and you're gonna talk about some real world
+[00:30:16 -> 00:30:20]  customer examples where FME is used to support governance.
+[00:30:21 -> 00:30:23]  Yep, so the first use case I wanna talk about
+[00:30:23 -> 00:30:27]  is actually a tool that we built for multiple clients
+[00:30:27 -> 00:30:30]  in Quebec for the management of their cadastral data.
+[00:30:30 -> 00:30:34]  So it's just an example of where you really have to think
+[00:30:34 -> 00:30:37]  about the idea that the data is always changing
+[00:30:37 -> 00:30:40]  in the management of this,
+[00:30:40 -> 00:30:44]  and their cities are basically constantly receiving
+[00:30:44 -> 00:30:47]  new cadastral updates that they have to integrate
+[00:30:47 -> 00:30:49]  into their parcel fabric.
+[00:30:49 -> 00:30:54]  And then they actually have to publish the data back out
+[00:30:55 -> 00:30:58]  to a different provincial ministry
+[00:30:58 -> 00:31:03]  and in a very, very specific open format in a GML format
+[00:31:04 -> 00:31:06]  with a very specific and strict schema.
+[00:31:06 -> 00:31:09]  So this is an ongoing need.
+[00:31:09 -> 00:31:12]  So it's not like maybe a long time ago,
+[00:31:12 -> 00:31:14]  you might make a map and then spend weeks and weeks
+[00:31:14 -> 00:31:17]  and weeks, and then you have the perfect map.
+[00:31:17 -> 00:31:18]  It is now the published map.
+[00:31:18 -> 00:31:23]  This is living data and it has to constantly be updated,
+[00:31:24 -> 00:31:25]  but you have to maintain its quality
+[00:31:25 -> 00:31:28]  and maintaining its quality means being able to adhere
+[00:31:28 -> 00:31:29]  to the different standards you need,
+[00:31:29 -> 00:31:32]  making sure that the data is coherent
+[00:31:32 -> 00:31:35]  so that it can then be used in other business processes.
+[00:31:35 -> 00:31:37]  So the data that always gets received
+[00:31:37 -> 00:31:41]  is in a very specific format in a DXF format.
+[00:31:41 -> 00:31:43]  And so it does not match the internal format
+[00:31:43 -> 00:31:48]  that organizations use to manage their cadastral data.
+[00:31:48 -> 00:31:50]  So they need to be able to manage their own data
+[00:31:50 -> 00:31:53]  in their own format for their business needs
+[00:31:53 -> 00:31:56]  to integrate with all their other systems and applications.
+[00:31:56 -> 00:31:59]  So it's their governed cadastral fabric,
+[00:31:59 -> 00:32:02]  but then they have to be able to constantly bring in data
+[00:32:02 -> 00:32:07]  from the outside and constantly push data back out
+[00:32:07 -> 00:32:09]  in these other formats.
+[00:32:09 -> 00:32:14]  So by looking at the governance of this system,
+[00:32:14 -> 00:32:17]  you have to be able to think this is not static
+[00:32:17 -> 00:32:18]  and it's constantly gonna change.
+[00:32:18 -> 00:32:21]  So I have to be able to have tools
+[00:32:21 -> 00:32:22]  that let me convert the data,
+[00:32:22 -> 00:32:25]  have tools that let me validate that it's correct.
+[00:32:25 -> 00:32:28]  I need to be able to maintain and use the data
+[00:32:28 -> 00:32:31]  in my own format, in my own system.
+[00:32:31 -> 00:32:34]  And then I need to also be able to constantly be able to,
+[00:32:34 -> 00:32:39]  at any moment, produce a set in this external format.
+[00:32:39 -> 00:32:44]  So the tools that we did are mostly FME-based
+[00:32:45 -> 00:32:50]  and so they automatically take in those external DXF files,
+[00:32:50 -> 00:32:51]  but we have to do validation
+[00:32:51 -> 00:32:53]  because even though there's a very strict standard
+[00:32:53 -> 00:32:55]  on how the data is supposed to be formatted,
+[00:32:55 -> 00:32:59]  it is not always perfect.
+[00:32:59 -> 00:33:02]  It's a very specific format,
+[00:33:02 -> 00:33:04]  kind of like a distributed GIS.
+[00:33:04 -> 00:33:07]  So it's basically CAD files,
+[00:33:07 -> 00:33:10]  but you can reconstruct GIS data from those CAD files.
+[00:33:10 -> 00:33:13]  And so in the processes,
+[00:33:14 -> 00:33:15]  we're actually having to validate
+[00:33:15 -> 00:33:17]  to make sure that it's structurally coherent
+[00:33:17 -> 00:33:19]  to be able to then import the tool
+[00:33:19 -> 00:33:20]  into the current parcel fabric.
+[00:33:20 -> 00:33:25]  So then we import the data into the database at the end,
+[00:33:26 -> 00:33:29]  and then that allows them to do their business with it,
+[00:33:29 -> 00:33:33]  integrate that parcel data with other applications
+[00:33:33 -> 00:33:36]  and systems and serve their business processes.
+[00:33:36 -> 00:33:39]  And then we also use FME at the end of that
+[00:33:39 -> 00:33:42]  to extract the data to the very specific GML format
+[00:33:42 -> 00:33:46]  with a very specific schema that really doesn't match
+[00:33:46 -> 00:33:48]  with a city needs for its business needs, right?
+[00:33:48 -> 00:33:52]  But that is a great open format for the province
+[00:33:52 -> 00:33:53]  because they're trying to get data
+[00:33:53 -> 00:33:56]  from many municipalities across the whole province.
+[00:33:56 -> 00:33:57]  So they need something that's standardized
+[00:33:57 -> 00:34:00]  so that they can integrate for their needs and their system.
+[00:34:00 -> 00:34:02]  So they chose an open standard
+[00:34:02 -> 00:34:04]  to be able to have a sort of neutral platform
+[00:34:04 -> 00:34:06]  with a certain standard.
+[00:34:06 -> 00:34:08]  So we need to be able to adhere to that standard.
+[00:34:08 -> 00:34:10]  So even on the export,
+[00:34:10 -> 00:34:13]  there has to be validation that the FME workspace is doing
+[00:34:13 -> 00:34:17]  to make sure the data coherently meets that standard.
+[00:34:17 -> 00:34:20]  So that's where I feel like in that idea
+[00:34:20 -> 00:34:23]  of like sort of like data intake and validation,
+[00:34:23 -> 00:34:25]  there are some other examples I have from clients.
+[00:34:25 -> 00:34:29]  We have newer and newer ways, like there's LIDAR data now,
+[00:34:29 -> 00:34:33]  there's all kinds of data that comes in
+[00:34:33 -> 00:34:37]  or that we might hire outside firms to collect for us.
+[00:34:37 -> 00:34:40]  And usually we end up with only a very specific window
+[00:34:40 -> 00:34:42]  of time to accept that data.
+[00:34:42 -> 00:34:46]  And so we need to be able to have ways
+[00:34:46 -> 00:34:49]  to be able to respond in a timely fashion
+[00:34:49 -> 00:34:52]  so that we can make sure the data is good
+[00:34:52 -> 00:34:54]  and fit for purpose, basically.
+[00:34:57 -> 00:35:00]  This is another example.
+[00:35:00 -> 00:35:02]  This is the city of Sudbury
+[00:35:02 -> 00:35:07]  and they were asked by the auditor
+[00:35:07 -> 00:35:11]  to put in a system to allow them
+[00:35:11 -> 00:35:14]  to monitor road patrol activities
+[00:35:14 -> 00:35:18]  and to provide a solid databases for residents claims.
+[00:35:18 -> 00:35:22]  So one of the needs was that they would get resident claims
+[00:35:22 -> 00:35:23]  and they wouldn't have the data
+[00:35:23 -> 00:35:28]  or the information available to them to be able to verify
+[00:35:28 -> 00:35:33]  or validate or get a clear picture of the circumstances
+[00:35:33 -> 00:35:35]  from a data perspective.
+[00:35:35 -> 00:35:38]  One of the obstacles of this is,
+[00:35:38 -> 00:35:41]  a lot of these kinds of systems sound pretty straightforward.
+[00:35:41 -> 00:35:43]  Okay, the guys who are doing the public roads maintenance,
+[00:35:43 -> 00:35:45]  they're gonna collect the data,
+[00:35:45 -> 00:35:47]  but different people need it for different purposes.
+[00:35:47 -> 00:35:49]  So they may need it to do their own management
+[00:35:49 -> 00:35:51]  and their own dashboards,
+[00:35:51 -> 00:35:54]  but then the risk management people,
+[00:35:54 -> 00:35:56]  they need to be able to extract that information
+[00:35:56 -> 00:35:57]  for resident claims.
+[00:35:57 -> 00:36:00]  And so they need the information in a consistent manner
+[00:36:00 -> 00:36:02]  and if you're gonna use this data
+[00:36:02 -> 00:36:05]  in potentially litigation cases and stuff like that,
+[00:36:06 -> 00:36:08]  you need to be able to have an idea
+[00:36:08 -> 00:36:10]  of the whole lineage of the data, right?
+[00:36:10 -> 00:36:11]  How is it collected?
+[00:36:11 -> 00:36:13]  Where was it collected?
+[00:36:13 -> 00:36:16]  How was the data extracted from the system
+[00:36:16 -> 00:36:18]  in a consistent fashion?
+[00:36:19 -> 00:36:23]  If you have a person trying to do the data extraction,
+[00:36:23 -> 00:36:26]  maybe it won't be done the same way every time.
+[00:36:26 -> 00:36:28]  Maybe some of the data will be missing.
+[00:36:28 -> 00:36:30]  Are we pointing to the right data?
+[00:36:30 -> 00:36:32]  Even if we're running FME desktop,
+[00:36:32 -> 00:36:33]  are we running the right workspace?
+[00:36:33 -> 00:36:36]  So this is where when you have FME as a platform
+[00:36:36 -> 00:36:41]  and you have your GIS governance in place
+[00:36:41 -> 00:36:44]  and you have your enterprise GIS in place,
+[00:36:44 -> 00:36:46]  you can put in governance around that
+[00:36:46 -> 00:36:49]  so you know how the data is being curated.
+[00:36:49 -> 00:36:52]  And one of the nice things about using like FME server
+[00:36:52 -> 00:36:53]  and these kinds of integrations
+[00:36:53 -> 00:36:57]  is you also not only have FME workspaces
+[00:36:57 -> 00:37:00]  that sort of curate how the data is extracted
+[00:37:00 -> 00:37:03]  and how it's provided, how it's validated,
+[00:37:03 -> 00:37:06]  but you also get that sort of traceability
+[00:37:06 -> 00:37:07]  of when was it run?
+[00:37:07 -> 00:37:09]  When was the data extracted?
+[00:37:09 -> 00:37:10]  What did it connect to?
+[00:37:10 -> 00:37:14]  You sort of have a full like lineage of that data
+[00:37:14 -> 00:37:16]  at the end, which becomes important
+[00:37:16 -> 00:37:18]  if you're gonna find yourself using that data
+[00:37:18 -> 00:37:21]  for official activities and stuff like that.
+[00:37:21 -> 00:37:23]  So this is just another graphic
+[00:37:23 -> 00:37:25]  showing what they actually did.
+[00:37:25 -> 00:37:27]  So their actual solution,
+[00:37:27 -> 00:37:28]  because they had multiple audiences,
+[00:37:28 -> 00:37:31]  they had looked at buying specific tools for this,
+[00:37:31 -> 00:37:33]  but realized they had FME as a platform,
+[00:37:33 -> 00:37:35]  they had an enterprise GIS
+[00:37:35 -> 00:37:37]  and they had the tools they needed
+[00:37:37 -> 00:37:39]  to be able to put something in place in house,
+[00:37:39 -> 00:37:42]  something that's flexible and that was able to adapt
+[00:37:42 -> 00:37:46]  as they kind of brought actually these different groups
+[00:37:46 -> 00:37:48]  into also a change management.
+[00:37:48 -> 00:37:50]  Like when you look at the human side of it,
+[00:37:50 -> 00:37:53]  you're asking new people in the field to collect data
+[00:37:53 -> 00:37:54]  where they weren't doing that before.
+[00:37:54 -> 00:37:57]  You're asking their managers to work with
+[00:37:57 -> 00:37:58]  dashboards and information.
+[00:37:58 -> 00:38:00]  They've never done this before.
+[00:38:00 -> 00:38:02]  So FME, because it's so flexible,
+[00:38:02 -> 00:38:05]  it allowed them to phase the project as well.
+[00:38:06 -> 00:38:08]  And definitely that helped with the change management.
+[00:38:08 -> 00:38:13]  So for them, phase one was they deployed quick capture
+[00:38:13 -> 00:38:15]  in order to capture the GIS,
+[00:38:15 -> 00:38:18]  the information in the field,
+[00:38:18 -> 00:38:21]  as to what they were doing for road patrol.
+[00:38:21 -> 00:38:24]  But then the phase two, they developed an FME workspace
+[00:38:24 -> 00:38:27]  that would automatically compile all the deficiencies
+[00:38:27 -> 00:38:31]  that were found and then email a report to the managers.
+[00:38:31 -> 00:38:34]  And this was a transitory phase to help them get used
+[00:38:34 -> 00:38:36]  to the idea of the changes they were dealing with
+[00:38:36 -> 00:38:37]  in terms of like, okay, now you have
+[00:38:37 -> 00:38:40]  all this new information that you didn't have before.
+[00:38:40 -> 00:38:41]  What do you need?
+[00:38:41 -> 00:38:42]  How are you interacting with it?
+[00:38:42 -> 00:38:43]  And stuff like that.
+[00:38:45 -> 00:38:47]  Then after that, they made a switch.
+[00:38:47 -> 00:38:48]  And this is where FME is so great
+[00:38:48 -> 00:38:51]  because it allows them to like re-adapt
+[00:38:51 -> 00:38:54]  as they can sort of improve the business processes.
+[00:38:54 -> 00:38:59]  They created a dashboard for the managers
+[00:39:00 -> 00:39:02]  to see what was going on.
+[00:39:02 -> 00:39:07]  But now we shift FME's role into producing the data
+[00:39:07 -> 00:39:10]  to meet those dashboard needs.
+[00:39:10 -> 00:39:13]  So FME made a shift in terms of what its purpose was there.
+[00:39:13 -> 00:39:15]  And these are easy to do because it's, you know,
+[00:39:15 -> 00:39:17]  a light tool in terms of development.
+[00:39:17 -> 00:39:20]  You're able to basically, you know,
+[00:39:20 -> 00:39:21]  it's a low code solution.
+[00:39:21 -> 00:39:24]  You're able to fit it where it needs to go.
+[00:39:24 -> 00:39:28]  Phase four, they use, so for those people
+[00:39:28 -> 00:39:30]  that actually need that report,
+[00:39:30 -> 00:39:32]  okay, hey, there was an incident,
+[00:39:32 -> 00:39:35]  a resident needs information or something like that.
+[00:39:35 -> 00:39:37]  So the risk management people are able to use
+[00:39:37 -> 00:39:39]  an ArcGIS survey one, two, three form,
+[00:39:39 -> 00:39:41]  and they make a request.
+[00:39:41 -> 00:39:45]  And on the backend, this is where FME's automation is.
+[00:39:45 -> 00:39:49]  FME automatically, you know, through the webhook technology
+[00:39:49 -> 00:39:52]  and FME server is able to run a workspace
+[00:39:52 -> 00:39:54]  that retrieves the required information.
+[00:39:54 -> 00:39:56]  And this is where the governance comes into place.
+[00:39:56 -> 00:39:58]  We have a repeatable pattern that we can trace.
+[00:39:58 -> 00:40:00]  We know where the data is coming from
+[00:40:00 -> 00:40:04]  and emails them the report back to the requester.
+[00:40:04 -> 00:40:06]  And at the end of this,
+[00:40:06 -> 00:40:09]  they added even more in automation into the workflow.
+[00:40:09 -> 00:40:13]  And FME is playing a role you see at multiple places
+[00:40:13 -> 00:40:17]  in order to serve the data out to the different works,
+[00:40:17 -> 00:40:21]  to the different players or stakeholders in this.
+[00:40:21 -> 00:40:23]  So basically they have automation
+[00:40:23 -> 00:40:25]  of the creation of the work orders in CityWorks.
+[00:40:25 -> 00:40:29]  So now they can create, you know, a case and quick capture.
+[00:40:29 -> 00:40:31]  And then FME is vetting the type of case
+[00:40:31 -> 00:40:33]  and creating the type,
+[00:40:33 -> 00:40:34]  proper type of work order
+[00:40:34 -> 00:40:36]  for their work order management system.
+[00:40:36 -> 00:40:38]  So you can see that there's a number of stakeholders
+[00:40:38 -> 00:40:42]  that need the same information, but in different ways.
+[00:40:42 -> 00:40:46]  And by, you know, bringing that FME platform in,
+[00:40:46 -> 00:40:47]  they're able to sort of make sure
+[00:40:47 -> 00:40:50]  that they know where the data is coming from,
+[00:40:50 -> 00:40:53]  how it's being processed, when it's being processed,
+[00:40:53 -> 00:40:54]  and in a timely manner.
+[00:40:56 -> 00:40:58]  So that I found was a fun one.
+[00:40:59 -> 00:41:00]  And then the last one,
+[00:41:00 -> 00:41:02]  I don't have a cool graphical slide for,
+[00:41:02 -> 00:41:04]  but this is just one that we see
+[00:41:04 -> 00:41:06]  for those who might be interested in this sort of thing.
+[00:41:06 -> 00:41:09]  Like the idea of like being able to do data validation
+[00:41:09 -> 00:41:11]  to comply to standards is really important.
+[00:41:11 -> 00:41:13]  So Dean talked a lot about standards, right?
+[00:41:13 -> 00:41:17]  Some standards are more like the formatting of data.
+[00:41:17 -> 00:41:20]  Some standards are very specific data standards.
+[00:41:21 -> 00:41:25]  So above, you know, schema and, you know,
+[00:41:25 -> 00:41:27]  rules in terms of how the data needs
+[00:41:27 -> 00:41:30]  to be provided and produced.
+[00:41:30 -> 00:41:33]  So like, for instance, you know,
+[00:41:33 -> 00:41:35]  as a lot of cities in North America
+[00:41:35 -> 00:41:37]  are moving to like Next Gen 911,
+[00:41:38 -> 00:41:43]  NENA, the organization that manages the GIS standard,
+[00:41:43 -> 00:41:47]  has created a new standard to meet the needs
+[00:41:47 -> 00:41:50]  of the Next Gen 911 environment.
+[00:41:51 -> 00:41:54]  So one of the particularities of Next Gen 911
+[00:41:54 -> 00:41:58]  is that the spatial data will play an integral role
+[00:41:58 -> 00:42:00]  in how calls are routed.
+[00:42:00 -> 00:42:04]  And because of that, you know,
+[00:42:04 -> 00:42:07]  it is gonna be important that, you know,
+[00:42:07 -> 00:42:10]  the GIS data is clean and good.
+[00:42:10 -> 00:42:13]  And one of the obstacles that a lot of organizations
+[00:42:13 -> 00:42:17]  that have to do the aggregation of 911 data phase
+[00:42:17 -> 00:42:20]  is the idea that the address data is constantly changing.
+[00:42:20 -> 00:42:22]  So we're dealing with address data,
+[00:42:22 -> 00:42:24]  we're dealing with boundaries,
+[00:42:24 -> 00:42:28]  boundaries of like police zones, city boundaries,
+[00:42:28 -> 00:42:32]  you know, the 911 dispatch boundaries and stuff like that.
+[00:42:32 -> 00:42:34]  And now, you know, if you can think like, you know,
+[00:42:34 -> 00:42:37]  a lot of us are GIS people in the room,
+[00:42:37 -> 00:42:38]  what are the challenges we might face?
+[00:42:38 -> 00:42:41]  So we're constantly bringing in new roads
+[00:42:41 -> 00:42:43]  or editing the roads data, right?
+[00:42:43 -> 00:42:45]  Think about every like road construction,
+[00:42:46 -> 00:42:49]  create new deviations off road paths and things like that.
+[00:42:49 -> 00:42:51]  So they're constantly having to remerge
+[00:42:51 -> 00:42:54]  multiple jurisdictions of data, you know,
+[00:42:54 -> 00:42:56]  and that can mean quite volumes of data
+[00:42:56 -> 00:42:58]  and there's always changes.
+[00:42:58 -> 00:43:02]  And if you follow the Next Gen 911 standards and rules,
+[00:43:02 -> 00:43:05]  you see that actually, you know, in the future,
+[00:43:05 -> 00:43:08]  the idea is that addresses have to be, you know,
+[00:43:08 -> 00:43:11]  updated in the system within 72 hours.
+[00:43:11 -> 00:43:15]  So, you know, that also kind of like the timeliness
+[00:43:15 -> 00:43:18]  brings its own challenges as well.
+[00:43:18 -> 00:43:21]  So we have worked with different clients,
+[00:43:22 -> 00:43:25]  one in particular to help automate these validations.
+[00:43:25 -> 00:43:27]  So this is part of larger systems.
+[00:43:27 -> 00:43:32]  Again, FME in, you know, as a platform.
+[00:43:32 -> 00:43:34]  So we're talking about FME server automated
+[00:43:34 -> 00:43:36]  in order to be able to take that new,
+[00:43:36 -> 00:43:41]  that take that data and be able to validate it against,
+[00:43:41 -> 00:43:43]  you know, possibly in some cases,
+[00:43:43 -> 00:43:45]  hundreds of rules, literally.
+[00:43:45 -> 00:43:47]  And those rules span from schema rules
+[00:43:47 -> 00:43:50]  are the required attributes filled out.
+[00:43:51 -> 00:43:53]  The spans to geometry rules
+[00:43:53 -> 00:43:56]  are the geometry structurally sound,
+[00:43:56 -> 00:43:58]  but also topological rules,
+[00:43:58 -> 00:44:00]  especially around the boundaries,
+[00:44:00 -> 00:44:02]  which play an important role in this.
+[00:44:02 -> 00:44:04]  So I did wanna be able to say like, you know,
+[00:44:04 -> 00:44:07]  FME when we're trying to comply to standards
+[00:44:07 -> 00:44:09]  and meet needs for fit for purpose
+[00:44:09 -> 00:44:12]  for very specific data purposes, you know,
+[00:44:13 -> 00:44:15]  we do see a lot of use cases here.
+[00:44:18 -> 00:44:18]  Dean.
+[00:44:18 -> 00:44:19]  All right.
+[00:44:19 -> 00:44:20]  Thanks, Leslie.
+[00:44:20 -> 00:44:23]  Yeah, some great examples from Quebec Sudbury
+[00:44:23 -> 00:44:26]  and NextGen 911.
+[00:44:26 -> 00:44:28]  And so I'm gonna talk briefly.
+[00:44:28 -> 00:44:31]  I know we're winding down on time here,
+[00:44:31 -> 00:44:35]  so I'll keep it pretty short about another example.
+[00:44:35 -> 00:44:36]  So NextGen 911 is an example
+[00:44:36 -> 00:44:39]  of a sort of a cross jurisdictional standard.
+[00:44:39 -> 00:44:43]  So the NextGen 911 applies to all of North America,
+[00:44:43 -> 00:44:46]  you know, at different stages or at different rates.
+[00:44:47 -> 00:44:50]  And the European Environment Agency
+[00:44:50 -> 00:44:52]  has to manage data right across all of Europe,
+[00:44:52 -> 00:44:55]  so 33 countries.
+[00:44:55 -> 00:44:57]  And there's a standard there called Inspire
+[00:44:58 -> 00:45:00]  that kind of is behind all this.
+[00:45:00 -> 00:45:05]  And so they have to ingest data from all across Europe,
+[00:45:05 -> 00:45:06]  from, and every country
+[00:45:06 -> 00:45:10]  has got sort of their own different language,
+[00:45:10 -> 00:45:12]  their different internal standards.
+[00:45:12 -> 00:45:17]  And so they've come up with the Inspire standard
+[00:45:17 -> 00:45:19]  that allow people to aggregate data,
+[00:45:19 -> 00:45:20]  but they still get,
+[00:45:20 -> 00:45:23]  so there's different levels of implementation of Inspire.
+[00:45:23 -> 00:45:27]  And so they have to still accept legacy data
+[00:45:27 -> 00:45:30]  in the form of Excel and shape files,
+[00:45:31 -> 00:45:35]  CSV files, as well as things like Inspire Gmail.
+[00:45:36 -> 00:45:40]  So this is obviously a very complex system
+[00:45:40 -> 00:45:42]  and they're running something
+[00:45:42 -> 00:45:45]  like 16 FME servers continuously.
+[00:45:45 -> 00:45:49]  And they have all these automated workflows using FME.
+[00:45:49 -> 00:45:52]  So if you think about a governance challenge,
+[00:45:52 -> 00:45:54]  managing all of the EU's data
+[00:45:54 -> 00:45:57]  is obviously a pretty huge challenge.
+[00:45:58 -> 00:46:01]  And so, yeah, it's another snapshot of the problem
+[00:46:02 -> 00:46:07]  and get regular updates basically in every day,
+[00:46:08 -> 00:46:12]  if not every hour from all these member states
+[00:46:12 -> 00:46:17]  and then validate that and then extract the data from that
+[00:46:17 -> 00:46:19]  and bring it into their system.
+[00:46:19 -> 00:46:22]  So yeah, something like 11,000 jobs a day.
+[00:46:22 -> 00:46:24]  And this is a European Environment Agency
+[00:46:24 -> 00:46:25]  working with SWACO.
+[00:46:26 -> 00:46:27]  So there's lots of,
+[00:46:27 -> 00:46:30]  there's some great webinars on this if you're interested.
+[00:46:32 -> 00:46:36]  Another, I guess this is now going international.
+[00:46:36 -> 00:46:39]  So the Red Cross has a mandate
+[00:46:39 -> 00:46:43]  to support humanitarian aid right around the world.
+[00:46:45 -> 00:46:50]  Everything from things like promoting health,
+[00:46:51 -> 00:46:53]  things you're responding to the pandemic
+[00:46:53 -> 00:46:58]  to say the latest disaster in Turkey and Syria.
+[00:46:59 -> 00:47:03]  And so they have to monitor data on a global basis.
+[00:47:03 -> 00:47:06]  They have automated web feeds that do web scraping.
+[00:47:06 -> 00:47:10]  And then they have a number of data products,
+[00:47:10 -> 00:47:12]  both in terms of a dashboard
+[00:47:13 -> 00:47:16]  at the administrative sort of management level.
+[00:47:16 -> 00:47:18]  So they can see where hotspots are
+[00:47:18 -> 00:47:20]  and where they may need to respond
+[00:47:20 -> 00:47:23]  as well as building data packages
+[00:47:23 -> 00:47:25]  that can be used offline.
+[00:47:25 -> 00:47:28]  Things like a PDF and whatnot
+[00:47:28 -> 00:47:31]  that where there's low connectivity.
+[00:47:31 -> 00:47:36]  And so that's obviously a huge data management challenge.
+[00:47:36 -> 00:47:39]  And this is just a snapshot of one part of it is,
+[00:47:39 -> 00:47:41]  if they're gonna conflate data,
+[00:47:41 -> 00:47:42]  again, from different countries
+[00:47:42 -> 00:47:46]  and they have to respond, let's say to a disaster,
+[00:47:46 -> 00:47:49]  something like the earthquake where you have data,
+[00:47:49 -> 00:47:52]  they have to conflate across international borders.
+[00:47:53 -> 00:47:57]  Obviously, they need some automated tools
+[00:47:57 -> 00:48:02]  that help them make the data more consistent.
+[00:48:02 -> 00:48:05]  And the other thing that's always a challenge
+[00:48:05 -> 00:48:10]  is how do you manage a system,
+[00:48:10 -> 00:48:12]  the kind of, Leslie mentioned earlier,
+[00:48:12 -> 00:48:14]  sort of this whole ecosystem idea
+[00:48:14 -> 00:48:17]  where you have very complex architectures
+[00:48:17 -> 00:48:21]  with parts of your system might be CardoDB,
+[00:48:21 -> 00:48:24]  the other parts are from Esri or Microsoft
+[00:48:24 -> 00:48:28]  and maybe some open source components, PostGIS.
+[00:48:28 -> 00:48:33]  So FME helps you to manage that whole architecture
+[00:48:33 -> 00:48:37]  and you can actually move data where you need it to go,
+[00:48:37 -> 00:48:40]  manage it and report on it.
+[00:48:41 -> 00:48:43]  So a good example of that is Powerlink.
+[00:48:44 -> 00:48:48]  So this is, again, on the sort of emergency management side
+[00:48:48 -> 00:48:53]  for a large utility in Eastern Australia, Queensland.
+[00:48:54 -> 00:48:57]  And so their challenge is they have to monitor
+[00:48:57 -> 00:49:00]  their whole system and anticipate impacts
+[00:49:00 -> 00:49:04]  coming from large, let's say extreme weather events,
+[00:49:04 -> 00:49:07]  storms, floods, fires, that sort of thing.
+[00:49:07 -> 00:49:10]  And then when they anticipate problems,
+[00:49:10 -> 00:49:14]  they have to send out notifications to emergency managers
+[00:49:14 -> 00:49:19]  so that they can position resources to respond as needed.
+[00:49:19 -> 00:49:22]  And so these are some of the products that they generate.
+[00:49:22 -> 00:49:25]  This is all actually done with FME.
+[00:49:25 -> 00:49:28]  And so most of these are PDF maps
+[00:49:28 -> 00:49:31]  showing things like storm tracks.
+[00:49:31 -> 00:49:32]  And the other main aspect of this
+[00:49:32 -> 00:49:34]  is the notification system.
+[00:49:34 -> 00:49:37]  So they have notifications that go out
+[00:49:37 -> 00:49:42]  where they, as they understand more about the storm track
+[00:49:42 -> 00:49:45]  or if there's a fire, what areas are under threat,
+[00:49:45 -> 00:49:47]  they generate notifications that go to
+[00:49:47 -> 00:49:52]  the different utility service and managers there
+[00:49:53 -> 00:49:54]  so that they can respond.
+[00:49:54 -> 00:49:56]  And the other aspect of notifications
+[00:49:56 -> 00:49:58]  from a governance perspective,
+[00:49:58 -> 00:49:59]  which is really important here,
+[00:49:59 -> 00:50:04]  is they actually have statistics and reports
+[00:50:05 -> 00:50:06]  that they generate periodically
+[00:50:06 -> 00:50:08]  showing the uptime of the system
+[00:50:08 -> 00:50:10]  and anytime there's any issues.
+[00:50:11 -> 00:50:12]  So in terms of governance,
+[00:50:12 -> 00:50:16]  they have certain standards that they require
+[00:50:16 -> 00:50:18]  in terms of minimal downtime
+[00:50:18 -> 00:50:23]  and the length of time it takes to generate notifications.
+[00:50:23 -> 00:50:26]  So they have sort of this dashboard
+[00:50:26 -> 00:50:30]  or overview reporting structure there
+[00:50:30 -> 00:50:32]  that shows how many jobs are run
+[00:50:32 -> 00:50:34]  and how responsive the system is.
+[00:50:35 -> 00:50:39]  So as we sort of move towards wrapping up,
+[00:50:39 -> 00:50:41]  just briefly discuss, okay,
+[00:50:41 -> 00:50:46]  how might your work be impacted if, you know,
+[00:50:46 -> 00:50:49]  so we'll talk a little bit about some sort of trends
+[00:50:49 -> 00:50:52]  and key takeaways.
+[00:50:52 -> 00:50:54]  And this is just something to think about
+[00:50:54 -> 00:50:57]  in terms of if you don't implement best practices,
+[00:50:57 -> 00:50:59]  if you don't implement good governance,
+[00:50:59 -> 00:51:01]  what are some, you know, just keep in mind
+[00:51:01 -> 00:51:03]  what the risks to that might be.
+[00:51:04 -> 00:51:07]  And, you know, yeah, go ahead, Leslie.
+[00:51:07 -> 00:51:08]  Yeah, I was just gonna say,
+[00:51:08 -> 00:51:10]  yeah, I wrote Leslie's best practices.
+[00:51:10 -> 00:51:12]  I just wanted to think about, like,
+[00:51:12 -> 00:51:15]  things that I think are important to consider
+[00:51:15 -> 00:51:19]  when you're, like, how is FME gonna play a role
+[00:51:19 -> 00:51:21]  in my broader governance?
+[00:51:21 -> 00:51:23]  And one of them is understanding the different roles
+[00:51:23 -> 00:51:24]  the platform plays.
+[00:51:24 -> 00:51:28]  Like, I think it's good to have a tactical kind of view
+[00:51:28 -> 00:51:31]  of where FME plays the best.
+[00:51:31 -> 00:51:33]  You know, is it gonna be, you know,
+[00:51:33 -> 00:51:36]  where are its best use cases in your organization,
+[00:51:37 -> 00:51:39]  in your GIS, in your needs?
+[00:51:39 -> 00:51:41]  Implement with purpose.
+[00:51:41 -> 00:51:44]  I think that, I mean, I have been implementing FME server
+[00:51:44 -> 00:51:46]  since it first began.
+[00:51:46 -> 00:51:48]  So it's been many years.
+[00:51:48 -> 00:51:50]  And I think that at first people would be like,
+[00:51:50 -> 00:51:51]  oh, we have desktop.
+[00:51:51 -> 00:51:52]  Oh, we're gonna get FME server
+[00:51:52 -> 00:51:54]  and we're gonna do some stuff on it.
+[00:51:54 -> 00:51:55]  And when they didn't implement with purpose,
+[00:51:55 -> 00:51:58]  like not with like a strategy or a tactical approach,
+[00:51:58 -> 00:52:01]  at least, you know, then we ended up with like
+[00:52:01 -> 00:52:03]  many workspaces and some of them,
+[00:52:03 -> 00:52:04]  nobody knew what they do.
+[00:52:04 -> 00:52:07]  And many times I have sat down with somebody
+[00:52:07 -> 00:52:09]  and actually gone through all of their content
+[00:52:09 -> 00:52:12]  and, you know, tried to figure out
+[00:52:12 -> 00:52:14]  what was good and not good.
+[00:52:14 -> 00:52:17]  And so that's definitely like implement with purpose
+[00:52:17 -> 00:52:21]  is something that we do actively with clients now,
+[00:52:21 -> 00:52:22]  because the idea is that it always starts small
+[00:52:22 -> 00:52:25]  when it's small and you have one workspace on FME server,
+[00:52:25 -> 00:52:27]  it's very easy to govern and manage.
+[00:52:27 -> 00:52:30]  And when you have, you know, three, four, 500,
+[00:52:30 -> 00:52:31]  you need purpose.
+[00:52:32 -> 00:52:37]  And integrate FME into all facets of GIS governance.
+[00:52:37 -> 00:52:38]  So again, like, you know,
+[00:52:38 -> 00:52:40]  it does play a role in your technical strategies.
+[00:52:40 -> 00:52:42]  It does play a role in your financial strategies.
+[00:52:42 -> 00:52:45]  It does play a role in your workforce strategies,
+[00:52:45 -> 00:52:50]  especially, and I like the continual improvement mindset.
+[00:52:50 -> 00:52:53]  You know, how can, so it's not static.
+[00:52:53 -> 00:52:58]  We make a plan, but we have a actual purposeful approach
+[00:52:59 -> 00:53:04]  to adapting that plan and helping the platform evolve.
+[00:53:04 -> 00:53:06]  Yeah, I like that last point, Leslie,
+[00:53:06 -> 00:53:08]  because this might be a bit intimidating
+[00:53:08 -> 00:53:11]  for someone who's new to this whole concept
+[00:53:11 -> 00:53:12]  of data governance.
+[00:53:12 -> 00:53:14]  And I think rather than sort of like,
+[00:53:14 -> 00:53:17]  oh, pass fail or all or nothing,
+[00:53:17 -> 00:53:19]  the continual improvement is you can always start somewhere.
+[00:53:19 -> 00:53:22]  If you start, you know, cataloging your data
+[00:53:22 -> 00:53:25]  or validating it, you know,
+[00:53:25 -> 00:53:28]  anything is better than just kind of driving blind.
+[00:53:29 -> 00:53:32]  So we probably have to wrap up in the next two minutes.
+[00:53:32 -> 00:53:35]  We'll just, I just wanted to jump through this really quick
+[00:53:35 -> 00:53:37]  and these slides are available afterwards,
+[00:53:37 -> 00:53:41]  but I just wanted to emphasize in terms of trends,
+[00:53:41 -> 00:53:44]  what good governance enables.
+[00:53:44 -> 00:53:46]  Certainly it enables efficiency
+[00:53:46 -> 00:53:50]  through things like automation, better collaboration.
+[00:53:50 -> 00:53:52]  So if you're using things like open standards,
+[00:53:52 -> 00:53:56]  it's easier to share data, return on investment.
+[00:53:57 -> 00:54:00]  So ultimately your level of maintenance
+[00:54:00 -> 00:54:03]  or struggling with bad data should go down.
+[00:54:03 -> 00:54:06]  And so your system should be more efficient
+[00:54:06 -> 00:54:08]  and we haven't talked too much about it,
+[00:54:08 -> 00:54:10]  but in terms of risk management,
+[00:54:11 -> 00:54:14]  I guess, Leslie, you had a good example from Sudbury,
+[00:54:14 -> 00:54:16]  you know, with the data lineage.
+[00:54:17 -> 00:54:19]  If you've got good governance,
+[00:54:19 -> 00:54:22]  then that actually protects you
+[00:54:22 -> 00:54:25]  as well as things like from hacking or security.
+[00:54:26 -> 00:54:28]  And the last one I'm just gonna briefly highlight here
+[00:54:28 -> 00:54:30]  before we wrap up is innovation.
+[00:54:30 -> 00:54:32]  So there's a lot of innovation
+[00:54:32 -> 00:54:35]  that really depends on good quality data.
+[00:54:35 -> 00:54:37]  Things like BIM, digital twins,
+[00:54:37 -> 00:54:39]  and what we don't really have time to get into
+[00:54:39 -> 00:54:43]  are things like artificial intelligence
+[00:54:43 -> 00:54:44]  would be another example.
+[00:54:44 -> 00:54:48]  So here, I'm not gonna go through these in much detail,
+[00:54:48 -> 00:54:50]  but just to show you some examples
+[00:54:50 -> 00:54:54]  of digital twins at airports,
+[00:54:54 -> 00:54:56]  we have a number of customers of ours
+[00:54:56 -> 00:54:59]  using FME to support building,
+[00:54:59 -> 00:55:01]  first of all, building their BIM
+[00:55:01 -> 00:55:03]  and then making them essentially,
+[00:55:03 -> 00:55:06]  bringing them to life with real-time data.
+[00:55:06 -> 00:55:11]  And they've got this digital twin
+[00:55:11 -> 00:55:15]  that allows them to manage the life of the airport.
+[00:55:15 -> 00:55:17]  And the same thing here at Chipotle,
+[00:55:17 -> 00:55:19]  where they're using the IFC standard,
+[00:55:20 -> 00:55:22]  essentially an enterprise service bus
+[00:55:22 -> 00:55:25]  that lets them, if a runway light goes out,
+[00:55:25 -> 00:55:28]  there's a message that goes through that service bus
+[00:55:28 -> 00:55:30]  and generates a work order.
+[00:55:30 -> 00:55:32]  So there's presentations on this.
+[00:55:32 -> 00:55:33]  And then once you have that infrastructure,
+[00:55:33 -> 00:55:35]  you can do fun things like build apps,
+[00:55:35 -> 00:55:37]  custom apps that allow people
+[00:55:37 -> 00:55:38]  to get to where they need to go
+[00:55:38 -> 00:55:42]  or find the services, the shopping that they need.
+[00:55:43 -> 00:55:45]  So just in terms of lessons learned,
+[00:55:46 -> 00:55:48]  last minute or two here,
+[00:55:49 -> 00:55:53]  yeah, automation basically powers your data flow,
+[00:55:54 -> 00:55:57]  things like using standards like BIM,
+[00:55:58 -> 00:56:01]  supports collaboration.
+[00:56:01 -> 00:56:04]  So indoor mapping, now you can use a lot of different apps
+[00:56:04 -> 00:56:07]  and your data shows up in Apple Maps or Google Maps
+[00:56:07 -> 00:56:10]  if you support the appropriate standard.
+[00:56:10 -> 00:56:14]  ROI, and I think I've kind of covered most of these here.
+[00:56:15 -> 00:56:17]  And then Leslie, you talked about things
+[00:56:17 -> 00:56:21]  like staff turnover and institutional knowledge.
+[00:56:21 -> 00:56:24]  So I think it protects the organization.
+[00:56:24 -> 00:56:27]  So yeah, just the key takeaways here.
+[00:56:29 -> 00:56:32]  There's this concept of if you do base internal standards
+[00:56:32 -> 00:56:36]  like San Francisco with the ACI airport standard,
+[00:56:37 -> 00:56:39]  by basing their internal standards on that,
+[00:56:39 -> 00:56:41]  it allows them to better comply
+[00:56:42 -> 00:56:44]  with external standards as well.
+[00:56:46 -> 00:56:49]  And then ultimately it's the bottom line there.
+[00:56:49 -> 00:56:52]  FME helps you implement your governance policies
+[00:56:52 -> 00:56:55]  by giving you control over your data management.
+[00:56:55 -> 00:56:57]  So whatever that policy might be
+[00:56:57 -> 00:56:59]  in terms of managing the lifecycle,
+[00:57:00 -> 00:57:03]  access control, authorship, lineage,
+[00:57:04 -> 00:57:07]  FME gives you the tools you need to implement that.
+[00:57:07 -> 00:57:09]  Yeah, I think that's,
+[00:57:09 -> 00:57:11]  did you have anything to add there, Leslie?
+[00:57:12 -> 00:57:14]  No, I think you wrapped it up pretty well.
+[00:57:14 -> 00:57:16]  And it's kind of like based on the previous discussions
+[00:57:16 -> 00:57:17]  we were having the last few days.
+[00:57:17 -> 00:57:19]  So I'm pretty happy.
+[00:57:19 -> 00:57:22]  Yeah, there's a bunch of resources there,
+[00:57:22 -> 00:57:24]  again, available in the deck if you download it.
+[00:57:24 -> 00:57:29]  And there's everything from working with metadata.
+[00:57:30 -> 00:57:31]  There's a great blog there,
+[00:57:33 -> 00:57:35]  I think, and presentations as well.
+[00:57:36 -> 00:57:41]  I think presentations by Leslie at past FME events
+[00:57:41 -> 00:57:43]  and some webinars.
+[00:57:43 -> 00:57:47]  So yeah, feel free to dig in and don't be a stranger.
+[00:57:48 -> 00:57:49]  I don't know, Elizabeth,
+[00:57:49 -> 00:57:51]  did you have anything to add to wrap up?
+[00:57:51 -> 00:57:55]  Yeah, so we do have a community badge code this morning.
+[00:57:55 -> 00:57:57]  I'll drop that in the chat.
+[00:57:57 -> 00:57:58]  If you aren't a part of the community,
+[00:57:58 -> 00:58:00]  it's a great place to connect with other users
+[00:58:00 -> 00:58:03]  and a lot of great resources there.
+[00:58:04 -> 00:58:06]  And early bird registration is open
+[00:58:06 -> 00:58:08]  for the peak of data integration as well.
+[00:58:08 -> 00:58:09]  So definitely check that out.
+[00:58:09 -> 00:58:11]  I'll drop the link for that shortly
+[00:58:11 -> 00:58:12]  if you haven't registered yet.
+[00:58:12 -> 00:58:14]  That's in Europe this year.
+[00:58:16 -> 00:58:18]  And with that, we might take a quick glance at the Q&A,
+[00:58:18 -> 00:58:22]  but it does look like we've answered most questions.
+[00:58:22 -> 00:58:25]  There was a question about how is the XML used?
+[00:58:25 -> 00:58:27]  And there were two XML examples.
+[00:58:27 -> 00:58:31]  I wasn't sure which one, but the first one,
+[00:58:31 -> 00:58:33]  the XML data is basically,
+[00:58:33 -> 00:58:38]  I think it's probably a feature service writer
+[00:58:38 -> 00:58:42]  that updates the metadata there afterwards
+[00:58:42 -> 00:58:44]  in a separate workflow.
+[00:58:44 -> 00:58:47]  And yeah.
+[00:58:49 -> 00:58:52]  But yeah, somebody was asking about the workspaces.
+[00:58:52 -> 00:58:57]  So Elizabeth, we'll send out an update, I suppose,
+[00:58:57 -> 00:59:02]  which will have the complete examples attached.
+[00:59:02 -> 00:59:03]  Yeah.
+[00:59:03 -> 00:59:05]  And now Dean, are we thinking that's gonna include
+[00:59:05 -> 00:59:08]  this specific workspace that's up on the screen here?
+[00:59:08 -> 00:59:13]  No, I think that's a survey one, two, three.
+[00:59:14 -> 00:59:18]  So that would probably be Leslie's example.
+[00:59:18 -> 00:59:19]  Yeah.
+[00:59:19 -> 00:59:21]  I mean, it's a corporate example.
+[00:59:21 -> 00:59:23]  I'd have to see if I'd be allowed to,
+[00:59:25 -> 00:59:27]  if they would be willing to share it.
+[00:59:28 -> 00:59:30]  It's actually not that difficult to do,
+[00:59:30 -> 00:59:31]  to use the webhooks.
+[00:59:31 -> 00:59:33]  It's actually a few like clicks,
+[00:59:33 -> 00:59:35]  very low to no code at all.
+[00:59:35 -> 00:59:39]  I've given workshops on it for Eurysa
+[00:59:39 -> 00:59:42]  at the space show last year
+[00:59:42 -> 00:59:45]  on how to webhook survey one, two, three.
+[00:59:45 -> 00:59:46]  You might be able to actually
+[00:59:46 -> 00:59:48]  look at that stuff up there actually.
+[00:59:48 -> 00:59:50]  There was a question right at the top
+[00:59:50 -> 00:59:53]  that we didn't answer yet from Grafton Tech
+[00:59:53 -> 00:59:56]  about, you know, in your opinion,
+[00:59:56 -> 00:59:58]  what are some of the key drivers
+[00:59:58 -> 01:00:02]  for organizations to pursue good governance?
+[01:00:02 -> 01:00:05]  And I know that there's the governing organization.
+[01:00:05 -> 01:00:08]  So sometimes there are legal requirements
+[01:00:08 -> 01:00:13]  like Next Gen 911 or the EU-inspired legislation.
+[01:00:13 -> 01:00:15]  So that kind of almost forces you
+[01:00:15 -> 01:00:17]  to pursue good governance.
+[01:00:17 -> 01:00:19]  But the flip side is, you know,
+[01:00:19 -> 01:00:21]  might just simply be profitability.
+[01:00:21 -> 01:00:23]  If you, you know, you don't wanna waste money,
+[01:00:23 -> 01:00:25]  you don't wanna waste your data resources.
+[01:00:25 -> 01:00:27]  So it might be your shareholders
+[01:00:28 -> 01:00:29]  want you to have good governance,
+[01:00:29 -> 01:00:32]  or you don't want the liability of, you know,
+[01:00:32 -> 01:00:33]  somebody hacking your data.
+[01:00:33 -> 01:00:36]  So you need, you know, good governance on security.
+[01:00:36 -> 01:00:38]  So there's quite a few,
+[01:00:38 -> 01:00:40]  but that's, you know, it's a very good question.
+[01:00:40 -> 01:00:43]  And you have to think yourself about
+[01:00:43 -> 01:00:45]  that's part of what that slide about what happens
+[01:00:45 -> 01:00:49]  if you don't do data governance, what's your risk?
+[01:00:49 -> 01:00:53]  And, you know, data is a very valuable resource.
+[01:00:53 -> 01:00:57]  You do have to manage it well and be intentional.
+[01:00:57 -> 01:01:00]  And Leslie, you were talking about with purpose,
+[01:01:00 -> 01:01:02]  you have to be intentional and you can't do everything.
+[01:01:02 -> 01:01:04]  So maybe that's one of the challenges is,
+[01:01:04 -> 01:01:07]  okay, how do you prioritize?
+[01:01:07 -> 01:01:08]  I don't know, Leslie, if you think about that,
+[01:01:08 -> 01:01:10]  if you were starting with a blank slate,
+[01:01:10 -> 01:01:13]  what do you prioritize for governance?
+[01:01:13 -> 01:01:15]  Yeah, I think, well, I mean,
+[01:01:15 -> 01:01:18]  I think I like the idea of a sort of like
+[01:01:18 -> 01:01:20]  having that traceability.
+[01:01:20 -> 01:01:22]  I mean, I think like, you know,
+[01:01:22 -> 01:01:24]  a lot of people don't talk about metadata a lot,
+[01:01:24 -> 01:01:26]  but I think like knowing where your data came from
+[01:01:26 -> 01:01:28]  is like probably a good start,
+[01:01:28 -> 01:01:31]  like cataloging inventorying, just to have an inventory.
+[01:01:31 -> 01:01:33]  I think, you know, and there are some,
+[01:01:33 -> 01:01:35]  it doesn't have to be the best inventory.
+[01:01:35 -> 01:01:37]  I think you need to start with something.
+[01:01:37 -> 01:01:40]  I think that one of the drivers for governance too,
+[01:01:40 -> 01:01:43]  is the idea that like before we would make a map
+[01:01:43 -> 01:01:45]  and we would highly curate the data,
+[01:01:45 -> 01:01:47]  like a GIS professional would sit behind their desk
+[01:01:47 -> 01:01:49]  and analyze the data and make sure it's good,
+[01:01:49 -> 01:01:50]  make sure it's good, make sure it's good.
+[01:01:50 -> 01:01:52]  And then finally deliver the data.
+[01:01:52 -> 01:01:56]  Now these things are integrated live into other systems.
+[01:01:56 -> 01:01:59]  So I think that that actually, that automation aspect,
+[01:01:59 -> 01:02:03]  that ability to deliver data pretty immediately
+[01:02:03 -> 01:02:04]  for decision-making, I think honestly,
+[01:02:04 -> 01:02:07]  that's been a big driver too.
+[01:02:07 -> 01:02:10]  Yeah, and like you're saying, the metadata is key
+[01:02:10 -> 01:02:12]  and nobody wants to sit there and fill out metadata forms.
+[01:02:12 -> 01:02:15]  So that update has to be automated.
+[01:02:15 -> 01:02:17]  It has to be part of the data update
+[01:02:17 -> 01:02:19]  is the metadata update.
+[01:02:19 -> 01:02:21]  And now you know, well, is this current data
+[01:02:21 -> 01:02:23]  or is it 10 years old?
+[01:02:23 -> 01:02:26]  And if you're driving in an ambulance,
+[01:02:26 -> 01:02:29]  you don't wanna go down a street and figure out that,
+[01:02:29 -> 01:02:32]  well, there's no more bridge there anymore
+[01:02:32 -> 01:02:34]  or something's missing or something's blocking it.
+[01:02:35 -> 01:02:37]  Yeah, so it has to be up to date.
+[01:02:37 -> 01:02:41]  In terms of metadata, we did put out a webinar
+[01:02:41 -> 01:02:42]  roughly a year ago.
+[01:02:42 -> 01:02:44]  So you're welcome to check that one out.
+[01:02:44 -> 01:02:48]  And there's a number of data examples
+[01:02:48 -> 01:02:50]  and workspaces attached to that.
+[01:02:50 -> 01:02:53]  I'll drop that in the chat as well.
+[01:02:53 -> 01:02:57]  Certainly come out to the, if you're based in Europe,
+[01:02:57 -> 01:02:59]  come on out and see us.
+[01:02:59 -> 01:03:00]  Yeah.
+[01:03:00 -> 01:03:03]  I guess it's in, is it in Bonn or Berlin?
+[01:03:03 -> 01:03:04]  Bonn.
+[01:03:04 -> 01:03:05]  Yeah, yeah.
+[01:03:06 -> 01:03:08]  Awesome, yeah, and if you do have a moment
+[01:03:08 -> 01:03:11]  to fill out our webinar survey, we really appreciate it.
+[01:03:11 -> 01:03:14]  It lets us continually improve upon the program
+[01:03:14 -> 01:03:16]  with any feedback there.
+[01:03:16 -> 01:03:19]  It's just a few multiple choice questions.
+[01:03:19 -> 01:03:22]  And with that, a huge thank you to our presenters today,
+[01:03:22 -> 01:03:23]  Dean and Leslie.
+[01:03:23 -> 01:03:24]  Thanks for joining me on this webinar
+[01:03:24 -> 01:03:27]  and all your work creating this content.
+[01:03:27 -> 01:03:29]  We really appreciate it.
+[01:03:29 -> 01:03:31]  And a big thank you to our whole audience
+[01:03:31 -> 01:03:32]  for joining us today.
+[01:03:32 -> 01:03:33]  Thanks everyone.
+[01:03:33 -> 01:03:35]  And hope you have a great rest of your day.
+[01:03:35 -> 01:03:37]  Thanks everyone for your time.
+[01:03:37 -> 01:03:41]  And thanks Leslie for all your great examples and insights.
+[01:03:41 -> 01:03:42]  Thanks guys.
+[01:03:42 -> 01:03:43]  All right.
+[01:03:43 -> 01:03:44]  Thanks everyone.
+[01:03:44 -> 01:03:45]  Bye for now.
+[01:03:45 -> 01:03:46]  Bye, have a good day.

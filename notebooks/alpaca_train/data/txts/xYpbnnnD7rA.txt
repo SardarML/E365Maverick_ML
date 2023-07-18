@@ -1,0 +1,132 @@
+[00:00:00 -> 00:00:06]  Hey everyone, I wanted to make a quick video to talk about where I've been the last few years.
+[00:00:06 -> 00:00:11]  As you probably noticed, I haven't been uploading too much content and that's because behind the
+[00:00:11 -> 00:00:18]  scenes I've been really busy working on building my own company. And so I have two reasons for
+[00:00:18 -> 00:00:24]  making this video. First, I want to just show everyone what I've been working on and see what
+[00:00:24 -> 00:00:28]  you guys think. I'm really excited, it's been a lot of work the last few years and there's a lot
+[00:00:28 -> 00:00:33]  more work to still do but I want to start to share the journey. And then the second thing I want to
+[00:00:33 -> 00:00:39]  do is to kind of gauge you guys to see if you're interested to continue to follow me through this
+[00:00:39 -> 00:00:45]  journey. I've been really playing with the idea of making devlogs to walk through the process of
+[00:00:45 -> 00:00:52]  building an application at this scale and so that you guys can learn and participate more in the
+[00:00:52 -> 00:00:57]  process. So part of this video is to see if you guys would be interested in something like that
+[00:00:57 -> 00:01:02]  and if you are, definitely leave a comment and talk about that because that's going to be big
+[00:01:02 -> 00:01:09]  motivation for making these videos. So before I dive into what I've been working on and what's
+[00:01:09 -> 00:01:16]  going on, I want to quickly just talk about how I got to this point. So as some of you guys may know,
+[00:01:16 -> 00:01:21]  I'm a software engineer and I've been making programming videos and basically programming my
+[00:01:21 -> 00:01:27]  entire life. And a few years ago, I started playing around with the idea of starting a company and
+[00:01:27 -> 00:01:33]  I've always wanted to create a company. I've tried it many times in the past as well but this time I
+[00:01:33 -> 00:01:39]  wanted to build something that I was truly passionate about. Something that my entire life
+[00:01:39 -> 00:01:45]  I've been interested in making but I just always thought it wasn't a reality because it's so big
+[00:01:45 -> 00:01:51]  in scope and scale that I thought it would be infeasible to actually make. But a few years ago,
+[00:01:51 -> 00:01:56]  I decided that this is something that I'm passionate about. It's something that I would
+[00:01:56 -> 00:02:02]  love to see come to fruition and it's something that I know will make me so happy doing. So I
+[00:02:02 -> 00:02:08]  started it and I haven't stopped. And so today, what I'm about to show you is years in the making.
+[00:02:08 -> 00:02:11]  I'm just going to show you the website and we'll talk about the product but like I said,
+[00:02:11 -> 00:02:16]  if you guys are interested in seeing behind the scenes and going through this journey with me,
+[00:02:16 -> 00:02:22]  that's something I'm completely interested in doing. Okay, so what have I been working on?
+[00:02:22 -> 00:02:27]  That's the big question. So I've been working on building a company called Root and Root is a
+[00:02:27 -> 00:02:33]  social communication platform. So I'll give you a little bit of background. So it's a communication
+[00:02:33 -> 00:02:40]  app. For me personally, I've always had such strong passion for building applications that help people
+[00:02:40 -> 00:02:46]  communicate. I think communication and more specifically real-time communication is such an
+[00:02:46 -> 00:02:53]  interesting area of computer science and software development because it's such an amazing
+[00:02:54 -> 00:03:00]  implementation of seeing your code turn into something so useful and practical. So I've always
+[00:03:00 -> 00:03:06]  just loved voice communication apps and basically my entire life, even when I was a child, I was
+[00:03:06 -> 00:03:11]  always building voice communication apps because I thought it was so cool. So Root is a communication
+[00:03:11 -> 00:03:19]  platform in the social space and to give you some perspective, the other major application in this
+[00:03:19 -> 00:03:25]  space is an app called Discord. So if you're familiar with what Discord is, we're basically
+[00:03:25 -> 00:03:30]  building a communication platform at that scale and we're looking at opportunities where we can
+[00:03:30 -> 00:03:35]  innovate and improve which we think we've discovered a bunch of those where there's a lot
+[00:03:35 -> 00:03:39]  of areas in Discord that we can make better and that's what we've been doing for the last few
+[00:03:39 -> 00:03:45]  years. But just for setting the stage, Root is a communication platform for the social space. So
+[00:03:45 -> 00:03:50]  it's for when you're gaming with your friends or maybe when you have certain
+[00:03:50 -> 00:03:56]  hobbies you want to meet new people. It's not focused on enterprise. Enterprise communication
+[00:03:56 -> 00:04:02]  apps are apps like Slack and Microsoft Teams whereas Discord and this app, Root, are in the
+[00:04:02 -> 00:04:07]  social space basically when you're not working and you want to communicate and enjoy time in the
+[00:04:07 -> 00:04:12]  digital world. So I want to just scroll through the website, show you some of the marketing material
+[00:04:12 -> 00:04:17]  here and to help you basically learn what we're doing a little bit more and this is sort of
+[00:04:17 -> 00:04:23]  oriented towards people that maybe don't know what Discord is so this should hopefully
+[00:04:23 -> 00:04:28]  help and give some perspective. Also if you guys are interested in the future, I can make a
+[00:04:28 -> 00:04:35]  separate video diving completely deep into what are the differences between Root and Discord, what
+[00:04:35 -> 00:04:39]  are we trying to innovate on, what are we trying to improve on. I'll point out one in this video
+[00:04:39 -> 00:04:45]  but there are so many small and big things so we could make that a separate video. Okay so
+[00:04:45 -> 00:04:50]  I'll just scroll down and kind of just go through some of the sections here to help learn more about
+[00:04:50 -> 00:04:57]  what we're doing. So first, the first thing you should know is a platform like this is all about
+[00:04:57 -> 00:05:04]  communities. Whether you're a part of a community of gamers or maybe poker players or
+[00:05:05 -> 00:05:11]  chess players or bird watchers, whatever it is, platforms like this are all about community and
+[00:05:11 -> 00:05:17]  you can create communities where all of your friends or colleagues or whoever it is is in a
+[00:05:17 -> 00:05:23]  dedicated space for communication. And I mean that space could be public or private but you're in a
+[00:05:23 -> 00:05:29]  dedicated space for that topic. So for example, here I'm in a server or community called the
+[00:05:29 -> 00:05:34]  clubhouse so it's indicating it's just like a gaming or hangout area for some friends. You can
+[00:05:34 -> 00:05:39]  see on the left hand side these are the members of that community. In the middle column, these are
+[00:05:39 -> 00:05:45]  what we call channels. They're basically the dedicated areas to communicate. So whether you're
+[00:05:45 -> 00:05:50]  typing to friends or talking with your voice, there's voice channels and text channels and
+[00:05:50 -> 00:05:56]  other types of channels which I'll get to in a second. So this is the basic UI, sort of what
+[00:05:56 -> 00:06:02]  it looks like. I'll keep on scrolling down. Like I said, an app like this is all about communication
+[00:06:02 -> 00:06:06]  so you'll be able to have friends, you'll have a friends list, you'll be able to have direct
+[00:06:06 -> 00:06:11]  messages, make calls, private calls, all the fun things that you would expect from any communication
+[00:06:11 -> 00:06:17]  platform. I was kind of hinting at it but obviously it's all about communities and you'll be able to
+[00:06:17 -> 00:06:21]  have private communities or register your community as a public community and have people
+[00:06:22 -> 00:06:27]  join that community or go through an application process where they can request to join it
+[00:06:28 -> 00:06:37]  and you can discover new communities, etc. Scroll down. Obviously with communities and having
+[00:06:37 -> 00:06:42]  members a part of a group, you're going to need tools and services to help manage that. So
+[00:06:43 -> 00:06:48]  we have systems in place to help organize your community so that you can give people certain
+[00:06:48 -> 00:06:54]  permissions to do certain things and not or admins so all that functionality that you would expect
+[00:06:54 -> 00:07:01]  is there. This is one area I want to pause because this is one of the biggest differentiators between
+[00:07:01 -> 00:07:08]  Root and other platforms like Discord. So in reality, what we're calling the plugin system
+[00:07:08 -> 00:07:14]  internally, this will have a more official name one day, is something that we could make a full
+[00:07:14 -> 00:07:18]  blown video on and if you guys are interested we can because there's actually a lot of really cool
+[00:07:18 -> 00:07:26]  technology in this that hasn't really been seen before and fully implemented. Some companies have
+[00:07:26 -> 00:07:33]  tried it and been successful like Roblox I would say is the closest product that has a similar
+[00:07:33 -> 00:07:39]  plugin technology but apps like Discord, Teams, and Slack, they are not doing this. It's pretty
+[00:07:39 -> 00:07:48]  cool tech. So basically we know that as a Discord user or a communication user, communication is
+[00:07:49 -> 00:07:55]  extremely important and if you look at applications currently on the market like Discord, Teams, or
+[00:07:55 -> 00:08:03]  Slack, they offer a set of basic communication services so things like voice chatting, screen
+[00:08:03 -> 00:08:09]  sharing, or text chatting. These few primitive forms of communication is what these
+[00:08:09 -> 00:08:17]  platforms offer and that's great and they do a good job but the truth is in 2022 and in modern
+[00:08:17 -> 00:08:23]  digital technology, there are lots of ways to actually communicate in an online way. It's not
+[00:08:23 -> 00:08:28]  as basic as just typing a message or using your voice. There's so many different mediums of
+[00:08:28 -> 00:08:34]  communicating and so we knew right away when we're building this platform the goal from the start is
+[00:08:34 -> 00:08:40]  how do we build a platform that offers as many forms of communication as possible and allows
+[00:08:40 -> 00:08:46]  the platform to grow and introduce new forms of communication as time goes on. So scrolling
+[00:08:46 -> 00:08:52]  through these screenshots you can see a couple things. So first, imagine I'm a
+[00:08:52 -> 00:08:57]  member of a poker community and every weekend we like to get together and play some blackjack,
+[00:08:57 -> 00:09:03]  right? That to me, playing a game of blackjack with your friends is a form of communication.
+[00:09:03 -> 00:09:08]  It's not sending a message with text but you're interacting with other users in a real-time
+[00:09:08 -> 00:09:15]  fashion. That's communication to me. So why aren't other platforms supporting functionality like this?
+[00:09:15 -> 00:09:21]  So en route, you could hop into a game of blackjack in real time and play with your friends or maybe
+[00:09:22 -> 00:09:26]  you're a graphics designer and you want to get together with friends or co-workers and draw
+[00:09:26 -> 00:09:32]  together and work together on some sketch. Or what if you want to get together and watch
+[00:09:32 -> 00:09:38]  YouTube videos together or other things like that. And the truth is it goes on and on and on.
+[00:09:38 -> 00:09:44]  There are thousands of potential experiences. What if you wanted an experience where you can manage
+[00:09:44 -> 00:09:48]  issue submissions where if you have a large community and people are having problems they
+[00:09:48 -> 00:09:54]  can submit issues and you can have like a backlog and a management system that you can track
+[00:09:54 -> 00:09:59]  everyone and so on and so on. The point is there are so many forms of experiences and communication
+[00:09:59 -> 00:10:04]  that aren't supported on platforms. We wanted to build something that was extensible. So we built
+[00:10:04 -> 00:10:13]  a plugin system that allows developers to build brand new experiences en route that utilize our
+[00:10:13 -> 00:10:18]  infrastructure, our native infrastructure, so that they don't feel like separate applications.
+[00:10:19 -> 00:10:24]  So as a developer this means that if you're building an app en route you can build the
+[00:10:24 -> 00:10:28]  front-end experience. So for example you would be building the blackjack front-end experience
+[00:10:28 -> 00:10:35]  but we're also giving you access to write back-end plugins. So we have infrastructure
+[00:10:35 -> 00:10:41]  where you can write a back-end plugin that works with your front-end plugin to create a full-blown
+[00:10:41 -> 00:10:48]  real-time communication experience and all of this will utilize Root's native infrastructure
+[00:10:48 -> 00:10:54]  and network code. So as a developer you get to build network real-time apps but you don't have
+[00:10:54 -> 00:11:00]  to have any experience with building network apps and dealing with all the complicated networking
+[00:11:00 -> 00:11:04]  code because it's pretty complex and you get the benefits of scaling to millions of users without
+[00:11:04 -> 00:11:11]  putting any work into that. So this system is huge. I could talk about this so much I could go
+[00:11:11 -> 00:11:15]  through the architecture, I could show you real demos. There's a lot of cool things with this but
+[00:11:16 -> 00:11:20]  I don't want to spend too much time on it. If you have questions we can make a follow-up video.
+[00:11:22 -> 00:11:30]  Continuing down, we are building systems that Discord has not even seen yet. So things like
+[00:11:30 -> 00:11:35]  widgets where, you know, imagine you're part of a community that is hosting a Minecraft server.
+[00:11:35 -> 00:11:40]  It would be really cool where you could have that information readily available for all your
+[00:11:40 -> 00:11:45]  community members without having to dive into separate websites and this and things like that.
+[00:11:45 -> 00:11:50]  So we're investing time into cool tech like that and we're also making sure that customization
+[00:11:50 -> 00:11:57]  is kind of at the forefront of what we're doing. So being able to change colors, modify the UI
+[00:11:57 -> 00:12:02]  structure, pop windows out, all these different things like that. We're trying to make sure
+[00:12:02 -> 00:12:07]  that customization is a priority. So these are some of the things that we're thinking about right now.
+[00:12:07 -> 00:12:13]  There's so much I could talk about and so my ask to you guys is to start to provide
+[00:12:13 -> 00:12:17]  some feedback. Are you guys interested in seeing what this code looks like? What we're building?
+[00:12:18 -> 00:12:24]  Are you interested in me building dev logs where I walk you through some of the big challenges and
+[00:12:24 -> 00:12:30]  the remaining development journey? Because there is a journey ahead. It would be amazing if you
+[00:12:30 -> 00:12:34]  guys could join the waitlist if you're interested. So head over to the website. I'll put everything
+[00:12:34 -> 00:12:39]  in the description below. I'll link the website. I'll link our Twitter. It would be amazing if you
+[00:12:39 -> 00:12:44]  could go follow the Twitter. But yeah, I think that's it. I just wanted to gather some feedback
+[00:12:44 -> 00:12:48]  and I thank you guys for taking the time to listen.

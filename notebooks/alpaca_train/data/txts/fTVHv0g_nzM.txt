@@ -1,0 +1,127 @@
+[00:00:00 -> 00:00:13]  Und hier geht es jetzt weiter mit dem zweiten Teil des Löt-Tutorials.
+[00:00:13 -> 00:00:16]  Den ersten Teil findet ihr unten verlinkt in den Kommentaren und sonst einfach in der
+[00:00:16 -> 00:00:17]  entsprechenden Playlist.
+[00:00:17 -> 00:00:20]  Ja, hier habe ich jetzt mal lackierten Draht eingespannt.
+[00:00:20 -> 00:00:27]  Der kommt häufig bei Lautsprechern oder bei Kopfhörern zum Einsatz und lackiert bedeutet
+[00:00:27 -> 00:00:31]  dass der von, das ist zwar ein Kupferdraht, aber der ist von außen mit einer Schutzschicht
+[00:00:31 -> 00:00:36]  lackiert, sodass zwei Drähte davon auch direkt nebeneinander liegen können und die sind
+[00:00:36 -> 00:00:37]  jetzt nicht leitfähig.
+[00:00:37 -> 00:00:42]  So, um das Ganze jetzt verlöten zu können, sodass wir wieder eine leitfähige Verbindung
+[00:00:42 -> 00:00:50]  hinkriegen, muss dieser Lack abgebrannt werden und dazu schalte ich den Lötkolben immer
+[00:00:50 -> 00:00:58]  auf etwas höhere Temperatur hoch, so 350°C müssen es nicht unbedingt sein, 320°C auf
+[00:00:58 -> 00:01:09]  jeden Fall erhöhte Löttemperatur und dann wird unter Zugabe von reichlich Lötzinn der
+[00:01:09 -> 00:01:17]  Lack abgebrannt und dann sieht man das vorne kochen, den Lack, das rote und sobald es dann
+[00:01:17 -> 00:01:20]  sauber haften bleibt, wie jetzt hier, jetzt haben wir hier den roten Draht und vorne eine
+[00:01:20 -> 00:01:27]  silbrige Spitze, dann haben wir es erfolgreich abisoliert und verzinnt.
+[00:01:27 -> 00:01:32]  Der Lötkolben sieht jetzt nach der Aktion so aus, qualmt vor sich hin, wir haben da
+[00:01:32 -> 00:01:36]  den entsprechend verbrannten Lack drauf, der jetzt auch noch vor sich hin qualmt und das
+[00:01:36 -> 00:01:39]  ist jetzt wieder der Punkt, an dem man das sauber machen muss, bevor es sich in die Spitze
+[00:01:39 -> 00:01:41]  einbrennt und dann halt eben dauerhaften Schaden hinterlässt.
+[00:01:41 -> 00:01:50]  Wie ich jetzt ja auch schon im letzten Video benutzt habe, macht es auch teilweise Sinn
+[00:01:50 -> 00:01:54]  Breitbandkabel zu verwenden, wie sie in Computern dann zum Einsatz kommen.
+[00:01:54 -> 00:02:01]  Diese Kabel haben den Nachteil, dass sie nicht mit Kupferlitzen hergestellt werden, sondern
+[00:02:01 -> 00:02:04]  das sind einfache Drahtlitzen, aus was für einem Material das genau ist, das kann ich
+[00:02:04 -> 00:02:05]  nicht sagen.
+[00:02:05 -> 00:02:13]  Auf jeden Fall sind diese Litzen sehr, sehr fein und um die zu löten, muss man temperaturmäßig
+[00:02:13 -> 00:02:18]  auf jeden Fall wieder runter gehen, weil die Kabelisolierung sonst einfach mit wegschmilzt,
+[00:02:18 -> 00:02:22]  wenn man da mit über 300 Grad ansetzt.
+[00:02:22 -> 00:02:37]  So, und jetzt ist auch das Kabel verzinnt und hier sieht man jetzt auch schon, dass
+[00:02:37 -> 00:02:42]  das Plastik vorne leicht zusammengeschmort ist, das heißt, da sollte man eher sparsam
+[00:02:42 -> 00:02:48]  abisolieren, da das nachher eh noch etwas größer wird durch die Temperatur.
+[00:02:48 -> 00:02:52]  Wie gesagt, solche Kabel machen Sinn bei Anwendungen, wo man viele parallele Kabel
+[00:02:52 -> 00:02:57]  braucht und wo dann ein einziges Kabel sauberer ist als viele einzelne Kabel, ansonsten würde
+[00:02:57 -> 00:03:01]  ich mir die Mühe nicht machen, um so ein Kabel zu benutzen.
+[00:03:01 -> 00:03:07]  Nächstes Thema wären dann quasi Platinen, habe ich ja auch schon als häufigeren in
+[00:03:07 -> 00:03:13]  den Videos benutzt und dazu dann jetzt auch mal hier kurz einen Hintergrund.
+[00:03:13 -> 00:03:19]  Es gibt halt verschiedene Platinen, zum einen gibt es solche Streifenplatinen und Lochrasta-Platinen,
+[00:03:19 -> 00:03:23]  die unterscheiden sich einfach nur im Aufbau dadurch, dass halt die Streifenplatinen durchverbunden
+[00:03:23 -> 00:03:28]  sind und bei den Lochrasta-Platinen man jeden Punkt einzeln verbinden muss.
+[00:03:28 -> 00:03:33]  Das hat je nach Anwendung Vor- und Nachteile, wenn man viele kleine Anwendungen hat, die
+[00:03:33 -> 00:03:37]  sich gut in Reihe bauen lassen, dann kann man ruhig eine Streifenplatine nehmen, wenn
+[00:03:37 -> 00:03:42]  die Schaltung extrem komplex ist, dann ist die Lochrasta-Platine die richtige Wahl.
+[00:03:43 -> 00:03:45]  Und die spanne ich jetzt mal ein.
+[00:03:47 -> 00:03:51]  Dazu noch mal gerade der Hinweis, das hier ist mein Platinenhalter, auch nur ein ganz
+[00:03:51 -> 00:03:55]  einfaches Teil, muss nicht groß was bewältigen, sondern einfach nur die Platine an Ordnungsstelle
+[00:03:55 -> 00:04:01]  halten, die wird hier einfach nur vorne unten eingeschraubt und ist dann nachher frei drehbar,
+[00:04:01 -> 00:04:04]  sodass man bequem von der einen auf die andere Seite wechseln kann.
+[00:04:05 -> 00:04:08]  So, da sieht man das ja schon ganz gut.
+[00:04:10 -> 00:04:14]  Und dann löten wir da jetzt einfach mal ein paar Bauteile ein.
+[00:04:17 -> 00:04:24]  Hier habe ich jetzt eine LED, das ist eine super hellblaue, das ist ein Standardmodell,
+[00:04:24 -> 00:04:30]  15.000 Candela, um die jetzt einzusetzen und einfach in die Platine durchfallen lassen.
+[00:04:30 -> 00:04:35]  Oben fixieren, dass sie jetzt bündig aussitzt und dann die Beine ein bisschen auseinanderbiegen,
+[00:04:35 -> 00:04:39]  nur so, dass es gerade so reicht, um die an Ordnungsstelle zu fixieren.
+[00:04:41 -> 00:04:43]  Dann drehe ich das Ganze um.
+[00:04:44 -> 00:04:50]  Und auch hier gilt es wieder, man macht nur die zu lötenden Stellen warm, nicht das Lötzinn
+[00:04:50 -> 00:04:54]  selber, weil das soll dann selber daran schmilzen.
+[00:04:56 -> 00:04:59]  So, jetzt halte ich hier den Lötkolben daneben.
+[00:05:01 -> 00:05:04]  So.
+[00:05:11 -> 00:05:14]  Und jetzt sieht man hier, wie es aussehen sollte.
+[00:05:14 -> 00:05:19]  Also wir haben jetzt hier den Lötpunkt komplett bedeckt, das Bein ist auch noch ein bisschen
+[00:05:19 -> 00:05:23]  eingezogen und das ist jetzt eine saubere Verbindung.
+[00:05:23 -> 00:05:29]  Jetzt könnte man hingehen und die Beine entsprechend abpitchen und mit dem nächsten Bauteil weitermachen.
+[00:05:31 -> 00:05:37]  Nächstes Bauteil ist jetzt der Vorwiderstand für die LED, den ich jetzt hier einlöte.
+[00:05:37 -> 00:05:39]  Dazu einfach gerade das Bein abwinkeln.
+[00:05:39 -> 00:05:42]  Gut, das geht dann besser als so.
+[00:05:43 -> 00:05:46]  Und dann wird es auch einfach nur in die Platine eingefädelt.
+[00:05:48 -> 00:05:52]  Und dann genau wie bei der LED leicht umgebogen.
+[00:05:52 -> 00:05:57]  Und auch hier kann man jetzt schon mit der Pinzette, deswegen die selbst spannende Pinzette,
+[00:05:57 -> 00:06:03]  das ganz gut benutzen, um Bauteile eben so auf der Platine zu fixieren, um sie kurz anlöten zu können,
+[00:06:03 -> 00:06:07]  dass sie eben nicht runterfallen und auch ihre Position nicht verändern.
+[00:06:08 -> 00:06:15]  Dann dreht man das Ganze wieder um und kann es dann jetzt schön festlöten.
+[00:06:16 -> 00:06:20]  So, damit wäre jetzt auch diese Verbindung hergestellt.
+[00:06:33 -> 00:06:37]  Und dann können wir jetzt hier auch noch direkt die Punkte verbinden,
+[00:06:37 -> 00:06:41]  also der Vorwiderstand soll ja an die LED, das heißt, wir haben jetzt hier einen Punkt in der Mitte frei.
+[00:06:42 -> 00:06:45]  Das heißt, da setzen wir jetzt erstmal einen Lötpunkt hin.
+[00:06:47 -> 00:06:49]  Mit ein bisschen Lötzinn, so.
+[00:06:50 -> 00:06:54]  Und da kann man auch immer gut dran sehen, ob die Temperatur korrekt ist.
+[00:06:54 -> 00:06:57]  Wenn das einen schönen, runden Lötpunkt ergibt auf dem Lötauge,
+[00:06:57 -> 00:07:00]  dann ist die Temperatur in der Mitte gut.
+[00:07:00 -> 00:07:04]  Wenn das mehr einen komischen Tropfen gibt oder es stark verläuft, dann ist es zu warm oder zu kalt.
+[00:07:05 -> 00:07:10]  Dann verbinde ich jetzt den ersten mit dem zweiten, also die LED mit dem einzelnen Lötpunkt.
+[00:07:10 -> 00:07:12]  Kurz ein bisschen was dazugeben.
+[00:07:12 -> 00:07:15]  Jetzt haben wir auch die beiden miteinander verbunden.
+[00:07:16 -> 00:07:21]  Und für solche Lötverbindungen bietet es sich an, kurz zu warten, bis das Lötpunkt richtig ist.
+[00:07:22 -> 00:07:26]  Und dann kann man auch direkt die LED mit dem einzelnen Lötpunkt verbinden.
+[00:07:26 -> 00:07:31]  Für solche Lötverbindungen bietet es sich an, kurz zu warten, bis das wieder abgekühlt ist,
+[00:07:31 -> 00:07:33]  um es mit dem nächsten zu verbinden.
+[00:07:33 -> 00:07:36]  Weil sonst wird nachher das ganze Lötzinn auf einmal flüssig
+[00:07:36 -> 00:07:41]  und wir wollen ja nur eine lokale Erwärmung schaffen, um einen mit dem nächsten zu verbinden.
+[00:07:46 -> 00:07:49]  Und dann haben wir jetzt hier alle drei miteinander verbunden.
+[00:07:50 -> 00:07:54]  Den Widerstand, den mittleren leeren und die LED.
+[00:07:57 -> 00:08:03]  Die Alternative dazu ist natürlich, das ganze bei einer Lötbrücke zu machen.
+[00:08:08 -> 00:08:13]  Also jetzt um die gleiche Strecke auf der Oberseite zu überbrücken.
+[00:08:13 -> 00:08:19]  Und dafür habe ich mir einfach angefangen, abgepitchte Lötbeine zu sammeln.
+[00:08:19 -> 00:08:24]  Die haben verschiedene Dicken und die kann man sich dann einfach nach Bedarf nehmen
+[00:08:24 -> 00:08:27]  und dann einsetzen.
+[00:08:27 -> 00:08:33]  Dann hat man immer gutes Material, weil die sind so vorgehalvanisiert, dass das Lötzinn gut drauf haftet.
+[00:08:34 -> 00:08:39]  Und da sie eh bei jedem Bauteil anfallen, ist da quasi der Vorrat unbegrenzt.
+[00:08:49 -> 00:08:52]  Auch das biegen wir kurz zurecht. Dafür nehme ich jetzt mal gerade die Zange.
+[00:08:54 -> 00:08:57]  Und Winkel es entsprechend an.
+[00:09:03 -> 00:09:08]  Und dann kann man auch das mit der Pinzette gut einsetzen.
+[00:09:13 -> 00:09:18]  Wenn man denn das Lochraster getroffen hätte. Schade.
+[00:09:19 -> 00:09:22]  Auch hier kurz festhalten.
+[00:09:27 -> 00:09:32]  Und dann festlöten, auch wenn man das jetzt hier im Video wahrscheinlich nicht so gut sieht, weil der Draht extrem dünn ist.
+[00:09:45 -> 00:09:47]  Danke dafür.
+[00:09:49 -> 00:09:52]  Wieder die Lötbrücken herstellen.
+[00:10:06 -> 00:10:12]  Und zum Schluss löte ich jetzt hier noch das Kabel, was wir im Vorfahrtszint haben, an,
+[00:10:12 -> 00:10:16]  damit die Batterie über den Vorwiderstand diese LED zum Leuchten bringen kann.
+[00:10:19 -> 00:10:26]  Und dabei muss man natürlich auf die Polung achten. In diesem Fall ist das weiße Kabel Plus und das schwarze Kabel ist Minus.
+[00:10:27 -> 00:10:31]  Auch hier dann einfach entsprechend in die Lochrasterung einsetzen.
+[00:10:33 -> 00:10:37]  Und das Ganze dann von der anderen Seite verlöten.
+[00:10:48 -> 00:11:15]  Und gerade solche kleinen Aufgaben, auch wenn es jetzt nur eine LED mit einem Vorwiderstand,
+[00:11:15 -> 00:11:19]  Aufgaben, auch wenn es jetzt nur eine LED mit einem Vorwiderstand ist, das sind eigentlich
+[00:11:19 -> 00:11:24]  die idealen Lötübungen, weil man da schon relativ viele Punkte setzen kann.
+[00:11:24 -> 00:11:28]  Man kann üben, solche Verbindungen herzustellen, über zwei, über drei Beine.
+[00:11:28 -> 00:11:32]  Man übt das Abisolieren und das richtige Verzinnen von Kabeln und hat nachher dann
+[00:11:32 -> 00:11:39]  trotzdem ein funktionales Ergebnis, was ja häufig bei Übungsanwendungen nicht gegeben
+[00:11:39 -> 00:11:40]  ist.
+[00:11:40 -> 00:11:47]  So, noch einmal umdrehen, so und jetzt steht hier jetzt die Batterie an und sie leuchtet.
+[00:11:47 -> 00:11:54]  Das wäre jetzt so eine kleine Lötübung auf Platine, in dem Fall ein Loch aus der
+[00:11:54 -> 00:11:57]  Platine und ich denke mal, das kann man schon mal ganz gut nachbauen.
+[00:11:57 -> 00:12:04]  In dem Fall übrigens ein 220 Ohm Widerstand, eine 9 Volt Batterie und eine LED mit einer
+[00:12:04 -> 00:12:07]  Spannung von 2,3 Volt.
+[00:12:08 -> 00:12:11]  Das ist aber je nach LED spezifisch und der Farb.
+[00:12:16 -> 00:12:19]  Und das war es jetzt auch schon wieder mit dem zweiten Teil des Videos.
+[00:12:19 -> 00:12:22]  Im dritten Teil geht es dann weiter mit dem Entlöten von Bauteilen und ich hoffe, ihr
+[00:12:22 -> 00:12:24]  habt auch bei diesem Video viel Spaß gehabt.
+[00:12:24 -> 00:12:26]  Schaltet demnächst wieder ein, ich würde mich freuen.

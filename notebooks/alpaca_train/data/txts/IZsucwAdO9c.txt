@@ -1,0 +1,1386 @@
+[00:00:00 -> 00:00:02]  Where were you in 2001?
+[00:00:02 -> 00:00:05]  2001, I was a sophomore.
+[00:00:05 -> 00:00:06]  Sophomore, high school.
+[00:00:06 -> 00:00:08]  I'm starting to date you guys.
+[00:00:08 -> 00:00:12]  Anybody not in high school in 2001?
+[00:00:12 -> 00:00:13]  Where were you?
+[00:00:13 -> 00:00:13]  Fifth grade.
+[00:00:13 -> 00:00:15]  Fifth grade.
+[00:00:15 -> 00:00:17]  OK, that's more what I was expecting.
+[00:00:17 -> 00:00:22]  All right, fifth grade, 2001, 12 years ago,
+[00:00:22 -> 00:00:25]  I am in this classroom.
+[00:00:25 -> 00:00:29]  Not here, somewhere else, but I'm in this classroom.
+[00:00:29 -> 00:00:32]  I'm a fresh-faced junior in college.
+[00:00:32 -> 00:00:35]  Don't have too many juniors, do we?
+[00:00:35 -> 00:00:37]  How many juniors?
+[00:00:37 -> 00:00:38]  Oh, good, more juniors than usual.
+[00:00:38 -> 00:00:42]  You guys are the TAs for next year's class.
+[00:00:42 -> 00:00:43]  I'm a junior.
+[00:00:43 -> 00:00:45]  I'm taking this class.
+[00:00:45 -> 00:00:47]  I don't know really much about computer science.
+[00:00:47 -> 00:00:49]  I've taken a couple of classes.
+[00:00:49 -> 00:00:50]  I'm interested in operating systems.
+[00:00:50 -> 00:00:53]  I've heard that this class is really hard.
+[00:00:53 -> 00:00:55]  And I'm interested in the challenge.
+[00:00:55 -> 00:00:57]  So I'm in this classroom.
+[00:00:57 -> 00:01:02]  And 12 years later, I'm up here.
+[00:01:02 -> 00:01:06]  So this is my warning to you about this class.
+[00:01:06 -> 00:01:11]  This class may turn you into me.
+[00:01:11 -> 00:01:13]  And you have the semester to decide
+[00:01:13 -> 00:01:16]  if that's a good thing or not.
+[00:01:16 -> 00:01:19]  So my name's Jeff Chalen.
+[00:01:19 -> 00:01:22]  And I'm here because of this class you're about to take.
+[00:01:22 -> 00:01:24]  That's why I'm standing in front of you today.
+[00:01:24 -> 00:01:26]  That's why I got a PhD in computer science.
+[00:01:26 -> 00:01:28]  That's why I teach computer science.
+[00:01:28 -> 00:01:29]  I really like this stuff.
+[00:01:29 -> 00:01:34]  And I hope that this class likes you and that you like it.
+[00:01:34 -> 00:01:35]  Again, I took this class.
+[00:01:35 -> 00:01:37]  I was a physics major.
+[00:01:37 -> 00:01:40]  Margo Seltzer taught me operating systems
+[00:01:40 -> 00:01:42]  12 years ago at Harvard.
+[00:01:42 -> 00:01:44]  I started building computer systems.
+[00:01:44 -> 00:01:46]  I TA'd this class a number of times.
+[00:01:46 -> 00:01:50]  And computer systems was really my portal
+[00:01:50 -> 00:01:52]  into computer science.
+[00:01:52 -> 00:01:54]  I like building things.
+[00:01:54 -> 00:01:55]  I like making stuff.
+[00:01:55 -> 00:01:58]  I'm not the brightest person, so programming
+[00:01:58 -> 00:02:00]  is a good fit for me, because I can bang my head against it
+[00:02:00 -> 00:02:02]  until I get it to work.
+[00:02:02 -> 00:02:04]  And I eventually went to graduate school,
+[00:02:04 -> 00:02:06]  eventually decided I want to be a professor.
+[00:02:06 -> 00:02:08]  This all happened very slowly.
+[00:02:08 -> 00:02:11]  And again, 2001, I never thought I'd
+[00:02:11 -> 00:02:13]  be teaching this class to you guys,
+[00:02:13 -> 00:02:14]  but I'm very excited about that.
+[00:02:14 -> 00:02:17]  This course makes me very, very excited and very, very happy.
+[00:02:17 -> 00:02:19]  And I'm glad you guys are all here.
+[00:02:19 -> 00:02:21]  So that's me.
+[00:02:21 -> 00:02:23]  So why are you guys here?
+[00:02:23 -> 00:02:28]  How many people are here because they have to take this class?
+[00:02:28 -> 00:02:31]  How many people are here because they have to take this class,
+[00:02:31 -> 00:02:34]  and they waited till senior spring to take this class?
+[00:02:34 -> 00:02:36]  All right, yeah, this is the group
+[00:02:36 -> 00:02:39]  that's not going to like me by the end of the term.
+[00:02:39 -> 00:02:41]  How many people are here because you have an interest
+[00:02:41 -> 00:02:43]  in computer systems?
+[00:02:43 -> 00:02:45]  How many people are here because you
+[00:02:45 -> 00:02:48]  want to be a better programmer?
+[00:02:48 -> 00:02:51]  How many people are here because you
+[00:02:51 -> 00:02:56]  heard that this class was terrible and exhausting?
+[00:02:56 -> 00:02:58]  All right, there we go, gluttons for punishment.
+[00:02:58 -> 00:03:00]  Maybe those are the two people that will be happy
+[00:03:00 -> 00:03:03]  with me at the end of the term.
+[00:03:03 -> 00:03:08]  All right, so unfortunately, for you guys who are seniors,
+[00:03:08 -> 00:03:13]  we've waited four years before doing two important things.
+[00:03:13 -> 00:03:16]  One is we waited four years, I would argue,
+[00:03:16 -> 00:03:18]  to really teach you how to program.
+[00:03:18 -> 00:03:21]  This course will try to make up for some of that lost time.
+[00:03:21 -> 00:03:23]  The other thing we've waited four years to do
+[00:03:23 -> 00:03:28]  is to really teach you how your computer works.
+[00:03:28 -> 00:03:32]  And we're going to try to rectify that in this class as well.
+[00:03:32 -> 00:03:33]  So let me start off.
+[00:03:33 -> 00:03:35]  Today is going to be kind of a dry day.
+[00:03:35 -> 00:03:37]  I want to talk a little bit about what an operating system is.
+[00:03:37 -> 00:03:40]  I'm going to try to convince you that this is a useful course
+[00:03:40 -> 00:03:42]  to take, despite the fact that you're already here.
+[00:03:42 -> 00:03:44]  So it's somewhat too late.
+[00:03:44 -> 00:03:45]  But I want to convince you because I
+[00:03:45 -> 00:03:47]  think it's exciting stuff, and I think
+[00:03:47 -> 00:03:48]  you guys should be excited about it.
+[00:03:48 -> 00:03:50]  And there's some really great reasons
+[00:03:50 -> 00:03:53]  that we study these 50, 60-year-old computer programs
+[00:03:53 -> 00:03:54]  called operating systems.
+[00:03:54 -> 00:03:55]  We'll talk about that in a sec.
+[00:03:55 -> 00:03:58]  And then we'll go over the course structure and logistics
+[00:03:58 -> 00:04:00]  and blah, blah, blah.
+[00:04:00 -> 00:04:04]  Please stop me along the way at any time.
+[00:04:04 -> 00:04:06]  I'm always happy to take questions.
+[00:04:06 -> 00:04:08]  It's a big class.
+[00:04:08 -> 00:04:09]  It's a nice room.
+[00:04:09 -> 00:04:12]  Actually, I'm really glad to be in here because I like to wander.
+[00:04:12 -> 00:04:14]  And there's a lot more space in here to wander around.
+[00:04:14 -> 00:04:16]  OK, great.
+[00:04:17 -> 00:04:19]  So the first thing I want to point out
+[00:04:19 -> 00:04:21]  is an operating system is a computer program.
+[00:04:21 -> 00:04:24]  How many people have written a computer program before?
+[00:04:24 -> 00:04:26]  Everybody in this class should have your hand up.
+[00:04:26 -> 00:04:29]  You've all written computer programs before, right?
+[00:04:29 -> 00:04:31]  And an operating system is no different
+[00:04:31 -> 00:04:34]  than the other computer programs that you've written.
+[00:04:34 -> 00:04:37]  It is a sequence of instructions that modifies the machine.
+[00:04:37 -> 00:04:42]  It's written in what was a high-level language in the 1970s.
+[00:04:42 -> 00:04:45]  And it performs functions, right?
+[00:04:45 -> 00:04:48]  So there's nothing really fundamentally super mysterious
+[00:04:48 -> 00:04:50]  about operating systems, right?
+[00:04:50 -> 00:04:51]  It's a computer program.
+[00:04:51 -> 00:04:54]  So hopefully, that serves to demystify it slightly, right?
+[00:04:54 -> 00:04:59]  And you guys are going to write one and significant pieces
+[00:04:59 -> 00:05:01]  of one, right?
+[00:05:01 -> 00:05:04]  It's a computer program that on your machines
+[00:05:04 -> 00:05:07]  and on probably billions of different devices
+[00:05:07 -> 00:05:10]  all over the world, whether it's smartphones, servers,
+[00:05:10 -> 00:05:13]  desktops, embedded devices that are in your cars,
+[00:05:13 -> 00:05:15]  in this room somewhere, there's probably
+[00:05:15 -> 00:05:17]  several of them in here.
+[00:05:17 -> 00:05:20]  It performs a couple of useful functions
+[00:05:20 -> 00:05:23]  in the operation of a computer system, right?
+[00:05:23 -> 00:05:25]  That's why we call them operating systems.
+[00:05:25 -> 00:05:29]  The first one is it multiplexes hardware resources.
+[00:05:29 -> 00:05:32]  Who can take a stab at what this means, right?
+[00:05:32 -> 00:05:34]  These are the things that we're going to spend
+[00:05:34 -> 00:05:35]  all semester talking about.
+[00:05:35 -> 00:05:39]  What does it mean to multiplex something?
+[00:05:39 -> 00:05:42]  When people don't volunteer, I start calling at people.
+[00:05:42 -> 00:05:44]  What does it mean to multiplex something?
+[00:05:44 -> 00:05:45]  Yeah?
+[00:05:51 -> 00:05:53]  OK, you're on to something, multiprocessing.
+[00:05:53 -> 00:05:55]  What do I do when I'm doing multiprocessing?
+[00:05:55 -> 00:05:57]  Over here, guy who's on his laptop,
+[00:05:57 -> 00:05:58]  I'm not paying attention.
+[00:05:58 -> 00:05:59]  AUDIENCE MEMBER 2.
+[00:05:59 -> 00:06:02]  It's like a switchboard, like when you put the supplier
+[00:06:02 -> 00:06:05]  hardware or something like that.
+[00:06:05 -> 00:06:05]  PROFESSOR 1.
+[00:06:05 -> 00:06:06]  OK, it's like a switchboard.
+[00:06:06 -> 00:06:08]  How is it like a switchboard?
+[00:06:08 -> 00:06:09]  Let's go down the row.
+[00:06:13 -> 00:06:14]  AUDIENCE MEMBER 3.
+[00:06:14 -> 00:06:18]  I think the way that it's kind of addressed
+[00:06:18 -> 00:06:22]  is you can handle all of them.
+[00:06:22 -> 00:06:23]  PROFESSOR 1.
+[00:06:23 -> 00:06:25]  So we're getting closer here, right?
+[00:06:25 -> 00:06:27]  Does someone want to take us the rest of the way?
+[00:06:27 -> 00:06:28]  Yeah?
+[00:06:28 -> 00:06:28]  AUDIENCE MEMBER 4.
+[00:06:28 -> 00:06:31]  There's a bunch of hardwares that you can figure out
+[00:06:31 -> 00:06:32]  which one to choose.
+[00:06:32 -> 00:06:33]  PROFESSOR 1.
+[00:06:33 -> 00:06:34]  Which one to choose?
+[00:06:34 -> 00:06:36]  OK, now we're getting a little colder.
+[00:06:36 -> 00:06:36]  Yeah?
+[00:06:36 -> 00:06:37]  AUDIENCE MEMBER 5.
+[00:06:37 -> 00:06:39]  Multiple users have their own hardwares
+[00:06:39 -> 00:06:41]  which can access one hardware resource.
+[00:06:41 -> 00:06:42]  PROFESSOR 1.
+[00:06:42 -> 00:06:45]  Right, and how do we do that?
+[00:06:45 -> 00:06:49]  I want multiple users to be able to access one hardware resource.
+[00:06:49 -> 00:06:52]  How do I do that?
+[00:06:52 -> 00:06:55]  Does anybody know?
+[00:06:55 -> 00:06:57]  Good, because that's what this class is about.
+[00:06:57 -> 00:07:00]  But I want to take a small set of resources
+[00:07:00 -> 00:07:02]  and divide them up, multiplex them,
+[00:07:02 -> 00:07:05]  effectively share them between multiple users.
+[00:07:05 -> 00:07:07]  How many of you guys have ever logged
+[00:07:07 -> 00:07:11]  into some sort of time-shared multiprocessing system?
+[00:07:11 -> 00:07:12]  I think everybody here, if you've ever
+[00:07:12 -> 00:07:14]  submitted anything on Timberlake,
+[00:07:14 -> 00:07:17]  or even if you've used your own personal computer, right?
+[00:07:17 -> 00:07:19]  All these computers take a small set of resources
+[00:07:19 -> 00:07:22]  and make them available to a large number of users.
+[00:07:22 -> 00:07:24]  Doing that effectively is one of the major goals
+[00:07:24 -> 00:07:27]  of the operating system, and doing it safely.
+[00:07:27 -> 00:07:29]  And we're going to talk about both those things this semester.
+[00:07:29 -> 00:07:31]  The second thing is operating systems
+[00:07:31 -> 00:07:32]  implement useful abstractions.
+[00:07:32 -> 00:07:36]  What's an abstraction?
+[00:07:36 -> 00:07:37]  Yeah?
+[00:07:37 -> 00:07:39]  You can use something without knowing how it works.
+[00:07:39 -> 00:07:42]  Right, so layer of abstraction means
+[00:07:42 -> 00:07:43]  that there are details about the thing
+[00:07:43 -> 00:07:46]  that you are using that are hidden from you, right?
+[00:07:46 -> 00:07:48]  And normally, why are those details hidden?
+[00:07:51 -> 00:07:53]  Or why are they abstracted away?
+[00:07:53 -> 00:07:56]  Why do I do this?
+[00:07:56 -> 00:07:56]  Yeah?
+[00:07:56 -> 00:07:58]  They're a little too complex for a typical user
+[00:07:58 -> 00:07:59]  to worry about.
+[00:07:59 -> 00:08:01]  Yeah, there's something wrong with them, right?
+[00:08:01 -> 00:08:02]  They're complex.
+[00:08:02 -> 00:08:03]  They're ugly.
+[00:08:03 -> 00:08:04]  They're weird, right?
+[00:08:04 -> 00:08:08]  I mean, how many people have used files, right?
+[00:08:08 -> 00:08:13]  A file, again, this is like an exercise in group arm
+[00:08:13 -> 00:08:14]  exercises, all right?
+[00:08:14 -> 00:08:16]  Just raise your hand, right?
+[00:08:16 -> 00:08:17]  You guys have all used files.
+[00:08:17 -> 00:08:19]  Files are an abstraction, right?
+[00:08:19 -> 00:08:21]  How many people have ever accessed raw disk blocks
+[00:08:21 -> 00:08:23]  as part of your application?
+[00:08:23 -> 00:08:26]  All right, you're, yeah, we'll talk later.
+[00:08:26 -> 00:08:27]  You're weird.
+[00:08:27 -> 00:08:27]  No, no, no.
+[00:08:27 -> 00:08:28]  Most people don't do that, right?
+[00:08:28 -> 00:08:29]  Because files are nice, right?
+[00:08:29 -> 00:08:31]  Because disk blocks, it's like, which disk blocks are mine,
+[00:08:31 -> 00:08:32]  and which disk blocks are yours?
+[00:08:32 -> 00:08:34]  And if the file grows, you need to find new ones.
+[00:08:34 -> 00:08:36]  So yes, abstractions try to take details
+[00:08:36 -> 00:08:39]  about the underlying hardware and make them go away, right?
+[00:08:39 -> 00:08:41]  The details that we don't like, right?
+[00:08:41 -> 00:08:45]  Things about it that are wrong, or things about it
+[00:08:45 -> 00:08:47]  that can be hidden.
+[00:08:47 -> 00:08:49]  And some of that has to do with multiplexing as well, right?
+[00:08:49 -> 00:08:51]  Details of hardware that emerge because we're
+[00:08:51 -> 00:08:52]  trying to share, right?
+[00:08:52 -> 00:08:55]  That we don't want other things to know, right?
+[00:08:55 -> 00:08:57]  Right, so we just did this, right?
+[00:08:57 -> 00:08:59]  Multiple people use the same set of hardware resources, right?
+[00:08:59 -> 00:09:01]  Safely and efficiently, right?
+[00:09:01 -> 00:09:03]  Those are both major goals of the operating system.
+[00:09:03 -> 00:09:05]  And then we're going to talk about a series
+[00:09:05 -> 00:09:07]  of operating system abstractions over the semester, right?
+[00:09:07 -> 00:09:11]  So different types of constructs that the operating
+[00:09:11 -> 00:09:14]  system is responsible for creating and maintaining
+[00:09:14 -> 00:09:17]  that allow us to use the hardware effectively, right?
+[00:09:17 -> 00:09:19]  And hide some of the details from programmers
+[00:09:19 -> 00:09:23]  and make the device easier to program, right?
+[00:09:23 -> 00:09:24]  So the operating system is really
+[00:09:24 -> 00:09:27]  the first creator of abstractions, right?
+[00:09:27 -> 00:09:29]  I mean, when I took this class years ago,
+[00:09:29 -> 00:09:33]  my advisor used to use the matrix analogy, right?
+[00:09:33 -> 00:09:36]  Which I think we used on posters for the class last year, right?
+[00:09:36 -> 00:09:39]  This is, you know, we're giving you guys the red pill, right?
+[00:09:39 -> 00:09:41]  This is really how the machine works, right?
+[00:09:41 -> 00:09:42]  I would probably argue now that there's
+[00:09:42 -> 00:09:44]  lots of different matrices within matrices
+[00:09:44 -> 00:09:46]  inside your machine, right?
+[00:09:46 -> 00:09:48]  The Java VM is another little virtual world, right?
+[00:09:48 -> 00:09:50]  But this is the first one, right?
+[00:09:50 -> 00:09:51]  This is the lowest level.
+[00:09:51 -> 00:09:53]  And to some degree, the stuff below the operating system
+[00:09:53 -> 00:09:57]  is as real as it gets, right, in a computer system.
+[00:09:57 -> 00:10:01]  OK, so why do you guys, like, why, you know,
+[00:10:01 -> 00:10:03]  you're here because it's a required class, right?
+[00:10:03 -> 00:10:04]  OK, so that's a fair answer.
+[00:10:04 -> 00:10:06]  But why is this class required?
+[00:10:06 -> 00:10:08]  Like, why do we still study operating systems, right?
+[00:10:08 -> 00:10:11]  How many people, let's see, how many of you
+[00:10:11 -> 00:10:14]  have already participated in some sort of operating system
+[00:10:14 -> 00:10:14]  development?
+[00:10:14 -> 00:10:16]  Like, you're a BSD hacker.
+[00:10:16 -> 00:10:19]  You've contributed code to Linux.
+[00:10:19 -> 00:10:21]  You know, you use these, like, power tools
+[00:10:21 -> 00:10:22]  to poke around inside your Windows systems
+[00:10:22 -> 00:10:24]  and find out things they didn't want you to do.
+[00:10:24 -> 00:10:26]  How many people do that?
+[00:10:26 -> 00:10:28]  OK, one, right?
+[00:10:28 -> 00:10:29]  That's kind of what I expected.
+[00:10:29 -> 00:10:30]  Probably two, all right?
+[00:10:30 -> 00:10:33]  So we're averaging between one and two, right?
+[00:10:33 -> 00:10:37]  All right, so that's not a reason to take this class.
+[00:10:37 -> 00:10:38]  How many of you regularly program
+[00:10:38 -> 00:10:41]  in low-level languages that access operating system
+[00:10:41 -> 00:10:41]  abstractions directly?
+[00:10:41 -> 00:10:44]  How many people have ever used the C interface,
+[00:10:44 -> 00:10:47]  like the low-level system call interface, right?
+[00:10:47 -> 00:10:49]  How many people have done that?
+[00:10:49 -> 00:10:52]  OK, now we're getting a couple of hands up, right?
+[00:10:52 -> 00:10:54]  But this is 2013, right?
+[00:10:54 -> 00:10:56]  If you're doing this, you better have a good reason, right?
+[00:10:56 -> 00:10:58]  Otherwise, I would say you should
+[00:10:58 -> 00:10:59]  write your stuff in Python or Java
+[00:10:59 -> 00:11:03]  or something that makes your life a lot easier, right?
+[00:11:03 -> 00:11:05]  So again, why are we studying this stuff, right?
+[00:11:05 -> 00:11:07]  None of you guys are going to go out there
+[00:11:07 -> 00:11:08]  and write operating systems for a living.
+[00:11:08 -> 00:11:10]  Very few of you, I should say.
+[00:11:10 -> 00:11:12]  Hopefully, maybe a couple, right?
+[00:11:12 -> 00:11:15]  And none of you guys use these things directly.
+[00:11:15 -> 00:11:17]  So what's the point of this class?
+[00:11:17 -> 00:11:19]  What do you guys think?
+[00:11:19 -> 00:11:19]  Yeah?
+[00:11:19 -> 00:11:21]  AUDIENCE MEMBER 2 Yeah, it's worth everything else
+[00:11:21 -> 00:11:23]  if you write another one.
+[00:11:23 -> 00:11:24]  Yeah, so OK, so that's fair.
+[00:11:24 -> 00:11:26]  So there's this.
+[00:11:26 -> 00:11:30]  One of the reasons is this is how the world really works,
+[00:11:30 -> 00:11:31]  right?
+[00:11:31 -> 00:11:33]  This is how your computer actually works.
+[00:11:33 -> 00:11:35]  And if you're a computer scientist,
+[00:11:35 -> 00:11:37]  it might behoove you to know a little bit
+[00:11:37 -> 00:11:39]  about how your computer actually works, right?
+[00:11:39 -> 00:11:41]  Sometimes, the less you know, the better, right?
+[00:11:41 -> 00:11:44]  But to some degree, to be a scientist,
+[00:11:44 -> 00:11:46]  like this is how the world actually works, right?
+[00:11:46 -> 00:11:48]  This is kind of like the moment where, if you're a physicist,
+[00:11:48 -> 00:11:49]  you start studying quantum mechanics
+[00:11:49 -> 00:11:50]  and everything gets weird, right?
+[00:11:50 -> 00:11:51]  This is that moment.
+[00:11:51 -> 00:11:53]  And the reason we teach you it is
+[00:11:53 -> 00:11:55]  because this is how we've done things, right?
+[00:11:55 -> 00:11:56]  This is how we've built the systems
+[00:11:56 -> 00:11:57]  that you guys actually use, right?
+[00:11:57 -> 00:11:58]  What else?
+[00:11:58 -> 00:11:59]  Any other reasons?
+[00:12:03 -> 00:12:05]  What's true about operating systems
+[00:12:05 -> 00:12:10]  compared to other types of computer programs?
+[00:12:10 -> 00:12:12]  AUDIENCE MEMBER 3 It's just a program.
+[00:12:12 -> 00:12:16]  It's just a program, but how long have operating systems
+[00:12:16 -> 00:12:17]  been around?
+[00:12:17 -> 00:12:19]  How long have people been working on them?
+[00:12:22 -> 00:12:24]  It's at least the 60s, right?
+[00:12:24 -> 00:12:27]  Yeah, like 70 years, right?
+[00:12:27 -> 00:12:28]  60, 70 years.
+[00:12:28 -> 00:12:30]  These are old systems, right?
+[00:12:30 -> 00:12:31]  So who cares, right?
+[00:12:31 -> 00:12:33]  All the problems have been solved.
+[00:12:33 -> 00:12:34]  It's all done.
+[00:12:34 -> 00:12:37]  This is like another reason not to study them, right?
+[00:12:37 -> 00:12:39]  Why would you study something that someone,
+[00:12:39 -> 00:12:42]  a bunch of smart people, had been developing and improving
+[00:12:42 -> 00:12:44]  for 60 years?
+[00:12:44 -> 00:12:46]  AUDIENCE MEMBER 4 Probably to write a retract book.
+[00:12:46 -> 00:12:47]  Yeah, there you go.
+[00:12:47 -> 00:12:51]  These are really mature systems that a lot of smart people
+[00:12:51 -> 00:12:52]  have thought about a lot.
+[00:12:52 -> 00:12:53]  A lot of people have contributed to.
+[00:12:53 -> 00:12:55]  There is still active development
+[00:12:55 -> 00:12:56]  going on in these areas.
+[00:12:56 -> 00:12:57]  Don't get me wrong.
+[00:12:57 -> 00:13:00]  But these are really, really mature systems, right?
+[00:13:00 -> 00:13:03]  And there's a lot of really important intelligence
+[00:13:03 -> 00:13:06]  about how to build things that's embedded in operating systems,
+[00:13:06 -> 00:13:07]  right?
+[00:13:07 -> 00:13:08]  You know, if you want to learn how to paint,
+[00:13:08 -> 00:13:10]  study the great masters, right?
+[00:13:10 -> 00:13:13]  You don't study the person who's been out
+[00:13:13 -> 00:13:14]  of art school for two years, right?
+[00:13:14 -> 00:13:16]  You go and you look at traditions
+[00:13:16 -> 00:13:18]  that have lasted for hundreds of years
+[00:13:18 -> 00:13:20]  and produce really, really amazing stuff, right?
+[00:13:20 -> 00:13:21]  I don't know whose phone that is,
+[00:13:21 -> 00:13:23]  but I would like it to stop ringing.
+[00:13:23 -> 00:13:26]  Thanks.
+[00:13:26 -> 00:13:28]  All right, so we got to the first one, right?
+[00:13:28 -> 00:13:30]  This is how your computer really works, right?
+[00:13:30 -> 00:13:32]  This is it, right?
+[00:13:32 -> 00:13:33]  What else did I say before?
+[00:13:33 -> 00:13:35]  There's another reason here that, you know,
+[00:13:35 -> 00:13:36]  just about operating systems and about learning
+[00:13:36 -> 00:13:38]  about the concepts of operating systems.
+[00:13:38 -> 00:13:40]  How many different operating systems are there?
+[00:13:44 -> 00:13:46]  I mean, who can name an operating system?
+[00:13:46 -> 00:13:49]  Maybe we should start with that question.
+[00:13:49 -> 00:13:53]  OSX, OK.
+[00:13:53 -> 00:13:56]  Is Ubuntu an operating system?
+[00:13:56 -> 00:13:57]  Linux, OK.
+[00:13:57 -> 00:13:59]  What else?
+[00:13:59 -> 00:14:00]  Windows?
+[00:14:00 -> 00:14:01]  You guys think I don't like Windows?
+[00:14:01 -> 00:14:02]  You're trying not to make me mad.
+[00:14:02 -> 00:14:03]  Yeah, Windows, yeah.
+[00:14:03 -> 00:14:04]  Windows is an operating system.
+[00:14:04 -> 00:14:06]  What else?
+[00:14:06 -> 00:14:07]  FreeBSD, OK.
+[00:14:07 -> 00:14:08]  What else?
+[00:14:11 -> 00:14:13]  OK, now we're getting sketchy here.
+[00:14:13 -> 00:14:15]  Yeah, OK, fair enough.
+[00:14:15 -> 00:14:17]  But look, there aren't that many operating systems out there,
+[00:14:17 -> 00:14:18]  right?
+[00:14:18 -> 00:14:19]  There's a handful of operating systems.
+[00:14:19 -> 00:14:21]  And when you start looking at them carefully,
+[00:14:21 -> 00:14:23]  you see that they share a lot of the same abstractions.
+[00:14:23 -> 00:14:24]  Part of that's because those abstractions
+[00:14:24 -> 00:14:26]  have been developed over such a long period of time
+[00:14:26 -> 00:14:27]  that they're really mature and useful, right?
+[00:14:27 -> 00:14:29]  So again, that goes back to our previous point.
+[00:14:29 -> 00:14:35]  But how many devices out there run an operating system?
+[00:14:35 -> 00:14:36]  Ballpark estimate.
+[00:14:39 -> 00:14:40]  In the universe.
+[00:14:45 -> 00:14:46]  100%?
+[00:14:46 -> 00:14:47]  Yeah, I mean, actually, it's probably
+[00:14:47 -> 00:14:51]  not quite 100%, but it's pretty close, right?
+[00:14:51 -> 00:14:54]  Even these little, tiny little sensor moats
+[00:14:54 -> 00:14:56]  that I used to program in graduate school
+[00:14:56 -> 00:14:57]  ran an operating system, right?
+[00:14:57 -> 00:14:59]  It's kind of a made-up operating system.
+[00:14:59 -> 00:15:02]  But everything out there, even these little 8-bit
+[00:15:02 -> 00:15:05]  microcontrollers, run some kind of operating system, right?
+[00:15:05 -> 00:15:07]  So there's a lot of operating systems out there.
+[00:15:07 -> 00:15:10]  So there's this ubiquity thing, right?
+[00:15:10 -> 00:15:13]  Also, as a programmer, you are probably, at some point,
+[00:15:13 -> 00:15:16]  going to encounter the limitations
+[00:15:16 -> 00:15:18]  of the underlying hardware, right?
+[00:15:18 -> 00:15:22]  Java and Python are great at making things look magical,
+[00:15:22 -> 00:15:22]  right?
+[00:15:22 -> 00:15:25]  Like, wow, this device, like, you know,
+[00:15:25 -> 00:15:27]  I can just create these endless lists of objects,
+[00:15:27 -> 00:15:30]  and everything just works and goes away when I want it to.
+[00:15:30 -> 00:15:30]  And then at some point, when you start
+[00:15:30 -> 00:15:33]  to write things that get big enough and gnarly enough,
+[00:15:33 -> 00:15:35]  like, you start to realize that your machine doesn't
+[00:15:35 -> 00:15:37]  have an infinite amount of memory, right?
+[00:15:37 -> 00:15:39]  And the operating system is doing its best to manage it,
+[00:15:39 -> 00:15:41]  but some of these things run out of steam.
+[00:15:41 -> 00:15:43]  And how many people have ever had that experience where,
+[00:15:43 -> 00:15:45]  you know, they realize that the computer,
+[00:15:45 -> 00:15:47]  they realized something about the computer
+[00:15:47 -> 00:15:50]  they didn't want to know because they pushed it too hard?
+[00:15:50 -> 00:15:51]  All right, good, a couple of you.
+[00:15:51 -> 00:15:53]  So that's another reason.
+[00:15:53 -> 00:15:55]  And then, again, I think there is this sense
+[00:15:55 -> 00:15:58]  that operating systems, to the degree that operating systems
+[00:15:58 -> 00:16:00]  and applications and programs can be beautiful,
+[00:16:00 -> 00:16:02]  operating systems are beautiful, right?
+[00:16:02 -> 00:16:05]  Like, we have been beautifying them for 60 years, right?
+[00:16:05 -> 00:16:08]  And they are really very, very mature and elegant pieces
+[00:16:08 -> 00:16:09]  of code, right?
+[00:16:09 -> 00:16:11]  And I think that looking at them and studying them
+[00:16:11 -> 00:16:15]  will help you design your own code, right?
+[00:16:15 -> 00:16:17]  Things that aren't operating systems,
+[00:16:17 -> 00:16:19]  but have to deal with a lot of the same problems
+[00:16:19 -> 00:16:21]  that operating systems have to deal with, all right?
+[00:16:21 -> 00:16:24]  All right, so there's two parts to this class, right?
+[00:16:24 -> 00:16:25]  There's this conceptual part that we do in here
+[00:16:25 -> 00:16:26]  Monday, Wednesday, Friday.
+[00:16:26 -> 00:16:29]  And then there is a series of programming assignments
+[00:16:29 -> 00:16:32]  that you do for, you know, 40 or 50 other hours per week,
+[00:16:32 -> 00:16:32]  right?
+[00:16:32 -> 00:16:37]  So why are we making you go through that, right?
+[00:16:37 -> 00:16:39]  Why do we make you program operating systems
+[00:16:39 -> 00:16:42]  as part of learning about them, right?
+[00:16:42 -> 00:16:43]  Why not just have this class, and we'll
+[00:16:43 -> 00:16:47]  take a couple of exams and call it a day?
+[00:16:47 -> 00:16:49]  Some of you guys are going to like that option
+[00:16:49 -> 00:16:51]  once we get to the end of the semester.
+[00:16:51 -> 00:16:53]  Yeah, anybody?
+[00:16:53 -> 00:16:55]  I'm going to start calling on people.
+[00:16:55 -> 00:16:57]  Why do you guys think, this corner of the room,
+[00:16:57 -> 00:17:00]  this is like the corner that's farthest away from me.
+[00:17:00 -> 00:17:01]  I feel like this part filled up first.
+[00:17:04 -> 00:17:06]  Why do you think we program operating systems?
+[00:17:09 -> 00:17:11]  So you can't learn if you don't program it.
+[00:17:11 -> 00:17:11]  That's true.
+[00:17:11 -> 00:17:15]  And what about, what do you guys have a feeling?
+[00:17:15 -> 00:17:17]  I mean, you don't know this yet, because most of you
+[00:17:17 -> 00:17:18]  haven't done it, right?
+[00:17:18 -> 00:17:20]  But what do you feel like is likely
+[00:17:20 -> 00:17:22]  to be true about programming operating systems?
+[00:17:24 -> 00:17:26]  What's that?
+[00:17:26 -> 00:17:27]  It's difficult. Why is it hard?
+[00:17:31 -> 00:17:33]  Well, OK, I'm going to take this off, right?
+[00:17:33 -> 00:17:34]  So it is hard, right?
+[00:17:34 -> 00:17:35]  And one of the reasons it's hard is,
+[00:17:35 -> 00:17:39]  how many guys have ever used a program called a debugger,
+[00:17:39 -> 00:17:44]  or an integrated development environment, or whatever?
+[00:17:44 -> 00:17:47]  Those are programs that run on top of the operating system.
+[00:17:47 -> 00:17:49]  So how do you debug the operating system?
+[00:17:54 -> 00:17:56]  Not very easily, all right?
+[00:17:56 -> 00:17:59]  And operating systems, again, are these big, mature, gnarly
+[00:17:59 -> 00:18:00]  pieces of code.
+[00:18:00 -> 00:18:02]  Starting off with them can be very difficult, right?
+[00:18:02 -> 00:18:04]  So there's a degree of difficulty
+[00:18:04 -> 00:18:08]  here that we use to help you guys grow and learn
+[00:18:08 -> 00:18:09]  as programmers, right?
+[00:18:09 -> 00:18:11]  The point is to give you something that you can't do
+[00:18:11 -> 00:18:13]  and help you do it.
+[00:18:13 -> 00:18:14]  We have a core staff here that's going
+[00:18:14 -> 00:18:16]  to spend a lot of time this semester helping you
+[00:18:16 -> 00:18:18]  guys with these assignments, helping
+[00:18:18 -> 00:18:19]  you guys program and debug.
+[00:18:19 -> 00:18:22]  And when you come out of it, you will be better at it,
+[00:18:22 -> 00:18:23]  I guarantee, right?
+[00:18:23 -> 00:18:27]  The other thing about, so let's say
+[00:18:27 -> 00:18:30]  you're going off for a day hike, right?
+[00:18:30 -> 00:18:35]  How many people go hiking ever, or go out for a walk, right?
+[00:18:35 -> 00:18:37]  Yeah, it's computer programmer, so I know I'm not
+[00:18:37 -> 00:18:41]  100%, right, but a few of you, all right?
+[00:18:41 -> 00:18:44]  How many people have ever gone on like a three or four day
+[00:18:44 -> 00:18:48]  hike, OK?
+[00:18:48 -> 00:18:49]  So when you go out for a day hike,
+[00:18:49 -> 00:18:51]  you're just like, I have some water, maybe.
+[00:18:51 -> 00:18:52]  You know, it's nice outside.
+[00:18:52 -> 00:18:55]  You go out, you walk around, you come home, you have dinner,
+[00:18:55 -> 00:18:56]  you go to bed, right?
+[00:18:56 -> 00:18:58]  When you go off for like a three or four day hike,
+[00:18:58 -> 00:19:00]  is that what you do?
+[00:19:00 -> 00:19:01]  No, right?
+[00:19:01 -> 00:19:03]  Like you might want to think about it a little bit before
+[00:19:03 -> 00:19:04]  you go, right?
+[00:19:04 -> 00:19:06]  You want to be like, do I have enough food?
+[00:19:06 -> 00:19:07]  Do I have enough water?
+[00:19:07 -> 00:19:08]  Do I know where I'm going?
+[00:19:08 -> 00:19:09]  Do people know that I'm going there?
+[00:19:09 -> 00:19:10]  Do I have somewhere to sleep?
+[00:19:10 -> 00:19:12]  Do I have a plan, right?
+[00:19:12 -> 00:19:13]  Am I going to get lost immediately?
+[00:19:13 -> 00:19:15]  So when you take on these big endeavors,
+[00:19:15 -> 00:19:17]  you have to actually plan them a little bit, right?
+[00:19:17 -> 00:19:20]  You know, when you sit down to write a piece of code
+[00:19:20 -> 00:19:22]  that you think is going to take a couple hours,
+[00:19:22 -> 00:19:24]  you don't spend two hours writing a design document
+[00:19:24 -> 00:19:25]  explaining how you're going to do it.
+[00:19:25 -> 00:19:27]  But when you sit down with one of our programming assignments
+[00:19:27 -> 00:19:30]  that are going to take you a couple weeks to complete,
+[00:19:30 -> 00:19:32]  then that's a useful thing to do.
+[00:19:32 -> 00:19:35]  And most people in this class, unfortunately,
+[00:19:35 -> 00:19:36]  despite the fact that we tell you
+[00:19:36 -> 00:19:39]  guys to write design documents at least 60 or 70 times,
+[00:19:39 -> 00:19:41]  don't do a very good job.
+[00:19:41 -> 00:19:42]  And the first time they have to do
+[00:19:42 -> 00:19:44]  in these big programming assignments, they learn, right?
+[00:19:44 -> 00:19:47]  You guys will learn this because you will find yourself
+[00:19:47 -> 00:19:49]  deep in the weeds, unsure of what you're doing,
+[00:19:49 -> 00:19:52]  without a map, without food, without water.
+[00:19:52 -> 00:19:54]  And you know, the TAs will be there to fix things.
+[00:19:54 -> 00:19:57]  This hiking metaphor runs out of steam at some point, right?
+[00:19:57 -> 00:19:59]  Because we don't want you guys lost in the woods
+[00:19:59 -> 00:20:01]  and having to medivac you out of there or whatever.
+[00:20:01 -> 00:20:03]  But anyway, the point is that you guys
+[00:20:03 -> 00:20:04]  will learn how to design, right?
+[00:20:04 -> 00:20:05]  And we'll teach you that.
+[00:20:05 -> 00:20:06]  And we'll encourage you to do it.
+[00:20:06 -> 00:20:08]  And we'll show you how to do it.
+[00:20:08 -> 00:20:09]  And then we'll let you try to do it.
+[00:20:09 -> 00:20:12]  And we'll see how well it goes, all right?
+[00:20:12 -> 00:20:14]  Difficulty, we covered this.
+[00:20:14 -> 00:20:16]  Operating systems are hard to program.
+[00:20:16 -> 00:20:19]  And finally, the debugging is part of this, right?
+[00:20:19 -> 00:20:23]  How many people have used GDB?
+[00:20:23 -> 00:20:24]  All right, that's one of those things.
+[00:20:24 -> 00:20:26]  When you guys finish this class, every hand in this room
+[00:20:26 -> 00:20:27]  is going to be up.
+[00:20:27 -> 00:20:28]  Everyone's going to use GDB.
+[00:20:28 -> 00:20:30]  You do not debug operating systems
+[00:20:30 -> 00:20:31]  in the integrated Eclipse debugger, right?
+[00:20:32 -> 00:20:34]  Nor do you hit Fix All and let it
+[00:20:34 -> 00:20:35]  fix all of your coding issues that it
+[00:20:35 -> 00:20:38]  doesn't understand at all, right?
+[00:20:38 -> 00:20:40]  So this is going to be something you guys are
+[00:20:40 -> 00:20:42]  going to enjoy learning, all right?
+[00:20:42 -> 00:20:45]  So as I alluded to before, there's two parts of this class.
+[00:20:45 -> 00:20:50]  There is a conceptual component.
+[00:20:50 -> 00:20:53]  And there is the programming component, right?
+[00:20:53 -> 00:20:56]  So we talk about things in class at a high level.
+[00:20:56 -> 00:21:00]  The recitations will try to bring some of that stuff
+[00:21:00 -> 00:21:01]  down from the clouds a little bit
+[00:21:01 -> 00:21:06]  and anchor it in your experience of programming the programming
+[00:21:06 -> 00:21:07]  assignments for this class.
+[00:21:07 -> 00:21:08]  And then you guys are going to go out
+[00:21:08 -> 00:21:10]  and do those programming assignments, right?
+[00:21:10 -> 00:21:12]  So we talk about high level stuff here.
+[00:21:12 -> 00:21:14]  I'll use some examples that are drawn from the code
+[00:21:14 -> 00:21:16]  from the class, but I don't feel like I
+[00:21:16 -> 00:21:20]  have to if they don't explain what I want to explain.
+[00:21:20 -> 00:21:22]  And then there's this big programming component, right?
+[00:21:22 -> 00:21:23]  We're going to come back.
+[00:21:23 -> 00:21:24]  We're going to do some different things with each
+[00:21:24 -> 00:21:25]  of these this semester.
+[00:21:25 -> 00:21:27]  So we're going to describe this.
+[00:21:27 -> 00:21:29]  So here's what I want to accomplish, right?
+[00:21:29 -> 00:21:33]  This is my roadmap for this semester.
+[00:21:33 -> 00:21:34]  By the time you're done, I want you guys
+[00:21:34 -> 00:21:36]  to understand the abstractions that
+[00:21:36 -> 00:21:38]  are implemented and supported by modern operating systems.
+[00:21:38 -> 00:21:40]  That's a big part of this class, right?
+[00:21:40 -> 00:21:41]  And abstractions are really powerful.
+[00:21:41 -> 00:21:45]  And these abstractions are very mature and very interesting,
+[00:21:45 -> 00:21:48]  OK?
+[00:21:48 -> 00:21:51]  I want you guys to be able to describe how operating
+[00:21:51 -> 00:21:54]  systems multiplex hardware, right?
+[00:21:54 -> 00:21:57]  This is the other main objective of operating system software.
+[00:21:57 -> 00:21:59]  And I want you guys to know how they do it
+[00:21:59 -> 00:22:01]  and the policies and mechanisms that
+[00:22:01 -> 00:22:02]  are involved in doing it, right?
+[00:22:02 -> 00:22:04]  Because some of those policies and mechanisms
+[00:22:04 -> 00:22:06]  and the sort of ideas that we've come up
+[00:22:06 -> 00:22:09]  for scheduling and different layers of abstraction
+[00:22:09 -> 00:22:12]  are actually pretty useful in other contexts, right?
+[00:22:12 -> 00:22:14]  So this is something that you can take out and apply
+[00:22:14 -> 00:22:17]  to other types of problems, right?
+[00:22:17 -> 00:22:21]  And then finally, we're going to look at operating systems
+[00:22:21 -> 00:22:23]  as kind of this historical progression, right?
+[00:22:23 -> 00:22:26]  We'll talk a little bit about why certain types of abstractions
+[00:22:26 -> 00:22:27]  emerged.
+[00:22:27 -> 00:22:29]  We'll talk about how they change over time, right?
+[00:22:29 -> 00:22:32]  The operating systems of 60 years ago
+[00:22:32 -> 00:22:35]  dealt with machines that are nothing
+[00:22:35 -> 00:22:38]  like anything you guys will ever program or encounter
+[00:22:38 -> 00:22:40]  in your entire life, right?
+[00:22:40 -> 00:22:43]  So there's been huge changes to the underlying hardware
+[00:22:43 -> 00:22:44]  that have gone on.
+[00:22:44 -> 00:22:47]  And there will continue to be huge changes
+[00:22:47 -> 00:22:48]  to the underlying hardware.
+[00:22:48 -> 00:22:50]  Operating systems will continue to adapt to that.
+[00:22:50 -> 00:22:52]  And we're going to talk a little bit about how that's happened,
+[00:22:52 -> 00:22:54]  right?
+[00:22:54 -> 00:22:57]  And how am I going to know that you guys are learning this
+[00:22:57 -> 00:22:58]  stuff, right?
+[00:22:58 -> 00:23:00]  This is important to me, because if you're not learning it,
+[00:23:00 -> 00:23:03]  then I need to do something different, right?
+[00:23:03 -> 00:23:06]  The best and really only way I have right now to know this
+[00:23:06 -> 00:23:08]  is you guys have to come to class, right?
+[00:23:08 -> 00:23:10]  You have to come to class.
+[00:23:10 -> 00:23:11]  You have to participate.
+[00:23:11 -> 00:23:12]  You have to ask questions.
+[00:23:12 -> 00:23:14]  And if you're not doing that, I just
+[00:23:14 -> 00:23:17]  assume that you guys have some clue what's going on, right?
+[00:23:17 -> 00:23:19]  I know that's probably not true, right?
+[00:23:19 -> 00:23:23]  But coming to class, and I try to build a lot of feedback
+[00:23:23 -> 00:23:23]  in the class.
+[00:23:23 -> 00:23:26]  I'll talk about this in a second, right?
+[00:23:26 -> 00:23:28]  And the way that we find out what you've learned
+[00:23:28 -> 00:23:29]  is we give you exams, right?
+[00:23:29 -> 00:23:32]  This is pretty standard stuff, right?
+[00:23:32 -> 00:23:35]  This is some of what we're going to do this semester, right?
+[00:23:35 -> 00:23:38]  This is kind of in order, roughly,
+[00:23:38 -> 00:23:40]  but I don't know how far we'll get.
+[00:23:40 -> 00:23:42]  Last year, we got to virtualization.
+[00:23:42 -> 00:23:46]  My preference is to go more slowly and make sure
+[00:23:46 -> 00:23:49]  you guys understand the material, right?
+[00:23:49 -> 00:23:50]  I don't care about getting all the way
+[00:23:50 -> 00:23:52]  to the bottom of this bullet list.
+[00:23:52 -> 00:23:53]  I'm happy to stop halfway through.
+[00:23:53 -> 00:23:56]  And I would be happier if you guys learned half of it,
+[00:23:56 -> 00:23:58]  than if I cover all of it and no one has
+[00:23:58 -> 00:24:00]  any idea what we're doing, right?
+[00:24:00 -> 00:24:03]  But this is sort of basically what we're going to cover.
+[00:24:03 -> 00:24:05]  I'm not going to go into detail, but you guys,
+[00:24:05 -> 00:24:06]  these slides will be up online, and you guys
+[00:24:06 -> 00:24:07]  can look over this stuff if you're
+[00:24:07 -> 00:24:10]  interested in a roadmap as far as what we're doing, right?
+[00:24:10 -> 00:24:13]  But really what this comes down to is hardware components.
+[00:24:13 -> 00:24:16]  And then for each hardware component, we build up,
+[00:24:16 -> 00:24:17]  and we talk about the abstractions
+[00:24:17 -> 00:24:18]  and the multiplexing techniques that
+[00:24:18 -> 00:24:20]  are driven by that hardware component, right?
+[00:24:20 -> 00:24:22]  So we look at the CPU.
+[00:24:22 -> 00:24:23]  We look at memory.
+[00:24:23 -> 00:24:25]  We look at storage, right?
+[00:24:25 -> 00:24:27]  Each one of those sort of silos has
+[00:24:27 -> 00:24:30]  its own set of policies and abstractions and mechanisms,
+[00:24:30 -> 00:24:32]  and we go over those in detail, right?
+[00:24:32 -> 00:24:34]  And then we get to the point where
+[00:24:34 -> 00:24:35]  we kind of pull back even one more curtain,
+[00:24:35 -> 00:24:38]  and we talk about virtualization, which essentially treats
+[00:24:38 -> 00:24:42]  the whole machine now as a multiplexable resource, right?
+[00:24:42 -> 00:24:44]  And that kind of gets a little bit fun.
+[00:24:44 -> 00:24:46]  And then there is lots of different stuff
+[00:24:46 -> 00:24:47]  that we can talk about at the end of the class
+[00:24:47 -> 00:24:49]  if there's time permitted.
+[00:24:49 -> 00:24:51]  There's a lot of new modern ideas, right?
+[00:24:51 -> 00:24:55]  All right, so my advice for how to learn
+[00:24:55 -> 00:24:56]  the material in this class, right?
+[00:24:56 -> 00:24:59]  First thing, attend class, all right?
+[00:24:59 -> 00:25:01]  I know it's 9 AM, all right?
+[00:25:01 -> 00:25:03]  It's not my fault, all right?
+[00:25:03 -> 00:25:05]  I have complained bitterly several times
+[00:25:05 -> 00:25:07]  about when this class is scheduled, right?
+[00:25:07 -> 00:25:09]  They keep scheduling it at 9 AM, all right?
+[00:25:09 -> 00:25:12]  So I'm going to be here, you know,
+[00:25:12 -> 00:25:16]  bright-eyed and bushy-tailed probably at 8 AM.
+[00:25:16 -> 00:25:18]  But I would really suggest you guys come to class.
+[00:25:18 -> 00:25:21]  We will put lecture videos online, right?
+[00:25:21 -> 00:25:24]  We have them online from last semester
+[00:25:24 -> 00:25:27]  as well, last year when I taught the class.
+[00:25:27 -> 00:25:30]  Some of you guys heard that, and I saw your, you know,
+[00:25:30 -> 00:25:34]  I saw a little smile curl up the corner of your mouth.
+[00:25:34 -> 00:25:38]  Yes, you know, I can set my alarm back one more hour.
+[00:25:38 -> 00:25:39]  Don't do it, OK?
+[00:25:39 -> 00:25:41]  If you guys don't come, I don't know
+[00:25:41 -> 00:25:42]  if you're learning or not.
+[00:25:42 -> 00:25:43]  You can't ask questions.
+[00:25:43 -> 00:25:44]  We can't interact in class.
+[00:25:44 -> 00:25:46]  So I really want you guys to be here.
+[00:25:46 -> 00:25:49]  I will do my best to make 9 AM as entertaining, and interesting,
+[00:25:49 -> 00:25:51]  and interactive as possible.
+[00:25:51 -> 00:25:53]  Your part of it is to just show up, all right?
+[00:25:53 -> 00:25:57]  Just come to class, prepare to be called on from time to time,
+[00:25:57 -> 00:25:58]  but please be here.
+[00:25:58 -> 00:26:00]  Use the online videos as a resource.
+[00:26:00 -> 00:26:02]  Watch them again after class if you
+[00:26:02 -> 00:26:04]  want to slow things down, or speed things up, or view
+[00:26:04 -> 00:26:04]  things.
+[00:26:04 -> 00:26:06]  That's what they're for, right?
+[00:26:06 -> 00:26:08]  But I think if you guys choose not to come to class,
+[00:26:08 -> 00:26:10]  you're really going to be missing out,
+[00:26:10 -> 00:26:14]  and you're going to be reducing your ability to learn stuff,
+[00:26:14 -> 00:26:16]  right?
+[00:26:16 -> 00:26:19]  Please be here at 9 AM.
+[00:26:19 -> 00:26:20]  I get here a little bit before.
+[00:26:20 -> 00:26:22]  If you have questions, it's a good time
+[00:26:22 -> 00:26:24]  to bother me about stuff.
+[00:26:24 -> 00:26:26]  And at 9 AM, what I do every day is
+[00:26:26 -> 00:26:29]  we do a five to 10 minute review.
+[00:26:29 -> 00:26:31]  So we start with the last class.
+[00:26:31 -> 00:26:34]  I turn that into a little bit of a mini quiz.
+[00:26:34 -> 00:26:35]  It's not done in pencil and paper.
+[00:26:35 -> 00:26:37]  We just do it out loud in class.
+[00:26:37 -> 00:26:39]  But it's a way to kind of warm you guys up,
+[00:26:39 -> 00:26:40]  go over the stuff from last class.
+[00:26:40 -> 00:26:42]  It helps me calibrate what's happening.
+[00:26:42 -> 00:26:45]  So if I do a 10 minute review, and no one
+[00:26:45 -> 00:26:47]  knows anything about what we did in the last class,
+[00:26:47 -> 00:26:49]  then maybe I need to slow down and cover
+[00:26:49 -> 00:26:51]  some of that material again, right?
+[00:26:51 -> 00:26:52]  So this is an important part of class.
+[00:26:52 -> 00:26:54]  If you come late, you'll miss it, right?
+[00:26:54 -> 00:26:55]  So please try to be here at 9.
+[00:26:58 -> 00:27:00]  Again, as I said before, I'm very flexible
+[00:27:00 -> 00:27:02]  about how much we get through, right?
+[00:27:02 -> 00:27:04]  And I don't want you guys to feel
+[00:27:04 -> 00:27:07]  like my job is to take that outline and jam it into you,
+[00:27:07 -> 00:27:08]  right?
+[00:27:08 -> 00:27:10]  Like, that doesn't work, right?
+[00:27:10 -> 00:27:12]  If I do that, most people won't learn much, right?
+[00:27:12 -> 00:27:16]  So I would rather do less and have
+[00:27:16 -> 00:27:17]  you guys understand it more.
+[00:27:17 -> 00:27:19]  And a big part of how that happens
+[00:27:19 -> 00:27:21]  is you guys being here and being willing to interact in class,
+[00:27:21 -> 00:27:23]  ask questions, and let me ask you questions,
+[00:27:23 -> 00:27:23]  and things like that.
+[00:27:23 -> 00:27:27]  So that comes back to being in class, all right?
+[00:27:27 -> 00:27:30]  Any questions about this?
+[00:27:30 -> 00:27:32]  I know it's kind of a radical idea.
+[00:27:32 -> 00:27:33]  I went to college, right?
+[00:27:33 -> 00:27:36]  And the idea that someone would ask me to actually show up
+[00:27:36 -> 00:27:39]  in class every day at 9 AM, at Harvard,
+[00:27:39 -> 00:27:40]  they barely even schedule classes at 9 AM.
+[00:27:40 -> 00:27:42]  They knew nobody would come, right?
+[00:27:42 -> 00:27:44]  Here, they schedule recitations at like 8 o'clock.
+[00:27:44 -> 00:27:48]  And I'm thinking, I mean, that's just mean.
+[00:27:48 -> 00:27:51]  So anyway, but I think it would be really great
+[00:27:51 -> 00:27:53]  if you guys came to class, and I'll be here.
+[00:27:53 -> 00:27:57]  So I'll be lonely if no one comes.
+[00:27:57 -> 00:27:58]  All right.
+[00:27:58 -> 00:28:00]  So let's talk about the programming
+[00:28:00 -> 00:28:01]  portion of the class, right?
+[00:28:01 -> 00:28:05]  So these are my goals, right?
+[00:28:05 -> 00:28:07]  When you guys are done, I want you guys
+[00:28:07 -> 00:28:08]  to be able to design and implement
+[00:28:08 -> 00:28:10]  well-structured system software, right?
+[00:28:10 -> 00:28:12]  Well-structured in particular, right?
+[00:28:12 -> 00:28:14]  Hopefully, it will work, right?
+[00:28:14 -> 00:28:16]  But structuring and designing it is really
+[00:28:16 -> 00:28:18]  more than half the battle for this class.
+[00:28:18 -> 00:28:20]  And I want you guys to be able to get there,
+[00:28:20 -> 00:28:21]  and we're going to teach you how to do it and give you
+[00:28:21 -> 00:28:25]  a chance to learn, right?
+[00:28:25 -> 00:28:27]  A big challenge, and this is a little bit more
+[00:28:27 -> 00:28:29]  specific to the material in this class
+[00:28:29 -> 00:28:31]  that we haven't covered yet, but a big challenge
+[00:28:31 -> 00:28:34]  to writing good operating system code that many of you
+[00:28:34 -> 00:28:36]  guys have not encountered yet is dealing
+[00:28:36 -> 00:28:38]  with synchronization, synchronization
+[00:28:38 -> 00:28:41]  in C, synchronization at the operating system level, right?
+[00:28:41 -> 00:28:42]  And there's a set of synchronization primitives
+[00:28:42 -> 00:28:44]  and problems that we'll talk about
+[00:28:44 -> 00:28:45]  that will prepare you to do that.
+[00:28:45 -> 00:28:47]  That's a big part of this class, right?
+[00:28:47 -> 00:28:49]  Because a lot of you guys will end up
+[00:28:49 -> 00:28:50]  writing multi-threaded code, right?
+[00:28:50 -> 00:28:52]  Especially now when we've got like,
+[00:28:52 -> 00:28:56]  now your laptop has a 16 core processor in it, right?
+[00:28:56 -> 00:28:58]  I mean, thinking about synchronization and concurrency
+[00:28:58 -> 00:29:00]  is really becoming more and more important, right?
+[00:29:00 -> 00:29:02]  And operating systems give you a starting point
+[00:29:02 -> 00:29:03]  for learning how to do it.
+[00:29:03 -> 00:29:05]  How many people have done significant sort
+[00:29:05 -> 00:29:07]  of multi-threaded programming before?
+[00:29:07 -> 00:29:09]  All right, a couple of you guys.
+[00:29:09 -> 00:29:13]  By the end of the class, everybody, right?
+[00:29:13 -> 00:29:15]  Debugging.
+[00:29:15 -> 00:29:17]  So multi-threaded stuff also raises the bar for debugging.
+[00:29:17 -> 00:29:19]  And this is a big part of doing well in this class,
+[00:29:19 -> 00:29:23]  is learning how to use the debugging tools, right?
+[00:29:23 -> 00:29:25]  And finally, we do a little bit about performance
+[00:29:25 -> 00:29:26]  in this class.
+[00:29:26 -> 00:29:28]  Performance is really an important part
+[00:29:28 -> 00:29:29]  of operating systems on some level.
+[00:29:29 -> 00:29:31]  You know, operating systems are a piece of code
+[00:29:31 -> 00:29:34]  that it kind of matters if it's right,
+[00:29:34 -> 00:29:38]  but it also really matters that it works quickly.
+[00:29:38 -> 00:29:40]  And in fact, one of the interesting trade-offs
+[00:29:40 -> 00:29:43]  that operating systems designs have made over the last 60
+[00:29:43 -> 00:29:45]  years is they've always sacrificed correctness,
+[00:29:45 -> 00:29:49]  provable correctness, for performance, right?
+[00:29:49 -> 00:29:51]  We're starting to see some improvements on that front.
+[00:29:51 -> 00:29:54]  We'll talk about them maybe toward the end of class, right?
+[00:29:54 -> 00:29:59]  But if your machine takes five minutes to boot,
+[00:29:59 -> 00:30:01]  then you don't care if it's correct or not, right?
+[00:30:01 -> 00:30:03]  Like, you'll go off and buy something
+[00:30:03 -> 00:30:06]  that boots in 10 seconds 99.99% of the time,
+[00:30:06 -> 00:30:08]  and then once in a while it throws up a blue screen, right?
+[00:30:08 -> 00:30:10]  I know that this is true, because people have
+[00:30:10 -> 00:30:12]  been doing it for 30 years, right?
+[00:30:12 -> 00:30:15]  This is why Windows exists, right?
+[00:30:15 -> 00:30:16]  And Windows isn't even that fast.
+[00:30:16 -> 00:30:19]  It's so frustrating.
+[00:30:19 -> 00:30:23]  So how are we going to keep track of you for this part,
+[00:30:23 -> 00:30:25]  right?
+[00:30:25 -> 00:30:27]  You're going to be in class.
+[00:30:27 -> 00:30:28]  You're going to come to recitations and office hours
+[00:30:28 -> 00:30:30]  with questions about the programming assignment.
+[00:30:30 -> 00:30:33]  And we also are going to have a way for you guys
+[00:30:33 -> 00:30:35]  to test your assignments continuously,
+[00:30:35 -> 00:30:37]  and that's basically going to be the grading process.
+[00:30:37 -> 00:30:40]  This semester, I will get to it in just a sec.
+[00:30:40 -> 00:30:41]  All right.
+[00:30:41 -> 00:30:46]  So there are four assignments in this class, all right?
+[00:30:46 -> 00:30:46]  And we'll talk.
+[00:30:46 -> 00:30:48]  Let me just go through each of them.
+[00:30:48 -> 00:30:51]  I think this semester, I'm going to ask you guys to work in pairs
+[00:30:51 -> 00:30:53]  for the whole class.
+[00:30:53 -> 00:30:55]  Last year, we paired up people for assignment 2
+[00:30:55 -> 00:30:56]  and assignment 3.
+[00:30:56 -> 00:30:57]  I think this year, I'm just going
+[00:30:57 -> 00:30:59]  to ask you guys to pair up immediately, maybe
+[00:30:59 -> 00:31:00]  as soon as next week, and just do
+[00:31:00 -> 00:31:02]  all of these assignments together in pairs, right?
+[00:31:02 -> 00:31:04]  I think that's probably a better experience,
+[00:31:04 -> 00:31:06]  and it's a little bit easier for us logistically.
+[00:31:06 -> 00:31:09]  So that said, start looking around the room
+[00:31:09 -> 00:31:14]  and deciding who the person do you want in your 421 foxhole,
+[00:31:14 -> 00:31:15]  right?
+[00:31:15 -> 00:31:20]  Who is someone who you're going to work well with this semester?
+[00:31:20 -> 00:31:22]  So there are four major assignments.
+[00:31:22 -> 00:31:25]  The two at the bottom are really the big mamas.
+[00:31:25 -> 00:31:27]  Those are what's fun.
+[00:31:27 -> 00:31:28]  Those are where you guys learn a lot.
+[00:31:28 -> 00:31:31]  That's where you end up implementing
+[00:31:31 -> 00:31:33]  pretty significant components of a modern operating system.
+[00:31:33 -> 00:31:36]  So the assignment 0 is a code reading and kind
+[00:31:36 -> 00:31:37]  of familiarization assignment.
+[00:31:37 -> 00:31:40]  Helps you get your environment set up, yadda, yadda, yadda.
+[00:31:40 -> 00:31:43]  Just building and running your first kernel, it won't do much,
+[00:31:43 -> 00:31:44]  but we'll walk you through the process
+[00:31:44 -> 00:31:46]  and get you started with some of the development
+[00:31:46 -> 00:31:48]  tools and things like that.
+[00:31:48 -> 00:31:49]  Assignment 1 is about implementing
+[00:31:49 -> 00:31:51]  using synchronization primitives.
+[00:31:51 -> 00:31:53]  The code you write for your operating system
+[00:31:53 -> 00:31:55]  is fairly small and easy.
+[00:31:55 -> 00:31:57]  The code that you write to solve synchronization problems
+[00:31:57 -> 00:31:59]  is maybe more complex and kind of dumb,
+[00:31:59 -> 00:32:02]  but these are toy problems we give you
+[00:32:02 -> 00:32:04]  to help you think about synchronization.
+[00:32:04 -> 00:32:06]  If you don't get them, it doesn't matter.
+[00:32:06 -> 00:32:10]  That stuff doesn't affect the performance of your kernel.
+[00:32:10 -> 00:32:12]  For assignment 2 and assignment 3,
+[00:32:12 -> 00:32:14]  you start actually implementing parts of the operating system
+[00:32:14 -> 00:32:16]  that user LAN programs use.
+[00:32:16 -> 00:32:18]  So the assignment 2 is about implementing the system call
+[00:32:18 -> 00:32:19]  interface.
+[00:32:19 -> 00:32:21]  This is how applications use the operating system.
+[00:32:21 -> 00:32:25]  This is how they get help with things they need to do.
+[00:32:25 -> 00:32:26]  And then for assignment 3, we'll let you
+[00:32:26 -> 00:32:29]  do this on writing a virtual memory manager.
+[00:32:29 -> 00:32:32]  So virtual memory, I think, is my favorite abstraction
+[00:32:32 -> 00:32:33]  and one of the most elegant abstractions that's
+[00:32:33 -> 00:32:34]  supported by operating systems.
+[00:32:34 -> 00:32:37]  And we let you take a stab at writing a big piece of it
+[00:32:37 -> 00:32:40]  and getting it to work in your own little kernel.
+[00:32:40 -> 00:32:45]  So the development environment for this class
+[00:32:45 -> 00:32:46]  is an instructional operating system
+[00:32:46 -> 00:32:49]  that was developed at Harvard.
+[00:32:49 -> 00:32:50]  I was one of the guinea pigs for it.
+[00:32:50 -> 00:32:52]  My year I took the class, it was the first year
+[00:32:52 -> 00:32:54]  that it was ever used.
+[00:32:54 -> 00:32:56]  Some of us were scarred for life by that experience,
+[00:32:56 -> 00:32:58]  but it's been around now for a dozen years,
+[00:32:58 -> 00:33:02]  and it's pretty mature and very well supported.
+[00:33:02 -> 00:33:04]  The goal with this little mini system
+[00:33:04 -> 00:33:06]  is to strike a balance.
+[00:33:06 -> 00:33:08]  So some operating systems classes
+[00:33:08 -> 00:33:14]  are taught using Linux or some mature BSD open source type
+[00:33:14 -> 00:33:15]  operating system.
+[00:33:15 -> 00:33:17]  The problem with that is those systems
+[00:33:17 -> 00:33:19]  are incredibly big and complicated.
+[00:33:19 -> 00:33:23]  And it's like if you're trying to teach somebody English
+[00:33:23 -> 00:33:25]  and you give them Proust or something,
+[00:33:25 -> 00:33:28]  or you give them Shakespeare.
+[00:33:28 -> 00:33:30]  You're not going to get it.
+[00:33:30 -> 00:33:33]  You need to start off with Tom and Jane.
+[00:33:33 -> 00:33:35]  So Linux, I think, is just too deep of a dive
+[00:33:35 -> 00:33:36]  for most people.
+[00:33:36 -> 00:33:39]  And what people end up doing is they say, OK, well,
+[00:33:39 -> 00:33:43]  ignore 99.99% of Linux and just change this one line.
+[00:33:43 -> 00:33:45]  And that's just not that fun.
+[00:33:45 -> 00:33:47]  So you guys get to build big components
+[00:33:47 -> 00:33:48]  of a real operating system.
+[00:33:48 -> 00:33:52]  You don't just get to twiddle with the scheduler on Linux.
+[00:33:52 -> 00:33:54]  And then there are these other operating system frameworks
+[00:33:54 -> 00:33:58]  that are various stages of growth.
+[00:33:58 -> 00:33:59]  Some of them work pretty well.
+[00:33:59 -> 00:34:00]  Others are kind of disgusting.
+[00:34:00 -> 00:34:02]  But OS 161 was designed to kind of try
+[00:34:02 -> 00:34:04]  to find a middle ground.
+[00:34:04 -> 00:34:07]  So it's a complete operating system.
+[00:34:07 -> 00:34:09]  It runs inside an emulator.
+[00:34:09 -> 00:34:12]  This is one of the main reasons we get this to work.
+[00:34:12 -> 00:34:14]  This is, of course, the other big problem.
+[00:34:14 -> 00:34:16]  Until the event of virtualization,
+[00:34:16 -> 00:34:18]  if you were trying to teach someone to write Linux,
+[00:34:18 -> 00:34:20]  it was like, OK, I have a bug in my Linux kernel
+[00:34:20 -> 00:34:22]  and my computer won't boot.
+[00:34:22 -> 00:34:23]  So what do I do?
+[00:34:23 -> 00:34:25]  Running an emulator allows us to hook up a debugger
+[00:34:25 -> 00:34:27]  and give you guys a little bit more visibility
+[00:34:27 -> 00:34:28]  into what the system is doing, which
+[00:34:28 -> 00:34:30]  allows you to fix things and learn
+[00:34:30 -> 00:34:32]  about what your system is doing.
+[00:34:32 -> 00:34:36]  All right, so this also, like I said,
+[00:34:36 -> 00:34:40]  allows us to simplify debugging.
+[00:34:40 -> 00:34:43]  OK, this is a big change for this class for this year.
+[00:34:43 -> 00:34:44]  And I want to talk about it a little bit
+[00:34:44 -> 00:34:48]  and give you guys a chance to wrap your minds around it.
+[00:34:48 -> 00:34:55]  Last year, everything in this class happened very slowly.
+[00:34:55 -> 00:34:59]  And so the programming picked up very, very slowly.
+[00:34:59 -> 00:35:01]  And we ended up trying to jam a lot to the end of the class.
+[00:35:01 -> 00:35:02]  And that was really my fault. It was
+[00:35:02 -> 00:35:05]  because I was trying to design some of the assignments
+[00:35:05 -> 00:35:07]  and rewrite them and find ways for you guys
+[00:35:07 -> 00:35:08]  to submit online, all this stuff.
+[00:35:08 -> 00:35:10]  The great thing is that's done.
+[00:35:10 -> 00:35:13]  And the other great thing is we have an automated tester that
+[00:35:13 -> 00:35:16]  will do the grading for the assignments.
+[00:35:16 -> 00:35:18]  So you submit a patch, we run a program,
+[00:35:18 -> 00:35:21]  and out pops your score.
+[00:35:21 -> 00:35:25]  So what we've decided to do this year
+[00:35:25 -> 00:35:28]  is allow you to submit your assignments for grading
+[00:35:28 -> 00:35:30]  whenever you want.
+[00:35:30 -> 00:35:32]  You think you're done, you send your patch.
+[00:35:32 -> 00:35:33]  This is how it's going to work.
+[00:35:33 -> 00:35:35]  You think you're done, you set your patch in.
+[00:35:35 -> 00:35:37]  A couple hours later, we run it through our tester
+[00:35:37 -> 00:35:39]  and we say, here's the test that we ran,
+[00:35:39 -> 00:35:41]  which you will have access to.
+[00:35:41 -> 00:35:43]  Here's what happened when we ran them.
+[00:35:43 -> 00:35:45]  And based on those results, here's
+[00:35:45 -> 00:35:49]  the score that you would receive on this assignment.
+[00:35:49 -> 00:35:52]  So this is, I think, kind of nice.
+[00:35:52 -> 00:35:54]  But then a whole bunch of things seem
+[00:35:54 -> 00:35:56]  to make more sense to me.
+[00:35:56 -> 00:35:59]  So you guys will know what grade you
+[00:35:59 -> 00:36:01]  have at any given point in time.
+[00:36:01 -> 00:36:02]  There's no mystery here.
+[00:36:02 -> 00:36:04]  You guys send in the patch, we grade it.
+[00:36:04 -> 00:36:06]  We give you a score.
+[00:36:06 -> 00:36:08]  Hey, if you want to see and you're
+[00:36:08 -> 00:36:12]  happy with stuff that doesn't work, then you're done.
+[00:36:12 -> 00:36:14]  Then go on to the next assignment.
+[00:36:14 -> 00:36:14]  Question?
+[00:36:14 -> 00:36:16]  AUDIENCE MEMBER 2 You do the assignments
+[00:36:16 -> 00:36:17]  later on in the program?
+[00:36:17 -> 00:36:18]  You do the assignments.
+[00:36:18 -> 00:36:21]  Every assignment is done in pairs.
+[00:36:21 -> 00:36:24]  For the purposes of this class, two become one.
+[00:36:24 -> 00:36:26]  You guys are in a pair, and that pair
+[00:36:26 -> 00:36:28]  receives the same grade for, I think,
+[00:36:28 -> 00:36:33]  now I've made up my mind, for all four assignments.
+[00:36:33 -> 00:36:35]  So again, you can stop when you're done.
+[00:36:35 -> 00:36:39]  You're happy with your grade, move on.
+[00:36:39 -> 00:36:40]  And finally, there are no deadlines
+[00:36:40 -> 00:36:42]  for the programming assignments in this class.
+[00:36:45 -> 00:36:46]  None.
+[00:36:46 -> 00:36:49]  Except the end of the semester.
+[00:36:49 -> 00:36:52]  That is the one deadline.
+[00:36:52 -> 00:36:56]  So if I was sitting in, I think some of you guys are like,
+[00:36:56 -> 00:36:59]  great, I'm going to leave it all the last week.
+[00:36:59 -> 00:37:01]  You can do that.
+[00:37:01 -> 00:37:03]  And I am not going to try to stop you.
+[00:37:03 -> 00:37:06]  We are going to try to help you with this.
+[00:37:09 -> 00:37:11]  There's a variety of reasons that I want to try this.
+[00:37:11 -> 00:37:15]  First of all, this is how the real world works.
+[00:37:15 -> 00:37:17]  You work on stuff till it gets done.
+[00:37:17 -> 00:37:21]  So you were just hired at my operating system company.
+[00:37:21 -> 00:37:23]  I'm going to give you a list of requirements
+[00:37:23 -> 00:37:26]  that need to be met by whatever it is, May something.
+[00:37:26 -> 00:37:28]  And then you're done.
+[00:37:28 -> 00:37:28]  You're out there.
+[00:37:28 -> 00:37:29]  You're on your own.
+[00:37:29 -> 00:37:30]  You have a deadline.
+[00:37:30 -> 00:37:34]  It's up to you to plan how to meet that.
+[00:37:34 -> 00:37:36]  I hope that this will allow you to schedule
+[00:37:36 -> 00:37:38]  this work around other classes more easily.
+[00:37:38 -> 00:37:40]  This is a class that's now a wild card
+[00:37:40 -> 00:37:41]  that you can fill in whenever you want.
+[00:37:41 -> 00:37:43]  On the other hand, some of you guys
+[00:37:43 -> 00:37:47]  are going to just fall on this like a sword.
+[00:37:47 -> 00:37:48]  And there's nothing.
+[00:37:48 -> 00:37:50]  I can't do anything to stop you.
+[00:37:50 -> 00:37:52]  I will come in every week, and we
+[00:37:52 -> 00:37:54]  will talk about where people are.
+[00:37:54 -> 00:37:56]  I'll try to find some way for visualizing.
+[00:37:56 -> 00:37:58]  Here's where the class is.
+[00:37:58 -> 00:38:02]  So you can say, hey, I'm like 200 points behind everybody
+[00:38:02 -> 00:38:04]  else.
+[00:38:04 -> 00:38:05]  But I can't make you do these assignments.
+[00:38:05 -> 00:38:07]  Fundamentally, I can't make you do them anyway.
+[00:38:07 -> 00:38:10]  But I'm giving you a big piece of rope.
+[00:38:10 -> 00:38:12]  And I hope that you're going to use it
+[00:38:12 -> 00:38:14]  to make a tire swing or something.
+[00:38:14 -> 00:38:16]  But there are other uses for it.
+[00:38:16 -> 00:38:17]  Yeah?
+[00:38:17 -> 00:38:19]  Will you be letting us know when is the best time
+[00:38:19 -> 00:38:21]  to start doing the assignment?
+[00:38:21 -> 00:38:22]  Yeah, well, I'm going to pace.
+[00:38:22 -> 00:38:25]  Well, I'll give you guys some pacing hints.
+[00:38:25 -> 00:38:29]  So I will say in class, this would be a good time
+[00:38:29 -> 00:38:31]  to be at this point with assignment one.
+[00:38:31 -> 00:38:34]  And then I'll put up the graph showing where people are.
+[00:38:34 -> 00:38:37]  And then I'll be like, well, OK.
+[00:38:37 -> 00:38:39]  Some of you guys will get ahead.
+[00:38:39 -> 00:38:39]  That's fine.
+[00:38:39 -> 00:38:41]  I mean, if you want to blow through this in three weeks
+[00:38:41 -> 00:38:44]  and just nail it, get it done, I don't care.
+[00:38:44 -> 00:38:46]  You guys can be finished with the programming components
+[00:38:46 -> 00:38:49]  and just coming to class and enjoying life and having fun
+[00:38:49 -> 00:38:52]  and acing the rest of your classes.
+[00:38:52 -> 00:38:55]  But this is how this is going to work this semester.
+[00:38:55 -> 00:38:57]  So you will always know what your grade is
+[00:38:57 -> 00:38:59]  on the programming components of the class.
+[00:38:59 -> 00:39:01]  You will always know that.
+[00:39:01 -> 00:39:03]  Right now, it's a zero.
+[00:39:03 -> 00:39:04]  And I know where the finish line is.
+[00:39:04 -> 00:39:05]  You guys will know that, too.
+[00:39:05 -> 00:39:09]  So you will always know what grade you have.
+[00:39:09 -> 00:39:10]  Questions about this?
+[00:39:14 -> 00:39:16]  All right.
+[00:39:16 -> 00:39:17]  A couple, yeah.
+[00:39:17 -> 00:39:19]  What's a good amount of time to have each of these, like,
+[00:39:19 -> 00:39:19]  assignments?
+[00:39:23 -> 00:39:26]  Yeah, again, I'll sit down today and just lay it out.
+[00:39:26 -> 00:39:28]  The first couple assignments, I think
+[00:39:28 -> 00:39:30]  you can do together in a month.
+[00:39:30 -> 00:39:32]  And I would probably allocate maybe a month for assignment
+[00:39:32 -> 00:39:35]  two, and then as much of the rest of the semesters,
+[00:39:35 -> 00:39:38]  you can stand for assignment three.
+[00:39:38 -> 00:39:41]  Assignment three is really the heavy lift, right?
+[00:39:41 -> 00:39:44]  Assignment two, I think, is doable
+[00:39:44 -> 00:39:46]  in a reasonable amount of time.
+[00:39:46 -> 00:39:47]  Assignment three is, again, assignment three
+[00:39:47 -> 00:39:50]  is the most fun, but it's kind of the top of the mountain.
+[00:39:50 -> 00:39:50]  Yeah?
+[00:39:50 -> 00:39:51]  Nick?
+[00:39:51 -> 00:39:54]  So the grades all fit in for a semester?
+[00:39:54 -> 00:39:56]  I think it's two hours.
+[00:39:56 -> 00:39:56]  Yeah.
+[00:39:56 -> 00:39:59]  How long is two hours?
+[00:39:59 -> 00:40:00]  A couple of hours.
+[00:40:00 -> 00:40:03]  Yeah, so, OK.
+[00:40:03 -> 00:40:08]  We don't want you to bang on the grader, OK?
+[00:40:08 -> 00:40:12]  Just, like, this is not a testing kit, right?
+[00:40:12 -> 00:40:13]  You can run the test.
+[00:40:13 -> 00:40:15]  Like, we're not secretive about the test we're going to run.
+[00:40:15 -> 00:40:17]  The tests we're going to run are user-land programs
+[00:40:17 -> 00:40:20]  that run inside your kernel that you can run locally, right?
+[00:40:20 -> 00:40:21]  And in fact, at some point, maybe we'll
+[00:40:21 -> 00:40:22]  just give you the testing suite, and you
+[00:40:22 -> 00:40:24]  can run on your own local machine, right?
+[00:40:24 -> 00:40:25]  That's even better for us, because then we
+[00:40:25 -> 00:40:28]  don't have to waste server cycles, right?
+[00:40:28 -> 00:40:31]  The testing suite is, again, not supposed to be like, well,
+[00:40:31 -> 00:40:33]  let me try this.
+[00:40:33 -> 00:40:34]  Test it.
+[00:40:34 -> 00:40:35]  Didn't work.
+[00:40:35 -> 00:40:36]  Let me try switching those two lines around.
+[00:40:36 -> 00:40:37]  Test it.
+[00:40:37 -> 00:40:37]  Didn't work.
+[00:40:37 -> 00:40:39]  You'll never get done if you do that, right?
+[00:40:39 -> 00:40:40]  Just let me warn you.
+[00:40:40 -> 00:40:40]  There's no way.
+[00:40:40 -> 00:40:42]  You guys are going to be writing, like, probably
+[00:40:42 -> 00:40:44]  4,000 or 5,000 lines of code by the time
+[00:40:44 -> 00:40:46]  you're done this semester, right?
+[00:40:46 -> 00:40:50]  And you'll be rewriting most of those at least 10 times, right?
+[00:40:50 -> 00:40:54]  There's just the design space is too large for you
+[00:40:54 -> 00:40:56]  to just whack the grader and try to get a better result.
+[00:40:56 -> 00:40:57]  It won't work.
+[00:40:57 -> 00:40:58]  I don't think it'll work.
+[00:40:58 -> 00:41:01]  The nice thing about the grader is it is kind of slow, right?
+[00:41:01 -> 00:41:03]  And I don't feel, like, super inclined to fix that,
+[00:41:03 -> 00:41:06]  just because that's fine, you know?
+[00:41:06 -> 00:41:07]  I won't bore you with the details.
+[00:41:07 -> 00:41:09]  It's basically dripping characters into a terminal,
+[00:41:09 -> 00:41:11]  pretending that it's you typing very slowly.
+[00:41:11 -> 00:41:14]  That's how we do it.
+[00:41:14 -> 00:41:17]  So yes, so again, because you're doing these assignments
+[00:41:17 -> 00:41:19]  in pairs, this is a conversation you
+[00:41:19 -> 00:41:21]  need to have with your partner when
+[00:41:21 -> 00:41:23]  you select that lucky person, right?
+[00:41:23 -> 00:41:24]  If you want an A in this class, don't
+[00:41:24 -> 00:41:27]  pick a partner who's satisfied with a C on the assignments,
+[00:41:27 -> 00:41:28]  right, because you won't give, right?
+[00:41:28 -> 00:41:32]  You guys need to be committed about how much effort
+[00:41:32 -> 00:41:34]  you're willing to put in, right?
+[00:41:34 -> 00:41:38]  Because you'll need to decide when to stop together, right?
+[00:41:38 -> 00:41:39]  And finally, and this is something else that
+[00:41:39 -> 00:41:41]  makes me even more happy, we're not
+[00:41:41 -> 00:41:44]  going to distribute solution sets.
+[00:41:44 -> 00:41:45]  The assignments in this class are cumulative,
+[00:41:45 -> 00:41:47]  and you'll just keep working, right?
+[00:41:47 -> 00:41:50]  So again, when you decide that you're
+[00:41:50 -> 00:41:52]  done with an assignment, you can go on
+[00:41:52 -> 00:41:54]  and start working on components of the next assignment.
+[00:41:54 -> 00:41:56]  But we will keep testing those pieces, right?
+[00:41:56 -> 00:41:59]  And if they don't work, they don't work.
+[00:41:59 -> 00:42:01]  All right, I need to speed up a little bit
+[00:42:01 -> 00:42:02]  to get through the rest of this.
+[00:42:02 -> 00:42:07]  So this is my simple guide to collaboration, right?
+[00:42:07 -> 00:42:11]  If you're talking to somebody, anybody in the class,
+[00:42:11 -> 00:42:13]  and you're describing a design, and you're
+[00:42:13 -> 00:42:16]  talking in English, right, or your language of choice,
+[00:42:16 -> 00:42:20]  your natural language of choice, right, that is not cheating.
+[00:42:20 -> 00:42:21]  That's fine, right?
+[00:42:21 -> 00:42:25]  As soon as you start exchanging code,
+[00:42:25 -> 00:42:28]  talking in code, which hopefully people aren't
+[00:42:28 -> 00:42:32]  training themselves to do, or emailing code around,
+[00:42:32 -> 00:42:35]  or cutting and pasting code, then
+[00:42:35 -> 00:42:39]  this starts to become an issue, right?
+[00:42:39 -> 00:42:43]  Cheaters, right?
+[00:42:43 -> 00:42:46]  I have a terrible visceral reaction
+[00:42:46 -> 00:42:49]  to cheating that I will try to restrain while the camera is
+[00:42:49 -> 00:42:52]  on.
+[00:42:52 -> 00:42:54]  But it's not because I'm a vindictive mean person, right?
+[00:42:54 -> 00:42:55]  It's because there's some of you
+[00:42:55 -> 00:42:58]  in this class who are going to work really hard this semester
+[00:42:58 -> 00:42:59]  and are going to do your best.
+[00:42:59 -> 00:43:01]  And you're still going to do OK in the class, right?
+[00:43:01 -> 00:43:04]  And I have a huge amount of respect for you guys, right?
+[00:43:04 -> 00:43:09]  What I don't respect is the beep who
+[00:43:09 -> 00:43:11]  steals the assignment online and turns it in and gets an A,
+[00:43:11 -> 00:43:12]  right?
+[00:43:12 -> 00:43:15]  That person I have zero, zero talent and zero respect for,
+[00:43:15 -> 00:43:15]  right?
+[00:43:15 -> 00:43:17]  So the cheating policy in this class
+[00:43:17 -> 00:43:19]  is designed to protect the people who
+[00:43:19 -> 00:43:21]  are here who are willing to do their best, right,
+[00:43:21 -> 00:43:23]  and take the grade that they earn, right?
+[00:43:23 -> 00:43:26]  Some of you guys would do better than others, right?
+[00:43:26 -> 00:43:31]  But if you guys play fair, then again, my hats are off to you.
+[00:43:31 -> 00:43:33]  We did this last year, and it worked quite well, right?
+[00:43:33 -> 00:43:36]  There's an online similarity, code similarity checker.
+[00:43:36 -> 00:43:39]  We will run every submission that you put into the system
+[00:43:39 -> 00:43:40]  through this, right?
+[00:43:40 -> 00:43:43]  If this picks up large degrees of similarity,
+[00:43:43 -> 00:43:45]  we will have the TAs investigate those.
+[00:43:45 -> 00:43:48]  And if you submit plagiarized code,
+[00:43:48 -> 00:43:51]  we will fail you for the class, right?
+[00:43:51 -> 00:43:54]  This is the CSE department policy, OK?
+[00:43:54 -> 00:43:56]  And I don't soften it.
+[00:43:56 -> 00:43:59]  So you guys submit plagiarized code, you fail, right?
+[00:43:59 -> 00:44:02]  Not an assignment, you're done.
+[00:44:02 -> 00:44:05]  And does anyone have any questions about that?
+[00:44:05 -> 00:44:05]  It's pretty simple.
+[00:44:08 -> 00:44:10]  We compare your assignment against everything
+[00:44:10 -> 00:44:12]  we can get our hands on, right?
+[00:44:12 -> 00:44:14]  This tool is so fantastic, right?
+[00:44:14 -> 00:44:17]  The first time I ran it, it completed like this.
+[00:44:17 -> 00:44:18]  And I was like, is it broken?
+[00:44:18 -> 00:44:20]  And no, it's just that good, right?
+[00:44:20 -> 00:44:21]  It runs really rapidly.
+[00:44:21 -> 00:44:23]  So we can take hundreds of assignments,
+[00:44:23 -> 00:44:26]  like anything we can locate on the internet from last year,
+[00:44:26 -> 00:44:29]  from this class, we will run that tool against.
+[00:44:29 -> 00:44:33]  Like, every match will be investigated by hand, right?
+[00:44:33 -> 00:44:36]  By one of the TAs or me.
+[00:44:36 -> 00:44:37]  But this is how we do it.
+[00:44:37 -> 00:44:38]  Yeah, question?
+[00:44:38 -> 00:44:40]  AUDIENCE MEMBER 2 No, there's not many false positives.
+[00:44:40 -> 00:44:41]  PROFESSOR NELSON No.
+[00:44:41 -> 00:44:44]  No, no, no, there are not many false positives, right?
+[00:44:44 -> 00:44:48]  Last year, there were six people that this tool caught cheating,
+[00:44:48 -> 00:44:51]  and they failed the class.
+[00:44:51 -> 00:44:53]  So I don't want you guys to be in that group, right?
+[00:44:53 -> 00:44:56]  But don't test us, because we will win, all right?
+[00:44:56 -> 00:44:57]  This tool is too good, and you guys
+[00:44:57 -> 00:44:59]  are going to write too much code, right?
+[00:44:59 -> 00:45:01]  If these assignments were 10 lines,
+[00:45:01 -> 00:45:03]  then there'd be only one or two ways of doing it, right?
+[00:45:03 -> 00:45:04]  But they're not.
+[00:45:04 -> 00:45:06]  And so the design space becomes so huge,
+[00:45:06 -> 00:45:10]  and so plagiarism just sticks out like a sore thumb, right?
+[00:45:10 -> 00:45:13]  I mean, the things we caught last year were ugly, ugly.
+[00:45:13 -> 00:45:18]  And there were no questions in any case
+[00:45:18 -> 00:45:22]  of where the material came from, all right?
+[00:45:22 -> 00:45:26]  Also, something I want to emphasize this year,
+[00:45:26 -> 00:45:29]  when you submit work in a pair group,
+[00:45:29 -> 00:45:31]  you and your partner are jointly responsible for the work
+[00:45:31 -> 00:45:32]  that you submit.
+[00:45:34 -> 00:45:38]  If we find that a piece of your assignment is plagiarized,
+[00:45:38 -> 00:45:41]  both of you will fail the class, OK?
+[00:45:41 -> 00:45:43]  You both are going to be working on these assignments
+[00:45:43 -> 00:45:44]  together, right?
+[00:45:44 -> 00:45:45]  So what does that mean?
+[00:45:45 -> 00:45:48]  Find a partner you trust, right?
+[00:45:48 -> 00:45:50]  And you guys need to be involved in all aspects
+[00:45:50 -> 00:45:51]  of the assignments, right?
+[00:45:51 -> 00:45:53]  Clearly, you're not going to write every line of code.
+[00:45:53 -> 00:45:56]  But if you are worried about your partner's behavior,
+[00:45:56 -> 00:45:57]  you need to approach us immediately, right?
+[00:45:57 -> 00:46:00]  Because if you submit something that we find out
+[00:46:00 -> 00:46:03]  is plagiarized, and then a week later, you're like, oh, yeah,
+[00:46:03 -> 00:46:04]  he was acting a little fishy or whatever,
+[00:46:04 -> 00:46:09]  then the more time goes by, the more you own that, right?
+[00:46:09 -> 00:46:11]  You own that with them, right?
+[00:46:11 -> 00:46:14]  So find someone that you can work effectively with
+[00:46:14 -> 00:46:18]  and work together so you know what each other are doing.
+[00:46:18 -> 00:46:21]  And if you're worried about it, come talk to us right away,
+[00:46:21 -> 00:46:22]  OK?
+[00:46:22 -> 00:46:23]  Is this clear?
+[00:46:27 -> 00:46:29]  Also, the assignments are very clear
+[00:46:29 -> 00:46:31]  about how you can divide them up, right?
+[00:46:31 -> 00:46:35]  There are certain divisions that are not acceptable, right?
+[00:46:35 -> 00:46:38]  Asking one part of your group to do all the coding
+[00:46:38 -> 00:46:41]  while you write the design document is not OK, right?
+[00:46:41 -> 00:46:44]  If we find out that you did that and you didn't tell us about it,
+[00:46:44 -> 00:46:46]  we'll fail you and your partner, right?
+[00:46:46 -> 00:46:49]  Maybe just you, actually.
+[00:46:49 -> 00:46:50]  All right.
+[00:46:50 -> 00:46:53]  So the only, you know, I'm not going to go over this too much.
+[00:46:53 -> 00:46:56]  But for the assignments, get started early, work on them,
+[00:46:56 -> 00:46:58]  test them, work together with your partner.
+[00:46:58 -> 00:47:00]  This is pretty basic stuff, right?
+[00:47:00 -> 00:47:04]  But this is how you do well on these assignments, right?
+[00:47:04 -> 00:47:07]  Come to our office hours, which there will be many of,
+[00:47:07 -> 00:47:09]  and work close by the course staff,
+[00:47:09 -> 00:47:10]  work close by each other.
+[00:47:10 -> 00:47:13]  There were students that came in last year whose model was,
+[00:47:13 -> 00:47:16]  they would come and they would ask the course staff a question.
+[00:47:16 -> 00:47:17]  They would go program for half an hour
+[00:47:17 -> 00:47:19]  and then they would come back with another question.
+[00:47:19 -> 00:47:20]  Those students did well, right?
+[00:47:20 -> 00:47:21]  And they got a lot of help.
+[00:47:21 -> 00:47:22]  And it was fun, right?
+[00:47:22 -> 00:47:23]  I like that.
+[00:47:23 -> 00:47:25]  I don't know if all of you guys were upstairs
+[00:47:25 -> 00:47:27]  in the hallway next week working on assignment zero,
+[00:47:27 -> 00:47:29]  I would think that would be awesome, right?
+[00:47:29 -> 00:47:30]  And we'd order pizza.
+[00:47:32 -> 00:47:32]  All right.
+[00:47:32 -> 00:47:34]  I need to get through this really fast, unfortunately.
+[00:47:34 -> 00:47:35]  I'm running a little bit of time.
+[00:47:35 -> 00:47:37]  There are two parts of this class, right?
+[00:47:37 -> 00:47:40]  There's a conceptual portion and there's a programming portion,
+[00:47:40 -> 00:47:41]  right?
+[00:47:41 -> 00:47:44]  If you look here, both of those add up to 100, right?
+[00:47:44 -> 00:47:47]  So how am I going to combine these grades, right?
+[00:47:47 -> 00:47:52]  My goal is, in my opinion, these parts are not substitutable,
+[00:47:52 -> 00:47:53]  right?
+[00:47:53 -> 00:47:55]  If you do really well on the programming assignments
+[00:47:55 -> 00:47:57]  but decide to fail the exams, I don't
+[00:47:57 -> 00:47:59]  think you deserve a passing grade.
+[00:47:59 -> 00:48:02]  If you do, more likely, if you come and ace the exams
+[00:48:02 -> 00:48:05]  and just totally blitz out on the programming assignments,
+[00:48:05 -> 00:48:07]  then I don't think you deserve a passing grade either, right?
+[00:48:07 -> 00:48:09]  So here's what we're going to do.
+[00:48:09 -> 00:48:12]  Your grade is now two variables, right?
+[00:48:12 -> 00:48:15]  It's a programming component, which, again, you
+[00:48:15 -> 00:48:18]  will be able to find out at any point based on the submissions
+[00:48:18 -> 00:48:19]  that you've made.
+[00:48:19 -> 00:48:21]  And it's a conceptual component, which is, again,
+[00:48:21 -> 00:48:27]  allocated through the exams, right?
+[00:48:27 -> 00:48:28]  At some point during the semester,
+[00:48:28 -> 00:48:31]  we will start to assign these grades to regions, right?
+[00:48:31 -> 00:48:32]  I don't know how these are going to look.
+[00:48:32 -> 00:48:34]  These are circles, right, clearly.
+[00:48:34 -> 00:48:37]  Maybe they'll be other, more complicated shapes, right?
+[00:48:37 -> 00:48:39]  The idea is that this will determine your grade.
+[00:48:39 -> 00:48:42]  So this is how, you know, and depending
+[00:48:42 -> 00:48:45]  on where you are on this curve, right, again,
+[00:48:45 -> 00:48:49]  notice that this guy, right, who, again,
+[00:48:49 -> 00:48:50]  apparently came to class.
+[00:48:50 -> 00:48:52]  Maybe he already knew the material, nailed the exams,
+[00:48:52 -> 00:48:54]  but then bugged out on the programming assignments,
+[00:48:54 -> 00:48:56]  did not do well in the class, right?
+[00:48:56 -> 00:48:59]  So you have to be able to program and understand
+[00:48:59 -> 00:49:02]  the concepts to pass this class, to do well in this class,
+[00:49:02 -> 00:49:04]  all right?
+[00:49:04 -> 00:49:05]  I'll put this up online.
+[00:49:05 -> 00:49:08]  I'm sure people are curious about it, right?
+[00:49:08 -> 00:49:09]  All right, if you want a reference,
+[00:49:09 -> 00:49:11]  there's a book by Andrew Tannenbaum
+[00:49:11 -> 00:49:12]  called Modern Operating Systems.
+[00:49:12 -> 00:49:13]  It's not at the bookstore, but you
+[00:49:13 -> 00:49:16]  can find it online for a third of the price.
+[00:49:16 -> 00:49:20]  But anything in lecture and the code in this class,
+[00:49:20 -> 00:49:23]  those are really the text of this course, right?
+[00:49:23 -> 00:49:27]  Also, if your C programming is rusty or nonexistent,
+[00:49:27 -> 00:49:30]  you may want to pick up a C programming reference, right?
+[00:49:30 -> 00:49:33]  OK.
+[00:49:33 -> 00:49:35]  So we are going to have our own dedicated room
+[00:49:35 -> 00:49:38]  for this course for TA office hours.
+[00:49:38 -> 00:49:40]  It's Davis 303, all right?
+[00:49:40 -> 00:49:43]  It's right next to the TA room for every other class, right?
+[00:49:43 -> 00:49:44]  But you guys are special.
+[00:49:44 -> 00:49:46]  You get your own TA room, right?
+[00:49:46 -> 00:49:48]  And you guys can go in there and hang out or whatever.
+[00:49:48 -> 00:49:49]  I mean, it's pretty much going to be open,
+[00:49:49 -> 00:49:51]  so I'm hoping that this is a place where you guys can come
+[00:49:51 -> 00:49:53]  and get help and congregate and work together
+[00:49:53 -> 00:49:58]  and engage in a more communal atmosphere, right?
+[00:49:58 -> 00:50:02]  The people in this room are one of your best sources of help,
+[00:50:02 -> 00:50:03]  OK?
+[00:50:03 -> 00:50:06]  I think that good classes come through this course together,
+[00:50:06 -> 00:50:07]  right?
+[00:50:07 -> 00:50:08]  They help each other.
+[00:50:08 -> 00:50:10]  There's a nice group spirit that emerges.
+[00:50:10 -> 00:50:12]  And I'm very supportive of that, right?
+[00:50:12 -> 00:50:14]  Like I said, you guys come in.
+[00:50:14 -> 00:50:15]  You're looking over each other's shoulders.
+[00:50:15 -> 00:50:16]  You're helping each other debug.
+[00:50:16 -> 00:50:17]  That's awesome, right?
+[00:50:17 -> 00:50:18]  That is not cheating.
+[00:50:18 -> 00:50:21]  That's great, right?
+[00:50:21 -> 00:50:22]  And I want to support that.
+[00:50:22 -> 00:50:23]  So this is how this is going to work.
+[00:50:23 -> 00:50:25]  We'll have more details on this later.
+[00:50:25 -> 00:50:26]  There's one more thing I want to get to.
+[00:50:26 -> 00:50:27]  So there'll be a website.
+[00:50:27 -> 00:50:28]  Everything will be up on the website.
+[00:50:28 -> 00:50:29]  I know I'm speeding up.
+[00:50:29 -> 00:50:33]  But it's because I want to introduce the TAs.
+[00:50:33 -> 00:50:35]  Zhe is in the back here.
+[00:50:35 -> 00:50:38]  You stand up.
+[00:50:38 -> 00:50:40]  She has the distinction of being the only TA who
+[00:50:40 -> 00:50:42]  took the class with me, right?
+[00:50:42 -> 00:50:44]  So she did all these assignments, right?
+[00:50:44 -> 00:50:47]  So she knows more about them than I do at this point,
+[00:50:47 -> 00:50:48]  probably, because she did them last year
+[00:50:48 -> 00:50:49]  and I did them 10 years ago, right?
+[00:50:49 -> 00:50:53]  So she will be a great source of support and help for you.
+[00:50:53 -> 00:50:54]  Anudipa is here.
+[00:50:54 -> 00:50:56]  So you may not see much of Anudipa,
+[00:50:56 -> 00:50:58]  but she might be doing some back end stuff
+[00:50:58 -> 00:50:59]  with grading and other things.
+[00:50:59 -> 00:51:04]  So Guru, wow, it's almost hard to recognize you.
+[00:51:04 -> 00:51:05]  You look great.
+[00:51:05 -> 00:51:09]  Freshly shaven and cut.
+[00:51:09 -> 00:51:10]  So Guru will be helping out.
+[00:51:10 -> 00:51:13]  He's a really nice guy, really strong programmer.
+[00:51:13 -> 00:51:17]  And Aditya, all right, the most sporty, the most
+[00:51:17 -> 00:51:19]  styling of RTA staff.
+[00:51:19 -> 00:51:21]  Yeah.
+[00:51:21 -> 00:51:23]  All right, one thing I want to cover.
+[00:51:23 -> 00:51:24]  I'll get back to questions.
+[00:51:24 -> 00:51:26]  I'm going to be outside after class for as long as I need
+[00:51:26 -> 00:51:28]  to be if you guys have questions about anything
+[00:51:28 -> 00:51:29]  that we talked about today.
+[00:51:29 -> 00:51:33]  I know I kind of sped up and accelerated towards the end.
+[00:51:33 -> 00:51:37]  On Wednesday, we have the first exam of class, right?
+[00:51:37 -> 00:51:41]  This exam is worth eight free points if you come and take it.
+[00:51:41 -> 00:51:42]  If you don't come and take it, we'll
+[00:51:42 -> 00:51:44]  just scale your other exam scores appropriately,
+[00:51:44 -> 00:51:46]  so you don't have to come and take it.
+[00:51:46 -> 00:51:48]  I would appreciate if you come and take it.
+[00:51:48 -> 00:51:50]  It's a background exam that gives me
+[00:51:50 -> 00:51:51]  an idea of what you know, and it's
+[00:51:51 -> 00:51:53]  important for us to benchmark this class
+[00:51:53 -> 00:51:56]  and understand what people who are coming to it learn.
+[00:51:56 -> 00:51:59]  Again, you come in, you sign your name,
+[00:51:59 -> 00:52:03]  you fill it out, eight points towards the conceptual portion
+[00:52:03 -> 00:52:04]  of your grade, right?
+[00:52:04 -> 00:52:09]  If you don't come, then we'll just scale the other points.
+[00:52:09 -> 00:52:11]  We're in the process of sort of transitioning
+[00:52:11 -> 00:52:13]  some of the online materials over to a new website.
+[00:52:13 -> 00:52:15]  That hopefully will be done by the end of the week,
+[00:52:15 -> 00:52:17]  and our goal is to have the environment and everything
+[00:52:17 -> 00:52:20]  ready for you guys to start programming by Monday,
+[00:52:20 -> 00:52:21]  even potentially earlier.
+[00:52:21 -> 00:52:22]  All right?
+[00:52:22 -> 00:52:25]  I will be outside for questions because I
+[00:52:25 -> 00:52:26]  think we're out of time.
+[00:52:26 -> 00:52:29]  And I look forward to seeing everybody on Wednesday.

@@ -1,0 +1,670 @@
+[00:00:00 -> 00:00:03]  Hallo und herzlich willkommen zu einer neuen Folge von David's Deep Dive.
+[00:00:03 -> 00:00:07]  Wir werden uns heute in diesem Video mal dem Thema agile Softwareentwicklung widmen,
+[00:00:07 -> 00:00:10]  denn das ist eines der Themen, das ihr euch in der Kanalumfrage gewünscht habt.
+[00:00:11 -> 00:00:14]  Wenn ihr versucht, euch mit dem Thema zu beschäftigen, wenn ihr euch da einarbeiten möchtet,
+[00:00:14 -> 00:00:18]  dann werdet ihr im Internet zahlreiche Definitionen von agiler Softwareentwicklung finden,
+[00:00:18 -> 00:00:20]  die mal mehr und mal weniger hilfreich sind.
+[00:00:20 -> 00:00:22]  Ich gebe euch mal ein Beispiel.
+[00:00:22 -> 00:00:26]  Die Agile Alliance schreibt Agile Softwareentwicklung ist ein Sammelbegriff
+[00:00:26 -> 00:00:29]  für eine Reihe von Methoden und Praktiken, die auf Werten und Prinzipien
+[00:00:29 -> 00:00:32]  des Manifests agiler Softwareentwicklung basieren.
+[00:00:34 -> 00:00:36]  Wenn ihr noch ein bisschen weiter lest, dann werdet ihr feststellen,
+[00:00:36 -> 00:00:40]  dass diese ganze agile Softwareentwicklung aus agilen Leitsätzen, agilen Prinzipien,
+[00:00:40 -> 00:00:42]  agilen Methoden und agilen Prozessen besteht.
+[00:00:43 -> 00:00:44]  Alles richtig.
+[00:00:44 -> 00:00:48]  Aber für die Erarbeitung des Verständnisses oder für einen Überblick,
+[00:00:48 -> 00:00:51]  was agile Softwareentwicklung ist, hilft einem das meistens nicht wirklich weiter.
+[00:00:52 -> 00:00:53]  Genau darum soll es heute in diesem Video gehen.
+[00:00:53 -> 00:00:56]  Ich möchte euch mal zeigen, warum agile Softwareentwicklung supergut ist
+[00:00:57 -> 00:01:00]  und warum das für jeden von euch, für alle Unternehmen da draußen,
+[00:01:00 -> 00:01:02]  die Software entwickeln, fast immer der richtige Ansatz ist.
+[00:01:03 -> 00:01:04]  Mein Name ist David Thielke.
+[00:01:04 -> 00:01:08]  Auf diesem YouTube-Kanal geht es um die Themen Softwarequalität, Softwarearchitekturen
+[00:01:08 -> 00:01:10]  und alles, was Spaß macht im Bereich der Softwareentwicklung.
+[00:01:11 -> 00:01:13]  Mein Credo auf diesem Kanal ist, dass ich jeden von euch
+[00:01:13 -> 00:01:16]  jeden Tag ein Stückchen besser machen möchte im Bereich der Softwareentwicklung.
+[00:01:17 -> 00:01:19]  Wenn ihr dem Video einen Daumen hoch gebt, dann helft ihr mir dabei,
+[00:01:19 -> 00:01:22]  noch mehr Entwickler zu erreichen und damit noch mehr Entwickler
+[00:01:22 -> 00:01:24]  jeden Tag ein kleines Stückchen besser zu machen.
+[00:01:25 -> 00:01:27]  Wenn ihr das Video gut findet, wenn ihr das Thema gut findet
+[00:01:27 -> 00:01:30]  und mehr zu dem Thema sehen wollt, dann empfehle ich euch, abonniert den Kanal.
+[00:01:30 -> 00:01:34]  Und wenn ihr das macht, dann bekommt ihr jede Woche eine Benachrichtigung,
+[00:01:34 -> 00:01:37]  wenn ein oder mehrere Videos pro Woche fertiggestellt werden.
+[00:01:37 -> 00:01:40]  Und dann seid ihr quasi von vornherein beim Video mit dabei.
+[00:01:40 -> 00:01:41]  Was werden wir heute machen?
+[00:01:41 -> 00:01:44]  Wir werden uns mal das Thema agile Softwareentwicklung anschauen.
+[00:01:44 -> 00:01:45]  Das sagte ich bereits.
+[00:01:45 -> 00:01:49]  Aber wir fangen erst mal da an, was agile Softwareentwicklung nicht ist,
+[00:01:49 -> 00:01:51]  also die klassische Art, wie man Software entwickelt hat
+[00:01:52 -> 00:01:54]  oder heute teilweise Unternehmen auch noch macht.
+[00:01:54 -> 00:01:56]  Wenn wir uns mal anschauen, was daran so besonders gefährlich ist
+[00:01:56 -> 00:02:00]  und werden dann mal die Brücke rüberschlagen, was denn genau Agilität ist.
+[00:02:00 -> 00:02:01]  Und dann werden wir uns mal anschauen,
+[00:02:01 -> 00:02:04]  warum ist die Agilität genau das Richtige für die Softwareentwicklung?
+[00:02:04 -> 00:02:06]  Warum können wir damit wesentlich besser Software entwickeln
+[00:02:06 -> 00:02:08]  und welche Vorteile ergeben sich daraus überhaupt?
+[00:02:09 -> 00:02:13]  Da möchte ich noch auf einen Punkt eingehen, nämlich Agilität ist nicht gleich Chaos.
+[00:02:13 -> 00:02:17]  Das erlebe ich in ganz, ganz vielen Projektsituationen, in vielen Beratungen.
+[00:02:17 -> 00:02:20]  Und wir werden uns nochmal ein bisschen mehr mit dem Thema beschäftigen.
+[00:02:20 -> 00:02:23]  Und ich denke, da spreche ich einigen von euch aus der Seele
+[00:02:23 -> 00:02:26]  und wahrscheinlich jeder von euch wird die Situation schon erlebt haben.
+[00:02:26 -> 00:02:28]  Die ist aber ganz, ganz gefährlich.
+[00:02:28 -> 00:02:30]  Deswegen sollten wir da mal drauf eingehen.
+[00:02:30 -> 00:02:31]  Wenn ihr bis zum Ende dranbleibt,
+[00:02:31 -> 00:02:34]  dann werde ich euch mal meine Top drei Gründe sagen,
+[00:02:34 -> 00:02:37]  warum jeder von euch Software agil entwickeln sollte,
+[00:02:37 -> 00:02:39]  warum jedes Team agil arbeiten sollte
+[00:02:39 -> 00:02:41]  und jedes Softwareprojekt agil durchgeführt werden sollte.
+[00:02:41 -> 00:02:43]  Da gibt es eine ganze Menge Gründe.
+[00:02:43 -> 00:02:46]  Aber ich zeige euch mal aus meiner Erfahrung raus die Top drei Gründe,
+[00:02:46 -> 00:02:49]  die ich in jedem Projekt sehe, dass die dort einfach einen entscheidenden Mehrwert
+[00:02:49 -> 00:02:52]  für das ganze Unternehmen, für das Projekt und für das Team bieten.
+[00:02:52 -> 00:02:54]  Ich würde sagen, wir verlieren jetzt nicht viel Zeit.
+[00:02:54 -> 00:02:56]  Nach dem Intro geht's los. Viel Spaß.
+[00:03:13 -> 00:03:16]  Um zu erklären, warum Agilität für uns genau das Richtige ist,
+[00:03:16 -> 00:03:18]  müssen wir erst mal erklären, was Agilität nicht ist,
+[00:03:18 -> 00:03:20]  wie also so eine klassische Softwareentwicklung aussieht.
+[00:03:21 -> 00:03:23]  In der klassischen Softwareentwicklung ist es so,
+[00:03:23 -> 00:03:26]  dass wir erst mal am Anfang Stakeholder haben.
+[00:03:26 -> 00:03:27]  Das ist natürlich in der modernen auch so.
+[00:03:27 -> 00:03:30]  Wir haben also irgendeinen Fachbereich oder irgendeinen Kunden
+[00:03:30 -> 00:03:32]  und dieser Kunde, dieser Fachbereich möchte gerne,
+[00:03:32 -> 00:03:34]  dass wir ein Softwareprodukt für ihn entwickeln.
+[00:03:34 -> 00:03:36]  Der hat also die fachliche Idee.
+[00:03:36 -> 00:03:38]  Der weiß, wie er seinem Geschäft einen Mehrwert hinzufügen kann.
+[00:03:38 -> 00:03:41]  Und die Softwareentwicklung ist jetzt quasi mit der Aufgabe traut,
+[00:03:41 -> 00:03:44]  dazu ein Stück Software zu entwickeln.
+[00:03:44 -> 00:03:45]  Damit ich so ein Stück Software entwickeln kann,
+[00:03:45 -> 00:03:47]  muss ich allerdings erst mal zusehen,
+[00:03:47 -> 00:03:49]  dass ich natürlich die Anforderungen dazu ermittle.
+[00:03:49 -> 00:03:52]  Und in solchen klassischen Vorgehensmodellen ist es so,
+[00:03:52 -> 00:03:54]  dass man normalerweise hingeht und eine Liste,
+[00:03:54 -> 00:03:57]  eine vollständige Liste, einen Anforderungskatalog zusammenstellt.
+[00:03:57 -> 00:04:00]  Pflichten, Lastenheft kennen bestimmt einige von euch.
+[00:04:00 -> 00:04:03]  Und dann von diesem Pflichten, Lastenheft geht man dann hin
+[00:04:03 -> 00:04:04]  und entwickelt die Software.
+[00:04:04 -> 00:04:06]  Das heißt, wir nehmen erst alle Anforderungen auf für dieses Projekt,
+[00:04:06 -> 00:04:09]  was vielleicht fünf oder sechs Jahre lang dauern wird.
+[00:04:09 -> 00:04:11]  Wir haben also mehrere Leitsordner voll.
+[00:04:11 -> 00:04:14]  Das Szenario habe ich noch oftmals miterleben müssen leider.
+[00:04:15 -> 00:04:17]  Und dann nehmen wir diese Leitsordner,
+[00:04:17 -> 00:04:19]  übergeben die in die Softwareentwicklung
+[00:04:19 -> 00:04:23]  und die Softwareentwicklung baut dann dazu entsprechend ein Stück Software.
+[00:04:23 -> 00:04:25]  So, diese Softwareentwicklung,
+[00:04:25 -> 00:04:27]  da reden wir gleich noch ein bisschen genauer darüber,
+[00:04:27 -> 00:04:28]  wie das Ganze intern aussieht.
+[00:04:28 -> 00:04:33]  Aber am Ende der Entwicklung kommt dann hinten ein fertiges Softwareprodukt raus
+[00:04:33 -> 00:04:35]  und dieses Softwareprodukt können wir dann entsprechend
+[00:04:35 -> 00:04:37]  unserem Kunden zur Verfügung stellen,
+[00:04:37 -> 00:04:39]  sodass er damit arbeiten kann.
+[00:04:39 -> 00:04:41]  Was ist jetzt das Problem von dieser klassischen Entwicklung?
+[00:04:41 -> 00:04:43]  Nun, das Problem ist erst mal die Vorgehensweise,
+[00:04:43 -> 00:04:45]  wie das Ganze entwickelt wird.
+[00:04:45 -> 00:04:47]  Es gibt in der Softwareentwicklung verschiedene Vorgehensmodelle.
+[00:04:47 -> 00:04:51]  Diese Vorgehensmodelle beschreiben einen Prozess, eine Arbeitsweise,
+[00:04:51 -> 00:04:54]  wie wir von der Anforderung hin zum fertigen Softwareprodukt kommen.
+[00:04:54 -> 00:04:57]  Hier in diesem Fall arbeiten wir mit dem sogenannten Wasserfallmodell.
+[00:04:57 -> 00:05:00]  Das heißt, am Anfang geht man hin, sammelt alle Anforderungen,
+[00:05:00 -> 00:05:03]  dann nimmt man alle Anforderungen, gibt die in den nächsten Schritt in die Architektur.
+[00:05:03 -> 00:05:06]  Dann macht ein Architekt quasi ein Architekturgerüst außenrum,
+[00:05:06 -> 00:05:08]  zeichnet verschiedene UML-Diagramme
+[00:05:08 -> 00:05:10]  und dann wird dann diese Buß von UML-Diagrammen
+[00:05:10 -> 00:05:13]  und diese Riesenmenge an Anforderungen an die Entwicklung übergeben.
+[00:05:13 -> 00:05:15]  Die Entwicklung entwickelt das Ganze dann mehrere Jahre
+[00:05:15 -> 00:05:20]  und irgendwann werden diese Artefakte alle zusammen an die Qualitätssicherung übergeben.
+[00:05:20 -> 00:05:23]  Die führen dann die Tests durch und irgendwann nach ganz, ganz langer Zeit,
+[00:05:23 -> 00:05:27]  meistens mehrere Jahre nachdem der Kunde der Stakeholder die Software bestellt hat,
+[00:05:27 -> 00:05:30]  stellen wir diese Software irgendwann mal bereit.
+[00:05:30 -> 00:05:32]  Dadurch ergeben sich jetzt natürlich zahlreiche Nachteile.
+[00:05:32 -> 00:05:34]  Und der erste Nachteil natürlich ist es,
+[00:05:34 -> 00:05:37]  dass wir lange brauchen, bis wir ein Ergebnis bekommen.
+[00:05:37 -> 00:05:40]  Wenn also ein Kunde ein Stück Software bestellt,
+[00:05:40 -> 00:05:43]  dann muss er warten, bis diese Software vollständig entwickelt wurde.
+[00:05:43 -> 00:05:45]  Wenn ich jetzt größere Softwareprojekte habe,
+[00:05:45 -> 00:05:48]  heißt das, dass ich meistens erst nach vielen, vielen Jahren
+[00:05:48 -> 00:05:51]  und nach längerer Zeit eben dieses Softwareprodukt als Kunde bekomme
+[00:05:51 -> 00:05:55]  und dann das erste Mal ein visuelles Feedback zu meinen gestellten Anforderungen bekomme
+[00:05:55 -> 00:05:58]  und dann sagen kann, ob das Ganze richtig war oder nicht.
+[00:05:58 -> 00:06:01]  In dem Zusammenhang ist es natürlich oft vorgekommen,
+[00:06:01 -> 00:06:03]  dass der Kunde Anforderungen vielleicht ungenau definiert hat,
+[00:06:03 -> 00:06:05]  Anforderungen vergessen hat oder sonst irgendwelche Fehler
+[00:06:05 -> 00:06:07]  bei der Anforderungsanalyse gemacht wurden.
+[00:06:07 -> 00:06:10]  Und dieser Fehler, dieser Faux pas, ist dann erst aufgefallen,
+[00:06:10 -> 00:06:13]  als die Software nach langer, langer Zeit an den Kunden ausgeliefert wurde,
+[00:06:13 -> 00:06:15]  was natürlich den Kunden nicht zufriedenstellt
+[00:06:15 -> 00:06:20]  und zum Beispiel in meinen Projekten vor langer Zeit zum Glück auch dafür gesorgt hat,
+[00:06:20 -> 00:06:22]  dass zum Beispiel ein großes Softwareprodukt entwickelt wurde,
+[00:06:22 -> 00:06:26]  was dann zum Zapfen des Releases gar nicht mehr verwendet werden durfte.
+[00:06:26 -> 00:06:28]  Entweder weil etwas falsch entwickelt wurde
+[00:06:28 -> 00:06:32]  oder weil es mittlerweile Gesetzesänderungen gegeben hatte oder sonstige Dinge.
+[00:06:32 -> 00:06:35]  Das Zweite ist natürlich, dass dieser Prozess extrem fehleranfällig ist.
+[00:06:35 -> 00:06:37]  Ich habe es gerade schon mal bei den Anforderungen beschrieben,
+[00:06:37 -> 00:06:41]  aber je später ein Fehler in diesem Wasserfallprozess entdeckt wird,
+[00:06:41 -> 00:06:44]  umso teurer wird es natürlich, diesen Fehler zu beheben.
+[00:06:44 -> 00:06:46]  Das heißt, wenn ich schon bei den Anforderungen erkenne,
+[00:06:46 -> 00:06:49]  okay, da habe ich irgendwas falsch aufgenommen oder die Anforderung ist inkonsistent,
+[00:06:49 -> 00:06:51]  dann kann ich das noch recht einfach beheben.
+[00:06:51 -> 00:06:53]  Aber wenn ich zum Beispiel erst in der Entwicklung feststelle,
+[00:06:53 -> 00:06:56]  dass dort irgendetwas nicht passt oder irgendwelche Anforderungen nicht konsistent sind,
+[00:06:56 -> 00:07:00]  dann muss ich diesen Schritt davor, die Architektur und die Anforderung,
+[00:07:00 -> 00:07:01]  muss ich nochmal erneut durchführen.
+[00:07:01 -> 00:07:05]  Und das Testen ist ja quasi nochmal der Entwicklung nachgelagert.
+[00:07:05 -> 00:07:06]  Das heißt, wenn ich dort Fehler erkenne,
+[00:07:06 -> 00:07:09]  dann kann es sein, dass ich in der Entwicklung etwas neu machen muss
+[00:07:09 -> 00:07:11]  oder vielleicht die Architektur abändern muss
+[00:07:11 -> 00:07:13]  oder ich dann dort feststelle, hey, das hat ja der Kunde gar nicht bestellt.
+[00:07:13 -> 00:07:16]  Da muss ich diese ganze Kette also nochmal durchlaufen.
+[00:07:16 -> 00:07:19]  Das heißt, für all diese Aspekte, die wir bis jetzt angesprochen haben,
+[00:07:19 -> 00:07:22]  ist eigentlich die klassische Softwareentwicklung nicht besonders gut geeignet.
+[00:07:22 -> 00:07:25]  Das Nächste, was wir haben, ist natürlich verbunden mit dem,
+[00:07:25 -> 00:07:27]  was wir gerade gesehen haben, dass diese Fehler extrem teuer werden.
+[00:07:27 -> 00:07:30]  Die meisten Fehler, erfahrungsgemäß in solchen Prozessen,
+[00:07:30 -> 00:07:31]  passieren in der Anforderungsanalyse,
+[00:07:31 -> 00:07:33]  dass der Kunde also Anforderungen nicht genannt hat,
+[00:07:33 -> 00:07:36]  sie nicht richtig aufgenommen wurden oder sonst irgendwelche Dinge.
+[00:07:36 -> 00:07:39]  So, und wenn ich jetzt irgendwann das Ganze ausliefere nach vier, fünf Jahren
+[00:07:39 -> 00:07:41]  und der Kunde hat bei einem Modul zum Beispiel
+[00:07:41 -> 00:07:45]  irgendwas nicht richtig benannt oder die Anforderung nicht richtig formuliert,
+[00:07:45 -> 00:07:47]  dann muss dieses Modul unter Umständen neu entwickelt werden.
+[00:07:47 -> 00:07:49]  Dann muss dieser ganze Prozess nochmal durchlaufen werden.
+[00:07:49 -> 00:07:51]  Und das sorgt natürlich für extreme Verzögerungen
+[00:07:51 -> 00:07:54]  und nicht wirklich für eine Akzeptanz im Bereich der Software beim Kunden.
+[00:07:54 -> 00:07:57]  Und der letzte problematische Punkt, zumindest nachdem wir uns hier anschauen,
+[00:07:57 -> 00:07:59]  ist es, dass wir Änderungen in diesem Prozess nicht machen können.
+[00:07:59 -> 00:08:01]  Ich hatte eben schon mal in meinem Beispiel beschrieben,
+[00:08:01 -> 00:08:05]  mein Kunde hat eine Software entwickelt im Versicherungsbereich
+[00:08:05 -> 00:08:08]  und während der Entwicklung, das war eine Entwicklungszeit von zweieinhalb Jahren,
+[00:08:08 -> 00:08:09]  ist eine Gesetzesänderung gekommen.
+[00:08:09 -> 00:08:11]  Und diese Gesetzesänderung hat dafür gesorgt,
+[00:08:11 -> 00:08:15]  dass wir beim Release der Software diese Software gar nicht mehr benutzen konnten,
+[00:08:15 -> 00:08:18]  weil wir diese Gesetzesänderung währenddessen nicht erfasst haben in den Anforderungen
+[00:08:18 -> 00:08:22]  und die dementsprechend auch gar nicht implementiert wurde innerhalb der Software.
+[00:08:22 -> 00:08:27]  Das waren jetzt mal nur vier Probleme, die wir, nochmal,
+[00:08:27 -> 00:08:30]  Das waren jetzt nur mal vier Probleme, die wir mit so einem Wasserfallprozess
+[00:08:30 -> 00:08:33]  und so einem klassischen Entwicklungsmodell in der Praxis haben.
+[00:08:33 -> 00:08:34]  Da gibt es noch eine ganze Menge mehr.
+[00:08:34 -> 00:08:36]  Ich denke, wir können allein ein ganzes Video
+[00:08:36 -> 00:08:39]  über die Probleme der Wasserfallentwicklung machen.
+[00:08:39 -> 00:08:41]  Aber es soll euch nur mal einen groben Überblick darüber geben.
+[00:08:41 -> 00:08:44]  Ich denke mal, ihr habt da wahrscheinlich auch ein paar Dinge, die euch im Kopf rumschwirren.
+[00:08:44 -> 00:08:46]  Vielleicht habt ihr auch schon mal mit dem Wasserfallmodell gearbeitet.
+[00:08:46 -> 00:08:49]  Könnt ihr mal runterschreiben in die Kommentare, was ihr so für Erfahrungen gemacht habt,
+[00:08:49 -> 00:08:50]  was ihr so für Probleme damit gehabt habt.
+[00:08:50 -> 00:08:53]  Da können wir, glaube ich, einen ganzen Katalog zusammenstellen.
+[00:08:57 -> 00:09:01]  Aber wenn jetzt das Wasserfallmodell so unglaublich schlecht ist für die Softwareentwicklung,
+[00:09:01 -> 00:09:02]  warum hat man das überhaupt genommen?
+[00:09:02 -> 00:09:05]  Dazu müssen wir in der Historie ein bisschen zurückgehen.
+[00:09:05 -> 00:09:09]  In den 80er, 90er Jahren gab es nur wenige Unternehmen, die Software entwickelt haben.
+[00:09:09 -> 00:09:10]  Es wurden aber immer mehr.
+[00:09:10 -> 00:09:12]  Es kamen immer mehr Anwendungsfelder dazu.
+[00:09:12 -> 00:09:13]  Die Geräte wurden immer günstiger.
+[00:09:13 -> 00:09:17]  Und so fing die Software an, in alle Bereiche reinzugehen,
+[00:09:17 -> 00:09:20]  in alle Industriebereiche, in alle Branchen reinzugehen.
+[00:09:20 -> 00:09:22]  Und es fingen auch Branchen an, Software zu entwickeln,
+[00:09:22 -> 00:09:24]  die das eben nicht von der PIKA aufgelernt haben
+[00:09:24 -> 00:09:27]  oder die nicht spezialisiert auf die Softwareentwicklung waren.
+[00:09:27 -> 00:09:30]  Ich habe ein Beispiel einen Kunden und dieser Kunde fertigt Schaltschränke.
+[00:09:30 -> 00:09:33]  Und die haben schon Schaltschränke gebaut, seit, glaube ich, 100 Jahren mittlerweile.
+[00:09:33 -> 00:09:37]  Also früher waren das Elektroschränke, heute sind das IT-Schaltschränke.
+[00:09:37 -> 00:09:40]  Und die haben immer schon nach dem Wasserfallmodell gefertigt.
+[00:09:40 -> 00:09:42]  Das heißt, wenn so ein Schaltschrank entwickelt wurde,
+[00:09:42 -> 00:09:45]  dann haben die am Anfang erstmal eine Studie durchgeführt,
+[00:09:45 -> 00:09:47]  wurde geschaut, was braucht der Markt überhaupt.
+[00:09:47 -> 00:09:49]  Dann gab es eine Phase, in der alle Anforderungen gesammelt wurden
+[00:09:49 -> 00:09:53]  und ein Dokument angefertigt wurde über diesen Schaltschrank, der gebaut werden sollte.
+[00:09:53 -> 00:09:57]  Dann wurde der konstruiert und dann wurde irgendwann eine Produktionslinie aufgebaut.
+[00:09:57 -> 00:10:02]  Und in dieser Produktionslinie wurde dann dieser Schaltschrank gefertigt,
+[00:10:02 -> 00:10:05]  hinten dann vom Band runtergenommen, in der Qualitätssicherung einmal durchgeprüft
+[00:10:05 -> 00:10:08]  und dann entsprechend an den Kunden ausgeliefert.
+[00:10:08 -> 00:10:11]  Das ist so oder so ähnlich der klassische Prozess,
+[00:10:11 -> 00:10:13]  den man bei industrieller Fertigung verwendet.
+[00:10:13 -> 00:10:15]  Und da funktioniert das Ganze auch ziemlich gut.
+[00:10:15 -> 00:10:19]  So, und diese Unternehmen haben seit Jahren mit genau diesen Prozessen gefertigt.
+[00:10:19 -> 00:10:22]  Und da ist es ja naheliegend, wenn man jetzt mit einer neuen Ingenieursdisziplin
+[00:10:22 -> 00:10:26]  in die Softwareentwicklung anfängt, dass man die Prozesse nimmt, die man kennt
+[00:10:26 -> 00:10:28]  und die seit Jahren schon erfolgreich im Unternehmen laufen.
+[00:10:28 -> 00:10:32]  Deswegen haben viele Unternehmen angefangen, mit dem Wasserfallmodell zu entwickeln.
+[00:10:32 -> 00:10:34]  Und literaturmäßig, mal ein bisschen zurückgeblickt,
+[00:10:34 -> 00:10:37]  war das damals auch der empfohlene Prozess genau für die Softwareentwicklung,
+[00:10:37 -> 00:10:40]  weil Ingenieursdisziplin mäßig sind wir in der Softwareentwicklung relativ jung,
+[00:10:40 -> 00:10:43]  im Vergleich zum Beispiel zur Mathematik.
+[00:10:43 -> 00:10:45]  Und deswegen gibt es in unserer Branche einfach noch nicht so viele Erfahrungen.
+[00:10:45 -> 00:10:49]  Damals dachte man, das wäre gut und hat dann eben festgestellt, dass es nicht so gut ist,
+[00:10:49 -> 00:10:51]  weil viele Projekte schief gelaufen sind.
+[00:10:51 -> 00:10:55]  Viele Softwareprodukte waren irgendwann fertig und konnten dann gar nicht mehr eingesetzt werden.
+[00:10:55 -> 00:10:58]  Und das hat sich immer so weitergezogen.
+[00:10:58 -> 00:11:02]  Wenn wir verstehen wollen, warum das Wasserfallmodell so unglaublich schlecht ist,
+[00:11:02 -> 00:11:05]  dann muss man verstehen, was das für unterschiedliche Prozessarten sind,
+[00:11:05 -> 00:11:06]  die dort abgebildet werden sollen.
+[00:11:06 -> 00:11:09]  Wenn wir uns jetzt diese Schaltschrankfertigung anschauen,
+[00:11:09 -> 00:11:11]  da wird quasi die Studie gemacht, dann die Konstruktion,
+[00:11:11 -> 00:11:14]  dann wird die Produktionsstraße aufgebaut.
+[00:11:14 -> 00:11:17]  Und wenn wir uns an das Ende von diesem Produktionsband stellen,
+[00:11:17 -> 00:11:20]  dann nehmen wir mehr oder weniger immer denselben Schaltschrank von diesem Band runter.
+[00:11:20 -> 00:11:23]  Diese Art von Prozessen nennt man Pull-Prozesse,
+[00:11:23 -> 00:11:27]  weil ich jedes Mal dasselbe Element rausziehe, also pulle.
+[00:11:27 -> 00:11:28]  So, wenn ich jetzt Pull-Prozesse habe,
+[00:11:28 -> 00:11:32]  dann kann ich das Wasserfallmodell oder wasserfallartige Prozesse verwenden,
+[00:11:32 -> 00:11:34]  ohne irgendwelche Bedenken, da ist das sogar ziemlich gut.
+[00:11:34 -> 00:11:37]  Aber wir in der Softwareentwicklung haben keinen Pull-Prozess,
+[00:11:37 -> 00:11:41]  weil in der Softwareentwicklung werden quasi hinten aus diesem Prozess
+[00:11:41 -> 00:11:43]  niemals dieselben Arten von Software herausgenommen.
+[00:11:43 -> 00:11:46]  Das heißt, jedes Mal, wenn wir eine neue Iteration haben oder sonstiges,
+[00:11:46 -> 00:11:50]  dann kommt ein neuartiges Produkt aus unserem Softwareentwicklungsprozess raus.
+[00:11:50 -> 00:11:52]  Warum? Na ja, weil es nicht wie bei dem Schaltschrank ist,
+[00:11:52 -> 00:11:55]  dass vorne einmal Anforderungen reingedrückt werden und dann kommt immer dasselbe Produkt raus,
+[00:11:55 -> 00:12:00]  sondern wir pushen kontinuierlich neue Anforderungen vorne in diesem Prozess rein
+[00:12:00 -> 00:12:03]  und hinten nehmen wir dann immer ein andersartiges Produkt runter.
+[00:12:03 -> 00:12:06]  Das eine waren Pull-Prozesse, weil immer dasselbe rausgepullt wurde.
+[00:12:06 -> 00:12:09]  Und bei diesen softwareentwicklungsartigen Prozessen reden wir von Push-Prozessen,
+[00:12:09 -> 00:12:14]  weil vorne immer wieder neue Anforderungen in die Softwareentwicklung reingedrückt werden,
+[00:12:14 -> 00:12:19]  rein gepusht werden und dabei ist das Wasserfallmodell eben extrem schlecht.
+[00:12:19 -> 00:12:21]  Wenn wir das Ganze noch mal grafisch visualisieren,
+[00:12:21 -> 00:12:24]  wir nehmen jetzt hier mal quasi einmal die klassische Variante
+[00:12:24 -> 00:12:30]  und wir stellen uns mal so ein Projekt einfach zweidimensional vor.
+[00:12:30 -> 00:12:34]  Dann könnten wir sagen, okay, irgendwann haben wir hier mal einen Start.
+[00:12:34 -> 00:12:37]  Das heißt, wir starten mit unserem Projekt, mit unserem Softwareprojekt
+[00:12:37 -> 00:12:40]  und wenn wir jetzt ein klassisches Softwareentwicklungsmodell nehmen,
+[00:12:40 -> 00:12:44]  dann gehen wir hin und sagen, okay, wir wollen am Anfang schon alle Anforderungen
+[00:12:44 -> 00:12:48]  aufnehmen, eine Studie durchführen und wollen damit dann genau prognostizieren,
+[00:12:48 -> 00:12:50]  wo wir nachher am Ende irgendwann landen wollen.
+[00:12:50 -> 00:12:55]  Das heißt, wenn wir jetzt davon ausgehen, dass das Ganze über mehrere Jahre entwickelt wird,
+[00:12:55 -> 00:12:59]  dann ist das hier quasi das Ziel, was wir erreichen sollen, also unser Sollziel.
+[00:13:00 -> 00:13:03]  Und unsere Aufgabe in der Softwareentwicklung ist es jetzt quasi
+[00:13:04 -> 00:13:07]  von dem Start hin zu diesem Ziel, zu diesem Sollziel zu entwickeln.
+[00:13:08 -> 00:13:12]  Es ist aber das Problem, dass wir manchmal Anforderungen nicht richtig aufnehmen,
+[00:13:12 -> 00:13:13]  gerade wenn es solche großen Mengen sind.
+[00:13:13 -> 00:13:15]  Der Kunde manchmal nicht weiß, was er genau haben möchte,
+[00:13:15 -> 00:13:18]  in der Entwicklung Fehler gemacht werden und so weiter und so fort,
+[00:13:18 -> 00:13:22]  sodass es meistens so ist, dass wir dieses Ziel hinten gar nicht genau erreichen.
+[00:13:23 -> 00:13:27]  Das heißt, wir haben kein Ziel, wo wir hinwollen,
+[00:13:27 -> 00:13:28]  sondern wir haben ein Ziel, was wir tatsächlich erreichen.
+[00:13:28 -> 00:13:29]  Das ist Ziel.
+[00:13:29 -> 00:13:32]  Das heißt, wir haben hier oben das hier gar nicht so entwickelt,
+[00:13:32 -> 00:13:35]  sondern wir gehen in eine ganz andere Richtung und
+[00:13:36 -> 00:13:39]  sondern entwickeln hier hin zu unserem Istziel.
+[00:13:39 -> 00:13:41]  Das heißt, das, was wir erreichen wollen, haben wir nicht erreicht.
+[00:13:41 -> 00:13:45]  Wenn es unterwegs Änderungswünsche beim Kunden gegeben hat,
+[00:13:45 -> 00:13:46]  haben wir die nicht erfasst.
+[00:13:46 -> 00:13:49]  Ihr könnt euch, denke ich, bei dieser Visualisierung ziemlich gut vorstellen,
+[00:13:49 -> 00:13:51]  was das Problem genau von Wasserfallprozessen werden kann
+[00:13:52 -> 00:13:54]  und was man dort für Probleme bekommen kann.
+[00:13:54 -> 00:13:57]  Und dann bekommt man auch so ein Gefühl dafür, warum damals,
+[00:13:57 -> 00:14:01]  wenn ihr schon ein bisschen älter seid, genauso viele Projekte in der IT schief gelaufen sind.
+[00:14:02 -> 00:14:06]  So, wenn wir jetzt hingehen und sagen, wir wollen nicht klassisch sein,
+[00:14:06 -> 00:14:09]  sondern wir sind agil, haben wir ein ähnliches Ausgangsszenario.
+[00:14:09 -> 00:14:11]  Das heißt, wir sind hier, haben wir einen Startpunkt.
+[00:14:12 -> 00:14:15]  Und bei diesem Startpunkt ist es jetzt so, dass wir nicht sagen,
+[00:14:15 -> 00:14:18]  wir wollen jetzt alle Anforderungen aufnehmen für die nächsten drei, vier, fünf, sechs Jahre.
+[00:14:19 -> 00:14:21]  Wir wollen nicht hingehen und wollen
+[00:14:21 -> 00:14:25]  keine Ahnung, das gesamte Produkt schon im Kopf haben oder den Kunden das ganze Produkt ausfragen,
+[00:14:25 -> 00:14:28]  sondern wir gehen zum Kunden und sagen dem Kunden OK, lieber Kunde,
+[00:14:28 -> 00:14:31]  du willst ein Produkt bauen, aber sag uns jetzt nicht, was du alles haben willst,
+[00:14:31 -> 00:14:35]  sondern sag uns erst mal, was für dich das Wichtigste ist und sag uns die Funktionalität,
+[00:14:35 -> 00:14:39]  die du gern nächsten Monat schon in der ersten kleinen Version deiner Software haben willst.
+[00:14:39 -> 00:14:43]  So, dann kann der Kunde sagen OK, wir definieren uns hier so ein kleines winziges Zwischenziel
+[00:14:43 -> 00:14:46]  und wenn wir dann dieses Zwischenziel haben in der Entwicklung,
+[00:14:46 -> 00:14:49]  dann gehen wir hin und entwickeln quasi dieses Stück Software.
+[00:14:50 -> 00:14:52]  Wenn wir das Stück Software entwickelt haben,
+[00:14:52 -> 00:14:55]  dann können wir zum Kunden gehen und können beim Kunden sagen hier,
+[00:14:55 -> 00:14:58]  schau mal bitte, ist das für dich in Ordnung oder ist es nicht in Ordnung?
+[00:14:58 -> 00:14:59]  Hast du dir so vorgestellt?
+[00:14:59 -> 00:15:01]  Und was ist jetzt genau das nächste Wichtige für dich?
+[00:15:01 -> 00:15:05]  Dann kann der Kunde sagen OK, für mich ist als nächstes jetzt das und das Wichtige.
+[00:15:05 -> 00:15:07]  Das heißt, er kann den Kurs noch mal korrigieren.
+[00:15:07 -> 00:15:11]  Und so entwickeln wir quasi von Iteration zu Iteration, entwickeln wie immer weiter
+[00:15:11 -> 00:15:17]  und der Kunde kann quasi die ganze Zeit auf diesem Weg immer wieder Änderungswünsche einbringen
+[00:15:17 -> 00:15:21]  und kann sagen OK, hier hinten, da will ich dann irgendwann mal sein.
+[00:15:21 -> 00:15:24]  Das sagt er natürlich erst ganz am Ende mit seinem letzten Änderungswunsch.
+[00:15:24 -> 00:15:29]  Das heißt, wie so eine kleine Schlange hier nähern wir uns immer diesem Ziel an.
+[00:15:29 -> 00:15:35]  Wir verfolgen also die Wünsche unseres Kunden und durch diesen continuous support,
+[00:15:35 -> 00:15:37]  continuous Feedback, was wir bekommen von unserem Kunden.
+[00:15:37 -> 00:15:40]  Das ist so eine agile Methode, von der ich anfangs mal gesprochen habe.
+[00:15:41 -> 00:15:44]  Durch dieses continuous Feedback gehen wir quasi nach jeder Iteration hin
+[00:15:44 -> 00:15:48]  und versuchen es wieder alles so zu machen, dass es genauso ist, wie der Kunde das haben will.
+[00:15:48 -> 00:15:50]  Das hier ist nur eine Visualisierung.
+[00:15:50 -> 00:15:52]  Das soll ich mal ungefähr ein Gefühl dazu geben.
+[00:15:52 -> 00:15:55]  Was ist klassisch und was genau ist daran anders an der Agilität?
+[00:15:55 -> 00:15:57]  Hier müsst ihr jetzt aufpassen.
+[00:15:57 -> 00:15:59]  Verwechselt das nicht mit iterativer Softwareentwicklung.
+[00:15:59 -> 00:16:02]  Nur iterativ ist nicht agil, weil die Agilität sagt,
+[00:16:02 -> 00:16:07]  wir entwickeln in Iterationen und nach jeder Iteration sprechen wir mit unserem Kunden,
+[00:16:07 -> 00:16:10]  holen unserem Kunden Feedback und lassen den Kunden die nächste Iteration planen.
+[00:16:15 -> 00:16:19]  Nachdem wir jetzt gerade einmal schon kurz auf die agile Entwicklung draufgeschaut haben,
+[00:16:19 -> 00:16:20]  wollen wir das Ganze jetzt mal ein bisschen konkreter machen.
+[00:16:20 -> 00:16:23]  Wir haben ja eben auf den Slides schon mal das Beispiel gesehen,
+[00:16:23 -> 00:16:27]  wie die klassische Entwicklung high level view mäßig aussieht.
+[00:16:27 -> 00:16:30]  Jetzt gehen wir mal hin, schauen uns das mal an für die agile Entwicklung
+[00:16:30 -> 00:16:32]  oder für die moderne Entwicklung, wie es hier genannt.
+[00:16:32 -> 00:16:36]  Wir haben natürlich genauso wie auf der linken Seite, auf der rechten Seite auch Stakeholder.
+[00:16:36 -> 00:16:39]  Wir haben also Stakeholder, die Anforderungen gegenüber der Softwareentwicklung haben.
+[00:16:39 -> 00:16:41]  So weit, so normal.
+[00:16:41 -> 00:16:43]  Der erste Unterschied ist jetzt aber, dass die Anforderungen,
+[00:16:43 -> 00:16:45]  die Artenweise, wie Anforderungen aufgenommen werden.
+[00:16:45 -> 00:16:48]  Wir gehen nicht mehr hin und nehmen ein oder erstellen ein riesengroßes Dokument,
+[00:16:48 -> 00:16:51]  wo alle Anforderungen drin sind, so die klassischen Projektdokumente,
+[00:16:51 -> 00:16:53]  sondern wir sagen dem Kunden einfach nur,
+[00:16:53 -> 00:16:57]  okay, wir planen jetzt so eine Iteration von 30 Tagen beispielsweise.
+[00:16:57 -> 00:16:59]  Was möchtest du nach diesen 30 Tagen fertig haben?
+[00:16:59 -> 00:17:01]  Das heißt, dieser Scope, den wir betrachten,
+[00:17:01 -> 00:17:04]  der ist wesentlich kleiner als in der klassischen Entwicklung.
+[00:17:04 -> 00:17:06]  Wir fokussieren uns einfach nur auf das nächste Ergebnis,
+[00:17:06 -> 00:17:09]  das nächste Stück Software, was wir diesem Kunden präsentieren wollen.
+[00:17:09 -> 00:17:12]  Das heißt, wir haben viel kleinere Menge an Anforderungen,
+[00:17:12 -> 00:17:14]  die wir viel präziser formulieren können,
+[00:17:14 -> 00:17:16]  weil wir uns nur auf diesen einen Bereich fokussieren müssen
+[00:17:16 -> 00:17:17]  und nicht schon darüber nachdenken müssen,
+[00:17:17 -> 00:17:21]  was brauchen wir in drei, vier, fünf Monaten oder sonst irgendetwas.
+[00:17:21 -> 00:17:23]  Diese Anforderung, die ihr dort seht,
+[00:17:23 -> 00:17:26]  die wird auf sogenannten Storycards formuliert.
+[00:17:26 -> 00:17:27]  Das heißt, wir haben nicht mehr ein großes Dokument,
+[00:17:27 -> 00:17:30]  sondern ihr könnt euch das vorstellen einfach nur wie ein normaler DNA4-Zettel,
+[00:17:30 -> 00:17:31]  auf dem diese Anforderung draufsteht.
+[00:17:31 -> 00:17:34]  Das heißt, wir haben eine Nummer, wir haben einen Titel,
+[00:17:34 -> 00:17:36]  wir haben eine Beschreibung, vielleicht Oberflächenprototypen,
+[00:17:36 -> 00:17:39]  wir haben Akzeptanzkriterien und so weiter und so fort.
+[00:17:39 -> 00:17:42]  Denn diese Anforderung auf diesem Zettel, die dort definiert wird,
+[00:17:42 -> 00:17:46]  diese User Story oder später auch bei Scrum Product Backlog Item genannt,
+[00:17:46 -> 00:17:47]  die wird später an den Entwickler übergeben,
+[00:17:47 -> 00:17:49]  dass er das Feature entwickelt.
+[00:17:49 -> 00:17:51]  Das heißt, der Entwickler muss seinerseits nicht hingehen
+[00:17:51 -> 00:17:54]  und dieses riesengroße Dokument herunterbrechen,
+[00:17:54 -> 00:17:56]  auseinanderpflücken, in einzelne Aufgaben herunterbrechen,
+[00:17:56 -> 00:17:59]  sondern diese Tätigkeit wird schon bei der Anforderungsanalyse durchgeführt
+[00:17:59 -> 00:18:03]  und diese User Stories, die wir dann dort schreiben auf diesen Storycards,
+[00:18:03 -> 00:18:05]  die werden dann an die Entwicklung weitergegeben.
+[00:18:05 -> 00:18:07]  So, die Entwicklung weiß jetzt,
+[00:18:07 -> 00:18:10]  wir machen jetzt eine Iteration über 30 Tage meinetwegen
+[00:18:10 -> 00:18:12]  und die können sich jetzt von diesem Stapel von Anforderungen
+[00:18:12 -> 00:18:16]  so viele Anforderungen herunternehmen, wie sie in den nächsten 30 Tagen
+[00:18:16 -> 00:18:18]  oder je nachdem, wie lange die Iteration ist,
+[00:18:18 -> 00:18:19]  wie dort entwickelt werden kann.
+[00:18:19 -> 00:18:22]  So, das heißt, wir nehmen jetzt diese Anforderungen
+[00:18:22 -> 00:18:24]  und in der Entwicklung entwickeln wir das Ganze.
+[00:18:24 -> 00:18:25]  Wir schreiben also Quellcode dazu,
+[00:18:25 -> 00:18:29]  setzen diese Anforderungen mit programmiertechnischen Mitteln um,
+[00:18:29 -> 00:18:31]  sodass wir nachher ein Stück Software haben.
+[00:18:31 -> 00:18:34]  So, am Ende der Entwicklung müssen wir dem Kunden natürlich ein Stück Software zeigen.
+[00:18:34 -> 00:18:38]  Wir wollen ja dem Kunden zeigen, was er jetzt bestellt hat vor einem Monat,
+[00:18:38 -> 00:18:40]  um an dieses Customer Feedback zu kommen.
+[00:18:40 -> 00:18:43]  Das Ganze machen wir mit so einer sogenannten Pipeline.
+[00:18:43 -> 00:18:45]  Das heißt, wir haben hier eine,
+[00:18:45 -> 00:18:47]  ja, gehen wir später noch ein bisschen genauer darauf ein,
+[00:18:47 -> 00:18:51]  das ist ein Build Server oder eine Kette von verschiedenen Dingen,
+[00:18:51 -> 00:18:53]  die dort automatisiert durchgeführt wird
+[00:18:53 -> 00:18:56]  und am Ende des Tages hier so ein Produkt bereitzustellen
+[00:18:56 -> 00:18:59]  und dieses Produkt können wir dann wieder dem Kunden zuführen
+[00:18:59 -> 00:19:01]  und der Kunde kann dann von sich aus sagen,
+[00:19:01 -> 00:19:03]  okay, bin ich total zufrieden mit,
+[00:19:03 -> 00:19:04]  oder da haben wir uns vielleicht ein bisschen missverstanden
+[00:19:04 -> 00:19:06]  oder jetzt, wo ich das gerade sehe, habe ich noch eine coole Idee.
+[00:19:06 -> 00:19:10]  Das heißt, wir entwickeln von Iteration zu Iteration,
+[00:19:10 -> 00:19:12]  entwickeln wir so, dass unser Kunde immer sagen kann,
+[00:19:12 -> 00:19:15]  direkt Einfluss auf die nächste Iteration geben kann
+[00:19:15 -> 00:19:18]  und uns neuen Input und neues wertvolles Feedback darüber geben kann,
+[00:19:18 -> 00:19:20]  wie diese Software weiterentwickelt werden soll.
+[00:19:20 -> 00:19:23]  Und das ist genau das, was ihr in der vorigen Grafik gesehen habt,
+[00:19:23 -> 00:19:27]  wie wir iterativ versuchen, agil quasi den Kundenwünschen zu folgen,
+[00:19:27 -> 00:19:29]  um nachher genau bei dem Ziel rauszukommen,
+[00:19:29 -> 00:19:31]  was der Kunde auch tatsächlich am Ende des Tages haben wollte.
+[00:19:36 -> 00:19:38]  Jetzt haben wir mal geklärt, was ist Agilität?
+[00:19:38 -> 00:19:42]  Agilität ist es also, wenn wir nicht nur in Iterationen entwickeln,
+[00:19:42 -> 00:19:45]  sondern immer nur portionsweise die Anforderungen von unserem Kunden holen
+[00:19:45 -> 00:19:48]  und nach jeder Iteration dem Kunden das funktionsfähige Zwischenprodukt
+[00:19:48 -> 00:19:50]  zur Verfügung stellen, uns Feedback darüber einholen
+[00:19:51 -> 00:19:53]  und dann gemeinsam mit dem Kunden die nächste Iteration planen,
+[00:19:53 -> 00:19:56]  so dass wir quasi immer die Kundenwünsche folgen,
+[00:19:56 -> 00:19:58]  wie wir das in der einen Grafik eindrucksvoll gesehen haben.
+[00:19:59 -> 00:20:01]  Jetzt habe ich ja mal eingangs erwähnt, nach dieser Definition,
+[00:20:01 -> 00:20:05]  dass es noch sowas wie agile Methoden gibt, agile Techniken gibt und so weiter
+[00:20:05 -> 00:20:07]  und unter anderem auch agile Prozesse.
+[00:20:07 -> 00:20:09]  Wir gucken uns jetzt mal diese agile Prozesse an.
+[00:20:09 -> 00:20:13]  Als die Agilität damals aufgekommen ist, so am Anfang der 2000er Jahre,
+[00:20:13 -> 00:20:16]  war der erste agile Prozess, also die Vorschrift,
+[00:20:16 -> 00:20:20]  wie man jetzt agil in so einem Prozesssoftware entwickelt,
+[00:20:20 -> 00:20:21]  das sogenannte Extreme Programming.
+[00:20:21 -> 00:20:23]  Das ist damals von Kent Beck, glaube ich, erfunden worden.
+[00:20:23 -> 00:20:25]  Ich weiß es gar nicht mehr genau.
+[00:20:25 -> 00:20:28]  Und auf jeden Fall Extreme Programming war so die erste Sammlung an Methoden,
+[00:20:28 -> 00:20:32]  die wir an die Hand bekommen haben, um agile Software zu entwickeln.
+[00:20:32 -> 00:20:35]  Diese Story Cards zum Beispiel waren in Extreme Programming drin.
+[00:20:35 -> 00:20:38]  Unit Tests war auch ein Bestandteil von Extreme Programming
+[00:20:38 -> 00:20:41]  und Test Driven Development ebenfalls, glaube ich, bin mir gar nicht genau sicher.
+[00:20:41 -> 00:20:44]  Aber es war damals so der erste Ansatz,
+[00:20:44 -> 00:20:49]  ein Prozessmusell zusammenzubauen, wo wir agile Software bereitstellen können.
+[00:20:49 -> 00:20:51]  Das Problem dabei war immer, dass die Anforderungsanalyse
+[00:20:51 -> 00:20:53]  so ein bisschen stiefmüterlich behandelt wurde.
+[00:20:53 -> 00:20:55]  Das heißt, für die Entwicklung gab es viele Vorschriften,
+[00:20:55 -> 00:20:58]  wie man Agilität umsetzen kann im Bereich der Anforderungen.
+[00:20:58 -> 00:21:00]  Meiner Meinung nach war das Ganze immer ein bisschen schwach.
+[00:21:00 -> 00:21:04]  Und dann ist irgendwann der Primus, auch das meistverwendete Prozess,
+[00:21:04 -> 00:21:08]  agile Prozessmodell von heute herausgekommen, nämlich Scrum.
+[00:21:08 -> 00:21:11]  Bei Scrum gibt es zwei sehr, sehr starke Prozessschritte.
+[00:21:11 -> 00:21:14]  Einmal die Anforderungsanalyse und dann eben die tatsächliche Produktentwicklung.
+[00:21:14 -> 00:21:18]  Und Scrum setzt diese ganzen agilen Werte,
+[00:21:18 -> 00:21:22]  dieses agile Manifest, diese agilen Mythologien und Dinge extrem gut um.
+[00:21:22 -> 00:21:24]  Wir haben am Anfang eine Anforderungsanalyse,
+[00:21:24 -> 00:21:27]  bei der eine separate Person, ein sogenannter Product Owner,
+[00:21:27 -> 00:21:30]  mit diesen Stakeholdern zusammen diese Anforderungen erarbeitet.
+[00:21:30 -> 00:21:33]  Die werden bei Scrum dann Product Backlog Item genannt.
+[00:21:33 -> 00:21:35]  Und danach gibt es dann einen 30-tägigen Sprint,
+[00:21:35 -> 00:21:38]  so nennt man die Iteration bei Scrum, bei dem das Ganze entwickelt wird.
+[00:21:38 -> 00:21:41]  Das ist jetzt nur eine Möglichkeit, ein agiler Prozess,
+[00:21:41 -> 00:21:43]  mit dem ich agile Software entwickeln kann.
+[00:21:43 -> 00:21:45]  Ein anderer zum Beispiel ist Kanban.
+[00:21:45 -> 00:21:48]  Kanban funktioniert ähnlich, auch da wird die Anforderungsermittlung
+[00:21:48 -> 00:21:51]  so ähnlich durchgeführt, wie wir es gerade bei Scrum gesehen haben.
+[00:21:51 -> 00:21:54]  Und danach entwickeln wir nicht in Iterationen,
+[00:21:54 -> 00:21:55]  sondern wir entwickeln in einem Flow.
+[00:21:55 -> 00:21:59]  Das heißt, wir haben einen Prozess und in diesem Prozess
+[00:21:59 -> 00:22:02]  darf immer nur eine gewisse Menge an Elementen bearbeitet werden,
+[00:22:02 -> 00:22:04]  bevor das nächste angefangen wird.
+[00:22:04 -> 00:22:07]  Und damit bekommen wir quasi so einen kontinuierlichen Feature Stream
+[00:22:07 -> 00:22:09]  durch unsere Entwicklung hindurch.
+[00:22:09 -> 00:22:11]  Wir wollen jetzt auch gar nicht so sehr in diese Bereiche reingehen,
+[00:22:11 -> 00:22:14]  aber erstmal agiles Softwareentwicklung beschreibt die Art und Weise,
+[00:22:14 -> 00:22:15]  wie wir das Ganze umsetzen.
+[00:22:15 -> 00:22:19]  Und dann gibt es dazu agile Prozesse wie Extreme Programming, Scrum, Kanban,
+[00:22:19 -> 00:22:21]  mit denen wir das Ganze dann konkreter machen können.
+[00:22:21 -> 00:22:22]  Wenn ihr das Ganze einführen wollt,
+[00:22:22 -> 00:22:25]  dann solltet ihr euch diese agilen Prozessmodelle mal anschauen,
+[00:22:25 -> 00:22:27]  weil es ist eigentlich immer in der Softwareentwicklung so,
+[00:22:27 -> 00:22:30]  entweder passt bei euch Scrum sehr gut und ihr könnt Scrum umsetzen
+[00:22:30 -> 00:22:32]  oder ihr könnt das Ganze mit Kanban machen.
+[00:22:32 -> 00:22:34]  Wenn ihr dazu mal noch ein paar Videos haben wollt,
+[00:22:34 -> 00:22:37]  schreibt es runter in die Kommentare, dann machen wir mal eins dazu.
+[00:22:37 -> 00:22:40]  Nachdem wir uns die Agilität jetzt allgemein angeschaut haben,
+[00:22:40 -> 00:22:41]  uns die agilen Prozesse angeschaut haben,
+[00:22:41 -> 00:22:44]  will ich noch auf einen Punkt ganz explizit hinweisen.
+[00:22:44 -> 00:22:45]  Ich habe schon gesagt, ich bin Berater
+[00:22:45 -> 00:22:47]  und ich bin öfters in Kundenprojekten unterwegs
+[00:22:47 -> 00:22:49]  und am Anfang analysiere ich Prozesse,
+[00:22:49 -> 00:22:52]  Entwicklung, Technologie-Stacks, Architektur und so weiter.
+[00:22:52 -> 00:22:54]  Und wenn es zu Prozesse geht, kommt immer ganz schnell die Aussage,
+[00:22:54 -> 00:22:57]  wir, der DIGE, entwickeln agil.
+[00:22:57 -> 00:22:59]  Und wenn man dann mal ein bisschen nachbaut,
+[00:22:59 -> 00:23:00]  dann findet man einfach heraus,
+[00:23:00 -> 00:23:04]  okay, die entwickeln zwar immer wieder ein bisschen agilere Prozesse,
+[00:23:04 -> 00:23:08]  okay, die entwickeln zwar immer wieder in so einer Art Iteration,
+[00:23:08 -> 00:23:09]  aber total planlos.
+[00:23:09 -> 00:23:13]  Mal dauert die eine Woche, mal zwei, mal drei, mal nur ein paar Tage.
+[00:23:13 -> 00:23:16]  Anwendungen werden nur hier und da mal bereitgestellt.
+[00:23:16 -> 00:23:17]  Anforderungsanalyse gibt es gar nicht.
+[00:23:17 -> 00:23:19]  So ein Erkunde ruft direkt beim Entwickler an.
+[00:23:19 -> 00:23:21]  Der Entwickler muss immer wieder direkt beim Kunden nachfragen.
+[00:23:21 -> 00:23:23]  Es ist also kein wirklicher Prozess
+[00:23:23 -> 00:23:25]  und es ist einfach nur eine rein chaotische Entwicklung.
+[00:23:25 -> 00:23:29]  Ganz, ganz wichtig ist es, dass ihr das nicht verwechselt.
+[00:23:29 -> 00:23:31]  Wenn wir so chaotisch wie gerade entwickeln,
+[00:23:31 -> 00:23:33]  oder wahrscheinlich werdet ihr auch da draußen genügend Beispiele haben,
+[00:23:33 -> 00:23:35]  wie gesagt, da freue ich mich nachher mal auf eure Kommentare,
+[00:23:35 -> 00:23:37]  hat das überhaupt nichts mit Agilität zu tun.
+[00:23:37 -> 00:23:39]  Agilität heißt einfach nur,
+[00:23:39 -> 00:23:40]  dass wir nicht in großen Blöcken entwickeln,
+[00:23:40 -> 00:23:43]  sondern dass wir in kurzen Iterationen entwickeln
+[00:23:43 -> 00:23:45]  und den Kunden mit einbeziehen.
+[00:23:45 -> 00:23:47]  Das heißt nicht, dass wir keine Anforderungsanalyse machen.
+[00:23:47 -> 00:23:50]  Das heißt auch nicht, dass wir in irgendeiner Art und Weise
+[00:23:50 -> 00:23:52]  keinen expliziten Prozess haben,
+[00:23:52 -> 00:23:54]  sondern quasi einfach nur frei Schnauze entwickeln,
+[00:23:54 -> 00:23:55]  sondern wir haben feste Prozesse,
+[00:23:55 -> 00:23:57]  wir haben eine feste Anforderungsanalyse,
+[00:23:57 -> 00:23:59]  aber wir machen das Ganze in kurzen Iterationen,
+[00:23:59 -> 00:24:01]  binden dabei den Kunden mit ein.
+[00:24:02 -> 00:24:05]  Ganz, ganz wichtig, dass ihr das nicht mit der chaotischen Softwareentwicklung
+[00:24:05 -> 00:24:07]  vermixt oder sonst irgendetwas,
+[00:24:07 -> 00:24:11]  sondern in der agilen Softwareentwicklung gibt es ganz, ganz, ganz klare Regeln.
+[00:24:11 -> 00:24:13]  Wie gesagt, dieses agile Manifest solltet ihr euch mal durchlesen,
+[00:24:13 -> 00:24:15]  wenn ihr in dem Bereich was machen wollt,
+[00:24:15 -> 00:24:17]  weil da werden diese Regeln relativ klar beschrieben.
+[00:24:17 -> 00:24:20]  Wenn ihr dann hingeht und nutzt eins dieser agilen Prozessmodelle,
+[00:24:20 -> 00:24:23]  die wir eben besprochen haben, heute ist es meistens Kanban oder Scrum,
+[00:24:23 -> 00:24:25]  dann solltet ihr peinlichst genau darauf achten,
+[00:24:25 -> 00:24:28]  dass ihr es auch genau so umsetzt, wie es gefordert ist.
+[00:24:28 -> 00:24:29]  Man kann da hier und da Anpassungen machen,
+[00:24:29 -> 00:24:32]  aber ihr müsst euch das so vorstellen, es gibt agile Methoden,
+[00:24:32 -> 00:24:34]  da gibt es ganz, ganz viele von.
+[00:24:34 -> 00:24:37]  Und diesen agilen Prozessmodellen Kanban und Scrum
+[00:24:37 -> 00:24:41]  sind gezielt bestimmte Methoden aus diesem Werkzeugkasten herausgenommen
+[00:24:41 -> 00:24:43]  und sind in so ein Prozessframework gegossen worden.
+[00:24:43 -> 00:24:46]  Und diese Methoden miteinander funktionieren extrem gut.
+[00:24:46 -> 00:24:50]  Wenn man aber einzelne Anpassungen macht aus eigener Motivation heraus,
+[00:24:50 -> 00:24:51]  dann kann es sein, dass man mit dieser Anpassung
+[00:24:51 -> 00:24:54]  das gesamte Prozessmodell komplett kaputt macht.
+[00:24:54 -> 00:24:57]  Bestes Beispiel, wenn ich in Scrum zum Beispiel keinen Scrum Master habe,
+[00:24:57 -> 00:25:00]  keinen dedizierten, dann ist der ganze Prozess für die Tonne.
+[00:25:00 -> 00:25:02]  Wenn ich in Scrum keine Richtungsperspektive mache,
+[00:25:02 -> 00:25:05]  habe ich keinen KVP, keinen kontinuierlichen Verbesserungsprozess,
+[00:25:05 -> 00:25:07]  ist das Ganze ebenfalls für die Tonne.
+[00:25:07 -> 00:25:09]  Deswegen geht mit euch selber hart ins Gericht
+[00:25:09 -> 00:25:11]  und versucht selber mal genau zu definieren,
+[00:25:11 -> 00:25:13]  seid ihr agil, ja oder nein?
+[00:25:13 -> 00:25:15]  Macht ihr Scrum, ja oder nein?
+[00:25:15 -> 00:25:16]  Und am Ende des Tages ist immer noch besser,
+[00:25:16 -> 00:25:19]  wenn ihr zu der ehrlichen Einsicht kommt, wir sind nicht agil,
+[00:25:19 -> 00:25:20]  wir haben einfach keinen Prozess entwickelt, chaotisch,
+[00:25:20 -> 00:25:24]  weil dann habt ihr ein gutes Resultat, auf dem ihr aufbauen könnt
+[00:25:24 -> 00:25:25]  und dann Richtung Agilität starten könnt,
+[00:25:25 -> 00:25:28]  Richtung einem konkreten agilen Prozessmodell,
+[00:25:28 -> 00:25:29]  wie Scrum oder Kanban gehen können.
+[00:25:29 -> 00:25:32]  Aber seid an der Stelle ehrlich, weil ich sehe das wirklich ganz,
+[00:25:32 -> 00:25:34]  ganz oft, sich selber in die Tasche zu krücken,
+[00:25:34 -> 00:25:35]  bringt an der Stelle überhaupt nichts.
+[00:25:40 -> 00:25:43]  Wir haben jetzt über eine ganze Menge Nachteile des Wasserfallmodells gesprochen,
+[00:25:43 -> 00:25:46]  auf der anderen Seite von den ganzen Vorteilen der agilen Softwareentwicklung.
+[00:25:46 -> 00:25:50]  Ich hatte schon versprochen, am Ende gebe ich euch mal meine Top 3 Vorteile
+[00:25:50 -> 00:25:52]  oder Geschenke, die ihr mit der Agilität bekommt.
+[00:25:52 -> 00:25:54]  Das sind nur drei von ganz, ganz, ganz vielen.
+[00:25:54 -> 00:25:57]  Also die agile Softwareentwicklung ist wirklich eine großartige Sache
+[00:25:57 -> 00:26:00]  und jeder von euch sollte sich genau mit diesem Thema beschäftigen.
+[00:26:00 -> 00:26:03]  Aber ich habe im Laufe der Zeit herausgefunden,
+[00:26:03 -> 00:26:07]  dass eine Reihe von Vorteilen da ist,
+[00:26:07 -> 00:26:08]  die die Kunden am Anfang gar nicht so wertschätzen
+[00:26:08 -> 00:26:10]  und nach vielen Jahren dann lieben.
+[00:26:10 -> 00:26:13]  Der erste Punkt ist zum Beispiel das direkte Kundenfeedback.
+[00:26:13 -> 00:26:16]  Wenn man in Unternehmen agile Softwareentwicklung einführt,
+[00:26:16 -> 00:26:18]  dann sehe ich das ganz oft, dass dort bereits eine gewisse Spannung ist
+[00:26:18 -> 00:26:20]  zwischen der Fachabteilung und den Softwareentwicklern
+[00:26:20 -> 00:26:23]  oder zwischen der Softwareentwicklungsabteilung und den zahlreichen Kunden.
+[00:26:23 -> 00:26:27]  In dem Moment, wo man switcht auf ein agiles Softwareentwicklungsmodell
+[00:26:27 -> 00:26:29]  und dieses Rapid Feedback von seinem Kunden bekommt,
+[00:26:29 -> 00:26:32]  der Kunde also in hoher Frequenz neue Softwareversionen bekommt
+[00:26:32 -> 00:26:35]  und immer wieder quasi direkt Einfluss auf die nächste Iteration nehmen kann,
+[00:26:35 -> 00:26:39]  sorgt das einfach für ein unglaubliches Zusammenhörigkeitsgefühl,
+[00:26:39 -> 00:26:41]  für eine unglaublich enge Kundenbindung
+[00:26:41 -> 00:26:44]  und für unglaublich gute Ergebnisse, die wir mit diesen Sprints erzielen.
+[00:26:44 -> 00:26:47]  Deswegen ist für mich der erste unglaublich positive Punkt
+[00:26:47 -> 00:26:51]  dieses direkte Kundenfeedback und diese nahe Zusammenarbeit,
+[00:26:51 -> 00:26:53]  die man dadurch mit dem Kunden bekommt.
+[00:26:53 -> 00:26:55]  Dieses Horrorszenario, was ich beschrieben habe,
+[00:26:55 -> 00:26:57]  dass irgendwann ein Stück Software rauskommt und der Kunde sagt,
+[00:26:57 -> 00:27:00]  wow, das habe ich überhaupt nicht bestellt, da kann ich nichts mit anfangen,
+[00:27:00 -> 00:27:03]  habe ich in der agilen Softwareentwicklung einfach noch nie erlebt.
+[00:27:03 -> 00:27:08]  So, der zweite große Vorteil sind natürlich die schnellen Time-to-Markets.
+[00:27:08 -> 00:27:11]  Ich kenne viele Kunden, die in ihrem Bereich Marktführer sind,
+[00:27:11 -> 00:27:15]  die Softwaresysteme entwickelt haben für gewisse Nischen
+[00:27:15 -> 00:27:18]  und unglaublich viele Kunden haben und unglaublich arrogant sind
+[00:27:18 -> 00:27:22]  und denken, dass sie an diesem Bereich überhaupt nicht angegriffen werden können.
+[00:27:22 -> 00:27:26]  Und dann kommt ein kleines Startup und dieses kleine Startup entwickelt agil
+[00:27:26 -> 00:27:29]  und ist unglaublich schnell in der Lage, neue Softwareversionen rauszubringen
+[00:27:29 -> 00:27:31]  und neue Features rauszubringen, die der Markt gerade braucht,
+[00:27:31 -> 00:27:34]  während die mit klassischer Anwendungsentwicklung,
+[00:27:34 -> 00:27:37]  meistens auch mit großen Monolithen, eben nicht mehr so flexibel sind,
+[00:27:37 -> 00:27:38]  nicht mehr so agil sein können.
+[00:27:38 -> 00:27:40]  Und dann habe ich schon oft jetzt erlebt,
+[00:27:40 -> 00:27:43]  dass eben solche kleinen Unternehmen die großen ruckzuck eingeholt haben
+[00:27:43 -> 00:27:47]  und ruckzuck quasi große Kundenmengen abgeworben haben
+[00:27:47 -> 00:27:50]  und mein Kunde dann in große Probleme gekommen ist.
+[00:27:50 -> 00:27:52]  Deswegen, da müsst ihr halt auch immer ein bisschen drüber nachdenken,
+[00:27:52 -> 00:27:55]  wir reden hier oft natürlich nur über die Entwicklungsvorteile, klar,
+[00:27:55 -> 00:27:58]  aber aus geschäftsstrategischer Sicht sind diese Time-to-Markets heute,
+[00:27:58 -> 00:28:00]  wo immer mehr Software da ist, wo immer mehr Systeme da sind,
+[00:28:00 -> 00:28:03]  die IT eine immer größere Rolle spielt, einfach unfassbar wichtig.
+[00:28:03 -> 00:28:05]  Und wenn ihr Time-to-Markets aus agiler Softwareentwicklung
+[00:28:05 -> 00:28:08]  mit der traditionellen vergleicht, sind da einfach Welten zwischen.
+[00:28:08 -> 00:28:12]  Heute mit klassischer Softwareentwicklung zu arbeiten, ist ein unglaublich großes Risiko.
+[00:28:12 -> 00:28:15]  Der dritte und letzte Punkt, mein persönlicher Liebling,
+[00:28:15 -> 00:28:17]  doch das ist mein Platz eins, ich mache jetzt doch ein Ranking,
+[00:28:17 -> 00:28:21]  das ist KVP, kontinuierliche Verbesserungsprozesse,
+[00:28:21 -> 00:28:25]  vollständig ausgeschrieben, das ist in Scrum zum Beispiel die Retrospektive.
+[00:28:25 -> 00:28:27]  Wenn ich etwas wiederholend mache,
+[00:28:27 -> 00:28:29]  wenn ich immer wieder in Iterationen irgendetwas mache,
+[00:28:29 -> 00:28:31]  habe ich am Anfang der Iteration immer die Möglichkeit,
+[00:28:31 -> 00:28:33]  alles besser zu machen als beim letzten Mal.
+[00:28:33 -> 00:28:36]  Deswegen gibt es Supervisionen, deswegen gibt es in Scrum die Retrospektive
+[00:28:36 -> 00:28:39]  und in diesem Meeting setze ich mich hin und überlege,
+[00:28:39 -> 00:28:41]  was habe ich im letzten Sprint schlecht gemacht
+[00:28:41 -> 00:28:43]  und in der letzten Iteration, was ist schief gelaufen,
+[00:28:43 -> 00:28:44]  was haben wir nicht gut gemacht
+[00:28:44 -> 00:28:46]  und wie können wir das im nächsten Sprint besser machen.
+[00:28:46 -> 00:28:47]  Und was haben wir gut gemacht
+[00:28:47 -> 00:28:49]  und wie kann ich das Ganze für den nächsten Sprint konservieren.
+[00:28:49 -> 00:28:50]  Wenn man das wirklich ernst nimmt
+[00:28:50 -> 00:28:53]  und wenn man das kontinuierlich mit einer gewissen Hingabe macht,
+[00:28:53 -> 00:28:55]  dann kann man unglaublich gute Dinge erreichen.
+[00:28:55 -> 00:28:57]  Wenn ich mir Scrum anschaue, Scrum richtig mache
+[00:28:57 -> 00:28:59]  und nochmal immer einen Scrum Master habe,
+[00:28:59 -> 00:29:00]  immer eine Retrospektive mache,
+[00:29:00 -> 00:29:02]  die wichtigsten Dinge bei Scrum, meiner Meinung nach,
+[00:29:02 -> 00:29:04]  dann können wir nach sechs, sieben Sprints
+[00:29:04 -> 00:29:06]  eine dermaßen hohe Performance erreicht haben,
+[00:29:06 -> 00:29:08]  wo alle Entwickler sich wohlfühlen,
+[00:29:08 -> 00:29:09]  wo die Kunden super mit eingebunden sind,
+[00:29:09 -> 00:29:11]  wo alle Prozesse automatisiert sind,
+[00:29:11 -> 00:29:14]  wo die Systeme weitestgehend automatisiert sind und so weiter und so fort.
+[00:29:14 -> 00:29:18]  Es ist einfach ein unglaublich tolles und schönes Arbeiten,
+[00:29:18 -> 00:29:19]  wenn man quasi nach jeder Iteration
+[00:29:19 -> 00:29:21]  die nächste Iteration noch besser machen kann.
+[00:29:21 -> 00:29:24]  Und ganz ehrlich, das ist definitiv mein Lieblingspunkt.
+[00:29:24 -> 00:29:25]  Deswegen nochmal zusammengefasst.
+[00:29:25 -> 00:29:28]  Einmal das direkte Kundenfeedback,
+[00:29:28 -> 00:29:30]  dann zwei, die schnelleren Time-to-Markets
+[00:29:30 -> 00:29:32]  und drei, und da profitieren wir Entwickler ganz besonders von,
+[00:29:32 -> 00:29:36]  kontinuierliche Verbesserung ist einfach einer der wichtigsten Dinge
+[00:29:36 -> 00:29:38]  in so einem Push-Prozess wie der Softwareentwicklung.
+[00:29:38 -> 00:29:40]  Und allein deswegen solltet ihr alle euch
+[00:29:40 -> 00:29:42]  mit agiler Softwareentwicklung beschäftigen.
+[00:29:42 -> 00:29:44]  Am Ende interessiert mich natürlich auch, was denkst du?
+[00:29:44 -> 00:29:47]  Was sind deine Top drei Gründe, die drei Top Benefits,
+[00:29:47 -> 00:29:49]  die du hattest, als euer Unternehmen
+[00:29:49 -> 00:29:51]  die agile Softwareentwicklung angeführt hat?
+[00:29:51 -> 00:29:53]  Schreibt es mal wieder runter in die Kommentare.
+[00:29:53 -> 00:29:55]  Lasst uns mal wieder über das Thema diskutieren.
+[00:29:55 -> 00:29:58]  Das hat schon in den letzten Videos echt großartig funktioniert.
+[00:29:58 -> 00:30:00]  Wir haben jetzt in diesem Video mal einen Überblick gegeben
+[00:30:00 -> 00:30:02]  über die agile Softwareentwicklung.
+[00:30:02 -> 00:30:05]  Und nachdem wir jetzt agil Anforderungen ermitteln können,
+[00:30:05 -> 00:30:08]  agil das Ganze entwickeln, ist nur noch ein großes Fragezeichen über dem,
+[00:30:09 -> 00:30:13]  wie liefere ich jetzt diese Software agil schnell zu meinem Kunden?
+[00:30:13 -> 00:30:15]  Und damit kommen wir dann zum Thema DevOps.
+[00:30:15 -> 00:30:17]  Aber dazu mehr im nächsten Video.
+[00:30:17 -> 00:30:19]  Ich hoffe, dir hat dieses Video gefallen.
+[00:30:19 -> 00:30:21]  Ich hoffe, das Video hat dich wieder ein kleines Stückchen
+[00:30:21 -> 00:30:22]  weiter nach vorne gebracht.
+[00:30:22 -> 00:30:24]  Und wie immer am Ende, wenn es dir gefallen hat
+[00:30:24 -> 00:30:26]  und du dem Kanal helfen willst, die Reichweite erhöhen willst,
+[00:30:26 -> 00:30:27]  gib dem Video einen Daumen hoch.
+[00:30:27 -> 00:30:29]  Wenn du noch nicht abonniert hast, dann mach das.
+[00:30:29 -> 00:30:31]  Und ich würde jetzt sagen, ich wünsche dir einen schönen Tag.
+[00:30:31 -> 00:30:33]  Viel Spaß bei der Arbeit.
+[00:30:33 -> 00:30:35]  Bis zum nächsten Mal. Ciao. Mach's gut.

@@ -1,0 +1,171 @@
+[00:00:00 -> 00:00:05]  Hey guys, David here, and welcome to this video. 3D printers are great. You can print a whole bunch
+[00:00:05 -> 00:00:10]  of stuff and there are millions of models already available on platforms like Thingiverse and many
+[00:00:10 -> 00:00:14]  others. But just printing models that other people made kind of gets old after a while.
+[00:00:15 -> 00:00:19]  So you do want to create your own 3D models, but which software should you use?
+[00:00:20 -> 00:00:25]  So in this video, I'm going to compare some of the most popular options that are really
+[00:00:25 -> 00:00:31]  well suited for 3D printing and that are also all conveniently free, at least in the version
+[00:00:31 -> 00:00:36]  that we're going to use them. Now, the loyal followers of this channel might think they're
+[00:00:36 -> 00:00:41]  having deja vu, but it's not new. I actually have made similar videos like this one before,
+[00:00:41 -> 00:00:48]  but the last one is over two years ago and even me just watching that video, I get super cringed
+[00:00:48 -> 00:00:53]  out and it really is not that great. So I'm going to try to make this video a lot better and I'll
+[00:00:53 -> 00:00:57]  also put in some other programs that I haven't previously mentioned that might have come up newer
+[00:00:57 -> 00:01:03]  or that other programs have been updated since I made the video. So I think it is well warranted
+[00:01:03 -> 00:01:09]  to have another video. I also want to give a big thanks to Endurance Lasers for sponsoring this
+[00:01:09 -> 00:01:16]  video. They offer a wide variety of lasers that you can attach to your 3D printer or CNC router
+[00:01:16 -> 00:01:22]  machine or whatever you already have and easily convert them into a CNC laser engraver and even
+[00:01:22 -> 00:01:27]  cutter. They have a whole range of different power outputs depending on what you need and since the
+[00:01:28 -> 00:01:33]  helices are all diode based, they're super easy to set up and control. So if you want to learn
+[00:01:33 -> 00:01:37]  more about Endurance Lasers, make sure to check out the link in the description. So now, since
+[00:01:37 -> 00:01:42]  it's not much use just talking about the programs, we're actually going to go over to the computer
+[00:01:42 -> 00:01:47]  and I'm going to show you with a screen capture what these programs are like and what the pros
+[00:01:47 -> 00:01:52]  and cons are. So here we are inside of our first contester. It's Tinkercad. I've previously already
+[00:01:52 -> 00:01:57]  featured it and it still is by far just the easiest CAD program to learn. All you gotta do
+[00:01:57 -> 00:02:02]  is find the shape you want here on the side. Let's say we want something that is somewhat rectangular
+[00:02:02 -> 00:02:08]  then we can just start off with the box, drag it here into the scene and resize it to the size that
+[00:02:08 -> 00:02:14]  we need it. Let's say we need a little bit bigger but not as tall, only four millimeters thick and
+[00:02:14 -> 00:02:20]  then what we need is a cylindrical hole in here. Then either we can already take the hole here or
+[00:02:20 -> 00:02:25]  we can even start off with a cylinder, put it here and oh we don't want a solid cylinder, we actually
+[00:02:25 -> 00:02:34]  want it to be a hole. So we use the hole here, resize it to the size we want and here we then
+[00:02:34 -> 00:02:41]  already have a hole inside of this plate. Now you also have even more shapes. There's a whole bunch
+[00:02:41 -> 00:02:48]  of stuff here that is available. If you want to add maybe some character, you want to add
+[00:02:48 -> 00:02:55]  this astrobot into here, add a second one or oh we didn't want a second one, let's just delete it.
+[00:02:56 -> 00:03:04]  It's just super easy to get around and once you save it and export it, it's already ready to print
+[00:03:04 -> 00:03:12]  since it's all saved in stl files. So if you just want to get something very simple done or you
+[00:03:12 -> 00:03:18]  maybe want your kids to get into 3d modeling then you really can't go wrong with Tinkercad.
+[00:03:19 -> 00:03:24]  But if you want just a bit more granular control than in Tinkercad and a bit more features maybe
+[00:03:24 -> 00:03:31]  then let's move on to the second program that I'm going to show you. Here we are inside of Sketchup
+[00:03:31 -> 00:03:37]  and it actually used to be a desktop program but now Sketchup is also available inside of
+[00:03:37 -> 00:03:41]  your browser which just makes it even more easy and you don't have to install anything.
+[00:03:43 -> 00:03:49]  Now there is a pro version of Sketchup that does cost some money but for just simple projects the
+[00:03:49 -> 00:03:55]  free version is more than enough. Here on the left we have our tool panel where we can choose
+[00:03:55 -> 00:04:00]  what we want to do. Let's start off with a rectangular sketch here. Let's do it on the
+[00:04:00 -> 00:04:08]  bottom here. This gives us our sketch and then we can also, we could add even more detail to it
+[00:04:08 -> 00:04:15]  but let's just take this sketch and extrude it, give it some height. Let's say right about here
+[00:04:16 -> 00:04:24]  and then we maybe want to add some holes into it just like before. We can just create another
+[00:04:24 -> 00:04:32]  sketch here with all the holes that we want and then we can use this tool again and maybe
+[00:04:33 -> 00:04:42]  this is actually not what I wanted to do but we can then just simply like that create a hole into
+[00:04:42 -> 00:04:51]  our part here and if you want more than that you can of course there are more features available.
+[00:04:51 -> 00:04:57]  You can also use this other sidebar here where you can do things like change the color of it. Let's
+[00:04:57 -> 00:05:04]  say here we take the gray paint bucket and then we can paint it gray. There's also a whole
+[00:05:05 -> 00:05:12]  components warehouse. Well let's say we want to add some bolts to this. We just search for bolt
+[00:05:12 -> 00:05:18]  here and then it gives us a whole list of different things. There are actually 2400
+[00:05:19 -> 00:05:25]  pages just for bolts so you might want to specify it a bit more but let's say we want this one we
+[00:05:25 -> 00:05:33]  just download it real quick and add it in here and we already have the bolts inside of the model now.
+[00:05:34 -> 00:05:39]  Now it's of course way too big but we can easily fix that by scaling it up.
+[00:05:42 -> 00:05:46]  So as you can see it is super easy to get started here in Sketchup
+[00:05:46 -> 00:05:54]  and you can also get into a lot more complicated things as you do have a bit more features than
+[00:05:54 -> 00:05:58]  inside of Tinkercad where it is limited to the basic shapes. Here you can create basically
+[00:05:58 -> 00:06:04]  anything. There's arcs and whatnot and all the different features that you could want.
+[00:06:05 -> 00:06:10]  You can however notice that a lot of the features inside of Sketchup are more targeted towards
+[00:06:10 -> 00:06:14]  architectural design since that is what Sketchup was originally designed to do.
+[00:06:15 -> 00:06:20]  So let's take a look at a different program that is really designed to create parts and
+[00:06:21 -> 00:06:29]  more mechanical designs. Here we have Onshape. Now Onshape is really quite popular
+[00:06:30 -> 00:06:36]  and they have gone through a couple of different acquisitions but it still is the same program.
+[00:06:36 -> 00:06:44]  Now there is a slight caveat. While as a hobbyist you get all the features of Onshape
+[00:06:44 -> 00:06:49]  completely for free you are required to automatically share all your designs as
+[00:06:49 -> 00:06:55]  open source. Now for some of you that might not be a big deal. If you just want to design a new
+[00:06:55 -> 00:07:00]  knob for the kitchen cabinet you really probably don't care if this design is open source or not.
+[00:07:00 -> 00:07:04]  But if you only use the CAD programs to maybe create some designs for your business or something
+[00:07:04 -> 00:07:10]  then maybe all your designs automatically being shared under an open source license is
+[00:07:10 -> 00:07:15]  not the best thing. And once you want to buy Onshape it is actually kind of expensive.
+[00:07:16 -> 00:07:22]  So I'm just gonna quickly go over it. It works quite a bit different than the previous ones as
+[00:07:22 -> 00:07:28]  it is fully parametric. And if you have never heard of parametric design then let me just
+[00:07:28 -> 00:07:34]  quickly show you that here on the side you basically have your timeline. All the different
+[00:07:34 -> 00:07:41]  things that were done are available here. First we started out with this simple sketch
+[00:07:41 -> 00:07:48]  that we created and then we extruded it. And then we went on to a different sketch which we also
+[00:07:48 -> 00:07:54]  extruded to create this other shape here. And then with some more sketches we created these holes.
+[00:07:54 -> 00:07:59]  And these fillets and all these are separate steps. But what the really cool thing is now that
+[00:07:59 -> 00:08:05]  we just don't just see all the things here but we can actually go into let's say this fillet.
+[00:08:05 -> 00:08:12]  And oh maybe it was kind of a bit too big so let's decrease it to five millimeters. And
+[00:08:14 -> 00:08:21]  click the green button and it all dynamically updates. So no matter how much more things
+[00:08:21 -> 00:08:26]  you've added to it you can go even as far back as your very first sketch. Go in here and maybe
+[00:08:26 -> 00:08:33]  let's say this dimension actually should have been 62. So you change it to 62 and it all dynamically
+[00:08:33 -> 00:08:40]  updates. And this is really just extremely powerful and can save you hours upon hours of
+[00:08:40 -> 00:08:45]  time just redoing steps because you needed to change some dimensions or there is just something
+[00:08:45 -> 00:08:53]  else that you forgot or have to change. There also are just a plethora of different
+[00:08:54 -> 00:08:59]  things that you can do. You can of course add chamfers, do extrudes, you can add ribs to support,
+[00:09:00 -> 00:09:07]  you can also work with sheet metal and make joints and all that good stuff. So it really is a
+[00:09:08 -> 00:09:13]  very professional program that you can easily design a machine inside of this program
+[00:09:13 -> 00:09:20]  and go on to manufacturing it. But still it is just kind of limited in its free version. So I'm
+[00:09:20 -> 00:09:25]  going to show you a different program that I actually use all the time. It's my main program
+[00:09:25 -> 00:09:34]  and that is Fusion 360. It has a lot of similarities to Onshape as it is also fully parametric but it
+[00:09:34 -> 00:09:42]  is not browser-based. It's actually downloaded and it also is free but it actually is free for
+[00:09:42 -> 00:09:47]  hobbyists and also even startups. As long as you make I think below a hundred thousand a year you
+[00:09:47 -> 00:09:54]  can get a free hobbyist license for this program. Now they do change it all the time how exactly you
+[00:09:54 -> 00:09:58]  have to go about it but I believe last I checked you had to download the free trial and then
+[00:09:59 -> 00:10:05]  somewhere up here click something and find the small button that gives you access to the hobbyist
+[00:10:05 -> 00:10:11]  license. But don't worry guys it's not gone even though it might not be featured as prominently
+[00:10:11 -> 00:10:17]  anymore on their website. So here's just a simple part that I actually used very recently. It's a
+[00:10:17 -> 00:10:23]  little part that I 3d printed that I used to transfer some balls screw nuts and here we have
+[00:10:23 -> 00:10:29]  the timeline here in the bottom. So I started off with just a simple cylinder and then added some
+[00:10:29 -> 00:10:37]  threads to it and then later I rounded over some of the parts here and then added the holes into it
+[00:10:38 -> 00:10:46]  and here I can once again could easily here go to have all the bodies here and if I had sketches
+[00:10:46 -> 00:10:53]  I could also easily edit those. And I just wanted to quickly show you what happens if you have a bit
+[00:10:53 -> 00:10:58]  of a more complicated project. Here is my CNC conversion project and as you can see this is
+[00:10:58 -> 00:11:04]  quite a complex program. I have a whole bunch of different bodies here. I also have like animated
+[00:11:04 -> 00:11:12]  hinges here. I can move all the stuff around here and it's just really really powerful and it's
+[00:11:12 -> 00:11:18]  actually kind of easy to get started. You do have to watch a couple tutorials but once you get the
+[00:11:18 -> 00:11:24]  hang of it it's not that bad. And even here I could go back into every single step and just
+[00:11:24 -> 00:11:33]  change the little settings and modify the design however I choose. Think just a quick look over here
+[00:11:33 -> 00:11:39]  we of course have all the functions that you want like extrude, revolve, sweeps, lofts,
+[00:11:39 -> 00:11:45]  trading ribs. You can also then of course modify them in every way that you wanted.
+[00:11:46 -> 00:11:51]  And here we also have different workspaces. The design workspace is where you do your 3d modeling
+[00:11:51 -> 00:11:57]  but you can also render your things. You can create animations like those beautiful exploding
+[00:11:57 -> 00:12:05]  shots of your machine or whatever is all possible within here. You can even do simulations where you
+[00:12:05 -> 00:12:11]  find out where the stress points are and how much strength you need to add. Stuff like that.
+[00:12:12 -> 00:12:18]  And then in the end you can just simply export it to your 3d printer and you can even send it
+[00:12:18 -> 00:12:24]  directly to cura and other 3d printing software. Or if you want to manufacture your design some
+[00:12:24 -> 00:12:30]  other way you can easily create drawings and even these drawings update them and dynamically. If I
+[00:12:30 -> 00:12:35]  change some dimensions inside of the design that affect this drawing then this drawing will also
+[00:12:35 -> 00:12:43]  be updated. That's just the power of parametric design for you. But while fusion 360 is a dedicated
+[00:12:43 -> 00:12:48]  program on your computer all the data is still saved in the cloud and I know that some of you
+[00:12:48 -> 00:12:54]  might have an issue with that. Also you aren't guaranteed to always have free access to it.
+[00:12:54 -> 00:13:01]  The free hobbyist license is always renew for one year only so you never know if maybe next year you
+[00:13:01 -> 00:13:07]  can't get a free license anymore and you can't really access your designs anymore. If you are
+[00:13:07 -> 00:13:14]  worried about that then the answer to your worries is FreeCAD. It's basically the open source CAD
+[00:13:14 -> 00:13:21]  that can do everything. There are a million different workspaces in here from just simple
+[00:13:21 -> 00:13:29]  modeling to 2d sketches. You can do spreadsheets with complicated design changes in it. You can
+[00:13:29 -> 00:13:38]  even create toolpaths for CNC milling or within this program. Now it is quite a handful to learn
+[00:13:38 -> 00:13:44]  and it does have some particular ways that it needs to be used which may be a bit higher of
+[00:13:44 -> 00:13:48]  a learning curve than the previously mentioned programs but once you get a hang of it it's a
+[00:13:48 -> 00:13:54]  really great program. And yet again here we have the design history here basically
+[00:13:55 -> 00:14:01]  where we can just go into the sketch for this pocket here we can extend this let's say
+[00:14:03 -> 00:14:05]  let's say we want to make this pocket longer here
+[00:14:07 -> 00:14:13]  update and close and as you can see the pocket is now longer and the design is dynamically updated.
+[00:14:13 -> 00:14:20]  In regards to time I won't go into too much more detail on the particular ways that you can use it
+[00:14:20 -> 00:14:27]  in the feature set it basically is very similar to Fusion 360 and actually does have some workspaces
+[00:14:27 -> 00:14:33]  that are different programs when you go with Autodesk. These were the main programs that I
+[00:14:33 -> 00:14:38]  wanted to feature but I also have some kind of more honorable mentions. For example if we go
+[00:14:39 -> 00:14:45]  back to browser-based programs we have selfcat here. Now the free definition is kind of sketchy
+[00:14:45 -> 00:14:50]  here since while you can create all the models for free if you actually want to download the
+[00:14:50 -> 00:14:56]  model and an STL or something you do have to pay your monthly subscription which is like 15 bucks
+[00:14:56 -> 00:15:02]  a month. It's not that expensive actually for 3d modeling programs but the other reason why I wanted
+[00:15:02 -> 00:15:07]  to feature this program is while it is a very powerful program and has a lot of features it is
+[00:15:07 -> 00:15:11]  not parametric and that's not a bad thing it's just a very different way of working.
+[00:15:14 -> 00:15:19]  Here instead of creating sketches and then basing all your designs on that
+[00:15:20 -> 00:15:26]  we are you can easily deform these you can twist all of these designs and
+[00:15:28 -> 00:15:35]  you can also directly edit the individual points. I could easily just move this individual point
+[00:15:35 -> 00:15:42]  here I can select this individual point and then move it around and modify my design in this way.
+[00:15:43 -> 00:15:50]  There also is a sculpting workspace where I can actually use sculpting brushes to modify my design.
+[00:15:53 -> 00:15:56]  I have to maybe choose one that makes actually makes sense here
+[00:15:57 -> 00:16:01]  and as you can see I'm like smoothing over this corner and this way you can actually
+[00:16:02 -> 00:16:07]  really create some organic looking models which is really hard with the previously mentioned
+[00:16:07 -> 00:16:12]  programs. They all basically allow you to create geometric designs very easily but as soon as you
+[00:16:12 -> 00:16:17]  want something that is organic that has curves and maybe three-dimensional smooth surfaces
+[00:16:19 -> 00:16:25]  it really just gets hard. You couldn't design a mannequin that has some really organic looking
+[00:16:25 -> 00:16:32]  features inside of Fusion 360. Well there is always a way but it would be a lot harder than
+[00:16:32 -> 00:16:38]  inside a program like selfcat here. And the last honorable mention that I want to give is OpenSCAD.
+[00:16:39 -> 00:16:45]  It is once again extremely different than all the programs mentioned as in that you don't move
+[00:16:45 -> 00:16:50]  anything in the graphical user interface. It's all co-based. Basically if you want a cube you just
+[00:16:50 -> 00:16:58]  write a cube and then the parameters the size that where you want it positioned and that way
+[00:16:58 -> 00:17:04]  you can also create designs that are very very parametric. It is just a very different way of
+[00:17:04 -> 00:17:10]  working and probably not the fastest unless you have some very specific use cases where this is
+[00:17:10 -> 00:17:16]  the ideal program. So I hope you found a program in the list that I just showed you that fits what
+[00:17:16 -> 00:17:22]  you want to do and if you have other programs that you love and I haven't mentioned since I
+[00:17:22 -> 00:17:26]  can not mention all of them. There are way too many out there. Make sure to leave them down in
+[00:17:26 -> 00:17:31]  the comments so that other people reading the comments have the possibility to find even more
+[00:17:31 -> 00:17:36]  options if they didn't find something in this list. So make sure to like, comment and subscribe
+[00:17:36 -> 00:17:41]  and also share this video to all the people that you think might be interested in this topic.
+[00:17:41 -> 00:17:46]  You can't always rely on the YouTube algorithm to serve the video to the people that are actually
+[00:17:46 -> 00:17:52]  interested in the topic. So by you sharing the video you help me out a great deal and hopefully
+[00:17:52 -> 00:17:58]  also the other people that can see the video. So thanks for watching and until next time!

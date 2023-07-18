@@ -1,0 +1,87 @@
+[00:00:00 -> 00:00:05]  Assalamualaikum and welcome to another exciting video on IT and Automation Academy's YouTube
+[00:00:05 -> 00:00:06]  channel.
+[00:00:06 -> 00:00:12]  In this video, we are going to learn about DCS, Distributed Control System.
+[00:00:12 -> 00:00:16]  If you guys haven't watched our earlier video and you want to know the difference between
+[00:00:16 -> 00:00:22]  PLC and DCS, there's a link on the screen, you have to just click on that and watch it.
+[00:00:22 -> 00:00:27]  In this video, we are not going to talk about the difference between PLC and DCS, rather
+[00:00:27 -> 00:00:32]  we will focus only on DCS, Distributed Control System.
+[00:00:32 -> 00:00:38]  When we talk about DCS, it's a computerized control system for processes and plants that
+[00:00:38 -> 00:00:44]  consist of large number of the control loops, especially analog one, in which, you know,
+[00:00:44 -> 00:00:49]  your controllers are actually distributed, like you got different areas and each area
+[00:00:49 -> 00:00:50]  have its own controller.
+[00:00:50 -> 00:00:56]  So in short, if in the case we talk about the DCS, DCS is very much famous in the industries
+[00:00:56 -> 00:01:03]  like petrochemical, fertilizer, oil and gas industries, and all big plants like power
+[00:01:03 -> 00:01:06]  plants, you will definitely see DCS there.
+[00:01:06 -> 00:01:11]  First thing is definitely process and you know that in a process industry, there are
+[00:01:11 -> 00:01:16]  different parameters, you have to sense them and you need instrumentation for that.
+[00:01:16 -> 00:01:20]  First and foremost important thing, if you focus on my cursor here, you can see that
+[00:01:20 -> 00:01:22]  that's a process.
+[00:01:22 -> 00:01:27]  And in a process industry, you got few important parameters like temperature, flow, level,
+[00:01:27 -> 00:01:34]  speed, you know, density, and these all sort of things actually require instrumentation
+[00:01:34 -> 00:01:38]  to measure pressure, level, flow, temperature, all these sort of parameters.
+[00:01:38 -> 00:01:43]  You can see here we got different instrumentations like transmitters, we got in, and we got some
+[00:01:43 -> 00:01:48]  final control elements like you can see here, control walls, you can have a fans, you can
+[00:01:48 -> 00:01:53]  have a motors, these all things actually lies on your field level.
+[00:01:53 -> 00:01:59]  And then after that, on a DCS network, you see here, you got in three areas here, and
+[00:01:59 -> 00:02:05]  each area have its own unique controller, rather relying on one controller, you put
+[00:02:05 -> 00:02:10]  in three different areas have its own DCS controller system.
+[00:02:10 -> 00:02:17]  One thing to clarify here, in a DCS network, in this DCS control cabinet, you would have
+[00:02:17 -> 00:02:20]  two controllers instead of one.
+[00:02:20 -> 00:02:23]  So one would be your main controller, and one would be redundant controller.
+[00:02:23 -> 00:02:30]  For instance, in this unit, if DCS controller by any means stop working, like your one controller
+[00:02:30 -> 00:02:35]  stop working, you got in redundant controller to take care about the job, you got another
+[00:02:35 -> 00:02:41]  unit and you got in, you know, third unit and these each unit have its own similar kind
+[00:02:41 -> 00:02:42]  of a system.
+[00:02:42 -> 00:02:47]  So one thing to understand, like PLCs, you got in here, put modules, you got in power
+[00:02:47 -> 00:02:53]  supply, similar way you got output modules, you got digital ins, digital out, analog ins
+[00:02:53 -> 00:02:55]  and analog out.
+[00:02:55 -> 00:03:00]  If signal is coming from the transmitters, it have to go to analog input module, which
+[00:03:00 -> 00:03:04]  would be here, one card here, it start with the TBs, domino blocks, and then from there
+[00:03:04 -> 00:03:08]  on, you got that connection to analog input module.
+[00:03:08 -> 00:03:12]  So similar way you got in some digital signals in the field.
+[00:03:12 -> 00:03:17]  So if in the case you want to brought in into the DCS network, that would get into your
+[00:03:17 -> 00:03:19]  digital input card.
+[00:03:19 -> 00:03:25]  And then similar way you got digital output cards and you got some analog output cards.
+[00:03:25 -> 00:03:29]  There on, these all controllers are actually connected to single common network.
+[00:03:29 -> 00:03:34]  You can see here, these all three controllers are actually three areas are actually connected
+[00:03:34 -> 00:03:37]  to each other through control network.
+[00:03:37 -> 00:03:42]  And these are all sharing the data to one network, which is actually going to be connected
+[00:03:42 -> 00:03:45]  to your control room environment.
+[00:03:45 -> 00:03:49]  You got in some very important components in your control room.
+[00:03:49 -> 00:03:53]  So first and foremost, important thing is your engineering workstation.
+[00:03:53 -> 00:03:54]  What is that actually?
+[00:03:54 -> 00:03:59]  Engineering workstation is there to actually program these all controllers and also to
+[00:03:59 -> 00:04:01]  program the graphics you can see here.
+[00:04:01 -> 00:04:04]  And then you got an OPC server here.
+[00:04:04 -> 00:04:06]  What is the purpose of OPC server?
+[00:04:06 -> 00:04:12]  OPC server connects your DCS system to any third party device that can be SCADA, that
+[00:04:12 -> 00:04:16]  can be any other device that requires the information that requires the tags that are
+[00:04:16 -> 00:04:18]  like temperatures, pressure level and flow.
+[00:04:18 -> 00:04:24]  All the tags that are in DCS can be actually exchanged to any third party device by using
+[00:04:24 -> 00:04:25]  that OPC server.
+[00:04:25 -> 00:04:27]  What is the purpose of this historian?
+[00:04:27 -> 00:04:30]  That's very important to understand.
+[00:04:30 -> 00:04:34]  Historians are there actually to keep a record of historical data.
+[00:04:34 -> 00:04:39]  What are the pressure, temperature, level, flow values in back in 10 years?
+[00:04:39 -> 00:04:41]  How you can see that?
+[00:04:41 -> 00:04:44]  You are definitely going to need a historian for that.
+[00:04:44 -> 00:04:50]  Historians actually store historical data of all control parameters, trend or some other
+[00:04:50 -> 00:04:51]  graphics to be printed.
+[00:04:51 -> 00:04:53]  You require a printer for that.
+[00:04:53 -> 00:04:58]  Then you got in operator screens here and operator screens are there to actually visualize
+[00:04:58 -> 00:05:03]  for sure temperature, what's the level, what are the different process conditions that
+[00:05:03 -> 00:05:06]  exist in your plan and specific area.
+[00:05:06 -> 00:05:11]  You definitely require some visualization for that.
+[00:05:11 -> 00:05:17]  And for sure in a DCS you got in its own customized graphics operator screens where you can visualize
+[00:05:17 -> 00:05:19]  all process.
+[00:05:19 -> 00:05:20]  What's going on?
+[00:05:20 -> 00:05:21]  What's the temperature?
+[00:05:21 -> 00:05:22]  What's the flow?
+[00:05:22 -> 00:05:23]  What's the level?
+[00:05:23 -> 00:05:28]  You definitely need to know that and for sure you can see all that in operator screen.
+[00:05:28 -> 00:05:33]  Now in a next one, we are definitely going to talk about what is the difference between
+[00:05:33 -> 00:05:39]  DCS and SCADA and for sure then from there on we would have DCS commissioning step.
+[00:05:39 -> 00:05:44]  If in the case you are interested, do let me know in the, if you like this video, hit
+[00:05:44 -> 00:05:45]  the like button.
+[00:05:45 -> 00:05:50]  And if in the case you haven't subscribed our YouTube channel, consider subscribing
+[00:05:50 -> 00:05:54]  Till next video, take care and Allah Hafiz.

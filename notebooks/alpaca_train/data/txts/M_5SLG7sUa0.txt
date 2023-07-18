@@ -1,0 +1,100 @@
+[00:00:00 -> 00:00:04]  In this video I want to provide a description of the syllabus which we're
+[00:00:04 -> 00:00:08]  going to cover in the undergraduate course. So at the back of our minds
+[00:00:08 -> 00:00:11]  within the undergraduate course and actually at the graduate level as well
+[00:00:11 -> 00:00:16]  the idea is that there is some population and within that population
+[00:00:16 -> 00:00:20]  there might be countries, there might be individuals, there might be firms and the
+[00:00:20 -> 00:00:26]  idea is that we don't actually have the whole population data set. We only have a
+[00:00:26 -> 00:00:30]  sample from that population. So perhaps we have just these sort of figures which
+[00:00:30 -> 00:00:37]  I'm sort of highlighting here in purple and these individuals form a sample data
+[00:00:37 -> 00:00:44]  set and the idea with econometrics is that we want to use some sort of tool,
+[00:00:44 -> 00:00:49]  some sort of statistical or mathematical tool on that sample to enable us to make
+[00:00:49 -> 00:00:53]  some sort of inference about what's going on in the population or to make
+[00:00:53 -> 00:00:57]  some sort of estimation of some sort of population parameter. So what exactly do
+[00:00:57 -> 00:01:02]  I mean by estimating the population parameter? So there might be a
+[00:01:02 -> 00:01:07]  relationship between the level of wage which an individual sort of obtains and
+[00:01:07 -> 00:01:12]  their level of education which is given by this sort of relationship here which
+[00:01:12 -> 00:01:16]  I've sort of drawn mathematically and the idea here is that the sort of
+[00:01:16 -> 00:01:21]  coefficient beta might represent the sort of effect of one year extra of
+[00:01:21 -> 00:01:26]  education on a sort of individual's average level of wages and that would be
+[00:01:26 -> 00:01:30]  sort of defined within our population. That would be the sort of average effect
+[00:01:30 -> 00:01:35]  of one year of education on wages within the population. But the idea is that we
+[00:01:35 -> 00:01:38]  don't actually have the whole population's data, we only have a sample
+[00:01:38 -> 00:01:42]  from that data. So we'd like to use our tool on the sample to enable us to
+[00:01:42 -> 00:01:48]  estimate this particular parameter, in this case beta. When we first start off
+[00:01:48 -> 00:01:51]  talking about estimation techniques we're going to first start off discussing
+[00:01:51 -> 00:01:56]  cross-sectional data. So that might be when we have the level of wages and the
+[00:01:56 -> 00:02:02]  level of education for a set of individuals at one point in time. And it
+[00:02:02 -> 00:02:07]  just so happens that under a certain set of criteria that a tool which we call
+[00:02:07 -> 00:02:12]  ordinary least squares happens to be quite a good tool to use on our sample.
+[00:02:12 -> 00:02:17]  So under a certain set of criteria ordinary least squares happens to be
+[00:02:17 -> 00:02:23]  what we call blue, so that means it's the best linear unbiased estimator possible.
+[00:02:23 -> 00:02:26]  Don't worry if you don't understand what that means, we're going to cover that in
+[00:02:26 -> 00:02:29]  due course. The set of criteria which need to be
+[00:02:29 -> 00:02:34]  fulfilled are what we call the Gauss-Markov assumptions. And assuming
+[00:02:34 -> 00:02:38]  that each of these is satisfied then ordinary least squares are a sort of
+[00:02:38 -> 00:02:44]  useful thing to use on our sample. But how do we actually go ahead and test
+[00:02:44 -> 00:02:48]  these certain criteria? Well we need a sort of set of what we call
+[00:02:48 -> 00:02:54]  diagnostic tests. And what these tests enable us to do is they enable us to
+[00:02:54 -> 00:02:58]  test as to whether it's the case that these criteria are satisfied.
+[00:02:58 -> 00:03:02]  And if each of these criteria are satisfied that's fine we can still use
+[00:03:02 -> 00:03:07]  OLS on our sample and that will enable us to make some sort of good estimate
+[00:03:07 -> 00:03:12]  about the population parameters. But if these criteria aren't satisfying
+[00:03:12 -> 00:03:15]  so these diagnostic tests show us that they aren't satisfying,
+[00:03:15 -> 00:03:19]  then ordinary least squares is no longer blue.
+[00:03:19 -> 00:03:22]  And in this particular circumstance we need to define
+[00:03:22 -> 00:03:26]  a whole sort of new set of estimators which
+[00:03:26 -> 00:03:30]  may not be blue but they may possess some other sort of good
+[00:03:30 -> 00:03:34]  property which an estimator might have, in particular consistency.
+[00:03:34 -> 00:03:38]  And under a sort of set of less restrictive assumptions
+[00:03:38 -> 00:03:41]  they may happen to be blue or consistent. So
+[00:03:41 -> 00:03:44]  some of the estimators we're going to discuss here are the sort of
+[00:03:44 -> 00:03:50]  instrumental variables estimation, GLS estimators and sort of maximum
+[00:03:50 -> 00:03:54]  likelihood estimators. We may also talk a little bit about
+[00:03:54 -> 00:03:57]  GMM but we're going to keep that to a minimum.
+[00:03:57 -> 00:04:00]  I should also mention that I'm going to try and make this course
+[00:04:00 -> 00:04:05]  as non-mathematical as possible. Wherever I can avoid using maths
+[00:04:05 -> 00:04:10]  I'm going to avoid it and where I do use maths there is not necessarily the need
+[00:04:10 -> 00:04:14]  to follow those videos if you're just looking for the sort of intuition behind
+[00:04:14 -> 00:04:17]  the theory. So the second part of the
+[00:04:17 -> 00:04:22]  course is going to be concerned with a different type of data which we call
+[00:04:22 -> 00:04:27]  time series data. An example of time series data might be
+[00:04:27 -> 00:04:32]  let's say we have a given company's level of sales but
+[00:04:32 -> 00:04:34]  now we don't just have it at one point in time,
+[00:04:34 -> 00:04:38]  we might have it across time. So this might represent a company's sales
+[00:04:38 -> 00:04:41]  across time. Alternatively we might be looking at
+[00:04:41 -> 00:04:45]  the sort of GDP within the UK, we might be looking at sort of inflation within
+[00:04:45 -> 00:04:48]  the UK and time series is much more the realm
+[00:04:48 -> 00:04:52]  of macro econometrics opposed to micro econometrics which is where
+[00:04:52 -> 00:04:56]  cross-sectional data is mainly concerned.
+[00:04:56 -> 00:04:59]  In the sort of time series section we're going to discuss sort of properties of
+[00:04:59 -> 00:05:03]  time series so we're going to talk about what it means for a
+[00:05:03 -> 00:05:07]  time series to be what we call stationary. We're also going to discuss
+[00:05:07 -> 00:05:10]  two particular examples of time series which we call
+[00:05:10 -> 00:05:14]  autoregressive of order one and we're also going to discuss sort of
+[00:05:14 -> 00:05:18]  MA of order one that means moving average of order one
+[00:05:18 -> 00:05:21]  process. Again don't worry if you don't know what these mean we're going to
+[00:05:21 -> 00:05:24]  discuss them in due course. So that's going to sort of compose the
+[00:05:24 -> 00:05:28]  second part of the undergraduate course. The sort of
+[00:05:28 -> 00:05:31]  final part is going to be what we call sort of panel
+[00:05:31 -> 00:05:34]  data methods. So that's going to be concerned with
+[00:05:34 -> 00:05:40]  what happens if we don't just have an individual sort of level of data at a
+[00:05:40 -> 00:05:44]  given point in time but let's say we have the same sort of
+[00:05:44 -> 00:05:48]  individual's data but across time so we might have that
+[00:05:48 -> 00:05:52]  individual's level of wage in 2010 and then we have that individual's level
+[00:05:52 -> 00:05:57]  of wage in 2011 and it just so happens that for
+[00:05:57 -> 00:06:01]  panel data as well as sort of a time series data
+[00:06:01 -> 00:06:04]  we need to modify the Gauss-Markov assumption slightly to
+[00:06:04 -> 00:06:08]  take into account the fact that our data is now
+[00:06:08 -> 00:06:11]  sort of correlated across time it's no longer independent
+[00:06:11 -> 00:06:15]  and actually when we amend these sort of Gauss-Markov conditions we're actually
+[00:06:15 -> 00:06:18]  not really going to be talking about a population of data anymore
+[00:06:18 -> 00:06:22]  we're actually going to be talking about what we call a data generating process
+[00:06:22 -> 00:06:26]  because the idea is that you can't really think about a sample of data
+[00:06:26 -> 00:06:30]  as taken from an infinite amount of time you have to think about some sort of data
+[00:06:30 -> 00:06:34]  generating process which is generating samples at
+[00:06:34 -> 00:06:37]  different points in time so it doesn't really make sense to talk
+[00:06:37 -> 00:06:41]  about populations when we're discussing time series and panel data
+[00:06:41 -> 00:06:45]  for panel data we're going to discuss what we call the sort of between
+[00:06:45 -> 00:06:49]  estimator we're also going to discuss the within estimator
+[00:06:49 -> 00:06:52]  and then if we have sort of time we're going to discuss fixed effects
+[00:06:52 -> 00:06:56]  and random effects as well

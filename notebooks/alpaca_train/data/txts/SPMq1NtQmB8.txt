@@ -1,0 +1,65 @@
+[00:00:00 -> 00:00:05]  What's up everyone, it's Jessica, and welcome to CritIC, the pharmacokinetic series.
+[00:00:05 -> 00:00:11]  In this last video in this introductory series, we'll go through excretion.
+[00:00:11 -> 00:00:16]  If you haven't seen the rest yet, I do advise you to start with the first one in this series,
+[00:00:16 -> 00:00:21]  but I highly recommend that you at least watch the one on clearance first.
+[00:00:21 -> 00:00:22]  Now for excretion.
+[00:00:30 -> 00:00:35]  Excretion is the process of removing substances from our body.
+[00:00:35 -> 00:00:40]  This is mostly done in the kidney, so we'll focus on that in this video, but excretion
+[00:00:40 -> 00:00:44]  can also happen through bile or the lungs.
+[00:00:44 -> 00:00:50]  In the context of clearance, if an active drug is excreted, it is therefore then also
+[00:00:50 -> 00:00:53]  cleared through excretion.
+[00:00:53 -> 00:00:58]  If an inactive drug is excreted, it is cleared by metabolism, but a lot of the time it's
+[00:00:58 -> 00:01:01]  a combination of both.
+[00:01:01 -> 00:01:07]  The functional unit of the kidney is the nephron, which consists of the glomerulus, the proximal
+[00:01:07 -> 00:01:13]  tubule, the loop of Henle, the distal tubule, and the collecting ducts.
+[00:01:13 -> 00:01:19]  A drug first encounters the nephron when it travels through the afferent arteriole to
+[00:01:19 -> 00:01:21]  the glomerulus.
+[00:01:21 -> 00:01:24]  The glomerulus functions as a filter.
+[00:01:24 -> 00:01:32]  Free drug, meaning unbound to plasma protein, of small molecular size can pass through and
+[00:01:32 -> 00:01:35]  will enter the proximal tubule.
+[00:01:35 -> 00:01:40]  Drugs that were not filtered will leave the glomerulus through the efferent arteriole
+[00:01:40 -> 00:01:46]  and pass the proximal tubule, where they may undergo active secretion.
+[00:01:46 -> 00:01:51]  Note that this applies to a lot of renally cleared drugs.
+[00:01:51 -> 00:01:56]  Diffusion is performed by mainly two transporters, either the organic anions transporter for
+[00:01:56 -> 00:02:03]  weak acids, or the organic cation transporter for weak bases.
+[00:02:03 -> 00:02:07]  The third and final step is reabsorption.
+[00:02:07 -> 00:02:13]  Since this is a passive process through diffusion, this mostly applies to uncharged drugs since
+[00:02:13 -> 00:02:17]  they can cross cell membranes.
+[00:02:17 -> 00:02:22]  So why are these steps important in understanding renal drug clearance?
+[00:02:22 -> 00:02:28]  Well in common clinical practice, we determine renal function and thus renal clearance by
+[00:02:28 -> 00:02:35]  calculating the glomerular filtration rate based off of our serum creatinine levels,
+[00:02:35 -> 00:02:38]  and we adjust our dose based on that.
+[00:02:38 -> 00:02:44]  Leaving aside the obvious drawbacks of using a standardized formula like the CKD-EPI or
+[00:02:44 -> 00:02:50]  the MDRD for the estimation of GFR in our mostly heterogenic population, even if we
+[00:02:50 -> 00:02:56]  calculate the GFR by measuring creatinine levels in a 24-hour urine collection, there's
+[00:02:56 -> 00:03:01]  this one big assumption that we make that I think you need to know.
+[00:03:01 -> 00:03:08]  As stated before, a lot of renally cleared drugs are mainly cleared through active secretion,
+[00:03:08 -> 00:03:10]  not through filtration.
+[00:03:10 -> 00:03:17]  Is GFR a good representative of all renal function, and thus tubular secretion?
+[00:03:17 -> 00:03:22]  I don't think it is, though I don't have a practical solution for this.
+[00:03:22 -> 00:03:29]  Secondly, the different transporters responsible for active secretion, like PGP and the different
+[00:03:29 -> 00:03:35]  types of OATs and OCTs, can be a cause of drug-drug interaction.
+[00:03:35 -> 00:03:40]  These transporters can be induced, inhibited, blocked, or saturated.
+[00:03:40 -> 00:03:47]  For example, cimetidine, an H2 receptor blocker used for ulcer treatment, inhibits the organic
+[00:03:47 -> 00:03:54]  cation transporter, reducing tubular secretion of metformin, which could cause an increase
+[00:03:54 -> 00:03:57]  of plasma levels of up to 40%.
+[00:03:57 -> 00:04:03]  Fortunately, there are only few clinically relevant interactions, but I'm sure more will
+[00:04:03 -> 00:04:05]  surface in time.
+[00:04:05 -> 00:04:12]  By the way, fun fact, though used for the calculation of glomerular filtration rate,
+[00:04:12 -> 00:04:19]  creatinine itself undergoes tubular secretion for about 10-20%, and this amount can increase
+[00:04:19 -> 00:04:23]  up to 50% in people with renal failure.
+[00:04:23 -> 00:04:29]  This is why you see an increase in serum creatinine levels when you prescribe trimethoprim, without
+[00:04:29 -> 00:04:33]  actually causing a decrease in GFR.
+[00:04:33 -> 00:04:38]  Lastly, remember in the absorption video when we talked about the influence of pH on the
+[00:04:38 -> 00:04:41]  ionization of weak acids and bases?
+[00:04:41 -> 00:04:44]  Well that applies here too.
+[00:04:44 -> 00:04:50]  A trick used in toxicology is to alkalinize the urine with sodium bicarbonate.
+[00:04:50 -> 00:04:55]  This is, for instance, used for the treatment of an aspirin overdose.
+[00:04:55 -> 00:05:00]  Aspirin, or acetylsalicylic acid, is a weak acid.
+[00:05:00 -> 00:05:06]  Sodium bicarbonate ionizes the drug and makes it more water-soluble, keeping it in urine
+[00:05:06 -> 00:05:08]  and out of our body.
+[00:05:08 -> 00:05:12]  The same goes for phenobarbital.
+[00:05:12 -> 00:05:16]  And that sums up what I wanted to share on excretion and renal clearance.
+[00:05:16 -> 00:05:21]  And that brings us to the end of the introductory series on pharmacokinetics.
+[00:05:21 -> 00:05:25]  I'm very curious to hear your thoughts on these series.
+[00:05:25 -> 00:05:29]  Let me know in the comments below, and stay tuned for the more advanced ones coming up.

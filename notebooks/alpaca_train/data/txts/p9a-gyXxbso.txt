@@ -1,0 +1,105 @@
+[00:00:00 -> 00:00:03]  Well, thank you for joining me at GetChemistryHelp.com.
+[00:00:03 -> 00:00:10]  My name is Dr. Kent, and in this video, I'm going to discuss the five main types of chemical
+[00:00:10 -> 00:00:11]  reactions.
+[00:00:11 -> 00:00:15]  Now, there are a few more specialized categories of chemical reactions that we'll discuss in
+[00:00:15 -> 00:00:21]  later lessons, but this is a broad overview of the five big classes of chemical reactions.
+[00:00:21 -> 00:00:27]  Now, the first one is a combination or a synthesis reaction, which is just what it sounds like.
+[00:00:27 -> 00:00:33]  You've got two or more substances combining together to make a new substance.
+[00:00:33 -> 00:00:39]  A decomposition is basically just the opposite, where you have one substance decomposing or
+[00:00:39 -> 00:00:42]  breaking apart into two or more substances.
+[00:00:42 -> 00:00:48]  A single displacement is where you have one substance being displaced.
+[00:00:48 -> 00:00:56]  So notice in this general format, A plus BC goes to AC plus B. So the C was displaced
+[00:00:56 -> 00:01:01]  and went from B to A. And a double displacement, that happens twice.
+[00:01:01 -> 00:01:08]  So notice in our general format, AB plus CD goes to AD plus BC.
+[00:01:08 -> 00:01:15]  So B was displaced to go with C. D was displaced to go with A. So two things were displaced.
+[00:01:16 -> 00:01:19]  And the last general type of reaction is a combustion reaction.
+[00:01:19 -> 00:01:25]  Now, a combustion reaction is going to involve some kind of a hydrocarbon, which is just
+[00:01:25 -> 00:01:30]  a shorthand way of saying a compound that contains hydrogen and carbon, and it's going
+[00:01:30 -> 00:01:32]  to be burning in oxygen.
+[00:01:32 -> 00:01:34]  That's the combustion part.
+[00:01:34 -> 00:01:38]  And when the carbon burns with oxygen, it makes carbon dioxide.
+[00:01:38 -> 00:01:41]  When the hydrogen burns with oxygen, it makes water.
+[00:01:41 -> 00:01:45]  So you're always going to have some kind of a hydrocarbon combining with oxygen to make
+[00:01:45 -> 00:01:49]  carbon dioxide and water.
+[00:01:49 -> 00:01:53]  So let's go through a few examples of each of these five types.
+[00:01:53 -> 00:01:57]  So the first general type is a combination, again, two or more things combining to make
+[00:01:57 -> 00:01:58]  one new substance.
+[00:01:58 -> 00:02:05]  So here we have zinc plus chlorine combines to make zinc chloride.
+[00:02:05 -> 00:02:06]  Here's another one.
+[00:02:06 -> 00:02:10]  Iron combines with sulfur to make iron 2 sulfide.
+[00:02:10 -> 00:02:16]  So two or more substances combining to make a new substance.
+[00:02:16 -> 00:02:18]  Decomposition again is just the reverse.
+[00:02:18 -> 00:02:21]  One substance breaking apart into two or more.
+[00:02:21 -> 00:02:29]  So here's ammonium chloride, and it's decomposing into ammonia and hydrogen chloride gas.
+[00:02:29 -> 00:02:31]  Here's an example with water.
+[00:02:31 -> 00:02:37]  So you could take liquid water, run electricity through it, and break it down into two substances,
+[00:02:37 -> 00:02:39]  hydrogen gas and oxygen gas.
+[00:02:39 -> 00:02:43]  So this is an example of a decomposition reaction.
+[00:02:43 -> 00:02:48]  Now for a single replacement, remember, there's one part of a substance that moves and becomes
+[00:02:48 -> 00:02:50]  part of another substance.
+[00:02:50 -> 00:02:56]  So here's zinc plus copper 2 chloride forming copper plus zinc chloride.
+[00:02:56 -> 00:03:01]  So notice the chlorine was with copper, and it was displaced and partnered up with the
+[00:03:01 -> 00:03:03]  zinc.
+[00:03:03 -> 00:03:06]  Here's another example.
+[00:03:06 -> 00:03:14]  Magnesium metal reacts with hydroiodic acid to make magnesium iodide plus hydrogen gas.
+[00:03:14 -> 00:03:20]  So the iodine was with hydrogen, and it was displaced, and now it's with the magnesium
+[00:03:20 -> 00:03:24]  to make magnesium iodide.
+[00:03:24 -> 00:03:29]  Now again, in a double displacement, this happens twice.
+[00:03:29 -> 00:03:38]  So notice silver nitrate plus potassium bromide goes to silver bromide and potassium nitrate.
+[00:03:38 -> 00:03:44]  So the bromide was with potassium, and it moved over here with the silver to make silver
+[00:03:44 -> 00:03:45]  bromide.
+[00:03:45 -> 00:03:52]  The nitrate was with the silver, and it moved over with potassium to make potassium nitrate.
+[00:03:52 -> 00:03:58]  So two different things were displaced, so it's a double displacement.
+[00:03:58 -> 00:04:02]  Now another specialized type of double displacement, which we'll spend more time on in a future
+[00:04:02 -> 00:04:05]  video, is an acid plus a base.
+[00:04:05 -> 00:04:12]  So here we have hydrochloric acid combines with sodium hydroxide to produce sodium chloride
+[00:04:12 -> 00:04:13]  and water.
+[00:04:13 -> 00:04:19]  So the hydroxide was with sodium, then it went over here and combined with the H plus
+[00:04:19 -> 00:04:23]  and hydrochloric acid to make water.
+[00:04:23 -> 00:04:27]  The chloride was with the hydrochloric acid, and it went over here to combine with the
+[00:04:27 -> 00:04:30]  sodium to make sodium chloride.
+[00:04:30 -> 00:04:34]  So two things were displaced, that's a double displacement.
+[00:04:34 -> 00:04:39]  And our fifth classification of reaction is a combustion reaction.
+[00:04:39 -> 00:04:43]  So again, this is where we have a hydrogen carbon containing compound, or what's called
+[00:04:43 -> 00:04:51]  a hydrocarbon just for short, burns in oxygen in the air to make carbon dioxide and water.
+[00:04:51 -> 00:04:54]  So here's an example, this is methane gas.
+[00:04:54 -> 00:05:00]  So methane, when you burn it with oxygen, you're gonna produce carbon dioxide and water.
+[00:05:00 -> 00:05:04]  Here's another hydrocarbon, this one is called propane gas.
+[00:05:04 -> 00:05:07]  So propane is a very similar pattern.
+[00:05:07 -> 00:05:12]  It combines with oxygen, the carbons and oxygens make carbon dioxide, the hydrogens
+[00:05:12 -> 00:05:16]  and oxygens make water.
+[00:05:16 -> 00:05:19]  Now let's go through a few examples and just pick out which type of reaction is each of
+[00:05:19 -> 00:05:21]  these examples.
+[00:05:21 -> 00:05:27]  So here's carbon combining with oxygen to make carbon dioxide.
+[00:05:27 -> 00:05:31]  Now at first glance, it almost looks like a combustion reaction because we have some
+[00:05:31 -> 00:05:33]  carbon and oxygen combining.
+[00:05:33 -> 00:05:37]  But remember for a combustion reaction, you gotta have a hydrocarbon, carbon and hydrogen
+[00:05:37 -> 00:05:41]  combining with oxygen to make carbon dioxide and water.
+[00:05:41 -> 00:05:46]  So in this case, we just have two different substances combining to make one substance.
+[00:05:46 -> 00:05:51]  So this would just be a straight up combination reaction.
+[00:05:51 -> 00:05:58]  In example two, we've got copper two chloride plus sodium sulfide producing copper two sulfide
+[00:05:58 -> 00:06:01]  and sodium chloride.
+[00:06:01 -> 00:06:05]  So the sulfur was with the sodium, now it's with the copper.
+[00:06:05 -> 00:06:08]  The chlorine was with the copper, now it's with the sodium.
+[00:06:08 -> 00:06:16]  So two things were displaced, so this would be a double displacement reaction.
+[00:06:16 -> 00:06:18]  How about example three?
+[00:06:18 -> 00:06:20]  What general type of reaction is this?
+[00:06:20 -> 00:06:27]  Well we have nickel two sulfite forming nickel two oxide and sulfur dioxide gas.
+[00:06:27 -> 00:06:30]  Well I have one substance forming two substances.
+[00:06:30 -> 00:06:34]  So that sounds like decomposition.
+[00:06:34 -> 00:06:36]  How about number four?
+[00:06:36 -> 00:06:42]  I've got a carbon and hydrogen containing compound reacting with oxygen to make carbon
+[00:06:42 -> 00:06:44]  dioxide and water.
+[00:06:44 -> 00:06:48]  So that is definitely a combustion reaction.
+[00:06:48 -> 00:06:54]  And our last example, I've got calcium plus lead two chloride reacting to form calcium
+[00:06:54 -> 00:06:57]  chloride plus lead.
+[00:06:57 -> 00:07:02]  So notice the chlorine was with the lead, then it went over to be with the calcium to
+[00:07:02 -> 00:07:05]  make calcium chloride.
+[00:07:05 -> 00:07:12]  So one part of the substance was displaced, so this would be a single displacement reaction.
+[00:07:12 -> 00:07:15]  Well I hope you enjoyed this lesson on types of chemical reactions.
+[00:07:15 -> 00:07:19]  In future videos we are going to discuss some more specialized types of reactions.
+[00:07:19 -> 00:07:22]  So be sure and click on the subscribe button so you can be notified as soon as new videos
+[00:07:22 -> 00:07:23]  are posted.
+[00:07:23 -> 00:07:27]  Also, I'd love to hear from you, so leave me a comment down below and we'll see you
+[00:07:28 -> 00:07:30]  back here next time at GetChemistryHelped.com.
+[00:07:30 -> 00:07:30]  Thank you!

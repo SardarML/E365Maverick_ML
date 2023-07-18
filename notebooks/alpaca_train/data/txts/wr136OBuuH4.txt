@@ -1,0 +1,97 @@
+[00:00:00 -> 00:00:11]  How to Doodle Your Way to Digital Transformation
+[00:00:11 -> 00:00:17]  It was a hot and humid night around 10pm and I found myself wheeling a cart of two suitcases,
+[00:00:17 -> 00:00:22]  each weighing about 50 pounds, jostling my way into an airport in India.
+[00:00:22 -> 00:00:27]  It took me 34 minutes just to get into the terminal.
+[00:00:27 -> 00:00:33]  There was hardly a semblance of a queue, people just gathered around as a cone as two security
+[00:00:33 -> 00:00:37]  guards in front were trying to validate an ID with a ticket.
+[00:00:37 -> 00:00:41]  Apparently they were doing their job, but they did not think it was their responsibility
+[00:00:41 -> 00:00:49]  to organize the line, so the process would have been much more smoother if they did that.
+[00:00:49 -> 00:00:54]  The airport administrator might have had grand plans of making the customer experience great,
+[00:00:54 -> 00:00:59]  but that was not the reality on the ground.
+[00:00:59 -> 00:01:03]  Leaders might say that they want to modernize systems, go digital, reimagine the customer
+[00:01:03 -> 00:01:11]  experience, be agile, drive a paradigm shift, re-engineer the business, so on.
+[00:01:11 -> 00:01:15]  But look at it from the point of view of the security guards or any other worker on the
+[00:01:15 -> 00:01:17]  ground.
+[00:01:17 -> 00:01:20]  They likely have no clue what that all means.
+[00:01:20 -> 00:01:27]  These ideas are too abstract, they don't care, and they do the job to meet the metrics
+[00:01:27 -> 00:01:29]  against which they are measured.
+[00:01:29 -> 00:01:34]  Obviously, there's a big gap between leadership vision and execution on the ground.
+[00:01:34 -> 00:01:37]  How do you fill this gap?
+[00:01:37 -> 00:01:42]  Architecture can play a significant role in bridging this gap.
+[00:01:42 -> 00:01:43]  Let's use an analogy.
+[00:01:43 -> 00:01:45]  Say you want to be healthier.
+[00:01:45 -> 00:01:51]  You are the CEO, the architect, and the worker of that aspiration.
+[00:01:51 -> 00:01:56]  As CEO, you set the vision to be healthier, but that's not enough.
+[00:01:56 -> 00:02:00]  As an architect, you must figure out how the different things you might be able to do will
+[00:02:00 -> 00:02:07]  help you achieve your goals, eat more nutritious food, switch to a less stressful job, get
+[00:02:07 -> 00:02:11]  more exercise, be more adventurous, and so on.
+[00:02:11 -> 00:02:16]  You figure out which ones matter most and how you can fit these actions in the context
+[00:02:16 -> 00:02:17]  of your life.
+[00:02:17 -> 00:02:24]  Finally, as a worker, you execute the specific tactics that you have decided to pursue, like
+[00:02:24 -> 00:02:27]  eating better and exercising more.
+[00:02:27 -> 00:02:33]  In large organizations, the CEO, the architect, and the worker are different people, so it's
+[00:02:33 -> 00:02:36]  hard to change.
+[00:02:36 -> 00:02:37]  What do you do?
+[00:02:37 -> 00:02:41]  Good communication is critical to get the message across.
+[00:02:41 -> 00:02:46]  Each should be able to understand the other using a shared language.
+[00:02:46 -> 00:02:48]  But understanding is not enough.
+[00:02:48 -> 00:02:52]  You need to motivate people to change, maybe through a shared vision of doing good for
+[00:02:52 -> 00:02:56]  the customer or through incentives.
+[00:02:56 -> 00:03:03]  My past month's travel took me through multiple international airports, including Chicago,
+[00:03:03 -> 00:03:07]  Zurich, Mumbai, Frankfurt, and Chennai.
+[00:03:07 -> 00:03:12]  Some were better than the others, but essentially, it was a combination of people, process, and
+[00:03:12 -> 00:03:15]  technology that made all the difference.
+[00:03:15 -> 00:03:20]  The goal is to check customers in quickly, but ensure safety.
+[00:03:20 -> 00:03:25]  A high guarantee of safety will make the administrator happy, but it'll take so long that it'll
+[00:03:25 -> 00:03:28]  frustrate the customer.
+[00:03:28 -> 00:03:32]  Zipping through with lax security is not good either.
+[00:03:32 -> 00:03:35]  The optimal is somewhere in between.
+[00:03:35 -> 00:03:40]  A good starting point is understanding and influencing the customer's expectations and
+[00:03:40 -> 00:03:43]  designing the processes around that.
+[00:03:43 -> 00:03:48]  At Disney, for example, you'll find signs that tell you how long it'll take to get to
+[00:03:48 -> 00:03:51]  the front of the line from that point.
+[00:03:51 -> 00:03:56]  This simple trick anchors the customer's expectation.
+[00:03:56 -> 00:04:00]  If the line moves faster, the customer is pleasantly surprised.
+[00:04:00 -> 00:04:05]  The business needs to work backwards from this anchor point of expectation to improve
+[00:04:05 -> 00:04:10]  their operations and reduce the gap between vision and reality.
+[00:04:10 -> 00:04:13]  At Frankfurt, we went through transit.
+[00:04:13 -> 00:04:18]  Just switching planes took us about 2 hours, as we had to wind through a queue for security
+[00:04:18 -> 00:04:24]  check, another queue for COVID check, and a convoluted path to our destination terminal.
+[00:04:24 -> 00:04:29]  Mind you, we were transit passengers who had already been on the plane and we had already
+[00:04:29 -> 00:04:33]  gone through security and COVID checks earlier.
+[00:04:33 -> 00:04:37]  At one point in this winding path, they even had a vending machine for water.
+[00:04:37 -> 00:04:40]  At that point, we didn't even know that we were going to go through security, so you
+[00:04:40 -> 00:04:44]  essentially had to throw the bottle away.
+[00:04:44 -> 00:04:49]  While leaders create grandiose statements, people on the ground are accountable for the
+[00:04:49 -> 00:04:51]  safety and security of the passengers.
+[00:04:51 -> 00:04:55]  These people do not have an overarching view of the end-to-end process.
+[00:04:55 -> 00:05:01]  They work in silos, against a metric that they are measured against.
+[00:05:01 -> 00:05:05]  Without a big-picture blueprint, local improvements may or may not be effective.
+[00:05:05 -> 00:05:11]  For example, each area might have a budget to procure new technology systems independently,
+[00:05:11 -> 00:05:14]  but they may not integrate.
+[00:05:14 -> 00:05:20]  As a result, the customer experience will be disjointed, like asking for identification
+[00:05:20 -> 00:05:25]  in each step of the process because the information was never transferred over.
+[00:05:25 -> 00:05:30]  Each department, like check-in, security, immigration, customs, baggage claim, gate
+[00:05:30 -> 00:05:38]  agent, and so on, did their jobs effectively, but still the overall process sucked.
+[00:05:38 -> 00:05:41]  And then there's the question of accountability.
+[00:05:41 -> 00:05:42]  Who is accountable for what?
+[00:05:42 -> 00:05:46]  Sometimes nobody seems to be accountable for some parts of the process, such as forming
+[00:05:46 -> 00:05:49]  the lines.
+[00:05:49 -> 00:05:54]  Technology by itself will not solve the problem, even if that technology is artificial intelligence.
+[00:05:55 -> 00:06:01]  They must be the right ones, integrated well into the business process.
+[00:06:01 -> 00:06:07]  If you are in construction, and you transport large volumes of parts, switching to a Tesla
+[00:06:07 -> 00:06:11]  from a truck will not help, even though the Tesla is much more advanced.
+[00:06:11 -> 00:06:15]  Earlier, I mentioned a blueprint.
+[00:06:15 -> 00:06:18]  What form does this blueprint take?
+[00:06:18 -> 00:06:20]  It doesn't have to be anything complicated.
+[00:06:20 -> 00:06:25]  What I drew here is a simple blueprint that can help leaders understand their organization.
+[00:06:25 -> 00:06:31]  Yes, you can have more sophisticated artifacts like customer experience journey, or value
+[00:06:31 -> 00:06:37]  streams, or process maps, or capability models, or information models, but simple doodles
+[00:06:37 -> 00:06:41]  are often enough to get started.
+[00:06:41 -> 00:06:47]  Such a doodle will help leaders have the same mental model of what's happening on the ground.
+[00:06:47 -> 00:06:52]  Understanding each other in a very simple way is the foundation for digital transformation.
+[00:06:52 -> 00:06:57]  With a clear mental model, leaders can effectively communicate their vision and needs to the
+[00:06:57 -> 00:07:03]  employees on the ground who can then take responsibility for executing on it.
+[00:07:03 -> 00:07:06]  If you enjoyed watching this video, please consider subscribing.
+[00:07:06 -> 00:07:10]  Sign up on my website for a one-page visual summary of this video.
+[00:07:10 -> 00:07:14]  Thank you deeply for giving me the motivation to do what I do.
