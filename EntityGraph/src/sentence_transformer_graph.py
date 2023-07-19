@@ -8,7 +8,7 @@ import logging
 from get_merged_data import get_data
 from sentence_transformer_generate_embeddings import SentenceTransformer_embeddings
 
-merged_df, str_lst, vocab, identifier_vocab, identifier = get_data('data\merged_data_for_AI.csv')
+merged_df, str_lst, vocab, identifier_vocab, identifier = get_data('data\merged_data_for_AI_without_stopwords.csv')
 model, embeddings = SentenceTransformer_embeddings()
 
 
