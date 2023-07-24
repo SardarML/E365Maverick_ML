@@ -8,7 +8,6 @@ import pandas as pd
 from rdflib import Graph, Literal, RDF, URIRef, BNode, SDO
 from rdflib.namespace import RDF, XSD
 
-
 def get_data(path):
         merged_df = pd.read_csv(path,
                  lineterminator='\n')
@@ -28,18 +27,12 @@ def get_data(path):
 merged_df, str_lst, vocab, identifier_vocab, identifier, urls, url_vocab = get_data('data\MIX_Youtube_Serlo_Podcasts\MIX_merged_yt_serlo_pdcast.csv')
 merged_df = merged_df.drop(['Unnamed: 0'], axis=1)
 
-
 # model = SentenceTransformer('sentence-transformers/paraphrase-multilingual-mpnet-base-v2')
 # embeddings = model.encode(str_lst)
 # weights = embeddings
 # weights = pd.DataFrame(weights)
 # weights.to_csv('data\MIX_Youtube_Serlo_Podcasts\merged_youtube_serlo_podcast_embeddings.csv')
 # print(weights.shape)
-
-weights = pd.read_csv('data\MIX_Youtube_Serlo_Podcasts\merged_youtube_serlo_podcast_embeddings.csv')
-del weights['Unnamed: 0']
-weights = weights.values
-weights.shape
 
 # get embeddings like in doc2vec
 def SentenceTransformer_embeddings():
@@ -50,11 +43,13 @@ def SentenceTransformer_embeddings():
         be used for tasks like clustering or semantic search.'''
 
         model = SentenceTransformer('sentence-transformers/paraphrase-multilingual-mpnet-base-v2')
-        embeddings = weights
-        print(embeddings.shape)
-        return model, embeddings
+        weights = pd.read_csv('data\MIX_Youtube_Serlo_Podcasts\merged_youtube_serlo_podcast_embeddings.csv')
+        del weights['Unnamed: 0']
+        weights = weights.values
+        print(weights.shape)
+        return model, weights
 
-model, embeddings = SentenceTransformer_embeddings()
+model, weights = SentenceTransformer_embeddings()
 
 def fill_graph_sentence_transformer(query):
         # graph initialization

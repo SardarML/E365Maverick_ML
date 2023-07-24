@@ -56,7 +56,6 @@ def summary(txt, clusters=5):
 def get_keywords(txt, n=10):
     word_tokens = word_tokenize(txt)
     filtered_words =  [word for word in word_tokens if not word.isnumeric()]
-    filtered_words = [word for word in word_tokens if word.isalpha()]
     filtered_words = [word for word in word_tokens if word.isalpha() and len(word) > 1]
     word_freq = Counter(filtered_words)
     keywords = word_freq.most_common(n)
