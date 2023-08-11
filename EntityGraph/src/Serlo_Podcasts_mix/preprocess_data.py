@@ -13,7 +13,7 @@ print('with stops:', data.head())
 
 def remove_stopwords(texts, language):
     if language not in stopwords.fileids():
-        language = 'german'  # Fallback to english if the detected language is not supported
+        language = 'german', 'english'  # Fallback to english if the detected language is not supported
     stop_words = set(stopwords.words(language))
     new_texts = []
     for text in texts:
