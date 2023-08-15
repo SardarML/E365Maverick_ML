@@ -16,3 +16,4 @@ scikit-learn
 webvtt-py
 py7zr
 nltk
+git+https://github.com/mumi/entitygraph-client.git
