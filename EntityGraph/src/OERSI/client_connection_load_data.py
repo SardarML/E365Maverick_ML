@@ -3,7 +3,7 @@ from entitygraph import Application, Entity
 
 host = "https://entitygraph.azurewebsites.net"
 path = "api/entities"
-key = "Tzre7295T10z1K"
+key = ""
 application = "oersi"
 
 #client = entitygraph.Client(api_key=key)
