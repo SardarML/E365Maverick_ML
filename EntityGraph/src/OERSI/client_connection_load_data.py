@@ -29,7 +29,7 @@ WHERE {
 oersi_0 = app.Query().select(query_str_0)
 print(oersi_0.head())
 
-# Change OFFSET to get all data: 10000, 20000, ... (you can also do thin in a terminal)
+# Change OFFSET to get all data: 10000, 20000, ...
 
 query_str_1 = """
 
