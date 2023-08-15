@@ -2,9 +2,7 @@ import pandas as pd
 from sentence_transformers import SentenceTransformer
 from sklearn.cluster import KMeans
 import nltk
-
 nltk.download('punkt')
-
 from collections import Counter
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
