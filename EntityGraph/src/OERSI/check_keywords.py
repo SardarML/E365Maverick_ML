@@ -15,6 +15,7 @@ def check(n):
     title = data['name'][n]
     content = data['description'][n]
     url = data['sameAs'][n]
+    pre_generated_keyword = data['keywords'][n]
 
     # generated
     text_keywords = data['description keywords'][n]
@@ -24,6 +25,7 @@ def check(n):
     print('title:', title, '\n',
           'url:' , url, '\n',
           'original text:', content, '\n',
+          'original keywords made my oersi:', pre_generated_keyword, '\n\n',          
           f'\nwe have {len(text_keywords)} keywords:\n\n',
           'text keywords:', text_keywords, '\n')
     return id, title, content, url, text_keywords

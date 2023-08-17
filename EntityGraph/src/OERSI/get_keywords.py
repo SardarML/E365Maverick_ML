@@ -19,7 +19,7 @@ def get_data(path):
         str_combined = " ".join(str_lst)
         return merged_df, str_combined, str_lst
 
-merged_df, str_combined, str_lst = get_data('data\OERSI\OERSI_data_without_stpwrds_and_duplicates.csv')
+merged_df, str_combined, str_lst = get_data('data\OERSI\OERSI_data_without_stpwrds_and_umlauts.csv')
 
 def get_keywords(txt, n=50):
     word_tokens = word_tokenize(txt)

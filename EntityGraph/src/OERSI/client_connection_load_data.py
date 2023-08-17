@@ -3,7 +3,7 @@ from entitygraph import Application, Entity
 
 host = "https://entitygraph.azurewebsites.net"
 path = "api/entities"
-key = "Tzre7295T10z1K"
+key = ""
 application = "oersi"
 
 #client = entitygraph.Client(api_key=key)
@@ -15,14 +15,16 @@ query_str_0 = """
 PREFIX schema: <http://schema.org/>
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 
-SELECT ?LearningResource ?name ?keywords ?sameAs ?description
+SELECT ?LearningResource ?name (GROUP_CONCAT(?keyword; SEPARATOR=", ") AS ?keywords) ?sameAs ?description
 WHERE {
     ?LearningResource a schema:LearningResource .
     ?LearningResource schema:name ?name .
-    ?LearningResource schema:keywords ?keywords .
+    ?LearningResource schema:keywords ?keyword .
     ?LearningResource owl:sameAs ?sameAs .
     ?LearningResource schema:description ?description .
-} LIMIT 10000 OFFSET 0
+}
+GROUP BY ?LearningResource ?name ?sameAs ?description
+LIMIT 10000 OFFSET 0
 
 """
 
@@ -36,14 +38,16 @@ query_str_1 = """
 PREFIX schema: <http://schema.org/>
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 
-SELECT ?LearningResource ?name ?keywords ?sameAs ?description
+SELECT ?LearningResource ?name (GROUP_CONCAT(?keyword; SEPARATOR=", ") AS ?keywords) ?sameAs ?description
 WHERE {
     ?LearningResource a schema:LearningResource .
     ?LearningResource schema:name ?name .
-    ?LearningResource schema:keywords ?keywords .
+    ?LearningResource schema:keywords ?keyword .
     ?LearningResource owl:sameAs ?sameAs .
     ?LearningResource schema:description ?description .
-} LIMIT 10000 OFFSET 10000
+}
+GROUP BY ?LearningResource ?name ?sameAs ?description
+LIMIT 10000 OFFSET 10000
 
 """
 

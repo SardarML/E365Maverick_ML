@@ -20,7 +20,7 @@ def get_data(path):
 
         return merged_df, str_lst, vocab, urls, identifier_vocab, url_vocab
 
-merged_df, str_lst, vocab, urls, identifier_vocab, url_vocab = get_data('data\OERSI\OERSI_data_without_stpwrds_and_duplicates.csv')
+merged_df, str_lst, vocab, urls, identifier_vocab, url_vocab = get_data('data\OERSI\OERSI_data_without_stpwrds_and_umlauts.csv')
 
 
 # model = SentenceTransformer('sentence-transformers/paraphrase-multilingual-mpnet-base-v2')
@@ -138,5 +138,8 @@ def fill_graph_sentence_transformer(query):
                 if url is not None:
                     g.add((s, SDO.url, Literal(url)))
     get_urls()
-
     return g
+
+# try_g = fill_graph_sentence_transformer('skill')
+# print(try_g.serialize(format='ttl'))
+# try_g.serialize('try.ttl',format='ttl')
