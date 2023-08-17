@@ -140,6 +140,5 @@ def fill_graph_sentence_transformer(query):
     get_urls()
     return g
 
-# try_g = fill_graph_sentence_transformer('skill')
+# try_g = fill_graph_sentence_transformer('machine learning')
 # print(try_g.serialize(format='ttl'))
-# try_g.serialize('try.ttl',format='ttl')
