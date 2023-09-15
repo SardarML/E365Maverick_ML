@@ -1,12 +1,12 @@
 import pandas as pd
+import random
+import ast
 
 def get_data():
     data = pd.read_csv('data\HPI\merged_HPI_data_with_50_keywords.csv')
     del data['Unnamed: 0']
     return data
 data = get_data()
-
-import ast
 
 def check(n):
     # let's sort the data by columns first & transfer them to lists
@@ -24,13 +24,10 @@ def check(n):
     print('title:', title, '\n',
           'url:' , url, '\n',
           'original text:', content, '\n',
+          f'\nwe have {len(text_keywords)} keywords:\n',
           'text keywords:', text_keywords, '\n')
     return id, title, content, url, moocProvider, text_keywords
 
-import random
-
 id, title, content, url, moocProvider, text_keywords = check(random.randint(0, len(data['name'])))
-print(f'\nwe have {len(text_keywords)} keywords:\n')
-print(content)
-print(text_keywords)
+
 

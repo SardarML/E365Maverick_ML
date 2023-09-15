@@ -20,8 +20,8 @@ def count_occurrences_before(texts, x, y, max_distance=None):
                     count += 1
         return count
 
-x = "?"
-y = "Lerne"
+x = "Energie"
+y = "Ressourcen"
 n = count_occurrences_before(filtered_texts, x, y)
 print(f"In {n} texts, the word '{x}' occurs before the word '{y}'.")
 
