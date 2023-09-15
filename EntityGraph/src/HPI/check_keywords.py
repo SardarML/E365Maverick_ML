@@ -15,7 +15,6 @@ def check(n):
     url = data['url'][n]
     partnerInstitute = data['partnerInstitute'][n]
     moocProvider = data['moocProvider'][n]
-
     # generated
     text_keywords = data['text keywords'][n]
     text_keywords = ast.literal_eval(text_keywords)
