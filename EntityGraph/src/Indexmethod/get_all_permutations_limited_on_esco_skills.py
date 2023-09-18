@@ -5,9 +5,9 @@ from rdflib import Graph
 from collections import Counter
 import nltk
 from nltk.corpus import stopwords
+nltk.download('stopwords')
 
 data = pd.read_csv('data\ALL_MIXED\ALL_merged_without_stps_and_umlts.csv', low_memory=False)
-
 ttl_text = Graph()
 ttl_text = ttl_text.parse('data\Esco\esco_skill_graph.ttl')
 
@@ -19,36 +19,30 @@ def get_skills():
 
 skills = get_skills()
 
-
-
-# Laden der deutschen Stoppwörter
-nltk.download('stopwords')
-german_stop_words = set(stopwords.words('german', 'english'))
-
-# Überprüfen Sie, ob die skills-Liste nicht leer ist
+stop_words = set(stopwords.words('german', 'english'))
 if skills:
-    # Erstelle eine Liste aller einzigartigen Wörter, die in den Objekten vorkommen
+    # Create a list of all unique words that occur in the objects
     relevant_words = set()
     for skill in skills:
-        if isinstance(skill, str):  # Stellen Sie sicher, dass skill ein String ist
+        if isinstance(skill, str):  # Make sure that skill is a string
             for word in skill.split():
-                if word.lower() not in german_stop_words:
-                    relevant_words.add(word.lower()) # Um die Groß-/Kleinschreibung zu ignorieren
+                if word.lower() not in stop_words:
+                    relevant_words.add(word.lower()) # To ignore case sensitivity
         else:
-            print(f"Unerwarteter Datentyp in skills: {type(skill)}")
+            print(f"Unexpected data type in skills: {type(skill)}")
 else:
-    print("Die skills-Liste ist leer")
+    print("The skills list is empty")
 
-# Ausgabe der relevanten Wörter
+# Output of the relevant words
 if relevant_words:
     print(len(relevant_words))
 else:
-    print("Keine relevanten Wörter gefunden")
+    print("No relevant words found")
 
 
 
 
-# Filtern der Wörter in Ihren Texten
+# Filtering the words in our texts
 def get_permutation_counts(text):
     """we want to store not only the bigrams 
     (words that are immediately next to each other) 
@@ -59,11 +53,8 @@ def get_permutation_counts(text):
     counts = Counter(permutations)
     return ', '.join([f"{pair}: {amount}" for pair, amount in counts.items()])
 
-
-data['permutations one direction RELEVANT ESCO SKILLS'] = data['String'].apply(get_permutation_counts)
-
-
-data.to_csv('data/merged_all_data_with_all_one_directed_permutations_limited_on_esco.csv')
+data['permutations_one_direction_RELEVANT_ESCO_SKILLS'] = data['String'].apply(get_permutation_counts)
+data.to_csv('data/ALL_MIXED/merged_all_data_with_all_one_directed_permutations_limited_on_esco.csv')
 
 print(relevant_words)
 relevant_words.to_csv('data/skills_whitelist.csv')
