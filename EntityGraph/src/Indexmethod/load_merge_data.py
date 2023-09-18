@@ -6,3 +6,5 @@ def load_data():
     merged_df = pd.concat([oersi, mix_yt_srlo_pdcst])
     return merged_df
 
+merged_df = load_data()
+merged_df.to_csv('data/ALL_MIXED/ALL_merged_without_stps_and_umlts.csv')
