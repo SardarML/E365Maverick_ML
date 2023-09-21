@@ -33,4 +33,4 @@ merged_df['text keywords'] = merged_df['String'].apply(get_keywords)
 del merged_df['Unnamed: 0']
 print(merged_df)
 
-# merged_df.to_csv('data\HPI\merged_HPI_data_with_50_keywords.csv')
+merged_df.to_csv('data\HPI\merged_HPI_data_with_50_keywords.csv')

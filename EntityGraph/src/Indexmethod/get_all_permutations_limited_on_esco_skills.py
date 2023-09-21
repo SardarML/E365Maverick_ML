@@ -7,7 +7,7 @@ import nltk
 from nltk.corpus import stopwords
 nltk.download('stopwords')
 
-data = pd.read_csv('data\ALL_MIXED\ALL_merged_without_stps_and_umlts.csv', low_memory=False)
+data = pd.read_csv('data\ALL_MIXED\ALL_merged_without_stps_and_umlts.csv')
 ttl_text = Graph()
 ttl_text = ttl_text.parse('data\Esco\esco_skill_graph.ttl')
 
@@ -39,9 +39,6 @@ if relevant_words:
 else:
     print("No relevant words found")
 
-
-
-
 # Filtering the words in our texts
 def get_permutation_counts(text):
     """we want to store not only the bigrams 
@@ -55,6 +52,7 @@ def get_permutation_counts(text):
 
 data['permutations_one_direction_RELEVANT_ESCO_SKILLS'] = data['String'].apply(get_permutation_counts)
 data.to_csv('data/ALL_MIXED/merged_all_data_with_all_one_directed_permutations_limited_on_esco.csv')
+print('type:', type(data))
 
-print(relevant_words)
-relevant_words.to_csv('data/skills_whitelist.csv')
+#print(relevant_words)
+pd.DataFrame(relevant_words).to_csv('data/skills_whitelist.csv')
