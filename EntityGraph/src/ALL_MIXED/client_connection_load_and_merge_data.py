@@ -1,6 +1,7 @@
 import entitygraph
 from entitygraph import Application, Entity
 import pandas as pd
+import logging
 
 # connect to entitygraph
 def client_connection(host, path, key):
@@ -66,18 +67,22 @@ oersi_metadata, oersi_query_base = get_metadata_LearningResources(oersi)
 youtube_metadata, youtube_query_base = get_metadata_LearningResources(youtube)
 
 def get_values(app, query_base):
-    print(query_base)
+    print(app, query_base)
     app_data = app.Query().select(query_base)
     return app_data
 
+try:
+    podcasts_data = get_values(podcasts, podcasts_query_base)
+    print(podcasts_data)
+    # serlo muss spezialisiert abgefragt werden
+    #serlo_data = get_values(serlo, serlo_query_base)
+    #print(serlo_data)
+    wlo_data = get_values(wlo, wlo_query_base)
+    print(wlo_data)
+    oersi_data = get_values(oersi, oersi_query_base)
+    print(oersi_data)
+    youtube_data = get_values(youtube, youtube_query_base)
+    print(youtube_data)
+except Exception as e:
+    logging.exception('error found:', e)
 
-podcasts_data = get_values(podcasts, podcasts_query_base)
-print(podcasts_data)
-serlo_data = get_values(serlo, serlo_query_base)
-print(serlo_data)
-wlo_data = get_values(wlo, wlo_query_base)
-print(wlo_data)
-oersi_data = get_values(oersi, oersi_query_base)
-print(oersi_data)
-youtube_data = get_values(youtube, youtube_query_base)
-print(youtube_data)
