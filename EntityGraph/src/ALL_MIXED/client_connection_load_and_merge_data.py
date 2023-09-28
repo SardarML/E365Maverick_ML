@@ -25,6 +25,7 @@ youtube = connect_to_application('youtube')
 def get_metadata_LearningResources(application_name):
     metadata_query = """
     PREFIX sdo: <https://schema.org/>
+    PREFIX schema: <http://schema.org/>
     SELECT DISTINCT ?property WHERE {
       ?LearningResource ?property ?object .
     }
@@ -36,35 +37,38 @@ def get_metadata_LearningResources(application_name):
         if "https://schema.org/" in property_value:
             name_list.append(property_value.split("/")[-1])
 
-            # Dynamische Generierung der SELECT-Klausel
-            select_clause = "SELECT ?LearningResource "
-            for value in name_list:
-                select_clause += f"?{value} "
+    # Dynamic generation of the SELECT clause
+    select_clause = "SELECT ?LearningResource "
+    for value in name_list:
+        select_clause += f"?{value} "
 
-            # Basis of SPARQL query
-            query_base = f"""
-            PREFIX hydra: <http://www.w3.org/ns/hydra/core#>
-            PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-            PREFIX sdo: <https://schema.org/>
-            PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-            {select_clause}
-            WHERE {{
-                    ?LearningResource a sdo:LearningResource .
-            """
+    # Basis of SPARQL query
+    query_base = f"""
+    PREFIX hydra: <http://www.w3.org/ns/hydra/core#>
+    PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+    PREFIX sdo: <https://schema.org/>
+    PREFIX schema: <http://schema.org/>
+    PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+    {select_clause}
+    WHERE {{
+        ?LearningResource a ?type .
+        FILTER (?type IN (sdo:LearningResource, schema:LearningResource))
+    """
 
-            # Dynamic addition to the query
-            for value in name_list:
-              query_base += f" OPTIONAL {{?LearningResource sdo:{value} ?{value} .}}  \n"
+    # Dynamic addition to the query
+    for value in name_list:
+        query_base += f" OPTIONAL {{?LearningResource sdo:{value} ?{value} .}}  \n"
+        query_base += f" OPTIONAL {{?LearningResource schema:{value} ?{value} .}}  \n"
 
-            # Close the SPARQL query
-            query_base += "}"
+    # Close the SPARQL query
+    query_base += "} LIMIT 10"
     return metadata, query_base
 
-podcasts_metadata, podcasts_query_base = get_metadata_LearningResources(podcasts)
-serlo_metadata, serlo_query_base = get_metadata_LearningResources(serlo)
+podcast_metadata, podcasts_query_base = get_metadata_LearningResources(podcasts)
 wlo_metadata, wlo_query_base = get_metadata_LearningResources(wlo)
 oersi_metadata, oersi_query_base = get_metadata_LearningResources(oersi)
 youtube_metadata, youtube_query_base = get_metadata_LearningResources(youtube)
+serlo_metadata, serlo_query_base = get_metadata_LearningResources(serlo)
 
 def get_values(app, query_base):
     print(app, query_base)
@@ -74,9 +78,8 @@ def get_values(app, query_base):
 try:
     podcasts_data = get_values(podcasts, podcasts_query_base)
     print(podcasts_data)
-    # serlo muss spezialisiert abgefragt werden
-    #serlo_data = get_values(serlo, serlo_query_base)
-    #print(serlo_data)
+    serlo_data = get_values(serlo, serlo_query_base)
+    print(serlo_data)
     wlo_data = get_values(wlo, wlo_query_base)
     print(wlo_data)
     oersi_data = get_values(oersi, oersi_query_base)
