@@ -34,7 +34,7 @@ def get_metadata_LearningResources(application_name):
     metadata_values = metadata['property'].values
     name_list = []
     for property_value in metadata_values:
-        if "https://schema.org/" in property_value:
+        if "https://schema.org/" in property_value or "http://schema.org/" in property_value:
             name_list.append(property_value.split("/")[-1])
 
     # Dynamic generation of the SELECT clause
