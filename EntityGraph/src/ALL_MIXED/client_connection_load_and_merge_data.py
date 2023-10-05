@@ -21,6 +21,22 @@ oersi = connect_to_application('oer')
 youtube = connect_to_application('youtube')
 # hpi = connect_to_application('hpi') hpi scraper not yet available
 
+def count_triples(application_name):
+    count_query = """
+    SELECT (COUNT(*) AS ?count)
+    WHERE {
+        ?s ?p ?o .
+    }
+    """
+    return application_name.Query().select(count_query).values[0][0]
+
+podcasts_triple_count = count_triples(podcasts)
+wlo_triple_count = count_triples(wlo)
+oersi_triple_count = count_triples(oersi)
+youtube_triple_count = count_triples(youtube)
+# serlo_triple_count = count_triples(serlo)
+
+
 # get metadata of all LearningResources in the different applications
 def get_metadata_LearningResources(application_name):
     metadata_query = """
