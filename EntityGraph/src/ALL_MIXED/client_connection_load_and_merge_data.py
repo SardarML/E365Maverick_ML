@@ -108,16 +108,11 @@ def get_values(app, query_base, use_pagination=False, limit=1000, max_iterations
         data_chunk = app.Query().select(paginated_query)
 
         # Log the amount of data fetched in this chunk
-        # Überprüfen, ob der abgerufene Daten-Chunk nicht leer ist
-        if not data_chunk.empty:
-            print(f"Received {len(data_chunk)} rows in iteration {iteration}")
+        print(f"Received {len(data_chunk)} rows in iteration {iteration}")
 
         # Break the loop if the data chunk has less than the limit, indicating that we've fetched all data
         if len(data_chunk) < limit:
             all_data_frames.append(data_chunk)
-            break
-        else:
-            print("No data received for this iteration.")
             break
 
         # Remove duplicates from the current data chunk
