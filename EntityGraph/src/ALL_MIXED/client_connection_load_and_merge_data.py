@@ -15,8 +15,8 @@ def connect_to_application(application_name):
     return application
 
 podcasts = connect_to_application('podcasts')
-#serlo = connect_to_application('serlo')
 wlo = connect_to_application('wlo')
+serlo = connect_to_application('serlo')
 oersi = connect_to_application('oer')
 youtube = connect_to_application('youtube')
 # hpi = connect_to_application('hpi') hpi scraper not yet available
@@ -32,10 +32,9 @@ def count_triples(application_name):
 
 podcasts_triple_count = count_triples(podcasts)
 wlo_triple_count = count_triples(wlo)
+serlo_triple_count = count_triples(serlo)
 oersi_triple_count = count_triples(oersi)
 youtube_triple_count = count_triples(youtube)
-# serlo_triple_count = count_triples(serlo)
-
 
 # get metadata of all LearningResources in the different applications
 def get_metadata_LearningResources(application_name):
@@ -74,7 +73,7 @@ def get_metadata_LearningResources(application_name):
     # Dynamic addition to the query
     for value in name_list:
         query_base += f" OPTIONAL {{?LearningResource sdo:{value} ?{value} .}}  \n"
-        #query_base += f" OPTIONAL {{?LearningResource schema:{value} ?{value} .}}  \n"
+        query_base += f" OPTIONAL {{?LearningResource schema:{value} ?{value} .}}  \n"
 
     # Close the SPARQL query
     query_base += "}"
@@ -82,9 +81,9 @@ def get_metadata_LearningResources(application_name):
 
 podcast_metadata, podcasts_query_base = get_metadata_LearningResources(podcasts)
 wlo_metadata, wlo_query_base = get_metadata_LearningResources(wlo)
+serlo_metadata, serlo_query_base = get_metadata_LearningResources(serlo)
 oersi_metadata, oersi_query_base = get_metadata_LearningResources(oersi)
 youtube_metadata, youtube_query_base = get_metadata_LearningResources(youtube)
-# serlo_metadata, serlo_query_base = get_metadata_LearningResources(serlo)
 
 def get_values(app, query_base, use_pagination=False, limit=1000, max_iterations=None):
     if not use_pagination:
@@ -109,11 +108,16 @@ def get_values(app, query_base, use_pagination=False, limit=1000, max_iterations
         data_chunk = app.Query().select(paginated_query)
 
         # Log the amount of data fetched in this chunk
-        print(f"Received {len(data_chunk)} rows in iteration {iteration}")
+        # Überprüfen, ob der abgerufene Daten-Chunk nicht leer ist
+        if not data_chunk.empty:
+            print(f"Received {len(data_chunk)} rows in iteration {iteration}")
 
         # Break the loop if the data chunk has less than the limit, indicating that we've fetched all data
         if len(data_chunk) < limit:
             all_data_frames.append(data_chunk)
+            break
+        else:
+            print("No data received for this iteration.")
             break
 
         # Remove duplicates from the current data chunk
@@ -126,8 +130,14 @@ def get_values(app, query_base, use_pagination=False, limit=1000, max_iterations
     # Combine all data frames
     combined_data = pd.concat(all_data_frames, ignore_index=True)
 
-    # Final check for duplicates after combining all chunks
-    return combined_data.drop_duplicates()
+    # Final check for duplicates & empty datasets after combining all chunks
+    combined_data = pd.concat(all_data_frames, ignore_index=True)
+    if not combined_data.empty:
+        return combined_data.drop_duplicates()
+    else:
+        print("No data was retrieved.")
+        return None
+
 
 # Example usage
 try:
@@ -137,15 +147,20 @@ try:
     wlo_data = get_values(wlo, wlo_query_base, use_pagination=True)
     wlo_data.to_csv('data\ALL_MIXED\wlo_data.csv')
 
+    serlo_data = get_values(serlo, serlo_query_base, use_pagination=True)
+    serlo_data.to_csv('data\ALL_MIXED\serlo_data.csv')
+
     oersi_data = get_values(oersi, oersi_query_base, use_pagination=True)
     oersi_data.to_csv('data\ALL_MIXED\oersi_data.csv')
 
     youtube_data = get_values(youtube, youtube_query_base, use_pagination=True)
     youtube_data.to_csv('data\ALL_MIXED\youtube_data.csv')
 
-    # serlo_data = get_paginated_values(serlo, serlo_query_base)
-    # serlo_data.to_csv('data\ALL_MIXED\serlo_data.csv')
-
 except Exception as e:
     logging.exception('error found:', e)
 
+print('podcasts triple count:', podcasts_triple_count)
+print('wlo triple count:',wlo_triple_count)
+print('serlo triple count:',serlo_triple_count)
+print('oersi triple count:',oersi_triple_count)
+print('youtube triple count:',youtube_triple_count)
